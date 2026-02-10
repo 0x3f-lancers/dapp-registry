@@ -2,137 +2,137 @@
   "options": {
     "network": [
       {
-        "label": "Ethereum",
-        "slug": "ethereum",
-        "count": 1
-      },
-      {
-        "label": "Polygon",
-        "slug": "polygon",
-        "count": 1
-      },
-      {
-        "label": "Arbitrum",
-        "slug": "arbitrum",
-        "count": 1
-      },
-      {
-        "label": "Optimism",
-        "slug": "optimism",
-        "count": 1
-      },
-      {
-        "label": "Avalanche",
-        "slug": "avalanche",
-        "count": 1
-      },
-      {
-        "label": "Base",
-        "slug": "base",
-        "count": 1
-      },
-      {
-        "label": "BSC",
         "slug": "bsc",
+        "label": "BSC",
+        "count": 2
+      },
+      {
+        "slug": "ethereum",
+        "label": "Ethereum",
         "count": 1
       },
       {
-        "label": "Celo",
+        "slug": "polygon",
+        "label": "Polygon",
+        "count": 1
+      },
+      {
+        "slug": "arbitrum",
+        "label": "Arbitrum",
+        "count": 1
+      },
+      {
+        "slug": "optimism",
+        "label": "Optimism",
+        "count": 1
+      },
+      {
+        "slug": "avalanche",
+        "label": "Avalanche",
+        "count": 1
+      },
+      {
+        "slug": "base",
+        "label": "Base",
+        "count": 1
+      },
+      {
         "slug": "celo",
+        "label": "Celo",
         "count": 1
       }
     ],
     "category": [
       {
-        "label": "DeFi",
         "slug": "defi",
+        "label": "DeFi",
         "count": 1
       },
       {
-        "label": "Gaming",
         "slug": "gaming",
+        "label": "Gaming",
         "count": 1
       },
       {
-        "label": "NFT Marketplace",
         "slug": "nft-marketplace",
+        "label": "NFT Marketplace",
         "count": 1
       }
     ],
     "subcategory": [
       {
-        "label": "Lending",
         "slug": "lending",
+        "label": "Lending",
         "count": 1
       },
       {
-        "label": "Borrowing",
         "slug": "borrowing",
+        "label": "Borrowing",
         "count": 1
       },
       {
-        "label": "DeFi",
         "slug": "defi",
+        "label": "DeFi",
         "count": 1
       },
       {
-        "label": "Yield",
         "slug": "yield",
+        "label": "Yield",
         "count": 1
       },
       {
-        "label": "Staking",
         "slug": "staking",
+        "label": "Staking",
         "count": 1
       },
       {
-        "label": "GameFi",
         "slug": "gamefi",
+        "label": "GameFi",
         "count": 1
       },
       {
-        "label": "P2E",
         "slug": "p2e",
+        "label": "P2E",
         "count": 1
       },
       {
-        "label": "NFT",
         "slug": "nft",
+        "label": "NFT",
         "count": 1
       },
       {
-        "label": "Marketplace",
         "slug": "marketplace",
+        "label": "Marketplace",
         "count": 1
       },
       {
-        "label": "Collectibles",
         "slug": "collectibles",
+        "label": "Collectibles",
         "count": 1
       },
       {
-        "label": "Web3",
         "slug": "web3",
+        "label": "Web3",
         "count": 1
       },
       {
-        "label": "DEX",
         "slug": "dex",
+        "label": "DEX",
         "count": 1
       },
       {
-        "label": "Swap",
         "slug": "swap",
+        "label": "Swap",
         "count": 1
       },
       {
-        "label": "Pool",
         "slug": "pool",
+        "label": "Pool",
         "count": 1
       },
       {
-        "label": "Liquidity",
         "slug": "liquidity",
+        "label": "Liquidity",
         "count": 1
       }
     ]
@@ -140,38 +140,39 @@
   "index": {
     "network": {
       "ethereum": [
-        "aave",
         "opensea",
-        "uniswap"
+        "uniswap",
+        "aave"
       ],
       "polygon": [
-        "aave",
         "new-dapp",
         "opensea",
-        "uniswap"
+        "uniswap",
+        "aave"
       ],
       "arbitrum": [
-        "aave",
         "new-dapp",
         "opensea",
-        "uniswap"
+        "uniswap",
+        "aave"
       ],
       "optimism": [
-        "aave",
         "opensea",
-        "uniswap"
+        "uniswap",
+        "aave"
       ],
       "avalanche": [
-        "aave",
-        "uniswap"
+        "uniswap",
+        "aave"
       ],
       "base": [
-        "aave",
         "opensea",
-        "uniswap"
+        "uniswap",
+        "aave"
       ],
       "bsc": [
-        "uniswap"
+        "uniswap",
+        "aave"
       ],
       "celo": [
         "uniswap"
@@ -179,8 +180,8 @@
     },
     "category": {
       "defi": [
-        "aave",
-        "uniswap"
+        "uniswap",
+        "aave"
       ],
       "gaming": [
         "new-dapp"
