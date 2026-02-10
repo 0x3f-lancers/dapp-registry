@@ -1,0 +1,46 @@
+{
+  "slug": "polygon-zkevm",
+  "name": "Polygon zkEVM",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675395/dapp-store/dapp-logos/Polygon%20zkEVM.png",
+  "category": [
+    "Blockchains",
+    "Ecosystem Partners"
+  ],
+  "chains": [
+    "Polygon zkEVM",
+    "Multichain",
+    "Ethereum",
+    "Bitcoin",
+    "Polygon"
+  ],
+  "tags": [
+    "Ecosystem Partners",
+    "Layer 2 Blockchains",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Polygon zkEVM is the first zero-knowledge scaling solution that is fully equivalent to an EVM.",
+    "description": "Polygon zkEVM is an EVM-equivalent ZK rollup scaling solution. Existing smart contracts, developer tooling, and wallets work seamlessly. It uses zero-knowledge proofs to lower costs and boost throughput while inheriting Ethereum’s base security. Web3 developers can build dApps on zkEVM just as on Ethereum by switching to a zkEVM RPC provider for higher throughput and lower fees. Developers deploy contracts to zkEVM, and users can deposit assets from Ethereum and transact off-chain, with transactions grouped into batches attested by zero-knowledge proofs.",
+    "meta": "Polygon zkEVM is an EVM-equivalent ZK rollup scaling solution. Discover Polygon zkEVM and other Blockchains on Lancers Web3 Explorer.",
+    "pageTitle": "Polygon zkEVM - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.polygon.technology/zkEVM/"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet",
+      "signal21",
+      "yey-technologies"
+    ],
+    "related": [
+      "circular",
+      "ethereum",
+      "skale"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

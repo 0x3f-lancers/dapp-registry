@@ -1,0 +1,45 @@
+{
+  "slug": "airswap-subgraph",
+  "name": "AirSwap Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675600/dapp-store/dapp-logos/AirSwap%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Solana",
+    "BNB Chain",
+    "Base",
+    "Multichain",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "AirSwap Subgraph indexes on-chain AirSwap data to extract actionable insights via GraphQL.",
+    "description": "AirSwap Subgraph is an indexing tool that uses GraphQL to access and organize on-chain data from AirSwap smart contracts. Built on a graph-based indexing protocol, it surfaces essential metrics such as daily swap volumes, per-transaction details, and user balances. These insights help developers create customized analytics or trading tools for the AirSwap DEX, supporting activity monitoring, liquidity assessment, and informed integration decisions.",
+    "meta": "AirSwap Subgraph indexes on-chain AirSwap data to extract actionable insights. Discover AirSwap Subgraph and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "AirSwap Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/airswap/airswap-protocols"
+  },
+  "relations": {
+    "alternatives": [
+      "pooltogether-subgraph",
+      "juicebox-subgraph"
+    ],
+    "related": [
+      "vezgo",
+      "blockai-bai"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

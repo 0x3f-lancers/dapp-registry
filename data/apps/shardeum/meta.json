@@ -1,0 +1,41 @@
+{
+  "slug": "shardeum",
+  "name": "Shardeum",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675777/dapp-store/dapp-logos/Shardeum.png",
+  "category": [
+    "Blockchains"
+  ],
+  "chains": [
+    "Multichain",
+    "Bitcoin"
+  ],
+  "tags": [
+    "Layer 1 Blockchains (L1s)",
+    "Open-source, Free"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Shardeum is an EVM-based L1 that uses dynamic state sharding to achieve linear scalability.",
+    "description": "Shardeum is an EVM-based smart contract platform that scales linearly through dynamic state sharding while preserving decentralization and strong security. Throughput rises with each validator added to the network, helping keep gas fees low as the network grows. Unlike many state-sharded chains, Shardeum retains atomic composability across shards, enabling cross-shard interactions to remain consistent. It provides the highest throughput capacity of any EVM-based L1 without sacrificing decentralization.",
+    "meta": "Shardeum is an EVM-based L1 with dynamic state sharding enabling linear scalability. Discover Shardeum and other Blockchains on Lancers Web3 Explorer.",
+    "pageTitle": "Shardeum - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://shardeum.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "signal21",
+      "injective-protocol",
+      "xdc-network"
+    ],
+    "related": [
+      "klever",
+      "spinor",
+      "hela-labs"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "solfaucet",
+  "name": "Sol Faucet",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675792/dapp-store/dapp-logos/Sol%20Faucet.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "BNB Chain",
+    "ZKsync"
+  ],
+  "tags": [
+    "Crypto Faucets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Sol Faucet instantly airdrops Testnet and Devnet SOL tokens for free to Solana developers.",
+    "description": "Sol Faucet, created by Ryan Endacott, is a straightforward utility for Solana developers. It enables the immediate receipt of SOL tokens on both the Solana Testnet and the Devnet. With a single click, users can airdrop themselves an infinite amount of Testnet SOL at no cost. These Testnet tokens can be used to interact with dApps on the Solana Testnet or to test Solana smart contracts, without risking the potential loss of any real value.",
+    "meta": "Sol Faucet instantly airdrops SOL tokens on Solana Testnet and Devnet for free. Discover Sol Faucet and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Sol Faucet - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://solfaucet.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "optimism-eth-faucet",
+      "optimism-goerli-faucet",
+      "chainstack-faucet"
+    ],
+    "related": [
+      "electron-zkbridge",
+      "stargate",
+      "blockhead"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

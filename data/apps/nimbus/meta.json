@@ -1,0 +1,43 @@
+{
+  "slug": "nimbus",
+  "name": "Nimbus",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1701861578/dapp-store/dapp-logos/Nimbus.png",
+  "category": [
+    "Infrastructure Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Consensus Clients",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Nimbus is an Ethereum consensus client designed for efficient resource use, enabling high performance on lightweight devices and freeing server resources for other tasks.",
+    "description": "Nimbus is an Ethereum consensus client designed for efficient use of resources. It delivers high performance on lightweight devices, allowing users to run the client with modest hardware while preserving responsiveness. When run on powerful servers, Nimbus frees resources for other tasks, such as an Ethereum execution node. This resource efficiency guarantees Nimbus client functionality under high-stress network conditions. This approach emphasizes practical resource use while maintaining reliable operation in demanding network scenarios.",
+    "meta": "Nimbus is an Ethereum consensus client designed for efficient use of resources. Discover Nimbus and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Nimbus - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nimbus.team/"
+  },
+  "relations": {
+    "alternatives": [
+      "prysm",
+      "lighthouse",
+      "teku"
+    ],
+    "related": [
+      "layeronex",
+      "xdc-network",
+      "injective-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

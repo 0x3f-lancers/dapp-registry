@@ -1,0 +1,48 @@
+{
+  "slug": "chaos-labs",
+  "name": "Chaos Labs",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675521/dapp-store/dapp-logos/Chaos%20Labs.jpg",
+  "category": [
+    "Web3 Wallet Tools",
+    "Growth Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Bitcoin",
+    "Solana",
+    "Avalanche",
+    "BNB Chain",
+    "Polygon"
+  ],
+  "tags": [
+    "Growth Customers",
+    "Wallet Security Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Chaos Labs provides infrastructure for DeFi platform simulation, testing, data monitoring, and visualization.",
+    "description": "Chaos Labs provides the foundational infrastructure for DeFi platforms to develop apps and services that generate analytical insights on trading protocols across multiple chains. Developers can deploy agents that continuously monitor endpoints of interest, such as cross-protocol lending positions, to keep teams informed with timely data about activity and risk. A catalog of open-source agents is available and can be reconfigured to fit specific use cases, enabling teams to tailor monitoring and analytics to their needs.",
+    "meta": "Chaos Labs provides infrastructure for DeFi to simulate, test, monitor data, and visualize. Discover Chaos Labs and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Chaos Labs - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://chaoslabs.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "miniorange-web3-authentication-plugin",
+      "liminal",
+      "solsniffer"
+    ],
+    "related": [
+      "turnkey",
+      "squads",
+      "web3-modal"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

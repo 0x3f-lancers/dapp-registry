@@ -1,0 +1,47 @@
+{
+  "slug": "clipper-dex",
+  "name": "Clipper",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675523/dapp-store/dapp-logos/Clipper.jpg",
+  "category": [
+    "DeFi Dapps"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Moonbeam",
+    "Arbitrum",
+    "Multichain",
+    "BNB Chain",
+    "Base"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Clipper is a decentralized exchange with the lowest per-transaction costs on trades under $50k.",
+    "description": "Clipper is a decentralized exchange designed to lower per-transaction costs for small trades under $50k, making DeFi more accessible to retail traders. It uses a Formula Market Maker (FMM), a pricing model more complex than CPMM, to deliver real profits to liquidity providers. It maintains smaller pools to minimize fees and slippage for modest trades and offers two pool structures: Core Pools and Coves. Core Pools are multi-asset pools built from Core Assets, with LPs earning yield proportional to their stake in the pool.",
+    "meta": "Clipper is a decentralized exchange with the lowest per-transaction costs on trades under $50k. Discover Clipper and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Clipper - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://clipper.exchange/"
+  },
+  "relations": {
+    "alternatives": [
+      "horizondex",
+      "nusa-finance",
+      "panoptic"
+    ],
+    "related": [
+      "bybit",
+      "rubydex",
+      "bracketx"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "zolidity",
+  "name": "Zolidity",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675639/dapp-store/dapp-logos/Zolidity.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Solana",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Smart Contract Templates",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Zolidity provides zero-fuss smart contracts for experiments on Ethereum.",
+    "description": "Zolidity is a curated collection of smart contracts that are openly accessible for developers to review, experiment with, and learn from. It provides free code, a welcoming community where developers can ask questions, and guidance on ethical Solidity development practices. The repository includes code sufficient to deploy a working DAO for hands-on experimentation and to serve as a foundation for building new ideas, protocols, and tools on top of it. It is designed for developers across Ethereum, Polygon, Arbitrum, Solana, and OP Mainnet to explore governance patterns, security considerations, and rapid prototyping together.",
+    "meta": "Zolidity is a collection of smart contracts openly accessible for developer review and experimentation. Discover Zolidity and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Zolidity - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/z0r0z/zolidity"
+  },
+  "relations": {
+    "alternatives": [
+      "synthetic-smart-contracts",
+      "gnosis-vs-smart-contracts",
+      "polygon-smart-contracts"
+    ],
+    "related": [
+      "create-web3-dapp",
+      "nft-explorer-template",
+      "metaplex"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

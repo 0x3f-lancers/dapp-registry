@@ -1,0 +1,48 @@
+{
+  "slug": "relay",
+  "name": "Relay",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675764/dapp-store/dapp-logos/Relay.png",
+  "category": [
+    "Infrastructure Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "BNB Chain",
+    "Multichain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Messaging Tools",
+    "Open-source, Free"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Relay provides a chat widget for wallet messaging, an EVM app and address directory, and Lens connections.",
+    "description": "Relay is an open-source chat widget that lets sites quickly install an XMTP wallet messaging chatbox on their pages. It aims to decentralize communication between Web3 personas and the DAOs and companies they interact with, by applying account abstraction on XMTP. A ChatGPT embedding enables users to converse with dApps and transact with smart contracts in a natural, conversational flow. As an open-source tool, Relay supports developers seeking to improve Web3 communications without centralized intermediaries.",
+    "meta": "Relay is a chat widget for wallet messaging, EVM app, address directory, and Lens connections. Discover Relay and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Relay - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://relay.cc"
+  },
+  "relations": {
+    "alternatives": [
+      "streamr",
+      "earnifi",
+      "hashmail"
+    ],
+    "related": [
+      "rpclist",
+      "pocket-portal",
+      "nodereal"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "walletkit",
+  "name": "WalletKit",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1711133860/dapp-store/dapp-logos/WalletKit.png",
+  "category": [
+    "Web3 Wallet Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Polygon",
+    "Avalanche",
+    "OP Mainnet",
+    "Solana",
+    "Arbitrum",
+    "Polkadot",
+    "Multichain",
+    "BNB Chain",
+    "Bitcoin"
+  ],
+  "tags": [
+    "MPC Wallets",
+    "Wallet Developer Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "WalletKit is an all-in-one platform for adding smart, gasless wallets to your app.",
+    "description": "WalletKit provides an all-in-one solution for integrating smart, gasless wallets into your application, helping you expand wallet functionality without complex setup. It ships with pre-built onboarding components that support email and social logins, which can be integrated in under 15 minutes using the React SDK or the wagmi connector. For teams that prefer full control, WalletKit also offers a Wallets API to build fully bespoke wallet experiences tailored to your users and their needs.",
+    "meta": "WalletKit is an all-in-one platform for adding smart, gasless wallets to your app. Discover WalletKit and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "WalletKit - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://walletkit.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "turnkey",
+      "sequence-wallet"
+    ],
+    "related": [
+      "virgo-wallet"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

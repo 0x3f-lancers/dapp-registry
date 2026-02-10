@@ -1,0 +1,51 @@
+{
+  "slug": "scaffold-eth",
+  "name": "Scaffold-ETH",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675410/dapp-store/dapp-logos/Scaffold-ETH.png",
+  "category": [
+    "Web3 Developer Tools",
+    "Growth Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Solana"
+  ],
+  "tags": [
+    "Growth Customers",
+    "Development Frameworks",
+    "Solidity Developer Tools",
+    "Dapp Templates",
+    "DAO Developer Tools",
+    "React Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Scaffold-ETH provides an adaptable frontend for Solidity smart contracts to simplify forking the development stack and help developers tinker and learn.",
+    "description": "Working with Ethereum can be daunting because the stack is complex. Scaffold-ETH provides a frontend that adapts to smart contracts, making it easier to fork and customize the development stack. Developers can tinker, learn, and discover a template that fits their specific needs. With a few tweaks, you can build on Ethereum and have a fully deployable dapp ready to launch using Scaffold-ETH. In short, Scaffold-ETH aligns the frontend with smart contracts to support exploration, learning, and deployment of your dapp.",
+    "meta": "Scaffold-ETH offers a frontend that adapts to smart contracts. Discover Scaffold-ETH and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Scaffold-ETH - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/scaffold-eth/scaffold-eth"
+  },
+  "relations": {
+    "alternatives": [
+      "mockthereum",
+      "truffle",
+      "foundry"
+    ],
+    "related": [
+      "swing-sdk",
+      "ethereum-etl",
+      "kurtosis"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

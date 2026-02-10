@@ -1,0 +1,42 @@
+{
+  "slug": "snapchain",
+  "name": "Snapchain",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675983/dapp-store/dapp-logos/Snapchain.jpg",
+  "category": [
+    "RaaS Tools"
+  ],
+  "chains": [
+    "ZKsync",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Multichain"
+  ],
+  "tags": [
+    "Rollups-as-a-Service (RaaS)",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Snapchain enables scaling on-chain games and DeFi apps with ZK Rollups.",
+    "description": "Snapchain is a ZK-Rollup-as-a-Service platform that enables internet-scale dApps. It provides a private, secure environment to host and scale your own private decentralized network without compromise, giving developers a dedicated space to run intensive workloads and complex logic at scale. From fully on-chain games to transaction-intensive DeFi apps, Snapchain operates through a Rollup-as-a-Service platform, combining zk-rollup technology with private, scalable infrastructure for modern Web3 applications.",
+    "meta": "Snapchain is a ZK-Rollup-as-a-Service platform that enables internet-scale dApps. Discover Snapchain and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Snapchain - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.snapchain.dev/"
+  },
+  "relations": {
+    "alternatives": [
+      "vistara-dev",
+      "zeeve"
+    ],
+    "related": [
+      "hyperlane-xyz",
+      "zksync"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

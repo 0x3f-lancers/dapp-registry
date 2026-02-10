@@ -1,0 +1,45 @@
+{
+  "slug": "bancor",
+  "name": "Bancor",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675650/dapp-store/dapp-logos/Bancor.jpg",
+  "category": [
+    "DeFi Dapps",
+    "Enterprise Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Solana",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Decentralized Exchanges (DEXs)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Bancor is a decentralized market maker and staking protocol enabling yields from liquidity.",
+    "description": "Bancor is a decentralized automated market maker and staking protocol that lets users earn yield by providing liquidity. It offers no risk of impermanent loss, since liquidity can be supplied to pools through single staking. The protocol automatically calibrates the tokens in each pool so that a depositor withdraws the same value as when they deposited, preserving capital even as prices move and trades occur. By combining automated market making with accessible staking, Bancor seeks to help liquidity providers earn rewards without compromising value.",
+    "meta": "Bancor is a decentralized market maker and staking protocol enabling yields from liquidity. Discover Bancor and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Bancor - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://home.bancor.network/"
+  },
+  "relations": {
+    "alternatives": [
+      "tokenlon",
+      "saros",
+      "rhinofi"
+    ],
+    "related": [
+      "barnbridge",
+      "primexbt",
+      "whitebit"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "quiver",
+  "name": "Quiver",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675629/dapp-store/dapp-logos/Quiver.png",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Multichain"
+  ],
+  "tags": [
+    "React Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Quiver provides a React hooks library to integrate Ethereum contracts with dapps using Ethers.js.",
+    "description": "Quiver streamlines Web3 onboarding for both developers and users by offering a curated set of webhooks and UI components that help you assemble usable DApps. It provides a package developers can add with yarn to set up test environments, delivering a functional DApp with connect-wallet controls to support Web3 onboarding. Used by over 22,000 developers, Quiver enables teams to launch DApp boilerplates quickly and consistently, accelerating initial development and experimentation.",
+    "meta": "Quiver provides a React hooks library to integrate Ethereum contracts with dapps using Ethers.js. Discover Quiver and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Quiver - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/raid-guild/quiver"
+  },
+  "relations": {
+    "alternatives": [
+      "uniswap-web3-react",
+      "etherspot-buidler",
+      "scaffold-eth"
+    ],
+    "related": [
+      "popular-smart-contract-templates",
+      "femplate",
+      "nft-drop-finder-template"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

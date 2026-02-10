@@ -1,0 +1,48 @@
+{
+  "slug": "gas-station-network",
+  "name": "OpenZeppelin Gas Station Network",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675723/dapp-store/dapp-logos/OpenZeppelin%20Gas%20Station%20Network.jpg",
+  "category": [
+    "DeFi Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "Arbitrum",
+    "BNB Chain",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "Gas Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "OpenZeppelin Gas Station Network provides gasless transactions between DApp clients and Ethereum smart contracts.",
+    "description": "Gas Station Network is a set of transaction relayers that shields DApp users from gas costs when they interact with Ethereum smart contracts. Developers can integrate these relayers to allow DApp users to pay gas in fiat or in another token of their choice, all while keeping their identities private. This open-source solution is designed to ease onboarding, offer flexible gas funding options, and help DApps deliver a smoother experience without exposing users’ personal information.",
+    "meta": "OpenZeppelin Gas Station Network uses relayers to ease gas on Ethereum. Discover OpenZeppelin Gas Station Network and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "OpenZeppelin Gas Station Network - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://opengsn.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "gasfeesorg",
+      "betterclaimsol",
+      "blocknative"
+    ],
+    "related": [
+      "tradingview",
+      "enso",
+      "mimic"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

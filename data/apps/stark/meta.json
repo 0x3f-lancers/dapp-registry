@@ -1,0 +1,48 @@
+{
+  "slug": "stark",
+  "name": "STARK",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675808/dapp-store/dapp-logos/STARK.png",
+  "category": [
+    "Web3 Security Tools"
+  ],
+  "chains": [
+    "Polygon",
+    "Polygon zkEVM",
+    "Starknet",
+    "ZKsync",
+    "Ethereum",
+    "Immutable X",
+    "BNB Chain",
+    "Arbitrum",
+    "Cosmos"
+  ],
+  "tags": [
+    "Blockchain Security Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "STARK offers scalable, secure, and efficient Transparent Argument of Knowledge proofs.",
+    "description": "zk-STARKs are cryptographic proofs that safeguard the privacy and integrity of blockchain computations. Introduced in 2018, they use advanced algebra to enable blockchains to delegate computations to an off-chain prover and verify the results on-chain with a STARK verifier. This approach blends strong security with operational efficiency, helping blockchains perform complex tasks more securely and efficiently. The technique supports scalable, trust-minimized verification while reducing on-chain workload.",
+    "meta": "STARK provides scalable, secure, and efficient Transparent Argument of Knowledge proofs. Discover STARK and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "STARK - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://starkware.co/"
+  },
+  "relations": {
+    "alternatives": [
+      "blocksec-tools",
+      "chainaware-ai",
+      "inspex-explorer"
+    ],
+    "related": [
+      "slither",
+      "solhint-intellij-plugin",
+      "ethlint"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

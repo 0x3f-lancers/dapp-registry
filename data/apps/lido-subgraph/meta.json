@@ -1,0 +1,44 @@
+{
+  "slug": "lido-subgraph",
+  "name": "Lido Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675622/dapp-store/dapp-logos/Lido%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Aptos",
+    "BNB Chain",
+    "Avalanche",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Lido Subgraph enables rapid indexing of on-chain Lido protocol data using the Graph Network.",
+    "description": "Deployed in June 2022, the Lido Subgraph exposes a GraphQL API that delivers structured Lido contract data for fast, developer-friendly access. Instead of manually querying ABIs and contract addresses, indexed data stays up to date with on-chain activity. The subgraph maintains accurate tallies for the total pooled ETH and the total shares held by the main Lido contract, enabling easier integration and analysis for DeFi applications building on Lido.",
+    "meta": "Lido Subgraph provides fast GraphQL access to Lido protocol data via indexed on-chain data. Discover Lido Subgraph and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Lido Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/lidofinance/lido-subgraph"
+  },
+  "relations": {
+    "alternatives": [
+      "aave-subgraph",
+      "synthetix-subgraph"
+    ],
+    "related": [
+      "sentio",
+      "bitquery"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

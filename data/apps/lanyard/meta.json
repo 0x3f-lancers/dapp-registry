@@ -1,0 +1,43 @@
+{
+  "slug": "lanyard",
+  "name": "Lanyard",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675670/dapp-store/dapp-logos/Lanyard.jpg",
+  "category": [
+    "NFT Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Solana",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "NFT Allowlist Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Lanyard enables wallet allowlists and management of NFT project launches.",
+    "description": "Lanyard is a Merkle-root generator that lets NFT projects build lists of authorized wallets to verify a whitelist before minting. The allowlists produced by Lanyard are highly composable and can be integrated with a wide range of tools and dApps across Web3, enabling flexible minting workflows and broad interoperability for NFT drops. This helps teams manage access during launches and connect with other tooling throughout the Web3 ecosystem.",
+    "meta": "Lanyard is a tool to create wallet allowlists and manage NFT project launches. Discover Lanyard and other NFT Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Lanyard - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lanyard.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "mojito",
+      "outdid"
+    ],
+    "related": [
+      "blockspan",
+      "opensea-stream-api",
+      "nfttrack"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

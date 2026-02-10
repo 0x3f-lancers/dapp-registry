@@ -1,0 +1,49 @@
+{
+  "slug": "b-protocol",
+  "name": "B.Protocol",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675888/dapp-store/dapp-logos/B.Protocol.jpg",
+  "category": [
+    "DeFi Dapps",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Fantom",
+    "OP Mainnet",
+    "Avalanche",
+    "Cosmos",
+    "Cronos"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Lending Dapps",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "B.Protocol is a decentralized backstop liquidity protocol where backstop providers liquidate under-collateralized loans and share profits with users.",
+    "description": "B.Protocol is a decentralized backstop liquidity protocol in which backstop liquidity providers (BLP) purchase the right to liquidate under-collateralized loans and share profits with platform users. This design yields a higher effective yield for users than their standard interest rate by enabling BLPs to participate in the gains generated on liquidations. By removing the need for gas wars among liquidators, the mechanism returns a larger portion of protocol value back to borrowers and lenders and improves their overall effective interest rate.",
+    "meta": "B.Protocol is a decentralized backstop liquidity protocol. Discover B.Protocol and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "B.Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.bprotocol.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "nolus",
+      "trendx",
+      "tectonic-finance"
+    ],
+    "related": [
+      "furucombo",
+      "trader-joe",
+      "goat-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

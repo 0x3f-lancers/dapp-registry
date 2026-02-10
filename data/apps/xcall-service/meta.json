@@ -1,0 +1,48 @@
+{
+  "slug": "xcall-service",
+  "name": "xCall Service",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675654/dapp-store/dapp-logos/xCall%20Service.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "BNB Chain",
+    "Base",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Web3 Messaging Tools",
+    "Blockchain Interoperability Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "xCall Service is a standardized interface that simplifies cross-chain development.",
+    "description": "xCall Service empowers developers to broaden the reach of their dApps across multiple ecosystems from their preferred chains. It delivers seamless cross-chain connectivity by enabling contract calls to destination chains from source chains through a single standard that works across protocols. xCall Service is a lightweight contract that can extend across any protocol and will add support for new cross-chain messaging protocols as they emerge. This approach increases versatility while strengthening security through multiple protocol verifications.",
+    "meta": "xCall Service provides a standardized interface to simplify cross-chain development. Discover xCall Service and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "xCall Service - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://icon.community/xcall/"
+  },
+  "relations": {
+    "alternatives": [
+      "epns",
+      "streamr",
+      "epigeon"
+    ],
+    "related": [
+      "walletkit",
+      "pocket-portal",
+      "succinct"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

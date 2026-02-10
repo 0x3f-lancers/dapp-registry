@@ -1,0 +1,44 @@
+{
+  "slug": "genesysgo",
+  "name": "GenesysGO",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675558/dapp-store/dapp-logos/GenesysGO.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Polygon",
+    "Multichain",
+    "Polkadot",
+    "Fantom"
+  ],
+  "tags": [
+    "RPC Node Providers",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "GenesysGO provides RPC, validator node and on-chain storage services for Solana developers.",
+    "description": "Founded in February 2021 by Frank Mathais, the GenesysGO project provides validator node operation, RPC maintenance, and storage solutions for Solana developers. It enables fast, reliable communication between applications and the Solana blockchain, helping developers bypass congested and unreliable public RPC servers. GenesysGO's RPC endpoints are available worldwide and can be configured in just 15 minutes, delivering a straightforward path to resilient network access for Solana projects.",
+    "meta": "GenesysGO provides RPC, validator node and on-chain storage for Solana developers. Discover GenesysGO and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "GenesysGO - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/GenesysGo"
+  },
+  "relations": {
+    "alternatives": [
+      "gateway-fm",
+      "syndica",
+      "alchemy"
+    ],
+    "related": [
+      "shardeum",
+      "celer-network"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

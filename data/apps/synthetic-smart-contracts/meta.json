@@ -1,0 +1,42 @@
+{
+  "slug": "synthetic-smart-contracts",
+  "name": "Synthetix Smart Contracts",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675634/dapp-store/dapp-logos/Synthetix%20Smart%20Contracts.png",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Multichain"
+  ],
+  "tags": [
+    "Smart Contract Templates",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Repository of Solidity smart contracts for the Synthetics protocol, exposed for review, inheritance, and contribution.",
+    "description": "An open-source repository containing the Solidity smart contracts powering the Synthetix financial protocol, exposed for review, inheritance, and contribution. Developers can access libraries, contracts, and interfaces that comprise the authentic Synthetix protocol, enabling transparent study, extension, and verification by the community. The project benefits from a large, active community—+230k members and +1k smart contract users and contributors—who continually help improve this essential resource for builders and auditors alike.",
+    "meta": "A repository of Solidity smart contracts behind the Synthetics financial protocol. Discover Synthetix Smart Contracts and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Synthetix Smart Contracts - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/Synthetixio/synthetix"
+  },
+  "relations": {
+    "alternatives": [
+      "solady",
+      "hello-world-smart-contract",
+      "hiro"
+    ],
+    "related": [
+      "femplate",
+      "erc721a",
+      "webstudio"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

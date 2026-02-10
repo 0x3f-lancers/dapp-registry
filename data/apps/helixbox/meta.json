@@ -1,0 +1,46 @@
+{
+  "slug": "helixbox",
+  "name": "Helixbox Bridge",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1716948906/dapp-store/dapp-logos/Helix%20Bridge.png",
+  "category": [
+    "DeFi Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Aptos",
+    "Avalanche",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Web3 Bridges",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Helixbox Bridge is a fully open-source and decentralized cross-chain asset bridge.",
+    "description": "Helixbox Bridge builds on established messaging bridges that connect multiple chains, enabling cross-chain transfers that are secure, fast, and low-cost. By separating the underlying generic messaging layer from the asset-bridging process, it reduces risk and limits exposure to a single point of failure. Its trustless design strengthens security and resilience by avoiding centralized bottlenecks and distributing responsibilities, contributing to durable interoperability across the supported networks.",
+    "meta": "Helixbox Bridge is a fully open-source and decentralized cross-chain asset bridge. Discover Helixbox Bridge and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Helixbox Bridge - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.helix.box"
+  },
+  "relations": {
+    "alternatives": [
+      "meson",
+      "router-protocol",
+      "orbiter-finance"
+    ],
+    "related": [
+      "kroma",
+      "eclipse",
+      "cartesi"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

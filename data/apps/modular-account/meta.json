@@ -1,0 +1,42 @@
+{
+  "slug": "modular-account",
+  "name": "Modular Account",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1717093170/dapp-store/dapp-logos/Modular%20Account.svg",
+  "category": [
+    "Web3 Wallet Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Base"
+  ],
+  "tags": [
+    "Smart Contract Accounts",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Modular Account is an ERC-4337 modular smart contract account that is ERC-6900 compliant.",
+    "description": "Modular Account is an ERC-4337 smart contract-based wallet that supports customizable features via ERC-6900 plugins. The project is production-ready and has undergone multiple security audits. It ships with three prebuilt plugins: Multi-Owner, Session Keys, and a Multisig plugin, enabling flexible control patterns. Modular Account is designed to support any custom account behavior you need, making it adaptable to a wide range of use cases.",
+    "meta": "Modular Account is an ERC-4337 smart account with ERC-6900 plugins. Discover Modular Account and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Modular Account - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cantina.xyz/bounties/d1496b11-e0cb-4905-80e6-b95f892f39ba"
+  },
+  "relations": {
+    "alternatives": [
+      "safe-smart-contracts",
+      "stackup",
+      "mass"
+    ],
+    "related": [
+      "aa-bundler"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

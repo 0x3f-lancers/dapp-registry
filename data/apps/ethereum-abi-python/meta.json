@@ -1,0 +1,44 @@
+{
+  "slug": "ethereum-abi-python",
+  "name": "ETH ABI",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675615/dapp-store/dapp-logos/ETH%20ABI.png",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Multichain"
+  ],
+  "tags": [
+    "ABI Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ETH ABI provides Python-based Ethereum ABI encoding and decoding utilities.",
+    "description": "ETH ABI provides Python-based utilities for encoding and decoding Ethereum contract ABIs. Developers can convert Python values into binary representations compatible with ABI encoding, and vice versa, enabling seamless construction, verification, and interpretation of contract calls, events, and data payloads. The project relies on standard encode and decode functions to generate usable ABIs for a variety of common use cases, supporting integration into Python workflows and tooling for interacting with smart contracts, testing, and data analysis.",
+    "meta": "ETH ABI provides Python-based Ethereum ABI encoding and decoding tools. Discover ETH ABI and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ETH ABI - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/ethereum/eth-abi"
+  },
+  "relations": {
+    "alternatives": [
+      "evmole",
+      "loop-decoder",
+      "abi-parser"
+    ],
+    "related": [
+      "bunzz-dev",
+      "bonadocs",
+      "codeslaw"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

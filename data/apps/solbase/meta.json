@@ -1,0 +1,43 @@
+{
+  "slug": "solbase",
+  "name": "Solbase",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675433/dapp-store/dapp-logos/Solbase.png",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Smart Contract Templates",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solbase provides modern, gas-optimized Solidity building blocks.",
+    "description": "Solbase is a SolDAO project aimed at improving Solidity smart contracts by providing a library of reusable building blocks for deployment within an open-source model. Solbase contributors can further optimize smart contract snippets or fork the base for their own projects, helping teams tailor contracts to their needs. The project has over 100 stars, active contributors, and a continuously updated set of snippets that reflect current best practices across the Ethereum ecosystem. This collaborative, transparent approach invites developers to reuse, review, and improve components within a shared codebase.",
+    "meta": "Solbase is a SolDAO project to improve Solidity contracts with deployment-ready, open-source blocks. Discover Solbase and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Solbase - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/Sol-DAO/solbase#readme"
+  },
+  "relations": {
+    "alternatives": [
+      "openzeppelin",
+      "boring-solidity",
+      "synthetic-smart-contracts"
+    ],
+    "related": [
+      "nft-drop-finder-template",
+      "nft-analyst-starter-pack",
+      "liteflow"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "yul-language",
+  "name": "Yul",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675561/dapp-store/dapp-logos/Yul.png",
+  "category": [
+    "Web3 Developer Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Polkadot",
+    "Aptos",
+    "Sui"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Languages"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Yul is an intermediate language that can be compiled to bytecode for multiple backends.",
+    "description": "Yul is an intermediate language developed by the Ethereum Foundation that enables developers to write code once and target multiple platforms. By abstracting common concepts, Yul supports generating optimized output for backends including EVM 1.0, EVM 1.5, and EWASM. Formerly known as JULIA or IULIA, Yul exposes high-level optimization opportunities that translate into portable, efficient code across multiple backends. This approach supports multi-chain workflows and promotes reuse of optimization strategies across ecosystems.",
+    "meta": "Yul is an intermediate language that targets multiple backends. Discover Yul and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Yul - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.soliditylang.org/en/latest/yul.html"
+  },
+  "relations": {
+    "alternatives": [
+      "huff-language",
+      "solidity",
+      "move"
+    ],
+    "related": [
+      "scaffold-eth",
+      "foundry-forge",
+      "polkadot"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

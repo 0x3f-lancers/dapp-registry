@@ -1,0 +1,44 @@
+{
+  "slug": "coingecko-api",
+  "name": "CoinGecko API",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675423/dapp-store/dapp-logos/CoinGecko%20API.webp",
+  "category": [
+    "DeFi Tools"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Multichain",
+    "Polygon zkEVM",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Token Price APIs",
+    "Free, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "CoinGecko's data market APIs provide cryptocurrency data such as live prices, trading volumes, market cap, and exchange data.",
+    "description": "CoinGecko data market APIs provide robust access to cryptocurrency data through a comprehensive suite of APIs. Developers can fetch live prices, trading volumes, market capitalization, and exchange data, as well as detailed information on trading pairs and historical price series. Additional endpoints return contract address data, crypto categories, derivatives data, and images, enabling rich asset metadata. All data originates from CoinGecko’s independently sourced crypto data, allowing developers to power applications with broad, comprehensive information.",
+    "meta": "CoinGecko API offers data APIs with live prices, volume, market cap and exchange data. Discover CoinGecko API and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "CoinGecko API - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.coingecko.com/en/api"
+  },
+  "relations": {
+    "alternatives": [
+      "coinmarketcap-api",
+      "coinapi"
+    ],
+    "related": [
+      "transit-swap",
+      "evo-exchange"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

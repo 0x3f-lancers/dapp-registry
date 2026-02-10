@@ -1,0 +1,45 @@
+{
+  "slug": "solidity-array-generator",
+  "name": "Solidity Array Generator",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675624/dapp-store/dapp-logos/Solidity%20Array%20Generator.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Avalanche",
+    "ZKsync",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Solidity Developer Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solidity Array Generator provides free functions to generate evenly spaced arrays, including linspace, arange and logspace.",
+    "description": "Solidity Array Generator provides a library of free functions designed to produce readable Solidity code. It targets testing scenarios rather than optimizing gas usage or improving runtime functionality. Teams can use Solidity Array Generator to establish consistent coding standards across projects, helping developers communicate intent clearly and streamline collaboration during development and testing. The collection of utilities supports flexible experimentation while keeping common patterns approachable for both new and experienced engineers.",
+    "meta": "Solidity Array Generator offers free functions to create evenly spaced arrays. Discover Solidity Array Generator and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Solidity Array Generator - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/mds1/solidity-generators#readme"
+  },
+  "relations": {
+    "alternatives": [
+      "git-hooks",
+      "astrakode-smart-contract-auditor",
+      "octane"
+    ],
+    "related": [
+      "solidity-sandbox",
+      "metamorphic-contract-detector",
+      "auditbase"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "biconomy-v2",
+  "name": "Biconomy v2",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1717093275/dapp-store/dapp-logos/Biconomy%20v2.jpg",
+  "category": [
+    "Web3 Wallet Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Base"
+  ],
+  "tags": [
+    "Smart Contract Accounts",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Biconomy v2 provides ERC-4337 compliant smart contract accounts.",
+    "description": "Biconomy v2's Modular Smart Account is an ERC-4337-compliant solution designed to work with any Paymaster and Bundler service. The Smart Accounts are signer-agnostic, meaning you can adopt any authorization package as long as a signer is provided to the SDK during Smart Account creation. This flexible design lets developers tailor their authentication workflow while preserving full compatibility with the ERC-4337 account abstraction model. By keeping signer handling separate from the core account logic, the module enables straightforward integration with diverse security schemes and tooling.",
+    "meta": "Biconomy v2 provides ERC-4337 compliant smart contract accounts. Discover Biconomy v2 and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Biconomy v2 - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.biconomy.io/smart-accounts"
+  },
+  "relations": {
+    "alternatives": [
+      "mass",
+      "kernel",
+      "safe-smart-contracts"
+    ],
+    "related": [
+      "biconomy-paymaster",
+      "voltaire-bundler",
+      "arka-paymaster"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

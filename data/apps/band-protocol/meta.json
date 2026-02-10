@@ -1,0 +1,48 @@
+{
+  "slug": "band-protocol",
+  "name": "Band Protocol",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675492/dapp-store/dapp-logos/Band%20Protocol.png",
+  "category": [
+    "DeFi Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Avalanche",
+    "Cosmos",
+    "Multichain",
+    "Sui",
+    "Polygon",
+    "Aptos"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Oracles",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Band Protocol aggregates and connects real-world data and APIs to smart contracts.",
+    "description": "Band Protocol provides a cross-chain data oracle platform that aggregates and delivers real-world data and APIs to smart contracts. Its flexible oracle design supports a wide range of data, including real-world events, sports results, weather, random numbers, and more, enabling developers to work with virtually any feed. With WebAssembly, developers can craft custom oracles that bridge smart contracts to traditional web APIs in minutes.",
+    "meta": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts. Discover Band Protocol and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Band Protocol - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bandprotocol.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "uma",
+      "api3",
+      "supraoracles"
+    ],
+    "related": [
+      "bybarter",
+      "shade-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

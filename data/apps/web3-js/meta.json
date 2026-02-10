@@ -1,0 +1,46 @@
+{
+  "slug": "web3-js",
+  "name": "web3.js",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675861/dapp-store/dapp-logos/web3.js.jpg",
+  "category": [
+    "Web3 Developer Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "Solana",
+    "Aptos",
+    "Arbitrum",
+    "Polygon"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Libraries",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "web3.js is a TypeScript/JavaScript library that lets DApps interact with the Ethereum blockchain.",
+    "description": "web3.js is a TypeScript/JavaScript library that enables DApps to interact with the Ethereum blockchain. Its modular design lets developers work with smart contracts as if they were TypeScript/JavaScript objects, subscribe to on-chain events, and fetch block state directly from Ethereum nodes. Version 4 was rewritten in TypeScript and introduced features such as Plugins, enhancing extensibility and type safety. The library has over 500,000 weekly downloads and is used by projects such as Truffle.",
+    "meta": "web3.js is a TypeScript/JavaScript library enabling DApps to interact with Ethereum. Discover web3.js and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "web3.js - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://web3js.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "etherspot-transactionkit",
+      "ethers-js",
+      "web3j-sdk"
+    ],
+    "related": [
+      "kurtosis",
+      "dappkit"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

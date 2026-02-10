@@ -1,0 +1,50 @@
+{
+  "slug": "blockpi-network",
+  "name": "BlockPI Network",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675504/dapp-store/dapp-logos/BlockPI%20Network.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Cosmos",
+    "Cronos",
+    "Ethereum",
+    "Fantom",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Multichain"
+  ],
+  "tags": [
+    "RPC Node Providers",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "BlockPI Network provides high-performance, low-latency, low-cost, and reliable RPC services.",
+    "description": "BlockPI Network uses a distributed structure where third-party RPC providers can participate, delivering scalable RPC services to users worldwide and addressing the single-point failure risk often faced by centralized RPC providers. Web3 developers can build projects with lower costs and fewer concerns, while individual users enjoy seamless, stable, and fast on-chain interactions via free public endpoints or affordable basic paid options. This design enables broad participation and resilient connectivity across many chains, supported by infinite scalability and reduced dependency on any single provider.",
+    "meta": "BlockPI Network provides fast, low-latency RPC services over a distributed network. Discover BlockPI Network and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "BlockPI Network - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blockpi.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "lava-network",
+      "infura",
+      "alchemy"
+    ],
+    "related": [
+      "solana",
+      "gosh"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

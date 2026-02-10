@@ -1,0 +1,49 @@
+{
+  "slug": "saber",
+  "name": "Saber",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675482/dapp-store/dapp-logos/Saber.jpg",
+  "category": [
+    "DeFi Dapps",
+    "Free Customers"
+  ],
+  "chains": [
+    "Solana",
+    "Arbitrum",
+    "Ethereum",
+    "BNB Chain",
+    "Bitcoin",
+    "Polygon",
+    "OP Mainnet",
+    "Base"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Exchanges (DEXs)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Saber is a high-liquidity AMM on Solana enabling trading between pegged assets.",
+    "description": "On the Solana network, the Saber AMM provides sophisticated automated market-making pools that enable efficient trading between pegged assets. Specifically, the protocol supports exchanges among USDC, USDT, SOL, mSOL and bSOL through its dedicated pools, which pool liquidity to facilitate swaps across these tokens. By leveraging these Saber pools, users can swap pegged assets quickly and with a streamlined experience within the Saber AMM framework. These pools are designed to support reliable, direct exchanges between pegged tokens within a Solana-based AMM environment.",
+    "meta": "Saber is a high-liquidity AMM with pools on Solana for pegged assets. Discover Saber and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Saber - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://saberdao.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "cowswap",
+      "firebird-finance",
+      "mass"
+    ],
+    "related": [
+      "multiverse-c2c",
+      "cope",
+      "binance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

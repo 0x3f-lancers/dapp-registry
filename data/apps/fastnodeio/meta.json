@@ -1,0 +1,51 @@
+{
+  "slug": "fastnodeio",
+  "name": "Fastnode",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1742825293/dapp-store/dapp-logos/Fastnode.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Bitcoin",
+    "Arbitrum",
+    "ZKsync",
+    "Tron",
+    "Avalanche",
+    "Aptos",
+    "Base",
+    "Cronos",
+    "Solana",
+    "Polygon",
+    "Polkadot"
+  ],
+  "tags": [
+    "RPC Node Providers",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Fastnode is a dedicated node platform providing RPC nodes for reliable blockchain access.",
+    "description": "Fastnode provides high-performance, dedicated RPC nodes to address unreliable and slow blockchain access. Developers and businesses relying on public nodes often encounter rate limits, downtime, and congestion that disrupt dApps, trading, and DeFi operations. Fastnode delivers scalable, dedicated infrastructure with custom SLAs, offering stable, fast connectivity to more than 50 blockchains and networks, reducing latency and the risk of outages for critical applications.",
+    "meta": "Fastnode provides high-performance dedicated RPC nodes for reliable blockchain access. Discover Fastnode and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Fastnode - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fastnode.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "nodereal",
+      "infura",
+      "alchemy"
+    ],
+    "related": [
+      "polkadot",
+      "metis"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

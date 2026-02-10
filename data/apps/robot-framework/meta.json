@@ -1,0 +1,45 @@
+{
+  "slug": "robot-framework",
+  "name": "Robot Framework Solidity Testing Toolkit",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675622/dapp-store/dapp-logos/Robot%20Framework%20Solidity%20Testing%20Toolkit.png",
+  "category": [
+    "Web3 Security Tools"
+  ],
+  "chains": [
+    "Avalanche",
+    "Ethereum",
+    "Fantom",
+    "Polygon"
+  ],
+  "tags": [
+    "Web3 Testing Tools",
+    "Solidity Developer Tools",
+    "Development Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Robot Framework Solidity Testing Toolkit provides keyword-driven testing and deployment libraries for EVM-compatible smart contracts.",
+    "description": "Robot Framework Solidity Testing Toolkit is a multichain testing toolkit with keyword-driven automation that locally tests EVM-compatible smart contracts and deploys them across multiple chains. The project combines popular Web3 development tools such as Hardhat, Ethers.js, Truffle, and Web3.js, and integrates them with the Robot Framework RPA tool. Planned toolkit features include a Truffle library example, static analysis and vulnerability scanning demonstrations, and bots that use public RPC nodes with ethers.js and Hardhat.",
+    "meta": "Robot Framework Solidity Testing Toolkit enables EVM testing. Discover Robot Framework Solidity Testing Toolkit and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Robot Framework Solidity Testing Toolkit - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit"
+  },
+  "relations": {
+    "alternatives": [
+      "eth-lift",
+      "synpress",
+      "foundry-anvil"
+    ],
+    "related": [
+      "solidity-fuzzing-template",
+      "evm2",
+      "apeworx-evmtrace"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

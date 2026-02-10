@@ -1,0 +1,47 @@
+{
+  "slug": "loop-decoder",
+  "name": "Loop Decoder",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1730895312/dapp-store/dapp-logos/Loop%20Decoder.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "ABI Tools",
+    "Web3 Data Tools",
+    "Debugging Tools",
+    "Web3 Libraries",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Loop Decoder decodes Ethereum transactions into a human-readable format for both client and server environments.",
+    "description": "Loop Decoder makes it possible for developers to transform Ethereum transactions into a human-readable representation for both client-side and server-side code, without needing deep expertise in EVM transaction decoding. It runs in any JavaScript environment and relies on only minimal external dependencies, requiring just an RPC connection to operate. The library is designed for maximum flexibility: instead of enforcing a fixed API or storage approach, it ships with data loaders that let you pull data from your own storage or data sources as needed, keeping integration simple and extensible.",
+    "meta": "Loop Decoder is an all-in-one toolkit for simplifying EVM transaction decoding. Discover Loop Decoder and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Loop Decoder - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/3loop/loop-decoder"
+  },
+  "relations": {
+    "alternatives": [
+      "footprint-analytics",
+      "pulley"
+    ],
+    "related": [
+      "rpclist",
+      "flooredape"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

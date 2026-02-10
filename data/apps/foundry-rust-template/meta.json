@@ -1,0 +1,43 @@
+{
+  "slug": "foundry-rust-template",
+  "name": "Foundry Rust Template",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675617/dapp-store/dapp-logos/Foundry%20Rust%20Template.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Foundry Rust Template uses Foundry to build EVM smart contracts in Rust.",
+    "description": "Foundry Rust Template creates Rust-based smart contracts projects that use Foundry for the EVM. The repository provides two ready-to-run workflows for developers: one for Solidity and one for Rust, with CI already integrated to streamline validation, testing, and deployment. It offers a practical quickstart for Foundry-based initiatives, enabling teams to prototype across language targets while keeping project setup simple, reproducible, and easy to extend.",
+    "meta": "Foundry Rust Template lets you build EVM smart contracts in Rust with Foundry. Discover Foundry Rust Template and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Foundry Rust Template - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/gakonst/foundry-rust-template"
+  },
+  "relations": {
+    "alternatives": [
+      "openzeppelin-upgrades",
+      "beosin",
+      "huffmate"
+    ],
+    "related": [
+      "etherspot",
+      "openzeppelin",
+      "yearn-smart-contracts"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

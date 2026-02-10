@@ -1,0 +1,42 @@
+{
+  "slug": "dappkit",
+  "name": "Dappkit",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675544/dapp-store/dapp-logos/Dappkit.png",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "OP Mainnet",
+    "Polygon",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Web3 SDKs",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Dappkit is a free, open-source platform for building web3 applications with a user-friendly interface.",
+    "description": "Dappkit is a free, open-source Web3 development platform for building decentralized applications. It provides a user-friendly interface that lets developers seamlessly create Web3 apps with advanced smart contracts, while offering tools to automate EVM smart contract interactions and integrate external tools. Dappkit operates as an open-source DAO and remains free to use, with no cost or restriction tied to feature complexity.",
+    "meta": "Dappkit is a free, open-source platform for building web3 applications. Discover Dappkit and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Dappkit - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dappkit.dev/"
+  },
+  "relations": {
+    "alternatives": [
+      "thirdweb",
+      "sequence-wallet"
+    ],
+    "related": [
+      "web3-js",
+      "parasol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

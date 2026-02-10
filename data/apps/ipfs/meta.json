@@ -1,0 +1,46 @@
+{
+  "slug": "ipfs",
+  "name": "IPFS",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675408/dapp-store/dapp-logos/IPFS.png",
+  "category": [
+    "Infrastructure Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Solana",
+    "Multichain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Storage Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "IPFS is a Web3-based distributed file storage protocol.",
+    "description": "IPFS is a Web3 distributed file storage protocol designed to overcome traditional storage limits by delivering a secure and permanent storage solution. It enables users to store and retrieve content across a decentralized network, with access from web browsers, desktop applications, and the command-line interface. By distributing data across participating nodes, IPFS provides a robust storage framework that remains available even when individual components fail.",
+    "meta": "IPFS is a Web3-based distributed file storage protocol. Discover IPFS and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "IPFS - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ipfs.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "ionian",
+      "storj",
+      "storx"
+    ],
+    "related": [
+      "blockspan",
+      "mysterium-network",
+      "zettablock"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

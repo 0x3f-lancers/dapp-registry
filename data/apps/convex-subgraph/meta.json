@@ -1,0 +1,44 @@
+{
+  "slug": "convex-subgraph",
+  "name": "Convex Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675608/dapp-store/dapp-logos/Convex%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Convex Subgraph indexes and organizes on-chain insights from Convex protocol data.",
+    "description": "Convex Subgraph provides GraphQL interfaces on the Graph network that offer unified APIs for querying Convex Finance protocol on-chain data. These subgraphs index historical events and key state across multiple areas of the platform, enabling developers to access a consolidated history without directly querying or interacting with numerous Ethereum contracts. With these subgraphs, you can efficiently retrieve relevant data for dashboards, analytics, and integrations, simplifying data access and integration for Convex-powered apps.",
+    "meta": "Convex Subgraph indexes and organizes on-chain insights from Convex protocol data. Discover Convex Subgraph and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Convex Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/convex-community/convex-subgraph"
+  },
+  "relations": {
+    "alternatives": [
+      "ormi",
+      "synthetix-subgraph"
+    ],
+    "related": [
+      "chainbase"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "hardhat-template",
+  "name": "Hardhat Template",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675627/dapp-store/dapp-logos/Hardhat%20Template.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Hardhat Template provides a Hardhat-based quickstart for developing Solidity smart contracts.",
+    "description": "Hardhat Template, created by Paul Razvan Berg, offers a ready-made Solidity project scaffold with a predefined stack—Ethers.js, Typechain, Solhint, and Solcover. This template allows developers to quickly bootstrap a TypeScript project that includes the bare minimum functions and bindings needed to flesh out and iterate on complex smart contracts, providing a solid starting point for building robust decentralized applications.",
+    "meta": "Hardhat Template offers a Hardhat-based quickstart for Solidity smart contracts. Discover Hardhat Template and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Hardhat Template - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/paulrberg/hardhat-template"
+  },
+  "relations": {
+    "alternatives": [
+      "event-decoder",
+      "bunzz-dev"
+    ],
+    "related": [
+      "git-hooks",
+      "beamer-bridge",
+      "solady"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

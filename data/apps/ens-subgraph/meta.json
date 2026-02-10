@@ -1,0 +1,43 @@
+{
+  "slug": "ens-subgraph",
+  "name": "ENS Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675613/dapp-store/dapp-logos/ENS%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Cosmos",
+    "Solana",
+    "Multichain",
+    "Polygon"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DAO Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ENS Subgraph provides a fast way to query and index data from ENS smart contracts.",
+    "description": "ENS Subgraph enables querying and indexing data from the Ethereum Name Service (ENS) smart contracts. It exposes essential details such as the current domain owner, the owner's resolver contract address, and the address associated with a domain name. The data is indexed from the ENS registry contract, the ENS reverse registrar, and the resolver contracts tied to each domain. Developers can use these indexed datasets to build custom dashboards and analytics tools for ENS activity and ownership tracking.",
+    "meta": "ENS Subgraph enables querying and indexing data from ENS smart contracts. Discover ENS Subgraph and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ENS Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/ensdomains/ens-subgraph"
+  },
+  "relations": {
+    "alternatives": [
+      "uniswap-subgraph",
+      "compound-v2-subgraph"
+    ],
+    "related": [
+      "lava-network",
+      "toolblox"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

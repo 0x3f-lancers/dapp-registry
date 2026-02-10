@@ -1,0 +1,47 @@
+{
+  "slug": "airswap",
+  "name": "AirSwap",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675870/dapp-store/dapp-logos/AirSwap.svg",
+  "category": [
+    "DeFi Dapps",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Bitcoin",
+    "BNB Chain",
+    "Arbitrum",
+    "Fantom",
+    "Avalanche"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Exchanges (DEXs)",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "AirSwap is a decentralized exchange enabling peer-to-peer trading with atomic swaps, and a DAO-based governance model.",
+    "description": "AirSwap is a decentralized exchange that enables peer-to-peer trading through atomic swaps on Ethereum and Layer-2 networks (including Polygon). It also works with popular automated market makers like 1inch and Uniswap by accessing their liquidity through AirSwap's request-for-quote protocol. Governance is handled by the AirSwap DAO, which stakes AST, the native token, to participate in network decisions.",
+    "meta": "AirSwap is a decentralized exchange enabling peer-to-peer trading with atomic swaps. Discover AirSwap and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "AirSwap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.airswap.io/#/"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperjump",
+      "bybarter",
+      "dolomite"
+    ],
+    "related": [
+      "day1x",
+      "bracketx",
+      "hegic"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

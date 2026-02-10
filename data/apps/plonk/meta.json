@@ -1,0 +1,43 @@
+{
+  "slug": "plonk",
+  "name": "PLONK",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675615/dapp-store/dapp-logos/PLONK.png",
+  "category": [
+    "Zero Knowledge Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Arbitrum",
+    "Avalanche",
+    "Base"
+  ],
+  "tags": [
+    "ZK Proving Systems",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "PLONK offers a universal trusted setup for efficient zk-SNARKs.",
+    "description": "PLONK is a zk-SNARK proof system built to address Sonic's high-proof construction overheads. Unlike Groth16, which required circuit-specific setups, PLONK relies on a universal, continuously updatable trusted setup, enabling secure use across multiple circuits. This design delivers greater versatility and security, while achieving faster proving times and a succinct verification process. By enabling reuse of the same trusted setup across diverse circuits, PLONK supports scalable zk proofs for a range of applications.",
+    "meta": "PLONK is a zk-SNARK proof system with a universal, updatable trusted setup. Discover PLONK and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "PLONK - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/Fluidex/awesome-plonk"
+  },
+  "relations": {
+    "alternatives": [
+      "polyhedra-network",
+      "snark",
+      "bulletproofs"
+    ],
+    "related": [
+      "alt-layer",
+      "vistara-dev",
+      "polyhedra-network"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "splits",
+  "name": "0xSplits",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675868/dapp-store/dapp-logos/0xSplits.png",
+  "category": [
+    "Web3 Wallet Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Solana",
+    "BNB Chain",
+    "Avalanche",
+    "Bitcoin",
+    "Tron"
+  ],
+  "tags": [
+    "Web3 Payment Tools",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "0xSplits provides composable, on-chain splits for ETH and ERC-20 tokens.",
+    "description": "0xSplits is an open-source, audited, non-upgradeable collection of smart contracts designed to efficiently split on-chain income among multiple recipients. When funds are received by a Split, each designated recipient receives their share. The design emphasizes simplicity for everyday users, security for privacy-conscious participants, and broad developer usability through a straightforward, auditable contract architecture.",
+    "meta": "0xSplits is an open-source, audited, non-upgradeable contract set that efficiently splits on-chain income. Discover 0xSplits and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "0xSplits - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.0xsplits.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "solsplits",
+      "sphere",
+      "swapin"
+    ],
+    "related": [
+      "betterclaimsol",
+      "eth-tx",
+      "team-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

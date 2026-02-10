@@ -1,0 +1,42 @@
+{
+  "slug": "uniswap-subgraph",
+  "name": "Uniswap V3 Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675636/dapp-store/dapp-logos/Uniswap%20V3%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Uniswap V3 Subgraph offers subgraphs for indexing and querying Uniswap V3 protocol data.",
+    "description": "Uniswap maintains a set of subgraphs that index and organize data from its smart contracts across multiple versions. Each version of Uniswap has its own subgraph capable of extracting on-chain information such as pool liquidity, Total Value Locked (TVL), fee data, and swap history. The Uniswap V3 Subgraph is aimed at developers building applications that interact with the Uniswap V3 protocol, including trading analytics, liquidity-management tools, and other on-chain insights that rely on accurate protocol data.",
+    "meta": "Uniswap V3 Subgraph enables fast querying of on-chain Uniswap data. Discover Uniswap V3 Subgraph and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Uniswap V3 Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/Uniswap/v3-subgraph"
+  },
+  "relations": {
+    "alternatives": [
+      "pooltogether-subgraph",
+      "rocket-pool-subgraph"
+    ],
+    "related": [
+      "chainsight",
+      "toolblox"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

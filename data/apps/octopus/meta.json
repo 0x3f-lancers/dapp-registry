@@ -1,0 +1,51 @@
+{
+  "slug": "octopus",
+  "name": "Octopus",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675444/dapp-store/dapp-logos/Octopus.jpg",
+  "category": [
+    "Web3 Security Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Bitcoin",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Solana",
+    "OP Mainnet",
+    "Aptos",
+    "BNB Chain",
+    "Polygon"
+  ],
+  "tags": [
+    "Free Customers",
+    "Blockchain Security Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Octopus provides a security analysis tool for WebAssembly module and blockchain smart contracts (BTC/ETH/NEO/EOS).",
+    "description": "Octopus, created by Patrick Ventuzelo, analyzes closed-source WebAssembly and smart contract bytecode to reveal their internal functions; researchers can conduct vulnerability research by communicating with chains through an explorer, enabling deeper investigation into how these components operate across ecosystems. The project also offers comprehensive custom obfuscation solutions for both L1 and L2 networks and provides free security training for researchers and teams.",
+    "meta": "Octopus provides a security analysis tool for WebAssembly module and blockchain smart contracts (BTC/ETH/NEO/EOS). Discover Octopus and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Octopus - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/FuzzingLabs/octopus"
+  },
+  "relations": {
+    "alternatives": [
+      "ackee-blockchain",
+      "runtime-verification",
+      "blocksec-tools"
+    ],
+    "related": [
+      "solhint-prettier-plugin",
+      "rattle",
+      "kerberus"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

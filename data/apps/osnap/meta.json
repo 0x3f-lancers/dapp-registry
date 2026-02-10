@@ -1,0 +1,50 @@
+{
+  "slug": "osnap",
+  "name": "oSnap",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1711895463/dapp-store/dapp-logos/oSnap.png",
+  "category": [
+    "DAO Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Polygon",
+    "OP Mainnet",
+    "Multichain",
+    "Base",
+    "Avalanche"
+  ],
+  "tags": [
+    "DAO Developer Tools",
+    "DAO Project Management Tools",
+    "Venture DAOs",
+    "Creator DAOs",
+    "Gaming DAOs",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "oSnap enables off-chain voting via Snapshot and on-chain execution from a Safe, via UMA's Optimistic Oracle.",
+    "description": "oSnap leverages the Optimistic Oracle to move governance workflows off-chain and execute proposals on-chain from a Safe treasury. By conducting voting off-chain in Snapshot and wiring the resulting approvals to on-chain transactions, it trims gas costs for DAO voters and lowers multisig signer bottlenecks in proposal execution. The underlying Oracle verifies real-world data on-chain, unlocking applications such as cross-chain bridging, insurance, derivatives, DAO governance, and prediction markets.",
+    "meta": "oSnap enables off-chain Snapshot voting and on-chain execution from their Safe, via UMA's Optimistic Oracle. Discover oSnap and other DAO Tools on Lancers Web3 Explorer.",
+    "pageTitle": "oSnap - DAO Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://uma.xyz/osnap"
+  },
+  "relations": {
+    "alternatives": [
+      "ink-finance",
+      "boardroom",
+      "alty"
+    ],
+    "related": [
+      "portrait-gg",
+      "sourc3",
+      "karma"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

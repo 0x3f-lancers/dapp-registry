@@ -1,0 +1,48 @@
+{
+  "slug": "cashmere",
+  "name": "Cashmere",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675447/dapp-store/dapp-logos/Cashmere.png",
+  "category": [
+    "Web3 Wallets",
+    "Free Customers"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "BNB Chain",
+    "Polygon",
+    "Multichain",
+    "Tron",
+    "Bitcoin"
+  ],
+  "tags": [
+    "Free Customers",
+    "Multisig Wallets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Cashmere provides multi-signature wallet security for team treasuries and Cashmere Vaults.",
+    "description": "Cashmere is a multisignature wallet on Solana built to help organizations manage funds securely and efficiently. It supports SOL and all SPL tokens and can integrate with any Solana wallet, whether hardware or software. At its core, Cashmere's multisig uses Program Derived Addresses (PDAs): a mechanism where a program can be granted authority over an account and that authority can later be transferred to another party. This design enables collaborative fund governance and helps reduce single-point risk for organizations.",
+    "meta": "Cashmere is a multi-signature wallet on Solana. Discover Cashmere and other Web3 Wallets on Lancers Web3 Explorer.",
+    "pageTitle": "Cashmere - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.cashmere.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "cregis",
+      "totalsig"
+    ],
+    "related": [
+      "fluvi-wallet",
+      "guarda-wallet"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

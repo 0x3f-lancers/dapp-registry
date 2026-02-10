@@ -1,0 +1,46 @@
+{
+  "slug": "starbase-ag",
+  "name": "Starbase",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1736733055/dapp-store/dapp-logos/Starbase.jpg",
+  "category": [
+    "DeFi Dapps"
+  ],
+  "chains": [
+    "Base",
+    "Multichain",
+    "Solana",
+    "Ethereum",
+    "Celo",
+    "Polygon zkEVM",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Starbase is a DEX aggregator on Base that optimizes trades with smart routing.",
+    "description": "Starbase is a decentralized exchange (DEX) aggregator that optimizes trades through smart routing and trade splitting, aiming to deliver the best prices while minimizing slippage. By pulling liquidity from multiple DEXs, it compares rates across sources and routes orders to secure favorable prices and faster swaps. Starbase also provides advanced trading tools designed to help users save on swaps and execute efficient, cost-conscious transactions across supported chains.",
+    "meta": "Starbase is a DEX aggregator that optimizes trades with smart routing to get the best prices. Discover Starbase and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Starbase - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.starbase.ag/"
+  },
+  "relations": {
+    "alternatives": [
+      "ambisafe",
+      "evo-exchange",
+      "flood"
+    ],
+    "related": [
+      "bitget",
+      "friktion",
+      "bumper-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

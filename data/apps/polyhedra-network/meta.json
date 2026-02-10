@@ -1,0 +1,53 @@
+{
+  "slug": "polyhedra-network",
+  "name": "Polyhedra Network",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1701196687/dapp-store/dapp-logos/Polyhedra%20Network.png",
+  "category": [
+    "Zero Knowledge Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Bitcoin",
+    "BNB Chain",
+    "Celo",
+    "Ethereum",
+    "Fantom",
+    "Polygon",
+    "Polkadot",
+    "Multichain",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Web3 Bridges",
+    "ZK Proving Systems",
+    "ZK Proof Generation Tools",
+    "Blockchain Interoperability Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Cross-chain zkBridge solutions for layer-1 and layer-2 via zero-knowledge proofs for secure, trustless state transitions.",
+    "description": "Polyhedra Network, launched in 2023, delivers cross-chain solutions for both layer-1 and layer-2 ecosystems using zkBridge. This approach relies on zero-knowledge proofs to verify state transitions securely without external assumptions, reducing on-chain verification costs. The system supports more than 20 networks, including BNB Chain, Ethereum, and Arbitrum. Access is available at zkbridge.com or via an oracle integration in compatible cross-chain ecosystems.",
+    "meta": "Polyhedra Network offers cross-chain zkBridge for L1 and L2 via ZK proofs. Discover Polyhedra Network and other Zero Knowledge Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Polyhedra Network - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://polyhedra.network/"
+  },
+  "relations": {
+    "alternatives": [
+      "bonsai",
+      "hyper-oracle",
+      "reclaim-protocol"
+    ],
+    "related": [
+      "arkworks-marlin",
+      "ingonmaya"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

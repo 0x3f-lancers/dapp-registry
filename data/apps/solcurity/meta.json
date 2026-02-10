@@ -1,0 +1,45 @@
+{
+  "slug": "solcurity",
+  "name": "Solcurity",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675634/dapp-store/dapp-logos/Solcurity.jpg",
+  "category": [
+    "Web3 Security Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Arbitrum",
+    "Polygon zkEVM",
+    "Starknet"
+  ],
+  "tags": [
+    "Blockchain Security Tools",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solcurity provides opinionated security and code quality standards for Solidity smart contracts.",
+    "description": "Solcurity provides a security-minded catalog of Solidity best-practice standards distilled from guidance by recognized experts, including Mudit Gupta, along with contributions from established security teams and groups. It helps smart contract developers learn to manage sensitive data using vetted, best-practice methods and checks. The resource presents more than a hundred actionable guidance points covering event calls, contract structure, data handling, and DeFi-specific standards to support safer development.",
+    "meta": "Solcurity offers opinionated security and code quality standards for Solidity smart contracts. Discover Solcurity and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Solcurity - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/transmissions11/solcurity"
+  },
+  "relations": {
+    "alternatives": [
+      "polyzoa",
+      "codeslaw",
+      "stark"
+    ],
+    "related": [
+      "glider",
+      "dapprovals",
+      "slither"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

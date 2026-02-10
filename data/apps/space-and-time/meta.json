@@ -1,0 +1,47 @@
+{
+  "slug": "space-and-time",
+  "name": "Space and Time",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1695369534/dapp-store/dapp-logos/Space%20And%20Time.jpg",
+  "category": [
+    "Infrastructure Tools",
+    "Growth Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Polygon",
+    "Avalanche",
+    "Sui",
+    "Solana",
+    "Arbitrum",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Growth Customers",
+    "Web3 Data Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Space and Time is a decentralized data warehouse that links on-chain and off-chain data to power smart contract use cases.",
+    "description": "Space and Time (SxT) is a decentralized data warehouse preloaded with indexed blockchain data from major chains. It lets you join tamper-evident on-chain data with your own off-chain datasets using a simple SQL interface, then publish the results to smart contracts, dapps, dashboards, BI tools, and ML models. Proof of SQL, a novel zk-cryptography approach, demonstrates that queries run in SxT are verifiably tamper-proof. This enables sub-second queries and enterprise-scale analytics in a tamper-proof, blockchain-anchored workflow.",
+    "meta": "Space and Time is a decentralized data warehouse that links on-chain and off-chain data. Discover Space and Time and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Space and Time - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.spaceandtime.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "stargazer",
+      "moni-social-api"
+    ],
+    "related": [
+      "drpc",
+      "omnia"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

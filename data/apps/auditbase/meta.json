@@ -1,0 +1,49 @@
+{
+  "slug": "auditbase",
+  "name": "AuditBase",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1697959325/dapp-store/dapp-logos/AuditBase.png",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Starknet",
+    "Polygon zkEVM",
+    "ZKsync",
+    "Base"
+  ],
+  "tags": [
+    "Static Analysis Tools",
+    "Solidity Developer Tools",
+    "Smart Contract Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "AuditBase provides Solidity static analysis tool and vulnerability reporting for Solidity smart contracts.",
+    "description": "AuditBase is a static analysis tool for Solidity that helps teams improve the security and quality of their smart contracts. You can easily upload source files, scan from a Block Explorer, or automatically connect GitHub repositories. The platform surfaces hundreds of issues identified by top smart contract security auditors, helping you understand risk across your codebase. It also lets you generate customizable reports to share findings with your community and stakeholders.",
+    "meta": "AuditBase provides Solidity static analysis and vulnerability reports for contracts. Discover AuditBase and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "AuditBase - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://auditbase.com"
+  },
+  "relations": {
+    "alternatives": [
+      "amarna",
+      "rubyscore",
+      "ethlint"
+    ],
+    "related": [
+      "solidity-compiler-selector",
+      "evm2",
+      "bonadocs"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

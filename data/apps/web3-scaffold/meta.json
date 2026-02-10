@@ -1,0 +1,43 @@
+{
+  "slug": "web3-scaffold",
+  "name": "Web3 Scaffold",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675619/dapp-store/dapp-logos/Web3%20Scaffold.jpg",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "OP Mainnet",
+    "Polygon"
+  ],
+  "tags": [
+    "Development Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Web3 Scaffold is a fullstack framework for deploying applications to EVM networks.",
+    "description": "Web3 Scaffold is a monorepo that bundles a variety of packages to help developers rapidly deploy smart contracts and applications on Ethereum Virtual Machine-compatible blockchains. Each package emphasizes accessibility and shares a common TypeScript foundation. The suite includes a front end built with Next.js and Tailwind CSS, Solidity smart contracts, and a read-only backend designed for deployment to a data indexing service. Together, these components enable end-to-end development workflows from a single repository.",
+    "meta": "Web3 Scaffold is a monorepo of packages for deploying smart contracts and apps to EVM-compatible blockchains. Discover Web3 Scaffold and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Web3 Scaffold - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/holic/web3-scaffold#readme"
+  },
+  "relations": {
+    "alternatives": [
+      "foundry",
+      "truffle",
+      "whal3s"
+    ],
+    "related": [
+      "huff-vm",
+      "thirdweb",
+      "yakindu"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

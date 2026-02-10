@@ -1,0 +1,45 @@
+{
+  "slug": "rekt",
+  "name": "Rekt",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675764/dapp-store/dapp-logos/Rekt.jpg",
+  "category": [
+    "Web3 Security Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Solana",
+    "Polygon"
+  ],
+  "tags": [
+    "Free Customers",
+    "Blockchain Security Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Rekt is a journal of the compromised DeFi protocols to date.",
+    "description": "Rekt, founded by Julien Bouteloup, provides a digest of notable DeFi security incidents that made headlines. Users can explore the details of several high-profile protocol failures and learn what went wrong. For developers and security professionals, it offers insight into how hackers exploited vulnerabilities in bridges to siphon funds. A live leaderboard documents the financial impact, listing losses from hundreds of thousands up to more than half a billion in crypto coins and tokens.",
+    "meta": "Rekt is a journal of the compromised DeFi protocols to date. Discover Rekt and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Rekt - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rekt.news/leaderboard/"
+  },
+  "relations": {
+    "alternatives": [
+      "smartstate",
+      "evmole",
+      "onchain-industries"
+    ],
+    "related": [
+      "solhint-intellij-plugin",
+      "gatekeepxyz",
+      "solhint-prettier-plugin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

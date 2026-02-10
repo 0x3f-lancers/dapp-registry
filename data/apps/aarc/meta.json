@@ -1,0 +1,53 @@
+{
+  "slug": "aarc",
+  "name": "Aarc",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1705525611/dapp-store/dapp-logos/Aarc.png",
+  "category": [
+    "Web3 Developer Tools",
+    "Ecosystem Partners"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "Avalanche",
+    "BNB Chain",
+    "Arbitrum",
+    "OP Mainnet",
+    "Base",
+    "Polkadot",
+    "Moonbeam",
+    "Cosmos",
+    "Solana"
+  ],
+  "tags": [
+    "Ecosystem Partners",
+    "Wallet SDKs",
+    "Web3 Bridges",
+    "Web3 SDKs",
+    "MPC Wallets",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Aarc focuses on simplifying account abstraction with a Smart Transactions Toolkit.",
+    "description": "App Accounts created for users are empty, bare shells, and stateless. Aarc provides an enablement layer to generate personalized Web3 app accounts for users, and its Smart Transactions Toolkit enables end-to-end deposits into App Accounts from EOAs, CEX accounts, and credit/debit cards. By addressing interoperability, permissions, and security concerns, Aarc simplifies user onboarding and strengthens engagement across Web3 applications.",
+    "meta": "Aarc simplifies account abstraction with toolkit components for smart transactions. Discover Aarc and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Aarc - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aarc.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "apillon-embedded-wallet-service",
+      "lava-network"
+    ],
+    "related": [
+      "truffle",
+      "w3box"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

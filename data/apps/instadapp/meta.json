@@ -1,0 +1,48 @@
+{
+  "slug": "instadapp",
+  "name": "InstaDApp",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675659/dapp-store/dapp-logos/InstaDApp.jpg",
+  "category": [
+    "Trading Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "Fantom",
+    "OP Mainnet",
+    "Multichain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Crypto Portfolio Dashboards",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "InstaDApp gives DeFi users an easy way to access the best DeFi strategies.",
+    "description": "InstaDApp offers a feature-rich DeFi platform designed for both everyday users and developers who want to unlock DeFi's full potential. The InstaDApp protocol (DSL) acts as middleware, aggregating multiple DeFi protocols into a single, upgradable smart contract layer. This unified architecture provides a consistent on-chain interface, simplifying integration, experimentation, and upgrades as the DeFi landscape evolves. By consolidating diverse protocols, InstaDApp enables easier access to a broad set of DeFi tools within one programmable foundation.",
+    "meta": "InstaDApp is a DeFi platform that aggregates protocols into an upgradable layer. Discover InstaDApp and other Trading Tools on Lancers Web3 Explorer.",
+    "pageTitle": "InstaDApp - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://instadapp.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "dropstab",
+      "nested",
+      "takeprofit"
+    ],
+    "related": [
+      "phantom",
+      "loopring",
+      "shell-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

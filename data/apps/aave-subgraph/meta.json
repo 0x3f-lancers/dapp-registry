@@ -1,0 +1,47 @@
+{
+  "slug": "aave-subgraph",
+  "name": "Aave Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675600/dapp-store/dapp-logos/Aave%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Fantom",
+    "Harmony",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Aave Subgraph provides Aave Subgraphs that index Aave contracts, giving developers easy access to on-chain data.",
+    "description": "Aave Subgraphs provide indexed access to Aave protocol data through GraphQL endpoints on The Graph network. Querying these subgraphs lets developers monitor on-chain activities such as borrows, deposits, collateral ratios, and related metrics. The resulting insights support building decentralized apps that analyze activity at both individual and market levels, enabling reporting and analytics without requiring a deep dive into the protocol’s internals. This open-source tooling enables efficient data extraction and easy integration into dashboards and off-chain analytics.",
+    "meta": "Aave Subgraph indexes Aave contracts with Subgraphs, giving developers on-chain data. Discover Aave Subgraph and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Aave Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/aave/protocol-subgraphs"
+  },
+  "relations": {
+    "alternatives": [
+      "lido-subgraph",
+      "connext-subgraph"
+    ],
+    "related": [
+      "evmtools-xyz",
+      "itheum"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

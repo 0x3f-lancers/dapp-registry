@@ -1,0 +1,48 @@
+{
+  "slug": "free-bitcoins-com",
+  "name": "FreeBitcoins.com",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1712173183/dapp-store/dapp-logos/FreeBitcoins.com.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Avalanche",
+    "Ethereum",
+    "Multichain",
+    "Arbitrum",
+    "BNB Chain",
+    "Polygon",
+    "Base",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Crypto Faucets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "FreeBitcoins.com offers a free starting point on blockchains like Bitcoin Testnet with no information required.",
+    "description": "FreeBitcoins.com helps people learn how to use cryptocurrency without risking their own coins. It features a real faucet linked between two websites, with an affiliate system that pays affiliates 1:1 on faucet hits and 50% of trade fees on the sister site AltQuick.com (altcoin exchange).",
+    "meta": "FreeBitcoins.com offers a free starting point on blockchains like Bitcoin Testnet. Discover FreeBitcoins.com and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "FreeBitcoins.com - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://freebitcoins.com/faucet/"
+  },
+  "relations": {
+    "alternatives": [
+      "mumbai-faucet",
+      "superchain-dev-console",
+      "polygon-faucet"
+    ],
+    "related": [
+      "debridge",
+      "hashport",
+      "3xpl"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}
