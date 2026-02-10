@@ -5,23 +5,18 @@
   "category": "DeFi",
   "chains": [
     "Ethereum",
+    "BSC",
     "Polygon",
     "Arbitrum",
     "Optimism",
     "Avalanche",
     "Base"
   ],
-  "tags": [
-    "Lending",
-    "Borrowing",
-    "DeFi",
-    "Yield",
-    "Staking"
-  ],
+  "tags": ["Lending", "Borrowing", "DeFi", "Yield", "Staking"],
   "pricing": "Free",
   "content": {
     "short": "Decentralized lending protocol where users can lend, borrow, and earn interest on crypto assets.",
-    "description": "Aave is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn passive income, while borrowers can borrow in an overcollateralized or undercollateralized fashion.",
+    "description": "Aave is a decentralized aave protocol non-custodial liquidity protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn passive income, while borrowers can borrow in an overcollateralized or undercollateralized fashion.",
     "meta": "Aave - Decentralized lending and borrowing protocol for crypto assets.",
     "pageTitle": "Aave - DeFi Lending Protocol"
   },
@@ -29,9 +24,7 @@
     "website": "https://aave.com"
   },
   "relations": {
-    "alternatives": [
-      "uniswap"
-    ],
+    "alternatives": ["uniswap"],
     "related": []
   }
 }
