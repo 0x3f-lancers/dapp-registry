@@ -1,11 +1,13 @@
 import { promises as fs } from "fs";
 import path from "path";
 import { z } from "zod";
-import { metaJsonSchema, appsMinSchema } from "../lib/schema";
+import { metaJsonSchema } from "../schema/metaJsonSchema";
+import { appsMinSchema } from "../schema/appsMinSchema";
 import { uploadImage } from "../lib/cloudinary";
 import dotenv from "dotenv";
 import crypto from "crypto";
 import logger from "../lib/logger";
+import { generateFacets } from "../scripts/generate-facets";
 
 dotenv.config({ path: path.resolve(process.cwd(), ".env.local") });
 
@@ -20,15 +22,33 @@ export default async function distill(
   const slugsJsonPath = path.join(dataDir, "slugs.json");
 
   let existingApps: z.infer<typeof appsMinSchema> = [];
+  let initialExistingApps: z.infer<typeof appsMinSchema> = []; // To track removed apps
   try {
     const existingContent = await fs.readFile(appsMinPath, "utf-8");
     existingApps = JSON.parse(existingContent);
+    initialExistingApps = JSON.parse(existingContent); // Copy for comparison
     logger.info(
       `Loaded existing apps.min.json with ${existingApps.length} apps`,
     );
   } catch {
     logger.info("No existing apps.min.json found, creating new one");
   }
+
+  // Type definition for app entry
+  type AppEntry = z.infer<typeof appsMinSchema>[number];
+
+  // Object to track changes for incremental facet generation
+  interface ChangedApps {
+    added: AppEntry[];
+    updated: { oldApp: AppEntry; newApp: AppEntry }[];
+    removed: AppEntry[];
+  }
+
+  const changedApps: ChangedApps = {
+    added: [],
+    updated: [],
+    removed: [],
+  };
 
   let existingSlugs: string[] = [];
   try {
@@ -112,10 +132,15 @@ export default async function distill(
       // Update or add to existing apps
       const existingIndex = existingApps.findIndex((app) => app.slug === slug);
       if (existingIndex >= 0) {
+        // App is updated
+        const oldApp = existingApps[existingIndex]; // Capture old state
         existingApps[existingIndex] = appEntry;
+        changedApps.updated.push({ oldApp, newApp: appEntry });
         logger.info({ slug }, "✅ Updated existing app in apps.min.json");
       } else {
+        // App is new
         existingApps.push(appEntry);
+        changedApps.added.push(appEntry);
         logger.info({ slug }, "✅ Added new app to apps.min.json");
       }
 
@@ -128,6 +153,21 @@ export default async function distill(
     }
   }
 
+  // Filter out apps that no longer exist in the apps directory (only process existing meta.json files)
+  const actualExistingSlugs = new Set(allDirSlugs);
+  const appsAfterFiltering = existingApps.filter(app => actualExistingSlugs.has(app.slug));
+
+  // Identify removed apps by comparing initial apps with appsAfterFiltering
+  const slugsAfterFiltering = new Set(appsAfterFiltering.map(app => app.slug));
+  for (const initialApp of initialExistingApps) {
+    if (!slugsAfterFiltering.has(initialApp.slug)) {
+      changedApps.removed.push(initialApp);
+    }
+  }
+
+  // Update existingApps to reflect only currently existing apps
+  existingApps = appsAfterFiltering;
+
   // Write updated apps.min.json
   const appsMinJsonContent = JSON.stringify(existingApps, null, 2);
   await fs.writeFile(appsMinPath, appsMinJsonContent, "utf-8");
@@ -139,6 +179,9 @@ export default async function distill(
   const slugsJsonContent = JSON.stringify(existingSlugs, null, 2);
   await fs.writeFile(slugsJsonPath, slugsJsonContent, "utf-8");
   logger.info("Generated data/slugs.json");
+
+  // Generate facets index
+  await generateFacets(dataDir, changedApps);
 
   // HMAC signature generation
   const hmacSecret = process.env.HMAC_SECRET;

@@ -7,7 +7,7 @@ jest.mock("fs", () => ({
   promises: {
     readdir: mockReaddir,
     readFile: mockReadFile,
-    access: jest.fn(), // Mock fs.promises.access as it's used in validate.ts
+    access: jest.fn(), // Mock fs.promises.access, though not used, still good practice
   },
 }));
 
@@ -20,44 +20,12 @@ jest.mock("../lib/logger", () => ({
   trace: jest.fn(),
 }));
 
-// Mock node-fetch and AbortController
-const mockFetch = jest.fn();
-
-// Simple mock for node-fetch Response class
-class MockResponse {
-  status: number;
-  ok: boolean;
-  constructor(body: any, init: { status: number }) {
-    this.status = init.status;
-    this.ok = this.status >= 200 && this.status < 300;
-  }
-}
-
-const mockAbortController = jest.fn(() => ({
-  abort: jest.fn(),
-  signal: new EventTarget(), // Mock a basic EventTarget for signal
-}));
-jest.mock("node-fetch", () => ({
-  __esModule: true,
-  default: mockFetch,
-  Response: MockResponse, // Use our custom mock Response class
-}));
-jest.mock("abort-controller", () => ({
-  __esModule: true,
-  default: mockAbortController,
-}));
-
-
 // NOW import the modules that use the mocks
 import validate from "../scripts/validate";
 import logger from "../lib/logger";
-import fetch, { Response } from "node-fetch"; // Import fetch and Response from node-fetch
-import AbortController from "abort-controller";
 
 const mockedLogger = jest.mocked(logger);
 const mockedFsPromises = jest.mocked(require("fs").promises); // Cast fs.promises to a mocked type
-const mockedFetch = jest.mocked(fetch);
-const mockedAbortController = jest.mocked(AbortController);
 
 
 describe("Validation Script (scripts/validate.ts)", () => {
@@ -96,16 +64,11 @@ describe("Validation Script (scripts/validate.ts)", () => {
   beforeEach(() => {
     mockReaddir.mockClear();
     mockReadFile.mockClear();
-    mockedFsPromises.access.mockClear(); // Clear mock for fs.promises.access
+    mockedFsPromises.access.mockClear();
     mockedLogger.error.mockClear();
     mockedLogger.warn.mockClear();
     mockedLogger.info.mockClear();
-    mockedFetch.mockClear();
-    mockedAbortController.mockClear();
     MOCKED_PROCESS_EXIT.mockClear();
-
-    // Default fetch mock to a successful response
-    mockedFetch.mockResolvedValue(new Response(null, { status: 200 }));
   });
 
   afterAll(() => {
@@ -232,106 +195,6 @@ describe("Validation Script (scripts/validate.ts)", () => {
       "Zod validation failed.",
     );
     expect(MOCKED_PROCESS_EXIT).not.toHaveBeenCalled();
-  });
-
-  it("should fail validation for non-existent local logoUrl", async () => {
-    const invalidMetaData = { ...VALID_META_DATA, slug: "invalid-logo-dapp", logoUrl: "./non-existent.png" };
-    mockReaddir.mockResolvedValue(["invalid-logo-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(invalidMetaData));
-    mockedFsPromises.access.mockRejectedValue(new Error("File not found"));
-
-    await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow("Validation failed");
-
-    expect(mockedFsPromises.access).toHaveBeenCalledWith(
-      path.join(MOCKED_APPS_DIR, "invalid-logo-dapp", "./non-existent.png")
-    );
-    expect(mockedLogger.error).toHaveBeenCalledWith(
-      expect.objectContaining({
-        metaPath: path.join(MOCKED_APPS_DIR, "invalid-logo-dapp", "meta.json"),
-        logoPath: path.join(MOCKED_APPS_DIR, "invalid-logo-dapp", "./non-existent.png"),
-      }),
-      "Local logo file does not exist."
-    );
-  });
-
-  it("should pass validation for accessible hosted logoUrl", async () => {
-    const hostedLogoUrl = "https://example.com/hosted-logo.png";
-    const metaData = { ...VALID_META_DATA, slug: "hosted-logo-dapp", logoUrl: hostedLogoUrl };
-    mockReaddir.mockResolvedValue(["hosted-logo-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(metaData));
-    mockedFetch.mockResolvedValue(new Response(null, { status: 200 }));
-
-    await validate(MOCKED_APPS_DIR);
-
-    expect(mockedFetch).toHaveBeenCalledWith(
-      hostedLogoUrl,
-      expect.objectContaining({ method: "HEAD", signal: expect.any(EventTarget) })
-    );
-    expect(mockedLogger.info).toHaveBeenCalledWith("Validation successful.");
-    expect(mockedLogger.error).not.toHaveBeenCalled();
-  });
-
-  it("should fail validation for inaccessible hosted logoUrl (non-2xx status)", async () => {
-    const hostedLogoUrl = "https://example.com/inaccessible-logo.png";
-    const metaData = { ...VALID_META_DATA, slug: "inaccessible-logo-dapp", logoUrl: hostedLogoUrl };
-    mockReaddir.mockResolvedValue(["inaccessible-logo-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(metaData));
-    mockedFetch.mockResolvedValue(new Response(null, { status: 404 }));
-
-    await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow("Validation failed");
-
-    expect(mockedFetch).toHaveBeenCalledWith(
-      hostedLogoUrl,
-      expect.objectContaining({ method: "HEAD", signal: expect.any(EventTarget) })
-    );
-    expect(mockedLogger.error).toHaveBeenCalledWith(
-      expect.objectContaining({
-        metaPath: path.join(MOCKED_APPS_DIR, "inaccessible-logo-dapp", "meta.json"),
-        logoUrl: hostedLogoUrl,
-        status: 404,
-      }),
-      "Hosted logo URL is not accessible or returned an error status."
-    );
-  });
-
-  it("should fail validation for hosted logoUrl network error or timeout", async () => {
-    const hostedLogoUrl = "https://example.com/network-error-logo.png";
-    const metaData = { ...VALID_META_DATA, slug: "network-error-dapp", logoUrl: hostedLogoUrl };
-    mockReaddir.mockResolvedValue(["network-error-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(metaData));
-    mockedFetch.mockRejectedValue(new Error("Network Error")); // Simulate network error
-
-    await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow("Validation failed");
-
-    expect(mockedFetch).toHaveBeenCalledWith(
-      hostedLogoUrl,
-      expect.objectContaining({ method: "HEAD", signal: expect.any(EventTarget) })
-    );
-    expect(mockedLogger.error).toHaveBeenCalledWith(
-      expect.objectContaining({
-        metaPath: path.join(MOCKED_APPS_DIR, "network-error-dapp", "meta.json"),
-        logoUrl: hostedLogoUrl,
-        error: expect.any(Error),
-      }),
-      "Failed to access hosted logo URL (network error or timeout)."
-    );
-  });
-
-  it("should fail validation for invalid logoUrl format (neither local nor hosted)", async () => {
-    const invalidLogoUrl = "ftp://invalid.com/logo.png"; // Neither http(s) nor ./
-    const metaData = { ...VALID_META_DATA, slug: "invalid-format-dapp", logoUrl: invalidLogoUrl };
-    mockReaddir.mockResolvedValue(["invalid-format-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(metaData));
-
-    await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow("Validation failed");
-
-    expect(mockedLogger.error).toHaveBeenCalledWith(
-      expect.objectContaining({
-        metaPath: path.join(MOCKED_APPS_DIR, "invalid-format-dapp", "meta.json"),
-        logoUrl: invalidLogoUrl,
-      }),
-      "Logo URL is neither a local path nor a valid hosted URL."
-    );
   });
 
   it("should exit if APPS_DIR does not exist", async () => {

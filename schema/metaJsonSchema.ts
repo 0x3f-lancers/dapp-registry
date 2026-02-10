@@ -36,17 +36,3 @@ export const metaJsonSchema = z.object({
     })
     .optional(),
 });
-
-export const appsMinSchema = z.array(
-  z.object({
-    slug: z.string(),
-    name: z.string(),
-    logoUrl: z.string(),
-    category: z.string(),
-    chains: z.array(z.string()),
-    tags: z.array(z.string()),
-    pricing: z.string(),
-    short: z.string(),
-    updatedAt: z.string().datetime(),
-  }),
-);

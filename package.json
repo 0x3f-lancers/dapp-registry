@@ -8,11 +8,9 @@
     "start": "node dist/index.js",
     "validate": "node dist/scripts/run-validate.js",
     "distill": "node dist/scripts/run-distill.js",
-    "check-links": "node dist/scripts/run-check-links.js",
     "dev": "tsx index.ts",
     "dev:validate": "tsx scripts/run-validate.ts",
     "dev:distill": "tsx scripts/run-distill.ts",
-    "dev:check-links": "tsx scripts/run-check-links.ts",
     "test": "jest"
   },
   "keywords": [],

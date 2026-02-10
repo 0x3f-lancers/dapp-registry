@@ -1,4 +1,5 @@
-import { metaJsonSchema, appsMinSchema } from '../lib/schema';
+import { metaJsonSchema } from '../schema/metaJsonSchema';
+import { appsMinSchema } from '../schema/appsMinSchema';
 import { z } from 'zod';
 
 describe('Schema Validation', () => {
