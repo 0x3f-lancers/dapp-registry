@@ -1,3 +1,58 @@
+# # # # # name: Distill & Revalidate DApp Data
+
+# # # # # on:
+# # # # #   push:
+# # # # #     branches:
+# # # # #       - main
+# # # # #     paths:
+# # # # #       - "data/apps/**/meta.json"
+# # # # #       - "scripts/distill.ts"
+# # # # #       - "scripts/check-links.ts"
+# # # # #       - "lib/cloudinary.ts"
+# # # # #       - "lib/schema.ts"
+# # # # #       - "lib/logger.ts"
+# # # # #   workflow_dispatch:
+
+# # # # # permissions:
+# # # # #   contents: write
+
+# # # # # jobs:
+# # # # #   distill_and_commit:
+# # # # #     runs-on: ubuntu-latest
+# # # # #     steps:
+# # # # #       - name: Checkout repository
+# # # # #         uses: actions/checkout@v4
+# # # # #         with:
+# # # # #           token: ${{ secrets.GITHUB_TOKEN }}
+
+# # # # #       - name: Setup pnpm
+# # # # #         uses: pnpm/action-setup@v3
+# # # # #         with:
+# # # # #           version: 8
+# # # # #           run_install: true
+
+# # # # #       - name: Load Environment Variables
+# # # # #         run: |
+# # # # #           echo "CLOUDINARY_CLOUD_NAME=${{ secrets.CLOUDINARY_CLOUD_NAME }}" >> $GITHUB_ENV
+# # # # #           echo "CLOUDINARY_API_KEY=${{ secrets.CLOUDINARY_API_KEY }}" >> $GITHUB_ENV
+# # # # #           echo "CLOUDINARY_API_SECRET=${{ secrets.CLOUDINARY_API_SECRET }}" >> $GITHUB_ENV
+# # # # #           echo "HMAC_SECRET=${{ secrets.HMAC_SECRET }}" >> $GITHUB_ENV
+
+# # # # #       - name: Run DApp Data Distillation
+# # # # #         run: pnpm run distill
+
+# # # # #       - name: Run DApp Data Link Accessibility Check
+# # # # #         run: pnpm run check-links
+
+# # # # #       - name: Auto-commit generated files
+# # # # #         uses: stefanzweifel/git-auto-commit-action@v5
+# # # # #         with:
+# # # # #           commit_message: "chore(data): auto-generated DApp data files"
+# # # # #           file_pattern: |
+# # # # #             data/apps.min.json
+# # # # #             data/slugs.json
+# # # # #             data/apps/**/meta.json
+
 # # # # name: Distill & Revalidate DApp Data
 
 # # # # on:
@@ -29,7 +84,23 @@
 # # # #         uses: pnpm/action-setup@v3
 # # # #         with:
 # # # #           version: 8
-# # # #           run_install: true
+
+# # # #       # 🚀 CACHING ADDED HERE
+# # # #       - name: Get pnpm store directory
+# # # #         shell: bash
+# # # #         run: |
+# # # #           echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+
+# # # #       - name: Setup pnpm cache
+# # # #         uses: actions/cache@v3
+# # # #         with:
+# # # #           path: ${{ env.STORE_PATH }}
+# # # #           key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+# # # #           restore-keys: |
+# # # #             ${{ runner.os }}-pnpm-store-
+
+# # # #       - name: Install dependencies
+# # # #         run: pnpm install --frozen-lockfile
 
 # # # #       - name: Load Environment Variables
 # # # #         run: |
@@ -52,7 +123,6 @@
 # # # #             data/apps.min.json
 # # # #             data/slugs.json
 # # # #             data/apps/**/meta.json
-
 # # # name: Distill & Revalidate DApp Data
 
 # # # on:
@@ -85,7 +155,6 @@
 # # #         with:
 # # #           version: 8
 
-# # #       # 🚀 CACHING ADDED HERE
 # # #       - name: Get pnpm store directory
 # # #         shell: bash
 # # #         run: |
@@ -101,6 +170,9 @@
 
 # # #       - name: Install dependencies
 # # #         run: pnpm install --frozen-lockfile
+
+# # #       - name: Build scripts
+# # #         run: pnpm run build
 
 # # #       - name: Load Environment Variables
 # # #         run: |
@@ -148,6 +220,7 @@
 # #       - name: Checkout repository
 # #         uses: actions/checkout@v4
 # #         with:
+# #           fetch-depth: 0
 # #           token: ${{ secrets.GITHUB_TOKEN }}
 
 # #       - name: Setup pnpm
@@ -181,11 +254,37 @@
 # #           echo "CLOUDINARY_API_SECRET=${{ secrets.CLOUDINARY_API_SECRET }}" >> $GITHUB_ENV
 # #           echo "HMAC_SECRET=${{ secrets.HMAC_SECRET }}" >> $GITHUB_ENV
 
+# #       - name: Get changed files
+# #         id: changed-files
+# #         uses: tj-actions/changed-files@v40
+# #         with:
+# #           files: "data/apps/**/meta.json"
+
+# #       - name: Extract changed dapp slugs
+# #         id: get_changed_dapp_slugs
+# #         run: |
+# #           SLUGS=()
+# #           for file in ${{ steps.changed-files.outputs.modified_files }} ${{ steps.changed-files.outputs.added_files }}; do
+# #             slug=$(echo "$file" | sed -E 's|data/apps/([^/]+)/meta.json|\1|')
+# #             if [[ "$slug" != "$file" ]]; then
+# #               SLUGS+=("$slug")
+# #             fi
+# #           done
+# #           UNIQUE_SLUGS=$(printf "%s\n" "${SLUGS[@]}" | sort -u | tr '\n' ' ' | xargs)
+# #           echo "Found changed slugs: $UNIQUE_SLUGS"
+# #           echo "slugs=$UNIQUE_SLUGS" >> $GITHUB_OUTPUT
+# #         shell: bash
+
 # #       - name: Run DApp Data Distillation
 # #         run: pnpm run distill
 
 # #       - name: Run DApp Data Link Accessibility Check
-# #         run: pnpm run check-links
+# #         if: steps.get_changed_dapp_slugs.outputs.slugs != ''
+# #         run: |
+# #           SLUGS="${{ steps.get_changed_dapp_slugs.outputs.slugs }}"
+# #           if [ -n "$SLUGS" ]; then
+# #             pnpm run check-links $SLUGS
+# #           fi
 
 # #       - name: Auto-commit generated files
 # #         uses: stefanzweifel/git-auto-commit-action@v5
@@ -195,6 +294,7 @@
 # #             data/apps.min.json
 # #             data/slugs.json
 # #             data/apps/**/meta.json
+
 # name: Distill & Revalidate DApp Data
 
 # on:
@@ -276,7 +376,13 @@
 #         shell: bash
 
 #       - name: Run DApp Data Distillation
-#         run: pnpm run distill
+#         run: |
+#           SLUGS="${{ steps.get_changed_dapp_slugs.outputs.slugs }}"
+#           if [ -n "$SLUGS" ]; then
+#             pnpm run distill $SLUGS
+#           else
+#             pnpm run distill
+#           fi
 
 #       - name: Run DApp Data Link Accessibility Check
 #         if: steps.get_changed_dapp_slugs.outputs.slugs != ''
@@ -294,7 +400,6 @@
 #             data/apps.min.json
 #             data/slugs.json
 #             data/apps/**/meta.json
-
 name: Distill & Revalidate DApp Data
 
 on:
@@ -392,11 +497,23 @@ jobs:
             pnpm run check-links $SLUGS
           fi
 
+      - name: Debug - Check files before commit
+        run: |
+          echo "=== Git Status ==="
+          git status
+          echo ""
+          echo "=== Changed meta.json files ==="
+          for f in data/apps/*/meta.json; do
+            echo "--- $f ---"
+            cat "$f" | head -5
+            echo "..."
+          done
+          echo ""
+          echo "=== Git Diff ==="
+          git diff --name-only
+
       - name: Auto-commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): auto-generated DApp data files"
-          file_pattern: |
-            data/apps.min.json
-            data/slugs.json
-            data/apps/**/meta.json
+          file_pattern: "data/apps.min.json data/slugs.json data/apps/*/meta.json"
