@@ -9,7 +9,7 @@ export const metaJsonSchema = z.object({
   tags: z.array(z.string()),
   pricing: z.string(),
   content: z.object({
-    short: z.string().max(160),
+    short: z.string().max(200),
     description: z.string(),
     meta: z.string().max(160),
     pageTitle: z.string(),
