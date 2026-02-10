@@ -59,7 +59,7 @@ describe('Schema Validation', () => {
     });
 
     it('should throw error for content.short exceeding max length', () => {
-      const invalidContent = { ...validMetaData.content, short: 'a'.repeat(161) };
+      const invalidContent = { ...validMetaData.content, short: 'a'.repeat(201) };
       const invalidData = { ...validMetaData, content: invalidContent };
       expect(() => metaJsonSchema.parse(invalidData)).toThrow(z.ZodError);
     });
