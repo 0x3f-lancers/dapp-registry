@@ -11,6 +11,7 @@
     "dev": "tsx index.ts",
     "dev:validate": "tsx scripts/run-validate.ts",
     "dev:distill": "tsx scripts/run-distill.ts",
+    "dev:generate-meta": "tsx scripts/generate-meta-from-consolidated.ts",
     "test": "jest"
   },
   "keywords": [],

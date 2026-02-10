@@ -11,7 +11,7 @@ export const metaJsonSchema = z.object({
   content: z.object({
     short: z.string().max(200),
     description: z.string(),
-    meta: z.string().max(160),
+    meta: z.string().max(200),
     pageTitle: z.string(),
   }),
   links: z
