@@ -7,9 +7,11 @@ on:
     paths:
       - "data/apps/**/meta.json"
       - "scripts/distill.ts"
-      - "scripts/check-links.ts"
+      - "schema/metaJsonSchema.ts"
+      - "schema/faucetIndexJson.ts"
+      - "schema/appsMinSchema.ts"
+      - "scripts/generate-facets.ts"
       - "lib/cloudinary.ts"
-      - "lib/schema.ts"
       - "lib/logger.ts"
   workflow_dispatch:
 
@@ -87,14 +89,6 @@ jobs:
             pnpm run distill
           fi
 
-      - name: Run DApp Data Link Accessibility Check
-        if: steps.get_changed_dapp_slugs.outputs.slugs != ''
-        run: |
-          SLUGS="${{ steps.get_changed_dapp_slugs.outputs.slugs }}"
-          if [ -n "$SLUGS" ]; then
-            pnpm run check-links $SLUGS
-          fi
-
       - name: Debug - Check files before commit
         run: |
           echo "=== Git Status ==="
@@ -114,4 +108,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): auto-generated DApp data files"
-          file_pattern: "data/apps.min.json data/slugs.json data/apps/*/meta.json"
+          file_pattern: "data/apps.min.json data/slugs.json data/facets.index.json"

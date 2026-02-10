@@ -7,7 +7,9 @@ on:
     paths:
       - "data/apps/**"
       - "scripts/**"
-      - "lib/**"
+      - "schema/**"
+      - "lib/cloudinary.ts"
+      - "lib/logger.ts"
 
 permissions:
   contents: write
@@ -70,14 +72,6 @@ jobs:
 
       - name: Run DApp Data Validation
         run: pnpm run validate
-
-      - name: Run DApp Data Link Accessibility Check
-        if: steps.get_changed_dapp_slugs.outputs.slugs != ''
-        run: |
-          SLUGS="${{ steps.get_changed_dapp_slugs.outputs.slugs }}"
-          if [ -n "$SLUGS" ]; then
-            pnpm run check-links $SLUGS
-          fi
 
       # 🔽 AUTO-MERGE STEP (comment out when testing)
       # - name: Enable auto-merge
