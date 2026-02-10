@@ -1,0 +1,47 @@
+{
+  "slug": "sushiswap-subgraph",
+  "name": "SushiSwap Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675634/dapp-store/dapp-logos/SushiSwap%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Celo",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "Fantom",
+    "BNB Chain",
+    "Moonbeam",
+    "Aptos"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "SushiSwap Subgraph indexes and queries on-chain SushiSwap protocol data for efficient analysis via Graph Protocol-powered subgraphs.",
+    "description": "SushiSwap Subgraph offers a collection of subgraphs that derive data from events emitted by SushiSwap smart contracts across multiple chains. Developers can retrieve on-chain data, including account balances, token and pool information, and transaction histories, enabling deeper analysis of activity and liquidity. The data is indexed and cached to support fast queries, which can be accessed through a GraphQL API exposed by the subgraphs.",
+    "meta": "SushiSwap Subgraph indexes on-chain data via Graph Protocol. Discover SushiSwap Subgraph and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "SushiSwap Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/sushiswap/subgraphs"
+  },
+  "relations": {
+    "alternatives": [
+      "foundation-subgraph",
+      "uniswap-subgraph"
+    ],
+    "related": [
+      "solidity-flattener",
+      "rockx"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

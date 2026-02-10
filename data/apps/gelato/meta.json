@@ -1,0 +1,50 @@
+{
+  "slug": "gelato",
+  "name": "Gelato",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675923/dapp-store/dapp-logos/Gelato.jpg",
+  "category": [
+    "DeFi Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "BNB Chain",
+    "Avalanche",
+    "Cronos"
+  ],
+  "tags": [
+    "Free Customers",
+    "Relayers",
+    "Decentralized Computing Tools",
+    "Transaction Tools",
+    "Solidity Developer Tools",
+    "Gas Tools",
+    "Transaction Fees, Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Gelato provides a decentralized Web3 backend to automate smart contracts and support off-chain tooling.",
+    "description": "Gelato is an all-in-one Ethereum Rollup-as-a-Service platform built without limits. Designed for speed, security, and scalability, it enables anyone to build and deploy fully serviced Layer 2 chains. Gelato rollups integrate with Web3 tools and services to provide a production-ready Web3 development environment from the Genesis block, aligning development workflows with the broader Web3 ecosystem. This approach emphasizes speed, security, and scalable growth for projects seeking to deploy Layer 2 solutions.",
+    "meta": "Gelato is an all-in-one Ethereum Rollup-as-a-Service (RaaS) platform built without limits. Discover Gelato and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Gelato - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.gelato.network/"
+  },
+  "relations": {
+    "alternatives": [
+      "open-zeppelin-relay",
+      "biconomy"
+    ],
+    "related": [
+      "outerbridge",
+      "flashbots"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

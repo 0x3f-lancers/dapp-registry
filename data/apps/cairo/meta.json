@@ -1,0 +1,45 @@
+{
+  "slug": "cairo",
+  "name": "Cairo",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675441/dapp-store/dapp-logos/Cairo.jpg",
+  "category": [
+    "Web3 Developer Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Starknet",
+    "Multichain",
+    "BNB Chain",
+    "Ethereum"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Languages",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Cairo is a ZK-compatible, Turing-complete smart contract language for StarkNet.",
+    "description": "Cairo is a Turing-complete smart contract programming language that unlocks the power of STARKs for developers. You can start writing Cairo smart contracts in the playground, follow tutorials that accompany the language, and use development wizards and tools to implement the logic behind decentralized applications. This setup emphasizes verifiable computation and scalable proof systems, giving builders a broad, practical set of resources to design, test, and deploy robust DApps with strong cryptographic guarantees. This arrangement supports a practical path from learning to deployment.",
+    "meta": "Cairo is a ZK-compatible smart contract coding language for StarkNet. Discover Cairo and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Cairo - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.cairo-lang.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "vyper",
+      "go-language",
+      "huff-language"
+    ],
+    "related": [
+      "cubanespace",
+      "circular-protocol",
+      "parasol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

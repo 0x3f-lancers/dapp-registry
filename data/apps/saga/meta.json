@@ -1,0 +1,44 @@
+{
+  "slug": "saga",
+  "name": "Saga",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675980/dapp-store/dapp-logos/Saga.jpg",
+  "category": [
+    "RaaS Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Cosmos",
+    "Fantom",
+    "Polygon"
+  ],
+  "tags": [
+    "Rollups-as-a-Service (RaaS)",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Saga is a Web3 scalability protocol for the automated deployment of dedicated blockspace.",
+    "description": "Saga is a protocol for automatically provisioning application-specific blockchains. It rethinks how developers and end users interact with blockchains by combining shared security, innovations in validator orchestration, and an automated deployment pipeline. With Saga, launching a dedicated blockchain, or a Chainlet, is as easy as deploying a smart contract. The network is designed as a scalable layer for web3 infrastructure, enabling bespoke blockchains tailored to apps and services.",
+    "meta": "Saga is a Web3 scalability protocol for the automated deployment of dedicated blockspace. Discover Saga and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Saga - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.saga.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "conduit",
+      "alt-layer"
+    ],
+    "related": [
+      "rollkit-dev",
+      "polymer"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

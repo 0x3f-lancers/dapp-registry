@@ -1,0 +1,47 @@
+{
+  "slug": "bls-wallet",
+  "name": "BLS Wallet",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675506/dapp-store/dapp-logos/BLS%20Wallet.png",
+  "category": [
+    "Web3 Wallets"
+  ],
+  "chains": [
+    "Arbitrum",
+    "OP Mainnet",
+    "Ethereum",
+    "Aptos",
+    "Bitcoin",
+    "Avalanche",
+    "Multichain",
+    "BNB Chain",
+    "Polygon"
+  ],
+  "tags": [
+    "Smart Contract Wallets",
+    "Software Wallets",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "BLS Wallet is a smart contract wallet project from the Ethereum Foundation's Privacy and Scaling Explorations team.",
+    "description": "BLS Wallet is a smart contract wallet that uses BLS signature aggregation to compress transactions on EVM rollups, reducing on-chain data and costs. It supports recovery, multi-action sequences, gasless transactions, and upgradeability, enabling flexible custody and evolving feature sets. By aggregating signatures, it aims to make user interactions cheaper and more scalable across supported networks, while preserving the security and programmability of a contract wallet.",
+    "meta": "BLS Wallet is a smart contract wallet project focused on BLS-based compression of EVM rollups. Discover BLS Wallet and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "BLS Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blswallet.org"
+  },
+  "relations": {
+    "alternatives": [
+      "soul-wallet",
+      "fluvi-wallet"
+    ],
+    "related": [
+      "gem-wallet",
+      "dfns"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

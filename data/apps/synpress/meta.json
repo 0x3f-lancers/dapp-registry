@@ -1,0 +1,40 @@
+{
+  "slug": "synpress",
+  "name": "Synpress",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675634/dapp-store/dapp-logos/Synpress.jpg",
+  "category": [
+    "Web3 Security Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana"
+  ],
+  "tags": [
+    "Web3 Testing Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Synpress is an e2e testing framework with MetaMask support.",
+    "description": "Synpress provides a complete end-to-end testing framework for DApps, built on top of Cypress and Playwright with MetaMask support. As a wrapper around Cypress, it enables testing MetaMask login, DApp authentication, and interactions with smart contracts. It also supports adding custom commands and plugins to write stable, powerful tests. By leveraging the capabilities of Cypress and Playwright, Synpress makes MetaMask accessible directly from your end-to-end tests, streamlining your testing workflow.",
+    "meta": "Synpress is an e2e testing framework with MetaMask support. Discover Synpress and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Synpress - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/Synthetixio/synpress"
+  },
+  "relations": {
+    "alternatives": [
+      "foundry-anvil",
+      "wake",
+      "ercx"
+    ],
+    "related": [
+      "trident",
+      "solvm"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

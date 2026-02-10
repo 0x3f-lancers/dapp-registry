@@ -1,0 +1,46 @@
+{
+  "slug": "zeromev",
+  "name": "zeromev",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694676005/dapp-store/dapp-logos/zeromev.svg",
+  "category": [
+    "DeFi Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Cosmos",
+    "Solana",
+    "Polygon",
+    "Avalanche",
+    "Arbitrum",
+    "BNB Chain"
+  ],
+  "tags": [
+    "MEV Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "zeromev is an MEV protocol protecting Ethereum users from censorship and frontrunning.",
+    "description": "zeromev works to shield Ethereum users from censorship and frontrunning, helping them avoid harmful MEV and stay safer on the network. It offers detailed visibility into MEV and transaction reordering on the Ethereum blockchain, enabling researchers and users to study patterns, assess risks, and understand how ordering can impact transactions through the Zeromev Frontrunning Explorer. For validators, zeromev provides Zeromev-Geth, a toolset that helps mitigate centralization risks and reinforces safeguards across validator operations.",
+    "meta": "zeromev is an MEV protocol protecting Ethereum users from censorship and frontrunning. Discover zeromev and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "zeromev - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.zeromev.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "flashbots",
+      "bloxroute",
+      "manifold-finance"
+    ],
+    "related": [
+      "lava-network",
+      "infura",
+      "zapper"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

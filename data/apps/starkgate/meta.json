@@ -1,0 +1,48 @@
+{
+  "slug": "starkgate",
+  "name": "StarkGate",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1710872137/dapp-store/dapp-logos/StarkGate.png",
+  "category": [
+    "DeFi Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Starknet",
+    "OP Mainnet",
+    "Multichain",
+    "BNB Chain",
+    "Avalanche",
+    "Aptos",
+    "Arbitrum",
+    "Polygon"
+  ],
+  "tags": [
+    "Web3 Bridges",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "StarkGate is the native bridge between Ethereum and Starknet, using smart contracts on Ethereum and Starknet with a web UI to enable transfers.",
+    "description": "StarkGate is the native bridge that connects Ethereum and Starknet. It enables users to transfer funds between Ethereum and Starknet, moving value across the two networks as needed. The project comprises smart contracts deployed on Ethereum and Starknet, together with a web-based interface that makes the bridge usable for end users. By coordinating cross-chain transfers through on-chain logic, StarkGate provides a direct pathway for moving assets across the Ethereum-Starknet ecosystem while capitalizing on the strengths of both networks.",
+    "meta": "StarkGate is the native bridge between Ethereum and Starknet. Discover StarkGate and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "StarkGate - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://starkgate.starknet.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "layerzero",
+      "meson",
+      "arianee"
+    ],
+    "related": [
+      "op-mainnet",
+      "quai",
+      "xdc-network"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

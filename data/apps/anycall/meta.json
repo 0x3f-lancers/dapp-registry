@@ -1,0 +1,47 @@
+{
+  "slug": "anycall",
+  "name": "anyCall",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675478/dapp-store/dapp-logos/anyCall.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "Avalanche",
+    "Polygon",
+    "Aptos",
+    "Arbitrum",
+    "Bitcoin",
+    "Solana"
+  ],
+  "tags": [
+    "Web3 Messaging Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "anyCall is a permissionless cross-chain messaging router that provides the easiest way to establish new dapps.",
+    "description": "anyCall enables cross-chain communication for decentralized applications, letting smart contracts on different networks interact and coordinate beyond their native chains. This approach supports architectures for Web3 platforms like DEXs, NFT marketplaces, and lending protocols that previously focused on assets on a single chain. By embracing cross-chain compatibility as a core pattern, anyCall helps developers build multi-chain experiences with native interoperability, opening new opportunities for cross-network collaboration and functionality.",
+    "meta": "anyCall is a permissionless cross-chain messaging router for building new dapps. Discover anyCall and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "anyCall - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://anycall.multichain.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "skiff",
+      "hermes-protocol",
+      "web3mq"
+    ],
+    "related": [
+      "holograph",
+      "chainstack",
+      "turnkey"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

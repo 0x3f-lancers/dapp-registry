@@ -1,0 +1,45 @@
+{
+  "slug": "sovereign-labs",
+  "name": "Sovereign Labs",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675987/dapp-store/dapp-logos/Sovereign%20Labs.jpg",
+  "category": [
+    "RaaS Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Fantom",
+    "Polygon",
+    "ZKsync",
+    "Cosmos"
+  ],
+  "tags": [
+    "Rollup Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Sovereign Labs is an ecosystem of interoperable and scalable rollups that can run on any blockchain.",
+    "description": "Sovereign Labs is a framework for building scalable, interoperable rollups capable of running on any blockchain. It promotes seamless interoperability and scalable performance, enabling cross-chain operation without sacrificing throughput. The platform provides components purpose-built for zk-rollups and takes advantage of advances in proof-generation parallelism to accelerate verification and deployment. By combining these building blocks, Sovereign Labs offers a cohesive foundation for developers to design, deploy, and connect zk-powered rollups across multiple ecosystems.",
+    "meta": "Sovereign Labs is a framework for scalable, interoperable rollups that run on blockchains. Discover Sovereign Labs and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Sovereign Labs - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.sovereign.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "rollkit-dev",
+      "op-stack"
+    ],
+    "related": [
+      "polymer",
+      "quicknode-rollups"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

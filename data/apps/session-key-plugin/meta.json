@@ -1,0 +1,47 @@
+{
+  "slug": "session-key-plugin",
+  "name": "Session Key Plugin",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1714172937/dapp-store/dapp-logos/Session%20Key%20Plugin.png",
+  "category": [
+    "Web3 Wallet Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Polygon",
+    "Base",
+    "Multichain",
+    "BNB Chain",
+    "Avalanche"
+  ],
+  "tags": [
+    "Modular Plugins (ERC-6900)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Session Key Plugin lets your Modular Account add signers with specific permissions, durations, and spending limits.",
+    "description": "Session Key Plugin enables your Modular Account to add signers with per-app permissions and defined time windows. Session keys provide a streamlined authentication flow while minimizing exposure of the main private key. Users create a session key with app-specific permissions, and the app can use that key for future actions. The plugin also supports configuring start and end times for each key, enforcing access control lists to allow or deny addresses, requiring specific paymasters, and setting spending limits for ERC-20s, native tokens (e.g., ETH, MATIC), and gas within a defined interval or in total.",
+    "meta": "The Session Key Plugin adds signers with per-app permissions and durations. Discover Session Key Plugin and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Session Key Plugin - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://twitter.com/erc6900"
+  },
+  "relations": {
+    "alternatives": [
+      "cold-storage-plugin",
+      "multisig-plugin",
+      "multi-owner-plugin"
+    ],
+    "related": [
+      "crypto-apis",
+      "stackup-bundler",
+      "ambire-wallet"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

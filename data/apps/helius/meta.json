@@ -1,0 +1,49 @@
+{
+  "slug": "helius",
+  "name": "Helius",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675428/dapp-store/dapp-logos/Helius.jpg",
+  "category": [
+    "Infrastructure Tools",
+    "Enterprise Customers"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Indexing Tools",
+    "NFT APIs",
+    "RPC Node Providers",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Helius provides Solana development optimization via RPCs, APIs, and webhooks.",
+    "description": "Helius simplifies building on Solana by delivering developer APIs for transactions and NFTs, along with webhooks and high-performance RPCs. With these tools, you can create services that emit notifications or trigger events when notable activity happens on Solana, such as a known collector purchasing a new NFT. By removing much of the onboarding and infrastructure work, Helius enables applications to monitor on-chain activity, respond in real time, and scale as demand grows.",
+    "meta": "Helius provides Solana development optimization via RPCs, APIs, and webhooks. Discover Helius and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Helius - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.helius.xyz/introduction/why-helius-api"
+  },
+  "relations": {
+    "alternatives": [
+      "chainstack-subgraphs",
+      "subsquid",
+      "alchemy"
+    ],
+    "related": [
+      "cryptoquant",
+      "arbitragescanner-api"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

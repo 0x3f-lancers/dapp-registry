@@ -1,0 +1,42 @@
+{
+  "slug": "sourcify",
+  "name": "Sourcify",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675800/dapp-store/dapp-logos/Sourcify.jpg",
+  "category": [
+    "Solidity Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "Free Customers",
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Sourcify provides a source code and metadata verification tool for Solidity contracts across EVM-compatible chains.",
+    "description": "Sourcify provides a comprehensive workflow for verifying both source code and metadata of Solidity contracts across EVM-compatible chains. Built on IPFS, it creates a decentralized base layer for tracing, validating, and auditing deployed contracts, with a web-accessible UI and an automated verification system that confirms on-chain bytecode matches the published sources and metadata. Sourcify includes plugins for Hardhat and Remix IDE and offers a Solidity metadata playground to explore and experiment with compiled contracts and their metadata.",
+    "meta": "Sourcify is a source code and metadata verification tool for Solidity smart contracts across EVM-compatible chains. Discover Sourcify and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Sourcify - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sourcify.dev/"
+  },
+  "relations": {
+    "alternatives": [
+      "waffle",
+      "drizzle",
+      "codehound"
+    ],
+    "related": [
+      "bonadocs",
+      "surya",
+      "solidity-visual-auditor"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

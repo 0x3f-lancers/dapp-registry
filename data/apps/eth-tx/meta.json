@@ -1,0 +1,41 @@
+{
+  "slug": "eth-tx",
+  "name": "EthTx",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675579/dapp-store/dapp-logos/EthTx.jpg",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "BNB Chain",
+    "Multichain"
+  ],
+  "tags": [
+    "Transaction Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "EthTx is a blockchain developer and analyst tool hosted by Token Flow to serve data for DApps.",
+    "description": "EthTx is a blockchain developer and analyst tool by Token Flow, created to supply targeted data for decentralized applications. For developers, it provides a way to inspect a smart contract address and surface insights about its underlying constructors, helping them gain a clearer picture of how the contract is designed and implemented. For analysts, EthTx offers methods to infer transaction values from decoded addresses and the logic of the associated smart contracts, supporting a clearer interpretation of on-chain activity.",
+    "meta": "EthTx is a decoder for Ethereum Mainnet and Testnet transactions hosted by Token Flow. Discover EthTx and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "EthTx - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ethtx.info/"
+  },
+  "relations": {
+    "alternatives": [
+      "web3cli"
+    ],
+    "related": [
+      "woop-pay",
+      "tokenscript"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "metaplex",
+  "name": "Metaplex",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675413/dapp-store/dapp-logos/Metaplex.jpg",
+  "category": [
+    "NFT Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Multichain"
+  ],
+  "tags": [
+    "NFT Smart Contract Templates",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Metaplex provides tools to mint, sell, and manage NFTs, including Metaplex Studio for code-free NFT launches.",
+    "description": "Since its August 2021 launch, Metaplex has become one of the largest NFT tooling protocols on Solana. It lets creators mint, sell, and manage NFTs, with Metaplex Studio allowing the launch of customized collections without coding. For developers, Metaplex provides a suite of tools and SDKs, including Candy Machine for minting and distribution, Auction House for sale workflows, and Token Metadata for integrating NFTs into projects.",
+    "meta": "Metaplex is an NFT tooling platform enabling creators to mint, sell, and manage NFTs. Discover Metaplex and other NFT Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Metaplex - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.metaplex.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "erc721a",
+      "highlight",
+      "xircusweb3"
+    ],
+    "related": [
+      "skymass",
+      "liteflow",
+      "nft-minter-template"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

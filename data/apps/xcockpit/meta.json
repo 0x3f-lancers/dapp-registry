@@ -1,0 +1,47 @@
+{
+  "slug": "xcockpit",
+  "name": "Xcockpit",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694676008/dapp-store/dapp-logos/Xcockpit.png",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "Multichain",
+    "OP Mainnet",
+    "Polygon"
+  ],
+  "tags": [
+    "Solidity Developer Tools",
+    "Smart Contract Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Xcockpit lets you interact with contracts on EVM chains via an Etherscan-like interface.",
+    "description": "Xcockpit offers an Etherscan-style dapp that lets you interact with any contract on any EVM-compatible chain, whether the contract is verified or not, including your own local network. The interface makes querying and interacting with contracts straightforward, with a clean, familiar explorer experience. It also provides a one-click tool to view pending transactions and cancel them quickly. This combination makes contract exploration and management on multiple chains simpler and faster.",
+    "meta": "Xcockpit is a dapp for interacting with contracts on EVM chains. Discover Xcockpit and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Xcockpit - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://xcockpit.io"
+  },
+  "relations": {
+    "alternatives": [
+      "dedaub-contract-library",
+      "constructor-encoder",
+      "auditbase"
+    ],
+    "related": [
+      "astrakode-smart-contract-auditor",
+      "ethereum-etl",
+      "solidity-visual-auditor"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

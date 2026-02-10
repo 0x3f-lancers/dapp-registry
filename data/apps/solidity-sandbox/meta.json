@@ -1,0 +1,43 @@
+{
+  "slug": "solidity-sandbox",
+  "name": "Solidity Sandbox",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675624/dapp-store/dapp-logos/Solidity%20Sandbox.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Avalanche",
+    "Polygon"
+  ],
+  "tags": [
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "A forge-based, forkable repo with templates for testing Solidity smart contracts.",
+    "description": "Solidity Sandbox is a forge-based collection of test templates designed to be run against Solidity smart contracts. It provides a practical learning environment where developers can observe how their contracts interact with the tests, and how different test cases exercise contract behavior. By studying the interplay between contract logic and the test templates, users can deepen their understanding of Solidity development and testing strategies. Contributors are encouraged to follow consistent naming conventions to preserve the flow and stability of command-line executions as the project matures and expands.",
+    "meta": "Solidity Sandbox is a forge-based collection of test templates for Solidity contracts. Discover Solidity Sandbox and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Solidity Sandbox - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/maurelian/solidity-sandbox/"
+  },
+  "relations": {
+    "alternatives": [
+      "buidlguidl",
+      "bitbond",
+      "sourcify"
+    ],
+    "related": [
+      "snekmate",
+      "uniswap-v3-core",
+      "yearn-smart-contracts"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

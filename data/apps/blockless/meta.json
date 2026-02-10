@@ -1,0 +1,42 @@
+{
+  "slug": "blockless",
+  "name": "Blockless",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675504/dapp-store/dapp-logos/Blockless.png",
+  "category": [
+    "Zero Knowledge Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum"
+  ],
+  "tags": [
+    "ZK Developer Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Blockless is a decentralized network offering verifiable, trustless computation with a unique node ranking, task distribution, and system selection.",
+    "description": "Blockless is a decentralized network that enables verifiable, trustless computation, breaking the conventional limits of blockchain platforms. Its open, permissionless design invites participants to contribute with a wide range of hardware—from Android devices to high-end servers—creating a diverse and resilient compute fabric. Blockless stands out with a distinctive node ranking, task distribution, and system selection mechanism, delivering scalable, developer-friendly computation across varied infrastructures.",
+    "meta": "Blockless provides a zk-verifiable platform for easy dApp development. Discover Blockless and other Zero Knowledge Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Blockless - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bless.network/"
+  },
+  "relations": {
+    "alternatives": [
+      "risc-zero",
+      "lagrange"
+    ],
+    "related": [
+      "solidity-code-coverage",
+      "surya",
+      "solidity-visual-auditor"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

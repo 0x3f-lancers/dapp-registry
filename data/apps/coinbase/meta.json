@@ -1,0 +1,52 @@
+{
+  "slug": "coinbase",
+  "name": "Coinbase",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675408/dapp-store/dapp-logos/Coinbase.png",
+  "category": [
+    "Trading Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Starknet",
+    "BNB Chain",
+    "Avalanche",
+    "ZKsync",
+    "Multichain",
+    "Tron"
+  ],
+  "tags": [
+    "Free Customers",
+    "Crypto Exchanges",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Coinbase is a U.S.-based centralized cryptocurrency exchange where users can buy, sell, earn, and borrow crypto.",
+    "description": "Coinbase Global, Inc., commonly referred to as Coinbase, is an American publicly traded company that operates a cryptocurrency exchange platform. Users can buy, sell, earn, and borrow cryptocurrency, and use the Coinbase Wallet to securely store digital assets and NFTs, while also trading derivatives. For developers, Coinbase Cloud provides a suite of tools and an API to build, scale, and integrate cryptocurrency features within apps and services.",
+    "meta": "Coinbase is the most trusted centralized cryptocurrency exchange in the United States. Discover Coinbase and other Trading Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Coinbase - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.coinbase.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "toobit",
+      "bitstamp",
+      "bybarter"
+    ],
+    "related": [
+      "matcha",
+      "avnu",
+      "morfi"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

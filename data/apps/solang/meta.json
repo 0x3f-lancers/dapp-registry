@@ -1,0 +1,43 @@
+{
+  "slug": "solang",
+  "name": "Solang",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675619/dapp-store/dapp-logos/Solang.png",
+  "category": [
+    "Web3 Developer Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decompilers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solang provides a Solidity compiler for Solana and Substrate.",
+    "description": "Solang is an open-source Solidity compiler designed for Solana and Substrate developers. It lets users compile their Solidity code and interact with the corresponding blockchains, providing a practical toolchain for building on these platforms. Supported by a team of 25 contributors, Solang has earned recognition as a go-to compiler within both Solana and Substrate ecosystems, delivering reliable compilation and interoperability across the chains.",
+    "meta": "Solang is an open-source Solidity compiler for Solana and Substrate developers. Discover Solang and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Solang - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/hyperledger/solang"
+  },
+  "relations": {
+    "alternatives": [
+      "dedaub-contract-library",
+      "etherscan-decompiler",
+      "evmdis-decompiler"
+    ],
+    "related": [
+      "capstone-disassembler",
+      "pyevmasm"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

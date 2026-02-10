@@ -1,0 +1,46 @@
+{
+  "slug": "strkfarm",
+  "name": "STRKFarm",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1721052661/dapp-store/dapp-logos/STRKFarm.png",
+  "category": [
+    "DeFi Dapps"
+  ],
+  "chains": [
+    "Starknet",
+    "OP Mainnet",
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Multichain"
+  ],
+  "tags": [
+    "DeFi Yield Aggregators",
+    "DeFi Yield Farming Platforms",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "STRKFarm is a DeFi yield aggregator on Starknet that automatically invests user assets across DeFi protocols to maximise returns.",
+    "description": "STRKFarm is a DeFi yield aggregator on Starknet that automatically allocates user assets across DeFi protocols within a single strategy to maximize returns. It targets advanced DeFi users who want to earn yield on their tokens. STRKFarm provides two strategies: Autocompounding STRK and Stable Lending Maxi. The Autocompounding strategy reinvests STRK rewards earned during Starknet's DeFi Spring campaign, while Stable Lending Maxi relies on a looping approach to optimize lending yields.",
+    "meta": "STRKFarm is a DeFi yield aggregator on Starknet investing in DeFi protocols to maximise returns. Discover STRKFarm and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "STRKFarm - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.strkfarm.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "yearn",
+      "beefy-finance",
+      "horizondex"
+    ],
+    "related": [
+      "kwenta",
+      "truefi",
+      "larix"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

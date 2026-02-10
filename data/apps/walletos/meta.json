@@ -1,0 +1,48 @@
+{
+  "slug": "walletos",
+  "name": "walletOS",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675967/dapp-store/dapp-logos/walletOS.png",
+  "category": [
+    "Web3 Wallet Tools",
+    "Enterprise Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Avalanche",
+    "Cosmos",
+    "Bitcoin",
+    "Multichain",
+    "OP Mainnet",
+    "Arbitrum",
+    "Polygon"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Wallet Developer Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "walletOS is a single API to simplify blockchain development, providing a unified interface for blockchain interactions across 18+ networks.",
+    "description": "walletOS provides a single API to streamline blockchain development. It exposes a defined set of endpoints for all blockchain interactions across 18+ networks, giving developers a uniform API interface that hides chain-specific complexities. By standardizing common data shapes and calls, teams can devote more time to their core product rather than network-specific integration work. Typical use cases include transfers, staking, and smart contract interactions across the supported networks.",
+    "meta": "walletOS is a single API that simplifies blockchain development across 18+ networks. Discover walletOS and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "walletOS - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.pinestreetlabs.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "turnkey",
+      "wally"
+    ],
+    "related": [
+      "bitcoincom-wallet",
+      "taho-xyz"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

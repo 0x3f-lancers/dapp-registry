@@ -1,0 +1,46 @@
+{
+  "slug": "taker",
+  "name": "Taker",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675822/dapp-store/dapp-logos/Taker.png",
+  "category": [
+    "NFT Dapps",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "BNB Chain",
+    "Multichain",
+    "Polygon"
+  ],
+  "tags": [
+    "Free Customers",
+    "NFT Lending Dapps",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Taker is a liquidity protocol for NFTs enabling liquidation, rental, and pool-based pricing.",
+    "description": "Taker is the first protocol to provide pool-based NFT lending, bringing NFTs into a shared pool and letting CuratorDAO determine their value. CuratorDAO provides pricing for the NFTs in the pool. Loan terms, such as duration and APR, are bundled with the loan amount so borrowers do not need to negotiate separately. These terms and the pricing can be adjusted through DAO governance, enabling the community to steer the pool's parameters over time.",
+    "meta": "Taker is a liquidity protocol for NFTs enabling liquidation and rental with pool NFT solutions. Discover Taker and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Taker - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://taker.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "pawnfi",
+      "gondi",
+      "supermojo"
+    ],
+    "related": [
+      "double-one",
+      "gumball-protocol",
+      "gamma-io"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

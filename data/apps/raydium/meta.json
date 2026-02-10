@@ -1,0 +1,47 @@
+{
+  "slug": "raydium",
+  "name": "Raydium",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675762/dapp-store/dapp-logos/Raydium.jpg",
+  "category": [
+    "DeFi Dapps"
+  ],
+  "chains": [
+    "Solana",
+    "Multichain",
+    "Ethereum",
+    "Fantom",
+    "Polygon",
+    "Avalanche",
+    "Arbitrum",
+    "Base"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Raydium is a Solana-based AMM exchange with shared liquidity and a central order book for fast trading.",
+    "description": "Raydium is a Solana-based automated market maker (AMM) and liquidity provider that powers the Solana DeFi ecosystem. Launched on February 21, 2021, Raydium shares liquidity with Serum, a Solana DEX, and taps into Serum’s central order book mechanism that mirrors traditional exchanges. This setup enables fast, low-fee trading of digital assets on Solana while relying on an order-book system for reliability, delivering an experience akin to conventional exchanges on a Solana-native platform.",
+    "meta": "Raydium is a Solana-based automated market maker (AMM) exchange and liquidity provider. Discover Raydium and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Raydium - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://raydium.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "yield-yak",
+      "defx",
+      "dzap"
+    ],
+    "related": [
+      "swissborg",
+      "rage-trade",
+      "thetanuts-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

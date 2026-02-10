@@ -1,0 +1,44 @@
+{
+  "slug": "ethlint",
+  "name": "Ethlint",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675613/dapp-store/dapp-logos/Ethlint.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Polygon",
+    "BNB Chain",
+    "Avalanche"
+  ],
+  "tags": [
+    "Static Analysis Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Ethlint analyzes Solidity code for style and security and fixes issues.",
+    "description": "Ethlint is a Solidity linting tool that analyzes your Solidity code to enforce style and security best practices and automatically fixes issues it detects. It offers a command-line interface for linting contracts, can be integrated with popular IDEs, and can be extended with plugins to customize functionality. With around 30 contributors, Ethlint provides comprehensive documentation on contributing, modifying, and experimenting with the tool. As an open-source project, it invites participation from the community.",
+    "meta": "Ethlint analyzes Solidity code for style and security and fixes issues. Discover Ethlint and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Ethlint - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/duaraghav8/Ethlint"
+  },
+  "relations": {
+    "alternatives": [
+      "slither",
+      "rattle",
+      "solidcheck"
+    ],
+    "related": [
+      "husky",
+      "ethereum-etl",
+      "toolblox"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

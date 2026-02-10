@@ -1,0 +1,49 @@
+{
+  "slug": "0xcert",
+  "name": "0xCert",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675600/dapp-store/dapp-logos/0xCert.jpg",
+  "category": [
+    "Web3 Developer Tools",
+    "Amplify Winners"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Aptos",
+    "Base",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Amplify Winners",
+    "Development Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "0xCert is a JavaScript framework for building decentralized applications and managing ERC standards, including ERC-20, ERC-721, and ERC-2477.",
+    "description": "0xCert is a JavaScript framework that provides developers with a comprehensive toolkit for building a wide range of blockchain applications. Its composable architecture supports multiple ERC token standards—fungible tokens like ERC-20 and non-fungible tokens such as ERC-721 and ERC-2477—while storing assets and data on immutable, distributed systems. This approach enables robust, interoperable smart contract development across diverse networks and use cases.",
+    "meta": "0xCert is a JavaScript framework for building blockchain apps and managing ERC standards. Discover 0xCert and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "0xCert - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/0xcert/framework/"
+  },
+  "relations": {
+    "alternatives": [
+      "bonusblock",
+      "apeworx-ape",
+      "truffle"
+    ],
+    "related": [
+      "huff-vm",
+      "dappkit",
+      "portals-fi"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

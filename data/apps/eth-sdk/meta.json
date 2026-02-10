@@ -1,0 +1,44 @@
+{
+  "slug": "eth-sdk",
+  "name": "ETH SDK",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675613/dapp-store/dapp-logos/ETH%20SDK.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ETH SDK provides used to generate type-safe, lightweight SDK's for Ethereum smart contracts.",
+    "description": "ETH SDK, developed by dEth—the team behind Hardhat, Typechain, and the dEth Tools—helps developers interact with smart contracts more smoothly. It automatically fetches ABIs from Etherscan and generates ethers.js contract wrappers with a typed API, so you can call contracts from JavaScript or TypeScript with confidence. By providing contract type information, it reduces the ceremony of working with Ethereum contracts and enhances IDE support with smarter autocomplete, error checking, and navigation.",
+    "meta": "ETH SDK generates type-safe SDKs for interacting with Ethereum smart contracts. Discover ETH SDK and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ETH SDK - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/dethcrypto/eth-sdk"
+  },
+  "relations": {
+    "alternatives": [
+      "huff-starter-kit",
+      "zenland",
+      "contractreader"
+    ],
+    "related": [
+      "cant-be-evil-license",
+      "polygon-smart-contract-template",
+      "delegatable"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

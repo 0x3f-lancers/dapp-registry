@@ -1,0 +1,44 @@
+{
+  "slug": "solvm",
+  "name": "Solvm",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675447/dapp-store/dapp-logos/Solvm.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "BNB Chain",
+    "Polygon",
+    "Arbitrum"
+  ],
+  "tags": [
+    "EVM Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solvm is a stripped-down EVM implemented using Solidity and Yul.",
+    "description": "Solvm is a compact, stripped-down implementation of the Ethereum Virtual Machine built on top of the EVM using Solidity and Yul. Created as a memory-management challenge, it demonstrates how the EVM can be modeled within Solidity. Solvm uses a dynamic in-memory array to hold the EVM's simulated stack variables and stores the simulated memory at a movable offset, enabling a flexible and observable memory layout during execution. The design emphasizes hands-on exploration of EVM internals through a minimal, test-friendly engine.",
+    "meta": "Solvm is a stripped-down EVM implemented using Yul & Solidity. Discover Solvm and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Solvm - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/brockelmore/solvm#readme"
+  },
+  "relations": {
+    "alternatives": [
+      "idos-games-engine",
+      "envio",
+      "dedaub-contract-library"
+    ],
+    "related": [
+      "web3cli",
+      "whal3s",
+      "foundry"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

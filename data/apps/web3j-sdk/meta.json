@@ -1,0 +1,47 @@
+{
+  "slug": "web3j-sdk",
+  "name": "web3j",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675639/dapp-store/dapp-logos/web3j.jpg",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Avalanche",
+    "Base",
+    "Bitcoin",
+    "Polkadot",
+    "Moonbeam",
+    "Polygon"
+  ],
+  "tags": [
+    "Web3 Libraries",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "web3j provides a lightweight Java and Android library for integrating with Ethereum blockchains.",
+    "description": "web3j is a Java and Android library that lets developers interact with Ethereum blockchains without building their own integration code. It is lightweight, highly modular, reactive, and type-safe, designed for writing smart contracts and integrating them with Ethereum networks. By providing a clean API and compile-time safety, web3j reduces boilerplate and accelerates development for blockchain-aware Java applications, enabling straightforward contract calls, event handling, and wallet interactions.",
+    "meta": "web3j provides a lightweight Java and Android library for Ethereum integration. Discover web3j and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "web3j - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/web3j/web3j"
+  },
+  "relations": {
+    "alternatives": [
+      "fuzzlib",
+      "libp2p",
+      "whal3s"
+    ],
+    "related": [
+      "dedicatednodesio",
+      "logicware",
+      "apillon"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

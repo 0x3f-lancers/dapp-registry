@@ -1,0 +1,47 @@
+{
+  "slug": "hyperlane",
+  "name": "Hyperlane",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675930/dapp-store/dapp-logos/Hyperlane.jpg",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Avalanche",
+    "BNB Chain",
+    "Arbitrum",
+    "Base",
+    "Solana"
+  ],
+  "tags": [
+    "Blockchain Interoperability Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Hyperlane is an interchain application development protocol with APIs and an SDK.",
+    "description": "Hyperlane, formerly Abacus, provides a cross-blockchain interconnection service that enables seamless interchain communication. It offers a robust set of APIs for cross-chain messaging and state synchronization, along with an SDK to help developers build interchain decentralized applications. Using Hyperlane, teams can create new interchain experiences from scratch or add interchain functionality to existing dApps, tokens, and NFTs via its APIs. The platform supports multiple major networks and aims to simplify cross-chain development for web3 builders.",
+    "meta": "Hyperlane provides APIs for interchain communication and an SDK to build DApps. Discover Hyperlane and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Hyperlane - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.hyperlane.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "anyalt",
+      "holograph",
+      "outerbridge"
+    ],
+    "related": [
+      "layerzero",
+      "jumper-exchange",
+      "safe-haven"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

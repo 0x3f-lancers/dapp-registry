@@ -1,0 +1,48 @@
+{
+  "slug": "evo-exchange",
+  "name": "Evo Exchange",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1718731755/dapp-store/dapp-logos/Evo%20Exchange.png",
+  "category": [
+    "DeFi Dapps"
+  ],
+  "chains": [
+    "Polygon zkEVM",
+    "Ethereum",
+    "Arbitrum",
+    "Cosmos",
+    "Polkadot",
+    "Multichain",
+    "OP Mainnet",
+    "Fantom",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Evo Exchange is the first full-service Interblockchain Gen2 DEX.",
+    "description": "Evo Exchange addresses fragmentation across DEXs and blockchains by unifying trading and lending into a single cross-chain experience. Previously, users had to switch between Uniswap for spot trades and Aave for borrowing, while managing multiple chains with wrapped or bridged assets. Using MPC technology, Evo Exchange enables native asset cross-chain trading with all the features of a centralized exchange, yet preserves the open, permissionless nature of a DEX. Supported chains: Polygon zkEVM, Ethereum, Arbitrum, Cosmos, Polkadot, Multichain, OP Mainnet, Fantom, and BNB Chain.",
+    "meta": "Evo Exchange enables cross-chain trading using MPC, while preserving DEX functionality. Discover Evo Exchange and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Evo Exchange - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.evo.exchange/"
+  },
+  "relations": {
+    "alternatives": [
+      "beethoven-x",
+      "aark",
+      "wombat-exchange"
+    ],
+    "related": [
+      "hegic",
+      "proxy",
+      "swissborg"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

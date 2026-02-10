@@ -1,0 +1,47 @@
+{
+  "slug": "betarpc",
+  "name": "BetaRPC",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675624/dapp-store/dapp-logos/BetaRPC.jpg",
+  "category": [
+    "Infrastructure Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Multichain",
+    "Polkadot",
+    "Fantom",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "RPC Node Providers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "BetaRPC is an RPC endpoint protecting EVM wallets from failed transactions and frontrunning.",
+    "description": "BetaRPC offers an RPC endpoint that helps shield EVM wallets from costly failed transactions, wasted gas, and manipulation by frontrunners and sandwich attacks. It can back-run a user's transactions to verify potential rebates, enabling protective checks without delaying normal transfers. All protective actions are triggered only when necessary to minimize impact on performance. The service provides support across Ethereum, Solana, Polygon, Multichain, Polkadot, Fantom, and BNB Chain, giving developers a multi-chain option for transaction safety.",
+    "meta": "BetaRPC is an RPC endpoint protecting EVM wallets from failed transactions and frontrunning. Discover BetaRPC and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "BetaRPC - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/mevalphaleak/BetaRPC-setup"
+  },
+  "relations": {
+    "alternatives": [
+      "gateway-fm",
+      "backpac-inc",
+      "alchemy"
+    ],
+    "related": [
+      "flare-network",
+      "polkadot"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

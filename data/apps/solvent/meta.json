@@ -1,0 +1,44 @@
+{
+  "slug": "solvent",
+  "name": "Solvent",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675795/dapp-store/dapp-logos/Solvent.png",
+  "category": [
+    "NFT Dapps"
+  ],
+  "chains": [
+    "Solana",
+    "Arbitrum",
+    "BNB Chain",
+    "Ethereum",
+    "Polygon"
+  ],
+  "tags": [
+    "NFT Lending Dapps",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solvent is an NFT lending protocol that converts NFTs into fungible tokens, enabling lending, fractional ownership, and passive income.",
+    "description": "Solvent is an early liquidity platform for NFTs on Solana. Users deposit their NFTs into a Solvent NFT collection (bucket), which mints droplets that can be used for lending, fractional ownership of NFTs, and to earn passive income. Solvent relies on AMM-based floor prices to determine collateralized loan amounts, converting NFT holdings into liquid collateral and enabling borrowers to access liquidity against their assets.",
+    "meta": "Solvent is an NFT lending protocol that lets NFT holders convert NFTs into fungible tokens. Discover Solvent and other NFT Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Solvent - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://solvent.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "pawnspace",
+      "pawnfi",
+      "double-one"
+    ],
+    "related": [
+      "solsea",
+      "double-one",
+      "looksrare"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "coinbase-wallet",
+  "name": "Coinbase Wallet",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675406/dapp-store/dapp-logos/Coinbase%20Wallet.jpg",
+  "category": [
+    "Web3 Wallets",
+    "Web3 30 Winners"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Solana",
+    "Multichain"
+  ],
+  "tags": [
+    "Web3 30 Winners",
+    "Software Wallets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Coinbase Wallet is an EVM compatible software wallet.",
+    "description": "Coinbase Wallet is an EVM-compatible software wallet launched in 2018 by the creators of Coinbase. It enables users to purchase ERC-20 tokens and NFTs and to participate in airdrops, all from a single wallet interface. For developers, the wallet can connect directly to testnet faucets via a wallet extension and can be integrated with decentralized applications and protocols for lending and payments, supporting seamless interaction with on-chain services.",
+    "meta": "Coinbase Wallet is an EVM compatible software wallet launched in 2018. Discover Coinbase Wallet and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Coinbase Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.coinbase.com/wallet"
+  },
+  "relations": {
+    "alternatives": [
+      "guarda-wallet",
+      "narval",
+      "multis"
+    ],
+    "related": [
+      "trezor",
+      "rivo-xyz",
+      "dcent"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

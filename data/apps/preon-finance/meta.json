@@ -1,0 +1,45 @@
+{
+  "slug": "preon-finance",
+  "name": "Preon Finance",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1733639962/dapp-store/dapp-logos/Preon%20Finance.png",
+  "category": [
+    "DeFi Dapps"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Polygon",
+    "Base",
+    "Solana",
+    "Cronos",
+    "Ethereum"
+  ],
+  "tags": [
+    "Decentralized CDPs",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Preon Finance is a decentralized CDP protocol with 0% interest that enables borrowing against crypto.",
+    "description": "Preon Finance is a decentralized CDP protocol where users deposit crypto to mint STAR, a decentralized over-collateralized stablecoin pegged to the USD, at 0% interest with a minimum collateral ratio of 110%. STAR can be deposited into the stability pool to receive discounted collateral during liquidations, or into liquidity pools to earn yield. The system supports on-chain borrowing against collateral and liquidity provisioning within a single DeFi framework.",
+    "meta": "Preon Finance is a decentralized 0% interest CDP protocol to borrow against crypto. Discover Preon Finance and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Preon Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.preon.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "reflexer",
+      "ratio-finance",
+      "silo-finance"
+    ],
+    "related": [
+      "lifinity",
+      "aark",
+      "tectonic-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

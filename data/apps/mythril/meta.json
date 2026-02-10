@@ -1,0 +1,38 @@
+{
+  "slug": "mythril",
+  "name": "Mythril",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675606/dapp-store/dapp-logos/Mythril.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "Symbolic Execution Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Mythril is a dynamic analysis tool for EVM bytecode that detects security vulnerabilities.",
+    "description": "Mythril is the dynamic smart contract security analysis component of the MythX security analysis suite. It uses symbolic execution, SMT solving, and taint analysis to detect security vulnerabilities in contracts on any EVM-compatible chain. When used with MythX, developers gain access to IDE plugins, instructional documentation, and command-line tools. This arrangement positions Mythril within a broader toolset designed for rigorous security review of Ethereum-compatible contracts.",
+    "meta": "Mythril is a dynamic analysis tool for EVM bytecode that detects security vulnerabilities. Discover Mythril and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Mythril - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/ConsenSys/mythril"
+  },
+  "relations": {
+    "alternatives": [
+      "manticore"
+    ],
+    "related": [
+      "solidity-linting-tool",
+      "rattle",
+      "eth-lift"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

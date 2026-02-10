@@ -1,0 +1,45 @@
+{
+  "slug": "eth-calldata-decoder",
+  "name": "ETH Calldata Decoder",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675514/dapp-store/dapp-logos/ETH%20Calldata%20Decoder.png",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon"
+  ],
+  "tags": [
+    "ABI Tools",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ETH Calldata Decoder provides a UI to easily decode Ethereum calldata with a contract address ABI or no ABI.",
+    "description": "ETH Calldata Decoder makes debugging smart contracts faster by turning transaction calldata into a clear, human-readable form. It decodes calldata by automatically fetching the contract's ABI or, if needed, by guessing the invoked function, even when the contract isn't verified. By presenting the function name, inputs, and their interpreted values, it helps you quickly understand how a transaction interacts with a contract, diagnose issues, and verify expected behavior across supported networks such as Ethereum, Arbitrum, Polygon, Avalanche, BNB Chain, and OP Mainnet.",
+    "meta": "ETH Calldata Decoder decodes Ethereum calldata with contract address ABI or no ABI. Discover ETH Calldata Decoder and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "ETH Calldata Decoder - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://calldata-decoder.apoorv.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "okcontract",
+      "envio",
+      "evmole"
+    ],
+    "related": [
+      "bunzz-dev",
+      "contractreader",
+      "bonadocs"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

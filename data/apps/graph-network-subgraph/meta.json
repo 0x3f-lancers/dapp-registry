@@ -1,0 +1,48 @@
+{
+  "slug": "graph-network-subgraph",
+  "name": "Graph Network Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675617/dapp-store/dapp-logos/Graph%20Network%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Starknet",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Subgraphs",
+    "NFT Subgraphs",
+    "DAO Subgraphs",
+    "Gaming Subgraphs",
+    "Metaverse Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Graph Network Subgraph indexes deployed subgraphs for faster, more efficient querying.",
+    "description": "Graph Network Subgraph provides a comprehensive index of every subgraph deployed on the Graph Network and keeps an up-to-date registry of hosted subgraphs. For each entry, it records the subgraph’s name, ID, Ethereum contract address, and additional relevant metadata. This organized data view lets developers locate the information they need more quickly, without having to search through smart contracts manually, enabling faster data discovery and integration.",
+    "meta": "Graph Network Subgraph indexes deployed subgraphs and keeps a registry. Discover Graph Network Subgraph and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Graph Network Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/graphprotocol/graph-network-subgraph"
+  },
+  "relations": {
+    "alternatives": [
+      "chainstack-subgraphs",
+      "synthetix-subgraph"
+    ],
+    "related": [
+      "token-terminal",
+      "token-flow"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

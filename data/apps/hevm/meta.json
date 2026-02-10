@@ -1,0 +1,41 @@
+{
+  "slug": "hevm",
+  "name": "hevm",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675611/dapp-store/dapp-logos/hevm.jpg",
+  "category": [
+    "Web3 Security Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Starknet"
+  ],
+  "tags": [
+    "Fuzzing Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "hevm enables debugging, fuzzing, and symbolic execution of local code or mainnet state with a testing-oriented EVM.",
+    "description": "hevm is an EVM debugger and symbolic execution engine developed by DappHub. It is designed for symbolic execution, unit testing, and debugging of smart contracts. The hevm command line tool enables interactive symbolic execution and debugging of contracts while running unit tests and assessing vulnerabilities. As an implementation of the EVM, it serves as the execution engine for toolchains such as dapp and Echidna.",
+    "meta": "hevm is an EVM debugger and symbolic execution engine developed by DappHub. Discover hevm and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "hevm - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/dapphub/dapptools/blob/master/src/hevm/README.md"
+  },
+  "relations": {
+    "alternatives": [
+      "arachne",
+      "echidna",
+      "tayt"
+    ],
+    "related": [
+      "ethlint",
+      "slither",
+      "solhint-prettier-plugin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

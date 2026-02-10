@@ -1,0 +1,47 @@
+{
+  "slug": "foundry-forge",
+  "name": "Forge",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675617/dapp-store/dapp-logos/Forge.png",
+  "category": [
+    "Web3 Developer Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Multichain",
+    "Celo"
+  ],
+  "tags": [
+    "Free Customers",
+    "Development Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Inspired by Dapptools, Forge is a convenient Ethereum testing framework in the Foundry toolkit.",
+    "description": "Forge is a practical command-line tool inside the Foundry development toolkit. It enables developers to build, test, and deploy Ethereum-based smart contracts written in Solidity, all within the broader Foundry environment. The tool supports a range of EVM backends and accelerates tests by executing multiple EVM instances in parallel, producing state diffs rather than directly altering the state itself.",
+    "meta": "Forge is a practical command line tool in the Foundry application development toolkit. Discover Forge and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Forge - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/foundry-rs/foundry/tree/master/crates/forge"
+  },
+  "relations": {
+    "alternatives": [
+      "cobra",
+      "scaffold-eth",
+      "tokensoft"
+    ],
+    "related": [
+      "yakindu",
+      "swing-sdk",
+      "dappkit"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

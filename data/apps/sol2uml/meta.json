@@ -1,0 +1,44 @@
+{
+  "slug": "sol2uml",
+  "name": "Sol2uml",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675627/dapp-store/dapp-logos/Sol2uml.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Sol2uml is a Solidity contract visualization and storage layout generation tool.",
+    "description": "Sol2uml extends established work on visualizing Solidity contracts by adding storage diagrams and a CLI-driven UML generator. After installing Node.js v14, analysts can generate UML class diagrams that reflect the logic of all files in the contracts folder and its subdirectories. By translating code structure into diagrams, users can review how data is stored, how contract components relate to one another, and how the overall system is organized.",
+    "meta": "Sol2uml is a Solidity contract visualization and storage layout generation tool. Discover Sol2uml and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Sol2uml - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/naddison36/sol2uml"
+  },
+  "relations": {
+    "alternatives": [
+      "ganache",
+      "constructor-encoder",
+      "etherspot-sdk"
+    ],
+    "related": [
+      "polygon-smart-contract-template",
+      "ethp2p",
+      "launchifi"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

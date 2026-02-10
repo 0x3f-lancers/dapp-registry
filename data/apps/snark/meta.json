@@ -1,0 +1,45 @@
+{
+  "slug": "snark",
+  "name": "SNARK",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694676013/dapp-store/dapp-logos/SNARK.png",
+  "category": [
+    "Zero Knowledge Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "OP Mainnet",
+    "Arbitrum",
+    "ZKsync",
+    "Avalanche",
+    "Base"
+  ],
+  "tags": [
+    "ZK Proving Systems",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "SNARK is a zero-knowledge tooling platform.",
+    "description": "zk-SNARK stands for Zero-Knowledge Succinct Non-interactive Argument of Knowledge. It is a zero-knowledge proof system that lets a party prove knowledge of a secret to another party without revealing the secret itself. A defining feature is its non-interactive nature, which provides confidentiality without any back-and-forth communication between the prover and the verifier. This succinct, non-interactive approach sets zk-SNARK apart from many other zero-knowledge schemes by prioritizing privacy while maintaining verifiable correctness.",
+    "meta": "SNARK is a zero-knowledge tooling platform. Discover SNARK and other Zero Knowledge Tools on Lancers Web3 Explorer.",
+    "pageTitle": "SNARK - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://z.cash/learn/what-are-zk-snarks/"
+  },
+  "relations": {
+    "alternatives": [
+      "plonky2",
+      "polyhedra-network",
+      "groth16"
+    ],
+    "related": [
+      "conduit",
+      "marlin",
+      "zeeve"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

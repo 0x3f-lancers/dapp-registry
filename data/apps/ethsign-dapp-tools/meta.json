@@ -1,0 +1,41 @@
+{
+  "slug": "ethsign-dapp-tools",
+  "name": "ethsign",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675611/dapp-store/dapp-logos/ethsign.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche"
+  ],
+  "tags": [
+    "Ethereum Signature Tools",
+    "Open-source, Free"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ethsign uses a local Keystore or hardware wallet to sign Ethereum transactions.",
+    "description": "ethsign is included in the Dapp Tools suite and relies on secure offline key storage to sign Ethereum transactions. It lets developers provide secure smart contract signing for their decentralized applications, while users install the full suite but selectively enable only the components they require. The tooling is designed around the Nix package manager, promoting reproducible builds and easy dependency management. Community contributions are welcome, and the project emphasizes open collaboration and ongoing improvement.",
+    "meta": "ethsign uses a local Keystore or hardware wallet to sign Ethereum transactions. Discover ethsign and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ethsign - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/dapphub/dapptools/blob/master/src/ethsign/README.md"
+  },
+  "relations": {
+    "alternatives": [
+      "4byte",
+      "etherface"
+    ],
+    "related": [
+      "rust-ethereum-abi",
+      "kevm",
+      "epirus"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

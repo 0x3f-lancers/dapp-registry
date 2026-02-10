@@ -1,0 +1,45 @@
+{
+  "slug": "huff-starter-kit",
+  "name": "Huff Starter Kit",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675632/dapp-store/dapp-logos/Huff%20Starter%20Kit.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Huff Starter Kit provides a Chainlink-hosted repository with Huff and Foundry contract templates for free.",
+    "description": "An evolving collection of Huff and Foundry smart contract templates maintained by Chainlink, designed to help developers prototype and deploy decentralized price feeds and automation services. To deploy on mainnet or testnet, you'll need Git, the Huff compiler, and Foundry installed and configured. The templates and accompanying documentation guide you through setting up a price feed with the Chainlink oracle or implementing a keeper service, with example integrations and usage patterns. Solidity knowledge is an advantage for customization and extension.",
+    "meta": "Huff Starter Kit provides Huff and Foundry contract templates managed by Chainlink. Discover Huff Starter Kit and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Huff Starter Kit - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/smartcontractkit/huff-starter-kit"
+  },
+  "relations": {
+    "alternatives": [
+      "seth-dapp-tools",
+      "bunzz-dev",
+      "beosin"
+    ],
+    "related": [
+      "delegatable",
+      "solidity-visual-auditor",
+      "zolidity"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

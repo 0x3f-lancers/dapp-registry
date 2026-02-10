@@ -1,0 +1,45 @@
+{
+  "slug": "otterscan",
+  "name": "Otterscan",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675639/dapp-store/dapp-logos/Otterscan.jpg",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "Multichain",
+    "Solana",
+    "OP Mainnet",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Otterscan is an open-source Ethereum block explorer.",
+    "description": "Otterscan, created in 2021 by William Mitsuda, is an Ethereum blockchain explorer built on Erigon. It can be run locally on a laptop with an archive node companion, specifically Erigon. Developers can use Otterscan’s custom methods, implemented at the RPC daemon level, for faster access.",
+    "meta": "Otterscan is an open-source Ethereum block explorer. Discover Otterscan and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Otterscan - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/wmitsuda/otterscan"
+  },
+  "relations": {
+    "alternatives": [
+      "solana-explorer",
+      "blockscout",
+      "solana-beach"
+    ],
+    "related": [
+      "decimal",
+      "avalanche",
+      "circular-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

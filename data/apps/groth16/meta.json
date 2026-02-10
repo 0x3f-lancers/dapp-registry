@@ -1,0 +1,44 @@
+{
+  "slug": "groth16",
+  "name": "Groth16",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675604/dapp-store/dapp-logos/Groth16.png",
+  "category": [
+    "Zero Knowledge Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Avalanche",
+    "Base"
+  ],
+  "tags": [
+    "ZK Proving Systems",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Groth16 delivers succinct, pairing-based zk-SNARK proofs.",
+    "description": "Groth16 is a pairing-based zk-SNARK system designed to enable a prover to convince a verifier that a statement is true without revealing any additional information. Its defining strength is the succinctness of its proofs: they are compact and require minimal storage and bandwidth for transmission. This efficiency makes Groth16 especially suitable for blockchain environments and privacy-oriented protocols where proof size directly impacts performance and costs.",
+    "meta": "Groth16 is a succinct, pairing-based zk-SNARK system. Discover Groth16 and other Zero Knowledge Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Groth16 - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/arkworks-rs/groth16"
+  },
+  "relations": {
+    "alternatives": [
+      "polyhedra-network",
+      "bulletproofs",
+      "arkworks-marlin"
+    ],
+    "related": [
+      "polyhedra-network",
+      "axiom"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

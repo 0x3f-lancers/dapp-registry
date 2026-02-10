@@ -1,0 +1,42 @@
+{
+  "slug": "vscode-solidity-auditor",
+  "name": "VSCode Solidity Auditor",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675608/dapp-store/dapp-logos/VSCode%20Solidity%20Auditor.jpg",
+  "category": [
+    "Web3 Security Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Blockchain Security Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "VSCode Solidity Auditor provides Solidity language support and a visual security auditor for Visual Studio Code.",
+    "description": "VSCode Solidity Auditor is a Visual Studio Code extension that extends the editor with Solidity language support and security-focused tooling. It debuted on the VS Code marketplace in 2021. The extension helps developers build safer Solidity contracts by using a listing feature that boosts security awareness during development. Alongside syntax and semantic highlighting, it provides review and augmentation capabilities to improve developer efficiency and code quality.",
+    "meta": "VSCode Solidity Auditor is a ConsenSys-built extension that adds Solidity support. Discover VSCode Solidity Auditor and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "VSCode Solidity Auditor - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/ConsenSys/vscode-solidity-auditor"
+  },
+  "relations": {
+    "alternatives": [
+      "insightx",
+      "glider",
+      "semgrep"
+    ],
+    "related": [
+      "rattle",
+      "webacy",
+      "apeworx-evmtrace"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

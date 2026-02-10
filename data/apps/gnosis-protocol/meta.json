@@ -1,0 +1,46 @@
+{
+  "slug": "gnosis-protocol",
+  "name": "Gnosis Protocol",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675641/dapp-store/dapp-logos/Gnosis%20Protocol.jpg",
+  "category": [
+    "DeFi Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Free Customers",
+    "MEV Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Gnosis Protocol is a DEX trading protocol for Ethereum using batch auctions to provide MEV protection and best prices.",
+    "description": "Gnosis Protocol is a fully permissionless DEX trading protocol for Ethereum, currently in version 2 (GPv2). It uses batch auctions to deliver MEV protection and tight slippage without depending on the relative order of transactions. GPv2 aggregates liquidity from a range of DEX sources to present traders with the best available prices, enabling efficient, transparent swaps. The combination of batch execution and cross-DEX liquidity integration helps minimize front-running risk and improve price execution for users.",
+    "meta": "Gnosis Protocol is a DEX on Ethereum using batch auctions for MEV protection. Discover Gnosis Protocol and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Gnosis Protocol - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gnosis.io/protocol/"
+  },
+  "relations": {
+    "alternatives": [
+      "zeromev",
+      "flashbots",
+      "bloxroute"
+    ],
+    "related": [
+      "chainnodes"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

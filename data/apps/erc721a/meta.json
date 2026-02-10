@@ -1,0 +1,44 @@
+{
+  "slug": "erc721a",
+  "name": "ERC721A",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675606/dapp-store/dapp-logos/ERC721A.jpg",
+  "category": [
+    "NFT Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Base"
+  ],
+  "tags": [
+    "NFT Smart Contract Templates",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ERC721A is a gas-efficient implementation of the ERC721 standard that enables batch minting of multiple tokens.",
+    "description": "ERC721A is a gas-efficient implementation of the ERC721 standard designed for batch minting of multiple NFTs. Created by the Chiru Labs Azuki team, this Solidity contract lets developers specify how many tokens to mint in a single transaction, enabling large-scale mints with reduced gas costs. It also supports forking the repository to add features or customize behavior as needed, helping projects tailor the contract to their minting workflows while staying aligned with the original design.",
+    "meta": "ERC721A is a gas-efficient implementation of the ERC721 standard designed for batch minting. Discover ERC721A and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "ERC721A - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/chiru-labs/ERC721A"
+  },
+  "relations": {
+    "alternatives": [
+      "transient",
+      "imintify",
+      "metaplex"
+    ],
+    "related": [
+      "nft-gallery-template",
+      "opensea-stream-api"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

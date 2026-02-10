@@ -1,0 +1,44 @@
+{
+  "slug": "ganache",
+  "name": "Ganache",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675636/dapp-store/dapp-logos/Ganache.svg",
+  "category": [
+    "Solidity Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Starknet"
+  ],
+  "tags": [
+    "Free Customers",
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Ganache is a local Ethereum Virtual Machine simulator for developing and testing smart contracts.",
+    "description": "Ganache is a Truffle project that simulates the Ethereum mainnet on local machines or in the cloud. It provides the full suite of Ethereum blockchain functionality in a compact, local environment, making it ideal for development and testing. Developers can quickly test and iterate: they can test smart contracts, deploy on localhost, mine the local chain without delays, and create tokens for transaction tests, all within a consistent, repeatable setup. This arrangement supports rapid feedback cycles and reliable test results.",
+    "meta": "Ganache is a local Ethereum Virtual Machine simulator for developing and testing smart contracts. Discover Ganache and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Ganache - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/trufflesuite/ganache"
+  },
+  "relations": {
+    "alternatives": [
+      "huffmate",
+      "ethereum-transaction-viewer",
+      "cairo-smart-contract-wizard"
+    ],
+    "related": [
+      "kevm",
+      "polygon-smart-contract-template",
+      "openzeppelin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

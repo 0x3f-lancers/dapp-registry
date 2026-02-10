@@ -1,0 +1,46 @@
+{
+  "slug": "bulletproofs",
+  "name": "Bulletproofs",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675534/dapp-store/dapp-logos/Bulletproofs.png",
+  "category": [
+    "Zero Knowledge Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Arbitrum",
+    "OP Mainnet",
+    "ZKsync",
+    "Ethereum",
+    "Avalanche",
+    "Base"
+  ],
+  "tags": [
+    "ZK Proving Systems",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Bulletproofs provides concise zero-knowledge proofs without a trusted setup.",
+    "description": "Bulletproofs are a zero-knowledge argument of knowledge that proves a secret lies within a specified range. The proofs are succinct, non-interactive, and require no trusted setup, making them practical for validating commitments in Confidential Transactions. They distinguish themselves by combining multiple range proofs into a single, concise proof, delivering efficiency while maintaining security. Verification is longer than that of zk-SNARKs, but the method does not rely on a trusted setup, offering a compact and reliable range-proof system.",
+    "meta": "Bulletproofs provides concise zero-knowledge proofs without a trusted setup. Discover Bulletproofs and other Zero Knowledge Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Bulletproofs - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://crypto.stanford.edu/bulletproofs/"
+  },
+  "relations": {
+    "alternatives": [
+      "groth16",
+      "snark",
+      "polyhedra-network"
+    ],
+    "related": [
+      "saga",
+      "zeeve",
+      "axiom"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "db3-network",
+  "name": "db3 network",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675611/dapp-store/dapp-logos/db3%20network.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "OP Mainnet",
+    "Arbitrum",
+    "Multichain",
+    "Cosmos"
+  ],
+  "tags": [
+    "Decentralized Storage Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "db3 network is a community-driven Layer 2 decentralized database network.",
+    "description": "When a dapp has a large volume of application-level dynamic data to store and query, relying on traditional databases can hinder user experience. A hybrid data architecture commonly described as web2.5 aims to blend decentralization with performance to keep interfaces responsive. db3 network seeks to provide a fully decentralized database solution to meet this need, enabling developers to use it as a decentralized Firebase with db3.js for building, storing, and querying data across their stack. This approach supports modern dapps that require fast reads and updates while preserving decentralization.",
+    "meta": "db3 network is a community-driven Layer 2 decentralized database network. Discover db3 network and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "db3 network - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/dbpunk-labs/db3"
+  },
+  "relations": {
+    "alternatives": [
+      "weavedb",
+      "kyve-network",
+      "ipfs"
+    ],
+    "related": [
+      "center-nft-api",
+      "deform",
+      "blockspan"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

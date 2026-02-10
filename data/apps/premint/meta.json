@@ -1,0 +1,45 @@
+{
+  "slug": "premint",
+  "name": "Premint",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675970/dapp-store/dapp-logos/Premint.jpg",
+  "category": [
+    "NFT Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "NFT Allowlist Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Premint offers pREMINT, an allowlist service that lets NFT creators list mint-eligible addresses.",
+    "description": "Premint, founded by Brenden Mulligan, is the leading access-list service for NFT mints on Ethereum. It helps projects gate mint access to deter bots by defining eligibility criteria, running raffles, and creating custom links for collaborations with other communities. The service is used by more than 2,500 projects, including VeeFriends, Moonbirds, Cool Cats, Rug Radio, and other notable collections, empowering creators to coordinate launches and manage who can participate.",
+    "meta": "Premint provides pREMINT, an allowlist enabling NFT creators to list mint-eligible addresses. Discover Premint and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Premint - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.premint.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "highlight",
+      "mojito"
+    ],
+    "related": [
+      "nftscan-api",
+      "moonrank",
+      "pentas"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

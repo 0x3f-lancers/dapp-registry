@@ -1,0 +1,40 @@
+{
+  "slug": "evmdasm",
+  "name": "evmdasm",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675615/dapp-store/dapp-logos/evmdasm.jpg",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana"
+  ],
+  "tags": [
+    "Dissassemblers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "evmdasm is an Ethereum EVM bytecode registry, disassembler, and code manipulation library.",
+    "description": "evmdasm is a lightweight library for Ethereum EVM bytecode, offering an instruction registry, a disassembler, and tools for EVM code manipulation. Developers can use it to locate a static interface and registry for EVM opcodes and instructions, facilitating reference and exploration of bytecode. The project is open-source and actively maintained on GitHub, which provides usage instructions and a community of contributors who collaborate on its development.",
+    "meta": "evmdasm is a lightweight Ethereum EVM bytecode registry, disassembler, and code library. Discover evmdasm and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "evmdasm - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/ethereum/evmdasm"
+  },
+  "relations": {
+    "alternatives": [
+      "ethersplay",
+      "capstone-disassembler"
+    ],
+    "related": [
+      "jeb-decompiler",
+      "decurity-decompiler",
+      "abitype"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

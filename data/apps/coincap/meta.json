@@ -1,0 +1,45 @@
+{
+  "slug": "coincap",
+  "name": "Coincap",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675525/dapp-store/dapp-logos/Coincap.jpg",
+  "category": [
+    "DeFi Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Arbitrum",
+    "Polygon",
+    "OP Mainnet",
+    "BNB Chain",
+    "Base",
+    "Bitcoin"
+  ],
+  "tags": [
+    "Token Price APIs",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Coincap provides real-time crypto market data and altfolio tracking.",
+    "description": "Coincap delivers real-time pricing and market activity data for a broad set of cryptocurrencies. Users receive accurate data on asset price and availability, enabling timely understanding of market conditions. For developers, the API reveals exactly which exchanges and markets contribute to Coincap's pricing, providing transparent visibility into data sources. All endpoints default to 100 results per page, with support for up to 2,000 results per page on request. This combination makes Coincap a dependable price data source for apps and services.",
+    "meta": "Coincap is a tool for real-time pricing and market activity for many cryptocurrencies. Discover Coincap and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Coincap - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://coincap.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "dexed",
+      "coingecko-api"
+    ],
+    "related": [
+      "curve-finance",
+      "flooz-trade"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

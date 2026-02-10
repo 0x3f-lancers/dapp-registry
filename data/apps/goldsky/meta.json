@@ -1,0 +1,47 @@
+{
+  "slug": "goldsky",
+  "name": "Goldsky",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675403/dapp-store/dapp-logos/Goldsky.jpg",
+  "category": [
+    "Infrastructure Tools",
+    "Enterprise Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Avalanche",
+    "Multichain",
+    "Solana",
+    "Aptos"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Indexing Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Goldsky provides real-time blockchain data and subgraphs for apps without managing complex infrastructure.",
+    "description": "Goldsky delivers real-time data streams for applications while removing the burden of managing blockchain and data streaming infrastructure. It can index a blockchain or subgraph, apply transformations to tailor the data to your requirements, and stream the results to a data warehouse, webhooks, or an API, all in real time. By handling indexing, data shaping, and delivery in a single end-to-end flow, Goldsky enables teams to build responsive applications that react to on-chain activity as it happens.",
+    "meta": "Goldsky streams blockchain data and subgraphs in real time for apps without managing infrastructure. Discover Goldsky and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Goldsky - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://goldsky.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "ormi",
+      "xircusweb3"
+    ],
+    "related": [
+      "blocksurvey",
+      "ankr"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

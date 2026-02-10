@@ -1,0 +1,46 @@
+{
+  "slug": "gateway",
+  "name": "Gateway",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675950/dapp-store/dapp-logos/Gateway.jpg",
+  "category": [
+    "Identity Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Avalanche",
+    "Multichain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Credential Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Gateway enables issuing and curating verified credentials through its decentralized registry.",
+    "description": "Gateway delivers verified credentials that credential holders can easily track and manage. DAOs, Web3 service providers, and tools can issue, verify, and manage these credentials through Gateway's credential registry, enabling interoperability across ecosystems. Talent, organizations, and Dapps use Gateway credentials for a wide range of custom-use cases. Users retain control of Gateway-issued credentials, including who can view them and how long they remain valid.",
+    "meta": "Gateway enables issuing and curating verified credentials via its decentralized registry. Discover Gateway and other Identity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Gateway - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gateway.tech/"
+  },
+  "relations": {
+    "alternatives": [
+      "carv",
+      "terminal3"
+    ],
+    "related": [
+      "sismo",
+      "popula"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "brownie",
+  "name": "Brownie",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675613/dapp-store/dapp-logos/Brownie.jpg",
+  "category": [
+    "Web3 Developer Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "Multichain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Development Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Brownie is a Python-based framework for developing and testing EVM smart contracts.",
+    "description": "Brownie is a Python-based testing framework for smart contracts on networks that run the Ethereum Virtual Machine. It enables developers to run tests prior to deploying contracts on EVM-compatible networks. The framework provides full support for Solidity and Vyper, and it includes debugging utilities such as tracebacks and custom error strings to help identify and diagnose issues during development and testing.",
+    "meta": "Brownie is a Python-based testing framework for smart contracts on EVM-compatible blockchains. Discover Brownie and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Brownie - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/eth-brownie/brownie"
+  },
+  "relations": {
+    "alternatives": [
+      "0xcert",
+      "hiro",
+      "particle-network"
+    ],
+    "related": [
+      "evm2",
+      "chainide",
+      "swing-sdk"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

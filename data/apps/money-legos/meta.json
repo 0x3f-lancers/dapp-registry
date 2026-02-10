@@ -1,0 +1,43 @@
+{
+  "slug": "money-legos",
+  "name": "Money Legos",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675634/dapp-store/dapp-logos/Money%20Legos.jpg",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Multichain"
+  ],
+  "tags": [
+    "ABI Tools",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Money Legos is a DeFi protocol analyzer for Ethereum ABIs, addresses, and Solidity interfaces.",
+    "description": "Money Legos is a free, open-source project that scans the EVM for mainnet addresses, ABIs, and Solidity interfaces tied to mainstream DeFi protocols. Developers can query a growing catalog of supported DeFi protocols, currently totaling 16. The project has surpassed 1,000 users and accrued forks and stars, with about 250 weekly npm downloads, underscoring its usefulness for developers exploring DeFi on EVM networks.",
+    "meta": "Money Legos is a DeFi protocol analyzer for Ethereum ABIs, addresses and Solidity interfaces. Discover Money Legos and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Money Legos - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/studydefi/money-legos"
+  },
+  "relations": {
+    "alternatives": [
+      "envio",
+      "whats-abi",
+      "loop-decoder"
+    ],
+    "related": [
+      "ethereum-transaction-viewer",
+      "event-decoder",
+      "metamorphic-contract-detector"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

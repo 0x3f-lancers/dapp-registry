@@ -1,0 +1,42 @@
+{
+  "slug": "lodestar",
+  "name": "Lodestar",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675433/dapp-store/dapp-logos/Lodestar.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Cronos",
+    "Solana"
+  ],
+  "tags": [
+    "Consensus Clients",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Lodestar is a light client delivering Ethereum 2.0 consensus client functionality.",
+    "description": "Lodestar delivers strong security with minimal trust, enabling flexible usage for a wide range of users. As a light client, Lodestar aims to empower more people to run full nodes without relying on external parties. By reducing hardware requirements, Lodestar continues to provide direct access to the Ethereum blockchain and robust censorship resistance. This open-source client supports diverse deployments, helping developers and enthusiasts participate more openly in the network.",
+    "meta": "Lodestar is a light client delivering Ethereum 2.0 consensus client functionality. Discover Lodestar and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Lodestar - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lodestar.chainsafe.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "nimbus",
+      "prysm",
+      "teku"
+    ],
+    "related": [
+      "cronos",
+      "geth",
+      "o7node"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

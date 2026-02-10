@@ -1,0 +1,49 @@
+{
+  "slug": "solsplits",
+  "name": "SolSplits",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675795/dapp-store/dapp-logos/SolSplits.png",
+  "category": [
+    "Web3 Wallet Tools",
+    "Amplify Winners"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Avalanche",
+    "BNB Chain",
+    "Multichain",
+    "Arbitrum",
+    "Starknet",
+    "ZKsync"
+  ],
+  "tags": [
+    "Amplify Winners",
+    "Web3 Payment Tools",
+    "Transaction Fees, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "SolSplits enables custom on-chain income splits on Solana, with optional NFT-linked automatic claiming and multi-wallet reward sharing.",
+    "description": "SolSplits provides a composable standard for splitting on-chain income on Solana, helping users streamline payment workflows and define how funds are distributed. It supports creating custom payment splits across wallets and thresholds, so revenue can be allocated according to specified percentages. Users can also optionally link income-generating NFTs to trigger automatic claiming and share rewards among multiple wallets at different percentage levels, enabling flexible, automated revenue distribution. This design supports scalable revenue sharing for creators, teams, and projects.",
+    "meta": "SolSplits is a composable standard for splitting on-chain income on Solana. Discover SolSplits and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "SolSplits - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://solsplits.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "super",
+      "kulipa",
+      "onmeta"
+    ],
+    "related": [
+      "multisender",
+      "gasfeesorg",
+      "eth-gas-reporter"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

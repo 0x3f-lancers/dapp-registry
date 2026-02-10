@@ -1,0 +1,44 @@
+{
+  "slug": "mumbai-faucet",
+  "name": "Mumbai Faucet",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675702/dapp-store/dapp-logos/Mumbai%20Faucet.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "Arbitrum",
+    "BNB Chain",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Crypto Faucets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Mumbai Faucet is a token dispenser for the Polygon Mumbai Testnet for developers to run smart contract transactions.",
+    "description": "Mumbai Faucet dispenses testnet MATIC tokens to a provided Ethereum address on the Polygon Mumbai Testnet for testing purposes. The tokens have no transferable value and are issued to help developers validate smart contract interactions and DApp behavior on the Mumbai testnet within Polygon infrastructure projects. This public faucet supports developers building Polygon-based DApps and testing cross-network interoperability with Ethereum, accelerating development and testing cycles.",
+    "meta": "Mumbai Faucet dispenses testnet MATIC on Polygon Mumbai for developers to run tests. Discover Mumbai Faucet and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Mumbai Faucet - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mumbaifaucet.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "sepolia-faucet",
+      "optimism-goerli-faucet",
+      "polygon-faucet"
+    ],
+    "related": [
+      "synapse",
+      "sepolia-testnet-block-explorer",
+      "altitude"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

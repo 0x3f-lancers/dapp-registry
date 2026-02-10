@@ -1,0 +1,52 @@
+{
+  "slug": "envio",
+  "name": "Envio",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675571/dapp-store/dapp-logos/Envio.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Fantom",
+    "Multichain",
+    "Solana",
+    "Polygon zkEVM"
+  ],
+  "tags": [
+    "EVM Tools",
+    "Indexing Tools",
+    "ABI Tools",
+    "Web3 Data Tools",
+    "Analytics Tools",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Envio is a modern, multi-chain EVM blockchain indexer for real-time and historical data.",
+    "description": "Envio is a customizable, real-time indexing platform for smart contract data across multiple blockchains. It provides automatic code generation, thorough logging and clear error messages, plus quick-start templates and a reliable hosted service. Indexers can be written in JavaScript, TypeScript, or ReScript and natively support multi-chain data aggregation through a unified GraphQL API. Hypersync speeds up data retrieval for popular EVMs with faster APIs than JSON-RPC.",
+    "meta": "Envio is a customizable, real-time indexing solution that indexes smart contract data. Discover Envio and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Envio - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://envio.dev/"
+  },
+  "relations": {
+    "alternatives": [
+      "nomis",
+      "dexed"
+    ],
+    "related": [
+      "blob-archive",
+      "airstack"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

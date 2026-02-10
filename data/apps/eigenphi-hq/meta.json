@@ -1,0 +1,44 @@
+{
+  "slug": "eigenphi-hq",
+  "name": "EigenPhi HQ",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675844/dapp-store/dapp-logos/EigenPhi%20HQ.png",
+  "category": [
+    "DeFi Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "OP Mainnet",
+    "Solana"
+  ],
+  "tags": [
+    "MEV Analytics Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "EigenPhi HQ provides a full-scale DeFi data platform covering MEV, front-running, liquidations, flash loans, and lending.",
+    "description": "EigenPhi HQ is a token-flow oriented data platform. The Arbitrage Scan provides a high-level view of arbitrage by identifying gains and losses across multiple arbitrage types and by analyzing transaction and contract structures to reveal MEV trends. Developers can spot trending liquidity pools and tokens, view Alpha's arbitrage approaches from contract and transaction leaderboards, and identify contracts and transactions to avoid.",
+    "meta": "EigenPhi HQ is a token-flow oriented data platform. Discover EigenPhi HQ and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "EigenPhi HQ - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tx.eigenphi.io/analyseTransaction"
+  },
+  "relations": {
+    "alternatives": [
+      "dune-mev-analytics",
+      "mev-boost-analytics",
+      "jito-labs"
+    ],
+    "related": [
+      "xata",
+      "defi-tools",
+      "tenderly-gas-profiler"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

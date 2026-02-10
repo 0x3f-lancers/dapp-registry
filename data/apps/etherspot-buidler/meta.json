@@ -1,0 +1,51 @@
+{
+  "slug": "etherspot-buidler",
+  "name": "BUIDLer Component",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675512/dapp-store/dapp-logos/BUIDLer%20Component.png",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Arbitrum",
+    "Avalanche",
+    "Celo",
+    "Fantom",
+    "Moonbeam",
+    "OP Mainnet",
+    "Multichain",
+    "Starknet"
+  ],
+  "tags": [
+    "React Tools",
+    "Development Frameworks",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "BUIDLer Component provides cutting-edge account abstraction and multi-chain abilities for your dapp.",
+    "description": "Web3 UX and onboarding remain challenging, and delivering cross-chain account abstraction in dapps has been complex and costly. BUIDLer Component streamlines this process by providing a ready-made AA layer developers can integrate directly into their dapps or apps. It enables gas payments with stablecoins, social logins, and batched transactions, along with other account abstraction capabilities, helping multi-chain onboarding feel smoother and simplifying development.",
+    "meta": "BUIDLer Component provides account abstraction and multi-chain capabilities for dapps. Discover BUIDLer Component and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "BUIDLer Component - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://buidler.etherspot.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-react",
+      "quiver",
+      "sequence-wallet"
+    ],
+    "related": [
+      "quay",
+      "hello-world-smart-contract",
+      "synthetic-smart-contracts"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

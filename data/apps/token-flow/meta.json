@@ -1,0 +1,46 @@
+{
+  "slug": "token-flow",
+  "name": "Token Flow",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675832/dapp-store/dapp-logos/Token%20Flow.jpg",
+  "category": [
+    "Infrastructure Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Starknet",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "Base"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Data Tools",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Token Flow is a blockchain time machine that queries data from any network since its inception.",
+    "description": "Token Flow is a suite of tools that query and analyze data from multiple blockchain endpoints and present the results in a human-readable format. It helps DeFi firms collect raw data for ETL processes and analysis in data warehouses, enabling more efficient data workflows. Developers can use the EthTx Transaction Decoder to analyze transactions, wallets, and smart contracts by simply knowing their addresses. Supported chains include Ethereum, Starknet, Solana, Polygon, Arbitrum, Avalanche, and Base.",
+    "meta": "Token Flow provides tools to query and analyze data from multiple blockchain endpoints. Discover Token Flow and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Token Flow - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tokenflow.live/"
+  },
+  "relations": {
+    "alternatives": [
+      "streamr",
+      "verida"
+    ],
+    "related": [
+      "sol-incinerator",
+      "publicnode"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

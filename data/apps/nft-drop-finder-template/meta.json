@@ -1,0 +1,46 @@
+{
+  "slug": "nft-drop-finder-template",
+  "name": "NFT Drop Finder",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675602/dapp-store/dapp-logos/NFT%20Drop%20Finder.png",
+  "category": [
+    "NFT Tools",
+    "Amplify Winners"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Amplify Winners",
+    "NFT App Templates",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "NFT Drop Finder is a demo of a transfers API workflow to track NFT mints on Polygon.",
+    "description": "NFT Drop Finder demonstrates how to call the Transfers API in a Heroku configuration to create a dashboard that tracks NFT minting and trading activities of persons of interest. The project guides developers through setting up the Heroku environment and deploying their API with keys, enabling them to monitor NFT trades and mints in real time. This template offers a practical example for building an analytics workflow around NFT activity on supported chains.",
+    "meta": "NFT Drop Finder is a demo tool that uses a transfers API workflow to track NFT mints on Polygon. Discover NFT Drop Finder and other NFT Tools on Lancers Web3 Explorer.",
+    "pageTitle": "NFT Drop Finder - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cantina.xyz/bounties/d1496b11-e0cb-4905-80e6-b95f892f39ba"
+  },
+  "relations": {
+    "alternatives": [
+      "nft-gallery-template",
+      "nft-analyst-starter-pack",
+      "roverx"
+    ],
+    "related": [
+      "hashlips",
+      "brand-extender",
+      "coinbase-cloud-nft-api"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

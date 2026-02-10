@@ -1,0 +1,48 @@
+{
+  "slug": "keep-network",
+  "name": "Keep Network",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675666/dapp-store/dapp-logos/Keep%20Network.png",
+  "category": [
+    "DeFi Dapps",
+    "Free Customers"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Arbitrum",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "Aptos"
+  ],
+  "tags": [
+    "Free Customers",
+    "Liquid Staking Platforms",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Keep Network is a decentralized data-security and liquid staking platform.",
+    "description": "Keep Network, launched in 2017 by Matt Luongo and Corbin Pon, is a protocol that enables the secure storage of private data on public blockchains. Its data containers, called Keeps, let smart contracts access the information they need without exposing its contents to the network. The project also operates a liquid staking application. By connecting to the Keep Network dApp, users can stake native Bitcoin and, in return, mint tBTC tokens on the Ethereum network.",
+    "meta": "Keep Network is a protocol for securely storing data on a public blockchain via Keeps. Discover Keep Network and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Keep Network - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://keep.network/"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "rockx",
+      "rocket-pool"
+    ],
+    "related": [
+      "thestandard",
+      "hundred-finance",
+      "convex-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

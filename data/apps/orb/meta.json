@@ -1,0 +1,46 @@
+{
+  "slug": "orb",
+  "name": "Orb",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1762208347/dapp-store/dapp-logos/Orb.png",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Multichain",
+    "Cronos",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Orb is a free, open-source Solana block explorer.",
+    "description": "Orb is a free, open-source Solana block explorer that lets you search and analyze every block, token, program, address, and transaction on the Solana blockchain since genesis. It provides AI explanations to help interpret data, flexible time-based filters for focused views, and robust sorting options such as reverse search to locate historical Solana data quickly. Orb also includes IDLs for verified programs, information about Solana validators, network statistics, and transaction heatmaps to give a comprehensive view of activity. It supports Solana mainnet-beta, devnet, and testnet.",
+    "meta": "Orb is a free, open-source Solana block explorer. Discover Orb and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Orb - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://orb.helius.dev"
+  },
+  "relations": {
+    "alternatives": [
+      "blockhead",
+      "solscan",
+      "lore"
+    ],
+    "related": [
+      "solc-verify",
+      "klever",
+      "cronos"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

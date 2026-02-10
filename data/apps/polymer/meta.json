@@ -1,0 +1,47 @@
+{
+  "slug": "polymer",
+  "name": "Polymer",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675967/dapp-store/dapp-logos/Polymer.png",
+  "category": [
+    "RaaS Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Fantom",
+    "Polygon",
+    "Cosmos",
+    "Solana",
+    "BNB Chain",
+    "OP Mainnet",
+    "Arbitrum",
+    "ZKsync",
+    "Multichain"
+  ],
+  "tags": [
+    "Modular Interoperability Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Polymer creates a universal router connecting all chains.",
+    "description": "Polymer connects blockchains and serves as the IBC Transport Hub, establishing the industry-standard transport layer across networks. Its modular IBC design enables chains such as Ethereum to integrate IBC transport and become interoperable across ecosystems in a decentralized manner. This approach focuses on delivering a common transport mechanism that supports cross-chain interoperability, enabling diverse ecosystems to participate in a decentralized, interconnected landscape.",
+    "meta": "Polymer connects all blockchains as a universal router. Discover Polymer and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Polymer - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.polymerlabs.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "halliday",
+      "hyperlane-xyz"
+    ],
+    "related": [
+      "snapchain",
+      "sovereign-labs"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

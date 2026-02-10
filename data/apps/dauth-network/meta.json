@@ -1,0 +1,46 @@
+{
+  "slug": "dauth-network",
+  "name": "DAuth Network",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675906/dapp-store/dapp-logos/DAuth%20Network.png",
+  "category": [
+    "Identity Tools"
+  ],
+  "chains": [
+    "Polygon zkEVM",
+    "Sui",
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "BNB Chain",
+    "Polygon",
+    "Solana"
+  ],
+  "tags": [
+    "Web3 Authentication Tools",
+    "Decentralized Identity Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "DAuth Network is an identity tooling platform.",
+    "description": "DAuth Network offers an alternative to the traditional, centralized authentication landscape. Today, most systems rely on OAuth and SMTP-based frameworks, which can lead to broad data collection and increased exposure of user identities and assets, potentially undermining Web3 security and privacy. DAuth Network presents an adapted Web3-oriented OAuth model that delivers native privacy and trustless social account access for wallets, decentralized identifiers (DIDs), and decentralized applications (dapps). By following Web3 authentication principles, it aims to enable secure, privacy-conscious login across wallets, DIDs, and dapps.",
+    "meta": "DAuth Network is an identity tooling platform. Discover DAuth Network and other Identity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "DAuth Network - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.dauth.network/"
+  },
+  "relations": {
+    "alternatives": [
+      "civic",
+      "minero"
+    ],
+    "related": [
+      "space-id",
+      "stripe-identity"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

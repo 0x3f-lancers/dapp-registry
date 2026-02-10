@@ -1,0 +1,46 @@
+{
+  "slug": "PRBTest",
+  "name": "PRBTest",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675629/dapp-store/dapp-logos/PRBTest.jpg",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Solana",
+    "Multichain",
+    "Base",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Debugging Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "PRBTest provides Solidity smart contract testing assertions and logging utilities.",
+    "description": "PRBTest is a comprehensive collection of testing assertions and utilities for Solidity, designed to work smoothly with Foundry and Hardhat. Written by Paul Razvan Berg, PRBTest includes a Foundry Template and inherits most tests from forge-std, providing a solid baseline for Solidity testing. The project is open-source and encourages developers to contribute custom test assertions to expand the suite and tailor it to their contracts. By offering reusable checks and a clear testing structure, PRBTest helps improve test reliability and developer productivity for Solidity projects.",
+    "meta": "PRBTest offers Solidity testing assertions and logging utilities for smart contracts. Discover PRBTest and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "PRBTest - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/paulrberg/prb-test"
+  },
+  "relations": {
+    "alternatives": [
+      "maian",
+      "loop-decoder",
+      "superchain-dev-console"
+    ],
+    "related": [
+      "cube3-ai",
+      "polyzoa",
+      "ziion-linux-distro"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

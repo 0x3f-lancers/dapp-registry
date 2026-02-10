@@ -1,0 +1,41 @@
+{
+  "slug": "radius",
+  "name": "Radius",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675424/dapp-store/dapp-logos/Radius.jpg",
+  "category": [
+    "RaaS Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Multichain"
+  ],
+  "tags": [
+    "Shared Sequencers",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Radius provides a trustless shared sequencing layer powering the next generation of modular blockchains.",
+    "description": "Radius provides a trustless, shared sequencing layer that reduces harmful MEV and censorship while creating economic value for rollups. It introduces an encrypted mempool powered by PVDE (Practical Verifiable Delay Encryption), a ZK-based cryptography scheme. Through PVDE, Radius enables verifiable, trustless transaction sequencing to prevent centralized sequencers from frontrunning, sandwiching, or censoring user transactions, supporting fairer, more predictable processing across supported chains.",
+    "meta": "Radius is a trustless shared sequencing layer that reduces MEV and censorship for rollups. Discover Radius and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Radius - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.theradius.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "astria",
+      "espresso-sequencer"
+    ],
+    "related": [
+      "arbitrum-orbit",
+      "hyperlane-xyz"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

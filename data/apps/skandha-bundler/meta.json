@@ -1,0 +1,42 @@
+{
+  "slug": "skandha-bundler",
+  "name": "Skandha",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675615/dapp-store/dapp-logos/Skandha.png",
+  "category": [
+    "Web3 Wallet Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Base",
+    "Multichain",
+    "ZKsync"
+  ],
+  "tags": [
+    "Account Abstraction (ERC-4337) Bundlers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Skandha is an open-source ERC-4337 bundler written in TypeScript by the Etherspot team.",
+    "description": "Skandha is a modular, open-source ERC-4337 compliant bundler written in TypeScript. It is developed and maintained by Etherspot's engineering team. The Etherspot SDK is a developer-friendly toolkit that can be installed via npm or Yarn to unlock Account Abstraction features such as batching transactions, sponsored transactions, and meta transactions (for example, letting users pay gas with any stablecoin). It also includes multi-chain support and the ability to bundle transactions across networks.",
+    "meta": "Skandha is a modular, open-source ERC-4337 compliant bundler written in TypeScript. Discover Skandha and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Skandha - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/etherspot/skandha"
+  },
+  "relations": {
+    "alternatives": [
+      "autoair-ai",
+      "infinitism-bundler"
+    ],
+    "related": [
+      "locksmith-wallet",
+      "chainlove"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

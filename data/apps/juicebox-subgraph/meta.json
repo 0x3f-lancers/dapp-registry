@@ -1,0 +1,42 @@
+{
+  "slug": "juicebox-subgraph",
+  "name": "Juicebox Subgraph",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675622/dapp-store/dapp-logos/Juicebox%20Subgraph.png",
+  "category": [
+    "Infrastructure Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DAO Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Juicebox Subgraph is an open-source GraphQL interface that indexes and queries on-chain Juicebox protocol data.",
+    "description": "Juicebox Subgraph is an open-source GraphQL interface deployed on the Graph network that indexes and queries on-chain data from the Juicebox protocol. It powers the analytics shown on every project page of the Juicebox site, providing developers with access to data such as recent transactions, total volume, project balance, and payouts. The subgraph is managed in a decentralized manner through a DAO, ensuring community-driven governance and ongoing indexing of Juicebox activity.",
+    "meta": "Juicebox Subgraph indexes on-chain Juicebox protocol data for valuable insights. Discover Juicebox Subgraph and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Juicebox Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/jbx-protocol/juice-subgraph"
+  },
+  "relations": {
+    "alternatives": [
+      "ens-subgraph",
+      "synthetix-subgraph"
+    ],
+    "related": [
+      "surya"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

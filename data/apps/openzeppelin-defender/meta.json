@@ -1,0 +1,48 @@
+{
+  "slug": "openzeppelin-defender",
+  "name": "OpenZeppelin Defender",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675558/dapp-store/dapp-logos/OpenZeppelin%20Defender.jpg",
+  "category": [
+    "Web3 Security Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "Blockchain Security Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "OpenZeppelin Defender reduces risk as you deploy smart contracts through a SecOps toolchain.",
+    "description": "OpenZeppelin Defender is a security toolset designed to enforce best practices when deploying and maintaining smart contracts across multiple chains. It enables users to monitor contracts and automatically trigger actions if a vulnerability or incident is detected. Developers can write scripts to automate smart-contract execution and assemble maintenance pipelines that include embedded vaults, meta-transactions, and centralized API key management, streamlining governance and protection.",
+    "meta": "OpenZeppelin Defender helps manage and secure smart contracts across chains. Discover OpenZeppelin Defender and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "OpenZeppelin Defender - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.openzeppelin.com/defender/"
+  },
+  "relations": {
+    "alternatives": [
+      "solidity-shield",
+      "ziion-linux-distro",
+      "cyvers"
+    ],
+    "related": [
+      "slither",
+      "chainaware-ai",
+      "kerberus"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

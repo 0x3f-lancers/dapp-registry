@@ -1,0 +1,46 @@
+{
+  "slug": "ethfiddle",
+  "name": "EthFiddle",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675406/dapp-store/dapp-logos/EthFiddle.png",
+  "category": [
+    "Web3 Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Starknet",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Web3 IDEs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "EthFiddle is a Solidity development environment where developers can write, test, and deploy smart contracts.",
+    "description": "EthFiddle is a browser-based, multi-chain IDE for experimenting with smart contracts. No download is required—the tool runs entirely in your web browser. It supports Ethereum, Starknet, Arbitrum, Avalanche, BNB Chain, Polygon, and OP Mainnet, enabling sharing of code via a single, shareable link. A key capability is its link-sharing feature, which lets developers quickly share their code with others through one URL. EthFiddle is open-source and focused on fast, browser-based development.",
+    "meta": "EthFiddle is a Solidity development environment where developers can write, test, and deploy smart contracts. Discover EthFiddle and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "EthFiddle - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ethfiddle.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "tenderly-sandbox",
+      "vscode",
+      "0xscore"
+    ],
+    "related": [
+      "cairo",
+      "particle-network",
+      "apeworx-ape"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

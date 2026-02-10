@@ -1,0 +1,40 @@
+{
+  "slug": "kevm",
+  "name": "KEVM",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675632/dapp-store/dapp-logos/KEVM.png",
+  "category": [
+    "Solidity Tools"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "EVM Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "KEVM is a model of the Ethereum Virtual Machine (EVM) with K semantics.",
+    "description": "KEVM provides a model of the Ethereum Virtual Machine (EVM) implemented with the K framework. The model and its walkthrough help you write custom tests from a language and environment you deploy and maintain. Developers can craft tests with greater control over how the framework’s semantics are applied, enabling more precise test scenarios. A working knowledge of the K framework or its implementations is a prerequisite to effectively using KEVM. It emphasizes test customization and control.",
+    "meta": "KEVM is a model of the Ethereum Virtual Machine (EVM) with K semantics. Discover KEVM and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "KEVM - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/runtimeverification/evm-semantics"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum-etl",
+      "loreum",
+      "solvm"
+    ],
+    "related": [
+      "wake",
+      "etheno",
+      "replit"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

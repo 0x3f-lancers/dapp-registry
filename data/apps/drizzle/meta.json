@@ -1,0 +1,45 @@
+{
+  "slug": "drizzle",
+  "name": "Drizzle",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675636/dapp-store/dapp-logos/Drizzle.svg",
+  "category": [
+    "Solidity Tools",
+    "Free Customers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Drizzle is a curated source of tools for DApp development with Javascript, Vue, and React.",
+    "description": "Drizzle is a project within the Truffle ecosystem that boilerplates Web3 applications by translating smart contracts for use in the browser. Developers can leverage the libraries provided by Drizzle to wire the frontend to smart contract logic, enabling user interfaces that reflect contract state and events in real time. The project enjoys broad adoption across the Web3 community, with a following of over 18,000 contributors and enthusiasts, illustrating a sizeable developer audience that relies on its tooling. This setup helps teams prototype quickly and align frontend behavior with contract-driven workflows.",
+    "meta": "Drizzle is a Truffle project that boilerplates Web3 apps translating contracts in browser. Discover Drizzle and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Drizzle - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/trufflesuite/drizzle"
+  },
+  "relations": {
+    "alternatives": [
+      "dapp-tool",
+      "huff-starter-kit",
+      "foundry-template"
+    ],
+    "related": [
+      "husky",
+      "kevm",
+      "zenland"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

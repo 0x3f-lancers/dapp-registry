@@ -1,0 +1,46 @@
+{
+  "slug": "lifinity",
+  "name": "Lifinity",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675672/dapp-store/dapp-logos/Lifinity.jpg",
+  "category": [
+    "DeFi Dapps"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Bitcoin",
+    "BNB Chain",
+    "Tron"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Lifinity is a market maker that prices assets with Pyth as a Web3 oracle, shielding users from impermanent loss and applying manually set fees.",
+    "description": "Lifinity is a specialized market maker that prices assets using Pyth, a Web3 decentralized oracle, instead of relying on arbitrage. Pricing is driven by Pyth, not arbitrage, and Lifinity aims to keep its liquidity pool balanced by steering trades and price moves toward equilibrium. Fees are set manually, and users are shielded from avoidable impermanent loss as the system maintains asset balance across the pool.",
+    "meta": "Lifinity is a market maker that avoids arbitrage for asset prices, using Pyth as a Web3 oracle. Discover Lifinity and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Lifinity - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lifinity.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "atrix",
+      "tokenlon",
+      "0x"
+    ],
+    "related": [
+      "bybit",
+      "egemoney",
+      "bumper-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}
