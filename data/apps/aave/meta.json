@@ -1,7 +1,7 @@
 {
   "slug": "aave",
   "name": "Aave",
-  "logoUrl": "./aave.png",
+  "logoUrl": "https://res.cloudinary.com/dksmzzvgs/image/upload/v1770703077/dapp-store-logos/aave.png",
   "category": "DeFi",
   "chains": [
     "Ethereum",
@@ -11,7 +11,12 @@
     "Avalanche",
     "Base"
   ],
-  "tags": ["Lending", "Borrowing", "DeFi", "Yield"],
+  "tags": [
+    "Lending",
+    "Borrowing",
+    "DeFi",
+    "Yield"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Decentralized lending protocol where users can lend, borrow, and earn interest on crypto assets.",
@@ -19,9 +24,13 @@
     "meta": "Aave - Decentralized lending and borrowing protocol for crypto assets.",
     "pageTitle": "Aave - DeFi Lending Protocol"
   },
-  "links": { "website": "https://aave.com" },
+  "links": {
+    "website": "https://aave.com"
+  },
   "relations": {
-    "alternatives": ["uniswap"],
+    "alternatives": [
+      "uniswap"
+    ],
     "related": []
   }
 }
