@@ -5,6 +5,8 @@ import crypto from "crypto";
 import logger, { pinoConfig } from "./lib/logger";
 import rawBody from "fastify-raw-body";
 
+import filterRoutes from "./routes/filter";
+
 dotenv.config({ path: path.resolve(process.cwd(), ".env.local") });
 
 const fastify = Fastify({
@@ -18,6 +20,9 @@ fastify.register(rawBody, {
   encoding: "utf8",
   runFirst: true,
 });
+
+// Register filter routes
+fastify.register(filterRoutes, { prefix: "/api" });
 
 fastify.get("/", async (request, reply) => {
   return { message: "DApp Registry Backend Factory is running!" };
