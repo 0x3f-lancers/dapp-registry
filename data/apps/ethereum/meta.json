@@ -1,20 +1,14 @@
 {
   "slug": "ethereum",
   "name": "My Test DApp",
-  "logoUrl": "https://res.cloudinary.com/dksmzzvgs/image/upload/v1770666670/dapp-store-logos/ethereum.jpg",
+  "logoUrl": "./ethereum.avif",
   "category": "Utility",
-  "chains": [
-    "Ethereum",
-    "Polygon"
-  ],
-  "tags": [
-    "testing",
-    "example"
-  ],
+  "chains": ["Ethereum", "Polygon"],
+  "tags": ["testing", "example"],
   "pricing": "Free",
   "content": {
     "short": "A short test description for my new dapp ethereum.",
-    "description": "This is a detailed description ethereum for my new test dapp. It's used to verify the validation.",
+    "description": "This opensea is a detailed description ethereum for my new test dapp. It's used to verify the validation.",
     "meta": "SEO meta description for my new test dapp.",
     "pageTitle": "My Test DApp ethereumdapp - Utility"
   },
