@@ -7,7 +7,18 @@ module.exports = {
     "^@/(.*)$": "<rootDir>/$1",
   },
   setupFiles: ["dotenv/config"],
-  // Add these lines:
   testPathIgnorePatterns: ["/node_modules/", "/dist/"],
   modulePathIgnorePatterns: ["<rootDir>/dist/"],
+  transform: {
+    "^.+\\.tsx?$": [
+      "ts-jest",
+      {
+        tsconfig: "tsconfig.test.json",
+      },
+    ],
+    "^.+\\.jsx?$": "babel-jest",
+  },
+  transformIgnorePatterns: [
+    "node_modules/(?!(node-fetch|data-uri-to-buffer|fetch-blob|formdata-polyfill)/)",
+  ],
 };

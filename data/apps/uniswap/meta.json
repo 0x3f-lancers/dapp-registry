@@ -1,7 +1,7 @@
 {
   "slug": "uniswap",
   "name": "Uniswap",
-  "logoUrl": "./uniswap.webp",
+  "logoUrl": "https://res.cloudinary.com/dksmzzvgs/image/upload/v1770670499/dapp-store-logos/uniswap.jpg",
   "category": "DeFi",
   "chains": [
     "Ethereum",
@@ -13,7 +13,12 @@
     "Avalanche",
     "Celo"
   ],
-  "tags": ["DEX", "Swap", "Pool", "Liquidity"],
+  "tags": [
+    "DEX",
+    "Swap",
+    "Pool",
+    "Liquidity"
+  ],
   "pricing": "Free",
   "content": {
     "short": "The leading decentralized crypto trading protocol. Swap, earn, and build on the Uniswap Protocol.",

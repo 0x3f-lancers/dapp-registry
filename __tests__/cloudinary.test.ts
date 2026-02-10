@@ -28,6 +28,7 @@ const mockedCloudinary = jest.mocked(cloudinary);
 const mockedLogger = jest.mocked(logger);
 
 describe("Cloudinary Utility (lib/cloudinary.ts)", () => {
+  const TEST_SLUG = "test-slug";
   const CLOUDINARY_CLOUD_NAME_ENV = "test_cloud_name";
   const CLOUDINARY_API_KEY_ENV = "test_api_key";
   const CLOUDINARY_API_SECRET_ENV = "test_api_secret";
@@ -53,11 +54,15 @@ describe("Cloudinary Utility (lib/cloudinary.ts)", () => {
     process.env.CLOUDINARY_API_KEY = CLOUDINARY_API_KEY_ENV;
     process.env.CLOUDINARY_API_SECRET = CLOUDINARY_API_SECRET_ENV;
 
+    const TEST_SLUG = "test-slug";
+
+    // ... (rest of the code)
+
     mockedCloudinary.uploader.upload.mockResolvedValue({
       secure_url: MOCKED_CLOUDINARY_URL,
     } as UploadApiResponse);
 
-    const result = await uploadImage(MOCKED_IMAGE_URL);
+    const result = await uploadImage(MOCKED_IMAGE_URL, TEST_SLUG);
 
     expect(mockedCloudinary.config).toHaveBeenCalledWith({
       cloud_name: CLOUDINARY_CLOUD_NAME_ENV,
@@ -67,8 +72,13 @@ describe("Cloudinary Utility (lib/cloudinary.ts)", () => {
     expect(mockedCloudinary.uploader.upload).toHaveBeenCalledWith(
       MOCKED_IMAGE_URL,
       {
+        folder: "dapp-store-logos",
+        public_id: TEST_SLUG,
+        overwrite: true,
+        invalidate: true,
         fetch_format: "auto",
         quality: "auto",
+        resource_type: "image",
       },
     );
     expect(result).toBe(MOCKED_CLOUDINARY_URL);
@@ -77,7 +87,7 @@ describe("Cloudinary Utility (lib/cloudinary.ts)", () => {
   });
 
   it("should return original URL and log warning if Cloudinary is not configured", async () => {
-    const result = await uploadImage(MOCKED_IMAGE_URL);
+    const result = await uploadImage(MOCKED_IMAGE_URL, TEST_SLUG);
 
     expect(mockedCloudinary.config).not.toHaveBeenCalled();
     expect(mockedCloudinary.uploader.upload).not.toHaveBeenCalled();
@@ -96,19 +106,24 @@ describe("Cloudinary Utility (lib/cloudinary.ts)", () => {
     const uploadError = new Error("Cloudinary API Error");
     mockedCloudinary.uploader.upload.mockRejectedValue(uploadError);
 
-    const result = await uploadImage(MOCKED_IMAGE_URL);
+    const result = await uploadImage(MOCKED_IMAGE_URL, TEST_SLUG);
 
     expect(mockedCloudinary.config).toHaveBeenCalled();
     expect(mockedCloudinary.uploader.upload).toHaveBeenCalledWith(
       MOCKED_IMAGE_URL,
       {
+        folder: "dapp-store-logos",
+        public_id: TEST_SLUG,
+        overwrite: true,
+        invalidate: true,
         fetch_format: "auto",
         quality: "auto",
+        resource_type: "image",
       },
     );
     expect(result).toBe(MOCKED_IMAGE_URL);
     expect(mockedLogger.error).toHaveBeenCalledWith(
-      { imageUrl: MOCKED_IMAGE_URL, error: uploadError },
+      { imageUrl: MOCKED_IMAGE_URL, slug: TEST_SLUG, error: uploadError },
       "Error uploading to Cloudinary.",
     );
     expect(mockedLogger.warn).not.toHaveBeenCalled();
