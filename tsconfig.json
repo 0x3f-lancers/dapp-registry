@@ -8,8 +8,15 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "types": ["node", "jest"]
   },
-  "include": ["scripts/**/*", "lib/**/*", "index.ts"],
-  "exclude": ["node_modules", "dist", "__tests__"]
+  "include": [
+    "scripts/**/*",
+    "lib/**/*",
+    "index.ts",
+    "__tests__/**/*",
+    "__mocks__/**/*"
+  ],
+  "exclude": ["node_modules", "dist"]
 }
