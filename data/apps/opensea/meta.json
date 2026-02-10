@@ -1,25 +1,14 @@
 {
   "slug": "opensea",
   "name": "OpenSea",
-  "logoUrl": "https://res.cloudinary.com/dksmzzvgs/image/upload/v1770670498/dapp-store-logos/opensea.jpg",
+  "logoUrl": "./opensea.jpg",
   "category": "NFT Marketplace",
-  "chains": [
-    "Ethereum",
-    "Polygon",
-    "Arbitrum",
-    "Optimism",
-    "Base"
-  ],
-  "tags": [
-    "NFT",
-    "Marketplace",
-    "Collectibles",
-    "Web3"
-  ],
+  "chains": ["Ethereum", "Polygon", "Arbitrum", "Optimism", "Base"],
+  "tags": ["NFT", "Marketplace", "Collectibles", "Web3"],
   "pricing": "Free",
   "content": {
     "short": "The world’s largest opensea last check test cloudinary is testing check, sell, and discover digital assets.",
-    "description": "OpenSea is a leading decentralized marketplace for non-fungible tokens (NFTs), enabling users to buy, sell, mint, and trade digital assets across multiple blockchains. It supports a wide range of NFT categories including art, gaming items, music, and virtual worlds.",
+    "description": "OpenSea place man is a leading decentralized marketplace for non-fungible tokens (NFTs), enabling users to buy, sell, mint, and trade digital assets across multiple blockchains. It supports a wide range of NFT categories including art, gaming items, music, and virtual worlds.",
     "meta": "Explore, buy, and sell NFTs on OpenSea, the largest NFT marketplace across multiple blockchains.",
     "pageTitle": "OpenSea – The Largest NFT Marketplace"
   },
@@ -31,8 +20,6 @@
   },
   "relations": {
     "alternatives": [],
-    "related": [
-      "uniswap"
-    ]
+    "related": ["uniswap"]
   }
 }
