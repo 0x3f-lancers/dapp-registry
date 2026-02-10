@@ -16,12 +16,12 @@ export const metaJsonSchema = z.object({
   }),
   links: z
     .object({
-      website: z.string().url().optional(),
-      github: z.string().url().optional(),
-      docs: z.string().url().optional(),
-      twitter: z.string().url().optional(),
-      telegram: z.string().url().optional(),
-      discord: z.string().url().optional(),
+      website: z.url().optional(),
+      github: z.url().optional(),
+      docs: z.url().optional(),
+      twitter: z.url().optional(),
+      telegram: z.url().optional(),
+      discord: z.url().optional(),
     })
     .refine((links) => links.website || links.github, {
       message: "At least one of 'website' or 'github' is required",
