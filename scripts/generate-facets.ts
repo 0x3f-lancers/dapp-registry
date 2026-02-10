@@ -87,32 +87,34 @@ export async function generateFacets(
     }
 
     // Update category
-    const categorySlug = slugify(app.category);
-    let categoryOption = currentFacets.options.category.find(
-      (o) => o.label === app.category,
-    );
-    if (categoryOption) {
-      categoryOption.count += change;
-    } else if (type === "add") {
-      currentFacets.options.category.push({
-        label: app.category,
-        slug: categorySlug,
-        count: 1,
-      });
-    }
+    for (const categoryItem of app.category) { // Iterate over the array
+      const categorySlug = slugify(categoryItem);
+      let categoryOption = currentFacets.options.category.find(
+        (o) => o.label === categoryItem,
+      );
+      if (categoryOption) {
+        categoryOption.count += change;
+      } else if (type === "add") {
+        currentFacets.options.category.push({
+          label: categoryItem,
+          slug: categorySlug,
+          count: 1,
+        });
+      }
 
-    if (type === "add") {
-      if (!currentFacets.index.category[categorySlug]) {
-        currentFacets.index.category[categorySlug] = [];
-      }
-      if (!currentFacets.index.category[categorySlug].includes(app.slug)) {
-        currentFacets.index.category[categorySlug].push(app.slug);
-      }
-    } else {
-      if (currentFacets.index.category[categorySlug]) {
-        currentFacets.index.category[categorySlug] = currentFacets.index.category[
-          categorySlug
-        ].filter((s) => s !== app.slug);
+      if (type === "add") {
+        if (!currentFacets.index.category[categorySlug]) {
+          currentFacets.index.category[categorySlug] = [];
+        }
+        if (!currentFacets.index.category[categorySlug].includes(app.slug)) {
+          currentFacets.index.category[categorySlug].push(app.slug);
+        }
+      } else {
+        if (currentFacets.index.category[categorySlug]) {
+          currentFacets.index.category[categorySlug] = currentFacets.index.category[
+            categorySlug
+          ].filter((s) => s !== app.slug);
+        }
       }
     }
 
