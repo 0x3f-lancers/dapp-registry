@@ -3,7 +3,15 @@
   "name": "Aave",
   "logoUrl": "https://res.cloudinary.com/dksmzzvgs/image/upload/v1770703077/dapp-store-logos/aave.png",
   "category": "DeFi",
-  "chains": ["Ethereum", "BSC", "Arbitrum", "Optimism", "Avalanche", "Base"],
+  "chains": [
+    "Ethereum",
+    "BSC",
+    "Polygon",
+    "Arbitrum",
+    "Optimism",
+    "Avalanche",
+    "Base"
+  ],
   "tags": ["Lending", "Borrowing", "DeFi", "Yield", "Staking"],
   "pricing": "Free",
   "content": {
