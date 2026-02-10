@@ -1,0 +1,240 @@
+{
+  "options": {
+    "network": [
+      {
+        "label": "Ethereum",
+        "slug": "ethereum",
+        "count": 1
+      },
+      {
+        "label": "Polygon",
+        "slug": "polygon",
+        "count": 1
+      },
+      {
+        "label": "Arbitrum",
+        "slug": "arbitrum",
+        "count": 1
+      },
+      {
+        "label": "Optimism",
+        "slug": "optimism",
+        "count": 1
+      },
+      {
+        "label": "Avalanche",
+        "slug": "avalanche",
+        "count": 1
+      },
+      {
+        "label": "Base",
+        "slug": "base",
+        "count": 1
+      },
+      {
+        "label": "BSC",
+        "slug": "bsc",
+        "count": 1
+      },
+      {
+        "label": "Celo",
+        "slug": "celo",
+        "count": 1
+      }
+    ],
+    "category": [
+      {
+        "label": "DeFi",
+        "slug": "defi",
+        "count": 1
+      },
+      {
+        "label": "Gaming",
+        "slug": "gaming",
+        "count": 1
+      },
+      {
+        "label": "NFT Marketplace",
+        "slug": "nft-marketplace",
+        "count": 1
+      }
+    ],
+    "subcategory": [
+      {
+        "label": "Lending",
+        "slug": "lending",
+        "count": 1
+      },
+      {
+        "label": "Borrowing",
+        "slug": "borrowing",
+        "count": 1
+      },
+      {
+        "label": "DeFi",
+        "slug": "defi",
+        "count": 1
+      },
+      {
+        "label": "Yield",
+        "slug": "yield",
+        "count": 1
+      },
+      {
+        "label": "Staking",
+        "slug": "staking",
+        "count": 1
+      },
+      {
+        "label": "GameFi",
+        "slug": "gamefi",
+        "count": 1
+      },
+      {
+        "label": "P2E",
+        "slug": "p2e",
+        "count": 1
+      },
+      {
+        "label": "NFT",
+        "slug": "nft",
+        "count": 1
+      },
+      {
+        "label": "Marketplace",
+        "slug": "marketplace",
+        "count": 1
+      },
+      {
+        "label": "Collectibles",
+        "slug": "collectibles",
+        "count": 1
+      },
+      {
+        "label": "Web3",
+        "slug": "web3",
+        "count": 1
+      },
+      {
+        "label": "DEX",
+        "slug": "dex",
+        "count": 1
+      },
+      {
+        "label": "Swap",
+        "slug": "swap",
+        "count": 1
+      },
+      {
+        "label": "Pool",
+        "slug": "pool",
+        "count": 1
+      },
+      {
+        "label": "Liquidity",
+        "slug": "liquidity",
+        "count": 1
+      }
+    ]
+  },
+  "index": {
+    "network": {
+      "ethereum": [
+        "aave",
+        "opensea",
+        "uniswap"
+      ],
+      "polygon": [
+        "aave",
+        "new-dapp",
+        "opensea",
+        "uniswap"
+      ],
+      "arbitrum": [
+        "aave",
+        "new-dapp",
+        "opensea",
+        "uniswap"
+      ],
+      "optimism": [
+        "aave",
+        "opensea",
+        "uniswap"
+      ],
+      "avalanche": [
+        "aave",
+        "uniswap"
+      ],
+      "base": [
+        "aave",
+        "opensea",
+        "uniswap"
+      ],
+      "bsc": [
+        "uniswap"
+      ],
+      "celo": [
+        "uniswap"
+      ]
+    },
+    "category": {
+      "defi": [
+        "aave",
+        "uniswap"
+      ],
+      "gaming": [
+        "new-dapp"
+      ],
+      "nft-marketplace": [
+        "opensea"
+      ]
+    },
+    "subcategory": {
+      "lending": [
+        "aave"
+      ],
+      "borrowing": [
+        "aave"
+      ],
+      "defi": [
+        "aave"
+      ],
+      "yield": [
+        "aave"
+      ],
+      "staking": [
+        "aave"
+      ],
+      "gamefi": [
+        "new-dapp"
+      ],
+      "p2e": [
+        "new-dapp"
+      ],
+      "nft": [
+        "opensea"
+      ],
+      "marketplace": [
+        "opensea"
+      ],
+      "collectibles": [
+        "opensea"
+      ],
+      "web3": [
+        "opensea"
+      ],
+      "dex": [
+        "uniswap"
+      ],
+      "swap": [
+        "uniswap"
+      ],
+      "pool": [
+        "uniswap"
+      ],
+      "liquidity": [
+        "uniswap"
+      ]
+    }
+  }
+}
