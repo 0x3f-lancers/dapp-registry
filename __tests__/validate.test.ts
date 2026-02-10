@@ -35,7 +35,7 @@ describe("Validation Script (scripts/validate.ts)", () => {
     slug: "valid-dapp",
     name: "Valid DApp Name",
     logoUrl: "./logo.png", // Default to local for initial tests
-    category: "DeFi",
+    category: ["DeFi"], // Changed to array
     chains: ["Ethereum"],
     tags: ["Dex"],
     pricing: "Free",

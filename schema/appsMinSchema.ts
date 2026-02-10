@@ -5,7 +5,7 @@ export const appsMinSchema = z.array(
     slug: z.string(),
     name: z.string(),
     logoUrl: z.string(),
-    category: z.string(),
+    category: z.array(z.string()),
     chains: z.array(z.string()),
     tags: z.array(z.string()),
     pricing: z.string(),

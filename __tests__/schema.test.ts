@@ -9,7 +9,7 @@ describe('Schema Validation', () => {
       slug: 'valid-dapp',
       name: 'Valid DApp Name',
       logoUrl: './logo.png',
-      category: 'DeFi',
+      category: ['DeFi'], // Changed to array
       chains: ['Ethereum'],
       tags: ['Dex'],
       pricing: 'Free',
@@ -38,7 +38,7 @@ describe('Schema Validation', () => {
     it('should allow optional fields to be missing', () => {
       const { source, links, ...minimalValidData } = validMetaData;
       const minimalLinks = { website: 'https://minimal.com' };
-      const data = { ...minimalValidData, links: minimalLinks };
+      const data = { ...minimalValidData, links: minimalLinks, category: validMetaData.category }; // Ensure category is passed correctly
       expect(() => metaJsonSchema.parse(data)).not.toThrow();
     });
 
@@ -84,7 +84,7 @@ describe('Schema Validation', () => {
         slug: 'min-dapp-1',
         name: 'Min DApp One',
         logoUrl: 'https://res.cloudinary.com/cloud/image/upload/v1/logo.png',
-        category: 'GameFi',
+        category: ['GameFi'], // Changed to array
         chains: ['Polygon'],
         tags: ['P2E'],
         pricing: 'Free',
@@ -95,7 +95,7 @@ describe('Schema Validation', () => {
         slug: 'min-dapp-2',
         name: 'Min DApp Two',
         logoUrl: 'https://res.cloudinary.com/cloud/image/upload/v1/logo2.png',
-        category: 'Tool',
+        category: ['Tool'], // Changed to array
         chains: ['Ethereum'],
         tags: ['Utils'],
         pricing: 'Paid',

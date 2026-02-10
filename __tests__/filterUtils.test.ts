@@ -25,7 +25,7 @@ const mockAppsMin: AppMin[] = [
     slug: "aave",
     name: "Aave",
     logoUrl: "url1",
-    category: "DeFi",
+    category: ["DeFi"], // Changed to array
     chains: ["Ethereum", "Polygon"],
     tags: ["Lending", "Borrowing"],
     pricing: "Free",
@@ -36,7 +36,7 @@ const mockAppsMin: AppMin[] = [
     slug: "uniswap",
     name: "Uniswap",
     logoUrl: "url2",
-    category: "DeFi",
+    category: ["DeFi"], // Changed to array
     chains: ["Ethereum", "Arbitrum"],
     tags: ["DEX", "Swap"],
     pricing: "Free",
@@ -47,7 +47,7 @@ const mockAppsMin: AppMin[] = [
     slug: "opensea",
     name: "OpenSea",
     logoUrl: "url3",
-    category: "NFT Marketplace",
+    category: ["NFT Marketplace"], // Changed to array
     chains: ["Polygon"],
     tags: ["NFT", "Marketplace"],
     pricing: "Free",
@@ -58,7 +58,7 @@ const mockAppsMin: AppMin[] = [
     slug: "gamefi-dapp",
     name: "GameFi Dapp",
     logoUrl: "url4",
-    category: "Gaming",
+    category: ["Gaming"], // Changed to array
     chains: ["Arbitrum"],
     tags: ["GameFi", "P2E"],
     pricing: "Paid",
