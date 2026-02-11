@@ -12,14 +12,13 @@ import { generateFacets } from "../scripts/generate-facets";
 dotenv.config({ path: path.resolve(process.cwd(), ".env.local") });
 
 export default async function distill(
-  appsDir: string,
+  appsDir: string = path.resolve(process.cwd(), "source", "apps"), // Default to 'source/apps'
   dataDir: string,
   slugsToProcess?: string[],
 ) {
   await fs.mkdir(dataDir, { recursive: true });
 
   const appsMinPath = path.join(dataDir, "apps.min.json");
-  const slugsJsonPath = path.join(dataDir, "slugs.json");
 
   let existingApps: z.infer<typeof appsMinSchema> = [];
   let initialExistingApps: z.infer<typeof appsMinSchema> = []; // To track removed apps
@@ -49,14 +48,6 @@ export default async function distill(
     updated: [],
     removed: [],
   };
-
-  let existingSlugs: string[] = [];
-  try {
-    const existingContent = await fs.readFile(slugsJsonPath, "utf-8");
-    existingSlugs = JSON.parse(existingContent);
-  } catch {
-    logger.info("No existing slugs.json found, creating new one");
-  }
 
   const allDirSlugs = await fs.readdir(appsDir);
   const slugsForProcessing =
@@ -122,6 +113,7 @@ export default async function distill(
         name: meta.name,
         logoUrl: finalLogoUrl,
         category: meta.category,
+        subcategory: meta.subcategory, // Added subcategory
         chains: meta.chains,
         tags: meta.tags,
         pricing: meta.pricing,
@@ -144,10 +136,7 @@ export default async function distill(
         logger.info({ slug }, "✅ Added new app to apps.min.json");
       }
 
-      // Update slugs list
-      if (!existingSlugs.includes(slug)) {
-        existingSlugs.push(slug);
-      }
+
     } catch (error) {
       logger.error({ metaPath, error }, "Error processing meta.json.");
     }
@@ -174,11 +163,6 @@ export default async function distill(
   logger.info(
     `Generated data/apps.min.json (${existingApps.length} total apps)`,
   );
-
-  // Write updated slugs.json
-  const slugsJsonContent = JSON.stringify(existingSlugs, null, 2);
-  await fs.writeFile(slugsJsonPath, slugsJsonContent, "utf-8");
-  logger.info("Generated data/slugs.json");
 
   // Generate facets index
   await generateFacets(dataDir, changedApps);
