@@ -108,4 +108,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): auto-generated DApp data files"
-          file_pattern: "data/apps.min.json data/slugs.json data/facets.index.json"
+          file_pattern: "data/apps.min.json data/facets.index.json"
