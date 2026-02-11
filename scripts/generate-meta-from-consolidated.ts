@@ -7,10 +7,9 @@ import logger from "./../lib/logger";
 // Define the schema for a single dApp object in your final_dapps.rewritten.json
 const finalDappSchema = z.object({
   slug: z.string(),
-  categories: z.array(z.string()).optional(), // Used for meta.json category
   chains_from_pages: z.array(z.string()).optional(), // Not directly used
   name: z.string(),
-  category: z.string().optional(), // Now optional in source, as 'categories' is preferred for meta.json
+  category: z.string(), // Now required and a single string
   tags: z.array(z.string()),
   chains: z.array(z.string()),
   shortDescription: z.string(),
@@ -23,6 +22,7 @@ const finalDappSchema = z.object({
   alternatives: z.array(z.string()),
   relatedDapps: z.array(z.string()),
   fully_scraped: z.boolean(),
+  subcategories: z.array(z.string()), // Added subcategories
 });
 
 // Define the schema for the entire final_dapps.rewritten.json file (an array of finalDappSchema)
@@ -31,7 +31,7 @@ const finalDappsRewrittenFileSchema = z.array(finalDappSchema);
 type FinalDappEntry = z.infer<typeof finalDappSchema>;
 type MetaJsonContent = z.infer<typeof metaJsonSchema>;
 
-async function generateMetaFilesFromConsolidated(
+export async function generateMetaFilesFromConsolidated(
   sourceFilePath: string,
   targetAppsDirPath: string,
 ) {
@@ -58,8 +58,8 @@ async function generateMetaFilesFromConsolidated(
         slug: dapp.slug,
         name: dapp.name,
         logoUrl: dapp.logoUrl,
-        // Use dapp.categories if available and non-empty, otherwise fallback to a single-element array with dapp.category
-        category: dapp.categories && dapp.categories.length > 0 ? dapp.categories : (dapp.category ? [dapp.category] : []),
+        category: dapp.category, // Directly map category
+        subcategory: dapp.subcategories, // Directly map subcategories
         chains: dapp.chains,
         tags: dapp.tags,
         pricing: dapp.pricing,
@@ -103,6 +103,6 @@ async function generateMetaFilesFromConsolidated(
 // Example usage if run directly
 if (require.main === module) {
   const sourceFile = path.resolve(process.cwd(), "final_dapps.rewritten.json"); // Project root
-  const targetDir = path.resolve(process.cwd(), "data", "apps");
+  const targetDir = path.resolve(process.cwd(), "source", "apps");
   generateMetaFilesFromConsolidated(sourceFile, targetDir);
 }

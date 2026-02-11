@@ -15,8 +15,8 @@
     "scripts/**/*",
     "lib/**/*",
     "index.ts",
-    "__tests__/**/*",
-    "__mocks__/**/*"
+    "tests/**/*",
+    "mocks/**/*"
   ],
   "exclude": ["node_modules", "dist"]
 }

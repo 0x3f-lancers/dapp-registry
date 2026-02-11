@@ -36,6 +36,7 @@ export interface SelectedFilters {
   network?: string[];
   category?: string[];
   subcategory?: string[];
+  tags?: string[];
 }
 
 function getAppsMin(): AppMin[] {
@@ -65,18 +66,19 @@ export function filterApps(selected: SelectedFilters): AppMin[] {
   const facets = getFacets();
   const allSlugs = new Set(apps.map((a) => a.slug));
 
-  const n = setForGroup(selected.network || [], facets.index.network, allSlugs);
+  const n = setForGroup(selected.network || [], facets.buckets.network, allSlugs);
   const c = setForGroup(
     selected.category || [],
-    facets.index.category,
+    facets.buckets.category,
     allSlugs,
   );
   const s = setForGroup(
     selected.subcategory || [],
-    facets.index.subcategory,
+    facets.buckets.subcategory,
     allSlugs,
   );
+  const t = setForGroup(selected.tags || [], facets.buckets.tags, allSlugs);
 
-  const allowed = intersect(intersect(n, c), s);
+  const allowed = intersect(intersect(intersect(n, c), s), t);
   return apps.filter((a) => allowed.has(a.slug));
 }

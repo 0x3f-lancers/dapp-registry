@@ -2,7 +2,7 @@ import path from "path";
 import distill from "./distill";
 import logger from "../lib/logger";
 
-const appsDir = path.join(process.cwd(), "data", "apps");
+const appsDir = path.join(process.cwd(), "source", "apps");
 const dataDir = path.join(process.cwd(), "data");
 
 // Get command-line arguments (slugs to process)
