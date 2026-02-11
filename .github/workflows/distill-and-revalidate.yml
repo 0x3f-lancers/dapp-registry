@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "data/apps/**/meta.json"
+      - "source/apps/**/meta.json"
       - "scripts/distill.ts"
       - "schema/metaJsonSchema.ts"
       - "schema/faucetIndexJson.ts"
