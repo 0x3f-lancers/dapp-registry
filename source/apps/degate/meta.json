@@ -1,0 +1,47 @@
+{
+  "slug": "degate",
+  "name": "DeGate",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746417/web3-explorer/dapp-logos/degate.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges (DEXs)"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "Base",
+    "Cronos"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "DeGate is an order-book DEX on Ethereum powered by Zero-Knowledge technology.",
+    "description": "DeGate enables spot market trading with limit orders on a decentralized exchange and includes a decentralized grid trading feature. The platform delivers noticeably lower gas costs through its Efficient Gas Saving technology, helping traders execute orders more economically across supported chains. It also supports permissionless listing, allowing any token to be listed via an open listing mechanism.",
+    "meta": "DeGate enables spot market trading with Limit Orders on DEX and offers decentralized grid trading. Discover DeGate and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "DeGate - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://degate.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "curve-finance",
+      "bored-candy-city",
+      "seif-finance"
+    ],
+    "related": [
+      "opium",
+      "crypto-dot-com",
+      "swapspace"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

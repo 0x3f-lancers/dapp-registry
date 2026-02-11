@@ -1,0 +1,48 @@
+{
+  "slug": "defined",
+  "name": "Defined.fi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746401/web3-explorer/dapp-logos/defined.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Solana",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Bitcoin",
+    "Aptos"
+  ],
+  "tags": [
+    "Analytics Tools",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Defined.fi provides real-time cross-network price data for use in apps and chat servers.",
+    "description": "Defined.fi is a data streaming platform that enables developers to query and interact with on-chain data from more than 48 networks through a GraphQL API. It features a deeply analytical dashboard where users can monitor hot NFT collections and tokens to identify potential investment opportunities. The Defined.fi API exposes endpoints for authentication, networks, tokens, and NFT data, empowering builders to create apps and dashboards that integrate data from multiple networks.",
+    "meta": "Defined.fi is a data streaming platform for querying and interacting with networks via GraphQL. Discover Defined.fi and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Defined.fi - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.defined.fi/"
+  },
+  "relations": {
+    "alternatives": [
+      "defi-rate",
+      "chainbase"
+    ],
+    "related": [
+      "dune-mev-analytics",
+      "rarity-sniper",
+      "my-merlin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

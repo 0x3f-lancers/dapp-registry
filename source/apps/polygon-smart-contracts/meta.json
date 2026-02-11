@@ -1,0 +1,44 @@
+{
+  "slug": "polygon-smart-contracts",
+  "name": "Polygon Smart Contracts",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749243/web3-explorer/dapp-logos/polygon-smart-contracts.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "BNB Chain",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Smart Contract Templates",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Polygon Smart Contracts provides business logic contracts for the Matic Network.",
+    "description": "Polygon Smart Contracts represents the official business logic smart contracts repository for Polygon and is publicly accessible to the developer community. It welcomes contributions of code, content, and review efforts from developers who want to help shape the platform. The smart contracts in this repository are provided as reusable building blocks for custom business logic, making it easier to compose and deploy application-specific workflows. The project maintains an active community with many stars, forks, and contributors participating in ongoing collaboration and improvement.",
+    "meta": "Polygon Smart Contracts provides business logic contracts for the Matic Network. Discover Polygon Smart Contracts and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Polygon Smart Contracts - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/maticnetwork/contracts"
+  },
+  "relations": {
+    "alternatives": [
+      "cookbook",
+      "solady",
+      "zolidity"
+    ],
+    "related": [
+      "femplate",
+      "hashlips",
+      "liteflow"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

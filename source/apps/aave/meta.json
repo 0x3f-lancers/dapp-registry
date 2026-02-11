@@ -1,0 +1,49 @@
+{
+  "slug": "aave",
+  "name": "Aave",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744721/web3-explorer/dapp-logos/aave.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Avalanche",
+    "Fantom",
+    "Base",
+    "Solana",
+    "Cronos"
+  ],
+  "tags": [
+    "Decentralized Lending Dapps",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Aave is a protocol that lets users borrow and lend with both fixed and variable interest rates.",
+    "description": "Aave enables borrowing and lending across over 30 Ethereum-based assets. Users can switch between stable and variable interest rates and can access flash loans. The protocol also offers pools for real-world assets, including real estate, cargo and freight invoices, and payment advances enabled by its partner Centrifuge. Its governance token, AAVE, allows holders to participate in Aave Improvement Proposals (AIPs) and help shape the protocol's evolution.",
+    "meta": "Aave is a DeFi lending protocol for borrowing and lending with flexible rates. Discover Aave and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Aave - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aave.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "opendollar",
+      "jet-protocol",
+      "orby-network"
+    ],
+    "related": [
+      "ix-swap",
+      "lagoon",
+      "thestandard"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "caldera",
+  "name": "Caldera",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745536/web3-explorer/dapp-logos/caldera.jpg",
+  "category": "RaaS Tools",
+  "subcategory": [
+    "Rollups-as-a-Service (RaaS)"
+  ],
+  "chains": [
+    "Arbitrum",
+    "OP Mainnet",
+    "Ethereum",
+    "ZKsync",
+    "Multichain"
+  ],
+  "tags": [
+    "Rollups-as-a-Service (RaaS)",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Caldera makes it easy to launch performant, customizable Arbitrum Orbit and OP Stack rollups.",
+    "description": "Caldera focuses on delivering high-performance, customizable, and application-specific layer-two blockchains. The Caldera Chains are custom-built networks designed to meet the needs of modern decentralized applications, delivering high throughput, low latency, and flexible feature sets that developers can tune to optimize performance and user experience. These chains can process hundreds of transactions per second with confirmations in under a second, enabling responsive and scalable experiences for decentralized applications across diverse use cases.",
+    "meta": "Caldera builds high-performance, customizable, application-specific layer-two blockchains. Discover Caldera and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Caldera - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://caldera.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "conduit",
+      "alt-layer"
+    ],
+    "related": [
+      "zksync",
+      "astria"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "jito-labs",
+  "name": "Jito Labs",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747807/web3-explorer/dapp-logos/jito-labs.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "MEV Analytics Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Polygon",
+    "BNB Chain"
+  ],
+  "tags": [
+    "MEV Analytics Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Jito Labs is an MEV infrastructure company building high-performance validator and trading tools for Solana.",
+    "description": "Jito Labs, founded in 2021, is an MEV infrastructure company delivering high-performance systems to scale Solana and boost rewards for stakers and validators. The mission is to make MEV more democratic and accessible to the trading community and Solana ecosystem. Solana validators can deploy Jito-Solana Client, Jito Block Engine, and Jito Relayer to optimize hardware use, create more profitable blocks, outsource spam mitigation, and maximize their revenues across supported networks.",
+    "meta": "Jito Labs provides MEV infrastructure for Solana with validator and trading tools. Discover Jito Labs and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Jito Labs - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://jito.wtf"
+  },
+  "relations": {
+    "alternatives": [
+      "chainsight-analytics",
+      "mev-boost-analytics",
+      "eigen-phi"
+    ],
+    "related": [
+      "open-zeppelin-relay",
+      "zeromev",
+      "blocknative"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

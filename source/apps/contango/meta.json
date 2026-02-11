@@ -1,0 +1,49 @@
+{
+  "slug": "contango",
+  "name": "Contango",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745878/web3-explorer/dapp-logos/contango.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives",
+    "DeFi Yield Farming Platforms"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Base",
+    "Solana"
+  ],
+  "tags": [
+    "Decentralized Derivatives",
+    "DeFi Yield Farming Platforms",
+    "Crypto Trading Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Contango offers perps built via looping on money markets.",
+    "description": "Contango builds perpetual contracts by looping across money markets. Deep liquidity is sourced from these markets, where interest rate dynamics help keep funding rates less volatile. The platform provides an intuitive trading interface designed for traders who deal in size, seasoned loopers seeking better monitoring tools, and degens aiming to farm rewards on money markets. This approach enables more predictable funding costs while offering robust tools for managing risk and tracking positions across multiple DeFi venues.",
+    "meta": "Contango builds perps via looping on money markets. Discover Contango and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Contango - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://contango.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "defx",
+      "ribbon-finance",
+      "dual-finance"
+    ],
+    "related": [
+      "dhedge",
+      "metronome-synth",
+      "bumper-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

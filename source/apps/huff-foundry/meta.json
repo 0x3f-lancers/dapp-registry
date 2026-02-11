@@ -1,0 +1,42 @@
+{
+  "slug": "huff-foundry",
+  "name": "Huff x Foundry",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747610/web3-explorer/dapp-logos/huff-foundry.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain"
+  ],
+  "tags": [
+    "Dapp Templates",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Huff x Foundry is a Foundry library for compiling, debugging, and testing Huff contracts in Solidity.",
+    "description": "Huff x Foundry is a Foundry library for working with Huff contracts. It enables testing Huff code with Foundry, a fast, modular toolkit for Ethereum development that streamlines compiling, running tests, and iterating on contract logic to verify correctness and safety. Because Huff provides few automatic safety checks, using this library helps developers validate behavior, surface edge cases, and catch potential issues before deployment, contributing to more robust Huff-based applications.",
+    "meta": "Huff x Foundry is a Foundry library for working with Huff contracts. Discover Huff x Foundry and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Huff x Foundry - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/huff-language/foundry-huff#readme"
+  },
+  "relations": {
+    "alternatives": [
+      "femplate",
+      "webstudio",
+      "scaffold-eth"
+    ],
+    "related": [
+      "ethereum-transaction-viewer",
+      "serpenter",
+      "eth-sdk"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

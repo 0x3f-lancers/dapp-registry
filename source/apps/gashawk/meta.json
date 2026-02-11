@@ -1,0 +1,45 @@
+{
+  "slug": "gashawk",
+  "name": "GasHawk",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747171/web3-explorer/dapp-logos/gashawk.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Gas Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "Arbitrum",
+    "Base",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Gas Tools",
+    "Transaction Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "GasHawk provides free, automated, non-custodial savings of up to 95% on ETH transaction fees.",
+    "description": "GasHawk tackles the challenge of high and volatile gas costs by monitoring network conditions and forecasting the optimal moment to submit a transaction. As a non-custodial service, it aims to minimize fees and optimize transactions during periods of low costs while preparing for future price volatility. It helps reduce stuck transactions, prevent failures, and shield users from front-running and sandwiching. GasHawk is an MEV-resistant, gas-rebate RPC layer with potential to grow its product offerings and value over time.",
+    "meta": "GasHawk enables free, automated, and non-custodial savings of up to 95% on ETH transaction fees. Discover GasHawk and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "GasHawk - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gashawk.io/#/"
+  },
+  "relations": {
+    "alternatives": [
+      "blocknative",
+      "superchain-dev-console"
+    ],
+    "related": [
+      "tradingview",
+      "blockradar"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

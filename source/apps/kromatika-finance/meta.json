@@ -1,0 +1,50 @@
+{
+  "slug": "kromatika-finance",
+  "name": "Kromatika Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747921/web3-explorer/dapp-logos/kromatika-finance.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges (DEXs)",
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Tron",
+    "Fantom",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Decentralized Derivatives",
+    "Free, Open-source, Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Kromatika Finance is a DEX on Uniswap V3 that automates limit orders and offers gasless swaps via Biconomy.",
+    "description": "Kromatika Finance is a DeFi DEX built on Uniswap V3 that removes trading friction by automating limit orders and aggregating top prices. It delivers a decentralized limit-order system with MEV bot protection, no price slippage, and zero swap fees, with order settlements powered by Chainlink Keepers. Gasless swaps are available via Biconomy, letting users trade without funding ETH for gas. The platform also offers an on-chain aggregator that sources the best instant rates from 1inch and 0xProject, and perpetual trading with low fees and up to 100x leverage across 70+ crypto pairs.",
+    "meta": "Kromatika Finance is a DEX on Uniswap V3 that automates limit orders. Discover Kromatika Finance and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Kromatika Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://kromatika.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "saber",
+      "velodrome",
+      "hyperjump"
+    ],
+    "related": [
+      "toobit",
+      "perpetual-protocol",
+      "polynomial-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

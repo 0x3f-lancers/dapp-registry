@@ -1,0 +1,46 @@
+{
+  "slug": "simplehash",
+  "name": "SimpleHash",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749879/web3-explorer/dapp-logos/simplehash.png",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT APIs"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "Multichain",
+    "OP Mainnet",
+    "Polygon",
+    "Solana"
+  ],
+  "tags": [
+    "NFT APIs",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "SimpleHash is a REST and webhook API to query NFT metadata, media, and transaction history across multiple chains.",
+    "description": "SimpleHash is a REST and webhook-based API that lets you query NFT metadata, media, and transaction history across multiple chains, including sales, listings, and floor prices. It indexes data from Arbitrum, Avalanche, BNB Chain, Ethereum, Multichain, OP Mainnet, Polygon, and Solana so you can access NFT data from a single API. The service handles edge cases and delivers a fast media CDN for reliable media delivery. Developers can integrate SimpleHash with just a few lines of code, enabling seamless NFT data retrieval in their applications.",
+    "meta": "SimpleHash is a REST and webhook API to query NFT metadata, media, and history across chains. Discover SimpleHash and other NFT Tools on Lancers Web3 Explorer.",
+    "pageTitle": "SimpleHash - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://simplehash.com"
+  },
+  "relations": {
+    "alternatives": [
+      "ownerfy",
+      "scamsniffer"
+    ],
+    "related": [
+      "nonfungible",
+      "premint"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "aa-bundler",
+  "name": "AA-bundler",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744712/web3-explorer/dapp-logos/aa-bundler.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Base",
+    "BNB Chain",
+    "Polygon",
+    "Multichain",
+    "ZKsync"
+  ],
+  "tags": [
+    "Account Abstraction (ERC-4337) Bundlers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "AA-bundler is open-source ERC-4337 bundler written in Rust by Vid Kersic.",
+    "description": "AA-bundler is an open-source ERC-4337 bundler implemented in Rust by Vid Kersic, an Ethereum Protocol Fellow. The design mirrors aspects of the Erigon node client, with all components modular enough to be run independently. This modularity supports multiple entry points and mempools, enabling flexible deployment and experimentation across compatible networks. The project emphasizes accessibility for researchers and developers seeking to explore and extend account abstraction tooling in a Rust-based, componentized architecture.",
+    "meta": "AA-bundler is an open-source ERC-4337 bundler built in Rust. Discover AA-bundler and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "AA-bundler - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/Vid201/aa-bundler/"
+  },
+  "relations": {
+    "alternatives": [
+      "stackup-bundler",
+      "autoair-ai"
+    ],
+    "related": [
+      "backpac-inc",
+      "wallet-guard"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

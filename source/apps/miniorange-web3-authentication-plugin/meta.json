@@ -1,0 +1,52 @@
+{
+  "slug": "miniorange-web3-authentication-plugin",
+  "name": "miniOrange",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748438/web3-explorer/dapp-logos/miniorange-web3-authentication-plugin.png",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Web3 Authentication Tools"
+  ],
+  "chains": [
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon zkEVM",
+    "Multichain",
+    "Bitcoin"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Web3 Authentication Tools",
+    "Token Gating Tools",
+    "NFT Minting Tools",
+    "Wallet Security Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "The miniOrange Web3 Authentication Plugin lets WordPress sign up or log in via cryptocurrency wallets and gates content by NFT ownership.",
+    "description": "miniOrange Web3 Authentication Plugin lets WordPress users sign up or log in using their cryptocurrency wallet. It supports NFT-based content gating, so access to premium or restricted areas is limited to visitors who hold specific NFTs in their wallet. This plugin verifies ownership through digital signatures during the login process, delivering a secure, signature-based authentication workflow for Web3-enabled WordPress sites while keeping traditional site content protected behind wallet-checks.",
+    "meta": "The miniOrange Web3 Authentication Plugin signs up or logs in with a crypto wallet. Discover miniOrange and other Identity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "miniOrange - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://plugins.miniorange.com/web3-wordpress-login"
+  },
+  "relations": {
+    "alternatives": [
+      "web3auth",
+      "iofinnet"
+    ],
+    "related": [
+      "spruce",
+      "nomis"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "zettablock",
+  "name": "ZettaBlock",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751415/web3-explorer/dapp-logos/zettablock.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Indexing Tools",
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Solana",
+    "BNB Chain",
+    "Multichain",
+    "Avalanche",
+    "Fantom",
+    "Starknet"
+  ],
+  "tags": [
+    "Indexing Tools",
+    "Web3 Data Tools",
+    "Analytics Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "ZettaBlock provides real-time Web3 data infrastructure for indexing and analytics and lets you build your own low-latency APIs for your app.",
+    "description": "ZettaBlock provides enterprise-grade, full-stack Web3 infrastructure for indexing and analytics, uniting real-time on-chain and off-chain data. App developers can launch low-latency, reliable GraphQL APIs in minutes, powered by SQL and Python, without the burden of building custom data pipelines. Users no longer have to decode blockchain data, configure data warehouses, pipelines, databases, or API endpoints, simplifying data access and integration across projects.",
+    "meta": "ZettaBlock provides real-time Web3 data infrastructure for indexing and analytics. Discover ZettaBlock and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ZettaBlock - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://zettablock.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "transpose",
+      "token-flow"
+    ],
+    "related": [
+      "subsquid",
+      "gateway-fm"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

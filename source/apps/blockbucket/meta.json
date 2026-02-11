@@ -1,0 +1,46 @@
+{
+  "slug": "blockbucket",
+  "name": "BlockBucket",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745319/web3-explorer/dapp-logos/blockbucket.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Solana",
+    "BNB Chain",
+    "Avalanche",
+    "Polygon"
+  ],
+  "tags": [
+    "Token Management Tools",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "BlockBucket enables batch ERC-20 token airdrops to Ethereum addresses with a 0.01 ETH fee.",
+    "description": "BlockBucket is an airdrop tool that lets you distribute ERC-20 tokens to Ethereum addresses with a 0.01 ETH fee. You can send tokens with BlockBucket in three simple steps: select the ERC-20 token, upload a CSV of addresses and token amounts, and batch-send your tokens by paying the 0.01 ETH fee. This approach is cheaper than other similar protocols, which can take 10x as much.",
+    "meta": "BlockBucket is an airdrop tool that sends ERC-20 tokens to Ethereum addresses for 0.01 ETH. Discover BlockBucket and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "BlockBucket - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blockbucket.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "slerftools",
+      "fjord-foundry",
+      "magna"
+    ],
+    "related": [
+      "eth-tx",
+      "decent"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

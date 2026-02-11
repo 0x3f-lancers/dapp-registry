@@ -1,0 +1,46 @@
+{
+  "slug": "ens",
+  "name": "ENS",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746702/web3-explorer/dapp-logos/ens.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Name Service Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "Arbitrum",
+    "Base",
+    "Polygon",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Name Service Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "ENS maps human-readable names to machine-readable addresses and identifiers on the Ethereum blockchain.",
+    "description": "The Ethereum Name Service (ENS) is a distributed, open, and extensible naming system built on the Ethereum blockchain. Its core function is to translate human-friendly names into machine-readable identifiers, enabling straightforward interactions across the Ethereum ecosystem. Names like 'alice.eth' can resolve to Ethereum addresses or other cryptocurrency addresses, content hashes that reference off-chain data, and associated metadata. By providing a decentralized directory for names, ENS simplifies wallet addresses, contract interactions, and onboarding while remaining compatible with standard Ethereum tooling.",
+    "meta": "ENS provides decentralised naming for wallets and websites. Discover ENS and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ENS - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ens.domains/"
+  },
+  "relations": {
+    "alternatives": [
+      "freename",
+      "udlink",
+      "endless-domains"
+    ],
+    "related": [
+      "hashleap",
+      "timelessx",
+      "fiat24"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

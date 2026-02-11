@@ -1,0 +1,44 @@
+{
+  "slug": "linen",
+  "name": "Linen",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748074/web3-explorer/dapp-logos/linen.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Multisig Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Solana",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Multisig Wallets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Linen offers secure, multi-signature protection for crypto assets, powered by Safe.",
+    "description": "Linen strengthens crypto asset security by employing multi-signature technology, which removes single points of failure and provides stronger protection against unauthorized access and theft. It is designed as a user-friendly wallet for crypto holders who want advanced security features without added complexity. With Linen, you can manage your digital assets safely and efficiently while benefiting from rapid support and smooth onboarding.",
+    "meta": "Linen is a Web3 wallet centered on secure, multi-signature protection for crypto assets. Discover Linen and other Web3 Wallets on Lancers Web3 Explorer.",
+    "pageTitle": "Linen - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://linen.app/"
+  },
+  "relations": {
+    "alternatives": [
+      "unipass"
+    ],
+    "related": [
+      "trustwallet",
+      "ronin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

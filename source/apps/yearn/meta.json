@@ -1,0 +1,50 @@
+{
+  "slug": "yearn",
+  "name": "Yearn Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751350/web3-explorer/dapp-logos/yearn.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Base",
+    "Linea",
+    "Multichain",
+    "BNB Chain",
+    "Solana",
+    "Cronos"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "DeFi Yield Aggregators",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Yearn Finance is a multi-chain yield aggregator that uses yVaults to automate yields for users.",
+    "description": "Yearn Finance, established in 2020 by Andre Cronje, is a multi-chain yield aggregator that uses investment pools called yVaults to automate yield generation and to respond to changing market opportunities across supported networks. The system enables users to earn interest on the same token they deposit, with no withdrawal fees, and it invites anyone to design new investment strategies that help Yearn vaults increase overall yield. By coordinating capital across multiple pools, Yearn seeks to maximize sustainable returns for its users.",
+    "meta": "Yearn Finance is a multi-chain yield aggregator using yVaults to automate yields. Discover Yearn Finance and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Yearn Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://yearn.finance/vaults"
+  },
+  "relations": {
+    "alternatives": [
+      "eisenlabs",
+      "meme-city",
+      "veno-finance"
+    ],
+    "related": [
+      "compound",
+      "bru-finance",
+      "hundred-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

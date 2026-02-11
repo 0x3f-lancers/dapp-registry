@@ -1,0 +1,46 @@
+{
+  "slug": "prysm",
+  "name": "Prysm",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749337/web3-explorer/dapp-logos/prysm.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Consensus Clients"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Multichain",
+    "Arbitrum",
+    "Avalanche"
+  ],
+  "tags": [
+    "Free Customers",
+    "Consensus Clients",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Prysm is a full beacon node implementation and Ethereum validator client written in Go.",
+    "description": "Prysm provides a complete beacon node implementation and an Ethereum validator client written in Go, designed to conform to the Ethereum Consensus specification. The client prioritizes usability, security, and reliability, making it suitable for production use. In addition to the core consensus functionality, Prysm offers gRPC tooling, an optimized key‑value store, and Protocol Labs for efficient peer‑to‑peer networking.",
+    "meta": "Prysm is a full beacon node implementation and Ethereum validator client written in Go. Discover Prysm and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Prysm - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.prylabs.network/docs/getting-started/"
+  },
+  "relations": {
+    "alternatives": [
+      "nimbus",
+      "lighthouse",
+      "teku"
+    ],
+    "related": [
+      "ligmanode",
+      "pocket-portal",
+      "spinor"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

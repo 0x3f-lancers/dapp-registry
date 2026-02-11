@@ -1,0 +1,51 @@
+{
+  "slug": "aleph-im",
+  "name": "Aleph Cloud",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744800/web3-explorer/dapp-logos/aleph-im.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Decentralized Storage Tools",
+    "Decentralized Computing Tools"
+  ],
+  "chains": [
+    "Polkadot",
+    "Cosmos",
+    "Ethereum",
+    "Solana",
+    "Avalanche",
+    "Polygon",
+    "Base",
+    "Multichain",
+    "Arbitrum",
+    "Aptos"
+  ],
+  "tags": [
+    "Decentralized Storage Tools",
+    "Decentralized Computing Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Aleph Cloud is the AWS of Web3, enabling secure access to off-chain data.",
+    "description": "Aleph Cloud is a decentralized file storage protocol that supports major blockchains, including Solana, Cosmos, Ethereum, and Polygon, enabling a broad range of decentralized applications to reference and retrieve data securely. With just a few lines of code, Aleph Cloud lets developers securely access off-chain data sources while maintaining strict data ownership and user control. Because the storage layer is anchored to the blockchain, the data cannot be tampered with and users retain ownership across the networks it supports.",
+    "meta": "Aleph Cloud is an infrastructure platform. Discover Aleph Cloud and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Aleph Cloud - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aleph.cloud/"
+  },
+  "relations": {
+    "alternatives": [
+      "kyve-network",
+      "ionian"
+    ],
+    "related": [
+      "tableland",
+      "opensea-api",
+      "noves"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

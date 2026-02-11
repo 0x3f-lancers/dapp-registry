@@ -1,0 +1,41 @@
+{
+  "slug": "ethersplay",
+  "name": "Ethersplay",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746825/web3-explorer/dapp-logos/ethersplay.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana"
+  ],
+  "tags": [
+    "Dissassemblers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Ethersplay is an open-source protocol for disassembling EVM byte code.",
+    "description": "Ethersplay is an open-source protocol for disassembling EVM byte code. It enables developers to reverse engineer existing code to understand the underlying contracts. Ethersplay translates EVM byte code from its raw binary format into a human-readable representation in Python. The project is free to use and maintained by a team of more than 15 engineers.",
+    "meta": "Ethersplay is an open-source protocol for disassembling EVM byte code. Discover Ethersplay and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Ethersplay - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/crytic/ethersplay"
+  },
+  "relations": {
+    "alternatives": [
+      "capstone-disassembler",
+      "evmdasm"
+    ],
+    "related": [
+      "solang",
+      "etherscan-decompiler",
+      "ethereum-abi-python"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "pooltogether",
+  "name": "PoolTogether",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749272/web3-explorer/dapp-logos/pooltogether.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Avalanche",
+    "Solana",
+    "Arbitrum",
+    "Cronos",
+    "BNB Chain"
+  ],
+  "tags": [
+    "DeFi Yield Aggregators",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "PoolTogether is a no loss prize savings protocol.",
+    "description": "Save money and gain a chance to win prizes with PoolTogether. This no-loss savings setup lets you deposit USDC and enter daily prize draws, with winners chosen from the pool of deposits. You can withdraw your funds anytime—even if you don’t win—without risking your principal. The system pools deposits into a prize fund, so prizes are awarded from that pool while non-winning participants keep their deposits for future draws. It combines saving with prize-based rewards in a saver-friendly, liquid experience.",
+    "meta": "PoolTogether is a no loss prize savings protocol. Discover PoolTogether and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "PoolTogether - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.pooltogether.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "goat-protocol",
+      "veno-finance",
+      "harvest"
+    ],
+    "related": [
+      "synthetix",
+      "jet-protocol",
+      "notional"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

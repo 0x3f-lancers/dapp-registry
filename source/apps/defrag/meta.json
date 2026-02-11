@@ -1,0 +1,45 @@
+{
+  "slug": "defrag",
+  "name": "Defrag",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746412/web3-explorer/dapp-logos/defrag.png",
+  "category": "NFT Dapps",
+  "subcategory": [
+    "NFT Lending Dapps"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Polygon",
+    "Solana",
+    "Ethereum"
+  ],
+  "tags": [
+    "Free Customers",
+    "NFT Lending Dapps",
+    "Open-source, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Defrag insures NFTs with a Put Option instrument and enables loans against NFT collateral, including fractional borrowing.",
+    "description": "Defrag offers NFT insurance through a Put Option framework, allowing borrowers to obtain loans against their NFT collateral with risk priced into the terms. NFT owners can participate in the initial Underwriting Pool to collect premiums and gain access to NFT-backed lending. The protocol also enables fractional borrowing via smart contracts, issuing a limited number of tokens tied to the original NFT. This setup helps align risk and reward for lenders and borrowers across supported networks.",
+    "meta": "Defrag insures NFTs with a Put Option instrument. Discover Defrag and other NFT Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Defrag - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://defrag.fi/"
+  },
+  "relations": {
+    "alternatives": [
+      "astaria",
+      "arcade",
+      "pine-loans"
+    ],
+    "related": [
+      "hodlmymoon",
+      "exchangeart",
+      "zora"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

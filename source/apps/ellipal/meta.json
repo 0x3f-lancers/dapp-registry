@@ -1,0 +1,49 @@
+{
+  "slug": "ellipal",
+  "name": "Ellipal",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746668/web3-explorer/dapp-logos/ellipal.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Hardware Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "BNB Chain",
+    "Aptos",
+    "Sui",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche"
+  ],
+  "tags": [
+    "Free Customers",
+    "Hardware Wallets",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Ellipal is a 100% air-gapped hardware wallet that stores private keys on the device and uses a smartphone app to scan QR codes for transactions.",
+    "description": "Ellipal is a fully air-gapped hardware wallet that keeps private keys securely on the device and never connects to the internet directly. It pairs with a companion smartphone app for everyday use, while critical actions stay on the hardware. Transactions are signed on the device and transmitted to the app by scanning a QR code, so online activity occurs only through the QR workflow. Supported networks include Ethereum, Solana, BNB Chain, Aptos, Sui, Polygon, Arbitrum, and Avalanche.",
+    "meta": "Ellipal is the world's first 100% air-gapped hardware wallet. Discover Ellipal and other Web3 Wallets on Lancers Web3 Explorer.",
+    "pageTitle": "Ellipal - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.ellipal.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "ledger",
+      "degen-wallet",
+      "trezor"
+    ],
+    "related": [
+      "martian-wallet",
+      "frontier-wallet",
+      "stackup"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

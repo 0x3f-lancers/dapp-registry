@@ -1,0 +1,45 @@
+{
+  "slug": "vscode",
+  "name": "VScode",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751079/web3-explorer/dapp-logos/vscode.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 IDEs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Solana",
+    "Starknet",
+    "Polygon"
+  ],
+  "tags": [
+    "Web3 IDEs",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "VScode provides one of the most popular source-code editors in Web3 and Web2.",
+    "description": "VScode is a versatile development environment that supports a wide range of programming languages. It can be extended with language extensions to work with languages such as Rust, Vyper, JavaScript, Solidity, and many others. The editor provides an intuitive, flexible interface and a rich feature set that enables a smooth, productive development experience across diverse projects and tech stacks. Its lightweight design boots up quickly and includes syntax highlighting, IntelliSense, debugging, and built-in Git support, making it suitable for quick edits as well as large-scale software development.",
+    "meta": "VScode is a popular source-code editor used in Web3 and Web2. Discover VScode and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "VScode - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://vscode.dev/"
+  },
+  "relations": {
+    "alternatives": [
+      "yakindu",
+      "sublime-ethereum",
+      "intellij-solidity-plugin"
+    ],
+    "related": [
+      "w3box",
+      "moralis",
+      "mosaia"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

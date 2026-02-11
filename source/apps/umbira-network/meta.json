@@ -1,0 +1,48 @@
+{
+  "slug": "umbira-network",
+  "name": "Umbria Network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750894/web3-explorer/dapp-logos/umbira-network.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Polygon",
+    "Arbitrum",
+    "BNB Chain",
+    "Avalanche",
+    "Ethereum",
+    "OP Mainnet",
+    "Cosmos",
+    "Solana"
+  ],
+  "tags": [
+    "Web3 Bridges",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Umbria Network provides a fast cross-chain bridge that rewards liquidity providers.",
+    "description": "Umbria Network’s Narni bridge is a capital-efficient, multi-chain asset bridge that enables cheap, fast bi-directional transfers between Ethereum Mainnet and a wide range of EVM-compatible blockchains. It uses a novel liquidity provision protocol that substantially lowers cross-chain transfer costs compared with traditional validator-driven mint/burn and lock/unlock bridges, while also delivering faster finality. This design helps developers and users move assets seamlessly across ecosystems with minimal friction and improved efficiency.",
+    "meta": "Umbria Network Narni bridge enables fast cross-chain transfers between Ethereum and EVM chains. Discover Umbria Network and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Umbria Network - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://umbria.network/"
+  },
+  "relations": {
+    "alternatives": [
+      "synapse",
+      "seif-finance",
+      "wormhole"
+    ],
+    "related": [
+      "eclipse",
+      "cosmos",
+      "startmining"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

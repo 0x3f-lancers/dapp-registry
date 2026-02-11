@@ -1,0 +1,45 @@
+{
+  "slug": "0xscore",
+  "name": "0xScore",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744613/web3-explorer/dapp-logos/0xscore.png",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Decentralized Identity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "BNB Chain",
+    "Polygon",
+    "Solana"
+  ],
+  "tags": [
+    "Web3 IDEs",
+    "Decentralized Identity Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "0xScore rates wallet reputations using on-chain activity and behavioral signals.",
+    "description": "0xScore is a wallet reputational tool that evaluates on-chain activity to measure reputation and influence. It lets you check your own wallet score or analyze other wallets to understand their standing. The score draws on multiple on-chain factors, such as transaction history, DeFi participation, and social capital. An algorithm processes on-chain data using dedicated infrastructure to generate the score. The platform emphasizes transparency and processes data securely on its own infrastructure.",
+    "meta": "0xScore rates wallets' reputations using on-chain activity and behavioral signals. Discover 0xScore and other Identity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "0xScore - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://0xscore.pro/"
+  },
+  "relations": {
+    "alternatives": [
+      "walt-id",
+      "aut-labs"
+    ],
+    "related": [
+      "torus",
+      "metacrafters"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "connectkit",
+  "name": "ConnectKit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745865/web3-explorer/dapp-logos/connectkit.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Wallet Connection Tools"
+  ],
+  "chains": [
+    "OP Mainnet",
+    "Polygon",
+    "Ethereum",
+    "Arbitrum",
+    "Solana",
+    "Base",
+    "Multichain"
+  ],
+  "tags": [
+    "Wallet Connection Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ConnectKit is a React library for connecting wallets to DApps.",
+    "description": "ConnectKit began in 2022 as a subsidiary of Family, a crypto wallet, with the goal of reshaping how users experience Web3 wallet interactions. The tool enables users to connect to multiple apps across different chains, provided ConnectKit supports the wallet they are using. For frontend developers, the project offers a ConnectKit React library that can be integrated into the DApp being built, allowing seamless wallet connection management. By unifying cross-chain compatibility and simplifying the connection flow, ConnectKit targets a smoother experience for both users and developers in Web3.",
+    "meta": "ConnectKit is a React library for connecting wallets to DApps. Discover ConnectKit and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ConnectKit - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.family.co/connectkit"
+  },
+  "relations": {
+    "alternatives": [
+      "sinum",
+      "cede-store"
+    ],
+    "related": [
+      "triangle",
+      "locksmith-wallet"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "erpc",
+  "name": "eRPC",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746750/web3-explorer/dapp-logos/erpc.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Polygon",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Celo",
+    "Cronos",
+    "Fantom",
+    "ZKsync",
+    "Solana",
+    "Multichain",
+    "Cosmos"
+  ],
+  "tags": [
+    "RPC Node Providers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "eRPC is an open-source fault-tolerant EVM RPC proxy with reorg-aware permanent caching.",
+    "description": "eRPC is an open-source, fault-tolerant EVM RPC proxy featuring permanent caching. It is built for read-heavy use-cases such as data indexing and high-load frontend applications, where consistent RPC access matters. The design emphasizes lowering costs through local caching while improving reliability during provider outages. It also provides visibility into RPC usage across teams and third-party providers, enabling better oversight of how RPC resources are consumed.",
+    "meta": "eRPC is an open-source fault-tolerant EVM RPC proxy with reorg-aware permanent caching. Discover eRPC and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "eRPC - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://erpc.cloud/"
+  },
+  "relations": {
+    "alternatives": [
+      "lava-network",
+      "nodereal",
+      "alchemy"
+    ],
+    "related": [
+      "taraxa",
+      "injective-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "socketscan",
+  "name": "Socketccan",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749980/web3-explorer/dapp-logos/socketscan.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Multichain",
+    "Cosmos"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Socketccan is a Web3 privacy infrastructure for tracking cross-chain bridge transactions.",
+    "description": "Socketccan, launched by Bungee, is a Web3 privacy infrastructure designed for social interactions around crypto. It enables users to track bridge activity across Ethereum, BNB Chain, Polygon, Avalanche, Gnosis Chain, Fantom, Optimism, Arbitrum and Aurora, giving a broad view of cross-chain transfers while maintaining privacy. Developers can view the latest transactions on the site and use the information to support their dapps as they build on multiple chains.",
+    "meta": "Socketccan provides Web3 privacy infrastructure for social interactions in crypto. Discover Socketccan and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Socketccan - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://socketscan.io"
+  },
+  "relations": {
+    "alternatives": [
+      "sepolia-testnet-block-explorer",
+      "beaconcha-in",
+      "0x-explorer"
+    ],
+    "related": [
+      "innovatorchain",
+      "cosmos",
+      "klever"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

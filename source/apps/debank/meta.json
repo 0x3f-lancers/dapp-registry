@@ -1,0 +1,50 @@
+{
+  "slug": "debank",
+  "name": "DeBank",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746330/web3-explorer/dapp-logos/debank.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Portfolio Dashboards"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "Arbitrum",
+    "OP Mainnet",
+    "Base",
+    "Fantom",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "Crypto Portfolio Dashboards",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "DeBank is a DeFi dashboard for tracking your portfolio and viewing data for DeFi protocols and tokens.",
+    "description": "DeBank is a DeFi dashboard. It helps users track their portfolio and access data and analytics for decentralized lending protocols, stablecoins, margin trading platforms and DEXes. Developers can integrate API endpoints that provide information about users, chains, protocols and tokens in their programmes.",
+    "meta": "DeBank is a DeFi dashboard. Discover DeBank and other Trading Tools on Lancers Web3 Explorer.",
+    "pageTitle": "DeBank - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://debank.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "dropstab",
+      "takeprofit",
+      "walletx"
+    ],
+    "related": [
+      "taho-xyz",
+      "ix-swap",
+      "clipper-dex"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "hyperlane-xyz",
+  "name": "Hyperlane",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747651/web3-explorer/dapp-logos/hyperlane-xyz.jpg",
+  "category": "RaaS Tools",
+  "subcategory": [
+    "Modular Interoperability Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Base",
+    "Polygon",
+    "BNB Chain",
+    "Avalanche",
+    "Solana",
+    "Linea",
+    "Moonbeam",
+    "ZKsync",
+    "Multichain",
+    "Bitcoin"
+  ],
+  "tags": [
+    "Modular Interoperability Tools",
+    "Blockchain Interoperability Tools",
+    "Web3 Bridges",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Hyperlane provides modular interoperability tools.",
+    "description": "Hyperlane is an open interoperability framework powering the rollup ecosystem by enabling seamless connectivity between different VMs, chains, and their applications. To date, Hyperlane has facilitated $2.5B in bridging volume and 3M+ messages across EVM, Cosmos, and Solana. Hyperlane is built for many rollups and a one-click RaaS world: anyone can start integrating the entire Hyperlane framework immediately because it is open and permissionless. The CLI lets you plug in your chain metadata and deploy. Hyperlane is highly customizable; for example, you can bridge with a custom gas token or make tokens yield-bearing, and you can enhance security by choosing additional app-specific validators you trust. See our docs to learn more.",
+    "meta": "Hyperlane provides modular interoperability tools. Discover Hyperlane and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Hyperlane - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperlane.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "emblem-vault",
+      "xircusweb3"
+    ],
+    "related": [
+      "snapchain",
+      "stackr"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

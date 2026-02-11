@@ -1,0 +1,45 @@
+{
+  "slug": "coinapi",
+  "name": "CoinAPI",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745768/web3-explorer/dapp-logos/coinapi.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Token Price APIs"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Starknet",
+    "ZKsync"
+  ],
+  "tags": [
+    "Free Customers",
+    "Token Price APIs",
+    "Free, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "CoinAPI provides fast, reliable, and unified data APIs for cryptocurrency markets.",
+    "description": "CoinAPI was established in 2017 by Artur Pietrzy to deliver fast, reliable, and unified data APIs for cryptocurrency markets. The platform is designed to provide straightforward access to real-time data, enabling users to retrieve current information as events unfold. For developers, CoinAPI offers two complementary interfaces: RESTful interfaces, a stateless API that exposes a broad range of data, and WebSocket interfaces, a stateful API that delivers real-time market data.",
+    "meta": "CoinAPI provides fast, reliable, and unified data APIs for cryptocurrency markets. Discover CoinAPI and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "CoinAPI - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.coinapi.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "coinlayer",
+      "coingecko-api"
+    ],
+    "related": [
+      "fibrous-finance",
+      "loopring"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

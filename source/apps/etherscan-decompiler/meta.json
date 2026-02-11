@@ -1,0 +1,41 @@
+{
+  "slug": "etherscan-decompiler",
+  "name": "Etherscan Online Decompiler",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746822/web3-explorer/dapp-logos/etherscan-decompiler.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Decompilers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana"
+  ],
+  "tags": [
+    "Decompilers",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Etherscan Online Decompiler is a decompiler for the Ethereum Virtual Machine (EVM) that analyzes runtime bytecode.",
+    "description": "The Etherscan Online Decompiler is a dedicated tool for inspecting Ethereum Virtual Machine (EVM) bytecode by extracting information from runtime code and presenting it in a clear, human-readable form. By translating compiled bytecode into a more approachable representation, it helps developers, auditors, and researchers understand how a contract behaves, what operations it performs, and how control flow unfolds at runtime. The project was originally created by Tomas Kolinko and is now maintained by Palkeo, continuing to offer an accessible avenue for analyzing deployed code without the need for local decompilation setups.",
+    "meta": "Etherscan Online Decompiler is a decompiler for the Ethereum Virtual Machine (EVM). Discover Etherscan Online Decompiler and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Etherscan Online Decompiler - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://etherscan.io/bytecode-decompiler"
+  },
+  "relations": {
+    "alternatives": [
+      "solang",
+      "evmdis-decompiler",
+      "decurity-decompiler"
+    ],
+    "related": [
+      "money-legos",
+      "ethereum-abi-python"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

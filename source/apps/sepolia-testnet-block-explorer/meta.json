@@ -1,0 +1,46 @@
+{
+  "slug": "sepolia-testnet-block-explorer",
+  "name": "Sepolia Testnet Explorer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749821/web3-explorer/dapp-logos/sepolia-testnet-block-explorer.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Base",
+    "Celo",
+    "Arbitrum",
+    "Avalanche"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Sepolia Testnet Explorer provides a testnet explorer for the Sepolia network.",
+    "description": "Sepolia Testnet Explorer exposes a PoW testnet environment where dApp developers can test their applications in a controlled setting. The explorer allows users to search and browse transactions and blocks, and view essential details for each item, including its hash and timestamp. Unlike public Ethereum testnets such as Goerli, Sepolia is a closed, permissioned network designed for vetted participants to validate deployments before moving to mainnet.",
+    "meta": "Sepolia Testnet Explorer provides a testnet explorer for Sepolia. Discover Sepolia Testnet Explorer and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Sepolia Testnet Explorer - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sepolia.etherscan.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "beaconcha-in",
+      "dora",
+      "jiffyscan"
+    ],
+    "related": [
+      "circular-protocol",
+      "eth-tester",
+      "vanar"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

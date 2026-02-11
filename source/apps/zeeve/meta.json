@@ -1,0 +1,45 @@
+{
+  "slug": "zeeve",
+  "name": "Zeeve",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751392/web3-explorer/dapp-logos/zeeve.png",
+  "category": "RaaS Tools",
+  "subcategory": [
+    "Rollups-as-a-Service (RaaS)"
+  ],
+  "chains": [
+    "Arbitrum",
+    "OP Mainnet",
+    "ZKsync",
+    "Polygon",
+    "Ethereum",
+    "Cosmos",
+    "Multichain"
+  ],
+  "tags": [
+    "Rollups-as-a-Service (RaaS)",
+    "Paid, Freemium"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Zeeve provides enterprise-grade zkRollups and OP Rollups infrastructure through a no-code platform.",
+    "description": "Zeeve is a Rollup-as-a-Service platform that enables the deployment and ongoing management of enterprise-grade L2 or L3 rollups. It provides flexible configuration, scalable node infrastructure, and security best practices, along with 24/7 monitoring and technical support under an Enterprise SLA. Zeeve also fosters a strong partner ecosystem to extend the capabilities of Optimistic and ZK Rollups, helping teams accelerate multi-chain rollup implementations.",
+    "meta": "Zeeve is a Rollup-as-a-Service platform enabling enterprise-grade L2 or L3 Rollups. Discover Zeeve and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Zeeve - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.zeeve.io"
+  },
+  "relations": {
+    "alternatives": [
+      "snapchain",
+      "vistara-dev"
+    ],
+    "related": [
+      "hyperlane-xyz",
+      "rollkit-dev"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

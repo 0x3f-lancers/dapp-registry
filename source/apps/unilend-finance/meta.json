@@ -1,0 +1,45 @@
+{
+  "slug": "unilend-finance",
+  "name": "UniLend Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750927/web3-explorer/dapp-logos/unilend-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Polygon zkEVM",
+    "Multichain",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Decentralized Lending Dapps",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "UniLend Finance is a multichain lending and borrowing protocol for all ERC20 tokens.",
+    "description": "DeFi today suffers from fragmentation, with many protocols offering lending and borrowing for only a limited set of tokens. UniLend bridges this gap by enabling any ERC20 asset to be used as collateral for lending and borrowing. The protocol includes features such as Isolated Dual Asset Pool, Non-Fungible Tokenisation, Concentrated Liquidation, Permissionless listing, and Flash Loans.",
+    "meta": "UniLend Finance is a multichain lending and borrowing protocol for all ERC20 tokens. Discover UniLend Finance and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "UniLend Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://unilend.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "notional",
+      "lodestar-finance",
+      "morpho"
+    ],
+    "related": [
+      "1delta",
+      "transit-swap",
+      "increment-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

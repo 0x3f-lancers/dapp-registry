@@ -1,0 +1,50 @@
+{
+  "slug": "etherspot-transactionkit",
+  "name": "Etherspot TransactionKit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746839/web3-explorer/dapp-logos/etherspot-transactionkit.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 Libraries"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Celo",
+    "Moonbeam",
+    "Fantom",
+    "OP Mainnet",
+    "Multichain"
+  ],
+  "tags": [
+    "Web3 Libraries",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Etherspot TransactionKit is a React library for fast Web3 development.",
+    "description": "Etherspot TransactionKit is a React library that streamlines Web3 development and transaction handling across Ethereum and a broad set of Ethereum-compatible networks. You don’t need deep blockchain expertise to write code that executes transactions on Ethereum, Polygon, Arbitrum, Avalanche, BNB Chain, Celo, Moonbeam, Fantom, OP Mainnet, Multichain, and other supported chains. By integrating this kit, you can add robust transaction capabilities to your dapp quickly and with minimal boilerplate, enabling smoother cross-chain experiences for users.",
+    "meta": "Etherspot TransactionKit is a React library for fast Web3 development. Discover Etherspot TransactionKit and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Etherspot TransactionKit - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://etherspot.io/transactionkit/"
+  },
+  "relations": {
+    "alternatives": [
+      "loop-decoder",
+      "ethers-js",
+      "whal3s"
+    ],
+    "related": [
+      "aarc",
+      "blast",
+      "onfinality"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

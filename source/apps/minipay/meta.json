@@ -1,0 +1,49 @@
+{
+  "slug": "minipay",
+  "name": "MiniPay",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748441/web3-explorer/dapp-logos/minipay.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Celo",
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "Aptos",
+    "Polygon",
+    "Solana",
+    "Base",
+    "Bitcoin",
+    "Tron"
+  ],
+  "tags": [
+    "Software Wallets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "MiniPay is a non-custodial stablecoin wallet on Celo, integrated with Opera Mini.",
+    "description": "MiniPay lets users create a wallet in about a minute using only a phone number, with backups stored via Google. It enables onramping to dollar stablecoins and offramps to local currencies in minutes. In developing economies, MiniPay provides direct access to dApps with locally relevant use cases—such as savings and X-to-Earn—without needing to know how to connect a wallet. It also supports 5-second cross-border stablecoin transfers at sub-cent fees using just a phone number.",
+    "meta": "MiniPay is a non-custodial stablecoin wallet on Celo, integrated with Opera Mini. Discover MiniPay and other Web3 Wallets on Lancers Web3 Explorer.",
+    "pageTitle": "MiniPay - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.opera.com/products/minipay"
+  },
+  "relations": {
+    "alternatives": [
+      "timelessx",
+      "ownbit"
+    ],
+    "related": [
+      "openfort",
+      "dfns",
+      "qredo"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}
