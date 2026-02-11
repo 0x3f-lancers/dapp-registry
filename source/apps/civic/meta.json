@@ -1,0 +1,54 @@
+{
+  "slug": "civic",
+  "name": "Civic",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745723/web3-explorer/dapp-logos/civic.png",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Decentralized Identity Tools",
+    "Web3 Authentication Tools",
+    "Web3 Credential Tools",
+    "Proof-of-Personhood Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Polygon zkEVM",
+    "Avalanche",
+    "Arbitrum",
+    "Fantom",
+    "OP Mainnet",
+    "Base"
+  ],
+  "tags": [
+    "Decentralized Identity Tools",
+    "Token Gating Tools",
+    "Web3 Authentication Tools",
+    "Web3 Credential Tools",
+    "Proof-of-Personhood Tools",
+    "Free, Paid, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Civic is an end-to-end identity and access management service for dApps.",
+    "description": "Civic delivers blockchain identity management tools that enable secure, private, multi-chain identity handling with an on-chain representation of their reusable identity. Its flagship product, Civic Pass, provides an integrated permissioning layer to help organizations secure access to on-chain assets. Users can also manage their identity, presence, and reputation with Civic.me. Civic aims to shape a future where everyone has access to a trusted identity solution. All components are designed to work together in secure, privacy-preserving ways to support broad adoption of trusted digital identity.",
+    "meta": "Civic is an end-to-end identity and access management service for dApps. Discover Civic and other Identity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Civic - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.civic.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "webhash",
+      "walt-id"
+    ],
+    "related": [
+      "metacrafters",
+      "gateway"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "geth",
+  "name": "Geth",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747222/web3-explorer/dapp-logos/geth.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Execution Clients"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Free Customers",
+    "Execution Clients",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Geth is an Ethereum execution client implemented in Go.",
+    "description": "Go Ethereum (Geth) is among the original implementations of the Ethereum protocol. With Geth, developers can write DApps in Go, a language well suited for fast, concurrent programming. As a robust and efficient Ethereum execution client, Geth remains the most widely used option, powering over 80% of nodes. To help maintain network resilience, it is advised to run additional clients alongside Geth to preserve ecosystem diversity.",
+    "meta": "Geth is an Ethereum execution client implemented in Go. Discover Geth and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Geth - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://geth.ethereum.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "besu",
+      "nethermind",
+      "erigon"
+    ],
+    "related": [
+      "butter-network",
+      "chainnodes",
+      "quicknode"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

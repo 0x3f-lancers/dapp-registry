@@ -1,0 +1,42 @@
+{
+  "slug": "solidity-compiler-selector",
+  "name": "Solidity Compiler Selector",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750062/web3-explorer/dapp-logos/solidity-compiler-selector.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Solidity Developer Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solidity Compiler Selector is a plugin to manage and switch between Solidity compiler versions.",
+    "description": "Solidity Compiler Selector is an open-source tool that lets you install and switch between Solidity compiler versions as needed by your project. You can manage multiple compiler versions locally and switch between them to meet compatibility requirements or experiment with new features without affecting your main toolchain. The project is actively maintained and widely adopted, with hundreds of developers using it on GitHub. It supports a streamlined workflow for Solidity development across Ethereum, Polygon, and Arbitrum, helping to keep builds reproducible and environments consistent.",
+    "meta": "Set and switch Solidity compiler versions on the fly by Trail of Bits. Discover Solidity Compiler Selector and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Solidity Compiler Selector - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/crytic/solc-select"
+  },
+  "relations": {
+    "alternatives": [
+      "husky",
+      "gelato",
+      "pytest"
+    ],
+    "related": [
+      "huffmate",
+      "solhint-prettier-plugin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

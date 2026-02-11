@@ -1,0 +1,49 @@
+{
+  "slug": "lit-protocol",
+  "name": "Lit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748088/web3-explorer/dapp-logos/lit-protocol.png",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Web3 Authentication Tools"
+  ],
+  "chains": [
+    "Avalanche",
+    "Ethereum",
+    "Multichain",
+    "Polygon",
+    "Solana",
+    "OP Mainnet",
+    "Cosmos",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Authentication Tools",
+    "MPC Wallets",
+    "Key Management Providers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Lit is a decentralized key management network powered by threshold cryptography.",
+    "description": "Lit is a decentralized key management network based on threshold cryptography. It enables reading and writing data across blockchains and off-chain platforms, supporting encryption, access control, and automation through programmatic signing. By aiming to decentralize public key cryptography, Lit allows apps with private data to use identity-based encryption and helps onboarding for non-crypto natives with MPC wallets. Comprehensive developer documentation is available to assist integration.",
+    "meta": "Lit is a decentralized key management network powered by threshold cryptography. Discover Lit and other Identity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Lit - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://litprotocol.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "civic",
+      "arianee"
+    ],
+    "related": [
+      "kyc-dao",
+      "bright-id"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

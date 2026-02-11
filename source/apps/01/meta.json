@@ -1,0 +1,50 @@
+{
+  "slug": "01",
+  "name": "01",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744590/web3-explorer/dapp-logos/01.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges (DEXs)"
+  ],
+  "chains": [
+    "Solana",
+    "Multichain",
+    "Arbitrum",
+    "BNB Chain",
+    "Cronos",
+    "Bitcoin",
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Exchanges (DEXs)",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "01 is a Solana decentralized exchange offering centralized-exchange features such as cross-margin and futures trading.",
+    "description": "01 is a decentralized exchange protocol on Solana, backed by Alameda and built on Serum, designed to combine on-chain security with advanced trading features. It aims to deliver a trading experience closer to centralized platforms by offering features such as cross-margin accounts and futures trading. For developers, 01 provides a robust SDK in Rust, TypeScript, and Python to enable faster integration and streamlined development of trading apps and tooling. This combination supports quick deployment and flexible use across diverse projects.",
+    "meta": "01 is a Solana decentralized exchange with advanced trading features. Discover 01 and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "01 - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://01.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "wardenswap",
+      "paraswap",
+      "xtoken-terminal"
+    ],
+    "related": [
+      "changenow",
+      "icrosschain",
+      "kucoin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

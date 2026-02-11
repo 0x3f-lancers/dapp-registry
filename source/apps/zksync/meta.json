@@ -1,0 +1,43 @@
+{
+  "slug": "zksync",
+  "name": "ZK Stack",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751434/web3-explorer/dapp-logos/zksync.jpg",
+  "category": "RaaS Tools",
+  "subcategory": [
+    "Rollup Frameworks"
+  ],
+  "chains": [
+    "ZKsync",
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Rollup Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ZK Stack provides a zK rollup framework with full sovereignty for the data availability layer, gas tokens, and sequencing.",
+    "description": "The ZK Stack is developed under free open-source licenses and is available at no cost. Contributions and use are encouraged. zkSync Era is a Layer-2 protocol that scales Ethereum with cutting-edge ZK tech. zkSync Era aims to increase Ethereum's throughput while preserving its foundational values—freedom, self-sovereignty, and decentralization—at scale.",
+    "meta": "ZK Stack provides a zK rollup framework with full sovereignty for the data availability layer, gas tokens, and sequencing. Discover ZK Stack and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ZK Stack - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://zksync.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "arbitrum-orbit",
+      "dymension"
+    ],
+    "related": [
+      "conduit",
+      "saga"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

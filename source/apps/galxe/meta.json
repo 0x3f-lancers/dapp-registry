@@ -1,0 +1,46 @@
+{
+  "slug": "galxe",
+  "name": "Galxe",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747142/web3-explorer/dapp-logos/galxe.jpg",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Decentralized Identity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "BNB Chain",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Polygon zkEVM",
+    "Sui"
+  ],
+  "tags": [
+    "Decentralized Identity Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Galxe provides credential infrastructure that all Web3 developers can access.",
+    "description": "Galxe is building a credential data network accessible to all Web3 developers. The platform serves both on-chain and off-chain communities, enabling them to curate, verify, and contribute digital credentials to a shared network that can be leveraged across projects. For off-chain credentials, it connects data sources from multiple orgs, such as Snapshot, Twitter, and GitHub. For on-chain credentials, it relies on subgraph queries or static snapshots to capture on-chain activity and attestations.",
+    "meta": "Galxe builds a credential data network open to all developers in Web3. Discover Galxe and other Identity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Galxe - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://galxe.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "dauth-network",
+      "nextme"
+    ],
+    "related": [
+      "tide-protocol",
+      "meeds"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

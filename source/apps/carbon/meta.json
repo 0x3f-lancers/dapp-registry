@@ -1,0 +1,46 @@
+{
+  "slug": "carbon",
+  "name": "Carbon",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745560/web3-explorer/dapp-logos/carbon.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges (DEXs)"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "BNB Chain",
+    "Solana",
+    "Polygon"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Carbon provides an on-chain trading protocol for limit and range orders with auto-rotating, one-directional liquidity.",
+    "description": "Carbon enables users to deploy automated liquidity strategies that operate across distinct price ranges by placing custom on-chain limit and range orders. These strategies allow participants to pursue returns by forecasting price movements in a given token pair, with performance tied to the accuracy of those predictions. Importantly, buy and sell orders can be set at any price and adjusted without the need to close and recreate a position, giving users greater control over liquidity provision and the flexibility to respond to shifting market conditions as they evolve.",
+    "meta": "Carbon provides on-chain liquidity strategies with automated limit and range orders. Discover Carbon and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Carbon - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://carbondefi.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "bamboo-relay",
+      "mangrovedao",
+      "clipper-dex"
+    ],
+    "related": [
+      "bithumb",
+      "hakka-finance",
+      "cope"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

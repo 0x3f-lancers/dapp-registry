@@ -1,0 +1,44 @@
+{
+  "slug": "erigon",
+  "name": "Erigon",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746748/web3-explorer/dapp-logos/erigon.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "Execution Clients",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Erigon is a fast, memory-optimized Ethereum execution client written in Go.",
+    "description": "Erigon is a fast, memory-optimized Ethereum execution client written in Go. It started as a fork of Go Ethereum with the goal of a quicker Go-based execution client and improved disk efficiency. Today, Erigon provides a high-performance Ethereum implementation and makes it feasible to run full Ethereum archival nodes using about 3 TB of disk space. It is the second most popular Ethereum execution client, accounting for roughly 7% of the ecosystem.",
+    "meta": "Erigon is a fast, memory-optimized Ethereum execution client written in Go. Discover Erigon and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Erigon - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/ledgerwatch/erigon"
+  },
+  "relations": {
+    "alternatives": [
+      "geth",
+      "nethermind",
+      "besu"
+    ],
+    "related": [
+      "chainlove",
+      "metchain",
+      "syndica"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

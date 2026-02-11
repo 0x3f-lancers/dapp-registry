@@ -1,0 +1,46 @@
+{
+  "slug": "chai",
+  "name": "Chai",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745621/web3-explorer/dapp-logos/chai.png",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "BNB Chain",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Free Customers",
+    "Blockchain Security Tools"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Chai provides a BDD/TDD assertion library compatible with JavaScript testing frameworks.",
+    "description": "Chai is built for Node and the browser and is commonly used with Mocha. It provides a clean syntax that reads like English for testing applications from both behavioral and functional standpoints. Developers can extend Chai's stock testing assertions with interfaces and plugins from its official plugin registry to cover many use cases. Chai is chain agnostic.",
+    "meta": "Chai provides a BDD/TDD assertion library compatible with JavaScript testing frameworks. Discover Chai and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Chai - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/chaijs/chai"
+  },
+  "relations": {
+    "alternatives": [
+      "web3-antivirus",
+      "quillcheck",
+      "blockaid"
+    ],
+    "related": [
+      "gatekeepxyz",
+      "chaos-labs",
+      "cobo-arugs"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

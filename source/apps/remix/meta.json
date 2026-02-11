@@ -1,0 +1,48 @@
+{
+  "slug": "remix",
+  "name": "Remix",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749559/web3-explorer/dapp-logos/remix.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 IDEs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 IDEs",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Remix is an open-source IDE for Ethereum development.",
+    "description": "Remix is a comprehensive IDE for Ethereum development that supports multiple EVM-compatible languages, including Solidity, Vyper, and Cairo. It goes beyond its native environment by offering a VS Code extension, enabling flexible workflows across tools. Built for developers, Remix provides essential utilities such as a debugger that traces transactions, an analyzer for static checks, libraries of reusable components, and resolvers to manage dependencies and interfaces. These features streamline writing, testing, and deploying smart contracts across supported chains.",
+    "meta": "Remix is an IDE for Ethereum development that supports EVM languages such as Solidity and Vyper. Discover Remix and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Remix - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://remix-project.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "intellij-solidity-plugin",
+      "tenderly-sandbox",
+      "chainide"
+    ],
+    "related": [
+      "replit",
+      "tatum",
+      "swing-sdk"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

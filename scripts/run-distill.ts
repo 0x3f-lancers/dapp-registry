@@ -1,4 +1,5 @@
 import path from "path";
+import { promises as fs } from "fs";
 import distill from "./distill";
 import logger from "../lib/logger";
 
@@ -27,6 +28,8 @@ async function main() {
       },
       "Environment variables status",
     );
+
+    await fs.mkdir(appsDir, { recursive: true });
 
     // Pass slugs to distill function
     await distill(

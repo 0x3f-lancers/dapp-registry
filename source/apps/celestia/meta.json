@@ -1,0 +1,45 @@
+{
+  "slug": "celestia",
+  "name": "Celestia",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745601/web3-explorer/dapp-logos/celestia.jpg",
+  "category": "Blockchains",
+  "subcategory": [
+    "Data Availability Blockchains"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Cosmos"
+  ],
+  "tags": [
+    "Data Availability Blockchains",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Celestia is the world's first modular blockchain network with a pluggable consensus and data availability layer, enabling quick deployment of blockchains.",
+    "description": "Celestia, formerly known as LazyLedger, is the world's first modular blockchain network. It provides a pluggable consensus and data availability layer that lets anyone deploy a decentralized blockchain quickly without bootstrapping a new consensus network. By modularizing the blockchain technology stack and decoupling the consensus from the application execution layer, Celestia opens up new possibilities for building decentralized applications. Designed to simplify deployment and experimentation, Celestia supports diverse chains and developer workloads while keeping the core lightweight and extensible.",
+    "meta": "Celestia is a modular blockchain network with a pluggable consensus and data availability. Discover Celestia and other Blockchains on Lancers Web3 Explorer.",
+    "pageTitle": "Celestia - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://celestia.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "sunrise",
+      "kyve-network",
+      "avail"
+    ],
+    "related": [
+      "hela-labs",
+      "immutablex",
+      "eclipse"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

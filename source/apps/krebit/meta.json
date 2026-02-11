@@ -1,0 +1,47 @@
+{
+  "slug": "krebit",
+  "name": "Krebit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747909/web3-explorer/dapp-logos/krebit.png",
+  "category": "DAO Tools",
+  "subcategory": [
+    "DAO Reputation Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "DAO Reputation Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Krebit enables users to prove their identity without revealing personal data.",
+    "description": "Krebit is a pseudonymous identification platform that uses Ceramic’s Self.Id Decentralized Identity (DID) to help users control their personal data and profiles. By leveraging an open, multi-chain data model, Krebit enables Web3 developers to obtain real-time reputation information about any identity owner while preserving users’ privacy. This approach centers on user control over identity data and supports reliable reputation checks across chains without compromising privacy.",
+    "meta": "Krebit enables users to prove their identity without revealing it. Discover Krebit and other DAO Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Krebit - DAO Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://krebit.id/"
+  },
+  "relations": {
+    "alternatives": [
+      "metopia",
+      "sourcecred",
+      "pentacle"
+    ],
+    "related": [
+      "incred",
+      "reclaim-protocol",
+      "spectral-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "scsvs",
+  "name": "SCSVS",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749768/web3-explorer/dapp-logos/scsvs.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Polygon zkEVM",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Blockchain Security Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "SCSVS is a list of standards that ensure smart contract security.",
+    "description": "Founders of Composable Security, Paweł Kuryłowicz and Damian Rusinek, authored the Smart Contract Security Verification Standard (SCSVS) to help developers, architects, and analysts build and enforce security standards. Analysts can use the SCSVS to identify vulnerabilities in smart contracts, and developers can use it as a guide when building contracts from scratch.",
+    "meta": "SCSVS is a list of standards that ensure smart contract security. Discover SCSVS and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "SCSVS - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://securing.github.io/SCSVS/"
+  },
+  "relations": {
+    "alternatives": [
+      "gatekeepxyz",
+      "solidityscan",
+      "quillcheck"
+    ],
+    "related": [
+      "glider",
+      "militereum",
+      "blowfish"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

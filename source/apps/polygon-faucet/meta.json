@@ -1,0 +1,52 @@
+{
+  "slug": "polygon-faucet",
+  "name": "Polygon Faucet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749235/web3-explorer/dapp-logos/polygon-faucet.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Crypto Faucets"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "OP Mainnet",
+    "Multichain",
+    "Solana",
+    "Fantom",
+    "Bitcoin"
+  ],
+  "tags": [
+    "Free Customers",
+    "Crypto Faucets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Polygon Faucet provides developers with free testnet tokens for testing and development on Polygon testnets.",
+    "description": "Polygon Faucet, launched in 2021 by Polygon, provides free test MATIC tokens for development and testing on Polygon testnets such as Mumbai, Goerli, Avail Devnet and Avail Testnet. In a controlled environment, developers can gauge their application's performance without spending real funds, helping them identify and fix issues before a public release and gain a clearer understanding of how the Polygon network operates.",
+    "meta": "Polygon Faucet provides free test MATIC tokens for Polygon testnets. Discover Polygon Faucet and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Polygon Faucet - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://faucet.polygon.technology/"
+  },
+  "relations": {
+    "alternatives": [
+      "optimism-goerli-faucet",
+      "stakely-multicoin-faucet",
+      "free-bitcoins-com"
+    ],
+    "related": [
+      "epirus",
+      "safe-haven",
+      "helixbox"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

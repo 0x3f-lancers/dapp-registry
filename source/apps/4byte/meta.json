@@ -1,0 +1,41 @@
+{
+  "slug": "4byte",
+  "name": "4Byte",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744646/web3-explorer/dapp-logos/4byte.jpg",
+  "category": "Solidity Tools",
+  "subcategory": [
+    "Ethereum Signature Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Ethereum Signature Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "4Byte provides Ethereum four-byte signature search, maintained by Snake Charmers.",
+    "description": "4Byte is an open database of Ethereum function signatures and event signature mappings. It is free to use for search or scraping, with no licensing restrictions. Developers rely on 4Byte to translate four-byte signatures found in on-chain data back into readable function and event declarations, and to help identify contract sources and versions. The database currently lists more than 961,841 signatures and continues to grow as new entries are added. The project also provides mappings for event signatures to connect on-chain activity with human-readable labels.",
+    "meta": "4Byte lets developers search an open database of Ethereum four-byte signatures. Discover 4Byte and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "4Byte - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.4byte.directory/"
+  },
+  "relations": {
+    "alternatives": [
+      "ethsign-dapp-tools",
+      "etherface"
+    ],
+    "related": [
+      "abitype",
+      "arbitrum-block-explorer",
+      "ethereum-etl"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

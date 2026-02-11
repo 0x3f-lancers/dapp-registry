@@ -1,0 +1,46 @@
+{
+  "slug": "polybase",
+  "name": "Polybase",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749227/web3-explorer/dapp-logos/polybase.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Decentralized Storage Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Solana",
+    "Arbitrum",
+    "Multichain",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Decentralized Storage Tools",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Polybase is a decentralized database that offers high-performance data storage at a low cost.",
+    "description": "Blockchain storage remains costly and difficult to scale, while Web2 databases introduce centralization and governance concerns. Polybase provides a high‑performance, lower‑cost alternative for storing structured data on blockchains such as Ethereum, helping developers build scalable Web3 applications without sacrificing data integrity or accessibility. By offering an efficient storage layer for structured records, Polybase aims to reduce on‑chain storage burdens and enable more complex, data‑rich applications to run securely across supported networks.",
+    "meta": "Polybase is a decentralized database that offers high-performance data storage at a low cost. Discover Polybase and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Polybase - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://polybase.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "arweave",
+      "filecoin",
+      "orbit-db"
+    ],
+    "related": [
+      "birdeye-so",
+      "ceramic",
+      "detask"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

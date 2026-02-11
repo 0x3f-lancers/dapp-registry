@@ -1,0 +1,45 @@
+{
+  "slug": "pooltogether-subgraph",
+  "name": "PoolTogether Subgraph",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749275/web3-explorer/dapp-logos/pooltogether-subgraph.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Multichain",
+    "Solana",
+    "Celo"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "PoolTogether Subgraph indexes PoolTogether smart contract events.",
+    "description": "PoolTogether Subgraph enables efficient access to PoolTogether data by indexing its smart contracts and turning on-chain activity into searchable information. It makes it possible for developers to query deposits by users, prize balances, token purchases, and related events. By providing a standardized GraphQL API endpoint, this subgraph streamlines the indexing and organization of on-chain protocol data, empowering apps to build richer dashboards and experiences around PoolTogether’s pools and prizes.",
+    "meta": "PoolTogether Subgraph indexes PoolTogether smart contracts data. Discover PoolTogether Subgraph and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "PoolTogether Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/pooltogether/pooltogether-subgraph-v3"
+  },
+  "relations": {
+    "alternatives": [
+      "ormi",
+      "sushiswap-subgraph"
+    ],
+    "related": [
+      "prettier-solidity",
+      "itheum"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

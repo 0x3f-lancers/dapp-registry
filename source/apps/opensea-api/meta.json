@@ -1,0 +1,46 @@
+{
+  "slug": "opensea-api",
+  "name": "OpenSea API",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748905/web3-explorer/dapp-logos/opensea-api.png",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT APIs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Multichain",
+    "Polygon",
+    "BNB Chain",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "NFT APIs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "OpenSea API is a developer API to build custom marketplaces powered by Ethereum smart contracts.",
+    "description": "OpenSea API is a developer toolkit introduced in 2018 that enables building custom marketplaces powered by Ethereum smart contracts. It allows developers to run auctions in any currency, including their own tokens, and to view analytics through OpenSea.js. Listings require NFTs to be ERC721 or ERC1155 compliant. The API is free to use, but access to an API key is granted only after submitting an application form and awaiting approval.",
+    "meta": "OpenSea API is a developer API to build marketplaces powered by Ethereum smart contracts. Discover OpenSea API and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "OpenSea API - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.opensea.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "liteflow",
+      "quicknode-nft-api"
+    ],
+    "related": [
+      "sqwid",
+      "holders-at"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}
