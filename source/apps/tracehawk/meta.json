@@ -1,0 +1,45 @@
+{
+  "slug": "tracehawk",
+  "name": "Tracehawk",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750773/web3-explorer/dapp-logos/tracehawk.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Multichain",
+    "Polkadot",
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Tracehawk is a white-labeled blockchain explorer for personalized block viewing across EVM chains, appchains, and L2/L3 rollups.",
+    "description": "Tracehawk is a white-labeled blockchain explorer designed for personalized block viewing across EVM chains, appchains, and L2/L3 rollups. It enables projects to create custom block explorers with their preferred features and an intuitive design. Tracehawk also provides managed and hosted services to streamline explorer maintenance and scaling, while ensuring high performance, security, and compliance without requiring heavy technical involvement.",
+    "meta": "Tracehawk is a white-labeled blockchain explorer for personalized block viewing on EVM chains. Discover Tracehawk and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Tracehawk - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tracehawk.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "sepolia-testnet-block-explorer",
+      "blockhead",
+      "ethernow-xyz"
+    ],
+    "related": [
+      "polkadot",
+      "innovatorchain",
+      "ercx"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

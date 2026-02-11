@@ -1,0 +1,45 @@
+{
+  "slug": "nightfall",
+  "name": "Nightfall 3",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748736/web3-explorer/dapp-logos/nightfall.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "OP Mainnet",
+    "Ethereum",
+    "Arbitrum",
+    "BNB Chain",
+    "Avalanche"
+  ],
+  "tags": [
+    "Blockchain Security Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Nightfall 3 can encrypt or hide details of token transfer transactions on EVM networks.",
+    "description": "Nightfall 3 reduces on-chain visibility by removing recipient and token information from transfer data, thereby lowering traceability of transfers on EVM networks. Developers can run test transactions within a Docker container to examine how this approach handles different scenarios and use cases on private blockchains. This project is part of the EY Blockchain initiative. By focusing on data minimization within transfer records, Nightfall 3 provides a framework for evaluating privacy-oriented use cases in a controlled environment.",
+    "meta": "Nightfall 3 can encrypt or hide details of token transfer transactions on EVM networks. Discover Nightfall 3 and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Nightfall 3 - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/EYBlockchain/nightfall_3"
+  },
+  "relations": {
+    "alternatives": [
+      "trugard-ai",
+      "solidcheck",
+      "scribble"
+    ],
+    "related": [
+      "chaos-labs",
+      "pocketuniverse",
+      "blockfence"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "fuzzlib",
+  "name": "fuzzlib",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747121/web3-explorer/dapp-logos/fuzzlib.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon"
+  ],
+  "tags": [
+    "Fuzzing Tools",
+    "Web3 Libraries",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "fuzzlib is an unopinionated Solidity fuzzing library for stateful and stateless fuzzing of smart contracts.",
+    "description": "fuzzlib is an unopinionated Solidity library designed to support both stateful and stateless fuzzing of smart contracts. It bundles a suite of practical utilities and libraries that streamline fuzzing harness development for Echidna, Medusa, and Foundry, helping developers create tests more efficiently and with greater ease. By providing ready-to-use building blocks, fuzzlib reduces boilerplate and accelerates the process of exploring contract behavior under varied inputs and conditions.",
+    "meta": "fuzzlib is a Solidity fuzzing library for stateful and stateless smart contract fuzzing. Discover fuzzlib and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "fuzzlib - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/perimetersec/fuzzlib"
+  },
+  "relations": {
+    "alternatives": [
+      "wake",
+      "echidna",
+      "hevm"
+    ],
+    "related": [
+      "smartmuv",
+      "apeworx-evmtrace",
+      "solhint-prettier-plugin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

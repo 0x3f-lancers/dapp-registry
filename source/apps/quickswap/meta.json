@@ -1,0 +1,50 @@
+{
+  "slug": "quickswap",
+  "name": "QuickSwap",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749407/web3-explorer/dapp-logos/quickswap.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges (DEXs)"
+  ],
+  "chains": [
+    "Polygon",
+    "Polygon zkEVM",
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "Base",
+    "Cronos",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Exchanges (DEXs)",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "QuickSwap is the largest DEX on the Polygon network, offering on-chain liquidity pools and DeFi features like lending, prediction markets, staking, and gamefi.",
+    "description": "Since its October 2020 launch, QuickSwap has established itself as the largest decentralized exchange on Polygon, serving as a central hub for on‑chain liquidity and token swaps. Traders interact with on‑chain liquidity pools to swap ERC‑20 tokens deployed on Polygon, while liquidity providers earn rewards from the trading pools through their participation. The platform has broadened its scope beyond a traditional DEX to include lending, prediction markets, single‑token staking, and GameFi, reflecting an ongoing effort to become the home of DeFi on Polygon and to expand its utility for Polygon users.",
+    "meta": "QuickSwap is a decentralized exchange on the Polygon network with liquidity pools for ERC-20 swaps. Discover QuickSwap and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "QuickSwap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://quickswap.exchange/#/"
+  },
+  "relations": {
+    "alternatives": [
+      "vvs-finance",
+      "jumper-exchange",
+      "wombat-exchange"
+    ],
+    "related": [
+      "coinbase",
+      "perpetual-protocol",
+      "swapspace"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

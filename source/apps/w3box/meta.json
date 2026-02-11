@@ -1,0 +1,43 @@
+{
+  "slug": "w3box",
+  "name": "W3box Test",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751093/web3-explorer/dapp-logos/w3box.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Development Frameworks"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Solana"
+  ],
+  "tags": [
+    "Development Frameworks",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "W3box Test provides onramp infrastructure for developers, with a wizard to configure NFT collections, smart contracts, and Web3 apps.",
+    "description": "W3box Test is a crypto-startup onramp platform that provides infrastructure for developers to turn ideas into demos quickly. Developers can use W3box Test’s wizard to tailor settings when building NFT collections, smart contracts, and custom Web3 apps. The platform offers more than 22 modules ready to assemble with the wizard and serves over 4.3 million users. It is supported by AWS and MoonPay, enabling rapid prototyping and easy integration for Web3 projects.",
+    "meta": "W3box Test is a Web3 developer tool with a wizard to turn ideas into demos. Discover W3box Test and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "W3box Test - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://w3box.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "tatum",
+      "orderly-network",
+      "parasol"
+    ],
+    "related": [
+      "moralis",
+      "dappkit",
+      "ethfiddle"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

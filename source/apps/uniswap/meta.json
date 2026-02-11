@@ -1,0 +1,49 @@
+{
+  "slug": "uniswap",
+  "name": "Uniswap",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750933/web3-explorer/dapp-logos/uniswap.svg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges (DEXs)"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Bitcoin",
+    "BNB Chain",
+    "Tron",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Uniswap is an Ethereum-based decentralized exchange enabling token swaps via liquidity pools.",
+    "description": "Uniswap is one of the first and largest Ethereum-based decentralized exchanges. It popularized the automated market maker design that now underpins many DEXs. Instead of traditional order books, liquidity is supplied through a system of pre-funded and user-funded liquidity pools, enabling swaps to be executed algorithmically. Launched in 2018 by Hayden Adams, Uniswap's ecosystem has since broadened to include stablecoins, governance mechanisms, and analytics platforms.",
+    "meta": "Uniswap is an Ethereum-based decentralized exchange enabling token swaps via liquidity pools. Discover Uniswap and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Uniswap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://uniswap.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "position-exchange",
+      "penguin",
+      "xtoken-terminal"
+    ],
+    "related": [
+      "erasure",
+      "egemoney",
+      "bumper-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

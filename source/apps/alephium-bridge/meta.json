@@ -1,0 +1,47 @@
+{
+  "slug": "alephium-bridge",
+  "name": "Alephium Bridge",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744804/web3-explorer/dapp-logos/alephium-bridge.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Multichain",
+    "Avalanche",
+    "Polygon zkEVM",
+    "Ethereum",
+    "Polygon",
+    "Bitcoin",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Web3 Bridges",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Alephium Bridge enables unlimited, decentralized cross-chain transfer of tokens.",
+    "description": "As the multichain landscape grows, secure and efficient cross-chain transfers become essential for ecosystems spanning multiple networks. Alephium's core contributors have built a battle-tested bridge to establish the primary cross-chain link with Ethereum, with the potential to connect additional chains in the future. The Alephium Bridge blends several interoperable components into a cohesive system that enables reliable, high-performance cross-chain communication across supported networks.",
+    "meta": "Alephium Bridge enables unlimited, decentralized cross-chain transfer of tokens. Discover Alephium Bridge and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Alephium Bridge - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bridge.alephium.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "electron-zkbridge",
+      "arianee",
+      "garden-finance"
+    ],
+    "related": [
+      "avalanche",
+      "5ire",
+      "polygon-zkevm"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

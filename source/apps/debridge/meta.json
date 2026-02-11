@@ -1,0 +1,48 @@
+{
+  "slug": "debridge",
+  "name": "deBridge",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746333/web3-explorer/dapp-logos/debridge.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "BNB Chain",
+    "Avalanche",
+    "Ethereum",
+    "Polygon",
+    "Multichain",
+    "Bitcoin"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Bridges",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "deBridge is a cross-chain messaging and interoperability protocol enabling cross-chain apps with seamless value and message flow.",
+    "description": "deBridge is a generic messaging and cross-chain interoperability protocol that enables developers to build powerful cross-chain applications where value and messages flow seamlessly across networks. The protocol provides a secure infrastructure and framework for cross-chain contract composability, cross-chain asset swaps via deSwap, and bridging of assets and messages in a single transaction. It also supports NFT interoperability, enabling seamless interaction with NFTs across supported chains.",
+    "meta": "deBridge is a cross-chain messaging and interoperability protocol for building cross-chain apps. Discover deBridge and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "deBridge - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://debridge.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "garden-finance",
+      "altitude",
+      "nomad"
+    ],
+    "related": [
+      "near",
+      "gosh",
+      "5ire"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

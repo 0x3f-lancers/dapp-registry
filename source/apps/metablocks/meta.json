@@ -1,0 +1,50 @@
+{
+  "slug": "metablocks",
+  "name": "Metablocks",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748321/web3-explorer/dapp-logos/metablocks.jpg",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT Distribution Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Avalanche",
+    "Polkadot",
+    "Moonbeam",
+    "Arbitrum",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "NFT Distribution Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Metablocks is an open-source platform that enables developers to create upgradeable NFTs on Solana.",
+    "description": "Metablocks is a platform that enables developers to build NFT applications and craft upgradeable NFTs that decay over time. By combining a base NFT with other component NFTs in a Solana-based smart contract, users can assemble a meta NFT with new traits or skins, unlocking possibilities for games and dynamic assets. Each deposit or withdrawal of an NFT in the contract updates the meta NFT’s metadata to reflect the included components, ensuring the token’s appearance and attributes stay in sync with its composition.",
+    "meta": "Metablocks is an open-source platform that enables developers to create upgradeable NFTs. Discover Metablocks and other NFT Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Metablocks - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://metablocks.world/"
+  },
+  "relations": {
+    "alternatives": [
+      "apillon",
+      "okcontract",
+      "brand-extender"
+    ],
+    "related": [
+      "brand-connector",
+      "nftrade",
+      "overhyped"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

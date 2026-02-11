@@ -1,0 +1,46 @@
+{
+  "slug": "codeslaw",
+  "name": "codeslaw",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745750/web3-explorer/dapp-logos/codeslaw.png",
+  "category": "Solidity Tools",
+  "subcategory": [
+    "Smart Contract Tools",
+    "EVM Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Avalanche"
+  ],
+  "tags": [
+    "Smart Contract Tools",
+    "EVM Tools",
+    "Blockchain Security Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "codeslaw helps developers search for verified smart contracts on Ethereum to speed up development.",
+    "description": "codeslaw provides developers with a clear way to search for verified smart contract code across the Ethereum ecosystem. Use it to locate on-chain implementations of various EIPs and token standards, or to identify contracts that interact with other contracts. By focusing on verified code, codeslaw offers direct access to concrete examples of how established standards are realized in practice and how different contracts are designed to connect with one another within the ecosystem.",
+    "meta": "codeslaw helps developers search for verified smart contract codes across the Ethereum ecosystem. Discover codeslaw and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "codeslaw - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://codeslaw.app"
+  },
+  "relations": {
+    "alternatives": [
+      "solidcheck",
+      "seth-dapp-tools",
+      "hardhat-template"
+    ],
+    "related": [
+      "kevm",
+      "delegatable",
+      "solidity-compiler-selector"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

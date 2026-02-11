@@ -1,0 +1,48 @@
+{
+  "slug": "evm-puzzles",
+  "name": "EVM Puzzles",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746867/web3-explorer/dapp-logos/evm-puzzles.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Solana",
+    "Base",
+    "BNB Chain",
+    "Multichain",
+    "Avalanche"
+  ],
+  "tags": [
+    "Web3 Security Competitions",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "EVM Puzzles is a collection of EVM puzzles.",
+    "description": "EVM Puzzles is a collection of challenges centered on Ethereum Virtual Machine behavior. For every puzzle, a contract is provided along with its bytecode, and the key to solving it is to craft a transaction that executes successfully without causing a revert. You must determine the correct transaction data that will lead the contract to perform as intended and produce the expected outcome. The puzzles emphasize precise transaction construction and a solid understanding of contract logic to avoid reversion.",
+    "meta": "EVM Puzzles is a collection of EVM puzzles. Discover EVM Puzzles and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "EVM Puzzles - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/fvictorio/evm-puzzles"
+  },
+  "relations": {
+    "alternatives": [
+      "securrtech",
+      "damn-vulnerable-defi",
+      "gas-puzzles"
+    ],
+    "related": [
+      "watchpug",
+      "null-return",
+      "misttrack"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

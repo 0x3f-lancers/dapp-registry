@@ -1,0 +1,44 @@
+{
+  "slug": "arkworks-marlin",
+  "name": "Marlin",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744974/web3-explorer/dapp-logos/arkworks-marlin.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum"
+  ],
+  "tags": [
+    "ZK Proving Systems",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Marlin provides swift individual verification for universal SNARKs.",
+    "description": "Marlin is a zero-knowledge proving system designed for workloads that require individual verification rather than batched checks. It sits among universal SNARKs such as Sonic, Libra, and Plonk, and emphasizes rapid verification times to enable swift responses without batching. By prioritizing single-proof verification, Marlin addresses the shortcomings of its predecessor, Sonic, and seeks to distinguish itself within the broader landscape of cryptographic protocols.",
+    "meta": "Marlin is a zero-knowledge proving system for individual verification, not batched verification. Discover Marlin and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Marlin - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/arkworks-rs/marlin"
+  },
+  "relations": {
+    "alternatives": [
+      "plonky2",
+      "halo",
+      "groth16"
+    ],
+    "related": [
+      "axiom",
+      "marlin",
+      "lagrange"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "coin-wallet",
+  "name": "Coin Wallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745760/web3-explorer/dapp-logos/coin-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "Fantom",
+    "Polygon",
+    "Tron",
+    "Arbitrum",
+    "OP Mainnet",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Software Wallets",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Coin Wallet is a self-custodial, open-source crypto wallet for secure storage, sending, receiving, and buying crypto.",
+    "description": "Coin Wallet runs on all major platforms, including Web, which is uncommon for self-custodial wallets. It provides full anonymity, strong security, and Tor network support for private transactions. Users can buy, sell, exchange, receive, and send crypto. The design favors decentralization with no central authority, and it relies on robust encryption to deliver a high level of security for assets and transaction data. It is designed to protect user assets and privacy.",
+    "meta": "Coin Wallet is a self-custodial, open-source crypto wallet for secure storage and transfers. Discover Coin Wallet and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Coin Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://coin.space/"
+  },
+  "relations": {
+    "alternatives": [
+      "frontier-wallet",
+      "trustwallet",
+      "pocketpay-finance"
+    ],
+    "related": [
+      "obvious",
+      "fluvi-wallet",
+      "soul-wallet"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

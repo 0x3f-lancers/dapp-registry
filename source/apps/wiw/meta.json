@@ -1,0 +1,44 @@
+{
+  "slug": "wiw",
+  "name": "WIW",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751257/web3-explorer/dapp-logos/wiw.jpg",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Decentralized Identity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Avalanche",
+    "Arbitrum",
+    "OP Mainnet",
+    "Base"
+  ],
+  "tags": [
+    "Decentralized Identity Tools",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "WIW is a reputation preserving and identity management protocol in Web3.",
+    "description": "WIW is a reputation-preserving identity management protocol in Web3 that uses zero-knowledge proofs to protect user privacy while enabling on-chain reputation. All user data is stored on IPFS, a decentralized file storage system. Users can create profiles on WIW, and a search portal lets anyone query profile tags to view the associated on-chain reputation. Developers can build dApps and infrastructures with WIW’s public and authorized APIs.",
+    "meta": "WIW is a reputation preserving and identity management protocol in Web3. Discover WIW and other Identity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "WIW - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://wiw.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "joba-network",
+      "veramo"
+    ],
+    "related": [
+      "krebit",
+      "orange-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

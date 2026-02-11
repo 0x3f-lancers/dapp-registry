@@ -1,0 +1,51 @@
+{
+  "slug": "blockradar",
+  "name": "Blockradar",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745374/web3-explorer/dapp-logos/blockradar.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Wallet Developer Tools",
+    "Embedded Wallets"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Base",
+    "Ethereum",
+    "Solana",
+    "Tron",
+    "OP Mainnet",
+    "BNB Chain",
+    "Polkadot",
+    "Polygon",
+    "Multichain",
+    "Avalanche"
+  ],
+  "tags": [
+    "Wallet Developer Tools",
+    "Indexing Tools",
+    "Embedded Wallets",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Blockradar provides non-custodial wallet infrastructure for fintechs to issue dedicated addresses and enable stablecoin deposits.",
+    "description": "Blockradar makes crypto wallet management less daunting for fintechs by delivering a non-custodial wallet infrastructure. Fintechs can issue dedicated wallet addresses for their customers, enabling deposits and payments in stablecoins. The platform handles provisioning, security, and multichain integrations behind the scenes, removing the need for deep blockchain expertise. With Blockradar, fintechs can broaden their offerings and bring crypto services to their customers more easily.",
+    "meta": "Blockradar provides wallet developer tools. Discover Blockradar and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Blockradar - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.blockradar.co/"
+  },
+  "relations": {
+    "alternatives": [
+      "sequence-wallet",
+      "wally"
+    ],
+    "related": [
+      "cede-store"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

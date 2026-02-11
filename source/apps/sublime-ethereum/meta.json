@@ -1,0 +1,48 @@
+{
+  "slug": "sublime-ethereum",
+  "name": "Sublime Ethereum",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750426/web3-explorer/dapp-logos/sublime-ethereum.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Starknet",
+    "Polygon",
+    "Ethereum",
+    "Avalanche",
+    "BNB Chain",
+    "Solana",
+    "Arbitrum",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Web3 IDEs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Sublime Ethereum is a code editor for building with EVM-compatible languages.",
+    "description": "Sublime Ethereum is a code editor designed for building within the Ethereum ecosystem. It supports Cairo, Yul, Vyper, and Solidity, providing an inclusive environment for developers working on Ethereum and its scaling solutions. As an open-source project, the initiative invites developers to contribute changes that improve the IDE, address issues, and broaden compatibility across networks and development workflows. This collaborative approach aims to continually evolve the tool to meet the needs of Web3 developers.",
+    "meta": "Sublime Ethereum is a code editor for building in the Ethereum ecosystem. Discover Sublime Ethereum and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Sublime Ethereum - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/davidhq/SublimeEthereum"
+  },
+  "relations": {
+    "alternatives": [
+      "intellij-solidity-plugin",
+      "tenderly-sandbox",
+      "chainide"
+    ],
+    "related": [
+      "cobra",
+      "starton",
+      "rust"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

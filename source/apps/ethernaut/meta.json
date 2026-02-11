@@ -1,0 +1,47 @@
+{
+  "slug": "ethernaut",
+  "name": "Ethernaut",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746809/web3-explorer/dapp-logos/ethernaut.svg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Web3 Security Competitions"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Multichain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Security Competitions",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Ethernaut is a Web3/Solidity based wargame in the EVM where each level is a hackable smart contract.",
+    "description": "Ethernaut is a Web3 and Solidity-based wargame played in the Ethereum Virtual Machine (EVM). Each level is a smart contract that you must hack, giving practical exposure to how Ethereum and smart contracts work. The game helps players learn about Ethereum and compare their skills to historical hacks. The challenge can continue with an infinite number of levels, offering ongoing opportunities to test and refine your abilities as you progress.",
+    "meta": "Ethernaut is a Web3/Solidity based wargame played in the EVM. Discover Ethernaut and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Ethernaut - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ethernaut.openzeppelin.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "gas-puzzles",
+      "securrtech",
+      "paradigm-ctf"
+    ],
+    "related": [
+      "cube3-ai",
+      "kevlar",
+      "arbitrary-execution"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

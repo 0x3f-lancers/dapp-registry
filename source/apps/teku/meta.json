@@ -1,0 +1,46 @@
+{
+  "slug": "teku",
+  "name": "Teku",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750626/web3-explorer/dapp-logos/teku.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Consensus Clients"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Aptos",
+    "Avalanche"
+  ],
+  "tags": [
+    "Free Customers",
+    "Consensus Clients",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Teku is an open-source Ethereum Beacon Chain client designed to comply with consensus client standards.",
+    "description": "Teku provides a full beacon node implementation and validator client for Ethereum 2.0’s Proof-of-Stake ecosystem. With Teku, you can run beacon node synchronization, participate in consensus protocols, and propose and attest to blocks on the beacon chain. It exposes REST APIs for managing and monitoring operations and supports external handling of validator signing keys. Teku’s REST endpoints facilitate consensus-layer operations and enable integration with tooling and workflows that govern validator activity and chain data.",
+    "meta": "Teku runs a full beacon node implementation and validator client to participate in Ethereum 2.0's PoS consensus. Discover Teku and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Teku - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://consensys.net/knowledge-base/ethereum-2/teku/"
+  },
+  "relations": {
+    "alternatives": [
+      "lodestar",
+      "nimbus",
+      "prysm"
+    ],
+    "related": [
+      "drpc",
+      "rockx",
+      "near"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

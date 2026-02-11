@@ -1,0 +1,51 @@
+{
+  "slug": "splunk",
+  "name": "Splunk",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750251/web3-explorer/dapp-logos/splunk.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "OP Mainnet",
+    "Multichain",
+    "Cosmos",
+    "Solana"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Blockchain Security Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Splunk provides a data platform for enterprise observability, security, and custom applications.",
+    "description": "Splunk is best known for its machine data analysis tools and specializes in machine-level data analytics for applications, security, and data analytics. It is simple to use and widely used in application management, security, and data analytics. In 2020, Splunk released enhancements to support enterprise blockchains and provide blockchain network insights similar to those for traditional enterprise infrastructures.",
+    "meta": "Splunk provides a data platform for enterprise observability, security and custom apps. Discover Splunk and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Splunk - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.splunk.com/en_us/solutions/blockchain.html"
+  },
+  "relations": {
+    "alternatives": [
+      "quickintel",
+      "threatslayer",
+      "ziion"
+    ],
+    "related": [
+      "failsafe",
+      "kerberus",
+      "blockfence"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

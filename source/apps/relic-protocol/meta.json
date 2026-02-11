@@ -1,0 +1,44 @@
+{
+  "slug": "relic-protocol",
+  "name": "Relic Protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749557/web3-explorer/dapp-logos/relic-protocol.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Decentralized Oracles"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Multichain",
+    "Polygon",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Decentralized Oracles",
+    "Web3 SDKs",
+    "Open-source, Free"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Relic Protocol is a trustless oracle for Ethereum historical data.",
+    "description": "Relic Protocol offers a secure, trustless way for smart contracts to access historical on-chain data. By employing cryptographic techniques such as zk-SNARKs, the protocol lets decentralized apps query Ethereum history without depending on third-party authorities. The on-chain state verification is highly optimized to minimize gas costs, helping apps run more efficiently. Developers can quickly build history-powered dapps with the Solidity and TypeScript SDKs provided by Relic Protocol.",
+    "meta": "A trustless oracle enabling contracts to access Ethereum historical data on-chain. Discover Relic Protocol and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Relic Protocol - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://relicprotocol.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "seda",
+      "switchboard"
+    ],
+    "related": [
+      "increment-finance",
+      "invariant"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

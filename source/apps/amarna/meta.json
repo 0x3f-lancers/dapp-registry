@@ -1,0 +1,44 @@
+{
+  "slug": "amarna",
+  "name": "Amarna",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744855/web3-explorer/dapp-logos/amarna.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Starknet",
+    "Multichain",
+    "Ethereum",
+    "Polygon"
+  ],
+  "tags": [
+    "Static Analysis Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Amarna is a static analysis tool and linter for the Cairo programming language.",
+    "description": "Amarna is a static analyzer for Cairo, the language used to write provable programs and adopted by applications like dYdX. It enables developers to search for custom code patterns, leverage a built-in set of vulnerability flags, and create local and global rules to tailor analyses. The tool can directly parse StarkNet contracts and export analysis results to VSCode in SARIF format, helping to integrate security checks into development workflows. This makes it easier to spot issues early and enforce consistent security practices across Cairo projects.",
+    "meta": "Amarna is a static analysis tool and linter for the Cairo programming language. Discover Amarna and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Amarna - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/crytic/amarna"
+  },
+  "relations": {
+    "alternatives": [
+      "solhint-intellij-plugin",
+      "solhint-prettier-plugin",
+      "rattle"
+    ],
+    "related": [
+      "toolblox",
+      "solvm",
+      "solidity-visual-auditor"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

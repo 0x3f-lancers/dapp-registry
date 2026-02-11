@@ -1,0 +1,44 @@
+{
+  "slug": "stripe-identity",
+  "name": "Stripe Identity",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750412/web3-explorer/dapp-logos/stripe-identity.jpg",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Decentralized Identity Tools"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Decentralized Identity Tools",
+    "Free, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Stripe Identity verifies ID documents from over 100 countries to help prevent fraud.",
+    "description": "Stripe Identity provides programmatic identity verification to prevent fraud while minimizing friction for real customers. It supports Know Your Customer (KYC) rules and can validate ID documents from over 100 countries, using advanced machine learning to detect fake IDs. Once integrated, Stripe Identity connects developers with Stripe's broader payments network, enabling payouts, subscriptions, and other financial connections to simplify onboarding and ongoing compliance.",
+    "meta": "Programmatically confirm users' identities to prevent fraud while reducing friction. Discover Stripe Identity and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Stripe Identity - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stripe.com/identity"
+  },
+  "relations": {
+    "alternatives": [
+      "iden3",
+      "nextme"
+    ],
+    "related": [
+      "metopia",
+      "miniorange-web3-authentication-plugin"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

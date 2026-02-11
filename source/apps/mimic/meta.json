@@ -1,0 +1,41 @@
+{
+  "slug": "mimic",
+  "name": "Mimic",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748418/web3-explorer/dapp-logos/mimic.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Crypto Trading Tools",
+    "Open-source, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Mimic is a DeFi automation platform with trustless infrastructure and non-custodial vault management.",
+    "description": "Mimic deploys tools in your own custom infrastructure to automate DeFi activities while preserving a secure, trustless, and non-custodial ethos. You can perform operations such as index rebalancing, liquidity provision, treasury management, and fee distribution, among other tasks across the DeFi landscape. All tools used in Mimic's framework are open-source, and developers are encouraged to contribute to its ongoing development and the expansion of its capabilities.",
+    "meta": "Mimic is a DeFi automation platform with trustless infrastructure and non-custodial vault management. Discover Mimic and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Mimic - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mimic.fi/"
+  },
+  "relations": {
+    "alternatives": [
+      "eth-tx",
+      "gashawk"
+    ],
+    "related": [
+      "etherface",
+      "blockbucket",
+      "uncx-network"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

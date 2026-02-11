@@ -1,0 +1,49 @@
+{
+  "slug": "orbiter-finance",
+  "name": "Orbiter Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748955/web3-explorer/dapp-logos/orbiter-finance.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Starknet",
+    "BNB Chain",
+    "Multichain",
+    "Cronos",
+    "Avalanche"
+  ],
+  "tags": [
+    "Web3 Bridges",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Orbiter Finance is a decentralized cross-rollup bridge for Ethereum native assets.",
+    "description": "Orbiter Finance is a decentralized cross-rollup bridge for moving Ethereum-native assets. It delivers low-cost, near-instant transfers across multiple rollups. The bridge supports cross-rollup transfers (ETH, USDC, USDT, DAI) between Ethereum and networks including StarkNet, zkSync, Loopring, Arbitrum and Arbitrum Nova, Optimism, Polygon, BNB Chain, ZKSpace, Immutable X, dYdX, Metis, and Boba. A Maker program is live on testnet, inviting liquidity providers to participate soon.",
+    "meta": "Orbiter Finance is a decentralized cross-rollup bridge for Ethereum native assets. Discover Orbiter Finance and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Orbiter Finance - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.orbiter.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "valuerouter",
+      "superbridge",
+      "cede-store"
+    ],
+    "related": [
+      "circular-protocol",
+      "near",
+      "cronos"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

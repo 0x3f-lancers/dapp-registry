@@ -1,0 +1,45 @@
+{
+  "slug": "abi-parser",
+  "name": "ABI Parser",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744730/web3-explorer/dapp-logos/abi-parser.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "ABI Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "ABI Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "ABI Parser parses smart contracts and generates table definitions and queries for ETL.",
+    "description": "ABI Parser analyzes a smart contract to reveal its underlying ABI structure. Enter any contract address, and ABI Parser retrieves the corresponding ABI, then generates BigQuery-ready queries that produce parsed tables for every event and every function call defined by that contract. The result is a clear, queryable view of how the contract is invoked and what data it emits, turning ABI details into structured data for analysis.",
+    "meta": "ABI Parser is a Web3 developer tool. Discover ABI Parser and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ABI Parser - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://abi-parser-nvk.vercel.app/"
+  },
+  "relations": {
+    "alternatives": [
+      "loop-decoder",
+      "eth-calldata-decoder",
+      "okcontract"
+    ],
+    "related": [
+      "hardhat-template",
+      "ganache",
+      "kevm"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

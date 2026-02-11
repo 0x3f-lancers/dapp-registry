@@ -1,0 +1,50 @@
+{
+  "slug": "eth-explorers-extension",
+  "name": "ETH Explorers Extensions",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746767/web3-explorer/dapp-logos/eth-explorers-extension.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Polkadot",
+    "Multichain",
+    "Fantom"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Crypto Portfolio Dashboards",
+    "Free, Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ETH Explorers Extensions provides browser extensions to check Ethereum addresses or transactions on any explorer.",
+    "description": "ETH Explorers Extensions combines the functionality of eth-address-explorers and eth-txn-explorers into a single, streamlined toolkit. It provides on-page shortcuts to quickly inspect Ethereum addresses or transaction details from any webpage, without leaving the site you’re viewing. With a single click, you can open the address or transaction on your preferred explorer or dashboard across supported networks. This makes it ideal for developers, auditors, and researchers who want fast access to reliable data while browsing, testing, or debugging.",
+    "meta": "ETH Explorers Extensions adds browser tools to check ETH addresses or txs. Discover ETH Explorers Extensions and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "ETH Explorers Extensions - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/apoorvlathey/eth-explorers-extension"
+  },
+  "relations": {
+    "alternatives": [
+      "sepolia-testnet-block-explorer",
+      "blockscout",
+      "zapper"
+    ],
+    "related": [
+      "astar",
+      "taraxa",
+      "robot-framework"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

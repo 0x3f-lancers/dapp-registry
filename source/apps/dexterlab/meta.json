@@ -1,0 +1,47 @@
+{
+  "slug": "dexterlab",
+  "name": "Dexter Lab",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746483/web3-explorer/dapp-logos/dexterlab.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers",
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Polygon",
+    "Starknet",
+    "Arbitrum",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "RPC Node Providers",
+    "Indexing Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Dexter Lab provides real-time, historical, and raw block access for Solana data streams and storage.",
+    "description": "Dexter Lab focuses on real-time and historical data infrastructure for the Solana ecosystem. It provides real-time data streams, ultra-fast data back-fillers, and archival RPC endpoints—including SVM Archival RPC—giving developers and analysts access to comprehensive Solana Virtual Machine data. This robust data layer underpins high-performance, data-intensive Solana applications by enabling live monitoring, precise analytics, and thorough debugging, while delivering reliable historical snapshots and low-latency streaming across on-chain activity.",
+    "meta": "Dexter Lab provides real-time and historical Solana data streams and storage. Discover Dexter Lab and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Dexter Lab - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dexterlab.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "o7node",
+      "drpc",
+      "alchemy"
+    ],
+    "related": [
+      "quai",
+      "apibara"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "openzeppelin-test-helpers",
+  "name": "OpenZeppelin Test Helpers",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748918/web3-explorer/dapp-logos/openzeppelin-test-helpers.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Free Customers",
+    "Smart Contract Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "OpenZeppelin Test Helpers is an assertion library for Ethereum testing.",
+    "description": "OpenZeppelin Test Helpers is an assertion library for Ethereum smart-contract testing. It provides utilities to verify that transactions revert for the correct reasons, check emitted event values, track balance changes, handle very large numbers, and simulate the passing of time. The library is configurable and well-documented, helping developers ensure their contracts behave as intended in tests. With flexible configuration options and thorough documentation, it integrates into test suites across projects, helping maintain reliability in complex scenarios.",
+    "meta": "OpenZeppelin Test Helpers is an assertion library for Ethereum testing. Discover OpenZeppelin Test Helpers and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "OpenZeppelin Test Helpers - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/OpenZeppelin/openzeppelin-test-helpers"
+  },
+  "relations": {
+    "alternatives": [
+      "dedaub-contract-library",
+      "zenland",
+      "dapp-tool"
+    ],
+    "related": [
+      "astrakode-smart-contract-auditor",
+      "boring-solidity"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "risc-zero",
+  "name": "Risc Zero",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749605/web3-explorer/dapp-logos/risc-zero.png",
+  "category": "Zero Knowledge Tools",
+  "subcategory": [
+    "ZK Developer Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "ZK Developer Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Risc Zero zkVM is a zero-knowledge virtual machine for verifying correct execution of Rust code.",
+    "description": "Risc Zero zkVM is a zero-knowledge virtual machine that proves the correct execution of Rust programs. Founded in 2021, it aims to curb rising centralization in the tech ecosystem by enabling verifiable software that can demonstrate computations without exposing private data. The zkVM supports applications that reveal only selected information—such as portions of JPG or JSON files—while keeping the rest of the content confidential.",
+    "meta": "Risc Zero provides a zero-knowledge virtual machine (zkVM) that enables verification of correct execution for Rust code. Discover Risc Zero and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Risc Zero - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.risczero.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "evmtools-xyz",
+      "axiom",
+      "blockless"
+    ],
+    "related": [
+      "marlin",
+      "solidity-compiler-selector",
+      "bulletproofs"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

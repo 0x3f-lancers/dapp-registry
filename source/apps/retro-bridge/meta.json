@@ -1,0 +1,52 @@
+{
+  "slug": "retro-bridge",
+  "name": "Retro Bridge",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749582/web3-explorer/dapp-logos/retro-bridge.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Starknet",
+    "ZKsync",
+    "Polygon zkEVM",
+    "Polkadot",
+    "Multichain"
+  ],
+  "tags": [
+    "Web3 Bridges",
+    "Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Retro Bridge is a cross-chain bridge that streamlines asset transfers across blockchains.",
+    "description": "Retro Bridge uses concentrated liquidity pools in dedicated address storages on each blockchain, bypassing traditional smart contracts to improve transfer efficiency. This design relies on direct transfer functions, which are cheaper than smart contract transactions, enabling faster and more cost-effective asset transfers between chains. By speeding up cross-chain movements and reducing costs, Retro Bridge supports quick and economical inter-blockchain transfers. This approach emphasizes efficiency and affordability for users seeking rapid, reliable cross-network transfers.",
+    "meta": "Retro Bridge is a cross-chain bridge that streamlines asset transfers across blockchains. Discover Retro Bridge and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Retro Bridge - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://retrobridge.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "helixbox",
+      "owlto-finance",
+      "valuerouter"
+    ],
+    "related": [
+      "starknet",
+      "astar",
+      "supra"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

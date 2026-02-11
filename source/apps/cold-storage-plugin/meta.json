@@ -1,0 +1,45 @@
+{
+  "slug": "cold-storage-plugin",
+  "name": "Cold Storage Plugin",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745826/web3-explorer/dapp-logos/cold-storage-plugin.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Modular Plugins (ERC-6900)"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Polygon",
+    "Base"
+  ],
+  "tags": [
+    "Modular Plugins (ERC-6900)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Cold Storage Plugin locks NFTs in a secure vault inside your smart wallet.",
+    "description": "The Cold Storage Plugin keeps your NFTs safe inside your Modular Account even if the rest of your wallet is compromised, including the owner key. Traditionally, NFT custody meant moving assets to a separate EOA and locking the private key in a vault, which prevented using NFTs for exclusive events. This plugin introduces a dedicated storage key that can lock NFTs—covering all ERC721s, a full collection, or individual tokens. Wallet owners can unlock or transfer locked NFTs by signing transactions with the storage key.",
+    "meta": "Cold Storage Plugin locks NFTs in a secure vault inside your smart wallet. Discover Cold Storage Plugin and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Cold Storage Plugin - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://twitter.com/erc6900"
+  },
+  "relations": {
+    "alternatives": [
+      "multi-owner-plugin",
+      "multisig-plugin",
+      "session-key-plugin"
+    ],
+    "related": [
+      "coinbase-wallet-sdk",
+      "rivo-xyz",
+      "coinbase-smart-wallet"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

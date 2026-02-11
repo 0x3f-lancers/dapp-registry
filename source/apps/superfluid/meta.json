@@ -1,0 +1,48 @@
+{
+  "slug": "superfluid",
+  "name": "Superfluid",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750462/web3-explorer/dapp-logos/superfluid.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Base",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Payment Tools"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Superfluid provides a crypto payment streaming protocol enabling real-time on-chain transfers via predefined agreements.",
+    "description": "Superfluid is a smart contract framework for EVM networks enabling on-chain asset movements under predefined agreements. With a single on-chain transaction, funds flow from sender to receiver in real time, per those agreements, and no further transactions are required. Developers can specify how assets move under which conditions and for what duration, using these agreements, enabling flexible on-chain payment flows that settle automatically as the terms dictate. This approach emphasizes immediate settlement and programmable asset transfers within compatible networks.",
+    "meta": "Superfluid is an on-chain asset-transfer framework on EVMs with predefined agreements. Discover Superfluid and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Superfluid - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.superfluid.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "singularity",
+      "boomfi",
+      "mesha"
+    ],
+    "related": [
+      "fees-wtf",
+      "eth-gas-reporter",
+      "multisender"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "cowswap",
+  "name": "CowSwap",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745909/web3-explorer/dapp-logos/cowswap.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges (DEXs)"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "Base",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "CowSwap is a DeFi app on Ethereum that settles buy and sell orders by matching users' wants.",
+    "description": "CowSwap is a decentralized finance app on the Ethereum blockchain that settles buy and sell orders by matching users through a coincidence of wants (CoW). This approach aims to prevent slippage and reduce fees. Orders that do not find a peer-to-peer match are routed to CowSwap’s automated market maker. The system lets users execute trades at competitive on-chain prices across exchanges and aggregators, such as Uniswap and Sushiswap. By pooling liquidity and routing trades through a unified framework, it strives for fair, automatic execution across markets.",
+    "meta": "CowSwap is a DeFi app on Ethereum that settles buy and sell orders by matching users' wants. Discover CowSwap and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "CowSwap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://swap.cow.fi/"
+  },
+  "relations": {
+    "alternatives": [
+      "heroswap",
+      "bitcoincom",
+      "bamboo-relay"
+    ],
+    "related": [
+      "crypto-dot-com",
+      "contango",
+      "odos"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}
