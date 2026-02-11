@@ -1,0 +1,50 @@
+{
+  "slug": "asterizm",
+  "name": "Asterizm",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745002/web3-explorer/dapp-logos/asterizm.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Celo",
+    "Ethereum",
+    "Fantom",
+    "Multichain",
+    "OP Mainnet",
+    "Polygon",
+    "Starknet",
+    "Base"
+  ],
+  "tags": [
+    "Web3 Bridges",
+    "Open-source, Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Asterizm is a plug-and-play blockchain interoperability solution for enterprises and Web3 protocols.",
+    "description": "Asterizm enables web3 developers and corporate clients to design cross-chain dApps that leverage the strengths of multiple blockchains while keeping their server infrastructure secure, staying compliant with regulations, and avoiding data-leak risks. It secures cross-chain transactions with the on-chain Asterizm Connector, which checks the validity and integrity of cross-chain activity, and is complemented by two independent off-chain components: Asterizm Relayers, which transfer proofs of cross-chain transactions, and a client off-chain module deployed by the customer to transmit payload data.",
+    "meta": "Asterizm enables cross-chain blockchain interoperability for enterprises and Web3 protocols. Discover Asterizm and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Asterizm - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://asterizm.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "veda",
+      "holograph",
+      "dzap"
+    ],
+    "related": [
+      "reddio",
+      "layeronex",
+      "startmining"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

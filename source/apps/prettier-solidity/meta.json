@@ -1,0 +1,43 @@
+{
+  "slug": "prettier-solidity",
+  "name": "Prettier Solidity",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749310/web3-explorer/dapp-logos/prettier-solidity.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Polygon"
+  ],
+  "tags": [
+    "Solidity Developer Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Prettier Solidity formats Solidity code automatically.",
+    "description": "Prettier Solidity is a plugin that formats Solidity code automatically, significantly improving readability and the consistency of code structure. By taking the hustle out of code organization and formatting, it helps teams collaborating on smart contracts write code that is easier to maintain and scale over time. The project is widely adopted within the Solidity community, with over 30,000 developers worldwide using it.",
+    "meta": "Prettier Solidity is a plugin that formats Solidity code automatically. Discover Prettier Solidity and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Prettier Solidity - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/prettier-solidity/prettier-plugin-solidity"
+  },
+  "relations": {
+    "alternatives": [
+      "toolblox",
+      "scaffold-eth",
+      "pytest"
+    ],
+    "related": [
+      "solidity-linting-tool",
+      "waffle",
+      "huff-starter-kit"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

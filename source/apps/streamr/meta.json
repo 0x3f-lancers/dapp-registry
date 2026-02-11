@@ -1,0 +1,47 @@
+{
+  "slug": "streamr",
+  "name": "Streamr",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750407/web3-explorer/dapp-logos/streamr.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools",
+    "Web3 Messaging Tools"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "Solana",
+    "Starknet",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Web3 Data Tools",
+    "Web3 Messaging Tools",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Streamr provides many-to-many data pipelines, network analytics, and instant messaging.",
+    "description": "Streamr offers a serverless data infrastructure that is secure, fast, scalable, and decentralized. Web3 projects commonly rely on Streamr as middleware to connect data streams across systems, enabling real-time data flows without managing servers. It is used in oracles, IoT pipelines, messaging apps, and a range of other event-driven applications, helping developers build responsive, data-driven experiences across multiple networks and environments.",
+    "meta": "Streamr provides serverless, secure, fast, and decentralized data infrastructure. Discover Streamr and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Streamr - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://streamr.network"
+  },
+  "relations": {
+    "alternatives": [
+      "envio",
+      "nreach"
+    ],
+    "related": [
+      "apibara",
+      "rpclist"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

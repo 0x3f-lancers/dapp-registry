@@ -1,0 +1,44 @@
+{
+  "slug": "questflow",
+  "name": "Questflow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749385/web3-explorer/dapp-logos/questflow.png",
+  "category": "DAO Tools",
+  "subcategory": [
+    "DAO Project Management Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "BNB Chain"
+  ],
+  "tags": [
+    "DAO Project Management Tools",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Questflow is an AI-native no-code workflow automation platform for automating tasks on-chain and off-chain.",
+    "description": "Questflow is an AI-native, no-code platform for automating workflows and transactions across on-chain and off-chain environments. It provides a visual canvas editor to design processes and manages version control for workflow templates, app plugins, and AI agents. Users can use, publish, and fork workflows and define conditional logic based on approvals or criteria to automate tasks without writing code. This setup helps teams streamline operations, reduce costs, and boost efficiency by orchestrating tasks across multiple platforms.",
+    "meta": "Questflow is an AI-native no-code workflow automation platform for on-chain and off-chain tasks. Discover Questflow and other DAO Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Questflow - DAO Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://questflow.ai/"
+  },
+  "relations": {
+    "alternatives": [
+      "togethercrew",
+      "dexe-dao-studio",
+      "emerald-city-dao"
+    ],
+    "related": [
+      "upstream-collectives",
+      "gateway",
+      "metagame"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

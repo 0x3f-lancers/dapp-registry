@@ -1,0 +1,52 @@
+{
+  "slug": "expand-network",
+  "name": "expand.network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746888/web3-explorer/dapp-logos/expand-network.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Avalanche",
+    "Polygon",
+    "Sui",
+    "Aptos",
+    "OP Mainnet",
+    "Arbitrum",
+    "Tron",
+    "BNB Chain",
+    "Starknet",
+    "Multichain"
+  ],
+  "tags": [
+    "Blockchain Interoperability Tools",
+    "Free, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "expand.network is an infrastructure platform offering a single API across EVM and Non-EVM blockchains.",
+    "description": "Expand.network offers a single, unified API that unlocks DeFi capabilities across both EVM and non-EVM ecosystems, spanning multiple blockchains and protocols. The API suite provides data access, analytics-ready signals, and programmable transaction execution, enabling analytics, monitoring, and tooling to interact with DeFi across diverse networks from a single integration. By consolidating on-chain data and operations, it supports cross-chain queries, real-time insights, risk assessment, and automated workflows for development, analytics, and monitoring teams.",
+    "meta": "Access and connect to all DeFi capabilities via a single API across EVM and Non-EVM platforms. Discover expand.network and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "expand.network - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://expand.network"
+  },
+  "relations": {
+    "alternatives": [
+      "chainge",
+      "hyperlane-xyz",
+      "xcall-service"
+    ],
+    "related": [
+      "swim",
+      "meson",
+      "starkgate"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "solc-verify",
+  "name": "Solc Verify",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750025/web3-explorer/dapp-logos/solc-verify.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Starknet",
+    "Base",
+    "OP Mainnet",
+    "Avalanche",
+    "Fantom"
+  ],
+  "tags": [
+    "Web3 Testing Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solc Verify provides solc-verify, an auto-verifier compiler for Solidity.",
+    "description": "Solc Verify introduces solc-verify, an automated verifier for Solidity. It serves as an extended alternative to the standard Solidity compiler by integrating formal verification with normal compilation. This allows developers to check the functional correctness of their smart contracts directly within the compilation workflow, a process that would typically require additional packages or toolchains when using the standard compiler. The project has been forked over 5,000 times.",
+    "meta": "Solc Verify is a Web3 security solution. Discover Solc Verify and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Solc Verify - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/SRI-CSL/solidity/blob/0.7/SOLC-VERIFY-README.md"
+  },
+  "relations": {
+    "alternatives": [
+      "superchain-dev-console",
+      "robot-framework",
+      "web3-antivirus"
+    ],
+    "related": [
+      "tayt",
+      "fuzzlib",
+      "kevm"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

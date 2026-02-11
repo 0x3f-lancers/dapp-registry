@@ -1,0 +1,45 @@
+{
+  "slug": "web3-py",
+  "name": "Web3.py",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751182/web3-explorer/dapp-logos/web3-py.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 Libraries"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Aptos",
+    "Arbitrum",
+    "Avalanche"
+  ],
+  "tags": [
+    "Web3 Libraries",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Web3.py is a Python library for interacting with the Ethereum blockchain.",
+    "description": "Web3.py is a Python library that lets DApps connect to the Ethereum blockchain. Developers can use it to send transactions, interact with smart contracts, and query block data and other on-chain information. Derived from the Web3.js API, Web3.py adapts the core Web3 functionality for Python developers, delivering Pythonic APIs and utilities for encoding calls, signing transactions, and querying network state. It emphasizes a Python-first workflow while enabling robust access to Ethereum's evolving features.",
+    "meta": "Web3.py is a Python library for interacting with Ethereum. Discover Web3.py and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Web3.py - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://web3py.readthedocs.io/en/v5/#"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr",
+      "web3-js",
+      "web3j-sdk"
+    ],
+    "related": [
+      "ligmanode",
+      "betarpc",
+      "rockx"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

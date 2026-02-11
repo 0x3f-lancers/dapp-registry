@@ -1,0 +1,50 @@
+{
+  "slug": "tenderly-sandbox",
+  "name": "Tenderly Sandbox",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750636/web3-explorer/dapp-logos/tenderly-sandbox.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 IDEs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "BNB Chain",
+    "Avalanche",
+    "Fantom",
+    "Celo",
+    "Aptos",
+    "Sui"
+  ],
+  "tags": [
+    "Web3 IDEs",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Tenderly Sandbox is a code editor designed as a friendlier environment for beginning developers.",
+    "description": "Tenderly Sandbox provides a side-by-side development workspace for building both smart contracts and scripts. It supports Solidity for contract code and JavaScript for scripting tasks. Tenderly's infrastructure compiles Solidity, while JavaScript runs in the browser, delivering fast, in-context feedback as you work. When you save a contract or script, you can generate a unique, shareable link to it for easy collaboration or review with others. This setup streamlines development and sharing across teams.",
+    "meta": "Tenderly Sandbox is a code editor designed for beginner developers. Discover Tenderly Sandbox and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Tenderly Sandbox - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sandbox.tenderly.co/"
+  },
+  "relations": {
+    "alternatives": [
+      "chainide",
+      "intellij-idea",
+      "remix"
+    ],
+    "related": [
+      "tokensoft",
+      "move",
+      "apeworx-ape"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

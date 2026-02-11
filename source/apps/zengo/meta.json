@@ -1,0 +1,51 @@
+{
+  "slug": "zengo",
+  "name": "Zengo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751400/web3-explorer/dapp-logos/zengo.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Arbitrum",
+    "OP Mainnet",
+    "Base",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "Tron"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Software Wallets",
+    "Crypto Exchanges",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Zengo is a multichain self-custodial wallet that uses Multi-Party Computation (MPC) for security.",
+    "description": "Zengo is a multichain MPC wallet launched in 2018 by Ouriel Ohayon. It supports 70+ crypto assets and can connect to thousands of NFT and DeFi apps. The project has raised about $24M in venture funding, including a Series A in April 2021 that brought in $20M from investors such as Insight Partners and FJ Labs. Zengo prioritizes security by using two independently created secret shares to avoid a single point of failure and implements three-factor authentication (3FA) with a 3D biometric face scan, an email account, or a recovery kit to restore access if a device is lost or stolen.",
+    "meta": "Zengo is a multichain MPC wallet that emphasizes security. Discover Zengo and other Web3 Wallets on Lancers Web3 Explorer.",
+    "pageTitle": "Zengo - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://zengo.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "nufi",
+      "impersonator",
+      "coin98"
+    ],
+    "related": [
+      "bls-wallet",
+      "etherspot-sdk",
+      "cregis"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

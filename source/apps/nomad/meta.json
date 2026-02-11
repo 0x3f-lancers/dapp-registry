@@ -1,0 +1,48 @@
+{
+  "slug": "nomad",
+  "name": "Nomad",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748761/web3-explorer/dapp-logos/nomad.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polkadot",
+    "Multichain",
+    "Starknet",
+    "Avalanche",
+    "Base",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Bridges",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Nomad is a swift cross-chain communication protocol.",
+    "description": "Nomad is a protocol that connects multiple blockchains, enabling them to operate together seamlessly. Developers can deploy tokens and decentralized applications across several chains using the Nomad SDK, expanding interoperability and deployment options. DAOs can leverage Nomad to support cross-chain governance, enabling discussions, voting, and consensus on issues that span different blockchains. This open framework helps projects coordinate across ecosystems with clarity and reliability.",
+    "meta": "Nomad is a protocol bridging several blockchains to work together. Discover Nomad and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Nomad - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.nomad.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "starkgate",
+      "xy-finance",
+      "synapse"
+    ],
+    "related": [
+      "celer-network",
+      "supra",
+      "gosh"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

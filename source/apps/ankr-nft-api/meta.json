@@ -1,0 +1,44 @@
+{
+  "slug": "ankr-nft-api",
+  "name": "Ankr NFT API",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744894/web3-explorer/dapp-logos/ankr-nft-api.png",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT APIs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "Arbitrum",
+    "OP Mainnet",
+    "Solana"
+  ],
+  "tags": [
+    "NFT APIs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Ankr NFT API enables developers to query NFT metadata across six compatible blockchains.",
+    "description": "Released in 2022 as a JavaScript-based toolkit, this NFT API provides a single, unified way to request NFT data across six EVM-compatible networks: Ethereum, Binance Smart Chain, Polygon, Arbitrum, Fantom, and Avalanche. It is designed to simplify data retrieval for owners, collections, minting times, transaction histories, and wallet-address listings. With one request, developers can obtain the essential NFT information they need to power apps, analytics, and dashboards.",
+    "meta": "Ankr NFT API enables developers to query NFT metadata across six compatible blockchains. Discover Ankr NFT API and other NFT Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Ankr NFT API - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.ankr.com/docs/advanced-api/nft-methods/"
+  },
+  "relations": {
+    "alternatives": [
+      "rarible-multichain-sdk",
+      "opensea-api"
+    ],
+    "related": [
+      "whats-minting-live"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "compound-v3-subgraph",
+  "name": "Compound v3 Subgraph",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745858/web3-explorer/dapp-logos/compound-v3-subgraph.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Subgraphs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "Multichain",
+    "Celo",
+    "Fantom"
+  ],
+  "tags": [
+    "DeFi Subgraphs",
+    "Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Compound v3 Subgraph provides the Compound v3 Mainnet Community Subgraph by Paperclip Labs.",
+    "description": "Compound v3 Subgraph delivers the Compound v3 Mainnet Community Subgraph, a detailed and reliable data source for developers building on the Compound v3 protocol. Developed with direct input from the Compound community, it supports multiple blockchain networks and provides more comprehensive data to power innovative DeFi projects. The subgraph aims to improve data quality and accuracy relative to other sources, making it easier for developers to fetch up-to-date market, liquidity, and protocol state information essential for building effective decentralized applications across networks.",
+    "meta": "Compound v3 Subgraph offers the v3 Mainnet Community Subgraph by Paperclip Labs. Discover Compound v3 Subgraph and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Compound v3 Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://thegraph.com/explorer/subgraphs/5nwMCSHaTqG3Kd2gHznbTXEnZ9QNWsssQfbHhDqQSQFp?view=Overview&chain=arbitrum-one"
+  },
+  "relations": {
+    "alternatives": [
+      "sushiswap-subgraph"
+    ],
+    "related": [
+      "ceramic",
+      "loop-decoder"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

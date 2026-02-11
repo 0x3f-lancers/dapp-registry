@@ -1,0 +1,47 @@
+{
+  "slug": "jasper-vault",
+  "name": "Jasper Vault",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747796/web3-explorer/dapp-logos/jasper-vault.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Polygon",
+    "Bitcoin",
+    "Ethereum",
+    "OP Mainnet",
+    "Solana",
+    "Avalanche"
+  ],
+  "tags": [
+    "Decentralized Derivatives",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Jasper Vault is a peer-to-peer interoperable options protocol.",
+    "description": "Jasper Vault aims to transform the DeFi options space by making trading simpler, safer, and more efficient. By applying Account Abstraction (AA) technology on Arbitrum and Solana, and Hash Time-Lock Contract (HTLC) on the Bitcoin network, the project enables peer-to-peer trading and wallet interoperability across different chains. This cross-chain capability expands access for users across networks, fostering direct interactions between wallets on separate ecosystems.",
+    "meta": "Jasper Vault is a peer-to-peer interoperable options protocol. Discover Jasper Vault and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Jasper Vault - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://jaspervault.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "kromatika-finance",
+      "dual-finance",
+      "futureswap"
+    ],
+    "related": [
+      "metronome-synth",
+      "bumper-finance",
+      "dhedge"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

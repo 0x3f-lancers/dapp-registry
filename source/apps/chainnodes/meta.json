@@ -1,0 +1,45 @@
+{
+  "slug": "chainnodes",
+  "name": "Chainnodes",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745653/web3-explorer/dapp-logos/chainnodes.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Solana",
+    "Avalanche"
+  ],
+  "tags": [
+    "RPC Node Providers",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Chainnodes offers low-latency node providers with archival data, WebSocket connections, and debug/trace APIs.",
+    "description": "Access to node providers is essential for every Web3 project. Public node services often fail to meet needs such as low latency, archival data, debug and trace APIs, or WebSocket connectivity across networks. Chainnodes aims to decentralize RPC access and supply dApps and other Web3 apps with affordable nodes for Ethereum, Optimism, Polygon, and Arbitrum. By broadening access to cheaper infrastructure, developers can build and scale on key networks without overpaying for critical RPC resources.",
+    "meta": "Chainnodes provides fast node providers with archival data, WebSocket and debug/trace APIs. Discover Chainnodes and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Chainnodes - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.chainnodes.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "subquery",
+      "drpc",
+      "alchemy"
+    ],
+    "related": [
+      "avalanche",
+      "the-graph"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "socket-tech",
+  "name": "Socket Tech",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749978/web3-explorer/dapp-logos/socket-tech.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Polygon",
+    "OP Mainnet",
+    "Avalanche",
+    "Solana",
+    "Starknet",
+    "BNB Chain",
+    "Base",
+    "Bitcoin",
+    "ZKsync"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Blockchain Interoperability Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Socket Tech provides a complete interoperability stack for developers to transact across multiple chains.",
+    "description": "Socket Tech provides an API, plugin, and SDK that empower developers to build applications with cross-chain communication capabilities. It enables exchanges to move tokens and other assets securely across chains through the Socket Liquidity Meta-Layer, helping to bridge liquidity and data between chains. To date, the platform has processed over 675 million in trading volume across more than 500,000 transactions, reflecting broad adoption within enterprise and open-source projects alike.",
+    "meta": "Socket Tech provides an API, plugin, and SDK for developers to build apps with inter-chain communication. Discover Socket Tech and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Socket Tech - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.socket.tech/"
+  },
+  "relations": {
+    "alternatives": [
+      "holograph",
+      "polyhedra-network",
+      "quex-tech"
+    ],
+    "related": [
+      "nodes-by-intract",
+      "starkgate",
+      "wormhole"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

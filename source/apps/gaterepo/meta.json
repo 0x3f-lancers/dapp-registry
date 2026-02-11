@@ -1,0 +1,46 @@
+{
+  "slug": "gaterepo",
+  "name": "GateRepo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747187/web3-explorer/dapp-logos/gaterepo.png",
+  "category": "NFT Tools",
+  "subcategory": [
+    "Token Gating Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Polygon",
+    "Polygon zkEVM",
+    "Arbitrum",
+    "Solana"
+  ],
+  "tags": [
+    "Token Gating Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "GateRepo helps NFT developers limit access to private GitHub repositories using token gating.",
+    "description": "GateRepo serves as a development tool for NFT projects, enabling NFT developers to restrict access to private GitHub repositories through a token gating mechanism. In practice, access is granted exclusively to wallets that hold a specified type and a specified amount of ERC-20 tokens. This arrangement supports pre-launch activities by providing targeted access for marketing initiatives and for addressing bug fixes before the official launch. This setup emphasizes selective visibility during the critical pre-launch phase.",
+    "meta": "GateRepo enables NFT developers to limit access to private GitHub repositories via token gating. Discover GateRepo and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "GateRepo - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gaterepo.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "linkko",
+      "nomis",
+      "grapes"
+    ],
+    "related": [
+      "makersplace",
+      "zora",
+      "sqwid"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

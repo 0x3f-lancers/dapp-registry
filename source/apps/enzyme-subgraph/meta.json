@@ -1,0 +1,45 @@
+{
+  "slug": "enzyme-subgraph",
+  "name": "Enzyme Subgraph",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746728/web3-explorer/dapp-logos/enzyme-subgraph.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "Base"
+  ],
+  "tags": [
+    "Subgraphs",
+    "DeFi Subgraphs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Enzyme Subgraph enables you to query on-chain Enzyme Finance protocol data.",
+    "description": "Enzyme Subgraph is a data query tool for the Enzyme Finance Protocol. It uses a graph-based indexing protocol to listen for events emitted by Enzyme smart contracts and index them so the information is searchable and easily retrievable. Enzyme maintains dedicated subgraphs for asset management, vault history, token transfers and burns, and other related functions, enabling developers and analysts to access on-chain data about Enzyme assets, vault activity, and user interactions with precision and speed.",
+    "meta": "Enzyme Subgraph enables you to query on-chain Enzyme Finance protocol data. Discover Enzyme Subgraph and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Enzyme Subgraph - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/enzymefinance/subgraphs"
+  },
+  "relations": {
+    "alternatives": [
+      "pooltogether-subgraph",
+      "curve-subgraph"
+    ],
+    "related": [
+      "astrochain",
+      "nownodes"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "truffle",
+  "name": "Truffle",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750849/web3-explorer/dapp-logos/truffle.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Avalanche",
+    "Solana",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Free Customers",
+    "Development Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Truffle is the leading Ethereum development environment to build, deploy and test smart contracts.",
+    "description": "Truffle provides a comprehensive framework for developing, testing, and deploying Ethereum smart contracts on the Ethereum Virtual Machine (EVM). Paired with Ganache, it can simulate blockchains locally with a single click. Developers rely on Truffle for smart contract management, a streamlined development workflow, and straightforward network management across projects and environments. It offers a broad range of features, including smart contract management, a user-friendly development process and environment, and smooth network management.",
+    "meta": "Truffle is the leading Ethereum development environment to build, deploy and test smart contracts. Discover Truffle and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Truffle - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/trufflesuite/truffle"
+  },
+  "relations": {
+    "alternatives": [
+      "foundry-forge",
+      "hardhat",
+      "venly"
+    ],
+    "related": [
+      "tenderly-sandbox",
+      "dappkit",
+      "kurtosis"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

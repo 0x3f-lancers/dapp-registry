@@ -1,0 +1,44 @@
+{
+  "slug": "rust",
+  "name": "Rust",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749694/web3-explorer/dapp-logos/rust.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 Languages"
+  ],
+  "chains": [
+    "Solana",
+    "Arbitrum",
+    "Ethereum",
+    "Starknet"
+  ],
+  "tags": [
+    "Web3 Languages",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Rust is a low-level programming language used to write flexible smart contracts for Solana.",
+    "description": "Rust, developed in 2010, is a versatile language designed to empower developers. It supports safe systems programming with strong memory management and built-in parallelism, enabling the creation of fast, reliable software without compromising safety. While widely used for Solana smart contracts, Rust is also employed across ecosystems such as Polkadot, Elrond, NEAR, and Zcash, demonstrating its flexibility for diverse blockchain and Web3 applications.",
+    "meta": "Rust is a low-level programming language used to write flexible smart contracts for Solana. Discover Rust and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Rust - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.rust-lang.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "yul-language",
+      "huff-language",
+      "cairo"
+    ],
+    "related": [
+      "safestake",
+      "intellij-idea",
+      "0xcert"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

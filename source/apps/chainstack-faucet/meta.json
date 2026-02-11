@@ -1,0 +1,50 @@
+{
+  "slug": "chainstack-faucet",
+  "name": "Chainstack Faucet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745687/web3-explorer/dapp-logos/chainstack-faucet.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Crypto Faucets"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "ZKsync",
+    "Multichain",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "OP Mainnet",
+    "Solana",
+    "Polygon"
+  ],
+  "tags": [
+    "Crypto Faucets",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Chainstack Faucet is a faucet API that lets you request testnet funds for multiple networks via a simple API key.",
+    "description": "Chainstack Faucet API provides a faucet service to request testnet funds through a simple API call. Authentication happens via your API key, ensuring secure access to the test credits needed for your projects. This faucet API is designed to fit seamlessly into existing development workflows, reducing setup time and context switching while keeping usage straightforward. It's a practical tool for blockchain professionals focused on Ethereum-based projects who need reliable, rapid access to testnet resources during development, testing, and automation.",
+    "meta": "Chainstack Faucet provides free testnet tokens for widely used blockchain networks. Discover Chainstack Faucet and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Chainstack Faucet - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://chainstack.com/faucets/"
+  },
+  "relations": {
+    "alternatives": [
+      "solfaucet",
+      "superchain-dev-console",
+      "polygon-faucet"
+    ],
+    "related": [
+      "messinaone-bridge",
+      "pheasant-network",
+      "valuerouter"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "SolanaFM",
+  "name": "SolanaFM",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744700/web3-explorer/dapp-logos/SolanaFM.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "Polygon",
+    "Multichain",
+    "OP Mainnet",
+    "Base",
+    "Celo"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Indexing Tools",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "SolanaFM provides a blockchain explorer, API, and analytics platform with indexing solutions for Solana.",
+    "description": "SolanaFM is a user-friendly blockchain explorer, API, and analytics platform focused on Solana. It provides indexing solutions to access Solana's full historical data through efficient, dynamic APIs and presents on-chain data and analysis in a clear, navigable way. A large portion of SolanaFM's functionality is built using GraphQL, empowering developers to explore, assemble, and manipulate data as needed for building and testing applications.",
+    "meta": "SolanaFM provides explorer, API, and analytics infrastructure for Solana. Discover SolanaFM and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "SolanaFM - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://solana.fm/"
+  },
+  "relations": {
+    "alternatives": [
+      "0x-explorer",
+      "dora"
+    ],
+    "related": [
+      "vanar",
+      "5ire"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

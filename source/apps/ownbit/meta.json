@@ -1,0 +1,52 @@
+{
+  "slug": "ownbit",
+  "name": "Ownbit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749028/web3-explorer/dapp-logos/ownbit.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets",
+    "Multisig Wallets"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Tron",
+    "Solana",
+    "Arbitrum",
+    "BNB Chain",
+    "Polkadot",
+    "Polygon",
+    "OP Mainnet",
+    "ZKsync",
+    "Multichain",
+    "Aptos"
+  ],
+  "tags": [
+    "Software Wallets",
+    "Multisig Wallets",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Ownbit provides a Cold and MultiSig wallet for Bitcoin, Ethereum, Tron, and other networks.",
+    "description": "Ownbit is a Cold and MultiSig wallet that supports Bitcoin, Ethereum, Tron, and other networks. It uses two mobile devices to implement cold wallet functions, so users do not need to buy additional hardware. Its built-in cold wallet feature makes Ownbit as secure as hardware wallets. The MultiSig design follows common standards and is proven to be very secure. This approach distributes control across devices while enabling a practical, software-based solution for safeguarding assets across multiple chains.",
+    "meta": "Ownbit is a Cold and MultiSig wallet for Bitcoin, Ethereum, Tron, and other networks. Discover Ownbit and other Web3 Wallets on Lancers Web3 Explorer.",
+    "pageTitle": "Ownbit - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ownbit.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "rabby-wallet",
+      "cobo"
+    ],
+    "related": [
+      "holdstation",
+      "kryptogo-wallet"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "swc-registry",
+  "name": "SWC Registry",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750513/web3-explorer/dapp-logos/swc-registry.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Multichain",
+    "OP Mainnet",
+    "Solana",
+    "Bitcoin",
+    "BNB Chain",
+    "Cosmos"
+  ],
+  "tags": [
+    "Blockchain Security Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "SWC Registry is a list of Smart Contract Weakness Classification and Test Cases.",
+    "description": "SWC Registry is a documented weakness registry overseen by the MythX team. Each entry provides a concrete test case for vulnerability simulation, helping developers write more secure smart contracts by focusing on common security flaws. In addition to the registry, the project maintains a Discord community for security consultants and a GitHub repository with hundreds of forks and stars, reflecting broad participation from the security research and development community.",
+    "meta": "SWC Registry is a list of Smart Contract Weakness Classification and Test Cases. Discover SWC Registry and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "SWC Registry - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://swcregistry.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "cyberscope",
+      "arbitrary-execution",
+      "ziion"
+    ],
+    "related": [
+      "kerberus",
+      "threatslayer",
+      "militereum"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "turnkey",
+  "name": "Turnkey",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750862/web3-explorer/dapp-logos/turnkey.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Wallet Developer Tools",
+    "Key Management Providers"
+  ],
+  "chains": [
+    "Multichain",
+    "Bitcoin",
+    "Solana",
+    "Arbitrum",
+    "Polygon",
+    "Avalanche",
+    "OP Mainnet",
+    "Ethereum",
+    "Cosmos",
+    "BNB Chain",
+    "Aptos"
+  ],
+  "tags": [
+    "Wallet Developer Tools",
+    "Key Management Providers",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Turnkey offers flexible private key infrastructure for developers building in crypto.",
+    "description": "Turnkey delivers a dedicated private key infrastructure for developers in crypto, combining strong security, non-custodial control, flexibility, and ease of use. Its APIs enable private key creation, transaction signing, and key policy management, allowing teams to design tailored access and automated workflows without relinquishing control. Turnkey supports diverse use cases—from invisible wallets to smart contract automation—while delivering web-scale performance and the seamless speed associated with modern web2 systems.",
+    "meta": "Turnkey offers flexible private key infrastructure for developers building in crypto. Discover Turnkey and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Turnkey - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.turnkey.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "sequence-wallet",
+      "transpose"
+    ],
+    "related": [
+      "impersonator",
+      "gem-wallet"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

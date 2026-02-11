@@ -1,0 +1,50 @@
+{
+  "slug": "ironwallet",
+  "name": "IronWallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747775/web3-explorer/dapp-logos/ironwallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "Polygon",
+    "Tron",
+    "BNB Chain",
+    "Arbitrum",
+    "Avalanche",
+    "Bitcoin",
+    "Solana"
+  ],
+  "tags": [
+    "Software Wallets",
+    "Wallet Security Tools",
+    "Free, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "IronWallet is a mobile non-custodial wallet for Android and iOS that stores cryptocurrencies securely.",
+    "description": "IronWallet is a mobile, non-custodial wallet for Android and iOS that stores cryptocurrencies securely and gives you full control of your private keys. On the Tron network, you can send tokens using the same cryptocurrency you’re transferring, with fees charged in that same asset. For example, USDT transfers incur USDT fees rather than TRX, simplifying payments and reducing asset conversions. IronWallet focuses on self-sovereign custody while providing straightforward access to Tron-based token transfers.",
+    "meta": "IronWallet is a mobile non-custodial wallet for Android and iOS. Discover IronWallet and other Web3 Wallets on Lancers Web3 Explorer.",
+    "pageTitle": "IronWallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ironwallet.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "ecoinwallet",
+      "ancrypto",
+      "squads"
+    ],
+    "related": [
+      "cregis",
+      "fluvi-wallet",
+      "obvious"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

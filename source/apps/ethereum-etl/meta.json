@@ -1,0 +1,43 @@
+{
+  "slug": "ethereum-etl",
+  "name": "Ethereum ETL",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746790/web3-explorer/dapp-logos/ethereum-etl.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon"
+  ],
+  "tags": [
+    "EVM Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Ethereum ETL provides Python scripts to format Ethereum block data for ETL jobs.",
+    "description": "Ethereum ETL is a library of Python scripts that prepares Ethereum block data for ETL (extract, transform and load) workflows. Developers can run these scripts on blocks, contracts, transactions, receipts, ERC20 and ERC721 assets, transfers, logs, and internal transactions, turning raw blockchain data into structured records suitable for analysis. By design, it integrates with popular data tooling, and Google BigQuery and Amazon Athena use Ethereum ETL to power their data processing and analytics pipelines.",
+    "meta": "Ethereum ETL provides Python scripts to format Ethereum block data for ETL jobs. Discover Ethereum ETL and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Ethereum ETL - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/blockchain-etl/ethereum-etl"
+  },
+  "relations": {
+    "alternatives": [
+      "huff-vm",
+      "evm2",
+      "brand-connector"
+    ],
+    "related": [
+      "fuzzlib",
+      "mockthereum",
+      "truffle-verify"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

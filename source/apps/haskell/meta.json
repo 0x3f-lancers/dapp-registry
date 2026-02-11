@@ -1,0 +1,44 @@
+{
+  "slug": "haskell",
+  "name": "Haskell",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747471/web3-explorer/dapp-logos/haskell.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 Languages"
+  ],
+  "chains": [
+    "Multichain",
+    "Starknet",
+    "Ethereum"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Languages",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Haskell is a declarative, statically-typed language for Cardano smart contracts.",
+    "description": "Haskell is a declarative, statically-typed programming language used for Cardano smart contracts. Supported by DataDog and DreamHost, Haskell serves as the main smart contract programming language for the Cardano blockchain. Developers can leverage Haskell's concurrency features to build Cardano smart contracts that perform faster than those written in other chain languages, while benefiting from its expressive syntax and a type system that helps developers reason about code more clearly. Its design supports developers working within Cardano's ecosystem.",
+    "meta": "Haskell is a declarative, statically-typed programming language for Cardano smart contracts. Discover Haskell and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Haskell - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.haskell.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "cairo",
+      "solidity",
+      "go-language"
+    ],
+    "related": [
+      "near",
+      "xdc-network",
+      "flare-network"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

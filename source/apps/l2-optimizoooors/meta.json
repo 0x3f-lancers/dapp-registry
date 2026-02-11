@@ -1,0 +1,47 @@
+{
+  "slug": "l2-optimizoooors",
+  "name": "L2 Optimizoooors",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747954/web3-explorer/dapp-logos/l2-optimizoooors.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "BNB Chain",
+    "Base",
+    "Polygon",
+    "Arbitrum",
+    "Multichain"
+  ],
+  "tags": [
+    "Gas Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "L2 Optimizoooors provides gas-efficient calldata routers for Aave, Connext, and Superfluid.",
+    "description": "L2 Optimizoooors is an open-source ScopeLift project that maintains an open GitHub repository containing optimized calldata routers for Aave, Connext, and Superfluid across three L2 networks. These routers are designed for developers building applications that access the supported networks, enabling integration that can substantially reduce user gas costs. Reported savings include about 27% on Aave, 46% on Connext, and 34% on Superfluid, helping apps deliver lower transaction fees to users while preserving functionality.",
+    "meta": "L2 Optimizoooors offers gas-efficient calldata routers for Aave, Connext and Superfluid. Discover L2 Optimizoooors and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "L2 Optimizoooors - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/ScopeLift/l2-optimizoooors"
+  },
+  "relations": {
+    "alternatives": [
+      "gasfeesorg",
+      "gelato",
+      "gas-station-network"
+    ],
+    "related": [
+      "multisender",
+      "walletkit",
+      "magic"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

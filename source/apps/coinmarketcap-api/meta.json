@@ -1,0 +1,46 @@
+{
+  "slug": "coinmarketcap-api",
+  "name": "CoinMarketCap API",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745804/web3-explorer/dapp-logos/coinmarketcap-api.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Token Price APIs"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "BNB Chain",
+    "Polygon",
+    "Solana",
+    "Tron",
+    "Avalanche",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Token Price APIs",
+    "Free, Paid"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "CoinMarketCap API provides an enterprise-grade cryptocurrency API for all crypto data use cases.",
+    "description": "The CoinMarketCap API provides a robust set of RESTful JSON endpoints that give developers fast access to comprehensive cryptocurrency data. It delivers both current and derived market information for coins and exchanges, along with years of historical data. Designed for application developers, data scientists, and enterprise platforms, the API supports a wide range of use cases—from real-time price lookups and market analytics to data-intensive research and business intelligence initiatives.",
+    "meta": "CoinMarketCap API is an enterprise-grade cryptocurrency API for all crypto data use cases. Discover CoinMarketCap API and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "CoinMarketCap API - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://coinmarketcap.com/api/"
+  },
+  "relations": {
+    "alternatives": [
+      "portals-fi",
+      "coinapi"
+    ],
+    "related": [
+      "bosstrack",
+      "saber"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

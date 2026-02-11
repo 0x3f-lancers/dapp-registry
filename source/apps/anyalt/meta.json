@@ -1,0 +1,45 @@
+{
+  "slug": "anyalt",
+  "name": "AnyAlt",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744903/web3-explorer/dapp-logos/anyalt.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum"
+  ],
+  "tags": [
+    "Blockchain Interoperability Tools",
+    "Transaction Tools",
+    "Dapp Templates",
+    "Free, Freemium"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "AnyAlt enables protocols to execute cross-chain and last-mile transactions with minimal code.",
+    "description": "AnyAlt lowers friction for users, reduces fragmented liquidity, and simplifies the integration of fiat and crypto across multi-chain ecosystems. Its multi-chain routing engine streamlines cross-chain transactions, minimizes bridge-related failures, and removes the need for native gas tokens. By providing an SDK and a widget with pre-built templates, AnyAlt speeds up last-mile transactions and delivers direct crypto/fiat-to-protocol access, making onboarding easier for both developers and end users.",
+    "meta": "AnyAlt enables protocols to execute cross-chain and last-mile transactions with minimal code. Discover AnyAlt and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "AnyAlt - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://anyalt.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "altitude",
+      "squid"
+    ],
+    "related": [
+      "carrier",
+      "o7node"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}
