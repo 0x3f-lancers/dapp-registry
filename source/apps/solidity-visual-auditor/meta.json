@@ -1,0 +1,46 @@
+{
+  "slug": "solidity-visual-auditor",
+  "name": "Solidity Visual Auditor",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750083/web3-explorer/dapp-logos/solidity-visual-auditor.jpg",
+  "category": "Solidity Tools",
+  "subcategory": [
+    "Solidity Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "Solidity Developer Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Solidity Visual Auditor is a VS Code extension that helps developers write security-conscious Solidity code.",
+    "description": "Solidity Visual Auditor, developed by ConsenSys, enhances the Solidity development experience in Visual Studio Code. It enables syntax and semantic highlighting and provides an intuitive security audit before contracts go on-chain. The extension has earned broad community recognition, with more than 400 GitHub stars, over 55,000 downloads, and a five-star rating in the VS Code Marketplace, underscoring its usefulness for safer, faster smart contract authoring.",
+    "meta": "Solidity Visual Auditor is a VS Code extension that helps developers write security-conscious Solidity code. Discover Solidity Visual Auditor and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Solidity Visual Auditor - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor"
+  },
+  "relations": {
+    "alternatives": [
+      "xcockpit",
+      "gelato",
+      "evmtools-xyz"
+    ],
+    "related": [
+      "event-decoder",
+      "huffmate",
+      "tenderly"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

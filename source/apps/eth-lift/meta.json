@@ -1,0 +1,43 @@
+{
+  "slug": "eth-lift",
+  "name": "ETH Lift",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746774/web3-explorer/dapp-logos/eth-lift.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "BNB Chain",
+    "Solana"
+  ],
+  "tags": [
+    "Web3 Testing Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ETH Lift is a CLI toolkit that supports Foundry and Brownie projects.",
+    "description": "ETH Lift centers on two CLI tasks that are not widely addressed by other tool suites: diffing and flattening smart contracts. The tool enables developers to run queries that generate a diff for a file not yet registered, including local sources, when compared to a version live on the mainnet. Brownie and Foundry users can perform these tasks with ease, and Hardhat support is planned for the future.",
+    "meta": "ETH Lift is a CLI toolkit that supports Foundry and Brownie projects. Discover ETH Lift and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "ETH Lift - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/storming0x/ethlift-rs#readme"
+  },
+  "relations": {
+    "alternatives": [
+      "web3cli",
+      "trident",
+      "web3-antivirus"
+    ],
+    "related": [
+      "wake",
+      "huff-vm"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

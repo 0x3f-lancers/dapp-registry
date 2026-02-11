@@ -1,0 +1,40 @@
+{
+  "slug": "manticore",
+  "name": "Manticore",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748198/web3-explorer/dapp-logos/manticore.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "Free Customers",
+    "Symbolic Execution Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Manticore is a symbolic execution tool for the analysis of Ethereum smart contracts and binaries.",
+    "description": "Released in 2017 by TrailOfBits, Manticore is a symbolic execution tool designed to analyze Ethereum smart contracts, Linux ELF binaries, and WASM modules. It automatically generates new inputs based on a program state, detects crashes and failure cases, and explores the states a program can reach. With instruction hooks and callbacks, developers gain precise control of state exploration. Manticore includes a wiki, examples, and an API reference to help users fully leverage its interface.",
+    "meta": "Manticore is a symbolic execution tool for Ethereum smart contracts and binaries. Discover Manticore and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Manticore - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/trailofbits/manticore/"
+  },
+  "relations": {
+    "alternatives": [
+      "mythril"
+    ],
+    "related": [
+      "ercx",
+      "etheno",
+      "glider"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

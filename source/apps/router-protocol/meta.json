@@ -1,0 +1,50 @@
+{
+  "slug": "router-protocol",
+  "name": "Router Protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749658/web3-explorer/dapp-logos/router-protocol.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "BNB Chain",
+    "Multichain",
+    "Starknet",
+    "Avalanche",
+    "Base"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Bridges",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Router Protocol provides an extensive multi-directional bridge for contract-level data flow across different L1s and L2s.",
+    "description": "Router Protocol acts as a cross-chain interoperability layer, connecting diverse blockchains to enable asset transfers and cross-chain smart contract interactions across networks. Its infrastructure runs on nine EVM-compatible chains: Ethereum, BSC, Fantom, Polygon, Optimism, Arbitrum, Avalanche, Aurora, and Kava. The suite includes Voyager, a flagship DApp that enables swaps from any asset to any asset, and CrossTalk, a communication layer for cross-chain smart contracts that enables use cases such as lending and staking. More information is available in the project documentation.",
+    "meta": "Router Protocol is a cross-chain interoperability layer connecting different blockchains. Discover Router Protocol and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Router Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.routerprotocol.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "starkgate",
+      "xy-finance",
+      "arianee"
+    ],
+    "related": [
+      "taraxa",
+      "wowearn",
+      "near"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

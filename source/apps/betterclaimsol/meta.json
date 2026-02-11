@@ -1,0 +1,49 @@
+{
+  "slug": "betterclaimsol",
+  "name": "BetterClaimSol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745225/web3-explorer/dapp-logos/betterclaimsol.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Bitcoin",
+    "Ethereum",
+    "Aptos",
+    "Arbitrum",
+    "BNB Chain",
+    "Avalanche",
+    "Base",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Gas Tools",
+    "Token Management Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Reclaims SOL by closing unused Solana accounts and burning tokens with BetterClaimSol.",
+    "description": "BetterClaimSol helps Solana users reclaim SOL that is locked in wallets by identifying unused accounts, closing them, and burning tokens. The service covers transaction fees for empty accounts, removing barriers to recovering funds and making the reclaim process straightforward and accessible for anyone. It also offers a referral program with a 50% reward to encourage sharing the solution and boosting returns. This approach reduces friction and speeds up access to reclaimed SOL.",
+    "meta": "BetterClaimSol helps users reclaim locked SOL by closing idle accounts and burning tokens. Discover BetterClaimSol and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "BetterClaimSol - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://betterclaimsol.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "fjord-foundry",
+      "createmytoken",
+      "hedgey"
+    ],
+    "related": [
+      "cobo",
+      "enso"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

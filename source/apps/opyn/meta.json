@@ -1,0 +1,48 @@
+{
+  "slug": "opyn",
+  "name": "Opyn",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748938/web3-explorer/dapp-logos/opyn.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Options"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "Avalanche",
+    "OP Mainnet",
+    "Solana",
+    "Arbitrum",
+    "Base"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Options",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Opyn is a DeFi options trading protocol that enables buying, selling, and creating ERC20 options.",
+    "description": "Opyn is a European DeFi options trading protocol that lets users buy, sell, and create Ethereum-based options. These are derivatives contracts that give the holder the right to buy or sell an asset at a predetermined price on the option’s expiration date. DeFi users rely on Opyn’s smart contracts and interface to hedge against risk or to speculate on cryptocurrencies. The platform offers free limit orders by using a specialized off-chain relay paired with on-chain settlement.",
+    "meta": "Opyn is a DeFi options trading protocol enabling users to buy, sell, and create ERC20 options. Discover Opyn and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Opyn - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.opyn.co/"
+  },
+  "relations": {
+    "alternatives": [
+      "lyra",
+      "dopex",
+      "panoptic"
+    ],
+    "related": [
+      "kwenta",
+      "enzyme-finance",
+      "cope"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

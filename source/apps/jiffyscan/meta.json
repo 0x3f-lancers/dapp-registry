@@ -1,0 +1,49 @@
+{
+  "slug": "jiffyscan",
+  "name": "JiffyScan",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747805/web3-explorer/dapp-logos/jiffyscan.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Ethereum",
+    "BNB Chain",
+    "Fantom",
+    "Multichain",
+    "OP Mainnet",
+    "Polygon"
+  ],
+  "tags": [
+    "Analytics Tools",
+    "Wallet SDKs",
+    "Wallet Developer Tools",
+    "Block Explorers",
+    "Open-source, Free"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "JiffyScan provides an explorer and data APIs for 4337-based transactions.",
+    "description": "JiffyScan lets users explore transactions within the 4337 context (UserOp, Paymaster, and Bundler) without exposing the blockchain's complexities. It clarifies transaction details, surfaces failures, and makes it easy to share findings with stakeholders. Designed to streamline analysis of 4337 activity, the tool highlights where things go wrong and provides a clear view for teams and partners. MAUs rose eightfold from May 2023 to November 2023.",
+    "meta": "JiffyScan provides an explorer and data APIs for 4337-based transactions. Discover JiffyScan and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "JiffyScan - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.jiffyscan.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "bosstrack",
+      "dropstab"
+    ],
+    "related": [
+      "mev-boost-analytics"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

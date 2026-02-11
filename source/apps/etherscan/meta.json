@@ -1,0 +1,46 @@
+{
+  "slug": "etherscan",
+  "name": "Etherscan",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746820/web3-explorer/dapp-logos/etherscan.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "Solana",
+    "Base",
+    "Celo"
+  ],
+  "tags": [
+    "Free Customers",
+    "Block Explorers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Etherscan is a block explorer for the Ethereum blockchain.",
+    "description": "Since its establishment in 2015 by Block Solutions Sdn Bhd, Etherscan has served as an Ethereum block explorer and analytics platform that provides on-chain visibility for the Ethereum network. Users can view and analyze assets, balances and transactions, enabling them to track activity across addresses and tokens. Developers can interact with smart contracts and monitor gas prices on Etherscan. With these capabilities, Etherscan remains one of the most trusted and popular block explorers for Ethereum.",
+    "meta": "Etherscan is a block explorer for the Ethereum blockchain. Discover Etherscan and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Etherscan - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://etherscan.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "ethplorer",
+      "dora",
+      "ethernow-xyz"
+    ],
+    "related": [
+      "vanar",
+      "solana",
+      "xdc-network"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

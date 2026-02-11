@@ -1,0 +1,47 @@
+{
+  "slug": "chainup-mpc-wallet",
+  "name": "White Label MPC Wallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745691/web3-explorer/dapp-logos/chainup-mpc-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "MPC Wallets"
+  ],
+  "chains": [
+    "Multichain",
+    "Ethereum",
+    "Base",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [
+    "MPC Wallets",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "White Label MPC Wallet is a white-label MPC wallet solution for secure management of multi-chain digital assets.",
+    "description": "White Label MPC Wallet addresses private key single points of failure by splitting keys into multiple secure shares, helping protect assets even if one share is compromised. It includes key share recovery and rotation features that reduce the risks of losing seed phrases. Institutions can implement customizable approval policies, compliance-ready audit logs, and role-based controls to meet governance and regulatory needs. Businesses can quickly launch their own branded wallet to securely store, transfer, and manage multi-chain digital assets across networks such as Ethereum, Base, Polygon, Arbitrum, Avalanche, BNB Chain, and Multichain, delivering a safer user experience.",
+    "meta": "White Label MPC Wallet uses multi-share key storage to guard assets. Discover White Label MPC Wallet and other Web3 Wallets on Lancers Web3 Explorer.",
+    "pageTitle": "White Label MPC Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.chainup.com/white-label-mpc-wallet/"
+  },
+  "relations": {
+    "alternatives": [
+      "walletkit",
+      "web3auth",
+      "unipass"
+    ],
+    "related": [
+      "alphawallet",
+      "guarda-wallet",
+      "imtoken"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

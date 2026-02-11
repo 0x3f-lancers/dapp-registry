@@ -1,0 +1,49 @@
+{
+  "slug": "across",
+  "name": "Across",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744746/web3-explorer/dapp-logos/across.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Polygon",
+    "OP Mainnet",
+    "Solana",
+    "Avalanche",
+    "BNB Chain",
+    "Base"
+  ],
+  "tags": [
+    "Free Customers",
+    "Web3 Bridges",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Across is an optimistic bridge among the EVM-based chains.",
+    "description": "Across is an optimistic bridge that simplifies native-token transfers across several native blockchains within the Ethereum ecosystem. It leverages a network of relayers to move funds between two distinct chains, with relayer approval triggering the bridging process. After approval, Across applies its built-in optimistic validation to finalize the transfer. This design aims to reduce friction and enable faster, more efficient cross-chain moves while preserving security and interoperability.",
+    "meta": "Across is an optimistic bridge among the EVM-based chains. Discover Across and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Across - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://across.to/"
+  },
+  "relations": {
+    "alternatives": [
+      "hashport",
+      "layerzero",
+      "symbiosis"
+    ],
+    "related": [
+      "startmining",
+      "canvas-connect",
+      "solana"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

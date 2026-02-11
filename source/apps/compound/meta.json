@@ -1,0 +1,46 @@
+{
+  "slug": "compound",
+  "name": "Compound",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745850/web3-explorer/dapp-logos/compound.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Ethereum",
+    "Fantom",
+    "BNB Chain",
+    "Solana",
+    "Polygon"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Lending Dapps",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Compound is a lending protocol allowing users to borrow and lend DAI, ETH, WBTC, and other tokens.",
+    "description": "Compound is a decentralized lending protocol that lets users borrow, lend, and earn interest on the tokens they supply. The platform also enables tokenization of assets locked in the system through its governance token, COMP. In August 2022, Compound announced Compound III, which keeps user collateral from being distributed after it is deposited.",
+    "meta": "Compound is a lending protocol enabling users to borrow, lend, and earn interest on tokens. Discover Compound and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Compound - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://compound.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "port-finance",
+      "altr",
+      "maxbidpro"
+    ],
+    "related": [
+      "loopring",
+      "wigoswap",
+      "minu-swap"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

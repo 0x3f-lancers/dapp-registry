@@ -1,0 +1,49 @@
+{
+  "slug": "succinct",
+  "name": "Succinct",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750434/web3-explorer/dapp-logos/succinct.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "BNB Chain",
+    "Polygon",
+    "Aptos",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Blockchain Interoperability Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Succinct enables reading Ethereum state securely across multiple supported chains.",
+    "description": "Funded by Gnosis DAO and 0xPARC for R&D, Succinct is building the first permissionless, decentralized interoperability layer for Ethereum. Developers can apply proof-based cross-chain communication to future dApp projects, with safety as a default. Succinct uses zkSNARKs to accelerate and secure the validation of cross-chain messages and state transfers, enabling more trustworthy multi-chain applications across Ethereum and other supported networks. The project emphasizes open, verifiable proofs and censorship-resistant interoperability that remains accessible to developers of all levels.",
+    "meta": "Succinct is an infrastructure platform for permissionless decentralized Ethereum interoperability. Discover Succinct and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Succinct - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.succinct.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperlane-xyz",
+      "heroswap",
+      "expand-network"
+    ],
+    "related": [
+      "chainspot",
+      "meson",
+      "hashport"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

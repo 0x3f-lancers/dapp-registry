@@ -1,0 +1,46 @@
+{
+  "slug": "wagmi",
+  "name": "Wagmi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751101/web3-explorer/dapp-logos/wagmi.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Webhooks"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "OP Mainnet",
+    "Avalanche",
+    "BNB Chain",
+    "Multichain",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "Webhooks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Wagmi provides React hooks for Ethereum apps to build and fetch functionality from open-source functions.",
+    "description": "Wagmi is a widely used library of React Hooks for Ethereum development. It simplifies wallet connections, Ethereum name resolution (ENS), and balance retrieval, and provides tools to sign messages and interact with contracts, all with built-in caching, request deduplication, and persistence. The library also supports injecting additional capabilities via webhooks available in the npm package. Wagmi is supported by GitHub Sponsors and a Gitcoin grant.",
+    "meta": "Wagmi is a collection of React Hooks for Ethereum development. Discover Wagmi and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Wagmi - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://wagmi.sh/"
+  },
+  "relations": {
+    "alternatives": [
+      "hiro",
+      "p-link"
+    ],
+    "related": [
+      "blast",
+      "cobo-arugs"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

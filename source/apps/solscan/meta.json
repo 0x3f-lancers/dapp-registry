@@ -1,0 +1,48 @@
+{
+  "slug": "solscan",
+  "name": "Solscan",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750108/web3-explorer/dapp-logos/solscan.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Solana",
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Polygon"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Solscan provides a free Solana blockchain explorer to view transactions and program information.",
+    "description": "Solscan, founded in 2021, is a data analytics platform that provides a powerful search tool for information on the Solana blockchain. Users can view on-chain activity, manage their accounts, and track transactions, while also exploring investment opportunities within the Solana ecosystem. Developers can integrate Solscan's API into their dapps. The platform also includes an NFT and DeFi dashboard for insights into assets, markets, and activity on Solana.",
+    "meta": "Solscan is a data analytics platform with a search function for information on the Solana blockchain. Discover Solscan and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Solscan - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://solscan.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "blockscout",
+      "eth-explorers-extension",
+      "blockhead"
+    ],
+    "related": [
+      "xpla",
+      "vanar",
+      "circular-protocol"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

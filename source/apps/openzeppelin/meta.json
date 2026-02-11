@@ -1,0 +1,46 @@
+{
+  "slug": "openzeppelin",
+  "name": "OpenZeppelin",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748914/web3-explorer/dapp-logos/openzeppelin.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Arbitrum",
+    "Avalanche",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Smart Contract Templates",
+    "Blockchain Auditing Companies",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "OpenZeppelin is an open library for smart contract development.",
+    "description": "OpenZeppelin Contracts provides a stable API for building Solidity and Cairo smart contracts. It helps developers follow secure practices to implement ECR20, ECR721, ECR1155, Governer, and custom contracts, whether via interactive wizard tools or Remix. As an open-source suite, its modular libraries and templates are widely used, with more than 30k developers relying on these tools to build robust Web3 DApps. The resources promote consistency and reuse across projects, simplifying collaboration and integration for teams of any size.",
+    "meta": "OpenZeppelin is an open library for smart contract development. Discover OpenZeppelin and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "OpenZeppelin - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/OpenZeppelin/openzeppelin-contracts"
+  },
+  "relations": {
+    "alternatives": [
+      "launchifi",
+      "synthetic-smart-contracts",
+      "zolidity"
+    ],
+    "related": [
+      "erc721a",
+      "huff-foundry",
+      "metaplex"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

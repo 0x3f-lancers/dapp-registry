@@ -1,0 +1,49 @@
+{
+  "slug": "xmtp",
+  "name": "XMTP",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751324/web3-explorer/dapp-logos/xmtp.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Messaging Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Avalanche",
+    "Aptos",
+    "Arbitrum",
+    "BNB Chain",
+    "Multichain"
+  ],
+  "tags": [
+    "Growth Customers",
+    "Web3 Messaging Tools",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "XMTP is a messaging protocol facilitating decentralized communication for Web3.",
+    "description": "XMTP provides a decentralized messaging approach that removes centralized ownership of profiles and content in online communications, aligning with a web3 ethos. Users can talk across apps using their wallet addresses, enabling a consistent wallet‑based identity across the ecosystem and reducing friction between services. For developers, XMTP offers a JavaScript SDK to build chat platforms and host them on EVM networks, supporting interoperable conversations across different apps without reliance on a central service or provider.",
+    "meta": "XMTP is a messaging protocol facilitating decentralized communication for Web3. Discover XMTP and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "pageTitle": "XMTP - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://xmtp.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "dmail-network",
+      "mailchain",
+      "axelar"
+    ],
+    "related": [
+      "chainstack",
+      "venly",
+      "getblock"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

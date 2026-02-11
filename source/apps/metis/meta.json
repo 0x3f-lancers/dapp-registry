@@ -1,0 +1,47 @@
+{
+  "slug": "metis",
+  "name": "Metis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748384/web3-explorer/dapp-logos/metis.jpg",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Multichain",
+    "Harmony",
+    "Bitcoin",
+    "Polygon zkEVM"
+  ],
+  "tags": [
+    "Enterprise Customers",
+    "Layer 2 Blockchains",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Metis is a scalable Layer 2 solution for Ethereum that bundles transactions off-chain and enables an NFT bridge, a DAO framework, and METIS for staking and fees",
+    "description": "Metis is a scalable Layer 2 solution on Ethereum that bundles Ethereum transactions and processes them off-chain before recording them back on Ethereum to boost throughput. It offers an NFT bridge between its Andromeda network and Ethereum, NFT storage, and a framework for its DAO and decentralized autonomous companies (DACs). It also provides middleware to help developers manage their smart contracts. The METIS token is used for staking and paying transaction fees within the ecosystem.",
+    "meta": "Metis is a scalable and sustainable Layer 2 scaling solution built on Ethereum. Discover Metis and other Blockchains on Lancers Web3 Explorer.",
+    "pageTitle": "Metis - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.metis.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "saakuru",
+      "polygon-zkevm",
+      "kroma"
+    ],
+    "related": [
+      "bnb-chain",
+      "decimal",
+      "xpla"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

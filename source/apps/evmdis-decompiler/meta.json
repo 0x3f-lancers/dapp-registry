@@ -1,0 +1,41 @@
+{
+  "slug": "evmdis-decompiler",
+  "name": "evmdis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746877/web3-explorer/dapp-logos/evmdis-decompiler.jpg",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "Decompilers",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "evmdis is an open-source EVM disassembler that performs static analysis on bytecode to provide a higher level of abstraction than raw EVM operations.",
+    "description": "evmdis is an open-source EVM disassembler that performs static analysis on Ethereum bytecode to provide a higher level of abstraction than raw EVM operations. It lets users and developers convert binary bytecode into a human-readable form to understand what the code is doing. The disassembler includes jump target analysis, assigning labels to jump destinations and replacing addresses with descriptive label names to improve readability and navigation of the code.",
+    "meta": "evmdis is an open-source EVM disassembler. Discover evmdis and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "evmdis - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/Arachnid/evmdis"
+  },
+  "relations": {
+    "alternatives": [
+      "ethervm-decompiler",
+      "decurity-decompiler",
+      "jeb-decompiler"
+    ],
+    "related": [
+      "abi-decoder",
+      "money-legos",
+      "pyevmasm"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

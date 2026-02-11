@@ -1,0 +1,44 @@
+{
+  "slug": "etheno",
+  "name": "Etheno",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746783/web3-explorer/dapp-logos/etheno.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Starknet",
+    "Solana"
+  ],
+  "tags": [
+    "Fuzzing Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Etheno is an all-in-one Ethereum security analysis and testing tool.",
+    "description": "Etheno is a JSON-RPC multiplexer, differential fuzzer, unit testing framework, and integration tool designed for Ethereum security analysis and testing. It is known for its straightforward setup, reducing the effort required to configure analysis tools like Echidna on large multichain projects. Whether you are developing a smart contract or an Ethereum client, Etheno helps you analyze security properties and improve your implementation across Ethereum, Polygon, Starknet, and Solana. The tool provides integrated workflows to streamline security reviews and testing across multiple chains.",
+    "meta": "Etheno is an all-in-one Ethereum security analysis and testing tool. Discover Etheno and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Etheno - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/crytic/etheno"
+  },
+  "relations": {
+    "alternatives": [
+      "tayt",
+      "trident",
+      "hevm"
+    ],
+    "related": [
+      "ethlint",
+      "solvm",
+      "smartmuv"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

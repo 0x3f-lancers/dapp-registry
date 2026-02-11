@@ -1,0 +1,49 @@
+{
+  "slug": "lightning-network",
+  "name": "Lightning Network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748064/web3-explorer/dapp-logos/lightning-network.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "BNB Chain",
+    "Avalanche",
+    "Celo",
+    "Solana",
+    "Base"
+  ],
+  "tags": [
+    "Web3 Payment Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Lightning Network is a decentralized network that uses smart contracts to enable instant Bitcoin payments.",
+    "description": "Lightning Network is a decentralized network that relies on the blockchain's underlying technology. By using real Bitcoin/blockchain transactions and leveraging its native smart-contract scripting language, it builds a secure network of participants that are able to transact at high volume and high speed. This design enables instant Bitcoin payments across the network, supporting frequent, rapid transactions while maintaining the core security principles of Bitcoin.",
+    "meta": "Lightning Network is a decentralized network enabling instant Bitcoin payments. Discover Lightning Network and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Lightning Network - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/lightningnetwork/lnd"
+  },
+  "relations": {
+    "alternatives": [
+      "solpad",
+      "acctual",
+      "radom"
+    ],
+    "related": [
+      "smolrefuel",
+      "fjord-foundry",
+      "ambisafe"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

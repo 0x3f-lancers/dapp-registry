@@ -1,0 +1,50 @@
+{
+  "slug": "octane",
+  "name": "Octane",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748817/web3-explorer/dapp-logos/octane.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "ZKsync",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Celo",
+    "Ethereum",
+    "Solana",
+    "Aptos"
+  ],
+  "tags": [
+    "Blockchain Security Tools",
+    "Solidity Developer Tools",
+    "Paid"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "Octane provides blockchain Security Tools.",
+    "description": "Octane provides engineering teams with an in-house, trainable AI security researcher. Through a one-click GitHub integration, Octane continuously analyzes source code across the software development lifecycle, learning from your codebase to improve accuracy. Over time, the models adapt to the project, reducing noise and sharpening signals to surface security concerns early and help teams address risks more efficiently.",
+    "meta": "Octane provides blockchain Security Tools. Discover Octane and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Octane - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://octane.security"
+  },
+  "relations": {
+    "alternatives": [
+      "codeslaw",
+      "sharkteam",
+      "openzeppelin-defender"
+    ],
+    "related": [
+      "webacy",
+      "glider",
+      "pocketuniverse"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

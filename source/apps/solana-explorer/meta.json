@@ -1,0 +1,47 @@
+{
+  "slug": "solana-explorer",
+  "name": "Solana Explorer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749999/web3-explorer/dapp-logos/solana-explorer.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Solana",
+    "Polkadot",
+    "Multichain",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Avalanche"
+  ],
+  "tags": [
+    "Block Explorers",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Solana Explorer is a Solana blockchain explorer for viewing transactions, blocks, programs, tokens and accounts across Solana clusters.",
+    "description": "The Solana Explorer is a Solana blockchain explorer that lets you inspect activity across Solana clusters. Users can view transactions, blocks, programs, tokens, and accounts, providing a comprehensive view of on-chain activity and relationships. Developers can access the devnet cluster to enable developer settings, explore test dapps on the testnet, or connect to a custom RPC URL for their own networks. This tool supports cross-cluster visibility and quick access to essential on-chain data.",
+    "meta": "Solana Explorer is a Solana blockchain explorer. Discover Solana Explorer and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Solana Explorer - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://explorer.solana.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "optimism-block-explorer",
+      "epirus",
+      "etherscan"
+    ],
+    "related": [
+      "astar",
+      "ethereum",
+      "xdc-network"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

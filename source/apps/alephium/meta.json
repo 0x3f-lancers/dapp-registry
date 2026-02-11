@@ -1,0 +1,45 @@
+{
+  "slug": "alephium",
+  "name": "Alephium",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744802/web3-explorer/dapp-logos/alephium.png",
+  "category": "Open Source Projects",
+  "subcategory": [
+    "GitHub Open Source Projects"
+  ],
+  "chains": [
+    "Multichain",
+    "Polkadot",
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Layer 1 Blockchains (L1s)",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Alephium is an operational, sharded L1 blockchain that scales PoW and UTXO concepts.",
+    "description": "Alephium is a scalable blockchain that builds on mature Bitcoin-era concepts to deliver reliable, powerful, and secure DeFi and dApps. It uses blockflow sharding to achieve up to 10,000 TPS and a stateful UTXO model for secure, programmable DeFi and dApps. The network emphasizes energy efficiency, drawing only about one-eighth of Bitcoin's energy. It introduces Alphred, a custom VM designed to improve security and developer experience. It also features its own programming language as a user-friendly alternative to Solidity.",
+    "meta": "Alephium is an operational, sharded L1 blockchain that scales PoW and UTXO concepts. Discover Alephium and other Blockchains on Lancers Web3 Explorer.",
+    "pageTitle": "Alephium - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/alephium"
+  },
+  "relations": {
+    "alternatives": [
+      "astar",
+      "vanar",
+      "sunrise"
+    ],
+    "related": [
+      "skale",
+      "hela-labs",
+      "vanar"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

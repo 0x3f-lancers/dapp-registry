@@ -1,0 +1,49 @@
+{
+  "slug": "synfutures",
+  "name": "SynFutures",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750563/web3-explorer/dapp-logos/synfutures.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives",
+    "Decentralized Exchanges (DEXs)"
+  ],
+  "chains": [
+    "Base",
+    "Arbitrum",
+    "Ethereum",
+    "Solana",
+    "Tron",
+    "Moonbeam",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Decentralized Derivatives",
+    "Decentralized Exchanges (DEXs)",
+    "Free, Transaction Fees"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "SynFutures is a decentralized exchange with on-chain derivatives trading and leverage.",
+    "description": "SynFutures is a leading decentralized exchange (DEX) with a full-stack derivatives infrastructure. It uses an Oyster AMM model and a fully on-chain order-matching engine for derivatives, enabling anyone to list and trade leveraged assets. SynFutures is the top perpetual futures DEX on multiple networks, including Base, Arbitrum, Ethereum, Solana, Tron, Moonbeam, and OP Mainnet. It recently introduced the industry's first Perp Launchpad, attracting blue-chip tokens, LSTs, memecoins, and more.",
+    "meta": "SynFutures is a leading DEX and full-stack financial infrastructure. Discover SynFutures and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "SynFutures - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.synfutures.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "paraswap",
+      "stellaswap",
+      "velodrome"
+    ],
+    "related": [
+      "vela-exchange",
+      "toobit",
+      "panoptic"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

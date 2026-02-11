@@ -1,0 +1,50 @@
+{
+  "slug": "rpclist",
+  "name": "RPCList",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749672/web3-explorer/dapp-logos/rpclist.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Celo",
+    "Ethereum",
+    "Fantom",
+    "Harmony",
+    "Polygon zkEVM",
+    "Polygon",
+    "Solana",
+    "Multichain"
+  ],
+  "tags": [
+    "RPC Node Providers",
+    "Freemium"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "RPCList ranks RPC providers by uptime and speed to help developers choose the best RPC provider.",
+    "description": "RPCList evaluates and ranks RPC providers using concrete metrics such as uptime and response speed, helping developers identify the most reliable options for their projects. The platform also enables effortless switching between RPC endpoints based on current quality and performance, allowing dapps to run with improved efficiency and resilience. By surfacing provider quality data in one place, RPCList streamlines integration decisions and supports developers in optimizing their network layer for better consistency and user experience.",
+    "meta": "RPCList ranks RPC providers by uptime and speed to help developers choose the best provider. Discover RPCList and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "RPCList - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rpclist.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "backpac-inc",
+      "helius",
+      "alchemy"
+    ],
+    "related": [
+      "cubanespace",
+      "innovatorchain"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

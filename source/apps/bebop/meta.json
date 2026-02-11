@@ -1,0 +1,49 @@
+{
+  "slug": "bebop",
+  "name": "Bebop",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745192/web3-explorer/dapp-logos/bebop.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges (DEXs)"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Polygon",
+    "Multichain",
+    "OP Mainnet",
+    "Avalanche",
+    "Bitcoin",
+    "Solana",
+    "Base"
+  ],
+  "tags": [
+    "Decentralized Exchanges (DEXs)",
+    "Free"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Bebop is a decentralized trading platform enabling multi-token DeFi trades in a single transaction with no slippage.",
+    "description": "Bebop is a decentralized trading platform for DeFi that enables multi-token trades within a single transaction. Users can swap a single token for a portfolio of up to five tokens, or consolidate several tokens into one trade. There is no slippage: trades execute at the price shown and do not change after initiation. Bebop also provides full transparency into how quotes are calculated, with network fees included in the quoted price, so users won’t encounter unexpected charges.",
+    "meta": "Bebop is a decentralized DeFi trading platform supporting multi-token trades in one transaction. Discover Bebop and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "Bebop - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bebop.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "shapeshift",
+      "loopring",
+      "ave-ai"
+    ],
+    "related": [
+      "bitget",
+      "polynomial-protocol",
+      "dopex"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

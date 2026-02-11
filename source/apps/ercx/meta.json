@@ -1,0 +1,44 @@
+{
+  "slug": "ercx",
+  "name": "ERCx",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746746/web3-explorer/dapp-logos/ercx.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Web3 Testing Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Starknet",
+    "Avalanche",
+    "Fantom"
+  ],
+  "tags": [
+    "Web3 Testing Tools",
+    "Free, Freemium"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ERCx applies formal methods to improve the safety, reliability, and correctness of computing systems.",
+    "description": "ERCx serves as a key resource for the Ethereum ecosystem, providing detailed information on token standards such as ERC-20, ERC-721, and ERC-1155. These standards guide the design of smart contracts to support interoperable behavior across different platforms and applications. Although participation in these standards is voluntary, ERCx provides investors, developers, and auditors with independent, reliable information about token standards and their compliance, helping them assess how implementations conform to the established norms.",
+    "meta": "ERCx is an essential platform for Ethereum, offering insights into ERC-20, ERC-721, and ERC-1155. Discover ERCx and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "ERCx - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ercx.runtimeverification.com"
+  },
+  "relations": {
+    "alternatives": [
+      "foundry-anvil",
+      "robot-framework",
+      "wake"
+    ],
+    "related": [
+      "echidna",
+      "beamer-bridge",
+      "tayt"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

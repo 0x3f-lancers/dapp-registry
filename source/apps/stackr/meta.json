@@ -1,0 +1,44 @@
+{
+  "slug": "stackr",
+  "name": "Stackr",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750276/web3-explorer/dapp-logos/stackr.jpg",
+  "category": "RaaS Tools",
+  "subcategory": [
+    "Rollup Frameworks"
+  ],
+  "chains": [
+    "Ethereum",
+    "Multichain",
+    "OP Mainnet",
+    "Arbitrum",
+    "ZKsync",
+    "Cosmos"
+  ],
+  "tags": [
+    "Rollup Frameworks",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Stackr provides modular SDK for building micro-rollups in general-purpose languages.",
+    "description": "Stackr provides a modular SDK to build micro-rollups in general-purpose languages, unlocking app-specific rollups on Ethereum while leveraging familiar web2 programming environments. Moving beyond app-specificity, Stackr embraces logic-specificity by introducing micro-rollups: isolated state machines that implement individual functions within a decentralized app, which are developed, optimized, and maintained independently. This approach scales Web3 apps by composing functionality as discrete, reusable modules.",
+    "meta": "Stackr provides modular SDK for building micro-rollups in general-purpose languages. Discover Stackr and other RaaS Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Stackr - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.stackrlabs.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "sovereign-labs",
+      "rollkit-dev"
+    ],
+    "related": [
+      "zeeve",
+      "espresso-sequencer"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

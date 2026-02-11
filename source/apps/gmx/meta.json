@@ -1,0 +1,47 @@
+{
+  "slug": "gmx",
+  "name": "GMX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747252/web3-explorer/dapp-logos/gmx.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Solana",
+    "Ethereum",
+    "OP Mainnet",
+    "Base",
+    "Sui"
+  ],
+  "tags": [
+    "Decentralized Derivatives",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "GMX is a decentralized exchange protocol deployed on Arbitrum and Avalanche, with GMX and GLP as ecosystem tokens.",
+    "description": "GMX is a decentralized exchange protocol deployed on two EVM-compatible networks, Arbitrum and Avalanche. In the Arbitrum ecosystem, GMX serves as the governance and utility token and provides users with about 13% APR. In the Avalanche ecosystem, the corresponding token is GLP, which offers around 21% APR. The project also offers an API that enables developers to tap into its trading and liquidity infrastructure, supporting programmatic access to its features.",
+    "meta": "GMX is a decentralized exchange protocol deployed on Arbitrum and Avalanche. Discover GMX and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "GMX - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gmx.io/#/"
+  },
+  "relations": {
+    "alternatives": [
+      "defx",
+      "legato-finance",
+      "marginly"
+    ],
+    "related": [
+      "zeta-markets",
+      "alchemix",
+      "dual-finance"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

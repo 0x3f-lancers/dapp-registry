@@ -1,0 +1,46 @@
+{
+  "slug": "mai",
+  "name": "Mai",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748173/web3-explorer/dapp-logos/mai.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Polygon",
+    "Ethereum",
+    "BNB Chain",
+    "Arbitrum",
+    "Solana"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized CDPs",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Mai is a Polygon-based cryptocurrency-backed stablecoin soft-pegged to the US dollar at 1:1.",
+    "description": "Mai (MIMATIC) is a cryptocurrency-backed stablecoin issued on the Polygon blockchain and softly pegged to the US dollar at a 1:1 ratio. It relies on QiDao, Polygon’s native non-custodial stablecoin issuing protocol, to back the minting process. Users can deposit assets such as Polygon (MATIC), Fantom (FTM), and Ethereum (ETH) as collateral within Mai Finance to mint MAI in self-managed vaults, with 0% interest on the minted MAI.",
+    "meta": "Mai is a Polygon-based, cryptocurrency-backed stablecoin soft-pegged to the US dollar at 1:1. Discover Mai and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Mai - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.mai.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "parrot-protocol",
+      "davos-protocol",
+      "liquity"
+    ],
+    "related": [
+      "bru-finance",
+      "flooz-trade",
+      "rubydex"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}

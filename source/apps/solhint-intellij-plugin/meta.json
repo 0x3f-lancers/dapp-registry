@@ -1,0 +1,45 @@
+{
+  "slug": "solhint-intellij-plugin",
+  "name": "Solhint for IntelliJ",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750045/web3-explorer/dapp-logos/solhint-intellij-plugin.jpg",
+  "category": "Solidity Tools",
+  "subcategory": [
+    "Static Analysis Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Avalanche",
+    "OP Mainnet"
+  ],
+  "tags": [
+    "Static Analysis Tools",
+    "Open-source"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Solhint for IntelliJ is a Solhint plugin for the IntelliJ IDE that adds Solidity linting.",
+    "description": "Solhint for IntelliJ integrates Solhint into the IntelliJ IDE to provide Solidity linting and testing directly in your development workflow. As a Solidity linter, it enforces a broad range of validation and security rules that align with Solidity's style guide. The extension ships with preconfigured rule sets but lets developers tailor these rules, including enabling, disabling, or refining checks, and manage configuration at the code level using inline comments. This makes it easy to maintain consistent coding standards across projects.",
+    "meta": "Solhint for IntelliJ plugs Solhint into the IntelliJ IDE for Solidity linting. Discover Solhint for IntelliJ and other Solidity Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Solhint for IntelliJ - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://plugins.jetbrains.com/plugin/10177-solidity-solhint"
+  },
+  "relations": {
+    "alternatives": [
+      "solidcheck",
+      "auditbase",
+      "smartmuv"
+    ],
+    "related": [
+      "pytest",
+      "etherspot",
+      "ethp2p"
+    ]
+  },
+  "source": {
+    "fullyScraped": true
+  }
+}
