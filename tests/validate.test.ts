@@ -146,7 +146,7 @@ describe("Validation Script (scripts/validate.ts)", () => {
         metaPath: path.join(MOCKED_APPS_DIR, "related-dapp", "meta.json"),
         relation: "non-existent",
       }),
-      "Relation does not exist in data/apps/.",
+      "Relation does not exist in src/apps/.",
     );
     expect(mockedLogger.info).not.toHaveBeenCalled();
     expect(MOCKED_PROCESS_EXIT).not.toHaveBeenCalled();

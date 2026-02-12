@@ -103,6 +103,6 @@ export async function generateMetaFilesFromConsolidated(
 // Example usage if run directly
 if (require.main === module) {
   const sourceFile = path.resolve(process.cwd(), "final_dapps.rewritten.json"); // Project root
-  const targetDir = path.resolve(process.cwd(), "source", "apps");
+  const targetDir = path.resolve(process.cwd(), "src", "apps");
   generateMetaFilesFromConsolidated(sourceFile, targetDir);
 }

@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "source/apps/**/meta.json"
+      - "src/apps/**/meta.json"
       - "scripts/distill.ts"
       - "schema/metaJsonSchema.ts"
       - "schema/faucetIndexJson.ts"
@@ -63,14 +63,14 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v40
         with:
-          files: "data/apps/**/meta.json"
+          files: "src/apps/**/meta.json"
 
       - name: Extract changed dapp slugs
         id: get_changed_dapp_slugs
         run: |
           SLUGS=()
           for file in ${{ steps.changed-files.outputs.modified_files }} ${{ steps.changed-files.outputs.added_files }}; do
-            slug=$(echo "$file" | sed -E 's|data/apps/([^/]+)/meta.json|\1|')
+            slug=$(echo "$file" | sed -E 's|src/apps/([^/]+)/meta.json|\1|')
             if [[ "$slug" != "$file" ]]; then
               SLUGS+=("$slug")
             fi
@@ -95,7 +95,7 @@ jobs:
           git status
           echo ""
           echo "=== Changed meta.json files ==="
-          for f in data/apps/*/meta.json; do
+          for f in src/apps/*/meta.json; do
             echo "--- $f ---"
             cat "$f" | head -5
             echo "..."
@@ -104,8 +104,6 @@ jobs:
           echo "=== Git Diff ==="
           git diff --name-only
 
-      - name: Auto-commit generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(data): auto-generated DApp data files"
-          file_pattern: "data/apps.min.json data/facets.index.json"
+      - name: Skip committing generated files
+        run: |
+          echo "Generated files are runtime artifacts and are not committed."

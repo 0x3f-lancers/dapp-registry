@@ -12,7 +12,7 @@ import { generateFacets } from "../scripts/generate-facets";
 dotenv.config({ path: path.resolve(process.cwd(), ".env.local") });
 
 export default async function distill(
-  appsDir: string = path.resolve(process.cwd(), "source", "apps"), // Default to 'source/apps'
+  appsDir: string = path.resolve(process.cwd(), "src", "apps"),
   dataDir: string,
   slugsToProcess?: string[],
 ) {
@@ -161,7 +161,7 @@ export default async function distill(
   const appsMinJsonContent = JSON.stringify(existingApps, null, 2);
   await fs.writeFile(appsMinPath, appsMinJsonContent, "utf-8");
   logger.info(
-    `Generated data/apps.min.json (${existingApps.length} total apps)`,
+    `Generated build/apps.min.json (${existingApps.length} total apps)`,
   );
 
   // Generate facets index

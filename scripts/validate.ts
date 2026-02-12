@@ -42,7 +42,7 @@ export default async function validate(appsDir: string) {
         if (!allSlugs.includes(relation)) {
           logger.error(
             { metaPath, relation },
-            "Relation does not exist in data/apps/.",
+            "Relation does not exist in src/apps/.",
           );
           hasErrors = true;
         }

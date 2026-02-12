@@ -3,8 +3,8 @@ import { promises as fs } from "fs";
 import distill from "./distill";
 import logger from "../lib/logger";
 
-const appsDir = path.join(process.cwd(), "source", "apps");
-const dataDir = path.join(process.cwd(), "data");
+const appsDir = path.join(process.cwd(), "src", "apps");
+const dataDir = path.join(process.cwd(), "build");
 
 // Get command-line arguments (slugs to process)
 const slugsToProcess = process.argv.slice(2);

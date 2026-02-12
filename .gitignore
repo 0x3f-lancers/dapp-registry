@@ -2,6 +2,7 @@
 node_modules/
 # Build artifacts
 dist/
+build/
 
 # Local environment variables
 .env.local
@@ -9,3 +10,7 @@ dist/
 
 #unwanted files
 final_dapps.rewritten.json
+
+# Generated runtime indexes
+build/apps.min.json
+build/facets.index.json

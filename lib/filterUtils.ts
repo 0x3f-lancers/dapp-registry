@@ -41,7 +41,7 @@ export interface SelectedFilters {
 
 function getAppsMin(): AppMin[] {
   if (appsCache) return appsCache;
-  const appsMinPath = resolve(process.cwd(), "data", "apps.min.json");
+  const appsMinPath = resolve(process.cwd(), "build", "apps.min.json");
   const content = readFileSync(appsMinPath, "utf-8");
   appsCache = appsMinSchema.parse(JSON.parse(content));
   return appsCache;
@@ -49,7 +49,7 @@ function getAppsMin(): AppMin[] {
 
 function getFacets(): FacetsIndex {
   if (facetsCache) return facetsCache;
-  const facetsIndexPath = resolve(process.cwd(), "data", "facets.index.json");
+  const facetsIndexPath = resolve(process.cwd(), "build", "facets.index.json");
   const content = readFileSync(facetsIndexPath, "utf-8");
   facetsCache = facetsIndexSchema.parse(JSON.parse(content));
   return facetsCache;

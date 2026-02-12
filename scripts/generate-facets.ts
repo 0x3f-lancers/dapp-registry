@@ -284,42 +284,48 @@ export async function generateFacets(
     }, {} as Record<string, string>),
   };
 
-  // Populate assets.networkLogos from chain_logos.json
-  const chainLogosPath = resolve(dataDir, "chain_logos.json");
-  try {
-    const chainLogosContent = readFileSync(chainLogosPath, "utf-8");
-    const parsedChainLogos = JSON.parse(chainLogosContent);
-    if (parsedChainLogos && parsedChainLogos.name_to_url) {
-      currentFacets.assets.networkLogos = parsedChainLogos.name_to_url;
-    } else {
-      console.warn(`Warning: ${chainLogosPath} does not contain a 'name_to_url' object. Assets.networkLogos will be empty.`);
+  // Populate assets.networkLogos from chain_logos.json.
+  // Prefer the active output dir, then fall back to legacy data/.
+  const chainLogosCandidates = [
+    resolve(dataDir, "chain_logos.json"),
+    resolve(process.cwd(), "data", "chain_logos.json"),
+  ];
+  currentFacets.assets.networkLogos = {};
+  for (const chainLogosPath of chainLogosCandidates) {
+    try {
+      const chainLogosContent = readFileSync(chainLogosPath, "utf-8");
+      const parsedChainLogos = JSON.parse(chainLogosContent);
+      if (parsedChainLogos && parsedChainLogos.name_to_url) {
+        currentFacets.assets.networkLogos = parsedChainLogos.name_to_url;
+        break;
+      }
+      console.warn(
+        `Warning: ${chainLogosPath} does not contain a 'name_to_url' object.`,
+      );
+    } catch {
+      // Try next candidate
     }
-  } catch (error: any) {
-    if (error.code === "ENOENT") {
-      console.warn(`Warning: ${chainLogosPath} not found. Assets.networkLogos will be empty.`);
-    } else {
-      console.error(`Error reading or parsing ${chainLogosPath}:`, error);
-    }
-    currentFacets.assets.networkLogos = {}; // Ensure it's an empty object on error
   }
 
-  // Populate taxonomy from taxonomy.json
-  const taxonomyPath = resolve(dataDir, "taxonomy.json");
-  try {
-    const taxonomyContent = readFileSync(taxonomyPath, "utf-8");
-    currentFacets.taxonomy = JSON.parse(taxonomyContent);
-  } catch (error: any) {
-    if (error.code === "ENOENT") {
-      console.warn(`Warning: ${taxonomyPath} not found. Taxonomy will be empty.`);
-    } else {
-      console.error(`Error reading or parsing ${taxonomyPath}:`, error);
+  // Populate taxonomy from taxonomy.json with the same fallback behavior.
+  const taxonomyCandidates = [
+    resolve(dataDir, "taxonomy.json"),
+    resolve(process.cwd(), "data", "taxonomy.json"),
+  ];
+  currentFacets.taxonomy = {
+    categories: [],
+    subcategories: [],
+    category_to_subcategories: {},
+    subcategory_to_categories: {},
+  };
+  for (const taxonomyPath of taxonomyCandidates) {
+    try {
+      const taxonomyContent = readFileSync(taxonomyPath, "utf-8");
+      currentFacets.taxonomy = JSON.parse(taxonomyContent);
+      break;
+    } catch {
+      // Try next candidate
     }
-    currentFacets.taxonomy = {
-      categories: [],
-      subcategories: [],
-      category_to_subcategories: {},
-      subcategory_to_categories: {},
-    };
   }
 
   facetsIndexSchema.parse(currentFacets); // Validate against the schema
@@ -330,7 +336,7 @@ export async function generateFacets(
 
 // Update the standalone execution block
 if (require.main === module) {
-  const defaultDataDir = resolve(__dirname, "../../data"); // Updated path
+  const defaultDataDir = resolve(__dirname, "../../build");
   const appsMinPath = resolve(defaultDataDir, "apps.min.json");
   let standaloneApps: AppEntry[] = [];
 
@@ -338,7 +344,10 @@ if (require.main === module) {
     const appsMinContent = readFileSync(appsMinPath, "utf-8");
     standaloneApps = appsMinSchema.parse(JSON.parse(appsMinContent));
   } catch (error) {
-    console.error("Error reading or parsing apps.min.json for standalone facet generation:", error);
+    console.error(
+      "Error reading or parsing apps.min.json for standalone facet generation:",
+      error,
+    );
     process.exit(1);
   }
 

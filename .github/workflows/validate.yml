@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "data/apps/**"
+      - "src/apps/**"
       - "scripts/**"
       - "schema/**"
       - "lib/cloudinary.ts"
@@ -52,14 +52,14 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v40
         with:
-          files: "data/apps/**/meta.json"
+          files: "src/apps/**/meta.json"
 
       - name: Extract changed dapp slugs
         id: get_changed_dapp_slugs
         run: |
           SLUGS=()
           for file in ${{ steps.changed-files.outputs.modified_files }} ${{ steps.changed-files.outputs.added_files }}; do
-            slug=$(echo "$file" | sed -E 's|data/apps/([^/]+)/meta.json|\1|')
+            slug=$(echo "$file" | sed -E 's|src/apps/([^/]+)/meta.json|\1|')
             if [[ "$slug" != "$file" ]]; then
               SLUGS+=("$slug")
             fi

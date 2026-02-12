@@ -9,10 +9,9 @@ async function runFullGeneration() {
 
   // Define paths
   const finalDappsRewrittenPath = path.join(rootDir, "final_dapps.rewritten.json");
-  const sourceAppsDir = path.join(rootDir, "source", "apps");
-  const outputDataDir = path.join(rootDir, "data");
+  const sourceAppsDir = path.join(rootDir, "src", "apps");
+  const outputDataDir = path.join(rootDir, "build");
   const appsMinPath = path.join(outputDataDir, "apps.min.json");
-  const slugsJsonPath = path.join(outputDataDir, "slugs.json");
   const facetsIndexPath = path.join(outputDataDir, "facets.index.json");
 
   try {
@@ -22,9 +21,8 @@ async function runFullGeneration() {
     logger.info("Cleaning up previous generated files...");
     await fs.rm(sourceAppsDir, { recursive: true, force: true });
     await fs.rm(appsMinPath, { force: true });
-    await fs.rm(slugsJsonPath, { force: true });
     await fs.rm(facetsIndexPath, { force: true });
-    await fs.mkdir(sourceAppsDir, { recursive: true }); // Recreate source/apps
+    await fs.mkdir(sourceAppsDir, { recursive: true }); // Recreate src/apps
     logger.info("Cleanup complete.");
 
     // 2. Generate individual meta.json files
