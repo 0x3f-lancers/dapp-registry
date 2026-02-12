@@ -5,21 +5,26 @@ on:
     branches:
       - main
   pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 env:
   CUSTOM_DOMAIN: dapp-registry.lancers.technology
 
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: true
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -37,7 +42,7 @@ jobs:
           echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
 
       - name: Setup pnpm cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ${{ env.STORE_PATH }}
           key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
@@ -50,6 +55,12 @@ jobs:
       - name: Build scripts
         run: pnpm run build
 
+      - name: Load Cloudinary credentials
+        run: |
+          echo "CLOUDINARY_CLOUD_NAME=${{ secrets.CLOUDINARY_CLOUD_NAME }}" >> $GITHUB_ENV
+          echo "CLOUDINARY_API_KEY=${{ secrets.CLOUDINARY_API_KEY }}" >> $GITHUB_ENV
+          echo "CLOUDINARY_API_SECRET=${{ secrets.CLOUDINARY_API_SECRET }}" >> $GITHUB_ENV
+
       - name: Generate runtime indexes
         run: pnpm run distill
 
@@ -57,13 +68,23 @@ jobs:
         run: pnpm run build:site
 
       - name: Add custom domain
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: github.ref == 'refs/heads/main'
         run: |
           echo "${{ env.CUSTOM_DOMAIN }}" > build/CNAME
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          path: ./build
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

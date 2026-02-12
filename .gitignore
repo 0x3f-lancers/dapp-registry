@@ -14,3 +14,9 @@ final_dapps.rewritten.json
 # Generated runtime indexes
 build/apps.min.json
 build/facets.index.json
+
+# Internal setup documentation (not for public repo)
+.github/BRANCH_PROTECTION.md
+.github/scripts/
+
+.claude

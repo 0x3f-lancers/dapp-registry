@@ -39,7 +39,7 @@ jobs:
           echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
 
       - name: Setup pnpm cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ${{ env.STORE_PATH }}
           key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
@@ -52,7 +52,18 @@ jobs:
       - name: Build scripts
         run: pnpm run build
 
+      - name: Check Cloudinary credentials
+        id: check_cloudinary
+        run: |
+          if [ -z "${{ secrets.CLOUDINARY_CLOUD_NAME }}" ] || [ -z "${{ secrets.CLOUDINARY_API_KEY }}" ] || [ -z "${{ secrets.CLOUDINARY_API_SECRET }}" ]; then
+            echo "has_credentials=false" >> $GITHUB_OUTPUT
+            echo "::warning::Cloudinary credentials not configured. Logo uploads will be skipped."
+          else
+            echo "has_credentials=true" >> $GITHUB_OUTPUT
+          fi
+
       - name: Load Environment Variables
+        if: steps.check_cloudinary.outputs.has_credentials == 'true'
         run: |
           echo "CLOUDINARY_CLOUD_NAME=${{ secrets.CLOUDINARY_CLOUD_NAME }}" >> $GITHUB_ENV
           echo "CLOUDINARY_API_KEY=${{ secrets.CLOUDINARY_API_KEY }}" >> $GITHUB_ENV
@@ -61,7 +72,7 @@ jobs:
 
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v40
+        uses: tj-actions/changed-files@v44
         with:
           files: "src/apps/**/meta.json"
 
@@ -89,21 +100,43 @@ jobs:
             pnpm run distill
           fi
 
-      - name: Debug - Check files before commit
+      - name: Check for changes
+        id: check_changes
         run: |
-          echo "=== Git Status ==="
-          git status
-          echo ""
-          echo "=== Changed meta.json files ==="
-          for f in src/apps/*/meta.json; do
-            echo "--- $f ---"
-            cat "$f" | head -5
-            echo "..."
-          done
-          echo ""
-          echo "=== Git Diff ==="
-          git diff --name-only
+          if git diff --quiet src/apps/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes to meta.json files"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in meta.json files"
+            git diff --name-only src/apps/
+          fi
 
-      - name: Skip committing generated files
+      - name: Commit updated meta.json files
+        if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          echo "Generated files are runtime artifacts and are not committed."
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/apps/*/meta.json
+          git commit -m "chore(data): auto-generated DApp data files
+
+          Updated logoUrl fields with Cloudinary URLs.
+
+          Co-Authored-By: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Summary
+        run: |
+          echo "## Distillation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.check_changes.outputs.has_changes }}" == "true" ]; then
+            echo "- Updated meta.json files with Cloudinary URLs" >> $GITHUB_STEP_SUMMARY
+            echo "- Changes committed and pushed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- No changes to commit" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ "${{ steps.check_cloudinary.outputs.has_credentials }}" == "false" ]; then
+            echo "- Cloudinary credentials not configured (logo uploads skipped)" >> $GITHUB_STEP_SUMMARY
+          fi
