@@ -82,10 +82,10 @@ async function buildSite() {
     version: "v1",
     updatedAt: new Date().toISOString(),
     endpoints: {
-      appsIndex: "/dapps/apps.min.json",
-      facetsIndex: "/facets/facets.index.json",
-      metaPattern: "/apps/{slug}/meta.json",
-      metaPatternDocs: "/docs/meta-pattern.json",
+      appsIndex: "./dapps/apps.min.json",
+      facetsIndex: "./facets/facets.index.json",
+      metaPattern: "./apps/{slug}/meta.json",
+      metaPatternDocs: "./docs/meta-pattern.json",
     },
   };
 
@@ -111,13 +111,39 @@ async function buildSite() {
   <body>
     <h1>Lancers Dapp Registry</h1>
     <p>Runtime-generated JSON endpoints:</p>
-    <ul>
-      <li><a href="/overview.json">/overview.json</a></li>
-      <li><a href="/dapps/apps.min.json">/dapps/apps.min.json</a></li>
-      <li><a href="/facets/facets.index.json">/facets/facets.index.json</a></li>
-      <li><a href="/docs/meta-pattern.json">/docs/meta-pattern.json</a></li>
-      <li><code>/apps/{slug}/meta.json</code></li>
-    </ul>
+    <ul id="endpoints"></ul>
+    <script>
+      (function renderLinks() {
+        var path = window.location.pathname;
+        var basePath = path.replace(/\\/index\\.html$/, "").replace(/\\/$/, "");
+        function fullPath(relativePath) {
+          return (basePath + "/" + relativePath).replace(/\\/+/g, "/");
+        }
+        var endpointItems = [
+          { relative: "overview.json", code: false },
+          { relative: "dapps/apps.min.json", code: false },
+          { relative: "facets/facets.index.json", code: false },
+          { relative: "docs/meta-pattern.json", code: false },
+          { relative: "apps/{slug}/meta.json", code: true }
+        ];
+        var list = document.getElementById("endpoints");
+        endpointItems.forEach(function(item) {
+          var li = document.createElement("li");
+          var displayPath = fullPath(item.relative);
+          if (item.code) {
+            var code = document.createElement("code");
+            code.textContent = displayPath;
+            li.appendChild(code);
+          } else {
+            var a = document.createElement("a");
+            a.href = displayPath;
+            a.textContent = displayPath;
+            li.appendChild(a);
+          }
+          list.appendChild(li);
+        });
+      })();
+    </script>
   </body>
 </html>
 `;
