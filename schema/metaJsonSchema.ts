@@ -31,9 +31,4 @@ export const metaJsonSchema = z.object({
     alternatives: z.array(z.string()),
     related: z.array(z.string()),
   }),
-  source: z
-    .object({
-      fullyScraped: z.boolean().default(true),
-    })
-    .optional(),
 });

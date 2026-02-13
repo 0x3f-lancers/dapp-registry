@@ -164,9 +164,7 @@ All link fields are optional, but at least one of `website` or `github` is requi
 
 ### Optional Fields
 
-| Field | Type | Description |
-|-------|------|-------------|
-| `source.fullyScraped` | boolean | Internal flag for data completeness |
+None currently.
 
 ### Categories
 
