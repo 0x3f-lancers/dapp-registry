@@ -135,8 +135,6 @@ export default async function distill(
         changedApps.added.push(appEntry);
         logger.info({ slug }, "✅ Added new app to apps.min.json");
       }
-
-
     } catch (error) {
       logger.error({ metaPath, error }, "Error processing meta.json.");
     }
@@ -144,10 +142,14 @@ export default async function distill(
 
   // Filter out apps that no longer exist in the apps directory (only process existing meta.json files)
   const actualExistingSlugs = new Set(allDirSlugs);
-  const appsAfterFiltering = existingApps.filter(app => actualExistingSlugs.has(app.slug));
+  const appsAfterFiltering = existingApps.filter((app) =>
+    actualExistingSlugs.has(app.slug),
+  );
 
   // Identify removed apps by comparing initial apps with appsAfterFiltering
-  const slugsAfterFiltering = new Set(appsAfterFiltering.map(app => app.slug));
+  const slugsAfterFiltering = new Set(
+    appsAfterFiltering.map((app) => app.slug),
+  );
   for (const initialApp of initialExistingApps) {
     if (!slugsAfterFiltering.has(initialApp.slug)) {
       changedApps.removed.push(initialApp);
@@ -167,20 +169,62 @@ export default async function distill(
   // Generate facets index
   await generateFacets(dataDir, changedApps);
 
-  // HMAC signature generation
+  // HMAC signature generation and revalidation trigger
   const hmacSecret = process.env.HMAC_SECRET;
+  const revalidateUrl = process.env.WEB3_EXPLORER_REVALIDATE_URL;
+
   if (!hmacSecret || hmacSecret === "super_secret_hmac_key") {
     logger.warn(
       "HMAC_SECRET is not set or is a placeholder. Skipping HMAC signature generation.",
     );
+  } else if (!revalidateUrl) {
+    logger.warn(
+      "WEB3_EXPLORER_REVALIDATE_URL is not set. Skipping revalidation trigger.",
+    );
   } else {
+    // Create the payload - MUST match web3-explorer tag
+    const payload = JSON.stringify({ tag: "dapps" });
+
+    // Generate HMAC signature
     const hmac = crypto.createHmac("sha256", hmacSecret);
-    hmac.update(appsMinJsonContent);
-    const signature = hmac.digest("hex");
+    hmac.update(payload);
+    const signature = `sha256=${hmac.digest("hex")}`;
+
     logger.info(
       { signature },
-      "Generated HMAC-SHA256 signature for apps.min.json.",
+      "Generated HMAC-SHA256 signature for revalidation request",
     );
+
+    // Send revalidation request to web3-explorer
+    try {
+      const response = await fetch(revalidateUrl, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "X-Hub-Signature-256": signature,
+        },
+        body: payload,
+      });
+
+      if (response.ok) {
+        const result = await response.json();
+        logger.info(
+          { status: response.status, result },
+          "✅ Successfully triggered web3-explorer revalidation",
+        );
+      } else {
+        const errorText = await response.text();
+        logger.error(
+          { status: response.status, error: errorText },
+          "❌ Failed to trigger web3-explorer revalidation",
+        );
+      }
+    } catch (error) {
+      logger.error(
+        { error },
+        "❌ Network error while triggering web3-explorer revalidation",
+      );
+    }
   }
 
   logger.info("✅ Distillation complete.");
