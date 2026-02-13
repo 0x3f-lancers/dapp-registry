@@ -21,7 +21,6 @@ const finalDappSchema = z.object({
   websiteUrl: z.string().url().optional(), // Made optional
   alternatives: z.array(z.string()),
   relatedDapps: z.array(z.string()),
-  fully_scraped: z.boolean(),
   subcategories: z.array(z.string()), // Added subcategories
 });
 
@@ -76,9 +75,6 @@ export async function generateMetaFilesFromConsolidated(
         relations: {
           alternatives: dapp.alternatives,
           related: dapp.relatedDapps,
-        },
-        source: {
-          fullyScraped: dapp.fully_scraped,
         },
       };
 

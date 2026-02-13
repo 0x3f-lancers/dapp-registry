@@ -3,9 +3,21 @@
   "name": "0vix",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744593/web3-explorer/dapp-logos/0vix.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Lending Dapps"],
-  "chains": ["Polygon", "Polygon zkEVM", "Multichain", "Ethereum", "Arbitrum"],
-  "tags": ["Free Customers", "Decentralized Lending Dapps", "Paid"],
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Polygon",
+    "Polygon zkEVM",
+    "Multichain",
+    "Ethereum",
+    "Arbitrum"
+  ],
+  "tags": [
+    "Free Customers",
+    "Decentralized Lending Dapps",
+    "Paid"
+  ],
   "pricing": "Paid",
   "content": {
     "short": "0vix is a Polygon lending market for lending, borrowing, and earning interest, with plans to add veTokenomics and dynamic interest rates.",
@@ -17,10 +29,15 @@
     "website": "https://www.0vix.com/"
   },
   "relations": {
-    "alternatives": ["unilend-finance", "silo-finance", "spark"],
-    "related": ["concordex", "enzyme", "origin-dollar"]
-  },
-  "source": {
-    "fullyScraped": true
+    "alternatives": [
+      "unilend-finance",
+      "silo-finance",
+      "spark"
+    ],
+    "related": [
+      "concordex",
+      "enzyme",
+      "origin-dollar"
+    ]
   }
 }

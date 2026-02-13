@@ -53,9 +53,6 @@ describe("Validation Script (scripts/validate.ts)", () => {
       alternatives: [],
       related: [],
     },
-    source: {
-      fullyScraped: true,
-    },
   };
 
   const MOCKED_PROCESS_EXIT = jest

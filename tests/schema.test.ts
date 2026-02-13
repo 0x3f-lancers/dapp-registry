@@ -27,9 +27,6 @@ describe('Schema Validation', () => {
         alternatives: [],
         related: [],
       },
-      source: {
-        fullyScraped: true,
-      },
     };
 
     it('should validate valid meta.json data', () => {
@@ -37,7 +34,7 @@ describe('Schema Validation', () => {
     });
 
     it('should allow optional fields to be missing', () => {
-      const { source, links, ...minimalValidData } = validMetaData;
+      const { links, ...minimalValidData } = validMetaData;
       const minimalLinks = { website: 'https://minimal.com' };
       const data = { ...minimalValidData, links: minimalLinks, category: validMetaData.category, subcategory: validMetaData.subcategory }; // Ensure category and subcategory are passed correctly
       expect(() => metaJsonSchema.parse(data)).not.toThrow();
@@ -63,18 +60,6 @@ describe('Schema Validation', () => {
       const invalidContent = { ...validMetaData.content, short: 'a'.repeat(201) };
       const invalidData = { ...validMetaData, content: invalidContent };
       expect(() => metaJsonSchema.parse(invalidData)).toThrow(z.ZodError);
-    });
-
-    it('should have source as undefined if source field is entirely omitted', () => {
-      const { source, ...dataWithoutSource } = validMetaData;
-      const parsed = metaJsonSchema.parse(dataWithoutSource);
-      expect(parsed.source).toBeUndefined();
-    });
-
-    it('should default source.fullyScraped to true if source exists but fullyScraped is omitted', () => {
-      const dataWithEmptySource = { ...validMetaData, source: {} };
-      const parsed = metaJsonSchema.parse(dataWithEmptySource);
-      expect(parsed.source?.fullyScraped).toBe(true);
     });
   });
 
