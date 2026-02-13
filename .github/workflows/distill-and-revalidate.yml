@@ -69,6 +69,7 @@ jobs:
           echo "CLOUDINARY_API_KEY=${{ secrets.CLOUDINARY_API_KEY }}" >> $GITHUB_ENV
           echo "CLOUDINARY_API_SECRET=${{ secrets.CLOUDINARY_API_SECRET }}" >> $GITHUB_ENV
           echo "HMAC_SECRET=${{ secrets.HMAC_SECRET }}" >> $GITHUB_ENV
+          echo "WEB3_EXPLORER_REVALIDATE_URL=${{ secrets.WEB3_EXPLORER_REVALIDATE_URL }}" >> $GITHUB_ENV
 
       - name: Get changed files
         id: changed-files
