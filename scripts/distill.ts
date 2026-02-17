@@ -116,9 +116,7 @@ export default async function distill(
         subcategory: meta.subcategory, // Added subcategory
         chains: meta.chains,
         tags: meta.tags,
-        pricing: meta.pricing,
         short: meta.content.short,
-        updatedAt: new Date().toISOString(),
         links: meta.links,
       };
 

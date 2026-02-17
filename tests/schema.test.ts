@@ -74,9 +74,7 @@ describe('Schema Validation', () => {
         subcategory: ['Play-to-Earn'],
         chains: ['Polygon'],
         tags: ['P2E'],
-        pricing: 'Free',
         short: 'A short summary.',
-        updatedAt: new Date().toISOString(),
       },
       {
         slug: 'min-dapp-2',
@@ -86,9 +84,7 @@ describe('Schema Validation', () => {
         subcategory: ['Utility'],
         chains: ['Ethereum'],
         tags: ['Utils'],
-        pricing: 'Paid',
         short: 'Another summary.',
-        updatedAt: new Date().toISOString(),
       },
     ];
 
@@ -110,10 +106,6 @@ describe('Schema Validation', () => {
       expect(() => appsMinSchema.parse(invalidData)).not.toThrow(); // Will not throw by default Zod schema
     });
 
-    it('should throw error for invalid updatedAt format', () => {
-      const invalidItem = { ...validAppsMinData[0], updatedAt: 'not-a-date' };
-      const invalidData = [invalidItem];
-      expect(() => appsMinSchema.parse(invalidData)).toThrow(z.ZodError);
-    });
+
   });
 });
