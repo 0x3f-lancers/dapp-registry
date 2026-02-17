@@ -36,7 +36,6 @@ export interface SelectedFilters {
   network?: string[];
   category?: string[];
   subcategory?: string[];
-  tags?: string[];
 }
 
 function getAppsMin(): AppMin[] {
@@ -77,8 +76,6 @@ export function filterApps(selected: SelectedFilters): AppMin[] {
     facets.buckets.subcategory,
     allSlugs,
   );
-  const t = setForGroup(selected.tags || [], facets.buckets.tags, allSlugs);
-
-  const allowed = intersect(intersect(intersect(n, c), s), t);
+  const allowed = intersect(intersect(n, c), s);
   return apps.filter((a) => allowed.has(a.slug));
 }
