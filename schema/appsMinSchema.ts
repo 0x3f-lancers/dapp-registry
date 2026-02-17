@@ -8,7 +8,6 @@ export const appsMinSchema = z.array(
     category: z.string(),
     subcategory: z.array(z.string()),
     chains: z.array(z.string()),
-    tags: z.array(z.string()),
     short: z.string(),
     links: z
       .object({

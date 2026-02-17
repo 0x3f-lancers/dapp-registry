@@ -28,7 +28,6 @@ const mockAppsMin: AppMin[] = [
     category: "DeFi",
     subcategory: ["Lending", "Borrowing"],
     chains: ["Ethereum", "Polygon"],
-    tags: ["Lending", "Borrowing"],
     short: "Short description Aave",
   },
   {
@@ -38,7 +37,6 @@ const mockAppsMin: AppMin[] = [
     category: "DeFi",
     subcategory: ["DEX", "Swap"],
     chains: ["Ethereum", "Arbitrum"],
-    tags: ["DEX", "Swap"],
     short: "Short description Uniswap",
   },
   {
@@ -48,7 +46,6 @@ const mockAppsMin: AppMin[] = [
     category: "NFT Marketplace",
     subcategory: ["Marketplace"],
     chains: ["Polygon"],
-    tags: ["NFT", "Marketplace"],
     short: "Short description OpenSea",
   },
   {
@@ -58,7 +55,6 @@ const mockAppsMin: AppMin[] = [
     category: "Gaming",
     subcategory: ["GameFi", "P2E"],
     chains: ["Arbitrum"],
-    tags: ["GameFi", "P2E"],
     short: "Short description GameFi",
   },
 ];
@@ -84,16 +80,6 @@ const mockFacetsIndex: FacetsIndex = {
       { slug: "gamefi", label: "GameFi", stats: 1 },
       { slug: "p2e", label: "P2E", stats: 1 },
     ],
-    tags: [
-      { slug: "lending", label: "Lending", stats: 1 },
-      { slug: "borrowing", label: "Borrowing", stats: 1 },
-      { slug: "dex", label: "DEX", stats: 1 },
-      { slug: "swap", label: "Swap", stats: 1 },
-      { slug: "nft", label: "NFT", stats: 1 },
-      { slug: "marketplace", label: "Marketplace", stats: 1 },
-      { slug: "gamefi", label: "GameFi", stats: 1 },
-      { slug: "p2e", label: "P2E", stats: 1 },
-    ],
   },
   buckets: {
     network: {
@@ -111,16 +97,6 @@ const mockFacetsIndex: FacetsIndex = {
       borrowing: ["aave"],
       dex: ["uniswap"],
       swap: ["uniswap"],
-      marketplace: ["opensea"],
-      gamefi: ["gamefi-dapp"],
-      p2e: ["gamefi-dapp"],
-    },
-    tags: {
-      lending: ["aave"],
-      borrowing: ["aave"],
-      dex: ["uniswap"],
-      swap: ["uniswap"],
-      nft: ["opensea"],
       marketplace: ["opensea"],
       gamefi: ["gamefi-dapp"],
       p2e: ["gamefi-dapp"],
@@ -259,15 +235,7 @@ describe("filterApps", () => {
 
 
 
-  it("should filter by single tag", async () => {
 
-    const selected: SelectedFilters = { tags: ["nft"] };
-
-    const result = await filterApps(selected);
-
-    expect(result.map((app) => app.slug)).toEqual(["opensea"]);
-
-  });
 
 
 
@@ -283,25 +251,7 @@ describe("filterApps", () => {
 
 
 
-  it("should filter by multiple criteria including subcategory and tag", async () => {
 
-    const selected: SelectedFilters = {
-
-      network: ["arbitrum"],
-
-      category: ["gaming"],
-
-      subcategory: ["gamefi"],
-
-      tags: ["p2e"],
-
-    };
-
-    const result = await filterApps(selected);
-
-    expect(result.map((app) => app.slug)).toEqual(["gamefi-dapp"]);
-
-  });
 
 
 

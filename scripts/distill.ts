@@ -115,7 +115,6 @@ export default async function distill(
         category: meta.category,
         subcategory: meta.subcategory, // Added subcategory
         chains: meta.chains,
-        tags: meta.tags,
         short: meta.content.short,
         links: meta.links,
       };

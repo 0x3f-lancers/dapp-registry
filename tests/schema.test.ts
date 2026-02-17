@@ -73,7 +73,6 @@ describe('Schema Validation', () => {
         category: 'GameFi',
         subcategory: ['Play-to-Earn'],
         chains: ['Polygon'],
-        tags: ['P2E'],
         short: 'A short summary.',
       },
       {
@@ -83,7 +82,6 @@ describe('Schema Validation', () => {
         category: 'Tool',
         subcategory: ['Utility'],
         chains: ['Ethereum'],
-        tags: ['Utils'],
         short: 'Another summary.',
       },
     ];

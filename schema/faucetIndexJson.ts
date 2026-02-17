@@ -12,13 +12,13 @@ export const facetsIndexSchema = z.object({
     network: z.array(facetOptionSchema),
     category: z.array(facetOptionSchema),
     subcategory: z.array(facetOptionSchema),
-    tags: z.array(facetOptionSchema),
+
   }),
   buckets: z.object({
     network: z.record(z.string(), z.array(z.string())),
     category: z.record(z.string(), z.array(z.string())),
     subcategory: z.record(z.string(), z.array(z.string())),
-    tags: z.record(z.string(), z.array(z.string())),
+
   }),
   stats: z.number().int().nonnegative(),
   counts: z.object({

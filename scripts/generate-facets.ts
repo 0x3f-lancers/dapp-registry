@@ -62,13 +62,11 @@ export async function generateFacets(
         network: [],
         category: [],
         subcategory: [],
-        tags: [],
       },
       buckets: {
         network: {},
         category: {},
         subcategory: {},
-        tags: {},
       },
       stats: 0,
       counts: {
@@ -182,34 +180,6 @@ export async function generateFacets(
       }
     }
 
-    // Update tags
-    for (const tag of app.tags) {
-      const tagSlug = slugify(tag);
-      let tagOption = currentFacets.filterableOptions.tags.find(
-        (o) => o.label === tag,
-      );
-      if (tagOption) {
-        tagOption.stats += change;
-      } else if (type === "add") {
-        currentFacets.filterableOptions.tags.push({ label: tag, slug: tagSlug, stats: 1 });
-      }
-
-      if (type === "add") {
-        if (!currentFacets.buckets.tags[tagSlug]) {
-          currentFacets.buckets.tags[tagSlug] = [];
-        }
-        if (!currentFacets.buckets.tags[tagSlug].includes(app.slug)) {
-          currentFacets.buckets.tags[tagSlug].push(app.slug);
-        }
-      } else {
-        if (currentFacets.buckets.tags[tagSlug]) {
-          currentFacets.buckets.tags[tagSlug] = currentFacets.buckets.tags[
-            tagSlug
-          ].filter((s) => s !== app.slug);
-        }
-      }
-    }
-
     // Placeholder for new facets: counts, buckets, assets, taxonomy, labels.
     // These will remain empty until specific population logic is defined based on dapp data.
     // They are included here to satisfy the schema.
@@ -234,7 +204,7 @@ export async function generateFacets(
   }
 
   const allSlugsInBuckets = new Set<string>();
-  for (const key of ["network", "category", "subcategory", "tags"] as const) {
+  for (const key of ["network", "category", "subcategory"] as const) {
     for (const slugList of Object.values(currentFacets.buckets[key])) {
       for (const appSlug of slugList) {
         allSlugsInBuckets.add(appSlug);
@@ -244,7 +214,7 @@ export async function generateFacets(
   currentFacets.stats = allSlugsInBuckets.size;
 
   // Clean up and re-sort
-  for (const key of ["network", "category", "subcategory", "tags"] as const) {
+  for (const key of ["network", "category", "subcategory"] as const) {
     // Remove options with stats <= 0
     currentFacets.filterableOptions[key] = currentFacets.filterableOptions[key].filter(
       (option) => option.stats > 0,
