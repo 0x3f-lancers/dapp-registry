@@ -29,9 +29,7 @@ const mockAppsMin: AppMin[] = [
     subcategory: ["Lending", "Borrowing"],
     chains: ["Ethereum", "Polygon"],
     tags: ["Lending", "Borrowing"],
-    pricing: "Free",
     short: "Short description Aave",
-    updatedAt: "2023-01-01T00:00:00Z",
   },
   {
     slug: "uniswap",
@@ -41,9 +39,7 @@ const mockAppsMin: AppMin[] = [
     subcategory: ["DEX", "Swap"],
     chains: ["Ethereum", "Arbitrum"],
     tags: ["DEX", "Swap"],
-    pricing: "Free",
     short: "Short description Uniswap",
-    updatedAt: "2023-01-01T00:00:00Z",
   },
   {
     slug: "opensea",
@@ -53,9 +49,7 @@ const mockAppsMin: AppMin[] = [
     subcategory: ["Marketplace"],
     chains: ["Polygon"],
     tags: ["NFT", "Marketplace"],
-    pricing: "Free",
     short: "Short description OpenSea",
-    updatedAt: "2023-01-01T00:00:00Z",
   },
   {
     slug: "gamefi-dapp",
@@ -65,9 +59,7 @@ const mockAppsMin: AppMin[] = [
     subcategory: ["GameFi", "P2E"],
     chains: ["Arbitrum"],
     tags: ["GameFi", "P2E"],
-    pricing: "Paid",
     short: "Short description GameFi",
-    updatedAt: "2023-01-01T00:00:00Z",
   },
 ];
 

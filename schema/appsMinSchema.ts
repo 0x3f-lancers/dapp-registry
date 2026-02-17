@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from 'zod';
 
 export const appsMinSchema = z.array(
   z.object({
@@ -9,8 +9,16 @@ export const appsMinSchema = z.array(
     subcategory: z.array(z.string()),
     chains: z.array(z.string()),
     tags: z.array(z.string()),
-    pricing: z.string(),
     short: z.string(),
-    updatedAt: z.iso.datetime(),
+    links: z
+      .object({
+        website: z.string().optional(),
+        github: z.string().optional(),
+        docs: z.string().optional(),
+        twitter: z.string().optional(),
+        telegram: z.string().optional(),
+        discord: z.string().optional(),
+      })
+      .optional(),
   }),
 );
