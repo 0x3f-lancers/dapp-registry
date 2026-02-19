@@ -19,7 +19,7 @@ export const metaJsonSchema = z.object({
       website: z.url().optional(),
       github: z.url().optional(),
       docs: z.url().optional(),
-      twitter: z.url().optional(),
+      x: z.url().optional(),
       telegram: z.url().optional(),
       discord: z.url().optional(),
     })

@@ -18,10 +18,11 @@ const finalDappSchema = z.object({
   description: z.string().optional(), // Made optional
   metaDescription: z.string().optional(), // Made optional
   pageTitle: z.string().optional(), // Made optional
-  websiteUrl: z.string().url().optional(), // Made optional
+  websiteUrl: z.url().optional(), // Made optional
   alternatives: z.array(z.string()),
   relatedDapps: z.array(z.string()),
   subcategories: z.array(z.string()), // Added subcategories
+  xUrl: z.url().optional(), // Added X URL
 });
 
 // Define the schema for the entire final_dapps.rewritten.json file (an array of finalDappSchema)
@@ -68,8 +69,8 @@ export async function generateMetaFilesFromConsolidated(
           pageTitle: dapp.pageTitle || "", // Provide fallback
         },
         links: {
-          ...(dapp.websiteUrl && { website: dapp.websiteUrl }), // Conditionally include website
-          // Other links (github, docs, twitter, telegram, discord) are optional and not in source
+          ...(dapp.websiteUrl && { website: dapp.websiteUrl }),
+          ...(dapp.xUrl && { x: dapp.xUrl }),
         },
         relations: {
           alternatives: dapp.alternatives,
