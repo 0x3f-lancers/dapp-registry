@@ -26,14 +26,12 @@
   },
   "relations": {
     "alternatives": [
-      "block-wallet",
       "gem-wallet",
       "stackup"
     ],
     "related": [
       "ledger",
-      "kresus",
-      "bls-wallet"
+      "kresus"
     ]
   }
 }
