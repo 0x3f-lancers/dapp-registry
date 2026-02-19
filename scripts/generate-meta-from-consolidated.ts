@@ -59,14 +59,13 @@ export async function generateMetaFilesFromConsolidated(
         logoUrl: dapp.logoUrl,
         category: dapp.category, // Directly map category
         subcategory: dapp.subcategories, // Directly map subcategories
-        chains: dapp.chains,
-        tags: dapp.tags,
+        chains: dapp.chains_from_pages! ?? "Ethereum",
         pricing: dapp.pricing,
         content: {
           short: dapp.shortDescription,
           description: dapp.description || "", // Provide fallback
-          meta: dapp.metaDescription || "",     // Provide fallback
-          pageTitle: dapp.pageTitle || "",     // Provide fallback
+          meta: dapp.metaDescription || "", // Provide fallback
+          pageTitle: dapp.pageTitle || "", // Provide fallback
         },
         links: {
           ...(dapp.websiteUrl && { website: dapp.websiteUrl }), // Conditionally include website
@@ -82,7 +81,11 @@ export async function generateMetaFilesFromConsolidated(
       metaJsonSchema.parse(metaContent);
 
       // 5. Write the meta.json file
-      await fs.writeFile(metaFilePath, JSON.stringify(metaContent, null, 2), "utf-8");
+      await fs.writeFile(
+        metaFilePath,
+        JSON.stringify(metaContent, null, 2),
+        "utf-8",
+      );
       logger.info(`Created ${metaFilePath}`);
     }
 
