@@ -3,12 +3,8 @@
   "name": "Aark",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744718/web3-explorer/dapp-logos/aark.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Arbitrum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Arbitrum"],
   "pricing": "Free",
   "content": {
     "short": "Aark is a 1000x perpetual DEX powered by LST/LRT assets, with no gas fees, an OI cap, and low slippage.",
@@ -21,13 +17,7 @@
     "twitter": "https://x.com/aark_digital"
   },
   "relations": {
-    "alternatives": [
-      "dolomite",
-      "concordex"
-    ],
-    "related": [
-      "polynomial-protocol",
-      "zeta-markets"
-    ]
+    "alternatives": ["dolomite", "concordex"],
+    "related": ["polynomial-protocol", "zeta-markets"]
   }
 }

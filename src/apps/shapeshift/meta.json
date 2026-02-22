@@ -3,9 +3,7 @@
   "name": "ShapeShift DAO",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749839/web3-explorer/dapp-logos/shapeshift.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Ethereum",
     "Bitcoin",
@@ -26,14 +24,7 @@
     "twitter": "https://x.com/shapeshift"
   },
   "relations": {
-    "alternatives": [
-      "clipper-dex",
-      "fibrous-finance",
-      "balancer"
-    ],
-    "related": [
-      "pika-protocol",
-      "bydfi"
-    ]
+    "alternatives": ["clipper-dex", "fibrous-finance", "balancer"],
+    "related": ["pika-protocol", "bydfi"]
   }
 }

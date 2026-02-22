@@ -3,13 +3,8 @@
   "name": "PowerDEX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749294/web3-explorer/dapp-logos/powerdex.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Base"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Base"],
   "pricing": "",
   "content": {
     "short": "PowerDEX offers advanced crypto options trading with 100,000+ contracts across 80 altcoins, BTC, and ETH.",
@@ -22,15 +17,7 @@
     "twitter": "https://x.com/PowerTradeHQ"
   },
   "relations": {
-    "alternatives": [
-      "dzap",
-      "ix-swap",
-      "ave-ai"
-    ],
-    "related": [
-      "stealthex",
-      "heroswap",
-      "jasper-vault"
-    ]
+    "alternatives": ["dzap", "ix-swap", "ave-ai"],
+    "related": ["stealthex", "heroswap", "jasper-vault"]
   }
 }

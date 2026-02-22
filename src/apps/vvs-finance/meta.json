@@ -3,12 +3,8 @@
   "name": "VVS Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751089/web3-explorer/dapp-logos/vvs-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Cronos"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Cronos"],
   "pricing": "",
   "content": {
     "short": "VVS Finance is the first Automated Market Maker (AMM) decentralized exchange native to the Cronos blockchain.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/VVS_finance"
   },
   "relations": {
-    "alternatives": [
-      "saber",
-      "transit-swap",
-      "bybarter"
-    ],
-    "related": [
-      "bydfi",
-      "simpleswap",
-      "polynomial-protocol"
-    ]
+    "alternatives": ["saber", "transit-swap", "bybarter"],
+    "related": ["bydfi", "simpleswap", "polynomial-protocol"]
   }
 }

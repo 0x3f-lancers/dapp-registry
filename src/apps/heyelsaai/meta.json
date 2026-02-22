@@ -3,16 +3,8 @@
   "name": "HeyElsa AI",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747530/web3-explorer/dapp-logos/heyelsaai.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "DeFi Yield Aggregators",
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Base",
-    "Solana",
-    "Ethereum",
-    "Arbitrum"
-  ],
+  "subcategory": ["DeFi Yield Aggregators", "Decentralized Exchanges"],
+  "chains": ["Base", "Solana", "Ethereum", "Arbitrum"],
   "pricing": "Free",
   "content": {
     "short": "HeyElsa AI is an AI-powered crypto co-pilot that simplifies on-chain actions.",
@@ -25,14 +17,7 @@
     "twitter": "https://x.com/HeyElsaAI"
   },
   "relations": {
-    "alternatives": [
-      "sharpe",
-      "bolide-finance",
-      "reaper-farm"
-    ],
-    "related": [
-      "dforce",
-      "yield-yak"
-    ]
+    "alternatives": ["sharpe", "bolide-finance", "reaper-farm"],
+    "related": ["dforce", "yield-yak"]
   }
 }

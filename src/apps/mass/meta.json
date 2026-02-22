@@ -3,15 +3,8 @@
   "name": "Mass",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748225/web3-explorer/dapp-logos/mass.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Arbitrum",
-    "Base",
-    "OP Mainnet",
-    "Polygon"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Arbitrum", "Base", "OP Mainnet", "Polygon"],
   "pricing": "Free",
   "content": {
     "short": "Mass is a mobile DeFi app offering trading, on-ramp and off-ramp, limit orders, and access to on-chain and off-chain data.",
@@ -24,13 +17,7 @@
     "twitter": "https://x.com/massdotmoney"
   },
   "relations": {
-    "alternatives": [
-      "crema-finance",
-      "morfi"
-    ],
-    "related": [
-      "jasper-vault",
-      "swissborg"
-    ]
+    "alternatives": ["crema-finance", "morfi"],
+    "related": ["jasper-vault", "swissborg"]
   }
 }

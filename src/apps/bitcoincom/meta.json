@@ -3,12 +3,8 @@
   "name": "Verse",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745254/web3-explorer/dapp-logos/bitcoincom.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "Verse is a full-featured decentralized exchange built on bitcoin.com.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/bitcoincom"
   },
   "relations": {
-    "alternatives": [
-      "curve-finance",
-      "shade-protocol",
-      "morfi"
-    ],
-    "related": [
-      "horizon-protocol",
-      "easybit"
-    ]
+    "alternatives": ["curve-finance", "shade-protocol", "morfi"],
+    "related": ["horizon-protocol", "easybit"]
   }
 }

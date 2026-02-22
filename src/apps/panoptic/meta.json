@@ -6,12 +6,9 @@
   "subcategory": [
     "Decentralized Options",
     "Decentralized Derivatives",
-    "Decentralized Exchanges (DEXs)"
+    "Decentralized Exchanges"
   ],
-  "chains": [
-    "Ethereum",
-    "Base"
-  ],
+  "chains": ["Ethereum", "Base"],
   "pricing": "",
   "content": {
     "short": "Panoptic is the perpetual, oracle-free, instant settlement options trading protocol on Ethereum.",
@@ -24,15 +21,7 @@
     "twitter": "https://x.com/Panoptic_xyz"
   },
   "relations": {
-    "alternatives": [
-      "polynomial-protocol",
-      "foxify",
-      "zeta-markets"
-    ],
-    "related": [
-      "futureswap",
-      "contango",
-      "syndr"
-    ]
+    "alternatives": ["polynomial-protocol", "foxify", "zeta-markets"],
+    "related": ["futureswap", "contango", "syndr"]
   }
 }

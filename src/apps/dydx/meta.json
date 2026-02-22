@@ -3,12 +3,8 @@
   "name": "dYdX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746602/web3-explorer/dapp-logos/dydx.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "dYdX is an Ethereum-based decentralized exchange offering spot, perpetual, and margin trading.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/dydx"
   },
   "relations": {
-    "alternatives": [
-      "firebird-finance",
-      "ambisafe",
-      "morfi"
-    ],
-    "related": [
-      "hegic",
-      "drift"
-    ]
+    "alternatives": ["firebird-finance", "ambisafe", "morfi"],
+    "related": ["hegic", "drift"]
   }
 }

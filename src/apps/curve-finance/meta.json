@@ -3,12 +3,8 @@
   "name": "Curve Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746073/web3-explorer/dapp-logos/curve-finance.svg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "Curve Finance is a DEX and AMM focused on efficient stablecoin trading with a range of stablecoins and DeFi features like liquidity mining and yield farming.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/CurveFinance"
   },
   "relations": {
-    "alternatives": [
-      "flooz-trade",
-      "lifi",
-      "carbon"
-    ],
-    "related": [
-      "binance",
-      "zeta-markets"
-    ]
+    "alternatives": ["flooz-trade", "lifi", "carbon"],
+    "related": ["binance", "zeta-markets"]
   }
 }

@@ -3,12 +3,8 @@
   "name": "KyberSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747944/web3-explorer/dapp-logos/kyberswap.svg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "KyberSwap is a multi-chain DEX aggregator that pools liquidity from many DEXs for fast trades.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/KyberNetwork"
   },
   "relations": {
-    "alternatives": [
-      "saber",
-      "panoptic",
-      "antfarm-finance"
-    ],
-    "related": [
-      "erasure",
-      "pika-protocol",
-      "thetanuts-finance"
-    ]
+    "alternatives": ["saber", "panoptic", "antfarm-finance"],
+    "related": ["erasure", "pika-protocol", "thetanuts-finance"]
   }
 }

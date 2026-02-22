@@ -3,12 +3,8 @@
   "name": "Saber",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749708/web3-explorer/dapp-logos/saber.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "",
   "content": {
     "short": "Saber is a high-liquidity AMM on Solana enabling trading between pegged assets.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/The_Saber_DAO"
   },
   "relations": {
-    "alternatives": [
-      "cowswap",
-      "firebird-finance",
-      "mass"
-    ],
-    "related": [
-      "cope",
-      "binance"
-    ]
+    "alternatives": ["cowswap", "firebird-finance", "mass"],
+    "related": ["cope", "binance"]
   }
 }

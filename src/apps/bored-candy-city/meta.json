@@ -3,12 +3,8 @@
   "name": "Bored Candy City",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745436/web3-explorer/dapp-logos/bored-candy-city.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Cronos"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Cronos"],
   "pricing": "",
   "content": {
     "short": "Bored Candy City is a Cronos DEX with NFT marketplace and play-to-earn games.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/boredcandycity"
   },
   "relations": {
-    "alternatives": [
-      "universalx",
-      "kromatika-finance",
-      "velodrome"
-    ],
-    "related": [
-      "swissborg",
-      "vaultka"
-    ]
+    "alternatives": ["universalx", "kromatika-finance", "velodrome"],
+    "related": ["swissborg", "vaultka"]
   }
 }

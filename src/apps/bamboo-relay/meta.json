@@ -3,12 +3,8 @@
   "name": "Bamboo Relay",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745161/web3-explorer/dapp-logos/bamboo-relay.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "Freemium",
   "content": {
     "short": "Bamboo Relay provides a 0x relayer protocol for trading, lending, and borrowing ERC20 tokens from users' wallets.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/bamboorelay?lang=en"
   },
   "relations": {
-    "alternatives": [
-      "aark",
-      "1delta",
-      "bancor"
-    ],
-    "related": [
-      "flitpay",
-      "futureswap"
-    ]
+    "alternatives": ["aark", "1delta", "bancor"],
+    "related": ["flitpay", "futureswap"]
   }
 }

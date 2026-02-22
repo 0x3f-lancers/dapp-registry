@@ -3,13 +3,8 @@
   "name": "Kriya",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747915/web3-explorer/dapp-logos/kriya.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)",
-    "DeFi Yield Farming Platforms"
-  ],
-  "chains": [
-    "Sui"
-  ],
+  "subcategory": ["Decentralized Exchanges", "DeFi Yield Farming Platforms"],
+  "chains": ["Sui"],
   "pricing": "",
   "content": {
     "short": "Kriya is a Sui-based orderbook decentralized exchange offering swaps, limit orders, and vault-based investment strategies.",
@@ -22,14 +17,7 @@
     "twitter": "https://x.com/KriyaDEX"
   },
   "relations": {
-    "alternatives": [
-      "defx",
-      "antfarm-finance",
-      "airswap"
-    ],
-    "related": [
-      "huobi",
-      "flitpay"
-    ]
+    "alternatives": ["defx", "antfarm-finance", "airswap"],
+    "related": ["huobi", "flitpay"]
   }
 }

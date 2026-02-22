@@ -3,14 +3,8 @@
   "name": "IX Swap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747787/web3-explorer/dapp-logos/ix-swap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Base",
-    "Polygon"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Base", "Polygon"],
   "pricing": "",
   "content": {
     "short": "IX Swap is an AMM-powered DeFi platform for investing in and trading tokenized real-world assets (RWAs).",
@@ -23,13 +17,7 @@
     "twitter": "https://x.com/IxSwap"
   },
   "relations": {
-    "alternatives": [
-      "bebop",
-      "morfi"
-    ],
-    "related": [
-      "bydfi",
-      "heroswap"
-    ]
+    "alternatives": ["bebop", "morfi"],
+    "related": ["bydfi", "heroswap"]
   }
 }

@@ -3,13 +3,8 @@
   "name": "Nusa",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748801/web3-explorer/dapp-logos/nusa-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Lending Dapps",
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "BNB Chain"
-  ],
+  "subcategory": ["Decentralized Lending Dapps", "Decentralized Exchanges"],
+  "chains": ["BNB Chain"],
   "pricing": "",
   "content": {
     "short": "Nusa is a one-stop web3 platform with DeFi applications and an NFT marketplace.",
@@ -22,14 +17,7 @@
     "twitter": "https://x.com/nusa_finance"
   },
   "relations": {
-    "alternatives": [
-      "bulla-network",
-      "lodestar-finance",
-      "1delta"
-    ],
-    "related": [
-      "stellaswap",
-      "dolomite"
-    ]
+    "alternatives": ["bulla-network", "lodestar-finance", "1delta"],
+    "related": ["stellaswap", "dolomite"]
   }
 }

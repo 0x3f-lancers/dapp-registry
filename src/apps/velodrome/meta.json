@@ -3,12 +3,8 @@
   "name": "Velodrome",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751018/web3-explorer/dapp-logos/velodrome.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "OP Mainnet"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["OP Mainnet"],
   "pricing": "Free",
   "content": {
     "short": "Velodrome is a DeFi protocol on Optimism with swapping, vesting, bribing and liquidity pool features.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/VelodromeFi"
   },
   "relations": {
-    "alternatives": [
-      "position-exchange",
-      "sushi",
-      "jumper-exchange"
-    ],
-    "related": [
-      "bumper-finance",
-      "changenow"
-    ]
+    "alternatives": ["position-exchange", "sushi", "jumper-exchange"],
+    "related": ["bumper-finance", "changenow"]
   }
 }

@@ -3,10 +3,7 @@
   "name": "UniDex",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750925/web3-explorer/dapp-logos/unidex.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)",
-    "Decentralized Synthetics"
-  ],
+  "subcategory": ["Decentralized Exchanges", "Decentralized Synthetics"],
   "chains": [
     "OP Mainnet",
     "Multichain",
@@ -28,14 +25,7 @@
     "twitter": "https://x.com/UniDexFinance"
   },
   "relations": {
-    "alternatives": [
-      "fibrous-finance",
-      "lifi",
-      "carbon"
-    ],
-    "related": [
-      "bitget",
-      "kraken"
-    ]
+    "alternatives": ["fibrous-finance", "lifi", "carbon"],
+    "related": ["bitget", "kraken"]
   }
 }

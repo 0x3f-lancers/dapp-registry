@@ -3,12 +3,8 @@
   "name": "Crema Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745987/web3-explorer/dapp-logos/crema-finance.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "Free",
   "content": {
     "short": "Crema Finance is a concentrated liquidity DeFi protocol on Solana.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/Crema_Finance"
   },
   "relations": {
-    "alternatives": [
-      "lnexchange",
-      "kromatika-finance",
-      "loopring"
-    ],
-    "related": [
-      "rubydex",
-      "toobit"
-    ]
+    "alternatives": ["lnexchange", "kromatika-finance", "loopring"],
+    "related": ["rubydex", "toobit"]
   }
 }

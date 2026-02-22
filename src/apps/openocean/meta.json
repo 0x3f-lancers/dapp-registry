@@ -3,9 +3,7 @@
   "name": "OpenOcean",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748901/web3-explorer/dapp-logos/openocean.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Aptos",
     "Arbitrum",
@@ -34,14 +32,7 @@
     "twitter": "https://x.com/OpenOceanGlobal"
   },
   "relations": {
-    "alternatives": [
-      "01",
-      "crema-finance"
-    ],
-    "related": [
-      "dual-finance",
-      "hakka-finance",
-      "simpleswap"
-    ]
+    "alternatives": ["01", "crema-finance"],
+    "related": ["dual-finance", "hakka-finance", "simpleswap"]
   }
 }

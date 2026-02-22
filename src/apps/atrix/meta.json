@@ -3,12 +3,8 @@
   "name": "Atrix",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745083/web3-explorer/dapp-logos/atrix.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "Freemium",
   "content": {
     "short": "Atrix is a Solana-based automated market maker enabling swapping, staking, and liquidity provision with Serum integration, and developer support for Serum swaps, liquidity, and farming.",
@@ -21,12 +17,7 @@
     "twitter": "https://x.com/AtrixProtocol"
   },
   "relations": {
-    "alternatives": [
-      "1inch"
-    ],
-    "related": [
-      "drift",
-      "ezo"
-    ]
+    "alternatives": ["1inch"],
+    "related": ["drift", "ezo"]
   }
 }

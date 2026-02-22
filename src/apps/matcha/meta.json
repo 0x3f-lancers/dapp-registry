@@ -3,9 +3,7 @@
   "name": "Matcha",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748228/web3-explorer/dapp-logos/matcha.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Ethereum",
     "Polygon",
@@ -29,13 +27,7 @@
     "twitter": "https://x.com/matchaxyz"
   },
   "relations": {
-    "alternatives": [
-      "kyberswap",
-      "aark"
-    ],
-    "related": [
-      "swissborg",
-      "bumper-finance"
-    ]
+    "alternatives": ["kyberswap", "aark"],
+    "related": ["swissborg", "bumper-finance"]
   }
 }

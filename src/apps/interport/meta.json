@@ -3,9 +3,7 @@
   "name": "Interport Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747745/web3-explorer/dapp-logos/interport.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Ethereum",
     "BNB Chain",
@@ -30,14 +28,7 @@
     "twitter": "https://x.com/InterportFi"
   },
   "relations": {
-    "alternatives": [
-      "kyberswap",
-      "enzyme",
-      "fcondex"
-    ],
-    "related": [
-      "odos",
-      "thetanuts-finance"
-    ]
+    "alternatives": ["kyberswap", "enzyme", "fcondex"],
+    "related": ["odos", "thetanuts-finance"]
   }
 }

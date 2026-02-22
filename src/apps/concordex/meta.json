@@ -3,12 +3,8 @@
   "name": "Concordex",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745861/web3-explorer/dapp-logos/concordex.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Multichain"],
   "pricing": "Free",
   "content": {
     "short": "Concordex offers a next-gen DEX on Concordium blockchain with a regulated DeFi experience.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/concordexlabs"
   },
   "relations": {
-    "alternatives": [
-      "0x",
-      "lnexchange",
-      "fibrous-finance"
-    ],
-    "related": [
-      "changenow",
-      "rubydex"
-    ]
+    "alternatives": ["0x", "lnexchange", "fibrous-finance"],
+    "related": ["changenow", "rubydex"]
   }
 }

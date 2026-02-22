@@ -3,12 +3,8 @@
   "name": "AirSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744773/web3-explorer/dapp-logos/airswap.svg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "Free",
   "content": {
     "short": "AirSwap is a decentralized exchange enabling peer-to-peer trading with atomic swaps, and a DAO-based governance model.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/airswap"
   },
   "relations": {
-    "alternatives": [
-      "bybarter",
-      "dolomite"
-    ],
-    "related": [
-      "day1x",
-      "bracketx",
-      "hegic"
-    ]
+    "alternatives": ["bybarter", "dolomite"],
+    "related": ["day1x", "bracketx", "hegic"]
   }
 }

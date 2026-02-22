@@ -3,12 +3,8 @@
   "name": "Tokenlon",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750735/web3-explorer/dapp-logos/tokenlon.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "Tokenlon is a decentralized exchange and payment settlement protocol offering the best exchange rates.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/tokenlon"
   },
   "relations": {
-    "alternatives": [
-      "balancer",
-      "firebird-finance",
-      "matcha"
-    ],
-    "related": [
-      "jones-dao",
-      "bracketx",
-      "pika-protocol"
-    ]
+    "alternatives": ["balancer", "firebird-finance", "matcha"],
+    "related": ["jones-dao", "bracketx", "pika-protocol"]
   }
 }

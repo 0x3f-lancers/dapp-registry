@@ -3,12 +3,8 @@
   "name": "Rubicon",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749682/web3-explorer/dapp-logos/rubicon.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "OP Mainnet"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["OP Mainnet"],
   "pricing": "",
   "content": {
     "short": "Rubicon is an order book protocol on Ethereum L2 networks.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/rubicondefi"
   },
   "relations": {
-    "alternatives": [
-      "vvs-finance",
-      "saros",
-      "mangrovedao"
-    ],
-    "related": [
-      "gemini",
-      "day1x",
-      "heroswap"
-    ]
+    "alternatives": ["vvs-finance", "saros", "mangrovedao"],
+    "related": ["gemini", "day1x", "heroswap"]
   }
 }

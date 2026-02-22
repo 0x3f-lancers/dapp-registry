@@ -3,12 +3,8 @@
   "name": "DeGate",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746417/web3-explorer/dapp-logos/degate.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "DeGate is an order-book DEX on Ethereum powered by Zero-Knowledge technology.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/DeGateDex"
   },
   "relations": {
-    "alternatives": [
-      "curve-finance",
-      "bored-candy-city",
-      "seif-finance"
-    ],
-    "related": [
-      "opium",
-      "crypto-dot-com",
-      "swapspace"
-    ]
+    "alternatives": ["curve-finance", "bored-candy-city", "seif-finance"],
+    "related": ["opium", "crypto-dot-com", "swapspace"]
   }
 }

@@ -3,13 +3,8 @@
   "name": "Kamino Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747853/web3-explorer/dapp-logos/kamino-finance.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "DeFi Yield Aggregators",
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["DeFi Yield Aggregators", "Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "Freemium",
   "content": {
     "short": "Kamino Finance automates concentrated liquidity management for DEX market makers.",
@@ -22,15 +17,7 @@
     "twitter": "https://x.com/kamino_finance"
   },
   "relations": {
-    "alternatives": [
-      "bolide-finance",
-      "clip-finance",
-      "horizondex"
-    ],
-    "related": [
-      "yield-protocol",
-      "tokensfarm",
-      "pickle"
-    ]
+    "alternatives": ["bolide-finance", "clip-finance", "horizondex"],
+    "related": ["yield-protocol", "tokensfarm", "pickle"]
   }
 }

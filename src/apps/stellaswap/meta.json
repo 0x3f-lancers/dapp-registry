@@ -3,12 +3,8 @@
   "name": "StellaSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750391/web3-explorer/dapp-logos/stellaswap.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Moonbeam"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Moonbeam"],
   "pricing": "Free",
   "content": {
     "short": "StellaSwap is a hybrid DEX on Moonbeam with a standard, stable and concentrated liquidity AMM.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/StellaSwap"
   },
   "relations": {
-    "alternatives": [
-      "minu-swap",
-      "bitcoincom",
-      "matcha"
-    ],
-    "related": [
-      "erasure",
-      "binance"
-    ]
+    "alternatives": ["minu-swap", "bitcoincom", "matcha"],
+    "related": ["erasure", "binance"]
   }
 }

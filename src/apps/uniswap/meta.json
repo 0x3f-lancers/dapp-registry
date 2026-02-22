@@ -3,15 +3,8 @@
   "name": "Uniswap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750933/web3-explorer/dapp-logos/uniswap.svg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Polygon",
-    "Arbitrum",
-    "OP Mainnet"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Polygon", "Arbitrum", "OP Mainnet"],
   "pricing": "",
   "content": {
     "short": "Uniswap is an Ethereum-based decentralized exchange enabling token swaps via liquidity pools.",
@@ -24,14 +17,7 @@
     "twitter": "https://x.com/Uniswap"
   },
   "relations": {
-    "alternatives": [
-      "position-exchange",
-      "xtoken-terminal"
-    ],
-    "related": [
-      "erasure",
-      "egemoney",
-      "bumper-finance"
-    ]
+    "alternatives": ["position-exchange", "xtoken-terminal"],
+    "related": ["erasure", "egemoney", "bumper-finance"]
   }
 }

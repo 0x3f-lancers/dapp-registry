@@ -3,12 +3,8 @@
   "name": "WigoSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751235/web3-explorer/dapp-logos/wigoswap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Fantom"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Fantom"],
   "pricing": "",
   "content": {
     "short": "WigoSwap is a DeFi platform with a DEX, staking, farming, and a mini-game.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/WigoSwap"
   },
   "relations": {
-    "alternatives": [
-      "curve-finance",
-      "multichain",
-      "rubic"
-    ],
-    "related": [
-      "cope",
-      "marginly",
-      "jones-dao"
-    ]
+    "alternatives": ["curve-finance", "multichain", "rubic"],
+    "related": ["cope", "marginly", "jones-dao"]
   }
 }

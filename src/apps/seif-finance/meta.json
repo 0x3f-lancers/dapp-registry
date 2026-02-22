@@ -3,12 +3,8 @@
   "name": "SEIF FINANCE",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749801/web3-explorer/dapp-logos/seif-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Arbitrum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Arbitrum"],
   "pricing": "",
   "content": {
     "short": "SEIF FINANCE is a comprehensive DeFi platform offering secure, user-friendly services including a DEX, crypto exchange, and NFT marketplace.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/seifdotfinance"
   },
   "relations": {
-    "alternatives": [
-      "panoptic",
-      "ave-ai",
-      "zkswap-finance"
-    ],
-    "related": [
-      "pika-protocol",
-      "egemoney",
-      "defx"
-    ]
+    "alternatives": ["panoptic", "ave-ai", "zkswap-finance"],
+    "related": ["pika-protocol", "egemoney", "defx"]
   }
 }

@@ -3,15 +3,8 @@
   "name": "Sushi",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750477/web3-explorer/dapp-logos/sushi.svg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "OP Mainnet",
-    "Polygon"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Arbitrum", "OP Mainnet", "Polygon"],
   "pricing": "",
   "content": {
     "short": "Sushi is a multichain decentralized exchange for swapping cryptocurrency tokens.",
@@ -24,13 +17,7 @@
     "twitter": "https://x.com/sushiswap"
   },
   "relations": {
-    "alternatives": [
-      "morfi",
-      "rubydex",
-      "quickswap"
-    ],
-    "related": [
-      "perpetual-protocol"
-    ]
+    "alternatives": ["morfi", "rubydex", "quickswap"],
+    "related": ["perpetual-protocol"]
   }
 }

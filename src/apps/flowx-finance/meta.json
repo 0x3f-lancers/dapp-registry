@@ -3,12 +3,8 @@
   "name": "FlowX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747004/web3-explorer/dapp-logos/flowx-finance.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Sui"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Sui"],
   "pricing": "Free",
   "content": {
     "short": "FlowX is an ecosystem-focused decentralized exchange built on the Sui blockchain.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/FlowX_finance"
   },
   "relations": {
-    "alternatives": [
-      "velodrome",
-      "veax",
-      "unidex"
-    ],
-    "related": [
-      "futureswap",
-      "inx-one",
-      "bracketx"
-    ]
+    "alternatives": ["velodrome", "veax", "unidex"],
+    "related": ["futureswap", "inx-one", "bracketx"]
   }
 }

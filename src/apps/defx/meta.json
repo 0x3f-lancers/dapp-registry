@@ -3,15 +3,8 @@
   "name": "Defx",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746414/web3-explorer/dapp-logos/defx.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Derivatives",
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Arbitrum",
-    "Base",
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Derivatives", "Decentralized Exchanges"],
+  "chains": ["Arbitrum", "Base", "Solana"],
   "pricing": "",
   "content": {
     "short": "Defx is an orderbook-based spot DEX, a perpetuals DEX, and an L1 platform.",
@@ -24,15 +17,7 @@
     "twitter": "https://x.com/DefxOfficial"
   },
   "relations": {
-    "alternatives": [
-      "cope",
-      "perpetual-protocol",
-      "horizon-protocol"
-    ],
-    "related": [
-      "bracketx",
-      "dhedge",
-      "panoptic"
-    ]
+    "alternatives": ["cope", "perpetual-protocol", "horizon-protocol"],
+    "related": ["bracketx", "dhedge", "panoptic"]
   }
 }

@@ -3,13 +3,8 @@
   "name": "Antfarm Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744901/web3-explorer/dapp-logos/antfarm-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Arbitrum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Arbitrum"],
   "pricing": "Free",
   "content": {
     "short": "Antfarm Finance is a DAO-powered DEX focused on liquidity providers, aiming to boost LP profits and reward stakeholders.",
@@ -22,12 +17,7 @@
     "twitter": "https://x.com/antfarmfinance"
   },
   "relations": {
-    "alternatives": [
-      "defx",
-      "paraswap"
-    ],
-    "related": [
-      "flitpay"
-    ]
+    "alternatives": ["defx", "paraswap"],
+    "related": ["flitpay"]
   }
 }

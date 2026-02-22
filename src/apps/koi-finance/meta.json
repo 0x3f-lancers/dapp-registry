@@ -3,12 +3,8 @@
   "name": "Koi Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747898/web3-explorer/dapp-logos/koi-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "ZKsync"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["ZKsync"],
   "pricing": "",
   "content": {
     "short": "Koi Finance is a fast DEX with yield farming and bond features, built on zkSync.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/koi_finance"
   },
   "relations": {
-    "alternatives": [
-      "0x",
-      "vaultka",
-      "zkswap-finance"
-    ],
-    "related": [
-      "perpetual-protocol",
-      "bydfi"
-    ]
+    "alternatives": ["0x", "vaultka", "zkswap-finance"],
+    "related": ["perpetual-protocol", "bydfi"]
   }
 }

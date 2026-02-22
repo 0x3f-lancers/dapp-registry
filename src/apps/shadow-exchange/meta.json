@@ -3,12 +3,8 @@
   "name": "Shadow Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749837/web3-explorer/dapp-logos/shadow-exchange.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Multichain"],
   "pricing": "",
   "content": {
     "short": "Shadow Exchange is a concentrated liquidity layer and exchange built on the Sonic network.",
@@ -21,13 +17,7 @@
     "twitter": "https://x.com/ShadowOnSonic"
   },
   "relations": {
-    "alternatives": [
-      "eisenlabs",
-      "flooz-trade"
-    ],
-    "related": [
-      "zeta-markets",
-      "simpleswap"
-    ]
+    "alternatives": ["eisenlabs", "flooz-trade"],
+    "related": ["zeta-markets", "simpleswap"]
   }
 }

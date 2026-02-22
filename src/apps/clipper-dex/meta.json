@@ -3,15 +3,8 @@
   "name": "Clipper",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745737/web3-explorer/dapp-logos/clipper-dex.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Polygon",
-    "OP Mainnet",
-    "Moonbeam"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Polygon", "OP Mainnet", "Moonbeam"],
   "pricing": "",
   "content": {
     "short": "Clipper is a decentralized exchange with the lowest per-transaction costs on trades under $50k.",
@@ -24,15 +17,7 @@
     "twitter": "https://x.com/Clipper_DEX"
   },
   "relations": {
-    "alternatives": [
-      "horizondex",
-      "nusa-finance",
-      "panoptic"
-    ],
-    "related": [
-      "bybit",
-      "rubydex",
-      "bracketx"
-    ]
+    "alternatives": ["horizondex", "nusa-finance", "panoptic"],
+    "related": ["bybit", "rubydex", "bracketx"]
   }
 }

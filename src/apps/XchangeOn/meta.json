@@ -3,13 +3,8 @@
   "name": "XchangeOn",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744708/web3-explorer/dapp-logos/XchangeOn.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Bitcoin"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Bitcoin"],
   "pricing": "Paid",
   "content": {
     "short": "XchangeOn is a cryptocurrency exchange platform offering Arbitrage, P2P, Spot, and Swap trading with an AI-powered cross-exchange arbitrage bot.",
@@ -22,15 +17,7 @@
     "twitter": "https://x.com/XChangeon"
   },
   "relations": {
-    "alternatives": [
-      "flooz-trade",
-      "minu-swap",
-      "shell-protocol"
-    ],
-    "related": [
-      "panoptic",
-      "pika-protocol",
-      "robinhood"
-    ]
+    "alternatives": ["flooz-trade", "minu-swap", "shell-protocol"],
+    "related": ["panoptic", "pika-protocol", "robinhood"]
   }
 }
