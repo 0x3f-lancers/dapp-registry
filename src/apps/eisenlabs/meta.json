@@ -3,15 +3,8 @@
   "name": "Eisen",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746659/web3-explorer/dapp-logos/eisenlabs.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)",
-    "DeFi Yield Aggregators"
-  ],
-  "chains": [
-    "Base",
-    "Linea",
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges", "DeFi Yield Aggregators"],
+  "chains": ["Base", "Linea", "Multichain"],
   "pricing": "",
   "content": {
     "short": "Eisen provides customizable Ethena.Fi for Ce-DeFi hybrid yield strategies.",
@@ -24,14 +17,7 @@
     "twitter": "https://x.com/EisenLabs"
   },
   "relations": {
-    "alternatives": [
-      "koi-finance",
-      "narfex",
-      "fcondex"
-    ],
-    "related": [
-      "cope",
-      "heroswap"
-    ]
+    "alternatives": ["koi-finance", "narfex", "fcondex"],
+    "related": ["cope", "heroswap"]
   }
 }

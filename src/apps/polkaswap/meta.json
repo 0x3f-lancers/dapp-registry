@@ -3,12 +3,8 @@
   "name": "Polkaswap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749225/web3-explorer/dapp-logos/polkaswap.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Multichain"],
   "pricing": "",
   "content": {
     "short": "Polkaswap is a non-custodial, cross-chain AMM DEX designed for Polkadot ecosystem and beyond.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/polkaswap"
   },
   "relations": {
-    "alternatives": [
-      "slingshot-finance",
-      "quickswap",
-      "wardenswap"
-    ],
-    "related": [
-      "swapspace",
-      "binance-us"
-    ]
+    "alternatives": ["slingshot-finance", "quickswap", "wardenswap"],
+    "related": ["swapspace", "binance-us"]
   }
 }

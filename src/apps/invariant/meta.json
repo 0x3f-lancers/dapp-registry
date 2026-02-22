@@ -3,13 +3,8 @@
   "name": "Invariant",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747761/web3-explorer/dapp-logos/invariant.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana",
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana", "Multichain"],
   "pricing": "",
   "content": {
     "short": "Invariant is a fully permissionless AMM with concentrated liquidity.",
@@ -22,15 +17,7 @@
     "twitter": "https://x.com/invariant_labs"
   },
   "relations": {
-    "alternatives": [
-      "shell-protocol",
-      "crema-finance",
-      "1delta"
-    ],
-    "related": [
-      "thetanuts-finance",
-      "cope",
-      "dual-finance"
-    ]
+    "alternatives": ["shell-protocol", "crema-finance", "1delta"],
+    "related": ["thetanuts-finance", "cope", "dual-finance"]
   }
 }

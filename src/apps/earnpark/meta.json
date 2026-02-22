@@ -7,14 +7,9 @@
     "Crypto Staking Companies",
     "DeFi Yield Aggregators",
     "Liquid Staking Platforms",
-    "Decentralized Exchanges (DEXs)"
+    "Decentralized Exchanges"
   ],
-  "chains": [
-    "Tron",
-    "Ethereum",
-    "BNB Chain",
-    "Solana"
-  ],
+  "chains": ["Tron", "Ethereum", "BNB Chain", "Solana"],
   "pricing": "Free",
   "content": {
     "short": "EarnPark provides maximum returns with automated CeFi/DeFi strategies and up to 30% APY with bank-level security.",
@@ -27,14 +22,7 @@
     "twitter": "https://x.com/_earnpark"
   },
   "relations": {
-    "alternatives": [
-      "laraprotocol",
-      "goat-protocol",
-      "stakewise"
-    ],
-    "related": [
-      "alpha-homora",
-      "truefi"
-    ]
+    "alternatives": ["laraprotocol", "goat-protocol", "stakewise"],
+    "related": ["alpha-homora", "truefi"]
   }
 }

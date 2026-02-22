@@ -3,12 +3,8 @@
   "name": "Carbon",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745560/web3-explorer/dapp-logos/carbon.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "Carbon provides an on-chain trading protocol for limit and range orders with auto-rotating, one-directional liquidity.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/carbondefixyz"
   },
   "relations": {
-    "alternatives": [
-      "bamboo-relay",
-      "mangrovedao",
-      "clipper-dex"
-    ],
-    "related": [
-      "bithumb",
-      "hakka-finance",
-      "cope"
-    ]
+    "alternatives": ["bamboo-relay", "mangrovedao", "clipper-dex"],
+    "related": ["bithumb", "hakka-finance", "cope"]
   }
 }

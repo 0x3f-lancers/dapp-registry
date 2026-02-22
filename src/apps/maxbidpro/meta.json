@@ -5,13 +5,10 @@
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps",
-    "Decentralized Exchanges (DEXs)",
+    "Decentralized Exchanges",
     "Liquid Staking Platforms"
   ],
-  "chains": [
-    "Solana",
-    "BNB Chain"
-  ],
+  "chains": ["Solana", "BNB Chain"],
   "pricing": "",
   "content": {
     "short": "Maxbid Pro is a fully on-chain leverage trading platform for meme coins.",
@@ -24,14 +21,7 @@
     "twitter": "https://x.com/maxbidpro"
   },
   "relations": {
-    "alternatives": [
-      "antfarm-finance",
-      "wardenswap",
-      "kyberswap"
-    ],
-    "related": [
-      "optix",
-      "drift"
-    ]
+    "alternatives": ["antfarm-finance", "wardenswap", "kyberswap"],
+    "related": ["optix", "drift"]
   }
 }

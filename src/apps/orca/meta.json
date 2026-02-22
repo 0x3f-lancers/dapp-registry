@@ -3,12 +3,8 @@
   "name": "Orca",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748963/web3-explorer/dapp-logos/orca.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "Free",
   "content": {
     "short": "Orca is a Solana-based DEX with SPL token trading and incentivized pools.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/orca_so"
   },
   "relations": {
-    "alternatives": [
-      "earnpark",
-      "enzyme",
-      "router-nitro"
-    ],
-    "related": [
-      "horizon-protocol",
-      "deri-protocol",
-      "thetanuts-finance"
-    ]
+    "alternatives": ["earnpark", "enzyme", "router-nitro"],
+    "related": ["horizon-protocol", "deri-protocol", "thetanuts-finance"]
   }
 }

@@ -4,14 +4,12 @@
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747598/web3-explorer/dapp-logos/horizondex.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges (DEXs)",
+    "Decentralized Exchanges",
     "Decentralized Lending Dapps",
     "DeFi Yield Aggregators",
     "DeFi Yield Farming Platforms"
   ],
-  "chains": [
-    "Multichain"
-  ],
+  "chains": ["Multichain"],
   "pricing": "",
   "content": {
     "short": "HorizonDEX is the first concentrated liquidity DEX on Linea.",
@@ -24,14 +22,7 @@
     "twitter": "https://x.com/horizondex_io"
   },
   "relations": {
-    "alternatives": [
-      "rubydex",
-      "trader-joe",
-      "orca"
-    ],
-    "related": [
-      "ribbon-finance",
-      "jones-dao"
-    ]
+    "alternatives": ["rubydex", "trader-joe", "orca"],
+    "related": ["ribbon-finance", "jones-dao"]
   }
 }

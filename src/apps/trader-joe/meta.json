@@ -3,14 +3,8 @@
   "name": "Trader Joe",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750778/web3-explorer/dapp-logos/trader-joe.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)",
-    "DeFi Yield Farming Platforms"
-  ],
-  "chains": [
-    "Arbitrum",
-    "Avalanche"
-  ],
+  "subcategory": ["Decentralized Exchanges", "DeFi Yield Farming Platforms"],
+  "chains": ["Arbitrum", "Avalanche"],
   "pricing": "Free",
   "content": {
     "short": "Trader Joe is a one-stop platform for decentralized trading and lending.",
@@ -23,13 +17,7 @@
     "twitter": "https://x.com/traderjoe_xyz"
   },
   "relations": {
-    "alternatives": [
-      "kriya",
-      "mangrovedao"
-    ],
-    "related": [
-      "panoptic",
-      "foxify"
-    ]
+    "alternatives": ["kriya", "mangrovedao"],
+    "related": ["panoptic", "foxify"]
   }
 }

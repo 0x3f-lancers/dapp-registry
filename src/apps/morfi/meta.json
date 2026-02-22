@@ -3,13 +3,8 @@
   "name": "MorFi",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748546/web3-explorer/dapp-logos/morfi.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)",
-    "DeFi Yield Farming Platforms"
-  ],
-  "chains": [
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges", "DeFi Yield Farming Platforms"],
+  "chains": ["Multichain"],
   "pricing": "",
   "content": {
     "short": "MorFi is the native DEX and Liquidity Hub on Morph L2.",
@@ -22,15 +17,7 @@
     "twitter": "https://x.com/MorFi_finance"
   },
   "relations": {
-    "alternatives": [
-      "uniswap",
-      "betdex",
-      "shapeshift"
-    ],
-    "related": [
-      "futureswap",
-      "ribbon-finance",
-      "bitget"
-    ]
+    "alternatives": ["uniswap", "betdex", "shapeshift"],
+    "related": ["futureswap", "ribbon-finance", "bitget"]
   }
 }

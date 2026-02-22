@@ -3,9 +3,7 @@
   "name": "LI.FI",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748047/web3-explorer/dapp-logos/lifi.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Arbitrum",
     "Avalanche",
@@ -35,15 +33,7 @@
     "twitter": "https://x.com/lifiprotocol"
   },
   "relations": {
-    "alternatives": [
-      "vvs-finance",
-      "fcondex",
-      "polkaswap"
-    ],
-    "related": [
-      "binance-us",
-      "ribbon-finance",
-      "opyn"
-    ]
+    "alternatives": ["vvs-finance", "fcondex", "polkaswap"],
+    "related": ["binance-us", "ribbon-finance", "opyn"]
   }
 }

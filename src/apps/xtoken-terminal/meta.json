@@ -5,15 +5,10 @@
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Farming Platforms",
-    "Decentralized Exchanges (DEXs)",
+    "Decentralized Exchanges",
     "DeFi Yield Aggregators"
   ],
-  "chains": [
-    "Arbitrum",
-    "Ethereum",
-    "OP Mainnet",
-    "Polygon"
-  ],
+  "chains": ["Arbitrum", "Ethereum", "OP Mainnet", "Polygon"],
   "pricing": "",
   "content": {
     "short": "xToken Terminal provides powerful, configurable smart contracts and a rich UX to give on-chain projects access to liquidity mining and token fundraising.",
@@ -26,14 +21,7 @@
     "twitter": "https://x.com/xtokenterminal"
   },
   "relations": {
-    "alternatives": [
-      "yieldfi",
-      "enso",
-      "lagoon"
-    ],
-    "related": [
-      "euler",
-      "katana"
-    ]
+    "alternatives": ["yieldfi", "enso", "lagoon"],
+    "related": ["euler", "katana"]
   }
 }

@@ -3,12 +3,8 @@
   "name": "Biswap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745246/web3-explorer/dapp-logos/biswap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "BNB Chain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["BNB Chain"],
   "pricing": "",
   "content": {
     "short": "Biswap is a low-fee DEX on the Binance Smart Chain with an AMM and liquidity pools.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/Biswap_DEX"
   },
   "relations": {
-    "alternatives": [
-      "kromatika-finance",
-      "yield-yak"
-    ],
-    "related": [
-      "siren",
-      "perpetual-protocol",
-      "gemini"
-    ]
+    "alternatives": ["kromatika-finance", "yield-yak"],
+    "related": ["siren", "perpetual-protocol", "gemini"]
   }
 }

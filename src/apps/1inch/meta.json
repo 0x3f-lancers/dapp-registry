@@ -3,9 +3,7 @@
   "name": "1inch",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744628/web3-explorer/dapp-logos/1inch.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Ethereum",
     "Arbitrum",
@@ -28,14 +26,7 @@
     "twitter": "https://x.com/1inch"
   },
   "relations": {
-    "alternatives": [
-      "uniswap",
-      "nusa-finance"
-    ],
-    "related": [
-      "egemoney",
-      "siren",
-      "coinmate"
-    ]
+    "alternatives": ["uniswap", "nusa-finance"],
+    "related": ["egemoney", "siren", "coinmate"]
   }
 }

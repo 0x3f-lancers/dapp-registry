@@ -3,13 +3,8 @@
   "name": "QuickSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749407/web3-explorer/dapp-logos/quickswap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Polygon",
-    "Polygon zkEVM"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Polygon", "Polygon zkEVM"],
   "pricing": "Free",
   "content": {
     "short": "QuickSwap is the largest DEX on the Polygon network, offering on-chain liquidity pools and DeFi features like lending, prediction markets, staking, and gamefi.",
@@ -22,14 +17,7 @@
     "twitter": "https://x.com/QuickswapDEX"
   },
   "relations": {
-    "alternatives": [
-      "vvs-finance",
-      "jumper-exchange",
-      "wombat-exchange"
-    ],
-    "related": [
-      "perpetual-protocol",
-      "swapspace"
-    ]
+    "alternatives": ["vvs-finance", "jumper-exchange", "wombat-exchange"],
+    "related": ["perpetual-protocol", "swapspace"]
   }
 }

@@ -3,14 +3,8 @@
   "name": "Flooz",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747002/web3-explorer/dapp-logos/flooz-trade.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "BNB Chain",
-    "Ethereum",
-    "Polygon"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["BNB Chain", "Ethereum", "Polygon"],
   "pricing": "Free",
   "content": {
     "short": "Flooz is a blockchain analytics platform that helps you invest with confidence.",
@@ -23,14 +17,7 @@
     "twitter": "https://x.com/flooz_xyz"
   },
   "relations": {
-    "alternatives": [
-      "loopring",
-      "bybarter",
-      "increment-finance"
-    ],
-    "related": [
-      "erasure",
-      "ezo"
-    ]
+    "alternatives": ["loopring", "bybarter", "increment-finance"],
+    "related": ["erasure", "ezo"]
   }
 }

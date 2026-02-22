@@ -3,9 +3,7 @@
   "name": "Swoop Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750533/web3-explorer/dapp-logos/swoop-exchange.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Ethereum",
     "OP Mainnet",
@@ -32,14 +30,7 @@
     "twitter": "https://x.com/Swoop_Exchange"
   },
   "relations": {
-    "alternatives": [
-      "veax",
-      "betdex"
-    ],
-    "related": [
-      "binance-us",
-      "marginly",
-      "bitget"
-    ]
+    "alternatives": ["veax", "betdex"],
+    "related": ["binance-us", "marginly", "bitget"]
   }
 }

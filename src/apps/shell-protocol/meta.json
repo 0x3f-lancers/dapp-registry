@@ -3,12 +3,8 @@
   "name": "Shell Protocol",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749849/web3-explorer/dapp-logos/shell-protocol.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Arbitrum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Arbitrum"],
   "pricing": "",
   "content": {
     "short": "Shell Protocol is a wrapping protocol and a DeFi development toolkit.",
@@ -21,12 +17,7 @@
     "twitter": "https://x.com/ShellProtocol"
   },
   "relations": {
-    "alternatives": [
-      "betdex",
-      "xtoken-terminal"
-    ],
-    "related": [
-      "jones-dao"
-    ]
+    "alternatives": ["betdex", "xtoken-terminal"],
+    "related": ["jones-dao"]
   }
 }

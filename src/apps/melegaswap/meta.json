@@ -3,12 +3,8 @@
   "name": "MelegaSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748272/web3-explorer/dapp-logos/melegaswap.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "BNB Chain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["BNB Chain"],
   "pricing": "Free",
   "content": {
     "short": "MelegaSwap is a decentralized exchange on BSC with the widest range of farms and pools.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/meleganza"
   },
   "relations": {
-    "alternatives": [
-      "maxbidpro",
-      "shapeshift",
-      "evo-exchange"
-    ],
-    "related": [
-      "simpleswap",
-      "bumper-finance",
-      "marginly"
-    ]
+    "alternatives": ["maxbidpro", "shapeshift", "evo-exchange"],
+    "related": ["simpleswap", "bumper-finance", "marginly"]
   }
 }

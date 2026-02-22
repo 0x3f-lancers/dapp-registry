@@ -3,9 +3,7 @@
   "name": "RhinoFi",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749597/web3-explorer/dapp-logos/rhinofi.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Ethereum",
     "BNB Chain",
@@ -35,12 +33,7 @@
     "twitter": "https://x.com/rhinofi"
   },
   "relations": {
-    "alternatives": [
-      "unidex",
-      "xtoken-terminal"
-    ],
-    "related": [
-      "binance"
-    ]
+    "alternatives": ["unidex", "xtoken-terminal"],
+    "related": ["binance"]
   }
 }

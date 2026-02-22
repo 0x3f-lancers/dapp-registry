@@ -3,13 +3,8 @@
   "name": "Enzyme",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746722/web3-explorer/dapp-logos/enzyme.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Polygon"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Polygon"],
   "pricing": "Free",
   "content": {
     "short": "Enzyme is a composable Web3 asset management protocol.",
@@ -22,14 +17,7 @@
     "twitter": "https://x.com/enzymefinance"
   },
   "relations": {
-    "alternatives": [
-      "atrix",
-      "seif-finance",
-      "propellerswap"
-    ],
-    "related": [
-      "coinmate",
-      "contango"
-    ]
+    "alternatives": ["atrix", "seif-finance", "propellerswap"],
+    "related": ["coinmate", "contango"]
   }
 }

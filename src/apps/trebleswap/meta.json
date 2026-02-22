@@ -4,13 +4,11 @@
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750820/web3-explorer/dapp-logos/trebleswap.png",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges (DEXs)",
+    "Decentralized Exchanges",
     "DeFi Yield Farming Platforms",
     "Crypto Staking Companies"
   ],
-  "chains": [
-    "Base"
-  ],
+  "chains": ["Base"],
   "pricing": "",
   "content": {
     "short": "Treble is a V4 DEX & DeFi Hub on Base, offering limit orders, cross-chain swaps, staking, farming.",
@@ -23,14 +21,7 @@
     "twitter": "https://x.com/TrebleSwap"
   },
   "relations": {
-    "alternatives": [
-      "vvs-finance",
-      "mangrovedao"
-    ],
-    "related": [
-      "gemini",
-      "opium",
-      "heroswap"
-    ]
+    "alternatives": ["vvs-finance", "mangrovedao"],
+    "related": ["gemini", "opium", "heroswap"]
   }
 }

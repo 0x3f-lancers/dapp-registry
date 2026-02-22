@@ -3,12 +3,8 @@
   "name": "0x",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/0x.svg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "0x is an open-source protocol and DEX infrastructure for wallet-to-wallet trading of ERC-20 and ERC-723 tokens.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/0xproject"
   },
   "relations": {
-    "alternatives": [
-      "position-exchange",
-      "ave-ai"
-    ],
-    "related": [
-      "binance",
-      "gemini",
-      "simpleswap"
-    ]
+    "alternatives": ["position-exchange", "ave-ai"],
+    "related": ["binance", "gemini", "simpleswap"]
   }
 }

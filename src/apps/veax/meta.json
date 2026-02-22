@@ -3,9 +3,7 @@
   "name": "Veax",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751005/web3-explorer/dapp-logos/veax.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [],
   "pricing": "Free",
   "content": {
@@ -19,12 +17,7 @@
     "twitter": "https://x.com/veaxlabs"
   },
   "relations": {
-    "alternatives": [
-      "seif-finance",
-      "fibrous-finance"
-    ],
-    "related": [
-      "simpleswap"
-    ]
+    "alternatives": ["seif-finance", "fibrous-finance"],
+    "related": ["simpleswap"]
   }
 }

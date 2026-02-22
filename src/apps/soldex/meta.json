@@ -3,12 +3,8 @@
   "name": "Soldex",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750030/web3-explorer/dapp-logos/soldex.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "Freemium",
   "content": {
     "short": "Soldex is a Solana-native decentralized exchange.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/soldexai"
   },
   "relations": {
-    "alternatives": [
-      "rubicon",
-      "ambisafe",
-      "invariant"
-    ],
-    "related": [
-      "flitpay",
-      "hegic",
-      "coinmate"
-    ]
+    "alternatives": ["rubicon", "ambisafe", "invariant"],
+    "related": ["flitpay", "hegic", "coinmate"]
   }
 }

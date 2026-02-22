@@ -3,14 +3,8 @@
   "name": "Bebop",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745192/web3-explorer/dapp-logos/bebop.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "Polygon"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Arbitrum", "Polygon"],
   "pricing": "Free",
   "content": {
     "short": "Bebop is a decentralized trading platform enabling multi-token DeFi trades in a single transaction with no slippage.",
@@ -23,15 +17,7 @@
     "twitter": "https://x.com/bebop_dex"
   },
   "relations": {
-    "alternatives": [
-      "shapeshift",
-      "loopring",
-      "ave-ai"
-    ],
-    "related": [
-      "bitget",
-      "polynomial-protocol",
-      "dopex"
-    ]
+    "alternatives": ["shapeshift", "loopring", "ave-ai"],
+    "related": ["bitget", "polynomial-protocol", "dopex"]
   }
 }

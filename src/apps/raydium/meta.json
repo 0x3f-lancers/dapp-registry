@@ -3,12 +3,8 @@
   "name": "Raydium",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749502/web3-explorer/dapp-logos/raydium.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "",
   "content": {
     "short": "Raydium is a Solana-based AMM exchange with shared liquidity and a central order book for fast trading.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/RaydiumProtocol"
   },
   "relations": {
-    "alternatives": [
-      "yield-yak",
-      "defx",
-      "dzap"
-    ],
-    "related": [
-      "swissborg",
-      "thetanuts-finance"
-    ]
+    "alternatives": ["yield-yak", "defx", "dzap"],
+    "related": ["swissborg", "thetanuts-finance"]
   }
 }

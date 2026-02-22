@@ -3,9 +3,7 @@
   "name": "UniversalX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750949/web3-explorer/dapp-logos/universalx.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Avalanche",
     "Base",
@@ -27,14 +25,7 @@
     "twitter": "https://x.com/UseUniversalX"
   },
   "relations": {
-    "alternatives": [
-      "carbon",
-      "heroswap",
-      "rubydex"
-    ],
-    "related": [
-      "foxify",
-      "rubydex"
-    ]
+    "alternatives": ["carbon", "heroswap", "rubydex"],
+    "related": ["foxify", "rubydex"]
   }
 }

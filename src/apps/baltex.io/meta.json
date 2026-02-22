@@ -3,16 +3,8 @@
   "name": "Baltex",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745159/web3-explorer/dapp-logos/baltex.io.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Bitcoin",
-    "Base",
-    "BNB Chain",
-    "Solana",
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Bitcoin", "Base", "BNB Chain", "Solana", "Ethereum"],
   "pricing": "",
   "content": {
     "short": "Baltex is a cross-chain DEX aggregator unifying DEXs and bridges into a single swap terminal.",
@@ -25,14 +17,7 @@
     "twitter": "https://x.com/baltexio"
   },
   "relations": {
-    "alternatives": [
-      "narfex",
-      "wombat-exchange"
-    ],
-    "related": [
-      "heroswap",
-      "robinhood",
-      "contango"
-    ]
+    "alternatives": ["narfex", "wombat-exchange"],
+    "related": ["heroswap", "robinhood", "contango"]
   }
 }

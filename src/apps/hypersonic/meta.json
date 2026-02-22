@@ -3,12 +3,8 @@
   "name": "Hypersonic",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747658/web3-explorer/dapp-logos/hypersonic.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Multichain"],
   "pricing": "",
   "content": {
     "short": "Hypersonic optimizes DEX trades on EVM chains with smart routing and real-time market data.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/hypersonic_ex"
   },
   "relations": {
-    "alternatives": [
-      "horizondex",
-      "alium-finance",
-      "rhinofi"
-    ],
-    "related": [
-      "defx",
-      "stealthex",
-      "ezo"
-    ]
+    "alternatives": ["horizondex", "alium-finance", "rhinofi"],
+    "related": ["defx", "stealthex", "ezo"]
   }
 }

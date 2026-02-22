@@ -3,14 +3,8 @@
   "name": "Alium Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744815/web3-explorer/dapp-logos/alium-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "BNB Chain",
-    "Polygon",
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["BNB Chain", "Polygon", "Ethereum"],
   "pricing": "Paid",
   "content": {
     "short": "Alium Finance is a multi-chain DEX supporting 10 blockchains, hybrid liquidity, and a mobile app.",
@@ -23,15 +17,7 @@
     "twitter": "https://x.com/AliumSwap"
   },
   "relations": {
-    "alternatives": [
-      "increment-finance",
-      "fcondex",
-      "quickswap"
-    ],
-    "related": [
-      "easybit",
-      "whitebit",
-      "ribbon-finance"
-    ]
+    "alternatives": ["increment-finance", "fcondex", "quickswap"],
+    "related": ["easybit", "whitebit", "ribbon-finance"]
   }
 }

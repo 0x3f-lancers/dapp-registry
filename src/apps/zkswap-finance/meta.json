@@ -3,12 +3,8 @@
   "name": "zkSwap Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751431/web3-explorer/dapp-logos/zkswap-finance.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "ZKsync"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["ZKsync"],
   "pricing": "Free",
   "content": {
     "short": "zkSwap Finance is the first Swap-to-Earn DeFi platform on the zkSync Era ecosystem.",
@@ -21,13 +17,7 @@
     "twitter": "https://x.com/zkSwap_finance"
   },
   "relations": {
-    "alternatives": [
-      "crema-finance",
-      "router-nitro"
-    ],
-    "related": [
-      "bydfi",
-      "marginly"
-    ]
+    "alternatives": ["crema-finance", "router-nitro"],
+    "related": ["bydfi", "marginly"]
   }
 }

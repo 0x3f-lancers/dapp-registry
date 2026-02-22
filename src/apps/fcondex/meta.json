@@ -3,9 +3,7 @@
   "name": "FCON DEX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746922/web3-explorer/dapp-logos/fcondex.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [],
   "pricing": "",
   "content": {
@@ -19,13 +17,7 @@
     "twitter": "https://x.com/fcon_dex"
   },
   "relations": {
-    "alternatives": [
-      "bybarter",
-      "narfex"
-    ],
-    "related": [
-      "kraken",
-      "zeta-markets"
-    ]
+    "alternatives": ["bybarter", "narfex"],
+    "related": ["kraken", "zeta-markets"]
   }
 }

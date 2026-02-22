@@ -3,12 +3,8 @@
   "name": "DZap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746611/web3-explorer/dapp-logos/dzap.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Multichain"],
   "pricing": "Free",
   "content": {
     "short": "DZap leverages aggregation and zapping to power omnichain liquidity and a unified portfolio manager.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/dzap_io"
   },
   "relations": {
-    "alternatives": [
-      "1inch",
-      "0x",
-      "kamino-finance"
-    ],
-    "related": [
-      "bracketx",
-      "optix",
-      "thetanuts-finance"
-    ]
+    "alternatives": ["1inch", "0x", "kamino-finance"],
+    "related": ["bracketx", "optix", "thetanuts-finance"]
   }
 }

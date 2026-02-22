@@ -3,13 +3,8 @@
   "name": "SynFutures",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750563/web3-explorer/dapp-logos/synfutures.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Derivatives",
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Base"
-  ],
+  "subcategory": ["Decentralized Derivatives", "Decentralized Exchanges"],
+  "chains": ["Base"],
   "pricing": "",
   "content": {
     "short": "SynFutures is a decentralized exchange with on-chain derivatives trading and leverage.",
@@ -22,14 +17,7 @@
     "twitter": "https://x.com/SynFuturesDefi"
   },
   "relations": {
-    "alternatives": [
-      "paraswap",
-      "stellaswap",
-      "velodrome"
-    ],
-    "related": [
-      "toobit",
-      "panoptic"
-    ]
+    "alternatives": ["paraswap", "stellaswap", "velodrome"],
+    "related": ["toobit", "panoptic"]
   }
 }

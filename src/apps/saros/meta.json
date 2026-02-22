@@ -3,12 +3,8 @@
   "name": "Saros",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749750/web3-explorer/dapp-logos/saros.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "Free",
   "content": {
     "short": "Saros is a multi-purpose DeFi protocol on Solana.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/Saros_Finance"
   },
   "relations": {
-    "alternatives": [
-      "altfins",
-      "morfi",
-      "kriya"
-    ],
-    "related": [
-      "ezo",
-      "hegic",
-      "rubydex"
-    ]
+    "alternatives": ["altfins", "morfi", "kriya"],
+    "related": ["ezo", "hegic", "rubydex"]
   }
 }

@@ -3,12 +3,8 @@
   "name": "Mangrove",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748189/web3-explorer/dapp-logos/mangrovedao.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Polygon"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Polygon"],
   "pricing": "",
   "content": {
     "short": "Mangrove is an on-chain order-book DEX enabling liquidity providers to post arbitrary smart contracts as offers.",
@@ -21,13 +17,7 @@
     "twitter": "https://x.com/mangrovedao"
   },
   "relations": {
-    "alternatives": [
-      "1delta",
-      "bamboo-relay"
-    ],
-    "related": [
-      "odos",
-      "vaultka"
-    ]
+    "alternatives": ["1delta", "bamboo-relay"],
+    "related": ["odos", "vaultka"]
   }
 }

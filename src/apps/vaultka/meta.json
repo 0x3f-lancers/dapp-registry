@@ -3,13 +3,8 @@
   "name": "Vaultka",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750995/web3-explorer/dapp-logos/vaultka.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Options",
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Arbitrum"
-  ],
+  "subcategory": ["Decentralized Options", "Decentralized Exchanges"],
+  "chains": ["Arbitrum"],
   "pricing": "Paid",
   "content": {
     "short": "Vaultka is the catalyst of perpetual exchanges, providing 1-click strategies for your LP tokens.",
@@ -22,12 +17,7 @@
     "twitter": "https://x.com/vaultkaofficial"
   },
   "relations": {
-    "alternatives": [
-      "jupiter",
-      "foxify"
-    ],
-    "related": [
-      "parcl"
-    ]
+    "alternatives": ["jupiter", "foxify"],
+    "related": ["parcl"]
   }
 }

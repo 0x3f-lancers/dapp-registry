@@ -3,14 +3,8 @@
   "name": "AVNU",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745124/web3-explorer/dapp-logos/avnu.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Starknet",
-    "Ethereum",
-    "ZKsync"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Starknet", "Ethereum", "ZKsync"],
   "pricing": "",
   "content": {
     "short": "AVNU is a liquidity infrastructure providing the best on-chain execution for traders and dapps.",
@@ -23,14 +17,7 @@
     "twitter": "https://x.com/avnu_fi"
   },
   "relations": {
-    "alternatives": [
-      "carbon",
-      "crema-finance",
-      "morfi"
-    ],
-    "related": [
-      "zeta-markets",
-      "robinhood"
-    ]
+    "alternatives": ["carbon", "crema-finance", "morfi"],
+    "related": ["zeta-markets", "robinhood"]
   }
 }

@@ -4,14 +4,11 @@
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749834/web3-explorer/dapp-logos/shade-protocol.png",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges (DEXs)",
+    "Decentralized Exchanges",
     "Decentralized Derivatives",
     "Decentralized Lending Dapps"
   ],
-  "chains": [
-    "Cosmos",
-    "Multichain"
-  ],
+  "chains": ["Cosmos", "Multichain"],
   "pricing": "",
   "content": {
     "short": "Shade Protocol is a privacy-preserving DeFi hub on Secret Network that unites multiple DeFi products in a single Dapp.",
@@ -24,14 +21,7 @@
     "twitter": "https://x.com/shade_protocol"
   },
   "relations": {
-    "alternatives": [
-      "soldex",
-      "ix-swap",
-      "swoop-exchange"
-    ],
-    "related": [
-      "thetanuts-finance",
-      "ezo"
-    ]
+    "alternatives": ["soldex", "ix-swap", "swoop-exchange"],
+    "related": ["thetanuts-finance", "ezo"]
   }
 }

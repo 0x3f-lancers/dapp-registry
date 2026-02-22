@@ -6,12 +6,10 @@
   "subcategory": [
     "DeFi Yield Aggregators",
     "DeFi Yield Farming Platforms",
-    "Decentralized Exchanges (DEXs)",
+    "Decentralized Exchanges",
     "Liquid Staking Platforms"
   ],
-  "chains": [
-    "Avalanche"
-  ],
+  "chains": ["Avalanche"],
   "pricing": "",
   "content": {
     "short": "Yield Yak provides auto-compounding yield farms, a DEX aggregator, and liquid staking tools.",
@@ -24,15 +22,7 @@
     "twitter": "https://x.com/yieldyak_"
   },
   "relations": {
-    "alternatives": [
-      "kriya",
-      "morfi",
-      "earn-network"
-    ],
-    "related": [
-      "spark",
-      "morpho",
-      "yield-protocol"
-    ]
+    "alternatives": ["kriya", "morfi", "earn-network"],
+    "related": ["spark", "morpho", "yield-protocol"]
   }
 }

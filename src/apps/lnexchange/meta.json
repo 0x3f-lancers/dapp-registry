@@ -3,12 +3,8 @@
   "name": "LN Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748101/web3-explorer/dapp-logos/lnexchange.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Bitcoin"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Bitcoin"],
   "pricing": "",
   "content": {
     "short": "LN Exchange is the first spot and perpetual orderbook DEX on Bitcoin and the Lightning Network.",
@@ -21,13 +17,7 @@
     "twitter": "https://x.com/lnexchange"
   },
   "relations": {
-    "alternatives": [
-      "atrix",
-      "mass"
-    ],
-    "related": [
-      "horizon-protocol",
-      "foxify"
-    ]
+    "alternatives": ["atrix", "mass"],
+    "related": ["horizon-protocol", "foxify"]
   }
 }

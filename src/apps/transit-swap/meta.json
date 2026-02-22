@@ -3,14 +3,8 @@
   "name": "Transit Swap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750806/web3-explorer/dapp-logos/transit-swap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Polygon",
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Polygon", "Multichain"],
   "pricing": "",
   "content": {
     "short": "Transit Swap is a cross-chain swap and DEX platform.",
@@ -23,13 +17,7 @@
     "twitter": "https://x.com/TransitFinance"
   },
   "relations": {
-    "alternatives": [
-      "degate",
-      "balancer"
-    ],
-    "related": [
-      "stealthex",
-      "thetanuts-finance"
-    ]
+    "alternatives": ["degate", "balancer"],
+    "related": ["stealthex", "thetanuts-finance"]
   }
 }

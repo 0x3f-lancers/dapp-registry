@@ -3,12 +3,8 @@
   "name": "Dolomite",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746538/web3-explorer/dapp-logos/dolomite.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Arbitrum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Arbitrum"],
   "pricing": "",
   "content": {
     "short": "Dolomite is an Arbitrum-based margin trading protocol.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/Dolomite_io"
   },
   "relations": {
-    "alternatives": [
-      "01",
-      "maxbidpro",
-      "curve-finance"
-    ],
-    "related": [
-      "egemoney",
-      "bydfi"
-    ]
+    "alternatives": ["01", "maxbidpro", "curve-finance"],
+    "related": ["egemoney", "bydfi"]
   }
 }

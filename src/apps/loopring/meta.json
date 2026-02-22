@@ -3,12 +3,8 @@
   "name": "Loopring",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748127/web3-explorer/dapp-logos/loopring.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "Free",
   "content": {
     "short": "Loopring is a zkRollup-powered Layer-2 enabling non-custodial exchange and payment protocols.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/loopringorg"
   },
   "relations": {
-    "alternatives": [
-      "rubicon",
-      "wardenswap"
-    ],
-    "related": [
-      "deri-protocol",
-      "swissborg",
-      "contango"
-    ]
+    "alternatives": ["rubicon", "wardenswap"],
+    "related": ["deri-protocol", "swissborg", "contango"]
   }
 }

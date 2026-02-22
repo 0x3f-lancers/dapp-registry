@@ -3,12 +3,8 @@
   "name": "CowSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745909/web3-explorer/dapp-logos/cowswap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "CowSwap is a DeFi app on Ethereum that settles buy and sell orders by matching users' wants.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/CoWSwap"
   },
   "relations": {
-    "alternatives": [
-      "heroswap",
-      "bitcoincom",
-      "bamboo-relay"
-    ],
-    "related": [
-      "crypto-dot-com",
-      "contango",
-      "odos"
-    ]
+    "alternatives": ["heroswap", "bitcoincom", "bamboo-relay"],
+    "related": ["crypto-dot-com", "contango", "odos"]
   }
 }

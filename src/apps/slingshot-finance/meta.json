@@ -3,15 +3,8 @@
   "name": "Slingshot",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749925/web3-explorer/dapp-logos/slingshot-finance.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Arbitrum",
-    "Polygon",
-    "BNB Chain",
-    "OP Mainnet"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Arbitrum", "Polygon", "BNB Chain", "OP Mainnet"],
   "pricing": "Free",
   "content": {
     "short": "Slingshot is an Ethereum-based DeFi swapping protocol with 0% swap fees.",
@@ -24,14 +17,7 @@
     "twitter": "https://x.com/SlingshotCrypto"
   },
   "relations": {
-    "alternatives": [
-      "synfutures",
-      "avnu"
-    ],
-    "related": [
-      "opium",
-      "vaultka",
-      "bydfi"
-    ]
+    "alternatives": ["synfutures", "avnu"],
+    "related": ["opium", "vaultka", "bydfi"]
   }
 }

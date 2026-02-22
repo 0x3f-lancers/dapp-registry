@@ -3,9 +3,7 @@
   "name": "Ave AI",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745122/web3-explorer/dapp-logos/ave-ai.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Solana",
     "Base",
@@ -27,12 +25,7 @@
     "twitter": "https://x.com/aveaiofficial"
   },
   "relations": {
-    "alternatives": [
-      "balancer"
-    ],
-    "related": [
-      "marginly",
-      "bracketx"
-    ]
+    "alternatives": ["balancer"],
+    "related": ["marginly", "bracketx"]
   }
 }

@@ -3,12 +3,8 @@
   "name": "Bancor",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745164/web3-explorer/dapp-logos/bancor.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "Bancor is a decentralized market maker and staking protocol enabling yields from liquidity.",
@@ -21,13 +17,7 @@
     "twitter": "https://x.com/Bancor"
   },
   "relations": {
-    "alternatives": [
-      "tokenlon",
-      "saros",
-      "rhinofi"
-    ],
-    "related": [
-      "whitebit"
-    ]
+    "alternatives": ["tokenlon", "saros", "rhinofi"],
+    "related": ["whitebit"]
   }
 }

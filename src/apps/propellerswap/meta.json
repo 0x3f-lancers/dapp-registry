@@ -3,14 +3,8 @@
   "name": "PropellerSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749331/web3-explorer/dapp-logos/propellerswap.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum",
-    "Starknet",
-    "ZKsync"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Starknet", "ZKsync"],
   "pricing": "Free",
   "content": {
     "short": "PropellerSwap builds solvers to help users and dApps execute trades at the best price.",
@@ -23,14 +17,7 @@
     "twitter": "https://x.com/PropellerSwap"
   },
   "relations": {
-    "alternatives": [
-      "router-nitro",
-      "wigoswap",
-      "orca"
-    ],
-    "related": [
-      "hegic",
-      "siren"
-    ]
+    "alternatives": ["router-nitro", "wigoswap", "orca"],
+    "related": ["hegic", "siren"]
   }
 }

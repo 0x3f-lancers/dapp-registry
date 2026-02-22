@@ -3,12 +3,8 @@
   "name": "DODO",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746535/web3-explorer/dapp-logos/dodo.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "DODO is a DEX enabling cross-chain trading of fungible and non-fungible tokens.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/BreederDodo"
   },
   "relations": {
-    "alternatives": [
-      "carbon",
-      "1delta"
-    ],
-    "related": [
-      "contango",
-      "binance",
-      "opyn"
-    ]
+    "alternatives": ["carbon", "1delta"],
+    "related": ["contango", "binance", "opyn"]
   }
 }

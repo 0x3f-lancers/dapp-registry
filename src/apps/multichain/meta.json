@@ -3,12 +3,8 @@
   "name": "Multichain",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748576/web3-explorer/dapp-logos/multichain.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "",
   "content": {
     "short": "Multichain, formerly Anyswap, enables cross-chain token swaps across 66 blockchains.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/MultichainOrg"
   },
   "relations": {
-    "alternatives": [
-      "xtoken-terminal",
-      "lifinity",
-      "clipper-dex"
-    ],
-    "related": [
-      "marginly",
-      "huobi",
-      "bitget"
-    ]
+    "alternatives": ["xtoken-terminal", "lifinity", "clipper-dex"],
+    "related": ["marginly", "huobi", "bitget"]
   }
 }

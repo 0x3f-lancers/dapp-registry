@@ -3,9 +3,7 @@
   "name": "Sonicxswap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750140/web3-explorer/dapp-logos/sonicxswap.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [],
   "pricing": "",
   "content": {
@@ -19,14 +17,7 @@
     "twitter": "https://x.com/SonicxDex"
   },
   "relations": {
-    "alternatives": [
-      "kromatika-finance",
-      "powerdex",
-      "jupiter"
-    ],
-    "related": [
-      "perpetual-protocol",
-      "ribbon-finance"
-    ]
+    "alternatives": ["kromatika-finance", "powerdex", "jupiter"],
+    "related": ["perpetual-protocol", "ribbon-finance"]
   }
 }

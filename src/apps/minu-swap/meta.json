@@ -3,12 +3,8 @@
   "name": "Minu Swap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748468/web3-explorer/dapp-logos/minu-swap.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "BNB Chain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["BNB Chain"],
   "pricing": "Free",
   "content": {
     "short": "Minu Swap is a decentralized exchange that allows users to swap BNB for MINU or MINU for BNB.",
@@ -21,15 +17,7 @@
     "twitter": "https://x.com/minu_coin"
   },
   "relations": {
-    "alternatives": [
-      "balancer",
-      "lnexchange",
-      "transit-swap"
-    ],
-    "related": [
-      "futureswap",
-      "huobi",
-      "toobit"
-    ]
+    "alternatives": ["balancer", "lnexchange", "transit-swap"],
+    "related": ["futureswap", "huobi", "toobit"]
   }
 }

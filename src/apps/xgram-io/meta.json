@@ -3,9 +3,7 @@
   "name": "Xgram.io",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751313/web3-explorer/dapp-logos/xgram-io.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
   "chains": [
     "Arbitrum",
     "Aptos",
@@ -31,15 +29,7 @@
     "twitter": "https://x.com/xgram_io"
   },
   "relations": {
-    "alternatives": [
-      "fcondex",
-      "zkswap-finance",
-      "dolomite"
-    ],
-    "related": [
-      "hegic",
-      "jasper-vault",
-      "bitget"
-    ]
+    "alternatives": ["fcondex", "zkswap-finance", "dolomite"],
+    "related": ["hegic", "jasper-vault", "bitget"]
   }
 }

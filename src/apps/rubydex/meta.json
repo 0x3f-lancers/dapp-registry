@@ -3,13 +3,8 @@
   "name": "RubyDex",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749685/web3-explorer/dapp-logos/rubydex.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)",
-    "Decentralized Derivatives"
-  ],
-  "chains": [
-    "Arbitrum"
-  ],
+  "subcategory": ["Decentralized Exchanges", "Decentralized Derivatives"],
+  "chains": ["Arbitrum"],
   "pricing": "Free",
   "content": {
     "short": "RubyDex is a Layer-2 derivatives DEX offering the trading experience of a CEX.",
@@ -23,9 +18,6 @@
   },
   "relations": {
     "alternatives": [],
-    "related": [
-      "alchemix",
-      "metronome-synth"
-    ]
+    "related": ["alchemix", "metronome-synth"]
   }
 }

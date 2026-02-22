@@ -3,12 +3,8 @@
   "name": "Balancer",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745149/web3-explorer/dapp-logos/balancer.svg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges (DEXs)"
-  ],
-  "chains": [
-    "Ethereum"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum"],
   "pricing": "Free",
   "content": {
     "short": "Balancer is a popular automated portfolio manager and DeFi trading platform on Ethereum.",
@@ -21,14 +17,7 @@
     "twitter": "https://x.com/Balancer"
   },
   "relations": {
-    "alternatives": [
-      "airswap",
-      "rubic"
-    ],
-    "related": [
-      "marginly",
-      "bumper-finance",
-      "hakka-finance"
-    ]
+    "alternatives": ["airswap", "rubic"],
+    "related": ["marginly", "bumper-finance", "hakka-finance"]
   }
 }
