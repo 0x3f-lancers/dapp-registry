@@ -1,0 +1,148 @@
+name: Issue to Draft PR
+
+on:
+  issues:
+    types:
+      - opened
+      - reopened
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: issue-to-pr-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  new_app_issue_to_pr:
+    # Only `new-app` submissions are automated. Taxonomy and chain registry requests stay manual.
+    if: contains(github.event.issue.labels.*.name, 'new-app')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 8
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate meta.json from issue
+        id: generate
+        continue-on-error: true
+        run: |
+          pnpm exec tsx scripts/create-new-app-from-issue.ts --event-path "$GITHUB_EVENT_PATH" >"$RUNNER_TEMP/generate.log" 2>&1
+
+      - name: Validate generated metadata
+        id: validate
+        if: steps.generate.outcome == 'success'
+        continue-on-error: true
+        run: |
+          pnpm run dev:validate >"$RUNNER_TEMP/validate.log" 2>&1
+
+      - name: Create draft pull request
+        id: cpr
+        if: steps.generate.outcome == 'success' && steps.validate.outcome == 'success'
+        continue-on-error: true
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automation/new-app-issue-${{ github.event.issue.number }}
+          base: main
+          commit-message: "chore(data): add new app from issue #${{ github.event.issue.number }}"
+          title: "chore(data): new app submission (#${{ github.event.issue.number }})"
+          body: |
+            ## Summary
+            - Generated from issue #${{ github.event.issue.number }}
+            - Source issue: https://github.com/${{ github.repository }}/issues/${{ github.event.issue.number }}
+            - Generated app slug: `${{ steps.generate.outputs.slug }}`
+
+            ## Notes
+            - This PR was created automatically from the `New App Submission` issue form.
+            - Validation passed before opening the PR.
+            - Review the generated metadata before merging.
+          draft: true
+          delete-branch: false
+
+      - name: Comment on success
+        if: steps.generate.outcome == 'success' && steps.validate.outcome == 'success' && steps.cpr.outcome == 'success' && steps.cpr.outputs.pull-request-url
+        uses: actions/github-script@v7
+        env:
+          PR_URL: ${{ steps.cpr.outputs.pull-request-url }}
+          PR_OPERATION: ${{ steps.cpr.outputs.pull-request-operation }}
+        with:
+          script: |
+            const prUrl = process.env.PR_URL;
+            const operation = process.env.PR_OPERATION || "updated";
+            const body = [
+              `Draft PR ${operation}: ${prUrl}`,
+              "",
+              "The issue submission was converted into a metadata change and passed validation.",
+            ].join("\n");
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+
+      - name: Comment on failure
+        if: steps.generate.outcome != 'success' || steps.validate.outcome == 'failure' || steps.cpr.outcome == 'failure'
+        uses: actions/github-script@v7
+        env:
+          GENERATE_OUTCOME: ${{ steps.generate.outcome }}
+          VALIDATE_OUTCOME: ${{ steps.validate.outcome }}
+          CPR_OUTCOME: ${{ steps.cpr.outcome }}
+          RUNNER_TEMP: ${{ runner.temp }}
+        with:
+          script: |
+            const fs = require("fs");
+            const path = require("path");
+
+            function readLog(name) {
+              const filePath = path.join(process.env.RUNNER_TEMP, name);
+              if (!fs.existsSync(filePath)) return "";
+              const content = fs.readFileSync(filePath, "utf8").trim();
+              return content.split("\n").slice(-80).join("\n");
+            }
+
+            let body = "Automatic PR generation failed.\n\n";
+
+            if (process.env.GENERATE_OUTCOME !== "success") {
+              body += "The issue body could not be converted into a valid `meta.json` draft.\n\n";
+              const log = readLog("generate.log");
+              if (log) {
+                body += "```text\n" + log + "\n```";
+              }
+            } else if (process.env.VALIDATE_OUTCOME === "failure") {
+              body += "The generated metadata did not pass repository validation.\n\n";
+              const log = readLog("validate.log");
+              if (log) {
+                body += "```text\n" + log + "\n```";
+              }
+            } else if (process.env.CPR_OUTCOME === "failure") {
+              body += "Validation passed, but the workflow could not open or update the draft PR.\n";
+            }
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+
+      - name: Fail job when automation fails
+        if: steps.generate.outcome != 'success' || steps.validate.outcome == 'failure' || steps.cpr.outcome == 'failure'
+        run: exit 1

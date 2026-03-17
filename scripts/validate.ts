@@ -55,6 +55,8 @@ export default async function validate(appsDir: string) {
     throw error;
   }
 
+  const slugSet = new Set(allSlugs);
+
   for (const slug of allSlugs) {
     const metaPath = path.join(appsDir, slug, "meta.json");
     try {
@@ -116,7 +118,7 @@ export default async function validate(appsDir: string) {
       // Validate relations
       const { alternatives, related } = meta.relations;
       for (const relation of [...alternatives, ...related]) {
-        if (!allSlugs.includes(relation)) {
+        if (!slugSet.has(relation)) {
           logger.error(
             { metaPath, relation },
             "Relation does not exist in src/apps/.",

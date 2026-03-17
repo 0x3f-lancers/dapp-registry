@@ -7,6 +7,7 @@ export const metaJsonSchema = z.object({
   category: z.string(),
   subcategory: z.array(z.string()),
   chains: z.array(z.string()),
+  tags: z.array(z.string()).default([]),
   pricing: z.string(),
   content: z.object({
     short: z.string().max(200),
