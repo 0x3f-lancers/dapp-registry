@@ -1,0 +1,92 @@
+name: Taxonomy Change Request
+description: Request a new category, subcategory, or taxonomy relationship in the Lancers Dapp Registry.
+title: "[Taxonomy]: "
+labels:
+  - taxonomy-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, check the registry browser:
+
+        https://dapp-registry.lancers.technology/docs/registry.html
+
+        Use this form only when the existing taxonomy does not fit. If an existing category and subcategory already work, use them instead of creating a new one.
+
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: Request type
+      description: What kind of taxonomy change are you asking for?
+      options:
+        - Add a new category
+        - Add a new subcategory
+        - Add a category-to-subcategory relationship
+        - Rename an existing category or subcategory
+        - Other taxonomy change
+    validations:
+      required: true
+
+  - type: input
+    id: proposed_category
+    attributes:
+      label: Proposed category
+      description: Exact category name you want added or changed.
+      placeholder: AI Agent Dapps
+    validations:
+      required: false
+
+  - type: input
+    id: proposed_subcategory
+    attributes:
+      label: Proposed subcategory
+      description: Exact subcategory name you want added or changed.
+      placeholder: Onchain AI Agents
+    validations:
+      required: false
+
+  - type: input
+    id: parent_category
+    attributes:
+      label: Parent category
+      description: If this is a subcategory request, which category should it belong to?
+      placeholder: DeFi Tools
+    validations:
+      required: false
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why is this needed?
+      description: Explain why the current taxonomy is not enough and why this new value should exist.
+      placeholder: The current registry does not have a subcategory that accurately describes...
+    validations:
+      required: true
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example apps
+      description: List a few apps or protocols that would use this category or subcategory.
+      placeholder: app-one, app-two, app-three
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives_considered
+    attributes:
+      label: Existing values considered
+      description: Which current categories or subcategories did you review, and why were they not a good fit?
+      placeholder: We reviewed DeFi Tools and Web3 Developer Tools, but neither covers...
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Submitter confirmation
+      options:
+        - label: I checked the current registry browser before requesting a taxonomy change.
+          required: true
+        - label: I believe this request cannot be handled cleanly with an existing category and subcategory.
+          required: true

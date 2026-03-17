@@ -1,0 +1,85 @@
+name: Chain Registry Request
+description: Request a new chain to be added to the canonical chain registry.
+title: "[Chain]: "
+labels:
+  - chain-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, check the current chain registry:
+
+        https://dapp-registry.lancers.technology/docs/registry.html
+
+        Use this form when a chain is genuinely missing from the canonical list.
+
+  - type: input
+    id: chain_name
+    attributes:
+      label: Chain name
+      description: Exact display name that should appear in the registry and frontend.
+      placeholder: Sei
+    validations:
+      required: true
+
+  - type: input
+    id: slug
+    attributes:
+      label: Suggested slug
+      description: URL-safe slug suggestion for the chain registry.
+      placeholder: sei
+    validations:
+      required: true
+
+  - type: input
+    id: logo_url
+    attributes:
+      label: Logo URL
+      description: Optional but preferred. Provide a public logo URL if you have one.
+      placeholder: https://example.com/sei.svg
+    validations:
+      required: false
+
+  - type: input
+    id: official_website
+    attributes:
+      label: Official website
+      placeholder: https://www.sei.io
+    validations:
+      required: true
+
+  - type: input
+    id: docs_url
+    attributes:
+      label: Docs URL
+      placeholder: https://docs.example.com
+    validations:
+      required: false
+
+  - type: textarea
+    id: why_needed
+    attributes:
+      label: Why is this chain needed?
+      description: Explain where this chain would be used in the registry and why it should be added.
+      placeholder: Several apps in the registry support this chain and currently have no valid canonical value.
+    validations:
+      required: true
+
+  - type: textarea
+    id: apps_using_chain
+    attributes:
+      label: Example apps using this chain
+      description: List a few apps or protocols that should reference this chain.
+      placeholder: app-one, app-two, app-three
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Submitter confirmation
+      options:
+        - label: I checked the current chain registry before submitting this request.
+          required: true
+        - label: This chain is not already present under another canonical name in the registry.
+          required: true

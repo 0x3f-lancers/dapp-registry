@@ -1,0 +1,233 @@
+name: New App Submission
+description: Submit a new Web3 app or protocol to be listed in the Lancers Dapp Registry.
+title: "[New App]: "
+labels:
+  - new-app
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use the published registry browser before filling this out:
+
+        https://dapp-registry.lancers.technology/docs/registry.html
+
+        Pick an existing category and exact chain names whenever they already fit. If you genuinely need a new category or chain, note that clearly in the final comments field.
+
+  - type: input
+    id: app_name
+    attributes:
+      label: App name
+      description: Public product or protocol name.
+      placeholder: Uniswap
+    validations:
+      required: true
+
+  - type: input
+    id: slug
+    attributes:
+      label: Slug
+      description: URL-safe slug you want used for the app folder and metadata.
+      placeholder: uniswap
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Choose the single best matching category from the registry.
+      options:
+        - Blockchains
+        - DAO Tools
+        - DAOs
+        - DeFi Dapps
+        - DeFi Tools
+        - Decentralized Games
+        - Identity Tools
+        - Infrastructure Tools
+        - NFT Dapps
+        - NFT Tools
+        - Open Source Projects
+        - RaaS Tools
+        - Real World Asset Dapps
+        - Solidity Tools
+        - Trading Tools
+        - Venture Capital Firms
+        - Web3 Developer Tools
+        - Web3 Gaming Tools
+        - Web3 Security Tools
+        - Web3 Service Providers
+        - Web3 Social Dapps
+        - Web3 Wallet Tools
+        - Web3 Wallets
+        - Zero Knowledge Tools
+    validations:
+      required: true
+
+  - type: input
+    id: subcategories
+    attributes:
+      label: Subcategories
+      description: Enter one or more exact subcategory names, comma-separated, using the registry browser.
+      placeholder: Decentralized Exchanges, DeFi Yield Aggregators
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: chains
+    attributes:
+      label: Chains
+      description: Select every supported chain using the exact registry values.
+      options:
+        - label: Aptos
+        - label: Arbitrum
+        - label: Avalanche
+        - label: BNB Chain
+        - label: Base
+        - label: Bitcoin
+        - label: Celo
+        - label: Cosmos
+        - label: Cronos
+        - label: Ethereum
+        - label: Fantom
+        - label: Harmony
+        - label: Immutable X
+        - label: Linea
+        - label: Moonbeam
+        - label: Multichain
+        - label: OP Mainnet
+        - label: Polkadot
+        - label: Polygon
+        - label: Polygon zkEVM
+        - label: Solana
+        - label: Starknet
+        - label: Sui
+        - label: Tron
+        - label: ZKsync
+        - label: ZetaChain
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Optional. Add search or discovery tags, comma-separated.
+      placeholder: dex, swaps, liquidity
+    validations:
+      required: false
+
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing
+      description: Choose the closest pricing model.
+      options:
+        - Free
+        - Freemium
+        - Paid
+        - Not sure
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website URL
+      placeholder: https://app.example.com
+    validations:
+      required: true
+
+  - type: input
+    id: github
+    attributes:
+      label: GitHub URL
+      description: Optional, but useful for open source projects and developer tools.
+      placeholder: https://github.com/example/project
+    validations:
+      required: false
+
+  - type: input
+    id: docs
+    attributes:
+      label: Docs URL
+      placeholder: https://docs.example.com
+    validations:
+      required: false
+
+  - type: input
+    id: twitter
+    attributes:
+      label: X / Twitter URL
+      placeholder: https://x.com/example
+    validations:
+      required: false
+
+  - type: input
+    id: telegram
+    attributes:
+      label: Telegram URL
+      placeholder: https://t.me/example
+    validations:
+      required: false
+
+  - type: input
+    id: discord
+    attributes:
+      label: Discord URL
+      placeholder: https://discord.gg/example
+    validations:
+      required: false
+
+  - type: textarea
+    id: short_description
+    attributes:
+      label: Short description
+      description: One-sentence summary. Aim for 200 characters or fewer.
+      placeholder: Uniswap is a decentralized exchange protocol for swapping tokens across EVM networks.
+    validations:
+      required: true
+
+  - type: textarea
+    id: full_description
+    attributes:
+      label: Full description
+      description: 2-5 sentences describing what the app does, who it serves, and what makes it relevant.
+      placeholder: Describe the product clearly and concretely.
+    validations:
+      required: true
+
+  - type: input
+    id: logo
+    attributes:
+      label: Logo URL
+      description: Public image URL, or describe where the logo can be found.
+      placeholder: https://example.com/logo.png
+    validations:
+      required: true
+
+  - type: textarea
+    id: related_apps
+    attributes:
+      label: Related or alternative apps
+      description: Optional. Provide known slugs if you know them, comma-separated.
+      placeholder: uniswap, 1inch, cow-swap
+    validations:
+      required: false
+
+  - type: textarea
+    id: maintainer_notes
+    attributes:
+      label: Maintainer notes
+      description: Mention anything unusual here, such as needing a brand-new category or chain value.
+      placeholder: We could not find a matching subcategory in the current registry.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Submitter confirmation
+      options:
+        - label: I checked the registry browser and used the closest existing category, subcategory, and chain values where possible.
+          required: true
+        - label: I confirm the submitted links and description are accurate to the best of my knowledge.
+          required: true

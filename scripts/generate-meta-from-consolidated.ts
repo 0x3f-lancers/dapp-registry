@@ -60,7 +60,8 @@ export async function generateMetaFilesFromConsolidated(
         logoUrl: dapp.logoUrl,
         category: dapp.category, // Directly map category
         subcategory: dapp.subcategories, // Directly map subcategories
-        chains: dapp.chains_from_pages! ?? "Ethereum",
+        chains: dapp.chains_from_pages ?? dapp.chains ?? ["Ethereum"],
+        tags: dapp.tags ?? [],
         pricing: dapp.pricing,
         content: {
           short: dapp.shortDescription,
