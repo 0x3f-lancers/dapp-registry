@@ -2,11 +2,38 @@ import { promises as fs } from "fs";
 import path from "path";
 import { z } from "zod";
 import { metaJsonSchema } from "../schema/metaJsonSchema";
+import { taxonomySchema } from "../schema/taxonomySchema";
+import { chainsSchema } from "../schema/chainsSchema";
 import logger from "../lib/logger";
+
+async function loadRegistries() {
+  const taxonomyPath = path.resolve(process.cwd(), "data", "taxonomy.json");
+  const chainsPath = path.resolve(process.cwd(), "data", "chains.json");
+
+  const [taxonomyContent, chainsContent] = await Promise.all([
+    fs.readFile(taxonomyPath, "utf-8"),
+    fs.readFile(chainsPath, "utf-8"),
+  ]);
+
+  const taxonomy = taxonomySchema.parse(JSON.parse(taxonomyContent));
+  const chains = chainsSchema.parse(JSON.parse(chainsContent));
+
+  return {
+    categories: new Set(taxonomy.categories),
+    subcategories: new Set(taxonomy.subcategories),
+    categoryToSubcategories: new Map(
+      Object.entries(taxonomy.category_to_subcategories).map(
+        ([category, subcategories]) => [category, new Set(subcategories)],
+      ),
+    ),
+    chainNames: new Set(chains.chains.map((chain) => chain.name)),
+  };
+}
 
 export default async function validate(appsDir: string) {
   let hasErrors = false;
   let allSlugs: string[] = [];
+  let registries: Awaited<ReturnType<typeof loadRegistries>>;
 
   try {
     allSlugs = await fs.readdir(appsDir);
@@ -14,6 +41,16 @@ export default async function validate(appsDir: string) {
     logger.error(
       { error },
       `Could not read ${appsDir}. Ensure the directory exists.`,
+    );
+    throw error;
+  }
+
+  try {
+    registries = await loadRegistries();
+  } catch (error) {
+    logger.error(
+      { error },
+      "Could not load taxonomy or chain registry data.",
     );
     throw error;
   }
@@ -34,6 +71,46 @@ export default async function validate(appsDir: string) {
           "Slug does not match folder name.",
         );
         hasErrors = true;
+      }
+
+      if (!registries.categories.has(meta.category)) {
+        logger.error(
+          { metaPath, category: meta.category },
+          "Category does not exist in taxonomy registry.",
+        );
+        hasErrors = true;
+      }
+
+      const allowedSubcategories = registries.categoryToSubcategories.get(
+        meta.category,
+      );
+      for (const subcategory of meta.subcategory) {
+        if (!registries.subcategories.has(subcategory)) {
+          logger.error(
+            { metaPath, category: meta.category, subcategory },
+            "Subcategory does not exist in taxonomy registry.",
+          );
+          hasErrors = true;
+          continue;
+        }
+
+        if (allowedSubcategories && !allowedSubcategories.has(subcategory)) {
+          logger.error(
+            { metaPath, category: meta.category, subcategory },
+            "Subcategory is not allowed for category.",
+          );
+          hasErrors = true;
+        }
+      }
+
+      for (const chain of meta.chains) {
+        if (!registries.chainNames.has(chain)) {
+          logger.error(
+            { metaPath, chain },
+            "Chain does not exist in chain registry.",
+          );
+          hasErrors = true;
+        }
       }
 
       // Validate relations
