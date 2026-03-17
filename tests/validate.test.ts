@@ -27,16 +27,17 @@ import logger from "../lib/logger";
 const mockedLogger = jest.mocked(logger);
 const mockedFsPromises = jest.mocked(require("fs").promises); // Cast fs.promises to a mocked type
 
-
 describe("Validation Script (scripts/validate.ts)", () => {
   const MOCKED_APPS_DIR = "C:\\data\\apps";
+  const TAXONOMY_PATH = path.resolve(process.cwd(), "data", "taxonomy.json");
+  const CHAINS_PATH = path.resolve(process.cwd(), "data", "chains.json");
 
   const VALID_META_DATA = {
     slug: "valid-dapp",
     name: "Valid DApp Name",
     logoUrl: "./logo.png", // Default to local for initial tests
-    category: "DeFi",
-    subcategory: ["Lending"],
+    category: "DeFi Dapps",
+    subcategory: ["Decentralized Lending Dapps"],
     chains: ["Ethereum"],
     tags: ["Dex"],
     pricing: "Free",
@@ -54,10 +55,51 @@ describe("Validation Script (scripts/validate.ts)", () => {
       related: [],
     },
   };
+  const VALID_TAXONOMY = {
+    categories: ["DeFi Dapps", "NFT Dapps"],
+    subcategories: [
+      "Decentralized Lending Dapps",
+      "NFT Marketplaces",
+    ],
+    category_to_subcategories: {
+      "DeFi Dapps": ["Decentralized Lending Dapps"],
+      "NFT Dapps": ["NFT Marketplaces"],
+    },
+    subcategory_to_categories: {
+      "decentralized-lending-dapps": ["defi-dapps"],
+      "nft-marketplaces": ["nft-dapps"],
+    },
+  };
+  const VALID_CHAINS = {
+    chains: [
+      {
+        name: "Ethereum",
+        slug: "ethereum",
+        logoUrl: "https://example.com/ethereum.svg",
+      },
+      {
+        name: "Polygon",
+        slug: "polygon",
+        logoUrl: "https://example.com/polygon.svg",
+      },
+    ],
+  };
 
   const MOCKED_PROCESS_EXIT = jest
     .spyOn(process, "exit")
     .mockImplementation((() => {}) as never);
+
+  function mockRegistryReads() {
+    mockReadFile.mockImplementation((filePath: string) => {
+      if (filePath === TAXONOMY_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_TAXONOMY));
+      }
+      if (filePath === CHAINS_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_CHAINS));
+      }
+      return Promise.resolve(JSON.stringify(VALID_META_DATA));
+    });
+  }
 
   beforeEach(() => {
     mockReaddir.mockClear();
@@ -75,7 +117,7 @@ describe("Validation Script (scripts/validate.ts)", () => {
 
   it("should pass validation for valid data", async () => {
     mockReaddir.mockResolvedValue(["valid-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(VALID_META_DATA));
+    mockRegistryReads();
 
     await validate(MOCKED_APPS_DIR);
 
@@ -92,7 +134,15 @@ describe("Validation Script (scripts/validate.ts)", () => {
   it("should fail validation for mismatched slug", async () => {
     const invalidMetaData = { ...VALID_META_DATA, slug: "wrong-slug" };
     mockReaddir.mockResolvedValue(["mismatched-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(invalidMetaData));
+    mockReadFile.mockImplementation((filePath: string) => {
+      if (filePath === TAXONOMY_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_TAXONOMY));
+      }
+      if (filePath === CHAINS_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_CHAINS));
+      }
+      return Promise.resolve(JSON.stringify(invalidMetaData));
+    });
 
     await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow(
       "Validation failed",
@@ -122,8 +172,14 @@ describe("Validation Script (scripts/validate.ts)", () => {
       relations: { alternatives: ["non-existent"], related: [] },
     };
     mockReaddir.mockResolvedValue(["related-dapp", "another-dapp"]);
-    mockReadFile.mockImplementation((filePath) => {
-      if ((filePath as string).includes("related-dapp")) {
+    mockReadFile.mockImplementation((filePath: string) => {
+      if (filePath === TAXONOMY_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_TAXONOMY));
+      }
+      if (filePath === CHAINS_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_CHAINS));
+      }
+      if (filePath.includes("related-dapp")) {
         return Promise.resolve(JSON.stringify(invalidMetaData));
       }
       return Promise.resolve(JSON.stringify(VALID_META_DATA));
@@ -152,7 +208,15 @@ describe("Validation Script (scripts/validate.ts)", () => {
   it("should fail validation for invalid JSON format", async () => {
     const invalidMetaData = { ...VALID_META_DATA, slug: "bad-json-dapp" };
     mockReaddir.mockResolvedValue(["bad-json-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(invalidMetaData).slice(0, -1)); // Intentionally malformed JSON
+    mockReadFile.mockImplementation((filePath: string) => {
+      if (filePath === TAXONOMY_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_TAXONOMY));
+      }
+      if (filePath === CHAINS_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_CHAINS));
+      }
+      return Promise.resolve(JSON.stringify(invalidMetaData).slice(0, -1));
+    }); // Intentionally malformed JSON
 
     await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow(expect.any(Error));
 
@@ -174,7 +238,15 @@ describe("Validation Script (scripts/validate.ts)", () => {
   it("should fail validation for Zod schema errors", async () => {
     const invalidMetaData = { ...VALID_META_DATA, slug: "zod-error-dapp", name: 123 };
     mockReaddir.mockResolvedValue(["zod-error-dapp"]);
-    mockReadFile.mockResolvedValue(JSON.stringify(invalidMetaData));
+    mockReadFile.mockImplementation((filePath: string) => {
+      if (filePath === TAXONOMY_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_TAXONOMY));
+      }
+      if (filePath === CHAINS_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_CHAINS));
+      }
+      return Promise.resolve(JSON.stringify(invalidMetaData));
+    });
 
     await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow(
       "Validation failed",
@@ -210,5 +282,87 @@ describe("Validation Script (scripts/validate.ts)", () => {
       ),
     );
     expect(MOCKED_PROCESS_EXIT).not.toHaveBeenCalled();
+  });
+
+  it("should fail validation for unknown category", async () => {
+    const invalidMetaData = {
+      ...VALID_META_DATA,
+      category: "DeFi Apps",
+    };
+    mockReaddir.mockResolvedValue(["valid-dapp"]);
+    mockReadFile.mockImplementation((filePath: string) => {
+      if (filePath === TAXONOMY_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_TAXONOMY));
+      }
+      if (filePath === CHAINS_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_CHAINS));
+      }
+      return Promise.resolve(JSON.stringify(invalidMetaData));
+    });
+
+    await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow("Validation failed");
+
+    expect(mockedLogger.error).toHaveBeenCalledWith(
+      expect.objectContaining({
+        metaPath: path.join(MOCKED_APPS_DIR, "valid-dapp", "meta.json"),
+        category: "DeFi Apps",
+      }),
+      "Category does not exist in taxonomy registry.",
+    );
+  });
+
+  it("should fail validation for subcategory outside category taxonomy", async () => {
+    const invalidMetaData = {
+      ...VALID_META_DATA,
+      subcategory: ["NFT Marketplaces"],
+    };
+    mockReaddir.mockResolvedValue(["valid-dapp"]);
+    mockReadFile.mockImplementation((filePath: string) => {
+      if (filePath === TAXONOMY_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_TAXONOMY));
+      }
+      if (filePath === CHAINS_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_CHAINS));
+      }
+      return Promise.resolve(JSON.stringify(invalidMetaData));
+    });
+
+    await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow("Validation failed");
+
+    expect(mockedLogger.error).toHaveBeenCalledWith(
+      expect.objectContaining({
+        metaPath: path.join(MOCKED_APPS_DIR, "valid-dapp", "meta.json"),
+        category: "DeFi Dapps",
+        subcategory: "NFT Marketplaces",
+      }),
+      "Subcategory is not allowed for category.",
+    );
+  });
+
+  it("should fail validation for unknown chain", async () => {
+    const invalidMetaData = {
+      ...VALID_META_DATA,
+      chains: ["Etherem"],
+    };
+    mockReaddir.mockResolvedValue(["valid-dapp"]);
+    mockReadFile.mockImplementation((filePath: string) => {
+      if (filePath === TAXONOMY_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_TAXONOMY));
+      }
+      if (filePath === CHAINS_PATH) {
+        return Promise.resolve(JSON.stringify(VALID_CHAINS));
+      }
+      return Promise.resolve(JSON.stringify(invalidMetaData));
+    });
+
+    await expect(validate(MOCKED_APPS_DIR)).rejects.toThrow("Validation failed");
+
+    expect(mockedLogger.error).toHaveBeenCalledWith(
+      expect.objectContaining({
+        metaPath: path.join(MOCKED_APPS_DIR, "valid-dapp", "meta.json"),
+        chain: "Etherem",
+      }),
+      "Chain does not exist in chain registry.",
+    );
   });
 });

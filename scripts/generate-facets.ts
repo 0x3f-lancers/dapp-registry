@@ -2,6 +2,7 @@ import { readFileSync, writeFileSync } from "fs";
 import { resolve } from "path";
 import { appsMinSchema } from "../schema/appsMinSchema";
 import { facetsIndexSchema } from "../schema/faucetIndexJson";
+import { chainsSchema } from "../schema/chainsSchema";
 import { z } from "zod";
 
 // Type definition for app entry (copied from distill.ts for now, ideally shared)
@@ -254,24 +255,27 @@ export async function generateFacets(
     }, {} as Record<string, string>),
   };
 
-  // Populate assets.networkLogos from chain_logos.json.
-  // Prefer the active output dir, then fall back to legacy data/.
-  const chainLogosCandidates = [
-    resolve(dataDir, "chain_logos.json"),
-    resolve(process.cwd(), "data", "chain_logos.json"),
+  // Populate assets.networkLogos from chains.json.
+  // Prefer the active output dir, then fall back to source data/.
+  const chainsCandidates = [
+    resolve(dataDir, "chains.json"),
+    resolve(process.cwd(), "data", "chains.json"),
   ];
   currentFacets.assets.networkLogos = {};
-  for (const chainLogosPath of chainLogosCandidates) {
+  for (const chainsPath of chainsCandidates) {
     try {
-      const chainLogosContent = readFileSync(chainLogosPath, "utf-8");
-      const parsedChainLogos = JSON.parse(chainLogosContent);
-      if (parsedChainLogos && parsedChainLogos.name_to_url) {
-        currentFacets.assets.networkLogos = parsedChainLogos.name_to_url;
-        break;
-      }
-      console.warn(
-        `Warning: ${chainLogosPath} does not contain a 'name_to_url' object.`,
+      const chainsContent = readFileSync(chainsPath, "utf-8");
+      const parsedChains = chainsSchema.parse(JSON.parse(chainsContent));
+      currentFacets.assets.networkLogos = parsedChains.chains.reduce(
+        (acc, chain) => {
+          if (chain.logoUrl) {
+            acc[chain.name] = chain.logoUrl;
+          }
+          return acc;
+        },
+        {} as Record<string, string>,
       );
+      break;
     } catch {
       // Try next candidate
     }
