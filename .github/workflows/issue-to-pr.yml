@@ -58,6 +58,7 @@ jobs:
         continue-on-error: true
         uses: peter-evans/create-pull-request@v7
         with:
+          token: ${{ secrets.BOT_PAT }}
           branch: automation/new-app-issue-${{ github.event.issue.number }}
           base: main
           commit-message: "chore(data): add new app from issue #${{ github.event.issue.number }}"
