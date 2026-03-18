@@ -64,12 +64,161 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: subcategories
     attributes:
       label: Subcategories
-      description: Enter one or more exact subcategory names, comma-separated, using the registry browser.
-      placeholder: Decentralized Exchanges, DeFi Yield Aggregators
+      description: GitHub issue forms cannot filter this list by category. Choose only subcategories allowed for your selected category; automation will validate the combination.
+      multiple: true
+      options:
+        - AAA Web3 Games
+        - ABI Tools
+        - Account Abstraction (ERC-4337) Bundlers
+        - Analytics Tools
+        - Assemblers
+        - Block Explorers
+        - Blockchain Auditing Companies
+        - Blockchain Interoperability Tools
+        - Blockchain Security Tools
+        - College Blockchain Clubs
+        - Consensus Clients
+        - Creator DAOs
+        - Crypto Exchanges
+        - Crypto Faucets
+        - Crypto News Websites
+        - Crypto Portfolio Dashboards
+        - Crypto Staking Companies
+        - Crypto Tax Tools
+        - Crypto Trading Tools
+        - Custody Solutions
+        - DAO Developer Tools
+        - DAO Project Management Tools
+        - DAO Reputation Tools
+        - Dapp Templates
+        - Data Availability Blockchains
+        - DeFi Yield Aggregators
+        - DeFi Yield Farming Platforms
+        - Debugging Tools
+        - Decentralized CDPs
+        - Decentralized Computing Tools
+        - Decentralized Derivatives
+        - Decentralized Exchanges
+        - Decentralized Gaming Tools
+        - Decentralized Identity Tools
+        - Decentralized Indexes
+        - Decentralized Insurance Dapps
+        - Decentralized Lending Dapps
+        - Decentralized Options
+        - Decentralized Oracles
+        - Decentralized Storage Tools
+        - Decentralized Synthetics
+        - Decentralized VPNs
+        - Decompilers
+        - Development Frameworks
+        - Dissassemblers
+        - ERC-4337 Paymasters
+        - EVM Tools
+        - Embedded Wallets
+        - Ethereum Signature Tools
+        - Execution Clients
+        - Fiat Onramps
+        - Fuzzing Tools
+        - Gaming DAOs
+        - Gaming NFT Marketplaces
+        - Gas Tools
+        - GitHub Open Source Projects
+        - Hardware Wallets
+        - Indexing Tools
+        - Key Management Providers
+        - Layer 1 Blockchains (L1s)
+        - Layer 2 Blockchains
+        - Liquid Staking Platforms
+        - MEV Analytics Tools
+        - MEV Tools
+        - MPC Wallets
+        - Metaverse Tools
+        - Modular Interoperability Tools
+        - Modular Plugins (ERC-6900)
+        - Multisig Wallets
+        - Music NFT Tools
+        - NFT APIs
+        - NFT Allowlist Tools
+        - NFT Analytics Tools
+        - NFT App Templates
+        - NFT Distribution Tools
+        - NFT Fractionalization Tools
+        - NFT Lending Dapps
+        - NFT Marketplaces
+        - NFT Minting Tools
+        - NFT Renting Dapps
+        - NFT Smart Contract Templates
+        - Name Service Tools
+        - Private Credit RWAs
+        - Proof-of-Personhood Tools
+        - Quest-to-Earn Tools
+        - RPC Node Providers
+        - React Tools
+        - Real Estate RWAs
+        - Regenerative Finance Dapps
+        - Relayers
+        - Rollup Frameworks
+        - Rollups-as-a-Service (RaaS)
+        - Shared Sequencers
+        - Sidechains
+        - Smart Contract Accounts
+        - Smart Contract Templates
+        - Smart Contract Tools
+        - Smart Contract Wallets
+        - Social Tokens
+        - Software Wallets
+        - Solidity Developer Tools
+        - Sports NFT Dapps
+        - Static Analysis Tools
+        - Subgraphs
+        - Symbolic Execution Tools
+        - Testnets
+        - Token Gating Tools
+        - Token Management Tools
+        - Token Price APIs
+        - Tokenized bonds RWAs
+        - Tokenized commodities RWAs
+        - Tokenized equities RWAs
+        - Transaction Tools
+        - Venture DAOs
+        - Wallet Connection Tools
+        - Wallet Developer Tools
+        - Wallet SDKs
+        - Wallet Security Tools
+        - Web3 Accelerators
+        - Web3 Achievements
+        - Web3 Authentication Tools
+        - Web3 Bridges
+        - Web3 Consulting Companies
+        - Web3 Creator Tools
+        - Web3 Credential Tools
+        - Web3 Credit Cards
+        - Web3 Credit Scoring Tools
+        - Web3 Data Tools
+        - Web3 Education Resources
+        - Web3 Email Tools
+        - Web3 Fundraising Tools
+        - Web3 Game Studios
+        - Web3 Games
+        - Web3 IDEs
+        - Web3 Languages
+        - Web3 Libraries
+        - Web3 Messaging Tools
+        - Web3 Payment Tools
+        - Web3 Prediction Markets
+        - Web3 SDKs
+        - Web3 Security Competitions
+        - Web3 Social Media Dapps
+        - Web3 Testing Tools
+        - Web3 VC Firms
+        - Webhooks
+        - ZK Developer Tools
+        - ZK Proof Generation Tools
+        - ZK Proving Systems
     validations:
       required: true
 
@@ -199,17 +348,35 @@ body:
     id: logo
     attributes:
       label: Logo URL
-      description: Public image URL, or describe where the logo can be found.
+      description: Optional if you upload a logo below. Public image URL is preferred when available.
       placeholder: https://example.com/logo.png
     validations:
-      required: true
+      required: false
+
+  - type: upload
+    id: logo_upload
+    attributes:
+      label: Logo upload
+      description: Optional if you already provided a Logo URL. Upload a PNG, JPG, SVG, or WebP file.
+    validations:
+      required: false
+      accept: ".png,.jpg,.jpeg,.svg,.webp"
+
+  - type: textarea
+    id: alternative_apps
+    attributes:
+      label: Alternative apps
+      description: Optional. Provide exact slugs, comma-separated or one per line.
+      placeholder: uniswap, 1inch, cow-swap
+    validations:
+      required: false
 
   - type: textarea
     id: related_apps
     attributes:
-      label: Related or alternative apps
-      description: Optional. Provide known slugs if you know them, comma-separated.
-      placeholder: uniswap, 1inch, cow-swap
+      label: Related apps
+      description: Optional. Provide exact slugs, comma-separated or one per line.
+      placeholder: aave, safe, walletconnect
     validations:
       required: false
 

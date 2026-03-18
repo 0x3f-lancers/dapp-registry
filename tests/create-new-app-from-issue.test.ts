@@ -30,7 +30,8 @@ sample-swap
 DeFi Dapps
 
 ### Subcategories
-Decentralized Exchanges, DeFi Yield Aggregators
+Decentralized Exchanges
+DeFi Yield Aggregators
 
 ### Chains
 - [x] Ethereum
@@ -70,8 +71,14 @@ Sample Swap is a decentralized exchange built for fast token swaps and yield rou
 ### Logo URL
 https://sampleswap.xyz/logo.png
 
-### Related or alternative apps
+### Logo upload
+_No response_
+
+### Alternative apps
 uniswap, missing-slug, 1inch
+
+### Related apps
+aave, missing-related
 
 ### Maintainer notes
 No additional notes.
@@ -93,6 +100,7 @@ No additional notes.
     const { meta, warnings } = buildNewAppMetaFromIssue(issueBody, [
       "uniswap",
       "1inch",
+      "aave",
     ], registries);
 
     expect(meta.slug).toBe("sample-swap");
@@ -112,13 +120,14 @@ No additional notes.
     expect(meta.links.telegram).toBe("https://t.me/sampleswap");
     expect(meta.links.discord).toBe("https://discord.gg/sampleswap");
     expect(meta.relations.alternatives).toEqual(["uniswap", "1inch"]);
-    expect(meta.relations.related).toEqual([]);
+    expect(meta.relations.related).toEqual(["aave"]);
     expect(meta.content.pageTitle).toBe(
       "Sample Swap - DeFi Dapps - Lancers Web3 Explorer",
     );
     expect(meta.content.meta.length).toBeLessThanOrEqual(200);
     expect(warnings).toEqual([
-      "Ignored related apps without matching slugs: missing-slug",
+      "Ignored alternatives without matching slugs: missing-slug",
+      "Ignored related apps without matching slugs: missing-related",
     ]);
   });
 
@@ -159,6 +168,22 @@ No additional notes.
 
     expect(() => buildNewAppMetaFromIssue(invalidBody, [], registries)).toThrow(
       'Chain "FakeChain" is not in the chain registry.',
+    );
+  });
+
+  it("uses the uploaded logo URL when the direct logo URL field is empty", () => {
+    const uploadedLogoBody = issueBody.replace(
+      "### Logo URL\nhttps://sampleswap.xyz/logo.png",
+      "### Logo URL\n_No response_",
+    ).replace(
+      "### Logo upload\n_No response_",
+      "### Logo upload\n![sample-swap-logo](https://github.com/user-attachments/assets/sample-swap-logo.png)",
+    );
+
+    const { meta } = buildNewAppMetaFromIssue(uploadedLogoBody, [], registries);
+
+    expect(meta.logoUrl).toBe(
+      "https://github.com/user-attachments/assets/sample-swap-logo.png",
     );
   });
 });
