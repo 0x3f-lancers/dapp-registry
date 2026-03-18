@@ -18,7 +18,7 @@ concurrency:
 jobs:
   new_app_issue_to_pr:
     # Only `new-app` submissions are automated. Taxonomy and chain registry requests stay manual.
-    if: contains(github.event.issue.labels.*.name, 'new-app')
+    if: startsWith(github.event.issue.title, '[New App]:') && contains(github.event.issue.body, '### App name')
     runs-on: ubuntu-latest
 
     steps:

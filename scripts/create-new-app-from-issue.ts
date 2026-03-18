@@ -90,6 +90,14 @@ function parseCommaSeparatedList(value: string): string[] {
     .filter(Boolean);
 }
 
+function parseMultiValueList(value: string): string[] {
+  return normalizeFieldValue(value)
+    .split("\n")
+    .flatMap((line) => line.split(","))
+    .map((item) => item.replace(/^-\s+(?:\[[x ]\]\s+)?/i, "").trim())
+    .filter(Boolean);
+}
+
 function loadRegistries(baseDir: string = process.cwd()): Registries {
   const taxonomyPath = path.join(baseDir, "data", "taxonomy.json");
   const chainsPath = path.join(baseDir, "data", "chains.json");
@@ -116,6 +124,21 @@ function parseCheckedValues(value: string): string[] {
     .map((line) => line.trim())
     .filter((line) => /^-\s+\[x\]\s+/i.test(line))
     .map((line) => line.replace(/^-\s+\[x\]\s+/i, "").trim());
+}
+
+function parseUploadedAssetUrl(value: string): string | undefined {
+  const normalized = normalizeFieldValue(value);
+  if (!normalized) {
+    return undefined;
+  }
+
+  const markdownLinkMatch = normalized.match(/\((https?:\/\/[^)\s]+)\)/);
+  if (markdownLinkMatch?.[1]) {
+    return markdownLinkMatch[1];
+  }
+
+  const rawUrlMatch = normalized.match(/https?:\/\/\S+/);
+  return rawUrlMatch?.[0];
 }
 
 function truncateText(value: string, limit: number): string {
@@ -169,11 +192,16 @@ export function buildNewAppMetaFromIssue(
     200,
   );
   const fullDescription = getRequiredField(sections, "Full description");
-  const logoUrl = getRequiredField(sections, "Logo URL");
+  const logoUrl =
+    getOptionalField(sections, "Logo URL") ??
+    parseUploadedAssetUrl(sections["Logo upload"] ?? "");
+  if (!logoUrl) {
+    throw new Error('Issue form must include either "Logo URL" or "Logo upload".');
+  }
   const website = getRequiredField(sections, "Website URL");
   const pricingInput = getRequiredField(sections, "Pricing");
   const pricing = pricingInput === "Not sure" ? "" : pricingInput;
-  const subcategory = parseCommaSeparatedList(
+  const subcategory = parseMultiValueList(
     getRequiredField(sections, "Subcategories"),
   );
   const chains = parseCheckedValues(sections["Chains"] ?? "");
@@ -209,14 +237,27 @@ export function buildNewAppMetaFromIssue(
     }
   }
 
-  const relatedAppCandidates = parseCommaSeparatedList(
-    sections["Related or alternative apps"] ?? "",
+  const alternativeCandidates = parseMultiValueList(
+    sections["Alternative apps"] ?? "",
   );
+  const relatedCandidates = parseMultiValueList(sections["Related apps"] ?? "");
   const existingSlugSet = new Set(existingSlugs);
-  const alternatives = relatedAppCandidates.filter((candidate) =>
+  const alternatives = alternativeCandidates.filter((candidate) =>
     existingSlugSet.has(candidate),
   );
-  const unknownRelatedApps = relatedAppCandidates.filter(
+  const unknownAlternatives = alternativeCandidates.filter(
+    (candidate) => !existingSlugSet.has(candidate),
+  );
+  if (unknownAlternatives.length > 0) {
+    warnings.push(
+      `Ignored alternatives without matching slugs: ${unknownAlternatives.join(", ")}`,
+    );
+  }
+
+  const related = relatedCandidates.filter((candidate) =>
+    existingSlugSet.has(candidate),
+  );
+  const unknownRelatedApps = relatedCandidates.filter(
     (candidate) => !existingSlugSet.has(candidate),
   );
   if (unknownRelatedApps.length > 0) {
@@ -256,7 +297,7 @@ export function buildNewAppMetaFromIssue(
       },
       relations: {
         alternatives,
-        related: [],
+        related,
       },
     },
     warnings,
