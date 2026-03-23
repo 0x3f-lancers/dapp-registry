@@ -1,38 +1,31 @@
 {
   "slug": "debank",
   "name": "DeBank",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746330/web3-explorer/dapp-logos/debank.png",
+  "logoUrl": "https://unavatar.io/twitter/DeBankDeFi",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Portfolio Dashboards"
   ],
   "chains": [
     "Ethereum",
+    "BSC",
     "Polygon",
-    "Avalanche",
     "Arbitrum",
     "OP Mainnet"
   ],
   "pricing": "Free",
   "content": {
-    "short": "DeBank is a DeFi dashboard for tracking your portfolio and viewing data for DeFi protocols and tokens.",
-    "description": "DeBank is a DeFi dashboard. It helps users track their portfolio and access data and analytics for decentralized lending protocols, stablecoins, margin trading platforms and DEXes. Developers can integrate API endpoints that provide information about users, chains, protocols and tokens in their programmes.",
-    "meta": "DeBank is a DeFi dashboard. Discover DeBank and other Trading Tools on Lancers Web3 Explorer.",
+    "short": "DeFi dashboard for tracking portfolios and protocol data.",
+    "description": "DeBank is a Trading Tools project focused on crypto portfolio dashboards supporting Ethereum, BSC, Polygon, Arbitrum, OP Mainnet.",
+    "meta": "DeBank is a Trading Tools on Ethereum. Discover it on Lancers Web3 Explorer.",
     "pageTitle": "DeBank - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://debank.com/",
+    "website": "https://debank.com",
     "twitter": "https://x.com/DeBankDeFi"
   },
   "relations": {
-    "alternatives": [
-      "takeprofit",
-      "walletx"
-    ],
-    "related": [
-      "taho-xyz",
-      "ix-swap",
-      "clipper-dex"
-    ]
+    "alternatives": [],
+    "related": []
   }
 }

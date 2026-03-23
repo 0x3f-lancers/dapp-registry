@@ -1,23 +1,28 @@
 {
   "slug": "dolomite",
   "name": "Dolomite",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746538/web3-explorer/dapp-logos/dolomite.jpg",
+  "logoUrl": "https://unavatar.io/twitter/Dolomite_io",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Arbitrum"],
-  "pricing": "",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Polygon zkEVM"
+  ],
+  "pricing": "Free",
   "content": {
-    "short": "Dolomite is an Arbitrum-based margin trading protocol.",
-    "description": "Dolomite is a leading margin trading protocol on Arbitrum that enables traders to go long or short with leverage. The platform lets users earn by farming in a liquidity pool and by margin lending, so both income streams can run concurrently. Its margin trading extends beyond Wrapped BTC and ETH, supporting a broader set of wrappable assets and widening the universe of collateral and instruments available for leveraged positions.",
-    "meta": "Dolomite is an Arbitrum-based margin trading protocol. Discover Dolomite and other DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Margin trading and liquidity hub on Arbitrum.",
+    "description": "Dolomite is a DeFi Dapps project focused on decentralized lending dapps supporting Arbitrum, Polygon zkEVM.",
+    "meta": "Dolomite is a DeFi Dapps on Arbitrum. Discover it on Lancers Web3 Explorer.",
     "pageTitle": "Dolomite - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://dolomite.io/",
+    "website": "https://dolomite.io",
     "twitter": "https://x.com/Dolomite_io"
   },
   "relations": {
-    "alternatives": ["01", "maxbidpro", "curve-finance"],
-    "related": ["egemoney", "bydfi"]
+    "alternatives": [],
+    "related": []
   }
 }
