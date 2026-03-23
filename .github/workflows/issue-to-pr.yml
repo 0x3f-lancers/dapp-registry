@@ -56,7 +56,7 @@ jobs:
         id: cpr
         if: steps.generate.outcome == 'success' && steps.validate.outcome == 'success'
         continue-on-error: true
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.BOT_PAT }}
           branch: automation/new-app-issue-${{ github.event.issue.number }}
