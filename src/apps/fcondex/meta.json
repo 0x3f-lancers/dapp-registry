@@ -3,8 +3,12 @@
   "name": "FCON DEX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746922/web3-explorer/dapp-logos/fcondex.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": [],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Multichain"
+  ],
   "pricing": "",
   "content": {
     "short": "FCON DEX is a decentralized trading platform with an AMM built on Mantle.",
@@ -17,7 +21,13 @@
     "twitter": "https://x.com/fcon_dex"
   },
   "relations": {
-    "alternatives": ["bybarter", "narfex"],
-    "related": ["kraken", "zeta-markets"]
+    "alternatives": [
+      "bybarter",
+      "narfex"
+    ],
+    "related": [
+      "kraken",
+      "zeta-markets"
+    ]
   }
 }

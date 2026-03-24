@@ -3,12 +3,14 @@
   "name": "Sushi",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750477/web3-explorer/dapp-logos/sushi.svg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Ethereum",
     "Arbitrum",
     "Base",
-    "Optimism",
+    "OP Mainnet",
     "Polygon",
     "Avalanche",
     "BNB Chain",
@@ -26,7 +28,13 @@
     "twitter": "https://x.com/sushiswap"
   },
   "relations": {
-    "alternatives": ["morfi", "rubydex", "quickswap"],
-    "related": ["perpetual-protocol"]
+    "alternatives": [
+      "morfi",
+      "rubydex",
+      "quickswap"
+    ],
+    "related": [
+      "perpetual-protocol"
+    ]
   }
 }

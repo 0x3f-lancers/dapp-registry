@@ -9,7 +9,9 @@
     "Decentralized Lending Dapps",
     "DeFi Yield Farming Platforms"
   ],
-  "chains": [],
+  "chains": [
+    "Multichain"
+  ],
   "pricing": "",
   "content": {
     "short": "Increment Finance provides a DeFi hub on Flow.",
@@ -22,7 +24,15 @@
     "twitter": "https://x.com/IncrementFi"
   },
   "relations": {
-    "alternatives": ["bitcoincom", "morfi", "veax"],
-    "related": ["simpleswap", "bydfi", "swissborg"]
+    "alternatives": [
+      "bitcoincom",
+      "morfi",
+      "veax"
+    ],
+    "related": [
+      "simpleswap",
+      "bydfi",
+      "swissborg"
+    ]
   }
 }

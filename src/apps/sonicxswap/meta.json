@@ -3,8 +3,12 @@
   "name": "Sonicxswap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750140/web3-explorer/dapp-logos/sonicxswap.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": [],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Multichain"
+  ],
   "pricing": "",
   "content": {
     "short": "Sonicxswap is a DEX on the Sonic blockchain with fast, low-cost trading.",
@@ -17,7 +21,14 @@
     "twitter": "https://x.com/SonicxDex"
   },
   "relations": {
-    "alternatives": ["kromatika-finance", "powerdex", "jupiter"],
-    "related": ["perpetual-protocol", "ribbon-finance"]
+    "alternatives": [
+      "kromatika-finance",
+      "powerdex",
+      "jupiter"
+    ],
+    "related": [
+      "perpetual-protocol",
+      "ribbon-finance"
+    ]
   }
 }

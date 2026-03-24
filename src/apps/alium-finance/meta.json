@@ -3,13 +3,14 @@
   "name": "Alium Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744815/web3-explorer/dapp-logos/alium-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "BNB Chain",
     "Ethereum",
     "Polygon",
-    "Fantom",
-    "Metis"
+    "Fantom"
   ],
   "pricing": "",
   "content": {
@@ -23,7 +24,15 @@
     "twitter": "https://x.com/AliumSwap"
   },
   "relations": {
-    "alternatives": ["increment-finance", "fcondex", "quickswap"],
-    "related": ["easybit", "whitebit", "ribbon-finance"]
+    "alternatives": [
+      "increment-finance",
+      "fcondex",
+      "quickswap"
+    ],
+    "related": [
+      "easybit",
+      "whitebit",
+      "ribbon-finance"
+    ]
   }
 }
