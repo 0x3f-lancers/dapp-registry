@@ -1,19 +1,19 @@
 {
   "slug": "honey-chat",
   "name": "Honey Chat",
-  "logoUrl": "https://logo.clearbit.com/honey.chat",
+  "logoUrl": "https://logo.clearbit.com/honeychat.app",
   "category": "Web3 Social Dapps",
   "subcategory": [
     "Web3 Social Media Dapps"
   ],
   "chains": [
-    "Ethereum"
+    "Multichain"
   ],
   "pricing": "",
   "content": {
-    "short": "Experience the future of Web3 Social Dapps with Honey Chat, a premier platform offering robust web3 social media dapps solutions on Ethereum.",
-    "description": "Honey Chat is a decentralized messaging app. As a prominent player in the Web3 Social Dapps space, Honey Chat specializes in delivering high-quality web3 social media dapps infrastructure. It natively supports interactions on Ethereum, utilizing modern smart contract standards to ensure capital efficiency and robust security. The platform is dedicated to lowering the barrier to entry for both developers and retail participants. Moving forward, Honey Chat focuses on expanding its decentralized capabilities to offer unparalleled utility in the ever-growing blockchain industry.",
-    "meta": "Unlock the potential of web3 social media dapps with Honey Chat. Join the Web3 revolution and discover leading Web3 Social Dapps on Lancers Web3 Explorer.",
+    "short": "Honey Chat is a SocialFi platform on Berachain that allows creators to monetize interactions through access passes.",
+    "description": "Honey Chat is a decentralized SocialFi platform built on the Berachain blockchain, designed to bridge the gap between traditional social media and Web3 ownership. It enables creators to monetize their social interactions through \"Access Passes,\" which are social tokens tied to a bonding curve. Fans purchase these passes to gain access to exclusive content, group chats, and direct messages. This innovative model allows for direct revenue sharing between creators and their communities.\n\nBy integrating with X (Twitter) for seamless onboarding, Honey Chat lowers the barrier for Web2 users to enter the Web3 ecosystem. The platform emphasizes data sovereignty, ensuring that users retain ownership of their identity and intellectual property. With a robust system of rewards and decentralized reputation, Honey Chat fosters a transparent and engaging social environment.",
+    "meta": "Honey Chat is a SocialFi platform on Berachain for monetizing social interactions with access passes. Discover Honey Chat on Lancers.",
     "pageTitle": "Honey Chat - Web3 Social Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -22,14 +22,12 @@
   },
   "relations": {
     "alternatives": [
-      "catapult",
-      "fantv",
+      "warpcast",
       "phaver"
     ],
     "related": [
-      "rss3",
-      "sociogram",
-      "revel"
+      "berachain",
+      "honey-finance"
     ]
   }
 }

@@ -12,9 +12,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Ambient Finance is an advanced decentralized protocol designed for seamless decentralized exchanges (dexs) within the Web3 ecosystem on Ethereum and others.",
-    "description": "Decentralized trading protocol inside a single smart contract. By leveraging the underlying security and performance of the Ethereum and Scroll network(s), Ambient Finance aims to deliver a robust and scalable solution for its users. The project offers a suite of decentralized tools tailored for decentralized exchanges (dexs), ensuring transparent and trustless operations. As the Web3 landscape continues to evolve, Ambient Finance is positioning itself as a core infrastructure component to empower builders and end-users alike, bridging the gap between traditional architectures and decentralized networks.",
-    "meta": "Ambient Finance is redefining decentralized exchanges (dexs) on Ethereum and others. Dive into detailed analytics and explore Ambient Finance directly on Lancers Web3 Explorer.",
+    "short": "A zero-to-one DEX protocol that runs within a single smart contract to maximize gas efficiency and liquidity.",
+    "description": "Ambient Finance is a decentralized exchange protocol that operates entirely within a single smart contract, significantly reducing gas costs and liquidity fragmentation. It uniquely combines \"ambient\" (constant-product) and \"concentrated\" liquidity in a single pool, offering a more efficient trading experience. The protocol features \"Knockout Liquidity,\" a specialized limit order tool that prevents orders from reversing once a target price is hit.\n\nAmbient also supports automated fee reinvestment and gasless transactions via EIP-712 standards. This allows users to pay fees in the tokens they are swapping, providing a seamless and professional-grade experience for DeFi traders and liquidity providers alike.",
+    "meta": "Ambient Finance is a gas-efficient DEX protocol with unified liquidity. Discover its advanced trading features on Lancers Web3 Explorer.",
     "pageTitle": "Ambient Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

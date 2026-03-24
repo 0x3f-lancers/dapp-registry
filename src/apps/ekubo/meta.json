@@ -4,16 +4,16 @@
   "logoUrl": "https://unavatar.io/twitter/EkuboProtocol",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges (DEXs)"
+    "Decentralized Exchanges"
   ],
   "chains": [
     "Starknet"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Discover Ekubo, a highly optimized DeFi Dapps protocol focusing on decentralized exchanges (dexs) to drive mass adoption in Web3.",
-    "description": "Powerful AMM on Starknet providing high capital efficiency. Operating at the forefront of the DeFi Dapps sector, Ekubo redefines how users interact with decentralized exchanges (dexs). The protocol leverages the advanced capabilities of Starknet to provide a seamless, non-custodial experience that guarantees user sovereignty. Its architecture is explicitly built for scale, accommodating high throughput and complex decentralized operations. With a strong commitment to open-source principles, Ekubo stands out as a crucial utility in the modern Web3 tech stack.",
-    "meta": "Unlock the potential of decentralized exchanges (dexs) with Ekubo. Join the Web3 revolution and discover leading DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Ekubo is a high-performance AMM on Starknet, featuring concentrated liquidity and an extensible singleton design.",
+    "description": "Ekubo is a next-generation decentralized exchange and Automated Market Maker (AMM) purpose-built for the Starknet ecosystem. It introduces a highly efficient singleton architecture, where all pools are managed within a single smart contract to minimize gas costs and maximize capital efficiency. By implementing concentrated liquidity, Ekubo allows LPs to provide capital within specific price ranges, significantly enhancing the depth of the market and reducing slippage for traders compared to traditional AMM models.\n\nThe protocol is designed with extensibility at its core, utilizing a powerful \"hooks\" system that allows developers to build custom logic directly onto the exchange. This flexibility enables the creation of complex financial instruments, dynamic fee structures, and automated trading strategies. As a leading liquidity layer on Starknet, Ekubo combines advanced mathematics with a developer-friendly approach to drive the next wave of DeFi innovation on Layer 2.",
+    "meta": "Explore Ekubo, the Starknet AMM with concentrated liquidity and extensible hooks, designed for maximum capital efficiency and low fees.",
     "pageTitle": "Ekubo - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

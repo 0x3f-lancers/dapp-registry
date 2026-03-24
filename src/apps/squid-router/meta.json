@@ -7,13 +7,18 @@
     "Web3 Bridges"
   ],
   "chains": [
-    "Ethereum"
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "Cosmos"
   ],
   "pricing": "",
   "content": {
-    "short": "Squid Router provides cutting-edge infrastructure for web3 bridges, empowering users with secure and transparent interactions.",
-    "description": "Squid Router is a cross-chain swap and liquidity routing protocol powered by the Axelar network. By leveraging the underlying security and performance of the Ethereum network(s), Squid Router aims to deliver a robust and scalable solution for its users. The project offers a suite of decentralized tools tailored for web3 bridges, ensuring transparent and trustless operations. As the Web3 landscape continues to evolve, Squid Router is positioning itself as a core infrastructure component to empower builders and end-users alike, bridging the gap between traditional architectures and decentralized networks.",
-    "meta": "Squid Router is redefining web3 bridges on Ethereum. Dive into detailed analytics and explore Squid Router directly on Lancers Web3 Explorer.",
+    "short": "Squid is a cross-chain liquidity and messaging router that enables one-click swaps across multiple blockchains.",
+    "description": "Squid Router is a premier cross-chain swap and liquidity routing protocol built on the Axelar Network, designed to eliminate the friction of multi-chain asset management. The platform enables users to execute \"one-click\" swaps between any token on any supported network—such as swapping native ETH on Ethereum for native SOL on Solana—in a single transaction. By utilizing Axelar's General Message Passing (GMP), Squid can execute complex logic across different blockchain architectures while maintaining high throughput and security.\n\nThe platform features \"Squid Boost,\" a specialized protocol that completes cross-chain transactions in as little as 2 to 60 seconds, significantly faster than traditional bridges. Operating across over 40 blockchain networks, Squid acts as a vital infrastructure layer for the decentralized web, providing the liquidity needed for developers to build seamless multi-chain applications. Through its commitment to interoperability and user-centric design, Squid Router is building the essential framework for a more unified and accessible global digital economy.",
+    "meta": "Squid Router offers high-speed cross-chain liquidity routing and one-click token swaps across multiple blockchains.",
     "pageTitle": "Squid Router - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

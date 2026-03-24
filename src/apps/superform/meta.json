@@ -7,13 +7,18 @@
     "DeFi Yield Aggregators"
   ],
   "chains": [
-    "Ethereum"
+    "Ethereum",
+    "Base",
+    "Arbitrum",
+    "Optimism",
+    "Polygon",
+    "Avalanche"
   ],
   "pricing": "",
   "content": {
-    "short": "Experience the future of DeFi Dapps with Superform, a premier platform offering robust defi yield aggregators solutions on Ethereum.",
-    "description": "Superform is a universal yield marketplace allowing users to access DeFi yields across multiple chains seamlessly. Built organically for the Web3 ecosystem, Superform provides an essential suite of services focused heavily on defi yield aggregators. By operating on Ethereum, it allows users to experience fast execution times while maintaining strong cryptographic security. The protocol is designed to be highly interoperable, aiming to become a cornerstone of the DeFi Dapps sector. Through continuous innovation, Superform contributes to the broader vision of a decentralized, permissionless digital economy.",
-    "meta": "Explore Superform, a powerful DeFi Dapps protocol built on Ethereum. Enhance your decentralized workflow with Superform on Lancers Web3 Explorer.",
+    "short": "Superform is a universal yield marketplace that enables one-click access to any vault on any supported chain.",
+    "description": "Superform is a pioneering decentralized yield marketplace and cross-chain router designed to simplify the multi-chain investment experience. The platform allows users to discover and access over 800 earning opportunities from top-tier protocols—such as Aave, Morpho, and Pendle—using any token on any supported chain in a single, unified transaction. By utilizing its proprietary \"SuperPositions\" (ERC-1155 tokens), Superform enables participants to manage their diversified yield positions across the entire Web3 ecosystem from a single \"home\" network.\n\nOperating as an intent-based architecture, the protocol optimizes liquidity routing to ensure the best possible execution and capital efficiency for users. The platform focuses on professional-grade transparency and security, serving as a vital infrastructure layer for both retail and institutional yield seekers. Through its commitment to chain abstraction and user-centric design, Superform is building the essential framework for a more accessible and interconnected decentralized economy, where yields are as intuitive to manage as any traditional financial instrument.",
+    "meta": "Superform provides a universal yield marketplace and cross-chain router for one-click access to decentralized vaults.",
     "pageTitle": "Superform - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

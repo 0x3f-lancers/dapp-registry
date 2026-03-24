@@ -4,32 +4,31 @@
   "logoUrl": "https://logo.clearbit.com/getgrass.io",
   "category": "Infrastructure Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Decentralized Computing Tools"
   ],
   "chains": [
     "Solana"
   ],
   "pricing": "",
   "content": {
-    "short": "Discover Grass, a highly optimized Infrastructure Tools protocol focusing on web3 data tools to drive mass adoption in Web3.",
-    "description": "Grass is a decentralized web scraping network. Operating at the forefront of the Infrastructure Tools sector, Grass redefines how users interact with web3 data tools. The protocol leverages the advanced capabilities of Solana to provide a seamless, non-custodial experience that guarantees user sovereignty. Its architecture is explicitly built for scale, accommodating high throughput and complex decentralized operations. With a strong commitment to open-source principles, Grass stands out as a crucial utility in the modern Web3 tech stack.",
-    "meta": "Explore Grass, a powerful Infrastructure Tools protocol built on Solana. Enhance your decentralized workflow with Grass on Lancers Web3 Explorer.",
+    "short": "Grass is a decentralized DePIN protocol on Solana that allows users to monetize unused bandwidth to train AI models.",
+    "description": "Grass is a decentralized physical infrastructure network (DePIN) on Solana that enables users to monetize their unused internet bandwidth. By running a node via a browser extension, participants contribute to a global network that scrapes and structures public web data for training AI models. The protocol uses zero-knowledge proofs to ensure data is sourced ethically and accurately without compromising the privacy of its contributors.\n\nThe network democratizes the AI data pipeline, rewarding users for resources provided to developers. As a leader in the decentralized AI space, Grass offers a scalable solution for high-quality data collection while maintaining a transparent environment. It empowers individuals to participate directly in the global growth of AI technologies.",
+    "meta": "Grass is a DePIN protocol on Solana for monetizing unused bandwidth for AI training. Discover Grass and more on Lancers Web3 Explorer.",
     "pageTitle": "Grass - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.getgrass.io/",
+    "website": "https://getgrass.io",
     "twitter": "https://twitter.com/getgrass_io"
   },
   "relations": {
     "alternatives": [
-      "noves",
-      "astrochain",
-      "token-flow"
+      "helium",
+      "hivemapper"
     ],
     "related": [
-      "geth",
-      "dimo",
-      "sarcophagus"
+      "solana",
+      "phantom",
+      "backpack"
     ]
   }
 }

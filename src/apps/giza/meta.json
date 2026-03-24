@@ -1,36 +1,31 @@
 {
   "slug": "giza",
   "name": "Giza",
-  "logoUrl": "https://logo.clearbit.com/gizatech.xyz",
-  "category": "Zero Knowledge Tools",
+  "logoUrl": "https://logo.clearbit.com/gizapy.ai",
+  "category": "Web3 Developer Tools",
   "subcategory": [
-    "ZK Developer Tools"
+    "Smart Contract Tools"
   ],
   "chains": [
-    "Starknet",
-    "Ethereum"
+    "Starknet"
   ],
   "pricing": "",
   "content": {
-    "short": "Discover Giza, a highly optimized Zero Knowledge Tools protocol focusing on zk developer tools to drive mass adoption in Web3.",
-    "description": "Giza is a protocol for zero-knowledge machine learning. Built organically for the Web3 ecosystem, Giza provides an essential suite of services focused heavily on zk developer tools. By operating on Starknet and Ethereum, it allows users to experience fast execution times while maintaining strong cryptographic security. The protocol is designed to be highly interoperable, aiming to become a cornerstone of the Zero Knowledge Tools sector. Through continuous innovation, Giza contributes to the broader vision of a decentralized, permissionless digital economy.",
-    "meta": "Explore Giza, a powerful Zero Knowledge Tools protocol built on Starknet and others. Enhance your decentralized workflow with Giza on Lancers Web3 Explorer.",
-    "pageTitle": "Giza - Zero Knowledge Tools - Lancers Web3 Explorer"
+    "short": "Giza is a verifiable AI protocol on Starknet that enables trustless machine learning using zero-knowledge proofs.",
+    "description": "Giza is a protocol focused on verifiable AI using Zero-Knowledge Machine Learning (ZKML), primarily built on Starknet. It enables trustless model execution, proving that an ML model was run on specific data without revealing sensitive weights. This is critical for on-chain AI agents, DeFi risk assessment, and fair gaming logic where transparency is paramount.\n\nBy integrating with the Cairo language, Giza allows developers to convert standard ML models into ZK-friendly formats for on-chain execution. This bridge between AI and blockchain ensures complex computations are verified with minimal cost, empowering developers to build secure, intelligent DApps.",
+    "meta": "Giza is a ZKML protocol on Starknet that enables trustless and verifiable AI execution. Discover Giza and more on Lancers Web3 Explorer.",
+    "pageTitle": "Giza - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.gizatech.xyz/",
-    "twitter": "https://twitter.com/gizatechxyz"
+    "website": "https://gizapy.ai",
+    "twitter": "https://twitter.com/giza_ai"
   },
   "relations": {
     "alternatives": [
-      "ingonmaya",
-      "labyrinth",
-      "blockless"
+      "axiom"
     ],
     "related": [
-      "polyhedra-network",
-      "plonky2",
-      "snark"
+      "starknet"
     ]
   }
 }

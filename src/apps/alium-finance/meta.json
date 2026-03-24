@@ -4,12 +4,18 @@
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744815/web3-explorer/dapp-logos/alium-finance.png",
   "category": "DeFi Dapps",
   "subcategory": ["Decentralized Exchanges"],
-  "chains": ["BNB Chain", "Polygon", "Ethereum"],
-  "pricing": "Paid",
+  "chains": [
+    "BNB Chain",
+    "Ethereum",
+    "Polygon",
+    "Fantom",
+    "Metis"
+  ],
+  "pricing": "",
   "content": {
-    "short": "Alium Finance is a multi-chain DEX supporting 10 blockchains, hybrid liquidity, and a mobile app.",
-    "description": "Alium Finance is a decentralized exchange that enables you to swap any tokens within a single blockchain, prioritizing the lowest commissions while ensuring there is no liquidity deficit for your trades. The platform is designed for on-the-go use, and its mobile app puts token swapping in your hands, letting you complete swaps in just a few taps. Whether you're at home or on the move, you can quickly access your trading workflow and manage swaps with clarity and ease.",
-    "meta": "Alium Finance is a multi-chain DeFi Dapp and DEX with a mobile app. Discover Alium Finance and other DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Alium Finance is a multi-chain DEX hub featuring hybrid liquidity pools and a native NFT launchpad.",
+    "description": "Alium Finance is a comprehensive decentralized finance ecosystem designed to solve the problem of fragmented liquidity across blockchain networks. The platform features AliumSwap, an advanced Automated Market Maker (AMM) that supports seamless asset trading across major networks including BNB Chain, Ethereum, and Metis. By utilizing a unique \"hybrid liquidity\" model, Alium optimizes capital efficiency for liquidity providers while ensuring minimal slippage for traders through its sophisticated routing engine.\n\nBeyond its core exchange capabilities, Alium Finance integrates innovative SocialFi and NFT features, including an Initial NFT Offering (INO) launchpad and gamified staking products. The ecosystem is powered by the ALM utility token, which facilitates governance, incentive coordination, and premium access within the platform. Through its commitment to user-centric design and cross-chain interoperability, Alium Finance is building the essential framework for a more accessible and efficient decentralized economy, where trading and digital collectibles are unified in a single interface.",
+    "meta": "Alium Finance provides high-speed multi-chain trading, hybrid liquidity pools, and NFT launchpad tools.",
     "pageTitle": "Alium Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

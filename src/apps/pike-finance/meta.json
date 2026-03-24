@@ -9,13 +9,14 @@
   "chains": [
     "Ethereum",
     "Base",
-    "Arbitrum"
+    "Arbitrum",
+    "Optimism"
   ],
   "pricing": "",
   "content": {
-    "short": "Pike Finance is an advanced decentralized protocol designed for seamless decentralized lending dapps within the Web3 ecosystem on Ethereum and others.",
-    "description": "Pike Finance is a native cross-chain lending market powered by Wormhole and Circle CCTP, allowing users to borrow and lend across different networks natively. By leveraging the underlying security and performance of the Ethereum and Base and Arbitrum network(s), Pike Finance aims to deliver a robust and scalable solution for its users. The project offers a suite of decentralized tools tailored for decentralized lending dapps, ensuring transparent and trustless operations. As the Web3 landscape continues to evolve, Pike Finance is positioning itself as a core infrastructure component to empower builders and end-users alike, bridging the gap between traditional architectures and decentralized networks.",
-    "meta": "Pike Finance provides innovative decentralized lending dapps tools for the DeFi Dapps space. Discover Pike Finance and other decentralized applications on Lancers Web3 Explorer.",
+    "short": "Pike Finance is a native cross-chain lending market that enables borrowing without the need for asset bridging.",
+    "description": "Pike Finance is a pioneering decentralized liquidity protocol designed to solve the problem of fragmented liquidity across blockchain networks. Built on top of Wormhole and Circle CCTP, the platform allows users to supply and borrow assets natively on their original chains—such as Ethereum, Base, and Arbitrum—without the security risks and friction associated with manual bridging or wrapped tokens. This approach significantly enhances capital efficiency and simplifies the cross-chain lending experience.\n\nThe protocol utilizes a modular architecture featuring Local Markets and Universal Vaults to ensure professional-grade risk management and deep liquidity. Powered by the $P token, Pike Finance provides a transparent and non-custodial framework for decentralized asset management. Through its focus on interoperability and user-centric design, Pike is building the essential infrastructure for a more unified and secure global financial system, where participants can manage their sophisticated portfolios with ease across multiple networks.",
+    "meta": "Pike Finance provides native cross-chain lending and borrowing services without the need for bridges or wrapped assets.",
     "pageTitle": "Pike Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

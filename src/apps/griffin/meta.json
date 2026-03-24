@@ -1,36 +1,34 @@
 {
   "slug": "griffin",
   "name": "Griffin",
-  "logoUrl": "https://logo.clearbit.com/griffin.com",
-  "category": "Infrastructure Tools",
+  "logoUrl": "https://logo.clearbit.com/griffinai.io",
+  "category": "Web3 Developer Tools",
   "subcategory": [
-    "Decentralized Computing Tools"
+    "Smart Contract Tools"
   ],
   "chains": [
-    "Solana",
-    "Ethereum"
+    "Ethereum",
+    "Arbitrum",
+    "Base"
   ],
   "pricing": "",
   "content": {
-    "short": "Griffin provides cutting-edge infrastructure for decentralized computing tools, empowering users with secure and transparent interactions.",
-    "description": "Griffin is an API-first BaaS platform. As a prominent player in the Infrastructure Tools space, Griffin specializes in delivering high-quality decentralized computing tools infrastructure. It natively supports interactions on Solana and Ethereum, utilizing modern smart contract standards to ensure capital efficiency and robust security. The platform is dedicated to lowering the barrier to entry for both developers and retail participants. Moving forward, Griffin focuses on expanding its decentralized capabilities to offer unparalleled utility in the ever-growing blockchain industry.",
-    "meta": "Unlock the potential of decentralized computing tools with Griffin. Join the Web3 revolution and discover leading Infrastructure Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Griffin - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Griffin is a decentralized protocol for creating and deploying specialized AI agents for DeFi and Web3 tasks.",
+    "description": "Griffin is a decentralized protocol designed for the creation and deployment of AI agents specialized in DeFi and Web3 tasks. It features a no-code Agent Builder that allows users to develop sophisticated agents without technical expertise. These agents can automate complex on-chain operations, from portfolio management to risk assessment, enhancing efficiency. The protocol is powered by its native utility token, GAIN.\n\nThe project focuses on making AI accessible to the Web3 community, fostering a landscape where autonomous agents can collaborate and optimize protocols. By providing tools for decentralized intelligence, Griffin empowers builders to create automated applications. It aims to be a foundational layer for the next generation of AI-driven DeFi.",
+    "meta": "Griffin is a protocol for deploying specialized AI agents for DeFi and Web3 tasks. Discover Griffin and more on Lancers Web3 Explorer.",
+    "pageTitle": "Griffin - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://griffinai.io",
-    "twitter": "https://twitter.com/griffindotcom"
+    "twitter": "https://twitter.com/griffinai"
   },
   "relations": {
     "alternatives": [
-      "hyperbolic",
-      "gensyn",
-      "spindl"
+      "giza"
     ],
     "related": [
-      "startmail",
-      "chainsafe",
-      "envio"
+      "gensyn",
+      "bittensor"
     ]
   }
 }

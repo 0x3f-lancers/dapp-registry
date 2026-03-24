@@ -10,10 +10,17 @@
     "Arbitrum"
   ],
   "pricing": "",
+  "chains": [
+    "Arbitrum",
+    "Ink",
+    "Mantle",
+    "Base"
+  ],
+  "pricing": "",
   "content": {
-    "short": "Vertex provides cutting-edge infrastructure for decentralized derivatives, empowering users with secure and transparent interactions.",
-    "description": "Vertex Protocol is an orderbook-based decentralized exchange offering spot, perpetuals, and integrated money markets on Arbitrum. Built organically for the Web3 ecosystem, Vertex provides an essential suite of services focused heavily on decentralized derivatives. By operating on Arbitrum, it allows users to experience fast execution times while maintaining strong cryptographic security. The protocol is designed to be highly interoperable, aiming to become a cornerstone of the DeFi Dapps sector. Through continuous innovation, Vertex contributes to the broader vision of a decentralized, permissionless digital economy.",
-    "meta": "Vertex provides innovative decentralized derivatives tools for the DeFi Dapps space. Discover Vertex and other decentralized applications on Lancers Web3 Explorer.",
+    "short": "Vertex is a high-performance cross-margin DEX on Arbitrum and Ink offering spot, perpetuals, and money markets.",
+    "description": "Vertex is a premier decentralized exchange designed to provide a professional-grade trading experience with the speed and efficiency typically found only on centralized venues. Utilizing a unique hybrid architecture that combines an off-chain sequencer for sub-30ms order matching with secure on-chain settlement, the platform supports spot assets, perpetual futures, and an integrated money market. All services are unified under a single cross-margin account, allowing users to maximize their capital efficiency across all trades.\n\nOriginally built on Arbitrum, Vertex has expanded its ecosystem to Mantle and Base, and has announced a primary migration to the Ink network (Kraken's L2). The protocol focuses on institutional-grade risk management and deep liquidity, serving as a vital venue for sophisticated DeFi participants. Through its commitment to technological innovation and high-frequency execution, Vertex is building the essential infrastructure for the next generation of decentralized finance, empowering participants to trade with unparalleled precision and security.",
+    "meta": "Vertex offers high-speed decentralized perpetuals and spot trading with a unified cross-margin account across multiple L2s.",
     "pageTitle": "Vertex - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

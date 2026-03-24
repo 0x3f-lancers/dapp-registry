@@ -4,12 +4,21 @@
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750477/web3-explorer/dapp-logos/sushi.svg",
   "category": "DeFi Dapps",
   "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Arbitrum", "OP Mainnet", "Polygon"],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Base",
+    "Optimism",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "Aptos"
+  ],
   "pricing": "",
   "content": {
-    "short": "Sushi is a multichain decentralized exchange for swapping cryptocurrency tokens.",
-    "description": "Sushi is an automated market maker that enables swapping between different cryptocurrencies and tokens through automated liquidity pools across EVM-compatible blockchain networks and Layer-2 solutions. This design supports a wide array of assets and trading activity across multiple ecosystems, reflecting Sushi’s standing as one of the largest DeFi platforms. Over time, Sushi has expanded its DeFi offerings using its native token SUSHI.",
-    "meta": "Sushi is a multichain decentralized exchange focused on swapping cryptocurrency tokens. Discover Sushi and other DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Sushi is a leading multi-chain DeFi hub offering advanced AMM trading, cross-chain swaps, and yield management.",
+    "description": "Sushi is one of the world's most foundational and widely deployed decentralized exchanges, operating as a comprehensive liquidity hub across more than 35 blockchain networks. The platform utilizes a sophisticated Route Processor to aggregate liquidity from hundreds of sources, ensuring that users always receive the most competitive swap rates with minimal slippage. With the launch of SushiXSwap 2.0, the protocol enables seamless cross-chain token exchanges across major networks including Ethereum, Arbitrum, and Base without requiring manual bridging.\n\nBeyond its core trading capabilities, the Sushi ecosystem encompasses a variety of DeFi services such as yield farming, staking, and decentralized governance through the SUSHI token. The platform is designed for professional-grade performance and high throughput, serving as a primary venue for asset discovery and liquidity bootstrapping. Through its commitment to open-source principles and continuous multi-chain expansion, Sushi remains a cornerstone of the decentralized web, empowering participants to maximize their digital asset utility with unparalleled efficiency and security.",
+    "meta": "Sushi provides high-speed multi-chain trading, cross-chain swaps, and yield farming tools for the Web3 ecosystem.",
     "pageTitle": "Sushi - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
