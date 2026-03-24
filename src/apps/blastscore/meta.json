@@ -11,9 +11,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Reputation protocol on Blast analyzing on-chain activity.",
-    "description": "BlastScore is a Identity Tools project focused on web3 credential tools supporting Blast.",
-    "meta": "BlastScore is a Identity Tools on Blast. Discover it on Lancers Web3 Explorer.",
+    "short": "Discover BlastScore, a highly optimized Identity Tools protocol focusing on web3 credential tools to drive mass adoption in Web3.",
+    "description": "Reputation protocol on Blast analyzing on-chain activity. Built organically for the Web3 ecosystem, BlastScore provides an essential suite of services focused heavily on web3 credential tools. By operating on Blast, it allows users to experience fast execution times while maintaining strong cryptographic security. The protocol is designed to be highly interoperable, aiming to become a cornerstone of the Identity Tools sector. Through continuous innovation, BlastScore contributes to the broader vision of a decentralized, permissionless digital economy.",
+    "meta": "BlastScore provides innovative web3 credential tools tools for the Identity Tools space. Discover BlastScore and other decentralized applications on Lancers Web3 Explorer.",
     "pageTitle": "BlastScore - Identity Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -21,7 +21,15 @@
     "twitter": "https://x.com/BlastScore"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "ethrank",
+      "degenscore",
+      "incred"
+    ],
+    "related": [
+      "miniorange-web3-authentication-plugin",
+      "stripe-identity",
+      "mercle"
+    ]
   }
 }

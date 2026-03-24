@@ -14,9 +14,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Fully on-chain order book exchange for efficient trading.",
-    "description": "Clober is a DeFi Dapps project focused on decentralized exchanges (dexs) supporting Ethereum, Base, Arbitrum, Polygon.",
-    "meta": "Clober is a DeFi Dapps on Ethereum. Discover it on Lancers Web3 Explorer.",
+    "short": "Clober provides cutting-edge infrastructure for decentralized exchanges (dexs), empowering users with secure and transparent interactions.",
+    "description": "Fully on-chain order book exchange for efficient trading. Operating at the forefront of the DeFi Dapps sector, Clober redefines how users interact with decentralized exchanges (dexs). The protocol leverages the advanced capabilities of Ethereum and Base and Arbitrum and Polygon to provide a seamless, non-custodial experience that guarantees user sovereignty. Its architecture is explicitly built for scale, accommodating high throughput and complex decentralized operations. With a strong commitment to open-source principles, Clober stands out as a crucial utility in the modern Web3 tech stack.",
+    "meta": "Clober provides innovative decentralized exchanges (dexs) tools for the DeFi Dapps space. Discover Clober and other decentralized applications on Lancers Web3 Explorer.",
     "pageTitle": "Clober - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -24,7 +24,15 @@
     "twitter": "https://x.com/cloberdex"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "dedust",
+      "ekubo",
+      "agni-finance"
+    ],
+    "related": [
+      "blasterswap",
+      "ankr-liquid-staking",
+      "stryke"
+    ]
   }
 }

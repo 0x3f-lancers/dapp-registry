@@ -12,9 +12,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Permissionless DEX offering perpetual futures trading.",
-    "description": "ApeX Protocol is a DeFi Dapps project focused on decentralized derivatives supporting Arbitrum, Ethereum.",
-    "meta": "ApeX Protocol is a DeFi Dapps on Arbitrum. Discover it on Lancers Web3 Explorer.",
+    "short": "ApeX Protocol provides cutting-edge infrastructure for decentralized derivatives, empowering users with secure and transparent interactions.",
+    "description": "Permissionless DEX offering perpetual futures trading. Operating at the forefront of the DeFi Dapps sector, ApeX Protocol redefines how users interact with decentralized derivatives. The protocol leverages the advanced capabilities of Arbitrum and Ethereum to provide a seamless, non-custodial experience that guarantees user sovereignty. Its architecture is explicitly built for scale, accommodating high throughput and complex decentralized operations. With a strong commitment to open-source principles, ApeX Protocol stands out as a crucial utility in the modern Web3 tech stack.",
+    "meta": "ApeX Protocol provides innovative decentralized derivatives tools for the DeFi Dapps space. Discover ApeX Protocol and other decentralized applications on Lancers Web3 Explorer.",
     "pageTitle": "ApeX Protocol - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -22,7 +22,15 @@
     "twitter": "https://x.com/OfficialApeXdex"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "paradex",
+      "rubydex",
+      "ostium"
+    ],
+    "related": [
+      "sharpe",
+      "index-coop",
+      "evo-exchange"
+    ]
   }
 }
