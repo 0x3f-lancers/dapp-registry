@@ -1,0 +1,37 @@
+{
+  "slug": "logosphere",
+  "name": "Logosphere",
+  "logoUrl": "https://cdn.cardanocube.com/d7c12kd7w9pfe1et59b7lb6gvdu0",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Web3 protocol of interoperable metadata represented as a semantic knowledge graph, providing a framework for building interoperable decentralized applications.",
+    "description": "At Logosphere, our mission is to empower businesses to tokenize their assets and build decentralized applications (dApps) through our domain-agnostic framework. Our framework enables the creation of dynamic metadata properties defined in L2 and persistence of metadata into a semantic knowledge graph that spans multiple L1 ecosystems, providing interoperability between applications. Our focus is on the quality of data persisted in the knowledge graph, distilled from operational data according to the rules defined by the domain team, and verified metadata provenance.\n\nWe envision a future where Logosphere is the go-to Web3 protocol for interoperable metadata represented as a semantic knowledge graph. Our goal is to provide a comprehensive framework for building dApps and tokenizing assets that conform to Data Mesh Architecture concepts. We aim to create an interconnected knowledge graph of metadata, potentially spanning multiple L1 ecosystems, that allows seamless data exchange between applications. With Logosphere, businesses can unlock new value from their assets and build decentralized applications that provide greater transparency, security, and efficiency.\n\nHere are some potential benefits of the Logosphere framework:\n\nInteroperability: Logosphere provides a framework for building interoperable decentralized applications (dApps) that can support asset tokenization in a particular business domain. The assets are tokenized as NFTs in L1 and have dynamic metadata properties defined in L2, which can be queryable and interoperable via a global interconnected knowledge graph of metadata potentially spanning multiple L1 ecosystems. This interoperability enables seamless data sharing and transfer between different systems, making it easier to collaborate and share information.\n\nEfficiency: Logosphere conforms to Data Mesh Architecture concepts and provides a domain-agnostic framework that takes domain model as an input and produces domain-specific generated code with following functionality: CRUD operations against a variety of data persistence layers, operational and analytical persistence of metadata into semantic knowledge graph, instrumentation for creating & signing transactions into L1 with simultaneous linking of metadata in L2 through hashes, and a generated GraphQL API with commonly CRUD queries and mutations. This generated code saves time and reduces the amount of manual work required, increasing efficiency and productivity.\n\nVerifiability: The framework also includes verifiability of metadata provenance, which ensures that data is authentic and has not been tampered with. This is important in applications where data integrity and authenticity are critical, such as in financial transactions or supply chain management.\n\nFlexibility: Logosphere provides extensions/plugins for specific use cases and languages, such as generating assets for gaming engines (Unreal Engine & Unity in C++ and C#) or smart contract libraries (Cardano Plutarch), that allow the use of metadata stored in the knowledge graph directly from the supported codebase. This flexibility enables customization and integration with existing systems and technologies.\n\nQuality of Data: The Logosphere framework focuses on the quality of data persisted in the knowledge graph, which should be distilled from operational data according to the rules defined by the domain team. This focus on data quality ensures that the data is useful and relevant for decision-making and analysis.\n\nOverall, Logosphere offers a comprehensive framework for building decentralized applications with interoperable metadata and a focus on data quality, efficiency, and verifiability.",
+    "meta": "Find out about Logosphere (LAYER2) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Toke...",
+    "pageTitle": "Logosphere - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.logosphere.io",
+    "docs": "https://docs.logosphere.io",
+    "twitter": "https://twitter.com/logosphere_io",
+    "discord": "https://discord.gg/ZJpTgzEt"
+  },
+  "relations": {
+    "alternatives": [
+      "machada",
+      "envio",
+      "certifieddatanow"
+    ],
+    "related": [
+      "adatools-io",
+      "koios",
+      "openmesh-network"
+    ]
+  }
+}

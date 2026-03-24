@@ -1,0 +1,37 @@
+{
+  "slug": "steak-protocol",
+  "name": "STEAK Protocol",
+  "logoUrl": "https://cdn.cardanocube.com/p9xyt92o830skhpo1mvcvo8y667t",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Sustainable PoS randomness source on the Cardano blockchain, enhancing security and scalability.",
+    "description": "We present the STEAK protocol, a proof of stake (PoS) protocol designed to serve as a sustainable and efficient source of randomness for dApps on the Cardano blockchain. The protocol is based on the Ouroboros protocol (the same protocol powering Cardano itself) and is implemented on top of Cardano using smart contracts. It aims to address the limitations of existing randomness solutions based on proof of work (PoW), such as the Fortuna protocol. By utilizing PoS instead of PoW, STEAK inherits all the advantages associated with PoS, including greater energy efficiency, reduced environmental impact, and enhanced scalability.\n\nSTEAK allows stakeholders to register their stake in the network by creating stake pools and rewards them for creating blocks with a small share of the stake token. DApps can rely on frequently produced blocks that contain non-manipulable and unpredictable hashes. The protocol ensures sustainability, randomness, and security through its design and governance mechanisms.",
+    "meta": "Find out about STEAK Protocol (STK) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Tok...",
+    "pageTitle": "STEAK Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.steakprotocol.com",
+    "docs": "https://www.steakprotocol.com/whitepaper.pdf",
+    "twitter": "https://twitter.com/steakTokenADA",
+    "discord": "https://discord.gg/nJFDCBBgpB"
+  },
+  "relations": {
+    "alternatives": [
+      "astarter",
+      "comunidadcardano",
+      "emporium"
+    ],
+    "related": [
+      "flacfinance",
+      "alien",
+      "vyra"
+    ]
+  }
+}

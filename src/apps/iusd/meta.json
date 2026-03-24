@@ -1,0 +1,37 @@
+{
+  "slug": "iusd",
+  "name": "iUSD",
+  "logoUrl": "https://cdn.cardanocube.com/o49y359kq2gtxbhv1mktgm9glsfh",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "iUSD is Cardano's first fault-tolerant and fully collateralized native stablecoin.",
+    "description": "In November 2022, Indigo Protocol introduced iUSD, the pioneering fault-tolerant and fully collateralized native stablecoin. Unlike traditional stablecoins tied to a single asset, iUSD derives its value from the median value of USDC, TUSD, and USDT. This innovative design ensures that iUSD maintains its peg even if any one of the three stablecoins experiences a deviation.\n\nAt the heart of the Cardano ecosystem, the Indigo Protocol operates as a Collateralized Debt Position (CDP) based DeFi platform, facilitating the creation of capital-efficient synthetic assets. iUSD can be acquired from a decentralized exchange (DEX) like any other Cardano native asset or minted within the Indigo Protocol by staking ADA as collateral.\n\nWhen minting iUSD within the Indigo Protocol, users must deposit ADA in excess to uphold the Minimum Collateralization Ratio (MCR), thereby ensuring over-collateralization. Should the value of their ADA collateral approach the MCR threshold, users have the option to add more collateral to maintain the stability of their iUSD position.\n\nThe governance of iUSD parameters lies within the Indigo DAO, empowering stakeholders to vote on adjustments to the Minimum Collateralization Ratio for iUSD and all Indigo iAssets, thereby ensuring adaptability and stability within the ecosystem.",
+    "meta": "Find out about iUSD (iUSD) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token distri...",
+    "pageTitle": "iUSD - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://indigoprotocol.io",
+    "docs": "https://indigoprotocol.io",
+    "twitter": "https://twitter.com/Indigo_protocol",
+    "telegram": "https://t.me/indigo_protocol"
+  },
+  "relations": {
+    "alternatives": [
+      "bored-candy-city",
+      "coti",
+      "cardoggocoin"
+    ],
+    "related": [
+      "jpool",
+      "wildcat",
+      "tidal-finance"
+    ]
+  }
+}

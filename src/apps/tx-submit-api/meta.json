@@ -1,0 +1,36 @@
+{
+  "slug": "tx-submit-api",
+  "name": "tx-submit-api",
+  "logoUrl": "https://cdn.cardanocube.com/25kyak50gxuzebifc93jdhh2kw1z",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Cardano Transaction Submission API.",
+    "description": "A simple HTTP API which accepts a CBOR encoded Cardano transaction as a payload body and submits it to a Cardano full node using the Ouroboros LocalTxSubmission Node-to-Client (NtC) protocol.",
+    "meta": "Find out about tx-submit-api (DEVTOOL) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and ...",
+    "pageTitle": "tx-submit-api - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://github.com/blinklabs-io/tx-submit-api",
+    "docs": "https://github.com/blinklabs-io/tx-submit-api",
+    "twitter": "https://twitter.com/blinklabs_io"
+  },
+  "relations": {
+    "alternatives": [
+      "adadomains",
+      "flipside",
+      "traxed-supply-chain"
+    ],
+    "related": [
+      "walletgenie",
+      "poolinfo",
+      "epns"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "metadex",
+  "name": "MetaDEX",
+  "logoUrl": "https://cdn.cardanocube.com/drwbvh8jux1cyjozzr828y1x4f3w",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Pareto-optimal DEX on the Cardano blockchain.",
+    "description": "There have been many interesting innovations in the field of automated market maker (AMM) based decentralized exchanges (DEXes) over the past years. They suffered however from two major pathologies: Firstly, their contributions were separated over different products.\n\nSecondly, by running on the trailblazing but rather prototypical smart contract-platform of Ethereum, they had either to constrain themselves from utilizing the full potential offered by financial mathematics or be constrained in practice by the enormous gas fees. MIRQUR outlines an approach to remedy both; the former by extensive and formally verified mathematical analysis and development, the latter by the choice ofCardano as underlying smart contract platform.\n\nWhat sets us apart from the rest? Besides the anarchic intent, as far as we know this is the only platform to date offering this combination of features.\n\nMost AMM-DEXes offer only binary pools with exactly two tokens with the ideal ratio of 50:50 (the ideal ratio acts as an attractor state; pools always tend towards it). Portfolio pools allow liquidity providers not only to add any number of tokens to a pool but adjust their ideal ratios arbitrarily.\n\nLet’s say you want to be exposed to a portfolio consisting of 80% to ADA, 15% to MQR and 5% cBTC. With binary pools, achieving exposure following these ratios would require an unlikely and fleeting set of circumstances to arise. With portfolio pools (sometimes also known as multi-pools), you can just create a pool that always tends towards exactly your ideal portfolio.\n\nIf the price of a token decreases after you add liquidity to the pool, you suffer so-called impermanent loss. “Loss“ occurs because you would have potentially benefitted more by simply holding funds in your own wallet; “impermanent“ because if the price of the token reverts, you will no longer have any losses.\n\nTo get the best out of both worlds, we are offering insurance against that - if you qualify and withdraw while in impermanent loss, you will be reimbursed for the difference. This is a self-reinforcing feature since now people don’t have to fear impermanent loss.\n\nSmart tokens allow you to capture the “long tail”, ensuring there always will be a counterparty. Our convenient launch mechanism allows you to ICO into a smart token pool right away.\n\nBy limiting the price range between which a token can be traded, you not only protect yourself against impermanent loss (which becomes larger the more the price deviates from when you added liquidity), you also increase your capital efficiency: Essentially you are adding virtual liquidity to the pool. Think of it as leverage, but instead of risking liquidation you only risk the price moving out of your range, which simply means you won’t collect fees until it returns.\n\nMath is hard, but not forgetting that “-“ you pushed in over your “=“ or accidentally making a “u“ out of a “v“ is even harder. This is why we decided to deploy the LEAN theorem proof assistant to make absolutely sure this does not happen and that our service delivers what we have promised. LEAN is a programming language for doing math, provably correct and automatically verified.",
+    "meta": "Find out about MetaDEX (MRQR) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token dis...",
+    "pageTitle": "MetaDEX - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://metadex.fi",
+    "docs": "https://metadex.fi/wp-content/uploads/2021/12/mirqur.io_MetaDEX.fi_lightpaper.pdf",
+    "twitter": "https://twitter.com/MetaDEXfi",
+    "telegram": "https://t.me/mirqurio",
+    "discord": "https://discord.gg/ZqJnQPnHwa"
+  },
+  "relations": {
+    "alternatives": [
+      "shadow-exchange",
+      "art-nft",
+      "guchi"
+    ],
+    "related": [
+      "tangleswap",
+      "filet-finance",
+      "atrix"
+    ]
+  }
+}

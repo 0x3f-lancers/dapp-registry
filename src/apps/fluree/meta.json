@@ -1,0 +1,36 @@
+{
+  "slug": "fluree",
+  "name": "Fluree",
+  "logoUrl": "https://cdn.cardanocube.com/17n6d1qn7g6h5vmxu2ixq5y7d3nd",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Open source semantic graph database that guarantees data integrity, facilitates secure data sharing, and powers data insights",
+    "description": "Fluree is an immutable, time-ordered ledger. Each block is an atomic update that is cryptographically signed to prevent tampering and linked to the previous block in the chain. You can run Fluree privately or as part of a federated network.\n\nA private Fluree is a group of ledgers run on a single server, hosted either by you or by Fluree for you.\n\nA federated Fluree is a group of ledgers shared by a network. In addition to all the features of a private instance of Fluree, running Fluree federated provides additional data integrity. With a federated Fluree, the network uses an agreed-upon consensus algorithm to reach a shared state.",
+    "meta": "Find out about Fluree (FLUR) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token dist...",
+    "pageTitle": "Fluree - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://flur.ee",
+    "docs": "https://docs.flur.ee/docs/getting-started",
+    "twitter": "https://twitter.com/FlureePBC"
+  },
+  "relations": {
+    "alternatives": [
+      "wolfram-alpha",
+      "streamr",
+      "world-mobile"
+    ],
+    "related": [
+      "nethermind",
+      "subquery",
+      "ligmanode"
+    ]
+  }
+}

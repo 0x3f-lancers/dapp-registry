@@ -1,0 +1,36 @@
+{
+  "slug": "adahandle",
+  "name": "Ada Handle",
+  "logoUrl": "https://cdn.cardanocube.com/x7pu4qthexa8dieq1fhz838d78yx",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ADA Handle abstracts the annoyance of complex wallet addresses and replaces it with a simple and intuitive solution.",
+    "description": "Sending and receiving cryptocurrency is a pretty lame experience. You get the most security by sending directly to a cryptographic hash, but you give up readability, predictability, and memorization.\n\nThis is where ADA Handle comes in. We ensure that your custom address will always resolve to your current wallet address, every time. Of course, it wouldn't be very interesting to own a custom wallet address but be forced into relying on a central entity to resolve it. Thankfully, ADA Handle doesn't own the data associated with your address. You do, and it's secured on the Cardano blockchain. You can think of it as a domain service, but where you own the address perpetually, and the chain (instead of a DNS) takes care of the routing details. @handle works completely as an address routing service that lives on the Cardano blockchain. We never request, see, or interface with your private wallet keys. Instead, we utilize revolutionary new technology to ensure that we simply return a valid Cardano crypto address whenever a @handle is submitted, either to our web app or our upcoming API.\n\nWe are still in the pre-beta phase, but we have big plans — including a slick dApp interface for sending and receiving native Cardano tokens (deployed on launch day), as well as a full-featured public API for websites, wallets, and exchanges to utilize.",
+    "meta": "Find out about Ada Handle (HANDLE) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Toke...",
+    "pageTitle": "Ada Handle - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://adahandle.com",
+    "docs": "https://adahandle.com/#non-custodial",
+    "twitter": "https://twitter.com/adahandle"
+  },
+  "relations": {
+    "alternatives": [
+      "smart-contract-audit-token",
+      "blinklabs",
+      "aiken"
+    ],
+    "related": [
+      "optimism-eth-faucet",
+      "cns",
+      "erpc"
+    ]
+  }
+}

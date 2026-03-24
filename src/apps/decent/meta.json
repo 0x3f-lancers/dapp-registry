@@ -25,7 +25,11 @@
     "twitter": "https://x.com/decentxyz"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "slashtoken",
+      "multisender",
+      "intersend"
+    ],
     "related": [
       "sprintcheckout",
       "fjord-foundry"

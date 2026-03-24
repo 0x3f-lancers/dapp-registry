@@ -1,0 +1,37 @@
+{
+  "slug": "lucid",
+  "name": "Lucid",
+  "logoUrl": "https://cdn.cardanocube.com/jjz1fqz0rtt5k80xk66uaqhmvn4u",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Build on Cardano the easy way.",
+    "description": "It's Deno! Get started with Lucid straightaway, no package management needed or whatsoever. But Node.js developers are not left behind, Lucid is also available as NPM package. Compose it Since Lucid is JavaScript you get a lot of flexibility and ease of use out of the box. Off-chain code from apps can be reused, imported or composed together with other apps. Be independent Run the library entirely locally without the need to fetch data from external APIs. Thanks to Aiken Lucid can even evaluate smart contracts. Interoperability Lucid can be run pretty much anywhere. From backend server, browser, to mobile. The library is written in Deno with TypeScript and can additionally be bundled into an NPM package or web bundle. Clean and intuitive transaction API Don't bother anymore with balancing your transaction inputs/outputs, calculating fees and script costs. Lucid abstracts away all that complexity. Modular providers Use one of the existing blockchain providers in Lucid or implement your own provider. Diverse wallet selection Select CIP-0030 compatible browser wallets, import a wallet from a private key or simply view a certain address. Convenient and secure datum usability Instead of having to deal with raw plutus data Lucid allows you to leverage the underlying data structures and primitives of JavaScript. ‍\n\nGet started with Lucid straightaway, no package management needed or whatsoever. But Node.js developers are not left behind, Lucid is also available as NPM package.\n\nSince Lucid is JavaScript you get a lot of flexibility and ease of use out of the box. Off-chain code from apps can be reused, imported or composed together with other apps.\n\nRun the library entirely locally without the need to fetch data from external APIs. Thanks to Aiken Lucid can even evaluate smart contracts.\n\nLucid can be run pretty much anywhere. From backend server, browser, to mobile. The library is written in Deno with TypeScript and can additionally be bundled into an NPM package or web bundle.\n\nDon't bother anymore with balancing your transaction inputs/outputs, calculating fees and script costs. Lucid abstracts away all that complexity.\n\nUse one of the existing blockchain providers in Lucid or implement your own provider.\n\nSelect CIP-0030 compatible browser wallets, import a wallet from a private key or simply view a certain address.\n\nInstead of having to deal with raw plutus data Lucid allows you to leverage the underlying data structures and primitives of JavaScript.\n\n‍",
+    "meta": "Find out about Lucid (DEVTOOL) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token di...",
+    "pageTitle": "Lucid - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lucid.spacebudz.io",
+    "docs": "https://github.com/spacebudz/lucid",
+    "twitter": "https://twitter.com/berry_ales",
+    "discord": "https://discord.com/invite/82MWs63Tdm"
+  },
+  "relations": {
+    "alternatives": [
+      "uniblock",
+      "wolfradar",
+      "waya-collective"
+    ],
+    "related": [
+      "blockfrost",
+      "ipfs",
+      "blockery"
+    ]
+  }
+}

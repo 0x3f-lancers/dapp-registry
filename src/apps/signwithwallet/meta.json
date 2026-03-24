@@ -1,0 +1,36 @@
+{
+  "slug": "signwithwallet",
+  "name": "Sign With Wallet",
+  "logoUrl": "https://cdn.cardanocube.com/qspixchpp2cdp86nfhp22csgkdt8",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Sign with Wallet lets users log into apps with their wallet credentials instead of using traditional social media accounts.",
+    "description": "Sign with Wallet is a revolutionary authentication tool for Web3 and Web2 apps. It uses the oAuth2.0 protocol and secure message signing from a user's crypto wallet to allow them to login with their wallet credentials instead of traditional social media accounts. This means users can login with a single set of credentials across multiple apps while also maintaining control over their personal data.\n\nUnlike traditional social media login like Google or Facebook, Sign with Wallet preserves users' anonymity and digital identity by not sharing private information. Users are not at risk of being locked out of their accounts by those social media giants, and will not share anymore each App authentication details with them. Sign with Wallet is an open source development, making it a trustworthy choice for users.\n\nApp developers also greatly benefit from Sign with Wallet by defining customized authorization levels. This allows developers to tailor the level of access each user has within their app based on the user's wallet information and on-chain content like asset value or the presence of a particular NFT. This helps developers build faster and increase user trust and engagement.\n\nIf you develop a web2 or web3 App, show respect to your users and protect their digital identity by adding an Sign with Wallet authentication method. If you have already integrated a social sign-in (Google, Facebook, LinkedIn, Twitter...), your are probably 1 hour away from offering a working Sign with Wallet option for your end-users.\n\nIf you are interested to learn more, check those links:\n\nFeel free to contact us for more information, integration or any feature request.",
+    "meta": "Find out about Sign With Wallet (DEVTOOLS) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper ...",
+    "pageTitle": "Sign With Wallet - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://signwithwallet.com",
+    "docs": "https://incubiq.gitbook.io/siww",
+    "twitter": "https://twitter.com/signwithwallet"
+  },
+  "relations": {
+    "alternatives": [
+      "fabledraid",
+      "token-flow",
+      "blinklabs"
+    ],
+    "related": [
+      "adaresolver",
+      "fileverse",
+      "spring-labs"
+    ]
+  }
+}
