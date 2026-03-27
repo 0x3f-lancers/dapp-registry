@@ -2,24 +2,30 @@
   "slug": "ton-launchpad",
   "name": "Ton Launchpad",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-launchpad.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "Venture Capital Firms",
+  "subcategory": [
+    "Web3 Fundraising Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Ton Launchpad is a leading Launchpads on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Ton Launchpad is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Launchpads sector, Ton Launchpad focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Ton Launchpad provides high-quality Launchpads services on TON. Discover Ton Launchpad and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Ton Launchpad - Launchpads on TON - Lancers Web3 Explorer"
+    "short": "Ton Launchpad is a comprehensive platform for fundraising, marketing, and token management on TON.",
+    "description": "Ton Launchpad is a professional-grade fundraising and project incubation platform built specifically for the TON blockchain. It provides developers with a full suite of decentralized tools, including token minting, automated airdrops, and liquidity lockers, to ensure a secure and successful project launch. For investors, Ton Launchpad offers early access to vetted projects through a transparent IDO process. By consolidating these essential services, it serves as a critical infrastructure piece for the growth and professionalization of the TON ecosystem.",
+    "meta": "Launch or invest in new TON projects with Ton Launchpad. Secure Web3 fundraising on Lancers Web3 Explorer.",
+    "pageTitle": "Ton Launchpad - Venture Capital Firms - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonlaunchpad.com",
-    "twitter": "https://x.com/https://x.com/TonLaunchpad"
+    "twitter": "https://x.com/TonLaunchpad"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "metalaunch",
+      "a16z",
+      "solana-ventures"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

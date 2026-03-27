@@ -3,23 +3,29 @@
   "name": "Ton Vote",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-vote.svg",
   "category": "DAO Tools",
-  "subcategory": [],
+  "subcategory": [
+    "DAO Developer Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Ton Vote is a leading DAO Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Ton Vote is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DAO Tools sector, Ton Vote focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Ton Vote provides high-quality DAO Tools services on TON. Discover Ton Vote and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Ton Vote - DAO Tools on TON - Lancers Web3 Explorer"
+    "short": "Ton Vote is an on-chain governance platform for TON, enabling transparent and secure community voting.",
+    "description": "Ton Vote is a specialized decentralized governance platform designed for the TON ecosystem, functioning similarly to Snapshot. It enables projects, DAOs, and communities on TON to conduct transparent, on-chain voting processes where token holders can influence the direction of their favorite protocols. By providing a secure and verifiable way to gauge community sentiment, Ton Vote promotes decentralization and active participation, ensuring that governance decisions are made fairly and recorded permanently on the blockchain.",
+    "meta": "Participate in TON governance with Ton Vote. Secure on-chain voting for DAOs on Lancers Web3 Explorer.",
+    "pageTitle": "Ton Vote - DAO Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://ton.vote/",
-    "twitter": "https://x.com/[ton_vote](https://twitter.com/ton_vote)"
+    "twitter": "https://twitter.com/ton_vote"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "sismo",
+      "dexe-dao-studio",
+      "emerald-city-dao"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

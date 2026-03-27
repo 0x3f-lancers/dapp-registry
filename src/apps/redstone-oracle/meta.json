@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Redstone Oracle is a leading DeFi Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Redstone Oracle is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Tools sector, Redstone Oracle focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Redstone Oracle provides high-quality DeFi Tools services on TON. Discover Redstone Oracle and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Redstone Oracle - DeFi Tools on TON - Lancers Web3 Explorer"
+    "short": "Redstone Oracle provides real-time, reliable data feeds for DeFi applications operating on the TON blockchain.",
+    "description": "Redstone is a modular oracle protocol that delivers high-frequency, reliable data feeds for decentralized finance (DeFi) on the TON blockchain. It utilizes an innovative data delivery model that bypasses traditional on-chain storage costs by delivering signed data packages off-chain and allowing dApps to verify them on-demand. Redstone supports thousands of assets, including cryptocurrencies, stocks, and commodities, providing TON developers with the precise and timely information needed to build sophisticated lending protocols, DEXs, and synthetic asset platforms.",
+    "meta": "Power your TON DeFi dApps with Redstone's reliable data oracles. Discover more tools on Lancers Web3 Explorer.",
+    "pageTitle": "Redstone Oracle - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://redstone.finance/",
-    "twitter": "https://x.com/[redstone_defi](https://twitter.com/redstone_defi)"
+    "twitter": "https://twitter.com/redstone_defi"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "openbb",
+      "blockpour",
+      "defillama"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

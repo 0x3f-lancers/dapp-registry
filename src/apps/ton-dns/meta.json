@@ -2,24 +2,30 @@
   "slug": "ton-dns",
   "name": "TON DNS",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-dns.svg",
-  "category": "Identity Tools",
-  "subcategory": [],
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Name Service Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "TON DNS is a leading Identity Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "TON DNS is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Identity Tools sector, TON DNS focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "TON DNS provides high-quality Identity Tools services on TON. Discover TON DNS and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "TON DNS - Identity Tools on TON - Lancers Web3 Explorer"
+    "short": "TON DNS allows users to assign human-readable names to their complex wallet addresses for easier transactions.",
+    "description": "TON DNS (Domain Name System) is a foundational service for The Open Network that enhances the user experience by replacing long, complex wallet addresses with human-readable names (e.g., 'yourname.ton'). These domains are stored as NFTs on the blockchain, ensuring that owners have full control over their digital identity. TON DNS makes it significantly easier to send and receive funds, access decentralized websites, and interact with various ecosystem services, making the TON blockchain more accessible to everyday users.",
+    "meta": "Claim your .ton domain with TON DNS. Simplify your Web3 identity and transactions on Lancers Web3 Explorer.",
+    "pageTitle": "TON DNS - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://dns.ton.org/",
-    "twitter": "https://x.com/[ton_blockchain](https://twitter.com/ton_blockchain)"
+    "twitter": "https://twitter.com/ton_blockchain"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "ivendpay",
+      "solnames",
+      "apillon-embedded-wallet-service"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

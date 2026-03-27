@@ -3,23 +3,29 @@
   "name": "Otter Loot",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/otter-loot.svg",
   "category": "Decentralized Games",
-  "subcategory": [],
+  "subcategory": [
+    "Web3 Games"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Otter Loot is a leading Games on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Otter Loot is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Games sector, Otter Loot focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Otter Loot provides high-quality Games services on TON. Discover Otter Loot and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Otter Loot - Games on TON - Lancers Web3 Explorer"
+    "short": "Otter Loot is a gamified TON app where players spin, raid, and complete quests for token rewards.",
+    "description": "Otter Loot is a dynamic and social-driven gamified application operating on the TON blockchain. It features a variety of engaging mechanics, including a prize wheel, raiding other players' bases, and completing diverse quests to earn $OtterCoins. Designed to build community engagement ahead of future token distributions, Otter Loot provides a fun and competitive environment for users to interact with the TON ecosystem. Its focus on social competition and rewarding participation has made it a standout project for users looking for an interactive Web3 experience.",
+    "meta": "Spin, raid, and earn with Otter Loot on TON. Join the gamified social experience on Lancers Web3 Explorer.",
+    "pageTitle": "Otter Loot - Decentralized Games - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://otterloot.io",
-    "twitter": "https://x.com/https://x.com/OtterLoot"
+    "twitter": "https://x.com/OtterLoot"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "classic-ton-game",
+      "chaos-war",
+      "city-holder"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

@@ -2,24 +2,30 @@
   "slug": "ai-sketch-art",
   "name": "AI Sketch Art",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ai-sketch-art.svg",
-  "category": "Web3 Social Dapps",
-  "subcategory": [],
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "NFT APIs"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "AI Sketch Art is a leading Social on the TON network, providing users with seamless access to decentralized services.",
-    "description": "AI Sketch Art is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Social sector, AI Sketch Art focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "AI Sketch Art provides high-quality Social services on TON. Discover AI Sketch Art and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "AI Sketch Art - Social on TON - Lancers Web3 Explorer"
+    "short": "AI Sketch Art is a generative AI tool on TON that helps creators produce and mint AI-driven NFT collections.",
+    "description": "AI Sketch Art is a creative utility application within the TON ecosystem that leverages advanced artificial intelligence to assist artists and developers in generating digital art. The platform provides intuitive tools for producing unique, AI-driven sketches and illustrations that can be easily minted as generative NFT collections on the TON blockchain. By lowering the barrier to high-quality digital creation, AI Sketch Art empowers a new generation of creators to explore the intersection of AI and Web3, fostering innovation and artistic diversity across the network's NFT marketplaces.",
+    "meta": "Create AI-driven art on TON with AI Sketch Art. The ultimate tool for generative NFT creators on Lancers Web3 Explorer.",
+    "pageTitle": "AI Sketch Art - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://aisketch.art",
-    "twitter": "https://x.com/https://x.com/AISketchArt"
+    "twitter": "https://x.com/AISketchArt"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "nftgators",
+      "apeworx-ape",
+      "apillon"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

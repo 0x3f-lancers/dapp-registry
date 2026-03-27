@@ -2,24 +2,30 @@
   "slug": "chainalysis",
   "name": "Chainalysis",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/chainalysis.svg",
-  "category": "NFT Dapps",
-  "subcategory": [],
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Chainalysis is a leading NFT Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Chainalysis is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT Dapps sector, Chainalysis focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Chainalysis provides high-quality NFT Dapps services on TON. Discover Chainalysis and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Chainalysis - NFT Dapps on TON - Lancers Web3 Explorer"
+    "short": "Chainalysis is a leading blockchain data platform providing investigation and compliance software globally.",
+    "description": "Chainalysis is the leading provider of blockchain data and investigation tools, used by government agencies, exchanges, and financial institutions worldwide. Its platform offers comprehensive mapping of the TON blockchain and dozens of others, providing the insights needed to track illicit funds, perform due diligence, and ensure regulatory compliance. Chainalysis's mission is to build trust in blockchains by providing actionable data that helps organizations understand on-chain activity and protect the integrity of the global digital economy.",
+    "meta": "Trust your blockchain data with Chainalysis. Investigation and compliance software featured on Lancers Web3 Explorer.",
+    "pageTitle": "Chainalysis - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.chainalysis.com/",
-    "twitter": "https://x.com/[chainalysis](https://twitter.com/chainalysis)"
+    "twitter": "https://twitter.com/chainalysis"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "hakflow",
+      "defimoon",
+      "red-team"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

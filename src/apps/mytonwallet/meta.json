@@ -3,23 +3,29 @@
   "name": "MyTonWallet",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/mytonwallet.svg",
   "category": "Web3 Wallets",
-  "subcategory": [],
+  "subcategory": [
+    "Software Wallets"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "MyTonWallet is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "MyTonWallet is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, MyTonWallet focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "MyTonWallet provides high-quality Wallets services on TON. Discover MyTonWallet and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "MyTonWallet - Wallets on TON - Lancers Web3 Explorer"
+    "short": "MyTonWallet is a feature-rich, open-source wallet for TON and TRON, featuring integrated staking and token swaps.",
+    "description": "MyTonWallet is a comprehensive, open-source wallet designed for power users on the TON and TRON blockchains. It offers advanced tools such as multi-account management, built-in staking pools, and efficient token swaps. A standout feature is 'TON Magic,' which enables seamless asset transfers directly within Telegram. By prioritizing transparency and functionality, MyTonWallet provides a robust environment for managing complex digital asset portfolios while maintaining high security standards.",
+    "meta": "Explore MyTonWallet, a feature-rich open-source wallet for TON. Securely manage assets and staking on Lancers Web3 Explorer.",
+    "pageTitle": "MyTonWallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://mytonwallet.io/",
-    "twitter": "https://x.com/[MyTonWallet](https://twitter.com/MyTonWallet)"
+    "twitter": "https://twitter.com/MyTonWallet"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "Goki",
+      "saakuru",
+      "sequence-wallet"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

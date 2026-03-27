@@ -2,24 +2,30 @@
   "slug": "tonpay",
   "name": "Tonpay",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonpay.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tonpay is a leading Utilities on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tonpay is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Utilities sector, Tonpay focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tonpay provides high-quality Utilities services on TON. Discover Tonpay and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tonpay - Utilities on TON - Lancers Web3 Explorer"
+    "short": "Tonpay is a fast and secure payment solution platform on TON for personal and business transactions.",
+    "description": "Tonpay is a comprehensive cryptocurrency payment gateway and ecosystem built on the TON blockchain. It enables both individuals and businesses to accept Toncoin and various Jettons securely and efficiently, featuring non-custodial wallet integration and instant settlements. Tonpay provides a range of tools including payment links, invoicing, and e-commerce plugins that simplify the process of blockchain-based commerce. By prioritizing a user-friendly experience and low transaction costs, Tonpay is driving the real-world adoption of digital assets within the global TON community.",
+    "meta": "Accept TON payments easily with Tonpay. Fast and secure crypto payment gateway on Lancers Web3 Explorer.",
+    "pageTitle": "Tonpay - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonpay.io",
-    "twitter": "https://x.com/https://x.com/tonpay_io"
+    "twitter": "https://x.com/tonpay_io"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "acctual",
+      "meld",
+      "holyheld"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

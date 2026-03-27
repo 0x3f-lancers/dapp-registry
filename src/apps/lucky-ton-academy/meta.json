@@ -2,7 +2,7 @@
   "slug": "lucky-ton-academy",
   "name": "Lucky TON Academy",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/lucky-ton-academy.svg",
-  "category": "Web3 Service Providers",
+  "category": "Web3 Developer Tools",
   "subcategory": [
     "Web3 Education Resources"
   ],
@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Lucky TON Academy is a leading Education on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Lucky TON Academy is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Education sector, Lucky TON Academy focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Lucky TON Academy provides high-quality Education services on TON. Discover Lucky TON Academy and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Lucky TON Academy - Education on TON - Lancers Web3 Explorer"
+    "short": "Lucky TON Academy is an educational platform dedicated to teaching users about blockchain and the TON network.",
+    "description": "Lucky TON Academy is a specialized educational portal designed to onboard and educate users within The Open Network. It provides a wide range of resources, from beginner guides on blockchain basics to advanced tutorials on participating in TON-based decentralized applications. By offering structured learning paths and up-to-date information on ecosystem developments, Lucky TON Academy empowers individuals to navigate the Web3 space safely and effectively, fostering a more informed and engaged community of TON participants.",
+    "meta": "Learn everything about TON with Lucky TON Academy. Free educational resources for Web3 on Lancers Web3 Explorer.",
+    "pageTitle": "Lucky TON Academy - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://academy.luckyton.org",
-    "twitter": "https://x.com/[lkyton](https://x.com/lkyton)"
+    "twitter": "https://x.com/lkyton"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "sepolia-testnet-block-explorer",
+      "aarc",
+      "agorapp"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

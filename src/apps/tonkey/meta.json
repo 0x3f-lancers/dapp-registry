@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tonkey is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tonkey is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Tonkey focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tonkey provides high-quality Wallets services on TON. Discover Tonkey and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tonkey - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Tonkey is a specialized multisig wallet for TON, designed for secure team management of shared digital funds.",
+    "description": "Tonkey is a dedicated multi-signature (multisig) wallet built specifically for the TON blockchain. It is designed to meet the needs of teams, DAOs, and organizations by requiring multiple approvals for any transaction, significantly reducing the risk of unauthorized access or single points of failure. Tonkey provides a professional-grade interface for managing shared treasuries, ensuring that institutional and group funds on TON are handled with the highest levels of security and governance.",
+    "meta": "Manage team funds securely with Tonkey, the premier multisig wallet for TON. Explore on Lancers Web3 Explorer.",
+    "pageTitle": "Tonkey - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonkey.app/",
-    "twitter": "https://x.com/[TonkeyApp](https://twitter.com/TonkeyApp)"
+    "twitter": "https://twitter.com/TonkeyApp"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "pillar",
+      "MEW-wallet",
+      "alphawallet"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

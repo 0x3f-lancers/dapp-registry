@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Bemo Finance is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Bemo Finance is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Bemo Finance focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Bemo Finance provides high-quality DeFi Dapps services on TON. Discover Bemo Finance and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Bemo Finance - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "Bemo Finance is a non-custodial liquid staking protocol on TON that issues stTON to maximize user yield.",
+    "description": "Bemo Finance is a non-custodial liquid staking protocol designed for the TON blockchain. It allows users to stake their Toncoin and receive stTON tokens in return, which represent their share of the staking pool and its earned rewards. stTON can be used across various DeFi applications, ensuring that users' capital remains productive while they contribute to the security of the network. Bemo Finance focuses on providing a secure, transparent, and high-yield staking experience for all participants.",
+    "meta": "Earn staking rewards while staying liquid with Bemo Finance on TON. Discover liquid staking on Lancers Web3 Explorer.",
+    "pageTitle": "Bemo Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.bemo.finance/",
-    "twitter": "https://x.com/[bemo_finance](https://twitter.com/bemo_finance)"
+    "twitter": "https://twitter.com/bemo_finance"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "maverick",
+      "rhinofi",
+      "minterest"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

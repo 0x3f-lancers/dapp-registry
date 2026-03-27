@@ -3,23 +3,29 @@
   "name": "Tradoor",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tradoor.svg",
   "category": "DeFi Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tradoor is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tradoor is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Tradoor focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tradoor provides high-quality DeFi Dapps services on TON. Discover Tradoor and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tradoor - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "Tradoor is a high-speed decentralized derivatives exchange on TON focusing on low-latency perpetual trading.",
+    "description": "Tradoor is a high-performance decentralized derivatives exchange on the TON blockchain, engineered for exceptional speed and low-latency execution. It provides traders with a professional environment for trading perpetual futures with significant leverage, backed by advanced risk management and a robust liquidity model. By leveraging TON's scalable architecture, Tradoor delivers a seamless trading experience that rivals centralized exchanges while maintaining the security and transparency of a non-custodial protocol, catering to the needs of professional and retail traders alike.",
+    "meta": "Trade with lightning speed on Tradoor, the professional TON derivatives DEX. Explore on Lancers Web3 Explorer.",
+    "pageTitle": "Tradoor - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tradoor.io/",
-    "twitter": "https://x.com/[tradoor_io](https://twitter.com/tradoor_io)"
+    "twitter": "https://twitter.com/tradoor_io"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "01",
+      "oriole-insights",
+      "torch-finance-app"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

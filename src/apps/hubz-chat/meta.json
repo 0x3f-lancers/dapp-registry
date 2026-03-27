@@ -2,24 +2,30 @@
   "slug": "hubz-chat",
   "name": "Hubz Chat",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/hubz-chat.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "Web3 Social Dapps",
+  "subcategory": [
+    "Web3 Social Media Dapps"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Hubz Chat is a leading Utilities on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Hubz Chat is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Utilities sector, Hubz Chat focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Hubz Chat provides high-quality Utilities services on TON. Discover Hubz Chat and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Hubz Chat - Utilities on TON - Lancers Web3 Explorer"
+    "short": "Hubz is a social platform on TON that enables token-gating and monetization for Telegram communities.",
+    "description": "Hubz is an innovative SocialFi application built on the TON blockchain that enhances the utility of Telegram communities. It allows group owners to implement advanced on-chain connectivity, such as token-gating for exclusive access, detailed member analytics, and direct monetization through its 'AccessPass' feature. Hubz enables communities to create their own decentralized economies, rewarding active members and providing creators with a transparent and secure way to share value with their audience. It is a key tool for professional community management and SocialFi growth on TON.",
+    "meta": "Monetize your Telegram community with Hubz on TON. Token-gating and social analytics on Lancers Web3 Explorer.",
+    "pageTitle": "Hubz Chat - Web3 Social Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://hubz.io",
-    "twitter": "https://x.com/https://x.com/HubzChat"
+    "twitter": "https://x.com/HubzChat"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "atlantis",
+      "cyber-connect",
+      "1frgvn"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

@@ -3,23 +3,29 @@
   "name": "Tact Language",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tact-language.svg",
   "category": "Web3 Developer Tools",
-  "subcategory": [],
+  "subcategory": [
+    "Web3 Languages"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tact Language is a leading Web3 Developer Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tact Language is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Developer Tools sector, Tact Language focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tact Language provides high-quality Web3 Developer Tools services on TON. Discover Tact Language and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tact Language - Web3 Developer Tools on TON - Lancers Web3 Explorer"
+    "short": "Tact is a developer-friendly, high-level programming language designed specifically for TON smart contracts.",
+    "description": "Tact is a modern, high-level programming language designed from the ground up to be the most developer-friendly way to write smart contracts for the TON blockchain. It emphasizes safety, readability, and ease of use, featuring a syntax that is intuitive for developers familiar with languages like TypeScript. Tact handles the complexities of TON's asynchronous architecture automatically, allowing developers to focus on business logic while reducing the risk of common smart contract errors. It is a key tool for expanding the TON developer ecosystem.",
+    "meta": "Write safe and intuitive TON contracts with Tact Language. Explore the future of TON on Lancers Web3 Explorer.",
+    "pageTitle": "Tact Language - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tact-lang.org/",
-    "twitter": "https://x.com/[tact_language](http://twitter.com/tact_language)"
+    "twitter": "https://twitter.com/tact_language"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "griffin",
+      "tokensoft",
+      "intellij-idea"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

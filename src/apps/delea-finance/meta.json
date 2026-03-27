@@ -2,24 +2,30 @@
   "slug": "delea-finance",
   "name": "Delea Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/delea-finance.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Delea Finance is a leading Utilities on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Delea Finance is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Utilities sector, Delea Finance focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Delea Finance provides high-quality Utilities services on TON. Discover Delea Finance and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Delea Finance - Utilities on TON - Lancers Web3 Explorer"
+    "short": "Delea Finance is a decentralized borrowing protocol on TON that allows users to mint DONE stablecoins.",
+    "description": "Delea Finance is a robust decentralized borrowing platform (CDP) built on the TON blockchain, designed to provide users with efficient access to liquidity. It allows participants to deposit over-collateralized assets, such as Toncoin or liquid staking tokens, to mint the DONE stablecoin in a secure and non-custodial manner. Delea Finance focuses on capital efficiency and transparency, providing the essential infrastructure for users to unlock the value of their holdings without selling them. It is a core component of the growing decentralized credit market within the TON DeFi ecosystem.",
+    "meta": "Mint DONE stablecoins with Delea Finance on TON. Secure decentralized borrowing on Lancers Web3 Explorer.",
+    "pageTitle": "Delea Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://delea.finance",
-    "twitter": "https://x.com/https://x.com/DeleaFinance"
+    "twitter": "https://x.com/DeleaFinance"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "radiant-capital",
+      "agni-finance",
+      "earn-network"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

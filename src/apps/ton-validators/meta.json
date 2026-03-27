@@ -2,26 +2,30 @@
   "slug": "ton-validators",
   "name": "TON Validators",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-validators.svg",
-  "category": "DeFi Dapps",
+  "category": "Blockchains",
   "subcategory": [
-    "Liquid Staking Platforms"
+    "Layer 1 Blockchains (L1s)"
   ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "TON Validators is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "TON Validators is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, TON Validators focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "TON Validators provides high-quality DeFi Dapps services on TON. Discover TON Validators and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "TON Validators - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "TON Validators are the decentralized nodes responsible for securing and processing transactions on the TON network.",
+    "description": "TON Validators are a decentralized network of nodes that maintain the integrity and security of The Open Network (TON) through a Proof-of-Stake (PoS) consensus mechanism. These validators are responsible for processing transactions, creating new blocks, and ensuring that the network operates correctly and without censorship. By staking significant amounts of Toncoin, validators are incentivized to act in the network's best interest. The decentralized nature of the validator pool is what makes the TON blockchain robust, secure, and resilient to attacks or manipulation.",
+    "meta": "Learn about the nodes that secure TON. Discover TON Validators and PoS on Lancers Web3 Explorer.",
+    "pageTitle": "TON Validators - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonvalidators.org/",
     "twitter": ""
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "canvas-connect",
+      "sei-network",
+      "immutablex"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

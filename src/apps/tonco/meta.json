@@ -3,23 +3,29 @@
   "name": "TONCO",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonco.svg",
   "category": "DeFi Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "TONCO is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "TONCO is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, TONCO focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "TONCO provides high-quality DeFi Dapps services on TON. Discover TONCO and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "TONCO - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "TONCO is the first concentrated liquidity DEX on TON, allowing for maximized capital efficiency for providers.",
+    "description": "TONCO is a pioneering decentralized exchange on the TON blockchain that introduces concentrated liquidity to the ecosystem. Unlike traditional AMMs, TONCO allows liquidity providers to specify price ranges for their capital, significantly increasing capital efficiency and reducing slippage for traders. This advanced model attracts deeper liquidity and provides a more sophisticated trading environment for all users. By bringing this high-efficiency DEX model to TON, TONCO is pushing the boundaries of what is possible in decentralized finance on the network.",
+    "meta": "Maximize your liquidity yield with TONCO, the first concentrated liquidity DEX on TON. Explore on Lancers Web3 Explorer.",
+    "pageTitle": "TONCO - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonco.io/",
-    "twitter": "https://x.com/[Tonco_io](https://x.com/Tonco_io)"
+    "twitter": "https://x.com/Tonco_io"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "bemo",
+      "platypus-finance",
+      "tulip"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

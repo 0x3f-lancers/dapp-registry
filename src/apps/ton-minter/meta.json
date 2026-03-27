@@ -2,26 +2,30 @@
   "slug": "ton-minter",
   "name": "TON Minter",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-minter.svg",
-  "category": "Web3 Developer Tools",
+  "category": "Web3 Wallet Tools",
   "subcategory": [
-    "Web3 SDKs"
+    "Token Management Tools"
   ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "TON Minter is a leading Web3 Developer Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "TON Minter is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Developer Tools sector, TON Minter focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "TON Minter provides high-quality Web3 Developer Tools services on TON. Discover TON Minter and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "TON Minter - Web3 Developer Tools on TON - Lancers Web3 Explorer"
+    "short": "TON Minter is an easy-to-use tool for creating and deploying Jettons on TON without any coding knowledge.",
+    "description": "TON Minter is a user-friendly, open-source tool that democratizes token creation on The Open Network. It allows anyone to easily mint and deploy their own Jettons (fungible tokens) without needing to write a single line of code. Through a simple web interface, users can define their token's name, symbol, and supply, and deploy it directly to the TON blockchain. TON Minter is a crucial tool for community leaders, developers, and entrepreneurs looking to quickly launch new assets and experiment within the TON ecosystem.",
+    "meta": "Create your own TON tokens in minutes with TON Minter. No coding required, featured on Lancers Web3 Explorer.",
+    "pageTitle": "TON Minter - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://minter.ton.org/",
-    "twitter": "https://x.com/[ton_blockchain](https://twitter.com/ton_blockchain)"
+    "twitter": "https://twitter.com/ton_blockchain"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "sygnum-web3-recovery",
+      "apillon-embedded-wallet-service",
+      "acctual"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

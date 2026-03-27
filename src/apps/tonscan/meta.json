@@ -2,24 +2,30 @@
   "slug": "tonscan",
   "name": "Tonscan",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonscan.svg",
-  "category": "Infrastructure Tools",
-  "subcategory": [],
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tonscan is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tonscan is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, Tonscan focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tonscan provides high-quality Infrastructure Tools services on TON. Discover Tonscan and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tonscan - Infrastructure Tools on TON - Lancers Web3 Explorer"
+    "short": "Tonscan is one of the original and most trusted blockchain explorers for the TON network, essential for data verification.",
+    "description": "Tonscan is a well-established and highly trusted blockchain explorer for the TON network. It provides a comprehensive suite of tools for searching and verifying on-chain data, including individual transactions, block details, and smart contract source codes. As one of the earliest explorers in the ecosystem, Tonscan has a long-standing reputation for accuracy and reliability, serving as a primary resource for both casual users and developers to confirm network activity and maintain transparency across the TON blockchain.",
+    "meta": "Verify transactions and smart contracts on Tonscan, the trusted TON explorer. Essential tools on Lancers Web3 Explorer.",
+    "pageTitle": "Tonscan - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonscan.org/",
     "twitter": ""
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "globalcryptopress",
+      "abi-parser",
+      "cryptoflies"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

@@ -2,24 +2,30 @@
   "slug": "spide",
   "name": "Spide",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/spide.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "NFT Dapps",
+  "subcategory": [
+    "NFT Marketplaces"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Spide is a leading Utilities on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Spide is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Utilities sector, Spide focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Spide provides high-quality Utilities services on TON. Discover Spide and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Spide - Utilities on TON - Lancers Web3 Explorer"
+    "short": "Spide is a community NFT project on TON focusing on unique digital collectibles and social status.",
+    "description": "Spide is a dynamic and community-driven NFT project on the TON blockchain that emphasizes the social and status-building aspects of digital asset ownership. Centered around a collection of uniquely designed characters, Spide provides holders with a distinct digital identity within the Telegram ecosystem and access to exclusive community-led events and rewards. The project focuses on fostering a vibrant and highly engaged 'hero' culture, leveraging the speed and social integration of TON to create an interactive and rewarding experience for its passionate following of digital collectors.",
+    "meta": "Join the Spide community on TON. Collect unique hero NFTs and earn rewards on Lancers Web3 Explorer.",
+    "pageTitle": "Spide - NFT Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://spide.io",
-    "twitter": "https://x.com/https://x.com/Spide_TON"
+    "twitter": "https://x.com/Spide_TON"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "tiexo",
+      "autograph",
+      "ghostmarket"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

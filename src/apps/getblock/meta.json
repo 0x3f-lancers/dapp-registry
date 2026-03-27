@@ -3,23 +3,29 @@
   "name": "GetBlock",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/getblock.svg",
   "category": "Infrastructure Tools",
-  "subcategory": [],
+  "subcategory": [
+    "RPC Node Providers"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "GetBlock is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "GetBlock is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, GetBlock focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "GetBlock provides high-quality Infrastructure Tools services on TON. Discover GetBlock and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "GetBlock - Infrastructure Tools on TON - Lancers Web3 Explorer"
+    "short": "GetBlock is a premier node provider offering instant access to TON nodes via JSON-RPC, REST, and WebSockets.",
+    "description": "GetBlock is a comprehensive blockchain node provider that offers seamless API access to the TON network. It supports various connection methods including JSON-RPC, REST, and WebSockets, providing developers with the flexibility they need to build sophisticated dApps, wallets, and bots. GetBlock's robust infrastructure ensures 99% uptime and high performance, making it a reliable choice for TON projects of all sizes. By providing easy access to real-time network data, GetBlock accelerates the development and deployment of new services on TON.",
+    "meta": "Access TON nodes instantly with GetBlock's professional API service. Build better on Lancers Web3 Explorer.",
+    "pageTitle": "GetBlock - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://getblock.io/nodes/ton/",
-    "twitter": "https://x.com/[getblockio](https://twitter.com/getblockio)"
+    "twitter": "https://twitter.com/getblockio"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "adot",
+      "3xpl-explorer",
+      "chainstack"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

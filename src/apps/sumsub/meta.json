@@ -2,24 +2,30 @@
   "slug": "sumsub",
   "name": "Sumsub",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/sumsub.svg",
-  "category": "NFT Dapps",
-  "subcategory": [],
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Sumsub is a leading NFT Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Sumsub is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT Dapps sector, Sumsub focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Sumsub provides high-quality NFT Dapps services on TON. Discover Sumsub and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Sumsub - NFT Dapps on TON - Lancers Web3 Explorer"
+    "short": "Sumsub is an all-in-one verification platform that automates KYC, KYB, and AML screening for Web3.",
+    "description": "Sumsub is a leading global verification platform designed to orchestrate the entire user onboarding and compliance process. It provides an all-in-one solution for KYC (Know Your Customer), KYB (Know Your Business), and AML (Anti-Money Laundering) screening, specifically tailored for the needs of the Web3 ecosystem including TON-based projects. Sumsub's platform utilizes advanced AI to automate document verification and liveness checks, helping businesses scale globally while staying compliant with ever-changing international regulations and protecting against fraud.",
+    "meta": "Automate your Web3 compliance with Sumsub. All-in-one KYC and AML solutions on Lancers Web3 Explorer.",
+    "pageTitle": "Sumsub - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://sumsub.com/",
-    "twitter": "https://x.com/[Sumsubcom](https://twitter.com/Sumsubcom)"
+    "twitter": "https://twitter.com/Sumsubcom"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "yaudit",
+      "solidcheck",
+      "smartstate"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

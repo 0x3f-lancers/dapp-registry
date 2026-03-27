@@ -2,24 +2,30 @@
   "slug": "gagarin-world",
   "name": "Gagarin World",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/gagarin-world.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "Venture Capital Firms",
+  "subcategory": [
+    "Web3 Fundraising Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Gagarin World is a leading Launchpads on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Gagarin World is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Launchpads sector, Gagarin World focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Gagarin World provides high-quality Launchpads services on TON. Discover Gagarin World and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Gagarin World - Launchpads on TON - Lancers Web3 Explorer"
+    "short": "Gagarin World is a multi-chain incubator and launchpad supporting TON through expert mentorship and IDOs.",
+    "description": "Gagarin World is a prominent multi-chain incubator and decentralized launchpad that helps high-potential projects transition from initial ideation to a successful public launch. It provides expert mentorship, business development support, and access to a vast network of VCs and market makers. Gagarin World offers a tiered investment system for its community, allowing users to participate in exclusive IDOs and private rounds. By providing a bridge between the TON and EVM networks, Gagarin World enhances liquidity and visibility for the most ambitious projects in the ecosystem.",
+    "meta": "Incubate and launch your TON project with Gagarin World. Discover IDOs on Lancers Web3 Explorer.",
+    "pageTitle": "Gagarin World - Venture Capital Firms - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://gagarin.world",
-    "twitter": "https://x.com/https://x.com/GagarinWorld"
+    "twitter": "https://x.com/GagarinWorld"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "multicoin-capital",
+      "0xpivot",
+      "polygon-ventures"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

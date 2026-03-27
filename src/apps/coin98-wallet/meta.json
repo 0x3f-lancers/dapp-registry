@@ -3,23 +3,29 @@
   "name": "Coin98 Wallet",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/coin98-wallet.svg",
   "category": "Web3 Wallets",
-  "subcategory": [],
+  "subcategory": [
+    "Software Wallets"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Coin98 Wallet is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Coin98 Wallet is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Coin98 Wallet focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Coin98 Wallet provides high-quality Wallets services on TON. Discover Coin98 Wallet and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Coin98 Wallet - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Coin98 Wallet is a multi-chain 'super app' that integrates TON for asset management, swaps, and dApp access.",
+    "description": "Coin98 Wallet is a versatile 'super app' designed to bridge users to the multi-chain future, now with full integration for the TON blockchain. It offers a comprehensive suite of tools for managing assets, performing cross-chain swaps, and accessing a vast array of decentralized applications. By supporting multiple blockchains natively, Coin98 Wallet simplifies the complex landscape of Web3, providing a unified and secure interface for users to explore the TON ecosystem and beyond.",
+    "meta": "Experience the multi-chain future with Coin98 Wallet. Manage TON assets and explore dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Coin98 Wallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://coin98.com/wallet",
-    "twitter": "https://x.com/[coin98_wallet](https://twitter.com/coin98_wallet)"
+    "twitter": "https://twitter.com/coin98_wallet"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "walletverse",
+      "atomic-wallet",
+      "coin-wallet"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

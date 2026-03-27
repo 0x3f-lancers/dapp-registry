@@ -3,23 +3,29 @@
   "name": "CryptoHacker",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/cryptohacker.svg",
   "category": "Decentralized Games",
-  "subcategory": [],
+  "subcategory": [
+    "Web3 Games"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "CryptoHacker is a leading Games on the TON network, providing users with seamless access to decentralized services.",
-    "description": "CryptoHacker is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Games sector, CryptoHacker focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "CryptoHacker provides high-quality Games services on TON. Discover CryptoHacker and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "CryptoHacker - Games on TON - Lancers Web3 Explorer"
+    "short": "CryptoHacker is a simulation game on TON where players 'hack' virtual vaults for token rewards.",
+    "description": "CryptoHacker is an engaging simulation game built as a Telegram Mini App on the TON blockchain. It casts players in the role of a digital intruder, tasked with 'hacking' through various levels of virtual security to unlock vaults containing in-game tokens. These rewards can then be exchanged for real Jettons within the project's ecosystem. CryptoHacker focuses on progression-based gameplay and provides a fun, thematic way for users to participate in the decentralized economy, leveraging TON's fast and low-cost transaction capabilities for seamless reward distribution.",
+    "meta": "Become a master hacker and earn rewards with CryptoHacker on TON. Play on Lancers Web3 Explorer.",
+    "pageTitle": "CryptoHacker - Decentralized Games - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://cryptohacker.io",
-    "twitter": "https://x.com/https://x.com/CryptoHackerTON"
+    "twitter": "https://x.com/CryptoHackerTON"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "shrapnel",
+      "chibi-clash",
+      "arc8"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

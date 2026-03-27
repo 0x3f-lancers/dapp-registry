@@ -3,23 +3,29 @@
   "name": "Tonkeeper",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonkeeper.svg",
   "category": "Web3 Wallets",
-  "subcategory": [],
+  "subcategory": [
+    "Software Wallets"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tonkeeper is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tonkeeper is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Tonkeeper focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tonkeeper provides high-quality Wallets services on TON. Discover Tonkeeper and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tonkeeper - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Tonkeeper is the most popular non-custodial wallet for the TON blockchain, offering a seamless interface for managing assets.",
+    "description": "Tonkeeper, the leading non-custodial wallet on The Open Network (TON), provides users with a secure and intuitive platform to store, send, and receive Toncoin. It supports a wide range of features including NFT management, integrated token swaps, and a built-in dApp browser for seamless interaction with the TON ecosystem. Known for its user-friendly design and robust security, Tonkeeper has become the primary gateway for millions of users to access decentralized finance and services on TON.",
+    "meta": "Discover Tonkeeper, the leading non-custodial wallet for TON. Manage assets, NFTs, and dApps securely on Lancers Web3 Explorer.",
+    "pageTitle": "Tonkeeper - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonkeeper.com/",
-    "twitter": "https://x.com/[tonkeeper](https://twitter.com/tonkeeper)"
+    "twitter": "https://twitter.com/tonkeeper"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "safepal",
+      "alfa1",
+      "taho-xyz"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

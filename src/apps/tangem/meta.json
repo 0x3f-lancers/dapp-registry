@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tangem is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tangem is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Tangem focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tangem provides high-quality Wallets services on TON. Discover Tangem and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tangem - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Tangem is an innovative card-shaped hardware wallet that uses NFC technology for secure, seedless TON storage.",
+    "description": "Tangem is a revolutionary card-shaped hardware wallet that redefines digital asset security using NFC technology. It offers a seedless security model where the private key is generated and stored within the card's chip, never leaving the device. Tangem supports TON and various Jettons, allowing users to manage their assets simply by tapping the card against their smartphone. This ultra-portable and user-friendly approach makes cold storage accessible to everyone in the TON community.",
+    "meta": "Experience seedless security with Tangem card wallets for TON. Ultra-portable storage on Lancers Web3 Explorer.",
+    "pageTitle": "Tangem - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tangem.com/en/",
-    "twitter": "https://x.com/[tangem](https://twitter.com/tangem)"
+    "twitter": "https://twitter.com/tangem"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "zypto-wallet",
+      "dfns",
+      "stackup"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

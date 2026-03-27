@@ -2,24 +2,30 @@
   "slug": "gaspump",
   "name": "GasPump",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/gaspump.svg",
-  "category": "DeFi Dapps",
-  "subcategory": [],
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "GasPump is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "GasPump is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, GasPump focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "GasPump provides high-quality DeFi Dapps services on TON. Discover GasPump and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "GasPump - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "GasPump is a utility platform on TON designed to simplify gas fee management for users and developers.",
+    "description": "GasPump is an innovative utility platform built for the TON blockchain, specifically designed to address and simplify the complexities of gas fee management. It provides tools that enable users to manage their transaction costs more effectively and allows developers to implement 'gasless' or sponsored transactions within their applications. By lowering the technical and financial barriers to on-chain interaction, GasPump enhances the overall user experience and facilitates the broader adoption of decentralized services across the TON network, particularly for new and casual users.",
+    "meta": "Manage your TON gas fees with ease using GasPump. Explore gas-saving tools on Lancers Web3 Explorer.",
+    "pageTitle": "GasPump - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://gaspump.tg",
     "twitter": ""
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "guardarian",
+      "simple-account",
+      "coinshift"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

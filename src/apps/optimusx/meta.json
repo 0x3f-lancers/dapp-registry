@@ -2,24 +2,30 @@
   "slug": "optimusx",
   "name": "OptimusX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/optimusx.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "Web3 Social Dapps",
+  "subcategory": [
+    "Web3 Social Media Dapps"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "OptimusX is a leading Utilities on the TON network, providing users with seamless access to decentralized services.",
-    "description": "OptimusX is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Utilities sector, OptimusX focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "OptimusX provides high-quality Utilities services on TON. Discover OptimusX and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "OptimusX - Utilities on TON - Lancers Web3 Explorer"
+    "short": "OptimusX is a gamified social platform on TON that rewards daily community tasks and engagement.",
+    "description": "OptimusX is a dynamic community-focused application operating on the TON blockchain, designed to gamify social engagement and reward user participation. It provides a variety of daily tasks, social challenges, and interactive missions that allow users to earn XOPT tokens. OptimusX focuses on building a highly coordinated and active community within the Telegram ecosystem, serving as a powerful tool for project discovery and user retention. It provides a simple and rewarding way for users to participate in the growth of the TON decentralized economy while connecting with like-minded individuals.",
+    "meta": "Get rewarded for your social engagement with OptimusX on TON. Join the gamified community on Lancers Web3 Explorer.",
+    "pageTitle": "OptimusX - Web3 Social Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://optimusx.io",
-    "twitter": "https://x.com/https://x.com/OptimusX_TON"
+    "twitter": "https://x.com/OptimusX_TON"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "mask",
+      "honey-chat",
+      "coineasy"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

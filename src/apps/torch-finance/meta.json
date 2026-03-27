@@ -3,23 +3,29 @@
   "name": "Torch Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/torch-finance.svg",
   "category": "DeFi Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Torch Finance is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Torch Finance is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Torch Finance focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Torch Finance provides high-quality DeFi Dapps services on TON. Discover Torch Finance and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Torch Finance - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "Torch Finance is a liquid stables hub on TON focusing on efficient stablecoin swaps and yield-generating assets.",
+    "description": "Torch Finance is a specialized decentralized exchange and liquidity hub on the TON blockchain, primarily focused on stablecoin efficiency and liquid staking derivatives. It provides users with a platform for low-slippage stablecoin swaps and opportunities to earn yield through assets like tgUSD. By optimizing liquidity for stable pairs and yield-bearing tokens, Torch Finance enhances the overall stability and capital efficiency of the TON DeFi ecosystem, making it an essential destination for users looking to manage their stable assets and maximize their returns.",
+    "meta": "Swap stablecoins with minimal slippage on Torch Finance. Your stables hub on TON via Lancers Web3 Explorer.",
+    "pageTitle": "Torch Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://torch.finance/",
-    "twitter": "https://x.com/[TorchTon](https://x.com/TorchTon)"
+    "twitter": "https://x.com/TorchTon"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "dzap",
+      "shade-protocol",
+      "meteora"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

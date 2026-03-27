@@ -3,23 +3,29 @@
   "name": "Megaton Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/megaton-finance.svg",
   "category": "DeFi Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Megaton Finance is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Megaton Finance is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Megaton Finance focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Megaton Finance provides high-quality DeFi Dapps services on TON. Discover Megaton Finance and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Megaton Finance - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "Megaton Finance is an AMM-based DEX on TON that provides yield farming and cross-chain asset swaps.",
+    "description": "Megaton Finance is an AMM-based decentralized exchange on the TON blockchain, developed by the team behind Orbit Bridge. It offers a comprehensive suite of DeFi services, including token swaps, liquidity pools, and lucrative yield farming opportunities. A key advantage of Megaton Finance is its robust cross-chain connectivity, enabling the seamless transfer and trading of assets from other major blockchains like Ethereum and Polygon into the TON ecosystem, thereby boosting liquidity and utility for all users.",
+    "meta": "Explore Megaton Finance for AMM swaps and yield farming on TON. Cross-chain DeFi on Lancers Web3 Explorer.",
+    "pageTitle": "Megaton Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://megaton.fi/",
-    "twitter": "https://x.com/[Megaton_Fi](https://twitter.com/Megaton_Fi)"
+    "twitter": "https://twitter.com/Megaton_Fi"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "aerodrome",
+      "thestandard",
+      "port-finance"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

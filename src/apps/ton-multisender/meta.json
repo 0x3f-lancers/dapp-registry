@@ -4,24 +4,28 @@
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-multisender.svg",
   "category": "Web3 Developer Tools",
   "subcategory": [
-    "Web3 SDKs"
+    "Transaction Tools"
   ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "TON Multisender is a leading Web3 Developer Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "TON Multisender is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Developer Tools sector, TON Multisender focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "TON Multisender provides high-quality Web3 Developer Tools services on TON. Discover TON Multisender and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "TON Multisender - Web3 Developer Tools on TON - Lancers Web3 Explorer"
+    "short": "TON Multisender is a utility tool for sending TON or Jettons to multiple addresses simultaneously in one transaction.",
+    "description": "TON Multisender is a highly efficient utility tool designed for the TON blockchain that allows users to distribute Toncoin or Jettons to hundreds of addresses in a single, automated transaction. This tool is essential for project owners conducting airdrops, businesses managing payroll, or anyone needing to perform bulk transfers with minimal effort and lower gas costs. By providing a simple CSV upload feature and a secure interface, TON Multisender streamlines the process of multi-address distribution while ensuring transaction accuracy across the network.",
+    "meta": "Perform bulk transfers on TON with TON Multisender. Send to multiple addresses in one click, featured on Lancers Web3 Explorer.",
+    "pageTitle": "TON Multisender - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://ton.multisender.app",
-    "twitter": "https://x.com/[multi_sender](https://twitter.com/multi_sender)"
+    "twitter": "https://twitter.com/multi_sender"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "dton",
+      "blockhead",
+      "apeworx-ape"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

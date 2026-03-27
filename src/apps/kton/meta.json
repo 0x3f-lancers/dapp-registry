@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "KTON is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "KTON is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, KTON focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "KTON provides high-quality DeFi Dapps services on TON. Discover KTON and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "KTON - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "KTON is a liquid staking protocol and Jetton that enables network validation participation with full asset liquidity.",
+    "description": "KTON is a specialized liquid staking protocol and its associated Jetton on the TON blockchain. It is designed to facilitate participation in the network's validation process, allowing users to earn rewards while keeping their assets liquid. By utilizing KTON, stakers can maintain their position in the network and contribute to its security without locking up their funds for extended periods. This protocol enhances the overall robustness and accessibility of the TON validation ecosystem for a wider range of participants.",
+    "meta": "Stake TON and maintain liquidity with KTON. Learn more about liquid staking on Lancers Web3 Explorer.",
+    "pageTitle": "KTON - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://kton.io/",
-    "twitter": "https://x.com/[kton_io](https://x.com/kton_io)"
+    "twitter": "https://x.com/kton_io"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "makerdao-sky",
+      "fringefinance",
+      "fraxlend"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

@@ -3,23 +3,29 @@
   "name": "Newton Fund Platform",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/newton-fund-platform.svg",
   "category": "DeFi Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "DeFi Yield Farming Platforms"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Newton Fund Platform is a leading DeFi on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Newton Fund Platform is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi sector, Newton Fund Platform focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Newton Fund Platform provides high-quality DeFi services on TON. Discover Newton Fund Platform and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Newton Fund Platform - DeFi on TON - Lancers Web3 Explorer"
+    "short": "Newton Fund is a DeFi investment platform on TON providing managed yield and farming opportunities.",
+    "description": "Newton Fund is a specialized DeFi investment platform built on the TON blockchain, designed to simplify the yield-generation process for its users. It provides access to professionally managed liquidity pools, farming opportunities, and strategic investment vehicles that maximize returns within the TON ecosystem. By offering a range of financial products tailored to different risk profiles, Newton Fund helps both novice and experienced investors benefit from the growth of the decentralized economy on TON, prioritizing transparency and capital efficiency in all its operations.",
+    "meta": "Optimize your TON yields with Newton Fund. Professional DeFi investment and farming on Lancers Web3 Explorer.",
+    "pageTitle": "Newton Fund Platform - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://newton.fund",
-    "twitter": "https://x.com/[NewtonFund](https://twitter.com/NewtonFund)"
+    "twitter": "https://twitter.com/NewtonFund"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "carbonable",
+      "snowball",
+      "mantra-finance"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

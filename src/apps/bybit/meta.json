@@ -2,26 +2,30 @@
   "slug": "bybit",
   "name": "Bybit",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/bybit.svg",
-  "category": "Blockchains",
+  "category": "Trading Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Crypto Exchanges"
   ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Bybit is a leading Blockchains on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Bybit is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Blockchains sector, Bybit focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Bybit provides high-quality Blockchains services on TON. Discover Bybit and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Bybit - Blockchains on TON - Lancers Web3 Explorer"
+    "short": "Bybit is a premier crypto exchange offering advanced trading products and deep liquidity for TON users.",
+    "description": "Bybit is a top-tier centralized cryptocurrency exchange that provides a high-performance trading platform for both spot and derivatives markets. It offers deep liquidity for Toncoin (TON), allowing users to execute large trades with minimal slippage. Bybit is known for its professional trading tools, robust security infrastructure, and innovative products such as its TON-integrated Earn programs. As a key partner in the TON ecosystem, Bybit provides an essential environment for institutional and retail traders to participate in the growth of the network.",
+    "meta": "Experience professional trading with Bybit. High-performance TON exchange, featured on Lancers Web3 Explorer.",
+    "pageTitle": "Bybit - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.bybit.com/en/",
-    "twitter": "https://x.com/[Bybit_Official](https://x.com/Bybit_Official)"
+    "twitter": "https://x.com/Bybit_Official"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "treehouse-finance",
+      "kraken",
+      "day1x"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

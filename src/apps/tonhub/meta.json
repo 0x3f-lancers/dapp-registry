@@ -3,23 +3,29 @@
   "name": "Tonhub",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonhub.svg",
   "category": "Web3 Wallets",
-  "subcategory": [],
+  "subcategory": [
+    "Software Wallets"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tonhub is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tonhub is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Tonhub focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tonhub provides high-quality Wallets services on TON. Discover Tonhub and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tonhub - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Tonhub is a mobile-first TON wallet focused on security and simplicity, featuring integrated staking and dApp access.",
+    "description": "Tonhub is a mobile-focused, non-custodial wallet tailored for the TON blockchain, emphasizing both high security and ease of use. It allows users to store Toncoin securely, participate in integrated staking pools to earn rewards, and browse decentralized applications through its built-in explorer. With a clean interface and optimized performance, Tonhub simplifies the Web3 experience for mobile users while ensuring they retain full control over their private keys and digital assets.",
+    "meta": "Secure your TON assets with Tonhub, a mobile-first non-custodial wallet. Join staking pools and explore dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Tonhub - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonhub.com/",
-    "twitter": "https://x.com/[Tonhub](https://twitter.com/Tonhub)"
+    "twitter": "https://twitter.com/Tonhub"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "kresus",
+      "openmask-web",
+      "ultimate"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

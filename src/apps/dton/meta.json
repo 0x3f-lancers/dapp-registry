@@ -2,24 +2,30 @@
   "slug": "dton",
   "name": "DTON",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/dton.svg",
-  "category": "Infrastructure Tools",
-  "subcategory": [],
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "DTON is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "DTON is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, DTON focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "DTON provides high-quality Infrastructure Tools services on TON. Discover DTON and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "DTON - Infrastructure Tools on TON - Lancers Web3 Explorer"
+    "short": "DTON is a specialized indexer and explorer for TON, offering advanced data analysis and real-time monitoring.",
+    "description": "DTON is a sophisticated blockchain indexer and explorer tailored for in-depth analysis of The Open Network (TON). It goes beyond basic block exploration by providing advanced search capabilities, real-time network monitoring, and detailed data indexing for complex queries. DTON is particularly valuable for developers and analysts who require precise, structured data to track ecosystem trends, monitor smart contract performance, and build data-driven applications that leverage the unique architecture of the TON blockchain.",
+    "meta": "Analyze TON data with DTON, the specialized indexer and explorer. Deep network insights on Lancers Web3 Explorer.",
+    "pageTitle": "DTON - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://dton.io/",
-    "twitter": "https://x.com/[disintar_io](https://twitter.com/disintar_io/)"
+    "twitter": "https://twitter.com/disintar_io/"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "tokensoft",
+      "oregon-blockchain",
+      "evm-toolkit"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Storm Trade is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Storm Trade is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Storm Trade focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Storm Trade provides high-quality DeFi Dapps services on TON. Discover Storm Trade and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Storm Trade - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "Storm Trade is the first decentralized derivatives exchange on TON, offering perpetual futures with high leverage.",
+    "description": "Storm Trade is a pioneering decentralized derivatives exchange (DEX) built natively on the TON blockchain. It allows users to trade perpetual futures for a wide range of assets, including cryptocurrencies, commodities, and stocks, with leverage up to 500x. Designed to provide a professional trading experience directly within Telegram, Storm Trade features high-speed execution, low fees, and deep liquidity. It is a cornerstone of the TON DeFi ecosystem, empowering users to execute sophisticated trading strategies in a non-custodial and secure environment.",
+    "meta": "Trade perpetuals with high leverage on Storm Trade, the premier TON derivatives DEX. Explore on Lancers Web3 Explorer.",
+    "pageTitle": "Storm Trade - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://storm.tg/",
-    "twitter": "https://x.com/[storm_trade_ton](https://twitter.com/storm_trade_ton)"
+    "twitter": "https://twitter.com/storm_trade_ton"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "convex-finance",
+      "kriya",
+      "ankr-liquid-staking"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Bemo is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Bemo is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Bemo focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Bemo provides high-quality DeFi Dapps services on TON. Discover Bemo and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Bemo - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "Bemo is a decentralized liquid staking protocol on TON that allows users to stake and receive stTON.",
+    "description": "Bemo is a leading decentralized liquid staking protocol built specifically for The Open Network (TON). It enables users to stake their Toncoin and receive stTON (staked TON) tokens in return, which represent their share of the staking pool and its accrued rewards. Unlike traditional staking, Bemo allows users to maintain liquidity, as stTON can be used across various TON DeFi applications for lending, borrowing, and yield farming. Bemo focuses on providing a secure, non-custodial, and efficient way for users to support network validation while maximizing their capital utility.",
+    "meta": "Stake TON and stay liquid with Bemo. The premier liquid staking protocol on TON, featured on Lancers Web3 Explorer.",
+    "pageTitle": "Bemo - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://bemo.fi/",
-    "twitter": "https://x.com/[bemo_fi](https://twitter.com/bemo_fi)"
+    "twitter": "https://twitter.com/bemo_finance"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "zerolend",
+      "aeroscraper",
+      "cvi-finance"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

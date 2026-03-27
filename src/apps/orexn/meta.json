@@ -2,24 +2,30 @@
   "slug": "orexn",
   "name": "Orexn",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/orexn.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "Venture Capital Firms",
+  "subcategory": [
+    "Web3 Fundraising Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Orexn is a leading Launchpads on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Orexn is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Launchpads sector, Orexn focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Orexn provides high-quality Launchpads services on TON. Discover Orexn and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Orexn - Launchpads on TON - Lancers Web3 Explorer"
+    "short": "Orexn is a decentralized launch space on TON offering early access to IDOs and gamified rewards.",
+    "description": "Orexn is a dynamic decentralized incubator and launch space focused on providing users with early access to high-potential projects across multiple blockchains, with a primary focus on TON. It offers a variety of investment opportunities, including IDOs, launchpools, and private rounds, all managed through a secure and transparent on-chain interface. Orexn integrates gamified quests and farming modules, rewarding users for their participation and helping projects build a verified community of supporters from the earliest stages of their development.",
+    "meta": "Get early access to TON IDOs with Orexn. Discover the next big project on Lancers Web3 Explorer.",
+    "pageTitle": "Orexn - Venture Capital Firms - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://orexn.com",
-    "twitter": "https://x.com/https://x.com/Orexn_Official"
+    "twitter": "https://x.com/Orexn_Official"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "ton-launchpad",
+      "innmind",
+      "dcap"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

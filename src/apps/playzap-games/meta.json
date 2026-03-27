@@ -2,24 +2,30 @@
   "slug": "playzap-games",
   "name": "PlayZap Games",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/playzap-games.svg",
-  "category": "Decentralized Games",
-  "subcategory": [],
+  "category": "Web3 Gaming Tools",
+  "subcategory": [
+    "Decentralized Gaming Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "PlayZap Games is a leading Games on the TON network, providing users with seamless access to decentralized services.",
-    "description": "PlayZap Games is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Games sector, PlayZap Games focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "PlayZap Games provides high-quality Games services on TON. Discover PlayZap Games and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "PlayZap Games - Games on TON - Lancers Web3 Explorer"
+    "short": "PlayZap is a competitive gaming platform on TON hosting skill-based mini-games with crypto prizes.",
+    "description": "PlayZap Games is a leading competitive gaming platform integrated with the TON blockchain, designed to host a wide array of skill-based mini-games. It provides a secure and transparent environment where players can compete in various tournaments and challenges to win real crypto prize pools. PlayZap emphasizes fair play and skill, offering a diverse library of games that cater to a global audience of competitive gamers. By leveraging TON's infrastructure, PlayZap ensures fast payouts and a seamless gaming experience for its highly active community.",
+    "meta": "Win crypto prizes on PlayZap Games. The home of competitive skill-based gaming on Lancers Web3 Explorer.",
+    "pageTitle": "PlayZap Games - Web3 Gaming Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://playzap.games",
-    "twitter": "https://x.com/https://x.com/PlayZapGames"
+    "twitter": "https://x.com/PlayZapGames"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "radicle",
+      "vulcan-forged",
+      "may-social"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

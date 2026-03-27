@@ -2,24 +2,30 @@
   "slug": "tonviewer",
   "name": "Tonviewer",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonviewer.svg",
-  "category": "Infrastructure Tools",
-  "subcategory": [],
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tonviewer is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tonviewer is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, Tonviewer focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tonviewer provides high-quality Infrastructure Tools services on TON. Discover Tonviewer and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tonviewer - Infrastructure Tools on TON - Lancers Web3 Explorer"
+    "short": "Tonviewer is a modern, high-speed blockchain explorer for TON, providing a clean interface for tracking network data.",
+    "description": "Tonviewer is a cutting-edge blockchain explorer designed specifically for The Open Network (TON). It offers a highly responsive and user-friendly interface that allows users and developers to track transactions, blocks, account balances, and smart contract activity in real-time. With its advanced search features and detailed data visualizations, Tonviewer provides deep insights into the TON network's operations, making it an indispensable tool for anyone looking to monitor their on-chain activity or analyze the network's growth.",
+    "meta": "Track TON transactions and blocks with Tonviewer, the modern blockchain explorer. Explore on Lancers Web3 Explorer.",
+    "pageTitle": "Tonviewer - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tonviewer.com/",
-    "twitter": "https://x.com/[tonappshq](https://twitter.com/tonappshq)"
+    "twitter": "https://twitter.com/tonappshq"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coingape",
+      "ton-multisender",
+      "bitdegree"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

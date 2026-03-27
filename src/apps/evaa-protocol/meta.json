@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Evaa Protocol is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Evaa Protocol is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Evaa Protocol focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Evaa Protocol provides high-quality DeFi Dapps services on TON. Discover Evaa Protocol and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Evaa Protocol - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "Evaa Protocol is the first decentralized lending and borrowing protocol on TON, enabling efficient capital utilization.",
+    "description": "Evaa Protocol is a pioneering decentralized lending and borrowing platform built natively on the TON blockchain. It enables users to supply their digital assets to earn interest or use them as collateral to borrow other tokens in a secure, non-custodial manner. By providing the essential infrastructure for credit markets, Evaa Protocol enhances the capital efficiency of the TON ecosystem, allowing participants to leverage their holdings and manage liquidity according to their financial strategies.",
+    "meta": "Lend and borrow assets securely with Evaa Protocol on TON. Explore DeFi credit markets on Lancers Web3 Explorer.",
+    "pageTitle": "Evaa Protocol - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://app.evaa.finance/",
-    "twitter": "https://x.com/[evaaprotocol](https://twitter.com/evaaprotocol)"
+    "twitter": "https://twitter.com/evaaprotocol"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "ekubo",
+      "vaultka",
+      "mai"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

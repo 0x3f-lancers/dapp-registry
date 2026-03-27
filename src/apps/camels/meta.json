@@ -2,24 +2,30 @@
   "slug": "camels",
   "name": "Camels",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/camels.svg",
-  "category": "NFT Dapps",
-  "subcategory": [],
+  "category": "Decentralized Games",
+  "subcategory": [
+    "Web3 Games"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Camels is a leading NFT on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Camels is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT sector, Camels focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Camels provides high-quality NFT services on TON. Discover Camels and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Camels - NFT on TON - Lancers Web3 Explorer"
+    "short": "Camels is a community-driven meme and gaming project on TON featuring task-based rewards and NFTs.",
+    "description": "Camels (Camels House) is a vibrant community-led project on the TON blockchain that blends meme culture with interactive gaming and task-to-earn mechanics. Users participate in a variety of daily challenges and social quests to earn $CAMELS tokens. The project also features a unique NFT system where digital camels generate passive earnings for their holders. By fostering a playful and highly engaged community within Telegram, Camels provides a fun and accessible entry point for users to explore the benefits of digital asset ownership and social rewards on TON.",
+    "meta": "Join the Camels community on TON and earn rewards. Meme-driven gaming and NFTs on Lancers Web3 Explorer.",
+    "pageTitle": "Camels - Decentralized Games - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://camels.io",
-    "twitter": "https://x.com/https://x.com/Camels_TON"
+    "website": "https://camels.house",
+    "twitter": "https://x.com/Camels_TON"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "banana",
+      "ton-walk-app",
+      "idos-games-engine"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

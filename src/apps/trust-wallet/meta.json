@@ -3,23 +3,29 @@
   "name": "Trust Wallet",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/trust-wallet.svg",
   "category": "Web3 Wallets",
-  "subcategory": [],
+  "subcategory": [
+    "Software Wallets"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Trust Wallet is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Trust Wallet is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Trust Wallet focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Trust Wallet provides high-quality Wallets services on TON. Discover Trust Wallet and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Trust Wallet - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Trust Wallet is a leading multi-chain wallet that supports TON, allowing users to manage Toncoin and Jettons globally.",
+    "description": "Trust Wallet is one of the world's most popular multi-chain, non-custodial wallets, providing support for millions of assets across over 100 blockchains, including TON. It enables users to securely manage Toncoin and Jettons alongside their other crypto holdings. With its integrated dApp browser and secure storage solutions, Trust Wallet serves as a versatile portal for users to interact with the broader Web3 ecosystem while maintaining sovereignty over their private keys.",
+    "meta": "Manage your TON assets with Trust Wallet, the world's leading multi-chain wallet. Explore more Web3 tools on Lancers Web3 Explorer.",
+    "pageTitle": "Trust Wallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://trustwallet.com/",
-    "twitter": "https://x.com/[TrustWallet](https://twitter.com/TrustWallet)"
+    "twitter": "https://twitter.com/TrustWallet"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "petra-wallet",
+      "wallet3",
+      "sinohope"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

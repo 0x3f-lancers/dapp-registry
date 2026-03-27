@@ -3,23 +3,29 @@
   "name": "OpenMask",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/openmask.svg",
   "category": "Web3 Wallets",
-  "subcategory": [],
+  "subcategory": [
+    "Software Wallets"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "OpenMask is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "OpenMask is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, OpenMask focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "OpenMask provides high-quality Wallets services on TON. Discover OpenMask and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "OpenMask - Wallets on TON - Lancers Web3 Explorer"
+    "short": "OpenMask is a browser extension wallet for TON, designed to offer a seamless 'MetaMask-like' experience for web dApps.",
+    "description": "OpenMask is an open-source browser extension wallet for the TON blockchain, offering a familiar and intuitive experience similar to MetaMask. It supports TON Connect 2.0, allowing users to interact seamlessly with web-based decentralized applications. With its focus on accessibility and developer-friendly features, OpenMask serves as a critical bridge for users navigating the growing world of TON dApps, providing secure storage and transaction management directly within the browser.",
+    "meta": "Discover OpenMask, the premier browser extension for TON. Interact with dApps seamlessly on Lancers Web3 Explorer.",
+    "pageTitle": "OpenMask - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.openmask.app/",
-    "twitter": "https://x.com/[openmask_wallet](https://twitter.com/openmask_wallet)"
+    "twitter": "https://twitter.com/openmask_wallet"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "ownbit",
+      "cwallet-app",
+      "holdstation"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

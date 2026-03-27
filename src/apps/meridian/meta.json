@@ -3,23 +3,29 @@
   "name": "Meridian",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/meridian.svg",
   "category": "NFT Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "NFT Marketplaces"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Meridian is a leading NFT on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Meridian is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT sector, Meridian focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Meridian provides high-quality NFT services on TON. Discover Meridian and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Meridian - NFT on TON - Lancers Web3 Explorer"
+    "short": "Meridian is the first fully on-chain generative art collection on TON, featuring unique digital art and DAO voting.",
+    "description": "Meridian is a pioneering digital art project on the TON blockchain, recognized as the network's first fully on-chain generative art collection. Each piece in the collection is uniquely generated and stored directly on the blockchain, ensuring its permanent and immutable existence. Beyond its artistic value, holding a Meridian NFT grants membership into the 'Meridian Club,' where owners can participate in DAO-style governance and influence the project's future treasury. Meridian is a cultural milestone for the TON NFT community, blending fine art with decentralized coordination.",
+    "meta": "Explore the first on-chain generative art on TON with Meridian. Join the Meridian Club on Lancers Web3 Explorer.",
+    "pageTitle": "Meridian - NFT Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://meridian.io",
-    "twitter": "https://x.com/https://x.com/MeridianNFT"
+    "twitter": "https://x.com/MeridianNFT"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "sudoswap",
+      "helmets",
+      "floor"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

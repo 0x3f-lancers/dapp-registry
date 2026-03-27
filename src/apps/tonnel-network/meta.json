@@ -2,24 +2,30 @@
   "slug": "tonnel-network",
   "name": "Tonnel Network",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonnel-network.svg",
-  "category": "Infrastructure Tools",
-  "subcategory": [],
+  "category": "Zero Knowledge Tools",
+  "subcategory": [
+    "ZK Proof Generation Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tonnel Network is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tonnel Network is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, Tonnel Network focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tonnel Network provides high-quality Infrastructure Tools services on TON. Discover Tonnel Network and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tonnel Network - Infrastructure Tools on TON - Lancers Web3 Explorer"
+    "short": "Tonnel Network is a privacy protocol on TON that uses Zero-Knowledge proofs to enable private transactions.",
+    "description": "Tonnel Network is a groundbreaking privacy protocol built on the TON blockchain that leverages advanced Zero-Knowledge (ZK) proofs to facilitate private and anonymous transactions. It allows users to deposit their assets into a secure pool and then withdraw or transfer them without leaving a traceable link between the source and destination addresses. By providing a decentralized solution for financial privacy, Tonnel Network empowers users to take control of their data and maintain anonymity within the open and transparent environment of the TON network.",
+    "meta": "Maintain your privacy on TON with Tonnel Network's ZK-powered protocol. Secure transactions on Lancers Web3 Explorer.",
+    "pageTitle": "Tonnel Network - Zero Knowledge Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.tonnel.network/",
-    "twitter": "https://x.com/[tonnel_network](https://twitter.com/tonnel_network)"
+    "twitter": "https://twitter.com/tonnel_network"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "lagrange",
+      "halo",
+      "ingonmaya"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

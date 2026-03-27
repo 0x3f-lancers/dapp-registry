@@ -2,24 +2,30 @@
   "slug": "ime-app",
   "name": "iMe App",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ime-app.svg",
-  "category": "Web3 Wallets",
-  "subcategory": [],
+  "category": "Web3 Social Dapps",
+  "subcategory": [
+    "Web3 Social Media Dapps"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "iMe App is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "iMe App is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, iMe App focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "iMe App provides high-quality Wallets services on TON. Discover iMe App and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "iMe App - Wallets on TON - Lancers Web3 Explorer"
+    "short": "iMe App is a Telegram-based messenger with an integrated TON wallet and advanced DeFi features for social finance.",
+    "description": "iMe App is a powerful alternative client for Telegram that seamlessly integrates a multi-chain crypto wallet, including full support for TON. It enhances the social messaging experience with decentralized finance (DeFi) tools, allowing users to send crypto directly in chats, participate in staking, and manage digital assets without leaving the app. By merging social communication with financial utility, iMe App is a leading example of SocialFi, bringing the TON ecosystem to Telegram's vast user base.",
+    "meta": "Combine social messaging and DeFi with iMe App. Manage TON assets within Telegram on Lancers Web3 Explorer.",
+    "pageTitle": "iMe App - Web3 Social Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://imem.app/",
-    "twitter": "https://x.com/[iMePlatform](https://twitter.com/iMePlatform)"
+    "twitter": "https://twitter.com/iMePlatform"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "farcaster",
+      "arcade2earn",
+      "tonfish"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

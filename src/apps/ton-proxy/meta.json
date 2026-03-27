@@ -2,24 +2,30 @@
   "slug": "ton-proxy",
   "name": "TON Proxy",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-proxy.svg",
-  "category": "Infrastructure Tools",
-  "subcategory": [],
+  "category": "Identity Tools",
+  "subcategory": [
+    "Decentralized VPNs"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "TON Proxy is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "TON Proxy is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, TON Proxy focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "TON Proxy provides high-quality Infrastructure Tools services on TON. Discover TON Proxy and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "TON Proxy - Infrastructure Tools on TON - Lancers Web3 Explorer"
+    "short": "TON Proxy provides a secure and private network layer for TON sites and services, ensuring decentralized anonymity.",
+    "description": "TON Proxy is a core component of The Open Network designed to provide a high level of privacy and anonymity for users and service providers. It functions as a decentralized network layer that hides IP addresses and encrypts traffic, similar to the Tor network but optimized for the TON ecosystem. TON Proxy allows for the creation of 'TON Sites' that are censorship-resistant and accessible without revealing the server's location. This service is essential for ensuring a truly private and decentralized internet experience on TON.",
+    "meta": "Browse securely and privately with TON Proxy. Decentralized anonymity for the TON web on Lancers Web3 Explorer.",
+    "pageTitle": "TON Proxy - Identity Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://ton.org/proxy",
-    "twitter": "https://x.com/[ton_blockchain](https://twitter.com/ton_blockchain)"
+    "twitter": "https://twitter.com/ton_blockchain"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "galxe",
+      "iden3",
+      "kelvpn"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

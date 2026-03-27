@@ -3,23 +3,29 @@
   "name": "Netzprints",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/netzprints.svg",
   "category": "NFT Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "NFT Marketplaces"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Netzprints is a leading NFT on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Netzprints is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT sector, Netzprints focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Netzprints provides high-quality NFT services on TON. Discover Netzprints and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Netzprints - NFT on TON - Lancers Web3 Explorer"
+    "short": "Netzprints is a utility-focused NFT project on TON offering lifetime discounts on VPN services.",
+    "description": "Netzprints is a unique NFT project built on the TON blockchain that prioritizes tangible utility for its holders. Each Netzprints NFT serves as a digital pass that grants the owner lifetime discounts and exclusive benefits on the NETZ.RUN decentralized VPN service. The project focuses on bridging digital collectibility with essential internet privacy tools, providing a clear value proposition for its community. Netzprints represents the growing trend of utility-centric NFTs on the TON network, where digital assets provide long-term access to valuable infrastructure and services.",
+    "meta": "Unlock lifetime VPN discounts with Netzprints NFTs on TON. Utility-focused digital art on Lancers Web3 Explorer.",
+    "pageTitle": "Netzprints - NFT Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://netz.run",
-    "twitter": "https://x.com/https://x.com/NetzRun"
+    "twitter": "https://x.com/NetzRun"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "sudoswap",
+      "arcade",
+      "niftygateway"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

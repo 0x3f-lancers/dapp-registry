@@ -4,24 +4,28 @@
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-web-ide.svg",
   "category": "Web3 Developer Tools",
   "subcategory": [
-    "Web3 SDKs"
+    "Web3 IDEs"
   ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "TON Web IDE is a leading Web3 Developer Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "TON Web IDE is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Developer Tools sector, TON Web IDE focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "TON Web IDE provides high-quality Web3 Developer Tools services on TON. Discover TON Web IDE and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "TON Web IDE - Web3 Developer Tools on TON - Lancers Web3 Explorer"
+    "short": "TON Web IDE is a browser-based environment for writing and compiling TON smart contracts without local setup.",
+    "description": "TON Web IDE is a convenient and accessible browser-based integrated development environment for the TON blockchain. It allows developers to write, compile, and debug smart contracts directly in the browser, eliminating the need for complex local setup or specialized hardware. Featuring a clean interface, real-time compilation, and integration with TON wallets, the Web IDE is an excellent tool for rapid prototyping, learning the FunC or Tact languages, and quickly deploying experimental contracts to the TON testnet or mainnet.",
+    "meta": "Start coding for TON instantly with the TON Web IDE. Browser-based development on Lancers Web3 Explorer.",
+    "pageTitle": "TON Web IDE - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://ide.ton.org/",
     "twitter": ""
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "carnegie-mellon-blockchain",
+      "ethers-js",
+      "turnmycoin"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

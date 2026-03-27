@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "SafePal is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "SafePal is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, SafePal focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "SafePal provides high-quality Wallets services on TON. Discover SafePal and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "SafePal - Wallets on TON - Lancers Web3 Explorer"
+    "short": "SafePal is the first hardware wallet to natively support TON, offering a full suite of secure asset management tools.",
+    "description": "SafePal is a comprehensive non-custodial wallet suite that was the first hardware wallet to provide native support for the TON blockchain. It offers a unique combination of hardware, software, and browser extension wallets, all integrated into a single ecosystem. SafePal's hardware solutions use air-gapped security to protect assets, while its app provides a rich interface for dApp interaction, token swaps, and yield farming, making it a powerful choice for TON users.",
+    "meta": "Explore SafePal, the first hardware wallet with native TON support. Secure your assets on Lancers Web3 Explorer.",
+    "pageTitle": "SafePal - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.safepal.com/en/",
-    "twitter": "https://x.com/[iSafePal](https://twitter.com/iSafePal)"
+    "twitter": "https://twitter.com/iSafePal"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "metamask",
+      "ecoinwallet",
+      "coin-wallet-app"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

@@ -3,23 +3,29 @@
   "name": "DuckChain",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/duckchain.svg",
   "category": "Blockchains",
-  "subcategory": [],
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "DuckChain is a leading Blockchains on the TON network, providing users with seamless access to decentralized services.",
-    "description": "DuckChain is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Blockchains sector, DuckChain focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "DuckChain provides high-quality Blockchains services on TON. Discover DuckChain and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "DuckChain - Blockchains on TON - Lancers Web3 Explorer"
+    "short": "DuckChain is a Layer 2 solution for TON focused on enhancing the scalability for gaming and social dApps.",
+    "description": "DuckChain is a specialized Layer 2 scaling solution designed specifically to augment the capabilities of the TON blockchain, with a particular focus on the gaming and social dApp segments. It aims to provide even higher transaction speeds and lower costs, enabling developers to build more complex and highly interactive applications without being constrained by the mainnet's throughput. DuckChain fosters a vibrant sub-ecosystem of 'Duck' themed projects and social games, contributing to the overall diversity and scalability of the broader TON network.",
+    "meta": "Explore the next level of scalability with DuckChain, the TON-focused Layer 2. Learn more on Lancers Web3 Explorer.",
+    "pageTitle": "DuckChain - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://duckchain.io",
-    "twitter": "https://x.com/[DuckChain_IO](https://twitter.com/DuckChain_IO)"
+    "twitter": "https://twitter.com/DuckChain_IO"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "op-mainnet",
+      "open-league",
+      "kucoin-exchange"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

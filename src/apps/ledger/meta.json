@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Ledger is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Ledger is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Ledger focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Ledger provides high-quality Wallets services on TON. Discover Ledger and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Ledger - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Ledger is a global leader in hardware wallets, providing cold storage security for Toncoin through specialized integrations.",
+    "description": "Ledger is the industry standard for hardware wallet security, offering cold storage solutions that protect private keys in a secure element. Through integrations with wallets like MyTonWallet and OpenMask, Ledger provides robust security for Toncoin and other TON-based assets. By keeping private keys offline, Ledger ensures that users' funds remain safe from online threats, making it an essential tool for long-term investors and security-conscious participants in the TON ecosystem.",
+    "meta": "Secure your Toncoin with Ledger hardware wallets. The ultimate cold storage solution, featured on Lancers Web3 Explorer.",
+    "pageTitle": "Ledger - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.ledger.com/coin/wallet/the-open-network",
-    "twitter": "https://x.com/[Ledger](https://twitter.com/Ledger)"
+    "twitter": "https://twitter.com/Ledger"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "alfa1",
+      "trust-wallet",
+      "rainbow-wallet"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

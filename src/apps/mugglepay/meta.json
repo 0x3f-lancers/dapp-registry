@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "MugglePay is a leading Web3 Wallet Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "MugglePay is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Wallet Tools sector, MugglePay focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "MugglePay provides high-quality Web3 Wallet Tools services on TON. Discover MugglePay and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "MugglePay - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
+    "short": "MugglePay is a payment gateway that allows merchants to accept TON and other cryptos with low fees and no chargebacks.",
+    "description": "MugglePay is a leading cryptocurrency payment gateway that empowers merchants to accept Toncoin and other digital assets as payment for goods and services. It provides a seamless checkout experience with low transaction fees, no chargebacks, and instant settlement. By integrating with the TON blockchain, MugglePay allows businesses to reach the massive Telegram user base and participate in the growing decentralized economy. Its easy-to-use APIs and plugins make it simple for any merchant to start accepting crypto payments in minutes.",
+    "meta": "Accept Toncoin payments with MugglePay. Low fees and instant settlement, featured on Lancers Web3 Explorer.",
+    "pageTitle": "MugglePay - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://ton.mugglepay.com/",
-    "twitter": "https://x.com/[paymuggle](https://twitter.com/paymuggle)"
+    "twitter": "https://twitter.com/paymuggle"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "multi-owner-plugin",
+      "betterclaimsol",
+      "1-country"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

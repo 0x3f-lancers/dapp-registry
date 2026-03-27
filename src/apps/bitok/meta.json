@@ -2,24 +2,30 @@
   "slug": "bitok",
   "name": "BitOK",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/bitok.svg",
-  "category": "NFT Dapps",
-  "subcategory": [],
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "BitOK is a leading NFT Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "BitOK is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT Dapps sector, BitOK focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "BitOK provides high-quality NFT Dapps services on TON. Discover BitOK and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "BitOK - NFT Dapps on TON - Lancers Web3 Explorer"
+    "short": "BitOK is a portfolio monitoring and AML platform on TON, providing tools for risk management and tax reporting.",
+    "description": "BitOK is a comprehensive portfolio management and AML (Anti-Money Laundering) compliance platform that supports the TON blockchain. it provides users and businesses with powerful tools to track their digital asset holdings, monitor transaction history, and generate accurate tax reports. Additionally, BitOK features robust AML screening capabilities, allowing users to assess the risk levels of addresses and transactions to prevent engagement with illicit activities. It is a critical tool for maintaining financial transparency and security in the Web3 space.",
+    "meta": "Manage your TON portfolio and stay compliant with BitOK. Risk management and tax tools on Lancers Web3 Explorer.",
+    "pageTitle": "BitOK - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://bitok.org/",
-    "twitter": "https://x.com/[BitOK_org](https://twitter.com/BitOK_org)"
+    "twitter": "https://twitter.com/BitOK_org"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "goplus-security",
+      "hypernative",
+      "omniscia"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

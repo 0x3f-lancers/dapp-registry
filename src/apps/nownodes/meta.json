@@ -3,23 +3,29 @@
   "name": "NOWNodes",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/nownodes.svg",
   "category": "Infrastructure Tools",
-  "subcategory": [],
+  "subcategory": [
+    "RPC Node Providers"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "NOWNodes is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "NOWNodes is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, NOWNodes focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "NOWNodes provides high-quality Infrastructure Tools services on TON. Discover NOWNodes and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "NOWNodes - Infrastructure Tools on TON - Lancers Web3 Explorer"
+    "short": "NOWNodes provides high-speed API access to TON full nodes, enabling developers to build apps without local hardware.",
+    "description": "NOWNodes is a leading Node-as-a-Service provider that offers developers instant API access to TON full nodes and explorers. By eliminating the need for developers to maintain and manage their own hardware, NOWNodes significantly lowers the barrier to entry for building on the TON blockchain. It provides high-speed, reliable, and secure connections for accessing on-chain data and broadcasting transactions, allowing developers to focus on creating innovative features and scaling their applications for the global market.",
+    "meta": "Scale your TON app with NOWNodes' high-speed API access. Reliable node infrastructure on Lancers Web3 Explorer.",
+    "pageTitle": "NOWNodes - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://nownodes.io/nodes/toncoin",
-    "twitter": "https://x.com/[NowNodes](https://twitter.com/NowNodes)"
+    "twitter": "https://twitter.com/NowNodes"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "0xgraph",
+      "genesysgo",
+      "aesirx"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

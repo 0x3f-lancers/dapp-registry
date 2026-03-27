@@ -3,23 +3,29 @@
   "name": "Grindery",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/grindery.svg",
   "category": "Web3 Wallets",
-  "subcategory": [],
+  "subcategory": [
+    "Smart Contract Wallets"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Grindery is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Grindery is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Grindery focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Grindery provides high-quality Wallets services on TON. Discover Grindery and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Grindery - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Grindery is a Smart Wallet on Telegram that simplifies payments using AI and usernames for a seamless Web3 experience.",
+    "description": "Grindery is an innovative 'Smart Wallet' integrated directly into Telegram, designed to make Web3 as simple as traditional messaging. It utilizes account abstraction and AI-native features to allow users to send and receive payments using simple usernames instead of complex wallet addresses. Supporting both TON and EVM chains, Grindery focuses on lowering the barrier to entry for crypto payments and automation, providing a highly accessible gateway for the next billion users to enter the decentralized economy.",
+    "meta": "Simplify crypto payments with Grindery Smart Wallet on Telegram. AI-powered Web3 on Lancers Web3 Explorer.",
+    "pageTitle": "Grindery - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.grindery.io/",
-    "twitter": "https://x.com/[grindery_io](https://twitter.com/grindery_io)"
+    "twitter": "https://twitter.com/grindery_io"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "squads",
+      "gem-wallet",
+      "kraken-wallet"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

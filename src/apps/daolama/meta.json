@@ -3,23 +3,29 @@
   "name": "DAOLama",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/daolama.svg",
   "category": "NFT Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "NFT Lending Dapps"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "DAOLama is a leading NFT Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "DAOLama is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT Dapps sector, DAOLama focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "DAOLama provides high-quality NFT Dapps services on TON. Discover DAOLama and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "DAOLama - NFT Dapps on TON - Lancers Web3 Explorer"
+    "short": "DAOLama is a decentralized protocol where users can use their NFTs as collateral for instant loans in TON.",
+    "description": "DAOLama is an innovative decentralized lending protocol that unlocks the financial value of NFTs on the TON blockchain. It allows users to use their digital collectibles as collateral to obtain instant, non-custodial loans in Toncoin. This provides NFT holders with much-needed liquidity without requiring them to sell their prized assets. By providing a secure and efficient peer-to-protocol lending mechanism, DAOLama enhances the overall utility of NFTs in the TON ecosystem, bridging the gap between digital art and decentralized finance.",
+    "meta": "Unlock liquidity from your NFTs with DAOLama. Instant loans using NFTs as collateral on Lancers Web3 Explorer.",
+    "pageTitle": "DAOLama - NFT Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://daolama.co/",
-    "twitter": "https://x.com/[daolama_ton](https://twitter.com/daolama_ton)"
+    "twitter": "https://twitter.com/daolama_ton"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "bitok-compliance",
+      "culture-vault",
+      "bitci"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

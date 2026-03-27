@@ -2,24 +2,30 @@
   "slug": "tand3m",
   "name": "Tand3m",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tand3m.svg",
-  "category": "Web3 Service Providers",
-  "subcategory": [],
+  "category": "Venture Capital Firms",
+  "subcategory": [
+    "Web3 Fundraising Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tand3m is a leading Launchpads on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tand3m is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Launchpads sector, Tand3m focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tand3m provides high-quality Launchpads services on TON. Discover Tand3m and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tand3m - Launchpads on TON - Lancers Web3 Explorer"
+    "short": "Tand3m is a decentralized launchpad on TON focusing on fair price discovery and secure fundraising.",
+    "description": "Tand3m is a specialized decentralized launchpad on the TON blockchain that operates under a 'Fair By Design' philosophy. It utilizes innovative Liquidity Bootstrapping Pools (LBPs) to ensure fair price discovery and prevent bot manipulation during token launches. Tand3m supports a wide range of fundraising models, including NFT-based pre-sales and fixed-price rounds, all executed through audited smart contracts. By prioritizing backer safety and market fairness, Tand3m provides a reliable and transparent environment for early-stage investment in the TON network.",
+    "meta": "Invest fairly in TON startups with Tand3m. Expert fundraising tools on Lancers Web3 Explorer.",
+    "pageTitle": "Tand3m - Venture Capital Firms - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tand3m.io",
-    "twitter": "https://x.com/https://x.com/Tand3m_TON"
+    "twitter": "https://x.com/Tand3m_TON"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "pantera-capital",
+      "crypto-for-charity",
+      "metalaunch"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

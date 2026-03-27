@@ -2,26 +2,30 @@
   "slug": "kucoin",
   "name": "KuCoin",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/kucoin.svg",
-  "category": "Blockchains",
+  "category": "Trading Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Crypto Exchanges"
   ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "KuCoin is a leading Blockchains on the TON network, providing users with seamless access to decentralized services.",
-    "description": "KuCoin is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Blockchains sector, KuCoin focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "KuCoin provides high-quality Blockchains services on TON. Discover KuCoin and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "KuCoin - Blockchains on TON - Lancers Web3 Explorer"
+    "short": "KuCoin is a global centralized exchange providing high liquidity and a wide range of trading pairs for TON.",
+    "description": "KuCoin is one of the world's leading centralized cryptocurrency exchanges, known for its extensive range of listed assets and high trading volume. It provides a robust platform for trading Toncoin (TON) and various other tokens within the TON ecosystem against major pairings like USDT and BTC. With its user-friendly interface, advanced trading features, and strong security measures, KuCoin serves as a primary gateway for millions of users to buy, sell, and manage their TON holdings with ease and confidence.",
+    "meta": "Trade TON on KuCoin, the world's leading crypto exchange. High liquidity and secure trading on Lancers Web3 Explorer.",
+    "pageTitle": "KuCoin - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.kucoin.com",
-    "twitter": "https://x.com/[kucoincom](https://x.com/kucoincom)"
+    "twitter": "https://x.com/kucoincom"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "bithumb",
+      "defi-saver",
+      "bosstrack"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

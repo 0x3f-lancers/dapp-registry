@@ -2,26 +2,30 @@
   "slug": "tonion",
   "name": "Tonion",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonion.svg",
-  "category": "Web3 Developer Tools",
+  "category": "Web3 Security Tools",
   "subcategory": [
-    "Web3 SDKs"
+    "Blockchain Security Tools"
   ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Tonion is a leading Web3 Developer Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Tonion is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Developer Tools sector, Tonion focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Tonion provides high-quality Web3 Developer Tools services on TON. Discover Tonion and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Tonion - Web3 Developer Tools on TON - Lancers Web3 Explorer"
+    "short": "Tonion is a community-driven project focusing on privacy and secure communications within the TON network.",
+    "description": "Tonion is a privacy-centric, community-driven initiative built on The Open Network. It focuses on developing decentralized tools and protocols that enhance the anonymity and security of communications and transactions within the ecosystem, often inspired by onion-routing concepts. By providing specialized smart contracts and infrastructure for private interactions, Tonion empowers users to protect their data and maintain sovereignty over their digital lives. It represents an essential segment of the TON community dedicated to the principles of decentralization and individual privacy.",
+    "meta": "Enhance your privacy on TON with Tonion's decentralized tools. Secure Web3 on Lancers Web3 Explorer.",
+    "pageTitle": "Tonion - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/ton-ion",
+    "website": "https://github.com/ton-ion/tonion-contracts",
     "twitter": ""
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "resonancesecurity",
+      "forta",
+      "omega-audits"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

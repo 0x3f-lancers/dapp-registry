@@ -3,23 +3,29 @@
   "name": "COCOON Network",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/cocoon-network.svg",
   "category": "Infrastructure Tools",
-  "subcategory": [],
+  "subcategory": [
+    "Decentralized Computing Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "COCOON Network is a leading Infrastructure on the TON network, providing users with seamless access to decentralized services.",
-    "description": "COCOON Network is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure sector, COCOON Network focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "COCOON Network provides high-quality Infrastructure services on TON. Discover COCOON Network and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "COCOON Network - Infrastructure on TON - Lancers Web3 Explorer"
+    "short": "COCOON is a decentralized AI compute network on TON designed for private and efficient AI processing.",
+    "description": "The Confidential Compute Open Network (COCOON) is a pioneering decentralized infrastructure project designed to provide high-performance AI computing power for the TON and Telegram ecosystems. It allows users with powerful hardware to 'mine' by contributing their GPU resources to a global network, which processes AI models in a secure and private manner. By using confidential computing technology, COCOON ensures that sensitive data remains encrypted even during processing, offering a low-cost and decentralized alternative to centralized cloud providers for the next generation of AI dApps.",
+    "meta": "Power the AI revolution with COCOON Network on TON. Decentralized AI compute on Lancers Web3 Explorer.",
+    "pageTitle": "COCOON Network - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://cocoon.network",
     "twitter": ""
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "lava-network",
+      "akash-network",
+      "acurast"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

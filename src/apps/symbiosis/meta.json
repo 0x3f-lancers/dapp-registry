@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Symbiosis is a leading DeFi Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Symbiosis is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Tools sector, Symbiosis focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Symbiosis provides high-quality DeFi Tools services on TON. Discover Symbiosis and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Symbiosis - DeFi Tools on TON - Lancers Web3 Explorer"
+    "short": "Symbiosis is a multi-chain liquidity protocol that enables single-transaction cross-chain swaps including TON.",
+    "description": "Symbiosis is a decentralized multi-chain liquidity protocol that aggregates liquidity from various decentralized exchanges across multiple blockchains. It allows users to perform cross-chain swaps in a single transaction, regardless of the source or destination network. By integrating TON, Symbiosis enables users to swap any token on any supported chain for Toncoin or other Jettons with minimal slippage and a simplified user experience. This protocol significantly reduces the friction involved in navigating the multi-chain DeFi landscape.",
+    "meta": "Perform one-click cross-chain swaps with Symbiosis. Trade tokens across chains including TON on Lancers Web3 Explorer.",
+    "pageTitle": "Symbiosis - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://symbiosis.finance/",
-    "twitter": "https://x.com/[symbiosis_fi](https://twitter.com/symbiosis_fi)"
+    "twitter": "https://twitter.com/symbiosis_fi"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "acqr",
+      "laevitas",
+      "wanchain-bridge"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

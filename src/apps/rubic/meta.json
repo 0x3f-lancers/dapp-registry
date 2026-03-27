@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Rubic is a leading DeFi Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Rubic is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Tools sector, Rubic focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Rubic provides high-quality DeFi Tools services on TON. Discover Rubic and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Rubic - DeFi Tools on TON - Lancers Web3 Explorer"
+    "short": "Rubic is a multi-chain aggregator that combines DEXs and bridges to find the best swap routes for TON users.",
+    "description": "Rubic is a comprehensive multi-chain tech aggregator that simplifies the process of swapping tokens across different blockchains. By integrating numerous decentralized exchanges (DEXs) and bridges, Rubic identifies the most efficient routes and the best exchange rates for users looking to move assets into or out of the TON blockchain. Its 'One-Click' cross-chain swap feature allows users to trade assets from over 70 chains in a single, secure interface, making Rubic a powerful tool for efficient cross-chain trading.",
+    "meta": "Find the best cross-chain swap rates with Rubic. Aggregated DEXs and bridges for TON on Lancers Web3 Explorer.",
+    "pageTitle": "Rubic - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://rubic.exchange/",
-    "twitter": "https://x.com/[CryptoRubic](https://twitter.com/CryptoRubic)"
+    "twitter": "https://twitter.com/CryptoRubic"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "layerswap",
+      "gauntlet",
+      "eco-portal"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

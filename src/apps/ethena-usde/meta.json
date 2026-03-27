@@ -3,23 +3,29 @@
   "name": "Ethena (USDe)",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ethena-usde.svg",
   "category": "DeFi Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Ethena (USDe) is a leading DeFi on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Ethena (USDe) is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi sector, Ethena (USDe) focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Ethena (USDe) provides high-quality DeFi services on TON. Discover Ethena (USDe) and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Ethena (USDe) - DeFi on TON - Lancers Web3 Explorer"
+    "short": "Ethena is a synthetic dollar protocol on TON providing users with yield-bearing USDe savings.",
+    "description": "Ethena is a groundbreaking synthetic dollar protocol that has partnered with the TON Foundation to bring its stablecoin, USDe, to the Telegram ecosystem. Known as tsUSDe on the TON network, it provides users with a way to access dollar-denominated savings and earn on-chain yield directly within their Telegram wallets. Ethena maintains its peg through a sophisticated delta-neutral strategy, hedging staked assets to provide stability without relying on traditional banking reserves. It is a vital tool for decentralized finance, offering accessible yield to millions of global users.",
+    "meta": "Earn yield on your stablecoins with Ethena (USDe) on TON. Discover Social DeFi on Lancers Web3 Explorer.",
+    "pageTitle": "Ethena (USDe) - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://ethena.fi",
-    "twitter": "https://x.com/[ethena_labs](https://x.com/ethena_labs)"
+    "twitter": "https://x.com/ethena_labs"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "solrise-finance",
+      "mimo",
+      "marginly"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

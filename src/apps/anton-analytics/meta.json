@@ -11,17 +11,21 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Anton Analytics is a leading DeFi Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Anton Analytics is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Tools sector, Anton Analytics focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Anton Analytics provides high-quality DeFi Tools services on TON. Discover Anton Analytics and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Anton Analytics - DeFi Tools on TON - Lancers Web3 Explorer"
+    "short": "Anton Analytics is an open-source indexer and analytical tool for deep exploration of TON on-chain data.",
+    "description": "Anton Analytics is a powerful, open-source blockchain indexer and data analysis platform built specifically for the TON blockchain. It enables developers and analysts to perform deep queries on the network's history, providing structured access to blocks, transactions, and account states. By leveraging tools like Apache Superset for visualization, Anton Analytics allows for the creation of sophisticated dashboards and reports, making it a vital resource for tracking ecosystem health, protocol performance, and network-wide trends on TON.",
+    "meta": "Analyze TON data like a pro with Anton Analytics. Open-source indexing and insights on Lancers Web3 Explorer.",
+    "pageTitle": "Anton Analytics - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://anton.tools/",
-    "twitter": "https://x.com/[apachesuperset](https://twitter.com/apachesuperset)"
+    "twitter": "https://twitter.com/apachesuperset"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "memetools",
+      "swap-coffee",
+      "delphi-digital"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",

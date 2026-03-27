@@ -2,24 +2,30 @@
   "slug": "scorechain",
   "name": "Scorechain",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/scorechain.svg",
-  "category": "NFT Dapps",
-  "subcategory": [],
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
   "chains": [
     "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Scorechain is a leading NFT Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Scorechain is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT Dapps sector, Scorechain focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Scorechain provides high-quality NFT Dapps services on TON. Discover Scorechain and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Scorechain - NFT Dapps on TON - Lancers Web3 Explorer"
+    "short": "Scorechain is a specialized crypto AML suite providing risk scoring and transaction monitoring for TON.",
+    "description": "Scorechain is a prominent European provider of crypto-asset compliance and AML solutions. Its specialized suite of tools provides in-depth risk scoring and real-time transaction monitoring for the TON blockchain and other major networks. Scorechain enables businesses to perform comprehensive KYC and KYB checks, track the origin of funds, and maintain detailed audit trails for regulatory reporting. By providing transparent and customizable risk parameters, Scorechain helps companies manage their crypto-related risks with precision and confidence.",
+    "meta": "Manage crypto risk with Scorechain's advanced AML suite. Monitor TON transactions on Lancers Web3 Explorer.",
+    "pageTitle": "Scorechain - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.scorechain.com/",
-    "twitter": "https://x.com/[scorechain](https://x.com/scorechain)"
+    "twitter": "https://x.com/scorechain"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "smartstate",
+      "omega-audits",
+      "verilog-solutions"
+    ],
     "related": [
       "tonkeeper",
       "ston-fi",
