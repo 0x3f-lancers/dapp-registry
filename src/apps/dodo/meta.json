@@ -1,23 +1,29 @@
 {
   "slug": "dodo",
-  "name": "DODO",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746535/web3-explorer/dapp-logos/dodo.png",
+  "name": "Dodo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/dodo.svg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
-  "pricing": "",
+  "subcategory": [],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
   "content": {
-    "short": "DODO is a DEX enabling cross-chain trading of fungible and non-fungible tokens.",
-    "description": "Launched in August 2020, DODO is a decentralized exchange and on-chain liquidity provider. It uses a proactive market maker (PMM) pricing model to source accurate market prices for crypto assets. The PMM approach is claimed to offer better liquidity and price stability than traditional automated market makers (AMMs). DODO’s native token operates on Ethereum as an ERC-20 asset, and the protocol supports the trading of a wide range of crypto assets, including NFTs, across multiple blockchains.",
-    "meta": "Launched in August 2020, DODO is a decentralized exchange and on-chain liquidity provider. Discover DODO and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "DODO - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Dodo is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Dodo is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Dodo focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Dodo provides high-quality DeFi Dapps services on TON. Discover Dodo and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Dodo - DeFi Dapps on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://dodoex.io/",
-    "twitter": "https://x.com/BreederDodo"
+    "website": "https://app.dodoex.io",
+    "twitter": "https://x.com/[BreederDodo](https://twitter.com/BreederDodo)"
   },
   "relations": {
-    "alternatives": ["carbon", "1delta"],
-    "related": ["contango", "binance", "opyn"]
+    "alternatives": [],
+    "related": [
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
+    ]
   }
 }

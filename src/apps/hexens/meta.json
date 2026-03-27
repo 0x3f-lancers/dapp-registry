@@ -1,36 +1,31 @@
 {
   "slug": "hexens",
-  "name": "Hexens Cyber Security",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747528/web3-explorer/dapp-logos/hexens.png",
+  "name": "Hexens",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/hexens.svg",
   "category": "Web3 Security Tools",
   "subcategory": [
-    "Blockchain Auditing Companies"
+    "Blockchain Security Tools"
   ],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "OP Mainnet",
-    "Polygon"
+    "TON"
   ],
-  "pricing": "Paid",
+  "pricing": "Free",
   "content": {
-    "short": "Hexens Cyber Security provides security expertise and smart contract auditing.",
-    "description": "Hexens Cyber Security is dedicated to establishing new security standards for the blockchain ecosystem. The company brings together auditing experts who specialize in diverse information security disciplines, delivering exceptional performance on the most challenging and technically complex tasks. Their work encompasses infrastructure audits, advanced cryptographic methods such as zero-knowledge proofs, and novel cryptography, as well as security assessments for DeFi protocols and NFT projects.",
-    "meta": "Hexens Cyber Security offers security expertise and smart contract auditing. Discover Hexens Cyber Security and other Web3 Security Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Hexens Cyber Security - Web3 Security Tools - Lancers Web3 Explorer"
+    "short": "Hexens is a leading Web3 Security Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Hexens is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Security Tools sector, Hexens focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Hexens provides high-quality Web3 Security Tools services on TON. Discover Hexens and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Hexens - Web3 Security Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://hexens.io/",
-    "twitter": "https://x.com/hexensio"
+    "twitter": "https://x.com/[hexensio](https://twitter.com/hexensio)"
   },
   "relations": {
-    "alternatives": [
-      "blocksec",
-      "0xguard",
-      "ottersec"
-    ],
+    "alternatives": [],
     "related": [
-      "certora"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

@@ -1,34 +1,29 @@
 {
   "slug": "coin98",
   "name": "Coin98",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745763/web3-explorer/dapp-logos/coin98.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/coin98.svg",
   "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
+  "subcategory": [],
   "chains": [
-    "Ethereum",
-    "BNB Chain"
+    "TON"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Coin98 provides an all-in-one DeFi platform with essential wallet features in one app.",
-    "description": "Coin98 serves as a versatile DeFi hub that combines a mobile wallet with built‑in trading, enabling storage and trading in a single app. It can function as either a wallet storage app or a trading app, and supports sweep, stake, borrow, lend, invest and earn crypto—all in one place. Developers can issue tokens via the platform. The app has over one million downloads, three million transactions, and 500,000 active users.",
-    "meta": "Coin98 is an all-in-one crypto wallet and DeFi platform with built-in trading. Discover Coin98 and other Web3 Wallets on Lancers Web3 Explorer.",
-    "pageTitle": "Coin98 - Web3 Wallets - Lancers Web3 Explorer"
+    "short": "Coin98 is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Coin98 is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Coin98 focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Coin98 provides high-quality Wallets services on TON. Discover Coin98 and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Coin98 - Wallets on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://coin98.com/",
-    "twitter": "https://x.com/coin98_wallet"
+    "website": "https://coin98.com/wallet",
+    "twitter": "https://x.com/[coin98_wallet](https://twitter.com/coin98_wallet)"
   },
   "relations": {
-    "alternatives": [
-      "gem-wallet",
-      "virgo-wallet"
-    ],
+    "alternatives": [],
     "related": [
-      "etherspot-sdk",
-      "holdstation"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

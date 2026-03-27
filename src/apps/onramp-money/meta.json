@@ -1,54 +1,31 @@
 {
   "slug": "onramp-money",
-  "name": "Onramp.money",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748867/web3-explorer/dapp-logos/onramp-money.png",
+  "name": "OnRamp.money",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/onramp-money.svg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Fiat Onramps"
   ],
   "chains": [
-    "Arbitrum",
-    "Aptos",
-    "Avalanche",
-    "Base",
-    "Bitcoin",
-    "BNB Chain",
-    "Celo",
-    "Ethereum",
-    "Fantom",
-    "Harmony",
-    "Cosmos",
-    "Immutable X",
-    "Moonbeam",
-    "Polygon",
-    "OP Mainnet",
-    "Polkadot",
-    "Polygon zkEVM",
-    "Sui",
-    "ZKsync",
-    "Solana",
-    "Tron"
+    "TON"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Onramp.money enables fiat-to-crypto in emerging markets, supporting Web3 payments.",
-    "description": "Onramp.money addresses a significant bottleneck in Web3 by simplifying payments as users move from Web2. It focuses on emerging and underserved markets, enabling a rapid fiat-to-web3 money transition. The service leverages local instant bank transfers—such as UPI/IMPS in India and FAST in Turkey—to deliver fast, reliable funding options. A streamlined login based on a mobile number and OTP keeps onboarding simple, while the platform prioritizes the best transaction value, speed, and efficiency on a unified interface.",
-    "meta": "Onramp.money is a Web3 wallet tool that speeds fiat-to-crypto in emerging markets. Discover Onramp.money and other Web3 Wallet Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Onramp.money - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "OnRamp.money is a leading Web3 Wallet Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "OnRamp.money is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Wallet Tools sector, OnRamp.money focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "OnRamp.money provides high-quality Web3 Wallet Tools services on TON. Discover OnRamp.money and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "OnRamp.money - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://onramp.money/",
-    "twitter": "https://x.com/onrampmoney"
+    "website": "https://onramp.money",
+    "twitter": "https://x.com/[onrampmoney](https://twitter.com/onrampmoney)"
   },
   "relations": {
-    "alternatives": [
-      "sphereone",
-      "bybarter",
-      "hq-xyz"
-    ],
+    "alternatives": [],
     "related": [
-      "orca",
-      "shade-protocol"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

@@ -1,44 +1,31 @@
 {
   "slug": "symbiosis",
   "name": "Symbiosis",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750540/web3-explorer/dapp-logos/symbiosis.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/symbiosis.svg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
   ],
   "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "Base",
-    "BNB Chain",
-    "Ethereum",
-    "OP Mainnet",
-    "Polygon",
-    "Polygon zkEVM",
-    "Tron",
-    "ZKsync"
+    "TON"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Symbiosis is a multi-chain liquidity protocol that aggregates exchange liquidity across EVM and selected non-EVM networks.",
-    "description": "Symbiosis is a multi-chain liquidity protocol that aggregates exchange liquidity across EVM networks and select non-EVM ecosystems, including TRON, Bitcoin, and BNB. By unifying liquidity across disparate bridges and swap platforms, it enables asset swaps and cross-chain liquidity transfers with a single click and a single on-chain transaction, helping to reduce fragmentation and streamline multi-chain trading. This simple setup aims to reduce fragmentation across bridges and swap platforms.",
-    "meta": "Symbiosis is a multi-chain liquidity protocol. Discover Symbiosis and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Symbiosis - DeFi Tools - Lancers Web3 Explorer"
+    "short": "Symbiosis is a leading DeFi Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Symbiosis is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Tools sector, Symbiosis focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Symbiosis provides high-quality DeFi Tools services on TON. Discover Symbiosis and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Symbiosis - DeFi Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://symbiosis.finance/",
-    "twitter": "https://x.com/symbiosis_fi"
+    "twitter": "https://x.com/[symbiosis_fi](https://twitter.com/symbiosis_fi)"
   },
   "relations": {
-    "alternatives": [
-      "matcha",
-      "rubic",
-      "squid"
-    ],
+    "alternatives": [],
     "related": [
-      "eclipse",
-      "starknet",
-      "solana"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

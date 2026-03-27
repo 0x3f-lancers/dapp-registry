@@ -1,36 +1,31 @@
 {
   "slug": "kucoin",
   "name": "KuCoin",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747928/web3-explorer/dapp-logos/kucoin.png",
-  "category": "Trading Tools",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/kucoin.svg",
+  "category": "Blockchains",
   "subcategory": [
-    "Crypto Exchanges"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Bitcoin",
-    "Ethereum"
+    "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "KuCoin provides a centralized cryptocurrency exchange serving international markets.",
-    "description": "KuCoin is a major cryptocurrency exchange that enables users to buy, sell, and trade digital assets. It provides core trading options, as well as margin and futures trading, along with peer-to-peer (P2P) trading and a variety of other products and tools. For developers, the platform offers an API to retrieve data endpoints for their applications and access to the sandbox, supporting integration with dapps and testing in a contained environment.",
-    "meta": "KuCoin is a cryptocurrency exchange offering buying, selling, and trading cryptocurrencies. Discover KuCoin and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "KuCoin - Trading Tools - Lancers Web3 Explorer"
+    "short": "KuCoin is a leading Blockchains on the TON network, providing users with seamless access to decentralized services.",
+    "description": "KuCoin is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Blockchains sector, KuCoin focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "KuCoin provides high-quality Blockchains services on TON. Discover KuCoin and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "KuCoin - Blockchains on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.kucoin.com/",
-    "twitter": "https://x.com/kucoincom"
+    "website": "https://www.kucoin.com",
+    "twitter": "https://x.com/[kucoincom](https://x.com/kucoincom)"
   },
   "relations": {
-    "alternatives": [
-      "fcondex",
-      "bybarter",
-      "swissborg"
-    ],
+    "alternatives": [],
     "related": [
-      "swoop-exchange",
-      "shade-protocol",
-      "increment-finance"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

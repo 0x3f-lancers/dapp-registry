@@ -1,35 +1,31 @@
 {
   "slug": "alchemy-pay",
   "name": "Alchemy Pay",
-  "logoUrl": "https://unavatar.io/twitter/AlchemyPay",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/alchemy-pay.svg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Fiat Onramps"
   ],
   "chains": [
-    "Multichain"
+    "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "A global crypto-fiat payment gateway bridging traditional finance and the crypto economy in over 170 countries.",
-    "description": "Alchemy Pay is a global payment gateway that bridges traditional fiat finance with the cryptocurrency economy. Operating in over 170 countries, it provides seamless fiat on and off-ramps, allowing users to buy crypto using local payment methods like cards and bank transfers. Its hybrid payment system enables merchants to accept both fiat and cryptocurrency while settling in local currency.\n\nThe platform also offers crypto-linked cards for instant global spending. With the upcoming Alchemy Chain, a dedicated Layer-1 for stablecoin payments, Alchemy Pay continues to drive mainstream adoption of digital assets through secure and practical payment utility.",
-    "meta": "Alchemy Pay bridges fiat and crypto payments for merchants and users worldwide. Discover its payment solutions on Lancers Web3 Explorer.",
-    "pageTitle": "Alchemy Pay - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "Alchemy Pay is a leading Web3 Wallet Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Alchemy Pay is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Wallet Tools sector, Alchemy Pay focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Alchemy Pay provides high-quality Web3 Wallet Tools services on TON. Discover Alchemy Pay and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Alchemy Pay - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://alchemypay.org/",
-    "twitter": "https://x.com/AlchemyPay"
+    "twitter": "https://x.com/[alchemypay](https://twitter.com/alchemypay)"
   },
   "relations": {
-    "alternatives": [
-      "mercuryo",
-      "wert",
-      "transfi"
-    ],
+    "alternatives": [],
     "related": [
-      "copper",
-      "ens",
-      "crypto-apis"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

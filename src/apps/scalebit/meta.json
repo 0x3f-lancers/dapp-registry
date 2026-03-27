@@ -1,34 +1,31 @@
 {
   "slug": "scalebit",
   "name": "ScaleBit",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749758/web3-explorer/dapp-logos/scalebit.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/scalebit.svg",
   "category": "Web3 Security Tools",
   "subcategory": [
-    "Blockchain Auditing Companies"
+    "Blockchain Security Tools"
   ],
   "chains": [
-    "Multichain"
+    "TON"
   ],
-  "pricing": "Paid",
+  "pricing": "Free",
   "content": {
-    "short": "ScaleBit provides security audits for all blockchains and cross-chain applications.",
-    "description": "ScaleBit is a dedicated blockchain security team focused on creating security solutions that support the mass adoption of Web3. Drawing on deep experience with scaling technologies—including blockchain interoperability and zero-knowledge proofs—ScaleBit conducts thorough, state-of-the-art security audits for blockchain applications. The team consists of security professionals with extensive experience in academia and enterprise, committed to rigorous assessment and practical risk mitigation for developers and organizations building on multiple chains.",
-    "meta": "ScaleBit is a blockchain security team providing security solutions for Web3 mass adoption. Discover ScaleBit and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "ScaleBit - Web3 Security Tools - Lancers Web3 Explorer"
+    "short": "ScaleBit is a leading Web3 Security Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "ScaleBit is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Security Tools sector, ScaleBit focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "ScaleBit provides high-quality Web3 Security Tools services on TON. Discover ScaleBit and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "ScaleBit - Web3 Security Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.scalebit.xyz/",
-    "twitter": "https://x.com/scalebit_"
+    "twitter": "https://x.com/[scalebit_](https://twitter.com/scalebit_)"
   },
   "relations": {
-    "alternatives": [
-      "coinspect",
-      "oak",
-      "cyfrin"
-    ],
+    "alternatives": [],
     "related": [
-      "blocksec-tools",
-      "borg-security"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

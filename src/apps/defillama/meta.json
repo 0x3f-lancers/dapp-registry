@@ -1,35 +1,31 @@
 {
   "slug": "defillama",
-  "name": "DeFiLlama",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746394/web3-explorer/dapp-logos/defillama.jpg",
+  "name": "DefiLlama",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/defillama.svg",
   "category": "DeFi Tools",
   "subcategory": [
     "Analytics Tools"
   ],
   "chains": [
-    "Ethereum"
+    "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "DeFiLlama provides a large TVL aggregator to track popular chains and their dApps.",
-    "description": "DeFiLlama is one of the largest TVL aggregators. It uses TVL data to highlight the biggest protocols across popular chains such as Ethereum, Solana, BNB Chain, Polygon, Arbitrum, OP Mainnet, and Multichain, and their dApps, while showing how these figures evolve over time as activity expands and shifts in the ecosystem. The project emphasizes data accuracy and remains fully open-sourced, providing transparent visibility into the DeFi landscape and enabling users to compare growth, usage trends, and the relative standing of projects across networks.",
-    "meta": "DeFiLlama provides one of the largest TVL aggregators to track popular chains and their dApps. Discover DeFiLlama and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "DeFiLlama - DeFi Tools - Lancers Web3 Explorer"
+    "short": "DefiLlama is a leading DeFi Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "DefiLlama is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Tools sector, DefiLlama focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "DefiLlama provides high-quality DeFi Tools services on TON. Discover DefiLlama and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "DefiLlama - DeFi Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://defillama.com/",
-    "twitter": "https://x.com/defillama"
+    "twitter": "https://x.com/[DefiLlama](https://twitter.com/DefiLlama)"
   },
   "relations": {
-    "alternatives": [
-      "xangle",
-      "solana-compass",
-      "takeprofit"
-    ],
+    "alternatives": [],
     "related": [
-      "nfteyez",
-      "bosstrack",
-      "nft-price-floor"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

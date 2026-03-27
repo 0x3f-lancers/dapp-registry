@@ -1,38 +1,29 @@
 {
   "slug": "getblock",
   "name": "GetBlock",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747219/web3-explorer/dapp-logos/getblock.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/getblock.svg",
   "category": "Infrastructure Tools",
-  "subcategory": [
-    "RPC Node Providers"
-  ],
+  "subcategory": [],
   "chains": [
-    "Ethereum",
-    "Polygon",
-    "Avalanche",
-    "BNB Chain",
-    "OP Mainnet",
-    "Arbitrum",
-    "Solana"
+    "TON"
   ],
-  "pricing": "Paid",
+  "pricing": "Free",
   "content": {
-    "short": "GetBlock is a node service provider that offers blockchain-as-a-service and APIs to build.",
-    "description": "GetBlock serves blockchain-dependent businesses by enabling them to run customized private nodes or access shared nodes as needed, providing a flexible foundation for diverse operational setups across multiple networks. The platform offers APIs to integrate crypto payments via DeFi services and custodial wallet functionality, simplifying payment flows, asset management, and secure transaction processing. With support across Ethereum, Polygon, Avalanche, BNB Chain, OP Mainnet, Arbitrum, Solana, Multichain, and Aptos, the service adapts to varied deployment needs.",
-    "meta": "GetBlock is a service provider for blockchain-reliant businesses to host custom private nodes or use shared nodes. Discover GetBlock and other Infrastructure Tools on Lancers Web3 Explorer.",
-    "pageTitle": "GetBlock - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "GetBlock is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "GetBlock is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, GetBlock focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "GetBlock provides high-quality Infrastructure Tools services on TON. Discover GetBlock and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "GetBlock - Infrastructure Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://getblock.io/",
-    "twitter": "https://x.com/getblockio"
+    "website": "https://getblock.io/nodes/ton/",
+    "twitter": "https://x.com/[getblockio](https://twitter.com/getblockio)"
   },
   "relations": {
-    "alternatives": [
-      "chainlove",
-      "alchemy"
-    ],
+    "alternatives": [],
     "related": [
-      "taraxa"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

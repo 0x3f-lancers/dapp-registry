@@ -1,39 +1,31 @@
 {
-  "slug": "Quantstamp",
+  "slug": "quantstamp",
   "name": "Quantstamp",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744693/web3-explorer/dapp-logos/Quantstamp.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/quantstamp.svg",
   "category": "Web3 Security Tools",
   "subcategory": [
-    "Blockchain Auditing Companies"
+    "Blockchain Security Tools"
   ],
   "chains": [
-    "Ethereum",
-    "Solana",
-    "Avalanche",
-    "Arbitrum",
-    "Polygon"
+    "TON"
   ],
-  "pricing": "Paid",
+  "pricing": "Free",
   "content": {
-    "short": "Quantstamp is a global leader in blockchain security, on a mission to secure the future of Web3.",
-    "description": "Since 2017, Quantstamp has delivered security expertise through hundreds of audits for projects such as Ethereum 2.0, Solana, Binance Smart Chain, Visa, TON, Sandbox, Pendle, and Stacks. The firm has completed over 750 audits, helping protect more than $200 billion in digital assets from hackers. In addition to security services, Quantstamp supports the Web3 ecosystem with strategic investments and by serving as a trusted advisor to help projects scale.",
-    "meta": "Quantstamp is a blockchain security firm focused on smart contract audits. Discover Quantstamp and other Web3 Security Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Quantstamp - Web3 Security Tools - Lancers Web3 Explorer"
+    "short": "Quantstamp is a leading Web3 Security Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Quantstamp is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Security Tools sector, Quantstamp focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Quantstamp provides high-quality Web3 Security Tools services on TON. Discover Quantstamp and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Quantstamp - Web3 Security Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://quantstamp.com/",
-    "twitter": "https://x.com/Quantstamp"
+    "twitter": "https://x.com/[Quantstamp](https://twitter.com/Quantstamp)"
   },
   "relations": {
-    "alternatives": [
-      "mosaia",
-      "sherlock",
-      "coinfabrik"
-    ],
+    "alternatives": [],
     "related": [
-      "misttrack",
-      "semgrep",
-      "polyzoa"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

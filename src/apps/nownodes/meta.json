@@ -1,50 +1,29 @@
 {
   "slug": "nownodes",
   "name": "NOWNodes",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748785/web3-explorer/dapp-logos/nownodes.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/nownodes.svg",
   "category": "Infrastructure Tools",
-  "subcategory": [
-    "RPC Node Providers"
-  ],
+  "subcategory": [],
   "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "Base",
-    "Bitcoin",
-    "BNB Chain",
-    "Celo",
-    "Cosmos",
-    "Ethereum",
-    "Fantom",
-    "Harmony",
-    "OP Mainnet",
-    "Polkadot",
-    "Polygon",
-    "Solana",
-    "Starknet",
-    "Sui",
-    "Tron"
+    "TON"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "NOWNodes provides API access to full nodes and blockbook explorers across 100+ blockchain networks.",
-    "description": "NOWNodes is a blockchain-as-a-service platform that provides API access to full nodes and blockbook explorers. The service provides a high-quality infrastructure that is fast, cost-effective, and reliable, and it offers Service Quality Standards for all partners. Choose the node you need, use the available methods, and connect.",
-    "meta": "NOWNodes provides access to full nodes and blockbook Explorers via API. Discover NOWNodes and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "NOWNodes - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "NOWNodes is a leading Infrastructure Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "NOWNodes is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Infrastructure Tools sector, NOWNodes focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "NOWNodes provides high-quality Infrastructure Tools services on TON. Discover NOWNodes and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "NOWNodes - Infrastructure Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://nownodes.io/",
-    "twitter": "https://x.com/NOWNodes"
+    "website": "https://nownodes.io/nodes/toncoin",
+    "twitter": "https://x.com/[NowNodes](https://twitter.com/NowNodes)"
   },
   "relations": {
-    "alternatives": [
-      "rockx",
-      "getblock",
-      "alchemy"
-    ],
+    "alternatives": [],
     "related": [
-      "spinor",
-      "unmarshal"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

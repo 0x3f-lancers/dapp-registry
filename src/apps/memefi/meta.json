@@ -1,36 +1,31 @@
 {
   "slug": "memefi",
   "name": "MemeFi",
-  "logoUrl": "https://logo.clearbit.com/memefi.club",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/memefi.svg",
   "category": "Decentralized Games",
   "subcategory": [
-    "Web3 Games"
+    "AAA Web3 Games"
   ],
   "chains": [
-    "Sui",
-    "Linea"
+    "TON"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "MemeFi is a popular Telegram-based tap-to-earn battle game featuring clan combat and on-chain rewards.",
-    "description": "MemeFi is a viral Web3-native gaming ecosystem that blends meme culture with interactive social-tech mechanics. Originally launched on Linea, the project transitioned its core token operations to the Sui network to leverage high-speed transactions and low fees for its massive user base. Players engage in \"tap-to-earn\" gameplay, joining clans to battle epic bosses and other participants while earning on-chain rewards and exclusive digital assets.\n\nDesigned for massive social engagement, MemeFi utilizes Telegram as its primary portal, allowing users to interact with decentralized economies through a familiar interface. The platform is powered by the MEMEFI token, which facilitates governance and utility within the gaming world. By combining gamified rewards with transparent blockchain-based ownership, MemeFi provides a fun and accessible entry point for millions of users to explore the broader Web3 landscape and participate in a vibrant, community-driven virtual economy.",
-    "meta": "MemeFi is a gamified social-tech battle ecosystem on Sui and Linea featuring tap-to-earn rewards and clan combat.",
-    "pageTitle": "MemeFi - Decentralized Games - Lancers Web3 Explorer"
+    "short": "MemeFi is a leading Decentralized Games on the TON network, providing users with seamless access to decentralized services.",
+    "description": "MemeFi is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Decentralized Games sector, MemeFi focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "MemeFi provides high-quality Decentralized Games services on TON. Discover MemeFi and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "MemeFi - Decentralized Games on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.memefi.club",
-    "twitter": "https://twitter.com/memeficlub"
+    "website": "https://memefi.club/",
+    "twitter": "https://x.com/[memeficlub](https://twitter.com/memeficlub)"
   },
   "relations": {
-    "alternatives": [
-      "defi-kingdoms",
-      "coin-parliament",
-      "solslay"
-    ],
+    "alternatives": [],
     "related": [
-      "brawler-bearz",
-      "onetap",
-      "greedy-world"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

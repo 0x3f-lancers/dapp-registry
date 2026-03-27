@@ -1,40 +1,29 @@
 {
   "slug": "elliptic",
   "name": "Elliptic",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746671/web3-explorer/dapp-logos/elliptic.jpg",
-  "category": "Web3 Security Tools",
-  "subcategory": [
-    "Blockchain Security Tools"
-  ],
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/elliptic.svg",
+  "category": "NFT Dapps",
+  "subcategory": [],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "Starknet",
-    "OP Mainnet",
-    "Polygon",
-    "Solana"
+    "TON"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Elliptic provides tools and compliance structures to keep wallets and crypto assets safe.",
-    "description": "Founded in 2013 by Dr. James Smith, Dr. Adam Joyce, and Dr. Tom Robinson, Elliptic was created to close the security and compliance gaps surrounding cryptocurrency assets. Organizations can engage Elliptic to investigate crimes involving cryptocurrency tokens and assets, including NFTs. Developers can leverage Elliptic's tools to observe how assets move across wallets and blockchains. With hundreds of compliance cases handled, Elliptic aims to make the crypto ecosystem safer for everyone.",
-    "meta": "Elliptic provides tools and compliance structures to keep wallets and crypto assets safe. Discover Elliptic and other Web3 Security Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Elliptic - Web3 Security Tools - Lancers Web3 Explorer"
+    "short": "Elliptic is a leading NFT Dapps on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Elliptic is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT Dapps sector, Elliptic focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Elliptic provides high-quality NFT Dapps services on TON. Discover Elliptic and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Elliptic - NFT Dapps on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.elliptic.co/",
-    "twitter": "https://x.com/elliptic"
+    "twitter": "https://x.com/[elliptic](https://twitter.com/elliptic)"
   },
   "relations": {
-    "alternatives": [
-      "revoke-cash",
-      "glider",
-      "certora"
-    ],
+    "alternatives": [],
     "related": [
-      "chainaware-ai",
-      "glider",
-      "rattle"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

@@ -1,36 +1,31 @@
 {
   "slug": "safepal",
   "name": "SafePal",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749727/web3-explorer/dapp-logos/safepal.svg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/safepal.svg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Hardware Wallets"
   ],
   "chains": [
-    "Ethereum",
-    "BNB Chain"
+    "TON"
   ],
-  "pricing": "Paid",
+  "pricing": "Free",
   "content": {
-    "short": "SafePal is a crypto hardware wallet and wallet manager.",
-    "description": "SafePal offers an app, extension and hardware wallet. The hardware wallet features an EAL 5+ independent secure element, a true random number generator, multiple layers of security sensors, and a self-destruct mechanism to protect assets. The wallet is backed by the well-known crypto exchange Binance. The SafePal app allows users to pair several wallets across chains for a centralized point of management.",
-    "meta": "SafePal offers an App, extension and hardware wallet. Discover SafePal and other Web3 Wallets on Lancers Web3 Explorer.",
-    "pageTitle": "SafePal - Web3 Wallets - Lancers Web3 Explorer"
+    "short": "SafePal is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
+    "description": "SafePal is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, SafePal focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "SafePal provides high-quality Wallets services on TON. Discover SafePal and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "SafePal - Wallets on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.safepal.com/",
-    "twitter": "https://x.com/iSafePal"
+    "website": "https://www.safepal.com/en/",
+    "twitter": "https://x.com/[iSafePal](https://twitter.com/iSafePal)"
   },
   "relations": {
-    "alternatives": [
-      "ledger",
-      "degen-wallet",
-      "trezor"
-    ],
+    "alternatives": [],
     "related": [
-      "timelessx",
-      "totalsig",
-      "saakuru"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

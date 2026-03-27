@@ -1,39 +1,29 @@
 {
   "slug": "coinstats",
   "name": "CoinStats",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745821/web3-explorer/dapp-logos/coinstats.png",
-  "category": "Trading Tools",
-  "subcategory": [
-    "Crypto Portfolio Dashboards"
-  ],
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/coinstats.svg",
+  "category": "Web3 Service Providers",
+  "subcategory": [],
   "chains": [
-    "Ethereum",
-    "Polygon",
-    "Avalanche",
-    "Arbitrum",
-    "Solana",
-    "Polkadot",
-    "BNB Chain",
-    "OP Mainnet"
+    "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "CoinStats is a free cryptocurrency portfolio management and DeFi wallet app.",
-    "description": "CoinStats provides a platform to monitor and manage crypto, DeFi, and NFT assets. Each month, over 1.2 million active users track their portfolios in real time by linking more than 300 wallets and exchanges. The built-in DeFi wallet enables storage, buying, and swapping of crypto assets. Across the platform, more than $100 million in assets are managed. The app focuses on empowering users to efficiently oversee their crypto holdings through a straightforward, user-friendly experience.",
-    "meta": "CoinStats is a free cryptocurrency portfolio management and DeFi wallet app. Discover CoinStats and other Trading Tools on Lancers Web3 Explorer.",
-    "pageTitle": "CoinStats - Trading Tools - Lancers Web3 Explorer"
+    "short": "CoinStats is a leading Utilities on the TON network, providing users with seamless access to decentralized services.",
+    "description": "CoinStats is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Utilities sector, CoinStats focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "CoinStats provides high-quality Utilities services on TON. Discover CoinStats and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "CoinStats - Utilities on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://coinstats.app/",
-    "twitter": "https://x.com/coinstats_"
+    "website": "https://coinstats.app",
+    "twitter": "https://x.com/https://x.com/CoinStats"
   },
   "relations": {
-    "alternatives": [
-      "takeprofit",
-      "insightx"
-    ],
+    "alternatives": [],
     "related": [
-      "increment-finance"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

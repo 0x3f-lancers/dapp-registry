@@ -1,53 +1,31 @@
 {
   "slug": "rubic",
   "name": "Rubic",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749680/web3-explorer/dapp-logos/rubic.png",
-  "category": "Web3 Developer Tools",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/rubic.svg",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Web3 SDKs"
+    "Web3 Bridges"
   ],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "Multichain",
-    "Aptos",
-    "Avalanche",
-    "Bitcoin",
-    "BNB Chain",
-    "Celo",
-    "Cosmos",
-    "Cronos",
-    "Fantom",
-    "Immutable X",
-    "Moonbeam",
-    "Polygon",
-    "OP Mainnet",
-    "Polkadot",
-    "Solana",
-    "Tron",
-    "ZKsync",
-    "Sui",
-    "Starknet"
+    "TON"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Rubic is a cross-chain tech aggregator for users and dapps.",
-    "description": "Rubic delivers cross-chain capabilities for users and projects by aggregating blockchains, Web3 bridges, and decentralized exchanges. As a cross-chain solution aggregator for tokens and NFT bridges, signals, oracles, and smart contract executors, Rubic enables seamless interactions on your site. By integrating Rubic, users can swap tokens and NFTs across 15,500 assets, including fiat options in 250+ currencies, on both EVM and non-EVM chains without leaving your website. Your project can communicate with networks across different blockchains.",
-    "meta": "Rubic is a cross-chain tech aggregator for users and dapps. Discover Rubic and other Web3 Developer Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Rubic - Web3 Developer Tools - Lancers Web3 Explorer"
+    "short": "Rubic is a leading DeFi Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Rubic is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Tools sector, Rubic focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Rubic provides high-quality DeFi Tools services on TON. Discover Rubic and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Rubic - DeFi Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://rubic.exchange/",
-    "twitter": "https://x.com/CryptoRubic"
+    "twitter": "https://x.com/[CryptoRubic](https://twitter.com/CryptoRubic)"
   },
   "relations": {
-    "alternatives": [
-      "moralis",
-      "particle-network"
-    ],
+    "alternatives": [],
     "related": [
-      "vscode",
-      "ethfiddle"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

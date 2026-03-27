@@ -1,46 +1,31 @@
 {
   "slug": "hacken",
   "name": "Hacken",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747379/web3-explorer/dapp-logos/hacken.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/hacken.svg",
   "category": "Web3 Security Tools",
   "subcategory": [
-    "Blockchain Auditing Companies",
     "Blockchain Security Tools"
   ],
   "chains": [
-    "Solana",
-    "Avalanche",
-    "BNB Chain",
-    "Ethereum",
-    "OP Mainnet",
-    "Polygon",
-    "Arbitrum",
-    "Aptos",
-    "Sui",
-    "Cosmos",
-    "Polkadot",
-    "Fantom"
+    "TON"
   ],
-  "pricing": "Paid",
+  "pricing": "Free",
   "content": {
-    "short": "Hacken is an end-to-end blockchain security and compliance partner for digital assets.",
-    "description": "Hacken combines blockchain security expertise with AI-driven offensive testing and compliance know‑how to safeguard digital assets. Since 2017, what started as a small team of ethical hackers has evolved into a leading security partner for the blockchain ecosystem, trusted by governments, regulators, institutions, and more than 1,500 adopters. Clients include the European Commission, ADGM, Ethereum Foundation, MetaMask, and major exchanges like Binance, Bybit, OKX, and Crypto.com.",
-    "meta": "Hacken is an end-to-end blockchain security and compliance partner for digital assets. Discover Hacken and other Web3 Security Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Hacken - Web3 Security Tools - Lancers Web3 Explorer"
+    "short": "Hacken is a leading Web3 Security Tools on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Hacken is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Security Tools sector, Hacken focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Hacken provides high-quality Web3 Security Tools services on TON. Discover Hacken and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Hacken - Web3 Security Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://hacken.io/",
-    "twitter": "https://x.com/hackenclub"
+    "twitter": "https://x.com/[hackenclub](https://twitter.com/hackenclub)"
   },
   "relations": {
-    "alternatives": [
-      "statemind",
-      "composable-security",
-      "tonbit"
-    ],
+    "alternatives": [],
     "related": [
-      "cube3-ai",
-      "solcurity"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }

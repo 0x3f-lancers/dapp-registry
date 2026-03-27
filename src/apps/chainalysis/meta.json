@@ -1,34 +1,29 @@
 {
   "slug": "chainalysis",
   "name": "Chainalysis",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745626/web3-explorer/dapp-logos/chainalysis.webp",
-  "category": "Web3 Security Tools",
-  "subcategory": [
-    "Blockchain Security Tools"
-  ],
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/chainalysis.svg",
+  "category": "NFT Dapps",
+  "subcategory": [],
   "chains": [
-    "Ethereum"
+    "TON"
   ],
-  "pricing": "Paid",
+  "pricing": "Free",
   "content": {
-    "short": "Chainalysis provides intelligence and risk management tools to position users for long-term utility.",
-    "description": "Since its founding in 2014, Chainalysis develops software and provides actionable intelligence to help traditional institutions embrace decentralized technology. The company works to foster trust between partners while implementing robust, low risk compliance standards. Through its work with investigators and regulators, Chainalysis has supported some of the blockchain industry's most high-profile prosecutions, underscoring its role in advancing secure, compliant crypto activity.",
-    "meta": "Chainalysis offers software and information to help institutions integrate decentralized tech. Discover Chainalysis and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Chainalysis - Web3 Security Tools - Lancers Web3 Explorer"
+    "short": "Chainalysis is a leading NFT Dapps on the TON network, providing users with seamless access to decentralized services.",
+    "description": "Chainalysis is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the NFT Dapps sector, Chainalysis focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
+    "meta": "Chainalysis provides high-quality NFT Dapps services on TON. Discover Chainalysis and other top TON dApps on Lancers Web3 Explorer.",
+    "pageTitle": "Chainalysis - NFT Dapps on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.chainalysis.com/",
-    "twitter": "https://x.com/chainalysis"
+    "twitter": "https://x.com/[chainalysis](https://twitter.com/chainalysis)"
   },
   "relations": {
-    "alternatives": [
-      "evmole",
-      "scamsniffer",
-      "securedapp"
-    ],
+    "alternatives": [],
     "related": [
-      "coinsdo",
-      "apeworx-evmtrace"
+      "tonkeeper",
+      "ston-fi",
+      "dedust-io"
     ]
   }
 }
