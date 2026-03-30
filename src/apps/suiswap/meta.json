@@ -12,8 +12,8 @@
   "pricing": "",
   "content": {
     "short": "Suiswap is a high-performance DEX hub on Sui that combines AMM liquidity pools with a limit order book.",
-    "description": "Suiswap is a leading decentralized exchange and liquidity powerhouse built natively on the Sui blockchain, designed to provide users with a seamless and highly efficient trading experience. The platform features a hybrid architecture that combines traditional Automated Market Maker (AMM) liquidity pools with a Central Limit Order Book (CLOB), allowing for more precise trade execution and minimal slippage. Suiswap serves as a primary liquidity hub for the Sui ecosystem, providing professional-grade trading tools for both volatile and stable assets.\n\nPowered by the $SSWP token, the protocol features a robust reward framework that incentivizes long-term participation through revenue-sharing and governance. Suiswap also includes a decentralized aggregator that finds the best possible rates across various liquidity sources on the network. By leveraging Sui's high-speed infrastructure and sub-second finality, Suiswap provides a responsive and transparent venue for asset exchange that prioritizes user sovereignty. Through its commitment to continuous innovation, Suiswap is building the essential framework for high-frequency decentralized commerce on Sui.",
-    "meta": "Suiswap provides high-speed AMM-CLOB hybrid trading and liquidity aggregation for the Sui blockchain ecosystem.",
+    "description": "Suiswap is a leading decentralized exchange and liquidity powerhouse built natively on the Sui blockchain, designed to provide users with a seamless and highly efficient trading experience. The platform features a hybrid architecture that combines traditional Automated Market Maker (AMM) liquidity pools with a Central Limit Order Book (CLOB), allowing for more precise trade execution and minimal slippage. Suiswap serves as a primary liquidity hub for the Sui ecosystem, providing professional-grade trading tools. Suiswap also includes a decentralized aggregator to find the best possible rates.",
+    "meta": "Suiswap provides high-speed hybrid trading and liquidity aggregation for the Sui blockchain. Discover Suiswap on Lancers Web3 Explorer.",
     "pageTitle": "Suiswap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,13 +23,13 @@
   "relations": {
     "alternatives": [
       "ambient-finance",
-      "dojoswap",
-      "hummus-exchange"
+      "dojoswap"
     ],
     "related": [
       "marginly",
       "xgram-io",
-      "upshift"
+      "upshift",
+      "curve-finance"
     ]
   }
 }
