@@ -9,11 +9,6 @@
     "validate": "node dist/scripts/run-validate.js",
     "distill": "node dist/scripts/run-distill.js",
     "build:site": "node dist/scripts/build-site.js",
-    "dev": "tsx index.ts",
-    "dev:validate": "tsx scripts/run-validate.ts",
-    "dev:distill": "tsx scripts/run-distill.ts",
-    "dev:build:site": "tsx scripts/build-site.ts",
-    "dev:generate-meta": "tsx scripts/generate-meta-from-consolidated.ts",
     "test": "jest"
   },
   "keywords": [],
