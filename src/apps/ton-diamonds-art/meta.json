@@ -1,9 +1,11 @@
 {
   "slug": "ton-diamonds-art",
   "name": "TON Diamonds Art",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-diamonds-art.svg",
+  "logoUrl": "https://img.logo.dev/diamonds.ton.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "NFT Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "Gaming NFT Marketplaces"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,15 @@
     "twitter": "https://x.com/[ton_diamonds](https://x.com/ton_diamonds)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "daolama",
+      "disintar",
+      "fragment",
+      "g-bots",
+      "getgems"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

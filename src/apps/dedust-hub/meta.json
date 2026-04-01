@@ -1,9 +1,11 @@
 {
   "slug": "dedust-hub",
   "name": "DeDust Hub",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/dedust-hub.svg",
+  "logoUrl": "https://img.logo.dev/dedust.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "Crypto Staking Companies"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[dedust_io](https://twitter.com/dedust_io)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "aqua-protocol",
+      "bemo",
+      "bemo-finance",
+      "bidask-finance",
+      "blum"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

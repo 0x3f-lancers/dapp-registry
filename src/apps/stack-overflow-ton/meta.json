@@ -1,9 +1,11 @@
 {
   "slug": "stack-overflow-ton",
   "name": "Stack Overflow TON",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/stack-overflow-ton.svg",
+  "logoUrl": "https://img.logo.dev/stackoverflow.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Service Providers",
-  "subcategory": [],
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
   "chains": [
     "TON"
   ],
@@ -15,15 +17,18 @@
     "pageTitle": "Stack Overflow TON - Forums on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://stackoverflow.com",
-    "twitter": ""
+    "website": "https://stackoverflow.com"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coinstats",
+      "orbs",
+      "port3",
+      "sonet",
+      "tdex-ai"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

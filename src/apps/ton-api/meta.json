@@ -1,9 +1,11 @@
 {
   "slug": "ton-api",
   "name": "Ton API",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-api.svg",
+  "logoUrl": "https://img.logo.dev/tonapi.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Developer Tools",
-  "subcategory": [],
+  "subcategory": [
+    "ABI Tools"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[tonappshq](https://twitter.com/tonappshq)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "adradar",
+      "blueprint",
+      "dton",
+      "hypergpt-ai",
+      "tact"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

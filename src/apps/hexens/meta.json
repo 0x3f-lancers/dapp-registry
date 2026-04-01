@@ -1,7 +1,7 @@
 {
   "slug": "hexens",
   "name": "Hexens",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/hexens.svg",
+  "logoUrl": "https://img.logo.dev/hexens.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Security Tools",
   "subcategory": [
     "Blockchain Security Tools"
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[hexensio](https://twitter.com/hexensio)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "bitok",
+      "certik",
+      "chainalysis",
+      "chainawareai",
+      "elliptic"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

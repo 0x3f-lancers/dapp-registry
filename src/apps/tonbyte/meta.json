@@ -1,7 +1,7 @@
 {
   "slug": "tonbyte",
   "name": "Tonbyte",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tonbyte.svg",
+  "logoUrl": "https://img.logo.dev/tonbyte.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Decentralized Storage Tools"
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[TON_Byte](https://twitter.com/TON_Byte)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "3xpl-explorer",
+      "cocoon-network",
+      "connecton-hub",
+      "getblock",
+      "nexabit-ai"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "xton-wallet",
   "name": "XTON Wallet",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/xton-wallet.svg",
+  "logoUrl": "https://img.logo.dev/xtonwallet.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -17,8 +17,7 @@
     "pageTitle": "XTON Wallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://xtonwallet.com/",
-    "twitter": ""
+    "website": "https://xtonwallet.com/"
   },
   "relations": {
     "alternatives": [
@@ -26,6 +25,12 @@
       "mytonwallet",
       "bitget-wallet"
     ],
-    "related": []
+    "related": [
+      "tangem-wallet",
+      "tonhub",
+      "tonkeeper",
+      "tonkey",
+      "trust-wallet"
+    ]
   }
 }

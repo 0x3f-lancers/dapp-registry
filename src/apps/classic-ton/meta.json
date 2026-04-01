@@ -1,7 +1,7 @@
 {
   "slug": "classic-ton",
   "name": "Classic TON",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/classic-ton.svg",
+  "logoUrl": "https://img.logo.dev/classic.ton-game.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Decentralized Games",
   "subcategory": [
     "AAA Web3 Games"
@@ -17,15 +17,19 @@
     "pageTitle": "Classic TON - Decentralized Games on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://classic.ton-game.com/",
-    "twitter": ""
+    "website": "https://classic.ton-game.com/"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "1win-token-game",
+      "amazing-marshmallows",
+      "banana",
+      "bitsler",
+      "camels-house"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

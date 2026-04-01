@@ -1,9 +1,11 @@
 {
   "slug": "mugglepay-app",
   "name": "MugglePay App",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/mugglepay-app.svg",
+  "logoUrl": "https://img.logo.dev/ton.mugglepay.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Wallet Tools",
-  "subcategory": [],
+  "subcategory": [
+    "Account Abstraction (ERC-4337) Bundlers"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,15 @@
     "twitter": "https://x.com/[paymuggle](https://x.com/paymuggle)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "alchemy-pay",
+      "bit2me",
+      "cryptomus",
+      "cryptopay",
+      "finchpay"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

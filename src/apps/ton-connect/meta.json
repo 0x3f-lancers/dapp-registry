@@ -1,8 +1,8 @@
 {
   "slug": "ton-connect",
   "name": "TON Connect",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-connect.svg",
-  "category": "Infrastructure Tools",
+  "logoUrl": "https://img.logo.dev/tonconnect.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Wallet Tools",
   "subcategory": [
     "Wallet Connection Tools"
   ],
@@ -17,8 +17,7 @@
     "pageTitle": "TON Connect - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://tonconnect.org",
-    "twitter": ""
+    "website": "https://tonconnect.org"
   },
   "relations": {
     "alternatives": [
@@ -26,6 +25,10 @@
       "streamr",
       "itheum"
     ],
-    "related": []
+    "related": [
+      "onmeta",
+      "ton-dns",
+      "tonpay"
+    ]
   }
 }

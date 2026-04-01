@@ -1,7 +1,7 @@
 {
   "slug": "indicaton",
   "name": "Indicaton",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/indicaton.svg",
+  "logoUrl": "https://img.logo.dev/indicaton.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Tools",
   "subcategory": [
     "Analytics Tools"
@@ -23,9 +23,14 @@
   "relations": {
     "alternatives": [
       "gashawk",
-      "crypton-tools",
       "coinlayer"
     ],
-    "related": []
+    "related": [
+      "symbiosis",
+      "ton-bridge",
+      "ton-dex-pnl-service",
+      "ton-stat",
+      "tonup-pad"
+    ]
   }
 }

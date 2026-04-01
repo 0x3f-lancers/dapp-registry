@@ -1,7 +1,7 @@
 {
   "slug": "hipo-hub",
   "name": "Hipo Hub",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/hipo-hub.svg",
+  "logoUrl": "https://img.logo.dev/hipo.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -21,11 +21,14 @@
     "twitter": "https://x.com/[hipo_finance](https://twitter.com/hipo_finance)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "aqua-protocol",
+      "bemo",
+      "bemo-finance",
+      "blum"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

@@ -1,9 +1,11 @@
 {
   "slug": "sentism",
   "name": "Sentism",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/sentism.svg",
+  "logoUrl": "https://img.logo.dev/sentism.ai?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Service Providers",
-  "subcategory": [],
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/https://x.com/SentismAI"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coinstats",
+      "lucky-ton",
+      "orbs",
+      "port3",
+      "sonet"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

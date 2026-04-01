@@ -1,9 +1,11 @@
 {
   "slug": "coin98",
   "name": "Coin98",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/coin98.svg",
+  "logoUrl": "https://img.logo.dev/coin98.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Wallets",
-  "subcategory": [],
+  "subcategory": [
+    "Hardware Wallets"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[coin98_wallet](https://twitter.com/coin98_wallet)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coin-wallet",
+      "cwallet",
+      "gemwallet",
+      "grindery",
+      "ledger"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

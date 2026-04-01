@@ -1,7 +1,7 @@
 {
   "slug": "trail-of-bits",
   "name": "Trail of Bits",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/trail-of-bits.svg",
+  "logoUrl": "https://img.logo.dev/trailofbits.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Security Tools",
   "subcategory": [
     "Blockchain Security Tools"
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[trailofbits](https://twitter.com/trailofbits)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "bitok",
+      "certik",
+      "chainalysis",
+      "chainawareai",
+      "elliptic"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

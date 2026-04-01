@@ -1,7 +1,7 @@
 {
   "slug": "kattana-platform",
   "name": "Kattana Platform",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/kattana-platform.svg",
+  "logoUrl": "https://img.logo.dev/app.kattana.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Tools",
   "subcategory": [
     "Analytics Tools"
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[kattanatrade](https://twitter.com/kattanatrade)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "anton-analytics",
+      "changenow",
+      "crypton-hub",
+      "defillama",
+      "dyor-io"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "anon",
   "name": "ANON",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/anon.svg",
+  "logoUrl": "https://img.logo.dev/anon.tg?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Social Dapps",
   "subcategory": [
     "Web3 Social Media Dapps"
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[anonclub8](https://twitter.com/anonclub8)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "athletix",
+      "balus",
+      "bounty-bay",
+      "coub",
+      "duck-coin-token"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

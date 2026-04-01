@@ -1,7 +1,7 @@
 {
   "slug": "8xr-engine",
   "name": "8XR Engine",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/8xr-engine.svg",
+  "logoUrl": "https://img.logo.dev/8xr.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Gaming Tools",
   "subcategory": [
     "Decentralized Gaming Tools"
@@ -21,11 +21,14 @@
     "twitter": "https://x.com/[8xr_engine](https://twitter.com/8xr_engine)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "playzap-games",
+      "ton-play",
+      "ton-station"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

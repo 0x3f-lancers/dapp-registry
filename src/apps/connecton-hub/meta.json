@@ -1,9 +1,11 @@
 {
   "slug": "connecton-hub",
   "name": "Connecton Hub",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/connecton-hub.svg",
+  "logoUrl": "https://img.logo.dev/connecton.surf?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Infrastructure Tools",
-  "subcategory": [],
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[ConnectonVPN](https://twitter.com/ConnectonVPN)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "3xpl-explorer",
+      "cocoon-network",
+      "getblock",
+      "nexabit-ai",
+      "nownodes"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

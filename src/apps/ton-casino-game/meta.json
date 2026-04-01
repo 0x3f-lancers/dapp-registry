@@ -1,7 +1,7 @@
 {
   "slug": "ton-casino-game",
   "name": "TON Casino Game",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-casino-game.svg",
+  "logoUrl": "https://img.logo.dev/toncasino.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Decentralized Games",
   "subcategory": [
     "AAA Web3 Games"
@@ -17,15 +17,19 @@
     "pageTitle": "TON Casino Game - Decentralized Games on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://toncasino.io/",
-    "twitter": ""
+    "website": "https://toncasino.io/"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "1win-token-game",
+      "amazing-marshmallows",
+      "banana",
+      "bitsler",
+      "camels-house"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

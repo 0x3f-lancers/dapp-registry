@@ -1,9 +1,11 @@
 {
   "slug": "upbeat",
   "name": "Upbeat",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/upbeat.svg",
+  "logoUrl": "https://img.logo.dev/upbeat.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Service Providers",
-  "subcategory": [],
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,15 @@
     "twitter": "https://x.com/https://x.com/Upbeat_TON"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coinstats",
+      "orbs",
+      "port3",
+      "sonet",
+      "stack-overflow-ton"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

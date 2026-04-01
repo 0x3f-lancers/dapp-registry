@@ -1,7 +1,7 @@
 {
   "slug": "onramp-money",
   "name": "OnRamp.money",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/onramp-money.svg",
+  "logoUrl": "https://img.logo.dev/onramp.money?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Fiat Onramps"
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[onrampmoney](https://twitter.com/onrampmoney)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "alchemy-pay",
+      "bit2me",
+      "cryptomus",
+      "cryptopay",
+      "finchpay"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

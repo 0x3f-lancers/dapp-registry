@@ -1,7 +1,7 @@
 {
   "slug": "hydra",
   "name": "Hydra",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/hydra.svg",
+  "logoUrl": "https://img.logo.dev/tonhydra.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Social Dapps",
   "subcategory": [
     "Web3 Social Media Dapps"
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[ton_hydra](https://twitter.com/ton_hydra)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "anon",
+      "athletix",
+      "balus",
+      "bounty-bay",
+      "coub"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

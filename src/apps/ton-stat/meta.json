@@ -1,7 +1,7 @@
 {
   "slug": "ton-stat",
   "name": "Ton Stat",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-stat.svg",
+  "logoUrl": "https://img.logo.dev/tonstat.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Tools",
   "subcategory": [
     "Analytics Tools"
@@ -17,15 +17,19 @@
     "pageTitle": "Ton Stat - DeFi Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.tonstat.com/",
-    "twitter": ""
+    "website": "https://www.tonstat.com/"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "anton-analytics",
+      "changenow",
+      "crypton-hub",
+      "defillama",
+      "dyor-io"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

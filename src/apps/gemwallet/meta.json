@@ -1,7 +1,7 @@
 {
   "slug": "gemwallet",
   "name": "Gemwallet",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/gemwallet.svg",
+  "logoUrl": "https://img.logo.dev/gemwallet.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -23,9 +23,14 @@
   "relations": {
     "alternatives": [
       "gem-wallet",
-      "cwallet-app",
       "ironwallet"
     ],
-    "related": []
+    "related": [
+      "tonhub",
+      "tonkeeper",
+      "tonkey",
+      "trust-wallet",
+      "xton-wallet"
+    ]
   }
 }

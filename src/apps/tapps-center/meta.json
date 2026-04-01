@@ -1,7 +1,7 @@
 {
   "slug": "tapps-center",
   "name": "tApps Center",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tapps-center.svg",
+  "logoUrl": "https://img.logo.dev/tapps.center?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Web3 Data Tools"
@@ -17,8 +17,7 @@
     "pageTitle": "tApps Center - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://tapps.center",
-    "twitter": ""
+    "website": "https://tapps.center"
   },
   "relations": {
     "alternatives": [
@@ -26,6 +25,8 @@
       "epns",
       "akash-network"
     ],
-    "related": []
+    "related": [
+      "ton-app-center"
+    ]
   }
 }

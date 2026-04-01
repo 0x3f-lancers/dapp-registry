@@ -1,9 +1,11 @@
 {
   "slug": "crypton-hub",
   "name": "CRYPTON HUB",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/crypton-hub.svg",
+  "logoUrl": "https://img.logo.dev/crypton.tools?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Tools",
-  "subcategory": [],
+  "subcategory": [
+    "Analytics Tools"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[thetonhub](https://twitter.com/thetonhub)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "anton-analytics",
+      "changenow",
+      "defillama",
+      "dyor-io",
+      "indicaton"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

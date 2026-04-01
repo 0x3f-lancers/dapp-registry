@@ -1,9 +1,11 @@
 {
   "slug": "port3",
   "name": "Port3",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/port3.svg",
+  "logoUrl": "https://img.logo.dev/port3.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Service Providers",
-  "subcategory": [],
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,15 @@
     "twitter": "https://x.com/https://x.com/Port3Network"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coinstats",
+      "orbs",
+      "sonet",
+      "stack-overflow-ton",
+      "tdex-ai"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

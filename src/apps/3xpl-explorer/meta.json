@@ -1,9 +1,11 @@
 {
   "slug": "3xpl-explorer",
   "name": "3xpl Explorer",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/3xpl-explorer.svg",
+  "logoUrl": "https://img.logo.dev/3xpl.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Infrastructure Tools",
-  "subcategory": [],
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[3xplcom](https://twitter.com/3xplcom)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "cocoon-network",
+      "connecton-hub",
+      "getblock",
+      "nexabit-ai",
+      "nownodes"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

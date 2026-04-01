@@ -1,8 +1,8 @@
 {
   "slug": "tact-by-example",
   "name": "Tact by Example",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tact-by-example.svg",
-  "category": "Web3 Service Providers",
+  "logoUrl": "https://img.logo.dev/tact-by-example.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Developer Tools",
   "subcategory": [
     "Web3 Education Resources"
   ],
@@ -17,15 +17,19 @@
     "pageTitle": "Tact by Example - Education on TON - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://tact-by-example.org",
-    "twitter": ""
+    "website": "https://tact-by-example.org"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coinstats",
+      "lucky-ton",
+      "orbs",
+      "port3",
+      "sentism"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

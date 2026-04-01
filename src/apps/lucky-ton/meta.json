@@ -1,8 +1,8 @@
 {
   "slug": "lucky-ton",
   "name": "Lucky TON",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/lucky-ton.svg",
-  "category": "Web3 Service Providers",
+  "logoUrl": "https://img.logo.dev/academy.luckyton.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Developer Tools",
   "subcategory": [
     "Web3 Education Resources"
   ],
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[lkyton](https://x.com/lkyton)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coinstats",
+      "orbs",
+      "port3",
+      "sentism",
+      "sonet"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

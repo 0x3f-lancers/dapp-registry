@@ -1,9 +1,11 @@
 {
   "slug": "ton-map-hub",
   "name": "TON Map Hub",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-map-hub.svg",
+  "logoUrl": "https://img.logo.dev/tonmap.app?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Infrastructure Tools",
-  "subcategory": [],
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[thetonmap](https://twitter.com/thetonmap)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "3xpl-explorer",
+      "cocoon-network",
+      "connecton-hub",
+      "getblock",
+      "nexabit-ai"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

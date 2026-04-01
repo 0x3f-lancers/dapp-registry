@@ -1,7 +1,7 @@
 {
   "slug": "getblock",
   "name": "GetBlock",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/getblock.svg",
+  "logoUrl": "https://img.logo.dev/getblock.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -23,13 +23,10 @@
   "relations": {
     "alternatives": [
       "adot",
-      "3xpl-explorer",
       "chainstack"
     ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

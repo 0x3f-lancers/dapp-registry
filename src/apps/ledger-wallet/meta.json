@@ -1,7 +1,7 @@
 {
   "slug": "ledger-wallet",
   "name": "Ledger Wallet",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ledger-wallet.svg",
+  "logoUrl": "https://img.logo.dev/ledger.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Wallets",
   "subcategory": [
     "Hardware Wallets"
@@ -21,11 +21,14 @@
     "twitter": "https://x.com/[Ledger](https://twitter.com/Ledger)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "coin-wallet",
+      "cwallet",
+      "gemwallet",
+      "grindery"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "stepogram-app",
   "name": "Stepogram App",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/stepogram-app.svg",
+  "logoUrl": "https://img.logo.dev/stepogram.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Decentralized Games",
   "subcategory": [
     "AAA Web3 Games"
@@ -21,11 +21,16 @@
     "twitter": "https://x.com/[stepogram](https://twitter.com/stepogram)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "1win-token-game",
+      "amazing-marshmallows",
+      "banana",
+      "bitsler",
+      "camels-house"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

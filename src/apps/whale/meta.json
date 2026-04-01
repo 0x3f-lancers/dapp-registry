@@ -1,9 +1,11 @@
 {
   "slug": "whale",
   "name": "Whale",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/whale.svg",
+  "logoUrl": "https://img.logo.dev/whale.me?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "NFT Dapps",
-  "subcategory": [],
+  "subcategory": [
+    "Gaming NFT Marketplaces"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/https://x.com/Whale"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "daolama",
+      "disintar",
+      "fragment",
+      "g-bots",
+      "getgems"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

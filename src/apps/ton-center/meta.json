@@ -1,9 +1,11 @@
 {
   "slug": "ton-center",
   "name": "Ton Center",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-center.svg",
+  "logoUrl": "https://img.logo.dev/toncenter.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Developer Tools",
-  "subcategory": [],
+  "subcategory": [
+    "ABI Tools"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,14 @@
     "twitter": "https://x.com/[toncenter](https://twitter.com/toncenter)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "adradar",
+      "blueprint",
+      "dton",
+      "hypergpt-ai"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "finchpay",
   "name": "FinchPay",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/finchpay.svg",
+  "logoUrl": "https://img.logo.dev/finchpay.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Fiat Onramps"
@@ -26,6 +26,10 @@
       "solsplits",
       "fortress-wallet"
     ],
-    "related": []
+    "related": [
+      "ton-connect",
+      "ton-dns",
+      "tonpay"
+    ]
   }
 }

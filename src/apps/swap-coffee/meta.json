@@ -1,9 +1,11 @@
 {
   "slug": "swap-coffee",
   "name": "Swap.coffee",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/swap-coffee.svg",
+  "logoUrl": "https://img.logo.dev/swap.coffee?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Tools",
-  "subcategory": [],
+  "subcategory": [
+    "Analytics Tools"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[swap_coffee](https://twitter.com/swap_coffee)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "anton-analytics",
+      "changenow",
+      "crypton-hub",
+      "defillama",
+      "dyor-io"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }

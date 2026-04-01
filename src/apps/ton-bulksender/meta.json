@@ -1,7 +1,7 @@
 {
   "slug": "ton-bulksender",
   "name": "TON Bulksender",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/ton-bulksender.svg",
+  "logoUrl": "https://img.logo.dev/ton.bulksender.app?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Developer Tools",
   "subcategory": [
     "Web3 SDKs"
@@ -21,11 +21,14 @@
     "twitter": "https://x.com/[TokenBulksender](https://twitter.com/TokenBulksender)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "adradar",
+      "blueprint",
+      "dton",
+      "hypergpt-ai"
+    ],
     "related": [
-      "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "tonkeeper"
     ]
   }
 }

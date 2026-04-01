@@ -1,9 +1,11 @@
 {
   "slug": "tact",
   "name": "Tact",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/tact.svg",
+  "logoUrl": "https://img.logo.dev/tact-lang.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Web3 Developer Tools",
-  "subcategory": [],
+  "subcategory": [
+    "ABI Tools"
+  ],
   "chains": [
     "TON"
   ],
@@ -19,11 +21,16 @@
     "twitter": "https://x.com/[tact_language](https://twitter.com/tact_language)"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "adradar",
+      "blueprint",
+      "dton",
+      "hypergpt-ai",
+      "tact-fireworks"
+    ],
     "related": [
       "tonkeeper",
-      "ston-fi",
-      "dedust-io"
+      "ston-fi"
     ]
   }
 }
