@@ -2,31 +2,34 @@
   "slug": "safepal",
   "name": "SafePal",
   "logoUrl": "https://img.logo.dev/safepal.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
-  "category": "Web3 Wallets",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Hardware Wallets"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "TON"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "SafePal is the first hardware wallet to natively support TON, offering a full suite of secure asset management tools.",
-    "description": "SafePal is a comprehensive non-custodial wallet suite that was the first hardware wallet to provide native support for the TON blockchain. It offers a unique combination of hardware, software, and browser extension wallets, all integrated into a single ecosystem. SafePal's hardware solutions use air-gapped security to protect assets, while its app provides a rich interface for dApp interaction, token swaps, and yield farming, making it a powerful choice for TON users.",
-    "meta": "Explore SafePal, the first hardware wallet with native TON support. Secure your assets on Lancers Web3 Explorer.",
-    "pageTitle": "SafePal - Web3 Wallets - Lancers Web3 Explorer"
+    "short": "SafePal is a Binance-backed hardware and software crypto wallet supporting Mantle and 100+ blockchains with built-in DeFi and NFT tools.",
+    "description": "SafePal is a comprehensive crypto asset management platform backed by Binance Labs, offering both hardware wallets and software wallet solutions. The hardware wallet provides air-gapped offline key storage for maximum security, while the SafePal App offers a mobile-first interface with built-in DEX swaps, cross-chain bridging, staking, and DApp browser. SafePal supports Mantle Network alongside over 100 blockchains, making it one of the most versatile wallets available for Mantle users who value both security and DeFi functionality.",
+    "meta": "SafePal is a Binance-backed hardware and software wallet supporting Mantle and 100+ blockchains. Discover SafePal on Lancers Web3 Explorer.",
+    "pageTitle": "SafePal - Wallets - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.safepal.com/en/",
-    "twitter": "https://twitter.com/iSafePal"
+    "website": "https://www.safepal.com/",
+    "twitter": "https://x.com/iSafePal"
   },
   "relations": {
     "alternatives": [
-      "metamask",
-      "ecoinwallet"
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
     ],
     "related": [
-      "tonkeeper"
+      "metamask",
+      "safe",
+      "okx-wallet"
     ]
   }
 }

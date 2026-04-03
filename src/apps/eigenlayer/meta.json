@@ -1,35 +1,38 @@
 {
   "slug": "eigenlayer",
   "name": "EigenLayer",
-  "logoUrl": "https://unavatar.io/twitter/eigenlayer",
+  "logoUrl": "https://img.logo.dev/eigenlayer.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Crypto Staking Companies"
+    "DeFi Yield Aggregators"
   ],
   "chains": [
-    "Ethereum"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "EigenLayer is a middleware protocol on Ethereum that introduces restaking for shared security and AVS innovation.",
-    "description": "EigenLayer is a pioneering middleware protocol on Ethereum that introduces the concept of restaking. This mechanism allows users to repurpose their staked ETH or Liquid Staking Tokens (LSTs) to secure additional applications known as Actively Validated Services (AVS). By creating a marketplace for decentralized trust, EigenLayer enables developers to bootstrap new networks with Ethereum's robust security guarantees.\n\nThe platform lowers capital barriers for new services while providing stakers with additional yield. Through its modular architecture, EigenLayer facilitates an efficient ecosystem where security is a programmable resource. It empowers a wide range of Web3 infrastructure, including oracles and bridges, while maintaining decentralization and user sovereignty.",
-    "meta": "Explore EigenLayer, the restaking protocol on Ethereum that enables shared security for AVS and enhances decentralized trust on Lancers.",
-    "pageTitle": "EigenLayer - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "EigenLayer is Ethereum's restaking protocol allowing validators to extend Ethereum's cryptoeconomic security to additional protocols called AVSs.",
+    "description": "EigenLayer is a restaking protocol on Ethereum founded by Sreeram Kannan that allows validators to opt-in to securing additional networks and services  called Actively Validated Services (AVSs)  beyond Ethereum itself using their staked ETH. This extends Ethereum's trust and security to new protocols without requiring them to bootstrap their own validator set. EigenLayer raised $100M and has attracted billions in restaked TVL since its launch. Its integration with Mantle enables users to access restaking opportunities and earn additional yield on staked assets.",
+    "meta": "EigenLayer enables ETH restaking to extend cryptoeconomic security to multiple protocols from Mantle. Discover EigenLayer on Lancers Web3 Explorer.",
+    "pageTitle": "EigenLayer - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.eigenlayer.xyz/",
-    "twitter": "https://x.com/eigenlayer"
+    "twitter": "https://x.com/eigenlayer",
+    "discord": "https://discord.gg/eigenlayer",
+    "docs": "https://docs.eigenlayer.xyz",
+    "github": "https://github.com/Layr-Labs"
   },
   "relations": {
     "alternatives": [
-      "trebleswap",
-      "earnpark",
-      "erasure"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "opyn",
-      "francium",
-      "merchant-moe"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

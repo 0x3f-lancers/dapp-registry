@@ -2,35 +2,37 @@
   "slug": "coin98",
   "name": "Coin98",
   "logoUrl": "https://img.logo.dev/coin98.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
-  "category": "Web3 Wallets",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Hardware Wallets"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "TON"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Coin98 is a leading Wallets on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Coin98 is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Wallets sector, Coin98 focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Coin98 provides high-quality Wallets services on TON. Discover Coin98 and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Coin98 - Wallets on TON - Lancers Web3 Explorer"
+    "short": "Coin98 is a leading multi-chain crypto wallet and DeFi gateway providing users with a unified interface for asset management across 100+ networks.",
+    "description": "Coin98 is an all-in-one DeFi super-app that offers a comprehensive suite of tools including a non-custodial wallet, decentralized exchange aggregator, and dApp browser. With full support for the Mantle Network, Coin98 provides users with a seamless and high-performance gateway to explore the entire Mantle ecosystem. Its platform simplifies complex on-chain operations such as swapping tokens and managing cross-chain assets, making it an essential tool for any Mantle user.",
+    "meta": "Coin98 is a leading multi-chain wallet and DeFi gateway with full integration for the Mantle Network. Discover Coin98 on Lancers Web3 Explorer.",
+    "pageTitle": "Coin98 - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://coin98.com/wallet",
-    "twitter": "https://x.com/[coin98_wallet](https://twitter.com/coin98_wallet)"
+    "website": "https://coin98.com/",
+    "twitter": "https://x.com/coin98_wallet",
+    "discord": "https://discord.gg/coin98",
+    "docs": "https://docs.coin98.com/",
+    "github": "https://github.com/coin98"
   },
   "relations": {
     "alternatives": [
-      "coin-wallet",
-      "cwallet",
-      "gemwallet",
-      "grindery",
-      "ledger"
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
     ],
     "related": [
-      "tonkeeper",
-      "ston-fi"
+      "metamask",
+      "safe",
+      "okx-wallet"
     ]
   }
 }

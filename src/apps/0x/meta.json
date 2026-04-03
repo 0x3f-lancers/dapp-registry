@@ -1,23 +1,38 @@
 {
   "slug": "0x",
   "name": "0x",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/0x.svg",
+  "logoUrl": "https://img.logo.dev/0x.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
-  "pricing": "",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
   "content": {
-    "short": "0x is an open-source protocol and DEX infrastructure for wallet-to-wallet trading of ERC-20 and ERC-723 tokens.",
-    "description": "0x, founded in 2017 by Will Warren, is among the oldest decentralized exchanges. It has raised about $109 million to date, including a $70 million Series B from investors such as Pantera Capital and Jump Crypto. The project provides open‑source smart contracts that enable developers and businesses to build decentralized exchanges and trading protocols. These protocols support direct, non‑custodial wallet‑to‑wallet trading of ERC‑20 and ERC‑723 tokens, while the 0x network uses nodes hosting an off‑chain order book and the ZRX token to facilitate transactions.",
-    "meta": "0x provides smart contracts and liquidity infrastructure for decentralized trading. Discover 0x and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "0x - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "0x is an open-source protocol and developer infrastructure for building decentralized exchanges and on-chain trading applications with best-price execution.",
+    "description": "0x Protocol, founded in 2017 by Will Warren and Amir Bandeali, is a foundational DeFi infrastructure layer providing APIs and smart contracts that enable developers to build DEX aggregators, NFT marketplaces, and financial applications. The 0x API aggregates liquidity from hundreds of sources to provide best-price execution for any token swap, and is used by leading wallets and DeFi products including MetaMask, Coinbase Wallet, and Matcha. 0x is officially supported by Mantle Network and powers trading infrastructure across the ecosystem.",
+    "meta": "0x provides developer infrastructure for building DEX and trading applications with best-price execution on Mantle. Discover 0x on Lancers Web3 Explorer.",
+    "pageTitle": "0x - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.0x.org/",
-    "twitter": "https://x.com/0xproject"
+    "website": "https://0x.org/",
+    "twitter": "https://x.com/0xproject",
+    "discord": "https://discord.gg/d3mtxvs",
+    "docs": "https://0x.org/docs",
+    "github": "https://github.com/0xProject"
   },
   "relations": {
-    "alternatives": ["position-exchange", "ave-ai"],
-    "related": ["binance", "gemini", "simpleswap"]
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
   }
 }

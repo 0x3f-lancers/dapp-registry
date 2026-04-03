@@ -1,0 +1,35 @@
+{
+  "slug": "omnia-protocol",
+  "name": "OMNIA Protocol",
+  "logoUrl": "https://img.logo.dev/omniatech.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "OMNIA Protocol is a decentralized and privacy-preserving RPC infrastructure layer offering censorship-resistant blockchain access on Mantle.",
+    "description": "OMNIA Protocol is a decentralized RPC infrastructure that prioritizes user privacy and censorship resistance in blockchain access. Unlike traditional RPC providers that log transaction requests and can theoretically censor transactions, OMNIA routes requests through a decentralized network of node operators with privacy-preserving technology. The protocol also offers MEV protection by shielding transactions from front-running bots. OMNIA supports Mantle Network, providing developers and users with a more private and secure method of interacting with the blockchain.",
+    "meta": "OMNIA Protocol is a decentralized, privacy-preserving RPC infrastructure for censorship-resistant Mantle access. Discover OMNIA on Lancers Web3 Explorer.",
+    "pageTitle": "OMNIA Protocol - Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://omniatech.io/",
+    "twitter": "https://x.com/omnia_protocol"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

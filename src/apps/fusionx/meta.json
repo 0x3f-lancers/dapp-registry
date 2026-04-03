@@ -1,35 +1,36 @@
 {
   "slug": "fusionx",
   "name": "FusionX",
-  "logoUrl": "https://unavatar.io/twitter/fusionx_finance",
+  "logoUrl": "https://img.logo.dev/fusionx.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "The leading native decentralized exchange on Mantle, offering efficient AMM trading and yield farming opportunities.",
-    "description": "FusionX is the premier native decentralized exchange (DEX) and automated market maker (AMM) on the Mantle Network. It provides a highly efficient environment for swapping tokens with minimal slippage and low costs, leveraging Mantle's modular architecture. Beyond swaps, FusionX offers robust yield farming and liquidity provision tools, allowing users to earn rewards while supporting the network's liquidity.\n\nAs a foundational liquidity layer for Mantle, FusionX plays a critical role in the ecosystem's growth. Its focus on community-driven innovation and transparent security ensures that users can trade and farm with confidence in a fully decentralized setting.",
-    "meta": "Swap tokens and earn yield on FusionX, the native DEX of Mantle Network. Experience low fees and high liquidity in a decentralized environment.",
-    "pageTitle": "FusionX - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "FusionX is a composable DEX purpose-built for the Mantle Network ecosystem, offering concentrated liquidity pools, token swaps, and yield farming.",
+    "description": "FusionX Finance is a decentralized exchange designed for the Mantle ecosystem, offering both standard AMM pools and concentrated liquidity ranges to maximize capital efficiency for liquidity providers. The protocol prioritizes composability, enabling other DeFi protocols to build on top of its liquidity infrastructure as a foundational layer. FusionX provides competitive yields for liquidity providers across a growing range of Mantle-native and bridged token pairs.",
+    "meta": "FusionX is a composable DEX built to support the Mantle Network ecosystem with efficient liquidity. Discover FusionX on Lancers Web3 Explorer.",
+    "pageTitle": "FusionX - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://fusionx.finance/",
-    "twitter": "https://x.com/fusionx_finance"
+    "twitter": "https://x.com/FusionXFi",
+    "discord": "https://discord.gg/fusionx",
+    "docs": "https://docs.fusionx.finance",
+    "telegram": "https://t.me/fusionxfi"
   },
   "relations": {
     "alternatives": [
-      "d5-exchange",
-      "dragonswap",
-      "aerodrome"
+      "agni",
+      "izumi-finance"
     ],
     "related": [
-      "unilend-finance",
-      "orbit-protocol",
-      "bumper-finance"
+      "merchant-moe",
+      "agni"
     ]
   }
 }

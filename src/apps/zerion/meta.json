@@ -1,43 +1,35 @@
 {
   "slug": "zerion",
   "name": "Zerion",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751405/web3-explorer/dapp-logos/zerion.jpg",
-  "category": "Web3 Wallets",
+  "logoUrl": "https://img.logo.dev/zerion.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Software Wallets"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "Avalanche",
-    "BNB Chain",
-    "Polygon",
-    "OP Mainnet",
-    "Solana",
-    "Fantom",
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Zerion is a multi-chain Web3 wallet and investing tool for managing DeFi and NFT portfolios.",
-    "description": "Zerion is a Web3 smart, social wallet and investing tool that lets anyone with a mobile phone manage their DeFi and NFT portfolios, with support for every chain and thousands of protocols. It offers a single entry point for digital assets, including NFTs, by pulling together data from major wallets, networks, and decentralized exchanges. As a non-custodial solution, Zerion does not hold user funds, reducing centralization risk and enabling global use.",
-    "meta": "Zerion is a Web3 wallet and investing tool for DeFi and NFT portfolios. Discover Zerion and other Web3 Wallets on Lancers Web3 Explorer.",
-    "pageTitle": "Zerion - Web3 Wallets - Lancers Web3 Explorer"
+    "short": "Zerion is a smart crypto wallet and all-in-one DeFi portfolio manager supporting everything on-chain including Mantle assets, NFTs, and DeFi positions.",
+    "description": "Zerion is a non-custodial smart wallet and comprehensive Web3 portfolio management platform trusted by over 2 million users. The Zerion wallet tracks tokens, NFTs, DeFi positions, and yield across 10+ blockchains from a single unified interface. Users can swap tokens through Zerion's aggregator, bridge assets cross-chain, explore new DeFi opportunities, and track historical portfolio performance with P&L analytics. Zerion is officially recognized by Mantle Network and supports the complete Mantle DeFi ecosystem with full asset visibility and interaction capabilities.",
+    "meta": "Zerion is a smart wallet and DeFi portfolio tracker supporting all Mantle assets and positions on-chain. Discover Zerion on Lancers Web3 Explorer.",
+    "pageTitle": "Zerion - Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://zerion.io/",
-    "twitter": "hhttps://x.com/zerion"
+    "twitter": "https://x.com/zerion_io"
   },
   "relations": {
     "alternatives": [
-      "wallet3",
-      "pillar",
-      "okx-wallet"
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
     ],
     "related": [
-      "fordefi",
-      "locksmith-wallet",
-      "arculus"
+      "metamask",
+      "safe",
+      "okx-wallet"
     ]
   }
 }

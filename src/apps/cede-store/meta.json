@@ -1,31 +1,38 @@
 {
   "slug": "cede-store",
   "name": "Cede.store",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745595/web3-explorer/dapp-logos/cede-store.png",
-  "category": "Web3 Wallet Tools",
+  "logoUrl": "https://img.logo.dev/cede.store?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Wallet Connection Tools"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Cede.store provides access to CeFi liquidity and transfers assets from Centralized Exchanges to DeFi, while preserving self-custody and wallet UX.",
-    "description": "Most crypto liquidity remains on centralized exchanges, and about 90% of DeFi users have at least one CEX. The gap between CeFi and DeFi can create friction for on-chain activity. Cede.store provides a non-custodial bridge between CeFi and DeFi, enabling dApps across DeFi ecosystems to tap into liquidity from centralized exchanges without surrendering control of funds. It connects CeFi liquidity to decentralized applications while maintaining self-custody and the core DeFi principles of transparency and permissionless access.",
-    "meta": "Cede.store helps access and transfer assets from Centralized Exchanges to DeFi. Discover Cede.store and other Web3 Wallet Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Cede.store - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "Cede.store is a non-custodial browser extension that allows users to manage and track their centralized exchange assets from a DeFi-like interface.",
+    "description": "Cede.store is a specialized wallet infrastructure that bridges the gap between centralized exchanges (CEX) and decentralized finance (DeFi). By allowing users to manage their CEX holdings through a non-custodial extension, Cede.store provides a unified and secure interface for cross-platform asset tracking. It supports the Mantle ecosystem by enabling users to seamlessly move liquidity between major exchanges and Mantle-based protocols, improving the overall efficiency of capital movement.",
+    "meta": "Cede.store is a non-custodial bridge for managing CEX assets within the Mantle ecosystem. Discover Cede.store on Lancers Web3 Explorer.",
+    "pageTitle": "Cede.store - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://cede.store",
-    "twitter": "https://x.com/CedeLabs"
+    "website": "https://cede.store/",
+    "twitter": "https://x.com/cede_store",
+    "discord": "https://discord.gg/cede",
+    "docs": "https://docs.cede.store/",
+    "github": "https://github.com/cedelabs"
   },
   "relations": {
     "alternatives": [
-      "impersonator"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "kerberus"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

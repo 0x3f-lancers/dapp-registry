@@ -1,0 +1,38 @@
+{
+  "slug": "teller",
+  "name": "Teller",
+  "logoUrl": "https://img.logo.dev/teller.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Teller is a non-custodial lending protocol on Mantle enabling permissionless borrowing markets for any ERC20 token or NFT collateral.",
+    "description": "Teller Finance is a decentralized lending protocol enabling permissionless borrowing against any ERC20 token or NFT (ERC721/ERC1155) collateral, unlike traditional lending protocols limited to blue-chip assets. Communities can create lending markets for any token, enabling long-tail asset borrowing without governance approval. The protocol matches lenders and borrowers through its lending book infrastructure on Mantle, supporting both fungible token and NFT collateral for unprecedented asset coverage.",
+    "meta": "Teller is a non-custodial lending protocol on Mantle supporting any ERC20 or NFT as collateral. Discover Teller on Lancers Web3 Explorer.",
+    "pageTitle": "Teller - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://teller.org",
+    "twitter": "https://x.com/useteller",
+    "discord": "https://discord.gg/teller",
+    "docs": "https://docs.teller.org",
+    "github": "https://github.com/teller-protocol"
+  },
+  "relations": {
+    "alternatives": [
+      "lendle",
+      "methlab",
+      "minterest"
+    ],
+    "related": [
+      "init-capital",
+      "lendle",
+      "methlab"
+    ]
+  }
+}

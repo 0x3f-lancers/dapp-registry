@@ -1,39 +1,38 @@
 {
   "slug": "owlto-finance",
   "name": "Owlto Finance",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749024/web3-explorer/dapp-logos/owlto-finance.png",
+  "logoUrl": "https://img.logo.dev/owlto.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
   ],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "OP Mainnet",
-    "ZKsync",
-    "Starknet",
-    "Polygon zkEVM"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Owlto Finance is a cross-rollup bridge enabling cross-network asset transfers across Ethereum L2 networks.",
-    "description": "Owlto Finance is a cross-rollup module built on the Ethereum L2 rollup approach, delivering low-cost, secure, and fast asset transfers. It supports transfers between Ethereum, Arbitrum, Arbitrum Nova, Optimism, StarkNet, zkSync, and Polygon, enabling users to move assets across different networks with ease. By bridging assets among these ecosystems, Owlto Finance provides a flexible, multi-network transfer path that preserves security and performance while expanding access to diverse chains and applications.",
-    "meta": "Owlto Finance is a cross-rollup module on Ethereum L2 for fast, low-cost asset transfers. Discover Owlto Finance and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Owlto Finance - DeFi Tools - Lancers Web3 Explorer"
+    "short": "Owlto Finance is a decentralized cross-rollup bridge focused on L2 networks, providing fast and low-cost asset transfers to Mantle.",
+    "description": "Owlto Finance is a decentralized bridge specifically optimized for Layer 2 networks, achieving significantly lower fees than general-purpose bridges by focusing on L2-to-L2 and L1-to-L2 transfer routes. The protocol is deployed on Mantle and supports major L2 networks, making it a go-to solution for efficiently moving assets into and within the Mantle L2 ecosystem without the higher fees of mainnet bridge alternatives.",
+    "meta": "Owlto Finance is a fast, low-cost cross-rollup bridge for L2 networks including Mantle. Discover Owlto Finance on Lancers Web3 Explorer.",
+    "pageTitle": "Owlto Finance - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://owlto.finance/",
-    "twitter": "https://x.com/Owlto_Finance"
+    "website": "https://owlto.finance",
+    "twitter": "https://x.com/Owlto_Finance",
+    "discord": "https://discord.gg/owlto",
+    "docs": "https://docs.owlto.finance",
+    "telegram": "https://t.me/owltofinance"
   },
   "relations": {
     "alternatives": [
-      "hash0x",
-      "aarc",
-      "emblem-vault"
+      "layerzero",
+      "axelar",
+      "meson"
     ],
     "related": [
-      "avalanche",
-      "astar"
+      "stargate",
+      "axelar",
+      "meson"
     ]
   }
 }

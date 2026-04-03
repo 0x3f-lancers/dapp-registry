@@ -1,36 +1,37 @@
 {
   "slug": "onramp-money",
-  "name": "OnRamp.money",
+  "name": "Onramp.money",
   "logoUrl": "https://img.logo.dev/onramp.money?token=pk_NUv2jrsJTjedV5qvXMPw8w",
-  "category": "Web3 Wallet Tools",
+  "category": "Infrastructure Tools",
   "subcategory": [
-    "Fiat Onramps"
+    "Decentralized Computing Tools"
   ],
   "chains": [
-    "TON"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "OnRamp.money is a leading Web3 Wallet Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "OnRamp.money is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Wallet Tools sector, OnRamp.money focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "OnRamp.money provides high-quality Web3 Wallet Tools services on TON. Discover OnRamp.money and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "OnRamp.money - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
+    "short": "Onramp.money is a fast and secure fiat-to-crypto conversion service enabling users to enter Web3 in under 60 seconds on Mantle.",
+    "description": "Onramp.money is a fast and user-friendly fiat-to-cryptocurrency on-ramp platform that enables users to purchase crypto assets using bank transfers and UPI payments in key markets in under 60 seconds. The service is integrated with Mantle Network, allowing new users to acquire MNT and other Mantle assets directly with fiat currency, significantly lowering the barrier to first-time blockchain participation.",
+    "meta": "Onramp.money enables secure fiat-to-crypto conversion in under 60 seconds for Mantle users. Discover Onramp.money on Lancers Web3 Explorer.",
+    "pageTitle": "Onramp.money - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://onramp.money",
-    "twitter": "https://x.com/[onrampmoney](https://twitter.com/onrampmoney)"
+    "website": "https://onramp.money/",
+    "twitter": "https://x.com/onrampmoney",
+    "discord": "https://discord.gg/onrampmoney",
+    "telegram": "https://t.me/onrampmoney"
   },
   "relations": {
     "alternatives": [
-      "alchemy-pay",
-      "bit2me",
-      "cryptomus",
-      "cryptopay",
-      "finchpay"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "tonkeeper",
-      "ston-fi"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

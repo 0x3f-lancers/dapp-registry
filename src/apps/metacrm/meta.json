@@ -1,41 +1,35 @@
 {
   "slug": "metacrm",
   "name": "MetaCRM",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748333/web3-explorer/dapp-logos/metacrm.png",
-  "category": "DeFi Tools",
+  "logoUrl": "https://img.logo.dev/metacrm.inc?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Wallets",
   "subcategory": [
-    "Analytics Tools"
+    "Software Wallets"
   ],
   "chains": [
-    "Aptos",
-    "Arbitrum",
-    "Avalanche",
-    "BNB Chain",
-    "Ethereum",
-    "OP Mainnet",
-    "Polygon"
+    "Mantle"
   ],
-  "pricing": "Paid",
+  "pricing": "free",
   "content": {
-    "short": "MetaCRM moves data from Smart Contracts to a smarter CRM.",
-    "description": "MetaCRM is a complete CRM solution for Web3 projects that covers every phase of the customer journey—from acquisition to retention and ongoing engagement. By integrating and analyzing data from both Web2 and Web3 sources, MetaCRM uncovers new user insights and supports teams in reducing Web3-specific customer experience friction by streamlining processes and consolidating channels of communication across diverse touchpoints and interactions.",
-    "meta": "MetaCRM is a CRM solution for Web3 projects that supports the customer journey. Discover MetaCRM and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "MetaCRM - DeFi Tools - Lancers Web3 Explorer"
+    "short": "MetaCRM is a Web3-native customer relationship management platform providing on-chain CRM, analytics, and user support tools for Mantle dApps.",
+    "description": "MetaCRM is the first decentralized customer relationship management platform designed specifically for Web3 protocols and dApps. By analyzing on-chain wallet data and behavioral patterns, MetaCRM enables protocols to understand their users, segment audiences, and deliver personalized engagement  all without requiring users to provide personal information. The platform integrates with Mantle dApps to provide customer support ticketing, user analytics, and targeted communication tools that respect user privacy while improving protocol-user relationships.",
+    "meta": "MetaCRM is a Web3 CRM platform providing on-chain user analytics and support tools for Mantle dApps. Discover MetaCRM on Lancers Web3 Explorer.",
+    "pageTitle": "MetaCRM - Infrastructure - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://metacrm.inc/#/",
-    "twitter": "https://x.com/metacrm_inc"
+    "website": "https://metacrm.inc/",
+    "twitter": "https://x.com/MetaCRM_inc"
   },
   "relations": {
     "alternatives": [
-      "dex-screener",
-      "nansen",
-      "whaleportal"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "footprint-analytics",
-      "cryptoslam",
-      "cryptorank"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

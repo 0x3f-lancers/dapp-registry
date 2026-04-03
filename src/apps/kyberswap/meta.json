@@ -1,23 +1,39 @@
 {
   "slug": "kyberswap",
   "name": "KyberSwap",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747944/web3-explorer/dapp-logos/kyberswap.svg",
+  "logoUrl": "https://img.logo.dev/kyberswap.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
-  "pricing": "",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
   "content": {
-    "short": "KyberSwap is a multi-chain DEX aggregator that pools liquidity from many DEXs for fast trades.",
-    "description": "KyberSwap, founded by Loi Luu of Kyber Network, is a multi‑chain decentralized exchange (DEX) aggregator that lets users trade across 14 EVM‑compatible blockchains, including Polygon, Optimism, Ethereum, Avalanche, and BNB Chain. It uses Dynamic Trade Routing to pool liquidity from more than 70 DEXs, enabling the best prices with low slippage and no additional fees. This liquidity‑aggregation approach broadens access and improves price discovery across compatible networks for traders.",
-    "meta": "KyberSwap is a multi-chain DEX aggregator that pools liquidity from many DEXs for fast trades. Discover KyberSwap and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "KyberSwap - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "KyberSwap is a multichain DEX aggregator and limit order platform with thousands of liquidity sources offering competitive trading rates on Mantle.",
+    "description": "KyberSwap is one of DeFi's most established DEX aggregators, originally founded in 2017 by Loi Luu and operating across dozens of blockchain networks. The platform aggregates liquidity from thousands of sources to provide optimal swap rates, and also operates KyberSwap Elastic  its own concentrated liquidity pools. Advanced features include limit orders, zap-in functionality, and cross-chain swaps. KyberSwap is fully deployed on Mantle Network with a comprehensive set of trading tools.",
+    "meta": "KyberSwap is a multichain DEX aggregator and limit order platform with deep liquidity on Mantle. Discover KyberSwap on Lancers Web3 Explorer.",
+    "pageTitle": "KyberSwap - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://kyberswap.com/",
-    "twitter": "https://x.com/KyberNetwork"
+    "twitter": "https://x.com/KyberNetwork",
+    "discord": "https://discord.gg/kyberswap",
+    "docs": "https://docs.kyberswap.com",
+    "github": "https://github.com/KyberNetwork",
+    "telegram": "https://t.me/kybernetwork"
   },
   "relations": {
-    "alternatives": ["saber", "panoptic", "antfarm-finance"],
-    "related": ["erasure", "pika-protocol", "thetanuts-finance"]
+    "alternatives": [
+      "agni",
+      "fusionx",
+      "izumi-finance"
+    ],
+    "related": [
+      "merchant-moe",
+      "agni",
+      "fusionx"
+    ]
   }
 }

@@ -1,40 +1,37 @@
 {
   "slug": "boomfi",
   "name": "BoomFi",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745429/web3-explorer/dapp-logos/boomfi.jpg",
-  "category": "Web3 Wallet Tools",
+  "logoUrl": "https://img.logo.dev/boomfi.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Infrastructure Tools",
   "subcategory": [
-    "Web3 Payment Tools"
+    "RPC Node Providers"
   ],
   "chains": [
-    "Arbitrum",
-    "Polygon",
-    "Ethereum",
-    "BNB Chain",
-    "Solana",
-    "Tron"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "BoomFi provides an all-in-one solution to send, accept, and convert crypto payments quickly.",
-    "description": "BoomFi provides a straightforward path for businesses to start accepting digital currency payments with confidence. It supports both one-time and recurring transactions and can settle in crypto or fiat currencies. Options include no-code, low-code, API access, and ready-made embedded integrations to suit different tech stacks. Pricing is flat 1% plus 25c per transaction. Core offerings span a crypto payment gateway, subscription billing, fast bank transfers, payouts, and Digital Wallet-as-a-Service, with embedded or white-label deployment available.",
-    "meta": "BoomFi provides an all-in-one solution to send, accept, and convert crypto payments quickly. Discover BoomFi and other Web3 Wallet Tools on Lancers Web3 Explorer.",
-    "pageTitle": "BoomFi - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "BoomFi is an all-in-one crypto payment platform enabling businesses to send, accept, and convert crypto payments across multiple blockchains.",
+    "description": "BoomFi is a comprehensive crypto payments infrastructure platform enabling businesses and individuals to send, accept, and convert cryptocurrency payments across multiple blockchain networks, supporting subscription payments, one-time invoices, and automated payroll in crypto. The platform is built for Web3-native businesses seeking reliable, multi-chain payment rails. BoomFi's integration with Mantle allows merchants to accept Mantle-based assets as payment seamlessly.",
+    "meta": "BoomFi is an all-in-one crypto payment platform for sending and accepting payments on Mantle and multiple chains. Discover BoomFi on Lancers Web3 Explorer.",
+    "pageTitle": "BoomFi - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.boomfi.xyz/",
-    "twitter": "https://x.com/boom_fi"
+    "website": "https://www.boomfi.xyz",
+    "twitter": "https://x.com/boomfi_",
+    "discord": "https://discord.gg/boomfi",
+    "docs": "https://docs.boomfi.xyz"
   },
   "relations": {
     "alternatives": [
-      "ivorypay",
-      "pocketpay-finance",
-      "recap"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "solrip",
-      "tokenscript",
-      "defi-tools"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

@@ -1,35 +1,37 @@
 {
   "slug": "zealy",
   "name": "Zealy",
-  "logoUrl": "https://logo.clearbit.com/zealy.io",
-  "category": "DeFi Tools",
+  "logoUrl": "https://img.logo.dev/zealy.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Social Dapps",
   "subcategory": [
-    "Quest-to-Earn Tools"
+    "Web3 Social Media Dapps"
   ],
   "chains": [
-    "Ethereum"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Zealy is an advanced decentralized protocol designed for seamless quest-to-earn tools within the Web3 ecosystem on Ethereum.",
-    "description": "Zealy (formerly Crew3) is a community engagement and quest platform that helps Web3 projects grow and activate their audience. As a prominent player in the DeFi Tools space, Zealy specializes in delivering high-quality quest-to-earn tools infrastructure. It natively supports interactions on Ethereum, utilizing modern smart contract standards to ensure capital efficiency and robust security. The platform is dedicated to lowering the barrier to entry for both developers and retail participants. Moving forward, Zealy focuses on expanding its decentralized capabilities to offer unparalleled utility in the ever-growing blockchain industry.",
-    "meta": "Explore Zealy, a powerful DeFi Tools protocol built on Ethereum. Enhance your decentralized workflow with Zealy on Lancers Web3 Explorer.",
-    "pageTitle": "Zealy - DeFi Tools - Lancers Web3 Explorer"
+    "short": "Zealy is a Web3 community growth platform that helps projects build loyal communities through quest-based engagement and reward programs.",
+    "description": "Zealy is a community engagement platform used by Web3 projects to create quests, reward contributors, and grow loyal user bases through structured sprint campaigns. Projects design on-chain and off-chain tasks, and community members earn XP and token rewards for completing them. Zealy has become the de facto tool for Mantle ecosystem projects launching new protocols, with its gamified approach to community building driving measurable growth in user acquisition and retention.",
+    "meta": "Zealy is a Web3 community growth platform powering loyalty and engagement for Mantle ecosystem projects. Discover Zealy on Lancers Web3 Explorer.",
+    "pageTitle": "Zealy - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://zealy.io",
-    "twitter": "https://twitter.com/zealy_io"
+    "website": "https://zealy.io/",
+    "twitter": "https://x.com/Zealy_io",
+    "discord": "https://discord.gg/zealy",
+    "linkedin": "https://www.linkedin.com/company/zealy-io"
   },
   "relations": {
     "alternatives": [
-      "acqr",
-      "dmission",
-      "grinderwiki"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "gasfeesorg",
-      "garden-finance",
-      "altitude"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

@@ -1,35 +1,38 @@
 {
   "slug": "intentx",
   "name": "IntentX",
-  "logoUrl": "https://logo.clearbit.com/intentx.io",
+  "logoUrl": "https://img.logo.dev/intentx.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Derivatives"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Base"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "IntentX is an intent-based perpetual futures DEX on Base and Mantle offering over 260 trading pairs.",
-    "description": "IntentX is a next-generation decentralized perpetual exchange that utilizes a cutting-edge intent-based architecture to provide professional-grade trading. Operating on both Base and Mantle, the platform offers over 260 trading pairs with up to 60x leverage, all settled through the SYMMIO protocol. Unlike traditional order books, IntentX's model relies on bilateral trade agreements, ensuring deep liquidity and minimal slippage for even the most complex trades.\n\nOn the Mantle network, IntentX heavily utilizes USDe as collateral, allowing traders to earn Ethena rewards while maintaining active positions. The platform is powered by the INTX token, with a revenue-sharing model that incentivizes long-term stakers. By combining the speed of intent-based execution with the security of on-chain settlement, IntentX is redefining the standards for decentralized derivatives and empowering traders with unparalleled flexibility.",
-    "meta": "IntentX offers intent-based perpetual futures trading with high leverage across multiple blockchain networks.",
-    "pageTitle": "IntentX - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "IntentX is an intent-based decentralized perpetual futures exchange on Mantle powered by the SYMMIO protocol for deep liquidity and tight spreads.",
+    "description": "IntentX is a decentralized derivatives exchange using an intent-based architecture built on the SYMMIO protocol, matching traders with professional market makers through cryptographically signed intents rather than traditional AMM or orderbook models. This design enables deep liquidity and tight spreads across a wide range of perpetual contract pairs on the Mantle Network. The intent-based approach provides a user experience closer to centralized exchanges while maintaining full on-chain settlement and self-custody of funds.",
+    "meta": "IntentX is an intent-based decentralized derivatives exchange for perpetual futures on Mantle. Discover IntentX on Lancers Web3 Explorer.",
+    "pageTitle": "IntentX - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://intentx.io",
-    "twitter": "https://twitter.com/IntentX_"
+    "website": "https://intentx.io/",
+    "twitter": "https://x.com/IntentX_",
+    "discord": "https://discord.gg/intentx",
+    "docs": "https://docs.intentx.io",
+    "github": "https://github.com/SYMM-IO"
   },
   "relations": {
     "alternatives": [
-      "horizon-protocol",
-      "synfutures",
-      "deri-protocol"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "apex-protocol",
-      "orby-network",
-      "betdex"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

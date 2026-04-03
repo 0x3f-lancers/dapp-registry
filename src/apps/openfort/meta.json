@@ -1,45 +1,38 @@
 {
   "slug": "openfort",
   "name": "Openfort",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748894/web3-explorer/dapp-logos/openfort.jpg",
-  "category": "Web3 Wallet Tools",
+  "logoUrl": "https://img.logo.dev/openfort.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Decentralized Games",
   "subcategory": [
-    "Embedded Wallets",
-    "Wallet SDKs"
+    "Web3 Games"
   ],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "Avalanche",
-    "Base",
-    "Tron",
-    "Polygon",
-    "OP Mainnet",
-    "Polkadot",
-    "BNB Chain",
-    "Celo",
-    "Cosmos",
-    "Cronos"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Openfort is an open-source wallet-as-a-service platform offering embedded (in-app) and cross-app wallets.",
-    "description": "Openfort delivers wallet-as-a-service with both embedded (in-app) and global (cross-app) wallets. It consolidates authentication, account abstraction, gas sponsorship, and orchestration, so teams can avoid juggling multiple vendors. Supported chains include Ethereum, Arbitrum, Avalanche, Base, Tron, Polygon, OP Mainnet, Polkadot, BNB Chain, Celo, Harmony, and Bitcoin, with enterprise-focused readiness for scalable deployments across organizations.",
-    "meta": "Openfort is an open-source wallet-as-a-service platform offering embedded (in-app) and cross-app wallets. Discover Openfort and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Openfort - Web3 Wallets - Lancers Web3 Explorer"
+    "short": "Openfort is a gaming-focused smart account infrastructure provider simplifying wallet integration and account abstraction for game developers on Mantle.",
+    "description": "Openfort is an infrastructure platform specifically designed for game developers building Web3-enabled games, providing easy-to-integrate smart account (account abstraction) APIs that handle wallet creation, transaction sponsorship, and session key management. This allows game studios to onboard players without requiring them to manage crypto wallets or understand blockchain concepts. Openfort's gaming-focused SDKs support Mantle Network and multiple other chains for seamless game-to-chain integration.",
+    "meta": "Openfort provides smart account infrastructure for game developers building Web3 games on Mantle. Discover Openfort on Lancers Web3 Explorer.",
+    "pageTitle": "Openfort - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.openfort.io/",
-    "twitter": "https://x.com/openfort_hq"
+    "website": "https://openfort.xyz",
+    "twitter": "https://x.com/openfortxyz",
+    "discord": "https://discord.gg/openfort",
+    "docs": "https://www.openfort.xyz/docs",
+    "github": "https://github.com/openfort-xyz"
   },
   "relations": {
     "alternatives": [
-      "zypto-wallet",
-      "wallet3"
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
     ],
     "related": [
-      "saakuru",
-      "coinbase-wallet"
+      "metamask",
+      "safe",
+      "okx-wallet"
     ]
   }
 }

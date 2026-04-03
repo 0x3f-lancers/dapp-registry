@@ -1,39 +1,39 @@
 {
   "slug": "chainlink",
   "name": "Chainlink",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745648/web3-explorer/dapp-logos/chainlink.png",
+  "logoUrl": "https://img.logo.dev/chain.link?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
   ],
   "chains": [
-    "Ethereum",
-    "Polygon",
-    "Avalanche",
-    "BNB Chain",
-    "Arbitrum",
-    "OP Mainnet"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Chainlink is a DeFi oracle that provides Ethereum-based smart contracts with real-world data.",
-    "description": "Chainlink is a DeFi oracle that enables Ethereum-based smart contracts to access real-world data and off-chain computation. Its core offerings include data feeds, Verifiable Random Numbers (VRF), the ability to call external APIs, and automated contracts. The protocol is designed to verify that smart contract parameters relying on real-world data remain independent of stakeholders, providing trusted inputs for DeFi applications and other on-chain use cases.",
-    "meta": "Chainlink is a DeFi oracle that provides Ethereum-based smart contracts with real-world data. Discover Chainlink and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Chainlink - DeFi Tools - Lancers Web3 Explorer"
+    "short": "Chainlink is the industry-standard decentralized oracle network providing tamper-proof price feeds and real-world data to smart contracts on Mantle.",
+    "description": "Chainlink is the world's leading decentralized oracle network, founded by Sergey Nazarov and Steve Ellis, trusted by hundreds of DeFi protocols across all major blockchains. Its Price Feeds provide tamper-proof asset prices to DeFi smart contracts, while additional services including VRF (verifiable randomness) and Automation enable complex smart contract applications. Chainlink secures tens of billions in DeFi value and is officially deployed on Mantle providing industry-standard oracle security to the network's DeFi protocols.",
+    "meta": "Chainlink provides secure and reliable oracle data feeds to smart contracts on Mantle and beyond. Discover Chainlink on Lancers Web3 Explorer.",
+    "pageTitle": "Chainlink - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://chain.link/",
-    "twitter": "https://x.com/chainlink"
+    "twitter": "https://x.com/chainlink",
+    "discord": "https://discord.gg/chainlink",
+    "docs": "https://docs.chain.link",
+    "github": "https://github.com/smartcontractkit",
+    "linkedin": "https://www.linkedin.com/company/chainlink-labs"
   },
   "relations": {
     "alternatives": [
-      "switchboard",
-      "dia"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "position-exchange",
-      "gateway-fm",
-      "raydium"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

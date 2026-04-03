@@ -2,31 +2,35 @@
   "slug": "alchemy-pay",
   "name": "Alchemy Pay",
   "logoUrl": "https://img.logo.dev/alchemypay.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
-  "category": "Web3 Wallet Tools",
+  "category": "Infrastructure Tools",
   "subcategory": [
-    "Fiat Onramps"
+    "Decentralized Computing Tools"
   ],
   "chains": [
-    "TON"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Alchemy Pay is a fiat-to-crypto gateway that allows users to buy TON using credit cards and bank transfers.",
-    "description": "Alchemy Pay is a leading global payment solution provider that bridges the gap between fiat and crypto economies. Its powerful on-ramp and off-ramp services allow users to buy Toncoin (TON) and other digital assets using traditional payment methods such as credit cards, mobile wallets, and bank transfers across over 170 countries. By providing a seamless and compliant gateway, Alchemy Pay significantly lowers the barrier to entry for new users joining the TON ecosystem, making it easier than ever for the general public to acquire and use Toncoin.",
-    "meta": "Buy TON with fiat easily using Alchemy Pay. Global credit card and bank support on Lancers Web3 Explorer.",
-    "pageTitle": "Alchemy Pay - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "Alchemy Pay is a leading hybrid crypto-fiat payment gateway that connects the traditional financial world with the blockchain economy.",
+    "description": "Alchemy Pay is a global payment solution provider that enables seamless transitions between fiat and cryptocurrencies. With support for over 170 countries and hundreds of local payment methods, Alchemy Pay's on-ramp and off-ramp services allow users to easily buy and sell digital assets. Its integration with the Mantle Network provides users with a direct and efficient way to onboard into the Mantle ecosystem using their local currency, supporting the widespread adoption of Mantle-based dApps and tokens.",
+    "meta": "Alchemy Pay provides seamless crypto-fiat payment solutions for the Mantle Network ecosystem. Discover Alchemy Pay on Lancers Web3 Explorer.",
+    "pageTitle": "Alchemy Pay - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://alchemypay.org/",
-    "twitter": "https://twitter.com/alchemypay"
+    "twitter": "https://x.com/AlchemyPay",
+    "telegram": "https://t.me/alchemy_official"
   },
   "relations": {
     "alternatives": [
-      "Handshake",
-      "awaken"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "tonkeeper"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

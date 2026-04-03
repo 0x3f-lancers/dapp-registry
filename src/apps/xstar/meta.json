@@ -1,37 +1,35 @@
 {
   "slug": "xstar",
   "name": "XSTAR",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751328/web3-explorer/dapp-logos/xstar.jpg",
-  "category": "Identity Tools",
+  "logoUrl": "https://img.logo.dev/xstar.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "NFT Dapps",
   "subcategory": [
-    "Decentralized Identity Tools",
-    "Proof-of-Personhood Tools"
+    "NFT Marketplaces"
   ],
   "chains": [
-    "Arbitrum",
-    "OP Mainnet",
-    "Base",
-    "ZKsync",
-    "Linea"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "XSTAR is an omnichain identity protocol for Proof of Humanity.",
-    "description": "XSTAR offers Proof of Humanity as a Service to projects that need to confirm their users are real. The service validates real human identities while guarding against AI-generated duplicates, using an adaptive omnichain humanity scoring system that evolves as AI capabilities advance. Designed for cross-chain environments, it provides ongoing, credible identity checks across multiple networks, helping platforms deter impersonation and strengthen trusted user verification.",
-    "meta": "XSTAR is an omnichain identity protocol for Proof of Humanity. Discover XSTAR and other Identity Tools on Lancers Web3 Explorer.",
-    "pageTitle": "XSTAR - Identity Tools - Lancers Web3 Explorer"
+    "short": "XSTAR is a Web3 social protocol on Mantle enabling content creators to build tokenized communities and monetize their audiences on-chain.",
+    "description": "XSTAR is a decentralized social protocol that empowers content creators to build tokenized fan communities and monetize their relationships with audiences directly on-chain. Creators can launch social tokens, NFT memberships, and gated content experiences that give fans verifiable ownership stakes in their favorite creators' ecosystems. XSTAR is deployed on Mantle, leveraging the network's low fees to make social token interactions economically viable for creators and fans at all levels.",
+    "meta": "XSTAR is a Web3 social protocol on Mantle for creators to build tokenized communities and monetize audiences. Discover XSTAR on Lancers Web3 Explorer.",
+    "pageTitle": "XSTAR - Social Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://xstar.id/",
-    "twitter": "https://x.com/xstar_id"
+    "website": "https://xstar.io/",
+    "twitter": "https://x.com/XstarProtocol"
   },
   "relations": {
     "alternatives": [
-      "zcloak-network",
-      "boxdomains"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "metopia"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

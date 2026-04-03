@@ -1,38 +1,39 @@
 {
   "slug": "openocean",
   "name": "OpenOcean",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748901/web3-explorer/dapp-logos/openocean.png",
+  "logoUrl": "https://img.logo.dev/openocean.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": [
-    "Aptos",
-    "Arbitrum",
-    "Avalanche",
-    "BNB Chain",
-    "Cronos",
-    "Ethereum",
-    "Fantom",
-    "Harmony",
-    "Moonbeam",
-    "ZKsync",
-    "Tron",
-    "Polygon",
-    "OP Mainnet",
-    "Solana"
+  "subcategory": [
+    "Decentralized Exchanges"
   ],
-  "pricing": "",
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
   "content": {
-    "short": "OpenOcean is a DEX aggregator, a cross-chain swap aggregator, and a Web3 middleware developer.",
-    "description": "OpenOcean is a broad DEX and cross-chain swap aggregator and a Web3 middleware developer, offering tools across 23 networks and 285+ liquidity sources. The Best Rate Swap feature lets retail users perform token-to-token swaps on the protocol, with adoption by Defillama, Gnosis SAFE, Li Finance, Xdefi Wallet, BENQI, and others via its API, SDK, and widget. Its API powers arbitrage trading for projects like Hummingbot and Alpha One. The Cross-chain Swap capability lets users bridge and swap tokens across chains, and projects can provide cross-chain swaps through the API.",
-    "meta": "OpenOcean is a DEX and cross-chain swap aggregator, and a Web3 middleware developer. Discover OpenOcean and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "OpenOcean - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "OpenOcean is a full aggregation protocol sourcing liquidity from 1000+ DEXes and market makers across 30+ chains for the best swap execution.",
+    "description": "OpenOcean is a comprehensive DEX aggregation protocol sourcing liquidity from over 1,000 on-chain exchanges and market makers across 30+ blockchains, using an intelligent routing algorithm that splits trades optimally to minimize price impact and gas costs. The platform also supports limit orders, cross-chain swaps, and DCA strategies for automated trading. OpenOcean has been operating since 2020 and is fully deployed on Mantle, providing access to best-in-class swap execution for the network's users.",
+    "meta": "OpenOcean aggregates 1000+ liquidity sources for the best DEX swap prices on Mantle and 30+ chains. Discover OpenOcean on Lancers Web3 Explorer.",
+    "pageTitle": "OpenOcean - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://openocean.finance/",
-    "twitter": "https://x.com/OpenOceanGlobal"
+    "twitter": "https://x.com/OpenOceanGlobal",
+    "discord": "https://discord.gg/openocean",
+    "docs": "https://docs.openocean.finance",
+    "telegram": "https://t.me/openocean",
+    "github": "https://github.com/openocean-finance"
   },
   "relations": {
-    "alternatives": ["01", "crema-finance"],
-    "related": ["dual-finance", "hakka-finance", "simpleswap"]
+    "alternatives": [
+      "agni",
+      "fusionx",
+      "izumi-finance"
+    ],
+    "related": [
+      "merchant-moe",
+      "agni",
+      "fusionx"
+    ]
   }
 }

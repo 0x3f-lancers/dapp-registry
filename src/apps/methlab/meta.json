@@ -1,35 +1,35 @@
 {
   "slug": "methlab",
   "name": "MethLab",
-  "logoUrl": "https://logo.clearbit.com/methlab.xyz",
+  "logoUrl": "https://img.logo.dev/methlab.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "MethLab is a liquidation-free lending protocol on Mantle focusing on fixed-rate and fixed-term borrowing.",
-    "description": "MethLab is a specialized decentralized lending protocol built natively on the Mantle network, designed to provide users with a secure and predictable borrowing experience. The platform's standout feature is its liquidation-free and oracle-less architecture, which eliminates the risk of sudden asset forfeitures typically found in traditional DeFi lending. Users can enter into fixed-rate and fixed-term positions, allowing them to borrow against assets like mETH (Mantle Staked ETH) with total certainty over their costs.\n\nBy leveraging the high performance and low fees of the Mantle blockchain, MethLab provides a professional-grade environment for decentralized debt management. The protocol is built for simplicity and transparency, serving as a vital tool for users who seek to maximize their capital utility without the constant management required by variable-rate platforms. As a core infrastructure component of the Mantle ecosystem, MethLab is empowering participants to build more sophisticated and secure financial strategies on-chain.",
-    "meta": "MethLab offers liquidation-free, fixed-rate lending and borrowing services on the Mantle network.",
-    "pageTitle": "MethLab - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "MethLab is a liquidation-free, oracle-less DeFi lending protocol on Mantle offering fixed-rate, fixed-term loan positions without forced liquidations.",
+    "description": "MethLab is a novel DeFi lending protocol built natively on Mantle that eliminates the two most dangerous risks in borrowing: liquidation risk and oracle manipulation. By using fixed-rate, fixed-term loan structures, borrowers know exactly what they owe and exactly when it is due, with no possibility of forced liquidation due to price volatility. The oracle-free design removes any dependence on external price feeds, making the protocol significantly more robust against flash loan attacks and market manipulation compared to traditional lending protocols.",
+    "meta": "MethLab is a liquidation-free, oracle-less lending protocol with fixed-rate positions on Mantle. Discover MethLab on Lancers Web3 Explorer.",
+    "pageTitle": "MethLab - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://methlab.xyz/",
-    "twitter": "https://twitter.com/MethLabXYZ"
+    "website": "https://www.methlab.xyz/",
+    "twitter": "https://x.com/MethLab_xyz",
+    "discord": "https://discord.gg/methlab",
+    "docs": "https://docs.methlab.xyz"
   },
   "relations": {
     "alternatives": [
-      "meso-finance",
-      "port-finance",
-      "nolus"
+      "lendle",
+      "minterest"
     ],
     "related": [
-      "swop",
-      "dzap",
-      "bored-candy-city"
+      "init-capital",
+      "lendle"
     ]
   }
 }

@@ -1,35 +1,37 @@
 {
   "slug": "arkham",
   "name": "Arkham",
-  "logoUrl": "https://unavatar.io/twitter/ArkhamIntel",
-  "category": "Infrastructure Tools",
+  "logoUrl": "https://img.logo.dev/arkm.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Web3 Data Tools"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Arkham is an AI-powered blockchain intelligence platform that deanonymizes on-chain data and maps it to real entities.",
-    "description": "Arkham is a blockchain intelligence platform that uses its proprietary Ultra AI engine to deanonymize on-chain data, linking crypto addresses to real-world entities. By synthesizing on-chain and off-chain data, Arkham provides comprehensive entity profiles, transaction visualizers, and an \"Intel Exchange\" where users can buy and sell on-chain insights.\n\nThe platform empowers users with real-time alerts and dashboards to track fund flows and portfolio holdings. By bringing transparency to decentralized finance, Arkham serves as a critical tool for researchers and traders to understand market movements and identify key players in the Web3 ecosystem.",
-    "meta": "Arkham uses AI to deanonymize blockchain data and link addresses to real-world entities. Explore Arkham and other Web3 tools on Lancers.",
-    "pageTitle": "Arkham - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Arkham Intelligence is an AI-powered blockchain analytics platform that deanonymizes on-chain activity and tracks real-world entities behind wallet addresses.",
+    "description": "Arkham Intelligence provides institutional-grade blockchain analytics powered by artificial intelligence, with its core product being the Arkham Intel Exchange  a marketplace for buying and selling on-chain intelligence about wallets, entities, and transactions. The platform's AI engine identifies real-world entities behind blockchain addresses, enabling traders, researchers, and compliance teams to track fund flows and analyze wallet behavior at scale. Arkham covers major networks including Mantle and has become a go-to tool for on-chain due diligence and investigation across the crypto industry.",
+    "meta": "Arkham Intelligence uses AI to analyze and deanonymize blockchain activity across networks including Mantle. Discover Arkham on Lancers Web3 Explorer.",
+    "pageTitle": "Arkham - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.arkhamintelligence.com/",
-    "twitter": "https://x.com/ArkhamIntel"
+    "website": "https://intel.arkm.com/",
+    "twitter": "https://x.com/ArkhamIntel",
+    "telegram": "https://t.me/arkhamintelligence",
+    "discord": "https://discord.gg/arkham"
   },
   "relations": {
     "alternatives": [
-      "subquery",
-      "chainsight",
-      "streamr"
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
     ],
     "related": [
-      "epigeon",
-      "omnia",
-      "anycall"
+      "metamask",
+      "safe",
+      "okx-wallet"
     ]
   }
 }

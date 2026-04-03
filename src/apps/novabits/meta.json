@@ -1,35 +1,37 @@
 {
   "slug": "novabits",
   "name": "Novabits",
-  "logoUrl": "https://logo.clearbit.com/novabits.io",
+  "logoUrl": "https://img.logo.dev/novabits.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
   ],
   "chains": [
-    "Ethereum"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Novabits is a multi-chain rewards engine and liquidity platform designed for the MemeFi ecosystem.",
-    "description": "Novabits is an innovative decentralized rewards protocol and liquidity engine specifically designed to power the emerging MemeFi (Meme Finance) landscape. Operating as a multi-chain ecosystem, the platform provides the essential infrastructure for asset issuance and community-driven liquidity bootstrapping. The project utilizes the NBITS token to incentivize meaningful engagement through staking and gamified participation, creating a more sustainable and rewarding environment for meme coin projects and their holders.\n\nDeeply integrated with various blockchain networks, Novabits aims to solve the problem of fragmented liquidity by providing a unified venue for asset discovery and exchange. The platform focuses on empowering creators and early-stage projects with the tools needed to build vibrant communities while maintaining robust cryptographic security. Through its commitment to transparency and user-centric design, Novabits is building a more resilient and meritocratic financial framework for the next generation of decentralized social finance.",
-    "meta": "Novabits provides decentralized rewards infrastructure and liquidity tools for the global MemeFi ecosystem.",
-    "pageTitle": "Novabits - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Novabits is a high-performance multi-chain DeFi network offering top-tier decentralized trading services and promoting ecosystem growth on Mantle.",
+    "description": "Novabits is a DeFi protocol built for high-performance trading across multiple blockchain networks, providing decentralized exchange services with a focus on speed, reliability, and deep liquidity sourcing. The platform integrates with the Mantle Network to offer competitive swap rates and trading infrastructure that promotes broader DeFi adoption and liquidity growth across the ecosystem.",
+    "meta": "Novabits is a high-performance multi-chain DEX on Mantle promoting ecosystem growth through trading. Discover Novabits on Lancers Web3 Explorer.",
+    "pageTitle": "Novabits - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://novabits.io/",
-    "twitter": "https://twitter.com/novabits"
+    "website": "https://novabits.xyz/",
+    "twitter": "https://x.com/novabits_xyz",
+    "discord": "https://discord.gg/novabits",
+    "telegram": "https://t.me/novabits"
   },
   "relations": {
     "alternatives": [
-      "vvs-finance",
-      "betdex",
-      "lifi"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "index-coop",
-      "dual-finance",
-      "baltex.io"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

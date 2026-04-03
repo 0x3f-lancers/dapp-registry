@@ -1,40 +1,37 @@
 {
   "slug": "layerzero",
   "name": "LayerZero",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748019/web3-explorer/dapp-logos/layerzero.jpg",
+  "logoUrl": "https://img.logo.dev/layerzero.network?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
   ],
   "chains": [
-    "Ethereum",
-    "BNB Chain",
-    "Avalanche",
-    "Polygon",
-    "Arbitrum",
-    "OP Mainnet"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "LayerZero is a protocol for on-chain cross-communication.",
-    "description": "LayerZero is a cross-chain protocol that enables interaction between separate blockchains and their ecosystems. It accomplishes this with a dedicated oracle and relayer that together handle cross-chain messaging and verification of cross-chain data. By coordinating these components, LayerZero supports communication across blockchains. The protocol supports a wide array of blockchains, including Aptos, Avalanche, Polygon, and Harmony, reflecting its goal to connect multiple networks via cross-chain messaging.",
-    "meta": "LayerZero is a protocol that facilitates interaction between separate blockchains and ecosystems. Discover LayerZero and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "LayerZero - DeFi Tools - Lancers Web3 Explorer"
+    "short": "LayerZero is the leading omnichain interoperability protocol enabling secure cross-chain messaging and asset transfers between any blockchains.",
+    "description": "LayerZero is a foundational blockchain interoperability protocol providing low-level cross-chain messaging primitives for sending arbitrary data between any two supported blockchains, using a decentralized verifier network (DVN) and executor model for reliable delivery. LayerZero powers many of DeFi's most used cross-chain applications including Stargate, and has processed hundreds of millions of cross-chain messages since its 2022 launch. The protocol is deployed on Mantle as a core communication infrastructure layer.",
+    "meta": "LayerZero is an omnichain interoperability protocol for secure cross-chain communication on Mantle. Discover LayerZero on Lancers Web3 Explorer.",
+    "pageTitle": "LayerZero - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://layerzero.network/",
-    "twitter": "https://x.com/LayerZero_Labs"
+    "twitter": "https://x.com/LayerZero_Core",
+    "discord": "https://discord.gg/layerzero",
+    "docs": "https://docs.layerzero.network",
+    "github": "https://github.com/LayerZero-Labs"
   },
   "relations": {
     "alternatives": [
-      "crosscurve",
-      "stargate",
-      "garden-finance"
+      "axelar",
+      "meson"
     ],
     "related": [
-      "xdc-network",
-      "flare-network",
-      "cosmos"
+      "stargate",
+      "axelar",
+      "meson"
     ]
   }
 }

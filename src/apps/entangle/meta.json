@@ -1,0 +1,35 @@
+{
+  "slug": "entangle",
+  "name": "Entangle",
+  "logoUrl": "https://img.logo.dev/entangle.fi?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Entangle is an omnichain data and liquidity layer on Mantle that unifies cross-chain state, messaging, and automation for DeFi protocols.",
+    "description": "Entangle is an omnichain infrastructure protocol that provides a unified layer for cross-chain data availability, liquidity routing, and smart contract automation. Its Photon Messaging Layer enables secure bidirectional communication between blockchains, while the Universal Data Feeds deliver real-time cross-chain data to smart contracts. Entangle's agent network automates complex cross-chain DeFi workflows, making it a foundational piece of infrastructure for multi-chain applications deployed on Mantle and beyond.",
+    "meta": "Entangle is an omnichain data and messaging infrastructure layer powering cross-chain DeFi on Mantle. Discover Entangle on Lancers Web3 Explorer.",
+    "pageTitle": "Entangle - Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://entangle.fi/",
+    "twitter": "https://x.com/Entanglefi"
+  },
+  "relations": {
+    "alternatives": [
+      "layerzero",
+      "axelar",
+      "meson"
+    ],
+    "related": [
+      "stargate",
+      "axelar",
+      "meson"
+    ]
+  }
+}

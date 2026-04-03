@@ -1,0 +1,35 @@
+{
+  "slug": "mailzero",
+  "name": "MailZero",
+  "logoUrl": "https://img.logo.dev/mailzero.app?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "MailZero is a Web3-native email protocol on Mantle that links blockchain wallet addresses to email communication for decentralized messaging.",
+    "description": "MailZero is a decentralized email protocol that bridges traditional email communication with blockchain wallet addresses. Users can send and receive emails linked directly to their wallet addresses, enabling verifiable, pseudonymous communication without revealing personal information. The protocol supports message encryption, wallet-to-wallet messaging, and on-chain verification of communications. MailZero is deployed on Mantle and aims to build a privacy-preserving communication layer for the Web3 ecosystem.",
+    "meta": "MailZero is a Web3-native email protocol linking wallet addresses to encrypted communication on Mantle. Discover MailZero on Lancers Web3 Explorer.",
+    "pageTitle": "MailZero - Social Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mailzero.app/",
+    "twitter": "https://x.com/MailZeroApp"
+  },
+  "relations": {
+    "alternatives": [
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
+    ],
+    "related": [
+      "metamask",
+      "safe",
+      "okx-wallet"
+    ]
+  }
+}

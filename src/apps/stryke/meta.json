@@ -1,36 +1,38 @@
 {
   "slug": "stryke",
   "name": "Stryke",
-  "logoUrl": "https://logo.clearbit.com/stryke.xyz",
+  "logoUrl": "https://img.logo.dev/dopex.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Options"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Arbitrum",
-    "Base"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Stryke is a high-efficiency decentralized options protocol on Arbitrum featuring concentrated liquidity AMMs.",
-    "description": "Stryke is a premier decentralized options platform, formerly known as Dopex, designed to maximize liquidity and capital efficiency for on-chain derivatives. The protocol utilizes a unique Concentrated Liquidity AMM (CLAMM) model that allows liquidity providers to allocate their capital with extreme precision, significantly improving pricing for both buyers and writers. This approach ensures that users can interact with complex option strategies within a transparent and non-custodial environment, leveraging the high speed and low cost of the Arbitrum network.\n\nPowered by the SYK token, the platform focuses on providing institutional-grade financial tools while maintaining a user-friendly interface for retail participants. Stryke serves as a vital infrastructure layer for the decentralized economy, offering specialized products like Atlantic Options and Option Vaults to optimize risk management and yield generation. Through its commitment to technological innovation and ecosystem-wide collaboration, Stryke is building the essential framework for the next generation of on-chain options trading, where capital efficiency is a primary utility.",
-    "meta": "Stryke provides professional-grade decentralized options and concentrated liquidity pools on the Arbitrum network.",
-    "pageTitle": "Stryke - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Stryke (formerly Dopex) is a decentralized options exchange on Mantle offering Single Staking Option Vaults and permissionless non-custodial options markets.",
+    "description": "Stryke, originally known as Dopex, is one of DeFi's leading options protocols offering a range of products including Single Staking Option Vaults (SSOVs), Atlantic Options, and perpetual options with a mechanism design that minimizes losses for option writers while maximizing liquidity for buyers. The protocol has been operating since 2021 and rebranded to Stryke to reflect its expanded product suite. Deployed on Mantle, Stryke brings sophisticated on-chain options trading to the network's derivatives ecosystem.",
+    "meta": "Stryke is a decentralized options exchange on Mantle offering non-custodial options trading products. Discover Stryke on Lancers Web3 Explorer.",
+    "pageTitle": "Stryke - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.stryke.xyz/",
-    "twitter": "https://twitter.com/stryke_xyz"
+    "website": "https://www.dopex.io/",
+    "twitter": "https://x.com/strykeprotocol",
+    "discord": "https://discord.gg/stryke",
+    "docs": "https://docs.dopex.io",
+    "github": "https://github.com/dopex-io"
   },
   "relations": {
     "alternatives": [
-      "panoptic",
-      "jupiter",
-      "dual-finance"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "plasma-finance",
-      "sharpe",
-      "veax"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

@@ -1,36 +1,38 @@
 {
   "slug": "vertex",
   "name": "Vertex",
-  "logoUrl": "https://logo.clearbit.com/vertexprotocol.com",
+  "logoUrl": "https://img.logo.dev/vertexprotocol.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Derivatives"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Arbitrum",
-    "Base"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Vertex is a high-performance cross-margin DEX on Arbitrum and Ink offering spot, perpetuals, and money markets.",
-    "description": "Vertex is a premier decentralized exchange designed to provide a professional-grade trading experience with the speed and efficiency typically found only on centralized venues. Utilizing a unique hybrid architecture that combines an off-chain sequencer for sub-30ms order matching with secure on-chain settlement, the platform supports spot assets, perpetual futures, and an integrated money market. All services are unified under a single cross-margin account, allowing users to maximize their capital efficiency across all trades.\n\nOriginally built on Arbitrum, Vertex has expanded its ecosystem to Mantle and Base, and has announced a primary migration to the Ink network (Kraken's L2). The protocol focuses on institutional-grade risk management and deep liquidity, serving as a vital venue for sophisticated DeFi participants. Through its commitment to technological innovation and high-frequency execution, Vertex is building the essential infrastructure for the next generation of decentralized finance, empowering participants to trade with unparalleled precision and security.",
-    "meta": "Vertex offers high-speed decentralized perpetuals and spot trading with a unified cross-margin account across multiple L2s.",
-    "pageTitle": "Vertex - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Vertex Protocol is a cross-margined DEX unifying spot trading, perpetual futures, and a money market under a single collateral account.",
+    "description": "Vertex Protocol is a decentralized exchange that merges spot trading, perpetual futures, and money market borrowing into one cross-margined account architecture, allowing traders to maximize capital efficiency from a single collateral pool. The platform features an orderbook-based matching engine with on-chain settlement, delivering CEX-like performance while maintaining full self-custody. Vertex has been deployed on Mantle and multiple other EVM chains, accumulating billions in cumulative trading volume since its launch in 2023.",
+    "meta": "Vertex Protocol is a cross-margined DEX on Mantle offering spot, perpetuals, and money market in one interface. Discover Vertex on Lancers Web3 Explorer.",
+    "pageTitle": "Vertex - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://vertexprotocol.com/",
-    "twitter": "https://twitter.com/vertex_protocol"
+    "website": "https://vertexprotocol.com",
+    "twitter": "https://x.com/vertex_protocol",
+    "discord": "https://discord.gg/vertexprotocol",
+    "docs": "https://docs.vertexprotocol.com",
+    "github": "https://github.com/vertex-protocol"
   },
   "relations": {
     "alternatives": [
-      "foxify",
-      "ribbon-finance",
-      "aboard-exchange"
+      "agni",
+      "fusionx",
+      "izumi-finance"
     ],
     "related": [
-      "xtoken-terminal",
-      "lifinity",
-      "bebop"
+      "merchant-moe",
+      "agni",
+      "fusionx"
     ]
   }
 }

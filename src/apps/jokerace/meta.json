@@ -1,37 +1,35 @@
 {
   "slug": "jokerace",
-  "name": "JokeRace",
-  "logoUrl": "https://logo.clearbit.com/jokerace.xyz",
-  "category": "DAO Tools",
+  "name": "Jokerace",
+  "logoUrl": "https://img.logo.dev/jokerace.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Social Dapps",
   "subcategory": [
-    "DAO Reputation Tools"
+    "Web3 Social Media Dapps"
   ],
   "chains": [
-    "Base",
-    "Ethereum",
-    "Polygon"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "JokeRace is an on-chain contest platform used by top DAOs for hackathons, grants, and reputation building.",
-    "description": "JokeRace is a premier on-chain contest and governance protocol designed to empower decentralized communities through structured competition and reputation building. Used by prominent projects like Polygon and Farcaster, the platform allows DAOs to run hackathons, grant programs, and governance experiments in a transparent and verifiable manner. Unlike traditional token-weighted systems, JokeRace emphasizes on-chain reputation, where users earn attestations for their contributions and influence within a community.\n\nThe protocol features unique mechanics like \"Vote and Earn,\" where participants are rewarded for accurately predicting or persuading others toward winning entries. This incentivizes active and thoughtful participation, fostering a more engaged and meritocratic governance environment. By providing the essential infrastructure for community-driven decision-making, JokeRace is helping to redefine how decentralized organizations coordinate, reward, and recognize their most valuable members.",
-    "meta": "JokeRace provides on-chain contest tools and reputation-based governance for decentralized communities and DAOs.",
-    "pageTitle": "JokeRace - DAO Tools - Lancers Web3 Explorer"
+    "short": "Jokerace is a decentralized on-chain contest platform enabling communities to run competitions and votes where token holders decide winners on Mantle.",
+    "description": "Jokerace is a novel governance and contest platform that allows communities to run any type of competition or vote on-chain, with token holders determining the outcomes through their voting power. Projects can create contests for grant allocation, creative submissions, community polls, hackathon judging, and more  with all submissions and votes recorded transparently on-chain. Jokerace is deployed on Mantle, enabling Mantle ecosystem communities to run fair and transparent competitions governed by their token holders.",
+    "meta": "Jokerace is an on-chain contest and community voting platform for Mantle ecosystem communities. Discover Jokerace on Lancers Web3 Explorer.",
+    "pageTitle": "Jokerace - Social Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://jokerace.xyz/",
-    "twitter": "https://twitter.com/jokerace_io"
+    "website": "https://jokerace.io/",
+    "twitter": "https://x.com/jokerace_io"
   },
   "relations": {
     "alternatives": [
-      "opencord",
-      "loreum",
-      "popula"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "noox",
-      "questflow",
-      "coordinape"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

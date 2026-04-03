@@ -1,23 +1,38 @@
 {
   "slug": "dzap",
   "name": "DZap",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746611/web3-explorer/dapp-logos/dzap.png",
+  "logoUrl": "https://img.logo.dev/dzap.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Multichain"],
-  "pricing": "Free",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
   "content": {
-    "short": "DZap leverages aggregation and zapping to power omnichain liquidity and a unified portfolio manager.",
-    "description": "DZap streamlines DeFi by combining aggregation with zapping, turning fragmented on-chain activity into a cohesive workflow. Its zapping infrastructure powers omnichain liquidity and aggregation. DZap AI leverages natural language processing to interpret user goals and automate on-chain actions, reducing manual steps. In addition, DZap offers a single, unified portfolio manager that lets you view and manage your entire crypto holdings from one clean dashboard.",
-    "meta": "DZap uses aggregation and zapping to enable omnichain liquidity and a unified portfolio manager. Discover DZap and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "DZap - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "DZap is a multi-chain DeFi automation platform that simplifies complex operations like LP zaps, batch swaps, and cross-chain moves in a single click.",
+    "description": "DZap is a multi-chain DeFi automation and aggregation platform that reduces complex multi-step operations  such as zapping into LP positions, batch token swaps, and cross-chain liquidity movements  into single transactions. Users can convert any token directly into an LP position, bridge assets, or execute multi-step DeFi strategies without managing multiple protocols or transactions. DZap integrates with Mantle to provide streamlined one-click access to the network's DeFi ecosystem.",
+    "meta": "DZap enables seamless DeFi automation and multi-chain liquidity management with one-click execution on Mantle. Discover DZap on Lancers Web3 Explorer.",
+    "pageTitle": "DZap - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://dzap.io/",
-    "twitter": "https://x.com/dzap_io"
+    "website": "https://www.dzap.io",
+    "twitter": "https://x.com/DZapIO",
+    "discord": "https://discord.gg/dzap",
+    "docs": "https://docs.dzap.io",
+    "github": "https://github.com/DZapIO"
   },
   "relations": {
-    "alternatives": ["1inch", "0x", "kamino-finance"],
-    "related": ["bracketx", "optix", "thetanuts-finance"]
+    "alternatives": [
+      "agni",
+      "fusionx",
+      "izumi-finance"
+    ],
+    "related": [
+      "merchant-moe",
+      "agni",
+      "fusionx"
+    ]
   }
 }

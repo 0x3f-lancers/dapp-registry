@@ -2,32 +2,38 @@
   "slug": "symbiosis",
   "name": "Symbiosis",
   "logoUrl": "https://img.logo.dev/symbiosis.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
-  "category": "DeFi Tools",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Web3 Bridges"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "TON"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Symbiosis is a multi-chain liquidity protocol that enables single-transaction cross-chain swaps including TON.",
-    "description": "Symbiosis is a decentralized multi-chain liquidity protocol that aggregates liquidity from various decentralized exchanges across multiple blockchains. It allows users to perform cross-chain swaps in a single transaction, regardless of the source or destination network. By integrating TON, Symbiosis enables users to swap any token on any supported chain for Toncoin or other Jettons with minimal slippage and a simplified user experience. This protocol significantly reduces the friction involved in navigating the multi-chain DeFi landscape.",
-    "meta": "Perform one-click cross-chain swaps with Symbiosis. Trade tokens across chains including TON on Lancers Web3 Explorer.",
-    "pageTitle": "Symbiosis - DeFi Tools - Lancers Web3 Explorer"
+    "short": "Symbiosis is a cross-chain AMM DEX pooling liquidity from EVM and non-EVM chains into one unified protocol for seamless multi-chain swaps.",
+    "description": "Symbiosis Finance is a cross-chain decentralized exchange that pools liquidity from multiple blockchain networks  including both EVM and non-EVM chains  to enable seamless multi-hop swaps between any token on any supported chain in a single transaction. Symbiosis uses relayers and atomic swaps for trustless cross-chain settlement, connecting Mantle to a broad ecosystem of chains including Bitcoin-adjacent networks. This makes it one of the most interoperable swap protocols available.",
+    "meta": "Symbiosis is a cross-chain AMM DEX pooling liquidity from EVM and non-EVM chains including Mantle. Discover Symbiosis on Lancers Web3 Explorer.",
+    "pageTitle": "Symbiosis - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://symbiosis.finance/",
-    "twitter": "https://twitter.com/symbiosis_fi"
+    "twitter": "https://x.com/symbiosis_fi",
+    "discord": "https://discord.gg/symbiosis",
+    "docs": "https://docs.symbiosis.finance",
+    "github": "https://github.com/symbiosis-finance",
+    "telegram": "https://t.me/symbiosis_finance"
   },
   "relations": {
     "alternatives": [
-      "acqr",
-      "laevitas",
-      "wanchain-bridge"
+      "agni",
+      "fusionx",
+      "izumi-finance"
     ],
     "related": [
-      "tonkeeper"
+      "merchant-moe",
+      "agni",
+      "fusionx"
     ]
   }
 }

@@ -1,41 +1,38 @@
 {
   "slug": "odos",
-  "name": "ODOS.xyz",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748822/web3-explorer/dapp-logos/odos.jpg",
-  "category": "Trading Tools",
+  "name": "ODOS",
+  "logoUrl": "https://img.logo.dev/odos.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Crypto Exchanges"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "Base",
-    "BNB Chain",
-    "Ethereum",
-    "Fantom",
-    "ZKsync",
-    "Polygon",
-    "OP Mainnet"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "ODOS.xyz leverages a unique algorithm to traverse a large universe of possible token swap combinations.",
-    "description": "ODOS.xyz delivers optimal order routing across more than 500 liquidity sources, drawing on a broad, interconnected liquidity network to support robust trading activity. Its multi-token swap feature lets users swap between multiple assets within a single atomic transaction, simplifying complex trades and preserving execution integrity. The ODOS Price Service API provides precise token prices for thousands of assets across DeFi, enabling consistent pricing references and improved decision-making. The ODOS Smart Order Routing API ensures efficient and cost-effective transactions in DeFi.",
-    "meta": "ODOS.xyz is a trading tool. Discover ODOS.xyz and other Trading Tools on Lancers Web3 Explorer.",
-    "pageTitle": "ODOS.xyz - Trading Tools - Lancers Web3 Explorer"
+    "short": "ODOS is an advanced DEX aggregator with proprietary Smart Order Routing across 900+ liquidity sources on Mantle and 30+ other chains.",
+    "description": "ODOS is a next-generation DEX aggregator powered by proprietary Smart Order Routing (SOR) algorithms that find optimal execution paths across hundreds of decentralized exchanges and liquidity pools simultaneously. Unlike simple aggregators, ODOS can split orders across multiple DEXes and handle complex multi-hop routes to maximize savings on any swap. Supporting Mantle and over 30 other blockchain networks, ODOS has processed billions in trading volume and is a key liquidity aggregation layer for sophisticated DeFi users.",
+    "meta": "ODOS is a DEX aggregator with Smart Order Routing across 900+ liquidity sources on Mantle. Discover ODOS on Lancers Web3 Explorer.",
+    "pageTitle": "ODOS - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://app.odos.xyz",
-    "twitter": "https://x.com/odosprotocol"
+    "website": "http://app.odos.xyz",
+    "twitter": "https://x.com/odosprotocol",
+    "discord": "https://discord.gg/odos",
+    "docs": "https://docs.odos.xyz",
+    "github": "https://github.com/odos-xyz"
   },
   "relations": {
     "alternatives": [
-      "flitpay",
-      "inx-one"
+      "agni",
+      "fusionx",
+      "izumi-finance"
     ],
     "related": [
-      "loopring",
-      "maxbidpro"
+      "merchant-moe",
+      "agni",
+      "fusionx"
     ]
   }
 }

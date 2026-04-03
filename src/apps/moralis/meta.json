@@ -1,38 +1,38 @@
 {
   "slug": "moralis",
   "name": "Moralis",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748538/web3-explorer/dapp-logos/moralis.jpg",
-  "category": "Web3 Developer Tools",
+  "logoUrl": "https://img.logo.dev/moralis.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Web3 SDKs"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "Solana",
-    "Avalanche",
-    "BNB Chain",
-    "Polygon"
+    "Mantle"
   ],
-  "pricing": "Paid",
+  "pricing": "free",
   "content": {
-    "short": "Moralis is a leading one-stop shop for building web3 applications.",
-    "description": "Moralis is a platform designed to simplify web3 development. Established in 2021 by Swedish founder Ivan Liljeqvist (CEO) and Filipino founder Martinsson (COO), it provides developers with a broad suite of tools that accelerate dapp creation by integrating a wide range of web3 services. The platform prioritizes seamless API interoperability across services and offers reliable, responsive support, enabling teams to streamline backend tasks, reduce boilerplate, and focus on delivering feature-rich experiences to users.",
-    "meta": "Moralis provides APIs and tooling to build, launch, and scale Web3 applications faster. Discover Moralis and other Web3 Developer Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Moralis - Web3 Developer Tools - Lancers Web3 Explorer"
+    "short": "Moralis is a leading Web3 data provider offering real-time blockchain data APIs, managed RPC nodes, and developer tools for building on Mantle.",
+    "description": "Moralis is a comprehensive Web3 data infrastructure platform offering a suite of APIs for token data, wallet activity, NFT metadata, DeFi positions, and blockchain events across dozens of networks. The platform also provides managed RPC nodes (Moralis Nodes) for reliable blockchain access. Supporting Mantle with full data indexing and node services, Moralis enables developers to build performant dApps without the complexity of managing blockchain infrastructure.",
+    "meta": "Moralis provides blockchain data APIs and node infrastructure for building Web3 apps on Mantle. Discover Moralis on Lancers Web3 Explorer.",
+    "pageTitle": "Moralis - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://developers.moralis.com/",
-    "twitter": "https://x.com/moralisdevs"
+    "website": "https://moralis.io/",
+    "twitter": "https://x.com/MoralisWeb3",
+    "discord": "https://discord.gg/moralis",
+    "docs": "https://docs.moralis.io",
+    "github": "https://github.com/MoralisWeb3",
+    "linkedin": "https://www.linkedin.com/company/moralisweb3"
   },
   "relations": {
     "alternatives": [
-      "swing-sdk",
-      "venly"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "apeworx-ape",
-      "hardhat"
+      "ankr",
+      "alchemy"
     ]
   }
 }

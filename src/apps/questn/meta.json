@@ -1,35 +1,37 @@
 {
   "slug": "questn",
   "name": "QuestN",
-  "logoUrl": "https://logo.clearbit.com/questn.com",
-  "category": "DeFi Tools",
+  "logoUrl": "https://img.logo.dev/questn.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "NFT Dapps",
   "subcategory": [
-    "Quest-to-Earn Tools"
+    "NFT Marketplaces"
   ],
   "chains": [
-    "Ethereum"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "QuestN is a MarketingFi platform that enables projects to acquire users through incentivized on-chain quests.",
-    "description": "QuestN is a leading decentralized marketing and user acquisition protocol designed to bridge the gap between Web3 projects and their target communities. By providing an interactive \"Quest-to-Earn\" framework, the platform allows users to earn tokens, NFTs, and whitelist spots by completing verifiable on-chain and social tasks. This approach enables developers to bootstrap liquidity and grow their user base in a transparent and meritocratic manner while rewarding active participants for their engagement.\n\nOperating across a wide range of blockchain networks, QuestN provides a robust and interoperable suite of tools for project discovery and growth. The platform focuses on simplifying the onboarding process for new users, serving as a primary venue for exploring the DePIN, AI, and gaming sectors. Through its commitment to data-driven marketing and community-led rewards, QuestN is building the essential infrastructure for the next generation of decentralized social finance, where attention and meaningful participation are recognized as core assets.",
-    "meta": "QuestN offers quest-to-earn marketing tools and community engagement rewards across multiple blockchain networks.",
-    "pageTitle": "QuestN - DeFi Tools - Lancers Web3 Explorer"
+    "short": "QuestN is a decentralized Web3 community growth and marketing platform enabling projects to run gamified quest campaigns and reward their communities.",
+    "description": "QuestN provides Web3 projects with a comprehensive toolkit for community growth through gamified quest campaigns supporting social, on-chain, and off-chain tasks with token and NFT rewards. The platform supports token allowlists, whitelist campaigns, and NFT drops, making it a flexible tool for Mantle ecosystem projects at any stage. QuestN has established itself as key marketing infrastructure for protocols launching on Mantle looking to bootstrap their earliest and most engaged user cohorts.",
+    "meta": "QuestN is a decentralized Web3 marketing platform for community growth through quests on Mantle. Discover QuestN on Lancers Web3 Explorer.",
+    "pageTitle": "QuestN - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://questn.com/",
-    "twitter": "https://twitter.com/QuestN_com"
+    "website": "https://app.questn.com/",
+    "twitter": "https://x.com/QuestN_com",
+    "discord": "https://discord.gg/questn",
+    "telegram": "https://t.me/questn_official"
   },
   "relations": {
     "alternatives": [
-      "dmission",
-      "acqr",
-      "atok"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "superbridge",
-      "exponential-defi",
-      "geckoterminal"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

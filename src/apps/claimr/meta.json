@@ -1,47 +1,38 @@
 {
   "slug": "claimr",
   "name": "claimr",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745726/web3-explorer/dapp-logos/claimr.jpg",
-  "category": "DeFi Tools",
+  "logoUrl": "https://img.logo.dev/claimr.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Infrastructure Tools",
   "subcategory": [
-    "Quest-to-Earn Tools"
+    "Web3 Data Tools"
   ],
   "chains": [
-    "Ethereum",
-    "BNB Chain",
-    "Polygon",
-    "OP Mainnet",
-    "Arbitrum",
-    "Base",
-    "Linea",
-    "Solana",
-    "Moonbeam",
-    "Fantom",
-    "Celo",
-    "Cronos",
-    "ZKsync",
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "Paid",
+  "pricing": "free",
   "content": {
-    "short": "claimr provides a Quest Management System (QMS) and data analytics for Web3.",
-    "description": "claimr is a no-code SaaS for launching quests, point systems, referral campaigns, and other on-chain and off-chain activities. It integrates into landing pages, mobile apps, and Telegram mini apps as a white-label solution to boost lifetime value, retention, engagement, referrals, and conversion rates, while lowering customer acquisition costs. With claimr, teams can deploy incentive programs quickly without coding, manage campaigns from a central dashboard, and measure performance in real time.",
-    "meta": "claimr is a no-code SaaS for launching quests, points, referrals and on/off-chain activities. Discover claimr and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "claimr - DeFi Tools - Lancers Web3 Explorer"
+    "short": "claimr is an all-in-one gamification and marketing technology platform designed to drive user activation and automate rewards through on-chain quests.",
+    "description": "claimr provides a comprehensive suite of white-label tools that allow projects to create engaging, gamified marketing campaigns. By automating rewards and verifying user actions across multiple blockchains, claimr helps communities grow through data-driven quests and instant prize distributions. Integrated with the Mantle Network, claimr enables ecosystem projects to launch high-performance campaigns with minimal fees and verifiable on-chain outcomes.",
+    "meta": "claimr is a leading gamification and rewards platform for user activation on the Mantle Network. Discover claimr on Lancers Web3 Explorer.",
+    "pageTitle": "claimr - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://claimr.io/",
-    "twitter": "https://x.com/claimrio"
+    "twitter": "https://x.com/claimr_io",
+    "discord": "https://discord.gg/claimr",
+    "docs": "https://docs.claimr.io/",
+    "github": "https://github.com/claimr-io"
   },
   "relations": {
     "alternatives": [
-      "anycampus",
-      "saakuru",
-      "kazm"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "questflow",
-      "wonderverse"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

@@ -1,37 +1,37 @@
 {
   "slug": "hyperplay",
   "name": "HyperPlay",
-  "logoUrl": "https://logo.clearbit.com/hyperplay.xyz",
-  "category": "Web3 Gaming Tools",
+  "logoUrl": "https://img.logo.dev/hyperplay.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Decentralized Games",
   "subcategory": [
-    "Decentralized Gaming Tools"
+    "Web3 Games"
   ],
   "chains": [
-    "Ethereum",
-    "Polygon",
-    "Arbitrum"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "HyperPlay is a Web3-native game launcher and aggregator that integrates wallets across different chains.",
-    "description": "HyperPlay is a pioneering Web3-native game launcher and store aggregator designed to simplify the user experience for blockchain-based gaming. By integrating directly with popular wallets like MetaMask, the platform allows players to carry their digital assets, NFTs, and progress across multiple games and blockchain networks, including Ethereum, Solana, and Cosmos. HyperPlay acts as a unified portal, hosting a diverse range of titles from major studios and indie developers while providing a seamless bridge between traditional gaming and decentralized economies.\n\nThe launcher also integrates libraries from established platforms like the Epic Games Store and GOG, enabling a hybrid gaming experience where Web2 and Web3 titles coexist. Through its commitment to interoperability and user-centric design, HyperPlay is building the essential infrastructure for the next generation of gaming, where players have true ownership of their in-game assets and a frictionless path to exploring the vast metaverse.",
-    "meta": "HyperPlay is an interoperable Web3 game launcher and store that connects wallets and assets across major blockchain networks.",
-    "pageTitle": "HyperPlay - Web3 Gaming Tools - Lancers Web3 Explorer"
+    "short": "HyperPlay is a Web3-native game launcher and store where players carry their crypto wallets, tokens, and NFTs into every game they play.",
+    "description": "HyperPlay is a desktop game launcher built natively for Web3, enabling players to bring their crypto wallets, tokens, and NFTs seamlessly into any game on the platform. Unlike traditional launchers, HyperPlay aggregates games from the Epic Games Store, GOG, and Web3-native publishers into a single interface. The platform is designed to become the primary distribution layer for blockchain-enabled games, supporting multiple networks including Mantle and removing the friction between game ownership and on-chain assets.",
+    "meta": "HyperPlay is a Web3-native game store letting players bring wallets and NFTs into every game on Mantle. Discover HyperPlay on Lancers Web3 Explorer.",
+    "pageTitle": "HyperPlay - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.hyperplay.xyz",
-    "twitter": "https://twitter.com/HyperPlayGaming"
+    "website": "https://store.hyperplay.xyz/",
+    "twitter": "https://x.com/HyperPlayGaming",
+    "discord": "https://discord.gg/hyperplay",
+    "github": "https://github.com/HyperPlay-Gaming"
   },
   "relations": {
     "alternatives": [
-      "bittorrent",
-      "ankr-sdk",
-      "carv"
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
     ],
     "related": [
-      "yooldo",
-      "honeycomb-protocol",
-      "br-softech"
+      "metamask",
+      "safe",
+      "okx-wallet"
     ]
   }
 }

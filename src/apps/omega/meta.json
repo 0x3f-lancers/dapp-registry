@@ -1,36 +1,37 @@
 {
   "slug": "omega",
   "name": "Omega",
-  "logoUrl": "https://logo.clearbit.com/omega.xyz",
+  "logoUrl": "https://img.logo.dev/omega.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Lending Dapps"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Bitcoin",
-    "Ethereum"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Omega is a humanity-focused crypto project designed as a counterbalance to AI-driven meme coin ecosystems.",
-    "description": "Omega is a purpose-driven decentralized project inspired by Christian symbolism, aiming to provide a humanity-focused counterbalance to the rise of AI-governed meme coin ecosystems. Unlike traditional speculative assets, Omega emphasizes ethical engagement and community-led participation as its core values. The project positions itself as a stabilizing force in the rapidly evolving digital landscape, advocating for human sovereignty and moral alignment within decentralized technology.\n\nOperating across multiple blockchain networks including Bitcoin and Ethereum, Omega provides a robust framework for social and financial interaction that prioritizes human intent over algorithmic optimization. The platform focuses on fostering a vibrant and principled community, serving as a vital venue for participants who seek more meaningful engagement in the Web3 space. Through its commitment to transparency and purpose-driven innovation, Omega is building a more inclusive and humanity-centric decentralized future.",
-    "meta": "Omega provides a humanity-focused decentralized ecosystem and purpose-driven financial tools.",
-    "pageTitle": "Omega - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Omega is a cross-margin yield farming protocol on Mantle enabling leveraged strategies across multiple DeFi protocols from a unified margin account.",
+    "description": "Omega is a sophisticated yield optimization protocol for the Mantle ecosystem enabling cross-margin positions across multiple DeFi protocols simultaneously. Users deposit assets and access leveraged yield farming strategies that span lending markets, DEX liquidity pools, and other yield sources  all managed under a unified margin account with automated risk management. Omega's architecture maximizes capital utilization while reducing the complexity of managing positions across multiple protocols.",
+    "meta": "Omega is a cross-margin yield farming protocol for maximizing capital efficiency on Mantle. Discover Omega on Lancers Web3 Explorer.",
+    "pageTitle": "Omega - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://omega.xyz/",
-    "twitter": "https://twitter.com/Omega_xyz"
+    "website": "https://www.omega.xyz/",
+    "twitter": "https://x.com/omega_xyz_",
+    "discord": "https://discord.gg/omegaxyz",
+    "telegram": "https://t.me/omegaxyz"
   },
   "relations": {
     "alternatives": [
-      "suilend",
-      "methlab",
-      "apricot-finance"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "pooltogether",
-      "turbos",
-      "maxbidpro"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

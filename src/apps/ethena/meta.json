@@ -1,35 +1,38 @@
 {
   "slug": "ethena",
   "name": "Ethena",
-  "logoUrl": "https://unavatar.io/twitter/ethena_labs",
+  "logoUrl": "https://img.logo.dev/ethena.fi?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Synthetics"
+    "DeFi Yield Aggregators"
   ],
   "chains": [
-    "Ethereum"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Ethena is a synthetic dollar protocol on Ethereum providing USDe, a stable, crypto-native solution for DeFi.",
-    "description": "Ethena is a pioneering synthetic dollar protocol built on Ethereum that introduces USDe, a crypto-native, scalable, and stable financial instrument. Unlike traditional stablecoins backed by fiat, USDe maintains its peg through delta-neutral hedging of staked Ethereum collateral across centralized and decentralized venues. This innovative approach creates the \"Internet Bond,\" a globally accessible yield-bearing instrument that provides users with a dollar-denominated savings vehicle independent of traditional banking infrastructure.\n\nThe protocol is designed to address the need for a truly decentralized and censorship-resistant stable asset in the Web3 ecosystem. By leveraging the security of Ethereum staking and the efficiency of derivatives markets, Ethena offers a robust solution for capital preservation and yield generation. As a key player in the DeFi synthetics space, Ethena empowers participants with transparent, on-chain financial tools that redefine the concept of digital money and internet-native finance.",
-    "meta": "Discover Ethena, the synthetic dollar protocol on Ethereum providing USDe and the Internet Bond for stable, decentralized yield generation.",
-    "pageTitle": "Ethena - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Ethena is a synthetic dollar protocol built on Ethereum offering USDe, a yield-bearing stablecoin backed by delta-neutral staked ETH positions.",
+    "description": "Ethena Labs has built a novel synthetic dollar protocol that generates yield through delta-neutral hedging of staked Ethereum, with its USDe stablecoin maintaining its peg via a combination of ETH collateral and short perpetual futures positions. Stakers receive sUSDe, which accrues funding rate yields making it one of DeFi's highest-yielding dollar instruments. Ethena has grown to billions in TVL since its 2024 launch and its integration with Mantle enables users to access deep USDe liquidity and high-yield USD exposure within the ecosystem.",
+    "meta": "Ethena is a synthetic dollar protocol offering USDe, a yield-bearing stablecoin, accessible on Mantle. Discover Ethena on Lancers Web3 Explorer.",
+    "pageTitle": "Ethena - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.ethena.fi/",
-    "twitter": "https://x.com/ethena_labs"
+    "twitter": "https://x.com/ethena_labs",
+    "discord": "https://discord.gg/ethena",
+    "docs": "https://ethena-labs.gitbook.io/ethena-labs",
+    "github": "https://github.com/ethena-labs"
   },
   "relations": {
     "alternatives": [
-      "thestandard",
-      "alchemix",
-      "cvi-finance"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "accumulated-finance",
-      "jupiter",
-      "carbonable"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

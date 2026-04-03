@@ -1,35 +1,39 @@
 {
   "slug": "covalent",
   "name": "Covalent",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745908/web3-explorer/dapp-logos/covalent.jpg",
-  "category": "Infrastructure Tools",
+  "logoUrl": "https://img.logo.dev/covalenthq.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Indexing Tools"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Ethereum",
-    "Polygon",
-    "Avalanche",
-    "BNB Chain",
-    "Arbitrum"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Covalent provides a unified API to access data from multiple chains and other searchable endpoints.",
-    "description": "Covalent provides free APIs that connect projects with the data they need, with coverage across 40 blockchains. Developers can use the Covalent API to build query-based applications that retrieve dynamic data on demand. In addition, Covalent runs research training programs aimed at broadening Web3 development knowledge and helping developers harness blockchain data in practical, scalable ways. This combination supports both rapid integration and hands-on learning for teams new to on-chain data.",
-    "meta": "Covalent is a unified API bringing data from multiple chains and other searchable endpoints. Discover Covalent and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Covalent - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Covalent provides a unified blockchain data API for querying token balances, NFTs, transactions, and DeFi data across dozens of networks including Mantle.",
+    "description": "Covalent is a unified blockchain data API platform providing structured access to on-chain data across dozens of networks through a single, consistent API interface, enabling developers to query token balances, NFT metadata, transaction histories, and DeFi protocol data without building complex indexing infrastructure. Supporting Mantle Network, Covalent is widely used for portfolio trackers, analytics dashboards, and financial applications requiring normalized multi-chain data.",
+    "meta": "Covalent provides a unified API for querying on-chain data across blockchains including Mantle. Discover Covalent on Lancers Web3 Explorer.",
+    "pageTitle": "Covalent - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.covalenthq.com/",
-    "twitter": "https://x.com/covalent_hq"
+    "twitter": "https://x.com/Covalent_HQ",
+    "discord": "https://discord.gg/covalent",
+    "docs": "https://www.covalenthq.com/docs",
+    "github": "https://github.com/covalenthq",
+    "telegram": "https://t.me/CovalentHQ"
   },
   "relations": {
     "alternatives": [
-      "chainstack-subgraphs"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "astrochain"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

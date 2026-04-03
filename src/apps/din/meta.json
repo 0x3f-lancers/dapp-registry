@@ -1,0 +1,35 @@
+{
+  "slug": "din",
+  "name": "DIN",
+  "logoUrl": "https://img.logo.dev/infura.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "DIN (powered by Infura) is a managed blockchain node and API service providing reliable, scalable RPC access to Mantle and 20+ networks.",
+    "description": "DIN is a decentralized infrastructure network built on Infura's proven node technology, providing developers with enterprise-grade RPC access to Mantle and over 20 other blockchain networks. By abstracting the complexity of running and maintaining blockchain nodes, DIN allows development teams to focus on product building rather than infrastructure management. The service delivers high availability, global distribution, and developer-friendly APIs with comprehensive support for Mantle Network's JSON-RPC interface, WebSocket subscriptions, and archival node queries.",
+    "meta": "DIN provides managed blockchain node infrastructure and RPC access for developers building on Mantle Network. Discover DIN on Lancers Web3 Explorer.",
+    "pageTitle": "DIN - Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.infura.io/",
+    "twitter": "https://x.com/infura_io"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

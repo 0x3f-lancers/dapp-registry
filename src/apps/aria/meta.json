@@ -1,35 +1,36 @@
 {
   "slug": "aria",
   "name": "Aria",
-  "logoUrl": "https://unavatar.io/twitter/AriaProtocol",
-  "category": "Real World Asset Dapps",
+  "logoUrl": "https://img.logo.dev/playaria.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Tokenized equities RWAs"
+    "Web3 Bridges"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "A decentralized protocol for tokenizing iconic intellectual property like music and art into on-chain RWAs.",
-    "description": "Aria is a decentralized protocol designed to transform iconic intellectual property (IP), such as music and art, into on-chain Real World Assets (RWAs). It enables creators and rights holders to tokenize their work, allowing investors to purchase liquid shares of cultural assets. This model provides a new way for fans and investors to participate in the success of their favorite artists through royalty distributions.\n\nThe platform provides the infrastructure needed for IP-backed assets to thrive in Web3. By bringing cultural works onto the blockchain, Aria creates a transparent and accessible market for intellectual property and global digital ownership.",
-    "meta": "Aria tokenizes iconic intellectual property into on-chain Real World Assets. Discover its IP-backed tokens on Lancers Web3 Explorer.",
-    "pageTitle": "Aria - Real World Asset Dapps - Lancers Web3 Explorer"
+    "short": "Aria is a Web3 gaming platform that combines immersive gameplay with on-chain rewards and asset ownership on the Mantle Network.",
+    "description": "Aria (formerly PlayAria) is a gaming ecosystem built on Mantle that focuses on delivering high-quality, player-driven experiences. The platform allows users to play games, earn rewards, and truly own their in-game assets through NFT technology. By leveraging Mantle's fast transactions and low fees, Aria provides a seamless gaming experience that bridges the gap between traditional gaming and the benefits of Web3, making it a key destination for gamers in the Mantle ecosystem.",
+    "meta": "Aria is a leading Web3 gaming platform with rewards and NFT ownership on Mantle. Discover Aria on Lancers Web3 Explorer.",
+    "pageTitle": "Aria - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://ariaprotocol.xyz/",
-    "twitter": "https://x.com/AriaProtocol"
+    "website": "https://playaria.xyz/",
+    "twitter": "https://x.com/PlayAriaGame",
+    "discord": "https://discord.gg/aria"
   },
   "relations": {
     "alternatives": [
-      "backed-finance",
-      "fabrica",
-      "securitize"
+      "bushi",
+      "catizen",
+      "ember-sword"
     ],
     "related": [
-      "polytrade-finance",
-      "bondi",
-      "paxos"
+      "metacene",
+      "bushi",
+      "hyperplay"
     ]
   }
 }

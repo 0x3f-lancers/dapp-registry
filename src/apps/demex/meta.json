@@ -1,37 +1,38 @@
 {
   "slug": "demex",
   "name": "Demex",
-  "logoUrl": "https://unavatar.io/twitter/dem_exchange",
+  "logoUrl": "https://img.logo.dev/dem.exchange?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Derivatives"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "BNB Chain"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Demex is a cross-chain order book DEX built on the Carbon network, supporting derivatives and spot trading.",
-    "description": "Demex is a comprehensive decentralized exchange built on the Carbon blockchain, a specialized Cosmos-based network designed for high-performance financial applications. The platform features an advanced order book model that supports a wide range of products, including spot trading, futures, and perpetuals, across multiple blockchain ecosystems. Through its integration with the Carbon network and the SWTH utility token, Demex provides a highly scalable and interoperable trading environment that minimizes the friction of cross-chain asset management. By offering institutional-grade trading tools in a non-custodial framework, Demex empowers users with the freedom to trade any asset from any chain with professional-grade speed and security.",
-    "meta": "Demex offers professional cross-chain order book trading for spot and derivatives. Discover Demex and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "Demex - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Demex is an omni-chain DEX by Carbon Protocol combining spot trading, perpetuals, and an integrated money market for advanced DeFi strategies.",
+    "description": "Demex is a comprehensive decentralized exchange built by the Carbon Protocol team that combines spot trading, perpetual futures, and a money market within a single omni-chain platform. The architecture allows users to trade assets from multiple blockchains while earning yield through integrated lending markets, with cross-margin functionality enabling sophisticated capital efficiency. Demex is deployed on Mantle offering deep liquidity, advanced order types, and a unified trading experience for experienced DeFi participants.",
+    "meta": "Demex is an omni-chain DEX with spot trading, perpetuals, and a money market on Mantle. Discover Demex on Lancers Web3 Explorer.",
+    "pageTitle": "Demex - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://dem.exchange/",
-    "twitter": "https://x.com/dem_exchange"
+    "website": "https://www.dem.exchange",
+    "twitter": "https://x.com/DemexTrading",
+    "discord": "https://discord.gg/demex",
+    "docs": "https://guide.dem.exchange",
+    "telegram": "https://t.me/demextrading"
   },
   "relations": {
     "alternatives": [
-      "legato-finance",
-      "aevo",
-      "ostium"
+      "agni",
+      "fusionx",
+      "izumi-finance"
     ],
     "related": [
-      "1inch",
-      "xgram-io",
-      "universalx"
+      "merchant-moe",
+      "agni",
+      "fusionx"
     ]
   }
 }

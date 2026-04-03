@@ -1,0 +1,38 @@
+{
+  "slug": "ktx-finance",
+  "name": "KTX.Finance",
+  "logoUrl": "https://img.logo.dev/ktx.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "KTX.Finance is a decentralized perpetual trading protocol on Mantle using a GLP-style multi-asset liquidity pool with up to 50x leverage.",
+    "description": "KTX Finance is a decentralized perpetual futures exchange on Mantle using a GLP-style multi-asset liquidity pool model inspired by GMX, where LPs deposit assets into a shared pool that earns fees from leverage trading activity. Traders can open long or short positions with up to 50x leverage against this diversified LP pool, while liquidity providers benefit from natural diversification and steady fee income from trading volume. The multi-asset model creates deep liquidity and sustainable yields on Mantle.",
+    "meta": "KTX.Finance is a decentralized perp trading protocol with a multi-asset liquidity pool on Mantle. Discover KTX.Finance on Lancers Web3 Explorer.",
+    "pageTitle": "KTX.Finance - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ktx.finance/",
+    "twitter": "https://x.com/KTX_Finance",
+    "discord": "https://discord.gg/ktxfinance",
+    "docs": "https://docs.ktx.finance",
+    "telegram": "https://t.me/ktxfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

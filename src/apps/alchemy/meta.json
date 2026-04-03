@@ -1,47 +1,38 @@
 {
   "slug": "alchemy",
   "name": "Alchemy",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751446/web3-explorer/dapp-logos/alchemy.png",
-  "category": "Infrastructure Tools",
+  "logoUrl": "https://img.logo.dev/alchemy.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "NFT Dapps",
   "subcategory": [
-    "RPC Node Providers",
-    "Indexing Tools"
+    "NFT Marketplaces"
   ],
   "chains": [
-    "Ethereum",
-    "Solana",
-    "Polygon",
-    "Arbitrum",
-    "OP Mainnet",
-    "Polkadot",
-    "Starknet",
-    "ZKsync",
-    "Polygon zkEVM",
-    "ZetaChain",
-    "Fantom",
-    "Linea",
-    "Base",
-    "BNB Chain",
-    "Avalanche"
+    "Mantle"
   ],
-  "pricing": "Freemium",
+  "pricing": "free",
   "content": {
-    "short": "Alchemy provides blockchain infrastructure powering billions in onchain transactions.",
-    "description": "Alchemy is the most reliable blockchain infrastructure platform for financial services, DeFi, rollups, and more. It offers blockchain APIs, app analytics, gas sponsorship, and more for over 100 blockchain networks. Alchemy powers the largest onchain builders including JP Morgan, Polymarket, Circle, and more, facilitating over $150 billion in annual transaction volume and supporting 100M end users worldwide.",
-    "meta": "Alchemy provides blockchain infrastructure powering billions in onchain transactions. Discover Alchemy and other Infrastructure Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Alchemy - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Alchemy is the leading blockchain developer platform powering applications for millions of users with enhanced APIs, developer tools, and infrastructure on Mantle.",
+    "description": "Alchemy is the premier Web3 developer platform, powering applications for millions of users across 197 countries, providing enhanced RPC APIs with advanced features like event subscriptions, transaction simulation, and gas optimization. The platform also offers comprehensive developer tools including NFT APIs, token APIs, and a debugging explorer. Founded in 2017 and backed by top Silicon Valley investors, Alchemy officially supports Mantle Network with dedicated infrastructure and tooling for builders.",
+    "meta": "Alchemy is the leading blockchain developer platform providing infrastructure and APIs for building on Mantle. Discover Alchemy on Lancers Web3 Explorer.",
+    "pageTitle": "Alchemy - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://cantina.xyz/bounties/d1496b11-e0cb-4905-80e6-b95f892f39ba",
-    "twitter": "https://x.com/Alchemy"
+    "website": "https://www.alchemy.com/",
+    "twitter": "https://x.com/AlchemyPlatform",
+    "discord": "https://discord.gg/alchemy",
+    "docs": "https://docs.alchemy.com",
+    "github": "https://github.com/alchemyplatform",
+    "linkedin": "https://www.linkedin.com/company/alchemyinc"
   },
   "relations": {
     "alternatives": [
-      "blast",
-      "solana-tracker"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "blast"
+      "ankr",
+      "moralis"
     ]
   }
 }

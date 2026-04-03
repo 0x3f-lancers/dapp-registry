@@ -1,34 +1,38 @@
 {
   "slug": "supra",
   "name": "Supra",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750471/web3-explorer/dapp-logos/supra.png",
-  "category": "Blockchains",
+  "logoUrl": "https://img.logo.dev/supra.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Layer 1 Blockchains (L1s)"
+    "Web3 Bridges"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Supra is a fast, vertically integrated MultiVM Layer-1 with a suite of powerful native services.",
-    "description": "Supra is a high-performance, vertically-integrated MultiVM Layer-1 blockchain designed for speed and scale. Initially powered by MoveVM, Supra can process up to 500,000 TPS across 300 globally distributed nodes with sub-second consensus latency. It features native oracle price feeds, on-chain randomness, cross-chain communication, and automation—all on a single platform. EVM and SolanaVM support are coming soon, providing developers with a unified environment to build Super dApps.",
-    "meta": "Supra is a fast, vertically integrated MultiVM Layer-1 with a suite of powerful native services. Discover Supra and other Blockchains on Lancers Web3 Explorer.",
-    "pageTitle": "Supra - Blockchains - Lancers Web3 Explorer"
+    "short": "Supra is a middleware network providing oracle, cross-chain automation, and verifiable randomness services to Web3 apps on Mantle.",
+    "description": "Supra is a comprehensive blockchain middleware network providing oracle services, cross-chain automation, and verifiable randomness (dVRF) for Web3 applications, operating its own high-performance consensus mechanism to deliver oracle data at speeds and costs not achievable by traditional oracle networks. Supra's integration with Mantle provides developers with fast, reliable oracle feeds and on-chain automation capabilities for building sophisticated dApps on the network.",
+    "meta": "Supra is a middleware network providing oracle and automation services for Web3 apps on Mantle. Discover Supra on Lancers Web3 Explorer.",
+    "pageTitle": "Supra - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://supra.com/",
-    "twitter": "https://x.com/SUPRA_Labs"
+    "website": "https://supra.com",
+    "twitter": "https://x.com/SUPRA_Labs",
+    "discord": "https://discord.gg/supra",
+    "docs": "https://supra.com/docs",
+    "telegram": "https://t.me/SupraOracles"
   },
   "relations": {
     "alternatives": [
-      "cosmos",
-      "kadena"
+      "layerzero",
+      "axelar",
+      "meson"
     ],
     "related": [
-      "cubanespace",
-      "quai",
-      "startmining"
+      "stargate",
+      "axelar",
+      "meson"
     ]
   }
 }

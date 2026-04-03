@@ -1,35 +1,36 @@
 {
   "slug": "mintle",
   "name": "Mintle",
-  "logoUrl": "https://logo.clearbit.com/mintle.app",
+  "logoUrl": "https://img.logo.dev/mintle.app?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "NFT Dapps",
   "subcategory": [
     "NFT Marketplaces"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Mintle is Mantle's native secondary NFT marketplace developed in collaboration with Rarible.",
-    "description": "Mintle is the cornerstone NFT marketplace built natively for the Mantle Network, developed in strategic collaboration with the Rarible team. As the primary secondary venue for Mantle-based digital assets, it provides users with a professional and secure environment for trading, including the flagship \"Citizens of Mantle\" collection. The platform features advanced marketplace tools, low transaction costs, and deep integration with the Mantle ecosystem to ensure a seamless collector experience.\n\nBy utilizing the Mantle blockchain's high throughput and sub-second finality, Mintle delivers a highly responsive interface for discoverability and asset exchange. The protocol supports creator royalties and focuses on fostering a vibrant artist community within the Mantle landscape. Through its commitment to transparency and user-centric design, Mintle has become a vital component of the network's creator economy, empowering both developers and collectors to participate in the next generation of decentralized ownership.",
-    "meta": "Mintle is the leading native NFT marketplace on Mantle, offering secure trading and professional collector tools.",
-    "pageTitle": "Mintle - NFT Dapps - Lancers Web3 Explorer"
+    "short": "Mintle is the premier NFT marketplace on Mantle Network, built in partnership with Rarible, where users can mint, buy, and sell digital assets.",
+    "description": "Mintle is the native NFT marketplace for the Mantle Network, developed in partnership with Rarible  one of DeFi's leading NFT infrastructure providers. Users can mint original NFT collections, list assets for sale, and discover digital art and collectibles within the Mantle ecosystem. Mantle's cost-efficient infrastructure allows Mintle to offer significantly lower minting fees than Ethereum mainnet, making it accessible for both established collections and emerging NFT creators launching their first projects.",
+    "meta": "Mintle is the leading NFT marketplace on Mantle for minting, buying, and selling digital assets. Discover Mintle on Lancers Web3 Explorer.",
+    "pageTitle": "Mintle - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://mintle.app/",
-    "twitter": "https://twitter.com/MintleApp"
+    "twitter": "https://x.com/MintleNFT",
+    "discord": "https://discord.gg/mintle"
   },
   "relations": {
     "alternatives": [
-      "mbd-financials",
-      "trader-xyz",
-      "mercato"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "passxyz",
-      "avatr",
-      "bluemove"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

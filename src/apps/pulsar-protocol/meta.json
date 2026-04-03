@@ -1,0 +1,37 @@
+{
+  "slug": "pulsar-protocol",
+  "name": "Pulsar Protocol",
+  "logoUrl": "https://img.logo.dev/pulsarswap.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Pulsar Protocol implements Time-Weighted Average Market Making (TWAMM) on Mantle, enabling large trades to execute gradually over time with minimal price impact.",
+    "description": "Pulsar Protocol implements Time-Weighted Average Market Making (TWAMM) on Mantle, enabling large orders to be broken into infinitely many smaller sub-trades executed across a time interval to minimize price impact. The protocol combines traditional instant AMM swaps with TWAMM for large orders, making it particularly valuable for DAOs, funds, and whales that need to execute significant positions without causing market disruption. This approach to large order execution brings institutional-grade trading strategy to DeFi on Mantle.",
+    "meta": "Pulsar Protocol is a TWAMM on Mantle combining instant and time-weighted average market making for large trades. Discover Pulsar on Lancers Web3 Explorer.",
+    "pageTitle": "Pulsar Protocol - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://pulsarswap.com",
+    "twitter": "https://x.com/PulsarSwap",
+    "discord": "https://discord.gg/pulsarswap",
+    "github": "https://github.com/pulsarswap"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

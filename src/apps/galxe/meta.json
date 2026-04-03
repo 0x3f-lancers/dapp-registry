@@ -1,38 +1,38 @@
 {
   "slug": "galxe",
   "name": "Galxe",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747142/web3-explorer/dapp-logos/galxe.jpg",
-  "category": "Identity Tools",
+  "logoUrl": "https://img.logo.dev/galxe.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "NFT Dapps",
   "subcategory": [
-    "Decentralized Identity Tools"
+    "NFT Marketplaces"
   ],
   "chains": [
-    "Ethereum",
-    "Solana",
-    "BNB Chain",
-    "Polygon",
-    "OP Mainnet",
-    "Arbitrum"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Galxe provides credential infrastructure that all Web3 developers can access.",
-    "description": "Galxe is building a credential data network accessible to all Web3 developers. The platform serves both on-chain and off-chain communities, enabling them to curate, verify, and contribute digital credentials to a shared network that can be leveraged across projects. For off-chain credentials, it connects data sources from multiple orgs, such as Snapshot, Twitter, and GitHub. For on-chain credentials, it relies on subgraph queries or static snapshots to capture on-chain activity and attestations.",
-    "meta": "Galxe builds a credential data network open to all developers in Web3. Discover Galxe and other Identity Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Galxe - Identity Tools - Lancers Web3 Explorer"
+    "short": "Galxe is the leading Web3 community platform enabling credential-based campaigns and NFT reward distribution for thousands of blockchain projects.",
+    "description": "Galxe is one of the largest Web3 community-building platforms with tens of millions of users across hundreds of blockchain projects, enabling protocols to create credential-based campaigns where users earn NFT credentials and token rewards for on-chain and off-chain activities. Its native credential graph tracks user activity across chains, building verifiable on-chain reputation profiles. Galxe's infrastructure is widely used by Mantle ecosystem projects to launch campaigns, distribute tokens, and build loyal communities at scale.",
+    "meta": "Galxe is the leading Web3 community platform for credential campaigns and rewards on Mantle. Discover Galxe on Lancers Web3 Explorer.",
+    "pageTitle": "Galxe - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://galxe.com/",
-    "twitter": "https://x.com/Galxe"
+    "website": "https://www.galxe.com/quest",
+    "twitter": "https://x.com/Galxe",
+    "discord": "https://discord.gg/galxe",
+    "docs": "https://docs.galxe.com",
+    "telegram": "https://t.me/galxe"
   },
   "relations": {
     "alternatives": [
-      "dauth-network",
-      "nextme"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "tide-protocol",
-      "meeds"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

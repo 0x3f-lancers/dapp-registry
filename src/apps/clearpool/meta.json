@@ -1,30 +1,39 @@
 {
   "slug": "clearpool",
   "name": "Clearpool",
-  "logoUrl": "https://unavatar.io/twitter/ClearpoolFin",
-  "category": "Real World Asset Dapps",
+  "logoUrl": "https://img.logo.dev/clearpool.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Private Credit RWAs"
+    "Decentralized Lending Dapps"
   ],
   "chains": [
-    "Ethereum",
-    "Polygon",
-    "Base",
-    "OP Mainnet"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Decentralized credit marketplace enabling efficient lending.",
-    "description": "Clearpool is a Real World Asset Dapps project focused on private credit rwas supporting Ethereum, Polygon, Mantle, Base, OP Mainnet.",
-    "meta": "Clearpool is a Real World Asset Dapps on Ethereum. Discover it on Lancers Web3 Explorer.",
-    "pageTitle": "Clearpool - Real World Asset Dapps - Lancers Web3 Explorer"
+    "short": "Clearpool is a decentralized institutional credit marketplace where users lend stablecoins to permissioned institutional borrowers for market-leading yields.",
+    "description": "Clearpool is a decentralized institutional credit protocol allowing DeFi users to lend stablecoins to vetted institutional borrowers such as market makers and trading firms through single-borrower, uncollateralized lending pools. Borrowers create pools and set their own competitive interest rates, creating a transparent on-chain credit market. Clearpool is deployed on Mantle and provides DeFi lenders access to institutional-grade credit yields that are typically unavailable in traditional overcollateralized lending protocols.",
+    "meta": "Clearpool is a decentralized credit marketplace for lending to institutions with attractive yields on Mantle. Discover Clearpool on Lancers Web3 Explorer.",
+    "pageTitle": "Clearpool - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://clearpool.finance",
-    "twitter": "https://x.com/ClearpoolFin"
+    "website": "https://clearpool.finance/",
+    "twitter": "https://x.com/clearpool_fi",
+    "discord": "https://discord.gg/clearpool",
+    "docs": "https://docs.clearpool.finance",
+    "telegram": "https://t.me/clearpool",
+    "linkedin": "https://www.linkedin.com/company/clearpool-finance"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "lendle",
+      "methlab",
+      "minterest"
+    ],
+    "related": [
+      "init-capital",
+      "lendle",
+      "methlab"
+    ]
   }
 }

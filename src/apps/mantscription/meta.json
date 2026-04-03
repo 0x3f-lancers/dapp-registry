@@ -1,0 +1,35 @@
+{
+  "slug": "mantscription",
+  "name": "Mantscription",
+  "logoUrl": "https://img.logo.dev/mantscription.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Mantscription is an inscription protocol on Mantle Network enabling users to inscribe data and digital assets directly on-chain in the Bitcoin Ordinals style.",
+    "description": "Mantscription brings the Bitcoin Ordinals-inspired inscription paradigm to the Mantle Network, allowing users to inscribe text, images, and data permanently on-chain without relying on off-chain storage. Each inscription is stored directly in Mantle transaction calldata, creating immutable on-chain digital artifacts. The protocol has spawned a collection ecosystem around Mantle-native inscriptions, with a marketplace for trading and a minting platform for creating new inscription collections on the network.",
+    "meta": "Mantscription is an on-chain inscription protocol for creating and trading inscribed digital assets on Mantle. Discover Mantscription on Lancers Web3 Explorer.",
+    "pageTitle": "Mantscription - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mantscription.com/",
+    "twitter": "https://x.com/Mantscription"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

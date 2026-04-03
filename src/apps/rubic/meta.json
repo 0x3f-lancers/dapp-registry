@@ -2,32 +2,38 @@
   "slug": "rubic",
   "name": "Rubic",
   "logoUrl": "https://img.logo.dev/rubic.exchange?token=pk_NUv2jrsJTjedV5qvXMPw8w",
-  "category": "DeFi Tools",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Web3 Bridges"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "TON"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Rubic is a multi-chain aggregator that combines DEXs and bridges to find the best swap routes for TON users.",
-    "description": "Rubic is a comprehensive multi-chain tech aggregator that simplifies the process of swapping tokens across different blockchains. By integrating numerous decentralized exchanges (DEXs) and bridges, Rubic identifies the most efficient routes and the best exchange rates for users looking to move assets into or out of the TON blockchain. Its 'One-Click' cross-chain swap feature allows users to trade assets from over 70 chains in a single, secure interface, making Rubic a powerful tool for efficient cross-chain trading.",
-    "meta": "Find the best cross-chain swap rates with Rubic. Aggregated DEXs and bridges for TON on Lancers Web3 Explorer.",
-    "pageTitle": "Rubic - DeFi Tools - Lancers Web3 Explorer"
+    "short": "Rubic is a cross-chain technology aggregator enabling seamless asset swaps across 70+ blockchains with a white-label SDK for dApp integration.",
+    "description": "Rubic is a comprehensive cross-chain aggregation protocol enabling users to swap tokens across more than 70 blockchains in a single transaction, aggregating routes from dozens of bridges and DEXes to deliver optimal cross-chain execution. For dApp developers, Rubic provides a white-label widget and SDK to embed cross-chain swap functionality directly into their products without building bridge infrastructure. Mantle is fully supported within the Rubic ecosystem for cross-chain asset movement.",
+    "meta": "Rubic is a cross-chain tech aggregator enabling swaps across 70+ blockchains including Mantle. Discover Rubic on Lancers Web3 Explorer.",
+    "pageTitle": "Rubic - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://rubic.exchange/",
-    "twitter": "https://twitter.com/CryptoRubic"
+    "twitter": "https://x.com/CryptoRubic",
+    "discord": "https://discord.gg/rubic",
+    "docs": "https://docs.rubic.finance",
+    "telegram": "https://t.me/cryptorubic",
+    "github": "https://github.com/Cryptorubic"
   },
   "relations": {
     "alternatives": [
-      "layerswap",
-      "gauntlet",
-      "eco-portal"
+      "agni",
+      "fusionx",
+      "izumi-finance"
     ],
     "related": [
-      "tonkeeper"
+      "merchant-moe",
+      "agni",
+      "fusionx"
     ]
   }
 }

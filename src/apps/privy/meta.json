@@ -1,37 +1,39 @@
 {
   "slug": "privy",
   "name": "Privy",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749321/web3-explorer/dapp-logos/privy.jpg",
-  "category": "Web3 Wallet Tools",
+  "logoUrl": "https://img.logo.dev/privy.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Wallets",
   "subcategory": [
-    "Embedded Wallets"
+    "Software Wallets"
   ],
   "chains": [
-    "Ethereum",
-    "OP Mainnet",
-    "Polygon",
-    "Arbitrum",
-    "Avalanche",
-    "BNB Chain"
+    "Mantle"
   ],
-  "pricing": "Freemium",
+  "pricing": "free",
   "content": {
-    "short": "Privy offers a simple, robust library to onboard all users to web3.",
-    "description": "Privy makes it easy to add authentication flows in minutes, so you can reach every user on mobile and desktop, whether they have a wallet or not. It eliminates the fragility of wallet connectors and the burden of managing whether users are connected, on a particular chain, or using a specific wallet. With just a few lines of code, you can securely onboard all users, walleted or not, freeing you to focus on your core product and deliver a smooth, consistent onboarding experience across networks.",
-    "meta": "Privy provides a simple, robust library to onboard all your users to web3. Discover Privy and other Web3 Wallet Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Privy - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "Privy is the easiest Web3 onboarding solution, enabling dApps to support both social login and traditional crypto wallets seamlessly on Mantle.",
+    "description": "Privy is an authentication and wallet management platform making Web3 onboarding seamless for all users, whether they have existing crypto wallets or are entirely new to blockchain. Developers integrate Privy to offer email, phone, and social login options that automatically create embedded wallets for new users, while supporting MetaMask and other traditional wallets for existing users. Deployed on Mantle, Privy helps dApps reach mainstream audiences without sacrificing Web3 functionality.",
+    "meta": "Privy simplifies Web3 onboarding with social login and embedded wallets for all users on Mantle. Discover Privy on Lancers Web3 Explorer.",
+    "pageTitle": "Privy - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.privy.io/",
-    "twitter": "https://x.com/privy_io"
+    "twitter": "https://x.com/privy_io",
+    "discord": "https://discord.gg/privy",
+    "docs": "https://docs.privy.io",
+    "github": "https://github.com/privy-io",
+    "linkedin": "https://www.linkedin.com/company/privy-io"
   },
   "relations": {
     "alternatives": [
-      "sequence-wallet",
-      "magic"
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
     ],
     "related": [
-      "stackup-bundler"
+      "metamask",
+      "safe",
+      "okx-wallet"
     ]
   }
 }

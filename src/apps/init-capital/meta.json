@@ -1,35 +1,37 @@
 {
   "slug": "init-capital",
   "name": "INIT Capital",
-  "logoUrl": "https://logo.clearbit.com/init.capital",
+  "logoUrl": "https://img.logo.dev/init.capital?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "INIT Capital is a liquidity hook money market on Mantle designed to bootstrap liquidity for DeFi protocols.",
-    "description": "INIT Capital is an innovative decentralized money market built on the Mantle network, featuring a unique \"Liquidity Hook\" architecture. This design allows other DeFi protocols to integrate directly with INIT to access concentrated liquidity, streamlining the process of bootstrapping new financial applications. Users can manage multiple independent siloed positions, enabling sophisticated lending and borrowing strategies while maintaining precise risk control.\n\nDeeply integrated with the Mantle ecosystem, INIT Capital supports high-yield strategies for assets like mETH and USDe. The protocol serves as a core infrastructure layer, providing the liquidity needed for developers to build complex LSDFi products and for users to maximize their capital efficiency. Through its commitment to interoperability and community-driven growth, INIT Capital is a key pillar of the decentralized economy on Mantle.",
-    "meta": "INIT Capital provides specialized liquidity hooks and decentralized lending services on the Mantle network.",
-    "pageTitle": "INIT Capital - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "INIT Capital is a Liquidity Hook Money Market on Mantle enabling composable lending, borrowing, and yield strategies for users and protocols.",
+    "description": "INIT Capital is a composable money market protocol that pioneered the concept of Liquidity Hooks  plugins that allow DeFi protocols to permissionlessly tap into INIT's liquidity layer to execute complex yield strategies. Launched natively on Mantle Network with backing from the Mantle EcoFund, INIT supports multi-silo positions, flash borrowing, LP token collateral, and an Auto E-Mode for maximum capital efficiency. Protocols like Merchant Moe have built margin trading hooks directly on INIT's liquidity infrastructure. Users access all integrated hooks through a single dashboard, enabling leveraged staking, looping, and other advanced strategies in just a few clicks.",
+    "meta": "INIT Capital is a Liquidity Hook Money Market on Mantle enabling composable lending and yield strategies. Discover INIT Capital on Lancers Web3 Explorer.",
+    "pageTitle": "INIT Capital - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://init.capital",
-    "twitter": "https://twitter.com/InitCapital_"
+    "website": "https://init.capital/",
+    "twitter": "https://x.com/init_capital",
+    "docs": "https://docs.init.capital/",
+    "github": "https://github.com/init-capital",
+    "discord": "https://discord.gg/initcapital"
   },
   "relations": {
     "alternatives": [
-      "seamless-protocol",
-      "1delta",
-      "amply-finance"
+      "lendle",
+      "methlab",
+      "minterest"
     ],
     "related": [
-      "lodestar-finance",
-      "toros-finance",
-      "optix"
+      "lendle",
+      "methlab"
     ]
   }
 }

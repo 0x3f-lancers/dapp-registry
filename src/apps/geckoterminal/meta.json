@@ -1,34 +1,35 @@
 {
   "slug": "geckoterminal",
   "name": "GeckoTerminal",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747198/web3-explorer/dapp-logos/geckoterminal.png",
-  "category": "DeFi Tools",
+  "logoUrl": "https://img.logo.dev/geckoterminal.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Analytics Tools"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "GeckoTerminal is a DEX data tracker and price charting tool by CoinGecko.",
-    "description": "GeckoTerminal provides real-time statistics and price analysis across multiple blockchains and decentralized exchanges, consolidating market data into a single view. Users can identify trends as they emerge and access up-to-date statistics on tokens and pools across diverse networks. The platform also presents Proof of Reserves data, enabling users to monitor centralized exchanges' on-chain holdings and assess reserve transparency directly on the blockchain.",
-    "meta": "GeckoTerminal provides real-time statistics and price analysis across multiple blockchains and decentralized exchanges. Discover GeckoTerminal and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "GeckoTerminal - DeFi Tools - Lancers Web3 Explorer"
+    "short": "GeckoTerminal is a real-time DEX analytics and charting platform tracking token prices, liquidity, and trading activity across Mantle and 100+ chains.",
+    "description": "GeckoTerminal, operated by CoinGecko, is a comprehensive DEX analytics platform that provides real-time price charts, liquidity data, and trading activity for tokens across more than 100 blockchain networks and 600+ DEXes. Users can monitor newly listed tokens, track pool liquidity changes, analyze trading volumes, and set price alerts. GeckoTerminal covers all major DEXes on Mantle Network, offering traders and researchers deep visibility into the Mantle DeFi market with up-to-the-second data.",
+    "meta": "GeckoTerminal provides real-time DEX charts and token analytics for Mantle and 100+ blockchain networks. Discover GeckoTerminal on Lancers Web3 Explorer.",
+    "pageTitle": "GeckoTerminal - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.geckoterminal.com",
+    "website": "https://www.geckoterminal.com/",
     "twitter": "https://x.com/GeckoTerminal"
   },
   "relations": {
     "alternatives": [
-      "vaultsfyi",
-      "takeprofit",
-      "sentry"
+      "agni",
+      "fusionx",
+      "izumi-finance"
     ],
     "related": [
-      "defi",
-      "footprint-analytics"
+      "merchant-moe",
+      "agni",
+      "fusionx"
     ]
   }
 }

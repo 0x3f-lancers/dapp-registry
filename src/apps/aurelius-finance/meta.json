@@ -1,35 +1,37 @@
 {
   "slug": "aurelius-finance",
   "name": "Aurelius Finance",
-  "logoUrl": "https://unavatar.io/twitter/AureliusFi",
+  "logoUrl": "https://img.logo.dev/aurelius.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
   ],
   "chains": [
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Aurelius Finance is a decentralized lending protocol and CDP platform on Mantle offering zero-interest stablecoin loans.",
-    "description": "Aurelius Finance is a decentralized lending protocol and CDP platform on the Mantle Network. It allows users to mint aUSD, a decentralized stablecoin, against collateral like BTC, ETH, and MNT. A standout feature is its zero-interest loan model, enabling users to unlock liquidity from their assets without incurring ongoing interest costs.\n\nTo ensure protocol solvency, Aurelius employs a Stability Pool that facilitates the liquidation of under-collateralized positions. By focusing on capital efficiency and high loan-to-value ratios, the protocol provides a robust borrowing experience. As part of the Mantle ecosystem, Aurelius Finance empowers users to maximize the utility of their holdings through secure lending infrastructure.",
-    "meta": "Aurelius Finance offers zero-interest stablecoin loans on Mantle. Discover Aurelius and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "Aurelius Finance - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Aurelius Finance integrates CDPs and lending markets on Mantle, offering users flexible borrowing against collateral through two complementary mechanisms.",
+    "description": "Aurelius Finance is an innovative DeFi protocol on Mantle that combines Collateralized Debt Position (CDP) mechanisms with traditional lending markets in a single platform. Users can either mint the protocol's native stablecoin against their collateral via the CDP mechanism or borrow existing assets through the lending market, giving maximum flexibility in how they access liquidity. This dual-mechanism approach makes Aurelius one of the most versatile borrowing platforms in the Mantle ecosystem.",
+    "meta": "Aurelius Finance integrates CDPs and lending markets for comprehensive borrowing solutions on Mantle. Discover Aurelius Finance on Lancers Web3 Explorer.",
+    "pageTitle": "Aurelius Finance - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://aurelius.finance/",
-    "twitter": "https://x.com/AureliusFi"
+    "website": "https://www.aurelius.finance/",
+    "twitter": "https://x.com/AureliusFi",
+    "discord": "https://discord.gg/aurelius",
+    "telegram": "https://t.me/aureliusfinance"
   },
   "relations": {
     "alternatives": [
-      "compound",
-      "opendollar",
-      "nusa-finance"
+      "lendle",
+      "methlab",
+      "minterest"
     ],
     "related": [
-      "better-fan",
-      "oriole-insights",
-      "sonicxswap"
+      "init-capital",
+      "lendle",
+      "methlab"
     ]
   }
 }

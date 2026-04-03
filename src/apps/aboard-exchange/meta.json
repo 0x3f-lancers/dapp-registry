@@ -1,37 +1,37 @@
 {
   "slug": "aboard-exchange",
   "name": "Aboard Exchange",
-  "logoUrl": "https://unavatar.io/twitter/AboardExchange",
+  "logoUrl": "https://img.logo.dev/aboard.exchange?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Derivatives"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "Solana"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Aboard Exchange is an order book-based decentralized derivatives protocol offering perpetuals and options on Arbitrum.",
-    "description": "Aboard Exchange is a comprehensive decentralized derivatives platform initially launched on the Arbitrum network. It provides a professional trading experience through an order book model, supporting token perpetuals, index perpetuals, options, and spot trading with up to 25x leverage. The protocol utilizes a cross-margin system to enhance capital efficiency and minimize liquidation risks for traders. With its native ABE token, Aboard Exchange integrates governance and utility features, aiming to bridge the gap between the speed of centralized exchanges and the security of decentralized finance.",
-    "meta": "Aboard Exchange offers professional-grade decentralized derivatives and perpetuals trading. Discover Aboard and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "Aboard Exchange - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Aboard Exchange is an order-book perpetual DEX featuring an on-chain broker model that rewards users and partners across multiple blockchain networks.",
+    "description": "Aboard Exchange is a decentralized perpetual futures exchange combining a traditional order-book matching model with an innovative on-chain broker system that distributes referral and partner rewards transparently via smart contracts. The broker model creates a community-driven growth flywheel by incentivizing ecosystem partners to bring liquidity and traders to the platform. Aboard supports multiple blockchains including Mantle, offering a wide selection of perpetual contracts with competitive fee structures.",
+    "meta": "Aboard Exchange is an order-book perp DEX with an on-chain broker reward model on Mantle. Discover Aboard on Lancers Web3 Explorer.",
+    "pageTitle": "Aboard Exchange - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://aboard.exchange/",
-    "twitter": "https://x.com/AboardExchange"
+    "twitter": "https://x.com/aboard_exchange",
+    "discord": "https://discord.gg/aboard",
+    "telegram": "https://t.me/aboard_exchange"
   },
   "relations": {
     "alternatives": [
-      "paradex",
-      "foxify",
-      "panoptic"
+      "agni",
+      "fusionx",
+      "izumi-finance"
     ],
     "related": [
-      "port-finance",
-      "vertex",
-      "snowball"
+      "merchant-moe",
+      "agni",
+      "fusionx"
     ]
   }
 }

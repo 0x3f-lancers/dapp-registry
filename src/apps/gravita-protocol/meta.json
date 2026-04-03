@@ -1,0 +1,38 @@
+{
+  "slug": "gravita-protocol",
+  "name": "Gravita Protocol",
+  "logoUrl": "https://img.logo.dev/gravitaprotocol.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Gravita Protocol is a borrowing protocol for liquid staking tokens on Mantle, enabling interest-free loans against mETH and other LST collateral.",
+    "description": "Gravita Protocol is a decentralized borrowing protocol that allows users to mint interest-free loans against their liquid staking token (LST) and liquid restaking token (LRT) collateral without paying ongoing interest  only a one-time borrowing fee. The protocol natively supports mETH, Mantle's liquid staking token, making it directly integrated into the Mantle DeFi ecosystem. Users maintain their staking rewards while accessing dollar liquidity without selling their staked ETH positions.",
+    "meta": "Gravita Protocol enables interest-free borrowing against LSTs like mETH on Mantle Network. Discover Gravita on Lancers Web3 Explorer.",
+    "pageTitle": "Gravita Protocol - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.gravitaprotocol.com/",
+    "twitter": "https://x.com/GravitaProtocol",
+    "discord": "https://discord.gg/gravita",
+    "docs": "https://docs.gravitaprotocol.com",
+    "github": "https://github.com/Gravita-Protocol"
+  },
+  "relations": {
+    "alternatives": [
+      "lendle",
+      "methlab",
+      "minterest"
+    ],
+    "related": [
+      "init-capital",
+      "lendle",
+      "methlab"
+    ]
+  }
+}

@@ -1,37 +1,38 @@
 {
   "slug": "renzo",
   "name": "Renzo",
-  "logoUrl": "https://logo.clearbit.com/renzoprotocol.com",
+  "logoUrl": "https://img.logo.dev/renzoprotocol.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Liquid Staking Platforms"
+    "DeFi Yield Aggregators"
   ],
   "chains": [
-    "Ethereum",
-    "Arbitrum",
-    "Linea"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Renzo is a liquid restaking protocol on EigenLayer that abstracts restaking complexities via the ezETH token.",
-    "description": "Renzo is a premier liquid restaking protocol built natively on EigenLayer, designed to simplify and maximize rewards for Ethereum participants. By allowing users to deposit ETH or Liquid Staking Tokens (LSTs), the protocol issues ezETH, a highly composable Liquid Restaked Token (LRT). This allows participants to simultaneously earn Ethereum staking rewards and additional yields from Actively Validated Services (AVS) on the EigenLayer network, effectively amplifying their capital efficiency.\n\nOperating across major networks including Ethereum, Arbitrum, and Linea, Renzo serves as a vital strategy manager for the restaking economy. The platform focuses on professional-grade risk management and transparent on-chain execution, providing a seamless user experience that abstracts the technical hurdles of restaking. Through its commitment to innovation and deep integration with the DeFi ecosystem, Renzo is empowering users to build and manage sophisticated decentralized portfolios while maintaining total sovereignty over their digital capital.",
-    "meta": "Renzo provides liquid restaking through ezETH, enabling users to earn multiple yield layers while maintaining liquidity.",
-    "pageTitle": "Renzo - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Renzo is a Liquid Restaking Token protocol and EigenLayer Strategy Manager, simplifying restaking for ETH holders with the ezETH token.",
+    "description": "Renzo Protocol is a liquid restaking token (LRT) protocol abstracting the complexity of EigenLayer restaking for everyday users. Users deposit ETH or liquid staking tokens into Renzo and receive ezETH  a liquid restaking token earning both staking and AVS rewards simultaneously. Renzo's strategy manager automatically optimizes allocation across EigenLayer's AVS ecosystem for risk-adjusted yield maximization. Deployed on Mantle, Renzo makes liquid restaking benefits accessible to Mantle DeFi users.",
+    "meta": "Renzo is a liquid restaking token protocol built on EigenLayer, accessible through Mantle. Discover Renzo on Lancers Web3 Explorer.",
+    "pageTitle": "Renzo - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.renzoprotocol.com/",
-    "twitter": "https://twitter.com/RenzoProtocol"
+    "twitter": "https://x.com/RenzoProtocol",
+    "discord": "https://discord.gg/renzo",
+    "docs": "https://docs.renzoprotocol.com",
+    "telegram": "https://t.me/renzoprotocol"
   },
   "relations": {
     "alternatives": [
-      "haedal",
-      "earnpark",
-      "sanctum"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "tokenlon",
-      "hord",
-      "aboard-exchange"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

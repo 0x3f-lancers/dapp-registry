@@ -1,41 +1,38 @@
 {
   "slug": "zapper",
   "name": "Zapper",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751387/web3-explorer/dapp-logos/zapper.jpg",
-  "category": "Web3 Developer Tools",
+  "logoUrl": "https://img.logo.dev/zapper.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Block Explorers"
+    "Decentralized Lending Dapps"
   ],
   "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "BNB Chain",
-    "Ethereum",
-    "OP Mainnet",
-    "Polygon",
-    "Base",
-    "Fantom"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Zapper is a social Web3 explorer that lets users follow blockchain activity across NFTs, DeFi and DAOs.",
-    "description": "Zapper is a social Web3 explorer that lets users follow the blockchain journeys of others across NFTs, DeFi, and DAOs. By highlighting public activity and on-chain history, it aims to make the complex world of cryptocurrency readable and accessible to everyone. Zapper believes that a self-custodial and decentralized future provides greater economic freedom, and that clarifying how the blockchain works is a critical step toward achieving that future for individuals and communities alike.",
-    "meta": "Zapper is a social Web3 explorer. Discover Zapper and other Web3 Developer Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Zapper - Web3 Developer Tools - Lancers Web3 Explorer"
+    "short": "Zapper is a DeFi portfolio tracker and aggregator for tracking tokens, LP positions, lending positions, and NFTs across dozens of chains including Mantle.",
+    "description": "Zapper is one of DeFi's most widely used portfolio management platforms, enabling users to track the value of their tokens, LP positions, lending balances, and NFTs across dozens of blockchain networks from a single dashboard. The platform provides DeFi discovery tools to find new yield opportunities and allows users to zap into complex positions with a single transaction. Zapper is officially recognized by Mantle Network and supports full portfolio tracking for all Mantle assets and protocols.",
+    "meta": "Zapper is a DeFi portfolio tracker and aggregator for discovering and managing on-chain positions on Mantle. Discover Zapper on Lancers Web3 Explorer.",
+    "pageTitle": "Zapper - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://zapper.xyz/",
-    "twitter": "https://x.com/zapper_fi"
+    "twitter": "https://x.com/zapper_fi",
+    "discord": "https://discord.gg/zapper",
+    "docs": "https://docs.zapper.xyz",
+    "github": "https://github.com/Zapper-fi"
   },
   "relations": {
     "alternatives": [
-      "unmarshal",
-      "jiffyscan",
-      "sepolia-testnet-block-explorer"
+      "lendle",
+      "methlab",
+      "minterest"
     ],
     "related": [
-      "near",
-      "bnb-chain"
+      "init-capital",
+      "lendle",
+      "methlab"
     ]
   }
 }

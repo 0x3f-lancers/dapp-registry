@@ -1,0 +1,38 @@
+{
+  "slug": "axis-finance",
+  "name": "Axis Finance",
+  "logoUrl": "https://img.logo.dev/axis.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Axis Finance is a modular auction protocol on Mantle powering fair and flexible token launches with customizable auction mechanics.",
+    "description": "Axis Finance provides a comprehensive suite of modular auction-based token launch tools for Web3 projects, with Axis Origin as its primary product enabling sealed-bid, fixed-price, and Dutch auction formats. The modular design allows developers to customize auction parameters to meet specific distribution goals, from broad decentralization to targeted community allocation. Deployed on Mantle, Axis provides key token launch infrastructure for the ecosystem's emerging projects.",
+    "meta": "Axis Finance is a modular auction protocol for fair and flexible token launches on Mantle. Discover Axis Finance on Lancers Web3 Explorer.",
+    "pageTitle": "Axis Finance - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://axis.finance/",
+    "twitter": "https://x.com/axis_fi",
+    "discord": "https://discord.gg/axisfinance",
+    "docs": "https://docs.axis.finance",
+    "github": "https://github.com/Axis-Fi"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

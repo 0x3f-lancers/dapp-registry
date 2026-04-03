@@ -2,35 +2,34 @@
   "slug": "intract",
   "name": "Intract",
   "logoUrl": "https://img.logo.dev/intract.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
-  "category": "Venture Capital Firms",
+  "category": "Web3 Social Dapps",
   "subcategory": [
-    "Web3 Accelerators"
+    "Web3 Social Media Dapps"
   ],
   "chains": [
-    "TON"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Intract is a Web3 quest and marketing platform that helps TON projects grow through gamified engagement.",
-    "description": "Intract is a specialized Web3 quest and community engagement platform designed to help decentralized projects scale and acquire active users. Within the TON ecosystem, Intract provides gamified experiences and marketing campaigns that reward users for discovering and interacting with new applications. By bridging the gap between developers and participants through rewarding quests, Intract facilitates ecosystem growth and user education, serving as a powerful tool for project acceleration and community building on the TON blockchain.",
-    "meta": "Discover TON projects and earn rewards with Intract. The premier Web3 quest platform on Lancers Web3 Explorer.",
-    "pageTitle": "Intract - Venture Capital Firms - Lancers Web3 Explorer"
+    "short": "Intract is a Web3 quest and learn-to-earn platform enabling users to discover, learn about, and earn from blockchain projects on Mantle.",
+    "description": "Intract is a learn-to-earn and community growth platform that connects Web3 users with blockchain projects through structured educational quests. Users complete on-chain and off-chain tasks to learn about protocols, earn rewards, and build their on-chain reputation. For projects, Intract provides a powerful user acquisition and education tool that ensures users genuinely understand the protocol before receiving rewards. Multiple Mantle ecosystem projects use Intract to educate and onboard users to their platforms.",
+    "meta": "Intract is a Web3 learn-to-earn quest platform connecting users with projects in the Mantle ecosystem. Discover Intract on Lancers Web3 Explorer.",
+    "pageTitle": "Intract - Social Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://intract.io",
-    "twitter": "https://x.com/IntractCampaign"
+    "website": "https://www.intract.io/",
+    "twitter": "https://x.com/0xIntract"
   },
   "relations": {
     "alternatives": [
-      "defiance-capital",
-      "polygon-ventures",
-      "yardhub"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "ton-launchpad",
-      "ton-raffles",
-      "tonstarter",
-      "tonup"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

@@ -1,26 +1,20 @@
 {
   "slug": "drpc",
   "name": "DRPC",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746577/web3-explorer/dapp-logos/drpc.png",
+  "logoUrl": "https://img.logo.dev/drpc.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
   ],
   "chains": [
-    "Arbitrum",
-    "Ethereum",
-    "OP Mainnet",
-    "Polygon",
-    "Polygon zkEVM",
-    "ZKsync",
-    "BNB Chain"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "DRPC is a backup RPC provider with a pay-for-use model and a network of independent third-party partners and public nodes.",
-    "description": "DRPC is a backup RPC provider for EVM-compatible networks. It runs a distributed network of independent third‑party partners and public nodes designed to deliver low latency, scalable capacity, and resistance to censorship. You can use public endpoints or sign up in seconds to create unlimited endpoints and view detailed statistics about your RPC requests, helping teams monitor throughput, latency, error rates, and reliability across multiple chains in real time.",
-    "meta": "DRPC provides backup RPC services for EVM-compatible networks. Discover DRPC and other Infrastructure Tools on Lancers Web3 Explorer.",
-    "pageTitle": "DRPC - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "DRPC is a decentralized RPC network delivering reliable, scalable, and cost-efficient blockchain node access for developers on Mantle.",
+    "description": "DRPC (Decentralized RPC) is a blockchain node access network that connects dApp developers to an independent network of third-party node operators and public nodes. The platform intelligently routes API requests to the most performant and geographically relevant nodes, offering enterprise-grade uptime without centralized dependency risks. DRPC supports Mantle Network with dedicated endpoints and offers a competitive free tier alongside enterprise plans, making it an attractive choice for both indie developers and large teams building on Mantle.",
+    "meta": "DRPC is a decentralized RPC network providing scalable and cost-efficient node access for Mantle developers. Discover DRPC on Lancers Web3 Explorer.",
+    "pageTitle": "DRPC - Infrastructure - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://drpc.org/",
@@ -28,13 +22,14 @@
   },
   "relations": {
     "alternatives": [
-      "openmesh-network",
-      "nownodes",
-      "alchemy"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "injective-protocol",
-      "gosh"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

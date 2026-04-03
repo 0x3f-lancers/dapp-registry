@@ -1,0 +1,35 @@
+{
+  "slug": "holograph",
+  "name": "Holograph",
+  "logoUrl": "https://img.logo.dev/holograph.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Holograph is an omnichain NFT protocol on Mantle enabling NFTs to move natively between blockchains while preserving their token contract address.",
+    "description": "Holograph is a pioneering omnichain NFT infrastructure protocol that enables truly portable NFTs  tokens that can move between blockchains while maintaining the same contract address and token ID across all networks. Unlike bridge-based NFT solutions that create wrapped copies, Holograph burns tokens on the source chain and mints identical tokens on the destination chain, ensuring authenticity and contract-level consistency. This technology is deployed on Mantle, enabling Mantle NFT projects to offer their holders genuine multi-chain portability.",
+    "meta": "Holograph enables native omnichain NFT portability across blockchains including Mantle, preserving contract addresses. Discover Holograph on Lancers Web3 Explorer.",
+    "pageTitle": "Holograph - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://holograph.xyz/",
+    "twitter": "https://x.com/holographxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

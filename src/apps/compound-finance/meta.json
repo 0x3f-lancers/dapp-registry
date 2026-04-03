@@ -1,0 +1,38 @@
+{
+  "slug": "compound-finance",
+  "name": "Compound Finance",
+  "logoUrl": "https://img.logo.dev/compound.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Compound Finance is one of DeFi's foundational lending protocols, enabling users to earn interest and borrow crypto assets permissionlessly.",
+    "description": "Compound Finance is a pioneer in DeFi lending, having launched one of the first algorithmic money markets on Ethereum in 2018, founded by Robert Leshner. The protocol popularized the concept of supply/borrow rate markets and governance tokens, influencing nearly every lending protocol that followed. Compound V3 (Comet) introduced an improved architecture with isolated markets and more efficient capital utilization. Compound is deployed on Mantle with official recognition from the network.",
+    "meta": "Compound Finance is a foundational DeFi lending protocol for earning interest and borrowing on Mantle. Discover Compound on Lancers Web3 Explorer.",
+    "pageTitle": "Compound Finance - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://compound.finance/",
+    "twitter": "https://x.com/compoundfinance",
+    "discord": "https://discord.gg/compound",
+    "docs": "https://docs.compound.finance",
+    "github": "https://github.com/compound-finance"
+  },
+  "relations": {
+    "alternatives": [
+      "lendle",
+      "methlab",
+      "minterest"
+    ],
+    "related": [
+      "init-capital",
+      "lendle",
+      "methlab"
+    ]
+  }
+}

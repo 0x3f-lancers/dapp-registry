@@ -1,38 +1,39 @@
 {
   "slug": "timeswap",
   "name": "Timeswap",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750711/web3-explorer/dapp-logos/timeswap.svg",
+  "logoUrl": "https://img.logo.dev/timeswap.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Lending Dapps",
-    "Decentralized CDPs"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Ethereum",
-    "Polygon",
-    "Arbitrum"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Timeswap is like Uniswap for lending and borrowing.",
-    "description": "Timeswap is the first fully decentralized lending and borrowing protocol in DeFi. It enables permissionless creation of lending and borrowing markets for any ERC-20 token pair through a three-variable AMM (x+y)z=k. Timeswap offers fixed-maturity lending and borrowing of ERC-20 tokens at a fixed rate. As an oracle-less protocol, it avoids manipulation hacks that plague existing money markets. To improve capital efficiency for borrowers, Timeswap provides non-liquidatable loans. It is a self-sufficient AMM enabling Uniswap-like, permissionless market creation for any token, increasing utility for long-tail assets and overall market efficiency.",
-    "meta": "Timeswap is the first fully decentralized lending and borrowing protocol in DeFi. Discover Timeswap and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "Timeswap - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Timeswap is the first oracle-less, permissionless AMM-based lending protocol on Mantle, enabling fixed-term borrowing markets for any token pair.",
+    "description": "Timeswap is a groundbreaking DeFi lending protocol using a three-variable AMM model to create permissionless, oracle-free lending markets for any token pair on Mantle. Without relying on price oracles, Timeswap eliminates oracle manipulation risk entirely while enabling completely permissionless market creation  any token can have a lending market created without governance approval. This design unlocks DeFi lending for the full universe of on-chain assets.",
+    "meta": "Timeswap is an oracle-less, permissionless AMM-based lending market for any token pair on Mantle. Discover Timeswap on Lancers Web3 Explorer.",
+    "pageTitle": "Timeswap - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://timeswap.io/",
-    "twitter": "https://x.com/TimeswapLabs"
+    "website": "https://app.timeswap.io/#markets",
+    "twitter": "https://x.com/TimeswapLabs",
+    "discord": "https://discord.gg/timeswap",
+    "docs": "https://docs.timeswap.io",
+    "github": "https://github.com/Timeswap-Labs",
+    "telegram": "https://t.me/timeswap"
   },
   "relations": {
     "alternatives": [
-      "shade-protocol",
-      "bulla-network",
-      "yieldfi"
+      "agni",
+      "fusionx",
+      "izumi-finance"
     ],
     "related": [
-      "flooz-trade",
-      "dydx",
-      "0x"
+      "merchant-moe",
+      "agni",
+      "fusionx"
     ]
   }
 }

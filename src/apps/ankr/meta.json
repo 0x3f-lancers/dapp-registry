@@ -1,47 +1,37 @@
 {
   "slug": "ankr",
   "name": "Ankr",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744888/web3-explorer/dapp-logos/ankr.png",
-  "category": "Infrastructure Tools",
+  "logoUrl": "https://img.logo.dev/ankr.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Wallets",
   "subcategory": [
-    "RPC Node Providers",
-    "Indexing Tools"
+    "Software Wallets"
   ],
   "chains": [
-    "Aptos",
-    "Arbitrum",
-    "Avalanche",
-    "BNB Chain",
-    "Celo",
-    "Ethereum",
-    "Fantom",
-    "Harmony",
-    "OP Mainnet",
-    "Polkadot",
-    "Polygon",
-    "Polygon zkEVM",
-    "Solana",
-    "Sui",
-    "Tron"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "Ankr is a Web3 development hub offering high-performance RPC connections to 30+ blockchains and global node infrastructure.",
-    "description": "Ankr provides high-performance RPC API connections to 30+ blockchains, backed by a global network of node infrastructure. Designed for developers, it offers a suite of advanced tools and services, including Web3 SDKs, libraries, NFT APIs, and wallet connection utilities, to streamline building Web3 apps. With nodes distributed worldwide, it delivers reliable, scalable blockchain access to power decentralized applications with speed and confidence.",
-    "meta": "Ankr offers high-performance RPC API connections to 30+ blockchains with global node infrastructure. Discover Ankr and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Ankr - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Ankr is a decentralized Web3 infrastructure provider offering globally distributed node networks, RPC services, and liquid staking solutions.",
+    "description": "Ankr is a leading Web3 infrastructure provider that enables developers to build and scale decentralized applications with ease. By providing high-performance RPC endpoints and a globally distributed network of nodes, Ankr ensures reliable and low-latency access to the Mantle Network for dApps and wallets. Additionally, Ankr's liquid staking products allow users to earn rewards on their assets while maintaining liquidity, further strengthening the DeFi landscape within the Mantle ecosystem.",
+    "meta": "Ankr provides high-performance RPC infrastructure and liquid staking solutions for Mantle. Discover Ankr on Lancers Web3 Explorer.",
+    "pageTitle": "Ankr - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.ankr.com/",
-    "twitter": "https://x.com/ankr"
+    "twitter": "https://x.com/ankr",
+    "discord": "https://discord.gg/ankr",
+    "docs": "https://www.ankr.com/docs/",
+    "github": "https://github.com/ankr-network"
   },
   "relations": {
     "alternatives": [
-      "chainstack",
-      "alchemy"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "decimal"
+      "alchemy",
+      "moralis"
     ]
   }
 }

@@ -1,32 +1,39 @@
 {
   "slug": "flipside",
   "name": "Flipside",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746980/web3-explorer/dapp-logos/flipside.png",
-  "category": "Infrastructure Tools",
+  "logoUrl": "https://img.logo.dev/flipsidecrypto.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Wallets",
   "subcategory": [
-    "Web3 Data Tools"
+    "Software Wallets"
   ],
   "chains": [
-    "Ethereum"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Flipside enables community members to create and share data insights on crypto projects.",
-    "description": "Flipside provides community-enabled crypto analytics, enabling users to create and share data insights on crypto projects they care about. It also enables thousands of analysts to learn, collaborate, and compete to solve analytical challenges through structured bounty programs using a free, open data platform.",
-    "meta": "Flipside offers community crypto analytics to share insights on crypto projects. Discover Flipside and other Infrastructure Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Flipside - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Flipside is a blockchain growth platform combining on-chain SQL analytics, wallet scoring, and community activation for Mantle ecosystem growth.",
+    "description": "Flipside Crypto is a comprehensive blockchain analytics and growth platform helping blockchain ecosystems grow through data-driven insights and community engagement. Its on-chain analytics tools allow developers and protocols to query blockchain data using SQL, while wallet scoring and community activation features help projects identify and engage high-value users for targeted growth campaigns. Flipside provides full Mantle Network data coverage and is officially recognized by the Mantle team.",
+    "meta": "Flipside provides blockchain analytics, wallet scoring, and growth tools for the Mantle ecosystem. Discover Flipside on Lancers Web3 Explorer.",
+    "pageTitle": "Flipside - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://docs.flipsidecrypto.com/",
-    "twitter": "https://x.com/flipsidecrypto"
+    "website": "https://flipsidecrypto.xyz/home/",
+    "twitter": "https://x.com/flipsidecrypto",
+    "discord": "https://discord.gg/flipside",
+    "docs": "https://docs.flipsidecrypto.com",
+    "github": "https://github.com/FlipsideCrypto",
+    "linkedin": "https://www.linkedin.com/company/flipside-crypto"
   },
   "relations": {
     "alternatives": [
-      "chainsight",
-      "ball-e"
+      "bitget-wallet",
+      "okx-wallet",
+      "tokenpocket"
     ],
     "related": [
-      "drpc"
+      "metamask",
+      "safe",
+      "okx-wallet"
     ]
   }
 }

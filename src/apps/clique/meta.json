@@ -1,0 +1,38 @@
+{
+  "slug": "clique",
+  "name": "Clique",
+  "logoUrl": "https://img.logo.dev/clique.social?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Clique is a confidential computing infrastructure provider that enables secure data attestation and identity verification for decentralized applications.",
+    "description": "Clique leverages advanced technologies like TEE, MPC, and Zero-Knowledge Proofs to provide a robust layer for confidential data and identity management. By offering secure attestation services, Clique allows protocols to verify user contributions and maintain sybil-resistance without compromising individual privacy. On the Mantle Network, Clique serves as a foundational piece of infrastructure for building private, secure, and trustless identity-based rewards systems.",
+    "meta": "Clique provides secure identity attestation and confidential computing for the Mantle ecosystem. Discover Clique on Lancers Web3 Explorer.",
+    "pageTitle": "Clique - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://clique.social/",
+    "twitter": "https://x.com/clique_social",
+    "discord": "https://discord.gg/clique",
+    "docs": "https://docs.clique.social/",
+    "github": "https://github.com/clique-social"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

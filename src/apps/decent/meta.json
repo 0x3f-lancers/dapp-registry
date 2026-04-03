@@ -1,34 +1,38 @@
 {
   "slug": "decent",
   "name": "Decent",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746335/web3-explorer/dapp-logos/decent.jpg",
-  "category": "Web3 Developer Tools",
+  "logoUrl": "https://img.logo.dev/decent.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Transaction Tools"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Ethereum",
-    "OP Mainnet",
-    "Arbitrum",
-    "Polygon",
-    "Multichain"
+    "Mantle"
   ],
-  "pricing": "Paid",
+  "pricing": "free",
   "content": {
-    "short": "Decent is crypto's payments layer uniting onchain experiences through seamless crosschain transactions.",
-    "description": "Decent serves as a payments layer for crypto, designed to unify on‑chain experiences through smooth cross‑chain transactions. It provides a fiat‑to‑crypto onramp and a single‑click cross‑chain bridge at checkout, making it easier to move value across networks without leaving the checkout flow. The platform supports Ethereum, OP Mainnet, Arbitrum, Polygon, Multichain, BNB Chain, Avalanche, and Base, enabling a broad range of connected wallets and apps to transact across chains with ease.",
-    "meta": "Decent is a crypto payments layer for seamless crosschain transactions. Discover Decent and other Web3 Developer Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Decent - Web3 Developer Tools - Lancers Web3 Explorer"
+    "short": "Decent is a cross-chain checkout and transaction protocol that enables seamless multi-chain interactions and asset movements for developers and users.",
+    "description": "Decent is an interoperability protocol that simplifies the cross-chain experience by providing 'one-click' checkouts and transactions across multiple networks. By handling complex bridging and swapping logic in the background, Decent allows users to interact with dApps on any chain using assets from another. Its integration with the Mantle Network enables developers to build friction-free onboarding experiences, allowing users to join the Mantle ecosystem from any starting network effortlessly.",
+    "meta": "Decent is a cross-chain checkout protocol for seamless multi-chain transactions on Mantle. Discover Decent on Lancers Web3 Explorer.",
+    "pageTitle": "Decent - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.decent.xyz/",
-    "twitter": "https://x.com/decentxyz"
+    "website": "https://decent.xyz/",
+    "twitter": "https://x.com/decentxyz",
+    "discord": "https://discord.gg/decent",
+    "docs": "https://docs.decent.xyz/",
+    "github": "https://github.com/decent-xyz"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "layerzero",
+      "axelar",
+      "meson"
+    ],
     "related": [
-      "sprintcheckout",
-      "fjord-foundry"
+      "stargate",
+      "axelar",
+      "meson"
     ]
   }
 }

@@ -2,32 +2,36 @@
   "slug": "defillama",
   "name": "DefiLlama",
   "logoUrl": "https://img.logo.dev/defillama.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
-  "category": "DeFi Tools",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Analytics Tools"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "TON"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "DefiLlama is the world's leading DeFi data aggregator, providing comprehensive TVL and performance tracking for TON.",
-    "description": "DefiLlama is the largest and most widely respected multi-chain DeFi data aggregator in the crypto industry. It provides exhaustive tracking of Total Value Locked (TVL), volume, and user metrics for thousands of decentralized finance protocols, including the entire TON DeFi ecosystem. By offering an unbiased and transparent view of protocol performance, DefiLlama allows users to research projects, compare yields, and monitor market trends across TON and dozens of other blockchains, making it a vital tool for any DeFi enthusiast.",
-    "meta": "Track TON DeFi TVL and performance on DefiLlama, the world's leading data aggregator. Explore on Lancers Web3 Explorer.",
-    "pageTitle": "DefiLlama - DeFi Tools - Lancers Web3 Explorer"
+    "short": "DefiLlama is the largest TVL aggregator and analytics platform for DeFi, providing transparent open-source data across all chains including Mantle.",
+    "description": "DefiLlama is the most trusted source of Total Value Locked (TVL) and DeFi analytics data across all major blockchain networks, aggregating on-chain data from hundreds of protocols with a focus on accuracy and transparent methodology. The platform offers tools for comparing yields, bridges, stablecoins, and DEX volumes across chains, making it the go-to analytics resource for the DeFi community. DefiLlama tracks all Mantle Network protocols and is fully open-source, maintained by a community of contributors.",
+    "meta": "DefiLlama is the leading DeFi TVL aggregator and analytics platform tracking all Mantle protocols. Discover DefiLlama on Lancers Web3 Explorer.",
+    "pageTitle": "DefiLlama - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://defillama.com/",
-    "twitter": "https://twitter.com/DefiLlama"
+    "twitter": "https://x.com/DefiLlama",
+    "discord": "https://discord.gg/buPFYXzDDd",
+    "github": "https://github.com/DefiLlama"
   },
   "relations": {
     "alternatives": [
-      "altitude",
-      "open-zeppelin-relay",
-      "exponential-defi"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "tonkeeper"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }

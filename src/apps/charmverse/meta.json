@@ -1,31 +1,39 @@
 {
   "slug": "charmverse",
-  "name": "Charmverse",
-  "logoUrl": "https://unavatar.io/twitter/CharmVerse",
-  "category": "DAO Tools",
+  "name": "CharmVerse",
+  "logoUrl": "https://img.logo.dev/charmverse.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Web3 Social Dapps",
   "subcategory": [
-    "DAO Project Management Tools"
+    "Web3 Social Media Dapps"
   ],
   "chains": [
-    "Ethereum",
-    "Polygon",
-    "Arbitrum",
-    "OP Mainnet",
-    "Base"
+    "Mantle"
   ],
-  "pricing": "Free",
+  "pricing": "free",
   "content": {
-    "short": "Web3 operations platform combining docs, tasks, and voting.",
-    "description": "Charmverse is a DAO Tools project focused on dao project management tools supporting Ethereum, Polygon, Arbitrum, OP Mainnet, Base.",
-    "meta": "Charmverse is a DAO Tools on Ethereum. Discover it on Lancers Web3 Explorer.",
-    "pageTitle": "Charmverse - DAO Tools - Lancers Web3 Explorer"
+    "short": "CharmVerse is an all-in-one Web3 community operations platform for DAOs to collaborate, manage proposals, and coordinate governance on Mantle.",
+    "description": "CharmVerse is an all-in-one collaboration platform designed for Web3 communities and DAOs, combining project management, forum discussions, credential management, and on-chain governance into a single workspace. Communities can manage proposals, track contributor work, reward members with credentials, and coordinate distributed teams effectively. CharmVerse is used by multiple Mantle ecosystem projects as their primary community coordination and governance hub.",
+    "meta": "CharmVerse is a Web3 community operations platform for DAOs to collaborate and govern on Mantle. Discover CharmVerse on Lancers Web3 Explorer.",
+    "pageTitle": "CharmVerse - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://charmverse.io",
-    "twitter": "https://x.com/CharmVerse"
+    "website": "https://www.charmverse.io/",
+    "twitter": "https://x.com/CharmVerse",
+    "discord": "https://discord.gg/charmverse",
+    "docs": "https://docs.charmverse.io",
+    "github": "https://github.com/charmverse",
+    "linkedin": "https://www.linkedin.com/company/charmverse"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
   }
 }

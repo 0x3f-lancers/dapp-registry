@@ -1,42 +1,37 @@
 {
   "slug": "crosscurve",
   "name": "CrossCurve",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746006/web3-explorer/dapp-logos/crosscurve.png",
-  "category": "DeFi Tools",
+  "logoUrl": "https://img.logo.dev/crosscurve.fi?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Dapps",
   "subcategory": [
-    "Web3 Bridges"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "Base",
-    "BNB Chain",
-    "Ethereum",
-    "Fantom",
-    "Linea",
-    "OP Mainnet",
-    "Polygon"
+    "Mantle"
   ],
-  "pricing": "",
+  "pricing": "free",
   "content": {
-    "short": "CrossCurve enables low-slippage cross-chain asset swaps across multiple chains using Curve's deep liquidity pools.",
-    "description": "CrossCurve tackles fragmented liquidity across blockchains by collaborating with Curve and tapping into Curve's deep liquidity pools to facilitate low-slippage cross-chain asset exchanges. The platform supports safe, cost-efficient transfers of large liquidity volumes across networks, helping to reduce bridge risk. By improving liquidity movement and capital efficiency, CrossCurve enables projects to scale more quickly while optimizing cross-network liquidity management.",
-    "meta": "CrossCurve enables low-slippage cross-chain asset swaps by leveraging Curve's deep liquidity pools. Discover CrossCurve and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "CrossCurve - DeFi Tools - Lancers Web3 Explorer"
+    "short": "CrossCurve unifies Curve Finance's $2B+ stablecoin liquidity across multiple blockchains, enabling seamless low-slippage cross-chain stablecoin trading.",
+    "description": "CrossCurve is a specialized cross-chain protocol extending Curve Finance's deep stablecoin liquidity across multiple blockchains into a unified system, enabling users to swap stablecoins and pegged assets between chains with minimal slippage and low fees by tapping into Curve's existing deep pools. Integrated with Mantle, CrossCurve brings Curve-powered cross-chain stablecoin trading to the network  providing the most capital-efficient stable asset bridge available.",
+    "meta": "CrossCurve unifies Curve Finance's liquidity across blockchains including Mantle for seamless stablecoin trading. Discover CrossCurve on Lancers Web3 Explorer.",
+    "pageTitle": "CrossCurve - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://crosscurve.fi/",
-    "twitter": "https://x.com/eywaprotocol"
+    "twitter": "https://x.com/CrossCurvefi",
+    "discord": "https://discord.gg/crosscurve",
+    "telegram": "https://t.me/crosscurve"
   },
   "relations": {
     "alternatives": [
-      "lifi",
+      "layerzero",
+      "axelar",
       "meson"
     ],
     "related": [
-      "cubanespace",
-      "starknet",
-      "areon-network"
+      "stargate",
+      "axelar",
+      "meson"
     ]
   }
 }

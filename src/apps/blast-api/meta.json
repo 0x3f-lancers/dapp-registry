@@ -1,0 +1,39 @@
+{
+  "slug": "blast-api",
+  "name": "Blast API",
+  "logoUrl": "https://img.logo.dev/blastapi.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Blast API is a decentralized Web3 API provider solving reliability and performance challenges for blockchain application developers on Mantle.",
+    "description": "Blast API is a decentralized RPC and API service that routes requests through a decentralized network of node operators, delivering high availability and geographic distribution that centralized providers cannot match. By aggregating independent node operators, Blast API improves both reliability and performance for developers building on Mantle. The platform supports Mantle Network with straightforward, developer-friendly access to blockchain data and transaction submission.",
+    "meta": "Blast API is a decentralized node provider delivering reliable blockchain API access for apps on Mantle. Discover Blast API on Lancers Web3 Explorer.",
+    "pageTitle": "Blast API - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blastapi.io/",
+    "twitter": "https://x.com/blastapi_io",
+    "discord": "https://discord.gg/blastapi",
+    "docs": "https://docs.blastapi.io",
+    "github": "https://github.com/blast-io",
+    "telegram": "https://t.me/blastapi"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

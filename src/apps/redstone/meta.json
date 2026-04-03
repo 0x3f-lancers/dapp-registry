@@ -1,0 +1,38 @@
+{
+  "slug": "redstone",
+  "name": "RedStone",
+  "logoUrl": "https://img.logo.dev/redstone.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Decentralized Oracles"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "RedStone is a modular oracle network with three flexible data delivery models supporting LSTs, LRTs, and RWAs for DeFi on Mantle.",
+    "description": "RedStone Finance is an oracle infrastructure provider offering three distinct data delivery models  Core (on-demand pull), Classic (traditional push), and X (custom)  allowing protocols to optimize for their specific latency, cost, and security requirements. RedStone supports a uniquely wide range of asset types including LSTs, LRTs, and RWAs that other oracle networks do not cover, making it particularly valuable for the emerging asset categories prominent in the Mantle ecosystem.",
+    "meta": "RedStone is a modular oracle network with flexible data delivery models for DeFi on Mantle. Discover RedStone on Lancers Web3 Explorer.",
+    "pageTitle": "RedStone - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://redstone.finance/",
+    "twitter": "https://x.com/redstone_defi",
+    "discord": "https://discord.gg/redstone",
+    "docs": "https://docs.redstone.finance",
+    "github": "https://github.com/redstone-finance",
+    "telegram": "https://t.me/redstonefinance"
+  },
+  "relations": {
+    "alternatives": [
+      "pyth",
+      "chronicle-protocol"
+    ],
+    "related": [
+      "ankr",
+      "alchemy",
+      "moralis"
+    ]
+  }
+}

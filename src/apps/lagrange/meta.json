@@ -1,37 +1,37 @@
 {
   "slug": "lagrange",
-  "name": "Lagrange",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747971/web3-explorer/dapp-logos/lagrange.png",
-  "category": "Zero Knowledge Tools",
+  "name": "LAGRANGE",
+  "logoUrl": "https://img.logo.dev/lagrange.dev?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "DeFi Tools",
   "subcategory": [
-    "ZK Developer Tools"
+    "Web3 Bridges"
   ],
   "chains": [
-    "Ethereum",
-    "OP Mainnet",
-    "Arbitrum",
-    "Base"
+    "Mantle"
   ],
-  "pricing": "Paid",
+  "pricing": "free",
   "content": {
-    "short": "Lagrange provides secure cross-chain state proofs without bridges.",
-    "description": "Lagrange focuses on improving the security and expressivity of contract state usage. It has developed ZK Big Data, a proving system that simultaneously proves storage inclusion and arbitrary distributed computation on on-chain data. Its ZK solutions enable blockchains to interact directly, allowing dApps to access real-time data such as pricing and liquidity from multiple Layer 1 and Layer 2 networks. This approach supports more interactive, data-rich on-chain applications by enabling access to real-time data across networks.",
-    "meta": "Lagrange provides secure cross-chain state proofs without bridges. Discover Lagrange and other Zero Knowledge Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Lagrange - Zero Knowledge Tools - Lancers Web3 Explorer"
+    "short": "Lagrange Labs provides zero-knowledge cross-chain state proofs enabling trustless verification of blockchain state across networks.",
+    "description": "Lagrange Labs is an infrastructure protocol specializing in zero-knowledge cross-chain state proofs, allowing smart contracts to trustlessly verify the state of other blockchains without any interactive communication. Their technology underpins secure cross-chain applications, bridges, and interoperability solutions by generating ZK proofs of blockchain consensus and storage. Lagrange is backed by the Mantle EcoFund and integrated into the Mantle ecosystem as foundational interoperability infrastructure.",
+    "meta": "Lagrange provides non-interactive ZK cross-chain state proofs for secure blockchain interoperability on Mantle. Discover Lagrange on Lancers Web3 Explorer.",
+    "pageTitle": "LAGRANGE - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.lagrange.dev/",
-    "twitter": "https://x.com/lagrangedev"
+    "twitter": "https://x.com/lagrangedev",
+    "discord": "https://discord.gg/lagrange",
+    "github": "https://github.com/Lagrange-Labs"
   },
   "relations": {
     "alternatives": [
-      "blockless",
-      "evmtools-xyz"
+      "layerzero",
+      "axelar",
+      "meson"
     ],
     "related": [
-      "polyhedra-network",
-      "astrakode-smart-contract-auditor",
-      "toolblox"
+      "stargate",
+      "axelar",
+      "meson"
     ]
   }
 }

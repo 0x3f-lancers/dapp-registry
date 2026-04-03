@@ -1,40 +1,36 @@
 {
   "slug": "simplehash",
   "name": "SimpleHash",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749879/web3-explorer/dapp-logos/simplehash.png",
-  "category": "NFT Tools",
+  "logoUrl": "https://img.logo.dev/simplehash.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "category": "NFT Dapps",
   "subcategory": [
-    "NFT APIs"
+    "NFT Marketplaces"
   ],
   "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "BNB Chain",
-    "Ethereum",
-    "Multichain",
-    "OP Mainnet",
-    "Polygon",
-    "Solana"
+    "Mantle"
   ],
-  "pricing": "Freemium",
+  "pricing": "free",
   "content": {
-    "short": "SimpleHash is a REST and webhook API to query NFT metadata, media, and transaction history across multiple chains.",
-    "description": "SimpleHash is a REST and webhook-based API that lets you query NFT metadata, media, and transaction history across multiple chains, including sales, listings, and floor prices. It indexes data from Arbitrum, Avalanche, BNB Chain, Ethereum, Multichain, OP Mainnet, Polygon, and Solana so you can access NFT data from a single API. The service handles edge cases and delivers a fast media CDN for reliable media delivery. Developers can integrate SimpleHash with just a few lines of code, enabling seamless NFT data retrieval in their applications.",
-    "meta": "SimpleHash is a REST and webhook API to query NFT metadata, media, and history across chains. Discover SimpleHash and other NFT Tools on Lancers Web3 Explorer.",
-    "pageTitle": "SimpleHash - NFT Tools - Lancers Web3 Explorer"
+    "short": "SimpleHash is a multi-chain token and NFT data API providing real-time on-chain data normalized across dozens of blockchains including Mantle.",
+    "description": "SimpleHash is a developer-focused API platform providing fast, reliable access to token and NFT data across dozens of blockchain networks, with all data normalized into a consistent schema regardless of the source chain. APIs cover token metadata, ownership data, transfer history, floor prices, and sale events. Integrated with Mantle Network, SimpleHash makes it straightforward for developers to build NFT-focused and token-focused applications on Mantle.",
+    "meta": "SimpleHash provides multi-chain token and NFT data APIs for developers building on Mantle. Discover SimpleHash on Lancers Web3 Explorer.",
+    "pageTitle": "SimpleHash - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://simplehash.com",
-    "twitter": "https://x.com/simplehashinc"
+    "website": "https://simplehash.com/",
+    "twitter": "https://x.com/simplehash",
+    "docs": "https://docs.simplehash.com/"
   },
   "relations": {
     "alternatives": [
-      "ownerfy",
-      "scamsniffer"
+      "pyth",
+      "redstone",
+      "chronicle-protocol"
     ],
     "related": [
-      "nonfungible",
-      "premint"
+      "ankr",
+      "alchemy",
+      "moralis"
     ]
   }
 }
