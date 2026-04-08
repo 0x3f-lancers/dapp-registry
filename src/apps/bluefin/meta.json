@@ -11,9 +11,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Bluefin is a high-performance DEX on Sui specializing in professional-grade perpetual trading and self-custody.",
-    "description": "Bluefin is a decentralized exchange on the Sui blockchain that focuses on providing a professional, high-performance trading experience for perpetual futures. It utilizes a hybrid orderbook model that combines an off-chain matching engine for centralized exchange-like speeds with on-chain settlement for full transparency and self-custody. This architecture allows Bluefin to offer sub-second trade finality and deep liquidity, making it an ideal platform for high-frequency traders and institutional participants seeking a decentralized alternative. The platform emphasizes ease of use with Web2-like onboarding through zkLogin, enabling users to trade using their Google accounts.",
-    "meta": "Bluefin is a high-speed DEX on Sui for professional-grade perpetual futures trading. Explore Bluefin and other DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Bluefin is a high-performance decentralized order book exchange specializing in professional derivatives trading.",
+    "description": "Bluefin is a next-generation decentralized derivatives exchange that provides a professional-grade trading experience with the speed and reliability of centralized platforms. By utilizing a high-performance on-chain order book, Bluefin enables traders to execute complex perpetual contracts with near-instant finality and minimal slippage. The platform is designed for high-frequency trading and institutional-grade liquidity, featuring a robust risk management framework and low-latency execution. Bluefin operates as a non-custodial protocol, ensuring that users maintain full control over their funds while accessing deep markets and high leverage. It represents a significant step forward in the evolution of decentralized finance, where performance meets permissionless access.",
+    "meta": "Bluefin is a premier decentralized order book exchange offering high-speed derivatives trading and professional-grade liquidity for Web3 users.",
     "pageTitle": "Bluefin - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -21,13 +21,13 @@
     "twitter": "https://x.com/BluefinApp",
     "github": "https://github.com/bluefin-exchange",
     "docs": "https://learn.bluefin.io/",
-    "telegram": "https://t.me/bluefinapp",
-    "discord": "https://discord.com/invite/bluefinapp"
+    "telegram": "https://t.me/bluefinapp"
   },
   "relations": {
     "alternatives": [
       "paradex",
-      "apex-protocol"
+      "apex-protocol",
+      "orby-network"
     ],
     "related": [
       "strkfarm",

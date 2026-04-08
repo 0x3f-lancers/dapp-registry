@@ -9,11 +9,11 @@
   "chains": [
     "Linea"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Mendi Finance is the primary decentralized lending protocol on Linea, offering interest-bearing markets for assets.",
-    "description": "Mendi Finance is the leading non-custodial decentralized lending platform built natively for the Linea network. The protocol allows users to supply various digital assets to earn interest and borrow against them as collateral in a transparent, peer-to-peer environment. Designed for maximum capital efficiency and security, Mendi Finance provides essential financial infrastructure for the Linea ecosystem, enabling participants to manage their liquidity with institutional-grade precision. Powered by the MENDI token, the protocol features a sustainable revenue-sharing model on Linea.",
-    "meta": "Mendi Finance provides decentralized lending and borrowing on Linea with revenue-sharing rewards. Explore Mendi on Lancers Web3 Explorer.",
+    "short": "Mendi Finance is a leading decentralized lending market built on the Linea network for maximum capital efficiency.",
+    "description": "Mendi Finance is a premier automated money market natively designed for the Linea ecosystem, providing users with a secure and highly efficient environment for lending and borrowing digital assets. By utilizing advanced risk management models and maintaining deep liquidity pools, Mendi ensures that participants receive competitive interest rates and high collateralization ratios. The platform features an intuitive interface and deep integration with Linea's zkEVM infrastructure, enabling fast transactions and minimal fees. Mendi Finance focuses on community-driven growth and transparency, serving as a critical engine for liquidity and decentralized asset management within the rapidly expanding Linea Layer 2 landscape.",
+    "meta": "Mendi Finance is the premier lending market on Linea, offering high-efficiency decentralized borrowing and yield-generating opportunities for Web3.",
     "pageTitle": "Mendi Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -21,17 +21,18 @@
     "twitter": "https://x.com/malda_xyz",
     "github": "https://github.com/mendi-finance",
     "docs": "https://docs.mendi.finance",
-    "telegram": "https://t.me/MendiFinance",
-    "discord": "https://discord.gg/G3vWy8cbnK"
+    "telegram": "https://t.me/MendiFinance"
   },
   "relations": {
     "alternatives": [
       "yei-finance",
-      "port-finance"
+      "port-finance",
+      "goat-protocol"
     ],
     "related": [
       "shell-protocol",
-      "maverick"
+      "maverick",
+      "7k-aggregator"
     ]
   }
 }

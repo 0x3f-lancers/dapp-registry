@@ -9,7 +9,7 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
     "short": "Infrared is a liquid staking protocol for Berachain that simplifies participation in its Proof of Liquidity.",
     "description": "Infrared is a core liquid staking protocol built natively for Berachain, designed to optimize participation in the network's Proof of Liquidity (PoL) consensus mechanism. By providing liquid versions of key assets, such as iBGT and iBERA, the platform enables users to earn rewards and participate in governance while maintaining capital liquidity. Incubated by the Berachain Foundation, Infrared serves as a vital infrastructure layer that standardizes staking and expands utility. The platform provides a non-custodial experience that ensures user sovereignty and fosters deep liquidity.",
@@ -21,8 +21,7 @@
     "twitter": "https://twitter.com/InfraredFinance",
     "github": "https://github.com/infrared-dao",
     "docs": "https://docs.infrared.finance/",
-    "telegram": "https://t.me/InfraredFi",
-    "discord": "https://discord.com/invite/infrared-finance"
+    "telegram": "https://t.me/InfraredFi"
   },
   "relations": {
     "alternatives": [
@@ -32,7 +31,8 @@
     ],
     "related": [
       "sharpe",
-      "quarry"
+      "quarry",
+      "nillaconnect"
     ]
   }
 }

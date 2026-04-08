@@ -11,17 +11,16 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Aerodrome is the central liquidity hub and primary decentralized exchange for the Base network, using a ve(3,3) model.",
-    "description": "Aerodrome Finance is the central liquidity hub and primary decentralized exchange (DEX) for the Base network, Coinbase's Layer-2. It utilizes a ve(3,3) vote-lock governance system where users lock AERO tokens to receive veAERO NFTs, granting them voting power over emissions. This model aligns the interests of traders, liquidity providers, and governors to create a sustainable growth flywheel. The protocol distributes 100% of fees and bribes to voters who direct emissions to specific pools, ensuring deep liquidity and low-slippage swaps for the entire Base DeFi ecosystem and users.",
-    "meta": "Aerodrome is the leading liquidity hub and DEX on the Base network. Discover Aerodrome and other DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Aerodrome is the central liquidity and trading hub on Base, combining Velo's tech with Base's ecosystem.",
+    "description": "Aerodrome Finance is a next-generation AMM designed to serve as the central liquidity hub for the Base network. By combining the powerful ve(3,3) flywheel mechanics pioneered by Velodrome with the rapidly growing Base ecosystem, Aerodrome provides a highly efficient trading environment for users and powerful incentives for liquidity providers. The protocol allows for optimized token swaps with low fees and minimal slippage, while its sophisticated governance system enables AERO holders to direct emissions to the most productive pools. As the primary engine for capital efficiency on Base, Aerodrome plays a critical role in the network's decentralized finance landscape.",
+    "meta": "Aerodrome is the leading decentralized exchange and liquidity hub on Base, featuring optimized swap rates and ve(3,3) governance incentives.",
     "pageTitle": "Aerodrome - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://aerodrome.finance",
     "twitter": "https://x.com/AerodromeFi",
     "github": "https://github.com/aerodrome-finance",
-    "docs": "https://aerodrome.finance/docs",
-    "discord": "https://discord.com/invite/aerodrome"
+    "docs": "https://aerodrome.finance/docs"
   },
   "relations": {
     "alternatives": [
@@ -31,7 +30,8 @@
     ],
     "related": [
       "ankr-liquid-staking",
-      "mantra-finance"
+      "mantra-finance",
+      "dsla"
     ]
   }
 }

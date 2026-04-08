@@ -11,7 +11,7 @@
     "Arbitrum",
     "Base"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
     "short": "Griffin is a decentralized protocol for creating and deploying specialized AI agents for DeFi and Web3 tasks.",
     "description": "Griffin is a decentralized protocol designed for the creation and deployment of AI agents specialized in DeFi and Web3 tasks. It features a no-code Agent Builder that allows users to develop sophisticated agents without technical expertise. These agents can automate complex on-chain operations, from portfolio management to risk assessment, enhancing efficiency. Powered by its native utility token GAIN, the project focuses on making AI accessible to the Web3 community. By providing tools for decentralized intelligence, Griffin empowers builders to create the next generation of AI-driven DeFi.",
@@ -22,14 +22,18 @@
     "website": "https://griffinai.io",
     "twitter": "https://x.com/Griffin_AI",
     "docs": "https://griffinai.io/whitepaper",
-    "telegram": "https://t.me/griffinai",
-    "discord": "https://discord.com/invite/AGZDk5BqFA"
+    "telegram": "https://t.me/griffinai"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "starknet-ecosystem",
+      "globalcryptopress",
+      "aarc"
+    ],
     "related": [
       "gensyn",
-      "bittensor"
+      "bittensor",
+      "web3-py"
     ]
   }
 }

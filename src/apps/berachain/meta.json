@@ -11,9 +11,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Berachain is a high-performance EVM-compatible Layer 1 blockchain built on Proof-of-Liquidity.",
-    "description": "Berachain is a high-performance, EVM-compatible Layer 1 blockchain that introduces a novel consensus mechanism known as Proof-of-Liquidity. Designed to align network security with application-level liquidity, the protocol incentivizes users to provide capital to decentralized applications within its ecosystem. Built on the Cosmos SDK, Berachain offers rapid transaction finality, robust security, and deep interoperability across the broader Web3 landscape.",
-    "meta": "Berachain is a high-performance EVM-compatible Layer 1 blockchain built on Proof-of-Liquidity. Discover Berachain and other Blockchains on Lancers Web3 Explorer.",
+    "short": "Berachain is a high-performance EVM-compatible Layer 1 blockchain built on the innovative Proof-of-Liquidity consensus.",
+    "description": "Berachain is a revolutionary Layer 1 blockchain that introduces 'Proof-of-Liquidity' (PoL), a novel consensus mechanism designed to align network security with ecosystem liquidity. Built using the Cosmos SDK and compatible with the Ethereum Virtual Machine (EVM), Berachain allows developers to deploy familiar dApps while benefiting from a highly capital-efficient environment. The network's three-token model (BERA, BGT, and HONEY) creates a sophisticated incentive structure where liquidity provision directly contributes to network security and governance. By prioritizing the flow of capital and creating deep on-chain liquidity, Berachain aims to foster a sustainable and high-performance ecosystem for the next generation of decentralized applications.",
+    "meta": "Berachain is a high-performance EVM-compatible Layer 1 blockchain featuring Proof-of-Liquidity for a more capital-efficient and secure Web3 ecosystem.",
     "pageTitle": "Berachain - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
@@ -21,11 +21,18 @@
     "twitter": "https://x.com/berachain",
     "github": "https://github.com/berachain",
     "docs": "https://docs.berachain.com/",
-    "telegram": "https://t.me/BerachainPortal",
-    "discord": "https://discord.com/invite/berachain"
+    "telegram": "https://t.me/BerachainPortal"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "arbitrum",
+      "avalanche",
+      "kroma"
+    ],
+    "related": [
+      "spinor",
+      "starknet",
+      "reddio"
+    ]
   }
 }

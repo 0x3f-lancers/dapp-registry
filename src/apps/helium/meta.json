@@ -9,7 +9,7 @@
   "chains": [
     "Solana"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
     "short": "Helium is a decentralized wireless network on Solana that rewards users for providing LoRaWAN and 5G coverage.",
     "description": "Helium is a decentralized physical infrastructure network (DePIN) that creates a global wireless network for IoT and 5G devices. By utilizing user-operated hotspots, Helium provides a low-cost and scalable alternative to traditional telecommunications. The network's migration to Solana has enhanced its scalability and performance, allowing for faster transactions and deeper ecosystem integration. Participants earn tokens for providing coverage and transferring data, creating a community-driven model for connectivity that democratizes access to global communication tools.",
@@ -23,11 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "nreach"
+      "nreach",
+      "unmarshal",
+      "spice-ai"
     ],
     "related": [
       "solana",
-      "phantom"
+      "phantom",
+      "ledger-mail"
     ]
   }
 }

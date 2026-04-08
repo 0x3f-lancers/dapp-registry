@@ -9,23 +9,24 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Gensyn is a decentralized AI compute protocol that connects GPU providers with researchers training ML models.",
-    "description": "Gensyn is a Layer-1 blockchain protocol creating a global, trustless marketplace for machine learning compute. By connecting providers of spare hardware with developers training AI models, Gensyn democratizes access to high-performance computing. The network uses a unique verification layer to ensure computations are performed correctly and efficiently.\n\nThe project leverages a probabilistic verification system and graph-based proofs to maintain integrity without redundant work. This approach offers a scalable, cost-effective alternative to centralized providers. Gensyn empowers researchers to build advanced machine learning applications.",
-    "meta": "Gensyn is a decentralized AI compute protocol connecting GPU providers with ML researchers. Discover Gensyn on Lancers Web3 Explorer.",
+    "short": "Gensyn is a decentralized compute protocol that provides a global marketplace for machine learning resources.",
+    "description": "Gensyn is a groundbreaking decentralized protocol designed to provide a highly scalable and cost-effective marketplace for machine learning (ML) compute power. By connecting global hardware resources into a single verifiable network, Gensyn enables developers to train complex AI models with significantly lower overhead compared to traditional centralized cloud providers. The platform features a unique verification system that ensures computational tasks are performed accurately and honestly without requiring trust in individual node operators. By democratizing access to high-end hardware, Gensyn empowers AI researchers and engineers worldwide, fostering a more inclusive and innovative future for decentralized artificial intelligence.",
+    "meta": "Gensyn is a premier decentralized machine learning compute protocol, offering a scalable and verifiable marketplace for AI model training.",
     "pageTitle": "Gensyn - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://gensyn.ai",
     "twitter": "https://twitter.com/gensynai",
     "github": "https://github.com/gensyn-ai",
-    "docs": "https://docs.gensyn.ai/",
-    "discord": "https://t.co/1agn4jNAzR"
+    "docs": "https://docs.gensyn.ai/"
   },
   "relations": {
     "alternatives": [
-      "akash-network"
+      "akash-network",
+      "presearch",
+      "maestro"
     ],
     "related": [
       "bittensor",

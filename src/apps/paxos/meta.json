@@ -9,11 +9,11 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Paxos is a regulated financial institution providing tokenized RWAs including USDP and the gold-backed PAXG.",
-    "description": "Paxos is a leading regulated blockchain infrastructure platform and financial institution, dedicated to bridging the gap between traditional finance and the decentralized economy. The platform specializes in the tokenization, custody, and settlement of high-quality real-world assets (RWAs). Paxos is the official issuer of prominent digital assets like USDP (Pax Dollar), a regulated USD-backed stablecoin, and PAXG (Pax Gold), where each token is backed by physical gold. Subject to NYDFS oversight, Paxos provides institutional-grade security and transparency for all participants.",
-    "meta": "Paxos provides regulated tokenized assets including PAXG and USDP. Discover Paxos and other Real World Asset Dapps on Lancers Web3 Explorer.",
+    "short": "Paxos is a leading regulated blockchain infrastructure platform providing tokenization and payment services.",
+    "description": "Paxos is the premier regulated blockchain infrastructure platform designed to bridge the gap between traditional finance and the digital asset ecosystem. By providing institutional-grade solutions for tokenization, custody, and settlement, Paxos enables global enterprises to integrate blockchain technology into their operations with full regulatory compliance. The platform is the issuer of several prominent stablecoins and tokenized assets, ensuring high levels of transparency and security for all participants. Paxos focuses on fostering a more inclusive and efficient global financial system, serving as a critical engine for the mass adoption of digital assets and decentralized infrastructure in the professional financial services industry.",
+    "meta": "Paxos is the leading regulated blockchain infrastructure platform, offering secure tokenization and institutional-grade payment services for Web3.",
     "pageTitle": "Paxos - Real World Asset Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -22,11 +22,14 @@
   },
   "relations": {
     "alternatives": [
-      "joinn"
+      "joinn",
+      "clearpool",
+      "centrifuge"
     ],
     "related": [
       "courtyard",
-      "huma-finance"
+      "huma-finance",
+      "mountain-protocol"
     ]
   }
 }

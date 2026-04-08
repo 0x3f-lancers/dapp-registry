@@ -12,17 +12,16 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Base Bridge is the official tool for securely transferring ETH and other assets between Ethereum and the Base network.",
-    "description": "Base Bridge is the official infrastructure for transferring assets between Ethereum and the Base network, a Layer 2 developed by Coinbase. It serves as the primary gateway for users to bridge ETH and supported tokens, enabling interaction with the diverse ecosystem of dApps on Base. The bridge operates through decentralized smart contracts, ensuring the security of all transfers. While bridging to Base is instantaneous, withdrawals follow standard security protocols for optimistic rollups. As a foundational component, the bridge lowers the barrier to entry for users seeking faster and cheaper transactions on an Ethereum-secured Layer 2 while exploring the world of decentralized apps.",
-    "meta": "Base Bridge is the official gateway for transferring assets between Ethereum and the Base network. Explore Base on Lancers Web3 Explorer.",
+    "short": "Base Bridge is the official gateway for transferring assets between Ethereum and the Base Layer 2 network.",
+    "description": "Base Bridge is the critical infrastructure component that connects the Ethereum mainnet with Base, a secure and low-cost Layer 2 network developed by Coinbase. It provides a trustless and permissionless environment for users to move ETH and other supported ERC-20 tokens between the two networks, utilizing the underlying security of the OP Stack. The bridge features an intuitive interface designed for both individual users and developers, facilitating the flow of liquidity and assets into the burgeoning Base ecosystem. By ensuring fast and reliable cross-chain transfers, the Base Bridge acts as the primary onboarding ramp for the next generation of decentralized applications and users entering the Base network.",
+    "meta": "Base Bridge is the official cross-chain gateway for securely transferring ETH and ERC-20 tokens between the Ethereum mainnet and the Base Layer 2 network.",
     "pageTitle": "Base Bridge - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://bridge.base.org/",
     "twitter": "https://x.com/base",
     "github": "https://github.com/base",
-    "docs": "https://docs.base.org/",
-    "discord": "https://discord.com/invite/buildonbase"
+    "docs": "https://docs.base.org/"
   },
   "relations": {
     "alternatives": [
