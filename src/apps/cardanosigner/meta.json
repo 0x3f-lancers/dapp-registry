@@ -9,11 +9,11 @@
   "chains": [
     "Cardano"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
     "short": "Open Source multifunction tool that can sign and verify data. It is also used for key generation.",
-    "description": "Open Source multifunction tool that can sign and verify data. It is also used for key generation, for example the creation of dRep keys as well as CCM cold and hot keys with mnemonic support.\n\nIt can sign any hexdata, textdata or binary. Cardano Signer can be used to sign payloads as well as generate and sign catalyst registration/delegation/deregistration metadata.\n\nIt also allows generation of CIP36 voting keys.\n\nIt is released under the MIT license by Martin Lang",
-    "meta": "Find out about Cardano Signer (DEVTOOL) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and...",
+    "description": "Open Source multifunction tool that can sign and verify data. It is also used for key generation, for example the creation of dRep keys as well as CCM cold and hot keys with mnemonic support. It can sign any hexdata, textdata or binary. Cardano Signer can be used to sign payloads as well as generate and sign catalyst registration/delegation/deregistration metadata. It also allows generation of CIP36 voting keys. It is released under the MIT license by Martin Lang Open Source multifunction tool that can sign and verify data.",
+    "meta": "Find out about Cardano Signer (DEVTOOL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
     "pageTitle": "Cardano Signer - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -24,7 +24,7 @@
   "relations": {
     "alternatives": [
       "0xgraph",
-      "3air"
+      "nimbus"
     ],
     "related": [
       "akash-network",

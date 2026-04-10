@@ -9,11 +9,11 @@
   "chains": [
     "Cardano"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Lightweight WebSockets bridge for cardano-node, enabling local clients to interact with Ouroboros mini-protocols via JSON/RPC",
-    "description": "Ogmios is a streamlined, lightweight WebSocket bridge for the Cardano blockchain, enabling developers to access the node's Ouroboros mini-protocols through a JSON-RPC interface. Designed for performance and ease of integration, Ogmios supports key functionalities like chain synchronization, transaction submission, ledger state queries, and mempool monitoring. Its efficient WebSocket-based communication ensures real-time, bidirectional messaging, making it an excellent choice for applications that require high-speed interactions with Cardano's ecosystem.\n\nWith a growing ecosystem of client libraries in multiple programming languages, Ogmios empowers developers to integrate Cardano functionalities seamlessly into their projects. It is particularly suited for building wallets, monitoring tools, or any application that demands direct interaction with the Cardano network.",
-    "meta": "Find out about Ogmios on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token distribution.",
+    "short": "Lightweight WebSockets bridge for cardano-node, enabling local clients to interact with Ouroboros mini-protocols.",
+    "description": "Ogmios is a streamlined, lightweight WebSocket bridge for the Cardano blockchain, enabling developers to access the node's Ouroboros mini-protocols through a JSON-RPC interface. Designed for performance and ease of integration, Ogmios supports key functionalities like chain synchronization, transaction submission, ledger state queries, and mempool monitoring. Its efficient WebSocket-based communication ensures real-time, bidirectional messaging, making it an excellent choice for applications that require high-speed interactions with Cardano's ecosystem.",
+    "meta": "Find out about Ogmios on the Cardano Blockchain, so you can make well-informed investment decisions.",
     "pageTitle": "Ogmios - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -29,8 +29,8 @@
     ],
     "related": [
       "chainsight",
-      "detools-app",
-      "blinklabs"
+      "blinklabs",
+      "0xgraph"
     ]
   }
 }

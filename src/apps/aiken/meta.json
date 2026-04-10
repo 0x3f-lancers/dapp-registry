@@ -9,11 +9,11 @@
   "chains": [
     "Cardano"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
     "short": "Cardano smart contract language and toolchain.",
-    "description": "Aiken is a modern programming language and toolkit for developing smart contracts on the Cardano blockchain. It is geared towards robustness and developer experience.\n\nAiken takes inspiration from many modern languages such as Gleam, Rust, and Elm, which are known for friendly error messages and an overall excellent developer experience. We believe Cardano deserves a dedicated language with these kinds of features, developed in the open with the community.\n\nOur main goal is to improve the smart contract development experience for the Cardano blockchain. By developing Aiken as a bespoke language, we can better align its features with what is truly needed for on-chain development.\n\nWe want to keep the language simple and manageable. In a decentralized architecture, smart contracts present a significant challenge where a single flaw can escalate into a multi-million financial exploit. More so, on-chain code typically represents a small fraction of an entire DApp source code. While writing contracts should be as straightforward as possible, smart contracts ought to be optimized for review, audit, and static analysis.\n\nHence, Aiken is not intended as a general-purpose language. Rather, it focuses on Cardano and aims for a high-quality toolkit for developing reliable smart contracts with confidence.",
-    "meta": "Find out about Aiken on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token distribution.",
+    "description": "Aiken is a modern programming language and toolkit for developing smart contracts on the Cardano blockchain. It is geared towards robustness and developer experience. Aiken takes inspiration from many modern languages such as Gleam, Rust, and Elm, which are known for friendly error messages and an overall excellent developer experience. We believe Cardano deserves a dedicated language with these kinds of features, developed in the open with the community. Our main goal is to improve the smart contract development experience for the Cardano blockchain.",
+    "meta": "Find out about Aiken on the Cardano Blockchain, so you can make well-informed investment decisions.",
     "pageTitle": "Aiken - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -31,8 +31,8 @@
     ],
     "related": [
       "o7node",
-      "3air",
-      "lava-network"
+      "lava-network",
+      "aleno-ai"
     ]
   }
 }

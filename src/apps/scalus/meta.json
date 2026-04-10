@@ -9,11 +9,11 @@
   "chains": [
     "Cardano"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
     "short": "Scala implementation of Plutus.",
-    "description": "Scalus allows the development of DApps using Scala programming language and it is the Plutus platform implemented in Scala.\n\nScalus converts code written in Scala into UPLC, the native Cardano Plutus script that is executed on-chain. Scalus uses similar aproach to IOG Haskell Plutus implementation.\n\nScala is multiplatform, it compiles to Java, JavaScript, and LLVM. This means that you can use one language to write the full DApp: you smart contract, frontend and backend. And easily integrate with other code in TypeScript, JavaScript, Java, Kotlin, or even Rust.",
-    "meta": "Find out about Scalus (SCALUS) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token di...",
+    "description": "Scalus allows the development of DApps using Scala programming language and it is the Plutus platform implemented in Scala. Scalus converts code written in Scala into UPLC, the native Cardano Plutus script that is executed on-chain. Scalus uses similar aproach to IOG Haskell Plutus implementation. Scala is multiplatform, it compiles to Java, JavaScript, and LLVM. This means that you can use one language to write the full DApp: you smart contract, frontend and backend. And easily integrate with other code in TypeScript, JavaScript, Java, Kotlin, or even Rust.",
+    "meta": "Find out about Scalus (SCALUS) on the Cardano Blockchain, so you can make well-informed investment decisions.",
     "pageTitle": "Scalus - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -24,8 +24,8 @@
   "relations": {
     "alternatives": [
       "nuvola",
-      "wolfradar",
-      "oscar2-network"
+      "ethermail",
+      "pycardano"
     ],
     "related": [
       "opshin",

@@ -9,11 +9,11 @@
   "chains": [
     "Cardano"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
     "short": "We provide an instant and scalable Cardano API for free.",
-    "description": "API for Cardano decentralized blockchain. Accessing and processing information stored on the blockchain is not trivial. We provide abstraction between you and blockchain data, taking away the burden of complexity, so you can focus on what really matters - developing your applications.\n\nOur basic tier is and always will be free of charge. We nurture development and the Cardano ecosystem. However, if you want to support us, please consider upgrading. We run, build, love and deeply care about open-source. We plan to release our backends as an open-source project in the near future. For now, we do open-source most of our tooling and the specification.",
-    "meta": "Find out about Blockfrost (API) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token d...",
+    "description": "API for Cardano decentralized blockchain. Accessing and processing information stored on the blockchain is not trivial. We provide abstraction between you and blockchain data, taking away the burden of complexity, so you can focus on what really matters - developing your applications. Our basic tier is and always will be free of charge. We nurture development and the Cardano ecosystem. However, if you want to support us, please consider upgrading. We run, build, love and deeply care about open-source.",
+    "meta": "Find out about Blockfrost (API) on the Cardano Blockchain, so you can make well-informed investment decisions.",
     "pageTitle": "Blockfrost - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,9 +23,9 @@
   },
   "relations": {
     "alternatives": [
-      "mardano",
       "minswap",
-      "wingriders"
+      "wingriders",
+      "optimism-eth-faucet"
     ],
     "related": [
       "empowa",

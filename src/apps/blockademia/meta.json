@@ -9,11 +9,11 @@
   "chains": [
     "Cardano"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
     "short": "Decentralized system for issuing and verifying documents on Cardano blockchain.",
-    "description": "Blockademia is a system that wants to tackle the issue of certificate forgeries. Whether it is a falsified certificate, credential or a diploma it often causes significant economic losses, reputation problems and even danger to human life.\n\nBlockademia wants to solve this by allowing institutions or businesses who issue certificates to issue them on the Cardano blockchain. When a certificate is issued on the blockchain, it cannot be edited or deleted, it is stored there permanently. Blockademia will allow Issuers to issue certificates through the web or mobile interface and other users will always be able to verify the authenticity of the certificate through the same interface.\n\nImagine having a QR code for your faculty diploma, your personal ID, your certificate of having a black belt in judo, or your evening cooking class degree. All of them are stored on-chain forever and whenever someone doubts it you can verify its authenticity through a phone app.\n\nBasically, any kind of credential can be issued through Blockademia with a few simple steps. Some of the targeted entities are faculties, high schools, government institutions, adult education institutions, etc.\n\nBlockademia will take advantage of the decentralized nature of blockchain technology to prevent tampering with the issued certificates. Blockchain transactions are immutable and thousands of blockchain nodes keep a copy of the whole ledger of issued transactions. Cryptographic encryption ensures that any bad actor trying to tamper with the ledger will be immediately excluded from the network.\n\nBlockademia will use Cardano as its blockchain of choice. Cardano is an open-source and decentralized blockchain project with a layered architecture that is composed of two main elements, the Cardano Settlement Layer (CSL) and the Cardano Computational Layer (CCL), which makes Cardano truly unique. Most other existing blockchain platforms only function with a single layer, which often causes network congestion, slows transactions, and drives fees higher. Currently, there are around 3000 block-producing nodes running Cardano around the world. These nodes ensure the security of the network and the immutability of the ledger.\n\nBlockademia will create its own native token (ACI) on top of the Cardano network. This token will be used for payments and interaction with the Blockademia system.\n\nKeep on the lookout for our next post where we will go more into details about ACI!\n\n‍",
-    "meta": "Find out about Blockademia (ACI) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token ...",
+    "description": "Blockademia is a system that wants to tackle the issue of certificate forgeries. Whether it is a falsified certificate, credential or a diploma it often causes significant economic losses, reputation problems and even danger to human life. Blockademia wants to solve this by allowing institutions or businesses who issue certificates to issue them on the Cardano blockchain. When a certificate is issued on the blockchain, it cannot be edited or deleted, it is stored there permanently.",
+    "meta": "Find out about Blockademia (ACI) on the Cardano Blockchain, so you can make well-informed investment decisions.",
     "pageTitle": "Blockademia - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -25,12 +25,12 @@
   },
   "relations": {
     "alternatives": [
-      "epoch-art",
-      "metahell"
+      "adapools",
+      "paradiso"
     ],
     "related": [
-      "defipronto",
-      "cardao"
+      "yield-yak",
+      "mimo"
     ]
   }
 }

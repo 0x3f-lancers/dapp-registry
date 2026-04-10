@@ -9,11 +9,11 @@
   "chains": [
     "Cardano"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Hydra is the layer-two scalability solution for Cardano, which aims to increase the speed of transactions (low latency, high throughput) and minimize transaction cost.",
-    "description": "Hydra is the layer-two scalability solution for Cardano, which aims to increase the speed of transactions (low latency, high throughput) and minimize transaction cost. Hydra Head is the first in this protocol suite, providing the foundation on which to build out further scalability.\n\nThe Hydra Head protocol allows applications to process transactions off-chain in a highly configurable ledger, but still using the same transaction format and tools as with Cardano. Hydra nodes establish a communication path between two or more participants, creating a secure isomorphic state channel where participants can process transactions using a simpler consensus algorithm.",
-    "meta": "Find out about Hydra on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token distribution.",
+    "short": "Hydra is the layer-two scalability solution for Cardano, which aims to increase the speed of transactions (low.",
+    "description": "Hydra is the layer-two scalability solution for Cardano, which aims to increase the speed of transactions (low latency, high throughput) and minimize transaction cost. Hydra Head is the first in this protocol suite, providing the foundation on which to build out further scalability. The Hydra Head protocol allows applications to process transactions off-chain in a highly configurable ledger, but still using the same transaction format and tools as with Cardano.",
+    "meta": "Find out about Hydra on the Cardano Blockchain, so you can make well-informed investment decisions.",
     "pageTitle": "Hydra - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -24,9 +24,9 @@
   },
   "relations": {
     "alternatives": [
-      "dogeada",
       "oada",
-      "antfarm-finance"
+      "antfarm-finance",
+      "rosen-bridge"
     ],
     "related": [
       "lovada",
