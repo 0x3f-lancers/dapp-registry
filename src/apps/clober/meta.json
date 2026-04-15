@@ -1,7 +1,7 @@
 {
   "slug": "clober",
   "name": "Clober",
-  "logoUrl": "https://unavatar.io/twitter/cloberdex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339948/dapp-store-logos/clober.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,6 +12,7 @@
     "Arbitrum",
     "Polygon"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
     "short": "Clober is a fully on-chain order book protocol that enables high-performance spot trading on EVM networks.",
@@ -21,9 +22,9 @@
   },
   "links": {
     "website": "https://clober.io",
-    "twitter": "https://x.com/cloberdex",
     "github": "https://github.com/clober-dex",
-    "docs": "https://docs.clober.io/"
+    "docs": "https://docs.clober.io/",
+    "twitter": "https://x.com/cloberdex"
   },
   "relations": {
     "alternatives": [

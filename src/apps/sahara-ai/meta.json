@@ -1,10 +1,15 @@
 {
   "slug": "sahara-ai",
   "name": "Sahara AI",
-  "logoUrl": "https://unavatar.io/twitter/SaharaAI",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775722071/dapp-store-logos/sahara-ai.jpg",
   "category": "Blockchains",
-  "subcategory": ["Layer 1 Blockchains (L1s)"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
   "pricing": "",
   "content": {
     "short": "Sahara AI is a decentralized AI blockchain network designed for the equitable ownership and sharing of AI assets.",
@@ -17,7 +22,15 @@
     "twitter": "https://twitter.com/SaharaAI"
   },
   "relations": {
-    "alternatives": ["allora-network", "polymesh", "vana"],
-    "related": ["mantle", "berachain", "abstract-chain"]
+    "alternatives": [
+      "allora-network",
+      "polymesh",
+      "vana"
+    ],
+    "related": [
+      "mantle",
+      "berachain",
+      "abstract-chain"
+    ]
   }
 }
