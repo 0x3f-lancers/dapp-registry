@@ -1,0 +1,39 @@
+{
+  "slug": "backed-finance",
+  "name": "Backed Finance",
+  "logoUrl": "https://unavatar.io/twitter/backedfi",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Tokenized equities RWAs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Base"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Backed Finance bridges the gap between traditional finance and DeFi through regulated tokenized real-world assets.",
+    "description": "Backed Finance is a regulated Swiss platform that specializes in the tokenization of real-world assets (RWAs), such as stocks, ETFs, and corporate bonds. By issuing fully collateralized and transparent 'bTokens' on the blockchain, Backed enables users to gain 24/7 access to traditional financial instruments within a decentralized environment. Each token is backed 1:1 by the underlying asset held in custody by regulated institutions, ensuring full legal compliance and security. The protocol allows DeFi applications to integrate stable, yield-bearing assets from the traditional economy, fostering a more resilient and diversified digital asset ecosystem that connects global capital markets with the innovations of Web3.",
+    "meta": "Backed Finance provides regulated tokenized real-world assets, enabling the seamless integration of traditional financial instruments into the DeFi ecosystem.",
+    "pageTitle": "Backed Finance - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://backed.fi",
+    "twitter": "https://x.com/backedfi",
+    "github": "https://github.com/backed-fi",
+    "docs": "https://docs.backed.fi/"
+  },
+  "relations": {
+    "alternatives": [
+      "aria",
+      "fabrica",
+      "securitize"
+    ],
+    "related": [
+      "gomining",
+      "honeybricks",
+      "propbase"
+    ]
+  }
+}

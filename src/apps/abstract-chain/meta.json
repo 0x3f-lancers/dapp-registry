@@ -1,0 +1,37 @@
+{
+  "slug": "abstract-chain",
+  "name": "Abstract Chain",
+  "logoUrl": "https://unavatar.io/twitter/AbstractChain",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Abstract is a consumer-focused Layer 2 blockchain built on Ethereum using the ZK stack for high speed and low costs.",
+    "description": "Abstract is a highly scalable Ethereum Layer 2 network developed by Igloo Inc. to bring decentralized applications to the masses. Built on the zkSync ZK stack and leveraging EigenDA for data availability, Abstract offers a high-performance environment with near-instant transactions and extremely low fees. It focuses on the 'Consumer Crypto' category, prioritizing gaming, social media, and culture-driven apps. The network introduces the Abstract Global Wallet, allowing users to interact with dApps using passkeys and social logins, effectively abstracting away the complexities of blockchain technology for a seamless onboarding experience.",
+    "meta": "Abstract is a ZK-powered Ethereum Layer 2 designed for consumer applications, offering high speed, low fees, and a frictionless user experience.",
+    "pageTitle": "Abstract Chain - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://abs.xyz/",
+    "twitter": "https://x.com/AbstractChain",
+    "github": "https://github.com/Abstract-Foundation",
+    "docs": "https://docs.abs.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "cartesi",
+      "gosh",
+      "manta-network"
+    ],
+    "related": [
+      "shardeum",
+      "injective-protocol",
+      "areon-network"
+    ]
+  }
+}

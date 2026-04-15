@@ -1,7 +1,7 @@
 {
   "slug": "connext",
   "name": "Connext",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745867/web3-explorer/dapp-logos/connext.png",
+  "logoUrl": "https://unavatar.io/twitter/connextnetwork",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -9,32 +9,23 @@
   "chains": [
     "Ethereum",
     "Polygon",
-    "Avalanche",
     "BNB Chain",
     "Arbitrum",
     "OP Mainnet"
   ],
-  "pricing": "",
+  "pricing": "Free",
   "content": {
-    "short": "Connext is a composable bridge for the blockchain.",
-    "description": "Connext enables users to interact across multiple blockchain networks without needing to identify the underlying chain, delivering seamless cross‑chain composability for decentralized applications. It operates a decentralized network of routers that earn rewards by facilitating bridge activity and by contributing to the security and resilience of the system. By abstracting the underlying chains—such as Ethereum, Polygon, Avalanche, BNB Chain, Arbitrum, and OP Mainnet—Connext supports smooth, interoperable experiences for apps and users alike.",
-    "meta": "Connext is a composable bridge for the blockchain. Discover Connext and other DeFi Tools on Lancers Web3 Explorer.",
+    "short": "Composable bridge for cross-chain transactions.",
+    "description": "Connext is a DeFi Tools project focused on web3 bridges supporting Ethereum, Polygon, BNB Chain, Arbitrum, OP Mainnet, Gnosis.",
+    "meta": "Connext is a DeFi Tools on Ethereum. Discover it on Lancers Web3 Explorer.",
     "pageTitle": "Connext - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.connext.network/",
+    "website": "https://connext.network",
     "twitter": "https://x.com/connextnetwork"
   },
   "relations": {
-    "alternatives": [
-      "umbira-network",
-      "router-protocol",
-      "seif-finance"
-    ],
-    "related": [
-      "cartesi",
-      "immutablex",
-      "starknet"
-    ]
+    "alternatives": [],
+    "related": []
   }
 }

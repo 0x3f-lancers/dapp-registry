@@ -1,0 +1,36 @@
+{
+  "slug": "hop-aggregator",
+  "name": "Hop Aggregator",
+  "logoUrl": "https://unavatar.io/twitter/hopexchange",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Sui"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Hop Aggregator is a comprehensive cross-chain bridge aggregator that finds the most efficient paths for asset transfers.",
+    "description": "Hop Aggregator is a powerful omnichain infrastructure tool designed to simplify and optimize the process of moving assets across diverse Layer 2 networks and Ethereum. As a comprehensive bridge aggregator, Hop scans multiple liquidity providers and bridging protocols to identify the fastest and most cost-effective paths for any given transaction. Users can seamlessly swap and bridge tokens in a single step, significantly reducing the complexity and risk associated with cross-chain DeFi. The platform features an intuitive interface and advanced routing logic that accounts for gas costs and execution time. By acting as a central discovery layer for liquidity, Hop is an essential component for navigating the fragmented Web3 landscape.",
+    "meta": "Hop Aggregator is a premier omnichain bridge aggregator, providing optimized cross-chain asset transfers and deep liquidity discovery for Web3 users.",
+    "pageTitle": "Hop Aggregator - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hop.ag",
+    "twitter": "https://x.com/hopexchange",
+    "docs": "https://docs.hop.ag/"
+  },
+  "relations": {
+    "alternatives": [
+      "messinaone-bridge",
+      "across",
+      "wanchain-bridge"
+    ],
+    "related": [
+      "capitoday",
+      "pheasant-network",
+      "coinmarketcap-api"
+    ]
+  }
+}

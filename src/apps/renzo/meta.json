@@ -1,0 +1,37 @@
+{
+  "slug": "renzo",
+  "name": "Renzo",
+  "logoUrl": "https://unavatar.io/twitter/RenzoProtocol",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Linea"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Renzo is a liquid restaking protocol on EigenLayer that abstracts restaking complexities via the ezETH LRT token.",
+    "description": "Renzo is a premier liquid restaking protocol built natively on EigenLayer, designed to simplify and maximize rewards for Ethereum participants. By allowing users to deposit ETH or Liquid Staking Tokens (LSTs), the protocol issues ezETH, a highly composable Liquid Restaked Token (LRT). This allows participants to simultaneously earn Ethereum staking rewards and additional yields from Actively Validated Services (AVS) on the EigenLayer network, effectively amplifying their capital efficiency. Operating across major networks including Ethereum, Arbitrum, and Linea, Renzo serves users.",
+    "meta": "Renzo provides liquid restaking through ezETH, enabling users to earn multiple yield layers. Discover Renzo on the Lancers Web3 Explorer today.",
+    "pageTitle": "Renzo - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://earn.renzoprotocol.com/",
+    "twitter": "https://twitter.com/RenzoProtocol"
+  },
+  "relations": {
+    "alternatives": [
+      "haedal",
+      "earnpark",
+      "sanctum"
+    ],
+    "related": [
+      "tokenlon",
+      "hord",
+      "convex-finance"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "mantle",
+  "name": "Mantle",
+  "logoUrl": "https://unavatar.io/twitter/0xMantle",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Mantle is a high-performance modular Ethereum Layer 2 network that prioritizes scalability and data availability.",
+    "description": "Mantle is a pioneering modular Ethereum Layer 2 network designed to provide a highly scalable and secure environment for decentralized applications. By utilizing a unique architecture that separates data availability from execution through its integration with EigenDA, Mantle offers significantly higher throughput and lower costs compared to traditional rollups. The network is fully compatible with existing Ethereum developer tools and smart contracts, allowing for a seamless transition for both developers and users. Mantle focuses on fostering a vibrant ecosystem of dApps, from high-frequency DeFi to large-scale gaming, serving as a critical engine for the mass adoption of Ethereum and the next generation of decentralized innovation.",
+    "meta": "Mantle is a premier modular Ethereum Layer 2 network, offering high scalability, low fees, and robust data availability for decentralized applications.",
+    "pageTitle": "Mantle - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mantle.xyz",
+    "twitter": "https://twitter.com/0xMantle",
+    "github": "https://github.com/mantlenetworkio",
+    "docs": "https://docs.mantle.xyz",
+    "telegram": "https://t.me/mantlenetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "abstract-chain",
+      "starknet",
+      "op-mainnet"
+    ],
+    "related": [
+      "kyve-network",
+      "astar",
+      "spinor"
+    ]
+  }
+}

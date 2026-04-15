@@ -1,0 +1,35 @@
+{
+  "slug": "trustaai",
+  "name": "Trusta.AI",
+  "logoUrl": "https://unavatar.io/twitter/TrustaLabs",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Web3 Credit Scoring Tools"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Trusta is a decentralized reputation and identity protocol providing AI-driven credit scoring and Sybil detection.",
+    "description": "Trusta is a pioneering decentralized identity and reputation protocol designed to verify on-chain behavior for Web3 users and AI agents. The platform features the MEDIA Score, a comprehensive metric that assesses reputation based on Monetary value, Engagement, Diversity, Identity, and Age of the account. This allows projects to distinguish high-quality human participants from bots and Sybil attackers in a transparent manner. By utilizing advanced AI algorithms, Trusta provides developers with robust tools like TrustScan for proactive risk management and user profiling.",
+    "meta": "Trusta provides AI-powered on-chain reputation scoring and Sybil detection tools for decentralized identity. Discover Trusta on Lancers Web3 Explorer.",
+    "pageTitle": "Trusta - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.trustalabs.ai",
+    "twitter": "https://twitter.com/TrustaLabs"
+  },
+  "relations": {
+    "alternatives": [
+      "moni-social-api",
+      "reclaim-protocol",
+      "spectral-finance"
+    ],
+    "related": [
+      "hashkey-did",
+      "repute-x",
+      "disco"
+    ]
+  }
+}

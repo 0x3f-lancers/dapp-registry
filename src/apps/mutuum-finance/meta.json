@@ -1,0 +1,36 @@
+{
+  "slug": "mutuum-finance",
+  "name": "Mutuum Finance",
+  "logoUrl": "https://unavatar.io/twitter/mutuumfinance",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Mutuum Finance is a decentralized, non-custodial lending and borrowing protocol on Aptos.",
+    "description": "Mutuum Finance is a sophisticated liquidity protocol on the Aptos blockchain that employs a hybrid lending model. It combines Peer-to-Contract (P2C) mechanics for highly liquid assets like stablecoins with Peer-to-Peer (P2P) functionality for more volatile or niche tokens. This architecture ensures optimal capital efficiency and deep liquidity across a wide range of asset classes, providing users with a secure and flexible platform for decentralized finance. The protocol aims to revolutionize on-chain credit by offering tailored interest rate models and robust risk management for every user.",
+    "meta": "Mutuum Finance offers decentralized lending and borrowing on Aptos with a hybrid P2C/P2P model. Discover Mutuum Finance and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Mutuum Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.mutuum.com",
+    "twitter": "https://twitter.com/mutuumfinance",
+    "docs": "https://docs.mutuum.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "timeswap",
+      "init-capital",
+      "hashstack"
+    ],
+    "related": [
+      "slingshot-finance",
+      "minu-swap",
+      "renzo"
+    ]
+  }
+}

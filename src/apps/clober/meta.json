@@ -1,0 +1,40 @@
+{
+  "slug": "clober",
+  "name": "Clober",
+  "logoUrl": "https://unavatar.io/twitter/cloberdex",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Arbitrum",
+    "Polygon"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Clober is a fully on-chain order book protocol that enables high-performance spot trading on EVM networks.",
+    "description": "Clober is a sophisticated decentralized exchange protocol that brings the efficiency and precision of a central limit order book (CLOB) entirely on-chain. Unlike traditional AMMs, Clober allows users to place limit orders and execute trades with zero slippage, providing a professional trading experience that is fully transparent and non-custodial. The protocol's architecture is optimized for low gas consumption and high throughput, making it a powerful foundation for building advanced financial applications on EVM-compatible networks. By prioritizing capital efficiency and deep liquidity, Clober aims to revolutionize decentralized spot trading, offering retail and institutional users a superior alternative to centralized exchanges.",
+    "meta": "Clober provides a high-performance, fully on-chain order book for decentralized spot trading with zero slippage and professional-grade tools.",
+    "pageTitle": "Clober - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://clober.io",
+    "twitter": "https://x.com/cloberdex",
+    "github": "https://github.com/clober-dex",
+    "docs": "https://docs.clober.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "dedust",
+      "ekubo",
+      "agni-finance"
+    ],
+    "related": [
+      "blasterswap",
+      "ankr-liquid-staking",
+      "stryke"
+    ]
+  }
+}

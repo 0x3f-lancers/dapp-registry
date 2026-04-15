@@ -1,0 +1,40 @@
+{
+  "slug": "immunefi",
+  "name": "Immunefi",
+  "logoUrl": "https://unavatar.io/twitter/immunefi",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Web3 Security Competitions"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Immunefi is the leading bug bounty platform for Web3, protecting billions in user funds from exploits.",
+    "description": "Immunefi is the premier decentralized security platform and bug bounty host specifically designed for the Web3 ecosystem. By connecting top-tier security researchers with leading blockchain projects, Immunefi ensures that potential vulnerabilities are identified and remediated before they can be exploited. The platform features a transparent and incentive-driven marketplace where ethical hackers earn significant rewards for their contributions to network safety. With its robust verification process and deep expertise in smart contract security, Immunefi has saved billions of dollars in user funds, fostering a more secure and resilient decentralized landscape for everyone.",
+    "meta": "Immunefi is the leading Web3 bug bounty platform, connecting projects with security researchers to protect user funds and ensure on-chain safety.",
+    "pageTitle": "Immunefi - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://immunefi.com",
+    "twitter": "https://twitter.com/immunefi",
+    "github": "https://github.com/immunefi-team",
+    "docs": "https://docs.immunefi.foundation/",
+    "telegram": "https://t.me/immunefi"
+  },
+  "relations": {
+    "alternatives": [
+      "capture-the-ether",
+      "gas-puzzles",
+      "damn-vulnerable-defi"
+    ],
+    "related": [
+      "quillshield",
+      "solidity-shield",
+      "securedapp"
+    ]
+  }
+}

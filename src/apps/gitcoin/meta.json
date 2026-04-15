@@ -1,0 +1,40 @@
+{
+  "slug": "gitcoin",
+  "name": "Gitcoin",
+  "logoUrl": "https://unavatar.io/twitter/gitcoin",
+  "category": "DAO Tools",
+  "subcategory": [
+    "DAO Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "Arbitrum",
+    "Polygon"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Gitcoin is a leading decentralized platform focused on funding and building open-source software communities.",
+    "description": "Gitcoin is a foundational decentralized protocol designed to support the development and funding of public goods and open-source software. Through its innovative Quadratic Funding mechanism, Gitcoin ensures that community contributions are matched with institutional funding in a way that prioritizes projects with the broadest community support. The platform features a suite of tools for project discovery, bounty management, and hackathon organization, fostering a vibrant and collaborative ecosystem for developers. Gitcoin's commitment to decentralization and community-driven governance makes it a critical pillar of the Web3 landscape, empowering creators to build a more open, inclusive, and rewarding digital future.",
+    "meta": "Gitcoin is the leading platform for funding open-source projects, utilizing Quadratic Funding to build and support Web3 public goods.",
+    "pageTitle": "Gitcoin - DAO Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gitcoin.co",
+    "twitter": "https://twitter.com/gitcoin",
+    "github": "https://github.com/gitcoinco",
+    "docs": "https://gov.gitcoin.co/"
+  },
+  "relations": {
+    "alternatives": [
+      "mirror",
+      "sourcecred",
+      "mint-kudos"
+    ],
+    "related": [
+      "snapshot",
+      "tally",
+      "daostack"
+    ]
+  }
+}

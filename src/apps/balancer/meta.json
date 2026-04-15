@@ -1,15 +1,21 @@
 {
   "slug": "balancer",
   "name": "Balancer",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745149/web3-explorer/dapp-logos/balancer.svg",
+  "logoUrl": "https://unavatar.io/twitter/Balancer",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum"
+  ],
   "pricing": "Free",
   "content": {
-    "short": "Balancer is a popular automated portfolio manager and DeFi trading platform on Ethereum.",
-    "description": "Since its 2020 launch, Balancer is one of the preferred automated market makers on Ethereum, featuring self-balancing weighted portfolios that enhance capital efficiency and arbitrage opportunities for participants. Liquidity providers can contribute up to eight assets, each assigned a percentage weight and automatically rebalanced to maintain the intended allocation. Balancer pools coordinate interactions among traders, pools, and liquidity providers with the aim of delivering the best price across multiple pools.",
-    "meta": "Balancer is a popular automated portfolio manager and DeFi trading platform on Ethereum. Discover Balancer and other Web3 apps on Lancers Web3 Explorer.",
+    "short": "Decentralized exchange and automated portfolio manager.",
+    "description": "Balancer is a DeFi Dapps project focused on decentralized exchanges (dexs) supporting Ethereum, Polygon, Arbitrum.",
+    "meta": "Balancer is a DeFi Dapps on Ethereum. Discover it on Lancers Web3 Explorer.",
     "pageTitle": "Balancer - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -17,7 +23,7 @@
     "twitter": "https://x.com/Balancer"
   },
   "relations": {
-    "alternatives": ["airswap", "rubic"],
-    "related": ["marginly", "bumper-finance", "hakka-finance"]
+    "alternatives": [],
+    "related": []
   }
 }

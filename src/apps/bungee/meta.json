@@ -1,0 +1,36 @@
+{
+  "slug": "bungee",
+  "name": "Bungee",
+  "logoUrl": "https://unavatar.io/twitter/BungeeExchange",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Bungee is an advanced omnichain bridge aggregator that finds the most efficient paths for cross-chain transfers.",
+    "description": "Bungee is a powerful omnichain infrastructure tool designed to simplify and optimize the process of moving assets across diverse blockchain networks. As a comprehensive bridge aggregator, Bungee scans multiple liquidity providers and bridging protocols to identify the fastest and most cost-effective paths for any given transaction. Users can seamlessly swap and bridge tokens in a single step, significantly reducing the complexity and risk associated with cross-chain DeFi. The platform features an intuitive interface and advanced routing logic that accounts for gas costs, slippage, and execution time. By acting as a central discovery layer for liquidity, Bungee is an essential component for navigating the fragmented multi-chain Web3 landscape.",
+    "meta": "Bungee is the premier omnichain bridge aggregator, providing optimized cross-chain asset transfers and deep liquidity discovery for Web3 users.",
+    "pageTitle": "Bungee - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bungee.exchange",
+    "twitter": "https://x.com/BungeeExchange",
+    "docs": "https://docs.bungee.exchange/"
+  },
+  "relations": {
+    "alternatives": [
+      "across",
+      "debridge",
+      "symbiosis"
+    ],
+    "related": [
+      "moni",
+      "chainlink",
+      "seda"
+    ]
+  }
+}

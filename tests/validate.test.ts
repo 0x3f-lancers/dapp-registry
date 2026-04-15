@@ -165,6 +165,7 @@ describe("Validation Script (scripts/validate.ts)", () => {
     expect(MOCKED_PROCESS_EXIT).not.toHaveBeenCalled();
   });
 
+
   it("should fail validation for non-existent relation", async () => {
     const invalidMetaData = {
       ...VALID_META_DATA,
