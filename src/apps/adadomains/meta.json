@@ -1,36 +1,35 @@
 {
-  "slug": "adadomains",
-  "name": "AdaDomains.io",
-  "logoUrl": "https://cdn.cardanocube.com/oibk0qqow5b09pxsbaise7s16mft",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "Web3 Data Tools"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "The first domain based project on Cardano!",
-    "description": "We want to build the first solution to owning your custom .ada blockchain domain as a native NFT on Cardano. This will introduce the possibility of sending payments directly to your domain instead of your wallet address. You will also be able to store customizable data on the blockchain to be displayed by a regular browser via your personal domain. Inspired by decentralized naming projects on other blockchains we want to bring you a better and cheaper solution by utilizing native tokens on Cardano.",
-    "meta": "Find out about AdaDomains.io (AdaDomains) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "AdaDomains.io - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.adadomains.io",
-    "docs": "https://www.adadomains.io/white_paper.pdf",
-    "twitter": "https://twitter.com/adadomains_io",
-    "discord": "https://discord.gg/QnYFfzY5RZ"
-  },
-  "relations": {
-    "alternatives": [
-      "vezgo",
-      "cardanosigner",
-      "adamail"
-    ],
-    "related": [
-      "cardanoballot",
-      "optimism-eth-faucet"
-    ]
-  }
+    "slug":  "adadomains",
+    "name":  "AdaDomains.io",
+    "logoUrl":  "https://cdn.cardanocube.com/oibk0qqow5b09pxsbaise7s16mft",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Web3 Data Tools"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "AdaDomains is a Cardano naming system that lets users own .ada domains as NFTs and resolve them to wallets, websites, and contact data.",
+                    "description":  "AdaDomains is a blockchain-based naming system built on Cardano as a decentralized alternative to traditional DNS. In the project’s model, each domain is represented by NFTs that identify the domain itself and its ownership, while associated data is stored on-chain in UTXOs with inline datums. The system is designed so human-readable .ada names can resolve to Cardano wallet addresses, regular or IPFS-hosted websites, socials, contact details, and other custom attributes. AdaDomains also supports subdomains and third-party integrations that want to use Cardano-based name resolution.",
+                    "meta":  "Find out about AdaDomains.io (AdaDomains) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "AdaDomains.io - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.adadomains.io/",
+                  "twitter":  "https://x.com/adadomains_io",
+                  "docs":  "https://www.adadomains.io/white_paper.pdf"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "vezgo",
+                                           "agora",
+                                           "anastasia-labs"
+                                       ],
+                      "related":  [
+                                      "optimism-eth-faucet",
+                                      "blinklabs"
+                                  ]
+                  }
 }

@@ -1,36 +1,34 @@
 {
-  "slug": "oada",
-  "name": "OADA",
-  "logoUrl": "https://cdn.cardanocube.com/1jx8fdv8o7g5g5zmpj1kwnowlm0v",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "ADA synthetic always backed 1:1 with ADA . Superior yields, enhanced governance, and DeFi composability.",
-    "description": "OADA is the newest DeFi product by Optim Finance. It is an innovative ADA derivative system that provides the first real yield aggregation dApp on Cardano. ADA deposited into the system to mint OADA is deployed productively into strategies via Algorithmic Market Operations [AMOs] to generate yield for users. The system utilizes two tokens: OADA and sOADA. OADA is pegged to ADA but doesn't receive any yield. sOADA is staked OADA.",
-    "meta": "Find out about OADA (OADA) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "OADA - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://app.optim.finance/dashboard",
-    "docs": "https://github.com/OptimFinance/public-documents/blob/main/The_OADA_System.pdf",
-    "twitter": "https://x.com/OptimFi",
-    "discord": "https://discord.gg/syJrc3vq"
-  },
-  "relations": {
-    "alternatives": [
-      "bamboo-relay",
-      "minswap",
-      "wingriders"
-    ],
-    "related": [
-      "jasper-vault",
-      "avata"
-    ]
-  }
+    "slug":  "oada",
+    "name":  "OADA",
+    "logoUrl":  "https://cdn.cardanocube.com/1jx8fdv8o7g5g5zmpj1kwnowlm0v",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "ADA synthetic always backed 1:1 with ADA . Superior yields, enhanced governance, and DeFi composability.",
+                    "description":  "OADA is the newest DeFi product by Optim Finance. It is an innovative ADA derivative system that provides the first real yield aggregation dApp on Cardano. ADA deposited into the system to mint OADA is deployed productively into strategies via Algorithmic Market Operations [AMOs] to generate yield for users. The system utilizes two tokens: OADA and sOADA. OADA is pegged to ADA but doesn\u0027t receive any yield. sOADA is staked OADA.",
+                    "meta":  "Find out about OADA (OADA) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "OADA - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://app.optim.finance/dashboard",
+                  "twitter":  "https://x.com/optimfi"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "bamboo-relay",
+                                           "minswap",
+                                           "wingriders"
+                                       ],
+                      "related":  [
+                                      "jasper-vault",
+                                      "avata"
+                                  ]
+                  }
 }

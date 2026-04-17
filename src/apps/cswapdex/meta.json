@@ -1,37 +1,37 @@
 {
-  "slug": "cswapdex",
-  "name": "CSWAP DEX",
-  "logoUrl": "https://cdn.cardanocube.com/jw7ij0jw0d2psptbdnrhr2ag7acx",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "A progressive DEX for the Cardano Ecosystem, merging next-generation DEX capabilities with NFTfi.",
-    "description": "CSWAP DEX was born from a grassroots movement and community-driven passion. On the CSWAP DEX platform, there will be interesting opportunities unavailable elsewhere. Our innovative approach to decentralized finance will delight users. The CSWAP DEX financial platform will be fully decentralized and trustless, featuring cutting-edge, Plutus V2 smart contract integration. We intend to provide a seamless user experience for all major Cardano wallets. Yoroi, Nami, Eternl, Flint, and Gerowallet have already been integrated.",
-    "meta": "Find out about CSWAP DEX ($CSWAP) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "CSWAP DEX - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.cswap.info",
-    "docs": "https://docs.cswap.info/information/cswap-lightpaper",
-    "twitter": "https://twitter.com/CswapDEX",
-    "telegram": "https://t.me/CswapDEX"
-  },
-  "relations": {
-    "alternatives": [
-      "deltadefi",
-      "melegaswap",
-      "jones-dao"
-    ],
-    "related": [
-      "wafini",
-      "cardanopet-registry",
-      "silo-finance"
-    ]
-  }
+    "slug":  "cswapdex",
+    "name":  "CSWAP DEX",
+    "logoUrl":  "https://cdn.cardanocube.com/jw7ij0jw0d2psptbdnrhr2ag7acx",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "A progressive DEX for the Cardano Ecosystem, merging next-generation DEX capabilities with NFTfi.",
+                    "description":  "CSWAP DEX was born from a grassroots movement and community-driven passion. On the CSWAP DEX platform, there will be interesting opportunities unavailable elsewhere. Our innovative approach to decentralized finance will delight users. The CSWAP DEX financial platform will be fully decentralized and trustless, featuring cutting-edge, Plutus V2 smart contract integration. We intend to provide a seamless user experience for all major Cardano wallets. Yoroi, Nami, Eternl, Flint, and Gerowallet have already been integrated.",
+                    "meta":  "Find out about CSWAP DEX ($CSWAP) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "CSWAP DEX - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.cswap.info/",
+                  "twitter":  "https://x.com/cswapdex",
+                  "telegram":  "https://t.me/CswapDEX",
+                  "docs":  "https://docs.cswap.fi/information/cswap-dex-paper"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "deltadefi",
+                                           "melegaswap",
+                                           "jones-dao"
+                                       ],
+                      "related":  [
+                                      "wafini",
+                                      "cardanopet-registry",
+                                      "silo-finance"
+                                  ]
+                  }
 }

@@ -1,34 +1,34 @@
 {
-  "slug": "minswap",
-  "name": "Minswap",
-  "logoUrl": "https://cdn.cardanocube.com/f4uiark8n11kaw03kryptcnmbvyt",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Minswap is a multi-pool decentralized exchange on Cardano. Swap with minimal cost, minimal time and maximal.",
-    "description": "Minswap is a multi-pool decentralized exchange on Cardano.Swap tokens with minimal cost, minimal time and maximal convenience. We aim to bring an innovative multi-model asset pool decentralized exchange to the Cardano blockchain. Minswap aims to be the best liquidity provider on the market by integrating the best asset pool models from across the DEX ecosystem into one protocol. The combination of stable pools, multi-asset pools, and concentrated liquidity will benefit both traders and liquidity providers. We are fair launch with no pre-sales.",
-    "meta": "Find out about Minswap (MIN) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Minswap - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://minswap.org",
-    "docs": "https://docs.minswap.org/whitepaper",
-    "twitter": "https://twitter.com/MinswapDEX"
-  },
-  "relations": {
-    "alternatives": [
-      "defx",
-      "fortuna"
-    ],
-    "related": [
-      "ledgity",
-      "genius-yield"
-    ]
-  }
+    "slug":  "minswap",
+    "name":  "Minswap",
+    "logoUrl":  "https://cdn.cardanocube.com/f4uiark8n11kaw03kryptcnmbvyt",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Minswap is a multi-pool decentralized exchange on Cardano. Swap with minimal cost, minimal time and maximal.",
+                    "description":  "Minswap is a multi-pool decentralized exchange on Cardano.Swap tokens with minimal cost, minimal time and maximal convenience. We aim to bring an innovative multi-model asset pool decentralized exchange to the Cardano blockchain. Minswap aims to be the best liquidity provider on the market by integrating the best asset pool models from across the DEX ecosystem into one protocol. The combination of stable pools, multi-asset pools, and concentrated liquidity will benefit both traders and liquidity providers. We are fair launch with no pre-sales.",
+                    "meta":  "Find out about Minswap (MIN) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Minswap - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://minswap.org/",
+                  "twitter":  "https://x.com/minswapdex",
+                  "docs":  "https://docs.minswap.org/get-started/whitepaper"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "defx",
+                                           "lovelace-academy"
+                                       ],
+                      "related":  [
+                                      "ledgity",
+                                      "genius-yield"
+                                  ]
+                  }
 }

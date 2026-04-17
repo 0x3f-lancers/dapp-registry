@@ -1,36 +1,34 @@
 {
-  "slug": "securitybot",
-  "name": "SecurityBot",
-  "logoUrl": "https://cdn.cardanocube.com/nergocfwrzejiytboy6d7n3ujreu",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "SecurityBot is the premier scam prevention Discord bot to protect your NFT community.",
-    "description": "SecurityBot is the premier scam prevention Discord bot for the Cardano NFT community. With features such as automatically banning known scammers, impersonation prevention, link detection, scam detection, channel locks, bot purging, and much more, SecurityBot makes it much easier to protect your community from scams. SecurityBot is trusted by over 90 communities, including some of the largest in the Cardano ecosystem including Clay Nation, Equine, JPG Store, Hosky, and much more! SecurityBot is the premier scam prevention Discord bot for the Cardano NFT.",
-    "meta": "Find out about SecurityBot (TOOL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "SecurityBot - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://securitybot.info",
-    "docs": "https://github.com/yHSJ/SecurityBot-Documentation",
-    "twitter": "https://x.com/SecurityBot_",
-    "discord": "https://discord.gg/JWy9bSqpYJ"
-  },
-  "relations": {
-    "alternatives": [
-      "adastat",
-      "the-lobster-coin",
-      "harvest"
-    ],
-    "related": [
-      "moox",
-      "cryptodragons-den"
-    ]
-  }
+    "slug":  "securitybot",
+    "name":  "SecurityBot",
+    "logoUrl":  "https://cdn.cardanocube.com/nergocfwrzejiytboy6d7n3ujreu",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "SecurityBot will handle the Discord scammers, so you can build value for your community.",
+                    "description":  "Protect your Discord community from scams, phishing, and malicious actors. SecurityBot is the leading scam prevention bot for Web3 and NFT servers. Known Scammer Network Take advantage of the entire SecurityBot network to automatically ban known scammers from your community before they\u0027re even a problem. Bot Purging SecurityBot\u0027s anti-raid features like automated bot purging and in-channel CAPTCHA-based verification keep your Discord server free from bot attacks, without impacting real members.",
+                    "meta":  "Find out about SecurityBot (TOOL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "SecurityBot - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://securitybot.info/",
+                  "twitter":  "https://x.com/securitybot_"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "adastat",
+                                           "the-lobster-coin",
+                                           "harvest"
+                                       ],
+                      "related":  [
+                                      "moox",
+                                      "cryptodragons-den"
+                                  ]
+                  }
 }

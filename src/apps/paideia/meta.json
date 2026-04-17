@@ -1,38 +1,37 @@
 {
-  "slug": "paideia",
-  "name": "Paideia",
-  "logoUrl": "https://cdn.cardanocube.com/lwkkg65ofbrtrhc213cge5yaqh97",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Paideia is a DAO management software suite, designed to make it easy for anyone to create, manage and be involved.",
-    "description": "Paideia is an organization built on both Ergo and Cardano blockchains whose purpose is to create a functional, secure, and well-documented DAO software suite that supports DAOs as they form and develop. It will make it easy for anyone to initiate a DAO, distribute tokens using various methods, create proposals and collect votes. It will help various organizations share funds in a secure and fair way. Anyone who needs to manage a treasury as a group will benefit from these tools.",
-    "meta": "Find out about Paideia (PAI) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Paideia - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.paideia.im/about",
-    "docs": "https://docs.paideia.im",
-    "twitter": "https://twitter.com/PaideiaDAO",
-    "telegram": "https://t.me/paideiaDAO",
-    "discord": "https://discord.com/invite/J3KDrtCFEn"
-  },
-  "relations": {
-    "alternatives": [
-      "oada",
-      "tminusone",
-      "hydra-head-protocol"
-    ],
-    "related": [
-      "geniusx",
-      "landano",
-      "adapeepos-fren"
-    ]
-  }
+    "slug":  "paideia",
+    "name":  "Paideia",
+    "logoUrl":  "https://cdn.cardanocube.com/lwkkg65ofbrtrhc213cge5yaqh97",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Paideia is an organization whose purpose is to create a functional, secure, and well-documented DAO software suite that supports DAOs as they form and develop.",
+                    "description":  "It will make it easy for anyone to initiate a DAO, distribute tokens using various methods, create proposals and collect votes. It will help various organizations share funds in a secure and fair way. Through Paideia, DAOs can distribute governance tokens, raise funds, manage their treasury, create proposals on expenditures or governance, have a forum for stakeholders to discuss all ideas and proposals, and easily deploy their funds to achieve their goals.",
+                    "meta":  "Find out about Paideia (PAI) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Paideia - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.paideia.im/about",
+                  "twitter":  "https://x.com/paideiadao",
+                  "telegram":  "https://t.me/paideiaDAO",
+                  "docs":  "https://docs.paideia.im/"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "oada",
+                                           "tminusone",
+                                           "minswap"
+                                       ],
+                      "related":  [
+                                      "geniusx",
+                                      "landano",
+                                      "mithrandir-coin"
+                                  ]
+                  }
 }

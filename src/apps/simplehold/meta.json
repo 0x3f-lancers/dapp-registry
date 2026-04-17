@@ -1,37 +1,35 @@
 {
-  "slug": "simplehold",
-  "name": "SimpleHold",
-  "logoUrl": "https://cdn.cardanocube.com/jq0f5zdtainnwvoxymrl885yyo93",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "SimpleHold is a light wallet that was created by the SimpleSwap team with the main focus on safety and usability.",
-    "description": "The wallet is easy to use. We clearly understand that the possibility to get lost in all those crypto wallets is really high, so we've decided to design a perfect tool to make the whole process simpler and smoother for you. What are the strongest features of SimpleHold? First, it is super easy to install and use, so you go straight to explore the cryptocurrency space without any delay; Next, the interface is clean and smart, so you'll never mess anything up and can find anything you want as quick as possible; Then, it supports a wide range of existing.",
-    "meta": "Find out about SimpleHold (WALLET) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "SimpleHold - Web3 Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://simplehold.io",
-    "docs": "https://simplehold.io/faq",
-    "twitter": "https://twitter.com/SimpleHold",
-    "telegram": "https://t.me/simplehold_io"
-  },
-  "relations": {
-    "alternatives": [
-      "alfa1",
-      "bitcoincom-wallet",
-      "ironwallet"
-    ],
-    "related": [
-      "xverse",
-      "narval",
-      "shift-crypto"
-    ]
-  }
+    "slug":  "simplehold",
+    "name":  "SimpleHold",
+    "logoUrl":  "https://cdn.cardanocube.com/jq0f5zdtainnwvoxymrl885yyo93",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "SimpleHold is a light wallet that was created by the SimpleSwap team with the main focus on safety and usability.",
+                    "description":  "The wallet is easy to use. We clearly understand that the possibility to get lost in all those crypto wallets is really high, so we\u0027ve decided to design a perfect tool to make the whole process simpler and smoother for you. What are the strongest features of SimpleHold? First, it is super easy to install and use, so you go straight to explore the cryptocurrency space without any delay; Next, the interface is clean and smart, so you\u0027ll never mess anything up and can find anything you want as quick as possible; Then, it supports a wide range of existing.",
+                    "meta":  "Find out about SimpleHold (WALLET) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "SimpleHold - Web3 Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://simplehold.io/",
+                  "twitter":  "https://x.com/simplehold"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "alfa1",
+                                           "bitcoincom-wallet",
+                                           "ironwallet"
+                                       ],
+                      "related":  [
+                                      "xverse",
+                                      "narval",
+                                      "shift-crypto"
+                                  ]
+                  }
 }

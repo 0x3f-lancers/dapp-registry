@@ -1,35 +1,35 @@
 {
-  "slug": "staking-rewards-calculator",
-  "name": "Staking Rewards Calculator",
-  "logoUrl": "https://cdn.cardanocube.com/2rbs4zzugsco59jqp1smcu5ukrqk",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "Web3 Data Tools"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Advanced calculators that shows how much return and and volatile this if ADA is delegated to a certain Stake Pool.",
-    "description": "The calculator shows how much reward can be expected for Pools with different parameters and different settings of the Cardano network. The calculator also estimates how much variability in the return can be expected by running a Monte Carlo simulation What does the calculator do? Shows the expected annual return of a stake pool for the operator and the delegators. Shows the distribution of these returns using a Monte Carlo simulation, this is particularly important for smaller pools where the range of rewards can be much higher or lower than expected due to.",
-    "meta": "Find out about Staking Rewards Calculator (CALC) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Staking Rewards Calculator - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://dynamicstrategies.io/crewardcalculator",
-    "docs": "https://forum.cardano.org/t/staking-reward-calculator/53914",
-    "twitter": "https://twitter.com/dynamic_io"
-  },
-  "relations": {
-    "alternatives": [
-      "bitquery",
-      "ascn",
-      "orcfax"
-    ],
-    "related": [
-      "mailchain",
-      "chainnodes"
-    ]
-  }
+    "slug":  "staking-rewards-calculator",
+    "name":  "Staking Rewards Calculator",
+    "logoUrl":  "https://cdn.cardanocube.com/2rbs4zzugsco59jqp1smcu5ukrqk",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Web3 Data Tools"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Advanced calculators that shows how much return and and volatile this if ADA is delegated to a certain Stake Pool.",
+                    "description":  "The calculator shows how much reward can be expected for Pools with different parameters and different settings of the Cardano network. The calculator also estimates how much variability in the return can be expected by running a Monte Carlo simulation What does the calculator do? Shows the expected annual return of a stake pool for the operator and the delegators. Shows the distribution of these returns using a Monte Carlo simulation, this is particularly important for smaller pools where the range of rewards can be much higher or lower than expected due to.",
+                    "meta":  "Find out about Staking Rewards Calculator (CALC) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Staking Rewards Calculator - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://dynamicstrategies.io/crewardcalculator/",
+                  "twitter":  "https://x.com/dynamic_io",
+                  "docs":  "https://forum.cardano.org/t/staking-reward-calculator/53914"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "bitquery",
+                                           "ascn",
+                                           "orcfax"
+                                       ],
+                      "related":  [
+                                      "mailchain",
+                                      "chainnodes"
+                                  ]
+                  }
 }

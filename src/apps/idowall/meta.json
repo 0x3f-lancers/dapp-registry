@@ -1,36 +1,35 @@
 {
-  "slug": "idowall",
-  "name": "Idowall",
-  "logoUrl": "https://cdn.cardanocube.com/le1anx2q7a6ifs2gg32cu26f23dp",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Access multiple IDO and Pre-Sale listings of Native Cardano Tokens, from multiple launchpads displaying advanced.",
-    "description": "Our Vision is to simplify and accelerate projects building on the Cardano ecosystem and at the same time give users an in-depth look at any Cardano IDO Project while making their DYOR. When fully Launched, IDOWALL Token Sales Pad will provide a safe platform for any user to research, manage, and quantify their current and future IDOs (Initial Dex Offerings) and Token Pre-sales on the Cardano ecosystem.",
-    "meta": "Find out about Idowall ($WALL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Idowall - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://idowall.com",
-    "docs": "https://idowall.com/IDOWALL-Whitepapaer-V1-latest.pdf",
-    "twitter": "https://twitter.com/idowallprojects",
-    "telegram": "https://t.me/idowall"
-  },
-  "relations": {
-    "alternatives": [
-      "1delta",
-      "lidonation"
-    ],
-    "related": [
-      "dopex",
-      "cardano-city",
-      "polkaswap"
-    ]
-  }
+    "slug":  "idowall",
+    "name":  "Idowall",
+    "logoUrl":  "https://cdn.cardanocube.com/le1anx2q7a6ifs2gg32cu26f23dp",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Access multiple IDO and Pre-Sale listings of Native Cardano Tokens, from multiple launchpads displaying advanced.",
+                    "description":  "Our Vision is to simplify and accelerate projects building on the Cardano ecosystem and at the same time give users an in-depth look at any Cardano IDO Project while making their DYOR. When fully Launched, IDOWALL Token Sales Pad will provide a safe platform for any user to research, manage, and quantify their current and future IDOs (Initial Dex Offerings) and Token Pre-sales on the Cardano ecosystem.",
+                    "meta":  "Find out about Idowall ($WALL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Idowall - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://idowall.com/",
+                  "twitter":  "https://x.com/idowallprojects",
+                  "telegram":  "https://t.me/idowall"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "1delta",
+                                           "lidonation"
+                                       ],
+                      "related":  [
+                                      "dopex",
+                                      "cardano-city",
+                                      "polkaswap"
+                                  ]
+                  }
 }

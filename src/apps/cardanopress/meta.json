@@ -1,36 +1,34 @@
 {
-  "slug": "cardanopress",
-  "name": "CardanoPress",
-  "logoUrl": "https://cdn.cardanocube.com/z0razyrk1jxi71o9b3y3pp6xnbzx",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "CardanoPress is a plugin for WordPress that helps you easily create a Cardano powered website!",
-    "description": "CardanoPress is revolutionizing the WordPress ecosystem by seamlessly integrating Cardano blockchain capabilities. The brainchild behind this innovation aimed to provide users a way to effortlessly incorporate Cardano DApps into their websites, eliminating complex coding barriers. Much like how Marlowe simplifies the creation of Cardano smart contracts through a visual interface, CardanoPress becomes the WordPress answer for easy Cardano integration.",
-    "meta": "Find out about CardanoPress (WORDPRESS) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "CardanoPress - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://cardanopress.io",
-    "docs": "https://cardanopress.io/docs",
-    "twitter": "https://twitter.com/CardanoPress",
-    "discord": "https://discord.gg/CEX4aSfkXF"
-  },
-  "relations": {
-    "alternatives": [
-      "rubicon",
-      "flooz-trade",
-      "metrom"
-    ],
-    "related": [
-      "cryptobusfm",
-      "erasure"
-    ]
-  }
+    "slug":  "cardanopress",
+    "name":  "CardanoPress",
+    "logoUrl":  "https://cdn.cardanocube.com/z0razyrk1jxi71o9b3y3pp6xnbzx",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "CardanoPress is a plugin for WordPress that helps you easily create a Cardano powered website!",
+                    "description":  "CardanoPress is revolutionizing the WordPress ecosystem by seamlessly integrating Cardano blockchain capabilities. The brainchild behind this innovation aimed to provide users a way to effortlessly incorporate Cardano DApps into their websites, eliminating complex coding barriers. Much like how Marlowe simplifies the creation of Cardano smart contracts through a visual interface, CardanoPress becomes the WordPress answer for easy Cardano integration.",
+                    "meta":  "Find out about CardanoPress (WORDPRESS) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "CardanoPress - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://cardanopress.io/",
+                  "twitter":  "https://x.com/cardanopress"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "rubicon",
+                                           "flooz-trade",
+                                           "metrom"
+                                       ],
+                      "related":  [
+                                      "cryptobusfm",
+                                      "erasure"
+                                  ]
+                  }
 }

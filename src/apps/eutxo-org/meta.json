@@ -1,35 +1,34 @@
 {
-  "slug": "eutxo-org",
-  "name": "eUTxO.org",
-  "logoUrl": "https://cdn.cardanocube.com/4z2n8wg2nr7q1hln575edugxmds7",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Explore the Cardano blockchain like never before with our visually stunning blockchain explorer.",
-    "description": "A blockchain explorer like you've never seen before. Understanding the blockchain and the eUTXO model can be complicated, but with our tool, you can easily and quickly get the information you need. Cardano blocks: a world of discovery. Experience the full power of Cardano's decentralized ecosystem with our comprehensive blockchain explorer. Dive deep into the world of NFTs, transactions, and native tokens, and uncover the hidden gems of the Cardano blockchain. A blockchain explorer like you've never seen before.",
-    "meta": "Find out about eUTxO.org on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "eUTxO.org - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://eutxo.org",
-    "docs": "https://eutxo.org/about",
-    "twitter": "https://x.com/oravecpeter",
-    "discord": "https://discord.com/channels/1030552051777802341"
-  },
-  "relations": {
-    "alternatives": [
-      "XchangeOn",
-      "shapeshift"
-    ],
-    "related": [
-      "fcondex",
-      "fcondex"
-    ]
-  }
+    "slug":  "eutxo-org",
+    "name":  "eUTxO.org",
+    "logoUrl":  "https://cdn.cardanocube.com/4z2n8wg2nr7q1hln575edugxmds7",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "eUTxO.org Visual Blockchain Explorer for Cardano Explore the Cardano blockchain like never before with our visually stunning blockchain explorer.",
+                    "description":  "eUTxO.org Visual Blockchain Explorer for Cardano. Dive deep into the details of every transaction and block with our easy-to-use interface. eUTxO.org is a blockchain explorer for Cardano. It doesn\u0027t try to be like other blockchain explorers, but it goes its own way. Simply, beautifully and visually, that\u0027s eutxo.org. Explore the Cardano blockchain like never before with our visually stunning blockchain explorer.",
+                    "meta":  "Find out about eUTxO.org on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "eUTxO.org - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://eutxo.org/",
+                  "twitter":  "https://x.com/oravecpeter",
+                  "docs":  "https://eutxo.org/about"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "XchangeOn",
+                                           "shapeshift"
+                                       ],
+                      "related":  [
+                                      "fcondex",
+                                      "fcondex"
+                                  ]
+                  }
 }

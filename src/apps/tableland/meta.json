@@ -1,37 +1,37 @@
 {
-  "slug": "tableland",
-  "name": "Tableland",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750582/web3-explorer/dapp-logos/tableland.png",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "Web3 Data Tools"
-  ],
-  "chains": [
-    "Ethereum",
-    "Polygon",
-    "Arbitrum",
-    "OP Mainnet"
-  ],
-  "pricing": "",
-  "content": {
-    "short": "Tableland is an open source, permissionless cloud database built on SQLite.",
-    "description": "Tableland is a web3 SQL database designed for use on EVM-compatible chains, including Ethereum and Layer 2 networks. It expands and enhances data storage by delegating data accessibility to a decentralized validator network that observes the host chain for updates, making SQL data available to applications. Developers can leverage Tableland to scale, mutate, and retrieve chain-driven data—covering on-chain rules and identity—across Ethereum, Optimism, Arbitrum One, Arbitrum Nova, Polygon, and Filecoin.",
-    "meta": "Tableland is an open source, permissionless cloud database built on SQLite. Discover Tableland and other Infrastructure Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Tableland - Web3 Developer Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://tableland.xyz",
-    "twitter": "https://x.com/tableland"
-  },
-  "relations": {
-    "alternatives": [
-      "aesirx",
-      "vektor",
-      "cardano-tip-bot"
-    ],
-    "related": [
-      "icy-tools",
-      "moonly"
-    ]
-  }
+    "slug":  "tableland",
+    "name":  "Tableland",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750582/web3-explorer/dapp-logos/tableland.png",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Web3 Data Tools"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Polygon",
+                   "Arbitrum",
+                   "OP Mainnet"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Tableland is an open source, permissionless cloud database built on SQLite.",
+                    "description":  "Tableland is a web3 SQL database designed for use on EVM-compatible chains, including Ethereum and Layer 2 networks. It expands and enhances data storage by delegating data accessibility to a decentralized validator network that observes the host chain for updates, making SQL data available to applications. Developers can leverage Tableland to scale, mutate, and retrieve chain-driven data—covering on-chain rules and identity—across Ethereum, Optimism, Arbitrum One, Arbitrum Nova, Polygon, and Filecoin.",
+                    "meta":  "Tableland is an open source, permissionless cloud database built on SQLite. Discover Tableland and other Infrastructure Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Tableland - Web3 Developer Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://tableland.xyz",
+                  "twitter":  "https://x.com/tableland"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "aesirx",
+                                           "vektor",
+                                           "poolinfo"
+                                       ],
+                      "related":  [
+                                      "icy-tools",
+                                      "moonly"
+                                  ]
+                  }
 }

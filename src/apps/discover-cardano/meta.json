@@ -1,36 +1,35 @@
 {
-  "slug": "discover-cardano",
-  "name": "Discover Cardano",
-  "logoUrl": "https://cdn.cardanocube.com/wunelm6on1aqj9fdnjk20em2kieg",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Raising awareness of the Cardano ecosystem.",
-    "description": "Discover Cardano aims to help onboard more people to the ecosystem by raising awareness of the opportunities upon it. Discover Cardano aims to help onboard more people to the ecosystem by raising awareness of the opportunities upon it. Raising awareness of the Cardano ecosystem. Raising awareness of the Cardano ecosystem. Find out about Discover Cardano (EDUCATION) on the Cardano Blockchain, so you can make well-informed investment decisions. Get immediate access to the project Website, Social Media, Whitepaper and Token distribution.",
-    "meta": "Find out about Discover Cardano (EDUCATION) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Discover Cardano - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://DiscoverCardano.com",
-    "docs": "https://DiscoverCardano.com",
-    "twitter": "https://twitter.com/discovercardano"
-  },
-  "relations": {
-    "alternatives": [
-      "shadow-exchange",
-      "increment-finance",
-      "mantra-finance"
-    ],
-    "related": [
-      "adapad",
-      "usdm",
-      "martify"
-    ]
-  }
+    "slug":  "discover-cardano",
+    "name":  "Discover Cardano",
+    "logoUrl":  "https://cdn.cardanocube.com/wunelm6on1aqj9fdnjk20em2kieg",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Discover Cardano is an educational project focused on helping more people understand and navigate the Cardano ecosystem.",
+                    "description":  "Discover Cardano presents itself as an onboarding and awareness project for the Cardano ecosystem. Its goal is to help more people understand the opportunities available across Cardano by giving them easier access to project information, ecosystem resources, and learning material. In practice, the platform is positioned as a discovery layer for users who want to explore Cardano projects, follow ecosystem developments, and get oriented before they engage more deeply with the network.",
+                    "meta":  "Find out about Discover Cardano (EDUCATION) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Discover Cardano - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://discovercardano.io/",
+                  "twitter":  "https://x.com/discovercardano"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "shadow-exchange",
+                                           "increment-finance",
+                                           "mantra-finance"
+                                       ],
+                      "related":  [
+                                      "usdm",
+                                      "martify",
+                                      "encoins"
+                                  ]
+                  }
 }

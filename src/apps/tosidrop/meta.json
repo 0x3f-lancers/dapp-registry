@@ -1,37 +1,36 @@
 {
-  "slug": "tosidrop",
-  "name": "TosiDrop",
-  "logoUrl": "https://cdn.cardanocube.com/49tb0bcwbdo64eltaz3tpzubihgg",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "Web3 Data Tools"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "An all-encompassing token distribution platform for the Cardano and Ergo blockchains the two most decentralized.",
-    "description": "TosiDrop is a token distribution platform on Cardano and Ergo that allows projects in the ecosystem to seamlessly distribute tokens to their community members. Our mission is to contribute to decentralization by allowing projects to distribute tokens to their community members in a secure manner. Our vision is to deliver world-class blockchain experiences safely, securely, and maximally decentralized.",
-    "meta": "Find out about TosiDrop ($cTOSI) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "TosiDrop - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://tosidrop.me",
-    "docs": "https://medium.com/@tosidrop/tosidrop-litepaper-aca31158168b",
-    "twitter": "https://twitter.com/TosiDrop",
-    "telegram": "https://t.me/TosiDropReal",
-    "discord": "https://discord.gg/TosiDrop"
-  },
-  "relations": {
-    "alternatives": [
-      "spot-check",
-      "cryptofonts"
-    ],
-    "related": [
-      "chainjet",
-      "pooltool",
-      "cardanoballot"
-    ]
-  }
+    "slug":  "tosidrop",
+    "name":  "TosiDrop",
+    "logoUrl":  "https://cdn.cardanocube.com/49tb0bcwbdo64eltaz3tpzubihgg",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Web3 Data Tools"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "An all-encompassing token distribution platform for the Cardano and Ergo blockchains the two most decentralized.",
+                    "description":  "TosiDrop is a token distribution platform on Cardano and Ergo that allows projects in the ecosystem to seamlessly distribute tokens to their community members. Our mission is to contribute to decentralization by allowing projects to distribute tokens to their community members in a secure manner. Our vision is to deliver world-class blockchain experiences safely, securely, and maximally decentralized.",
+                    "meta":  "Find out about TosiDrop ($cTOSI) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "TosiDrop - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://tosidrop.me/",
+                  "twitter":  "https://x.com/tosidrop",
+                  "telegram":  "https://t.me/TosiDropReal",
+                  "docs":  "https://medium.com/@tosidrop/tosidrop-litepaper-aca31158168b"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "cryptofonts",
+                                           "staking-rewards-calculator"
+                                       ],
+                      "related":  [
+                                      "chainjet",
+                                      "tangocrypto",
+                                      "txpipe"
+                                  ]
+                  }
 }

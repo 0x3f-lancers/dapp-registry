@@ -1,38 +1,36 @@
 {
-  "slug": "lend7",
-  "name": "Lend7",
-  "logoUrl": "https://cdn.cardanocube.com/e5xnvgawxm280we7rqatroept5n3",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "Web3 Data Tools"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "LEND7 is a platform for tokenizing real estate assets, allowing an NFT token holder to buy and retain ownership.",
-    "description": "Lend7 is a platform for tokenising real estate assets, allowing an NFT token holder to buy and retain ownership rights and protections provided by traditional real estate ownership. Our main goal of the project is to decentralise the real estate market, making big business available for small investors all with the help of blockchain technology. Lend7 is a platform for tokenising real estate assets, allowing an NFT token holder to buy and retain ownership rights and protections provided by traditional real estate ownership.",
-    "meta": "Find out about Lend7 ($LNDS) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Lend7 - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://lend7.com",
-    "docs": "https://lend7.com/static/media/whitepaper.9fd8afef24f5420c6fd1.pdf",
-    "twitter": "https://twitter.com/Lend7_com",
-    "telegram": "https://t.me/LEND7com",
-    "discord": "https://discord.com/invite/G7AZY3c5Tz"
-  },
-  "relations": {
-    "alternatives": [
-      "minswap",
-      "wingriders",
-      "helios"
-    ],
-    "related": [
-      "prysm",
-      "pocket-portal",
-      "presearch"
-    ]
-  }
+    "slug":  "lend7",
+    "name":  "Lend7",
+    "logoUrl":  "https://cdn.cardanocube.com/e5xnvgawxm280we7rqatroept5n3",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Web3 Data Tools"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Tokenize real-world assets, fractionalize ownership, and participate in cross-border fundraising made simple, transparent, and compliant.",
+                    "description":  "LEND7 enables asset-backed fundraising using blockchain technology. Development Project kicks off. The developer unlocks milestone-based payments aligned with the project plan, while LEND7 carefully reviews and validates all submitted documents to ensure accuracy and compliance. All projects in LEND7 platform will be secured by mortgage of real estate, and the mortgaged property must be insured by Developer providing an insurance agreement to LEND7.",
+                    "meta":  "Find out about Lend7 ($LNDS) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Lend7 - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://lend7.com/",
+                  "twitter":  "https://x.com/lend7_com",
+                  "telegram":  "https://t.me/LEND7com"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "minswap",
+                                           "wingriders",
+                                           "mesh"
+                                       ],
+                      "related":  [
+                                      "prysm",
+                                      "pocket-portal",
+                                      "presearch"
+                                  ]
+                  }
 }

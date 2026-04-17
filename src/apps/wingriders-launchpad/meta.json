@@ -1,37 +1,36 @@
 {
-  "slug": "wingriders-launchpad",
-  "name": "WingRiders LaunchPad",
-  "logoUrl": "https://cdn.cardanocube.com/1ta4wbj7z8yqmcybvq2nvf3n0o6f",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "WingRiders self-servicing automated smart contract launchpad offers users a chance to participate in new projects.",
-    "description": "WingRiders self-servicing automated smart contract launchpad offers users a chance to participate in new projects by supporting their Cardano Native Tokens in the early stages to develop their projects and enter the market. WingRiders Launchpad is: Non-custodial: No one else has access or control over your and project tokens in any phase of a Launch. Smart-contract-based fully automated: Powered by seven Plutarch Smart Contracts and six minting policies on Cardano.",
-    "meta": "Find out about WingRiders LaunchPad (WRLP) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "WingRiders LaunchPad - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://app.wingriders.com/launchpad",
-    "docs": "https://app.wingriders.com/launchpad",
-    "twitter": "https://twitter.com/wingriderscom",
-    "discord": "https://discord.com/channels/915937361286795334/1135486300175204442"
-  },
-  "relations": {
-    "alternatives": [
-      "youblob",
-      "cexplorer",
-      "ardana"
-    ],
-    "related": [
-      "pika-protocol",
-      "goldfinch",
-      "alium-finance"
-    ]
-  }
+    "slug":  "wingriders-launchpad",
+    "name":  "WingRiders LaunchPad",
+    "logoUrl":  "https://cdn.cardanocube.com/1ta4wbj7z8yqmcybvq2nvf3n0o6f",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "WingRiders self-servicing automated smart contract launchpad offers users a chance to participate in new projects.",
+                    "description":  "WingRiders self-servicing automated smart contract launchpad offers users a chance to participate in new projects by supporting their Cardano Native Tokens in the early stages to develop their projects and enter the market. WingRiders Launchpad is: Non-custodial: No one else has access or control over your and project tokens in any phase of a Launch. Smart-contract-based fully automated: Powered by seven Plutarch Smart Contracts and six minting policies on Cardano.",
+                    "meta":  "Find out about WingRiders LaunchPad (WRLP) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "WingRiders LaunchPad - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://app.wingriders.com/launchpad",
+                  "twitter":  "https://x.com/wingriderscom",
+                  "docs":  "https://app.wingriders.com/launchpad"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "cexplorer",
+                                           "skillslabs",
+                                           "smart-collective"
+                                       ],
+                      "related":  [
+                                      "pika-protocol",
+                                      "goldfinch",
+                                      "alium-finance"
+                                  ]
+                  }
 }

@@ -1,36 +1,35 @@
 {
-  "slug": "masumi",
-  "name": "masumi",
-  "logoUrl": "https://cdn.cardanocube.com/1s44zwzg4abmpjh6b5xekynu936t",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "A decentralized network of AI agents to collaborate and monetize your agentic services.",
-    "description": "Masumi is a blockchain-based network protocol accompanied by a suite of solutions that enable AI agent developers to easily participate in a decentralized ecosystem. By running a Masumi node alongside their AI agent infrastructure, developers can seamlessly: Each AI agent in the protocol is assigned a clear identity through a Decentralized Identifier (DID) and is required to log hashes of their outputs on the underlying blockchain.",
-    "meta": "Find out about masumi on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "masumi - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.masumi.network",
-    "twitter": "https://x.com/MasumiNetwork",
-    "discord": "https://discord.gg/aj4QfnTS92"
-  },
-  "relations": {
-    "alternatives": [
-      "charlie",
-      "evo-exchange",
-      "joke"
-    ],
-    "related": [
-      "ada-dao",
-      "marginly",
-      "thothus"
-    ]
-  }
+    "slug":  "masumi",
+    "name":  "masumi",
+    "logoUrl":  "https://cdn.cardanocube.com/1s44zwzg4abmpjh6b5xekynu936t",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "A decentralized network of AI agents to collaborate and monetize your agentic services.",
+                    "description":  "Masumi is a blockchain-based network protocol accompanied by a suite of solutions that enable AI agent developers to easily participate in a decentralized ecosystem. By running a Masumi node alongside their AI agent infrastructure, developers can seamlessly: Each AI agent in the protocol is assigned a clear identity through a Decentralized Identifier (DID) and is required to log hashes of their outputs on the underlying blockchain.",
+                    "meta":  "Find out about masumi on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "masumi - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.masumi.network/",
+                  "twitter":  "https://x.com/masuminetwork"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "evo-exchange",
+                                           "learncardano",
+                                           "ledgity"
+                                       ],
+                      "related":  [
+                                      "ada-dao",
+                                      "marginly",
+                                      "levvy"
+                                  ]
+                  }
 }

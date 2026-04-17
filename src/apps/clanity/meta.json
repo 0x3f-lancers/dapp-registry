@@ -1,38 +1,37 @@
 {
-  "slug": "clanity",
-  "name": "Clanity",
-  "logoUrl": "https://cdn.cardanocube.com/sn8j7fycziduulvnmbilabz4dl27",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Connect businesses and customers through our rewards and community engagement program.",
-    "description": "Clanity strives to build a self-sustaining community all over the world by connecting businesses with their customers through our blockchain rewards and engagement program. Clanity is the first blockchain technology that attempts to simplify and efficiently reward a large number of individuals who make subjective contributions to local businesses all around the world with a universal utility token.",
-    "meta": "Find out about Clanity (CLAN) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Clanity - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "http://www.clanity.com",
-    "docs": "https://www.clanity.com/docs/Clanity-White-Paper-v01.pdf",
-    "twitter": "https://twitter.com/clanityofficial",
-    "telegram": "https://t.me/clanity",
-    "discord": "https://discord.gg/8ZQtdKWkVJ"
-  },
-  "relations": {
-    "alternatives": [
-      "cardano-govtool",
-      "sperm-token",
-      "biswap"
-    ],
-    "related": [
-      "nillaconnect",
-      "euler",
-      "cardanomerch"
-    ]
-  }
+    "slug":  "clanity",
+    "name":  "Clanity",
+    "logoUrl":  "https://cdn.cardanocube.com/sn8j7fycziduulvnmbilabz4dl27",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Clanity offers several uses that go beyond the normal peer to peer trading of cryptocurrency.",
+                    "description":  "Clanity strives to build a self-sustaining community all over the world by connecting businesses with their customers through our blockchain rewards and engagement program. Clanity is the first blockchain technology that attempts to simplify and efficiently reward a large number of individuals who make subjective contributions to local businesses all around the world with a universal utility token. Clanity plans to create platforms that are beautifully designed, simple and easy to use yet very well architectured and robust for both tech savvy and non technical users.",
+                    "meta":  "Find out about Clanity (CLAN) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Clanity - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.clanity.com/",
+                  "twitter":  "https://x.com/clanityofficial",
+                  "telegram":  "https://t.me/clanity",
+                  "docs":  "https://www.clanity.com/docs/Clanity-White-Paper-v01.pdf"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "biswap",
+                                           "chips",
+                                           "clarity-protocol"
+                                       ],
+                      "related":  [
+                                      "nillaconnect",
+                                      "euler",
+                                      "coinlink"
+                                  ]
+                  }
 }

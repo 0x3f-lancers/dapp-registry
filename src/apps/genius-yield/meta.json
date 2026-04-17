@@ -1,37 +1,36 @@
 {
-  "slug": "genius-yield",
-  "name": "Genius Yield",
-  "logoUrl": "https://cdn.cardanocube.com/fvjaxs3ho8t1vrb5fb63duu0k1wo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Genius Yield is the all-in-one DeFi platform, that combines concentrated liquidity DEX (“Genius DEX”) with an.",
-    "description": "Genius Yield is the all-in-one DeFi platform, that combines concentrated liquidity DEX (“Genius DEX”) with an automated yield optimizer (“Smart Liquidity Vault”), built from the ground up to fully benefit from Cardano’s EUTxO-based ledger which would be accessible both to beginners and seasoned traders. For the world of DeFi experiencing divergence in yields, Genius Yield has introduced the possibility of optimizing the users’ APY and enhancing the efficiency of asset allocation in the decentralized digital ecosystem.",
-    "meta": "Find out about Genius Yield ($GENS) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Genius Yield - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.geniusyield.co",
-    "docs": "https://docs.geniusyield.co",
-    "twitter": "https://twitter.com/GeniusyieldO",
-    "telegram": "https://t.me/geniusyield",
-    "discord": "https://discord.gg/EJrPDAp5"
-  },
-  "relations": {
-    "alternatives": [
-      "frenbot",
-      "port-finance"
-    ],
-    "related": [
-      "cardanoscan",
-      "waffle-capital",
-      "mayaprotocol"
-    ]
-  }
+    "slug":  "genius-yield",
+    "name":  "Genius Yield",
+    "logoUrl":  "https://cdn.cardanocube.com/fvjaxs3ho8t1vrb5fb63duu0k1wo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Genius Yield   The all-in-one DeFi platform, that combines an order book DEX with an automated yield optimizer.",
+                    "description":  "The all-in-one platform, that combines an order book DEX with an automated yield optimizer. Genius Yield simplifies DeFi, so anyone can reap the benefits and achieve financial freedom. Less hassle, minimize risk, maximize profits. hashtag AI-powered Yield Optimizer. hashtag Why Genius Yield? Bringing the power of Artificial-Intelligence powered yield optimization to your fingertips. While DeFi provides many investment opportunities, managing capital is both complex and time-consuming.",
+                    "meta":  "Find out about Genius Yield ($GENS) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Genius Yield - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.geniusyield.co/",
+                  "twitter":  "https://x.com/geniusyieldo",
+                  "telegram":  "https://t.me/geniusyield",
+                  "docs":  "https://docs.geniusyield.co/"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "frenbot",
+                                           "port-finance"
+                                       ],
+                      "related":  [
+                                      "cardanoscan",
+                                      "waffle-capital",
+                                      "mayaprotocol"
+                                  ]
+                  }
 }

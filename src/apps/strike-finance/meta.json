@@ -1,36 +1,34 @@
 {
-  "slug": "strike-finance",
-  "name": "Strike Finance",
-  "logoUrl": "https://cdn.cardanocube.com/ugjejpj74i60259o7oyt97g6hwhb",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Strike Finance is a derivatives protcol that offers options, forwards, and perpetuals futures trading.",
-    "description": "Strike Finance introduces options, forwards, and perpetual futures trading directly on the Cardano blockchain. Currently, centralized exchanges account for more than 98% of derivatives trading in crypto assets. Derivatives trading on Cardano are nearly non-existent before the advent of Strike Finance. This scarcity is not due to a lack of demand for on-chain trading, but rather the absence of a derivatives protocol. Options, forwards, and perpetual futures trading offer traders a wider range of tools to capitalize on the volatile crypto market.",
-    "meta": "Find out about Strike Finance (STRIKE) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Strike Finance - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://strikefinance.org",
-    "docs": "https://strikefinance.org",
-    "twitter": "https://x.com/strikeperps",
-    "discord": "https://discord.com/invite/SjH4NDeEGq"
-  },
-  "relations": {
-    "alternatives": [
-      "crci",
-      "atrium"
-    ],
-    "related": [
-      "cardano-native-token",
-      "wanchain",
-      "sushi"
-    ]
-  }
+    "slug":  "strike-finance",
+    "name":  "Strike Finance",
+    "logoUrl":  "https://cdn.cardanocube.com/ugjejpj74i60259o7oyt97g6hwhb",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Strike Finance is a Cardano derivatives protocol offering on-chain options, forwards, and perpetual futures trading.",
+                    "description":  "Strike Finance is designed to bring crypto derivatives trading onto Cardano through products such as options, forwards, and perpetual futures. The project frames itself as a response to the lack of on-chain derivatives infrastructure in the Cardano ecosystem, where most crypto derivatives activity still happens on centralized exchanges. By offering these instruments directly on Cardano, Strike Finance aims to give traders a broader set of tools for managing risk, taking directional positions, and participating in more advanced markets on-chain.",
+                    "meta":  "Find out about Strike Finance (STRIKE) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Strike Finance - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.strikefinance.org/",
+                  "twitter":  "https://x.com/strikeperps"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "crci",
+                                           "atrium"
+                                       ],
+                      "related":  [
+                                      "cardano-native-token",
+                                      "wanchain",
+                                      "sushi"
+                                  ]
+                  }
 }

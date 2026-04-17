@@ -1,37 +1,36 @@
 {
-  "slug": "nuvola",
-  "name": "Nuvola",
-  "logoUrl": "https://cdn.cardanocube.com/9tns2oa5eu0rwf2jcu5ofc1hka0j",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "Web3 Data Tools"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Nuvola is a cross-chain DePIN aggregator delivering multiple revenue streams to NVL token holders.",
-    "description": "Nuvola is a DePIN aggregator, a first for Cardano. DePIN is short for Decentralized Physical Infrastructure Network, which brings cutting-edge Web 3.0 solutions to a broad number of real-world applications. Being decentralized at heart, DePIN companies pay their network supporters, such as node operators, rewards as incentive for maintaining the network. This is where Nuvola comes in. Nuvola enters into chain-agnostic, strategic partnerships with these promising companies in exchange for lucrative network operator revenues.",
-    "meta": "Find out about Nuvola (NVL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Nuvola - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.nuvoladigital.io",
-    "docs": "https://nuvola.gitbook.io/nuvola-digital-whitepaper-v1",
-    "twitter": "https://x.com/NuvolaDigital",
-    "discord": "https://discord.com/invite/nuvola"
-  },
-  "relations": {
-    "alternatives": [
-      "smart-contract-audit-token",
-      "staking-rewards-calculator",
-      "cardano-tip-bot"
-    ],
-    "related": [
-      "charli3",
-      "waya-collective",
-      "flipside"
-    ]
-  }
+    "slug":  "nuvola",
+    "name":  "Nuvola",
+    "logoUrl":  "https://cdn.cardanocube.com/9tns2oa5eu0rwf2jcu5ofc1hka0j",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Web3 Data Tools"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Democratizing DePIN (Decentralized Physical Infrastructure Network). Hashtag What is Nuvola Digital?",
+                    "description":  "Democratizing DePIN (Decentralized Physical Infrastructure Network). hashtag What is Nuvola Digital? By investing the proceeds from the initial $NVL token sale into the underlying crypto assets and the hardware necessary for running their systems, Nuvola strengthens the decentralized ecosystem while ensuring a sustainable reward mechanism for its token holders. Crucially, Nuvola\u0027s robust node infrastructure plays a pivotal role in maintaining the integrity and functionality of decentralized networks , acting as a safeguard against the risk of numerous smaller nodes shutting down simultaneously.",
+                    "meta":  "Find out about Nuvola (NVL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Nuvola - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://vola.network/",
+                  "twitter":  "https://x.com/nuvoladigital",
+                  "docs":  "https://nuvola.gitbook.io/nuvola-digital-whitepaper-v1"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "smart-contract-audit-token",
+                                           "staking-rewards-calculator",
+                                           "opshin"
+                                       ],
+                      "related":  [
+                                      "charli3",
+                                      "waya-collective",
+                                      "flipside"
+                                  ]
+                  }
 }

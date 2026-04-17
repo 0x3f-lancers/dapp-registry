@@ -1,35 +1,34 @@
 {
-  "slug": "liqwid",
-  "name": "Liqwid",
-  "logoUrl": "https://cdn.cardanocube.com/zh0j50miy2c11nrik8y0wmqm3i9s",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Liqwid is a non-custodial liquidity market protocol for lending and borrowing on Cardano, offering fast,.",
-    "description": "Liqwid is an interest rate curve DeFi liquidity protocol for the Cardano ecosystem. It establishes a decentralized marketplace for lenders and borrowers to seamlessly interact via supplying funds, minting interest-bearing qTokens, borrowing assets and participating in governance. The solution is built on the Cardano UTXO model for deterministic, secure, and low-cost transactions. The Liqwid Protocol is built to enable any liquidity provider or user to access interest and liquidity on-demand and for developers to unlock a web3-verse of open financial.",
-    "meta": "Find out about Liqwid (LQ) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Liqwid - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.liqwid.finance",
-    "docs": "https://liqwid-labs.gitbook.io/liqwid-docs",
-    "twitter": "https://twitter.com/liqwidfinance",
-    "discord": "https://discord.gg/PZ3GUWamY8"
-  },
-  "relations": {
-    "alternatives": [
-      "dcspark-milkomeda",
-      "sushi"
-    ],
-    "related": [
-      "guchi",
-      "finest-investments"
-    ]
-  }
+    "slug":  "liqwid",
+    "name":  "Liqwid",
+    "logoUrl":  "https://cdn.cardanocube.com/zh0j50miy2c11nrik8y0wmqm3i9s",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Liqwid is a non-custodial liquidity market protocol for lending and borrowing on Cardano, offering fast,.",
+                    "description":  "Liqwid is an interest rate curve DeFi liquidity protocol for the Cardano ecosystem. It establishes a decentralized marketplace for lenders and borrowers to seamlessly interact via supplying funds, minting interest-bearing qTokens, borrowing assets and participating in governance. The solution is built on the Cardano UTXO model for deterministic, secure, and low-cost transactions. The Liqwid Protocol is built to enable any liquidity provider or user to access interest and liquidity on-demand and for developers to unlock a web3-verse of open financial.",
+                    "meta":  "Find out about Liqwid (LQ) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Liqwid - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.liqwid.finance/",
+                  "twitter":  "https://x.com/liqwidfinance",
+                  "docs":  "https://liqwid-labs.gitbook.io/liqwid-docs"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "dcspark-milkomeda",
+                                           "sushi"
+                                       ],
+                      "related":  [
+                                      "finest-investments",
+                                      "latam-cardano-community"
+                                  ]
+                  }
 }

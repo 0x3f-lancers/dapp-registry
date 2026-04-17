@@ -1,36 +1,35 @@
 {
-  "slug": "cardanopet-registry",
-  "name": "Cardano Pet Registry",
-  "logoUrl": "https://cdn.cardanocube.com/13kk0kfwt8148zdhv62j5a7svojs",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "A blockchain alternative to microchipping pets that is cheaper and much easier to update.",
-    "description": "Register your pet on the Cardano blockchain and give it a simple QR code tag to hang with it’s other tags. Those who find a lost pet simply scan the QR code and are then directed to the Pet Registry website where they'll see the pet owner’s most up-to-date contact and address information. Each scan also initiates a geo-location ping that alerts the pet’s owner of the location of the scan. Contact information is easily updatable through the Pet Registry website, and those that scan the QR code only receive the most up-to-date information.",
-    "meta": "Find out about Cardano Pet Registry (-) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Cardano Pet Registry - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://petregistry.io",
-    "docs": "https://petregistry.io/about",
-    "twitter": "https://twitter.com/adaPetRegistry"
-  },
-  "relations": {
-    "alternatives": [
-      "bison-coin",
-      "preon-finance",
-      "bybarter"
-    ],
-    "related": [
-      "minswap",
-      "wingriders",
-      "sundaeswap"
-    ]
-  }
+    "slug":  "cardanopet-registry",
+    "name":  "Cardano Pet Registry",
+    "logoUrl":  "https://cdn.cardanocube.com/13kk0kfwt8148zdhv62j5a7svojs",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "A blockchain alternative to microchipping pets that is cheaper and much easier to update.",
+                    "description":  "Register your pet on the Cardano blockchain and give it a simple QR code tag to hang with it’s other tags. Those who find a lost pet simply scan the QR code and are then directed to the Pet Registry website where they\u0027ll see the pet owner’s most up-to-date contact and address information. Each scan also initiates a geo-location ping that alerts the pet’s owner of the location of the scan. Contact information is easily updatable through the Pet Registry website, and those that scan the QR code only receive the most up-to-date information.",
+                    "meta":  "Find out about Cardano Pet Registry (-) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Cardano Pet Registry - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://tellmystory.io/",
+                  "twitter":  "https://x.com/adapetregistry"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "bison-coin",
+                                           "preon-finance",
+                                           "bybarter"
+                                       ],
+                      "related":  [
+                                      "minswap",
+                                      "wingriders",
+                                      "sundaeswap"
+                                  ]
+                  }
 }

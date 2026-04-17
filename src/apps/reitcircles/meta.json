@@ -1,37 +1,36 @@
 {
-  "slug": "reitcircles",
-  "name": "Reitcircles",
-  "logoUrl": "https://cdn.cardanocube.com/kj1q2e52ndox5kaw2k6pkrbd1jsy",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Reitcircles is a decentralized housing protocol being built upon Cardano.",
-    "description": "Reitcircles is a decentralized housing protocol being built upon Cardano that enables any house or asset owner to sell a part of their asset and get liquidity when they need it most. Small investors can now invest in real assets for small denominations. When people with positive home equity require a loan during difficult circumstances (job loss, medical expenses, or significant life events.), banks may deny the loan, or the interest rates may be too high. We present a better way to tap into the home equity using blockchain based tokens.",
-    "meta": "Find out about Reitcircles (REIT) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Reitcircles - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "http://www.reitcircles.com",
-    "docs": "https://reitcircles.gitbook.io/whitepaper_v1.0.0",
-    "twitter": "https://twitter.com/reitcircles",
-    "discord": "https://t.co/junbgykeBx"
-  },
-  "relations": {
-    "alternatives": [
-      "larissa-health",
-      "rubicon",
-      "flooz-trade"
-    ],
-    "related": [
-      "syyx",
-      "adapools",
-      "cswapdex"
-    ]
-  }
+    "slug":  "reitcircles",
+    "name":  "Reitcircles",
+    "logoUrl":  "https://cdn.cardanocube.com/kj1q2e52ndox5kaw2k6pkrbd1jsy",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Reitcircles is a decentralized housing protocol being built upon Cardano.",
+                    "description":  "Reitcircles is a decentralized housing protocol being built upon Cardano that enables any house or asset owner to sell a part of their asset and get liquidity when they need it most. Small investors can now invest in real assets for small denominations. When people with positive home equity require a loan during difficult circumstances (job loss, medical expenses, or significant life events.), banks may deny the loan, or the interest rates may be too high. We present a better way to tap into the home equity using blockchain based tokens.",
+                    "meta":  "Find out about Reitcircles (REIT) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Reitcircles - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://reitcircles.com/",
+                  "twitter":  "https://x.com/reitcircles",
+                  "docs":  "https://reitcircles.gitbook.io/whitepaper_v1.0.0"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "larissa-health",
+                                           "rubicon",
+                                           "flooz-trade"
+                                       ],
+                      "related":  [
+                                      "syyx",
+                                      "adapools",
+                                      "cswapdex"
+                                  ]
+                  }
 }

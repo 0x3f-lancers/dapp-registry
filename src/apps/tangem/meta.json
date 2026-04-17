@@ -1,35 +1,34 @@
 {
-  "slug": "tangem",
-  "name": "Tangem",
-  "logoUrl": "https://cdn.cardanocube.com/el7pu4vow5wj3ninci8w1621rgfn",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Tangem offers you complete security and ownership of your private keys in the most simple way.",
-    "description": "Protect your crypto with our simply secure hardware wallet. 600+ currencies on 13 blockchains simultaneously 100+ dApps accessible Card Backup available Access protection installed Simplicity by design No need for batteries, wires, or PC - your smartphone is all you need Buy, sell and transfer your crypto in a few taps using powerful Tangem app The power of a computer in a size that fits your card holder The ultimate security Tangem Wallet generates a unique private key using true random number generator The private key is never disclosed anywhere The highest.",
-    "meta": "Find out about Tangem (WALLET) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Tangem - Web3 Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://tangem.com",
-    "docs": "https://tangem.com/learning-center/beginners-guide",
-    "twitter": "https://twitter.com/Tangem"
-  },
-  "relations": {
-    "alternatives": [
-      "alphawallet",
-      "adaly-cardano-wallet"
-    ],
-    "related": [
-      "shift-crypto",
-      "rainbow-wallet",
-      "pier-wallet"
-    ]
-  }
+    "slug":  "tangem",
+    "name":  "Tangem",
+    "logoUrl":  "https://cdn.cardanocube.com/el7pu4vow5wj3ninci8w1621rgfn",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Tangem is a simple cold Bitcoin wallet where you can buy, sell, and store Bitcoin, Ethereum, and other crypto assets.",
+                    "description":  "Manage cryptocurrencies securely in the best crypto wallet. The Tangem cold wallet is fully non-custodial. No company, bank, or government can access, freeze, or restrict your assets. Only you hold the keys. The Tangem hardware wallet is powered by your phone\u0027s NFC module, removing the need for batteries and reducing the risk of hardware issues. It can function for decades under normal conditions. Tangem supports many blockchain networks.",
+                    "meta":  "Find out about Tangem (WALLET) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Tangem - Web3 Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://tangem.com/en/",
+                  "twitter":  "https://x.com/tangem"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "alphawallet",
+                                           "adaly-cardano-wallet"
+                                       ],
+                      "related":  [
+                                      "shift-crypto",
+                                      "rainbow-wallet",
+                                      "pier-wallet"
+                                  ]
+                  }
 }

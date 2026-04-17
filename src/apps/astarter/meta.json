@@ -1,38 +1,37 @@
 {
-  "slug": "astarter",
-  "name": "Astarter",
-  "logoUrl": "https://cdn.cardanocube.com/eqebvw0be9pxdt6ra1sc6ph8zq7b",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Fair, safe, and accessible open finance services on Cardano, developing decentralized finance applications.",
-    "description": "Astarter is a key DeFi infrastructure hub on Cardano that features a suite of core applications: Launchpool, Launchpad, DEX, Money Market & Tech Service Platform, with the backing of EMURGO, a founding member of the Cardano protocol. Astarter aims to elevate its contribution and bring broader possibilities to the Cardano ecosystem by providing fair, safe, and accessible open finance services to meet existing and future demand in accelerating DeFi apps to empower the next generation of projects built on Cardano.",
-    "meta": "Find out about Astarter (ASTARTER) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "Astarter - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://astarter.io",
-    "docs": "https://astarter-1.gitbook.io/welcome-to-astarter/technical-paper",
-    "twitter": "https://twitter.com/AstarterDefiHub",
-    "telegram": "https://t.me/AstarterDefiHubOfficial",
-    "discord": "https://discord.gg/5zZvux5mze"
-  },
-  "relations": {
-    "alternatives": [
-      "myhomeplanet",
-      "lifinity",
-      "vaultka"
-    ],
-    "related": [
-      "minu-swap",
-      "ziwwe",
-      "deltadefi"
-    ]
-  }
+    "slug":  "astarter",
+    "name":  "Astarter",
+    "logoUrl":  "https://cdn.cardanocube.com/eqebvw0be9pxdt6ra1sc6ph8zq7b",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Fair, safe, and accessible open finance services on Cardano, developing decentralized finance applications.",
+                    "description":  "Astarter is a key DeFi infrastructure hub on Cardano that features a suite of core applications: Launchpool, Launchpad, DEX, Money Market \u0026 Tech Service Platform, with the backing of EMURGO, a founding member of the Cardano protocol. Astarter aims to elevate its contribution and bring broader possibilities to the Cardano ecosystem by providing fair, safe, and accessible open finance services to meet existing and future demand in accelerating DeFi apps to empower the next generation of projects built on Cardano.",
+                    "meta":  "Find out about Astarter (ASTARTER) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "Astarter - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://astarter.io/",
+                  "twitter":  "https://x.com/astarterdefihub",
+                  "telegram":  "https://t.me/AstarterDefiHubOfficial",
+                  "docs":  "https://astarter.gitbook.io/astarter/technical-paper/abstract"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "lifinity",
+                                           "vaultka",
+                                           "atrium"
+                                       ],
+                      "related":  [
+                                      "minu-swap",
+                                      "deltadefi",
+                                      "bag"
+                                  ]
+                  }
 }

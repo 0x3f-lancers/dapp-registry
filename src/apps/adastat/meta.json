@@ -1,36 +1,36 @@
 {
-  "slug": "adastat",
-  "name": "AdaStat",
-  "logoUrl": "https://cdn.cardanocube.com/efiz22vyawjh2d31ek0xsay5qm46",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Cardano"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Cardano (ADA) Blockchain Explorer And Statistics for pool operators and ada holders.",
-    "description": "Block explorers are one of the most important utilities in the blockchain ecosystem. These tools give users the much-needed visibility and access to real-time data within blockchain networks. When it comes to Cardano, there are several blockchain explorers that stake pool operators and ADA holders can use to access blockchain-related information. AdaStat is a fully-fledged Cardano network explorer developed by active members of the Russian-speaking Cardano community as an independent alternative to existing explorers of the network developers.",
-    "meta": "Find out about AdaStat (STAT) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-    "pageTitle": "AdaStat - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://adastat.net",
-    "docs": "https://adastat.net/about",
-    "twitter": "https://twitter.com/ada_stat"
-  },
-  "relations": {
-    "alternatives": [
-      "position-exchange",
-      "bison-coin",
-      "metadams"
-    ],
-    "related": [
-      "nfthubs",
-      "pixl-page",
-      "interport"
-    ]
-  }
+    "slug":  "adastat",
+    "name":  "AdaStat",
+    "logoUrl":  "https://cdn.cardanocube.com/efiz22vyawjh2d31ek0xsay5qm46",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Cardano"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Cardano (ADA) Blockchain Explorer And Statistics for pool operators and ada holders.",
+                    "description":  "Block explorers are one of the most important utilities in the blockchain ecosystem. These tools give users the much-needed visibility and access to real-time data within blockchain networks. When it comes to Cardano, there are several blockchain explorers that stake pool operators and ADA holders can use to access blockchain-related information. AdaStat is a fully-fledged Cardano network explorer developed by active members of the Russian-speaking Cardano community as an independent alternative to existing explorers of the network developers.",
+                    "meta":  "Find out about AdaStat (STAT) on the Cardano Blockchain, so you can make well-informed investment decisions.",
+                    "pageTitle":  "AdaStat - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://adastat.net/",
+                  "twitter":  "https://x.com/ada_stat",
+                  "docs":  "https://adastat.net/about"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "position-exchange",
+                                           "bison-coin",
+                                           "adaswap"
+                                       ],
+                      "related":  [
+                                      "interport",
+                                      "adaverse",
+                                      "anzens"
+                                  ]
+                  }
 }

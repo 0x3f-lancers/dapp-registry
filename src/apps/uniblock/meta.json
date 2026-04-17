@@ -1,48 +1,48 @@
 {
-  "slug": "uniblock",
-  "name": "Uniblock",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750922/web3-explorer/dapp-logos/uniblock.png",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "RPC Node Providers",
-    "Web3 Data Tools",
-    "Webhooks",
-    "Indexing Tools",
-    "Blockchain Interoperability Tools"
-  ],
-  "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "Base",
-    "Celo",
-    "Ethereum",
-    "Fantom",
-    "Harmony",
-    "OP Mainnet",
-    "Polygon",
-    "Solana"
-  ],
-  "pricing": "",
-  "content": {
-    "short": "Uniblock provides Web3's first orchestration layer, unifying 1,500+ APIs across 50+ providers.",
-    "description": "Uniblock tackles Web3 development fragmentation by providing unified access to hundreds of blockchain APIs through a single integration. The platform intelligently routes calls to the most suitable provider based on speed, reliability, and cost, and it includes built-in failover protection to maintain continuity. Data is delivered in standardized formats to streamline cross-provider workflows and tooling. Its shared compute unit model means teams pay only for the compute they actually use across all integrated services, enabling scalable, predictable costs.",
-    "meta": "Uniblock provides an orchestration layer unifying 1,500+ APIs from 50+ providers. Discover Uniblock and other Infrastructure Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Uniblock - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.uniblock.dev/",
-    "twitter": "https://x.com/Uniblock"
-  },
-  "relations": {
-    "alternatives": [
-      "betarpc",
-      "drpc",
-      "alchemy"
-    ],
-    "related": [
-      "adadomains",
-      "sentio",
-      "aiken"
-    ]
-  }
+    "slug":  "uniblock",
+    "name":  "Uniblock",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750922/web3-explorer/dapp-logos/uniblock.png",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "RPC Node Providers",
+                        "Web3 Data Tools",
+                        "Webhooks",
+                        "Indexing Tools",
+                        "Blockchain Interoperability Tools"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "Celo",
+                   "Ethereum",
+                   "Fantom",
+                   "Harmony",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Solana"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Uniblock provides Web3\u0027s first orchestration layer, unifying 1,500+ APIs across 50+ providers.",
+                    "description":  "Uniblock tackles Web3 development fragmentation by providing unified access to hundreds of blockchain APIs through a single integration. The platform intelligently routes calls to the most suitable provider based on speed, reliability, and cost, and it includes built-in failover protection to maintain continuity. Data is delivered in standardized formats to streamline cross-provider workflows and tooling. Its shared compute unit model means teams pay only for the compute they actually use across all integrated services, enabling scalable, predictable costs.",
+                    "meta":  "Uniblock provides an orchestration layer unifying 1,500+ APIs from 50+ providers. Discover Uniblock and other Infrastructure Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Uniblock - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.uniblock.dev/",
+                  "twitter":  "https://x.com/Uniblock"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "betarpc",
+                                           "drpc",
+                                           "alchemy"
+                                       ],
+                      "related":  [
+                                      "adadomains",
+                                      "sentio",
+                                      "waya-collective"
+                                  ]
+                  }
 }

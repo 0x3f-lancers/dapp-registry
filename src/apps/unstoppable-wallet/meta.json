@@ -1,42 +1,42 @@
 {
-  "slug": "unstoppable-wallet",
-  "name": "Unstoppable Wallet",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750969/web3-explorer/dapp-logos/unstoppable-wallet.png",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "Bitcoin",
-    "BNB Chain",
-    "Ethereum",
-    "OP Mainnet",
-    "Polygon",
-    "Multichain"
-  ],
-  "pricing": "",
-  "content": {
-    "short": "Unstoppable Wallet is an open-source, non-custodial multi-wallet for Ethereum, Bitcoin, BNB Chain, Polygon, and other blockchains.",
-    "description": "Unstoppable Wallet is an open-source, non-custodial multi-wallet that supports Ethereum, Bitcoin, Binance Smart Chain, Polygon, and other blockchains. It provides non-custodial storage, a decentralized exchange, and extensive analytics for thousands of tokens and NFTs. The wallet is implemented with native code for Swift and Kotlin, delivering a cohesive, user-friendly way to store, send, and receive multiple cryptocurrencies in one place while maintaining full control of private keys and assets.",
-    "meta": "Unstoppable Wallet is an open-source, non-custodial cross-chain multi-wallet. Discover Unstoppable Wallet and other Web3 Wallets on Lancers Web3 Explorer.",
-    "pageTitle": "Unstoppable Wallet - Web3 Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://unstoppable.money/",
-    "twitter": "https://x.com/unstoppablebyhs"
-  },
-  "relations": {
-    "alternatives": [
-      "martian-wallet",
-      "zerion",
-      "metamask"
-    ],
-    "related": [
-      "gem-wallet",
-      "adalitewallet",
-      "c64-wallet"
-    ]
-  }
+    "slug":  "unstoppable-wallet",
+    "name":  "Unstoppable Wallet",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750969/web3-explorer/dapp-logos/unstoppable-wallet.png",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Bitcoin",
+                   "BNB Chain",
+                   "Ethereum",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Multichain"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Unstoppable Wallet is an open-source, non-custodial multi-wallet for Ethereum, Bitcoin, BNB Chain, Polygon, and other blockchains.",
+                    "description":  "Unstoppable Wallet is an open-source, non-custodial multi-wallet that supports Ethereum, Bitcoin, Binance Smart Chain, Polygon, and other blockchains. It provides non-custodial storage, a decentralized exchange, and extensive analytics for thousands of tokens and NFTs. The wallet is implemented with native code for Swift and Kotlin, delivering a cohesive, user-friendly way to store, send, and receive multiple cryptocurrencies in one place while maintaining full control of private keys and assets.",
+                    "meta":  "Unstoppable Wallet is an open-source, non-custodial cross-chain multi-wallet. Discover Unstoppable Wallet and other Web3 Wallets on Lancers Web3 Explorer.",
+                    "pageTitle":  "Unstoppable Wallet - Web3 Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://unstoppable.money/",
+                  "twitter":  "https://x.com/unstoppablebyhs"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "martian-wallet",
+                                           "zerion",
+                                           "metamask"
+                                       ],
+                      "related":  [
+                                      "gem-wallet",
+                                      "adalitewallet",
+                                      "bc-vault"
+                                  ]
+                  }
 }
