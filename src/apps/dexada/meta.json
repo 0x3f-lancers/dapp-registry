@@ -1,35 +1,35 @@
 {
-    "slug":  "dexada",
-    "name":  "Dexada",
-    "logoUrl":  "https://cdn.cardanocube.com/120lj1ir9j1p20rbg7xrjtpkn5y8",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Exchanges"
-                    ],
-    "chains":  [
-                   "Cardano"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "DexAda is a chain-agnostic DEX focused on catalyzing the Cardano ecosystem’s liquidity and liquidity from other.",
-                    "description":  "DexAda is a DEX based on infrastructure from the Everscale network and support from Cardano. The DEX is chain-agnostic and built with an eye to adaptability, meaning it was designed to be able to integrate a maximum amount of outside chains in order to capitalize on available liquidity. At the most basic level, the platform is a DeFi trading and farming protocol where users can contribute to the platform’s liquidity and get rewarded for their contributions.",
-                    "meta":  "Find out about Dexada ($EVA) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-                    "pageTitle":  "Dexada - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://dexada.io/?utm_source=cardanocube",
-                  "twitter":  "https://x.com/dexada_io",
-                  "telegram":  "https://t.me/DexadaCommunity",
-                  "docs":  "https://medium.com/dexada/answers-to-the-frequently-asked-questions-about-dexada-decentralized-exchange-729aafb4deec"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "soldex",
-                                           "fraction-estate"
-                                       ],
-                      "related":  [
-                                      "paraswap",
-                                      "directed-development-foundation"
-                                  ]
-                  }
+  "slug": "dexada",
+  "name": "Dexada",
+  "logoUrl": "https://cdn.cardanocube.com/120lj1ir9j1p20rbg7xrjtpkn5y8",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "DexAda is a chain-agnostic DEX focused on catalyzing the Cardano ecosystem’s liquidity and liquidity from other.",
+    "description": "DexAda is a DEX based on infrastructure from the Everscale network and support from Cardano. The DEX is chain-agnostic and built with an eye to adaptability, meaning it was designed to be able to integrate a maximum amount of outside chains in order to capitalize on available liquidity. At the most basic level, the platform is a DeFi trading and farming protocol where users can contribute to the platform’s liquidity and get rewarded for their contributions.",
+    "meta": "A DEX based on infrastructure from the Everscale network and support from Cardano. Explore Dexada on Lancers Web3 Explorer.",
+    "pageTitle": "Dexada - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dexada.io/?utm_source=cardanocube",
+    "twitter": "https://x.com/dexada_io",
+    "telegram": "https://t.me/DexadaCommunity",
+    "docs": "https://medium.com/dexada/answers-to-the-frequently-asked-questions-about-dexada-decentralized-exchange-729aafb4deec"
+  },
+  "relations": {
+    "alternatives": [
+      "soldex",
+      "fraction-estate"
+    ],
+    "related": [
+      "paraswap",
+      "directed-development-foundation"
+    ]
+  }
 }

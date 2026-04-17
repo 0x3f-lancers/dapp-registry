@@ -1,36 +1,36 @@
 {
-    "slug":  "bc-vault",
-    "name":  "BC Vault",
-    "logoUrl":  "https://cdn.cardanocube.com/i4giqjakuxxsv5h5zqck509i615w",
-    "category":  "Web3 Wallets",
-    "subcategory":  [
-                        "Software Wallets"
-                    ],
-    "chains":  [
-                   "Cardano"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "New generation hardware crypto wallet with support for full ADA staking in the application itself.",
-                    "description":  "BC Vault is a hardware wallet that till today has ZERO security incidents. The staking functionality has been purpose created to stake Cardano that is suitable for beginners and experienced users that want to delegate their coins. The BC Vault application can be downloaded and installed with one click on Windows, Linux and MacOS. Once installed, the application can be used to send and receive ADA tokens and to delegate the funds into a staking pool.",
-                    "meta":  "Find out about BC Vault (BC) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-                    "pageTitle":  "BC Vault - Web3 Wallets - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://bc-vault.com/",
-                  "twitter":  "https://x.com/bc_vault",
-                  "telegram":  "https://t.me/BC_Vault"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "ecoinwallet",
-                                           "okx-wallet",
-                                           "walllet.com"
-                                       ],
-                      "related":  [
-                                      "bitget-wallet",
-                                      "mantium-wallet",
-                                      "ellipal"
-                                  ]
-                  }
+  "slug": "bc-vault",
+  "name": "BC Vault",
+  "logoUrl": "https://cdn.cardanocube.com/i4giqjakuxxsv5h5zqck509i615w",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "New generation hardware crypto wallet with support for full ADA staking in the application itself.",
+    "description": "BC Vault is a hardware wallet that till today has ZERO security incidents. The staking functionality has been purpose created to stake Cardano that is suitable for beginners and experienced users that want to delegate their coins. The BC Vault application can be downloaded and installed with one click on Windows, Linux and MacOS. Once installed, the application can be used to send and receive ADA tokens and to delegate the funds into a staking pool.",
+    "meta": "A hardware wallet that till today has ZERO security incidents. Explore BC Vault on Lancers Web3 Explorer.",
+    "pageTitle": "BC Vault - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bc-vault.com/",
+    "twitter": "https://x.com/bc_vault",
+    "telegram": "https://t.me/BC_Vault"
+  },
+  "relations": {
+    "alternatives": [
+      "ecoinwallet",
+      "okx-wallet",
+      "walllet.com"
+    ],
+    "related": [
+      "bitget-wallet",
+      "mantium-wallet",
+      "ellipal"
+    ]
+  }
 }

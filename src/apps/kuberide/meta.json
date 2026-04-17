@@ -1,36 +1,36 @@
 {
-    "slug":  "kuberide",
-    "name":  "KuberIDE",
-    "logoUrl":  "https://cdn.cardanocube.com/398xex335hlq5dscir2mueid53pn",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "Web3 Data Tools"
-                    ],
-    "chains":  [
-                   "Cardano"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "KuberIDE combines an IDE, api and infrastructure so that developers can write, test and deploy smart contract code.",
-                    "description":  "Productivity for existing and new developers to Cardano in writing, testing and deploying smart contracts. Supports all Cardano networks and Web3 wallets conform CIP-95. KuberIDE combines an IDE, api and infrastructure so that developers can write, test and deploy smart contract code seamlessly from within their browser. KuberIDE is live since 02/2023 and available as installable component on Demeter.run amongst others used by IOHK education to onboard developers.",
-                    "meta":  "Find out about KuberIDE on the Cardano Blockchain, so you can make well-informed investment decisions.",
-                    "pageTitle":  "KuberIDE - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://kuberide.com/",
-                  "twitter":  "https://x.com/dquadrantnl",
-                  "docs":  "https://kuberide.com/"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "mesh",
-                                           "streamr",
-                                           "learnershape"
-                                       ],
-                      "related":  [
-                                      "4everland",
-                                      "oortech",
-                                      "arbitragescanner-api"
-                                  ]
-                  }
+  "slug": "kuberide",
+  "name": "KuberIDE",
+  "logoUrl": "https://cdn.cardanocube.com/398xex335hlq5dscir2mueid53pn",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "KuberIDE combines an IDE, api and infrastructure so that developers can write, test and deploy smart contract code.",
+    "description": "Productivity for existing and new developers to Cardano in writing, testing and deploying smart contracts. Supports all Cardano networks and Web3 wallets conform CIP-95. KuberIDE combines an IDE, api and infrastructure so that developers can write, test and deploy smart contract code seamlessly from within their browser. KuberIDE is live since 02/2023 and available as installable component on Demeter.run amongst others used by IOHK education to onboard developers.",
+    "meta": "KuberIDE productivity for existing and new developers to Cardano in writing, testing and deploying smart contracts. Explore KuberIDE on Lancers Web3 Explorer.",
+    "pageTitle": "KuberIDE - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://kuberide.com/",
+    "twitter": "https://x.com/dquadrantnl",
+    "docs": "https://kuberide.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "mesh",
+      "streamr",
+      "learnershape"
+    ],
+    "related": [
+      "4everland",
+      "oortech",
+      "arbitragescanner-api"
+    ]
+  }
 }

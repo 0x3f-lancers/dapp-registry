@@ -1,35 +1,35 @@
 {
-    "slug":  "levvy",
-    "name":  "Levvy",
-    "logoUrl":  "https://cdn.cardanocube.com/mp7xmchpiq5ogqy5cv8bor88pvsn",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Exchanges"
-                    ],
-    "chains":  [
-                   "Cardano"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Levvy is a peer-to-peer Cardano NFT lending protocol built to give holders instant liquidity and lenders yield opportunities.",
-                    "description":  "Levvy is a peer-to-peer NFT lending protocol on Cardano that was built by The Ape Society. The platform is designed to let NFT holders access instant liquidity from lenders while allowing lenders to earn yield on their ADA through NFT-backed loans. Levvy explains that loan interest rates and durations are fixed within the protocol, while lenders compete by offering loan values against specific assets. That structure is intended to simplify borrowing for NFT holders and create a more efficient marketplace for Cardano NFT credit.",
-                    "meta":  "Find out about Levvy (TAS) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-                    "pageTitle":  "Levvy - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.levvy.fi/",
-                  "twitter":  "https://x.com/levvyfinance"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "minswap",
-                                           "wingriders",
-                                           "kube-coin"
-                                       ],
-                      "related":  [
-                                      "horizondex",
-                                      "ankr-liquid-staking",
-                                      "foxify"
-                                  ]
-                  }
+  "slug": "levvy",
+  "name": "Levvy",
+  "logoUrl": "https://cdn.cardanocube.com/mp7xmchpiq5ogqy5cv8bor88pvsn",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Levvy is a peer-to-peer Cardano NFT lending protocol built to give holders instant liquidity and lenders yield opportunities.",
+    "description": "Levvy is a peer-to-peer NFT lending protocol on Cardano that was built by The Ape Society. The platform is designed to let NFT holders access instant liquidity from lenders while allowing lenders to earn yield on their ADA through NFT-backed loans. Levvy explains that loan interest rates and durations are fixed within the protocol, while lenders compete by offering loan values against specific assets. That structure is intended to simplify borrowing for NFT holders and create a more efficient marketplace for Cardano NFT credit.",
+    "meta": "A peer-to-peer NFT lending protocol on Cardano that was built by The Ape Society. Explore Levvy on Lancers Web3 Explorer.",
+    "pageTitle": "Levvy - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.levvy.fi/",
+    "twitter": "https://x.com/levvyfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "minswap",
+      "wingriders",
+      "kube-coin"
+    ],
+    "related": [
+      "horizondex",
+      "ankr-liquid-staking",
+      "foxify"
+    ]
+  }
 }

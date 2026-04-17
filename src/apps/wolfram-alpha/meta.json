@@ -1,36 +1,36 @@
 {
-    "slug":  "wolfram-alpha",
-    "name":  "Wolfram Alpha",
-    "logoUrl":  "https://cdn.cardanocube.com/te2am0yflhw1vskejbyeflce8tyj",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "Web3 Data Tools"
-                    ],
-    "chains":  [
-                   "Cardano"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Wolfram Alpha, a major computational knowledge engine providing technology for major services such as Apple’s Siri.",
-                    "description":  "Wolfram Alpha is a natural language processing tool and a provider to Apple’s Siri and Alexa intelligent assistants. Developed by Wolfram Research, Wolfram Alpha acts as the so-called “answer-engine,” providing answers to factual queries directly by computing the answer from structured data. WBL will integrate Cardano’s blockchain data into Wolfram Alpha, allowing developers to integrate external data into Cardano’s smart contracts.",
-                    "meta":  "Find out about Wolfram Alpha (WBL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-                    "pageTitle":  "Wolfram Alpha - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.wolframalpha.com/",
-                  "twitter":  "https://x.com/wolfram_alpha",
-                  "docs":  "https://www.wolfram.com/language/12/blockchain/"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "charli3",
-                                           "tableland",
-                                           "drasil"
-                                       ],
-                      "related":  [
-                                      "traxed-supply-chain",
-                                      "orcfax",
-                                      "openmesh-network"
-                                  ]
-                  }
+  "slug": "wolfram-alpha",
+  "name": "Wolfram Alpha",
+  "logoUrl": "https://cdn.cardanocube.com/te2am0yflhw1vskejbyeflce8tyj",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Wolfram Alpha, a major computational knowledge engine providing technology for major services such as Apple’s Siri.",
+    "description": "Wolfram Alpha is a natural language processing tool and a provider to Apple’s Siri and Alexa intelligent assistants. Developed by Wolfram Research, Wolfram Alpha acts as the so-called “answer-engine,” providing answers to factual queries directly by computing the answer from structured data. WBL will integrate Cardano’s blockchain data into Wolfram Alpha, allowing developers to integrate external data into Cardano’s smart contracts.",
+    "meta": "A natural language processing tool and a provider to Apple’s Siri and Alexa intelligent assistants. Explore Wolfram Alpha on Lancers Web3 Explorer.",
+    "pageTitle": "Wolfram Alpha - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.wolframalpha.com/",
+    "twitter": "https://x.com/wolfram_alpha",
+    "docs": "https://www.wolfram.com/language/12/blockchain/"
+  },
+  "relations": {
+    "alternatives": [
+      "charli3",
+      "tableland",
+      "drasil"
+    ],
+    "related": [
+      "traxed-supply-chain",
+      "orcfax",
+      "openmesh-network"
+    ]
+  }
 }

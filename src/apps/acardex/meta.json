@@ -1,37 +1,37 @@
 {
-    "slug":  "acardex",
-    "name":  "Acardex",
-    "logoUrl":  "https://cdn.cardanocube.com/87yovrwrv3l694hj9kh06dnivwme",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Exchanges"
-                    ],
-    "chains":  [
-                   "Cardano"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Acardex is a Cardano-based decentralized exchange focused on swapping native assets through an AMM model and cross-chain interoperability.",
-                    "description":  "Acardex presents itself as a decentralized exchange built for the Cardano ecosystem, with an automated market maker model for trading native Cardano assets without a centralized intermediary. The project has described its goal as building a distinctive DEX experience for Cardano users while also supporting broader interoperability through bridge or converter functionality for assets moving across chains such as Ethereum. Alongside token swaps, Acardex has also positioned passive-income features as part of its wider DeFi offering.",
-                    "meta":  "Find out about Acardex ($ACX) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-                    "pageTitle":  "Acardex - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://acardex.io/",
-                  "twitter":  "https://x.com/_acardex",
-                  "telegram":  "https://t.me/acardexcommunity",
-                  "docs":  "https://acardex.io/"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "bison-coin",
-                                           "carbon",
-                                           "wingriders"
-                                       ],
-                      "related":  [
-                                      "magma",
-                                      "optix",
-                                      "reaper-farm"
-                                  ]
-                  }
+  "slug": "acardex",
+  "name": "Acardex",
+  "logoUrl": "https://cdn.cardanocube.com/87yovrwrv3l694hj9kh06dnivwme",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Acardex is a Cardano-based decentralized exchange focused on swapping native assets through an AMM model and cross-chain interoperability.",
+    "description": "Acardex presents itself as a decentralized exchange built for the Cardano ecosystem, with an automated market maker model for trading native Cardano assets without a centralized intermediary. The project has described its goal as building a distinctive DEX experience for Cardano users while also supporting broader interoperability through bridge or converter functionality for assets moving across chains such as Ethereum. Alongside token swaps, Acardex has also positioned passive-income features as part of its wider DeFi offering.",
+    "meta": "Acardex presents itself as a decentralized exchange built for the Cardano ecosystem. Explore Acardex on Lancers Web3 Explorer.",
+    "pageTitle": "Acardex - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://acardex.io/",
+    "twitter": "https://x.com/_acardex",
+    "telegram": "https://t.me/acardexcommunity",
+    "docs": "https://acardex.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "bison-coin",
+      "carbon",
+      "wingriders"
+    ],
+    "related": [
+      "magma",
+      "optix",
+      "reaper-farm"
+    ]
+  }
 }

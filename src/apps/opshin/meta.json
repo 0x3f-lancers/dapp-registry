@@ -1,37 +1,37 @@
 {
-    "slug":  "opshin",
-    "name":  "Opshin",
-    "logoUrl":  "https://cdn.cardanocube.com/n3v1iqyz9gito733igcv0mbjoqj3",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "Web3 Data Tools"
-                    ],
-    "chains":  [
-                   "Cardano"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "GitHub (opens in a new tab) Discord Discord (opens in a new tab) Light Help shape OpShin for Plutus v3.",
-                    "description":  "This is likely intended because it would always evaluate to False. Note that opshin errors may be overly restrictive as they aim to prevent code with unintended consequences. Leverage the Python ecosystem! Zero configuration, one single capable tool Unittests, property based tests, formal verification... Syntax Highlighting, linting, static analysis... Get started quickly Full example can be run quickly Follow along the OpShin Pioneer Program Plenty more community built examples and tutorials at awesome-opshin Join the Discord What is OpShin?",
-                    "meta":  "Find out about Opshin (DEVTOOL) on the Cardano Blockchain, so you can make well-informed investment decisions.",
-                    "pageTitle":  "Opshin - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://opshin.dev/",
-                  "twitter":  "https://x.com/opshindev",
-                  "discord":  "https://discord.gg/umR3A2g4uw",
-                  "docs":  "https://opshin.dev/"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "minswap",
-                                           "wingriders",
-                                           "blocksurvey"
-                                       ],
-                      "related":  [
-                                      "learnershape",
-                                      "dm3",
-                                      "chainnodes"
-                                  ]
-                  }
+  "slug": "opshin",
+  "name": "Opshin",
+  "logoUrl": "https://cdn.cardanocube.com/n3v1iqyz9gito733igcv0mbjoqj3",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "GitHub (opens in a new tab) Discord Discord (opens in a new tab) Light Help shape OpShin for Plutus v3.",
+    "description": "This is likely intended because it would always evaluate to False. Note that opshin errors may be overly restrictive as they aim to prevent code with unintended consequences. Leverage the Python ecosystem! Zero configuration, one single capable tool Unittests, property based tests, formal verification... Syntax Highlighting, linting, static analysis... Get started quickly Full example can be run quickly Follow along the OpShin Pioneer Program Plenty more community built examples and tutorials at awesome-opshin Join the Discord What is OpShin?",
+    "meta": "Opshin this is likely intended because it would always evaluate to False. Explore Opshin on Lancers Web3 Explorer.",
+    "pageTitle": "Opshin - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://opshin.dev/",
+    "twitter": "https://x.com/opshindev",
+    "discord": "https://discord.gg/umR3A2g4uw",
+    "docs": "https://opshin.dev/"
+  },
+  "relations": {
+    "alternatives": [
+      "minswap",
+      "wingriders",
+      "blocksurvey"
+    ],
+    "related": [
+      "learnershape",
+      "dm3",
+      "chainnodes"
+    ]
+  }
 }
