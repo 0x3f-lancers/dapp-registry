@@ -8,7 +8,9 @@
     "Decentralized Derivatives",
     "Decentralized Options"
   ],
-  "chains": ["Solana"],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "",
   "content": {
     "short": "Jupiter is a DEX aggregator for token swaps on Solana.",
@@ -21,7 +23,13 @@
     "twitter": "https://x.com/JupiterExchange"
   },
   "relations": {
-    "alternatives": ["clipper-dex", "stellaswap"],
-    "related": ["perpetual-protocol", "kucoin"]
+    "alternatives": [
+      "clipper-dex",
+      "stellaswap"
+    ],
+    "related": [
+      "perpetual-protocol",
+      "yearn"
+    ]
   }
 }

@@ -8,7 +8,11 @@
     "DeFi Yield Farming Platforms",
     "Decentralized Lending Dapps"
   ],
-  "chains": ["Polygon", "Polygon zkEVM", "Ethereum"],
+  "chains": [
+    "Polygon",
+    "Polygon zkEVM",
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "1delta is a non-custodial margin trading protocol with access to $10B in liquidity.",
@@ -21,7 +25,14 @@
     "twitter": "https://x.com/1deltaDAO"
   },
   "relations": {
-    "alternatives": ["ix-swap", "propellerswap"],
-    "related": ["coinmate", "ribbon-finance", "changenow"]
+    "alternatives": [
+      "ix-swap",
+      "propellerswap"
+    ],
+    "related": [
+      "coinmate",
+      "ribbon-finance",
+      "perpetual-protocol"
+    ]
   }
 }

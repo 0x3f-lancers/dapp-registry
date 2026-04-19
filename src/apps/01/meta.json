@@ -3,8 +3,12 @@
   "name": "01",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744590/web3-explorer/dapp-logos/01.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "Free",
   "content": {
     "short": "01 is a Solana decentralized exchange offering centralized-exchange features such as cross-margin and futures trading.",
@@ -17,7 +21,14 @@
     "twitter": "https://x.com/01exchange"
   },
   "relations": {
-    "alternatives": ["wardenswap", "paraswap", "xtoken-terminal"],
-    "related": ["changenow", "kucoin"]
+    "alternatives": [
+      "wardenswap",
+      "paraswap",
+      "xtoken-terminal"
+    ],
+    "related": [
+      "reaper-farm",
+      "saber"
+    ]
   }
 }

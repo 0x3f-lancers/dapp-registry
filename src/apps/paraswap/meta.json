@@ -3,8 +3,12 @@
   "name": "Paraswap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749068/web3-explorer/dapp-logos/paraswap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "Paraswap is a DeFi aggregator that pools liquidity across multiple chains for seamless trading.",
@@ -17,7 +21,14 @@
     "twitter": "https://x.com/paraswap"
   },
   "relations": {
-    "alternatives": ["unidex", "firebird-finance", "rubic"],
-    "related": ["bumper-finance", "binance"]
+    "alternatives": [
+      "unidex",
+      "firebird-finance",
+      "merchant-moe"
+    ],
+    "related": [
+      "bumper-finance",
+      "binance"
+    ]
   }
 }
