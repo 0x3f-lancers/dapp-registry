@@ -23,14 +23,15 @@
     "Solana",
     "Polygon zkEVM",
     "Polygon",
-    "Moonbeam"
+    "Moonbeam",
+    "TON"
   ],
   "pricing": "",
   "content": {
     "short": "RedStone provides fast, gas-efficient cross-chain data feeds as a blockchain oracle for DeFi protocols and institutions.",
-    "description": "RedStone delivers reliable, real-time financial data to blockchains for decentralized applications. Traditional oracle solutions are slow, expensive, or can't support the diverse range of assets that institutional DeFi requires. RedStone's modular architecture provides access to over 1,200 price feeds, enabling DeFi lending platforms to verify collateral values and tokenized asset protocols that price real-world assets like treasuries and private credit. Our infrastructure serves as the official oracle for major institutional players, including BlackRock's BUIDL fund, making it easier for developers to integrate production-grade oracle solutions that scale with their needs.",
-    "meta": "RedStone provides fast, gas-efficient cross-chain data feeds to power DeFi protocols. Discover RedStone and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "RedStone - DeFi Tools - Lancers Web3 Explorer"
+    "description": "RedStone delivers reliable, real-time financial data to blockchains for decentralized applications. Traditional oracle solutions are slow, expensive, or can't support the diverse range of assets that institutional DeFi requires. RedStone's modular architecture provides access to over 1,200 price feeds, enabling DeFi lending platforms to verify collateral values and tokenized asset protocols that price real-world assets like treasuries and private credit. In the TON stack, RedStone is useful around bridges, analytics, routing, or protocol discovery rather than as a standalone trading venue.",
+    "meta": "RedStone provides fast, gas-efficient cross-chain data feeds as a blockchain oracle for DeFi protocols a. Discover RedStone's TON role.",
+    "pageTitle": "RedStone - DeFi Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.redstone.finance/",
@@ -38,14 +39,14 @@
   },
   "relations": {
     "alternatives": [
-      "switchboard",
-      "supraoracles",
-      "muon"
+      "layerswap",
+      "rubic",
+      "symbiosis"
     ],
     "related": [
-      "kriya",
-      "kyberswap",
-      "velodrome"
+      "layerswap",
+      "rubic",
+      "symbiosis"
     ]
   }
 }

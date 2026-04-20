@@ -1,0 +1,36 @@
+{
+  "slug": "rubic",
+  "name": "Rubic",
+  "logoUrl": "https://ton.app/media/1448defa-142d-4dde-a8cd-9a35bf7ba88b.jpg?w=128&q=75",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Rubic is a cross-chain swap and bridge aggregator for moving assets across TON and many other networks.",
+    "description": "Rubic is a cross-chain swap aggregator that routes token exchanges and bridge transfers across supported blockchains. In the TON context, it gives users a way to move assets between TON and external networks while comparing routes, costs, and execution paths. The product is infrastructure for asset movement rather than a TON-only exchange. Rubic supports DeFi workflows that would otherwise require users to jump between explorers, bridges, dashboards, or routers. Rubic is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
+    "meta": "Rubic is a cross-chain swap and bridge aggregator for moving assets across TON and many other networks. Discover its TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "Rubic - DeFi Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rubic.exchange",
+    "twitter": "https://twitter.com/CryptoRubic",
+    "telegram": "https://t.me/cryptorubic_chat"
+  },
+  "relations": {
+    "alternatives": [
+      "symbiosis",
+      "tac-cross-chain-layer",
+      "ton-bridge"
+    ],
+    "related": [
+      "layerswap",
+      "utyabswap-bridge",
+      "ton-bridge"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "portfel",
+  "name": "Portfel",
+  "logoUrl": "https://ton.app/media/4af1381b-0978-415a-92a6-594ae4fac6ee.jpg?w=128&q=75",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Portfel is a TON portfolio tracker for assets, staking, liquidity positions, rewards, vaults, and history.",
+    "description": "Portfel is a portfolio tracker built specifically for TON. Its site and TON App listing describe a dashboard that collects wallet assets, staking, provided liquidity, rewards, open positions, vaults, NFTs, and historical portfolio data in one place. It is useful for users who want a clearer view of TON holdings without checking each protocol separately. Portfel fits developer tooling because it helps teams build, debug, deploy, index, or inspect TON applications more reliably.",
+    "meta": "Portfel is a TON portfolio tracker for assets, staking, liquidity positions, rewards, vaults, and history. Discover Portfel's TON role.",
+    "pageTitle": "Portfel - Web3 Developer Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://portfel.me",
+    "twitter": "https://x.com/PortfelTon",
+    "telegram": "https://t.me/ton_portfel_bot"
+  },
+  "relations": {
+    "alternatives": [
+      "tonviewer",
+      "tractioneye",
+      "arbitragescanner-io"
+    ],
+    "related": [
+      "arbitragescanner-io",
+      "3xpl",
+      "ton-api"
+    ]
+  }
+}

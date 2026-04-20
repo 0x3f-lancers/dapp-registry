@@ -18,14 +18,15 @@
     "Celo",
     "Harmony",
     "Tron",
-    "Solana"
+    "Solana",
+    "TON"
   ],
   "pricing": "",
   "content": {
     "short": "Multisender is an efficient and secure solution for airdrops and other batch transfers.",
     "description": "Multisender is a robust dapp designed to simplify token distribution to many recipients. Since 2018, a small team of crypto enthusiasts has kept it under active development and ongoing support. The tool is ideal for airdrops and other mass transfers of tokens to an unlimited number of addresses. You only need a smart wallet and a list of recipient addresses to initiate an airdrop with Multisender in just three clicks, making large-scale token deployments straightforward and accessible for developers, communities, and project teams.",
-    "meta": "Multisender is a tool for airdrops and batch transfers to multiple addresses. Discover Multisender and other Web3 Developer Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Multisender - Web3 Developer Tools - Lancers Web3 Explorer"
+    "meta": "Multisender is an efficient and secure solution for airdrops and other batch transfers. Discover its TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "Multisender - Web3 Developer Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://multisender.app",
@@ -33,11 +34,14 @@
   },
   "relations": {
     "alternatives": [
-      "web3cli"
+      "portfel",
+      "ton-api",
+      "tonviewer"
     ],
     "related": [
-      "tres-finance",
-      "bitbond"
+      "portfel",
+      "ton-api",
+      "tonviewer"
     ]
   }
 }

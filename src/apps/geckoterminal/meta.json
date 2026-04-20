@@ -7,14 +7,15 @@
     "Analytics Tools"
   ],
   "chains": [
-    "Multichain"
+    "Multichain",
+    "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "GeckoTerminal is a DEX data tracker and price charting tool by CoinGecko.",
-    "description": "GeckoTerminal provides real-time statistics and price analysis across multiple blockchains and decentralized exchanges, consolidating market data into a single view. Users can identify trends as they emerge and access up-to-date statistics on tokens and pools across diverse networks. The platform also presents Proof of Reserves data, enabling users to monitor centralized exchanges' on-chain holdings and assess reserve transparency directly on the blockchain.",
-    "meta": "GeckoTerminal provides real-time statistics and price analysis across multiple blockchains and decentralized exchanges. Discover GeckoTerminal and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "GeckoTerminal - DeFi Tools - Lancers Web3 Explorer"
+    "short": "GeckoTerminal is a DEX market tracker for token prices, pools, volume, and liquidity across TON and other chains.",
+    "description": "GeckoTerminal provides real-time statistics and price analysis across multiple blockchains and decentralized exchanges, consolidating market data into a single view. Users can identify trends as they emerge and access up-to-date statistics on tokens and pools across diverse networks. The platform also presents Proof of Reserves data, enabling users to monitor centralized exchanges' on-chain holdings and assess reserve transparency directly on the blockchain. GeckoTerminal supports DeFi workflows that would otherwise require users to jump between explorers, bridges, dashboards, or routers.",
+    "meta": "GeckoTerminal is a DEX data tracker and price charting tool by CoinGecko. Discover its TON DeFi tooling role and related infrastructure on Lancers Web3 Explorer.",
+    "pageTitle": "GeckoTerminal - DeFi Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.geckoterminal.com",
@@ -22,13 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "vaultsfyi",
-      "takeprofit",
-      "sentry"
+      "layerswap",
+      "rubic",
+      "symbiosis"
     ],
     "related": [
-      "defi",
-      "footprint-analytics"
+      "layerswap",
+      "rubic",
+      "symbiosis"
     ]
   }
 }

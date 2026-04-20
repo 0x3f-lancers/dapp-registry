@@ -1,0 +1,35 @@
+{
+  "slug": "ton-minter",
+  "name": "TON Minter",
+  "logoUrl": "https://x.com/ton_blockchain/photo",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "TON Minter lets users create and deploy fungible jetton smart contracts on TON in one workflow.",
+    "description": "TON Minter is a token creation utility for The Open Network. Its public description says it can create and deploy fungible token, or jetton, smart contracts to TON in one click. The tool is useful for teams launching TON assets without manually writing and deploying every contract step. TON Minter - create and deploy your own fungible token jetton smart contract to TON Blockchain in one click. It supports wallet workflows rather than replacing the wallet itself, helping users or apps with payments, names, ramps, token actions, or account operations.",
+    "meta": "TON Minter lets users create and deploy fungible jetton smart contracts on TON in one workflow. Discover its TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "TON Minter - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://minter.ton.org",
+    "twitter": "https://twitter.com/ton_blockchain"
+  },
+  "relations": {
+    "alternatives": [
+      "multisender",
+      "ton-verifier",
+      "tact-language"
+    ],
+    "related": [
+      "ton-api",
+      "tonviewer",
+      "ton-dns"
+    ]
+  }
+}

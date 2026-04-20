@@ -1,0 +1,35 @@
+{
+  "slug": "ton-verifier",
+  "name": "TON Verifier",
+  "logoUrl": "https://x.com/ton_blockchain/photo",
+  "category": "Solidity Tools",
+  "subcategory": [
+    "Smart Contract Tools"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "TON Verifier helps developers verify TON smart contracts and make contract source code easier to inspect.",
+    "description": "TON Verifier is a developer tool for checking and publishing smart contract verification information on TON. Its public description presents it as a way to verify contracts on the TON blockchain, which helps users and builders compare deployed code with source code. The product supports transparency around contracts rather than trading or custody. TON Contract Verifier - A tool to verify your contracts on the Ton blockchain. It helps projects avoid rebuilding low-level services before they can ship user-facing TON products.",
+    "meta": "TON Verifier helps developers verify TON smart contracts and make contract source code easier to inspect. Discover its TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "TON Verifier - Solidity Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://verifier.ton.org",
+    "twitter": "https://twitter.com/ton_blockchain"
+  },
+  "relations": {
+    "alternatives": [
+      "tact-language",
+      "ton-api",
+      "tonviewer"
+    ],
+    "related": [
+      "portfel",
+      "3xpl",
+      "ton-access"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "daolama",
+  "name": "DAOLama",
+  "logoUrl": "https://ton.app/media/3f0d7f67-209e-4944-a8bd-e8b38c6fb0f3.png?w=128&q=75",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT Analytics Tools"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "DAOLama is a TON NFT lending protocol that lets users borrow TON against supported NFT collateral.",
+    "description": "DAOLama is an NFT lending protocol built for TON collections. Its public site describes a direct borrowing workflow where users can receive TON liquidity against supported NFTs instead of selling those assets outright. The product is useful for collectors who want short-term liquidity, for lenders looking at NFT-backed exposure, and for TON NFT projects that need a lending market around their collections. It is part of the TON NFT tooling layer because it turns collectible ownership into a usable collateral position.",
+    "meta": "DAOLama is a TON NFT lending protocol for borrowing TON against supported NFT collateral. Discover its lending role on Lancers Web3 Explorer.",
+    "pageTitle": "DAOLama - NFT Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://daolama.co",
+    "twitter": "https://twitter.com/daolama_ton",
+    "telegram": "https://t.me/daolama"
+  },
+  "relations": {
+    "alternatives": [
+      "fractionft",
+      "getgems-io",
+      "arbitragescanner-io"
+    ],
+    "related": [
+      "not-pixel",
+      "ton-diamonds",
+      "ton-raffles"
+    ]
+  }
+}

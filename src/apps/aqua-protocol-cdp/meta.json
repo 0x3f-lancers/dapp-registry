@@ -1,0 +1,35 @@
+{
+  "slug": "aqua-protocol-cdp",
+  "name": "Aqua Protocol (CDP)",
+  "logoUrl": "https://ton.app/media/80f08057-1737-429a-ab19-10f44d831c80.png?w=128&q=75",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Aqua Protocol (CDP) is a TON borrowing protocol for minting AquaUSD from over-collateralized assets.",
+    "description": "Aqua Protocol (CDP) represents the AquaUSD borrowing side of Aqua Protocol on TON. Public TON listings describe it as a CDP system with fixed fees and an over-collateralized stablecoin backed by LST, LP, and RWA collateral. The public domain now shows the Upscale Telegram prop-trading product, so this registry entry uses the verified Aqua CDP description while flagging the changed live website context. Upscale is the first prop-trading platform fully integrated into Telegram mini-apps.",
+    "meta": "Aqua Protocol (CDP) is a TON borrowing protocol for minting AquaUSD from over-collateralized assets. Discover Aqua Protocol (CDP)'s TON role.",
+    "pageTitle": "Aqua Protocol (CDP) - Infrastructure Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aquaprotocol.xyz/?utm_source=tonapp&utm_medium=ecosystem&utm_campaign=aqua",
+    "twitter": "https://twitter.com/aquaprotocolxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "aqua-protocol",
+      "tonstable",
+      "torch-finance"
+    ],
+    "related": [
+      "beetroot-finance",
+      "evaa-protocol",
+      "ton-api"
+    ]
+  }
+}

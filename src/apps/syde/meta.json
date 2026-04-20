@@ -1,0 +1,35 @@
+{
+  "slug": "syde",
+  "name": "Syde",
+  "logoUrl": "https://icons.llama.fi/syde.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Synthetics"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Syde Protocol is a synthetic DeFi layer on TON for minting collateral-backed synthetic assets.",
+    "description": "Syde Protocol is a synthetic asset protocol built on TON. Its documentation explains that users deposit TON as collateral to mint synthetic assets representing markets such as stocks, commodities, currencies, and crypto assets from other chains. The protocol is designed to bring non-native market exposure and yield strategies into TON DeFi. Syde is included because users can take a concrete financial action there, not only read about a token. Syde is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
+    "meta": "Syde Protocol is a synthetic DeFi layer on TON for minting collateral-backed synthetic assets. Discover its TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "Syde - DeFi Dapps on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.syde.fi",
+    "twitter": "https://twitter.com/sydefi"
+  },
+  "relations": {
+    "alternatives": [
+      "swap-coffee",
+      "storm-trade",
+      "ston-fi"
+    ],
+    "related": [
+      "torch-finance",
+      "settleton",
+      "titan-dex"
+    ]
+  }
+}

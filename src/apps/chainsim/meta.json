@@ -1,0 +1,36 @@
+{
+  "slug": "chainsim",
+  "name": "Chainsim",
+  "logoUrl": "https://ton.app/media/7e88093d-03ee-43d1-9ac9-71ef2bd16e56.jpg?w=128&q=75",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Chainsim lets users mint NFT phone-style numbers for private logins and blockchain-verified authentication.",
+    "description": "Chainsim is an identity and authentication app for TON users. The project page describes NFT numbers that can be minted with a TON wallet and then used for private logins, one-time codes, and app verification without exposing a real phone number or email. It is best understood as a privacy-oriented login layer rather than a wallet or exchange. Chainsim is developer or operator infrastructure, so its value is backend support rather than a consumer wallet or token page. Chainsim is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
+    "meta": "Chainsim lets users mint NFT phone-style numbers for private logins. Discover its TON infrastructure role and related developer services on Lancers Web3 Explorer.",
+    "pageTitle": "Chainsim - Infrastructure Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.chainsim.io",
+    "twitter": "https://twitter.com/getchainsim",
+    "telegram": "https://t.me/chainsim_chat"
+  },
+  "relations": {
+    "alternatives": [
+      "ton-dns",
+      "ton-minter",
+      "multisender"
+    ],
+    "related": [
+      "esprito-protocol",
+      "ton-api",
+      "tonviewer"
+    ]
+  }
+}

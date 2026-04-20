@@ -1,0 +1,36 @@
+{
+  "slug": "ton-bridge",
+  "name": "TON Bridge",
+  "logoUrl": "https://ton.app/media/541a34f0-67bf-432b-b9ab-fb085793e578.png?w=128&q=75",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "TON Bridge helps users transfer assets from other networks into TON through cross-chain bridge routes.",
+    "description": "TON Bridge is a cross-chain transfer entry from the TON ecosystem. The official TON page describes moving assets from other networks, migration paths from older bridge solutions, LayerZero-related transfers, and getting external tokens onto TON. It is infrastructure for asset movement between TON and other chains. Migrate assets from TON Bridge to new solutions. For new transactions, we invite you to use next-gen solutions from the list below. It helps users or teams handle DeFi steps that would otherwise require several separate tools.",
+    "meta": "TON Bridge helps users transfer assets from other networks into TON through cross-chain bridge routes. Discover TON Bridge's TON role.",
+    "pageTitle": "TON Bridge - DeFi Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bridge.ton.org",
+    "twitter": "https://twitter.com/tonbankcard",
+    "telegram": "https://t.me/TONBridge_robot"
+  },
+  "relations": {
+    "alternatives": [
+      "tac-cross-chain-layer",
+      "symbiosis",
+      "rubic"
+    ],
+    "related": [
+      "utyabswap-bridge",
+      "layerswap",
+      "rubic"
+    ]
+  }
+}

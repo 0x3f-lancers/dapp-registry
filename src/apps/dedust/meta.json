@@ -7,14 +7,15 @@
     "Decentralized Exchanges"
   ],
   "chains": [
-    "Multichain"
+    "Multichain",
+    "TON"
   ],
   "pricing": "Free",
   "content": {
     "short": "DeDust is a leading AMM DEX on the TON blockchain, offering optimized routing and the native DUST token rewards.",
-    "description": "DeDust is a primary decentralized exchange and liquidity provider built on the TON (The Open Network) blockchain, designed to facilitate seamless asset swaps within the Telegram-integrated ecosystem. The platform features an advanced routing engine that optimizes trades across various liquidity pools, ensuring minimal slippage for both stable and volatile assets. Through its native DUST token, DeDust incentivizes liquidity provision and governance participation, fostering a community-driven growth model. As a core infrastructure component of TON, DeDust plays a vital role in onboarding millions of users into the decentralized finance landscape through a user-friendly and highly scalable interface.",
-    "meta": "DeDust is a premier AMM DEX and liquidity hub for the TON blockchain. Discover DeDust and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "DeDust - DeFi Dapps - Lancers Web3 Explorer"
+    "description": "DeDust is a primary decentralized exchange and liquidity provider built on the TON (The Open Network) blockchain, designed to facilitate seamless asset swaps within the Telegram-integrated ecosystem. The platform features an advanced routing engine that optimizes trades across various liquidity pools, ensuring minimal slippage for both stable and volatile assets. Through its native DUST token, DeDust incentivizes liquidity provision and governance participation, fostering a community-driven growth model.",
+    "meta": "DeDust is a leading AMM DEX on the TON blockchain, offering optimized routing. Discover its TON DeFi role, main workflow, and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "DeDust - DeFi Dapps on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://dedust.io",
@@ -22,14 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "clober",
-      "aerodrome",
-      "d5-exchange"
+      "axus-protocol",
+      "beetroot-finance",
+      "bidask"
     ],
     "related": [
-      "aevo",
-      "hyperliquid",
-      "compound"
+      "axus-protocol",
+      "beetroot-finance",
+      "bidask"
     ]
   }
 }

@@ -1,0 +1,36 @@
+{
+  "slug": "nowarp",
+  "name": "Nowarp",
+  "logoUrl": "https://ton.app/media/c81e76a6-e5af-4cb9-8b35-f473973eefde.png?w=128&q=75",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Auditing Companies"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "nowarp provides smart-contract audits and Misti security tooling for TON and Tact developers.",
+    "description": "nowarp is a Web3 security team focused on smart-contract audits and security tooling. Its public materials highlight Misti, a static analyzer for Tact and TON contracts, along with developer APIs, audit work, and extensible tooling for independent researchers. The project is relevant to TON teams because it helps catch contract issues earlier, supports safer launches, and gives builders a security workflow that is specific to the TON development stack rather than generic EVM-only review.",
+    "meta": "nowarp provides TON smart-contract audits, Misti static analysis, and security tooling. Discover its developer-security role on Lancers Web3 Explorer.",
+    "pageTitle": "Nowarp - Web3 Security Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nowarp.io",
+    "twitter": "https://twitter.com/nowarp_io",
+    "telegram": "https://t.me/nowarp_io"
+  },
+  "relations": {
+    "alternatives": [
+      "positiveweb3",
+      "quillaudits",
+      "hackenproof"
+    ],
+    "related": [
+      "hacken",
+      "beosin",
+      "solidity-auditor"
+    ]
+  }
+}

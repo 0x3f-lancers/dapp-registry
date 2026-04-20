@@ -13,14 +13,15 @@
     "OP Mainnet",
     "Solana",
     "Ethereum",
-    "Avalanche"
+    "Avalanche",
+    "TON"
   ],
   "pricing": "Paid",
   "content": {
-    "short": "Beosin is a leading global blockchain security company.",
+    "short": "Beosin is a blockchain security company providing audits, KYT, monitoring, and investigation support for TON teams.",
     "description": "Beosin provides an all-in-one blockchain security platform that covers smart contract audits, risk monitoring with alerts, KYT/AML, and crypto tracing. Founded by professors from world-renowned universities, the team includes 40+ PhDs and operates across Singapore, Korea, Japan, and more than ten additional countries. Beosin has audited over 2,500 smart contracts, including PancakeSwap, Uniswap, DAI, and OKSwap, with projects monitored by Beosin EagleEye. Its KYT/AML solution serves 100+ institutions, including Binance.",
-    "meta": "Beosin offers all-in-one blockchain security solution for audits, monitoring, KYT/AML, and tracing. Discover Beosin and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Beosin - Web3 Security Tools - Lancers Web3 Explorer"
+    "meta": "Beosin is a leading global blockchain security company. Discover its security role, TON relevance, and related audit tools on Lancers Web3 Explorer.",
+    "pageTitle": "Beosin - Web3 Security Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.beosin.com/",
@@ -28,14 +29,14 @@
   },
   "relations": {
     "alternatives": [
-      "web3-antivirus",
-      "peckshield",
-      "nethermind-security"
+      "certik",
+      "decurity",
+      "hacken"
     ],
     "related": [
-      "solidityscan",
-      "forta",
-      "wallet-guard"
+      "certik",
+      "decurity",
+      "hacken"
     ]
   }
 }
