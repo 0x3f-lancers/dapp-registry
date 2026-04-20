@@ -75,7 +75,7 @@ jobs:
           echo "${{ env.CUSTOM_DOMAIN }}" > build/CNAME
 
       - name: Upload build artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./build
 
