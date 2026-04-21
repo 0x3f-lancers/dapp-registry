@@ -1,0 +1,36 @@
+{
+  "slug": "demex",
+  "name": "Demex",
+  "logoUrl": "https://x.com/demexchange/photo",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives",
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Demex is a decentralized exchange for spot, perpetual, futures, lending, borrowing, staking, and liquidity pools.",
+    "description": "Demex, also called Decentralized Mercantile Exchange, is a decentralized trading platform built for a fully on-chain financial system. Its documentation describes support for order-book trading, spot markets, perpetuals, futures, lending and borrowing, staking, and liquidity pools. Demex uses a fast finality trading environment and an oracle network designed to update asset data quickly for on-chain markets. For Mantle users, Demex adds a multi-product DeFi venue where trading, earning, and market creation can happen from one platform instead of separate applications.",
+    "meta": "Demex is an on-chain exchange for spot, derivatives, lending, staking, and liquidity markets. Discover Demex on Lancers Web3 Explorer.",
+    "pageTitle": "Demex - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.dem.exchange/",
+    "twitter": "https://x.com/demexchange"
+  },
+  "relations": {
+    "alternatives": [
+      "symmio",
+      "timeswap",
+      "thetanuts-finance"
+    ],
+    "related": [
+      "fusionx",
+      "stryke",
+      "0x"
+    ]
+  }
+}

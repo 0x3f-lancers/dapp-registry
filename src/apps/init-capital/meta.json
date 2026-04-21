@@ -1,0 +1,35 @@
+{
+  "slug": "init-capital",
+  "name": "INIT Capital",
+  "logoUrl": "https://x.com/InitCapital_/photo",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "INIT Capital is a Mantle money market for lending, borrowing, and building yield strategies with Liquidity Hooks.",
+    "description": "INIT Capital is a decentralized money market built around Liquidity Hooks, a design that lets users lend assets, borrow against collateral, and attach positions to yield strategies from one dashboard. The protocol supports Mantle and presents strategies such as looping, leverage farming, and pair or margin exposure through hook modules. For builders, INIT offers a way to bootstrap liquidity and connect new DeFi use cases to an existing lending base, while users can manage deposits, borrows, and strategy positions without leaving the INIT interface.",
+    "meta": "INIT Capital is a Mantle money market for lending, borrowing, and Liquidity Hook yield strategies. Discover INIT Capital on Lancers Web3 Explorer.",
+    "pageTitle": "INIT Capital - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://init.capital/",
+    "twitter": "https://x.com/InitCapital_"
+  },
+  "relations": {
+    "alternatives": [
+      "lendle",
+      "compound-finance",
+      "kinza-finance"
+    ],
+    "related": [
+      "fusionx",
+      "symbiosis",
+      "onramp-money"
+    ]
+  }
+}

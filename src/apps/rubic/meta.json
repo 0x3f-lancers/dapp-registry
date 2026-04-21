@@ -1,0 +1,35 @@
+{
+  "slug": "rubic",
+  "name": "Rubic",
+  "logoUrl": "https://x.com/CryptoRubic/photo",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Rubic is a cross-chain swap aggregator and best-rate finder for trading assets across many networks.",
+    "description": "Rubic is a decentralized cross-chain and on-chain swap aggregator that searches across DEXs, bridges, intent protocols, and other liquidity sources to find efficient routes for token trades. Its documentation describes support for dozens of blockchains, a large token universe, and a best-rate finder designed to remove the manual work of comparing bridges and exchanges. Rubic keeps swaps non-custodial and provides SDK tooling for apps that want to add cross-chain trading. For Mantle users, Rubic helps route assets into, out of, and across the ecosystem.",
+    "meta": "Rubic aggregates DEXs and bridges for cross-chain and on-chain swaps. Discover Rubic on Lancers Web3 Explorer.",
+    "pageTitle": "Rubic - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rubic.exchange/",
+    "twitter": "https://x.com/CryptoRubic"
+  },
+  "relations": {
+    "alternatives": [
+      "xy-finance",
+      "openocean",
+      "odos"
+    ],
+    "related": [
+      "symbiosis",
+      "owlto-finance",
+      "router-protocol"
+    ]
+  }
+}

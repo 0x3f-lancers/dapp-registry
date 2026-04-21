@@ -1,0 +1,35 @@
+{
+  "slug": "okx-wallet",
+  "name": "OKX Wallet",
+  "logoUrl": "https://x.com/wallet/photo",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "OKX Wallet is a self-custody multi-chain wallet for storing, swapping, trading, earning, and exploring DApps.",
+    "description": "OKX Wallet is a self-managed crypto wallet and Web3 gateway that supports more than 130 native chains. It combines asset storage, DEX swapping, trading tools, staking discovery, NFT access, market analysis, alerts, and WalletConnect compatibility in one product. The wallet emphasizes self-custody, private-key control, biometric authentication, encrypted storage, and security reviews. For Mantle users, OKX Wallet provides a familiar multi-chain interface for managing assets, connecting to DApps, swapping tokens, and discovering on-chain opportunities across Mantle and other supported networks.",
+    "meta": "OKX Wallet is a self-custody multi-chain wallet for assets, swaps, staking, NFTs, and DApps. Discover OKX Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "OKX Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://web3.okx.com/",
+    "twitter": "https://x.com/wallet"
+  },
+  "relations": {
+    "alternatives": [
+      "coin98",
+      "metamask",
+      "onekey"
+    ],
+    "related": [
+      "krystal-wallet",
+      "openblock-wallet",
+      "transak"
+    ]
+  }
+}
