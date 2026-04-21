@@ -1,7 +1,7 @@
 {
   "slug": "polyhedra-network",
   "name": "Polyhedra Network",
-  "logoUrl": "https://img.logo.dev/zkbridge.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/PolyhedraZK/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -18,22 +18,18 @@
   },
   "links": {
     "website": "https://zkbridge.com/",
-    "twitter": "https://x.com/PolyhedraZK",
-    "discord": "https://discord.gg/polyhedra",
-    "docs": "https://docs.zkbridge.com",
-    "github": "https://github.com/polyhedra-network",
-    "telegram": "https://t.me/PolyhedraZK"
+    "twitter": "https://x.com/PolyhedraZK"
   },
   "relations": {
     "alternatives": [
-      "layerzero",
+      "atlas",
       "axelar",
-      "meson"
+      "blockchair"
     ],
     "related": [
-      "stargate",
-      "axelar",
-      "meson"
+      "chasm-network",
+      "cobo-argus",
+      "etherspot"
     ]
   }
 }

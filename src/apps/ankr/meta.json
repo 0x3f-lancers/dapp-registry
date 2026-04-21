@@ -1,7 +1,7 @@
 {
   "slug": "ankr",
   "name": "Ankr",
-  "logoUrl": "https://img.logo.dev/ankr.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/ankr/photo",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -18,20 +18,18 @@
   },
   "links": {
     "website": "https://www.ankr.com/",
-    "twitter": "https://x.com/ankr",
-    "discord": "https://discord.gg/ankr",
-    "docs": "https://www.ankr.com/docs/",
-    "github": "https://github.com/ankr-network"
+    "twitter": "https://x.com/ankr"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "biconomy",
+      "birdeye-data-services",
+      "din-infura"
     ],
     "related": [
-      "alchemy",
-      "moralis"
+      "flipside",
+      "hive-intelligence",
+      "idriss"
     ]
   }
 }

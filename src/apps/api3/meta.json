@@ -1,7 +1,7 @@
 {
   "slug": "api3",
   "name": "Api3",
-  "logoUrl": "https://img.logo.dev/api3.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/api3dao/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -18,22 +18,18 @@
   },
   "links": {
     "website": "https://api3.org/",
-    "twitter": "https://x.com/API3DAO",
-    "discord": "https://discord.gg/api3dao",
-    "docs": "https://docs.api3.org",
-    "github": "https://github.com/api3dao",
-    "telegram": "https://t.me/API3DAO"
+    "twitter": "https://x.com/api3dao"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "chainlink",
+      "chronicle-protocol",
+      "ora"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "tellor",
+      "atlas",
+      "axelar"
     ]
   }
 }

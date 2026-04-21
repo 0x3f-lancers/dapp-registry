@@ -1,0 +1,35 @@
+{
+  "slug": "pumpbtc",
+  "name": "PumpBTC",
+  "logoUrl": "https://x.com/Pumpbtcxyz/photo",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "PumpBTC is a Bitcoin liquid staking protocol that issues pumpBTC for BTCFi and Babylon-linked yield.",
+    "description": "PumpBTC is a Bitcoin liquid staking and restaking protocol that helps BTC holders access yield while keeping a liquid asset usable in DeFi. Users deposit BTC-related assets such as WBTC or BTCB and receive pumpBTC, while equivalent native BTC is delegated through custodial and staking infrastructure connected to Babylon finality providers. The model lets users keep exposure to Bitcoin, earn staking rewards, and deploy pumpBTC across EVM DeFi markets. On Mantle, PumpBTC expands BTCFi liquidity and gives applications another productive Bitcoin-backed asset to integrate.",
+    "meta": "PumpBTC brings Bitcoin liquid staking and BTCFi yield opportunities to Mantle DeFi users.",
+    "pageTitle": "PumpBTC - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mainnet.pumpbtc.xyz/",
+    "twitter": "https://x.com/Pumpbtcxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "pell-network",
+      "0x",
+      "1delta"
+    ],
+    "related": [
+      "abacus",
+      "agni",
+      "airpuff"
+    ]
+  }
+}

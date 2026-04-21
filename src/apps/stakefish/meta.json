@@ -1,7 +1,7 @@
 {
   "slug": "stakefish",
   "name": "Stakefish",
-  "logoUrl": "https://img.logo.dev/stake.fish?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/stakefish/photo",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -22,14 +22,14 @@
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "agentlayer",
+      "automata",
+      "boomfi"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "drpc",
+      "omnia-protocol",
+      "phalcon"
     ]
   }
 }

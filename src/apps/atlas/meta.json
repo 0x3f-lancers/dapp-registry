@@ -1,7 +1,7 @@
 {
   "slug": "atlas",
   "name": "Atlas",
-  "logoUrl": "https://img.logo.dev/atlas-protocol.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/_atlasprotocol/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -18,20 +18,18 @@
   },
   "links": {
     "website": "https://atlas-protocol.com/",
-    "twitter": "https://x.com/atlas_protocol",
-    "discord": "https://discord.gg/atlasprotocol",
-    "docs": "https://docs.atlas-protocol.com/"
+    "twitter": "https://x.com/_atlasprotocol"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "axelar",
+      "blockchair",
+      "chasm-network"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "cobo-argus",
+      "etherspot",
+      "hyperlane"
     ]
   }
 }

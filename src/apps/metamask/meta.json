@@ -1,7 +1,7 @@
 {
   "slug": "metamask",
   "name": "MetaMask",
-  "logoUrl": "https://img.logo.dev/metamask.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/metamask/photo",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -18,17 +18,18 @@
   },
   "links": {
     "website": "https://metamask.io/",
-    "twitter": "https://x.com/MetaMask"
+    "twitter": "https://x.com/metamask"
   },
   "relations": {
     "alternatives": [
-      "bitget-wallet",
-      "okx-wallet",
-      "tokenpocket"
+      "0x",
+      "1delta",
+      "agni"
     ],
     "related": [
-      "safe",
-      "okx-wallet"
+      "algebra-protocol",
+      "archly-v2",
+      "banxa"
     ]
   }
 }

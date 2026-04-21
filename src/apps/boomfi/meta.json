@@ -1,7 +1,7 @@
 {
   "slug": "boomfi",
   "name": "BoomFi",
-  "logoUrl": "https://img.logo.dev/boomfi.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/boom_fi/photo",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -17,21 +17,19 @@
     "pageTitle": "BoomFi - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.boomfi.xyz",
-    "twitter": "https://x.com/boomfi_",
-    "discord": "https://discord.gg/boomfi",
-    "docs": "https://docs.boomfi.xyz"
+    "website": "https://www.boomfi.xyz/",
+    "twitter": "https://x.com/boom_fi"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "agentlayer",
+      "automata",
+      "drpc"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "omnia-protocol",
+      "phalcon",
+      "range-protocol"
     ]
   }
 }

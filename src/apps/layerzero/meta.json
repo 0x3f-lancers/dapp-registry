@@ -1,7 +1,7 @@
 {
   "slug": "layerzero",
   "name": "LayerZero",
-  "logoUrl": "https://img.logo.dev/layerzero.network?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/layerzero_core/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -18,20 +18,18 @@
   },
   "links": {
     "website": "https://layerzero.network/",
-    "twitter": "https://x.com/LayerZero_Core",
-    "discord": "https://discord.gg/layerzero",
-    "docs": "https://docs.layerzero.network",
-    "github": "https://github.com/LayerZero-Labs"
+    "twitter": "https://x.com/layerzero_core"
   },
   "relations": {
     "alternatives": [
+      "atlas",
       "axelar",
-      "meson"
+      "blockchair"
     ],
     "related": [
-      "stargate",
-      "axelar",
-      "meson"
+      "chasm-network",
+      "cobo-argus",
+      "etherspot"
     ]
   }
 }

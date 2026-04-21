@@ -1,7 +1,7 @@
 {
   "slug": "ondo",
   "name": "ONDO",
-  "logoUrl": "https://img.logo.dev/ondo.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/ondofinance/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -18,21 +18,18 @@
   },
   "links": {
     "website": "https://ondo.finance/",
-    "twitter": "https://x.com/OndoFinance",
-    "discord": "https://discord.gg/ondofinance",
-    "docs": "https://docs.ondo.finance",
-    "linkedin": "https://www.linkedin.com/company/ondofinance"
+    "twitter": "https://x.com/ondofinance"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "atlas",
+      "axelar",
+      "blockchair"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "chasm-network",
+      "cobo-argus",
+      "etherspot"
     ]
   }
 }

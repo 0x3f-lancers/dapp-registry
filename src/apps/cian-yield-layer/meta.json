@@ -1,0 +1,35 @@
+{
+  "slug": "cian-yield-layer",
+  "name": "CIAN Yield Layer",
+  "logoUrl": "https://x.com/CIAN_protocol/photo",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "CIAN Yield Layer is an ERC-4626 yield infrastructure product for structured, automated DeFi strategies.",
+    "description": "CIAN Yield Layer is a yield infrastructure layer that consolidates secure and sustainable yield sources into structured vault products. Users deposit supported assets into vault contracts and receive shares representing their position, while strategy contracts dynamically allocate funds across lending, staking, restaking, and liquidity strategies. The system is designed around transparent smart contracts, multisig-controlled parameters, and data endpoints for builders who want to integrate vault information. On Mantle, CIAN Yield Layer helps route assets into curated yield strategies while keeping users' deposits represented on-chain.",
+    "meta": "CIAN Yield Layer provides structured ERC-4626 yield vaults and automated DeFi strategies on Mantle.",
+    "pageTitle": "CIAN Yield Layer - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://yieldlayer.cian.app/",
+    "twitter": "https://x.com/CIAN_protocol"
+  },
+  "relations": {
+    "alternatives": [
+      "abacus",
+      "eigenlayer",
+      "equilibria"
+    ],
+    "related": [
+      "ichi",
+      "infinit",
+      "zircuit"
+    ]
+  }
+}

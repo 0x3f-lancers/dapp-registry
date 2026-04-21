@@ -1,7 +1,7 @@
 {
   "slug": "chronicle-protocol",
   "name": "Chronicle Protocol",
-  "logoUrl": "https://img.logo.dev/chroniclelabs.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/chroniclelabs/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -18,20 +18,18 @@
   },
   "links": {
     "website": "https://chroniclelabs.org/",
-    "twitter": "https://x.com/chronicle_labs",
-    "discord": "https://discord.gg/chroniclelabs",
-    "docs": "https://docs.chroniclelabs.org",
-    "github": "https://github.com/chronicleprotocol"
+    "twitter": "https://x.com/chroniclelabs"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone"
+      "api3",
+      "chainlink",
+      "ora"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "tellor",
+      "atlas",
+      "axelar"
     ]
   }
 }

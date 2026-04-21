@@ -1,7 +1,7 @@
 {
   "slug": "solv-protocol",
   "name": "Solv Protocol",
-  "logoUrl": "https://img.logo.dev/solv.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/SolvProtocol/photo",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -17,22 +17,19 @@
     "pageTitle": "Solv Protocol - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://app.solv.finance/earn",
-    "twitter": "https://x.com/SolvProtocol",
-    "discord": "https://discord.gg/solv",
-    "docs": "https://docs.solv.finance",
-    "telegram": "https://t.me/SolvProtocol"
+    "website": "https://app.solv.finance/solvbtc",
+    "twitter": "https://x.com/SolvProtocol"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "agentlayer",
+      "automata",
+      "boomfi"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "drpc",
+      "omnia-protocol",
+      "phalcon"
     ]
   }
 }

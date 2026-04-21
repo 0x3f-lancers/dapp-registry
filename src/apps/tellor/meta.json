@@ -1,7 +1,7 @@
 {
   "slug": "tellor",
   "name": "Tellor",
-  "logoUrl": "https://img.logo.dev/tellor.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/wearetellor/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -17,23 +17,19 @@
     "pageTitle": "Tellor - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://tellor.io",
-    "twitter": "https://x.com/WeAreTellor",
-    "discord": "https://discord.gg/tellor",
-    "docs": "https://docs.tellor.io",
-    "github": "https://github.com/tellor-io",
-    "telegram": "https://t.me/tellor"
+    "website": "https://tellor.io/",
+    "twitter": "https://x.com/wearetellor"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
+      "api3",
+      "chainlink",
       "chronicle-protocol"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "ora",
+      "atlas",
+      "axelar"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "agentlayer",
   "name": "AgentLayer",
-  "logoUrl": "https://img.logo.dev/agentlayer.xyz?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/agent_layer/photo",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -18,21 +18,18 @@
   },
   "links": {
     "website": "https://www.agentlayer.xyz/",
-    "twitter": "https://x.com/AgentLayer",
-    "discord": "https://discord.gg/agentlayer",
-    "docs": "https://docs.agentlayer.xyz/",
-    "github": "https://github.com/agentlayer"
+    "twitter": "https://x.com/agent_layer"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "automata",
+      "boomfi",
+      "drpc"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "omnia-protocol",
+      "phalcon",
+      "range-protocol"
     ]
   }
 }

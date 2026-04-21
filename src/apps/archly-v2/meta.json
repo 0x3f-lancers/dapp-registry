@@ -1,0 +1,35 @@
+{
+  "slug": "archly-v2",
+  "name": "Archly V2",
+  "logoUrl": "https://x.com/ArchlyIO/photo",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Archly V2 is a cross-chain ve(3,3) DEX with stable and volatile AMM pools plus incentive voting.",
+    "description": "Archly V2 is a decentralized exchange based on the Solidly ve(3,3) design, expanded for cross-chain liquidity and incentive coordination. The protocol supports both stable and volatile pools, custom pool fees, gauges, bribes, emissions voting, and a liquid incentive system intended to help protocols bootstrap useful liquidity instead of temporary farm-and-dump capital. Archly also connects its DEX to Rainbow Road, its cross-chain infrastructure layer, so projects can build liquidity and voting markets across multiple EVM ecosystems including Mantle.",
+    "meta": "Archly V2 is a cross-chain ve(3,3) DEX for swaps, gauges, voting, and liquidity incentives on Mantle.",
+    "pageTitle": "Archly V2 - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.archly.fi/",
+    "twitter": "https://x.com/ArchlyIO"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1delta",
+      "agni"
+    ],
+    "related": [
+      "algebra-protocol",
+      "banxa",
+      "beefy"
+    ]
+  }
+}

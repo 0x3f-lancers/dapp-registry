@@ -1,7 +1,7 @@
 {
   "slug": "retrobridge",
   "name": "RetroBridge",
-  "logoUrl": "https://img.logo.dev/retrobridge.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/retro_bridge/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -18,20 +18,18 @@
   },
   "links": {
     "website": "https://retrobridge.io/",
-    "twitter": "https://x.com/retro_bridge",
-    "discord": "https://discord.gg/retrobridge",
-    "telegram": "https://t.me/retrobridge"
+    "twitter": "https://x.com/retro_bridge"
   },
   "relations": {
     "alternatives": [
-      "layerzero",
+      "atlas",
       "axelar",
-      "meson"
+      "blockchair"
     ],
     "related": [
-      "stargate",
-      "axelar",
-      "meson"
+      "chasm-network",
+      "cobo-argus",
+      "etherspot"
     ]
   }
 }

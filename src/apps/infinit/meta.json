@@ -1,0 +1,35 @@
+{
+  "slug": "infinit",
+  "name": "INFINIT",
+  "logoUrl": "https://x.com/Infinit_Labs/photo",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "INFINIT is an AI-powered DeFi execution app for creating and running multi-step strategies from prompts.",
+    "description": "INFINIT is an agent-based DeFi application that helps users research, create, simulate, and execute on-chain financial strategies. Its Prompt-to-DeFi workflow turns natural-language instructions into executable strategies, while specialized AI agents coordinate swaps, bridges, lending actions, and other protocol interactions in a non-custodial flow. Strategy creators can publish repeatable workflows and users can preview the protocols, tokens, and expected outcomes before approving transactions. On Mantle, INFINIT simplifies complex DeFi execution for yield, leverage, and airdrop-style strategies.",
+    "meta": "INFINIT uses AI agents to create, simulate, and execute DeFi strategies on Mantle.",
+    "pageTitle": "INFINIT - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://infinit.tech/",
+    "twitter": "https://x.com/Infinit_Labs"
+  },
+  "relations": {
+    "alternatives": [
+      "abacus",
+      "cian-yield-layer",
+      "eigenlayer"
+    ],
+    "related": [
+      "equilibria",
+      "ichi",
+      "zircuit"
+    ]
+  }
+}

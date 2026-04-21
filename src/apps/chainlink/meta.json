@@ -1,7 +1,7 @@
 {
   "slug": "chainlink",
   "name": "Chainlink",
-  "logoUrl": "https://img.logo.dev/chain.link?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/chainlink/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -18,22 +18,18 @@
   },
   "links": {
     "website": "https://chain.link/",
-    "twitter": "https://x.com/chainlink",
-    "discord": "https://discord.gg/chainlink",
-    "docs": "https://docs.chain.link",
-    "github": "https://github.com/smartcontractkit",
-    "linkedin": "https://www.linkedin.com/company/chainlink-labs"
+    "twitter": "https://x.com/chainlink"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "api3",
+      "chronicle-protocol",
+      "ora"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "tellor",
+      "atlas",
+      "axelar"
     ]
   }
 }

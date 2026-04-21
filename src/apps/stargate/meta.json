@@ -1,7 +1,7 @@
 {
   "slug": "stargate",
   "name": "Stargate",
-  "logoUrl": "https://img.logo.dev/stargate.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://x.com/stargatefinance/photo",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -18,21 +18,18 @@
   },
   "links": {
     "website": "https://stargate.finance/",
-    "twitter": "https://x.com/StargateFinance",
-    "discord": "https://discord.gg/stargate",
-    "docs": "https://stargateprotocol.gitbook.io/stargate",
-    "github": "https://github.com/stargate-protocol"
+    "twitter": "https://x.com/stargatefinance"
   },
   "relations": {
     "alternatives": [
-      "pyth",
-      "redstone",
-      "chronicle-protocol"
+      "atlas",
+      "axelar",
+      "blockchair"
     ],
     "related": [
-      "ankr",
-      "alchemy",
-      "moralis"
+      "chasm-network",
+      "cobo-argus",
+      "etherspot"
     ]
   }
 }
