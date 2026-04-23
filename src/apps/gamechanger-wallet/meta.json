@@ -11,15 +11,15 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "The ultimate crypto wallet experience for the Web, with native NFT and token features, powered by Cardano.",
-    "description": "Whether you use it daily, study or build with it, GameChanger Wallet seeks to be useful for you by solving all those obstacles that keep you away from your goals. Avoid wasting time setting fees, minimun ADA values, manually calculating if you have enough funds or searching for token's and NFT's fingerprints for sending assets. Colored cards and wallet gamification to the rescue! Multiple NFT minting based on file drag and dropping. Identify tokens minted under the same monetary policy by comparing their avatars.",
-    "meta": "GameChanger Wallet whether you use it daily, study or build with it. Explore GameChanger Wallet on Lancers Web3 Explorer.",
+    "short": "GameChanger Wallet is a feature-rich, non-custodial web wallet for Cardano with NFT minting and dApp connectivity.",
+    "description": "GameChanger Wallet is a powerful, non-custodial web wallet built to enhance the user experience across the Cardano blockchain. It offers a suite of advanced features, including native NFT minting, drag-and-drop asset management, and a Universal Dapp Connector for direct integration with Web3 platforms like Future Fest. The wallet's unique 'intents' system allows users to interact with smart contracts and verify ownership directly within decentralized applications. By prioritizing technical flexibility, GameChanger Wallet serves as a vital bridge for both everyday users and developers.",
+    "meta": "GameChanger Wallet is a non-custodial Cardano web wallet for NFT minting and dApp connections. Explore it now on Lancers Web3 Explorer.",
     "pageTitle": "GameChanger Wallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://gamechanger.finance/",
     "twitter": "https://x.com/gamechangerok",
-    "docs": "https://gamechanger.finance/"
+    "docs": "https://gamechangerfinance.github.io/gamechanger.wallet/docs/"
   },
   "relations": {
     "alternatives": [
@@ -29,7 +29,8 @@
     ],
     "related": [
       "chainup-mpc-wallet",
-      "etherspot-sdk"
+      "etherspot-sdk",
+      "yoroi-wallet"
     ]
   }
 }

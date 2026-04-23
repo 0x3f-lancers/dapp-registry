@@ -2,30 +2,31 @@
   "slug": "tosidrop",
   "name": "TosiDrop",
   "logoUrl": "https://cdn.cardanocube.com/49tb0bcwbdo64eltaz3tpzubihgg",
-  "category": "Infrastructure Tools",
+  "category": "Web3 Wallet Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Token Management Tools"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "An all-encompassing token distribution platform for the Cardano and Ergo blockchains the two most decentralized.",
-    "description": "TosiDrop is a token distribution platform on Cardano and Ergo that allows projects in the ecosystem to seamlessly distribute tokens to their community members. Our mission is to contribute to decentralization by allowing projects to distribute tokens to their community members in a secure manner. Our vision is to deliver world-class blockchain experiences safely, securely, and maximally decentralized.",
-    "meta": "A token distribution platform on Cardano and Ergo that allows projects in the ecosystem to seamlessly. Explore TosiDrop on Lancers Web3 Explorer.",
-    "pageTitle": "TosiDrop - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "TosiDrop is a premier token distribution platform on Cardano and Ergo for vending machines and airdrops.",
+    "description": "TosiDrop is an all-encompassing token distribution platform specifically designed for the Cardano and Ergo blockchains. The protocol enables developers to distribute tokens to their communities through two primary mechanisms: an automated vending machine for manual claims and a bulk airdrop tool for mass distribution via CSV uploads. Powered by the $cTOSI and $eTOSI tokens, the platform prioritizes decentralization and user safety. By simplifying the distribution process, TosiDrop helps new projects bootstrap their ecosystems and engage with participants across both networks.",
+    "meta": "TosiDrop is a Cardano and Ergo token distribution platform for project airdrops and vending machines. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "TosiDrop - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://tosidrop.me/",
     "twitter": "https://x.com/tosidrop",
     "telegram": "https://t.me/TosiDropReal",
-    "docs": "https://medium.com/@tosidrop/tosidrop-litepaper-aca31158168b"
+    "docs": "https://docs.tosidrop.me/"
   },
   "relations": {
     "alternatives": [
       "cryptofonts",
-      "staking-rewards-calculator"
+      "staking-rewards-calculator",
+      "cexplorer"
     ],
     "related": [
       "chainjet",

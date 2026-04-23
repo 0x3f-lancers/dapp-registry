@@ -2,19 +2,19 @@
   "slug": "theos",
   "name": "THEOS",
   "logoUrl": "https://cdn.cardanocube.com/0yu8p3kjdywc8x75zagaa6mto8n0",
-  "category": "DeFi Dapps",
+  "category": "NFT Dapps",
   "subcategory": [
-    "Decentralized Exchanges"
+    "NFT Lending Dapps"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "THEOS is a DeFi ecosystem for NFTs with tools for minting, marketplace trading, and liquidity on tokenized assets.",
-    "description": "THEOS presents itself as a DeFi ecosystem for NFTs built around minting, trading, and liquidity. The platform offers tools to tokenize files into NFTs, buy and sell them through its marketplace, and access liquidity-pool functionality for non-fungible assets. Its website also ties platform activity to social-impact initiatives, positioning THEOS as both an NFT-finance product and a creator-focused ecosystem.",
-    "meta": "THEOS presents itself as a DeFi ecosystem for NFTs built around minting, trading, and liquidity. Explore THEOS on Lancers Web3 Explorer.",
-    "pageTitle": "THEOS - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "THEOS is a decentralized NFT-to-DeFi platform on Cardano designed to provide instant asset liquidity.",
+    "description": "THEOS is a pioneering protocol on the Cardano blockchain that aims to solve the liquidity challenges often associated with digital art and collectibles. The platform allows creators and investors to mint NFTs and access instant liquidity through innovative DeFi mechanisms, essentially enabling digital assets to be used as collateral. By bridging the gap between the NFT market and decentralized finance, THEOS provides a more liquid and efficient environment for trading and value creation. The protocol is governed by its community, prioritizing transparency and financial democratization.",
+    "meta": "THEOS is a Cardano NFT-to-DeFi platform providing instant liquidity and collateral options for art. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "THEOS - NFT Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://theos.fi/",
@@ -25,7 +25,8 @@
   "relations": {
     "alternatives": [
       "waffle-capital",
-      "propellerswap"
+      "propellerswap",
+      "wingriders"
     ],
     "related": [
       "kube-coin",

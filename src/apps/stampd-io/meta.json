@@ -2,19 +2,19 @@
   "slug": "stampd-io",
   "name": "Stampd.io",
   "logoUrl": "https://cdn.cardanocube.com/699mquev4adwpp2f3qmpa50b4qyp",
-  "category": "NFT Dapps",
+  "category": "Identity Tools",
   "subcategory": [
-    "NFT Marketplaces"
+    "Web3 Credential Tools"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Stampd.io - Blockchain Stamping and Non-fungible Tokens (NFT) Stampd.io STAMPD Notarize.",
-    "description": "Stampd.io allows minting NFT tokens on the Cardano blockchain. It also provides a service of implementing the NFT token on an NFC tag to link the NFT with physical objects. NFT minting on the Cardano blockchain. Use the public blockchains to timestamp your files with indelible proof. Create non-fungible tokens (NFT) in Cardano. It provides feedback on whether a SHA256 hash has been stamped on the selected blockcha through stampd.io and whether the pertinent transaction has been included in a block with the appropriate confirmations.",
-    "meta": "Stampd.io allows minting NFT tokens on the Cardano blockchain. Explore Stampd.io on Lancers Web3 Explorer.",
-    "pageTitle": "Stampd.io - NFT Dapps - Lancers Web3 Explorer"
+    "short": "Stampd.io is a blockchain-based verification tool for timestamping and securing documents on Cardano.",
+    "description": "Stampd.io is a specialized digital utility that enables users to timestamp and verify documents on the Cardano blockchain. The platform creates an immutable, permanent record of a file's existence and integrity at a specific point in time, providing proof of origin without exposing the document's content. This technology is ideal for intellectual property protection, legal compliance, and authenticating academic certifications as NFTs. By bridging the gap between traditional data and decentralized security, Stampd.io ensures that critical digital assets remain verifiable and tamper-proof.",
+    "meta": "Stampd.io offers blockchain-based document timestamping and verification tools for Cardano. Explore Stampd.io on Lancers Web3 Explorer.",
+    "pageTitle": "Stampd.io - Identity Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://stampd.io/",
@@ -29,7 +29,8 @@
     ],
     "related": [
       "nftrade",
-      "overtime-markets"
+      "overtime-markets",
+      "jpg-store"
     ]
   }
 }

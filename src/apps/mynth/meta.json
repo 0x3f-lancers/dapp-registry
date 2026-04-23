@@ -2,30 +2,31 @@
   "slug": "mynth",
   "name": "Mynth",
   "logoUrl": "https://cdn.cardanocube.com/kqo7o9uf8lwoeuvq903ikdlerl68",
-  "category": "DeFi Dapps",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Web3 Bridges"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Mynth is a cross-chain intents protocol that abstracts tokens to live on every chain.",
-    "description": "Mynth is a cross-chain intents protocol that abstracts tokens to live on every chain. Mynth - Tokens, unchained. Mynth supports seamless asset conversion and easy arbitrage, operating across blockchains, by simplifying the process of asset swaps through a straightforward and user-friendly interface. Users select the synthetic asset they wish to exchange and provide the receiving address for the corresponding real-world asset. Mynth maintains a pool of assets to facilitate the transactions, and a team of professional arbitrage traders, supported by artificial intelligence, manages the asset conversions.",
-    "meta": "A cross-chain intents protocol that abstracts tokens to live on every chain. Explore Mynth on Lancers Web3 Explorer.",
-    "pageTitle": "Mynth - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Mynth is a cross-chain liquidity protocol on Cardano for secure token swaps and asset transfers across networks.",
+    "description": "Mynth is an advanced cross-chain liquidity protocol built on the Cardano blockchain, designed to enable frictionless token swaps between various networks. By utilizing a decentralized architecture, Mynth allows users to move assets securely without relying on centralized intermediaries or complex wrapping processes. The platform prioritizes capital efficiency and low slippage, providing infrastructure for both retail traders and institutional participants. Mynth's mission is to enhance the interoperability of the Cardano ecosystem, connecting it to the broader global liquidity landscape.",
+    "meta": "Mynth is a Cardano cross-chain liquidity protocol for secure digital asset swaps and transfers. Explore Mynth on Lancers Web3 Explorer.",
+    "pageTitle": "Mynth - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.mynth.ai/",
     "twitter": "https://x.com/_mynth_",
     "discord": "https://discord.gg/xWTkKY4nYv",
-    "docs": "https://release-assets.githubusercontent.com/github-production-release-asset/632345303/98518416-e086-4685-9ec1-9cefb6fe7868?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-04-16T15%3A56%3A16Z&rscd=attachment%3B+filename%3Dmynth.pdf&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-04-16T14%3A55%3A42Z&ske=2026-04-16T15%3A56%3A16Z&sks=b&skv=2018-11-09&sig=BU0xW8r05CL1xLuc73C1gmDWr70Y0O8DN4onWLoPRfw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3NjM1MjUxNSwibmJmIjoxNzc2MzUyMjE1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.PiKaDRqUhZgjdufY_L-G_CnFIvitsts_qQ5bsiBQq84&response-content-disposition=attachment%3B%20filename%3Dmynth.pdf&response-content-type=application%2Foctet-stream"
+    "docs": "https://docs.mynth.ai/"
   },
   "relations": {
     "alternatives": [
       "orca",
-      "masumi"
+      "masumi",
+      "wingriders"
     ],
     "related": [
       "chaincrib",

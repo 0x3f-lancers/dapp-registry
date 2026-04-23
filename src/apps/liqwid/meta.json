@@ -4,16 +4,16 @@
   "logoUrl": "https://cdn.cardanocube.com/zh0j50miy2c11nrik8y0wmqm3i9s",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Decentralized Lending Dapps"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Liqwid is a non-custodial liquidity market protocol for lending and borrowing on Cardano, offering fast,.",
-    "description": "Liqwid is an interest rate curve DeFi liquidity protocol for the Cardano ecosystem. It establishes a decentralized marketplace for lenders and borrowers to seamlessly interact via supplying funds, minting interest-bearing qTokens, borrowing assets and participating in governance. The solution is built on the Cardano UTXO model for deterministic, secure, and low-cost transactions. The Liqwid Protocol is built to enable any liquidity provider or user to access interest and liquidity on-demand and for developers to unlock a web3-verse of open financial.",
-    "meta": "An interest rate curve DeFi liquidity protocol for the Cardano ecosystem. Explore Liqwid on Lancers Web3 Explorer.",
+    "short": "Liqwid is an interest-rate liquidity protocol for the Cardano ecosystem providing decentralized money markets.",
+    "description": "Liqwid is a pioneering interest-rate liquidity protocol built on the Cardano blockchain, facilitating decentralized money markets for lending and borrowing. Users can supply assets to earn interest and mint qTokens, or borrow against their collateral in a completely non-custodial environment. The protocol leverages Cardano's EUTXO model to ensure security, transparency, and capital efficiency for all participants. Governed by the Liqwid DAO, the platform empowers the community to manage risk parameters and interest rate models, driving the growth and stability of the Cardano DeFi landscape.",
+    "meta": "Liqwid is a Cardano liquidity protocol for supply, borrowing, and interest-bearing money markets. Explore it on Lancers Web3 Explorer.",
     "pageTitle": "Liqwid - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,12 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "dcspark-milkomeda",
-      "sushi"
+      "fluidtokens",
+      "optim-finance",
+      "levvy"
     ],
     "related": [
-      "finest-investments",
-      "latam-cardano-community"
+      "ada-dao",
+      "indigo-protocol",
+      "wingriders"
     ]
   }
 }

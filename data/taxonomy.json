@@ -100,6 +100,7 @@
     "NFT Allowlist Tools",
     "NFT Analytics Tools",
     "NFT App Templates",
+    "NFT Collections",
     "NFT Distribution Tools",
     "NFT Fractionalization Tools",
     "NFT Lending Dapps",
@@ -189,7 +190,11 @@
       "DAO Reputation Tools",
       "Web3 Achievements"
     ],
-    "DAOs": ["Creator DAOs", "Gaming DAOs", "Venture DAOs"],
+    "DAOs": [
+      "Creator DAOs",
+      "Gaming DAOs",
+      "Venture DAOs"
+    ],
     "DeFi Dapps": [
       "Crypto Staking Companies",
       "DeFi Yield Aggregators",
@@ -218,7 +223,10 @@
       "Token Price APIs",
       "Web3 Bridges"
     ],
-    "Decentralized Games": ["AAA Web3 Games", "Web3 Games"],
+    "Decentralized Games": [
+      "AAA Web3 Games",
+      "Web3 Games"
+    ],
     "Identity Tools": [
       "Decentralized Identity Tools",
       "Decentralized VPNs",
@@ -244,6 +252,7 @@
     ],
     "NFT Dapps": [
       "Gaming NFT Marketplaces",
+      "NFT Collections",
       "NFT Lending Dapps",
       "NFT Marketplaces",
       "NFT Renting Dapps",
@@ -261,7 +270,9 @@
       "NFT Smart Contract Templates",
       "Token Gating Tools"
     ],
-    "Open Source Projects": ["GitHub Open Source Projects"],
+    "Open Source Projects": [
+      "GitHub Open Source Projects"
+    ],
     "RaaS Tools": [
       "Modular Interoperability Tools",
       "Rollup Frameworks",
@@ -324,7 +335,9 @@
       "Web3 Security Competitions",
       "Web3 Testing Tools"
     ],
-    "Web3 Service Providers": ["Web3 Consulting Companies"],
+    "Web3 Service Providers": [
+      "Web3 Consulting Companies"
+    ],
     "Web3 Social Dapps": [
       "Social Tokens",
       "Web3 Creator Tools",
@@ -363,153 +376,449 @@
     ]
   },
   "subcategory_to_categories": {
-    "data-availability-blockchains": ["blockchains"],
-    "layer-1-blockchains-l1s": ["blockchains"],
-    "layer-2-blockchains": ["blockchains"],
-    "sidechains": ["blockchains"],
-    "testnets": ["blockchains"],
-    "dao-developer-tools": ["dao-tools"],
-    "dao-project-management-tools": ["dao-tools"],
-    "dao-reputation-tools": ["dao-tools"],
-    "web3-achievements": ["dao-tools"],
-    "creator-daos": ["daos"],
-    "gaming-daos": ["daos"],
-    "venture-daos": ["daos"],
-    "crypto-staking-companies": ["defi-dapps"],
-    "defi-yield-aggregators": ["defi-dapps"],
-    "defi-yield-farming-platforms": ["defi-dapps"],
-    "decentralized-cdps": ["defi-dapps"],
-    "decentralized-derivatives": ["defi-dapps"],
-    "decentralized-exchanges-dexs": ["defi-dapps"],
-    "decentralized-indexes": ["defi-dapps"],
-    "decentralized-insurance-dapps": ["defi-dapps"],
-    "decentralized-lending-dapps": ["defi-dapps"],
-    "decentralized-options": ["defi-dapps"],
-    "decentralized-synthetics": ["defi-dapps"],
-    "liquid-staking-platforms": ["defi-dapps"],
-    "regenerative-finance-dapps": ["defi-dapps"],
-    "web3-prediction-markets": ["defi-dapps"],
-    "analytics-tools": ["defi-tools"],
-    "dapp-templates": ["defi-tools"],
-    "decentralized-oracles": ["defi-tools"],
-    "gas-tools": ["defi-tools"],
-    "mev-analytics-tools": ["defi-tools"],
-    "mev-tools": ["defi-tools"],
-    "quest-to-earn-tools": ["defi-tools"],
-    "relayers": ["defi-tools"],
-    "token-price-apis": ["defi-tools"],
-    "web3-bridges": ["defi-tools"],
-    "aaa-web3-games": ["decentralized-games"],
-    "web3-games": ["decentralized-games"],
-    "decentralized-identity-tools": ["identity-tools"],
-    "decentralized-vpns": ["identity-tools"],
-    "proof-of-personhood-tools": ["identity-tools"],
-    "web3-authentication-tools": ["identity-tools"],
-    "web3-credential-tools": ["identity-tools"],
-    "web3-credit-scoring-tools": ["identity-tools"],
-    "blockchain-interoperability-tools": ["infrastructure-tools"],
-    "consensus-clients": ["infrastructure-tools"],
-    "crypto-faucets": ["infrastructure-tools"],
-    "decentralized-computing-tools": ["infrastructure-tools"],
-    "decentralized-storage-tools": ["infrastructure-tools"],
-    "execution-clients": ["infrastructure-tools"],
-    "indexing-tools": ["infrastructure-tools"],
-    "rpc-node-providers": ["infrastructure-tools"],
-    "subgraphs": ["infrastructure-tools"],
-    "web3-data-tools": ["infrastructure-tools"],
-    "web3-email-tools": ["infrastructure-tools"],
-    "web3-messaging-tools": ["infrastructure-tools"],
-    "webhooks": ["infrastructure-tools"],
-    "gaming-nft-marketplaces": ["nft-dapps"],
-    "nft-lending-dapps": ["nft-dapps"],
-    "nft-marketplaces": ["nft-dapps"],
-    "nft-renting-dapps": ["nft-dapps"],
-    "sports-nft-dapps": ["nft-dapps"],
-    "music-nft-tools": ["nft-tools"],
-    "nft-apis": ["nft-tools"],
-    "nft-allowlist-tools": ["nft-tools"],
-    "nft-analytics-tools": ["nft-tools"],
-    "nft-app-templates": ["nft-tools"],
-    "nft-distribution-tools": ["nft-tools"],
-    "nft-fractionalization-tools": ["nft-tools"],
-    "nft-minting-tools": ["nft-tools"],
-    "nft-smart-contract-templates": ["nft-tools"],
-    "token-gating-tools": ["nft-tools"],
-    "github-open-source-projects": ["open-source-projects"],
-    "modular-interoperability-tools": ["raas-tools"],
-    "rollup-frameworks": ["raas-tools"],
-    "rollups-as-a-service-raas": ["raas-tools"],
-    "shared-sequencers": ["raas-tools"],
-    "private-credit-rwas": ["real-world-asset-dapps"],
-    "real-estate-rwas": ["real-world-asset-dapps"],
-    "tokenized-bonds-rwas": ["real-world-asset-dapps"],
-    "tokenized-commodities-rwas": ["real-world-asset-dapps"],
-    "tokenized-equities-rwas": ["real-world-asset-dapps"],
-    "debugging-tools": ["solidity-tools"],
-    "evm-tools": ["solidity-tools"],
-    "ethereum-signature-tools": ["solidity-tools"],
-    "smart-contract-templates": ["solidity-tools"],
-    "smart-contract-tools": ["solidity-tools"],
-    "solidity-developer-tools": ["solidity-tools"],
-    "static-analysis-tools": ["solidity-tools"],
-    "symbolic-execution-tools": ["solidity-tools"],
-    "crypto-exchanges": ["trading-tools"],
-    "crypto-portfolio-dashboards": ["trading-tools"],
-    "crypto-trading-tools": ["trading-tools"],
-    "web3-accelerators": ["venture-capital-firms"],
-    "web3-fundraising-tools": ["venture-capital-firms"],
-    "web3-vc-firms": ["venture-capital-firms"],
-    "abi-tools": ["web3-developer-tools"],
-    "assemblers": ["web3-developer-tools"],
-    "block-explorers": ["web3-developer-tools"],
-    "college-blockchain-clubs": ["web3-developer-tools"],
-    "crypto-news-websites": ["web3-developer-tools"],
-    "decompilers": ["web3-developer-tools"],
-    "development-frameworks": ["web3-developer-tools"],
-    "dissassemblers": ["web3-developer-tools"],
-    "react-tools": ["web3-developer-tools"],
-    "transaction-tools": ["web3-developer-tools"],
-    "web3-education-resources": ["web3-developer-tools"],
-    "web3-ides": ["web3-developer-tools"],
-    "web3-languages": ["web3-developer-tools"],
-    "web3-libraries": ["web3-developer-tools"],
-    "web3-sdks": ["web3-developer-tools"],
-    "decentralized-gaming-tools": ["web3-gaming-tools"],
-    "metaverse-tools": ["web3-gaming-tools"],
-    "web3-game-studios": ["web3-gaming-tools"],
-    "blockchain-auditing-companies": ["web3-security-tools"],
-    "blockchain-security-tools": ["web3-security-tools"],
-    "fuzzing-tools": ["web3-security-tools"],
-    "web3-security-competitions": ["web3-security-tools"],
-    "web3-testing-tools": ["web3-security-tools"],
-    "web3-consulting-companies": ["web3-service-providers"],
-    "social-tokens": ["web3-social-dapps"],
-    "web3-creator-tools": ["web3-social-dapps"],
-    "web3-social-media-dapps": ["web3-social-dapps"],
-    "account-abstraction-erc-4337-bundlers": ["web3-wallet-tools"],
-    "crypto-tax-tools": ["web3-wallet-tools"],
-    "custody-solutions": ["web3-wallet-tools"],
-    "erc-4337-paymasters": ["web3-wallet-tools"],
-    "embedded-wallets": ["web3-wallet-tools"],
-    "fiat-onramps": ["web3-wallet-tools"],
-    "key-management-providers": ["web3-wallet-tools"],
-    "modular-plugins-erc-6900": ["web3-wallet-tools"],
-    "name-service-tools": ["web3-wallet-tools"],
-    "smart-contract-accounts": ["web3-wallet-tools"],
-    "token-management-tools": ["web3-wallet-tools"],
-    "wallet-connection-tools": ["web3-wallet-tools"],
-    "wallet-developer-tools": ["web3-wallet-tools"],
-    "wallet-sdks": ["web3-wallet-tools"],
-    "wallet-security-tools": ["web3-wallet-tools"],
-    "web3-credit-cards": ["web3-wallet-tools"],
-    "web3-payment-tools": ["web3-wallet-tools"],
-    "hardware-wallets": ["web3-wallets"],
-    "mpc-wallets": ["web3-wallets"],
-    "multisig-wallets": ["web3-wallets"],
-    "smart-contract-wallets": ["web3-wallets"],
-    "software-wallets": ["web3-wallets"],
-    "zk-developer-tools": ["zero-knowledge-tools"],
-    "zk-proof-generation-tools": ["zero-knowledge-tools"],
-    "zk-proving-systems": ["zero-knowledge-tools"]
+    "data-availability-blockchains": [
+      "blockchains"
+    ],
+    "layer-1-blockchains-l1s": [
+      "blockchains"
+    ],
+    "layer-2-blockchains": [
+      "blockchains"
+    ],
+    "sidechains": [
+      "blockchains"
+    ],
+    "testnets": [
+      "blockchains"
+    ],
+    "dao-developer-tools": [
+      "dao-tools"
+    ],
+    "dao-project-management-tools": [
+      "dao-tools"
+    ],
+    "dao-reputation-tools": [
+      "dao-tools"
+    ],
+    "web3-achievements": [
+      "dao-tools"
+    ],
+    "creator-daos": [
+      "daos"
+    ],
+    "gaming-daos": [
+      "daos"
+    ],
+    "venture-daos": [
+      "daos"
+    ],
+    "crypto-staking-companies": [
+      "defi-dapps"
+    ],
+    "defi-yield-aggregators": [
+      "defi-dapps"
+    ],
+    "defi-yield-farming-platforms": [
+      "defi-dapps"
+    ],
+    "decentralized-cdps": [
+      "defi-dapps"
+    ],
+    "decentralized-derivatives": [
+      "defi-dapps"
+    ],
+    "decentralized-exchanges-dexs": [
+      "defi-dapps"
+    ],
+    "decentralized-indexes": [
+      "defi-dapps"
+    ],
+    "decentralized-insurance-dapps": [
+      "defi-dapps"
+    ],
+    "decentralized-lending-dapps": [
+      "defi-dapps"
+    ],
+    "decentralized-options": [
+      "defi-dapps"
+    ],
+    "decentralized-synthetics": [
+      "defi-dapps"
+    ],
+    "liquid-staking-platforms": [
+      "defi-dapps"
+    ],
+    "regenerative-finance-dapps": [
+      "defi-dapps"
+    ],
+    "web3-prediction-markets": [
+      "defi-dapps"
+    ],
+    "analytics-tools": [
+      "defi-tools"
+    ],
+    "dapp-templates": [
+      "defi-tools"
+    ],
+    "decentralized-oracles": [
+      "defi-tools"
+    ],
+    "gas-tools": [
+      "defi-tools"
+    ],
+    "mev-analytics-tools": [
+      "defi-tools"
+    ],
+    "mev-tools": [
+      "defi-tools"
+    ],
+    "quest-to-earn-tools": [
+      "defi-tools"
+    ],
+    "relayers": [
+      "defi-tools"
+    ],
+    "token-price-apis": [
+      "defi-tools"
+    ],
+    "web3-bridges": [
+      "defi-tools"
+    ],
+    "aaa-web3-games": [
+      "decentralized-games"
+    ],
+    "web3-games": [
+      "decentralized-games"
+    ],
+    "decentralized-identity-tools": [
+      "identity-tools"
+    ],
+    "decentralized-vpns": [
+      "identity-tools"
+    ],
+    "proof-of-personhood-tools": [
+      "identity-tools"
+    ],
+    "web3-authentication-tools": [
+      "identity-tools"
+    ],
+    "web3-credential-tools": [
+      "identity-tools"
+    ],
+    "web3-credit-scoring-tools": [
+      "identity-tools"
+    ],
+    "blockchain-interoperability-tools": [
+      "infrastructure-tools"
+    ],
+    "consensus-clients": [
+      "infrastructure-tools"
+    ],
+    "crypto-faucets": [
+      "infrastructure-tools"
+    ],
+    "decentralized-computing-tools": [
+      "infrastructure-tools"
+    ],
+    "decentralized-storage-tools": [
+      "infrastructure-tools"
+    ],
+    "execution-clients": [
+      "infrastructure-tools"
+    ],
+    "indexing-tools": [
+      "infrastructure-tools"
+    ],
+    "rpc-node-providers": [
+      "infrastructure-tools"
+    ],
+    "subgraphs": [
+      "infrastructure-tools"
+    ],
+    "web3-data-tools": [
+      "infrastructure-tools"
+    ],
+    "web3-email-tools": [
+      "infrastructure-tools"
+    ],
+    "web3-messaging-tools": [
+      "infrastructure-tools"
+    ],
+    "webhooks": [
+      "infrastructure-tools"
+    ],
+    "gaming-nft-marketplaces": [
+      "nft-dapps"
+    ],
+    "nft-lending-dapps": [
+      "nft-dapps"
+    ],
+    "nft-marketplaces": [
+      "nft-dapps"
+    ],
+    "nft-renting-dapps": [
+      "nft-dapps"
+    ],
+    "sports-nft-dapps": [
+      "nft-dapps"
+    ],
+    "music-nft-tools": [
+      "nft-tools"
+    ],
+    "nft-apis": [
+      "nft-tools"
+    ],
+    "nft-allowlist-tools": [
+      "nft-tools"
+    ],
+    "nft-analytics-tools": [
+      "nft-tools"
+    ],
+    "nft-app-templates": [
+      "nft-tools"
+    ],
+    "nft-distribution-tools": [
+      "nft-tools"
+    ],
+    "nft-fractionalization-tools": [
+      "nft-tools"
+    ],
+    "nft-minting-tools": [
+      "nft-tools"
+    ],
+    "nft-smart-contract-templates": [
+      "nft-tools"
+    ],
+    "token-gating-tools": [
+      "nft-tools"
+    ],
+    "github-open-source-projects": [
+      "open-source-projects"
+    ],
+    "modular-interoperability-tools": [
+      "raas-tools"
+    ],
+    "rollup-frameworks": [
+      "raas-tools"
+    ],
+    "rollups-as-a-service-raas": [
+      "raas-tools"
+    ],
+    "shared-sequencers": [
+      "raas-tools"
+    ],
+    "private-credit-rwas": [
+      "real-world-asset-dapps"
+    ],
+    "real-estate-rwas": [
+      "real-world-asset-dapps"
+    ],
+    "tokenized-bonds-rwas": [
+      "real-world-asset-dapps"
+    ],
+    "tokenized-commodities-rwas": [
+      "real-world-asset-dapps"
+    ],
+    "tokenized-equities-rwas": [
+      "real-world-asset-dapps"
+    ],
+    "debugging-tools": [
+      "solidity-tools"
+    ],
+    "evm-tools": [
+      "solidity-tools"
+    ],
+    "ethereum-signature-tools": [
+      "solidity-tools"
+    ],
+    "smart-contract-templates": [
+      "solidity-tools"
+    ],
+    "smart-contract-tools": [
+      "solidity-tools"
+    ],
+    "solidity-developer-tools": [
+      "solidity-tools"
+    ],
+    "static-analysis-tools": [
+      "solidity-tools"
+    ],
+    "symbolic-execution-tools": [
+      "solidity-tools"
+    ],
+    "crypto-exchanges": [
+      "trading-tools"
+    ],
+    "crypto-portfolio-dashboards": [
+      "trading-tools"
+    ],
+    "crypto-trading-tools": [
+      "trading-tools"
+    ],
+    "web3-accelerators": [
+      "venture-capital-firms"
+    ],
+    "web3-fundraising-tools": [
+      "venture-capital-firms"
+    ],
+    "web3-vc-firms": [
+      "venture-capital-firms"
+    ],
+    "abi-tools": [
+      "web3-developer-tools"
+    ],
+    "assemblers": [
+      "web3-developer-tools"
+    ],
+    "block-explorers": [
+      "web3-developer-tools"
+    ],
+    "college-blockchain-clubs": [
+      "web3-developer-tools"
+    ],
+    "crypto-news-websites": [
+      "web3-developer-tools"
+    ],
+    "decompilers": [
+      "web3-developer-tools"
+    ],
+    "development-frameworks": [
+      "web3-developer-tools"
+    ],
+    "dissassemblers": [
+      "web3-developer-tools"
+    ],
+    "react-tools": [
+      "web3-developer-tools"
+    ],
+    "transaction-tools": [
+      "web3-developer-tools"
+    ],
+    "web3-education-resources": [
+      "web3-developer-tools"
+    ],
+    "web3-ides": [
+      "web3-developer-tools"
+    ],
+    "web3-languages": [
+      "web3-developer-tools"
+    ],
+    "web3-libraries": [
+      "web3-developer-tools"
+    ],
+    "web3-sdks": [
+      "web3-developer-tools"
+    ],
+    "decentralized-gaming-tools": [
+      "web3-gaming-tools"
+    ],
+    "metaverse-tools": [
+      "web3-gaming-tools"
+    ],
+    "web3-game-studios": [
+      "web3-gaming-tools"
+    ],
+    "blockchain-auditing-companies": [
+      "web3-security-tools"
+    ],
+    "blockchain-security-tools": [
+      "web3-security-tools"
+    ],
+    "fuzzing-tools": [
+      "web3-security-tools"
+    ],
+    "web3-security-competitions": [
+      "web3-security-tools"
+    ],
+    "web3-testing-tools": [
+      "web3-security-tools"
+    ],
+    "web3-consulting-companies": [
+      "web3-service-providers"
+    ],
+    "social-tokens": [
+      "web3-social-dapps"
+    ],
+    "web3-creator-tools": [
+      "web3-social-dapps"
+    ],
+    "web3-social-media-dapps": [
+      "web3-social-dapps"
+    ],
+    "account-abstraction-erc-4337-bundlers": [
+      "web3-wallet-tools"
+    ],
+    "crypto-tax-tools": [
+      "web3-wallet-tools"
+    ],
+    "custody-solutions": [
+      "web3-wallet-tools"
+    ],
+    "erc-4337-paymasters": [
+      "web3-wallet-tools"
+    ],
+    "embedded-wallets": [
+      "web3-wallet-tools"
+    ],
+    "fiat-onramps": [
+      "web3-wallet-tools"
+    ],
+    "key-management-providers": [
+      "web3-wallet-tools"
+    ],
+    "modular-plugins-erc-6900": [
+      "web3-wallet-tools"
+    ],
+    "name-service-tools": [
+      "web3-wallet-tools"
+    ],
+    "smart-contract-accounts": [
+      "web3-wallet-tools"
+    ],
+    "token-management-tools": [
+      "web3-wallet-tools"
+    ],
+    "wallet-connection-tools": [
+      "web3-wallet-tools"
+    ],
+    "wallet-developer-tools": [
+      "web3-wallet-tools"
+    ],
+    "wallet-sdks": [
+      "web3-wallet-tools"
+    ],
+    "wallet-security-tools": [
+      "web3-wallet-tools"
+    ],
+    "web3-credit-cards": [
+      "web3-wallet-tools"
+    ],
+    "web3-payment-tools": [
+      "web3-wallet-tools"
+    ],
+    "hardware-wallets": [
+      "web3-wallets"
+    ],
+    "mpc-wallets": [
+      "web3-wallets"
+    ],
+    "multisig-wallets": [
+      "web3-wallets"
+    ],
+    "smart-contract-wallets": [
+      "web3-wallets"
+    ],
+    "software-wallets": [
+      "web3-wallets"
+    ],
+    "zk-developer-tools": [
+      "zero-knowledge-tools"
+    ],
+    "zk-proof-generation-tools": [
+      "zero-knowledge-tools"
+    ],
+    "zk-proving-systems": [
+      "zero-knowledge-tools"
+    ]
   }
 }

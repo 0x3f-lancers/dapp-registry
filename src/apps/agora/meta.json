@@ -11,9 +11,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Agora is a set of Plutus scripts that compose together to form a governance system.",
-    "description": "Agora is a set of Plutus scripts that compose together to form a governance system. It provides a one size fits all governance library for projects on Cardano. It aims to be modular and flexible though uses an opinionated architecture. Originally it was set up to reduce duplication in Liqwid and XplorerDAO. It has subsequently been used in a range of projects including Summon’s platform . It was originally created by Liqwid.",
-    "meta": "A set of Plutus scripts that compose together to form a governance system. Explore Agora on Lancers Web3 Explorer.",
+    "short": "Agora is a modular Cardano governance library built from Plutus scripts for DAO-style systems and voting.",
+    "description": "Agora is a set of composable Plutus scripts that form a governance system for Cardano projects. It provides a reusable governance library that can support DAO-style proposals, voting, and protocol coordination while remaining modular enough for different project needs. The project was originally created to reduce duplicated governance work across Liqwid and XplorerDAO, then found use in other Cardano tools such as Summon's platform. Agora is best understood as governance infrastructure rather than a consumer-facing app.",
+    "meta": "Agora provides composable Plutus governance scripts for Cardano DAOs, protocols, and voting. Explore Agora on Lancers Web3 Explorer.",
     "pageTitle": "Agora - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {

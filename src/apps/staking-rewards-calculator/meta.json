@@ -11,9 +11,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "Advanced calculators that shows how much return and and volatile this if ADA is delegated to a certain Stake Pool.",
-    "description": "The calculator shows how much reward can be expected for Pools with different parameters and different settings of the Cardano network. The calculator also estimates how much variability in the return can be expected by running a Monte Carlo simulation What does the calculator do? Shows the expected annual return of a stake pool for the operator and the delegators. Shows the distribution of these returns using a Monte Carlo simulation, this is particularly important for smaller pools where the range of rewards can be much higher or lower than expected due to.",
-    "meta": "The calculator shows how much reward can be expected for Pools with different parameters and different. Explore Staking Rewards Calculator on Lancers Web3 Explorer.",
+    "short": "The Staking Rewards Calculator provides precise ADA staking return projections for Cardano users and delegators.",
+    "description": "The Staking Rewards Calculator is a vital financial tool for Cardano users, providing precise projections for ADA staking returns. By inputting the amount of ADA held and various network parameters, users can estimate their epoch-by-epoch rewards and annual percentage yield (APY). The tool accounts for pool performance, saturation levels, and transaction fees, offering a transparent view of the non-custodial staking model. As an essential resource for informed delegation, the calculator helps ADA holders maximize their passive income while supporting the security of the blockchain.",
+    "meta": "The Staking Rewards Calculator provides precise ADA staking return projections for Cardano users. Explore it on Lancers Web3 Explorer.",
     "pageTitle": "Staking Rewards Calculator - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -29,7 +29,8 @@
     ],
     "related": [
       "mailchain",
-      "chainnodes"
+      "chainnodes",
+      "cexplorer"
     ]
   }
 }

@@ -2,19 +2,20 @@
   "slug": "mesh",
   "name": "MESH",
   "logoUrl": "https://cdn.cardanocube.com/ck0aky64ewa9lrzfqvr3atbvm0u0",
-  "category": "Infrastructure Tools",
+  "category": "Web3 Developer Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Web3 SDKs",
+    "Web3 Libraries"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Mesh is an open-source library that provides everything you need to build Web3 apps, with ease.",
-    "description": "Build applications on Cardano with ease. Mesh is an open-source library providing numerous tools to easily build powerful dApps on the Cardano blockchain. Here are a few reasons why you should use Mesh Mesh is developed closely to network updates. By using Mesh, your application will always be ready for the latest network changes, so you can focus on building your application. Getting started with dApp development has never been this easy. Mesh is conceived in a way that facilitates and speeds up development of decentralised applications. MeshJS is the leading Cardano TypeScript SDK. MeshJS: The Cardano TypeScript SDK for Modern dApp Development. Why Developers Pick Mesh. Search... ⌘K X Discord Mesh AI features help you ship faster MeshJS: The Cardano TypeScript SDK for Modern dApp Development. MeshJS is the leading open-source Cardano TypeScript SDK, giving you a transaction builder, wallet connectors, React components, and smart contract tools to start building dApps in minutes.",
-    "meta": "MESH build applications on Cardano with ease. Explore MESH on Lancers Web3 Explorer.",
-    "pageTitle": "MESH - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Mesh is an open-source Cardano TypeScript SDK for building wallets, transactions, and Web3 apps fast.",
+    "description": "Mesh is an open-source TypeScript SDK and developer library for building applications on Cardano. It gives teams ready-to-use tools for wallet connections, transaction building, smart contract interactions, React components, and common dapp workflows. By wrapping lower-level Cardano complexity in practical APIs, Mesh helps developers prototype faster and keep applications aligned with network changes. It is used by builders who want modern JavaScript tooling for Cardano dapp development and production apps.",
+    "meta": "Mesh is a Cardano TypeScript SDK with wallet, transaction, smart contract, and React tooling. Explore Mesh on Lancers Web3 Explorer.",
+    "pageTitle": "MESH - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://meshjs.dev/",
@@ -23,11 +24,13 @@
   "relations": {
     "alternatives": [
       "kuberide",
-      "modulop"
+      "modulop",
+      "wingriders"
     ],
     "related": [
       "onfinality",
-      "rockx"
+      "rockx",
+      "wingriders"
     ]
   }
 }

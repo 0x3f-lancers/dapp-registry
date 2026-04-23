@@ -2,19 +2,19 @@
   "slug": "cardano-visualisation",
   "name": "Cardano-visualisation",
   "logoUrl": "https://cryptologos.cc/logos/cardano-ada-logo.png",
-  "category": "DeFi Dapps",
+  "category": "Infrastructure Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Web3 Data Tools"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Cardano Visualisation presents Cardano network structure and activity through an interface designed for intuitive exploration.",
-    "description": "Cardano Visualisation is built to help users understand the Cardano network through visual exploration rather than raw data tables alone. The project focuses on making network structure and activity easier to grasp at a glance, turning blockchain behavior into something more intuitive for researchers, community members, and curious users. Its value comes from presentation: helping people see how Cardano moves and connects in practice.",
-    "meta": "Cardano-visualisation cardano Visualisation is built to help users understand the Cardano network through visual exploration. Explore Cardano-visualisation on Lancers Web3 Explorer.",
-    "pageTitle": "Cardano-visualisation - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Cardano Visualisation helps users explore Cardano network structure, activity, transactions, and data visually.",
+    "description": "Cardano Visualisation is built to help users understand the Cardano network through visual exploration rather than raw data tables alone. The project focuses on making network structure and activity easier to grasp at a glance, turning blockchain behavior into something more intuitive for researchers, community members, and curious users. Its value comes from presentation: helping people see how Cardano moves, connects, and behaves in practice through visual tools and interactive views online as needed.",
+    "meta": "Cardano Visualisation helps users explore Cardano network structure, activity, and data visually. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "Cardano-visualisation - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://global.cardano-visualisation.com/",
@@ -23,7 +23,8 @@
   "relations": {
     "alternatives": [
       "cexplorer",
-      "cardano4climate"
+      "cardano4climate",
+      "wingriders"
     ],
     "related": [
       "matrixswap",

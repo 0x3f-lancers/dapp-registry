@@ -2,9 +2,9 @@
   "slug": "chainport-io",
   "name": "ChainPort.io",
   "logoUrl": "https://cdn.cardanocube.com/aqevxrow9pjjtamzmh92egpy1jns",
-  "category": "DeFi Dapps",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Web3 Bridges"
   ],
   "chains": [
     "Cardano"
@@ -12,9 +12,9 @@
   "pricing": "Free",
   "content": {
     "short": "Bridge your tokens across different blockchain ecosystems easily with ChainPort, a security-focused crypto bridge.",
-    "description": "Private Bridge ChainPort private bridge solution for token issuers and more. ChainPort is a unique blockchain bridge with a security-focused architecture. With ChainPort, anyone can port tokens to other blockchains safely and efficiently. ChainPort.io arrow-up-right allows people to port their tokens between different blockchains, enabling anyone to make any token blockchain agnostic in a few simple clicks. Security orientated with multiple security layers for projects using ChainPort.",
-    "meta": "ChainPort.io private Bridge ChainPort private bridge solution for token issuers and more. Explore ChainPort.io on Lancers Web3 Explorer.",
-    "pageTitle": "ChainPort.io - DeFi Dapps - Lancers Web3 Explorer"
+    "description": "ChainPort.io is a security-focused blockchain bridge for porting tokens across different ecosystems. The platform lets token issuers and projects move assets between supported chains, helping make tokens more blockchain-agnostic without building custom bridge infrastructure. ChainPort emphasizes multiple security layers and a private bridge option for teams that need controlled token movement. In the Cardano context, it fits as bridge tooling for interoperability and cross-chain liquidity access.",
+    "meta": "ChainPort.io is a security-focused bridge for porting tokens across blockchain ecosystems. Explore ChainPort.io on Lancers Web3 Explorer.",
+    "pageTitle": "ChainPort.io - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.chainport.io/",
@@ -24,13 +24,14 @@
   },
   "relations": {
     "alternatives": [
-      "catskyai",
-      "cecil-network"
+      "chainport",
+      "wanchain-bridge",
+      "wormhole"
     ],
     "related": [
-      "eonpower",
-      "minswap",
-      "wingriders"
+      "wanchain",
+      "mynth",
+      "dcspark-milkomeda"
     ]
   }
 }

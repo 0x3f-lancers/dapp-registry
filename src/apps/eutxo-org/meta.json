@@ -2,19 +2,19 @@
   "slug": "eutxo-org",
   "name": "eUTxO.org",
   "logoUrl": "https://cdn.cardanocube.com/4z2n8wg2nr7q1hln575edugxmds7",
-  "category": "DeFi Dapps",
+  "category": "Web3 Developer Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Block Explorers"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "EUTxO.org Visual Blockchain Explorer for Cardano Explore the Cardano blockchain like never before with our visually stunning blockchain explorer.",
-    "description": "EUTxO.org Visual Blockchain Explorer for Cardano. Dive deep into the details of every transaction and block with our easy-to-use interface. eUTxO.org is a blockchain explorer for Cardano. It doesn't try to be like other blockchain explorers, but it goes its own way. Simply, beautifully and visually, that's eutxo.org. Explore the Cardano blockchain like never before with our visually stunning blockchain explorer.",
-    "meta": "Visual Blockchain Explorer for Cardano. Explore eUTxO.org on Lancers Web3 Explorer.",
-    "pageTitle": "eUTxO.org - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "eUTxO.org is a visual Cardano blockchain explorer for transactions, blocks, network activity, and data.",
+    "description": "eUTxO.org is a visual blockchain explorer for Cardano that presents transactions, blocks, and network activity in a more graphical way than traditional explorer tables. The project aims to help users understand the extended UTxO model by making Cardano data easier to inspect visually. Users can dive into transaction and block details while following how value moves through the network. eUTxO.org is useful for learners, developers, and community members who want a clearer visual perspective on Cardano.",
+    "meta": "eUTxO.org is a visual Cardano blockchain explorer for transactions, blocks, and network data. Explore eUTxO.org on Lancers Web3 Explorer.",
+    "pageTitle": "eUTxO.org - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://eutxo.org/",
@@ -24,11 +24,13 @@
   "relations": {
     "alternatives": [
       "XchangeOn",
-      "shapeshift"
+      "shapeshift",
+      "wingriders"
     ],
     "related": [
       "fcondex",
-      "fcondex"
+      "fcondex",
+      "wingriders"
     ]
   }
 }

@@ -2,9 +2,9 @@
   "slug": "cardexscan",
   "name": "Cardexscan",
   "logoUrl": "https://cdn.cardanocube.com/tox94y69j3r3ldheuyeyawn7tmmc",
-  "category": "DeFi Dapps",
+  "category": "Trading Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Crypto Trading Tools"
   ],
   "chains": [
     "Cardano"
@@ -12,9 +12,9 @@
   "pricing": "Free",
   "content": {
     "short": "Accelerate your trades and stay ahead of the game. Get immediate access to all Cardano Mempool analytics and more.",
-    "description": "Gain a competitive edge in the dynamic world of trading with our cutting-edge platform. With our service, you can turbocharge your trades, ensuring you're always ahead of the game. Say goodbye to delays and missed opportunities get instant access to comprehensive analytics and insights straight from the Cardano Mempool. Whether you're a seasoned trader or just starting out, our platform empowers you with the tools and information you need to make informed decisions and maximize your profits.",
-    "meta": "Cardexscan gain a competitive edge in the dynamic world of trading with our cutting-edge platform. Explore Cardexscan on Lancers Web3 Explorer.",
-    "pageTitle": "Cardexscan - DeFi Dapps - Lancers Web3 Explorer"
+    "description": "Cardexscan is a Cardano mempool analytics platform built for traders who want faster access to market-moving data. The service provides live insights from the Cardano mempool so users can monitor activity, reduce delays, and make more informed trading decisions. By surfacing pending transaction data and analytics in one place, Cardexscan helps both experienced and newer traders understand what is happening before activity is fully confirmed on-chain during active market conditions and token launches.",
+    "meta": "Cardexscan provides Cardano mempool analytics for faster trading decisions and token launch monitoring. Explore Cardexscan on Lancers Web3 Explorer.",
+    "pageTitle": "Cardexscan - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://cardexscan.com/",
@@ -24,12 +24,13 @@
   "relations": {
     "alternatives": [
       "gimbalabs",
-      "cardanothings"
+      "cardanothings",
+      "wingriders"
     ],
     "related": [
       "moox",
-      "minswap",
-      "wingriders"
+      "wingriders",
+      "sundaeswap"
     ]
   }
 }

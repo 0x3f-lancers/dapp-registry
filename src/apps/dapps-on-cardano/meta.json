@@ -2,19 +2,19 @@
   "slug": "dapps-on-cardano",
   "name": "Dapps On Cardano",
   "logoUrl": "https://cdn.cardanocube.com/rj1658j782aumre18osrzc9i82tk",
-  "category": "DeFi Dapps",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Analytics Tools"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Cardano dApps in one place. Insights into decentralized apps on the Cardano network.",
-    "description": "Track Cardano DApps with real-time TVL, DEX volume, transaction counts and yield rates. Compare Minswap, Liqwid, SundaeSwap and more - updated every 5 minutes. Real-time TVL, volume, transactions and yields across the Cardano ecosystem. DApps on Cardano - Track DApps, TVL, Volume & Yields. Cardano DApps Analytics. Website for displaying metrics and info about dApps on Cardano. You can get informations such as total transactions, total balance, website links, audit reports and open source code links. Cardano dApps in one place.",
-    "meta": "Dapps On Cardano track Cardano DApps with real-time TVL, DEX volume, transaction counts and yield rates. Explore Dapps On Cardano on Lancers Web3 Explorer.",
-    "pageTitle": "Dapps On Cardano - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Dapps On Cardano tracks Cardano dapps, TVL, DEX volume, transactions, yields, project links, and data.",
+    "description": "Dapps On Cardano is an analytics and discovery site for decentralized applications in the Cardano ecosystem. It tracks metrics such as total value locked, DEX volume, transaction counts, yield rates, balances, and project information across Cardano protocols. The platform also gives users links to websites, audit reports, and open-source repositories where available. Its goal is to put Cardano dapp data in one place so users can compare projects and understand ecosystem activity more quickly today.",
+    "meta": "Dapps On Cardano tracks Cardano dapps, TVL, volume, yields, audits, and project links. Explore Dapps On Cardano on Lancers Web3 Explorer.",
+    "pageTitle": "Dapps On Cardano - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://dappsoncardano.com/",
@@ -28,7 +28,8 @@
     ],
     "related": [
       "hypersonic",
-      "dexada"
+      "acardex",
+      "wingriders"
     ]
   }
 }

@@ -2,19 +2,19 @@
   "slug": "blockademia",
   "name": "Blockademia",
   "logoUrl": "https://cdn.cardanocube.com/hmhn3qy2jazhvksjhab7deitj0ea",
-  "category": "DeFi Dapps",
+  "category": "Identity Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Web3 Credential Tools"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Blockademia is a document-verification platform for publishing and checking credentials on Cardano.",
-    "description": "Blockademia is a decentralized system for publishing and verifying documents with blockchain-based proof. The project is aimed at use cases such as certificates, diplomas, and other records where forgery or tampering creates real operational risk. Its ACI token powers publishing, incentives, rewards, and payments inside the system, while the core product centers on issuing documents to Cardano so they can be verified without being edited or deleted afterward.",
+    "short": "Blockademia is a Cardano document-verification platform for certificates, diplomas, records, and proof.",
+    "description": "Blockademia is a decentralized system for publishing and verifying documents with blockchain-based proof. The project is aimed at use cases such as certificates, diplomas, and other records where forgery or tampering creates real operational risk. Its ACI token powers publishing, incentives, rewards, and payments inside the system, while the core product centers on issuing documents to Cardano so they can be verified without being edited or deleted afterward by third parties, schools, or employers.",
     "meta": "A decentralized system for publishing and verifying documents with blockchain-based proof. Explore Blockademia on Lancers Web3 Explorer.",
-    "pageTitle": "Blockademia - DeFi Dapps - Lancers Web3 Explorer"
+    "pageTitle": "Blockademia - Identity Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://blockademia.com/en/",
@@ -24,12 +24,14 @@
   },
   "relations": {
     "alternatives": [
-      "adapools",
-      "bodega-market"
+      "cexplorer",
+      "bodega-market",
+      "wingriders"
     ],
     "related": [
       "yield-yak",
-      "mimo"
+      "mimo",
+      "wingriders"
     ]
   }
 }

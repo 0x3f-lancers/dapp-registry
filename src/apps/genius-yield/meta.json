@@ -4,16 +4,17 @@
   "logoUrl": "https://cdn.cardanocube.com/fvjaxs3ho8t1vrb5fb63duu0k1wo",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Decentralized Exchanges",
+    "DeFi Yield Aggregators"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Genius Yield The all-in-one DeFi platform, that combines an order book DEX with an automated yield optimizer.",
-    "description": "The all-in-one platform, that combines an order book DEX with an automated yield optimizer. Genius Yield simplifies DeFi, so anyone can reap the benefits and achieve financial freedom. Less hassle, minimize risk, maximize profits. hashtag AI-powered Yield Optimizer. hashtag Why Genius Yield? Bringing the power of Artificial-Intelligence powered yield optimization to your fingertips. While DeFi provides many investment opportunities, managing capital is both complex and time-consuming.",
-    "meta": "The all-in-one platform, that combines an order book DEX with an automated yield optimizer. Explore Genius Yield on Lancers Web3 Explorer.",
+    "short": "Genius Yield is a capital-efficient DeFi platform on Cardano featuring a DEX and AI-powered yield vaults.",
+    "description": "Genius Yield is an all-in-one decentralized finance protocol designed to maximize capital efficiency on the Cardano blockchain. The platform features a sophisticated DEX utilizing Concentrated Liquidity Market Maker (CLMM) protocols and an AI-driven Smart Liquidity Vault that automates trading strategies to optimize yields. Governed by the $GENS token, the ecosystem also includes an educational Academy to help users navigate complex financial tools. By leveraging Cardano's EUTxO architecture, Genius Yield provides a secure and scalable environment for all DeFi participants.",
+    "meta": "Genius Yield is a Cardano DeFi platform with a CLMM DEX and AI-powered yield optimization. Explore Genius Yield on Lancers Web3 Explorer.",
     "pageTitle": "Genius Yield - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -25,12 +26,13 @@
   "relations": {
     "alternatives": [
       "frenbot",
-      "port-finance"
+      "port-finance",
+      "wingriders"
     ],
     "related": [
-      "cardanoscan",
       "waffle-capital",
-      "mayaprotocol"
+      "mayaprotocol",
+      "wingriders"
     ]
   }
 }

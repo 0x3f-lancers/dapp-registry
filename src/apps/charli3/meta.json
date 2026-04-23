@@ -2,19 +2,19 @@
   "slug": "charli3",
   "name": "Charli3",
   "logoUrl": "https://cdn.cardanocube.com/4wacudjoyielhsy88u3rle0gcnbc",
-  "category": "Infrastructure Tools",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Decentralized Oracles"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "The first decentralized oracle network for the Cardano network that interacts with resources on and off of the.",
-    "description": "CHARLI3 is a decentralized oracle to the Cardano Network. CHARLI3 is the platform that provides and verifies datainitially focused on blockchain economic valuesfor blockchain applications. CHARLI3 is a firm believer in decentralization and open, safe, and efficient access to accurate information. The contracts and updates will be open to the public. CHARLI3 will utilize blockchain-based rewards for node operators verifying data. Other services exist on the Ethereum network and report being chain-agnostic.",
-    "meta": "A decentralized oracle to the Cardano Network. Explore Charli3 on Lancers Web3 Explorer.",
-    "pageTitle": "Charli3 - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Charli3 is a decentralized oracle network bringing verified off-chain data feeds to Cardano smart contracts.",
+    "description": "Charli3 is a decentralized oracle network built for Cardano applications that need trusted off-chain data on-chain. It provides market, pricing, and external data feeds that smart contracts can read when executing DeFi logic or other data-dependent workflows. The network uses node operators to source, validate, and publish information, giving Cardano builders a native oracle layer instead of relying only on centralized APIs. Charli3 supports projects that need accurate, timely data for lending, trading, analytics, and automation.",
+    "meta": "Charli3 brings decentralized oracle data feeds to Cardano smart contracts and DeFi apps. Explore Charli3 on Lancers Web3 Explorer.",
+    "pageTitle": "Charli3 - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://charli3.io/",
@@ -25,12 +25,12 @@
     "alternatives": [
       "wolfram-alpha",
       "protico",
-      "cardano-assets"
+      "cexplorer"
     ],
     "related": [
-      "minswap",
       "wingriders",
-      "zettablock"
+      "zettablock",
+      "sundaeswap"
     ]
   }
 }

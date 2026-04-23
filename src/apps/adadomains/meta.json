@@ -11,9 +11,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "AdaDomains is a Cardano naming system that lets users own .ada domains as NFTs and resolve them to wallets, websites, and contact data.",
+    "short": "AdaDomains is a Cardano naming system for .ada NFT domains, wallet records, and web identity tools today.",
     "description": "AdaDomains is a blockchain-based naming system built on Cardano as a decentralized alternative to traditional DNS. In the project’s model, each domain is represented by NFTs that identify the domain itself and its ownership, while associated data is stored on-chain in UTXOs with inline datums. The system is designed so human-readable .ada names can resolve to Cardano wallet addresses, regular or IPFS-hosted websites, socials, contact details, and other custom attributes. AdaDomains also supports subdomains and third-party integrations that want to use Cardano-based name resolution.",
-    "meta": "AdaDomains.io adaDomains is a blockchain-based naming system built on Cardano as a decentralized alternative. Explore AdaDomains.io on Lancers Web3 Explorer.",
+    "meta": "AdaDomains provides .ada NFT domains and Cardano name resolution for wallets, websites, and identity. Explore AdaDomains on Lancers Web3 Explorer.",
     "pageTitle": "AdaDomains.io - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -29,7 +29,8 @@
     ],
     "related": [
       "optimism-eth-faucet",
-      "blinklabs"
+      "blinklabs",
+      "cexplorer"
     ]
   }
 }

@@ -2,19 +2,19 @@
   "slug": "cardanobi",
   "name": "CardanoBI",
   "logoUrl": "https://cdn.cardanocube.com/nlahykuno6xa3grmnjk4mz63gn4m",
-  "category": "DeFi Dapps",
+  "category": "Infrastructure Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Web3 Data Tools"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "CardanoBI is the first fully open-source Business Intelligence API Layer on Cardano.",
-    "description": "CardanoBI is the first fully open-source Business Intelligence API Layer on Cardano. CardanoBI is the first fully Open-Source Business Intelligence API Layer for Cardano. We provide on-chain analytics and enable new data-driven services. Our API is organized in 3 domains: Core, Business Intelligence (BI) and Partners. Core: all on-chain data of Cardano (accounts, blocks, transactions, contracts, pools....) Business Intelligence (BI): data derived from Core offering offering analytics data points Partners: on-chain and off-chain data, showcasing the business value outcome of Projects delivering utility on Cardano (think of it as the.",
-    "meta": "The first fully open-source Business Intelligence API Layer on Cardano. Explore CardanoBI on Lancers Web3 Explorer.",
-    "pageTitle": "CardanoBI - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "CardanoBI is an open-source business intelligence API layer for Cardano data, analytics, and app tools.",
+    "description": "CardanoBI is an open-source business intelligence and API layer for Cardano data. The project organizes blockchain information into core network data, business intelligence outputs, and partner datasets so developers, analysts, and ecosystem projects can build data-driven services. Instead of forcing teams to parse raw chain activity themselves, CardanoBI provides structured access to accounts, blocks, transactions, contracts, pools, and derived analytics that can support dashboards, reporting, and application features.",
+    "meta": "CardanoBI provides open-source API and analytics infrastructure for Cardano data and apps. Explore CardanoBI on Lancers Web3 Explorer.",
+    "pageTitle": "CardanoBI - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://cardanobi.io/",
@@ -24,7 +24,8 @@
   "relations": {
     "alternatives": [
       "larissa-health",
-      "cardanopet-registry"
+      "cardanopet-registry",
+      "wingriders"
     ],
     "related": [
       "rocko",

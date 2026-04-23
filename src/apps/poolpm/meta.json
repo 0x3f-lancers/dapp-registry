@@ -2,19 +2,19 @@
   "slug": "poolpm",
   "name": "Pool.pm",
   "logoUrl": "https://cdn.cardanocube.com/stzyjc266kiflck4kwnbmqci9pls",
-  "category": "DeFi Dapps",
+  "category": "Web3 Developer Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Block Explorers"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Cardano (ADA) Blockchain Explorer that shows all Cardano transactions.",
-    "description": "ℹ️ This video is a in-depth walkthrough of the pool.pm website explorer for Cardano. It visualizes blockchain activity in real time.⚠️ Update Videos ⚠️1) ht... Cardano in REAL TIME - Pool.pm Walkthrough (2021) - YouTube. Cardano visual explorer. SM₳UG pool presents pool.pm , a new mobile-friendly Cardano blockchain realtime visualization. Check last blocks, staking activity or the whole timeline of pools. Cardano (ADA) Blockchain Explorer that shows all Cardano transactions.",
-    "meta": "Pool.pm ℹ️ This video is a in-depth walkthrough of the pool.pm website explorer for Cardano. Explore Pool.pm on Lancers Web3 Explorer.",
-    "pageTitle": "Pool.pm - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Pool.pm is a premier visual Cardano blockchain explorer for tracking real-time transactions and NFTs.",
+    "description": "Pool.pm is one of the most widely used visual explorers in the Cardano ecosystem, providing an intuitive way to track blockchain activity in real-time. The platform is best known for its dynamic view of minting events, allowing users to watch NFTs and native tokens as they appear on-chain. Beyond transactions, Pool.pm offers comprehensive data on stake pools, epoch progress, and network health. With its clean design and focus on transparency, the tool serves as an essential resource for developers, collectors, and ADA holders who want to stay connected to the heart of the network.",
+    "meta": "Pool.pm is a visual Cardano explorer for real-time transactions, NFT mints, and pool data. Explore Pool.pm now on Lancers Web3 Explorer.",
+    "pageTitle": "Pool.pm - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://pool.pm/",
@@ -24,13 +24,14 @@
   },
   "relations": {
     "alternatives": [
-      "minswap",
       "wingriders",
-      "sundaeswap"
+      "sundaeswap",
+      "liqwid"
     ],
     "related": [
       "smart-collective",
-      "goldsand"
+      "goldsand",
+      "wingriders"
     ]
   }
 }

@@ -2,19 +2,19 @@
   "slug": "cardahub",
   "name": "Cardahub",
   "logoUrl": "https://cdn.cardanocube.com/9gstirh78n5ztsexi8399dp3s8px",
-  "category": "DeFi Dapps",
+  "category": "NFT Dapps",
   "subcategory": [
-    "Decentralized Exchanges"
+    "NFT Marketplaces"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Cardahub is a platform that provides a fully decentralized NFT marketplace, a free NFT minting service, and an.",
-    "description": "Cardahub is a platform that provides a fully decentralized NFT marketplace, a free NFT minting service, and an advanced launchpad program on the Cardano blockchain. Cardahub is a platform that provides a fully decentralized NFT marketplace, a free NFT minting service, and an advanced launchpad program.",
-    "meta": "A platform that provides a fully decentralized NFT marketplace, a free NFT minting service. Explore Cardahub on Lancers Web3 Explorer.",
-    "pageTitle": "Cardahub - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Cardahub is a Cardano NFT marketplace with free minting tools and launchpad support for new collections.",
+    "description": "Cardahub is a Cardano NFT platform that combines marketplace trading, collection discovery, minting tools, and launchpad support. It gives creators a place to launch NFT collections and gives collectors a dedicated Cardano marketplace for browsing, buying, and selling digital assets. The product focuses on making NFT creation and distribution easier for Cardano projects while keeping marketplace activity tied to the Cardano ecosystem. Cardahub is useful for teams that need minting, launch, and trading tools in one place.",
+    "meta": "Cardahub provides a Cardano NFT marketplace, minting service, and launchpad for collections. Explore Cardahub on Lancers Web3 Explorer.",
+    "pageTitle": "Cardahub - NFT Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://cardahub.io/",
@@ -23,13 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "powerdex",
-      "nft-public-library",
-      "usdm"
+      "nmkr",
+      "crashr",
+      "jpg-store"
     ],
     "related": [
-      "stake-dao",
-      "cardano-doctrinal-gold"
+      "nftiming",
+      "genesis-auction-house",
+      "mesh"
     ]
   }
 }

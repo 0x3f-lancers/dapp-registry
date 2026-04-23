@@ -2,19 +2,19 @@
   "slug": "opshin",
   "name": "Opshin",
   "logoUrl": "https://cdn.cardanocube.com/n3v1iqyz9gito733igcv0mbjoqj3",
-  "category": "Infrastructure Tools",
+  "category": "Web3 Developer Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Web3 Languages"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "GitHub (opens in a new tab) Discord Discord (opens in a new tab) Light Help shape OpShin for Plutus v3.",
-    "description": "This is likely intended because it would always evaluate to False. Note that opshin errors may be overly restrictive as they aim to prevent code with unintended consequences. Leverage the Python ecosystem! Zero configuration, one single capable tool Unittests, property based tests, formal verification... Syntax Highlighting, linting, static analysis... Get started quickly Full example can be run quickly Follow along the OpShin Pioneer Program Plenty more community built examples and tutorials at awesome-opshin Join the Discord What is OpShin?",
-    "meta": "Opshin this is likely intended because it would always evaluate to False. Explore Opshin on Lancers Web3 Explorer.",
-    "pageTitle": "Opshin - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Opshin is a toolchain that allows developers to write Cardano smart contracts using the Python language.",
+    "description": "Opshin is a groundbreaking development toolchain that enables the creation of Cardano smart contracts using Python, one of the world's most popular programming languages. By providing a strict subset of Python that compiles directly to Plutus, Opshin significantly lowers the barrier to entry for developers who are unfamiliar with Haskell. The platform ensures that if a program runs in Python, it will behave identically on the blockchain, prioritizing security and predictability. Opshin is a vital initiative for ecosystem growth, empowering a wider pool of builders to innovate on Cardano.",
+    "meta": "Opshin enables Cardano smart contract development using Python to improve builder accessibility. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "Opshin - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://opshin.dev/",
@@ -24,9 +24,9 @@
   },
   "relations": {
     "alternatives": [
-      "minswap",
       "wingriders",
-      "blocksurvey"
+      "blocksurvey",
+      "sundaeswap"
     ],
     "related": [
       "learnershape",

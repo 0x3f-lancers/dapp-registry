@@ -4,16 +4,17 @@
   "logoUrl": "https://cdn.cardanocube.com/ugjejpj74i60259o7oyt97g6hwhb",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Decentralized Derivatives",
+    "Decentralized Options"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Strike Finance is a Cardano derivatives protocol offering on-chain options, forwards, and perpetual futures trading.",
-    "description": "Strike Finance is designed to bring crypto derivatives trading onto Cardano through products such as options, forwards, and perpetual futures. The project frames itself as a response to the lack of on-chain derivatives infrastructure in the Cardano ecosystem, where most crypto derivatives activity still happens on centralized exchanges. By offering these instruments directly on Cardano, Strike Finance aims to give traders a broader set of tools for managing risk, taking directional positions, and participating in more advanced markets on-chain.",
-    "meta": "Designed to bring crypto derivatives trading onto Cardano through products such as options, forwards. Explore Strike Finance on Lancers Web3 Explorer.",
+    "short": "Strike Finance is a decentralized derivatives protocol on Cardano for on-chain options and futures trading.",
+    "description": "Strike Finance is a pioneering decentralized finance (DeFi) protocol built on the Cardano blockchain, designed to bring advanced derivative instruments to the network. The platform enables users to trade options, forwards, and perpetual futures directly on-chain, providing essential tools for risk management and leveraged positions. With its Strike V2 architecture and dedicated execution layer, the protocol ensures high-frequency trading and sub-second order matching. By bridging the gap between traditional finance and blockchain, Strike Finance empowers traders with a secure marketplace.",
+    "meta": "Strike Finance is a Cardano derivatives protocol for on-chain options, forwards, and perpetual futures trading. Explore it on Lancers Web3 Explorer.",
     "pageTitle": "Strike Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -22,13 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "crci",
-      "atrium"
+      "matrixswap",
+      "tminusone",
+      "oada"
     ],
     "related": [
-      "cardano-native-token",
-      "wanchain",
-      "sushi"
+      "indigo-protocol",
+      "vy-finance",
+      "optim-finance"
     ]
   }
 }

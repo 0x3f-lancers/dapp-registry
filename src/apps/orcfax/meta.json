@@ -2,19 +2,19 @@
   "slug": "orcfax",
   "name": "Orcfax",
   "logoUrl": "https://cdn.cardanocube.com/niq5mnpzvot01kadhlvt0rchxdww",
-  "category": "Infrastructure Tools",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Decentralized Oracles"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Flexible & Extensible Built to provide access to various types of data feeds supporting both automatic and on-demand publishing.",
-    "description": "Orcfax is a decentralized blockchain oracle focused on independent verifiability, permanent archival integrity, and provable auditability raising the bar for trustworthy smart contract data. Network Status Built on What is Orcfax? Orcfax is a decentralized blockchain oracle. Orcfax is more than just a blockchain oracle. Permanently Verifiable Every step of the process is independently verifiable, traceable, and provable, ensuring complete transparency forever.",
-    "meta": "A decentralized blockchain oracle focused on independent verifiability, permanent archival integrity. Explore Orcfax on Lancers Web3 Explorer.",
-    "pageTitle": "Orcfax - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "Orcfax is a decentralized oracle service on Cardano providing verifiably accurate real-world data feeds.",
+    "description": "Orcfax is a premier decentralized oracle protocol built on the Cardano blockchain, dedicated to providing high-fidelity, real-world data to smart contracts. By collecting, normalizing, and auditing data from multiple sources, the platform ensures that on-chain applications have access to verifiably accurate information for DeFi, gaming, and governance. Node operators stake the native $FACT token to participate in the network, ensuring data integrity through economic incentives. Orcfax is a vital infrastructure component that enables complex and reliable decentralized applications.",
+    "meta": "Orcfax is a Cardano decentralized oracle service providing verifiably accurate real-world data feeds. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "Orcfax - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://orcfax.io/",
@@ -28,7 +28,8 @@
     ],
     "related": [
       "quicknode",
-      "uniblock"
+      "uniblock",
+      "cexplorer"
     ]
   }
 }

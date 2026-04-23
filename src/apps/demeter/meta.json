@@ -12,8 +12,8 @@
   "pricing": "Free",
   "content": {
     "short": "Build and deploy dApps on a single platform with Demeter effortlessly scale to support millions of users.",
-    "description": "All products are provisioned using active-active redundancy across multiple availability zones in each of our regions. Billing & DCUs What happens if my project runs out of DCUs How are savings plans applied to my account? Build and deploy dApps on a single platform with Demeter - effortlessly scale to support millions of users. Demeter is infrastructure made easy. Forget about Infra Demeter is infrastructure made easy. By TxPipe Products Docs Pricing Support Sign in Serverless Middleware for Cardano Ogmios. We take care of monitoring, security, version upgrades so that you don't need to.",
-    "meta": "Demeter all products are provisioned using active-active redundancy across multiple availability zones in each. Explore Demeter on Lancers Web3 Explorer.",
+    "description": "Demeter is a cloud infrastructure platform from TxPipe for building and deploying Cardano applications. It gives developers managed access to middleware and services such as Ogmios, Kupo, and other Cardano backend components without requiring teams to operate their own nodes or indexers. Demeter handles monitoring, security, version upgrades, and regional provisioning so projects can focus on application logic. Its role is to make Cardano infrastructure easier to launch, scale, maintain, and monitor.",
+    "meta": "Demeter provides managed Cardano infrastructure and middleware for dapp developers and teams. Explore Demeter on Lancers Web3 Explorer.",
     "pageTitle": "Demeter - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -24,7 +24,8 @@
   "relations": {
     "alternatives": [
       "optimism-goerli-faucet",
-      "clear-contracts"
+      "clear-contracts",
+      "cexplorer"
     ],
     "related": [
       "epigeon",

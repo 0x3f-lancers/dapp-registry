@@ -4,16 +4,16 @@
   "logoUrl": "https://cdn.cardanocube.com/7a54rp87decmd3k81nrz5iyoxpfr",
   "category": "Web3 Wallets",
   "subcategory": [
-    "Software Wallets"
+    "Hardware Wallets"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Securing the crypto revolution with our open-sourced hardware cold wallets since 2017.",
-    "description": "Secure your Bitcoin and other crypto assets offline with Keystone. Keystone offers seamless compatibility with leading wallets such as 🦊 MetaMask, OKX Wallet, Tonkeeper, Solflare, Backpack, Blue Wallet, Keplr, Eternl and others, ensuring top-tier security for a wide range of cryptocurrencies, including Bitcoin and Ethereum. Securing the crypto revolution with our open-sourced hardware cold wallets since 2017.",
-    "meta": "Keystone secure your Bitcoin and other crypto assets offline with Keystone. Explore Keystone on Lancers Web3 Explorer.",
+    "short": "Keystone provides air-gapped hardware wallets for Cardano with native support for voting and governance.",
+    "description": "Keystone is a premier provider of air-gapped hardware wallets, offering robust security for the Cardano ecosystem. The Keystone 3 Pro features a unique QR-code-based communication model that eliminates the need for USB or Bluetooth, significantly reducing the attack surface for digital assets. For Cardano users, the device provides native support for Project Catalyst voting, DRep registration, and message signing. By prioritizing both high-level security and governance integration, Keystone empowers ADA holders to manage and protect their digital wealth with absolute confidence.",
+    "meta": "Keystone offers air-gapped Cardano hardware wallets with native support for voting and staking. Explore it on Lancers Web3 Explorer.",
     "pageTitle": "Keystone - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
@@ -24,14 +24,14 @@
   },
   "relations": {
     "alternatives": [
-      "adalitewallet",
       "walletverse",
-      "exodus"
+      "yoroi-wallet",
+      "vespr"
     ],
     "related": [
       "whitewallet",
       "dcent",
-      "bc-vault"
+      "tangem"
     ]
   }
 }

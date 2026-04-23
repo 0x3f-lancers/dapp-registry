@@ -2,19 +2,19 @@
   "slug": "cardanothings",
   "name": "CardanoThings",
   "logoUrl": "https://cdn.cardanocube.com/u0esmabih24e12mckeesbk6l1u9t",
-  "category": "DeFi Dapps",
+  "category": "Web3 Developer Tools",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Web3 Education Resources"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Combining the Internet of Things (IoT) with the Cardano Blockchain and having fun in the process.",
-    "description": "CardanoThings.io provides a series of workshops combining ESP32 Microcontrollers with Cardano, so people can learn how to build physical integrations utilizing blockchain technology. We teach everything from the very basics of setting up your ESP32 microcontroller with the Arduino IDE to more complex use cases with your own NodeJS based APIs, creating transactions with the MeshJS SDK or utilizing existing Cardano tools like Koios, Blockfrost, Charli3, CardanoScan and others.",
-    "meta": "CardanoThings.io provides a series of workshops combining ESP32 Microcontrollers with Cardano. Explore CardanoThings on Lancers Web3 Explorer.",
-    "pageTitle": "CardanoThings - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "CardanoThings teaches IoT and Cardano integrations using ESP32 devices, APIs, MeshJS, and workshops.",
+    "description": "CardanoThings.io provides workshops that combine ESP32 microcontrollers with Cardano, helping people learn how to build physical integrations with blockchain technology. The project covers basics such as setting up ESP32 devices with the Arduino IDE, then moves into NodeJS APIs, transactions with MeshJS, and tools such as Koios, Blockfrost, Charli3, and CardanoScan. Its purpose is education: showing builders how Cardano can interact with real-world devices and IoT experiments in practical lessons.",
+    "meta": "CardanoThings teaches Cardano and IoT integrations using ESP32 devices, APIs, and MeshJS. Explore CardanoThings on Lancers Web3 Explorer.",
+    "pageTitle": "CardanoThings - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://cardanothings.io/",
@@ -24,7 +24,7 @@
     "alternatives": [
       "zempafy-com",
       "rejuve-ai",
-      "iusd"
+      "indigo-protocol"
     ],
     "related": [
       "nolus",

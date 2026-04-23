@@ -11,9 +11,9 @@
   ],
   "pricing": "Free",
   "content": {
-    "short": "We democratize smart contracts by turning Plutus code into simple online forms.",
-    "description": "Our mission is to lower the barrier to entry for web3 communities and individuals to interact with smart contracts. We wrap smart contracts in an easy to use interface to provide a robust and no code solution for people to create, manage, and execute smart contracts. We also provide tools to Cardano communities looking to operate as DAOs. We are part of a handful of projects and initiatives in the ecosystem. Clarity Protocol: A DAO Tooling Protocol Create and manage DAOs without writing any code. Establish governance rules and execute votes on-chain.",
-    "meta": "Clear Contracts our mission is to lower the barrier to entry for web3 communities and individuals to interact with smart. Explore Clear Contracts on Lancers Web3 Explorer.",
+    "short": "Clear Contracts turns Cardano Plutus smart contracts into simple no-code forms for communities and DAOs.",
+    "description": "Clear Contracts is a Cardano tooling project that lowers the barrier for people and communities to use smart contracts. It wraps Plutus logic inside simple web forms so users can create, manage, and execute contract workflows without writing code. The project also supports DAO-style use cases, including governance rules and on-chain votes, through interfaces built for non-technical operators. Clear Contracts is useful for Cardano communities that need practical smart contract access without building custom front ends.",
+    "meta": "Clear Contracts makes Cardano smart contracts easier to use through no-code forms and DAO tooling. Explore Clear Contracts on Lancers Web3 Explorer.",
     "pageTitle": "Clear Contracts - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,7 +23,8 @@
   "relations": {
     "alternatives": [
       "streamr",
-      "formo"
+      "formo",
+      "cexplorer"
     ],
     "related": [
       "detask",

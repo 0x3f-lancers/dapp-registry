@@ -4,16 +4,16 @@
   "logoUrl": "https://cdn.cardanocube.com/1jx8fdv8o7g5g5zmpj1kwnowlm0v",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Liquid Staking Platforms"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "ADA synthetic always backed 1:1 with ADA . Superior yields, enhanced governance, and DeFi composability.",
-    "description": "OADA is the newest DeFi product by Optim Finance. It is an innovative ADA derivative system that provides the first real yield aggregation dApp on Cardano. ADA deposited into the system to mint OADA is deployed productively into strategies via Algorithmic Market Operations [AMOs] to generate yield for users. The system utilizes two tokens: OADA and sOADA. OADA is pegged to ADA but doesn't receive any yield. sOADA is staked OADA.",
-    "meta": "The newest DeFi product by Optim Finance. Explore OADA on Lancers Web3 Explorer.",
+    "short": "OADA is an ADA derivative system by Optim Finance providing yield aggregation and DeFi composability.",
+    "description": "OADA is an advanced staking derivative protocol on Cardano that enhances the utility of staked ADA. The protocol allows users to mint oADA, a liquid representation of their staked assets, enabling them to participate in DeFi while still earning staking rewards. By solving the capital inefficiency of traditional staking, OADA provides a flexible tool for yield optimization and liquidity management. It plays a crucial role in the Cardano DeFi ecosystem by bridging secure network participation with active financial strategies.",
+    "meta": "OADA is an ADA derivative by Optim Finance for yield aggregation and liquid staking on Cardano. Explore it on Lancers Web3 Explorer.",
     "pageTitle": "OADA - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,12 +23,13 @@
   "relations": {
     "alternatives": [
       "bamboo-relay",
-      "minswap",
-      "wingriders"
+      "wingriders",
+      "sundaeswap"
     ],
     "related": [
       "jasper-vault",
-      "avata"
+      "avata",
+      "wingriders"
     ]
   }
 }
