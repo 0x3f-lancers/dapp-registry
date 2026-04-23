@@ -1,7 +1,7 @@
 {
   "slug": "kiln",
   "name": "Kiln",
-  "logoUrl": "https://logo.clearbit.com/kiln.fi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860328/dapp-store-logos/kiln.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Crypto Staking Companies"
@@ -11,15 +11,18 @@
     "Solana",
     "Polygon"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Kiln is an enterprise-grade staking-as-a-service platform providing secure and non-custodial staking solutions.",
-    "description": "Kiln is the leading enterprise-grade staking platform, designed to provide secure and transparent staking-as-a-service for institutional and retail participants. The platform offers both dedicated staking for users with large holdings and pooled staking for smaller amounts, managing billions of dollars in staked assets across major networks including Ethereum, Solana, and Polygon. Kiln is the primary staking partner for prominent wallets and exchanges like Ledger and Coinbase Cloud, serving as a vital bridge between traditional financial entities and decentralized networks.\n\nFully non-custodial and SOC 2 Type II certified, Kiln ensures that users maintain full control over their assets while the platform handles the complexities of validator infrastructure. The protocol is built for high reliability and security, utilizing professional-grade monitoring and reporting tools to optimize validator performance. By providing a seamless and compliant staking experience, Kiln is empowering the next generation of digital asset managers to participate in the decentralized economy with confidence.",
-    "meta": "Kiln offers secure, enterprise-grade, non-custodial staking solutions for institutional and retail participants across multiple chains.",
+    "short": "Kiln is a leading enterprise-grade staking platform providing secure and transparent reward generation.",
+    "description": "Kiln is the premier enterprise-grade staking platform designed to provide institutional and retail users with a secure and transparent way to participate in blockchain security and earn rewards. By utilizing a robust and highly scalable infrastructure, Kiln ensures that validator nodes remain highly available and efficient across dozens of major Proof-of-Stake networks. The platform features a suite of professional-grade reporting and management tools, enabling users to oversee their staked assets with ease and precision. Kiln's commitment to security and regulatory compliance makes it an essential infrastructure provider for the global staking economy, fostering a more resilient and rewarding digital asset landscape for everyone.",
+    "meta": "Kiln is the leading enterprise-grade staking platform, offering secure and transparent validator rewards for global institutional and retail users.",
     "pageTitle": "Kiln - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.kiln.fi/",
+    "github": "https://github.com/kilnfi",
+    "docs": "https://docs.kiln.fi/",
     "twitter": "https://twitter.com/Kiln_finance"
   },
   "relations": {

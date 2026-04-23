@@ -1,7 +1,7 @@
 {
   "slug": "suiswap",
   "name": "Suiswap",
-  "logoUrl": "https://logo.clearbit.com/suiswap.app",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860448/dapp-store-logos/suiswap.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,11 +9,12 @@
   "chains": [
     "Sui"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Suiswap is a high-performance DEX hub on Sui that combines AMM liquidity pools with a limit order book.",
-    "description": "Suiswap is a leading decentralized exchange and liquidity powerhouse built natively on the Sui blockchain, designed to provide users with a seamless and highly efficient trading experience. The platform features a hybrid architecture that combines traditional Automated Market Maker (AMM) liquidity pools with a Central Limit Order Book (CLOB), allowing for more precise trade execution and minimal slippage. Suiswap serves as a primary liquidity hub for the Sui ecosystem, providing professional-grade trading tools for both volatile and stable assets.\n\nPowered by the $SSWP token, the protocol features a robust reward framework that incentivizes long-term participation through revenue-sharing and governance. Suiswap also includes a decentralized aggregator that finds the best possible rates across various liquidity sources on the network. By leveraging Sui's high-speed infrastructure and sub-second finality, Suiswap provides a responsive and transparent venue for asset exchange that prioritizes user sovereignty. Through its commitment to continuous innovation, Suiswap is building the essential framework for high-frequency decentralized commerce on Sui.",
-    "meta": "Suiswap provides high-speed AMM-CLOB hybrid trading and liquidity aggregation for the Sui blockchain ecosystem.",
+    "short": "Suiswap is a leading decentralized exchange on Sui, offering high-efficiency trading and liquidity pools.",
+    "description": "Suiswap is a premier automated market maker (AMM) and decentralized exchange natively built on the Sui blockchain, designed to maximize capital efficiency and provide a professional trading experience. By utilizing the speed and scalability of the Move programming language, Suiswap ensures that traders receive near-instant execution and minimal slippage across a wide variety of Sui-based assets. The platform features an intuitive interface for swaps, liquidity provision, and yield farming, empowering users to maximize the productivity of their digital assets. Suiswap focuses on security, performance, and community-driven growth, serving as a critical liquidity hub for the burgeoning decentralized finance ecosystem on the Sui network.",
+    "meta": "Suiswap is the leading DEX on Sui, offering high-efficiency decentralized trading and optimized liquidity management for Web3 users.",
     "pageTitle": "Suiswap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,13 +24,14 @@
   "relations": {
     "alternatives": [
       "ambient-finance",
-      "dojoswap",
-      "hummus-exchange"
+      "stader",
+      "ember-protocol"
     ],
     "related": [
       "marginly",
       "xgram-io",
-      "upshift"
+      "upshift",
+      "curve-finance"
     ]
   }
 }

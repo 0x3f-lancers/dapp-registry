@@ -1,7 +1,7 @@
 {
   "slug": "helix",
   "name": "Helix",
-  "logoUrl": "https://logo.clearbit.com/helixapp.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860295/dapp-store-logos/helix.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,26 +9,30 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Helix is the premier DEX on Injective, offering spot and perpetual trading with institutional-grade order book features.",
-    "description": "Helix is a leading decentralized exchange (DEX) built on the Injective blockchain, specializing in spot and perpetual markets. It offers a sophisticated order book model that provides traders with a high-performance experience similar to centralized exchanges, but with the security of on-chain settlement. Helix is designed to support a wide range of institutional-grade trading features, including advanced order types and cross-chain liquidity.\n\nThe platform utilizes Injective’s infrastructure to ensure zero gas fees for traders, making it a cost-effective solution for high-frequency trading. By combining deep liquidity with a user-friendly interface, Helix empowers the Web3 community to trade digital assets seamlessly. It remains a key pillar of the Injective ecosystem, driving innovation in decentralized derivatives and spot trading.",
-    "meta": "Helix is a DEX on Injective offering spot and perpetual trading with zero gas fees. Discover Helix and more on Lancers Web3 Explorer.",
+    "short": "Helix is a premier decentralized order book exchange built on Injective for high-performance trading.",
+    "description": "Helix is a leading decentralized derivatives exchange natively built on the Injective blockchain, providing a professional-grade trading experience with high throughput and zero gas fees. By utilizing Injective's specialized infrastructure, Helix offers a fully on-chain order book that ensures transparency, fair price discovery, and near-instant transaction finality. Traders can access deep liquidity and high leverage across a wide variety of perpetual contracts and spot markets. The platform is designed for both high-frequency traders and retail users, featuring an intuitive interface and advanced trading tools. Helix serves as a foundational building block for decentralized finance innovation within the Injective ecosystem.",
+    "meta": "Helix is the leading decentralized order book exchange on Injective, offering high-speed derivatives trading and zero gas fees for Web3 users.",
     "pageTitle": "Helix - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://helixapp.com",
-    "twitter": "https://twitter.com/helixapp"
+    "docs": "https://docs.helixapp.com/",
+    "twitter": "https://x.com/HelixMarkets",
+    "telegram": "https://t.me/helixapp"
   },
   "relations": {
     "alternatives": [
       "dydx",
-      "gmx"
+      "gmx",
+      "camelot"
     ],
     "related": [
       "injective-protocol",
-      "gryphon",
-      "hydro-protocol"
+      "hydro-protocol",
+      "renzo"
     ]
   }
 }

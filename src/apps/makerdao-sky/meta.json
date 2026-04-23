@@ -1,7 +1,7 @@
 {
   "slug": "makerdao-sky",
   "name": "MakerDAO (Sky)",
-  "logoUrl": "https://logo.clearbit.com/sky.money",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860344/dapp-store-logos/makerdao-sky.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized CDPs"
@@ -9,15 +9,18 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Sky is the upgraded evolution of MakerDAO, introducing the USDS stablecoin and enhanced savings mechanisms.",
-    "description": "Sky Protocol is the modernized evolution of MakerDAO, designed to bring decentralized finance into its next phase of global adoption. As part of the \"Endgame\" strategic roadmap, Sky introduces new ecosystem tokens including USDS (the upgraded evolution of DAI) and SKY (the upgraded governance token). The protocol maintains the core principles of over-collateralized stablecoin issuance while adding features like the Sky Savings Rate (SSR) to enhance utility for holders.\n\nThe platform also introduces \"Sky Stars,\" which are independent decentralized ecosystems built on top of the core protocol, fostering specialized growth across various sectors. Operating primarily on Ethereum, Sky utilizes professional-grade smart contracts to ensure capital efficiency and robust security. Through its focus on simplified user experience and expanded decentralized capabilities, Sky aims to scale the success of MakerDAO and provide a more accessible financial framework for the entire Web3 community.",
-    "meta": "Sky Protocol is the upgraded evolution of MakerDAO, featuring the USDS stablecoin and decentralized savings tools.",
+    "short": "Sky is the upgraded evolution of MakerDAO, introducing the USDS stablecoin and enhanced savings mechanisms for users.",
+    "description": "Sky Protocol is the modernized evolution of MakerDAO, designed to bring decentralized finance into its next phase of global adoption. As part of the \"Endgame\" strategic roadmap, Sky introduces new ecosystem tokens including USDS (the upgraded evolution of DAI) and SKY (the upgraded governance token). The protocol maintains the core principles of over-collateralized stablecoin issuance while adding features like the Sky Savings Rate (SSR) to enhance utility for holders. The platform also introduces \"Sky Stars,\" which are independent decentralized ecosystems built on top of the core protocol for growth.",
+    "meta": "Sky Protocol is the upgraded evolution of MakerDAO, featuring the USDS stablecoin and savings tools. Explore Sky on Lancers Web3 Explorer.",
     "pageTitle": "Sky Protocol - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://sky.money",
+    "github": "https://github.com/sky-ecosystem",
+    "docs": "https://docs.sky.money",
     "twitter": "https://twitter.com/SkyEcosystem"
   },
   "relations": {

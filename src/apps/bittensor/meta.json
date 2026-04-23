@@ -1,7 +1,7 @@
 {
   "slug": "bittensor",
   "name": "Bittensor",
-  "logoUrl": "https://unavatar.io/twitter/opentensor",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339911/dapp-store-logos/bittensor.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Layer 1 Blockchains (L1s)"
@@ -9,16 +9,20 @@
   "chains": [
     "Multichain"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Bittensor is a decentralized AI network that creates a global marketplace for machine learning and intelligence.",
-    "description": "Bittensor is an open-source protocol that powers a decentralized, peer-to-peer machine learning network where intelligence is treated as a tradable commodity. The platform is organized into specialized \"subnets,\" each dedicated to specific AI tasks such as text generation, data scraping, or image synthesis. By decentralizing the production and distribution of artificial intelligence, Bittensor aims to create a more accessible and collaborative environment for AI development outside the control of large corporations.\n\nThe network uses the TAO token to incentivize participation, rewarding \"Miners\" who provide high-quality AI outputs and \"Validators\" who assess the quality of those contributions. This meritocratic system ensures that the most valuable models receive the greatest rewards, driving continuous innovation across the network. As a Layer 1 blockchain specifically built for AI, Bittensor represents a major shift in how machine intelligence is developed, valued, and shared on a global scale.",
-    "meta": "Bittensor is a decentralized AI network using the TAO token to reward machine learning contributions. Discover Bittensor on Lancers.",
+    "short": "Bittensor is a decentralized machine learning network that incentivizes the production of artificial intelligence.",
+    "description": "Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. It enables participants to contribute computational power and machine learning models to a global pool of intelligence, where they are rewarded in TAO tokens based on the value and accuracy of their contributions. Unlike centralized AI models, Bittensor creates a competitive and collaborative marketplace for intelligence that is permissionless and transparent. This 'Internet of Artificial Intelligence' allows developers to access sophisticated AI capabilities through a decentralized network of specialized subnets. By democratizing the development and ownership of AI, Bittensor aims to create a more equitable and powerful future for artificial intelligence.",
+    "meta": "Bittensor is a decentralized machine learning protocol that creates an incentive-driven marketplace for global artificial intelligence and intelligence sharing.",
     "pageTitle": "Bittensor - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://bittensor.com",
-    "twitter": "https://x.com/opentensor"
+    "github": "https://github.com/opentensor",
+    "docs": "https://docs.bittensor.com/",
+    "twitter": "https://x.com/opentensor",
+    "telegram": "https://t.me/bittensor"
   },
   "relations": {
     "alternatives": [

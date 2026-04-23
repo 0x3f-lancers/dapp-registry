@@ -1,7 +1,7 @@
 {
   "slug": "trufin",
   "name": "TruFin",
-  "logoUrl": "https://logo.clearbit.com/trufin.io",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860463/dapp-store-logos/trufin.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -10,16 +10,17 @@
     "Ethereum",
     "Polygon"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "TruFin is an institutional-grade liquid staking protocol providing secure yield and staking infrastructure.",
-    "description": "TruFin is a premier decentralized finance protocol designed to provide institutional and retail participants with secure, high-quality staking and liquid staking solutions. The platform focuses on professional-grade risk management and regulatory alignment, offering a suite of products including TruStake, which allows users to earn staking rewards while maintaining capital liquidity through yield-bearing tokens. TruFin operates across major networks including NEAR, Polygon, and Injective, serving as a vital bridge between traditional financial entities and decentralized protocols.\n\nBy prioritizing security and transparency, TruFin provides a robust framework for on-chain asset management, featuring institutional-grade validator performance and real-time monitoring. The protocol is designed for maximum capital efficiency, enabling participants to build and manage sophisticated decentralized portfolios with unparalleled ease and security. Through its commitment to simplified decentralized banking and technological innovation, TruFin is building the essential infrastructure for a more resilient and Interconnected global digital economy.",
-    "meta": "TruFin provides institutional-grade liquid staking and secure staking infrastructure across multiple blockchain networks.",
+    "short": "TruFin is a leading institutional-grade platform providing tokenized yield-bearing assets and staking.",
+    "description": "TruFin is a pioneering decentralized finance protocol designed to bridge the gap between traditional financial instruments and the digital asset ecosystem. By providing institutional and retail investors with transparent access to high-quality, tokenized real-world assets and secure staking solutions, TruFin enables users to earn stable and competitive yields with full legal compliance. The platform focuses on regulatory oversight, high capital efficiency, and robust security standards, providing a professional-grade framework for digital wealth management. TruFin represents a critical step forward in the mass adoption of decentralized finance, fostering a more resilient and professional digital asset landscape for participants worldwide.",
+    "meta": "TruFin provides regulated institutional-grade tokenized yield assets and staking solutions, offering secure access to DeFi liquidity.",
     "pageTitle": "TruFin - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://trufin.io/",
-    "twitter": "https://twitter.com/TruFinProtocol"
+    "twitter": "https://x.com/TruYields"
   },
   "relations": {
     "alternatives": [
@@ -28,9 +29,9 @@
       "increment-finance"
     ],
     "related": [
-      "aftermath-finance",
       "siren",
-      "goat-protocol"
+      "goat-protocol",
+      "dexwin"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "swop",
   "name": "Swop",
-  "logoUrl": "https://logo.clearbit.com/swop.fi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860451/dapp-store-logos/swop.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,11 +9,12 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Discover Swop, a highly optimized DeFi Dapps protocol focusing on decentralized exchanges to drive mass adoption in Web3.",
-    "description": "Swop is an Automated Market Maker (AMM) on the Waves blockchain offering low-cost token swaps and liquidity pools. Operating at the forefront of the DeFi Dapps sector, Swop redefines how users interact with decentralized exchanges. The protocol leverages the advanced capabilities of Ethereum to provide a seamless, non-custodial experience that guarantees user sovereignty. Its architecture is explicitly built for scale, accommodating high throughput and complex decentralized operations. With a strong commitment to open-source principles, Swop stands out as a crucial utility in the modern Web3 tech stack.",
-    "meta": "Swop is redefining decentralized exchanges on Ethereum. Dive into detailed analytics and explore Swop directly on Lancers Web3 Explorer.",
+    "short": "Swop.fi is a leading decentralized exchange and automated market maker built on the Waves blockchain.",
+    "description": "Swop.fi is a premier automated market maker (AMM) and decentralized finance platform natively designed for the Waves ecosystem. It provides users with a high-speed and cost-effective environment for swapping digital assets, providing liquidity, and earning rewards through innovative farming programs. Swop.fi leverages Waves' unique infrastructure to ensure near-instant transaction finality and minimal slippage, even during periods of high network activity. The platform features an intuitive interface designed for both desktop and mobile users, making decentralized trading accessible to all. As a critical piece of Waves' infrastructure, Swop.fi drives liquidity and capital efficiency for the entire network.",
+    "meta": "Swop.fi is the leading DEX and liquidity hub on Waves, offering high-speed swaps and yield-generating opportunities for decentralized assets.",
     "pageTitle": "Swop - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,6 +24,7 @@
   "relations": {
     "alternatives": [
       "blasterswap",
+      "stonfi",
       "turbos"
     ],
     "related": [

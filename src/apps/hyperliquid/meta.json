@@ -1,7 +1,7 @@
 {
   "slug": "hyperliquid",
   "name": "Hyperliquid",
-  "logoUrl": "https://logo.clearbit.com/hyperliquid.xyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860305/dapp-store-logos/hyperliquid.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -9,16 +9,20 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Hyperliquid is a high-performance perpetual DEX built on its own L1 featuring a native on-chain order book.",
-    "description": "Hyperliquid is a leading decentralized perpetual exchange built on its own dedicated Layer 1 blockchain, optimized specifically for high-speed financial operations. The platform features an on-chain Central Limit Order Book (CLOB) that delivers a professional trading experience similar to top-tier centralized exchanges, with sub-second execution and deep liquidity. By operating on its own chain, Hyperliquid eliminates the constraints of general-purpose networks, allowing for a highly specialized and scalable trading infrastructure.\n\nIn addition to perpetual contracts, Hyperliquid supports spot trading and native asset management, all secured by a decentralized validator set. The protocol is powered by the HYPE token and follows a community-first approach, prioritizing transparency and user sovereignty. As a cornerstone of the modern derivatives landscape, Hyperliquid provides a robust and non-custodial venue for traders seeking institutional-grade performance in a decentralized environment.",
-    "meta": "Hyperliquid is a professional-grade perpetual DEX and Layer 1 blockchain featuring an on-chain order book and high-speed execution.",
+    "short": "Hyperliquid is a leading decentralized perpetual exchange featuring a high-performance on-chain order book.",
+    "description": "Hyperliquid is a next-generation decentralized derivatives exchange that provides a professional-grade trading experience with high throughput and low fees. By utilizing its own custom L1 blockchain optimized for trading, Hyperliquid offers a fully on-chain order book that ensures transparency, fair price discovery, and near-instant transaction finality. Traders can access deep liquidity and high leverage across a wide variety of perpetual contracts. The platform is designed for both high-frequency traders and retail users, featuring an intuitive interface and advanced trading tools. Hyperliquid represents a significant step forward in the evolution of decentralized finance, where performance meets permissionless access in a robust and scalable environment.",
+    "meta": "Hyperliquid is a premier decentralized perpetual exchange offering high-speed trading and professional-grade liquidity on its custom L1 blockchain.",
     "pageTitle": "Hyperliquid - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://hyperliquid.xyz/",
-    "twitter": "https://twitter.com/HyperliquidX"
+    "github": "https://github.com/hyperliquid-dex",
+    "docs": "https://hyperliquid.gitbook.io/hyperliquid-docs",
+    "twitter": "https://twitter.com/HyperliquidX",
+    "telegram": "https://t.me/hyperliquid_announcements"
   },
   "relations": {
     "alternatives": [

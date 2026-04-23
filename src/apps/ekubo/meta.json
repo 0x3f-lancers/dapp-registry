@@ -1,7 +1,7 @@
 {
   "slug": "ekubo",
   "name": "Ekubo",
-  "logoUrl": "https://unavatar.io/twitter/EkuboProtocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339983/dapp-store-logos/ekubo.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,22 +9,25 @@
   "chains": [
     "Starknet"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Ekubo is a high-performance AMM on Starknet, featuring concentrated liquidity and an extensible singleton design.",
-    "description": "Ekubo is a next-generation decentralized exchange and Automated Market Maker (AMM) purpose-built for the Starknet ecosystem. It introduces a highly efficient singleton architecture, where all pools are managed within a single smart contract to minimize gas costs and maximize capital efficiency. By implementing concentrated liquidity, Ekubo allows LPs to provide capital within specific price ranges, significantly enhancing the depth of the market and reducing slippage for traders compared to traditional AMM models.\n\nThe protocol is designed with extensibility at its core, utilizing a powerful \"hooks\" system that allows developers to build custom logic directly onto the exchange. This flexibility enables the creation of complex financial instruments, dynamic fee structures, and automated trading strategies. As a leading liquidity layer on Starknet, Ekubo combines advanced mathematics with a developer-friendly approach to drive the next wave of DeFi innovation on Layer 2.",
-    "meta": "Explore Ekubo, the Starknet AMM with concentrated liquidity and extensible hooks, designed for maximum capital efficiency and low fees.",
+    "short": "Ekubo is a high-performance concentrated liquidity protocol and DEX natively built on Starknet.",
+    "description": "Ekubo is a premier decentralized exchange and concentrated liquidity protocol designed specifically for the Starknet ecosystem. By utilizing a sophisticated architecture optimized for Starknet's ZK-rollup infrastructure, Ekubo provides traders with a professional-grade experience featuring extremely low fees and near-instant execution. The platform allows liquidity providers to concentrate their capital within custom price ranges, significantly enhancing capital efficiency and reducing slippage compared to traditional AMMs. With its focus on performance, capital-efficient design, and deep integration with Starknet's native features, Ekubo serves as a foundational building block for decentralized finance innovation within the Starknet Layer 2 landscape.",
+    "meta": "Ekubo is the leading concentrated liquidity DEX on Starknet, offering high-efficiency trading and optimized liquidity management for Web3 users.",
     "pageTitle": "Ekubo - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://ekubo.org/",
-    "twitter": "https://x.com/EkuboProtocol"
+    "docs": "https://docs.ekubo.org/",
+    "twitter": "https://x.com/EkuboProtocol",
+    "telegram": "https://t.me/Ekubo_Protocol"
   },
   "relations": {
     "alternatives": [
       "blasterswap",
-      "aftermath-finance",
-      "aerodrome"
+      "aerodrome",
+      "earn-network"
     ],
     "related": [
       "goldsand",

@@ -1,7 +1,7 @@
 {
   "slug": "aelf",
   "name": "aelf",
-  "logoUrl": "https://logo.clearbit.com/aelf.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860263/dapp-store-logos/aelf.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Layer 1 Blockchains (L1s)"
@@ -9,16 +9,20 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "aelf is an AI-enhanced, modular Layer 1 blockchain featuring a unique multi-sidechain architecture for high scalability.",
-    "description": "aelf is a high-performance, AI-enhanced Layer 1 blockchain designed to support enterprise-grade decentralized applications. It utilizes a unique \"Mainchain + multi-Sidechain\" structure that enables parallel processing and unlimited scalability, targeting transaction speeds of over 35,000 TPS. Built with C# to ensure developer accessibility, aelf provides a modular framework that allows for customized sidechains tailored to specific business needs. The network is secured by a Delegated Proof of Stake (DPoS) consensus mechanism and is powered by the ELF token, aiming to become a cornerstone for the next generation of decentralized digital economies.",
-    "meta": "aelf provides a modular, AI-integrated Layer 1 blockchain solution for enterprise scalability. Discover aelf on Lancers Web3 Explorer.",
+    "short": "aelf is a high-performance Layer 1 blockchain featuring multi-sidechain architecture and cloud-native computing.",
+    "description": "aelf is an open-source, high-performance Layer 1 blockchain network designed as a complete business solution for decentralized enterprises. It utilizes a unique multi-sidechain architecture that allows for parallel processing and cross-chain communication, enabling high throughput without network congestion. By employing a Cloud Native node system, aelf provides developers with a scalable environment that can easily adapt to high-demand applications like large-scale gaming and enterprise-grade DeFi. The network's governance model allows for flexible upgrades through voter consensus, ensuring the protocol can evolve alongside the rapidly changing technological needs of the Web3 ecosystem.",
+    "meta": "aelf is a scalable Layer 1 blockchain with a multi-sidechain architecture designed for enterprise-grade decentralized applications.",
     "pageTitle": "aelf - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://aelf.com",
-    "twitter": "https://twitter.com/aelfblockchain"
+    "github": "https://github.com/AElfProject",
+    "docs": "https://docs.aelf.com/",
+    "twitter": "https://twitter.com/aelfblockchain",
+    "telegram": "https://t.me/aelfblockchain"
   },
   "relations": {
     "alternatives": [

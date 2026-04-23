@@ -1,7 +1,7 @@
 {
   "slug": "gitcoin",
   "name": "Gitcoin",
-  "logoUrl": "https://logo.clearbit.com/gitcoin.co",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860285/dapp-store-logos/gitcoin.jpg",
   "category": "DAO Tools",
   "subcategory": [
     "DAO Developer Tools"
@@ -12,24 +12,30 @@
     "Arbitrum",
     "Polygon"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Gitcoin is a decentralized funding platform for public goods that uses quadratic funding to empower communities.",
-    "description": "Gitcoin is the leading platform for funding public goods within the Ethereum ecosystem, using quadratic funding to support open-source software. This model ensures that projects with broad community support receive the most matching funds. Through its Grants Stack, Gitcoin provides a protocol-based system that allows any community to run decentralized funding rounds.\n\nThe platform also offers Gitcoin Passport, a proof-of-humanity tool that prevents Sybil attacks in governance. By fostering collaboration between builders and donors, Gitcoin has become a cornerstone of the decentralized world, driving innovation in community resource coordination.",
-    "meta": "Gitcoin is a funding platform for public goods using quadratic funding to support builders. Discover Gitcoin on Lancers Web3 Explorer.",
+    "short": "Gitcoin is a leading decentralized platform focused on funding and building open-source software communities.",
+    "description": "Gitcoin is a foundational decentralized protocol designed to support the development and funding of public goods and open-source software. Through its innovative Quadratic Funding mechanism, Gitcoin ensures that community contributions are matched with institutional funding in a way that prioritizes projects with the broadest community support. The platform features a suite of tools for project discovery, bounty management, and hackathon organization, fostering a vibrant and collaborative ecosystem for developers. Gitcoin's commitment to decentralization and community-driven governance makes it a critical pillar of the Web3 landscape, empowering creators to build a more open, inclusive, and rewarding digital future.",
+    "meta": "Gitcoin is the leading platform for funding open-source projects, utilizing Quadratic Funding to build and support Web3 public goods.",
     "pageTitle": "Gitcoin - DAO Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://gitcoin.co",
+    "github": "https://github.com/gitcoinco",
+    "docs": "https://gov.gitcoin.co/",
     "twitter": "https://twitter.com/gitcoin"
   },
   "relations": {
     "alternatives": [
-      "mirror"
+      "mirror",
+      "sourcecred",
+      "mint-kudos"
     ],
     "related": [
       "snapshot",
-      "tally"
+      "tally",
+      "daostack"
     ]
   }
 }

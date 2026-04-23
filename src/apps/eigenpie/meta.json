@@ -1,7 +1,7 @@
 {
   "slug": "eigenpie",
   "name": "Eigenpie",
-  "logoUrl": "https://unavatar.io/twitter/Eigenpiexyz_io",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339982/dapp-store-logos/eigenpie.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -11,16 +11,19 @@
     "Arbitrum",
     "BNB Chain"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Eigenpie is a specialized Liquid Restaking platform by Magpie, offering isolated LRT solutions for EigenLayer.",
-    "description": "Eigenpie is an innovative Liquid Restaking platform created by Magpie to provide specialized services within the EigenLayer ecosystem. It focuses on offering isolated Liquid Restaking Token (LRT) solutions, allowing users to restake their assets without sacrificing liquidity or security. By supporting a wide array of Liquid Staking Tokens (LSTs), Eigenpie enables participants to earn rewards from both the underlying staking and the restaking process, all while maintaining a flexible and user-friendly experience.\n\nThe protocol is designed to maximize capital efficiency and risk management through its isolated architecture. This approach ensures that risks associated with specific assets are contained, providing a safer environment for depositors. As a key sub-DAO within the Magpie ecosystem, Eigenpie leverages cross-chain capabilities to bring advanced restaking opportunities to a broader audience, reinforcing the infrastructure of decentralized finance.",
-    "meta": "Discover Eigenpie, the liquid restaking platform by Magpie that optimizes EigenLayer yields with isolated LRT solutions on Lancers Web3.",
+    "short": "Eigenpie is a specialized liquid restaking platform designed to optimize yield and utility for restaked assets.",
+    "description": "Eigenpie is a leading decentralized platform focused on enhancing the accessibility and profitability of the liquid restaking ecosystem. By providing users with liquid restaking tokens (LRTs) against their deposits in protocols like EigenLayer, Eigenpie ensures that participants can maintain asset liquidity while earning both native staking rewards and restaking incentives. The platform features an intuitive interface and advanced risk management strategies, allowing both retail and institutional investors to participate in the next evolution of Ethereum security with confidence. As a key player in the modular security landscape, Eigenpie drives capital efficiency and yield optimization for users seeking to maximize the utility of their staked digital assets.",
+    "meta": "Eigenpie offers advanced liquid restaking solutions, providing optimized yield and asset utility for participants in the restaking ecosystem.",
     "pageTitle": "Eigenpie - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.eigenpie.xyz/",
-    "twitter": "https://x.com/Eigenpiexyz_io"
+    "website": "https://www.eigenlayer.magpiexyz.io/",
+    "docs": "https://docs.eigenpiexyz.io/",
+    "twitter": "https://x.com/Eigenpiexyz_io",
+    "telegram": "https://t.me/Official_MagpieMegaDao/101124"
   },
   "relations": {
     "alternatives": [
@@ -29,9 +32,9 @@
       "stakewise"
     ],
     "related": [
-      "novabits",
       "hydro-protocol",
-      "baltex.io"
+      "baltex.io",
+      "transit-swap"
     ]
   }
 }

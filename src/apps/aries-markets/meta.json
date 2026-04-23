@@ -1,7 +1,7 @@
 {
   "slug": "aries-markets",
   "name": "Aries Markets",
-  "logoUrl": "https://unavatar.io/twitter/ariesmarkets",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339874/dapp-store-logos/aries-markets.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -9,22 +9,25 @@
   "chains": [
     "Aptos"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "A comprehensive DeFi super app on Aptos unifying lending, borrowing, swapping, and margin trading in one interface.",
-    "description": "Aries Markets is a comprehensive \"DeFi Super App\" on the Aptos blockchain that unifies lending, borrowing, swapping, and margin trading into a single, intuitive interface. It features a Unified Margin Account that consolidates all DeFi activities, allowing for seamless cross-collateralization across different assets. This architecture provides users with maximum capital efficiency and a streamlined experience.\n\nThe platform includes an on-chain order book for high-speed margin trading and an \"Efficiency Mode\" (E-Mode) that optimizes borrowing power for correlated asset pairs. By leveraging Aptos' high throughput, Aries Markets delivers lightning-fast execution and a professional-grade DeFi suite.",
-    "meta": "Aries Markets is a DeFi super app on Aptos for lending, swapping, and margin trading. Explore its DeFi suite on Lancers Web3 Explorer.",
+    "short": "Aries Markets is a comprehensive decentralized margin trading and lending platform built on the Aptos network.",
+    "description": "Aries Markets is an all-in-one decentralized finance platform on Aptos, offering a suite of products including lending, borrowing, and high-performance margin trading. By utilizing an on-chain order book alongside automated money markets, Aries provides traders with a professional-grade experience featuring low latency and tight spreads. Users can seamlessly transition between simple lending to earn yield and advanced trading with leverage, all within a single unified interface. Built to take full advantage of the Move programming language and Aptos' high throughput, Aries Markets provides a robust and secure foundation for capital-efficient trading and decentralized liquidity management across the Move-based ecosystem.",
+    "meta": "Aries Markets is the premier margin trading and lending platform on Aptos, offering professional-grade DeFi tools and high-efficiency liquidity solutions.",
     "pageTitle": "Aries Markets - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://ariesmarkets.xyz",
-    "twitter": "https://x.com/ariesmarkets"
+    "docs": "https://docs.ariesmarkets.xyz/aries-markets",
+    "twitter": "https://x.com/ariesmarkets",
+    "telegram": "https://t.me/ariesmarkets"
   },
   "relations": {
     "alternatives": [
       "sonne-finance",
-      "pac-finance",
-      "notional"
+      "notional",
+      "saros"
     ],
     "related": [
       "bluefin",

@@ -1,36 +1,37 @@
 {
   "slug": "catizen",
   "name": "Catizen",
-  "logoUrl": "https://ton.app/media/0feb08b9-635b-4606-a823-dc1443b9aa67.png?w=128&q=75",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339938/dapp-store-logos/catizen.jpg",
   "category": "Decentralized Games",
   "subcategory": [
     "Web3 Games"
   ],
   "chains": [
-    "TON"
+    "Multichain"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Catizen is a Telegram GameFi app built around a cat-themed mini-game universe, rewards, and on-chain activity.",
-    "description": "Catizen is a Telegram-native GameFi project with a cat cafe-style mini-game and a wider Meow Universe around play, rewards, and on-chain users. Its site describes mini-games, AI and metaverse themes, player activity, and community scale. It fits the TON game category because the main product is a Telegram game experience, not a standalone exchange or wallet. Dive into the Meow Universe, where each heartbeat echoes with the promise of uncharted territories!. Those details make onchain txs, onchain users, total catizens, and a cat café-themed mini-game adventure part of the product story.",
-    "meta": "Catizen is a Telegram GameFi app built around a cat-themed mini-game universe, rewards,. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "Catizen - Decentralized Games on TON - Lancers Web3 Explorer"
+    "short": "Catizen is a popular Telegram-based play-to-earn game featuring digital pets and a vibrant social ecosystem.",
+    "description": "Catizen is a revolutionary decentralized gaming platform that operates directly through the Telegram interface, combining casual 'match-and-merge' mechanics with the power of Web3 ownership. Players manage their own virtual cat cafes, collecting and upgrading a diverse array of feline companions to earn rewards and progress through a series of engaging challenges. The platform features a robust play-to-earn model, where active participation leads to the accumulation of on-chain assets and governance tokens. By leveraging Telegram's massive user base and providing a seamless onboarding experience, Catizen is a leading force in the mass adoption of blockchain gaming, creating a fun, interactive, and rewarding social ecosystem for millions of users worldwide.",
+    "meta": "Catizen is a premier Telegram-based Web3 game, offering engaging play-to-earn mechanics and digital pet ownership for a global audience.",
+    "pageTitle": "Catizen - Decentralized Games - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://catizen.ai",
-    "twitter": "https://twitter.com/CatizenAI",
-    "telegram": "https://t.me/catizenbot"
+    "website": "https://catizen.ai/",
+    "twitter": "https://x.com/CatizenAI",
+    "telegram": "https://t.me/CatizenAnn"
   },
   "relations": {
     "alternatives": [
-      "token-tails",
-      "jivo-pets",
-      "x-empire"
+      "darkfrontiers",
+      "croskull-nft",
+      "cropbytes-farms"
     ],
     "related": [
-      "blum",
-      "gamee",
-      "ton-station"
+      "decentraland",
+      "forever-fc",
+      "idos-games-engine"
     ]
   }
 }

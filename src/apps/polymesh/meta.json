@@ -1,7 +1,7 @@
 {
   "slug": "polymesh",
   "name": "Polymesh",
-  "logoUrl": "https://logo.clearbit.com/polymesh.network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860405/dapp-store-logos/polymesh.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Layer 1 Blockchains (L1s)"
@@ -9,11 +9,12 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Polymesh is an institutional-grade, permissioned Layer 1 blockchain specifically designed for regulated assets.",
-    "description": "Polymesh is a leading institutional-grade Layer 1 blockchain engineered to overcome the barriers to adopting security tokens and regulated digital assets. Unlike general-purpose networks, Polymesh is a permissioned blockchain that bakes identity, compliance, and confidentiality directly into the core runtime. This approach ensures that all participants are verified and that every transaction meets rigorous regulatory standards, making it a primary venue for capital markets and institutional-level asset management.\n\nThe network is powered by the POLYX utility token, which facilitates transaction fees, staking, and decentralized governance. Polymesh provides a robust framework for the tokenization, issuance, and settlement of real-world assets (RWAs), providing institutional participants with the transparency and efficiency typically found only in decentralized environments. Through its commitment to regulatory alignment and technical innovation, Polymesh is building the essential infrastructure for a more secure and efficient global financial system.",
-    "meta": "Polymesh provides a permissioned Layer 1 blockchain for institutional-grade security tokens and regulated assets.",
+    "short": "Polymesh is a leading permissioned blockchain built specifically for regulated security tokens and RWA.",
+    "description": "Polymesh is a groundbreaking institutional-grade blockchain designed to provide a secure and compliant framework for the issuance and management of regulated security tokens. By addressing the critical requirements of identity, compliance, and confidentiality, Polymesh enables global enterprises to integrate blockchain technology into their operations with full regulatory oversight. The network features a robust governance model and specialized infrastructure for asset tokenization, ensuring high levels of transparency and security for all participants. Polymesh focuses on fostering a more inclusive and efficient global financial system, serving as a critical anchor for the institutional adoption of digital assets and decentralized infrastructure.",
+    "meta": "Polymesh is the leading permissioned blockchain for security tokens, offering secure tokenization and institutional-grade compliance for Web3.",
     "pageTitle": "Polymesh - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
@@ -28,8 +29,8 @@
     ],
     "related": [
       "theta-network",
-      "karak",
-      "xdc-network"
+      "xdc-network",
+      "avail"
     ]
   }
 }

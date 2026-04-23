@@ -1,7 +1,7 @@
 {
   "slug": "rise-wallet",
   "name": "Rise Wallet",
-  "logoUrl": "https://risewallet.io/favicon.ico",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775655346/dapp-store-logos/rise-wallet.jpg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -10,16 +10,17 @@
     "Aptos",
     "Sui"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Rise Wallet is a high-performance, non-custodial wallet for Aptos and Sui focusing on security and seamless UX.",
-    "description": "Rise Wallet is a leading self-custodial digital asset manager built natively for the high-performance Aptos and Sui blockchains. Developed by the Solrise Research team, the wallet is designed to provide users with a secure and intuitive gateway to the decentralized web. Rise supports advanced features such as real-time NFT management, integrated DEX aggregation for optimal swap rates, and deep integration with the broader Move-based dApp ecosystem. The platform focuses on delivering a responsive and professional-grade user experience typical of centralized applications.\n\nBy leveraging the high throughput and sub-second finality of its underlying chains, Rise Wallet ensures near-instant transaction settlement and robust cryptographic security. The wallet is designed for both retail and institutional participants who seek total sovereignty over their digital capital and identity. As a primary portal for the next generation of decentralized finance and gaming, Rise is dedicated to providing the essential infrastructure needed for mass adoption in the rapidly evolving Web3 landscape.",
-    "meta": "Rise Wallet is a premier non-custodial wallet for the Aptos and Sui blockchains, featuring secure asset management and dApp interaction.",
+    "short": "Rise Wallet is a leading high-performance self-custody wallet designed for the Aptos and Sui ecosystems.",
+    "description": "Rise Wallet is a premier decentralized wallet natively built to provide users with a secure and intuitive gateway to the Move-based ecosystems of Aptos and Sui. As a self-custody solution, Rise ensures that users maintain full control over their private keys and digital assets while enjoying a seamless experience across diverse dApps. The wallet features a suite of built-in tools for asset management, NFT discovery, and direct integration with the networks' leading DeFi protocols. Rise Wallet focuses on security, performance, and accessibility, making it an essential component for both new and experienced users navigating the rapidly expanding high-throughput Layer 1 landscape, ensuring a frictionless Web3 experience.",
+    "meta": "Rise Wallet is the leading self-custody wallet for Aptos and Sui, offering secure asset management and seamless integration with the Move ecosystem.",
     "pageTitle": "Rise Wallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://risewallet.io/",
-    "twitter": "https://twitter.com/RiseWallet"
+    "twitter": "https://x.com/rise_wallet"
   },
   "relations": {
     "alternatives": [
@@ -29,7 +30,8 @@
     ],
     "related": [
       "locksmith-wallet",
-      "bitcoincom-wallet"
+      "bitcoincom-wallet",
+      "coin-wallet"
     ]
   }
 }

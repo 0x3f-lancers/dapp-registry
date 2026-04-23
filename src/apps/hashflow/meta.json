@@ -1,7 +1,7 @@
 {
   "slug": "hashflow",
   "name": "Hashflow",
-  "logoUrl": "https://logo.clearbit.com/hashflow.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860293/dapp-store-logos/hashflow.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -15,24 +15,30 @@
     "OP Mainnet",
     "Solana"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Hashflow is a multi-chain DEX that uses a Request-for-Quote (RFQ) model to provide zero slippage and MEV protection.",
-    "description": "Hashflow is a decentralized exchange (DEX) designed for high-performance trading with zero slippage and MEV-protected execution. Unlike traditional automated market makers (AMMs), Hashflow uses a Request-for-Quote (RFQ) model that allows professional market makers to provide liquidity directly to users. This approach ensures that traders receive the best possible prices without the risk of front-running. The protocol also supports seamless cross-chain swaps.\n\nBy leveraging its unique RFQ engine, Hashflow bridges the gap between decentralized and centralized liquidity. This architecture provides institutional-grade trading features to the Web3 community while maintaining the security of on-chain settlement. Hashflow empowers users to trade with confidence across multiple blockchains through a transparent and efficient interface.",
-    "meta": "Hashflow is a multi-chain DEX with zero slippage and MEV protection using an RFQ model. Discover Hashflow on Lancers Web3 Explorer.",
+    "short": "Hashflow is a decentralized exchange designed for interoperability, zero slippage, and MEV-protected trades.",
+    "description": "Hashflow is a leading decentralized exchange that provides a professional trading experience with high capital efficiency and zero slippage. By utilizing a unique request-for-quote (RFQ) model, Hashflow enables users to execute trades directly with professional market makers, ensuring that they receive the best possible price without the risks of front-running or MEV. The platform supports seamless cross-chain swaps between major networks, such as Ethereum, Solana, and Arbitrum, without requiring external bridges. Hashflow focuses on providing a secure, non-custodial, and highly scalable environment, making it a premier choice for both retail and institutional traders in the multichain Web3 landscape.",
+    "meta": "Hashflow is a premier multi-chain DEX offering zero slippage, MEV protection, and high-efficiency trading for decentralized assets.",
     "pageTitle": "Hashflow - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://hashflow.com",
-    "twitter": "https://twitter.com/hashflow"
+    "docs": "https://docs.hashflow.com/",
+    "twitter": "https://twitter.com/hashflow",
+    "telegram": "https://t.me/hashflowdex"
   },
   "relations": {
     "alternatives": [
-      "curve-finance"
+      "sushi",
+      "curve-finance",
+      "avantis"
     ],
     "related": [
       "wormhole",
-      "layerzero"
+      "layerzero",
+      "tokensfarm"
     ]
   }
 }

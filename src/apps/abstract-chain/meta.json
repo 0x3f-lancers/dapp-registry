@@ -1,7 +1,7 @@
 {
   "slug": "abstract-chain",
   "name": "Abstract Chain",
-  "logoUrl": "https://unavatar.io/twitter/AbstractChain",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339844/dapp-store-logos/abstract-chain.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Layer 2 Blockchains"
@@ -9,22 +9,25 @@
   "chains": [
     "Ethereum"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
     "short": "Abstract is a consumer-focused Layer 2 blockchain built on Ethereum using the ZK stack for high speed and low costs.",
-    "description": "Abstract is an Ethereum Layer 2 blockchain developed by Igloo Inc., the parent company of the Pudgy Penguins NFT project. Built using the zkSync ZK stack and EigenDA, it is specifically optimized for consumer-facing applications such as gaming, social networks, and entertainment. The network features the Abstract Global Wallet (AGW), which simplifies the user experience through passkeys and social logins. By implementing panoramic governance and focus on cultural alignment, Abstract aims to onboard the next generation of users into the decentralized economy with a seamless and intuitive interface.",
-    "meta": "Abstract is a ZK-powered Layer 2 blockchain designed for consumer crypto and gaming. Discover Abstract and other Blockchains on Lancers Web3 Explorer.",
+    "description": "Abstract is a highly scalable Ethereum Layer 2 network developed by Igloo Inc. to bring decentralized applications to the masses. Built on the zkSync ZK stack and leveraging EigenDA for data availability, Abstract offers a high-performance environment with near-instant transactions and extremely low fees. It focuses on the 'Consumer Crypto' category, prioritizing gaming, social media, and culture-driven apps. The network introduces the Abstract Global Wallet, allowing users to interact with dApps using passkeys and social logins, effectively abstracting away the complexities of blockchain technology for a seamless onboarding experience.",
+    "meta": "Abstract is a ZK-powered Ethereum Layer 2 designed for consumer applications, offering high speed, low fees, and a frictionless user experience.",
     "pageTitle": "Abstract Chain - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://abstract.global",
+    "website": "https://abs.xyz/",
+    "github": "https://github.com/Abstract-Foundation",
+    "docs": "https://docs.abs.xyz/",
     "twitter": "https://x.com/AbstractChain"
   },
   "relations": {
     "alternatives": [
       "cartesi",
       "gosh",
-      "prividium"
+      "manta-network"
     ],
     "related": [
       "shardeum",

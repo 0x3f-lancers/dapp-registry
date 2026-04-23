@@ -1,7 +1,7 @@
 {
   "slug": "jellyverse",
   "name": "Jellyverse",
-  "logoUrl": "https://logo.clearbit.com/jellyverse.org",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860318/dapp-store-logos/jellyverse.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,22 +9,24 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Jellyverse is a Balancer-forked DeFi ecosystem on Sei featuring synthetic assets and advanced liquidity pools.",
-    "description": "Jellyverse is a comprehensive decentralized finance ecosystem built on the Sei Network, serving as an official fork of the Balancer protocol. The platform brings sophisticated liquidity management to Sei through JellySwap, which supports weighted pools, stable pools, and liquidity bootstrapping pools. By allowing users to create pools with up to eight different tokens, Jellyverse provides unparalleled flexibility for liquidity providers and traders alike.\n\nBeyond its AMM capabilities, Jellyverse features jAssets, a synthetic assets protocol that enables the minting and trading of tokens mirroring real-world assets such as stocks and commodities. The ecosystem is secured by a decentralized governance model through JellyStake, where community members can participate in decision-making and earn rewards. Through its integration of advanced DeFi primitives and real-world exposure, Jellyverse is building a robust and versatile financial layer for the next generation of decentralized commerce.",
-    "meta": "Jellyverse provides advanced Balancer-style liquidity pools and synthetic real-world assets on the Sei Network.",
+    "short": "Jellyverse is a comprehensive decentralized finance ecosystem providing a suite of advanced DeFi tools.",
+    "description": "Jellyverse is an innovative decentralized protocol designed to provide a unified and high-utility financial ecosystem for Web3 users. The platform encompasses a wide range of products, including a decentralized exchange, lending markets, and yield optimization strategies, all within a single integrated interface. Jellyverse focuses on maximizing capital efficiency and providing users with sophisticated tools for managing their digital assets across multiple blockchain networks. By prioritizing transparency, security, and community-driven governance, Jellyverse aims to create a more resilient and inclusive decentralized financial landscape where innovation and utility are highly accessible to participants worldwide.",
+    "meta": "Jellyverse provides a comprehensive decentralized finance ecosystem, offering advanced DeFi tools and yield-generating strategies for Web3 users.",
     "pageTitle": "Jellyverse - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://jellyverse.org/",
-    "twitter": "https://twitter.com/jellyverse_org"
+    "twitter": "https://x.com/jlyvrs",
+    "telegram": "https://t.me/jlyvrs_announcements"
   },
   "relations": {
     "alternatives": [
-      "funny-money",
       "suilend-steamm",
-      "camelot"
+      "camelot",
+      "lagoon"
     ],
     "related": [
       "snowball",

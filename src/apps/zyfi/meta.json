@@ -1,7 +1,7 @@
 {
   "slug": "zyfi",
   "name": "Zyfi",
-  "logoUrl": "https://logo.clearbit.com/zyfi.org",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860491/dapp-store-logos/zyfi.jpg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "ERC-4337 Paymasters"
@@ -9,11 +9,12 @@
   "chains": [
     "ZKsync"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Zyfi is a Paymaster-as-a-Service on ZKsync and Base enabling gasless transactions with any ERC-20 token.",
-    "description": "Zyfi is a pioneering decentralized infrastructure protocol designed to simplify the Web3 user experience through advanced Native Account Abstraction (ERC-4337). The platform provides a professional-grade \"Paymaster-as-a-Service\" that allows decentralized applications to offer gasless transactions, enabling users to pay for network fees using any of over 80 supported ERC-20 tokens instead of native ETH. This approach significantly lowers the barrier to entry for retail participants and fosters mass adoption by making on-chain interactions as intuitive as traditional web apps.\n\nOperating across major networks including ZKsync and Base, Zyfi serves as a vital infrastructure layer for high-throughput DeFi, gaming, and social platforms. The protocol also features the ZyFAI autonomous agent, which utilizes AI to identify and execute optimal yield-farming strategies for its users. Through its commitment to user-centric design and technical innovation, Zyfi is building the essential framework for a more accessible and efficient decentralized economy, where gas management is a transparent and automated utility.",
-    "meta": "Zyfi provides gasless transaction infrastructure and account abstraction tools for the ZKsync and Base networks.",
+    "short": "Zyfi is a Paymaster-as-a-Service provider on ZKsync enabling gasless and ERC-20 gas payments.",
+    "description": "Zyfi is a specialized infrastructure provider on the ZKsync ecosystem that leverages Account Abstraction (AA) to revolutionize the user experience. As a 'Paymaster-as-a-Service,' Zyfi enables decentralized applications to offer gasless transactions or allow users to pay gas fees using any supported ERC-20 token instead of the network's native ETH. This significantly lowers the barrier to entry for new users and provides a seamless, flexible transaction experience for the entire community. Zyfi simplifies the complexities of gas management, making blockchain interactions more intuitive and accessible.",
+    "meta": "Zyfi provides Paymaster services on ZKsync for gasless and flexible ERC-20 gas payments. Discover Zyfi and other Web3 Wallet Tools on Lancers Web3 Explorer.",
     "pageTitle": "Zyfi - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {

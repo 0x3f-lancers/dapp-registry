@@ -1,7 +1,7 @@
 {
   "slug": "resolv",
   "name": "Resolv",
-  "logoUrl": "https://resolv.fi/favicon.ico",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775655344/dapp-store-logos/resolv.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized CDPs"
@@ -9,16 +9,17 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Resolv is a decentralized stablecoin protocol that issues USR, a delta-neutral asset backed by ETH and BTC.",
-    "description": "Resolv is an innovative decentralized finance protocol designed to provide users with a secure and stable digital asset through USR, its flagship delta-neutral stablecoin. Unlike traditional assets backed by fiat or single-sided collateral, USR is backed by a diversified portfolio of ETH and BTC, utilizing advanced hedging strategies to maintain its value peg regardless of market volatility. The protocol's three-token model includes USR for stability, RLP for insurance and yield generation, and RESOLV for ecosystem governance.\n\nOperating on the Ethereum network, Resolv provides a professional-grade environment for capital preservation and decentralized asset management. The platform focuses on high-transparency and robust on-chain execution, serving as a vital tool for participants who seek a more resilient and non-custodial alternative to traditional digital currencies. Through its commitment to financial innovation and cryptographic security, Resolv is building the essential infrastructure for a more efficient and stable decentralized economy.",
-    "meta": "Resolv provides the USR delta-neutral stablecoin and decentralized asset management tools on the Ethereum network.",
+    "short": "Resolv is a decentralized protocol issuing USR, a delta-neutral stablecoin backed by crypto.",
+    "description": "Resolv is a pioneering DeFi protocol that issues USR, a decentralized stablecoin designed to maintain stability through a delta-neutral hedging strategy. By pairing its underlying cryptocurrency collateral (such as ETH and BTC) with corresponding short futures positions, Resolv effectively neutralizes market volatility. This allows users to hold a stable asset that is backed by transparent, on-chain crypto assets while avoiding the risks associated with traditional centralized stablecoin issuers. The protocol provides a scalable and robust alternative for on-chain dollar liquidity.",
+    "meta": "Resolv issues the USR delta-neutral stablecoin, using crypto-collateralized hedging for stability. Discover Resolv and other DeFi Dapps on Lancers Web3 Explorer.",
     "pageTitle": "Resolv - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.resolv.xyz/",
-    "twitter": "https://twitter.com/Resolv_Fi"
+    "twitter": "https://x.com/ResolvLabs"
   },
   "relations": {
     "alternatives": [

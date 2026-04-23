@@ -1,7 +1,7 @@
 {
   "slug": "fluid",
   "name": "Fluid",
-  "logoUrl": "https://unavatar.io/twitter/0xFluid",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340014/dapp-store-logos/fluid.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -9,19 +9,30 @@
   "chains": [
     "Ethereum"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "High-efficiency liquidity layer optimizing asset utilization and yield.",
-    "description": "Fluid is a DeFi Dapps project focused on decentralized lending dapps supporting Ethereum.",
-    "meta": "Fluid is a DeFi Dapps on Ethereum. Discover it on Lancers Web3 Explorer.",
+    "short": "Fluid is a high-performance decentralized protocol enabling trustless undercollateralized lending and trading.",
+    "description": "Fluid is a sophisticated decentralized finance protocol designed to maximize capital efficiency through trustless, undercollateralized lending and advanced margin trading. By utilizing a robust risk management framework and deep liquidity pools, Fluid allows users to unlock significant leverage across a wide variety of digital assets. The platform features an intuitive interface and high-speed execution, providing a professional-grade environment for both retail and institutional participants. Fluid focuses on transparency and security, ensuring that all financial operations are verifiable and non-custodial. As a key engine for DeFi innovation, Fluid empowers users to achieve superior financial outcomes in the decentralized economy.",
+    "meta": "Fluid provides decentralized undercollateralized lending and margin trading, offering high leverage and capital efficiency for Web3 users.",
     "pageTitle": "Fluid - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://fluid.fi/",
+    "website": "https://fluid.io/",
+    "github": "https://github.com/Instadapp",
+    "docs": "https://docs.fluid.instadapp.io/",
     "twitter": "https://x.com/0xFluid"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "stakestone",
+      "kwenta",
+      "heyelsaai"
+    ],
+    "related": [
+      "swell-network",
+      "ethena",
+      "insurace"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "phala-network",
   "name": "Phala Network",
-  "logoUrl": "https://logo.clearbit.com/phala.network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860400/dapp-store-logos/phala-network.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Decentralized Computing Tools"
@@ -9,11 +9,12 @@
   "chains": [
     "Polkadot"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Phala Network is a decentralized AI compute cloud on Ethereum providing private execution via TEE hardware.",
-    "description": "Phala Network is an innovative decentralized cloud computing platform designed to provide a secure and confidential execution layer for Web3 AI and privacy-sensitive applications. By utilizing Trusted Execution Environments (TEE)—secure hardware enclaves—the network enables developers to process sensitive data without ever exposing it to the underlying infrastructure or the internet. This approach ensures total data privacy while maintaining high-performance compute capabilities across a globally distributed network.\n\nOriginally a Polkadot parachain, Phala has evolved into a high-throughput Ethereum Layer 2 to better serve the growing demand for verifiable and private AI inference. The network is powered by the $PHA token, which facilitates compute resource allocation, staking, and decentralized governance. By providing a robust and scalable framework for confidential computation, Phala Network is empowering the next generation of builders to create more secure and privacy-centric decentralized applications for the global economy.",
-    "meta": "Phala Network provides a decentralized confidential compute cloud for private AI execution and secure data processing.",
+    "short": "Phala Network is a decentralized compute cloud providing secure and private execution for smart contracts.",
+    "description": "Phala Network is a pioneering decentralized computing platform (DePIN) that utilizes Trusted Execution Environments (TEE) to provide secure and private computation for decentralized applications. By combining the transparency of blockchain with the confidentiality of hardware-level security, Phala enables developers to process sensitive data without compromising user privacy. The network features a global pool of community-run nodes that provide high-performance computing power at a fraction of the cost of traditional cloud providers. Phala focuses on data sovereignty and secure interoperability, serving as a critical infrastructure layer for the next generation of privacy-centric Web3 applications and AI models.",
+    "meta": "Phala Network provides decentralized secure compute and private smart contract execution, offering a scalable and private cloud solution for Web3.",
     "pageTitle": "Phala Network - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {

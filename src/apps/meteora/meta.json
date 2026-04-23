@@ -1,7 +1,7 @@
 {
   "slug": "meteora",
   "name": "Meteora",
-  "logoUrl": "https://logo.clearbit.com/meteora.ag",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860355/dapp-store-logos/meteora.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,16 +9,20 @@
   "chains": [
     "Solana"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Meteora is Solana's premier yield layer and DEX featuring advanced Dynamic Liquidity Market Maker (DLMM).",
-    "description": "Meteora is a leading decentralized liquidity protocol and yield layer built natively on the Solana blockchain, designed to maximize capital efficiency for the entire ecosystem. Rebranded from Mercurial Finance, the platform is renowned for its innovative Dynamic Liquidity Market Maker (DLMM) technology. This model allows liquidity providers to concentrate their capital within specific price bins, significantly increasing fee capture and reducing slippage for traders compared to traditional AMMs.\n\nIn addition to its core trading features, Meteora serves as a vital yield aggregator, providing automated vaults that optimize returns for major assets. Deeply integrated with popular Solana tools like the Jupiter aggregator, Meteora provides the essential liquidity infrastructure needed for professional-grade on-chain trading. Through its commitment to transparency, high performance, and user-centric design, Meteora is empowering the next generation of DeFi participants to build and manage sophisticated decentralized portfolios on Solana.",
-    "meta": "Meteora provides advanced DLMM liquidity pools and high-efficiency yield layers for the Solana blockchain.",
+    "short": "Meteora is a leading liquidity protocol on Solana providing dynamic AMMs and yield-generating vaults.",
+    "description": "Meteora is a premier decentralized finance platform natively built on the Solana blockchain, designed to maximize capital efficiency and yield potential for liquidity providers. The protocol features a suite of dynamic automated market maker (AMM) pools and yield-generating vaults that automatically rebalance assets to capture the best market opportunities. By utilizing Solana's high throughput and low fees, Meteora ensures near-instant transaction finality and minimal slippage for traders. The platform focuses on transparency and community-driven growth, serving as a critical engine for liquidity and decentralized asset management within the rapidly expanding Solana ecosystem.",
+    "meta": "Meteora is the leading liquidity protocol on Solana, offering dynamic AMMs and optimized yield-generating vaults for Web3 users.",
     "pageTitle": "Meteora - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.meteora.ag/",
-    "twitter": "https://twitter.com/MeteoraAG"
+    "github": "https://github.com/MeteoraAg",
+    "docs": "https://docs.meteora.ag",
+    "twitter": "https://twitter.com/MeteoraAG",
+    "telegram": "https://t.me/MeteoraAGSolana"
   },
   "relations": {
     "alternatives": [

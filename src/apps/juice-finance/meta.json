@@ -1,7 +1,7 @@
 {
   "slug": "juice-finance",
   "name": "Juice Finance",
-  "logoUrl": "https://logo.clearbit.com/juice.finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860322/dapp-store-logos/juice-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Farming Platforms"
@@ -9,16 +9,19 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Juice Finance is a cross-margin DeFi protocol on Blast designed to maximize yield and reward farming.",
-    "description": "Juice Finance is a high-performance cross-margin decentralized finance protocol built natively on the Blast Layer 2 network. It is specifically engineered to maximize capital efficiency for users by providing leveraged yield farming opportunities. Borrowers can access up to 3x leverage on their collateral—including ETH, WETH, and USDB—to deploy into a curated selection of vetted Blast dApps, such as Thruster and Hyperlock, significantly amplifying their potential returns.\n\nDeeply integrated with the Blast ecosystem, Juice Finance is optimized to help users simultaneously accumulate Blast Points, Blast Gold, and other protocol-specific rewards. The platform focuses on providing a seamless and professional-grade experience for sophisticated DeFi participants who seek to optimize their yield strategies. Through its robust liquidation framework and transparent on-chain execution, Juice Finance serves as a vital multiplier for liquidity and engagement within the rapidly growing Blast ecosystem.",
-    "meta": "Juice Finance provides leveraged yield farming and reward optimization for the Blast Layer 2 network.",
+    "short": "Juice Finance is a leading leveraged yield protocol on Blast that maximizes points and yield for users.",
+    "description": "Juice Finance is a premier decentralized protocol natively built on the Blast network, designed to provide users with highly efficient, leveraged yield-generating strategies. By utilizing a robust lending market and integrating with the ecosystem's leading AMMs, Juice enables participants to maximize their capital efficiency and earn multiplied rewards through Blast's unique incentive models. The platform features an intuitive interface for managing positions and automated risk management tools to ensure user safety. Juice Finance focuses on community-driven growth and deep integration with Blast's native yield mechanics, serving as a critical hub for maximizing digital asset productivity within the Layer 2 landscape.",
+    "meta": "Juice Finance provides advanced leveraged yield farming on the Blast network, offering optimized returns and points maximization for DeFi users.",
     "pageTitle": "Juice Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://juice.finance",
-    "twitter": "https://twitter.com/Juice_Finance"
+    "docs": "https://juice-finance.gitbook.io/juice-finance",
+    "twitter": "https://x.com/juice_finance",
+    "telegram": "https://t.me/JuiceFinanceofficial"
   },
   "relations": {
     "alternatives": [

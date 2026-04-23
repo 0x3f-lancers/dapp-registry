@@ -1,7 +1,7 @@
 {
   "slug": "cellana",
   "name": "Cellana",
-  "logoUrl": "https://unavatar.io/twitter/CellanaFinance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339941/dapp-store-logos/cellana.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,22 +9,25 @@
   "chains": [
     "Aptos"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Cellana is a community-owned DEX on Aptos, the first to implement the ve(3,3) governance model using the Move language.",
-    "description": "Cellana is a pioneering decentralized exchange native to the Aptos ecosystem, distinguished as the first to implement the ve(3,3) economic model using the Move programming language. This model aligns the interests of liquidity providers and token holders by allowing users to lock CELL tokens in exchange for veCELL NFTs. These NFTs grant voting power to direct emissions to specific pools, with voters receiving 100% of the trading fees from those pools.\n\nThe platform utilizes hybrid swap algorithms, including vAMM for uncorrelated assets and sAMM for stablecoins, to ensure minimal slippage and optimal pricing. Additionally, Cellana serves as a launchpad for new projects on Aptos, helping them bootstrap liquidity and gain community support. By combining a robust trading engine with sophisticated governance, Cellana aims to be a core liquidity hub for the Aptos network.",
-    "meta": "Cellana brings ve(3,3) governance and deep liquidity to the Aptos ecosystem. Explore Cellana DEX on Lancers Web3 Explorer.",
+    "short": "Cellana is a high-performance decentralized exchange on Aptos utilizing the ve(3,3) incentive model.",
+    "description": "Cellana is a leading automated market maker (AMM) and decentralized exchange natively built on the Aptos blockchain, designed to maximize capital efficiency through the powerful ve(3,3) governance model. By aligning the interests of traders, liquidity providers, and token holders, Cellana creates a sustainable ecosystem where emissions are directed to the most productive liquidity pools. The platform leverages Aptos' high throughput and low fees to provide a professional-grade trading experience with near-instant execution and minimal slippage. With its focus on community-driven growth and deep integration with the Move-based ecosystem, Cellana serves as a critical liquidity hub for decentralized finance innovation on the Aptos network.",
+    "meta": "Cellana is the premier ve(3,3) DEX on Aptos, featuring high-efficiency trading and sustainable incentive models for the decentralized finance ecosystem.",
     "pageTitle": "Cellana - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://cellana.finance",
-    "twitter": "https://x.com/CellanaFinance"
+    "docs": "https://docs.cellana.finance/",
+    "twitter": "https://x.com/CellanaFinance",
+    "telegram": "https://t.me/CellanaFinance"
   },
   "relations": {
     "alternatives": [
       "balancer",
       "ekubo",
-      "dojoswap"
+      "reaper-farm"
     ],
     "related": [
       "ubik-capital",

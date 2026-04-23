@@ -1,7 +1,7 @@
 {
   "slug": "abyss-finance",
   "name": "Abyss Finance",
-  "logoUrl": "https://unavatar.io/twitter/AbyssFinance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339846/dapp-store-logos/abyss-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -9,22 +9,25 @@
   "chains": [
     "Ethereum"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Abyss Finance is a DeFi ecosystem on PulseChain and Ethereum providing liquidity locking and gaming services.",
-    "description": "Abyss Finance is a multifaceted decentralized finance platform supporting both PulseChain and Ethereum networks. It offers a suite of specialized tools, including the Abyss Lockup smart contract, which enables projects to secure liquidity and team tokens to prevent rug pulls. Beyond its security features, the ecosystem encompasses a gaming platform, an NFT marketplace, and staking rewards for ABYSS token holders. By providing essential infrastructure for project launches and user engagement, Abyss Finance aims to foster a safer and more versatile environment for decentralized applications and asset management.",
-    "meta": "Abyss Finance provides liquidity locking, staking, and gaming infrastructure on PulseChain. Discover Abyss and other DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Abyss Finance is a multifaceted DeFi ecosystem on PulseChain and Ethereum providing liquidity locking and gaming.",
+    "description": "Abyss Finance provides a comprehensive suite of decentralized financial tools primarily focused on the PulseChain and Ethereum ecosystems. Its flagship products include the Abyss Lockup service, which allows developers to secure project liquidity and team tokens to build community trust. The ecosystem also features an integrated NFT marketplace and a gaming hub, creating a bridge between DeFi utility and interactive entertainment. By offering essential infrastructure for project launches alongside rewards for ABYSS token holders, the platform aims to foster a secure and high-utility environment for both long-term investors and active blockchain participants.",
+    "meta": "Explore Abyss Finance for secure liquidity locking, NFT trading, and decentralized gaming infrastructure on PulseChain and Ethereum.",
     "pageTitle": "Abyss Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://abyss.finance/",
-    "twitter": "https://x.com/AbyssFinance"
+    "github": "https://github.com/abyssfinance",
+    "twitter": "https://x.com/AbyssFinance",
+    "telegram": "https://t.me/abyssfinance"
   },
   "relations": {
     "alternatives": [
       "7k-aggregator",
       "black-panther",
-      "pencils-protocol"
+      "minu-swap"
     ],
     "related": [
       "shapeshift",

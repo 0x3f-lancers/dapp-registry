@@ -1,7 +1,7 @@
 {
   "slug": "moonwell",
   "name": "Moonwell",
-  "logoUrl": "https://logo.clearbit.com/moonwell.fi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860366/dapp-store-logos/moonwell.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -10,16 +10,20 @@
     "Base",
     "Moonbeam"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Moonwell is a leading decentralized lending protocol on Base and Moonbeam featuring cross-chain asset markets.",
-    "description": "Moonwell is a premier open lending and borrowing protocol operating across the Base, Moonbeam, and Moonriver networks. Designed for maximum accessibility and security, the platform allows users to supply various digital assets—including ETH, USDC, and native ecosystem tokens—to earn interest or borrow against them in a transparent, non-custodial environment. Moonwell has seen significant growth on the Base network, integrating closely with Coinbase-supported assets like cbBTC and EURC to provide institutional-grade liquidity tools to retail participants.\n\nGoverned by the WELL token, the protocol features a robust Safety Module where users can stake their tokens to secure the network and earn rewards. By leveraging the high speed and low latency of its underlying chains, Moonwell delivers a seamless user experience with sub-second finality. As a cornerstone of the cross-chain DeFi landscape, Moonwell is dedicated to providing the essential financial infrastructure needed for participants to build and manage sophisticated decentralized portfolios with ease.",
-    "meta": "Moonwell offers decentralized lending and borrowing services on Base and Moonbeam with professional-grade risk management.",
+    "short": "Moonwell is a leading decentralized lending and borrowing protocol built on Moonbeam and Moonriver.",
+    "description": "Moonwell is a premier automated money market and decentralized finance platform natively designed for the Moonbeam and Moonriver networks within the Polkadot ecosystem. By utilizing a robust risk management framework and maintaining deep liquidity pools, Moonwell enables users to participate in permissionless lending and borrowing markets with unparalleled capital efficiency. The platform features an intuitive interface and high-speed execution, allowing participants to unlock significant leverage across a wide variety of digital assets. Moonwell focuses on transparency and community-driven growth, serving as a critical engine for liquidity and decentralized asset management within the rapidly expanding cross-chain Polkadot landscape.",
+    "meta": "Moonwell is the leading lending and borrowing protocol on Moonbeam and Moonriver, offering high-efficiency DeFi solutions for Web3 users.",
     "pageTitle": "Moonwell - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://moonwell.fi",
-    "twitter": "https://twitter.com/MoonwellDeFi"
+    "github": "https://github.com/moonwell-fi",
+    "docs": "https://docs.moonwell.fi/",
+    "twitter": "https://twitter.com/MoonwellDeFi",
+    "telegram": "https://t.me/moonwellfichat"
   },
   "relations": {
     "alternatives": [

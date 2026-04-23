@@ -1,7 +1,7 @@
 {
   "slug": "defi-cattos",
   "name": "Defi Cattos",
-  "logoUrl": "https://unavatar.io/twitter/DefiCattos",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339967/dapp-store-logos/defi-cattos.jpg",
   "category": "Decentralized Games",
   "subcategory": [
     "Web3 Games"
@@ -10,16 +10,19 @@
     "Aptos",
     "Sui"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Defi Cattos is a P2E battle RPG on the Aptos blockchain featuring \"tap-to-airdrop\" mechanics and NFT pets.",
-    "description": "Defi Cattos is a play-to-earn (P2E) gaming ecosystem built on the Aptos blockchain, centered around collectible NFT cat pets and competitive battle mechanics. The project features an innovative \"tap-to-airdrop\" game where users can earn rewards through active engagement and social interaction. Beyond its gaming elements, Defi Cattos aims to build a robust community-driven platform that integrates social finance with decentralized gaming. By leveraging Aptos's high performance and the growing popularity of gamified rewards, Defi Cattos provides a fun and accessible entry point for users to explore the broader Web3 ecosystem through interactive digital ownership.",
-    "meta": "Defi Cattos is a gamified P2E battle RPG and social rewards platform on Aptos. Discover Defi Cattos on Lancers Web3 Explorer.",
+    "short": "Defi Cattos is an engaging social DeFi game on Telegram where users collect and manage digital pet assets.",
+    "description": "Defi Cattos is a revolutionary decentralized gaming platform that integrates seamlessly with the Telegram messenger, bringing the excitement of digital pet management and DeFi yield generation to millions of users. Players can collect, breed, and upgrade a diverse variety of feline-themed NFT assets, each with unique attributes and earning potential. The platform features interactive social elements, including community-driven quests and competitive leaderboards, where players can earn on-chain rewards for their participation. By simplifying the onboarding process and providing a fun, accessible interface, Defi Cattos is a leading player in the intersection of GameFi and social media, fostering a vibrant and rewarding ecosystem for Web3 users.",
+    "meta": "Defi Cattos is a premier social DeFi game on Telegram, offering digital pet ownership, breeding, and on-chain rewards for a global community.",
     "pageTitle": "Defi Cattos - Decentralized Games - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://cattos.io/",
-    "twitter": "https://x.com/DefiCattos"
+    "docs": "https://help.cattos.io/",
+    "twitter": "https://x.com/DefiCattos",
+    "telegram": "https://t.me/DefiCattos"
   },
   "relations": {
     "alternatives": [
@@ -30,7 +33,7 @@
     "related": [
       "forever-fc",
       "ascion",
-      "fifa-rivals"
+      "greedy-world"
     ]
   }
 }

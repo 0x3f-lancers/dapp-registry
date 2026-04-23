@@ -1,7 +1,7 @@
 {
   "slug": "manta-network",
   "name": "Manta Network",
-  "logoUrl": "https://logo.clearbit.com/manta.network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860345/dapp-store-logos/manta-network.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Layer 2 Blockchains"
@@ -9,16 +9,20 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Manta Network is a modular ZK ecosystem featuring Manta Pacific (L2 on Ethereum) and Manta Atlantic (L1).",
-    "description": "Manta Network is a leading modular ecosystem designed for the next generation of Zero-Knowledge (ZK) applications. It consists of two primary networks: Manta Pacific, a modular Layer 2 on Ethereum that uses Celestia for data availability, and Manta Atlantic, a high-speed ZK-focused Layer 1 on Polkadot. This dual structure allows developers to deploy ZK-enabled dApps with high throughput and significantly lower gas fees compared to traditional environments.\n\nBy leveraging advanced ZK-proofs, Manta Network provides a secure and privacy-preserving framework for DeFi, gaming, and identity applications. The protocol focuses on modularity and interoperability, enabling a seamless experience for both developers and users across multiple ecosystems. As a core infrastructure component for the ZK revolution, Manta Network is empowering builders to create scalable and secure applications that prioritize user sovereignty and data integrity in the decentralized economy.",
-    "meta": "Manta Network provides modular ZK-enabled Layer 1 and Layer 2 infrastructure for scalable decentralized applications.",
+    "short": "Manta Network is a modular ecosystem for ZK applications providing high-performance privacy and scalability.",
+    "description": "Manta Network is a revolutionary modular blockchain ecosystem designed to empower developers to build and scale the next generation of ZK-enabled decentralized applications. By utilizing zero-knowledge proof technology and a modular architecture, Manta provides a high-performance environment with near-instant transactions and extremely low fees. The network features specialized layers for data availability and execution, ensuring that dApps remain highly scalable and private. Manta focuses on fostering a vibrant ecosystem of privacy-centric dApps, from DeFi to gaming and social media, serving as a critical engine for the mass adoption of zero-knowledge innovation and decentralized data sovereignty.",
+    "meta": "Manta Network is a premier modular ZK ecosystem, offering high scalability, privacy, and low fees for decentralized applications and developers.",
     "pageTitle": "Manta Network - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://manta.network",
-    "twitter": "https://twitter.com/MantaNetwork"
+    "github": "https://github.com/Manta-Network",
+    "docs": "https://docs.manta.network",
+    "twitter": "https://twitter.com/MantaNetwork",
+    "telegram": "https://t.me/mantanetworkofficial"
   },
   "relations": {
     "alternatives": [

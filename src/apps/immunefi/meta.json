@@ -1,7 +1,7 @@
 {
   "slug": "immunefi",
   "name": "Immunefi",
-  "logoUrl": "https://logo.clearbit.com/immunefi.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860308/dapp-store-logos/immunefi.jpg",
   "category": "Web3 Security Tools",
   "subcategory": [
     "Web3 Security Competitions"
@@ -11,16 +11,20 @@
     "Polygon",
     "BNB Chain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Immunefi is the leading Web3 bug bounty platform connecting projects with white-hat hackers to secure protocols.",
-    "description": "Immunefi is the premier bug bounty and security coordination platform for the Web3 ecosystem, dedicated to protecting decentralized protocols and their users from vulnerabilities. By connecting blockchain projects with a global community of elite white-hat hackers, the platform facilitates the identification and responsible disclosure of critical security flaws in exchange for significant rewards. This collaborative approach has successfully prevented billions of dollars in potential hacks, making Immunefi a cornerstone of the industry's security infrastructure.\n\nIn addition to bug bounties, Immunefi offers advanced security operations through its Magnus platform and coordinates community-driven security through the IMU token. The platform supports a wide range of networks, including Ethereum, Polygon, and BNB Chain, providing project teams with the tools and expertise needed to maintain robust cryptographic security in a rapidly evolving threat landscape. Through its commitment to transparency and proactive defense, Immunefi is fostering a safer and more resilient Web3 future.",
-    "meta": "Immunefi is the top bug bounty platform in Web3, securing decentralized protocols through white-hat hacker collaboration and incentives.",
+    "short": "Immunefi is the leading bug bounty platform for Web3, protecting billions in user funds from exploits.",
+    "description": "Immunefi is the premier decentralized security platform and bug bounty host specifically designed for the Web3 ecosystem. By connecting top-tier security researchers with leading blockchain projects, Immunefi ensures that potential vulnerabilities are identified and remediated before they can be exploited. The platform features a transparent and incentive-driven marketplace where ethical hackers earn significant rewards for their contributions to network safety. With its robust verification process and deep expertise in smart contract security, Immunefi has saved billions of dollars in user funds, fostering a more secure and resilient decentralized landscape for everyone.",
+    "meta": "Immunefi is the leading Web3 bug bounty platform, connecting projects with security researchers to protect user funds and ensure on-chain safety.",
     "pageTitle": "Immunefi - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://immunefi.com",
-    "twitter": "https://twitter.com/immunefi"
+    "github": "https://github.com/immunefi-team",
+    "docs": "https://docs.immunefi.foundation/",
+    "twitter": "https://twitter.com/immunefi",
+    "telegram": "https://t.me/immunefi"
   },
   "relations": {
     "alternatives": [

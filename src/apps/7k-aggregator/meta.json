@@ -1,24 +1,28 @@
 {
   "slug": "7k-aggregator",
   "name": "7K Aggregator",
-  "logoUrl": "https://unavatar.io/twitter/7k_ag_",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339841/dapp-store-logos/7k-aggregator.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
-    "DeFi Yield Aggregators"
+    "Decentralized Exchanges"
   ],
   "chains": [
     "Sui"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
     "short": "7K Aggregator is a high-efficiency DEX aggregator on Sui that optimizes trade routes across multiple liquidity sources.",
-    "description": "7K Aggregator is a decentralized exchange aggregator built on the Sui blockchain, designed to provide users with the best swap rates and minimal slippage. By dynamically routing trades across various liquidity sources, including AMM, CLMM, and Order Book DEXs, the platform ensures superior capital efficiency. It features advanced algorithms to reduce gas costs and an auto-listing mechanism for new liquidity pools. Additionally, 7K incorporates a \"Drops\" points system to incentivize active traders and facilitate future community-led growth within the Sui ecosystem.",
-    "meta": "7K Aggregator provides optimized trade routing and deep liquidity on the Sui network. Discover 7K and other DeFi Dapps on Lancers Web3 Explorer.",
+    "description": "7K Aggregator is a next-generation decentralized exchange aggregator built on the Sui blockchain, designed to provide traders with the best possible swap rates. By integrating with all major liquidity protocols on Sui, including AMMs and CLMMs, 7K utilizes advanced routing algorithms to split trades across multiple paths, significantly reducing slippage and price impact. The platform features an intuitive interface for retail users while offering deep liquidity for institutional-grade trading. As a core piece of Sui's DeFi infrastructure, 7K enables seamless asset exchange with minimal gas overhead and maximum capital efficiency for the entire ecosystem.",
+    "meta": "Discover 7K Aggregator, the leading Sui DEX aggregator for optimized trading, low slippage, and deep liquidity across the Sui DeFi ecosystem.",
     "pageTitle": "7K Aggregator - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://7k.ag/",
-    "twitter": "https://x.com/7k_ag_"
+    "github": "https://github.com/7k-ag",
+    "docs": "https://docs.7k.ag/",
+    "twitter": "https://x.com/7k_ag_",
+    "telegram": "https://t.me/sevenk_ag"
   },
   "relations": {
     "alternatives": [

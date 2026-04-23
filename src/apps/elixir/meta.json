@@ -1,7 +1,7 @@
 {
   "slug": "elixir",
   "name": "Elixir",
-  "logoUrl": "https://unavatar.io/twitter/elixir",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339985/dapp-store-logos/elixir.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Farming Platforms"
@@ -9,16 +9,20 @@
   "chains": [
     "Multichain"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Elixir is a modular liquidity network that provides algorithmic market-making for orderbook-based exchanges.",
-    "description": "Elixir is a modular, decentralized liquidity network designed to power liquidity for orderbook-based exchanges across the Web3 ecosystem. It functions as a specialized infrastructure layer that allows users to provide liquidity to decentralized and centralized orderbooks using algorithmic market-making strategies. By democratizing access to market-making, Elixir enables retail participants to earn rewards while improving market depth and reducing spreads for all traders, bridging the gap between AMM simplicity and orderbook efficiency.\n\nThe protocol's architecture is built for high performance and transparency, ensuring that liquidity is deployed effectively where it is needed most. Elixir integrates seamlessly with various trading platforms, providing a robust backbone for the next generation of high-frequency decentralized trading. As the DeFi landscape shifts towards more sophisticated exchange models, Elixir stands out as a critical utility for maintaining healthy, liquid markets in a trustless manner.",
-    "meta": "Elixir is a modular liquidity network providing algorithmic market-making for orderbook exchanges, enhancing market depth and efficiency.",
+    "short": "Elixir is a modular liquidity network that enables users to provide liquidity directly to order book exchanges.",
+    "description": "Elixir is a groundbreaking decentralized protocol designed to revolutionize the way liquidity is provided to central limit order book (CLOB) exchanges. By utilizing a modular network of validators, Elixir allows users to supply liquidity directly to order books in a trustless and permissionless manner, earning market-making rewards that were previously reserved for centralized institutions. The platform's architecture is focused on transparency and capital efficiency, ensuring that liquidity is deployed effectively across a wide range of trading pairs. By bridging the gap between automated market makers and order book exchanges, Elixir empowers the Web3 community to participate in professional-grade market making and drives deeper liquidity for the entire decentralized economy.",
+    "meta": "Elixir is a premier modular liquidity network, enabling decentralized market making and deep liquidity for order book exchanges across Web3.",
     "pageTitle": "Elixir - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.elixir.xyz/",
-    "twitter": "https://x.com/elixir"
+    "github": "https://github.com/ElixirProtocol",
+    "docs": "https://docs.elixir.xyz/",
+    "twitter": "https://x.com/elixir",
+    "telegram": "https://t.me/elixir_network"
   },
   "relations": {
     "alternatives": [
@@ -28,8 +32,8 @@
     ],
     "related": [
       "gmx",
-      "vesta-finance",
-      "raydium"
+      "raydium",
+      "pancakeswap"
     ]
   }
 }

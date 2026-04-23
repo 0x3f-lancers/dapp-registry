@@ -1,7 +1,7 @@
 {
   "slug": "sanctum",
   "name": "Sanctum",
-  "logoUrl": "https://logo.clearbit.com/sanctum.so",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860430/dapp-store-logos/sanctum.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -9,11 +9,12 @@
   "chains": [
     "Solana"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Sanctum is a liquid staking layer on Solana that unifies LST liquidity via the multi-asset Infinity Pool.",
-    "description": "Sanctum is a pioneering decentralized protocol built natively on the Solana blockchain, designed to solve the problem of fragmented liquidity within the liquid staking ecosystem. The platform features the \"Infinity Pool,\" a multi-asset liquidity layer that allows users to deposit any Solana-based Liquid Staking Token (LST) to receive INF, a highly composable asset representing a diversified basket of staking rewards. This approach ensures that users can maximize their yields while maintaining deep liquidity for use across the broader Solana DeFi landscape.\n\nPowered by the $CLOUD token, Sanctum provides innovative financial tools such as \"Wonderland,\" a gamified loyalty program that incentivizes long-term participation through interactive digital pets. The protocol also offers an instant unstake feature, allowing participants to convert their staked assets back to liquid SOL without the typical cooldown periods. Through its focus on user-centric design and technological innovation, Sanctum has become a foundational pillar of the Solana network, empowering participants to build and manage sophisticated decentralized portfolios with institutional-grade precision.",
-    "meta": "Sanctum provides unified liquid staking and high-efficiency liquidity pools for the Solana blockchain.",
+    "short": "Sanctum is a leading liquid staking aggregator on Solana that provides unified liquidity for LSTs.",
+    "description": "Sanctum is a premier decentralized finance protocol natively built on the Solana blockchain, designed to maximize the utility and liquidity of liquid staking tokens (LSTs). By providing a unified liquidity layer and an advanced 'infinity' pool, Sanctum ensures that users can seamlessly swap between different LSTs with zero slippage and high capital efficiency. The platform features an intuitive interface for discovering and managing staked assets, empowering users to earn maximized validator rewards while maintaining full asset liquidity. Sanctum focuses on fostering a vibrant and interconnected staking ecosystem, serving as a critical infrastructure layer for decentralized asset management on the rapidly expanding Solana network.",
+    "meta": "Sanctum provides unified liquidity for Solana LSTs, offering zero-slippage swaps and optimized yield for liquid staked assets.",
     "pageTitle": "Sanctum - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

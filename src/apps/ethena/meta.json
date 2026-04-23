@@ -1,7 +1,7 @@
 {
   "slug": "ethena",
   "name": "Ethena",
-  "logoUrl": "https://unavatar.io/twitter/ethena_labs",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339988/dapp-store-logos/ethena.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Synthetics"
@@ -9,16 +9,20 @@
   "chains": [
     "Ethereum"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Ethena is a synthetic dollar protocol on Ethereum providing USDe, a stable, crypto-native solution for DeFi.",
-    "description": "Ethena is a pioneering synthetic dollar protocol built on Ethereum that introduces USDe, a crypto-native, scalable, and stable financial instrument. Unlike traditional stablecoins backed by fiat, USDe maintains its peg through delta-neutral hedging of staked Ethereum collateral across centralized and decentralized venues. This innovative approach creates the \"Internet Bond,\" a globally accessible yield-bearing instrument that provides users with a dollar-denominated savings vehicle independent of traditional banking infrastructure.\n\nThe protocol is designed to address the need for a truly decentralized and censorship-resistant stable asset in the Web3 ecosystem. By leveraging the security of Ethereum staking and the efficiency of derivatives markets, Ethena offers a robust solution for capital preservation and yield generation. As a key player in the DeFi synthetics space, Ethena empowers participants with transparent, on-chain financial tools that redefine the concept of digital money and internet-native finance.",
-    "meta": "Discover Ethena, the synthetic dollar protocol on Ethereum providing USDe and the Internet Bond for stable, decentralized yield generation.",
+    "short": "Ethena is a synthetic dollar protocol built on Ethereum that provides a crypto-native yield-bearing stablecoin.",
+    "description": "Ethena is a groundbreaking synthetic dollar protocol that introduces USDe, a censorship-resistant and scalable stablecoin built on the Ethereum blockchain. By utilizing delta-neutral hedging strategies against staked ETH collateral, Ethena ensures that USDe maintains its peg while generating native yield for holders. The protocol also features the 'Internet Bond,' a global dollar-denominated savings instrument that democratizes access to sophisticated financial products. Ethena focuses on decentralization and transparency, providing a robust alternative to traditional centralized stablecoins. As a vital engine for capital efficiency, Ethena drives innovation and stability within the decentralized finance landscape, empowering users with a reliable and productive digital dollar.",
+    "meta": "Ethena provides a crypto-native synthetic dollar protocol on Ethereum, offering USDe and the yield-bearing Internet Bond for Web3 users.",
     "pageTitle": "Ethena - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.ethena.fi/",
-    "twitter": "https://x.com/ethena_labs"
+    "github": "https://github.com/ethena-labs",
+    "docs": "https://docs.ethena.fi/",
+    "twitter": "https://x.com/ethena",
+    "telegram": "https://t.me/ethena_labs"
   },
   "relations": {
     "alternatives": [

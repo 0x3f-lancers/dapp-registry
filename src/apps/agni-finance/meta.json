@@ -1,7 +1,7 @@
 {
   "slug": "agni-finance",
   "name": "AGNI Finance",
-  "logoUrl": "https://unavatar.io/twitter/Agnidex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339859/dapp-store-logos/agni-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,16 +9,18 @@
   "chains": [
     "Multichain"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "A capital-efficient DEX and launchpad on Mantle Network featuring concentrated liquidity and ve(3,3) tokenomics.",
-    "description": "AGNI Finance is a capital-efficient decentralized exchange and launchpad built on the Mantle Network. It utilizes concentrated liquidity, allowing providers to allocate capital within specific price ranges to minimize slippage and maximize fee earnings. The protocol employs ve(3,3) tokenomics, where governance token holders vote on emissions and share in the protocol-generated revenue.\n\nIntegrated with Mantle's modular architecture, AGNI offers hyperscale performance and low transaction costs. Its launchpad includes a \"Safety Net\" insurance pool to protect early participants, making it a secure and efficient platform for both traders and new project launches.",
-    "meta": "AGNI Finance is a leading DEX and launchpad on the Mantle Network. Discover its concentrated liquidity tools on Lancers Web3 Explorer.",
+    "short": "AGNI Finance is a high-performance decentralized exchange and launchpad built on the Mantle Network.",
+    "description": "AGNI Finance is a leading automated market maker (AMM) and decentralized exchange (DEX) natively built on the Mantle Network. It utilizes a concentrated liquidity model to provide traders with superior swap rates and liquidity providers with higher capital efficiency compared to traditional AMMs. Beyond its trading capabilities, AGNI serves as a comprehensive growth hub, featuring a permissionless launchpad for new projects entering the Mantle ecosystem. By integrating deeply with Mantle's modular architecture, AGNI offers fast transaction speeds and minimal fees, making it a cornerstone protocol for users seeking to participate in the burgeoning DeFi landscape on the Mantle Layer 2.",
+    "meta": "AGNI Finance is the central DEX and launchpad on Mantle Network, offering concentrated liquidity and high-efficiency trading for Web3 users.",
     "pageTitle": "AGNI Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://agni.finance/",
-    "twitter": "https://x.com/Agnidex"
+    "twitter": "https://x.com/Agnidex",
+    "telegram": "https://t.me/AgniDEXCommunity"
   },
   "relations": {
     "alternatives": [
@@ -28,7 +30,7 @@
     ],
     "related": [
       "yieldfi",
-      "intentx",
+      "cvi-finance",
       "index-coop"
     ]
   }
