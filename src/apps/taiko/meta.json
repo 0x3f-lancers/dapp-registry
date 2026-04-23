@@ -1,7 +1,7 @@
 {
   "slug": "taiko",
   "name": "Taiko",
-  "logoUrl": "https://logo.clearbit.com/taiko.xyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860453/dapp-store-logos/taiko.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Layer 2 Blockchains"
@@ -9,11 +9,12 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Taiko is a fully Ethereum-equivalent ZK-Rollup (Type 1) scaling solution that inherits L1 security and liveness.",
-    "description": "Taiko is a leading developer-ready Layer 2 scaling solution for Ethereum, powered by Zero-Knowledge Ethereum Virtual Machine (zkEVM) technology. As a Type 1 ZK-Rollup, Taiko achieves full bytecode-level equivalence with Ethereum, allowing developers to deploy existing dApps and tools with zero modifications. The network features a unique \"Based Rollup\" architecture, where Ethereum Layer 1 validators handle the sequencing of Taiko blocks, ensuring that the network inherits the robust liveness and decentralization of the Ethereum mainnet.\n\nBy utilizing advanced ZK-proofs, Taiko provides high throughput and significantly lower transaction costs while maintaining cryptographic integrity. The network is designed for mass adoption, serving as a foundational infrastructure for a wide range of use cases including DeFi, gaming, and social applications. Through its commitment to open-source principles and deep alignment with the Ethereum roadmap, Taiko is empowering the next generation of builders to create scalable and secure decentralized applications that prioritize user sovereignty and global accessibility.",
-    "meta": "Taiko is a Type 1 zkEVM Layer 2 network providing full Ethereum equivalence and decentralized scaling.",
+    "short": "Taiko is a high-performance Type 1 ZK-Rollup that provides a fully Ethereum-equivalent Layer 2 network.",
+    "description": "Taiko is a revolutionary decentralized ZK-Rollup network developed to provide a highly scalable and secure environment for decentralized applications without compromising Ethereum equivalence. By being a Type 1 ZK-EVM, Taiko allows developers to deploy existing Ethereum smart contracts and use familiar tools with zero modifications, ensuring a seamless transition. The network features specialized infrastructure for high-speed transactions and extremely low fees, while maintaining the robust security of the Ethereum mainnet. Taiko focuses on fostering a vibrant and permissionless ecosystem, serving as a critical engine for the mass adoption of Ethereum and the next generation of decentralized innovation.",
+    "meta": "Taiko is a premier Type 1 ZK-Rollup, offering high scalability, low fees, and full Ethereum equivalence for decentralized applications and developers.",
     "pageTitle": "Taiko - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
@@ -24,12 +25,12 @@
     "alternatives": [
       "arbitrum",
       "abstract-chain",
-      "karak"
+      "realio-network"
     ],
     "related": [
       "aelf",
       "sei-network",
-      "keeta-network"
+      "eigenda"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "bungee",
   "name": "Bungee",
-  "logoUrl": "https://unavatar.io/twitter/BungeeExchange",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339935/dapp-store-logos/bungee.png",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -9,21 +9,24 @@
   "chains": [
     "Multichain"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Bungee is a powerful bridge aggregator that optimizes cross-chain asset transfers for speed, cost, and efficiency.",
-    "description": "Bungee, powered by the Socket protocol, is a comprehensive bridge aggregator designed to simplify the multi-chain experience. It automatically scans dozens of bridges and decentralized exchanges to identify the fastest and cheapest routes for moving assets between networks. One of its standout features, \"Refuel,\" allows users to acquire native gas tokens on a destination chain in a single transaction, solving the common \"no gas\" hurdle when entering a new ecosystem.\n\nSupporting over 20 networks, Bungee provides a seamless interface for single-click cross-chain swaps, where users can send one token and receive a completely different one on the target chain. The platform focuses on user experience by abstracting the complexities of bridging, offering advanced options like incognito mode for privacy and route filtering to suit individual preferences.",
-    "meta": "Optimize your cross-chain transfers with Bungee bridge aggregator. Find the best routes and fees on Lancers Web3 Explorer.",
+    "short": "Bungee is an advanced omnichain bridge aggregator that finds the most efficient paths for cross-chain transfers.",
+    "description": "Bungee is a powerful omnichain infrastructure tool designed to simplify and optimize the process of moving assets across diverse blockchain networks. As a comprehensive bridge aggregator, Bungee scans multiple liquidity providers and bridging protocols to identify the fastest and most cost-effective paths for any given transaction. Users can seamlessly swap and bridge tokens in a single step, significantly reducing the complexity and risk associated with cross-chain DeFi. The platform features an intuitive interface and advanced routing logic that accounts for gas costs, slippage, and execution time. By acting as a central discovery layer for liquidity, Bungee is an essential component for navigating the fragmented multi-chain Web3 landscape.",
+    "meta": "Bungee is the premier omnichain bridge aggregator, providing optimized cross-chain asset transfers and deep liquidity discovery for Web3 users.",
     "pageTitle": "Bungee - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://bungee.exchange",
+    "docs": "https://docs.bungee.exchange/",
     "twitter": "https://x.com/BungeeExchange"
   },
   "relations": {
     "alternatives": [
       "across",
-      "debridge"
+      "debridge",
+      "symbiosis"
     ],
     "related": [
       "moni",

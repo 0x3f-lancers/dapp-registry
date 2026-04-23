@@ -1,7 +1,7 @@
 {
   "slug": "etherfi",
   "name": "ether.fi",
-  "logoUrl": "https://unavatar.io/twitter/ether_fi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339989/dapp-store-logos/etherfi.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -9,15 +9,18 @@
   "chains": [
     "Ethereum"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "ether.fi is a decentralized liquid restaking protocol where users maintain control of their keys and assets.",
-    "description": "ether.fi is a leading decentralized liquid staking and restaking protocol on Ethereum that prioritizes user sovereignty and security. It stands out in the ecosystem by being the first protocol to allow stakers to retain control of their private keys throughout the staking process, ensuring a truly non-custodial experience. By integrating natively with EigenLayer, ether.fi enables users to earn staking rewards while simultaneously participating in the restaking economy through its eETH token, maximizing yield without compromising on decentralization.\n\nThe protocol's architecture is built to be resilient and transparent, providing a robust infrastructure for institutional and retail participants alike. Beyond staking, ether.fi is expanding its ecosystem to include diverse financial services, such as automated yield strategies and cash accounts, all centered around its core liquid restaking primitive. As a cornerstone of the Ethereum staking landscape, ether.fi continues to innovate, bridging the gap between security, liquidity, and user-centric DeFi.",
-    "meta": "ether.fi is the non-custodial liquid restaking protocol on Ethereum that lets you keep your keys while earning rewards on Lancers Web3.",
+    "short": "ether.fi is a leading decentralized liquid staking protocol that enables users to maintain control over their keys.",
+    "description": "ether.fi is a pioneer in decentralized liquid staking, uniquely designed to ensure that stakers maintain full control over their private keys throughout the entire process. By providing users with eETH, a liquid staking token, ether.fi allows participants to earn Ethereum validator rewards while simultaneously utilizing their assets across the broader DeFi ecosystem. The protocol also integrates with restaking layers like EigenLayer to provide additional yield opportunities and enhanced network security. ether.fi focuses on providing a secure, transparent, and non-custodial environment, making it a premier choice for users seeking to maximize the utility and safety of their staked ETH in the evolving Web3 landscape.",
+    "meta": "ether.fi offers decentralized liquid staking for Ethereum, empowering users to earn rewards while maintaining full control over their private keys.",
     "pageTitle": "ether.fi - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.ether.fi/",
+    "github": "https://github.com/etherfi-protocol",
+    "docs": "https://etherfi.gitbook.io/gov",
     "twitter": "https://x.com/ether_fi"
   },
   "relations": {
@@ -28,8 +31,8 @@
     ],
     "related": [
       "hegic",
-      "vesta-finance",
-      "bitcoincom"
+      "bitcoincom",
+      "curve-finance"
     ]
   }
 }

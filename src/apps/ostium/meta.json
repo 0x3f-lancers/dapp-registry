@@ -1,7 +1,7 @@
 {
   "slug": "ostium",
   "name": "Ostium",
-  "logoUrl": "https://logo.clearbit.com/ostium.io",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860388/dapp-store-logos/ostium.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -9,11 +9,12 @@
   "chains": [
     "Arbitrum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Ostium is a decentralized perpetual DEX on Arbitrum specializing in RWAs like Gold, Oil, and Forex.",
-    "description": "Ostium is a professional-grade decentralized perpetual exchange built on Arbitrum, specifically designed to bring traditional real-world assets (RWAs) onto the blockchain. Unlike traditional DEXs focused solely on crypto, Ostium enables users to trade synthetic versions of commodities, indices, and forex pairs—such as Gold, Oil, and EUR/USD—with up to 200x leverage. The protocol utilizes a unique two-tiered liquidity pool model to minimize conflict between traders and liquidity providers, ensuring deep liquidity and minimal slippage.\n\nBy leveraging a custom pull-based oracle system, Ostium accurately tracks traditional market hours and price gaps, providing a professional trading experience that rivals centralized platforms while maintaining the security of on-chain settlement. The platform is designed for sophisticated traders seeking diversified exposure beyond digital assets within a non-custodial and transparent framework. As a cornerstone of the RWA landscape on Arbitrum, Ostium is empowering the next generation of DeFi participants to trade any asset with professional-grade speed and precision.",
-    "meta": "Ostium offers decentralized perpetual trading for Real World Assets and Forex with high leverage on Arbitrum.",
+    "short": "Ostium is a decentralized perpetuals exchange on Arbitrum focused on Real World Assets (RWAs).",
+    "description": "Ostium is a high-performance decentralized exchange that specializes in the trading of synthetic perpetual futures for traditional assets. Built on Arbitrum, Ostium enables users to gain leveraged exposure to a wide array of Real World Assets—including gold, oil, forex pairs, and global equities—directly from their crypto wallets. The protocol focuses on providing a transparent, non-custodial trading experience with deep liquidity and high leverage, settled entirely in stablecoins. Ostium aims to bring the transparency and efficiency of DeFi to the massive global commodities and forex markets.",
+    "meta": "Ostium is a decentralized perpetuals exchange for RWAs like gold, oil, and forex on Arbitrum. Discover Ostium and other DeFi Dapps on Lancers Web3 Explorer.",
     "pageTitle": "Ostium - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,7 +24,8 @@
   "relations": {
     "alternatives": [
       "futureswap",
-      "aevo"
+      "aevo",
+      "usual"
     ],
     "related": [
       "aark",

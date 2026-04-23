@@ -1,36 +1,41 @@
 {
   "slug": "demex",
   "name": "Demex",
-  "logoUrl": "https://x.com/demexchange/photo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339969/dapp-store-logos/demex.png",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Derivatives",
-    "Decentralized Exchanges"
+    "Decentralized Derivatives"
   ],
   "chains": [
-    "Mantle"
+    "Ethereum",
+    "Arbitrum",
+    "BNB Chain"
   ],
-  "pricing": "free",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Demex is a decentralized exchange for spot, perpetual, futures, lending, borrowing, staking, and liquidity pools.",
-    "description": "Demex, also called Decentralized Mercantile Exchange, is a decentralized trading platform built for a fully on-chain financial system. Its documentation describes support for order-book trading, spot markets, perpetuals, futures, lending and borrowing, staking, and liquidity pools. Demex uses a fast finality trading environment and an oracle network designed to update asset data quickly for on-chain markets. For Mantle users, Demex adds a multi-product DeFi venue where trading, earning, and market creation can happen from one platform instead of separate applications.",
-    "meta": "Demex is an on-chain exchange for spot, derivatives, lending, staking, and liquidity markets. Discover Demex on Lancers Web3 Explorer.",
+    "short": "Demex is a cross-chain decentralized derivatives exchange specializing in perpetuals and sophisticated DeFi tools.",
+    "description": "Demex is a leading non-custodial decentralized exchange designed to provide a professional-grade trading experience for perpetual contracts, spot markets, and advanced financial products. Built on the Carbon network and utilizing the Cosmos SDK, Demex enables seamless cross-chain trading with deep liquidity and high throughput. The platform features an on-chain order book that ensures transparency and fair price discovery, while its sophisticated margin system allows for capital-efficient trading with high leverage. Demex focuses on providing users with a comprehensive suite of DeFi tools, including liquidity pools and staking rewards, creating a robust and inclusive environment for global decentralized finance innovation.",
+    "meta": "Demex is a premier cross-chain decentralized exchange, offering professional derivatives trading, spot markets, and advanced DeFi infrastructure.",
     "pageTitle": "Demex - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.dem.exchange/",
-    "twitter": "https://x.com/demexchange"
+    "website": "https://dem.exchange/",
+    "github": "https://github.com/Switcheo",
+    "docs": "https://guide.dem.exchange/",
+    "twitter": "https://x.com/demexchange",
+    "telegram": "https://t.me/demex_community"
   },
   "relations": {
     "alternatives": [
-      "symmio",
-      "timeswap",
-      "thetanuts-finance"
+      "legato-finance",
+      "aevo",
+      "ostium"
     ],
     "related": [
-      "fusionx",
-      "stryke",
-      "0x"
+      "1inch",
+      "xgram-io",
+      "universalx"
     ]
   }
 }

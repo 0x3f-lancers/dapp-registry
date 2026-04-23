@@ -1,7 +1,7 @@
 {
   "slug": "phoenix",
   "name": "Phoenix",
-  "logoUrl": "https://logo.clearbit.com/phoenix.trade",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860401/dapp-store-logos/phoenix.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,11 +9,12 @@
   "chains": [
     "Solana"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Phoenix is a high-performance, fully on-chain CLOB DEX on Solana providing CEX-like speed and instant finality.",
-    "description": "Phoenix is a leading decentralized exchange built natively on the Solana blockchain, utilizing a fully on-chain Central Limit Order Book (CLOB) to provide a professional-grade trading experience. Developed by Ellipsis Labs, the platform features a unique \"crankless\" design that eliminates the need for external bots to settle trades, resulting in near-instant finality and deep liquidity for spot assets. This ensures that users can trade with the speed and precision typically found only on centralized exchanges.\n\nBy leveraging Solana's high throughput and sub-second execution, Phoenix provides a transparent and non-custodial venue for asset exchange that prioritizes user sovereignty. The platform is designed for both retail and institutional participants who require high-frequency execution and institutional-grade risk management on-chain. As a core infrastructure component of the Solana DeFi ecosystem, Phoenix is dedicated to empowering participants with the innovative financial tools needed for sophisticated decentralized trading.",
-    "meta": "Phoenix offers professional-grade on-chain order book trading and instant settlement on the Solana blockchain.",
+    "short": "Phoenix is a leading decentralized exchange featuring a high-performance on-chain order book on Solana.",
+    "description": "Phoenix is a premier automated market maker (AMM) and decentralized exchange natively built on the Solana blockchain, designed to provide a professional-grade trading experience with high throughput and zero slippage. By utilizing Solana's high-speed infrastructure, Phoenix offers a fully on-chain order book that ensures transparency, fair price discovery, and near-instant transaction finality. Traders can access deep liquidity across a wide variety of spot markets and perpetual contracts. The platform features an intuitive interface and advanced trading tools, empowering users to execute sophisticated strategies within a robust and scalable decentralized environment.",
+    "meta": "Phoenix is the leading decentralized order book exchange on Solana, offering high-speed trading and professional-grade liquidity for Web3 users.",
     "pageTitle": "Phoenix - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -22,7 +23,8 @@
   },
   "relations": {
     "alternatives": [
-      "d5-exchange",
+      "fusionx",
+      "interport",
       "camelot"
     ],
     "related": [

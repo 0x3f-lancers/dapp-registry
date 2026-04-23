@@ -1,7 +1,7 @@
 {
   "slug": "kodiak-dex",
   "name": "Kodiak DEX",
-  "logoUrl": "https://logo.clearbit.com/kodiak.finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860330/dapp-store-logos/kodiak-dex.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,16 +9,19 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Kodiak is Berachain's native liquidity hub featuring automated concentrated liquidity management and token factory.",
-    "description": "Kodiak is the definitive, vertically integrated liquidity hub built natively for the Berachain ecosystem. As the only DEX incubated by the \"Build-a-Bera\" accelerator, the platform brings advanced liquidity management to the network through its \"Kodiak Islands\"—automated vaults that dynamically optimize concentrated liquidity positions. Additionally, the project features the \"Panda Factory,\" a no-code token deployer that facilitates permissionless token launches for new projects.\n\nDeeply integrated with Berachain's unique Proof of Liquidity (PoL) mechanism, Kodiak allows liquidity providers to earn rewards in the form of BGT (Berachain Governance Token) emissions. The platform serves as a central hub for asset exchange and liquidity bootstrapping, providing users with a seamless and transparent trading experience. By combining automated management with ecosystem-aligned incentives, Kodiak is a cornerstone of the decentralized economy on Berachain, empowering both developers and traders to maximize their capital efficiency.",
-    "meta": "Kodiak is the native AMM and liquidity hub for Berachain, offering automated concentrated liquidity and PoL-aligned rewards.",
+    "short": "Kodiak is a high-performance decentralized exchange and liquidity hub natively built on the Berachain network.",
+    "description": "Kodiak is a premier automated market maker (AMM) and decentralized exchange designed specifically for the Berachain ecosystem. By utilizing a concentrated liquidity model and taking full advantage of Berachain's unique Proof-of-Liquidity consensus, Kodiak provides traders with superior swap rates and liquidity providers with high capital efficiency. The platform features an intuitive interface for swaps, yield farming, and governance, empowering users to maximize the utility of their digital assets. Kodiak focuses on deep integration with Berachain's native yield mechanics and prioritizes community-driven growth, serving as a critical infrastructure layer for decentralized finance innovation and liquidity management within the Berachain landscape.",
+    "meta": "Kodiak is the leading DEX and liquidity hub on Berachain, offering high-efficiency trading and Proof-of-Liquidity optimization for Web3 users.",
     "pageTitle": "Kodiak DEX - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.kodiak.finance/",
-    "twitter": "https://twitter.com/KodiakFi"
+    "docs": "https://docs.kodiak.finance/",
+    "twitter": "https://twitter.com/KodiakFi",
+    "telegram": "https://t.me/KodiakOfficial"
   },
   "relations": {
     "alternatives": [
@@ -28,7 +31,8 @@
     ],
     "related": [
       "bamboo-relay",
-      "cellana"
+      "cellana",
+      "dodo"
     ]
   }
 }

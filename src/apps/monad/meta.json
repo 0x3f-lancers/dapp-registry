@@ -1,7 +1,7 @@
 {
   "slug": "monad",
   "name": "Monad",
-  "logoUrl": "https://logo.clearbit.com/monad.xyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860366/dapp-store-logos/monad.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Layer 1 Blockchains (L1s)"
@@ -9,16 +9,18 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Monad is a high-performance, EVM-compatible L1 blockchain featuring parallel execution and 10,000 TPS.",
-    "description": "Monad is an ultra-high-performance, Layer 1 blockchain designed to provide the speed and scalability needed for the next generation of decentralized applications while maintaining full EVM compatibility. Unlike traditional sequential processors, Monad utilizes parallel execution to process multiple transactions simultaneously, targeting a throughput of 10,000 transactions per second with sub-second finality. This allows developers to port existing Ethereum dApps to Monad with zero code modifications while benefiting from significantly higher performance.\n\nThe network introduces several technical innovations, including MonadDb (a custom high-speed state database) and the MonadBFT consensus mechanism, to eliminate common blockchain bottlenecks. Monad serves as a foundational infrastructure for high-frequency DeFi, gaming, and social applications that require institutional-grade throughput and low transaction costs. Through its commitment to extreme performance and open-source development, Monad is building the essential framework for a more scalable and accessible decentralized economy.",
-    "meta": "Monad is a high-speed, parallelized EVM-compatible Layer 1 blockchain providing 10,000 TPS and sub-second finality.",
+    "short": "Monad is a high-performance Layer 1 blockchain featuring parallel execution and full EVM compatibility.",
+    "description": "Monad is a revolutionary Layer 1 blockchain designed to provide a massive boost in transaction throughput and scalability without compromising the robust security and developer experience of the Ethereum ecosystem. By introducing a novel 'Parallel Execution' engine and a high-performance consensus mechanism, Monad enables decentralized applications to process thousands of transactions per second with near-instant finality. The network remains fully compatible with existing Ethereum smart contracts and developer tools, allowing for a seamless transition for both protocols and users. Monad focuses on fostering a high-performance landscape for the next generation of decentralized applications, from massive scale DeFi to complex interactive gaming.",
+    "meta": "Monad is a high-performance Layer 1 blockchain featuring parallel execution and full EVM compatibility for scalable decentralized applications.",
     "pageTitle": "Monad - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://monad.xyz",
-    "twitter": "https://twitter.com/monad_xyz"
+    "docs": "https://docs.monad.xyz/",
+    "twitter": "https://x.com/monad"
   },
   "relations": {
     "alternatives": [

@@ -1,7 +1,7 @@
 {
   "slug": "kelp",
   "name": "Kelp",
-  "logoUrl": "https://logo.clearbit.com/kelpdao.xyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860327/dapp-store-logos/kelp.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -9,16 +9,20 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
     "short": "Kelp DAO is a leading liquid restaking protocol on Ethereum that unlocks liquidity for EigenLayer-staked assets.",
-    "description": "Kelp DAO is a premier liquid restaking protocol built on Ethereum, specifically designed to enhance the utility and liquidity of assets deposited into EigenLayer. By allowing users to deposit Liquid Staking Tokens (LSTs) like stETH and ETHx, the protocol issues rsETH, a highly composable Liquid Restaked Token (LRT). This allows participants to earn Ethereum staking rewards alongside additional yields from Actively Validated Services (AVS) on the EigenLayer network, effectively \"double-dipping\" on their capital.\n\nDeeply integrated with the DeFi ecosystem, rsETH can be used as collateral in major protocols like Aave and Morpho, providing users with increased flexibility while they continue to accrue restaking points. Kelp DAO focuses on providing a secure and transparent environment for restakers, aiming to become the primary liquidity layer for the restaking economy. Through its commitment to innovation and community-led growth, Kelp DAO is empowering users to maximize their returns within the evolving Ethereum landscape.",
-    "meta": "Kelp DAO provides liquid restaking through rsETH, enabling users to earn multiple yield layers while maintaining liquidity.",
+    "description": "Kelp DAO is a premier liquid restaking protocol on Ethereum, designed to enhance the utility of assets deposited into EigenLayer. By allowing users to deposit LSTs like stETH, the protocol issues rsETH, a highly composable Liquid Restaked Token. This enables participants to earn Ethereum staking rewards alongside additional yields from Actively Validated Services (AVS), effectively maximizing capital efficiency. Deeply integrated with DeFi, rsETH can be used as collateral in major protocols, providing users with flexibility while they continue to accrue restaking points and rewards.",
+    "meta": "Kelp DAO provides liquid restaking through rsETH for Ethereum and EigenLayer rewards. Discover Kelp and other DeFi Dapps on Lancers Web3 Explorer.",
     "pageTitle": "Kelp - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.kelpdao.xyz/",
-    "twitter": "https://twitter.com/KelpDAO"
+    "github": "https://github.com/Kelp-DAO",
+    "docs": "https://kerneldao.gitbook.io/kernel",
+    "twitter": "https://twitter.com/KelpDAO",
+    "telegram": "https://t.me/kelpdaoAnn"
   },
   "relations": {
     "alternatives": [

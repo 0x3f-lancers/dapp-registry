@@ -1,7 +1,7 @@
 {
   "slug": "solayer",
   "name": "Solayer",
-  "logoUrl": "https://solayer.org/favicon.ico",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775655352/dapp-store-logos/solayer.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -9,11 +9,12 @@
   "chains": [
     "Solana"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Solayer is a native restaking layer on Solana that provides stake-weighted Quality of Service (QoS) for dApps.",
-    "description": "Solayer is a pioneering decentralized restaking protocol built natively on the Solana blockchain, designed to enhance network security and provide guaranteed performance for decentralized applications. By allowing users to restake native SOL or Liquid Staking Tokens (LSTs) such as JitoSOL, the protocol issues sSOL, a highly composable liquid derivative. This approach enables participants to earn multiple layers of yield while securing external modules like oracles, bridges, and Layer 2 solutions.\n\nA unique value proposition of Solayer is its \"Stake-Weighted QoS\" mechanism, which allows dApps to secure dedicated network bandwidth and transaction priority on the Solana L1 by utilizing restaked capital. The platform focuses on professional-grade risk management and transparent on-chain execution, serving as a primary infrastructure layer for the next generation of high-frequency Solana applications. Through its commitment to innovative decentralized security, Solayer is empowering participants to build more robust and efficient decentralized portfolios while maximizing their asset utility.",
-    "meta": "Solayer provides native restaking and stake-weighted Quality of Service infrastructure for the Solana network.",
+    "short": "Solayer is a leading liquid restaking protocol on Solana that maximizes the yield and utility of staked assets.",
+    "description": "Solayer is a pioneering decentralized platform focused on enhancing the security and capital efficiency of the Solana network through innovative liquid restaking solutions. By providing users with liquid restaking tokens against their deposits in protocols like EigenLayer, Solayer enables participants to earn both Solana validator rewards and restaking incentives while maintaining full asset liquidity. The platform features a robust risk management framework and a user-friendly interface, ensuring that both retail and institutional investors can participate in the next evolution of on-chain security with confidence. Solayer's commitment to community-driven governance and capital efficiency makes it a vital hub for yield optimization.",
+    "meta": "Solayer offers advanced liquid restaking solutions for Solana, providing optimized yield and enhanced security for the Solana ecosystem.",
     "pageTitle": "Solayer - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -22,6 +23,7 @@
   },
   "relations": {
     "alternatives": [
+      "renzo",
       "echo",
       "amnis"
     ],

@@ -1,7 +1,7 @@
 {
   "slug": "world-app",
   "name": "World App",
-  "logoUrl": "https://logo.clearbit.com/worldcoin.org",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860483/dapp-store-logos/world-app.jpg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -10,16 +10,17 @@
     "Ethereum",
     "OP Mainnet"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "World App is the flagship mobile wallet for the World ecosystem, providing secure identity and UBI access.",
-    "description": "World App is the definitive self-custodial digital asset manager built for the World (formerly Worldcoin) ecosystem, designed to provide a secure and intuitive gateway to the decentralized web. The app serves as the primary portal for managing a user's World ID—a privacy-preserving digital identity verified via the \"Orb\" biometric device. World App allows participants to claim their regular Universal Basic Income (UBI) grants in the form of WLD tokens and interact with a growing array of decentralized financial tools.\n\nOperating natively on the World Chain—a high-performance Ethereum Layer 2 powered by the OP Stack—World App ensures near-instant transaction finality and ultra-low gas fees. The wallet also supports major assets like BTC, ETH, and USDC, providing a professional-grade environment for asset management. Through its commitment to proving humanness in the age of AI, World App is building the essential framework for a more equitable and transparent global digital economy where every individual can participate and benefit.",
-    "meta": "World App is the leading mobile wallet for the World ecosystem, featuring World ID verification and UBI access.",
+    "short": "World App is the premier self-custody wallet for the World Network, providing secure digital identity.",
+    "description": "World App is a revolutionary decentralized application designed to provide users with a secure and intuitive gateway to the World Network ecosystem. As a self-custody solution, World App ensures that participants maintain full control over their private keys and digital assets while enjoying a seamless experience for identity verification and peer-to-peer payments. The platform features an integrated 'World ID' system that enables users to verify their humanness in a privacy-preserving manner, fostering a more accountable and inclusive digital environment. World App focuses on accessibility and global reaching, making it an essential component for navigating the next generation of decentralized identity and financial infrastructure.",
+    "meta": "World App is the leading self-custody wallet for World Network, offering secure digital identity and seamless Web3 financial services.",
     "pageTitle": "World App - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://worldcoin.org/world-app",
-    "twitter": "https://twitter.com/worldcoin"
+    "twitter": "https://x.com/worldnetwork"
   },
   "relations": {
     "alternatives": [
@@ -29,7 +30,8 @@
     ],
     "related": [
       "coinbase-smart-wallet",
-      "minipay"
+      "minipay",
+      "ultimate"
     ]
   }
 }

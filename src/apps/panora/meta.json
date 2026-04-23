@@ -1,7 +1,7 @@
 {
   "slug": "panora",
   "name": "Panora",
-  "logoUrl": "https://panora.exchange/favicon.ico",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775655336/dapp-store-logos/panora.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Trading Tools"
@@ -9,11 +9,12 @@
   "chains": [
     "Aptos"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Panora is the primary Meta-DEX aggregator on Aptos providing optimal swap rates and cross-chain bridging.",
-    "description": "Panora is a premier decentralized exchange aggregator built natively on the Aptos blockchain, often referred to as the \"Super App of Aptos.\" By aggregating liquidity from all major DEXs in the ecosystem—including Liquidswap and PancakeSwap—Panora ensures that users always receive the best possible swap rates with minimal slippage. The platform features professional-grade trading tools such as limit orders, Dollar Cost Averaging (DCA), and an integrated portfolio tracker for comprehensive asset management.\n\nIn addition to its core aggregation features, Panora offers \"Panora Flows,\" a specialized interoperability protocol that enables one-click cross-chain bridging into the Aptos ecosystem. Leveraging the high throughput and low latency of the Aptos network, Panora delivers a seamless and highly responsive user experience that rivals centralized platforms. As a foundational pillar of the Aptos DeFi landscape, Panora is dedicated to providing the essential infrastructure needed for efficient decentralized trading and onboarding the next generation of Web3 participants.",
-    "meta": "Panora offers professional-grade DEX aggregation and cross-chain bridging tools on the Aptos blockchain.",
+    "short": "Panora is the primary Meta-DEX aggregator on Aptos, providing optimal swap rates and seamless cross-chain bridging.",
+    "description": "Panora is a premier decentralized exchange aggregator built natively on Aptos, often called the \"Super App of Aptos.\" By aggregating liquidity from all major DEXs like Liquidswap and PancakeSwap, Panora ensures users receive the best swap rates with minimal slippage. The platform features professional tools such as limit orders, Dollar Cost Averaging (DCA), and an integrated portfolio tracker. Additionally, \"Panora Flows\" enables one-click cross-chain bridging into the Aptos ecosystem, leveraging high throughput and low latency to deliver a CEX-like user experience for all.",
+    "meta": "Panora offers professional DEX aggregation and cross-chain bridging on Aptos. Discover Panora and other Trading Tools on Lancers Web3 Explorer.",
     "pageTitle": "Panora - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -22,7 +23,7 @@
   },
   "relations": {
     "alternatives": [
-      "berabot",
+      "coinstats",
       "volume-guru",
       "trakx"
     ],

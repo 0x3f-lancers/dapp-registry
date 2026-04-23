@@ -1,7 +1,7 @@
 {
   "slug": "marginfi",
   "name": "marginfi",
-  "logoUrl": "https://logo.clearbit.com/marginfi.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860347/dapp-store-logos/marginfi.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -9,21 +9,26 @@
   "chains": [
     "Solana"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "marginfi is a decentralized lending protocol on Solana featuring a robust risk management engine and LST.",
-    "description": "marginfi is a leading decentralized, over-collateralized lending and borrowing protocol built natively on the Solana blockchain. Designed for maximum capital efficiency and security, the platform features a sophisticated risk management engine that enables users to manage their portfolios with institutional-grade precision. marginfi allows participants to earn interest on their deposits and access liquidity through a seamless and transparent on-chain interface, leveraging Solana's high speed and low latency.\n\nBeyond basic lending, the ecosystem includes LST (a liquid staking token for SOL) and YBX, a yield-bearing stablecoin backed by diversified collateral. The protocol also utilizes a popular \"Points\" system to incentivize long-term participation and community engagement. Through its focus on robust infrastructure and user-centric financial tools, marginfi has become a cornerstone of the Solana DeFi ecosystem, empowering users to build and manage sophisticated decentralized portfolios with ease.",
-    "meta": "marginfi provides decentralized lending, borrowing, and liquid staking services on the Solana blockchain.",
+    "short": "marginfi is a leading decentralized lending and margin protocol natively built on the Solana blockchain.",
+    "description": "marginfi is a premier automated money market and decentralized finance platform designed specifically for the Solana ecosystem. By utilizing a robust risk management framework and maintaining deep liquidity pools, marginfi enables users to participate in permissionless lending and borrowing markets with unparalleled capital efficiency. The platform features an intuitive interface and high-speed execution, allowing participants to unlock significant leverage across a wide variety of digital assets. marginfi focuses on transparency and community-driven growth, serving as a critical engine for liquidity and decentralized asset management within the rapidly expanding Solana landscape, ensuring that users can maximize their financial potential with confidence.",
+    "meta": "marginfi is the leading decentralized lending and margin protocol on Solana, offering high-efficiency borrowing and yield-generating opportunities.",
     "pageTitle": "marginfi - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.marginfi.com/",
-    "twitter": "https://twitter.com/marginfi"
+    "github": "https://github.com/mrgnlabs",
+    "docs": "https://docs.marginfi.com",
+    "twitter": "https://twitter.com/marginfi",
+    "telegram": "https://t.me/marginfi"
   },
   "relations": {
     "alternatives": [
       "solend",
-      "opendollar"
+      "opendollar",
+      "lifinity"
     ],
     "related": [
       "syncswap",

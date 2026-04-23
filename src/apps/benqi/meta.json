@@ -1,7 +1,7 @@
 {
   "slug": "benqi",
   "name": "Benqi",
-  "logoUrl": "https://unavatar.io/twitter/BenqiFinance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774353641/dapp-store-logos/benqi.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -9,20 +9,25 @@
   "chains": [
     "Avalanche"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Benqi is a leading DeFi protocol on Avalanche offering decentralized lending, borrowing, and liquid staking.",
-    "description": "Benqi is a comprehensive decentralized finance protocol built on the Avalanche network, featuring a non-custodial liquidity market and liquid staking solutions. Through its Benqi Liquidity Market (BLM), users can lend their assets to earn interest or borrow against supported collateral in a transparent and trustless manner. The protocol also offers liquid staking via sAVAX, which allows AVAX holders to earn staking rewards while maintaining liquidity for use in other DeFi applications.\n\nBy leveraging the speed and scalability of Avalanche, Benqi provides a highly efficient environment for capital management. The protocol also includes infrastructure like Benqi Ignite, which helps bootstrap new validators by providing the necessary stake. Benqi is dedicated to lowering the barriers to entry for DeFi participants while ensuring robust security and capital efficiency, positioning itself as a cornerstone of the Avalanche ecosystem.",
-    "meta": "Benqi offers decentralized lending and liquid staking on Avalanche. Discover Benqi and other DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Benqi is a leading decentralized liquidity market and liquid staking protocol natively built on Avalanche.",
+    "description": "Benqi is a cornerstone DeFi protocol on the Avalanche network, providing a comprehensive suite of financial products including a decentralized lending market and liquid staking solutions. Users can easily supply and borrow digital assets to earn interest or gain leverage, while the protocol's liquid staking arm allows participants to unlock the value of their staked AVAX. By providing sAVAX, users can earn validator rewards while remaining liquid to participate in other Avalanche-based dApps. Benqi focuses on high performance, deep liquidity, and a robust security framework, making it an essential hub for capital efficiency and decentralized asset management within the rapidly growing Avalanche ecosystem.",
+    "meta": "Benqi is the leading liquidity market and liquid staking protocol on Avalanche, providing secure and efficient DeFi solutions for global users.",
     "pageTitle": "Benqi - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://benqi.fi",
-    "twitter": "https://x.com/BenqiFinance"
+    "github": "https://github.com/benqi-fi",
+    "docs": "https://docs.benqi.fi/",
+    "twitter": "https://x.com/BenqiFinance",
+    "telegram": "https://t.me/BenqiFinance"
   },
   "relations": {
     "alternatives": [
       "pike-finance",
+      "init-capital",
       "1delta"
     ],
     "related": [

@@ -1,7 +1,7 @@
 {
   "slug": "iziswap",
   "name": "iZiSwap",
-  "logoUrl": "https://logo.clearbit.com/izumi.finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860317/dapp-store-logos/iziswap.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -10,16 +10,20 @@
     "BNB Chain",
     "Linea"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "iZiSwap is a multi-chain DL-AMM DEX offering efficient concentrated liquidity and limit orders.",
-    "description": "iZiSwap is an advanced multi-chain decentralized exchange powered by iZUMi Finance, utilizing a unique Discretized-Liquidity AMM (DL-AMM) model. This innovative design allows for more precise concentrated liquidity, making it highly efficient for stablecoin swaps and on-chain limit orders. Operating across major networks like Linea, Scroll, and Mantle, iZiSwap serves as a primary liquidity hub, providing users with professional-grade trading tools and minimal slippage.\n\nThe platform is designed to be highly interoperable, frequently participating in ecosystem-wide incentive programs to reward liquidity providers with \"iPoints.\" By leveraging discretized price ticks, iZiSwap delivers the speed and precision of an order book within a fully decentralized framework. As a key component of the cross-chain DeFi landscape, iZiSwap empowers users to trade ecosystem tokens with superior capital efficiency and transparent on-chain execution.",
-    "meta": "iZiSwap provides efficient concentrated liquidity and DL-AMM trading across Linea, Scroll, and Mantle.",
+    "short": "iZiSwap is a multi-chain decentralized exchange featuring innovative DL-AMM for high capital efficiency.",
+    "description": "iZiSwap is a sophisticated decentralized exchange protocol that introduces Discretized Liquidity Automated Market Maker (DL-AMM) technology to the Web3 landscape. By enabling liquidity providers to concentrate their capital at specific price points, iZiSwap significantly enhances capital efficiency and reduces slippage for traders compared to traditional AMMs. The platform supports seamless trading across multiple blockchain networks, providing users with deep liquidity and a professional-grade experience. iZiSwap focuses on providing a secure, non-custodial, and highly scalable environment, making it a foundational building block for decentralized finance innovation and liquidity management across the multichain ecosystem.",
+    "meta": "iZiSwap is a leading multi-chain DEX featuring DL-AMM technology for high-efficiency trading and optimized liquidity management.",
     "pageTitle": "iZiSwap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://izumi.finance/",
-    "twitter": "https://twitter.com/izumi_Finance"
+    "github": "https://github.com/IzumiFinance",
+    "docs": "https://docs.izumi.finance/",
+    "twitter": "https://twitter.com/izumi_Finance",
+    "telegram": "https://t.me/izumifinance"
   },
   "relations": {
     "alternatives": [
@@ -28,9 +32,9 @@
       "syncswap"
     ],
     "related": [
-      "vesta-finance",
       "ostium",
-      "shade-protocol"
+      "shade-protocol",
+      "maverick"
     ]
   }
 }

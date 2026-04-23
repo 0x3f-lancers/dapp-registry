@@ -1,35 +1,39 @@
 {
   "slug": "init-capital",
   "name": "INIT Capital",
-  "logoUrl": "https://x.com/InitCapital_/photo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860313/dapp-store-logos/init-capital.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
   ],
   "chains": [
-    "Mantle"
+    "Multichain"
   ],
-  "pricing": "free",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "INIT Capital is a Mantle money market for lending, borrowing, and building yield strategies with Liquidity Hooks.",
-    "description": "INIT Capital is a decentralized money market built around Liquidity Hooks, a design that lets users lend assets, borrow against collateral, and attach positions to yield strategies from one dashboard. The protocol supports Mantle and presents strategies such as looping, leverage farming, and pair or margin exposure through hook modules. For builders, INIT offers a way to bootstrap liquidity and connect new DeFi use cases to an existing lending base, while users can manage deposits, borrows, and strategy positions without leaving the INIT interface.",
-    "meta": "INIT Capital is a Mantle money market for lending, borrowing, and Liquidity Hook yield strategies. Discover INIT Capital on Lancers Web3 Explorer.",
+    "short": "INIT Capital is a decentralized liquidity hook protocol enabling developers to build sophisticated DeFi apps.",
+    "description": "INIT Capital is a groundbreaking decentralized protocol designed to serve as the foundational liquidity layer for the next generation of financial applications. By introducing the concept of 'Liquidity Hooks,' INIT enables developers to seamlessly integrate deep, permissionless liquidity into their own dApps with unparalleled ease and flexibility. The platform's modular architecture supports a wide variety of lending, borrowing, and yield-generating strategies, providing users with high capital efficiency and low slippage. INIT Capital focuses on transparency and robust risk management, fostering a more interconnected and innovative DeFi landscape where liquidity is highly accessible and adaptable to the needs of all participants.",
+    "meta": "INIT Capital is a premier liquidity hook protocol, providing modular decentralized liquidity and essential infrastructure for Web3 developers.",
     "pageTitle": "INIT Capital - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://init.capital/",
-    "twitter": "https://x.com/InitCapital_"
+    "website": "https://init.capital",
+    "github": "https://github.com/init-capital",
+    "docs": "https://docs.init.capital/",
+    "twitter": "https://twitter.com/InitCapital_",
+    "telegram": "https://t.me/initcapital"
   },
   "relations": {
     "alternatives": [
-      "lendle",
-      "compound-finance",
-      "kinza-finance"
+      "seamless-protocol",
+      "1delta",
+      "amply-finance"
     ],
     "related": [
-      "fusionx",
-      "symbiosis",
-      "onramp-money"
+      "lodestar-finance",
+      "toros-finance",
+      "optix"
     ]
   }
 }

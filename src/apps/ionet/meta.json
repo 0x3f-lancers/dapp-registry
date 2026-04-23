@@ -1,7 +1,7 @@
 {
   "slug": "ionet",
   "name": "io.net",
-  "logoUrl": "https://logo.clearbit.com/io.net",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860315/dapp-store-logos/ionet.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Decentralized Computing Tools"
@@ -9,16 +9,20 @@
   "chains": [
     "Solana"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "io.net is a decentralized DePIN on Solana that provides massive GPU compute power for AI and machine learning.",
-    "description": "io.net is a revolutionary Decentralized Physical Infrastructure Network (DePIN) built on Solana, designed to provide high-performance GPU compute power for AI and machine learning applications. By aggregating idle GPU capacity from independent data centers, crypto miners, and other networks, io.net creates a massive, accessible cloud that is significantly more cost-effective than centralized providers. This decentralized approach ensures that developers can access the compute power needed for complex AI operations without the high costs or limited availability of traditional cloud services.\n\nLeveraging the Solana blockchain for sub-second settlement and low-cost rewards, io.net ensures transparent and efficient interactions between compute providers and users. The network is powered by the $IO token, which facilitates governance, utility payments, and incentive coordination. As a foundational layer for the decentralized AI economy, io.net is empowering the next generation of builders with globally accessible and affordable computing resources.",
-    "meta": "io.net is a decentralized DePIN providing affordable GPU compute power for AI development on the Solana blockchain.",
+    "short": "io.net is a decentralized compute network that provides instant access to massive GPU power for AI and ML.",
+    "description": "io.net is a pioneering decentralized computing platform (DePIN) that aggregates underutilized GPU resources from around the world to provide a scalable and cost-effective cloud solution for AI and machine learning. By creating a global network of community-run nodes, io.net enables researchers and enterprises to access high-end computing power with near-zero latency and significantly lower costs compared to traditional centralized providers. The platform's architecture is focused on transparency and security, ensuring that computational tasks are performed reliably and efficiently. As a vital infrastructure layer for the AI era, io.net democratizes access to elite hardware, fostering a more innovative and inclusive future for decentralized intelligence.",
+    "meta": "io.net provides decentralized GPU cloud computing, offering a scalable and cost-effective marketplace for massive AI and ML workloads.",
     "pageTitle": "io.net - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://io.net/",
-    "twitter": "https://twitter.com/ionet"
+    "github": "https://github.com/ionet-official",
+    "docs": "https://docs.io.net/",
+    "twitter": "https://twitter.com/ionet",
+    "telegram": "https://t.me/ionet_official"
   },
   "relations": {
     "alternatives": [

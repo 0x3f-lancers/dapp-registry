@@ -1,33 +1,36 @@
 {
   "slug": "bemo",
-  "name": "Bemo",
-  "logoUrl": "https://img.logo.dev/bemo.fi?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "name": "bemo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745203/web3-explorer/dapp-logos/bemo.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Liquid Staking Platforms"
+    "Liquid Staking Platforms",
+    "DeFi Yield Farming Platforms"
   ],
   "chains": [
-    "TON"
+    "Multichain"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Bemo is a decentralized liquid staking protocol on TON that allows users to stake and receive stTON.",
-    "description": "Bemo is a leading decentralized liquid staking protocol built specifically for The Open Network (TON). It enables users to stake their Toncoin and receive stTON (staked TON) tokens in return, which represent their share of the staking pool and its accrued rewards. Unlike traditional staking, Bemo allows users to maintain liquidity, as stTON can be used across various TON DeFi applications for lending, borrowing, and yield farming. Bemo focuses on providing a secure, non-custodial, and efficient way for users to support network validation while maximizing their capital utility.",
-    "meta": "Stake TON and stay liquid with Bemo. The premier liquid staking protocol on TON, featured on Lancers Web3 Explorer.",
-    "pageTitle": "Bemo - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "bemo enables non-custodial liquid staking on TON, allowing users to earn rewards while keeping liquidity with as little as 1 TON.",
+    "description": "bemo is the first non-custodial liquid staking protocol on TON. By staking with bemo, users earn staking rewards while preserving liquidity and maintaining access to their assets via stTON tokens. The platform lowers the entry barrier for TON staking, enabling participation with as little as 1 TON instead of the traditional 10,000 TON minimum, thereby democratizing access to staking rewards and DeFi opportunities on the TON blockchain.",
+    "meta": "bemo is the first non-custodial liquid staking protocol on TON. Discover bemo and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "bemo - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://bemo.fi/",
-    "twitter": "https://twitter.com/bemo_finance"
+    "twitter": "https://x.com/bemo_fi"
   },
   "relations": {
     "alternatives": [
-      "zerolend",
-      "aeroscraper",
-      "cvi-finance"
+      "clip-finance",
+      "moox",
+      "jpool"
     ],
     "related": [
-      "tonkeeper"
+      "venus-protocol",
+      "morpho",
+      "pooltogether"
     ]
   }
 }

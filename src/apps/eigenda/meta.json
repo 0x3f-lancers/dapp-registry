@@ -1,7 +1,7 @@
 {
   "slug": "eigenda",
   "name": "EigenDA",
-  "logoUrl": "https://unavatar.io/twitter/eigen_da",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339979/dapp-store-logos/eigenda.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Data Availability Blockchains"
@@ -9,15 +9,17 @@
   "chains": [
     "Ethereum"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "A high-throughput Data Availability (DA) service built on EigenLayer, providing rollups with cheap, secure storage.",
-    "description": "EigenDA is a high-throughput Data Availability (DA) service built on EigenLayer. It is designed specifically for Ethereum rollups, allowing them to store transaction data efficiently and at a fraction of the cost compared to the mainnet. By leveraging the massive economic security of EigenLayer's restaking pool, EigenDA ensures that data remains accessible and secure while offering linear scalability as more operators join.\n\nThe service targets throughputs exceeding 10 MB/s, making it a cornerstone for scaling Ethereum. It provides the infrastructure for rollups to process millions of transactions without compromising on security or cost. Through its innovative architecture, EigenDA enables massive data throughput for next-generation dapps.",
-    "meta": "EigenDA: a high-throughput Data Availability service on EigenLayer, offering rollups cheap and secure storage with linear scalability.",
+    "short": "EigenDA is a high-throughput decentralized data availability layer built on top of the EigenLayer protocol.",
+    "description": "EigenDA is a revolutionary data availability (DA) layer designed to significantly enhance the scalability and security of decentralized networks. Built as the first Actively Validated Service (AVS) on EigenLayer, EigenDA leverages Ethereum's robust security through restaking while providing a massive boost in data throughput. This specialized infrastructure allows rollups and other Layer 2 solutions to offload their data storage needs to a decentralized network of operators, drastically reducing transaction costs for end users. By decoupling data availability from execution, EigenDA provides a highly efficient and reliable foundation for the next generation of high-performance decentralized applications and modular blockchain architectures.",
+    "meta": "EigenDA is a high-performance decentralized data availability layer powered by EigenLayer, offering scalable and secure data storage for Web3.",
     "pageTitle": "EigenDA - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.eigenda.xyz/",
+    "docs": "https://docs.eigencloud.xyz/eigenda/core-concepts/overview",
     "twitter": "https://x.com/eigen_da"
   },
   "relations": {

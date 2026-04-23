@@ -1,7 +1,7 @@
 {
   "slug": "maverick",
   "name": "Maverick",
-  "logoUrl": "https://logo.clearbit.com/mav.xyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860349/dapp-store-logos/maverick.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,21 +12,26 @@
     "BNB Chain",
     "ZKsync"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Maverick is a high-efficiency DEX featuring a Dynamic Distribution AMM that automates liquidity movement.",
-    "description": "Maverick Protocol is an advanced decentralized finance infrastructure designed to provide superior capital efficiency for liquidity providers and traders. The platform's core innovation is its Dynamic Distribution Automated Market Maker (AMM), which allows liquidity to automatically follow asset prices as they move. This ensures that capital is always concentrated in the most active price ranges, significantly increasing fee capture for providers and reducing slippage for users.\n\nOperating across major networks including Ethereum, Base, and zkSync Era, Maverick serves as a primary venue for deep liquidity and professional-grade asset exchange. The protocol is governed by the MAV token through a voting-escrow model (veMAV), aligning the long-term interests of the community. By combining automated liquidity management with a highly scalable architecture, Maverick is redefining the standards for modern decentralized exchanges and empowering participants to maximize their capital utility in the evolving Web3 landscape.",
-    "meta": "Maverick offers professional-grade AMM trading with dynamic liquidity distribution for superior capital efficiency.",
+    "short": "Maverick is a leading dynamic distribution AMM providing high capital efficiency for liquidity providers.",
+    "description": "Maverick Protocol is a revolutionary decentralized exchange that introduces Dynamic Distribution Automated Market Maker (AMM) technology to the Web3 landscape. By enabling liquidity providers to automate the movement of their capital in response to price changes, Maverick significantly enhances capital efficiency and reduces slippage for traders compared to traditional static AMMs. The platform supports a wide range of asset pairs and innovative incentive structures, providing a professional-grade experience for all participants. Maverick focuses on providing a secure, non-custodial, and highly scalable environment, making it a foundational building block for decentralized finance innovation and liquidity management across the multichain ecosystem.",
+    "meta": "Maverick is a premier dynamic distribution AMM, offering high-efficiency decentralized trading and optimized liquidity management for Web3 users.",
     "pageTitle": "Maverick - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.mav.xyz/",
-    "twitter": "https://twitter.com/mavprotocol"
+    "github": "https://github.com/maverickprotocol",
+    "docs": "https://docs.mav.xyz",
+    "twitter": "https://twitter.com/mavprotocol",
+    "telegram": "https://t.me/maverickprotocolofficial"
   },
   "relations": {
     "alternatives": [
       "yield-yak",
-      "orca"
+      "orca",
+      "methlab"
     ],
     "related": [
       "stader",

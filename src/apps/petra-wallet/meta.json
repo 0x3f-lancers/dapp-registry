@@ -1,7 +1,7 @@
 {
   "slug": "petra-wallet",
   "name": "Petra Wallet",
-  "logoUrl": "https://logo.clearbit.com/petra.app",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860399/dapp-store-logos/petra-wallet.jpg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -9,11 +9,12 @@
   "chains": [
     "Aptos"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Petra Wallet is the official self-custodial flagship wallet for Aptos, designed by Aptos Labs for ease of use.",
-    "description": "Petra Wallet is the definitive, self-custodial digital asset manager built natively for the Aptos blockchain by the expert team at Aptos Labs. Designed to provide a seamless and highly secure user experience, the wallet supports advanced features such as social logins (Google/Apple), biometric authentication, and deep integration with the entire Aptos dApp ecosystem. Users can manage their tokens, trade NFTs, and interact with DeFi protocols within a transparent and intuitive interface.\n\nThe wallet also features a built-in \"Earn\" section, enabling one-click participation in network staking and lending directly from the extension or mobile app. By leveraging Aptos's high-speed infrastructure, Petra Wallet delivers near-instant transaction finality and robust cryptographic security. As the primary gateway for the Aptos network, Petra is dedicated to providing the essential infrastructure needed for mass adoption, empowering participants to maintain total sovereignty over their digital identity and capital in the evolving Web3 landscape.",
-    "meta": "Petra Wallet is the leading self-custodial wallet for the Aptos blockchain, featuring secure asset management and dApp interaction.",
+    "short": "Petra Wallet is the official self-custody wallet for the Aptos ecosystem, providing secure asset management.",
+    "description": "Petra Wallet is the premier decentralized wallet natively developed by Aptos Labs to provide users with a secure and intuitive gateway to the Aptos blockchain. As a self-custody solution, Petra ensures that users maintain full control over their private keys and digital assets while enjoying a seamless experience across Aptos-based dApps. The wallet features a suite of built-in tools for asset management, NFT discovery, and direct integration with the network's leading DeFi protocols. Petra Wallet focuses on security, performance, and accessibility, making it an essential component for both new and experienced users navigating the rapidly expanding Aptos Layer 1 landscape.",
+    "meta": "Petra Wallet is the leading self-custody wallet for Aptos, offering secure asset management and seamless integration with the Aptos ecosystem.",
     "pageTitle": "Petra Wallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,12 +24,13 @@
   "relations": {
     "alternatives": [
       "alfa1",
-      "imtoken"
+      "imtoken",
+      "martian-wallet"
     ],
     "related": [
       "linen",
       "narval",
-      "fin-wallet"
+      "sinohope"
     ]
   }
 }

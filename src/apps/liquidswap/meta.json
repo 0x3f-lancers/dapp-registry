@@ -1,7 +1,7 @@
 {
   "slug": "liquidswap",
   "name": "Liquidswap",
-  "logoUrl": "https://logo.clearbit.com/liquidswap.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860335/dapp-store-logos/liquidswap.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,21 +9,26 @@
   "chains": [
     "Aptos"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Liquidswap is the premier AMM DEX on Aptos, featuring high security via the Move language and native staking.",
-    "description": "Liquidswap is the definitive decentralized exchange and automated market maker (AMM) built on the Aptos blockchain by Pontem Network. Leveraging the high security and performance of the Move programming language, the platform offers a robust environment for asset swaps, including standard AMM pools for volatile assets and specialized stable swaps for correlated assets. Liquidswap serves as the primary liquidity hub for the Aptos ecosystem, providing users with sub-second finality and minimal slippage.\n\nIn addition to its core trading features, Liquidswap supports yield farming and native delegated staking for the APT token, allowing users to maximize their capital efficiency within a single interface. The platform is designed for professional-grade performance and high throughput, making it a cornerstone of the decentralized economy on Aptos. Through its commitment to transparency and user-centric design, Liquidswap is empowering participants to engage with the next generation of DeFi tools with confidence.",
-    "meta": "Liquidswap is the leading AMM DEX on Aptos, offering secure trading, stable swaps, and native staking rewards.",
+    "short": "Liquidswap is a leading decentralized exchange on Aptos, providing high-efficiency trading and liquidity pools.",
+    "description": "Liquidswap is a premier automated market maker (AMM) and decentralized exchange natively built on the Aptos blockchain, designed to maximize capital efficiency and provide a professional trading experience. By utilizing the speed and scalability of the Move programming language, Liquidswap ensures that traders receive near-instant execution and minimal slippage across a wide variety of Aptos-based assets. The platform features an intuitive interface for swaps, liquidity provision, and yield farming, empowering users to maximize the productivity of their digital assets. Liquidswap focuses on security, performance, and community-driven growth, serving as a critical liquidity hub for the burgeoning decentralized finance ecosystem on the Aptos network.",
+    "meta": "Liquidswap is the leading DEX on Aptos, offering high-efficiency decentralized trading and optimized liquidity management for Web3 users.",
     "pageTitle": "Liquidswap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://liquidswap.com/",
-    "twitter": "https://twitter.com/PontemNetwork"
+    "github": "https://github.com/pontem-network",
+    "docs": "https://docs.liquidswap.com/",
+    "twitter": "https://twitter.com/PontemNetwork",
+    "telegram": "https://t.me/pontemnetworkchat"
   },
   "relations": {
     "alternatives": [
       "bancor",
-      "concordex"
+      "concordex",
+      "stonfi"
     ],
     "related": [
       "curve-finance",

@@ -1,7 +1,7 @@
 {
   "slug": "allora-network",
   "name": "Allora Network",
-  "logoUrl": "https://unavatar.io/twitter/AlloraNetwork",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339864/dapp-store-logos/allora-network.jpg",
   "category": "Blockchains",
   "subcategory": [
     "Layer 1 Blockchains (L1s)"
@@ -9,22 +9,26 @@
   "chains": [
     "Multichain"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Allora is a decentralized AI network on Cosmos that aggregates machine learning models for superior intelligence.",
-    "description": "Allora Network is a pioneering decentralized Layer 1 blockchain and AI network built using the Cosmos SDK, designed to provide high-performance intelligence for the decentralized web. The platform features a unique \"Inference Synthesis\" mechanism that coordinates multiple machine learning models to meta-reason about each other's predictions. By dynamically weighting these inputs based on real-time accuracy and market context, Allora achieves a \"collective intelligence\" that is significantly more precise and resilient than any single model could provide alone.\n\nUtilizing advanced zero-knowledge machine learning (zkML) technology, Allora ensures that AI outputs are verifiable and secure for use across various DeFi and gaming applications. The network is powered by the $ALLO token, which facilitates transaction fees, staking, and decentralized governance. Through its commitment to open-access AI and meritocratic rewards for \"Workers\" and \"Reputers,\" Allora is building the essential framework for a more intelligent and secure digital economy where compute power is a globally accessible and verifiable utility.",
-    "meta": "Allora Network provides a decentralized Layer 1 network for self-improving collective AI intelligence on Cosmos.",
+    "short": "Allora is a self-improving decentralized AI network that enables dApps to leverage collective intelligence.",
+    "description": "Allora Network is a decentralized AI protocol that utilizes collective intelligence to provide self-improving machine learning models for decentralized applications. Unlike traditional AI systems that rely on static data, Allora creates an incentive-driven environment where diverse AI models compete and collaborate to produce the most accurate predictions and insights. This 'intelligence-as-a-service' model allows developers to integrate sophisticated AI capabilities—such as yield optimization, risk assessment, and market forecasting—directly into their smart contracts. By decentralizing the production and evaluation of intelligence, Allora ensures that AI remains open, transparent, and continuously evolving alongside the global Web3 ecosystem.",
+    "meta": "Allora Network is a decentralized AI protocol providing self-improving machine learning models and intelligent data feeds for Web3 applications.",
     "pageTitle": "Allora Network - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://allora.network/",
-    "twitter": "https://x.com/AlloraNetwork"
+    "github": "https://github.com/allora-network",
+    "docs": "https://docs.allora.network/",
+    "twitter": "https://x.com/AlloraNetwork",
+    "telegram": "https://t.me/alloranetwork"
   },
   "relations": {
     "alternatives": [
       "rei-network",
-      "sahara-ai",
-      "spinor"
+      "spinor",
+      "canvas-connect"
     ],
     "related": [
       "gnosis-chain",

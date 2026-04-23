@@ -1,7 +1,7 @@
 {
   "slug": "huma-finance",
   "name": "Huma Finance",
-  "logoUrl": "https://logo.clearbit.com/huma.finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860299/dapp-store-logos/huma-finance.jpg",
   "category": "Real World Asset Dapps",
   "subcategory": [
     "Private Credit RWAs"
@@ -10,16 +10,19 @@
     "Polygon",
     "Celo"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Huma Finance is a PayFi protocol enabling undercollateralized lending by tokenizing real-world income and receivables.",
-    "description": "Huma Finance is a pioneering Payment Finance (PayFi) protocol that bridges decentralized finance with real-world credit. Recently securing $38 million in funding to expand its PayFi network, Huma enables undercollateralized lending by allowing businesses to borrow against future income streams and receivables. This approach tokenizes real-world receivables, providing instant liquidity to creditworthy borrowers without traditional 1:1 asset backing.\n\nThe protocol features a modular risk-assessment engine and offers both permissionless and institutional-grade lending environments. With its HUMA tokenomics designed for sustainable growth, Huma provides a transparent infrastructure for global payments. By focusing on real-world asset (RWA) utilization, it continues to scale as a critical bridge between legacy finance and the evolving blockchain ecosystem.",
-    "meta": "Huma Finance is a PayFi protocol on Solana and Polygon, enabling undercollateralized RWA lending backed by real-world income and receivables.",
+    "short": "Huma Finance is a leading decentralized credit protocol providing income-backed lending for global participants.",
+    "description": "Huma Finance is an innovative decentralized finance protocol that introduces income-backed lending to the Web3 landscape, allowing users to unlock significant capital efficiency without requiring crypto collateral. By utilizing advanced risk assessment models and verifying on-chain income streams, Huma enables participants to access credit based on their actual earning potential. The protocol features a modular toolkit that integrates seamlessly into existing dApps, providing essential infrastructure for the emerging credit economy. Huma focuses on transparency and security, ensuring that all financial operations are verifiable and non-custodial. As a key engine for DeFi innovation, Huma empowers users to achieve superior financial outcomes in the decentralized economy.",
+    "meta": "Huma Finance provides decentralized income-backed lending, offering capital-efficient and transparent credit markets for Web3 users worldwide.",
     "pageTitle": "Huma Finance - Real World Asset Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://huma.finance",
-    "twitter": "https://twitter.com/huma_finance"
+    "docs": "https://docs.huma.finance/",
+    "twitter": "https://x.com/humafinance",
+    "telegram": "https://t.me/humafinances"
   },
   "relations": {
     "alternatives": [

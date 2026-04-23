@@ -1,7 +1,7 @@
 {
   "slug": "suilend",
   "name": "Suilend",
-  "logoUrl": "https://logo.clearbit.com/suilend.fi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860446/dapp-store-logos/suilend.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -9,11 +9,12 @@
   "chains": [
     "Sui"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Suilend is the leading lending protocol on Sui, developed by the Solend team to optimize capital efficiency.",
-    "description": "Suilend is the definitive decentralized money market built natively on the Sui blockchain, designed to provide a professional-grade borrowing and lending experience. Developed by the expert team behind Solana's Solend (Save), the platform focuses on institutional-grade security and maximum capital efficiency. Users can supply various digital assets to earn interest or borrow against them with sub-second finality, leveraging the high throughput and safety of Sui's Move programming language.\n\nDeeply integrated with the Sui ecosystem, Suilend features innovative products like \"SpringSui,\" a liquid staking standard that allows users to earn staking rewards while maintaining collateral liquidity. The protocol is powered by the $SEND token and follows a community-first approach, serving as a central hub for liquidity management and asset discovery. Through its focus on professional-grade risk management and transparent on-chain execution, Suilend is empowering the next generation of DeFi participants to build and manage sophisticated decentralized portfolios within the Sui network.",
-    "meta": "Suilend offers decentralized lending and borrowing on Sui with professional-grade security and high capital efficiency.",
+    "short": "Suilend is the leading lending and borrowing protocol on Sui, providing secure and capital-efficient DeFi.",
+    "description": "Suilend is a premier automated money market and decentralized finance platform natively designed for the Sui blockchain. By utilizing a robust risk management framework and maintaining deep liquidity pools, Suilend enables users to participate in permissionless lending and borrowing markets with unparalleled capital efficiency. The platform features an intuitive interface and high-speed execution, allowing participants to unlock significant leverage across a wide variety of digital assets. Suilend focuses on transparency and community-driven growth, serving as a critical engine for liquidity and decentralized asset management within the rapidly expanding Sui landscape, ensuring that users can maximize their financial potential with confidence.",
+    "meta": "Suilend is the leading lending and borrowing protocol on Sui, offering high-efficiency DeFi solutions and optimized asset management for Web3 users.",
     "pageTitle": "Suilend - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -28,8 +29,8 @@
     ],
     "related": [
       "trebleswap",
-      "pac-finance",
-      "parrot-protocol"
+      "parrot-protocol",
+      "symbiotic"
     ]
   }
 }

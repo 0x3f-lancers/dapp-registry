@@ -1,7 +1,7 @@
 {
   "slug": "squid-router",
   "name": "Squid Router",
-  "logoUrl": "https://logo.clearbit.com/squidrouter.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860440/dapp-store-logos/squid-router.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -14,11 +14,12 @@
     "Avalanche",
     "Cosmos"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Squid is a cross-chain liquidity and messaging router that enables one-click swaps across multiple blockchains.",
-    "description": "Squid Router is a premier cross-chain swap and liquidity routing protocol built on the Axelar Network, designed to eliminate the friction of multi-chain asset management. The platform enables users to execute \"one-click\" swaps between any token on any supported network—such as swapping native ETH on Ethereum for native SOL on Solana—in a single transaction. By utilizing Axelar's General Message Passing (GMP), Squid can execute complex logic across different blockchain architectures while maintaining high throughput and security.\n\nThe platform features \"Squid Boost,\" a specialized protocol that completes cross-chain transactions in as little as 2 to 60 seconds, significantly faster than traditional bridges. Operating across over 40 blockchain networks, Squid acts as a vital infrastructure layer for the decentralized web, providing the liquidity needed for developers to build seamless multi-chain applications. Through its commitment to interoperability and user-centric design, Squid Router is building the essential framework for a more unified and accessible global digital economy.",
-    "meta": "Squid Router offers high-speed cross-chain liquidity routing and one-click token swaps across multiple blockchains.",
+    "short": "Squid is a leading cross-chain liquidity and swap protocol powered by Axelar for seamless asset transfers.",
+    "description": "Squid Router is a powerful omnichain infrastructure tool designed to simplify and optimize the process of moving assets across diverse blockchain networks. By utilizing Axelar's cross-chain communication protocol, Squid enables users to swap any token between any chain with near-instant finality and minimal slippage. The platform features an intuitive interface and advanced routing logic that accounts for gas costs and liquidity depth, ensuring that participants receive the best possible rates for their transactions. Squid focuses on providing a secure, permissionless, and highly scalable environment, serving as a critical discovery layer for liquidity and decentralized asset management in the fragmented multi-chain Web3 landscape.",
+    "meta": "Squid Router is a premier cross-chain liquidity and swap protocol, offering seamless asset transfers across dozens of blockchain networks via Axelar.",
     "pageTitle": "Squid Router - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

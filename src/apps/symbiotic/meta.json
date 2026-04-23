@@ -1,7 +1,7 @@
 {
   "slug": "symbiotic",
   "name": "Symbiotic",
-  "logoUrl": "https://logo.clearbit.com/symbiotic.fi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860451/dapp-store-logos/symbiotic.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -9,11 +9,12 @@
   "chains": [
     "Ethereum"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Symbiotic is a permissionless restaking protocol that enables decentralized networks to bootstrap security using any asset.",
-    "description": "Symbiotic is a pioneering decentralized restaking protocol designed to provide \"security-as-a-service\" for a wide range of blockchain networks and Actively Validated Services (AVS). Unlike previous models that were limited to specific assets, Symbiotic's modular architecture allows any ERC-20 token to be used as collateral to secure decentralized infrastructure. This enables projects to choose their own custom collateral assets, node operators, and slashing parameters, fostering a more inclusive and flexible security environment.\n\nOperating on the Ethereum network, the platform focuses on providing high-throughput and professional-grade security coordination without centralized intermediaries. Symbiotic serves as a foundational layer for the next generation of decentralized services, including oracles, bridges, and sidechains, by allowing them to leverage existing capital for robust protection. Through its commitment to transparency and permissionless innovation, Symbiotic is building the essential framework for a more resilient and Interconnected decentralized economy, where shared security is a globally accessible utility.",
-    "meta": "Symbiotic provides a modular restaking protocol for bootstrapping decentralized network security with any ERC-20 asset.",
+    "short": "Symbiotic is a permissionless and collateral-agnostic restaking protocol on Ethereum.",
+    "description": "Symbiotic is a foundational restaking infrastructure that enables decentralized networks to bootstrap their economic security in a modular and flexible manner. Unlike traditional restaking models, Symbiotic is collateral-agnostic, allowing any ERC-20 token to be used as a security asset. This coordination layer empowers protocols to customize their own staking rules, reward structures, and node operator selection, fostering a more diverse and resilient ecosystem for decentralized security. The protocol provides the essential building blocks for networks to achieve robust security without the constraints of specific asset requirements.",
+    "meta": "Symbiotic is a collateral-agnostic restaking protocol for permissionless economic security. Discover Symbiotic and other DeFi Dapps on Lancers Web3 Explorer.",
     "pageTitle": "Symbiotic - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

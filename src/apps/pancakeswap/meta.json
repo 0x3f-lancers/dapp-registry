@@ -1,36 +1,50 @@
 {
   "slug": "pancakeswap",
   "name": "PancakeSwap",
-  "logoUrl": "https://img.logo.dev/pancakeswap.finance?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1773815187/dapp-store-logos/pancakeswap.png",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Crypto Staking Companies"
+    "Decentralized Exchanges"
   ],
   "chains": [
-    "TON"
+    "Aptos",
+    "Arbitrum",
+    "BNB Chain",
+    "Base",
+    "Ethereum",
+    "Solana",
+    "ZKsync"
+  ],
+  "tags": [
+    "dex",
+    "swaps",
+    "liqudity"
   ],
   "pricing": "Free",
   "content": {
-    "short": "PancakeSwap is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "PancakeSwap is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, PancakeSwap focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "PancakeSwap provides high-quality DeFi Dapps services on TON. Discover PancakeSwap and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "PancakeSwap - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "PancakeSwap is a leading multi-chain DEX offering low-cost swaps, yield farming, and prediction markets.",
+    "description": "PancakeSwap is one of the world's most popular decentralized exchanges, initially built on the BNB Chain and since evolved into a massive multi-chain liquidity hub. The platform enables users to trade ecosystem tokens with low fees and high speed across various networks including Ethereum, Aptos, Arbitrum, Base, and Solana. Beyond its core AMM capabilities, PancakeSwap offers a comprehensive suite of DeFi services, including yield farming, syrup pools for staking, and a community-driven lottery system.\n\nPowered by the CAKE token, the protocol features a robust governance model and innovative products like decentralized prediction markets and an NFT marketplace. PancakeSwap is designed for mass adoption, providing a user-friendly and highly accessible interface for both retail and professional traders. Through its commitment to continuous innovation and cross-chain expansion, PancakeSwap remains a cornerstone of the decentralized economy, empowering participants to maximize their digital asset utility with unparalleled ease and security.",
+    "meta": "PancakeSwap provides low-cost decentralized trading, yield farming, and prediction markets across multiple blockchains.",
+    "pageTitle": "PancakeSwap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://pancakeswap.finance",
-    "twitter": "https://x.com/[pancakeswap](https://twitter.com/pancakeswap)"
+    "github": "https://github.com/pancakeswap/",
+    "docs": "http://docs.pancakeswap.finance",
+    "twitter": "https://x.com/pancakeswap",
+    "telegram": "https://t.me/pancakeswap",
+    "discord": "https://discord.com/invite/pancakeswap"
   },
   "relations": {
     "alternatives": [
-      "aqua-protocol",
-      "bemo",
-      "bemo-finance",
-      "bidask-finance",
-      "blum"
+      "uniswap",
+      "biswap",
+      "trader-joe"
     ],
     "related": [
-      "tonkeeper",
-      "ston-fi"
+      "aave",
+      "metamask",
+      "beefy-finance"
     ]
   }
 }

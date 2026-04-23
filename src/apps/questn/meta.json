@@ -1,35 +1,36 @@
 {
   "slug": "questn",
   "name": "QuestN",
-  "logoUrl": "https://x.com/QuestN_com/photo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860410/dapp-store-logos/questn.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Quest-to-Earn Tools"
   ],
   "chains": [
-    "Mantle"
+    "Ethereum"
   ],
-  "pricing": "free",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "QuestN is a Web3 quest and airdrop campaign platform that helps projects grow communities with AI-supported tasks.",
-    "description": "QuestN is a Web3 growth platform for quests, airdrops, and campaign automation. Projects can launch task-based campaigns, verify social and on-chain activity, segment users through eligibility rules, and distribute rewards to communities. The platform positions itself around AI-powered airdrop optimization and provides templates for social tasks, NFT-holder campaigns, testnet missions, and gaming or DeFi engagement. For Mantle teams, QuestN can be used to onboard users, run ecosystem campaigns, and measure participation across wallet and community actions.",
-    "meta": "QuestN helps Web3 projects run quests, airdrops, and growth campaigns. Discover QuestN on Lancers Web3 Explorer.",
+    "short": "QuestN is a leading decentralized marketing and growth platform connecting projects with Web3 users.",
+    "description": "QuestN is a revolutionary Web3 growth and marketing platform designed to help decentralized projects bootstrap their communities through engaging quests and reward-driven activities. By utilizing blockchain technology to verify user interactions and achievements, QuestN ensures that marketing efforts are transparent, accountable, and highly effective. Users can discover a diverse array of dApps, participate in social tasks, and earn valuable on-chain rewards for their contributions. The platform features an intuitive interface for both creators and participants, fostering a vibrant and interactive social ecosystem. QuestN is a leading force in the mass adoption of Web3, bridging the gap between innovative protocols and active global communities.",
+    "meta": "QuestN is a premier decentralized marketing and growth hub, offering reward-driven quests and community-building tools for Web3 projects.",
     "pageTitle": "QuestN - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://app.questn.com/",
-    "twitter": "https://x.com/QuestN_com"
+    "website": "https://questn.com/",
+    "twitter": "https://twitter.com/QuestN_com"
   },
   "relations": {
     "alternatives": [
-      "layer3",
-      "rabbithole",
-      "mantle-rewards-station"
+      "dmission",
+      "acqr",
+      "atok"
     ],
     "related": [
-      "galxe",
-      "taskon",
-      "charmverse"
+      "superbridge",
+      "exponential-defi",
+      "zealy"
     ]
   }
 }

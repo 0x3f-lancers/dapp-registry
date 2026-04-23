@@ -1,7 +1,7 @@
 {
   "slug": "sentient",
   "name": "Sentient",
-  "logoUrl": "https://sentient.xyz/favicon.ico",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340143/dapp-store-logos/sentient.png",
   "category": "Blockchains",
   "subcategory": [
     "Layer 1 Blockchains (L1s)"
@@ -9,16 +9,17 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Sentient is a decentralized AI platform developing open-source AGI models that are community-owned and monetizable.",
-    "description": "Sentient is a pioneering decentralized AI network and Layer 1 blockchain designed to democratize access to Artificial General Intelligence (AGI). Co-founded by industry leaders including Polygon's Sandeep Nailwal, the platform provides a secure and transparent framework for users to create, share, and monetize open-source AI models. Utilizing its proprietary \"OML\" (Open, Monetizable, Loyal) framework, Sentient ensures that contributors are fairly rewarded and that AI development remains open and inclusive.\n\nBy providing the essential infrastructure for verifiable and privacy-preserving AI, Sentient enables developers to build sophisticated decentralized intelligence without the need for centralized intermediaries. The network is powered by the $SENT token, which facilitates compute resource allocation, staking, and decentralized governance. Through its commitment to user sovereignty and technological innovation, Sentient is building the foundational layer for a more resilient and meritocratic digital future where AGI is treated as a globally accessible and community-governed utility.",
-    "meta": "Sentient provides a decentralized Layer 1 network for community-owned and monetizable open-source AGI models.",
+    "short": "Sentient is a decentralized platform for building and owning open-source AGI models.",
+    "description": "Sentient is an ambitious decentralized AI project dedicated to creating an open-source alternative to centralized Artificial General Intelligence (AGI). The platform provides a collaborative framework where developers, researchers, and data providers can contribute to the development of powerful AI models that are community-owned and transparent. Sentient aims to democratize access to advanced AI technology and ensure that the future of AGI is built on principles of openness, meritocracy, and shared ownership. By leveraging blockchain, Sentient ensures that AI development remains decentralized and incentive-aligned.",
+    "meta": "Sentient is a decentralized network for the collaborative development of open-source AGI. Discover Sentient and other Blockchains on Lancers Web3 Explorer.",
     "pageTitle": "Sentient - Blockchains - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://sentient.xyz/",
-    "twitter": "https://twitter.com/sentient_xyz"
+    "twitter": "https://x.com/SentientAGI"
   },
   "relations": {
     "alternatives": [
@@ -28,7 +29,7 @@
     ],
     "related": [
       "abstract-chain",
-      "keeta-network",
+      "spinor",
       "aioz-network"
     ]
   }

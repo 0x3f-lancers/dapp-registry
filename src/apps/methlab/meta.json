@@ -1,0 +1,37 @@
+{
+  "slug": "methlab",
+  "name": "MethLab",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860356/dapp-store-logos/methlab.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "MethLab is a liquidation-free lending protocol on Mantle focusing on fixed-rate and fixed-term borrowing against staked assets like mETH.",
+    "description": "MethLab is a specialized decentralized lending protocol built natively on the Mantle network, designed to provide users with a secure and predictable borrowing experience. The platform's standout feature is its liquidation-free and oracle-less architecture, which eliminates the risk of sudden asset forfeitures typically found in traditional DeFi lending. Users can enter into fixed-rate and fixed-term positions, allowing them to borrow against assets like mETH (Mantle Staked ETH) with total certainty over their costs. By leveraging the high performance and low fees of the Mantle blockchain, MethLab provides a professional-grade environment for debt management.",
+    "meta": "MethLab offers liquidation-free, fixed-rate lending and borrowing services on the Mantle network. Explore MethLab on the Lancers Web3 Explorer.",
+    "pageTitle": "MethLab - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://methlab.xyz/",
+    "docs": "https://docs.methlab.xyz",
+    "twitter": "https://twitter.com/MethLabXYZ"
+  },
+  "relations": {
+    "alternatives": [
+      "meso-finance",
+      "port-finance",
+      "nolus"
+    ],
+    "related": [
+      "swop",
+      "dzap",
+      "bored-candy-city"
+    ]
+  }
+}

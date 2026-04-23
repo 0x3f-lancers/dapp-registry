@@ -1,7 +1,7 @@
 {
   "slug": "camelot",
   "name": "Camelot",
-  "logoUrl": "https://unavatar.io/twitter/CamelotDEX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339937/dapp-store-logos/camelot.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,21 +9,25 @@
   "chains": [
     "Arbitrum"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Camelot is a native, ecosystem-centric DEX on Arbitrum featuring customizable liquidity and staked position NFTs.",
-    "description": "Camelot is the premier decentralized exchange and liquidity hub native to the Arbitrum network. It is designed as a highly flexible platform that supports both volatile and stable swap curves, allowing protocols to tailor their liquidity pools to specific needs. A unique feature of Camelot is its use of Staked Position NFTs (spNFTs), which wrap liquidity positions into composable assets that can be utilized across other DeFi protocols for enhanced yield.\n\nThe platform employs a dual-token system of GRAIL and xGRAIL, where the latter is an escrowed token that can be allocated to various plugins for dividends, yield boosts, or launchpad access. Through its Nitro Pools and permissionless incentive layers, Camelot acts as a launchpad and growth engine for new projects on Arbitrum, fostering a collaborative and sustainable DeFi environment.",
-    "meta": "Camelot is the leading liquidity hub on Arbitrum for custom DEX services. Explore Camelot and DeFi on Lancers Web3 Explorer.",
+    "short": "Camelot is an ecosystem-focused decentralized exchange and launchpad built on the Arbitrum network.",
+    "description": "Camelot is a highly customizable decentralized exchange and growth hub natively built on Arbitrum, designed to provide long-term sustainable liquidity for the ecosystem. It utilizes a sophisticated AMM model that allows for flexible incentive structures and concentrated liquidity, ensuring that projects can tailor their pools to their specific needs. Beyond trading, Camelot features an integrated launchpad that helps emerging protocols bootstrap liquidity and build community support from day one. By focusing on deep integration with the Arbitrum network and prioritizing community-driven governance, Camelot has established itself as a critical pillar of infrastructure for decentralized finance and project innovation within the Layer 2 landscape.",
+    "meta": "Camelot is the leading DEX and launchpad on Arbitrum, offering customizable liquidity solutions and a comprehensive growth hub for Web3 projects.",
     "pageTitle": "Camelot - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://camelot.exchange",
-    "twitter": "https://x.com/CamelotDEX"
+    "docs": "https://docs.camelot.exchange/",
+    "twitter": "https://x.com/CamelotDEX",
+    "telegram": "https://t.me/camelotdexann"
   },
   "relations": {
     "alternatives": [
-      "baseswap",
-      "dojoswap"
+      "sushi",
+      "hashstack",
+      "tokensfarm"
     ],
     "related": [
       "maple-finance",

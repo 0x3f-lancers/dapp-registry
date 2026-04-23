@@ -1,7 +1,7 @@
 {
   "slug": "nillion",
   "name": "Nillion",
-  "logoUrl": "https://logo.clearbit.com/nillion.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860375/dapp-store-logos/nillion.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Decentralized Computing Tools"
@@ -9,16 +9,20 @@
   "chains": [
     "Multichain"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Nillion is a decentralized network for blind computation and secure storage using privacy-enhancing technologies.",
-    "description": "Nillion is a revolutionary decentralized network designed for secure computation and storage, utilizing advanced Privacy-Enhancing Technologies (PETs) like Multi-Party Computation (MPC). Unlike traditional blockchains, Nillion focuses on \"Blind Computation,\" allowing the network to process encrypted data without ever decrypting it. This ensures that sensitive information remains completely private while still enabling complex processing and storage across a globally distributed network.\n\nDesigned for high-value data and privacy-centric applications, Nillion provides a foundational layer for decentralized identity, AI, and secure communication. The network is powered by the NIL token and operates independently of traditional blockchain consensus for its core processing, achieving unparalleled levels of data security and scalability. Through its commitment to decentralizing trust for high-value information, Nillion is empowering developers to build a more secure and private digital future where data ownership is a core utility.",
-    "meta": "Nillion provides a decentralized network for secure blind computation and privacy-preserving data storage.",
+    "short": "Nillion is a decentralized protocol for high-performance privacy-centric computation and data management.",
+    "description": "Nillion is a groundbreaking decentralized network designed to provide a highly secure and private environment for sensitive computation and data storage. By utilizing a novel mathematical primitive known as 'Nada,' Nillion enables developers to process and store data across a distributed network of nodes without requiring individual participants to ever see the raw information. This innovative approach to privacy-preserving computation unlocks new possibilities for secure identity management, confidential financial operations, and private AI training. Nillion focuses on providing a scalable and high-performance infrastructure that integrates seamlessly with existing Web3 ecosystems, creating a more robust and data-sovereign digital future for everyone.",
+    "meta": "Nillion is a premier decentralized protocol for private computation, offering a secure and scalable network for sensitive data management in Web3.",
     "pageTitle": "Nillion - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://nillion.com",
-    "twitter": "https://twitter.com/nillionnetwork"
+    "github": "https://github.com/NillionNetwork",
+    "docs": "https://docs.nillion.com/",
+    "twitter": "https://x.com/nillion",
+    "telegram": "https://t.me/nillionnetwork"
   },
   "relations": {
     "alternatives": [
@@ -28,7 +32,8 @@
     ],
     "related": [
       "sentio",
-      "noves"
+      "noves",
+      "xcall-service"
     ]
   }
 }

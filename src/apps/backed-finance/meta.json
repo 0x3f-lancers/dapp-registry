@@ -1,7 +1,7 @@
 {
   "slug": "backed-finance",
   "name": "Backed Finance",
-  "logoUrl": "https://unavatar.io/twitter/backedfi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339890/dapp-store-logos/backed-finance.jpg",
   "category": "Real World Asset Dapps",
   "subcategory": [
     "Tokenized equities RWAs"
@@ -11,19 +11,23 @@
     "Solana",
     "Base"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Backed Finance tokenizes real-world assets like stocks and ETFs, bringing traditional finance to the blockchain.",
-    "description": "Backed Finance is a Real World Asset (RWA) tokenization platform that issues \"bTokens\"—ERC-20 tokens representing ownership of traditional financial assets. These assets include popular stocks like Tesla and Google, as well as exchange-traded funds (ETFs) and U.S. Treasury bonds. For every token minted, Backed purchases the underlying asset on a 1-to-1 basis and holds it with a regulated custodian, ensuring each token is fully collateralized by the actual financial instrument.\n\nBy bringing these assets on-chain, Backed Finance allows crypto users to gain exposure to traditional markets and utilize tokenized equities as collateral in DeFi protocols. This bridge between traditional and decentralized finance enhances capital efficiency and provides a broader range of investment options for blockchain participants. Backed is committed to providing a secure and transparent infrastructure for the growing RWA sector in the Web3 ecosystem.",
-    "meta": "Backed Finance tokenizes real-world assets like stocks and ETFs for use in DeFi. Discover Backed and more on Lancers Web3 Explorer.",
+    "short": "Backed Finance bridges the gap between traditional finance and DeFi through regulated tokenized real-world assets.",
+    "description": "Backed Finance is a regulated Swiss platform that specializes in the tokenization of real-world assets (RWAs), such as stocks, ETFs, and corporate bonds. By issuing fully collateralized and transparent 'bTokens' on the blockchain, Backed enables users to gain 24/7 access to traditional financial instruments within a decentralized environment. Each token is backed 1:1 by the underlying asset held in custody by regulated institutions, ensuring full legal compliance and security. The protocol allows DeFi applications to integrate stable, yield-bearing assets from the traditional economy, fostering a more resilient and diversified digital asset ecosystem that connects global capital markets with the innovations of Web3.",
+    "meta": "Backed Finance provides regulated tokenized real-world assets, enabling the seamless integration of traditional financial instruments into the DeFi ecosystem.",
     "pageTitle": "Backed Finance - Real World Asset Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://backed.fi",
+    "github": "https://github.com/backed-fi",
+    "docs": "https://docs.backed.fi/",
     "twitter": "https://x.com/backedfi"
   },
   "relations": {
     "alternatives": [
+      "aria",
       "fabrica",
       "securitize"
     ],

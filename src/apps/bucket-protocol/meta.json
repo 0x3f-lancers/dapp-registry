@@ -1,7 +1,7 @@
 {
   "slug": "bucket-protocol",
   "name": "Bucket Protocol",
-  "logoUrl": "https://unavatar.io/twitter/bucket_protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339933/dapp-store-logos/bucket-protocol.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized CDPs"
@@ -9,16 +9,19 @@
   "chains": [
     "Sui"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Bucket Protocol is a decentralized CDP platform on Sui for minting the $BUCK stablecoin with high capital efficiency.",
-    "description": "Bucket Protocol is a Collateralized Debt Position (CDP) protocol built on the Sui network, designed to enhance capital efficiency through its USD-pegged stablecoin, $BUCK. Users can mint $BUCK by depositing various assets as collateral, including SUI, BTC, ETH, and liquid staking tokens. The protocol stands out by offering fixed interest rates and a minimum collateralization ratio as low as 110%, allowing users to maximize their borrowing power while maintaining predictable costs.\n\nThe ecosystem includes the Bucket Tank, a stability pool where depositors earn liquidated collateral as rewards, and a Peg Stability Module for 1:1 swaps with other stablecoins. By providing a robust lending infrastructure, Bucket Protocol serves as a foundational layer for DeFi on Sui, enabling users to leverage their assets without selling them.",
-    "meta": "Bucket Protocol enables capital-efficient stablecoin lending on Sui. Explore Bucket and more DeFi Dapps on Lancers Web3 Explorer.",
+    "short": "Bucket Protocol is a collateralized debt position protocol on Sui offering stablecoin borrowing and yield.",
+    "description": "Bucket Protocol is a cornerstone DeFi protocol on the Sui blockchain, enabling users to borrow BUCK, a highly stable and decentralized stablecoin, against various collateral types. By utilizing a collateralized debt position (CDP) model, Bucket provides participants with instant liquidity while allowing them to maintain exposure to their underlying assets. The protocol features innovative mechanisms such as a stability pool and flash loans to ensure the robust peg and liquidation efficiency of the BUCK token. Built for high capital efficiency and security, Bucket Protocol empowers Sui users to unlock the value of their holdings and participate in advanced yield-generating strategies across the burgeoning Move-based ecosystem.",
+    "meta": "Bucket Protocol is the leading CDP protocol on Sui, providing secure stablecoin borrowing and capital-efficient liquidity solutions.",
     "pageTitle": "Bucket Protocol - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://bucketprotocol.io",
-    "twitter": "https://x.com/bucket_protocol"
+    "docs": "https://docs.bucketprotocol.io/",
+    "twitter": "https://x.com/bucket_protocol",
+    "telegram": "https://t.me/bucketprotocol"
   },
   "relations": {
     "alternatives": [
@@ -28,7 +31,7 @@
     ],
     "related": [
       "earn-network",
-      "baseswap",
+      "swop",
       "hyperliquid"
     ]
   }

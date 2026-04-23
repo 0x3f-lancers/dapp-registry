@@ -1,7 +1,7 @@
 {
   "slug": "neynar",
   "name": "Neynar",
-  "logoUrl": "https://logo.clearbit.com/neynar.com",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860373/dapp-store-logos/neynar.jpg",
   "category": "Web3 Developer Tools",
   "subcategory": [
     "Web3 SDKs"
@@ -10,19 +10,24 @@
     "Ethereum",
     "Base"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Neynar is the primary infrastructure provider and owner of the Farcaster protocol, powering its social ecosystem.",
-    "description": "Neynar is the definitive infrastructure and API provider for Farcaster, the leading decentralized social network. Following its acquisition of the protocol in 2026, Neynar serves as the primary maintainer of Farcaster's core clients, indexing services, and the Clanker ecosystem. The platform provides developers with robust SDKs and high-performance tools needed to build, scale, and manage social applications within a transparent and permissionless framework.\n\nBy simplifying the complexities of on-chain social data, Neynar empowers builders to focus on user experience while maintaining the core benefits of decentralized identity and content ownership. The protocol supports a vibrant ecosystem of frames, casts, and interactive social apps across the Ethereum and Base networks. Through its commitment to developer accessibility and ecosystem growth, Neynar has become the foundational layer for the next generation of social media, where users have true control over their digital interactions.",
-    "meta": "Neynar provides essential infrastructure, APIs, and protocol maintenance for the Farcaster decentralized social network.",
+    "short": "Neynar is a leading developer platform providing robust APIs and infrastructure for the Farcaster ecosystem.",
+    "description": "Neynar is a revolutionary developer-centric platform designed to simplify and accelerate the creation of decentralized social applications within the Farcaster ecosystem. By providing a comprehensive suite of high-performance APIs and managed infrastructure, Neynar enables developers to interact with social graphs, manage user identities, and integrate on-chain data with unparalleled ease. The platform features professional-grade documentation and robust security standards, ensuring that building on Farcaster is accessible and reliable for teams of all sizes. Neynar focuses on fostering a vibrant and innovative social landscape, serving as a critical discovery layer for the next generation of decentralized social media and community-driven applications.",
+    "meta": "Neynar provides premier developer APIs and infrastructure for Farcaster, empowering teams to build and scale decentralized social applications.",
     "pageTitle": "Neynar - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://neynar.com",
-    "twitter": "https://twitter.com/neynar"
+    "github": "https://github.com/neynarxyz",
+    "docs": "https://docs.neynar.com/",
+    "twitter": "https://x.com/neynarxyz",
+    "telegram": "https://t.me/neynarxyz"
   },
   "relations": {
     "alternatives": [
+      "rubic",
       "particle-network",
       "portals-fi"
     ],

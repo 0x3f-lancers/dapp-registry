@@ -1,35 +1,29 @@
 {
   "slug": "dolomite",
   "name": "Dolomite",
-  "logoUrl": "https://x.com/dolomite_io/photo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339971/dapp-store-logos/dolomite.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Decentralized Lending Dapps"
   ],
   "chains": [
-    "Mantle"
+    "Arbitrum",
+    "Polygon zkEVM"
   ],
-  "pricing": "free",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Dolomite is a next-gen money market and DEX on Mantle enabling borrowing, lending, trading, and leveraged yield farming from a single collateral pool.",
-    "description": "Dolomite is an innovative DeFi protocol on Mantle that combines a money market with a DEX to create a unified platform for advanced yield strategies, allowing users to lend assets, borrow against collateral, trade tokens, and farm with leverage  all using the same deposited collateral. This capital-efficient architecture eliminates the need to move funds between protocols and maximizes the utility of every deposited dollar. Dolomite supports both blue-chip and long-tail DeFi assets on Mantle.",
-    "meta": "Dolomite is a next-gen money market and DEX for borrowing, lending, and leveraged farming on Mantle. Discover Dolomite on Lancers Web3 Explorer.",
-    "pageTitle": "Dolomite - Lancers Web3 Explorer"
+    "short": "Margin trading and liquidity hub on Arbitrum.",
+    "description": "Dolomite is a DeFi Dapps project focused on decentralized lending dapps supporting Arbitrum, Polygon zkEVM.",
+    "meta": "Dolomite is a DeFi Dapps on Arbitrum. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "Dolomite - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://dolomite.io/",
-    "twitter": "https://x.com/dolomite_io"
+    "website": "https://dolomite.io",
+    "twitter": "https://x.com/Dolomite_io"
   },
   "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
+    "alternatives": [],
+    "related": []
   }
 }
