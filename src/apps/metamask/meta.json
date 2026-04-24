@@ -1,35 +1,38 @@
 {
-  "slug": "metamask",
-  "name": "MetaMask",
-  "logoUrl": "https://x.com/metamask/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "MetaMask is the world's most popular self-custodial crypto wallet and Web3 gateway used by 30M+ people, fully compatible with Mantle Network.",
-    "description": "MetaMask is the leading self-custodial Ethereum-compatible wallet, used by over 30 million people worldwide across its browser extension and mobile app. As the de facto standard for Web3 wallets, MetaMask provides users with a secure key vault, connection management for dApps, token management, and token swaps powered by the MetaMask Aggregator. Mantle Network is fully compatible with MetaMask  users simply add Mantle as a custom network to access the full Mantle DeFi ecosystem seamlessly.",
-    "meta": "MetaMask is the world's most popular self-custodial wallet with full Mantle Network compatibility. Discover MetaMask on Lancers Web3 Explorer.",
-    "pageTitle": "MetaMask - Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://metamask.io/",
-    "twitter": "https://x.com/metamask"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "metamask",
+    "name":  "MetaMask",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748349/web3-explorer/dapp-logos/metamask.png",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Polygon",
+                   "OP Mainnet",
+                   "Arbitrum",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "MetaMask is a popular EVM-compatible crypto wallet.",
+                    "description":  "Established in 2016, MetaMask ranks among the most popular multi-chain Ethereum software wallets. It enables users to buy and send ERC-20 tokens and to store NFTs, while offering strong cross-device support on both desktop and mobile. The wallet connects to a broad ecosystem of decentralized applications and protocols, facilitating seamless interaction with a diverse set of services across the networks it supports.",
+                    "meta":  "MetaMask is a popular EVM-compatible crypto wallet. Discover MetaMask and other Web3 Wallets on Lancers Web3 Explorer.",
+                    "pageTitle":  "MetaMask - Web3 Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://metamask.io/",
+                  "twitter":  "https://x.com/MetaMask"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "wombat",
+                                           "unstoppable-wallet"
+                                       ],
+                      "related":  [
+                                      "openfort",
+                                      "locksmith-wallet",
+                                      "cregis"
+                                  ]
+                  }
 }

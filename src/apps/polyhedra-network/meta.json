@@ -1,35 +1,46 @@
 {
-  "slug": "polyhedra-network",
-  "name": "Polyhedra Network",
-  "logoUrl": "https://x.com/PolyhedraZK/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Polyhedra Network provides ZK-powered trustless cross-chain bridging using zero-knowledge proofs to mathematically verify cross-chain messages.",
-    "description": "Polyhedra Network (zkBridge) is building the most secure cross-chain interoperability layer using zero-knowledge proof technology to enable trustless verification of one blockchain's state on another without relying on external validators. ZK proofs mathematically guarantee the validity of cross-chain messages, eliminating the trust assumptions inherent in traditional bridge validator sets. Available on Mantle, Polyhedra offers the highest-security cross-chain transfer option for users who prioritize cryptographic guarantees.",
-    "meta": "Polyhedra Network provides ZK-powered trustless cross-chain bridging for maximum security on Mantle. Discover Polyhedra on Lancers Web3 Explorer.",
-    "pageTitle": "Polyhedra Network - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://zkbridge.com/",
-    "twitter": "https://x.com/PolyhedraZK"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "cobo-argus",
-      "etherspot"
-    ]
-  }
+    "slug":  "polyhedra-network",
+    "name":  "Polyhedra Network",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749253/web3-explorer/dapp-logos/polyhedra-network.png",
+    "category":  "Zero Knowledge Tools",
+    "subcategory":  [
+                        "ZK Proving Systems",
+                        "ZK Proof Generation Tools"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "Bitcoin",
+                   "BNB Chain",
+                   "Celo",
+                   "Ethereum",
+                   "Fantom",
+                   "Polygon",
+                   "Polkadot",
+                   "Polygon zkEVM",
+                   "Sui",
+                   "Mantle"
+               ],
+    "pricing":  "Paid",
+    "content":  {
+                    "short":  "Cross-chain zkBridge solutions for layer-1 and layer-2 via zero-knowledge proofs for secure, trustless state transitions.",
+                    "description":  "Polyhedra Network, launched in 2023, delivers cross-chain solutions for both layer-1 and layer-2 ecosystems using zkBridge. This approach relies on zero-knowledge proofs to verify state transitions securely without external assumptions, reducing on-chain verification costs. The system supports more than 20 networks, including BNB Chain, Ethereum, and Arbitrum. Access is available at zkbridge.com or via an oracle integration in compatible cross-chain ecosystems.",
+                    "meta":  "Polyhedra Network offers cross-chain zkBridge for L1 and L2 via ZK proofs. Discover Polyhedra Network and other Zero Knowledge Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Polyhedra Network - Zero Knowledge Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://polyhedra.network/",
+                  "twitter":  "https://x.com/polyhedrazk"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "hyper-oracle",
+                                           "reclaim-protocol"
+                                       ],
+                      "related":  [
+                                      "arkworks-marlin",
+                                      "ingonmaya"
+                                  ]
+                  }
 }

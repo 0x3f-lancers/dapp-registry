@@ -1,35 +1,35 @@
 {
-  "slug": "cobo-argus",
-  "name": "Cobo Argus",
-  "logoUrl": "https://x.com/cobo_global/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Cobo Argus is an institutional on-chain asset management solution with role-based access controls and DeFi investment strategy automation on Mantle.",
-    "description": "Cobo Argus is an institutional-grade on-chain asset management platform by Cobo, a leading crypto custody provider, enabling organizations to manage DeFi investments with enterprise-level security through role-based access controls, transaction whitelisting, and multi-signature governance. Teams can safely execute DeFi strategies on Mantle while maintaining strict security policies and comprehensive audit trails. Cobo Argus bridges institutional treasury management with DeFi yield opportunities.",
-    "meta": "Cobo Argus provides institutional-grade on-chain asset management with access controls on Mantle. Discover Cobo Argus on Lancers Web3 Explorer.",
-    "pageTitle": "Cobo Argus - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.cobo.com/products/argus",
-    "twitter": "https://x.com/cobo_global"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "etherspot",
-      "hyperlane"
-    ]
-  }
+    "slug":  "cobo-argus",
+    "name":  "Cobo Argus",
+    "logoUrl":  "https://x.com/cobo_global/photo",
+    "category":  "Web3 Wallet Tools",
+    "subcategory":  [
+                        "Custody Solutions"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Cobo Argus is an institutional on-chain asset management solution with role-based access controls and DeFi investment strategy automation on Mantle.",
+                    "description":  "Cobo Argus is an institutional-grade on-chain asset management platform by Cobo, a leading crypto custody provider, enabling organizations to manage DeFi investments with enterprise-level security through role-based access controls, transaction whitelisting, and multi-signature governance. Teams can safely execute DeFi strategies on Mantle while maintaining strict security policies and comprehensive audit trails. Cobo Argus bridges institutional treasury management with DeFi yield opportunities.",
+                    "meta":  "Cobo Argus provides institutional-grade on-chain asset management with access controls on Mantle. Discover Cobo Argus on Lancers Web3 Explorer.",
+                    "pageTitle":  "Cobo Argus - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.cobo.com/products/argus",
+                  "twitter":  "https://x.com/cobo_global"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "atlas",
+                                           "axelar",
+                                           "blockchair"
+                                       ],
+                      "related":  [
+                                      "chasm-network",
+                                      "etherspot",
+                                      "hyperlane"
+                                  ]
+                  }
 }

@@ -1,32 +1,46 @@
 {
   "slug": "certik",
-  "name": "CertiK",
-  "logoUrl": "https://img.logo.dev/certik.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "name": "Certik",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745616/web3-explorer/dapp-logos/certik.jpg",
   "category": "Web3 Security Tools",
   "subcategory": [
     "Blockchain Auditing Companies"
   ],
   "chains": [
-    "TON"
+    "Ethereum",
+    "BNB Chain",
+    "Polygon",
+    "Avalanche",
+    "Arbitrum",
+    "Fantom",
+    "Polkadot",
+    "Solana",
+    "OP Mainnet",
+    "Tron",
+    "Cosmos",
+    "Harmony",
+    "Cronos"
   ],
-  "pricing": "Free",
+  "pricing": "Paid",
   "content": {
-    "short": "CertiK is a global leader in blockchain security, providing comprehensive smart contract audits for TON projects.",
-    "description": "CertiK is a pioneer in blockchain security, utilizing best-in-class AI technology and formal verification to protect and monitor the Web3 world. For the TON ecosystem, CertiK provides rigorous smart contract audits, penetration testing, and 24/7 security monitoring through its Skynet platform. By identifying vulnerabilities and ensuring code integrity, CertiK helps TON projects build trust with their communities and secure their protocols against potential exploits, contributing to the overall stability and safety of the network.",
-    "meta": "Secure your TON project with CertiK, the leader in blockchain audits. Explore security tools on Lancers Web3 Explorer.",
-    "pageTitle": "CertiK - Web3 Security Tools - Lancers Web3 Explorer"
+    "short": "Certik is a blockchain security technology company at the forefront of research and development.",
+    "description": "Certik is a blockchain security technology company driving research and development in the field. It advances security by applying formal verification to smart contracts and blockchains, ensuring correctness and reducing risk. The company also employs artificial intelligence to continuously monitor and defend blockchain protocols and their contracts from potential threats. Founded in 2018 by professors from Yale University and Columbia University, Certik aims to strengthen trust and safety across the Web3 ecosystem.",
+    "meta": "Certik is a blockchain security technology company at the forefront of research and development. Discover Certik and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Certik - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.certik.com/",
-    "twitter": "https://twitter.com/CertiK"
+    "twitter": "https://x.com/CertiK"
   },
   "relations": {
     "alternatives": [
-      "null-return",
-      "anchain-ai"
+      "peckshield",
+      "oak",
+      "hashex"
     ],
     "related": [
-      "tonkeeper"
+      "webacy",
+      "certora"
     ]
   }
 }

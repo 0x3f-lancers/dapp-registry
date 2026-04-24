@@ -1,35 +1,35 @@
 {
-  "slug": "safe",
-  "name": "Safe",
-  "logoUrl": "https://x.com/safelabs_/photo",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Safe is the leading smart contract wallet platform enabling secure multi-signature treasury and asset management for DAOs and teams on Mantle.",
-    "description": "Safe (formerly Gnosis Safe) is the most trusted smart contract wallet platform in Web3, securing billions in assets for DAOs, protocols, and institutional teams with its multi-signature architecture requiring multiple approvals before any transaction executes. Originally launched in 2018, Safe has become the de facto standard for protocol treasury management and team asset custody. Safe is officially supported on Mantle Network and is widely used by Mantle ecosystem projects for secure fund management.",
-    "meta": "Safe is the leading multi-signature smart contract wallet for secure treasury management on Mantle. Discover Safe on Lancers Web3 Explorer.",
-    "pageTitle": "Safe - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://safe.global/",
-    "twitter": "https://x.com/safelabs_"
-  },
-  "relations": {
-    "alternatives": [
-      "ankr",
-      "biconomy",
-      "birdeye-data-services"
-    ],
-    "related": [
-      "din-infura",
-      "flipside",
-      "hive-intelligence"
-    ]
-  }
+    "slug":  "safe",
+    "name":  "Safe",
+    "logoUrl":  "https://x.com/safelabs_/photo",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Safe is the leading smart contract wallet platform enabling secure multi-signature treasury and asset management for DAOs and teams on Mantle.",
+                    "description":  "Safe (formerly Gnosis Safe) is the most trusted smart contract wallet platform in Web3, securing billions in assets for DAOs, protocols, and institutional teams with its multi-signature architecture requiring multiple approvals before any transaction executes. Originally launched in 2018, Safe has become the de facto standard for protocol treasury management and team asset custody. Safe is officially supported on Mantle Network and is widely used by Mantle ecosystem projects for secure fund management.",
+                    "meta":  "Safe is the leading multi-signature smart contract wallet for secure treasury management on Mantle. Discover Safe on Lancers Web3 Explorer.",
+                    "pageTitle":  "Safe - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://safe.global/",
+                  "twitter":  "https://x.com/safelabs_"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "ankr",
+                                           "biconomy",
+                                           "birdeye-data-services"
+                                       ],
+                      "related":  [
+                                      "din-infura",
+                                      "flipside",
+                                      "hive-intelligence"
+                                  ]
+                  }
 }

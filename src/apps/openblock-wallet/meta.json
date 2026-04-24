@@ -1,35 +1,35 @@
 {
-  "slug": "openblock-wallet",
-  "name": "OpenBlock Wallet",
-  "logoUrl": "https://x.com/OpenBlockWallet/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "OpenBlock Wallet is a multi-chain Web3 wallet offering DeFi portfolio management, token swaps, and blockchain interactions on Mantle.",
-    "description": "OpenBlock Wallet is a multi-chain decentralized wallet designed to provide users with a comprehensive and user-friendly interface for managing their Web3 assets. The wallet supports Mantle and multiple other EVM-compatible blockchains, offering features including token management, in-app swaps, transaction history, and DeFi portfolio tracking. OpenBlock focuses on accessibility and ease of use, targeting users who are new to DeFi while providing the depth required by experienced crypto participants.",
-    "meta": "OpenBlock Wallet is a multi-chain Web3 wallet with DeFi tools and portfolio management on Mantle. Discover OpenBlock on Lancers Web3 Explorer.",
-    "pageTitle": "OpenBlock Wallet - Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://openblock.com/",
-    "twitter": "https://x.com/OpenBlockWallet"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "openblock-wallet",
+    "name":  "OpenBlock Wallet",
+    "logoUrl":  "https://x.com/OpenBlockWallet/photo",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "OpenBlock Wallet is a multi-chain Web3 wallet offering DeFi portfolio management, token swaps, and blockchain interactions on Mantle.",
+                    "description":  "OpenBlock Wallet is a multi-chain decentralized wallet designed to provide users with a comprehensive and user-friendly interface for managing their Web3 assets. The wallet supports Mantle and multiple other EVM-compatible blockchains, offering features including token management, in-app swaps, transaction history, and DeFi portfolio tracking. OpenBlock focuses on accessibility and ease of use, targeting users who are new to DeFi while providing the depth required by experienced crypto participants.",
+                    "meta":  "OpenBlock Wallet is a multi-chain Web3 wallet with DeFi tools and portfolio management on Mantle. Discover OpenBlock on Lancers Web3 Explorer.",
+                    "pageTitle":  "OpenBlock Wallet - Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://openblock.com/",
+                  "twitter":  "https://x.com/OpenBlockWallet"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "0x",
+                                           "1delta",
+                                           "agni"
+                                       ],
+                      "related":  [
+                                      "algebra-protocol",
+                                      "archly-v2",
+                                      "banxa"
+                                  ]
+                  }
 }

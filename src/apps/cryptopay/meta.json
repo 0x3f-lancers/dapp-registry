@@ -1,29 +1,30 @@
 {
   "slug": "cryptopay",
-  "name": "Cryptopay",
-  "logoUrl": "https://img.logo.dev/cryptopay.me?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "name": "CryptoPay",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746040/web3-explorer/dapp-logos/cryptopay.png",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Web3 Payment Tools"
   ],
   "chains": [
-    "TON"
+    "Bitcoin",
+    "Solana",
+    "Tron"
   ],
-  "pricing": "Free",
+  "pricing": "Freemium",
   "content": {
-    "short": "Cryptopay is a veteran digital asset gateway offering TON wallets, prepaid cards, and merchant services.",
-    "description": "Cryptopay is a long-standing and trusted cryptocurrency service provider, operating since 2013. It offers a comprehensive suite of tools for both individuals and businesses to interact with digital assets like Toncoin (TON). Its services include a secure multi-currency wallet, prepaid crypto cards that allow for easy spending in the real world, and a powerful payment gateway for merchants to accept crypto payments. Cryptopay focuses on providing a bridge between the crypto economy and traditional financial systems, making digital assets more accessible for everyday use.",
-    "meta": "Spend and accept TON with Cryptopay. Veteran crypto wallet and payment gateway on Lancers Web3 Explorer.",
-    "pageTitle": "Cryptopay - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "CryptoPay is a Web3 wallet tool that enables crypto payments from supported networks and offers built-in WooCommerce support plus API integrations.",
+    "description": "CryptoPay is a Web3 wallet tool that enables you to receive crypto payments across multiple networks, including Bitcoin, Solana, Tron, Ethereum and other EVM-compatible chains such as Polygon, Avalanche and BNB Chain, along with the tokens issued on those networks. It offers built-in WooCommerce support and can be integrated with additional plugins through its API, making it easy to expand checkout functionality on your site.",
+    "meta": "CryptoPay enables crypto payments from networks like Bitcoin, Solana, Tron, EVM-based chains. Discover CryptoPay and other Web3 apps on Lancers Web3 Explorer.",
+    "pageTitle": "CryptoPay - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://cryptopay.me/en/",
-    "twitter": "https://twitter.com/cryptopay"
+    "website": "https://beycanpress.com/cryptopay/",
+    "twitter": "https://x.com/cryptopaywp"
   },
   "relations": {
     "alternatives": [
-      "blockpit",
-      "holyheld"
+      "airswift"
     ],
     "related": [
       "gas-station-network",

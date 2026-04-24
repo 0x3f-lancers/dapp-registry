@@ -1,33 +1,34 @@
 {
   "slug": "chainalysis",
   "name": "Chainalysis",
-  "logoUrl": "https://img.logo.dev/chainalysis.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745626/web3-explorer/dapp-logos/chainalysis.webp",
   "category": "Web3 Security Tools",
   "subcategory": [
     "Blockchain Security Tools"
   ],
   "chains": [
-    "TON"
+    "Ethereum"
   ],
-  "pricing": "Free",
+  "pricing": "Paid",
   "content": {
-    "short": "Chainalysis is a leading blockchain data platform providing investigation and compliance software globally.",
-    "description": "Chainalysis is the leading provider of blockchain data and investigation tools, used by government agencies, exchanges, and financial institutions worldwide. Its platform offers comprehensive mapping of the TON blockchain and dozens of others, providing the insights needed to track illicit funds, perform due diligence, and ensure regulatory compliance. Chainalysis's mission is to build trust in blockchains by providing actionable data that helps organizations understand on-chain activity and protect the integrity of the global digital economy.",
-    "meta": "Trust your blockchain data with Chainalysis. Investigation and compliance software featured on Lancers Web3 Explorer.",
+    "short": "Chainalysis provides intelligence and risk management tools to position users for long-term utility.",
+    "description": "Since its founding in 2014, Chainalysis develops software and provides actionable intelligence to help traditional institutions embrace decentralized technology. The company works to foster trust between partners while implementing robust, low risk compliance standards. Through its work with investigators and regulators, Chainalysis has supported some of the blockchain industry's most high-profile prosecutions, underscoring its role in advancing secure, compliant crypto activity.",
+    "meta": "Chainalysis offers software and information to help institutions integrate decentralized tech. Discover Chainalysis and other Web3 apps on Lancers Web3 Explorer.",
     "pageTitle": "Chainalysis - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.chainalysis.com/",
-    "twitter": "https://twitter.com/chainalysis"
+    "twitter": "https://x.com/chainalysis"
   },
   "relations": {
     "alternatives": [
-      "hakflow",
-      "defimoon",
-      "red-team"
+      "evmole",
+      "scamsniffer",
+      "securedapp"
     ],
     "related": [
-      "tonkeeper"
+      "coinsdo",
+      "apeworx-evmtrace"
     ]
   }
 }

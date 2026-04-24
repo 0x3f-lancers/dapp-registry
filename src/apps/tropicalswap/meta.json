@@ -1,35 +1,35 @@
 {
-  "slug": "tropicalswap",
-  "name": "TropicalSwap",
-  "logoUrl": "https://x.com/tropical_swap/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "TropicalSwap is a community-driven DEX on Mantle Network offering token trading, staking, and yield farming powered by the native $PAPPLE token.",
-    "description": "TropicalSwap is a decentralized exchange built on Mantle Network that combines standard AMM trading with a community-focused tokenomics model centered around its native $PAPPLE token. Users can swap tokens with low fees, provide liquidity to earn trading fee revenue, and stake $PAPPLE for additional yield rewards. TropicalSwap has cultivated a playful, community-first brand within the Mantle ecosystem and regularly runs campaigns and incentive programs to reward active community members.",
-    "meta": "TropicalSwap is a community DEX on Mantle for trading, staking, and farming powered by $PAPPLE. Discover TropicalSwap on Lancers Web3 Explorer.",
-    "pageTitle": "TropicalSwap - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://tropicalswap.exchange/",
-    "twitter": "https://x.com/tropical_swap"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "tropicalswap",
+    "name":  "TropicalSwap",
+    "logoUrl":  "https://x.com/tropical_swap/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "TropicalSwap is a community-driven DEX on Mantle Network offering token trading, staking, and yield farming powered by the native $PAPPLE token.",
+                    "description":  "TropicalSwap is a decentralized exchange built on Mantle Network that combines standard AMM trading with a community-focused tokenomics model centered around its native $PAPPLE token. Users can swap tokens with low fees, provide liquidity to earn trading fee revenue, and stake $PAPPLE for additional yield rewards. TropicalSwap has cultivated a playful, community-first brand within the Mantle ecosystem and regularly runs campaigns and incentive programs to reward active community members.",
+                    "meta":  "TropicalSwap is a community DEX on Mantle for trading, staking, and farming powered by $PAPPLE. Discover TropicalSwap on Lancers Web3 Explorer.",
+                    "pageTitle":  "TropicalSwap - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://tropicalswap.exchange/",
+                  "twitter":  "https://x.com/tropical_swap"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "0x",
+                                           "1delta",
+                                           "agni"
+                                       ],
+                      "related":  [
+                                      "algebra-protocol",
+                                      "archly-v2",
+                                      "banxa"
+                                  ]
+                  }
 }

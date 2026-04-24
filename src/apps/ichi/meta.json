@@ -1,35 +1,35 @@
 {
-  "slug": "ichi",
-  "name": "ICHI",
-  "logoUrl": "https://x.com/ichifoundation/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "DeFi Yield Aggregators"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "ICHI is a non-custodial liquidity management protocol for single-token concentrated liquidity vaults.",
-    "description": "ICHI is a DeFi protocol that automates liquidity management for token projects, DAOs, asset managers, and blockchain ecosystems. Its vaults let users deposit a single token while the protocol deploys capital into concentrated liquidity strategies across supported AMMs. This removes the need for users to manually set ranges, rebalance positions, or pair assets before providing liquidity. ICHI's strategy design focuses on improving liquidity depth, activating idle treasury assets, and reducing impermanent loss exposure. On Mantle, ICHI supports smarter capital deployment for projects and liquidity providers.",
-    "meta": "ICHI automates single-token concentrated liquidity vaults and liquidity management strategies on Mantle.",
-    "pageTitle": "ICHI - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.ichi.org/",
-    "twitter": "https://x.com/ichifoundation"
-  },
-  "relations": {
-    "alternatives": [
-      "abacus",
-      "cian-yield-layer",
-      "eigenlayer"
-    ],
-    "related": [
-      "equilibria",
-      "infinit",
-      "zircuit"
-    ]
-  }
+    "slug":  "ichi",
+    "name":  "ICHI",
+    "logoUrl":  "https://x.com/ichifoundation/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "DeFi Yield Aggregators"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "ICHI is a non-custodial liquidity management protocol for single-token concentrated liquidity vaults.",
+                    "description":  "ICHI is a DeFi protocol that automates liquidity management for token projects, DAOs, asset managers, and blockchain ecosystems. Its vaults let users deposit a single token while the protocol deploys capital into concentrated liquidity strategies across supported AMMs. This removes the need for users to manually set ranges, rebalance positions, or pair assets before providing liquidity. ICHI\u0027s strategy design focuses on improving liquidity depth, activating idle treasury assets, and reducing impermanent loss exposure. On Mantle, ICHI supports smarter capital deployment for projects and liquidity providers.",
+                    "meta":  "ICHI automates single-token concentrated liquidity vaults and liquidity management strategies on Mantle.",
+                    "pageTitle":  "ICHI - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.ichi.org/",
+                  "twitter":  "https://x.com/ichifoundation"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "abacus",
+                                           "cian-yield-layer",
+                                           "eigenlayer"
+                                       ],
+                      "related":  [
+                                      "equilibria",
+                                      "infinit",
+                                      "zircuit"
+                                  ]
+                  }
 }

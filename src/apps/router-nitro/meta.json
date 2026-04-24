@@ -1,35 +1,49 @@
 {
-  "slug": "router-nitro",
-  "name": "Router Nitro",
-  "logoUrl": "https://x.com/routerprotocol/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Router Nitro is an intent-based cross-chain bridge offering sub-15-second transfers at 50%+ lower gas costs than traditional bridges.",
-    "description": "Router Nitro by Router Protocol is an intent-based bridging solution that leverages a network of solver market makers to fulfill cross-chain transfer requests with exceptional speed and cost efficiency  settling in under 15 seconds with gas costs up to 50% lower than traditional bridge architectures. By using an intent model instead of lock-and-mint, Nitro avoids the latency and fees of standard bridge mechanisms. The protocol is deployed on Mantle and supports a wide range of token and chain combinations.",
-    "meta": "Router Nitro is a fast, gas-optimized intent-based bridge for cross-chain transfers to and from Mantle. Discover Router Nitro on Lancers Web3 Explorer.",
-    "pageTitle": "Router Nitro - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://nitro.routerprotocol.com/",
-    "twitter": "https://x.com/routerprotocol"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "cobo-argus",
-      "etherspot"
-    ]
-  }
+    "slug":  "router-nitro",
+    "name":  "Router Nitro",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749654/web3-explorer/dapp-logos/router-nitro.png",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Web3 Bridges"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "Bitcoin",
+                   "BNB Chain",
+                   "Ethereum",
+                   "Linea",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Polygon zkEVM",
+                   "Solana",
+                   "Sui",
+                   "Tron",
+                   "ZKsync",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Router Nitro provides fast, cost-efficient cross-chain transfers across 35+ networks.",
+                    "description":  "Router Nitro is a cross-chain bridge that enables fast, efficient, and cost-effective asset transfers across 35+ blockchain networks, including Solana, Sui, Bitcoin, Tron, Ethereum, Arbitrum, Base, and more. It supports both EVM and non-EVM ecosystems and offers a sleek, intuitive user experience that reduces fragmentation and delivers true chain abstraction, empowering users to move assets smoothly between diverse networks. The design prioritizes fast finality, low fees, and reliable interoperability across ecosystems, making cross-chain activity simpler and more predictable.",
+                    "meta":  "Router Nitro is a crosschain bridge for fast, cost-efficient transfers across 35+ networks. Discover Router Nitro and other DeFi Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Router Nitro - DeFi Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://app.routernitro.com/swap",
+                  "twitter":  "https://x.com/NitroByRouter"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "chainspot",
+                                           "synapse",
+                                           "crosscurve"
+                                       ],
+                      "related":  [
+                                      "decimal",
+                                      "near",
+                                      "alephium"
+                                  ]
+                  }
 }

@@ -1,33 +1,36 @@
 {
   "slug": "kucoin",
   "name": "KuCoin",
-  "logoUrl": "https://img.logo.dev/kucoin.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747928/web3-explorer/dapp-logos/kucoin.png",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Exchanges"
   ],
   "chains": [
-    "TON"
+    "Bitcoin",
+    "Ethereum"
   ],
   "pricing": "Free",
   "content": {
-    "short": "KuCoin is a global centralized exchange providing high liquidity and a wide range of trading pairs for TON.",
-    "description": "KuCoin is one of the world's leading centralized cryptocurrency exchanges, known for its extensive range of listed assets and high trading volume. It provides a robust platform for trading Toncoin (TON) and various other tokens within the TON ecosystem against major pairings like USDT and BTC. With its user-friendly interface, advanced trading features, and strong security measures, KuCoin serves as a primary gateway for millions of users to buy, sell, and manage their TON holdings with ease and confidence.",
-    "meta": "Trade TON on KuCoin, the world's leading crypto exchange. High liquidity and secure trading on Lancers Web3 Explorer.",
+    "short": "KuCoin provides a centralized cryptocurrency exchange serving international markets.",
+    "description": "KuCoin is a major cryptocurrency exchange that enables users to buy, sell, and trade digital assets. It provides core trading options, as well as margin and futures trading, along with peer-to-peer (P2P) trading and a variety of other products and tools. For developers, the platform offers an API to retrieve data endpoints for their applications and access to the sandbox, supporting integration with dapps and testing in a contained environment.",
+    "meta": "KuCoin is a cryptocurrency exchange offering buying, selling, and trading cryptocurrencies. Discover KuCoin and other Web3 apps on Lancers Web3 Explorer.",
     "pageTitle": "KuCoin - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.kucoin.com",
+    "website": "https://www.kucoin.com/",
     "twitter": "https://x.com/kucoincom"
   },
   "relations": {
     "alternatives": [
-      "bithumb",
-      "defi-saver",
-      "bosstrack"
+      "fcondex",
+      "bybarter",
+      "swissborg"
     ],
     "related": [
-      "tonkeeper"
+      "swoop-exchange",
+      "shade-protocol",
+      "increment-finance"
     ]
   }
 }

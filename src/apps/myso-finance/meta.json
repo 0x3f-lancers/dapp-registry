@@ -1,35 +1,35 @@
 {
-  "slug": "myso-finance",
-  "name": "MYSO Finance",
-  "logoUrl": "https://x.com/enzymefinance/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Lending Dapps"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "MYSO Finance offers zero-liquidation DeFi lending where borrowers take fixed-term loans without risk of being liquidated due to price volatility.",
-    "description": "MYSO Finance introduces a zero-liquidation lending model where borrowers take fixed-term loans against their collateral with no risk of forced liquidation during the loan period due to price drops. Instead of liquidations, MYSO uses a put option structure where collateral may transfer to the lender at maturity only if the loan is not repaid. This design provides completely predictable borrowing costs and eliminates the most feared risk in DeFi borrowing, deployed on Mantle.",
-    "meta": "MYSO Finance offers liquidation-free fixed-term lending on Mantle for predictable borrowing costs. Discover MYSO Finance on Lancers Web3 Explorer.",
-    "pageTitle": "MYSO Finance - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.myso.finance/",
-    "twitter": "https://x.com/enzymefinance"
-  },
-  "relations": {
-    "alternatives": [
-      "clearpool",
-      "compound-finance",
-      "gravita-protocol"
-    ],
-    "related": [
-      "impermax-v2",
-      "kinza-finance",
-      "lendle"
-    ]
-  }
+    "slug":  "myso-finance",
+    "name":  "MYSO Finance",
+    "logoUrl":  "https://x.com/enzymefinance/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Lending Dapps"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "MYSO Finance offers zero-liquidation DeFi lending where borrowers take fixed-term loans without risk of being liquidated due to price volatility.",
+                    "description":  "MYSO Finance introduces a zero-liquidation lending model where borrowers take fixed-term loans against their collateral with no risk of forced liquidation during the loan period due to price drops. Instead of liquidations, MYSO uses a put option structure where collateral may transfer to the lender at maturity only if the loan is not repaid. This design provides completely predictable borrowing costs and eliminates the most feared risk in DeFi borrowing, deployed on Mantle.",
+                    "meta":  "MYSO Finance offers liquidation-free fixed-term lending on Mantle for predictable borrowing costs. Discover MYSO Finance on Lancers Web3 Explorer.",
+                    "pageTitle":  "MYSO Finance - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.myso.finance/",
+                  "twitter":  "https://x.com/enzymefinance"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "clearpool",
+                                           "compound-finance",
+                                           "gravita-protocol"
+                                       ],
+                      "related":  [
+                                      "impermax-v2",
+                                      "kinza-finance",
+                                      "lendle"
+                                  ]
+                  }
 }

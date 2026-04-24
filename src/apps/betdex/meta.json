@@ -3,12 +3,8 @@
   "name": "BetDEX Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745219/web3-explorer/dapp-logos/betdex.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Solana"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Solana"],
   "pricing": "",
   "content": {
     "short": "BetDEX Exchange is a Web3 sports betting exchange.",
@@ -21,13 +17,7 @@
     "twitter": "https://x.com/BetDEXLabs"
   },
   "relations": {
-    "alternatives": [
-      "evo-exchange",
-      "cowswap"
-    ],
-    "related": [
-      "jasper-vault",
-      "stealthex"
-    ]
+    "alternatives": ["evo-exchange", "cowswap", "uniswap"],
+    "related": ["jasper-vault", "stealthex"]
   }
 }

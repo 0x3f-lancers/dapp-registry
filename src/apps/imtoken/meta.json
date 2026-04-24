@@ -1,35 +1,34 @@
 {
-  "slug": "imtoken",
-  "name": "imToken",
-  "logoUrl": "https://x.com/imTokenOfficial/photo",
-  "category": "NFT Dapps",
-  "subcategory": [
-    "NFT Marketplaces"
-  ],
-  "pricing": "free",
-  "chains": [
-    "Mantle"
-  ],
-  "content": {
-    "short": "imToken is one of Asia's most trusted self-custodial crypto wallets, supporting Mantle and 20+ blockchains with built-in DeFi and NFT tools.",
-    "description": "imToken is a leading self-custodial cryptocurrency wallet that has been trusted by over 14 million users in more than 200 countries since 2016. The wallet supports Mantle Network and over 20 other blockchains, providing a comprehensive mobile-first experience for managing crypto assets, interacting with DeFi protocols, and collecting NFTs. imToken also offers an integrated hardware wallet (imKey) for institutional-grade security. Its strong reputation in Asia makes it a key wallet for Mantle's growing user base in that region.",
-    "meta": "imToken is a trusted self-custodial mobile wallet supporting Mantle and 20+ blockchains with DeFi tools. Discover imToken on Lancers Web3 Explorer.",
-    "pageTitle": "imToken - Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://token.im/",
-    "twitter": "https://x.com/imTokenOfficial"
-  },
-  "relations": {
-    "alternatives": [
-      "alchemy",
-      "chaingpt",
-      "charged-particles"
-    ],
-    "related": [
-      "cryptodo",
-      "element",
-      "galxe"
-    ]
-  }
+    "slug":  "imtoken",
+    "name":  "imToken",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747697/web3-explorer/dapp-logos/imtoken.jpg",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "imToken is a multi-chain Web3 wallet for DeFi and NFTs.",
+                    "description":  "Since 2016, imToken has been regarded as one of the safest crypto and bitcoin wallets. It lets you securely manage thousands of tokens, monitor DeFi balances, flip NFTs, and earn through Ethereum-based games. You can participate in Layer 2 scaling and Eth2 staking. Developers can connect dApps to the imToken API, enabling wallet access directly from their apps. The wallet also includes a DEX and a DApp browser in a single, convenient interface.",
+                    "meta":  "imToken is a multi-chain Web3 wallet for DeFi and NFTs. Discover imToken and other Web3 Wallets on Lancers Web3 Explorer.",
+                    "pageTitle":  "imToken - Web3 Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://token.im/",
+                  "twitter":  "https://x.com/imTokenOfficial"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "degen-wallet",
+                                           "wombat",
+                                           "stackup"
+                                       ],
+                      "related":  [
+                                      "arculus"
+                                  ]
+                  }
 }

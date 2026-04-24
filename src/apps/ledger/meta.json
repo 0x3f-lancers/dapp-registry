@@ -1,33 +1,41 @@
 {
   "slug": "ledger",
   "name": "Ledger",
-  "logoUrl": "https://img.logo.dev/ledger.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748027/web3-explorer/dapp-logos/ledger.svg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Hardware Wallets"
   ],
   "chains": [
-    "TON"
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "OP Mainnet",
+    "Arbitrum",
+    "Solana"
   ],
-  "pricing": "Free",
+  "pricing": "Paid",
   "content": {
-    "short": "Ledger is a global leader in hardware wallets, providing cold storage security for Toncoin through specialized integrations.",
-    "description": "Ledger is the industry standard for hardware wallet security, offering cold storage solutions that protect private keys in a secure element. Through integrations with wallets like MyTonWallet and OpenMask, Ledger provides robust security for Toncoin and other TON-based assets. By keeping private keys offline, Ledger ensures that users' funds remain safe from online threats, making it an essential tool for long-term investors and security-conscious participants in the TON ecosystem.",
-    "meta": "Secure your Toncoin with Ledger hardware wallets. The ultimate cold storage solution, featured on Lancers Web3 Explorer.",
+    "short": "Ledger is a hardware wallet for digital assets and web3.",
+    "description": "Founded in 2014, Ledger is the global platform for digital assets and web3. Over 20% of the world’s crypto assets are secured through Ledger Nanos. Ledger is headquartered in Paris and Vierzon, with offices in London, New York, Singapore and Portland, and a team of more than 700 professionals developing products and services to securely buy, store, swap and manage crypto assets, including the Ledger hardware wallets line with more than 5 million units sold in more than 180 countries. Ledger combines a hardware wallet (Nano S Plus or Nano X) and the Ledger Live app to offer consumers the easiest way to start their crypto journey while maintaining full control over their digital assets. Ledger Enterprise provides a digital asset custody and security solution for institutional investors and financial players.",
+    "meta": "Ledger is a hardware wallet for digital assets and web3. Discover Ledger and other Web3 Wallets on Lancers Web3 Explorer.",
     "pageTitle": "Ledger - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.ledger.com/coin/wallet/the-open-network",
-    "twitter": "https://twitter.com/Ledger"
+    "website": "https://www.ledger.com/",
+    "twitter": "https://x.com/Ledger"
   },
   "relations": {
     "alternatives": [
-      "alfa1",
-      "trust-wallet",
-      "rainbow-wallet"
+      "degen-wallet",
+      "ellipal",
+      "dcent"
     ],
     "related": [
-      "tonkeeper"
+      "ownbit",
+      "pier-wallet",
+      "dapp-pocket"
     ]
   }
 }

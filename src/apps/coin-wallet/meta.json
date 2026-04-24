@@ -1,29 +1,37 @@
 {
   "slug": "coin-wallet",
   "name": "Coin Wallet",
-  "logoUrl": "https://img.logo.dev/coin.space?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745760/web3-explorer/dapp-logos/coin-wallet.png",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
   ],
   "chains": [
-    "TON"
+    "Bitcoin",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "Fantom",
+    "Polygon",
+    "Tron",
+    "Arbitrum",
+    "OP Mainnet"
   ],
-  "pricing": "Free",
+  "pricing": "",
   "content": {
-    "short": "Coin Wallet is a non-custodial, multi-currency wallet providing a simple interface for TON and other crypto.",
-    "description": "Coin Wallet is a long-standing non-custodial, multi-currency wallet that provides users with complete control over their private keys. It offers a simple and secure interface for sending, receiving, and exchanging a wide range of cryptocurrencies, including Toncoin (TON). Coin Wallet focuses on accessibility and user sovereignty, making it an excellent choice for both beginners and experienced users who want a reliable and straightforward way to manage their digital assets across different blockchain networks in a single, secure application.",
-    "meta": "Control your crypto with Coin Wallet. Simple and secure multi-currency wallet on Lancers Web3 Explorer.",
+    "short": "Coin Wallet is a self-custodial, open-source crypto wallet for secure storage, sending, receiving, and buying crypto.",
+    "description": "Coin Wallet runs on all major platforms, including Web, which is uncommon for self-custodial wallets. It provides full anonymity, strong security, and Tor network support for private transactions. Users can buy, sell, exchange, receive, and send crypto. The design favors decentralization with no central authority, and it relies on robust encryption to deliver a high level of security for assets and transaction data. It is designed to protect user assets and privacy.",
+    "meta": "Coin Wallet is a self-custodial, open-source crypto wallet for secure storage and transfers. Discover Coin Wallet and other Web3 apps on Lancers Web3 Explorer.",
     "pageTitle": "Coin Wallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://coin.space/"
+    "website": "https://coin.space/",
+    "twitter": "https://x.com/CoinAppWallet"
   },
   "relations": {
     "alternatives": [
-      "sequence-wallet",
-      "mytonwallet",
-      "dapp-pocket"
+      "frontier-wallet",
+      "pocketpay-finance"
     ],
     "related": [
       "fluvi-wallet"

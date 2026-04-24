@@ -1,35 +1,35 @@
 {
-  "slug": "swaap-maker-v2",
-  "name": "Swaap Maker V2",
-  "logoUrl": "https://x.com/swaapfinance/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Swaap Maker V2 is non-custodial RFQ market-making infrastructure with defensive liquidity safeguards.",
-    "description": "Swaap Maker V2 is non-custodial market-making infrastructure for DeFi liquidity providers. The protocol combines on-chain vaults, off-chain quotation logic, and settlement safeguards such as circuit breakers, last look, and max drawdown controls. Its liquidity pools automatically compound fees and are represented as ERC-20 tokens for easier composability and auditing. Swaap's strategies are based on quantitative market-making models designed to optimize LP returns against holding assets. On Mantle, Swaap Maker V2 gives users and protocols access to more controlled, professional-style liquidity provisioning.",
-    "meta": "Swaap Maker V2 provides RFQ market-making infrastructure and safeguarded liquidity pools on Mantle.",
-    "pageTitle": "Swaap Maker V2 - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.swaap.finance/",
-    "twitter": "https://x.com/swaapfinance"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "swaap-maker-v2",
+    "name":  "Swaap Maker V2",
+    "logoUrl":  "https://x.com/swaapfinance/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Swaap Maker V2 is non-custodial RFQ market-making infrastructure with defensive liquidity safeguards.",
+                    "description":  "Swaap Maker V2 is non-custodial market-making infrastructure for DeFi liquidity providers. The protocol combines on-chain vaults, off-chain quotation logic, and settlement safeguards such as circuit breakers, last look, and max drawdown controls. Its liquidity pools automatically compound fees and are represented as ERC-20 tokens for easier composability and auditing. Swaap\u0027s strategies are based on quantitative market-making models designed to optimize LP returns against holding assets. On Mantle, Swaap Maker V2 gives users and protocols access to more controlled, professional-style liquidity provisioning.",
+                    "meta":  "Swaap Maker V2 provides RFQ market-making infrastructure and safeguarded liquidity pools on Mantle.",
+                    "pageTitle":  "Swaap Maker V2 - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.swaap.finance/",
+                  "twitter":  "https://x.com/swaapfinance"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "0x",
+                                           "1delta",
+                                           "agni"
+                                       ],
+                      "related":  [
+                                      "algebra-protocol",
+                                      "archly-v2",
+                                      "banxa"
+                                  ]
+                  }
 }

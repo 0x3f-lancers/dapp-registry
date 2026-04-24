@@ -1,35 +1,38 @@
 {
-  "slug": "api3",
-  "name": "Api3",
-  "logoUrl": "https://x.com/api3dao/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Decentralized Oracles"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Api3 delivers first-party oracle feeds directly from API providers and captures Oracle Extractable Value (OEV) for dApps on Mantle.",
-    "description": "Api3 is a decentralized oracle solution that sources data directly from API providers  eliminating intermediaries in the oracle stack  with dAPIs (decentralized APIs) operated by the original data sources themselves for maximum data integrity. A unique feature is Api3's OEV Network, which captures oracle extractable value from on-chain liquidations and returns it to the dApps generating the activity rather than MEV searchers. Api3 is deployed on Mantle, providing first-party data quality with revenue recapture.",
-    "meta": "Api3 provides first-party oracle feeds and OEV recapture for DeFi protocols on Mantle. Discover Api3 on Lancers Web3 Explorer.",
-    "pageTitle": "Api3 - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://api3.org/",
-    "twitter": "https://x.com/api3dao"
-  },
-  "relations": {
-    "alternatives": [
-      "chainlink",
-      "chronicle-protocol",
-      "ora"
-    ],
-    "related": [
-      "tellor",
-      "atlas",
-      "axelar"
-    ]
-  }
+    "slug":  "api3",
+    "name":  "API3",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744921/web3-explorer/dapp-logos/api3.jpg",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Decentralized Oracles"
+                    ],
+    "chains":  [
+                   "Polygon",
+                   "BNB Chain",
+                   "Avalanche",
+                   "Mantle"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "API3 enables developers to build trustless applications that connect to real-world data via APIs using Airnode.",
+                    "description":  "API3 is a first-party oracle solution launched in December 2020, designed to give developers a direct path from real-world data to their dApps through APIs. By connecting dApps to real-world data streams via APIs, API3 enables on-chain access to external information. API owners can also participate through API3, broadening the pool of data sources available for Web3 projects. Central to the platform is Airnode technology, which can turn regular APIs into data sources that are easily integrated into Web3.",
+                    "meta":  "API3 is a first-party oracle solution that connects dApps to real-world data via APIs. Discover API3 and other DeFi Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "API3 - DeFi Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://api3.org",
+                  "twitter":  "https://x.com/API3DAO"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "flare-network",
+                                           "uma",
+                                           "switchboard"
+                                       ],
+                      "related":  [
+                                      "avnu",
+                                      "concordex",
+                                      "wombat-exchange"
+                                  ]
+                  }
 }

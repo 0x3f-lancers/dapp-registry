@@ -1,35 +1,49 @@
 {
-  "slug": "gem-wallet",
-  "name": "Gem Wallet",
-  "logoUrl": "https://x.com/gemwallet/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Gem Wallet is a community-owned, privacy-respecting open-source mobile crypto wallet for iOS and Android supporting Mantle Network.",
-    "description": "Gem Wallet is an open-source, non-custodial cryptocurrency wallet built for iOS and Android that prioritizes user privacy and community governance above all else. The wallet collects zero user data, requires no account creation, and its full codebase is publicly auditable on GitHub. Gem supports Mantle Network alongside dozens of other blockchains, providing a clean and intuitive mobile interface for managing assets, sending transactions, and swapping tokens. Its community-owned model ensures the wallet's development is driven by user needs rather than commercial interests.",
-    "meta": "Gem Wallet is a privacy-first open-source mobile wallet for iOS and Android supporting Mantle Network. Discover Gem Wallet on Lancers Web3 Explorer.",
-    "pageTitle": "Gem Wallet - Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://gemwallet.com/",
-    "twitter": "https://x.com/gemwallet"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "gem-wallet",
+    "name":  "Gem Wallet",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747203/web3-explorer/dapp-logos/gem-wallet.png",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets",
+                        "Smart Contract Wallets"
+                    ],
+    "chains":  [
+                   "Aptos",
+                   "Bitcoin",
+                   "Ethereum",
+                   "BNB Chain",
+                   "Avalanche",
+                   "Cosmos",
+                   "Fantom",
+                   "Polygon",
+                   "Tron",
+                   "Sui",
+                   "Solana",
+                   "Multichain",
+                   "Arbitrum",
+                   "OP Mainnet",
+                   "ZKsync",
+                   "Base",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Gem Wallet is an open-source crypto wallet with a DeFi focus.",
+                    "description":  "Gem Wallet is an open-source wallet focused on DeFi. You retain full ownership, and the app does not access your data or funds. It prioritizes privacy by avoiding collection of personal information, wallet addresses, or asset balances. The project is entirely community-driven and has no investors, reinforcing transparency and user stewardship. By design, it protects crypto assets and private keys with industry-leading security measures, while remaining open-source and user-controlled.",
+                    "meta":  "Gem Wallet is an open-source wallet with a core focus on DeFi. Discover Gem Wallet and other Web3 Wallets on Lancers Web3 Explorer.",
+                    "pageTitle":  "Gem Wallet - Web3 Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://gemwallet.com/",
+                  "twitter":  "https://x.com/GemWalletApp"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "minipay",
+                                           "pillar"
+                                       ],
+                      "related":  [
+                                      "cregis"
+                                  ]
+                  }
 }

@@ -1,36 +1,39 @@
 {
   "slug": "trail-of-bits",
   "name": "Trail of Bits",
-  "logoUrl": "https://img.logo.dev/trailofbits.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750790/web3-explorer/dapp-logos/trail-of-bits.png",
   "category": "Web3 Security Tools",
   "subcategory": [
+    "Blockchain Auditing Companies",
     "Blockchain Security Tools"
   ],
   "chains": [
-    "TON"
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Multichain"
   ],
-  "pricing": "Free",
+  "pricing": "Paid",
   "content": {
-    "short": "Trail of Bits is a leading Web3 Security Tools on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Trail of Bits is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the Web3 Security Tools sector, Trail of Bits focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Trail of Bits provides high-quality Web3 Security Tools services on TON. Discover Trail of Bits and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Trail of Bits - Web3 Security Tools on TON - Lancers Web3 Explorer"
+    "short": "Trail of Bits focuses on securing the world's most targeted web3 organizations and products.",
+    "description": "Trail of Bits is a blockchain auditing company and an open source Web3 security tool developer offering a broad range of services and products. The firm helps blockchain companies harden smart contracts, gain a clearer understanding of contract storage, and identify a wide range of potential vulnerabilities. It also develops tools for Web3 developers, including a suite of open source security tools such as Slither, Manticore, and Echidna. Through its combination of auditing expertise and security tooling, Trail of Bits supports the secure development of Web3 applications.",
+    "meta": "Trail of Bits offers blockchain auditing and open source web3 security tools. Discover Trail of Bits and other Web3 Security Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Trail of Bits - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.trailofbits.com/",
-    "twitter": "https://x.com/[trailofbits](https://twitter.com/trailofbits)"
+    "twitter": "https://x.com/trailofbits"
   },
   "relations": {
     "alternatives": [
-      "bitok",
-      "certik",
-      "chainalysis",
-      "chainawareai",
-      "elliptic"
+      "coinspect",
+      "red-team",
+      "composable-security"
     ],
     "related": [
-      "tonkeeper",
-      "ston-fi"
+      "openzeppelin-defender",
+      "foundry-anvil"
     ]
   }
 }

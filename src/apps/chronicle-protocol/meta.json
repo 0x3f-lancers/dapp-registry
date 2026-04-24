@@ -1,35 +1,40 @@
 {
-  "slug": "chronicle-protocol",
-  "name": "Chronicle Protocol",
-  "logoUrl": "https://x.com/chroniclelabs/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Decentralized Oracles"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Chronicle Protocol offers scalable, cryptographically verifiable oracle solutions for DeFi, originally developed to power MakerDAO and Spark.",
-    "description": "Chronicle Protocol is a next-generation oracle network providing cryptographically verifiable price feeds where each price update is signed by a network of validators, enabling on-chain verification of data integrity. Originally developed for MakerDAO  one of DeFi's oldest protocols  Chronicle uses an architecture that is significantly more gas-efficient than traditional oracle designs. Deployed on Mantle, Chronicle provides verifiable, cost-efficient oracle data to the network's DeFi ecosystem.",
-    "meta": "Chronicle Protocol provides verifiable, cost-efficient oracle data feeds for DeFi on Mantle. Discover Chronicle on Lancers Web3 Explorer.",
-    "pageTitle": "Chronicle Protocol - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://chroniclelabs.org/",
-    "twitter": "https://x.com/chroniclelabs"
-  },
-  "relations": {
-    "alternatives": [
-      "api3",
-      "chainlink",
-      "ora"
-    ],
-    "related": [
-      "tellor",
-      "atlas",
-      "axelar"
-    ]
-  }
+    "slug":  "chronicle-protocol",
+    "name":  "Chronicle Protocol",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745708/web3-explorer/dapp-logos/chronicle-protocol.png",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Decentralized Oracles"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "OP Mainnet",
+                   "Arbitrum",
+                   "Polygon zkEVM",
+                   "ZKsync",
+                   "Base",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Chronicle Protocol provides scalable, cost-efficient, decentralized oracles to overcome on-chain data limitations.",
+                    "description":  "Chronicle Protocol is a blockchain-agnostic data oracle focused on delivering scalable, secure, and resilient information feeds across diverse networks. At its core sits Scribe, an Oracle architecture developed by Chronicle Labs, engineered around five pillars: scalability, transparency, accessibility, resilience, and security. The project emerged in 2023 as a spin-out from the MakerDAO Oracle Core Unit, underscoring a commitment to open, interoperable data that can support decentralized finance and other on-chain applications without relying on a single chain or provider.",
+                    "meta":  "Chronicle Protocol provides scalable, cost-efficient, decentralized oracles to overcome on-chain data limitations. Discover Chronicle Protocol and other DeFi Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Chronicle Protocol - DeFi Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://chroniclelabs.org/",
+                  "twitter":  "https://x.com/ChronicleLabs"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "chainlink",
+                                           "band-protocol",
+                                           "acurast"
+                                       ],
+                      "related":  [
+                                      "betarpc",
+                                      "o7node"
+                                  ]
+                  }
 }

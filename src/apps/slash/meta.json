@@ -1,35 +1,35 @@
 {
-  "slug": "slash",
-  "name": "Slash",
-  "logoUrl": "https://x.com/SlashWeb3/photo",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "RPC Node Providers"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Slash is a Web3 crypto payment gateway on Mantle enabling merchants and users to pay and accept 100+ cryptocurrencies for real-world goods.",
-    "description": "Slash is a decentralized crypto payment infrastructure protocol that enables merchants, e-commerce stores, and service providers to accept over 100 different cryptocurrencies as payment for real-world goods and services. The protocol handles automatic currency conversion and settlement, allowing businesses to receive payments in their preferred token regardless of what the customer pays with. Slash is deployed on Mantle, enabling Mantle ecosystem users and businesses to participate in a growing crypto-native commerce network.",
-    "meta": "Slash is a Web3 crypto payment gateway on Mantle enabling merchants to accept 100+ cryptocurrencies. Discover Slash on Lancers Web3 Explorer.",
-    "pageTitle": "Slash - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://slash.vision/",
-    "twitter": "https://x.com/SlashWeb3"
-  },
-  "relations": {
-    "alternatives": [
-      "agentlayer",
-      "automata",
-      "boomfi"
-    ],
-    "related": [
-      "drpc",
-      "omnia-protocol",
-      "phalcon"
-    ]
-  }
+    "slug":  "slash",
+    "name":  "Slash",
+    "logoUrl":  "https://x.com/SlashWeb3/photo",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "RPC Node Providers"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Slash is a Web3 crypto payment gateway on Mantle enabling merchants and users to pay and accept 100+ cryptocurrencies for real-world goods.",
+                    "description":  "Slash is a decentralized crypto payment infrastructure protocol that enables merchants, e-commerce stores, and service providers to accept over 100 different cryptocurrencies as payment for real-world goods and services. The protocol handles automatic currency conversion and settlement, allowing businesses to receive payments in their preferred token regardless of what the customer pays with. Slash is deployed on Mantle, enabling Mantle ecosystem users and businesses to participate in a growing crypto-native commerce network.",
+                    "meta":  "Slash is a Web3 crypto payment gateway on Mantle enabling merchants to accept 100+ cryptocurrencies. Discover Slash on Lancers Web3 Explorer.",
+                    "pageTitle":  "Slash - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://slash.vision/",
+                  "twitter":  "https://x.com/SlashWeb3"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "agentlayer",
+                                           "automata",
+                                           "boomfi"
+                                       ],
+                      "related":  [
+                                      "drpc",
+                                      "omnia-protocol",
+                                      "phalcon"
+                                  ]
+                  }
 }

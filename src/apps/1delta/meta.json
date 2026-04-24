@@ -1,35 +1,39 @@
 {
-  "slug": "1delta",
-  "name": "1delta",
-  "logoUrl": "https://x.com/1deltadao/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "1delta is a decentralized margin trading protocol aggregating $10B+ of lending market liquidity for low-cost, non-custodial leveraged positions.",
-    "description": "1delta is a next-generation margin trading protocol that aggregates liquidity from DeFi lending markets to enable capital-efficient leveraged positions in a single transaction. Users can borrow assets from money markets and simultaneously swap them to create leveraged long or short positions, with 1delta's smart routing ensuring best rates across multiple DEXes to minimize slippage and gas costs. The protocol is deployed on Mantle and deeply integrated with INIT Capital's liquidity hooks for seamless margin trading infrastructure.",
-    "meta": "1delta is a decentralized margin trading aggregator with access to $10B+ liquidity on Mantle. Discover 1delta on Lancers Web3 Explorer.",
-    "pageTitle": "1delta - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.1delta.io/",
-    "twitter": "https://x.com/1deltadao"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "agni",
-      "algebra-protocol"
-    ],
-    "related": [
-      "archly-v2",
-      "banxa",
-      "beefy"
-    ]
-  }
+    "slug":  "1delta",
+    "name":  "1delta",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744622/web3-explorer/dapp-logos/1delta.png",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges",
+                        "DeFi Yield Farming Platforms",
+                        "Decentralized Lending Dapps"
+                    ],
+    "chains":  [
+                   "Polygon",
+                   "Polygon zkEVM",
+                   "Ethereum",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "1delta is a non-custodial margin trading protocol with access to $10B in liquidity.",
+                    "description":  "1delta is a non-custodial margin trading protocol that taps liquidity from decentralized exchanges and lending protocols to enable margin trades in a single click. By aggregating diverse liquidity sources, it optimizes swap routing to deliver seamless, efficient trades. The project also plans to introduce limit and stop orders to strengthen risk management for margin positions. Additionally, users can explore yield farming strategies within the protocol, expanding DeFi opportunities and enabling more sophisticated strategies for margin traders.",
+                    "meta":  "1delta is a non-custodial margin trading protocol using liquidity from DEXs and lending platforms. Discover 1delta and other Web3 apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "1delta - Trading Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://1delta.io/",
+                  "twitter":  "https://x.com/1deltaDAO"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "ix-swap",
+                                           "propellerswap"
+                                       ],
+                      "related":  [
+                                      "coinmate",
+                                      "ribbon-finance",
+                                      "changenow"
+                                  ]
+                  }
 }

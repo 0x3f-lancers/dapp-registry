@@ -1,35 +1,36 @@
 {
-  "slug": "metrom",
-  "name": "Metrom",
-  "logoUrl": "https://x.com/metromxyz/photo",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Metrom is a liquidity mining platform for concentrated AMMs enabling precise, capital-efficient LP incentive distribution on Mantle.",
-    "description": "Metrom is a specialized liquidity incentive platform allowing protocols to distribute rewards to targeted liquidity providers with precision, designed specifically for concentrated liquidity AMMs where rewards only go to LPs providing liquidity within specified price ranges. This makes incentive programs dramatically more capital efficient than traditional blanket liquidity mining. Officially recognized by Mantle Network, Metrom helps ecosystem protocols attract high-quality, sticky liquidity.",
-    "meta": "Metrom is a concentrated liquidity mining platform for precise LP incentive distribution on Mantle. Discover Metrom on Lancers Web3 Explorer.",
-    "pageTitle": "Metrom - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.metrom.xyz/en",
-    "twitter": "https://x.com/metromxyz"
-  },
-  "relations": {
-    "alternatives": [
-      "ankr",
-      "biconomy",
-      "birdeye-data-services"
-    ],
-    "related": [
-      "din-infura",
-      "flipside",
-      "hive-intelligence"
-    ]
-  }
+    "slug":  "metrom",
+    "name":  "Metrom",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748389/web3-explorer/dapp-logos/metrom.png",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "DeFi Yield Farming Platforms"
+                    ],
+    "chains":  [
+                   "Base",
+                   "Mantle"
+               ],
+    "pricing":  "Paid",
+    "content":  {
+                    "short":  "Metrom is a liquidity mining platform for AMMs that incentivizes liquidity providers with ready-made farming contracts.",
+                    "description":  "Metrom streamlines liquidity management for new DEXs by making it simple to set up incentive programs using native tokens or stablecoins. It provides prebuilt farming contracts, allowing DEXs to reward liquidity providers without building contracts from scratch. For token launches, Metrom designs tailored reward campaigns that help moderate sell pressure and promote market stability, ensuring smooth token distribution and sustained, long-term liquidity growth across the protocol.",
+                    "meta":  "Metrom is a liquidity mining platform for AMMs, focusing on incentivizing LPs. Discover Metrom and other DeFi Dapps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Metrom - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://metrom.xyz/",
+                  "twitter":  "https://x.com/metromxyz"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "enso",
+                                           "earn-network",
+                                           "metavisor"
+                                       ],
+                      "related":  [
+                                      "tidal-finance",
+                                      "origin-ether",
+                                      "timeswap"
+                                  ]
+                  }
 }

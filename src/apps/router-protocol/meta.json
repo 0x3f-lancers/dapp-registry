@@ -1,35 +1,39 @@
 {
-  "slug": "router-protocol",
-  "name": "Router Protocol",
-  "logoUrl": "https://x.com/routerprotocol/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Router Protocol is a cross-chain communication infrastructure enabling seamless asset transfers and messaging between Mantle and 40+ blockchains.",
-    "description": "Router Protocol is a cross-chain infrastructure layer providing a suite of interoperability solutions including the Router Nitro bridge, cross-chain messaging (CCIF), and a liquidity aggregation network. The protocol enables dApps to become natively cross-chain by integrating Router's messaging primitives, allowing smart contracts on Mantle to communicate with and trigger actions on any supported blockchain. Router Protocol underpins multiple cross-chain DeFi applications in the Mantle ecosystem.",
-    "meta": "Router Protocol provides cross-chain communication and bridging infrastructure connecting Mantle to 40+ blockchains. Discover Router Protocol on Lancers Web3 Explorer.",
-    "pageTitle": "Router Protocol - Infrastructure - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.routerprotocol.com/",
-    "twitter": "https://x.com/routerprotocol"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "cobo-argus",
-      "etherspot"
-    ]
-  }
+    "slug":  "router-protocol",
+    "name":  "Router Protocol",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749658/web3-explorer/dapp-logos/router-protocol.jpg",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Web3 Bridges"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Ethereum",
+                   "Polygon",
+                   "OP Mainnet",
+                   "BNB Chain",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Router Protocol provides an extensive multi-directional bridge for contract-level data flow across different L1s and L2s.",
+                    "description":  "Router Protocol acts as a cross-chain interoperability layer, connecting diverse blockchains to enable asset transfers and cross-chain smart contract interactions across networks. Its infrastructure runs on nine EVM-compatible chains: Ethereum, BSC, Fantom, Polygon, Optimism, Arbitrum, Avalanche, Aurora, and Kava. The suite includes Voyager, a flagship DApp that enables swaps from any asset to any asset, and CrossTalk, a communication layer for cross-chain smart contracts that enables use cases such as lending and staking. More information is available in the project documentation.",
+                    "meta":  "Router Protocol is a cross-chain interoperability layer connecting different blockchains. Discover Router Protocol and other DeFi Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Router Protocol - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.routerprotocol.com/",
+                  "twitter":  "https://x.com/routerprotocol"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "starkgate",
+                                           "arianee"
+                                       ],
+                      "related":  [
+                                      "taraxa",
+                                      "wowearn",
+                                      "near"
+                                  ]
+                  }
 }

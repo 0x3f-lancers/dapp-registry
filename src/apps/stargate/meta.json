@@ -1,35 +1,36 @@
 {
-  "slug": "stargate",
-  "name": "Stargate",
-  "logoUrl": "https://x.com/stargatefinance/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Stargate is a fully composable omnichain liquidity transport protocol enabling seamless native asset bridging across blockchains in a single transaction.",
-    "description": "Stargate Finance, built on LayerZero, is a liquidity transport protocol that enables users and protocols to transfer native assets across blockchains in a single transaction with guaranteed instant finality. Unlike traditional bridges that use wrapped tokens, Stargate maintains unified liquidity pools on each chain so users always receive native assets on the destination. Since its launch in 2022, Stargate has processed billions in cross-chain volume and is integrated with Mantle to connect the network to all major EVM ecosystems.",
-    "meta": "Stargate is a composable omnichain liquidity protocol enabling native asset bridging to and from Mantle. Discover Stargate on Lancers Web3 Explorer.",
-    "pageTitle": "Stargate - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://stargate.finance/",
-    "twitter": "https://x.com/stargatefinance"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "cobo-argus",
-      "etherspot"
-    ]
-  }
+    "slug":  "stargate",
+    "name":  "Stargate",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750322/web3-explorer/dapp-logos/stargate.jpg",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Web3 Bridges"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Mantle"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Stargate is a DeFi-focused liquidity bridge.",
+                    "description":  "Stargate presents a distinctive DeFi bridge with a clean, intuitive interface, enabling cross-ecosystem swaps between native tokens from different chains. The protocol supports swapping native tokens across diverse blockchain ecosystems, allowing users to move value between networks. Users can also contribute assets to Stargate\u0027s liquidity pool and earn real-time stablecoins as rewards. The STG token provides utilities such as staking and farming, offering additional ways to participate in the Stargate ecosystem.",
+                    "meta":  "Stargate is a DeFi-focused liquidity bridge. Discover Stargate and other DeFi Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Stargate - DeFi Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://stargate.finance/",
+                  "twitter":  "https://x.com/StargateFinance"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "polyhedra-network",
+                                           "carrier",
+                                           "chainspot"
+                                       ],
+                      "related":  [
+                                      "celer-network",
+                                      "reddio",
+                                      "xdc-network"
+                                  ]
+                  }
 }

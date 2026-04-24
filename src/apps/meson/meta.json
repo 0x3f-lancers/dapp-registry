@@ -1,35 +1,47 @@
 {
-  "slug": "meson",
-  "name": "Meson",
-  "logoUrl": "https://x.com/mesonfi/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Meson is a leading cross-chain bridge optimized for fast and cost-efficient stablecoin and wrapped token transfers between blockchains including Mantle.",
-    "description": "Meson is a specialized cross-chain bridge using hash time locked contracts (HTLC) and a network of liquidity providers to achieve fast finality and low fees for stablecoin transfers. Optimized specifically for USDC, USDT, and other stable assets across dozens of chains, Meson provides some of the best rates for stable cross-chain transfers available. Its integration with Mantle makes it the preferred solution for stable asset movements in and out of the network.",
-    "meta": "Meson is a fast, cost-efficient cross-chain bridge for stablecoin transfers to and from Mantle. Discover Meson on Lancers Web3 Explorer.",
-    "pageTitle": "Meson - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://meson.fi/",
-    "twitter": "https://x.com/mesonfi"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "cobo-argus",
-      "etherspot"
-    ]
-  }
+    "slug":  "meson",
+    "name":  "Meson",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748311/web3-explorer/dapp-logos/meson.png",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Web3 Bridges"
+                    ],
+    "chains":  [
+                   "Aptos",
+                   "Arbitrum",
+                   "Avalanche",
+                   "BNB Chain",
+                   "Cosmos",
+                   "Ethereum",
+                   "Cronos",
+                   "Polygon",
+                   "Tron",
+                   "OP Mainnet",
+                   "Fantom",
+                   "Harmony",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Meson is a stablecoin swap protocol enabling cross-chain stablecoin flows.",
+                    "description":  "Meson is a stablecoin swap protocol that enables fast, cross-chain flows of major stablecoins across Ethereum, Layer 2 networks, and other high-performance public chains. Swaps settle in 1-2 minutes, faster than most cross-chain bridges, and are gas-free for Meson users, with zero fees on the most popular routes. The protocol has been audited by Trail of Bits and SSLabs at Georgia Tech, and Meson offers an intuitive UI with 24/7 multilingual support for a smooth cross-chain experience.",
+                    "meta":  "Meson is a stablecoin swap protocol enabling cross-chain stablecoin flows. Discover Meson and other DeFi Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Meson - DeFi Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://meson.fi/",
+                  "twitter":  "https://x.com/mesonfi"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "cede-store",
+                                           "jupiter",
+                                           "superbridge"
+                                       ],
+                      "related":  [
+                                      "avalanche",
+                                      "circular-protocol",
+                                      "quai"
+                                  ]
+                  }
 }

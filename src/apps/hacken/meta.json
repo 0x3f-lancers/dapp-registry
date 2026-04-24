@@ -1,33 +1,46 @@
 {
   "slug": "hacken",
   "name": "Hacken",
-  "logoUrl": "https://img.logo.dev/hacken.io?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747379/web3-explorer/dapp-logos/hacken.png",
   "category": "Web3 Security Tools",
   "subcategory": [
-    "Blockchain Auditing Companies"
+    "Blockchain Auditing Companies",
+    "Blockchain Security Tools"
   ],
   "chains": [
-    "TON"
+    "Solana",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Arbitrum",
+    "Aptos",
+    "Sui",
+    "Cosmos",
+    "Polkadot",
+    "Fantom"
   ],
-  "pricing": "Free",
+  "pricing": "Paid",
   "content": {
-    "short": "Hacken is a premier security auditor for Web3, offering expert smart contract reviews and bug bounties for TON.",
-    "description": "Hacken is a leading cybersecurity firm focused on blockchain and Web3 security. It offers a comprehensive suite of services for the TON ecosystem, including smart contract audits, blockchain protocol security assessments, and the management of bug bounty programs through HackenProof. With its deep expertise and commitment to transparency, Hacken helps TON developers mitigate risks and secure their decentralized applications, providing the necessary assurance for users and investors in the fast-growing TON market.",
-    "meta": "Ensure the safety of your TON dApp with Hacken's expert audits. Leading Web3 security on Lancers Web3 Explorer.",
+    "short": "Hacken is an end-to-end blockchain security and compliance partner for digital assets.",
+    "description": "Hacken combines blockchain security expertise with AI-driven offensive testing and compliance know‑how to safeguard digital assets. Since 2017, what started as a small team of ethical hackers has evolved into a leading security partner for the blockchain ecosystem, trusted by governments, regulators, institutions, and more than 1,500 adopters. Clients include the European Commission, ADGM, Ethereum Foundation, MetaMask, and major exchanges like Binance, Bybit, OKX, and Crypto.com.",
+    "meta": "Hacken is an end-to-end blockchain security and compliance partner for digital assets. Discover Hacken and other Web3 Security Tools on Lancers Web3 Explorer.",
     "pageTitle": "Hacken - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://hacken.io/",
-    "twitter": "https://twitter.com/hackenclub"
+    "twitter": "https://x.com/hackenclub"
   },
   "relations": {
     "alternatives": [
-      "anchain-ai",
-      "rekt",
-      "hashlock"
+      "statemind",
+      "composable-security",
+      "tonbit"
     ],
     "related": [
-      "tonkeeper"
+      "cube3-ai",
+      "solcurity"
     ]
   }
 }

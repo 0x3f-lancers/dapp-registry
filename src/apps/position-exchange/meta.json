@@ -3,12 +3,8 @@
   "name": "Position Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749289/web3-explorer/dapp-logos/position-exchange.jpg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Multichain"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Multichain"],
   "pricing": "",
   "content": {
     "short": "Position Exchange is a decentralized trading platform with an on-chain order book.",
@@ -21,13 +17,7 @@
     "twitter": "https://x.com/PositionEx"
   },
   "relations": {
-    "alternatives": [
-      "ave-ai",
-      "universalx"
-    ],
-    "related": [
-      "erasure",
-      "swapspace"
-    ]
+    "alternatives": ["ave-ai", "rubic", "universalx"],
+    "related": ["erasure", "swapspace"]
   }
 }

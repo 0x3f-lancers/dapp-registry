@@ -1,37 +1,46 @@
 {
-  "slug": "openfort",
-  "name": "Openfort",
-  "logoUrl": "https://x.com/openfort_hq/photo",
-  "category": "Web3 Wallet Tools",
-  "subcategory": [
-    "Embedded Wallets",
-    "Wallet SDKs",
-    "Wallet Developer Tools"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Openfort is a wallet operating system for embedded wallets, smart accounts, gasless transactions, and stablecoin products.",
-    "description": "Openfort is a developer wallet stack for building embedded wallets, stablecoin payments, agent wallets, and programmable on-chain transaction flows. The platform combines wallet creation, transaction automation, gas orchestration, policy controls, SDKs, and key management into one integration. Openfort supports EVM and SVM chains, with SDKs for web, mobile, backend, and game environments such as Unity. For Mantle builders, Openfort can simplify user onboarding, sponsored transactions, smart wallet workflows, and money movement features without assembling several separate wallet infrastructure vendors.",
-    "meta": "Openfort provides embedded wallets, smart accounts, gasless transactions, and wallet SDKs. Discover Openfort on Lancers Web3 Explorer.",
-    "pageTitle": "Openfort - Web3 Wallet Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.openfort.io/",
-    "twitter": "https://x.com/openfort_hq"
-  },
-  "relations": {
-    "alternatives": [
-      "privy",
-      "etherspot",
-      "particle-network"
-    ],
-    "related": [
-      "safe",
-      "okx-wallet",
-      "coin98"
-    ]
-  }
+    "slug":  "openfort",
+    "name":  "Openfort",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748894/web3-explorer/dapp-logos/openfort.jpg",
+    "category":  "Web3 Wallet Tools",
+    "subcategory":  [
+                        "Embedded Wallets",
+                        "Wallet SDKs"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "Tron",
+                   "Polygon",
+                   "OP Mainnet",
+                   "Polkadot",
+                   "BNB Chain",
+                   "Celo",
+                   "Cosmos",
+                   "Cronos",
+                   "Mantle"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Openfort is an open-source wallet-as-a-service platform offering embedded (in-app) and cross-app wallets.",
+                    "description":  "Openfort delivers wallet-as-a-service with both embedded (in-app) and global (cross-app) wallets. It consolidates authentication, account abstraction, gas sponsorship, and orchestration, so teams can avoid juggling multiple vendors. Supported chains include Ethereum, Arbitrum, Avalanche, Base, Tron, Polygon, OP Mainnet, Polkadot, BNB Chain, Celo, Harmony, and Bitcoin, with enterprise-focused readiness for scalable deployments across organizations.",
+                    "meta":  "Openfort is an open-source wallet-as-a-service platform offering embedded (in-app) and cross-app wallets. Discover Openfort and other Web3 apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Openfort - Web3 Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.openfort.io/",
+                  "twitter":  "https://x.com/openfort_hq"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "zypto-wallet",
+                                           "wallet3"
+                                       ],
+                      "related":  [
+                                      "saakuru",
+                                      "coinbase-wallet"
+                                  ]
+                  }
 }

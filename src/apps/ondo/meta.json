@@ -1,35 +1,35 @@
 {
-  "slug": "ondo",
-  "name": "ONDO",
-  "logoUrl": "https://x.com/ondofinance/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Ondo Finance tokenizes institutional-grade financial products on-chain, offering OUSG (US Treasuries) and USDY (yield-bearing stablecoin) for everyone.",
-    "description": "Ondo Finance is a leading real-world asset (RWA) protocol that tokenizes institutional financial products and makes them accessible on-chain, with flagship products including OUSG (tokenized US Treasuries) and USDY (a yield-bearing stablecoin backed by US Treasuries). The protocol bridges the gap between traditional finance and DeFi by giving on-chain users access to the yields and safety of regulated financial instruments. Ondo's deployment on Mantle extends access to these high-quality instruments to Mantle DeFi users seeking stable, yield-generating dollar exposure.",
-    "meta": "Ondo Finance brings tokenized US Treasuries and institutional-grade financial products to Mantle DeFi. Discover ONDO on Lancers Web3 Explorer.",
-    "pageTitle": "ONDO - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://ondo.finance/",
-    "twitter": "https://x.com/ondofinance"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "cobo-argus",
-      "etherspot"
-    ]
-  }
+    "slug":  "ondo",
+    "name":  "ONDO",
+    "logoUrl":  "https://x.com/ondofinance/photo",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Web3 Bridges"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Ondo Finance tokenizes institutional-grade financial products on-chain, offering OUSG (US Treasuries) and USDY (yield-bearing stablecoin) for everyone.",
+                    "description":  "Ondo Finance is a leading real-world asset (RWA) protocol that tokenizes institutional financial products and makes them accessible on-chain, with flagship products including OUSG (tokenized US Treasuries) and USDY (a yield-bearing stablecoin backed by US Treasuries). The protocol bridges the gap between traditional finance and DeFi by giving on-chain users access to the yields and safety of regulated financial instruments. Ondo\u0027s deployment on Mantle extends access to these high-quality instruments to Mantle DeFi users seeking stable, yield-generating dollar exposure.",
+                    "meta":  "Ondo Finance brings tokenized US Treasuries and institutional-grade financial products to Mantle DeFi. Discover ONDO on Lancers Web3 Explorer.",
+                    "pageTitle":  "ONDO - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://ondo.finance/",
+                  "twitter":  "https://x.com/ondofinance"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "atlas",
+                                           "axelar",
+                                           "blockchair"
+                                       ],
+                      "related":  [
+                                      "chasm-network",
+                                      "cobo-argus",
+                                      "etherspot"
+                                  ]
+                  }
 }

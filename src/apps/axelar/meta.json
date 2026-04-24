@@ -1,35 +1,39 @@
 {
-  "slug": "axelar",
-  "name": "Axelar",
-  "logoUrl": "https://x.com/axelar/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Axelar is the full-stack Web3 interoperability layer enabling secure cross-chain messaging and smart contract communication across blockchains.",
-    "description": "Axelar Network provides universal cross-chain communication infrastructure for Web3 applications, enabling general message passing so smart contracts on one chain can trigger actions on another  going beyond simple asset transfers. Its decentralized validator network and General Message Passing (GMP) SDK make it easy for developers to build cross-chain applications with strong security guarantees. Axelar is deployed on Mantle as a core communication infrastructure layer connecting Mantle dApps to dozens of other blockchains.",
-    "meta": "Axelar is a full-stack Web3 interoperability layer enabling cross-chain communication on Mantle. Discover Axelar on Lancers Web3 Explorer.",
-    "pageTitle": "Axelar - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.axelar.network/",
-    "twitter": "https://x.com/axelar"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "blockchair",
-      "chasm-network"
-    ],
-    "related": [
-      "cobo-argus",
-      "etherspot",
-      "hyperlane"
-    ]
-  }
+    "slug":  "axelar",
+    "name":  "Axelar",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745129/web3-explorer/dapp-logos/axelar.jpg",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Web3 Messaging Tools",
+                        "Blockchain Interoperability Tools"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Polygon",
+                   "Avalanche",
+                   "Multichain",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Axelar delivers secure cross-chain communication.",
+                    "description":  "Axelar provides a secure, open protocol for cross-chain messaging, enabling end users to interact with any asset or application across any blockchain with a single click. From a developer perspective, it offers a straightforward API layered over a permissionless network that routes cross-chain messages and maintains security through proof-of-stake consensus. This design supports interoperable dApps, simplifies asset transfers, and enables cross-chain calls without fragmenting the user experience.",
+                    "meta":  "Axelar delivers secure cross-chain communication. Discover Axelar and other Infrastructure Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Axelar - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://axelar.network/",
+                  "twitter":  "https://x.com/axelarcore"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "xcall-service",
+                                           "skiff",
+                                           "epigeon"
+                                       ],
+                      "related":  [
+                                      "betarpc",
+                                      "succinct"
+                                  ]
+                  }
 }

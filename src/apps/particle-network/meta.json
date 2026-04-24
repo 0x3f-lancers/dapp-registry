@@ -1,35 +1,50 @@
 {
-  "slug": "particle-network",
-  "name": "Particle Network",
-  "logoUrl": "https://x.com/particlentwrk/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Particle Network is a full-stack Web3 infrastructure platform providing modular account abstraction, social login, and cross-chain UX on Mantle.",
-    "description": "Particle Network is a comprehensive Web3 infrastructure provider offering modular account abstraction, Wallet-as-a-Service (WaaS), and cross-chain interaction tooling. Its Smart WaaS product enables developers to embed fully functional Web3 wallets in their applications with social login support, gasless transactions, and batch operations  without users needing to understand seed phrases or gas. Particle's Universal Accounts provide a single account balance usable across all supported chains. The platform supports Mantle Network as part of its growing multi-chain ecosystem.",
-    "meta": "Particle Network provides modular account abstraction and social login infrastructure for apps on Mantle. Discover Particle Network on Lancers Web3 Explorer.",
-    "pageTitle": "Particle Network - Infrastructure - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://particle.network/",
-    "twitter": "https://x.com/particlentwrk"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "cobo-argus",
-      "etherspot"
-    ]
-  }
+    "slug":  "particle-network",
+    "name":  "Particle Network",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749080/web3-explorer/dapp-logos/particle-network.png",
+    "category":  "Web3 Developer Tools",
+    "subcategory":  [
+                        "Development Frameworks",
+                        "Web3 SDKs"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "BNB Chain",
+                   "Celo",
+                   "Cronos",
+                   "Ethereum",
+                   "Fantom",
+                   "Harmony",
+                   "Mantle",
+                   "Moonbeam",
+                   "Multichain",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Polygon zkEVM",
+                   "Solana",
+                   "Tron",
+                   "ZKsync"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Particle Network provides Web3 development services, including secure authentication and NFT solutions.",
+                    "description":  "Particle Network provides seamless onboarding, wallet integration, and NFT marketplace capabilities for developers and users in the blockchain space. It delivers social-authentication powered by MPC-TSS, white-label wallets compatible with Account Abstraction (ERC-4337), and end-to-end NFT solutions for easy marketplace creation and management. With Particle Network\u0027s middleware, developers access a cohesive toolset to streamline workflows and build more user-friendly blockchain applications across Web, iOS, Android, Unity, Unreal Engine, Flutter, React Native, and Cocos Creator.",
+                    "meta":  "Particle Network offers Web3 development services such as secure authentication. Discover Particle Network and other Web3 apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Particle Network - Web3 Developer Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://particle.network",
+                  "twitter":  "https://x.com/particlentwrk"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "apeworx-ape",
+                                           "0xcert"
+                                       ],
+                      "related":  [
+                                      "aarc",
+                                      "ethereum-etl"
+                                  ]
+                  }
 }

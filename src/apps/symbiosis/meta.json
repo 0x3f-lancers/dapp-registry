@@ -1,35 +1,45 @@
 {
-  "slug": "symbiosis",
-  "name": "Symbiosis",
-  "logoUrl": "https://x.com/symbiosis_fi/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Symbiosis is a cross-chain bridge and swap protocol for moving assets across many blockchain networks.",
-    "description": "Symbiosis is a cross-chain liquidity and swap protocol that lets users exchange assets between different blockchains from one interface. The protocol routes trades across supported networks, making it possible to bridge and swap tokens without manually moving through separate bridge and DEX steps. Symbiosis also offers products for swaps, staking, zaps, pools, and DAO participation. For Mantle users, it acts as an access layer for moving liquidity into or out of the network while keeping cross-chain execution simpler and more direct.",
-    "meta": "Symbiosis enables cross-chain swaps, bridges, staking, zaps, and liquidity tools. Discover Symbiosis on Lancers Web3 Explorer.",
-    "pageTitle": "Symbiosis - DeFi Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://symbiosis.finance/",
-    "twitter": "https://x.com/symbiosis_fi"
-  },
-  "relations": {
-    "alternatives": [
-      "owlto-finance",
-      "retrobridge",
-      "router-protocol"
-    ],
-    "related": [
-      "rubic",
-      "xy-finance",
-      "axelar"
-    ]
-  }
+    "slug":  "symbiosis",
+    "name":  "Symbiosis",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750540/web3-explorer/dapp-logos/symbiosis.jpg",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Web3 Bridges"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "BNB Chain",
+                   "Ethereum",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Polygon zkEVM",
+                   "Tron",
+                   "ZKsync",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Symbiosis is a multi-chain liquidity protocol that aggregates exchange liquidity across EVM and selected non-EVM networks.",
+                    "description":  "Symbiosis is a multi-chain liquidity protocol that aggregates exchange liquidity across EVM networks and select non-EVM ecosystems, including TRON, Bitcoin, and BNB. By unifying liquidity across disparate bridges and swap platforms, it enables asset swaps and cross-chain liquidity transfers with a single click and a single on-chain transaction, helping to reduce fragmentation and streamline multi-chain trading. This simple setup aims to reduce fragmentation across bridges and swap platforms.",
+                    "meta":  "Symbiosis is a multi-chain liquidity protocol. Discover Symbiosis and other DeFi Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Symbiosis - DeFi Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://symbiosis.finance/",
+                  "twitter":  "https://x.com/symbiosis_fi"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "matcha",
+                                           "rubic",
+                                           "squid"
+                                       ],
+                      "related":  [
+                                      "eclipse",
+                                      "starknet",
+                                      "solana"
+                                  ]
+                  }
 }

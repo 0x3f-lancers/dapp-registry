@@ -1,35 +1,35 @@
 {
-  "slug": "abacus",
-  "name": "Abacus",
-  "logoUrl": "https://x.com/abacusfi/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "DeFi Yield Aggregators"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Abacus is a ve(3,3) yield optimization protocol that wraps locked exchange tokens into liquid, yield-bearing assets.",
-    "description": "Abacus is a DeFi optimization layer built for ve(3,3) and Solidly-style exchanges. The protocol lets users deposit locked veNFT positions or exchange tokens and receive liquid wrapper tokens that represent the underlying voting position. Abacus then uses its aggregated voting power to capture fees, bribes, and incentives from supported exchanges, while directing those rewards back to wrapper holders and liquidity providers. The model is designed to reduce lock fatigue, improve utility for veTOKEN holders, and help exchanges maintain deeper aligned liquidity across supported chains including Mantle.",
-    "meta": "Abacus provides liquid wrappers and passive yield strategies for ve(3,3) exchange tokens on Mantle.",
-    "pageTitle": "Abacus - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://abacus.tech/",
-    "twitter": "https://x.com/abacusfi"
-  },
-  "relations": {
-    "alternatives": [
-      "cian-yield-layer",
-      "eigenlayer",
-      "equilibria"
-    ],
-    "related": [
-      "ichi",
-      "infinit",
-      "zircuit"
-    ]
-  }
+    "slug":  "abacus",
+    "name":  "Abacus",
+    "logoUrl":  "https://x.com/abacusfi/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "DeFi Yield Aggregators"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Abacus is a ve(3,3) yield optimization protocol that wraps locked exchange tokens into liquid, yield-bearing assets.",
+                    "description":  "Abacus is a DeFi optimization layer built for ve(3,3) and Solidly-style exchanges. The protocol lets users deposit locked veNFT positions or exchange tokens and receive liquid wrapper tokens that represent the underlying voting position. Abacus then uses its aggregated voting power to capture fees, bribes, and incentives from supported exchanges, while directing those rewards back to wrapper holders and liquidity providers. The model is designed to reduce lock fatigue, improve utility for veTOKEN holders, and help exchanges maintain deeper aligned liquidity across supported chains including Mantle.",
+                    "meta":  "Abacus provides liquid wrappers and passive yield strategies for ve(3,3) exchange tokens on Mantle.",
+                    "pageTitle":  "Abacus - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://abacus.tech/",
+                  "twitter":  "https://x.com/abacusfi"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "cian-yield-layer",
+                                           "eigenlayer",
+                                           "equilibria"
+                                       ],
+                      "related":  [
+                                      "ichi",
+                                      "infinit",
+                                      "zircuit"
+                                  ]
+                  }
 }

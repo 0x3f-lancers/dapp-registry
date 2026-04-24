@@ -1,35 +1,33 @@
 {
-  "slug": "cede-store",
-  "name": "Cede.store",
-  "logoUrl": "https://x.com/cedehub/photo",
-  "category": "Trading Tools",
-  "subcategory": [
-    "Crypto Trading Tools"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Cede.store is now Cede Hub, a trade-to-earn platform where users join exchange campaigns and earn rewards.",
-    "description": "Cede.store has evolved into Cede Hub, a trade-to-earn and hold-to-earn platform connecting token issuers with crypto traders. Users connect wallet and exchange accounts, choose live campaigns, trade eligible pairs through the Cede Hub interface, climb leaderboards, and receive rewards based on campaign rules. The platform is designed to create transparent trading competitions, boost token engagement, and distribute incentives to real participants. For Mantle ecosystem users, Cede Hub adds campaign-based trading rewards and market engagement tools around supported exchange activity.",
-    "meta": "Cede.store, now Cede Hub, runs trading and holding campaigns with leaderboard rewards. Discover Cede.store on Lancers Web3 Explorer.",
-    "pageTitle": "Cede.store - Trading Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://cedehub.io/index.html",
-    "twitter": "https://x.com/cedehub"
-  },
-  "relations": {
-    "alternatives": [
-      "demex",
-      "okx-wallet",
-      "fusionx"
-    ],
-    "related": [
-      "questn",
-      "layer3",
-      "galxe"
-    ]
-  }
+    "slug":  "cede-store",
+    "name":  "Cede.store",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745595/web3-explorer/dapp-logos/cede-store.png",
+    "category":  "Web3 Wallet Tools",
+    "subcategory":  [
+                        "Wallet Connection Tools"
+                    ],
+    "chains":  [
+                   "Multichain",
+                   "Mantle"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Cede.store provides access to CeFi liquidity and transfers assets from Centralized Exchanges to DeFi, while preserving self-custody and wallet UX.",
+                    "description":  "Most crypto liquidity remains on centralized exchanges, and about 90% of DeFi users have at least one CEX. The gap between CeFi and DeFi can create friction for on-chain activity. Cede.store provides a non-custodial bridge between CeFi and DeFi, enabling dApps across DeFi ecosystems to tap into liquidity from centralized exchanges without surrendering control of funds. It connects CeFi liquidity to decentralized applications while maintaining self-custody and the core DeFi principles of transparency and permissionless access.",
+                    "meta":  "Cede.store helps access and transfer assets from Centralized Exchanges to DeFi. Discover Cede.store and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Cede.store - Web3 Wallet Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://cede.store",
+                  "twitter":  "https://x.com/CedeLabs"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "impersonator"
+                                       ],
+                      "related":  [
+                                      "chainaware-ai",
+                                      "kerberus"
+                                  ]
+                  }
 }

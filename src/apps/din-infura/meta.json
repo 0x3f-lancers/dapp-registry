@@ -1,35 +1,35 @@
 {
-  "slug": "din-infura",
-  "name": "DIN (Infura)",
-  "logoUrl": "https://x.com/infura_io/photo",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Infura by ConsenSys is a managed blockchain infrastructure provider offering secure, globally distributed RPC node access for developers building on Mantle.",
-    "description": "Infura, developed by ConsenSys, is one of the most widely used blockchain infrastructure services in the industry, providing managed RPC node access to Ethereum and many other networks including Mantle. Founded in 2016, Infura powers wallets and dApps used by millions of users including MetaMask. By abstracting node infrastructure management, Infura allows developers to focus on building applications with high reliability, global distribution, and comprehensive analytics.",
-    "meta": "Infura provides managed RPC node infrastructure for developers building blockchain apps on Mantle. Discover Infura on Lancers Web3 Explorer.",
-    "pageTitle": "DIN (Infura) - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.infura.io/",
-    "twitter": "https://x.com/infura_io"
-  },
-  "relations": {
-    "alternatives": [
-      "ankr",
-      "biconomy",
-      "birdeye-data-services"
-    ],
-    "related": [
-      "flipside",
-      "hive-intelligence",
-      "idriss"
-    ]
-  }
+    "slug":  "din-infura",
+    "name":  "DIN (Infura)",
+    "logoUrl":  "https://x.com/infura_io/photo",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Infura by ConsenSys is a managed blockchain infrastructure provider offering secure, globally distributed RPC node access for developers building on Mantle.",
+                    "description":  "Infura, developed by ConsenSys, is one of the most widely used blockchain infrastructure services in the industry, providing managed RPC node access to Ethereum and many other networks including Mantle. Founded in 2016, Infura powers wallets and dApps used by millions of users including MetaMask. By abstracting node infrastructure management, Infura allows developers to focus on building applications with high reliability, global distribution, and comprehensive analytics.",
+                    "meta":  "Infura provides managed RPC node infrastructure for developers building blockchain apps on Mantle. Discover Infura on Lancers Web3 Explorer.",
+                    "pageTitle":  "DIN (Infura) - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.infura.io/",
+                  "twitter":  "https://x.com/infura_io"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "ankr",
+                                           "biconomy",
+                                           "birdeye-data-services"
+                                       ],
+                      "related":  [
+                                      "flipside",
+                                      "hive-intelligence",
+                                      "idriss"
+                                  ]
+                  }
 }

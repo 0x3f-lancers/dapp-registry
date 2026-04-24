@@ -1,35 +1,35 @@
 {
-  "slug": "woofi-earn",
-  "name": "WOOFi Earn",
-  "logoUrl": "https://x.com/_WOOFi/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "DeFi Yield Farming Platforms"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "WOOFi Earn provides single-asset vaults that supply liquidity to WOOFi's sPMM swap infrastructure.",
-    "description": "WOOFi Earn is the yield side of WOOFi's DeFi ecosystem. Users can deposit assets into single-asset vaults, allowing the sPMM pool manager to borrow liquidity for on-chain swaps while users keep exposure to the token they deposited. Vault assets may be deployed into base yield strategies and used to support WOOFi's liquidity engine, with settlement cycles managing withdrawals and loan repayment. On Mantle, WOOFi Earn gives users a way to supply liquidity to WOOFi without manually managing paired pools or impermanent-loss-heavy LP positions.",
-    "meta": "WOOFi Earn offers single-asset vaults that support WOOFi liquidity and yield strategies on Mantle.",
-    "pageTitle": "WOOFi Earn - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://woofi.com/about/earn",
-    "twitter": "https://x.com/_WOOFi"
-  },
-  "relations": {
-    "alternatives": [
-      "airpuff",
-      "napier",
-      "0x"
-    ],
-    "related": [
-      "1delta",
-      "abacus",
-      "agni"
-    ]
-  }
+    "slug":  "woofi-earn",
+    "name":  "WOOFi Earn",
+    "logoUrl":  "https://x.com/_WOOFi/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "DeFi Yield Farming Platforms"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "WOOFi Earn provides single-asset vaults that supply liquidity to WOOFi\u0027s sPMM swap infrastructure.",
+                    "description":  "WOOFi Earn is the yield side of WOOFi\u0027s DeFi ecosystem. Users can deposit assets into single-asset vaults, allowing the sPMM pool manager to borrow liquidity for on-chain swaps while users keep exposure to the token they deposited. Vault assets may be deployed into base yield strategies and used to support WOOFi\u0027s liquidity engine, with settlement cycles managing withdrawals and loan repayment. On Mantle, WOOFi Earn gives users a way to supply liquidity to WOOFi without manually managing paired pools or impermanent-loss-heavy LP positions.",
+                    "meta":  "WOOFi Earn offers single-asset vaults that support WOOFi liquidity and yield strategies on Mantle.",
+                    "pageTitle":  "WOOFi Earn - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://woofi.com/about/earn",
+                  "twitter":  "https://x.com/_WOOFi"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "airpuff",
+                                           "napier",
+                                           "0x"
+                                       ],
+                      "related":  [
+                                      "1delta",
+                                      "abacus",
+                                      "agni"
+                                  ]
+                  }
 }

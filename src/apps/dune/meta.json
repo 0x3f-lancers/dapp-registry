@@ -1,35 +1,35 @@
 {
-  "slug": "dune",
-  "name": "Dune",
-  "logoUrl": "https://x.com/dune/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Dune is a powerful blockchain analytics platform that lets users query, visualize, and share on-chain data from Mantle and other networks.",
-    "description": "Dune Analytics is the leading blockchain data analytics platform used by researchers, analysts, and DeFi protocols worldwide. Using SQL-based queries, anyone can analyze on-chain data from Mantle and dozens of other blockchains  tracking DEX volumes, wallet activity, protocol metrics, and token flows. Dune's dashboard system allows users to create and share live-updating visualizations, making it the go-to tool for Mantle ecosystem monitoring. Thousands of publicly available dashboards track everything from Mantle's TVL to individual protocol performance.",
-    "meta": "Dune is a blockchain analytics platform for querying and visualizing on-chain data from Mantle Network. Discover Dune on Lancers Web3 Explorer.",
-    "pageTitle": "Dune - Infrastructure - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://dune.com/home",
-    "twitter": "https://x.com/dune"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "dune",
+    "name":  "Dune",
+    "logoUrl":  "https://x.com/dune/photo",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Analytics Tools"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Dune is a blockchain analytics platform that lets users query, visualize, and share on-chain data from Mantle and other networks.",
+                    "description":  "Dune Analytics is a blockchain data analytics platform used by researchers, analysts, and DeFi protocols worldwide. Using SQL-based queries, anyone can analyze on-chain data from Mantle and dozens of other blockchains  tracking DEX volumes, wallet activity, protocol metrics, and token flows. Dune\u0027s dashboard system allows users to create and share live-updating visualizations, making it the go-to tool for Mantle ecosystem monitoring. Thousands of publicly available dashboards track everything from Mantle\u0027s TVL to individual protocol performance.",
+                    "meta":  "Dune is a blockchain analytics platform for querying and visualizing on-chain data from Mantle Network. Discover Dune on Lancers Web3 Explorer.",
+                    "pageTitle":  "Dune - Infrastructure - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://dune.com/home",
+                  "twitter":  "https://x.com/dune"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "0x",
+                                           "1delta",
+                                           "agni"
+                                       ],
+                      "related":  [
+                                      "algebra-protocol",
+                                      "archly-v2",
+                                      "banxa"
+                                  ]
+                  }
 }

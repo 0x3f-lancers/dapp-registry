@@ -1,35 +1,35 @@
 {
-  "slug": "jadeswap",
-  "name": "Jadeswap",
-  "logoUrl": "https://x.com/Jadeswapfi/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Jadeswap is a Mantle DeFi platform combining AMM swaps, staking, liquidity pools, and NFT farming.",
-    "description": "Jadeswap is a decentralized exchange and staking platform built for Mantle. The protocol lets users trade assets through AMM pools, provide liquidity, stake, and participate in NFT-related farming opportunities. Its ecosystem is centered around JADE and aims to deliver a broad DeFi experience that includes swaps, liquidity incentives, DAO-style governance, and NFT integration. By operating on Mantle, Jadeswap offers lower-cost execution for trading and farming while giving ecosystem projects another venue for liquidity and community rewards.",
-    "meta": "Jadeswap is a Mantle DeFi platform for AMM swaps, staking, liquidity pools, and NFT farming.",
-    "pageTitle": "Jadeswap - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.jadeswap.fi/",
-    "twitter": "https://x.com/Jadeswapfi"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "jadeswap",
+    "name":  "Jadeswap",
+    "logoUrl":  "https://x.com/Jadeswapfi/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Jadeswap is a Mantle DeFi platform combining AMM swaps, staking, liquidity pools, and NFT farming.",
+                    "description":  "Jadeswap is a decentralized exchange and staking platform built for Mantle. The protocol lets users trade assets through AMM pools, provide liquidity, stake, and participate in NFT-related farming opportunities. Its ecosystem is centered around JADE and aims to deliver a broad DeFi experience that includes swaps, liquidity incentives, DAO-style governance, and NFT integration. By operating on Mantle, Jadeswap offers lower-cost execution for trading and farming while giving ecosystem projects another venue for liquidity and community rewards.",
+                    "meta":  "Jadeswap is a Mantle DeFi platform for AMM swaps, staking, liquidity pools, and NFT farming.",
+                    "pageTitle":  "Jadeswap - DeFi Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.jadeswap.fi/",
+                  "twitter":  "https://x.com/Jadeswapfi"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "0x",
+                                           "1delta",
+                                           "agni"
+                                       ],
+                      "related":  [
+                                      "algebra-protocol",
+                                      "archly-v2",
+                                      "banxa"
+                                  ]
+                  }
 }

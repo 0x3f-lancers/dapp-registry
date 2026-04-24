@@ -1,35 +1,35 @@
 {
-  "slug": "circuit-protocol",
-  "name": "Circuit Protocol",
-  "logoUrl": "https://x.com/circuitprotocol/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Circuit Protocol is Mantle's native yield optimizer offering auto-compounded strategies for the highest sustainable yield across the network.",
-    "description": "Circuit Protocol is a yield aggregator built natively for the Mantle Network, designed to maximize returns on Mantle-based DeFi positions through automatic compounding of farming rewards from the network's leading DEXes and lending protocols. As a Mantle-native protocol, Circuit is deeply integrated with the ecosystem's core DeFi primitives, ensuring users always have access to the best available yield opportunities without manually harvesting rewards.",
-    "meta": "Circuit Protocol is Mantle's native yield optimizer auto-compounding rewards for maximum sustainable yield. Discover Circuit on Lancers Web3 Explorer.",
-    "pageTitle": "Circuit Protocol - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.circuit.farm/",
-    "twitter": "https://x.com/circuitprotocol"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "circuit-protocol",
+    "name":  "Circuit Protocol",
+    "logoUrl":  "https://x.com/circuitprotocol/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Circuit Protocol is Mantle\u0027s native yield optimizer offering auto-compounded strategies for the highest sustainable yield across the network.",
+                    "description":  "Circuit Protocol is a yield aggregator built natively for the Mantle Network, designed to maximize returns on Mantle-based DeFi positions through automatic compounding of farming rewards from the network\u0027s leading DEXes and lending protocols. As a Mantle-native protocol, Circuit is deeply integrated with the ecosystem\u0027s core DeFi primitives, ensuring users always have access to the best available yield opportunities without manually harvesting rewards.",
+                    "meta":  "Circuit Protocol is Mantle\u0027s native yield optimizer auto-compounding rewards for maximum sustainable yield. Discover Circuit on Lancers Web3 Explorer.",
+                    "pageTitle":  "Circuit Protocol - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.circuit.farm/",
+                  "twitter":  "https://x.com/circuitprotocol"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "0x",
+                                           "1delta",
+                                           "agni"
+                                       ],
+                      "related":  [
+                                      "algebra-protocol",
+                                      "archly-v2",
+                                      "banxa"
+                                  ]
+                  }
 }

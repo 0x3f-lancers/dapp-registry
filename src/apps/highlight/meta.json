@@ -1,35 +1,37 @@
 {
-  "slug": "highlight",
-  "name": "Highlight",
-  "logoUrl": "https://x.com/highlight_xyz/photo",
-  "category": "NFT Dapps",
-  "subcategory": [
-    "NFT Marketplaces"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Highlight is a no-code NFT minting and collection management platform enabling creators to launch NFT projects on Mantle without writing code.",
-    "description": "Highlight is a creator-focused platform that simplifies NFT collection launches with a no-code interface supporting multiple blockchain networks including Mantle. Artists and brands can design, deploy, and manage NFT collections  including generative art drops, editions, and membership passes  without any smart contract coding knowledge. Highlight handles the technical complexity of on-chain deployment, metadata hosting, and mint site creation, allowing creators to focus entirely on their art and community.",
-    "meta": "Highlight is a no-code NFT minting platform for creators launching collections on Mantle without coding. Discover Highlight on Lancers Web3 Explorer.",
-    "pageTitle": "Highlight - NFT Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://highlight.xyz/",
-    "twitter": "https://x.com/highlight_xyz"
-  },
-  "relations": {
-    "alternatives": [
-      "alchemy",
-      "chaingpt",
-      "charged-particles"
-    ],
-    "related": [
-      "cryptodo",
-      "element",
-      "galxe"
-    ]
-  }
+    "slug":  "highlight",
+    "name":  "Highlight",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747536/web3-explorer/dapp-logos/highlight.png",
+    "category":  "Web3 Social Dapps",
+    "subcategory":  [
+                        "Web3 Creator Tools"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Polygon",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Highlight provides high-quality tools to help creative professionals thrive in Web3.",
+                    "description":  "Highlight provides a focused toolkit to craft curated Web3 experiences. It enables NFT drops using gas-efficient, creator-owned contracts, giving creators more control over token rights and costs. You can easily embed mints and auctions from Highlight directly onto your own site, simplifying the integration process without sacrificing performance. In addition, you can gate experiences to tailor access and create unique, collector-focused journeys that reward engagement and loyalty.",
+                    "meta":  "Highlight provides tools to create curated Web3 experiences. Discover Highlight and other Web3 Social Dapps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Highlight - Web3 Social Dapps - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://highlight.xyz/",
+                  "twitter":  "https://x.com/highlight_xyz"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "jamit",
+                                           "bueno",
+                                           "blocksurvey"
+                                       ],
+                      "related":  [
+                                      "phaver",
+                                      "status-im",
+                                      "colony"
+                                  ]
+                  }
 }

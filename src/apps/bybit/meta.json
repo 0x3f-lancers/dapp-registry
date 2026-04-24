@@ -1,33 +1,41 @@
 {
   "slug": "bybit",
   "name": "Bybit",
-  "logoUrl": "https://img.logo.dev/bybit.com?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745518/web3-explorer/dapp-logos/bybit.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Exchanges"
   ],
   "chains": [
-    "TON"
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Starknet",
+    "BNB Chain",
+    "Avalanche"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Bybit is a premier crypto exchange offering advanced trading products and deep liquidity for TON users.",
-    "description": "Bybit is a top-tier centralized cryptocurrency exchange that provides a high-performance trading platform for both spot and derivatives markets. It offers deep liquidity for Toncoin (TON), allowing users to execute large trades with minimal slippage. Bybit is known for its professional trading tools, robust security infrastructure, and innovative products such as its TON-integrated Earn programs. As a key partner in the TON ecosystem, Bybit provides an essential environment for institutional and retail traders to participate in the growth of the network.",
-    "meta": "Experience professional trading with Bybit. High-performance TON exchange, featured on Lancers Web3 Explorer.",
+    "short": "Bybit is an international, centralized cryptocurrency exchange.",
+    "description": "Bybit is a cryptocurrency exchange established in March 2018. It provides a professional trading platform featuring an ultra-fast order matching engine, designed to support quick and reliable trade execution, along with strong customer service and a multilingual community that can assist users from different regions. Developers can also use the site to learn more about Web 3 and its technologies, making Bybit a resource for both active traders and those exploring blockchain concepts.",
+    "meta": "Bybit is an international, centralized cryptocurrency exchange. Discover Bybit and other Trading Tools on Lancers Web3 Explorer.",
     "pageTitle": "Bybit - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.bybit.com/en/",
+    "website": "https://learn.bybit.com/",
     "twitter": "https://x.com/Bybit_Official"
   },
   "relations": {
     "alternatives": [
-      "treehouse-finance",
-      "kraken",
-      "day1x"
+      "zkswap-finance",
+      "flitpay"
     ],
     "related": [
-      "tonkeeper"
+      "dydx",
+      "concordex",
+      "crema-finance"
     ]
   }
 }

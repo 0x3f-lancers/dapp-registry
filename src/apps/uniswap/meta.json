@@ -1,36 +1,23 @@
 {
   "slug": "uniswap",
   "name": "Uniswap",
-  "logoUrl": "https://img.logo.dev/app.uniswap.org?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750933/web3-explorer/dapp-logos/uniswap.svg",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Crypto Staking Companies"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Ethereum", "Polygon", "Arbitrum", "OP Mainnet"],
+  "pricing": "",
   "content": {
-    "short": "Uniswap is a leading DeFi Dapps on the TON network, providing users with seamless access to decentralized services.",
-    "description": "Uniswap is a prominent project within the TON ecosystem, established to enhance the decentralized landscape. It offers a robust set of features tailored for the TON community, enabling users to interact with blockchain technology efficiently. As a key player in the DeFi Dapps sector, Uniswap focuses on security, scalability, and user experience, helping to drive the adoption of Web3 technologies on The Open Network.",
-    "meta": "Uniswap provides high-quality DeFi Dapps services on TON. Discover Uniswap and other top TON dApps on Lancers Web3 Explorer.",
-    "pageTitle": "Uniswap - DeFi Dapps on TON - Lancers Web3 Explorer"
+    "short": "Uniswap is an Ethereum-based decentralized exchange enabling token swaps via liquidity pools.",
+    "description": "Uniswap is one of the first and largest Ethereum-based decentralized exchanges. It popularized the automated market maker design that now underpins many DEXs. Instead of traditional order books, liquidity is supplied through a system of pre-funded and user-funded liquidity pools, enabling swaps to be executed algorithmically. Launched in 2018 by Hayden Adams, Uniswap's ecosystem has since broadened to include stablecoins, governance mechanisms, and analytics platforms.",
+    "meta": "Uniswap is an Ethereum-based decentralized exchange enabling token swaps via liquidity pools. Discover Uniswap and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Uniswap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://app.uniswap.org",
-    "twitter": "https://x.com/[uniswap](https://twitter.com/uniswap)"
+    "website": "https://uniswap.org/",
+    "twitter": "https://x.com/Uniswap"
   },
   "relations": {
-    "alternatives": [
-      "aqua-protocol",
-      "bemo",
-      "bemo-finance",
-      "bidask-finance",
-      "blum"
-    ],
-    "related": [
-      "tonkeeper",
-      "ston-fi"
-    ]
+    "alternatives": ["position-exchange", "xtoken-terminal"],
+    "related": ["erasure", "egemoney", "bumper-finance"]
   }
 }

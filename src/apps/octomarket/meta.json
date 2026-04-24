@@ -1,35 +1,35 @@
 {
-  "slug": "octomarket",
-  "name": "OctoMarket",
-  "logoUrl": "https://x.com/OctoMarket/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "OctoMarket is a synthetic omnichain perpetuals DEX on Mantle supporting trading on 100+ assets including crypto, commodities, and equity indices.",
-    "description": "OctoMarket is a decentralized synthetic asset exchange enabling traders to gain exposure to over 100 assets through perpetual contracts from any supported network. Its synthetic model and omnichain architecture allow trading of commodities, equity indices, and crypto assets in a fully decentralized environment without requiring physical custody of the underlying. OctoMarket is deployed on Mantle, offering a broad range of tradable markets unavailable on most DeFi platforms.",
-    "meta": "OctoMarket is a synthetic omnichain perps DEX on Mantle supporting 100+ tradable assets. Discover OctoMarket on Lancers Web3 Explorer.",
-    "pageTitle": "OctoMarket - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://octomarket.org/",
-    "twitter": "https://x.com/OctoMarket"
-  },
-  "relations": {
-    "alternatives": [
-      "0x",
-      "1delta",
-      "agni"
-    ],
-    "related": [
-      "algebra-protocol",
-      "archly-v2",
-      "banxa"
-    ]
-  }
+    "slug":  "octomarket",
+    "name":  "OctoMarket",
+    "logoUrl":  "https://x.com/OctoMarket/photo",
+    "category":  "DeFi Dapps",
+    "subcategory":  [
+                        "Decentralized Exchanges"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "OctoMarket is a synthetic omnichain perpetuals DEX on Mantle supporting trading on 100+ assets including crypto, commodities, and equity indices.",
+                    "description":  "OctoMarket is a decentralized synthetic asset exchange enabling traders to gain exposure to over 100 assets through perpetual contracts from any supported network. Its synthetic model and omnichain architecture allow trading of commodities, equity indices, and crypto assets in a fully decentralized environment without requiring physical custody of the underlying. OctoMarket is deployed on Mantle, offering a broad range of tradable markets unavailable on most DeFi platforms.",
+                    "meta":  "OctoMarket is a synthetic omnichain perps DEX on Mantle supporting 100+ tradable assets. Discover OctoMarket on Lancers Web3 Explorer.",
+                    "pageTitle":  "OctoMarket - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://octomarket.org/",
+                  "twitter":  "https://x.com/OctoMarket"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "0x",
+                                           "1delta",
+                                           "agni"
+                                       ],
+                      "related":  [
+                                      "algebra-protocol",
+                                      "archly-v2",
+                                      "banxa"
+                                  ]
+                  }
 }

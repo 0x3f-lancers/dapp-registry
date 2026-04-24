@@ -1,35 +1,35 @@
 {
-  "slug": "knowyourcat",
-  "name": "KnowYourCat",
-  "logoUrl": "https://x.com/Knowyourcat_id/photo",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "KnowYourCat is a cross-chain attestation data aggregator building portable on-chain and off-chain reputation profiles for dApps on Mantle.",
-    "description": "KnowYourCat is an identity and reputation infrastructure protocol that aggregates attestation data from multiple on-chain and off-chain sources to build comprehensive user reputation profiles portable across different blockchains. These profiles are made available to dApps through the protocol's cross-chain infrastructure, enabling applications to use rich reputation data for gating, personalization, and improved user experiences. Deployed on Mantle, KnowYourCat provides foundational identity infrastructure for the network's ecosystem.",
-    "meta": "KnowYourCat aggregates cross-chain attestation data to build portable reputation profiles for dApps on Mantle. Discover KnowYourCat on Lancers Web3 Explorer.",
-    "pageTitle": "KnowYourCat - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://knowyourcat.id/",
-    "twitter": "https://x.com/Knowyourcat_id"
-  },
-  "relations": {
-    "alternatives": [
-      "atlas",
-      "axelar",
-      "blockchair"
-    ],
-    "related": [
-      "chasm-network",
-      "cobo-argus",
-      "etherspot"
-    ]
-  }
+    "slug":  "knowyourcat",
+    "name":  "KnowYourCat",
+    "logoUrl":  "https://x.com/Knowyourcat_id/photo",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Web3 Bridges"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "KnowYourCat is a cross-chain attestation data aggregator building portable on-chain and off-chain reputation profiles for dApps on Mantle.",
+                    "description":  "KnowYourCat is an identity and reputation infrastructure protocol that aggregates attestation data from multiple on-chain and off-chain sources to build comprehensive user reputation profiles portable across different blockchains. These profiles are made available to dApps through the protocol\u0027s cross-chain infrastructure, enabling applications to use rich reputation data for gating, personalization, and improved user experiences. Deployed on Mantle, KnowYourCat provides foundational identity infrastructure for the network\u0027s ecosystem.",
+                    "meta":  "KnowYourCat aggregates cross-chain attestation data to build portable reputation profiles for dApps on Mantle. Discover KnowYourCat on Lancers Web3 Explorer.",
+                    "pageTitle":  "KnowYourCat - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://knowyourcat.id/",
+                  "twitter":  "https://x.com/Knowyourcat_id"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "atlas",
+                                           "axelar",
+                                           "blockchair"
+                                       ],
+                      "related":  [
+                                      "chasm-network",
+                                      "cobo-argus",
+                                      "etherspot"
+                                  ]
+                  }
 }

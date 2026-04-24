@@ -1,35 +1,40 @@
 {
-  "slug": "thirdweb",
-  "name": "Thirdweb",
-  "logoUrl": "https://x.com/thirdweb/photo",
-  "category": "NFT Dapps",
-  "subcategory": [
-    "NFT Marketplaces"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Thirdweb is a complete Web3 development framework providing SDKs, smart contracts, and infrastructure for building apps on Mantle.",
-    "description": "Thirdweb is an end-to-end Web3 development platform that gives developers everything they need to build, launch, and scale blockchain applications on Mantle and other networks. The platform offers pre-built, audited smart contract templates for NFTs, tokens, marketplaces, staking, and DeFi. Its SDK supports multiple programming languages including TypeScript, Python, Go, and Unity. Thirdweb also provides in-app wallet infrastructure, payment processing APIs, and managed RPC nodes, making it a one-stop development environment for Mantle builders.",
-    "meta": "Thirdweb is a complete Web3 development framework with SDKs and smart contracts for building on Mantle. Discover Thirdweb on Lancers Web3 Explorer.",
-    "pageTitle": "Thirdweb - Infrastructure - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://thirdweb.com/",
-    "twitter": "https://x.com/thirdweb"
-  },
-  "relations": {
-    "alternatives": [
-      "alchemy",
-      "chaingpt",
-      "charged-particles"
-    ],
-    "related": [
-      "cryptodo",
-      "element",
-      "galxe"
-    ]
-  }
+    "slug":  "thirdweb",
+    "name":  "thirdweb",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750682/web3-explorer/dapp-logos/thirdweb.jpg",
+    "category":  "Web3 Developer Tools",
+    "subcategory":  [
+                        "Web3 SDKs"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Solana",
+                   "OP Mainnet",
+                   "Arbitrum",
+                   "Polygon",
+                   "Avalanche",
+                   "Fantom",
+                   "Mantle"
+               ],
+    "pricing":  "Freemium",
+    "content":  {
+                    "short":  "thirdweb is the leading platform for web3 developers.",
+                    "description":  "Founded by Furqan Rydhan and Steven Bartlett in 2021, thirdweb is a leading platform for web3 developers. It enables builders to create, manage, and analyze their web3 applications using a comprehensive set of services, including analytics platforms, authentication protocols, and decentralized storage options. To date, more than 55,000 developers have used its products, and the company has been valued at $160 million.",
+                    "meta":  "thirdweb is the leading platform for web3 developers. Discover thirdweb and other Web3 Developer Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "thirdweb - Web3 Developer Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://thirdweb.com/",
+                  "twitter":  "https://x.com/thirdweb"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "portals-fi",
+                                           "quicknode-sdk"
+                                       ],
+                      "related":  [
+                                      "whal3s",
+                                      "cobra"
+                                  ]
+                  }
 }

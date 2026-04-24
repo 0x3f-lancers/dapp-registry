@@ -3,14 +3,8 @@
   "name": "Fibrous",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746936/web3-explorer/dapp-logos/fibrous-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Starknet",
-    "Ethereum",
-    "ZKsync"
-  ],
+  "subcategory": ["Decentralized Exchanges"],
+  "chains": ["Starknet", "Ethereum", "ZKsync"],
   "pricing": "",
   "content": {
     "short": "Fibrous is a price-fetching protocol that navigates trade routes to identify executable options, secures optimal returns, and reduces gas fees.",
@@ -23,13 +17,7 @@
     "twitter": "https://x.com/FibrousFinance"
   },
   "relations": {
-    "alternatives": [
-      "evo-exchange",
-      "balancer"
-    ],
-    "related": [
-      "binance-us",
-      "ezo"
-    ]
+    "alternatives": ["evo-exchange", "rubic", "balancer"],
+    "related": ["binance-us", "ezo"]
   }
 }

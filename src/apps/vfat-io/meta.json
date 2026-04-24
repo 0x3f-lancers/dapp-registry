@@ -1,35 +1,35 @@
 {
-  "slug": "vfat-io",
-  "name": "vfat.io",
-  "logoUrl": "https://x.com/vfat_io/photo",
-  "category": "Trading Tools",
-  "subcategory": [
-    "Crypto Portfolio Dashboards"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "vfat.io is a non-custodial DeFi dashboard for yield opportunities, portfolio tracking, and one-click actions.",
-    "description": "vfat.io is a multi-chain DeFi portfolio and yield management interface. Users can view wallet positions across EVM chains, discover yield opportunities, enter and exit pools, compound rewards, and interact with supported protocols from one dashboard. Its Yield view simplifies workflows that would otherwise require separate swaps, liquidity additions, staking, and harvest transactions. The platform uses self-custodied contract infrastructure so users keep control while automating complex actions. On Mantle, vfat.io helps users monitor and manage DeFi positions more efficiently.",
-    "meta": "vfat.io is a DeFi dashboard for yield discovery, portfolio tracking, and one-click actions on Mantle.",
-    "pageTitle": "vfat.io - DeFi Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://vfat.io/yield",
-    "twitter": "https://x.com/vfat_io"
-  },
-  "relations": {
-    "alternatives": [
-      "zapper",
-      "zerion",
-      "dune"
-    ],
-    "related": [
-      "odos",
-      "birdeye",
-      "matcha"
-    ]
-  }
+    "slug":  "vfat-io",
+    "name":  "vfat.io",
+    "logoUrl":  "https://x.com/vfat_io/photo",
+    "category":  "Trading Tools",
+    "subcategory":  [
+                        "Crypto Portfolio Dashboards"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "vfat.io is a non-custodial DeFi dashboard for yield opportunities, portfolio tracking, and one-click actions.",
+                    "description":  "vfat.io is a multi-chain DeFi portfolio and yield management interface. Users can view wallet positions across EVM chains, discover yield opportunities, enter and exit pools, compound rewards, and interact with supported protocols from one dashboard. Its Yield view simplifies workflows that would otherwise require separate swaps, liquidity additions, staking, and harvest transactions. The platform uses self-custodied contract infrastructure so users keep control while automating complex actions. On Mantle, vfat.io helps users monitor and manage DeFi positions more efficiently.",
+                    "meta":  "vfat.io is a DeFi dashboard for yield discovery, portfolio tracking, and one-click actions on Mantle.",
+                    "pageTitle":  "vfat.io - DeFi Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://vfat.io/yield",
+                  "twitter":  "https://x.com/vfat_io"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "zapper",
+                                           "zerion",
+                                           "dune"
+                                       ],
+                      "related":  [
+                                      "odos",
+                                      "birdeye",
+                                      "matcha"
+                                  ]
+                  }
 }

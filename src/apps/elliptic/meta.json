@@ -1,33 +1,40 @@
 {
   "slug": "elliptic",
   "name": "Elliptic",
-  "logoUrl": "https://img.logo.dev/elliptic.co?token=pk_NUv2jrsJTjedV5qvXMPw8w",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746671/web3-explorer/dapp-logos/elliptic.jpg",
   "category": "Web3 Security Tools",
   "subcategory": [
     "Blockchain Security Tools"
   ],
   "chains": [
-    "TON"
+    "Ethereum",
+    "Arbitrum",
+    "Starknet",
+    "OP Mainnet",
+    "Polygon",
+    "Solana"
   ],
-  "pricing": "Free",
+  "pricing": "",
   "content": {
-    "short": "Elliptic is a global leader in blockchain analytics, providing compliance solutions to detect and prevent crypto crime.",
-    "description": "Elliptic is a world-renowned blockchain analytics firm that provides essential compliance and risk management solutions for the crypto industry. Its platform enables financial institutions, exchanges, and businesses to monitor transactions on the TON blockchain and other major networks to identify and mitigate risks associated with money laundering, sanctions evasion, and other financial crimes. By providing deep data insights and real-time alerts, Elliptic helps organizations maintain regulatory compliance and build a safer environment for digital asset adoption.",
-    "meta": "Prevent financial crime with Elliptic's world-class blockchain analytics. Discover compliance tools on Lancers Web3 Explorer.",
+    "short": "Elliptic provides tools and compliance structures to keep wallets and crypto assets safe.",
+    "description": "Founded in 2013 by Dr. James Smith, Dr. Adam Joyce, and Dr. Tom Robinson, Elliptic was created to close the security and compliance gaps surrounding cryptocurrency assets. Organizations can engage Elliptic to investigate crimes involving cryptocurrency tokens and assets, including NFTs. Developers can leverage Elliptic's tools to observe how assets move across wallets and blockchains. With hundreds of compliance cases handled, Elliptic aims to make the crypto ecosystem safer for everyone.",
+    "meta": "Elliptic provides tools and compliance structures to keep wallets and crypto assets safe. Discover Elliptic and other Web3 Security Tools on Lancers Web3 Explorer.",
     "pageTitle": "Elliptic - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.elliptic.co/",
-    "twitter": "https://twitter.com/elliptic"
+    "twitter": "https://x.com/elliptic"
   },
   "relations": {
     "alternatives": [
-      "bugblow",
-      "guardian",
-      "0xteam"
+      "revoke-cash",
+      "glider",
+      "certora"
     ],
     "related": [
-      "tonkeeper"
+      "chainaware-ai",
+      "glider",
+      "rattle"
     ]
   }
 }

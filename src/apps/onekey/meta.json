@@ -1,35 +1,35 @@
 {
-  "slug": "onekey",
-  "name": "OneKey",
-  "logoUrl": "https://x.com/onekeyhq/photo",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "OneKey is an open-source self-custodial crypto wallet available as hardware, browser extension, and mobile app supporting Mantle and 40+ blockchains.",
-    "description": "OneKey is a fully open-source cryptocurrency wallet ecosystem offering hardware wallet devices, browser extension wallets, and mobile apps. The wallet supports over 40 blockchain networks including Mantle, with all code publicly auditable on GitHub for complete transparency. OneKey's hardware wallets provide offline key storage for maximum security, while the software wallets offer convenient access for daily DeFi use. The project has official recognition from Mantle Network as a recommended wallet for ecosystem users.",
-    "meta": "OneKey is an open-source self-custodial wallet in hardware and software supporting Mantle and 40+ chains. Discover OneKey on Lancers Web3 Explorer.",
-    "pageTitle": "OneKey - Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://onekey.so/",
-    "twitter": "https://x.com/onekeyhq"
-  },
-  "relations": {
-    "alternatives": [
-      "ankr",
-      "biconomy",
-      "birdeye-data-services"
-    ],
-    "related": [
-      "din-infura",
-      "flipside",
-      "hive-intelligence"
-    ]
-  }
+    "slug":  "onekey",
+    "name":  "OneKey",
+    "logoUrl":  "https://x.com/onekeyhq/photo",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "OneKey is an open-source self-custodial crypto wallet available as hardware, browser extension, and mobile app supporting Mantle and 40+ blockchains.",
+                    "description":  "OneKey is a fully open-source cryptocurrency wallet ecosystem offering hardware wallet devices, browser extension wallets, and mobile apps. The wallet supports over 40 blockchain networks including Mantle, with all code publicly auditable on GitHub for complete transparency. OneKey\u0027s hardware wallets provide offline key storage for maximum security, while the software wallets offer convenient access for daily DeFi use. The project has official recognition from Mantle Network as a recommended wallet for ecosystem users.",
+                    "meta":  "OneKey is an open-source self-custodial wallet in hardware and software supporting Mantle and 40+ chains. Discover OneKey on Lancers Web3 Explorer.",
+                    "pageTitle":  "OneKey - Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://onekey.so/",
+                  "twitter":  "https://x.com/onekeyhq"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "ankr",
+                                           "biconomy",
+                                           "birdeye-data-services"
+                                       ],
+                      "related":  [
+                                      "din-infura",
+                                      "flipside",
+                                      "hive-intelligence"
+                                  ]
+                  }
 }

@@ -1,35 +1,35 @@
 {
-  "slug": "xdao",
-  "name": "XDAO",
-  "logoUrl": "https://x.com/xdaoapp/photo",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "XDAO is a multichain no-code DAO creation platform enabling communities to form and govern decentralized organizations on Mantle without coding.",
-    "description": "XDAO is a no-code platform for creating and managing Decentralized Autonomous Organizations (DAOs) across multiple blockchain networks, allowing teams to launch a DAO with customizable governance parameters, treasury management, and voting mechanisms without any programming knowledge. The platform supports multi-signature wallets, on-chain proposal systems, and token distribution tools. Deployed on Mantle, XDAO makes decentralized governance accessible to any community in the ecosystem.",
-    "meta": "XDAO is a no-code multichain DAO creation platform enabling decentralized governance on Mantle. Discover XDAO on Lancers Web3 Explorer.",
-    "pageTitle": "XDAO - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.xdao.app/",
-    "twitter": "https://x.com/xdaoapp"
-  },
-  "relations": {
-    "alternatives": [
-      "ankr",
-      "biconomy",
-      "birdeye-data-services"
-    ],
-    "related": [
-      "din-infura",
-      "flipside",
-      "hive-intelligence"
-    ]
-  }
+    "slug":  "xdao",
+    "name":  "XDAO",
+    "logoUrl":  "https://x.com/xdaoapp/photo",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "XDAO is a multichain no-code DAO creation platform enabling communities to form and govern decentralized organizations on Mantle without coding.",
+                    "description":  "XDAO is a no-code platform for creating and managing Decentralized Autonomous Organizations (DAOs) across multiple blockchain networks, allowing teams to launch a DAO with customizable governance parameters, treasury management, and voting mechanisms without any programming knowledge. The platform supports multi-signature wallets, on-chain proposal systems, and token distribution tools. Deployed on Mantle, XDAO makes decentralized governance accessible to any community in the ecosystem.",
+                    "meta":  "XDAO is a no-code multichain DAO creation platform enabling decentralized governance on Mantle. Discover XDAO on Lancers Web3 Explorer.",
+                    "pageTitle":  "XDAO - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.xdao.app/",
+                  "twitter":  "https://x.com/xdaoapp"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "ankr",
+                                           "biconomy",
+                                           "birdeye-data-services"
+                                       ],
+                      "related":  [
+                                      "din-infura",
+                                      "flipside",
+                                      "hive-intelligence"
+                                  ]
+                  }
 }

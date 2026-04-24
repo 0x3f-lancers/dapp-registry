@@ -1,35 +1,54 @@
 {
-  "slug": "rubic",
-  "name": "Rubic",
-  "logoUrl": "https://x.com/CryptoRubic/photo",
-  "category": "DeFi Dapps",
-  "subcategory": [
-    "Decentralized Exchanges"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Rubic is a cross-chain swap aggregator and best-rate finder for trading assets across many networks.",
-    "description": "Rubic is a decentralized cross-chain and on-chain swap aggregator that searches across DEXs, bridges, intent protocols, and other liquidity sources to find efficient routes for token trades. Its documentation describes support for dozens of blockchains, a large token universe, and a best-rate finder designed to remove the manual work of comparing bridges and exchanges. Rubic keeps swaps non-custodial and provides SDK tooling for apps that want to add cross-chain trading. For Mantle users, Rubic helps route assets into, out of, and across the ecosystem.",
-    "meta": "Rubic aggregates DEXs and bridges for cross-chain and on-chain swaps. Discover Rubic on Lancers Web3 Explorer.",
-    "pageTitle": "Rubic - DeFi Dapps - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://rubic.exchange/",
-    "twitter": "https://x.com/CryptoRubic"
-  },
-  "relations": {
-    "alternatives": [
-      "xy-finance",
-      "openocean",
-      "odos"
-    ],
-    "related": [
-      "symbiosis",
-      "owlto-finance",
-      "router-protocol"
-    ]
-  }
+    "slug":  "rubic",
+    "name":  "Rubic",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749680/web3-explorer/dapp-logos/rubic.png",
+    "category":  "Web3 Developer Tools",
+    "subcategory":  [
+                        "Web3 SDKs"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Arbitrum",
+                   "Multichain",
+                   "Aptos",
+                   "Avalanche",
+                   "Bitcoin",
+                   "BNB Chain",
+                   "Celo",
+                   "Cosmos",
+                   "Cronos",
+                   "Fantom",
+                   "Immutable X",
+                   "Moonbeam",
+                   "Polygon",
+                   "OP Mainnet",
+                   "Polkadot",
+                   "Solana",
+                   "Tron",
+                   "ZKsync",
+                   "Sui",
+                   "Starknet",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Rubic is a cross-chain tech aggregator for users and dapps.",
+                    "description":  "Rubic delivers cross-chain capabilities for users and projects by aggregating blockchains, Web3 bridges, and decentralized exchanges. As a cross-chain solution aggregator for tokens and NFT bridges, signals, oracles, and smart contract executors, Rubic enables seamless interactions on your site. By integrating Rubic, users can swap tokens and NFTs across 15,500 assets, including fiat options in 250+ currencies, on both EVM and non-EVM chains without leaving your website. Your project can communicate with networks across different blockchains.",
+                    "meta":  "Rubic is a cross-chain tech aggregator for users and dapps. Discover Rubic and other Web3 Developer Tools on Lancers Web3 Explorer.",
+                    "pageTitle":  "Rubic - Web3 Developer Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://rubic.exchange/",
+                  "twitter":  "https://x.com/CryptoRubic"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "moralis",
+                                           "particle-network"
+                                       ],
+                      "related":  [
+                                      "vscode",
+                                      "ethfiddle"
+                                  ]
+                  }
 }

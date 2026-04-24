@@ -1,35 +1,35 @@
 {
-  "slug": "everclear",
-  "name": "Everclear",
-  "logoUrl": "https://x.com/everclearorg/photo",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "Blockchain Interoperability Tools"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Everclear is a cross-chain clearing and settlement protocol for intents, bridges, and solver networks.",
-    "description": "Everclear is a clearing layer designed to reduce cross-chain liquidity fragmentation for bridges, intent protocols, solver networks, and applications. Instead of forcing solvers to rebalance funds manually after every fill, Everclear nets opposing flows and settles obligations through a hub-and-spoke architecture. The protocol supports programmable settlement, permissionless chain expansion, and intent-based flows that can lower rebalancing costs for market participants. On Mantle, Everclear provides infrastructure that can help applications access more efficient cross-chain settlement and liquidity routing.",
-    "meta": "Everclear provides cross-chain clearing and settlement infrastructure for intent-based applications on Mantle.",
-    "pageTitle": "Everclear - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.everclear.org/",
-    "twitter": "https://x.com/everclearorg"
-  },
-  "relations": {
-    "alternatives": [
-      "mitosis",
-      "opengdp-shared-security",
-      "agentlayer"
-    ],
-    "related": [
-      "automata",
-      "bitverse",
-      "boomfi"
-    ]
-  }
+    "slug":  "everclear",
+    "name":  "Everclear",
+    "logoUrl":  "https://x.com/everclearorg/photo",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Blockchain Interoperability Tools"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Everclear is a cross-chain clearing and settlement protocol for intents, bridges, and solver networks.",
+                    "description":  "Everclear is a clearing layer designed to reduce cross-chain liquidity fragmentation for bridges, intent protocols, solver networks, and applications. Instead of forcing solvers to rebalance funds manually after every fill, Everclear nets opposing flows and settles obligations through a hub-and-spoke architecture. The protocol supports programmable settlement, permissionless chain expansion, and intent-based flows that can lower rebalancing costs for market participants. On Mantle, Everclear provides infrastructure that can help applications access more efficient cross-chain settlement and liquidity routing.",
+                    "meta":  "Everclear provides cross-chain clearing and settlement infrastructure for intent-based applications on Mantle.",
+                    "pageTitle":  "Everclear - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.everclear.org/",
+                  "twitter":  "https://x.com/everclearorg"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "mitosis",
+                                           "opengdp-shared-security",
+                                           "agentlayer"
+                                       ],
+                      "related":  [
+                                      "automata",
+                                      "bitverse",
+                                      "boomfi"
+                                  ]
+                  }
 }

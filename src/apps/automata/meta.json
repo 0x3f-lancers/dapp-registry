@@ -1,35 +1,35 @@
 {
-  "slug": "automata",
-  "name": "Automata",
-  "logoUrl": "https://x.com/AutomataNetwork/photo",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "RPC Node Providers"
-  ],
-  "chains": [
-    "Mantle"
-  ],
-  "pricing": "free",
-  "content": {
-    "short": "Automata Network is a decentralized attestation layer providing hardware-anchored trust and privacy-preserving infrastructure for the Web3 ecosystem.",
-    "description": "Automata Network provides high-performance privacy and verification services through a decentralized network of Trusted Execution Environments (TEEs). By anchoring trust in specialized hardware, Automata enables secure computations and verifiable attestations for autonomous agents and smart contracts. Supporting the Mantle Network, Automata offers essential infrastructure for protocols that require confidential on-chain operations and robust, machine-verifiable security standards.",
-    "meta": "Automata Network provides hardware-anchored trust and privacy infrastructure for Mantle. Discover Automata on Lancers Web3 Explorer.",
-    "pageTitle": "Automata - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.ata.network/",
-    "twitter": "https://x.com/AutomataNetwork"
-  },
-  "relations": {
-    "alternatives": [
-      "agentlayer",
-      "boomfi",
-      "drpc"
-    ],
-    "related": [
-      "omnia-protocol",
-      "phalcon",
-      "range-protocol"
-    ]
-  }
+    "slug":  "automata",
+    "name":  "Automata",
+    "logoUrl":  "https://x.com/AutomataNetwork/photo",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "RPC Node Providers"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "Automata Network is a decentralized attestation layer providing hardware-anchored trust and privacy-preserving infrastructure for the Web3 ecosystem.",
+                    "description":  "Automata Network provides high-performance privacy and verification services through a decentralized network of Trusted Execution Environments (TEEs). By anchoring trust in specialized hardware, Automata enables secure computations and verifiable attestations for autonomous agents and smart contracts. Supporting the Mantle Network, Automata offers essential infrastructure for protocols that require confidential on-chain operations and robust, machine-verifiable security standards.",
+                    "meta":  "Automata Network provides hardware-anchored trust and privacy infrastructure for Mantle. Discover Automata on Lancers Web3 Explorer.",
+                    "pageTitle":  "Automata - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.ata.network/",
+                  "twitter":  "https://x.com/AutomataNetwork"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "agentlayer",
+                                           "boomfi",
+                                           "drpc"
+                                       ],
+                      "related":  [
+                                      "omnia-protocol",
+                                      "phalcon",
+                                      "range-protocol"
+                                  ]
+                  }
 }
