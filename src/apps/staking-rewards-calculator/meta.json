@@ -2,9 +2,9 @@
   "slug": "staking-rewards-calculator",
   "name": "Staking Rewards Calculator",
   "logoUrl": "https://cdn.cardanocube.com/2rbs4zzugsco59jqp1smcu5ukrqk",
-  "category": "Infrastructure Tools",
+  "category": "DeFi Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Analytics Tools"
   ],
   "chains": [
     "Cardano"
@@ -13,8 +13,8 @@
   "content": {
     "short": "The Staking Rewards Calculator provides precise ADA staking return projections for Cardano users and delegators.",
     "description": "The Staking Rewards Calculator is a vital financial tool for Cardano users, providing precise projections for ADA staking returns. By inputting the amount of ADA held and various network parameters, users can estimate their epoch-by-epoch rewards and annual percentage yield (APY). The tool accounts for pool performance, saturation levels, and transaction fees, offering a transparent view of the non-custodial staking model. As an essential resource for informed delegation, the calculator helps ADA holders maximize their passive income while supporting the security of the blockchain.",
-    "meta": "The Staking Rewards Calculator provides precise ADA staking return projections for Cardano users. Explore it on Lancers Web3 Explorer.",
-    "pageTitle": "Staking Rewards Calculator - Infrastructure Tools - Lancers Web3 Explorer"
+    "meta": "The Staking Rewards Calculator provides ADA staking projections and delegation analytics for Cardano users. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "Staking Rewards Calculator - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://dynamicstrategies.io/crewardcalculator/",
@@ -23,14 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "bitquery",
-      "ascn",
-      "orcfax"
+      "poolinfo",
+      "adastat",
+      "cexplorer"
     ],
     "related": [
-      "mailchain",
-      "chainnodes",
-      "cexplorer"
+      "cardanoscan",
+      "stake2wallet",
+      "poolpm"
     ]
   }
 }

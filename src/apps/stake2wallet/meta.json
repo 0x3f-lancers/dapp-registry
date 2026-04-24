@@ -2,9 +2,9 @@
   "slug": "stake2wallet",
   "name": "Stake 2 wallet",
   "logoUrl": "https://cdn.cardanocube.com/ryg4udh34uau0jghvtfnsunseouz",
-  "category": "Infrastructure Tools",
+  "category": "Web3 Wallet Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Token Management Tools"
   ],
   "chains": [
     "Cardano"
@@ -13,8 +13,8 @@
   "content": {
     "short": "Stake 2 wallet is a specialized SPO utility for mapping Cardano staking addresses to wallet addresses.",
     "description": "Stake 2 wallet (part of the Poolinfo.me suite) is a critical technical utility specifically designed for Cardano Stake Pool Operators (SPOs). The tool enables operators to map public staking credentials to the corresponding wallet addresses of their delegators, facilitating direct community engagement. This functionality is essential for conducting accurate token airdrops, managing loyalty rewards, and organizing governance participation without requiring users to manually submit their data. By streamlining the connection between pools and delegators, Stake 2 wallet supports network health.",
-    "meta": "Stake 2 wallet is a Cardano SPO tool for mapping staking credentials to delegator wallet addresses. Explore it on Lancers Web3 Explorer.",
-    "pageTitle": "Stake 2 wallet - Infrastructure Tools - Lancers Web3 Explorer"
+    "meta": "Stake 2 wallet is a Cardano SPO tool for mapping staking credentials to delegator wallet addresses for rewards and campaigns. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "Stake 2 wallet - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://stake-2-wallet.poolinfo.me/",
@@ -23,14 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "token-terminal",
-      "o7node",
-      "itheum"
+      "dripdropz",
+      "tosidrop",
+      "poolinfo"
     ],
     "related": [
-      "elk-finance",
-      "birdeye-so",
-      "orcfax"
+      "cexplorer",
+      "cardanoscan",
+      "staking-rewards-calculator"
     ]
   }
 }

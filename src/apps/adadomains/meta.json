@@ -2,9 +2,9 @@
   "slug": "adadomains",
   "name": "AdaDomains.io",
   "logoUrl": "https://cdn.cardanocube.com/oibk0qqow5b09pxsbaise7s16mft",
-  "category": "Infrastructure Tools",
+  "category": "Web3 Wallet Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Name Service Tools"
   ],
   "chains": [
     "Cardano"
@@ -12,9 +12,9 @@
   "pricing": "Free",
   "content": {
     "short": "AdaDomains is a Cardano naming system for .ada NFT domains, wallet records, and web identity tools today.",
-    "description": "AdaDomains is a blockchain-based naming system built on Cardano as a decentralized alternative to traditional DNS. In the project’s model, each domain is represented by NFTs that identify the domain itself and its ownership, while associated data is stored on-chain in UTXOs with inline datums. The system is designed so human-readable .ada names can resolve to Cardano wallet addresses, regular or IPFS-hosted websites, socials, contact details, and other custom attributes. AdaDomains also supports subdomains and third-party integrations that want to use Cardano-based name resolution.",
-    "meta": "AdaDomains provides .ada NFT domains and Cardano name resolution for wallets, websites, and identity. Explore AdaDomains on Lancers Web3 Explorer.",
-    "pageTitle": "AdaDomains.io - Infrastructure Tools - Lancers Web3 Explorer"
+    "description": "AdaDomains is a Cardano naming system designed as a decentralized alternative to traditional DNS. In its model, each domain is represented by NFTs that track both the name and its ownership, while associated records can resolve to Cardano wallet addresses, websites, social profiles, contact details, and other custom attributes. The project also supports subdomains and third-party integrations that want to use Cardano-based name resolution for identity and wallet discovery.",
+    "meta": "AdaDomains provides .ada NFT domains and Cardano name resolution for wallets, websites, and identity. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "AdaDomains.io - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.adadomains.io/",

@@ -2,19 +2,19 @@
   "slug": "bloxbean",
   "name": "BloxBean",
   "logoUrl": "https://cdn.cardanocube.com/tr4k1ro2ahein7rw4pmlgk5v8up1",
-  "category": "Infrastructure Tools",
+  "category": "Web3 Developer Tools",
   "subcategory": [
-    "Web3 Data Tools"
+    "Web3 SDKs"
   ],
   "chains": [
     "Cardano"
   ],
   "pricing": "Free",
   "content": {
-    "short": "List of OpenSource projects aimed at solving tooling issues and development challenges on blockchain protocols.",
-    "description": "BloxBean is a group of opensource projects aimed at providing developer tooling or frameworks for existing blockchain protocols. The key goals of these projects are: ‍ BloxBean is a group of opensource projects aimed at providing developer tooling or frameworks for existing blockchain protocols. The key goals of these projects are: ‍ List of OpenSource projects aimed at solving tooling issues and development challenges on blockchain protocols. List of OpenSource projects aimed at solving tooling issues and development challenges on blockchain protocols.",
-    "meta": "A group of opensource projects aimed at providing developer tooling or frameworks for existing blockchain. Explore BloxBean on Lancers Web3 Explorer.",
-    "pageTitle": "BloxBean - Infrastructure Tools - Lancers Web3 Explorer"
+    "short": "BloxBean builds open-source SDKs and developer tooling for teams building on Cardano and other blockchain networks.",
+    "description": "BloxBean is an open-source developer tooling project focused on SDKs, frameworks, and implementation support for blockchain builders. Its work is aimed at helping teams solve common development challenges, integrate blockchain functionality more easily, and accelerate application development with reusable tooling. In the Cardano ecosystem, BloxBean fits best as a developer-focused toolkit for engineers who need practical infrastructure and software components rather than end-user products.",
+    "meta": "BloxBean builds open-source SDKs and developer tooling for Cardano and other blockchain networks. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "BloxBean - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.bloxbean.com/",
@@ -23,14 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "space-and-time",
-      "flipside",
-      "0xgraph"
+      "mesh",
+      "opshin",
+      "anastasia-labs"
     ],
     "related": [
-      "token-terminal",
-      "outposts",
-      "cexplorer"
+      "blockfrost",
+      "blinklabs",
+      "cardanoscan"
     ]
   }
 }

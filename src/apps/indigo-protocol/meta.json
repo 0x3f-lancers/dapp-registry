@@ -4,7 +4,8 @@
   "logoUrl": "https://cdn.cardanocube.com/bvtgbb9jvupq83fs39o2vdu0h553",
   "category": "DeFi Dapps",
   "subcategory": [
-    "Decentralized Exchanges"
+    "Decentralized CDPs",
+    "Decentralized Synthetics"
   ],
   "chains": [
     "Cardano"
@@ -23,14 +24,14 @@
   },
   "relations": {
     "alternatives": [
-      "flooz-trade",
-      "yamfore",
-      "foxify"
+      "ada-dao",
+      "xsy",
+      "stablecoin"
     ],
     "related": [
-      "better-fan",
-      "nexo",
-      "gimbalabs"
+      "liqwid",
+      "optim-finance",
+      "usdm"
     ]
   }
 }
