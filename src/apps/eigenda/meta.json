@@ -1,0 +1,37 @@
+{
+  "slug": "eigenda",
+  "name": "EigenDA",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339979/dapp-store-logos/eigenda.jpg",
+  "category": "Blockchains",
+  "subcategory": [
+    "Data Availability Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "EigenDA is a high-throughput decentralized data availability layer built on top of the EigenLayer protocol.",
+    "description": "EigenDA is a revolutionary data availability (DA) layer designed to significantly enhance the scalability and security of decentralized networks. Built as the first Actively Validated Service (AVS) on EigenLayer, EigenDA leverages Ethereum's robust security through restaking while providing a massive boost in data throughput. This specialized infrastructure allows rollups and other Layer 2 solutions to offload their data storage needs to a decentralized network of operators, drastically reducing transaction costs for end users. By decoupling data availability from execution, EigenDA provides a highly efficient and reliable foundation for the next generation of high-performance decentralized applications and modular blockchain architectures.",
+    "meta": "EigenDA is a high-performance decentralized data availability layer powered by EigenLayer, offering scalable and secure data storage for Web3.",
+    "pageTitle": "EigenDA - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.eigenda.xyz/",
+    "docs": "https://docs.eigencloud.xyz/eigenda/core-concepts/overview",
+    "twitter": "https://x.com/eigen_da"
+  },
+  "relations": {
+    "alternatives": [
+      "kyve-network",
+      "avail",
+      "celestia"
+    ],
+    "related": [
+      "hela-labs",
+      "celer-network",
+      "immutablex"
+    ]
+  }
+}

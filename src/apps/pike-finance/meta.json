@@ -1,0 +1,39 @@
+{
+  "slug": "pike-finance",
+  "name": "Pike Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775655339/dapp-store-logos/pike-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Arbitrum",
+    "OP Mainnet"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Pike Finance is a cross-chain lending market designed for native asset interoperability.",
+    "description": "Pike Finance is a decentralized, cross-chain money market that enables users to supply and borrow native assets across multiple blockchain networks without the need for traditional bridges or wrapped tokens. Utilizing a hub-and-spoke architecture, Pike allows for seamless liquidity movement and high capital efficiency, ensuring that users can leverage their collateral on one chain to access liquidity on another in a secure and transparent manner. The protocol prioritizes native asset security and minimizes the risks associated with cross-chain fragmentation in DeFi.",
+    "meta": "Pike Finance is a cross-chain lending protocol enabling native asset borrowing. Discover Pike Finance and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Pike Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://pike.finance",
+    "twitter": "https://twitter.com/PikeFinance"
+  },
+  "relations": {
+    "alternatives": [
+      "1delta",
+      "minterest",
+      "quarry"
+    ],
+    "related": [
+      "infrared",
+      "contango",
+      "katana"
+    ]
+  }
+}

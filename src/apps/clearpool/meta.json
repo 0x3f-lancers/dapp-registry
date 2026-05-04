@@ -1,37 +1,31 @@
 {
   "slug": "clearpool",
   "name": "Clearpool",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745732/web3-explorer/dapp-logos/clearpool.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339947/dapp-store-logos/clearpool.jpg",
   "category": "Real World Asset Dapps",
   "subcategory": [
-    "Private Credit RWAs",
-    "Tokenized equities RWAs"
+    "Private Credit RWAs"
   ],
   "chains": [
     "Ethereum",
-    "Solana"
+    "Polygon",
+    "Base",
+    "OP Mainnet"
   ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Clearpool is the first decentralized credit marketplace enabling efficient lending and borrowing.",
-    "description": "Clearpool is a decentralized finance ecosystem that introduces the first permissionless marketplace for unsecured institutional liquidity. Through permissionless single-borrower pools, institutions can raise short-term capital while DeFi lenders pursue risk-adjusted returns, with interest rates set by market consensus. The system relies on supply and demand to connect borrowers with lenders, delivering open access to liquidity and competitively priced funding without the need for traditional intermediaries.",
-    "meta": "Clearpool is DeFi platform with permissionless marketplace for unsecured institutional liquidity. Discover Clearpool and other Web3 apps on Lancers Web3 Explorer.",
+    "short": "Decentralized credit marketplace enabling efficient lending.",
+    "description": "Clearpool is a Real World Asset Dapps project focused on private credit rwas supporting Ethereum, Polygon, Mantle, Base, OP Mainnet.",
+    "meta": "Clearpool is a Real World Asset Dapps on Ethereum. Discover it on Lancers Web3 Explorer.",
     "pageTitle": "Clearpool - Real World Asset Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://clearpool.finance/",
+    "website": "https://clearpool.finance",
     "twitter": "https://x.com/ClearpoolFin"
   },
   "relations": {
-    "alternatives": [
-      "ink-finance",
-      "goldfinch",
-      "credix"
-    ],
-    "related": [
-      "liminal",
-      "simplefx",
-      "meme-city"
-    ]
+    "alternatives": [],
+    "related": []
   }
 }

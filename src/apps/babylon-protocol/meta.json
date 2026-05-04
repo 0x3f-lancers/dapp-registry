@@ -1,0 +1,38 @@
+{
+  "slug": "babylon-protocol",
+  "name": "Babylon Protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339889/dapp-store-logos/babylon-protocol.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Babylon is a revolutionary Bitcoin staking protocol that brings Bitcoin's security to PoS networks.",
+    "description": "Babylon is a groundbreaking security protocol that enables Bitcoin holders to stake their BTC to secure various Proof-of-Stake (PoS) blockchains. By creating a decentralized marketplace for Bitcoin's immense security value, Babylon allows PoS networks to inherit the robust economic safety of the Bitcoin network without requiring BTC to be moved or wrapped. This innovative approach unlocks new utility for dormant Bitcoin while providing emerging ecosystems with a reliable foundation for growth. Babylon's architecture includes advanced timestamping and finality mechanisms, creating a more interconnected and secure Web3 landscape where Bitcoin serves as the ultimate anchor of trust.",
+    "meta": "Babylon Protocol enables Bitcoin staking to secure Proof-of-Stake blockchains, bringing Bitcoin's robust economic security to the broader Web3 ecosystem.",
+    "pageTitle": "Babylon Protocol - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://babylonchain.io",
+    "github": "https://github.com/babylonlabs-io/",
+    "docs": "https://docs.babylonlabs.io/",
+    "twitter": "https://x.com/babylonlabs_io"
+  },
+  "relations": {
+    "alternatives": [
+      "superchain-dev-console",
+      "herodotus-dev",
+      "anyalt"
+    ],
+    "related": [
+      "birdeye-so",
+      "subquery",
+      "oortech"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "ambient-finance",
+  "name": "Ambient Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339866/dapp-store-logos/ambient-finance.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Ambient is a zero-to-one decentralized exchange that runs an entire DEX within a single smart contract.",
+    "description": "Ambient Finance (formerly CrocSwap) is a revolutionary decentralized exchange protocol that consolidates the entire DEX infrastructure into a single smart contract. This innovative 'singleton' architecture significantly reduces gas costs for traders and liquidity providers by eliminating the need for expensive cross-contract token transfers. Ambient supports a diverse range of liquidity models, including concentrated liquidity, constant product pools, and 'knock-out' liquidity, all within a unified framework. The protocol is designed for maximum capital efficiency and high-speed execution, providing a professional-grade trading environment that scales seamlessly across various blockchain networks while maintaining full decentralization and permissionless access.",
+    "meta": "Ambient Finance is a high-efficiency DEX protocol featuring a unique singleton architecture and diverse liquidity models for optimized Web3 trading.",
+    "pageTitle": "Ambient Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ambient.finance",
+    "docs": "https://docs.ambient.finance/",
+    "twitter": "https://x.com/ambient_finance"
+  },
+  "relations": {
+    "alternatives": [
+      "cellana",
+      "balancer",
+      "loopring"
+    ],
+    "related": [
+      "suilend",
+      "baltex.io",
+      "deri-protocol"
+    ]
+  }
+}

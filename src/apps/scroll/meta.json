@@ -1,0 +1,36 @@
+{
+  "slug": "scroll",
+  "name": "Scroll",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860431/dapp-store-logos/scroll.jpg",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Scroll is a high-performance zkEVM Layer 2 network that brings Ethereum's security to a scalable environment.",
+    "description": "Scroll is a revolutionary Type 2 zkEVM network developed to provide a highly scalable and secure environment for decentralized applications. By utilizing zero-knowledge proof technology, Scroll ensures that transactions are verified with the full security of the Ethereum mainnet while offering significantly higher throughput and lower costs. The network is fully compatible with existing Ethereum developer tools and smart contracts, allowing for a seamless transition for both developers and users. Scroll focuses on fostering a vibrant ecosystem of dApps, from DeFi to gaming and social media, serving as a critical engine for the mass adoption of Ethereum and the next generation of decentralized innovation.",
+    "meta": "Scroll is a premier zkEVM Layer 2 network, offering high scalability, low fees, and the full security of Ethereum for decentralized applications.",
+    "pageTitle": "Scroll - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://scroll.io",
+    "twitter": "https://twitter.com/Scroll_ZKP"
+  },
+  "relations": {
+    "alternatives": [
+      "op-mainnet",
+      "starknet",
+      "abstract-chain"
+    ],
+    "related": [
+      "near",
+      "metis",
+      "rei-network"
+    ]
+  }
+}

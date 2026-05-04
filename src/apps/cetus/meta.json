@@ -1,0 +1,40 @@
+{
+  "slug": "cetus",
+  "name": "Cetus",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339944/dapp-store-logos/cetus.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Sui",
+    "Aptos"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Cetus is a leading concentrated liquidity protocol and DEX built on the Sui and Aptos blockchains.",
+    "description": "Cetus is a premier automated market maker (AMM) and concentrated liquidity protocol natively designed for the Move-based ecosystems of Sui and Aptos. By allowing liquidity providers to concentrate their capital within specific price ranges, Cetus significantly enhances capital efficiency and reduces slippage for traders. The platform features a highly flexible and permissionless infrastructure that supports a wide variety of trading pairs and innovative incentive structures. With its focus on performance, security, and deep liquidity, Cetus serves as a foundational building block for decentralized finance innovation, empowering users to execute sophisticated trading strategies within a high-speed, low-fee environment.",
+    "meta": "Cetus is the leading concentrated liquidity DEX on Sui and Aptos, offering high-efficiency trading and optimized liquidity management for Web3 users.",
+    "pageTitle": "Cetus - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cetus.zone",
+    "github": "https://github.com/CetusProtocol",
+    "docs": "https://cetus-1.gitbook.io/cetus-docs",
+    "twitter": "https://x.com/CetusProtocol",
+    "telegram": "https://t.me/CetusDevNews"
+  },
+  "relations": {
+    "alternatives": [
+      "agni-finance",
+      "ambient-finance",
+      "blasterswap"
+    ],
+    "related": [
+      "orca",
+      "dodo",
+      "joule-finance"
+    ]
+  }
+}

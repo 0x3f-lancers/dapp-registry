@@ -1,0 +1,41 @@
+{
+  "slug": "squid-router",
+  "name": "Squid Router",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860440/dapp-store-logos/squid-router.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "Avalanche",
+    "Cosmos"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Squid is a leading cross-chain liquidity and swap protocol powered by Axelar for seamless asset transfers.",
+    "description": "Squid Router is a powerful omnichain infrastructure tool designed to simplify and optimize the process of moving assets across diverse blockchain networks. By utilizing Axelar's cross-chain communication protocol, Squid enables users to swap any token between any chain with near-instant finality and minimal slippage. The platform features an intuitive interface and advanced routing logic that accounts for gas costs and liquidity depth, ensuring that participants receive the best possible rates for their transactions. Squid focuses on providing a secure, permissionless, and highly scalable environment, serving as a critical discovery layer for liquidity and decentralized asset management in the fragmented multi-chain Web3 landscape.",
+    "meta": "Squid Router is a premier cross-chain liquidity and swap protocol, offering seamless asset transfers across dozens of blockchain networks via Axelar.",
+    "pageTitle": "Squid Router - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://squidrouter.com",
+    "twitter": "https://twitter.com/squidrouter"
+  },
+  "relations": {
+    "alternatives": [
+      "celer-cbridge",
+      "hashport",
+      "bungee"
+    ],
+    "related": [
+      "hyper-oracle",
+      "nansen",
+      "insightx"
+    ]
+  }
+}

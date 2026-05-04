@@ -1,0 +1,38 @@
+{
+  "slug": "frame",
+  "name": "Frame",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340019/dapp-store-logos/frame.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Frame is a privacy-focused decentralized protocol for secure and transparent digital identity management.",
+    "description": "Frame is an innovative decentralized protocol designed to provide users with a secure and privacy-centric framework for managing their digital identities across the Web3 landscape. By utilizing advanced cryptographic techniques and zero-knowledge proofs, Frame ensures that participants can verify their credentials and achievements without compromising their personal data. The platform features a modular toolkit that integrates seamlessly into existing dApps, providing essential infrastructure for the emerging reputation economy. Frame prioritizes data sovereignty and user control, creating a more accountable and inclusive digital environment where identities are verifiable, portable, and resistant to centralized control.",
+    "meta": "Frame provides decentralized digital identity and privacy-focused credential management tools for the evolving Web3 ecosystem.",
+    "pageTitle": "Frame - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://frame.sh/",
+    "github": "https://github.com/floating/frame",
+    "docs": "https://docs.frame.sh/",
+    "twitter": "https://x.com/0xFrame"
+  },
+  "relations": {
+    "alternatives": [
+      "kuma-wallet",
+      "fluvi-wallet",
+      "utila"
+    ],
+    "related": [
+      "mpcvault",
+      "phantom",
+      "petra-wallet"
+    ]
+  }
+}

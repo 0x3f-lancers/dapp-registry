@@ -1,17 +1,13 @@
 {
   "slug": "crossmint",
   "name": "Crossmint",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746007/web3-explorer/dapp-logos/crossmint.svg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339959/dapp-store-logos/crossmint.png",
   "category": "Web3 Wallet Tools",
   "subcategory": [
-    "Embedded Wallets",
-    "Fiat Onramps",
-    "Web3 Payment Tools",
-    "Wallet Developer Tools"
+    "Embedded Wallets"
   ],
   "chains": [
     "Polygon",
-    "Avalanche",
     "Solana",
     "Base",
     "Arbitrum",
@@ -19,26 +15,20 @@
     "Aptos",
     "Sui"
   ],
-  "pricing": "Paid",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Crossmint provides enterprise-grade, all-in-one stablecoin infrastructure with wallets, on/offramps, and cross-chain orchestration via a single API.",
-    "description": "Crossmint delivers enterprise-grade, all-in-one stablecoin and wallet infrastructure that lets fintechs and enterprises deploy stablecoin rails and smart wallets with speed, compliance, and scale. The platform includes embedded smart wallets, on/off ramps, cross-chain stablecoin orchestration, token checkout, and other blockchain primitives via simple, developer-friendly APIs that require no blockchain engineers. Trusted by more than 40,000 clients, including MoneyGram, WireX, and Toku, Crossmint emphasizes a smooth integration experience and scalable security across multi-chain deployments.",
-    "meta": "Crossmint offers stablecoin rails and smart-wallet infrastructure for compliant integration. Discover Crossmint and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Crossmint - Web3 Wallets - Lancers Web3 Explorer"
+    "short": "Infrastructure for wallets, ramps, and cross-chain orchestration.",
+    "description": "Crossmint is a Web3 Wallet Tools project focused on embedded wallets supporting Polygon, Solana, Base, Arbitrum, OP Mainnet, Aptos, Sui.",
+    "meta": "Crossmint is a Web3 Wallet Tools on Polygon. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "Crossmint - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.crossmint.io/",
+    "website": "https://crossmint.com",
     "twitter": "https://x.com/crossmint"
   },
   "relations": {
-    "alternatives": [
-      "okcontract",
-      "tixhive",
-      "underdog-protocol"
-    ],
-    "related": [
-      "genie",
-      "kodadot"
-    ]
+    "alternatives": [],
+    "related": []
   }
 }

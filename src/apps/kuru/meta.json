@@ -1,0 +1,38 @@
+{
+  "slug": "kuru",
+  "name": "Kuru",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860331/dapp-store-logos/kuru.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Kuru is a high-performance on-chain Central Limit Order Book (CLOB) DEX built on Monad.",
+    "description": "Kuru is a revolutionary decentralized exchange built on the ultra-fast Monad blockchain, offering a fully on-chain Central Limit Order Book (CLOB). Unlike traditional AMMs, Kuru provides traders with an institutional-grade experience featuring sub-second execution, transparent price discovery, and deep liquidity for spot assets. By leveraging Monad's parallel execution capabilities, Kuru eliminates the trade-offs between decentralization and performance, making high-frequency trading and complex order types accessible to everyone on-chain.",
+    "meta": "Kuru is an on-chain CLOB decentralized exchange on Monad, delivering high-speed trading. Discover Kuru and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Kuru - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://kuru.io/",
+    "github": "https://github.com/Kuru-Labs",
+    "docs": "https://docs.kuru.io/",
+    "twitter": "https://twitter.com/KuruExchange"
+  },
+  "relations": {
+    "alternatives": [
+      "ix-swap",
+      "velodrome",
+      "enzyme"
+    ],
+    "related": [
+      "sharpe",
+      "shapeshift",
+      "solend"
+    ]
+  }
+}

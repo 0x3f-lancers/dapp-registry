@@ -1,0 +1,37 @@
+{
+  "slug": "linea",
+  "name": "Linea",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860334/dapp-store-logos/linea.jpg",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Linea is a high-performance zkEVM Layer 2 network that brings Ethereum's security to a scalable environment.",
+    "description": "Linea is a revolutionary Type 2 zkEVM network developed by Consensys to provide a highly scalable and secure environment for decentralized applications. By utilizing zero-knowledge proof technology, Linea ensures that transactions are verified with the full security of the Ethereum mainnet while offering significantly higher throughput and lower costs. The network is fully compatible with existing Ethereum developer tools and smart contracts, allowing for a seamless transition for both developers and users. Linea focuses on fostering a vibrant ecosystem of dApps, from DeFi to gaming and social media, serving as a critical engine for the mass adoption of Ethereum and the next generation of decentralized innovation.",
+    "meta": "Linea is a premier zkEVM Layer 2 network, offering high scalability, low fees, and the full security of Ethereum for decentralized applications.",
+    "pageTitle": "Linea - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://linea.build",
+    "docs": "https://docs.linea.build/",
+    "twitter": "https://twitter.com/LineaBuild"
+  },
+  "relations": {
+    "alternatives": [
+      "op-mainnet",
+      "taiko",
+      "eclipse"
+    ],
+    "related": [
+      "near",
+      "starknet",
+      "shardeum"
+    ]
+  }
+}

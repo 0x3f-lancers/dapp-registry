@@ -1,34 +1,29 @@
 {
   "slug": "conduit",
   "name": "Conduit",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745863/web3-explorer/dapp-logos/conduit.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339952/dapp-store-logos/conduit.jpg",
   "category": "RaaS Tools",
   "subcategory": [
     "Rollups-as-a-Service (RaaS)"
   ],
   "chains": [
-    "OP Mainnet",
-    "Arbitrum"
+    "Ethereum",
+    "Base"
   ],
-  "pricing": "Paid",
+  "tags": [],
+  "pricing": "Free",
   "content": {
-    "short": "Conduit lets you launch your own production-ready OP Stack rollup in minutes on the only self-serve RaaS platform.",
-    "description": "Conduit is a crypto-native infrastructure platform that focuses on making rollups-ready deployments fast and reliable. The initial offering lets you deploy production-grade OP Stack rollups on Ethereum in minutes with zero operations required on your side. The platform takes care of scalability, reliability, and upgrades, freeing you to focus on building applications. Each deployment includes logs, monitoring, a Blockscout explorer, and samczsun's transaction tracer, plus automatic access to new components as upgrades ship.",
-    "meta": "Conduit is a crypto-native infrastructure platform. Discover Conduit and other RaaS Tools on Lancers Web3 Explorer.",
+    "short": "Platform to launch production-ready rollups in minutes.",
+    "description": "Conduit is a RaaS Tools project focused on rollups-as-a-service (raas) supporting Ethereum, Base, Zora, Mode.",
+    "meta": "Conduit is a RaaS Tools on Ethereum. Discover it on Lancers Web3 Explorer.",
     "pageTitle": "Conduit - RaaS Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://conduit.xyz/",
+    "website": "https://conduit.xyz",
     "twitter": "https://x.com/conduitxyz"
   },
   "relations": {
-    "alternatives": [
-      "snapchain",
-      "caldera"
-    ],
-    "related": [
-      "hyperlane-xyz",
-      "espresso-sequencer"
-    ]
+    "alternatives": [],
+    "related": []
   }
 }

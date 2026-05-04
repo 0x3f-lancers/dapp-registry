@@ -1,0 +1,37 @@
+{
+  "slug": "moar-market",
+  "name": "Moar Market",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860359/dapp-store-logos/moar-market.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Aptos"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Moar Market is a credit layer and leveraged yield strategy platform on Aptos.",
+    "description": "Moar Market is an advanced DeFi platform on Aptos, incubated by Thala Labs, that provides a composable credit layer for leveraged yield farming. The protocol allows users to open 'Credit Accounts' to borrow assets and deploy them into various yield-generating strategies across the Aptos ecosystem, such as providing liquidity on decentralized exchanges like Hyperion. By offering up to 25x leverage, Moar Market enables users to amplify their capital efficiency and returns in a secure and permissionless environment on the Aptos network.",
+    "meta": "Moar Market is a credit layer on Aptos providing leveraged yield farming and capital strategies. Discover Moar Market and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Moar Market - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://moar.market/",
+    "docs": "https://docs.moar.market/",
+    "twitter": "https://x.com/MoarMarket"
+  },
+  "relations": {
+    "alternatives": [
+      "convex-finance",
+      "7k-aggregator",
+      "dodo"
+    ],
+    "related": [
+      "pooltogether",
+      "davos-protocol",
+      "bucket-protocol"
+    ]
+  }
+}

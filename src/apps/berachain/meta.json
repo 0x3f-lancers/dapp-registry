@@ -1,0 +1,39 @@
+{
+  "slug": "berachain",
+  "name": "Berachain",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339909/dapp-store-logos/berachain.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Berachain is a high-performance EVM-compatible Layer 1 blockchain built on the innovative Proof-of-Liquidity consensus.",
+    "description": "Berachain is a revolutionary Layer 1 blockchain that introduces 'Proof-of-Liquidity' (PoL), a novel consensus mechanism designed to align network security with ecosystem liquidity. Built using the Cosmos SDK and compatible with the Ethereum Virtual Machine (EVM), Berachain allows developers to deploy familiar dApps while benefiting from a highly capital-efficient environment. The network's three-token model (BERA, BGT, and HONEY) creates a sophisticated incentive structure where liquidity provision directly contributes to network security and governance. By prioritizing the flow of capital and creating deep on-chain liquidity, Berachain aims to foster a sustainable and high-performance ecosystem for the next generation of decentralized applications.",
+    "meta": "Berachain is a high-performance EVM-compatible Layer 1 blockchain featuring Proof-of-Liquidity for a more capital-efficient and secure Web3 ecosystem.",
+    "pageTitle": "Berachain - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://berachain.com",
+    "github": "https://github.com/berachain",
+    "docs": "https://docs.berachain.com/",
+    "twitter": "https://x.com/berachain",
+    "telegram": "https://t.me/BerachainPortal"
+  },
+  "relations": {
+    "alternatives": [
+      "arbitrum",
+      "avalanche",
+      "kroma"
+    ],
+    "related": [
+      "spinor",
+      "starknet",
+      "reddio"
+    ]
+  }
+}

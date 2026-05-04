@@ -1,0 +1,38 @@
+{
+  "slug": "bucket-protocol",
+  "name": "Bucket Protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339933/dapp-store-logos/bucket-protocol.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Sui"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Bucket Protocol is a collateralized debt position protocol on Sui offering stablecoin borrowing and yield.",
+    "description": "Bucket Protocol is a cornerstone DeFi protocol on the Sui blockchain, enabling users to borrow BUCK, a highly stable and decentralized stablecoin, against various collateral types. By utilizing a collateralized debt position (CDP) model, Bucket provides participants with instant liquidity while allowing them to maintain exposure to their underlying assets. The protocol features innovative mechanisms such as a stability pool and flash loans to ensure the robust peg and liquidation efficiency of the BUCK token. Built for high capital efficiency and security, Bucket Protocol empowers Sui users to unlock the value of their holdings and participate in advanced yield-generating strategies across the burgeoning Move-based ecosystem.",
+    "meta": "Bucket Protocol is the leading CDP protocol on Sui, providing secure stablecoin borrowing and capital-efficient liquidity solutions.",
+    "pageTitle": "Bucket Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bucketprotocol.io",
+    "docs": "https://docs.bucketprotocol.io/",
+    "twitter": "https://x.com/bucket_protocol",
+    "telegram": "https://t.me/bucketprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "resolv",
+      "liquity",
+      "makerdao-sky"
+    ],
+    "related": [
+      "earn-network",
+      "swop",
+      "hyperliquid"
+    ]
+  }
+}

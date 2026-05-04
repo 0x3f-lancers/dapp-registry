@@ -1,0 +1,39 @@
+{
+  "slug": "aelf",
+  "name": "aelf",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860263/dapp-store-logos/aelf.jpg",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "aelf is a high-performance Layer 1 blockchain featuring multi-sidechain architecture and cloud-native computing.",
+    "description": "aelf is an open-source, high-performance Layer 1 blockchain network designed as a complete business solution for decentralized enterprises. It utilizes a unique multi-sidechain architecture that allows for parallel processing and cross-chain communication, enabling high throughput without network congestion. By employing a Cloud Native node system, aelf provides developers with a scalable environment that can easily adapt to high-demand applications like large-scale gaming and enterprise-grade DeFi. The network's governance model allows for flexible upgrades through voter consensus, ensuring the protocol can evolve alongside the rapidly changing technological needs of the Web3 ecosystem.",
+    "meta": "aelf is a scalable Layer 1 blockchain with a multi-sidechain architecture designed for enterprise-grade decentralized applications.",
+    "pageTitle": "aelf - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aelf.com",
+    "github": "https://github.com/AElfProject",
+    "docs": "https://docs.aelf.com/",
+    "twitter": "https://twitter.com/aelfblockchain",
+    "telegram": "https://t.me/aelfblockchain"
+  },
+  "relations": {
+    "alternatives": [
+      "realio-network",
+      "taraxa",
+      "cronos"
+    ],
+    "related": [
+      "abstract-chain",
+      "eigenda",
+      "celestia"
+    ]
+  }
+}

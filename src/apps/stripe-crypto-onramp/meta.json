@@ -1,6 +1,6 @@
 {
   "slug": "stripe-crypto-onramp",
-  "name": "Stripe Crypto Onramp",
+  "name": "Stripe Crypto",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750410/web3-explorer/dapp-logos/stripe-crypto-onramp.jpg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
@@ -9,14 +9,16 @@
   "chains": [
     "Ethereum",
     "Polygon",
-    "Solana"
+    "Solana",
+    "Base",
+    "Arbitrum"
   ],
   "pricing": "",
   "content": {
-    "short": "Stripe Crypto Onramp provides an embeddable, customizable solution for instantly buying crypto.",
-    "description": "Stripe Crypto Onramp provides a fast, simple way for crypto businesses—DEXs, NFT marketplaces, wallets, and dApps—to offer crypto purchases to their users. Leading Web3 companies like MyEtherWallet, Magic Eden, Audius, and Argent rely on Stripe Crypto Onramp to deliver a seamless experience with optimized conversion and instant settlement. Developers can integrate the onramp in roughly 10 lines of code, abstracting away the complexity of coordinating KYC, payments, fraud prevention, and compliance services.",
-    "meta": "Stripe Crypto Onramp lets consumers quickly buy crypto via a customizable onramp. Discover Stripe Crypto Onramp and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Stripe Crypto Onramp - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "Stripe Crypto provides a regulated, embeddable fiat-to-crypto onramp for Web3 applications and wallets.",
+    "description": "Stripe Crypto is a professional-grade fiat-to-crypto payment service designed by the global payments leader to simplify the onboarding process for decentralized applications. The platform offers an embeddable and customizable onramp widget that allows users to instantly purchase digital assets—including ETH, SOL, and USDC—using traditional payment methods such as credit cards, Apple Pay, and ACH. Stripe handles the entire end-to-end flow, including KYC verification, fraud prevention, and regulatory compliance, acting as the merchant of record for all transactions.\n\nOperating across major blockchain networks like Ethereum, Polygon, and Solana, Stripe Crypto provides a seamless and secure bridge between traditional banking rails and the decentralized economy. Developers can integrate the service with minimal code, enabling their users to interact with Web3 protocols without the typical friction of external exchanges. Through its commitment to regulatory alignment and user-centric design, Stripe is building the essential infrastructure needed for mass adoption, making digital asset ownership as intuitive as any traditional online payment.",
+    "meta": "Stripe Crypto offers a secure, embeddable fiat-onramp for Web3 apps, handling KYC and compliance for instant crypto purchases.",
+    "pageTitle": "Stripe Crypto - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://stripe.com/blog/crypto-onramp",

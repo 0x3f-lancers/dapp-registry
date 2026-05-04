@@ -1,0 +1,36 @@
+{
+  "slug": "symbiotic",
+  "name": "Symbiotic",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860451/dapp-store-logos/symbiotic.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Symbiotic is a permissionless and collateral-agnostic restaking protocol on Ethereum.",
+    "description": "Symbiotic is a foundational restaking infrastructure that enables decentralized networks to bootstrap their economic security in a modular and flexible manner. Unlike traditional restaking models, Symbiotic is collateral-agnostic, allowing any ERC-20 token to be used as a security asset. This coordination layer empowers protocols to customize their own staking rules, reward structures, and node operator selection, fostering a more diverse and resilient ecosystem for decentralized security. The protocol provides the essential building blocks for networks to achieve robust security without the constraints of specific asset requirements.",
+    "meta": "Symbiotic is a collateral-agnostic restaking protocol for permissionless economic security. Discover Symbiotic and other DeFi Dapps on Lancers Web3 Explorer.",
+    "pageTitle": "Symbiotic - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://symbiotic.fi/",
+    "twitter": "https://twitter.com/symbioticfi"
+  },
+  "relations": {
+    "alternatives": [
+      "quicksilver",
+      "increment-finance",
+      "stakewise"
+    ],
+    "related": [
+      "dopex",
+      "shapeshift",
+      "harvest"
+    ]
+  }
+}

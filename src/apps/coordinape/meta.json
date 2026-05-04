@@ -1,34 +1,29 @@
 {
   "slug": "coordinape",
   "name": "Coordinape",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745893/web3-explorer/dapp-logos/coordinape.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339955/dapp-store-logos/coordinape.jpg",
   "category": "DAO Tools",
   "subcategory": [
     "DAO Developer Tools"
   ],
   "chains": [
-    "Ethereum"
+    "Ethereum",
+    "Polygon"
   ],
+  "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Coordinape is a DAO-tooling infrastructure for an efficient reward distribution system.",
-    "description": "Coordinape standardizes how DAO contributors are tasked and rewarded, providing a clear framework for assigning work and distributing compensation. When contributors are assigned to specific tasks and a vault is funded, the budget can be allocated so that each contributor receives their shares from the pool. Beyond the reward, Coordinape facilitates an efficient feedback system for sharing input on contributions, helping teams communicate about work and coordinate efforts more smoothly.",
-    "meta": "Coordinape is a tool that standardizes how DAO contributors are tasked and rewarded. Discover Coordinape and other DAO Tools on Lancers Web3 Explorer.",
+    "short": "Infrastructure for efficient reward distribution in DAOs.",
+    "description": "Coordinape is a DAO Tools project focused on dao developer tools supporting Ethereum, Polygon, Gnosis.",
+    "meta": "Coordinape is a DAO Tools on Ethereum. Discover it on Lancers Web3 Explorer.",
     "pageTitle": "Coordinape - DAO Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://coordinape.com/",
+    "website": "https://coordinape.com",
     "twitter": "https://x.com/coordinape"
   },
   "relations": {
-    "alternatives": [
-      "hiro",
-      "ryo",
-      "opencord"
-    ],
-    "related": [
-      "daobox",
-      "kaza"
-    ]
+    "alternatives": [],
+    "related": []
   }
 }
