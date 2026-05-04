@@ -2,9 +2,9 @@
     "slug":  "ondo",
     "name":  "ONDO",
     "logoUrl":  "https://x.com/ondofinance/photo",
-    "category":  "DeFi Tools",
+    "category":  "Real World Asset Dapps",
     "subcategory":  [
-                        "Web3 Bridges"
+                        "Tokenized bonds RWAs"
                     ],
     "chains":  [
                    "Mantle"
@@ -13,8 +13,8 @@
     "content":  {
                     "short":  "Ondo Finance tokenizes institutional-grade financial products on-chain, offering OUSG (US Treasuries) and USDY (yield-bearing stablecoin) for everyone.",
                     "description":  "Ondo Finance is a leading real-world asset (RWA) protocol that tokenizes institutional financial products and makes them accessible on-chain, with flagship products including OUSG (tokenized US Treasuries) and USDY (a yield-bearing stablecoin backed by US Treasuries). The protocol bridges the gap between traditional finance and DeFi by giving on-chain users access to the yields and safety of regulated financial instruments. Ondo\u0027s deployment on Mantle extends access to these high-quality instruments to Mantle DeFi users seeking stable, yield-generating dollar exposure.",
-                    "meta":  "Ondo Finance brings tokenized US Treasuries and institutional-grade financial products to Mantle DeFi. Discover ONDO on Lancers Web3 Explorer.",
-                    "pageTitle":  "ONDO - Lancers Web3 Explorer"
+                    "meta":  "Ondo Finance brings tokenized US Treasuries and institutional-grade financial products on-chain for Mantle users. Discover ONDO and other Real World Asset Dapps on Lancers Web3 Explorer.",
+                    "pageTitle":  "ONDO - Real World Asset Dapps - Lancers Web3 Explorer"
                 },
     "links":  {
                   "website":  "https://ondo.finance/",
@@ -22,14 +22,14 @@
               },
     "relations":  {
                       "alternatives":  [
-                                           "atlas",
-                                           "axelar",
-                                           "blockchair"
+                                           "backed-finance",
+                                           "centrifuge",
+                                           "openeden"
                                        ],
                       "related":  [
-                                      "chasm-network",
-                                      "cobo-argus",
-                                      "etherspot"
+                                      "clearpool",
+                                      "mountain-protocol",
+                                      "paxos"
                                   ]
                   }
 }

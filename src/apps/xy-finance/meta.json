@@ -12,9 +12,9 @@
     "pricing":  "free",
     "content":  {
                     "short":  "XY Finance is a cross-chain swap aggregator that connects multiple bridge protocols for the best execution on any cross-chain token transfer.",
-                    "description":  "XY Finance is a cross-chain swap aggregator comparing rates and liquidity across multiple bridge partners to find the optimal route for any cross-chain token transfer  considering fees, speed, and security simultaneously. Rather than relying on a single bridge, XY Finance intelligently routes transfers across its integrated bridge network. Supporting Mantle and dozens of other chains, XY Finance provides a unified, optimal cross-chain swap experience.",
+                    "description":  "XY Finance is a cross-chain swap aggregator comparing rates and liquidity across multiple bridge partners to find the optimal route for any cross-chain token transfer, considering fees, speed, and security simultaneously. Rather than relying on a single bridge, XY Finance intelligently routes transfers across its integrated bridge network. Supporting Mantle and dozens of other chains, XY Finance provides a unified, optimal cross-chain swap experience.",
                     "meta":  "XY Finance aggregates multiple bridges for optimal cross-chain swaps to and from Mantle. Discover XY Finance on Lancers Web3 Explorer.",
-                    "pageTitle":  "XY Finance - Lancers Web3 Explorer"
+                    "pageTitle":  "XY Finance - DeFi Dapps - Lancers Web3 Explorer"
                 },
     "links":  {
                   "website":  "https://xy.finance/",
@@ -22,14 +22,14 @@
               },
     "relations":  {
                       "alternatives":  [
-                                           "0x",
-                                           "1delta",
-                                           "agni"
+                                           "jumper-exchange",
+                                           "orbiter-finance",
+                                           "symbiosis"
                                        ],
                       "related":  [
-                                      "algebra-protocol",
-                                      "archly-v2",
-                                      "banxa"
+                                      "stargate",
+                                      "wormhole",
+                                      "zk-link"
                                   ]
                   }
 }
