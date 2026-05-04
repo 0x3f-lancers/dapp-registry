@@ -1,36 +1,48 @@
 {
-  "slug": "hacken",
-  "name": "Hacken",
-  "logoUrl": "https://ton.app/media/d0e9f514-ad7b-449c-9c1e-568a3610521a.jpg?w=128&q=75",
-  "category": "Web3 Security Tools",
-  "subcategory": [
-    "Blockchain Auditing Companies"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Hacken is an end-to-end blockchain security & compliance partner trusted by Web3 enterprises, regulators, and digital asset platforms.",
-    "description": "Hacken is an end-to-end blockchain security & compliance partner trusted by Web3 enterprises, regulators, and digital asset platforms. From audits and pen-testing to MiCA-ready reports, 24/7 threat monitoring, and proof of reserves - Hacken helps you secure infrastructure and meet evolving regulatory demands. Hacken matters because TON teams need review, monitoring, fraud checks, or safer launch processes before real users and funds are exposed. Hacken is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
-    "meta": "Hacken is an end-to-end blockchain security & compliance partner trusted by Web3 enterprises. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "Hacken - Web3 Security Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://hacken.io",
-    "twitter": "https://twitter.com/hackenclub",
-    "telegram": "https://t.me/kostiantyn_hacken"
-  },
-  "relations": {
-    "alternatives": [
-      "hackenproof",
-      "nowarp",
-      "decurity"
-    ],
-    "related": [
-      "certik",
-      "positiveweb3",
-      "quillaudits"
-    ]
-  }
+    "slug":  "hacken",
+    "name":  "Hacken",
+    "logoUrl":  "https://ton.app/media/d0e9f514-ad7b-449c-9c1e-568a3610521a.jpg?w=128\u0026q=75",
+    "category":  "Web3 Security Tools",
+    "subcategory":  [
+                        "Blockchain Auditing Companies"
+                    ],
+    "chains":  [
+                   "Solana",
+                   "Avalanche",
+                   "BNB Chain",
+                   "Ethereum",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Arbitrum",
+                   "Aptos",
+                   "Sui",
+                   "Cosmos",
+                   "Polkadot",
+                   "Fantom",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Hacken is an end-to-end blockchain security \u0026 compliance partner trusted by Web3 enterprises, regulators, and digital asset platforms.",
+                    "description":  "Hacken is an end-to-end blockchain security \u0026 compliance partner trusted by Web3 enterprises, regulators, and digital asset platforms. From audits and pen-testing to MiCA-ready reports, 24/7 threat monitoring, and proof of reserves - Hacken helps you secure infrastructure and meet evolving regulatory demands. Hacken matters because TON teams need review, monitoring, fraud checks, or safer launch processes before real users and funds are exposed. Hacken is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
+                    "meta":  "Hacken is an end-to-end blockchain security \u0026 compliance partner trusted by Web3 enterprises. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Hacken - Web3 Security Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://hacken.io",
+                  "twitter":  "https://twitter.com/hackenclub",
+                  "telegram":  "https://t.me/kostiantyn_hacken"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "hackenproof",
+                                           "nowarp",
+                                           "decurity"
+                                       ],
+                      "related":  [
+                                      "certik",
+                                      "positiveweb3",
+                                      "quillaudits"
+                                  ]
+                  }
 }

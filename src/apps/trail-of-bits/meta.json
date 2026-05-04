@@ -1,35 +1,40 @@
 {
-  "slug": "trail-of-bits",
-  "name": "Trail of Bits",
-  "logoUrl": "https://x.com/trailofbits/photo",
-  "category": "Web3 Security Tools",
-  "subcategory": [
-    "Blockchain Auditing Companies"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Trail of Bits is a security research and engineering firm that audits critical software, smart contracts, and protocols.",
-    "description": "Trail of Bits is a security research and engineering firm known for reviewing high-stakes software systems. Web3 teams use its audits, tooling, and security expertise to assess smart contracts, protocol implementations, cryptography, and infrastructure before exposing users or funds to production risk. Since 2012, Trail of Bits has helped secure some of the world's most targeted organizations and products. Users see this through software assurance, security engineering, research & development, and expert training courses.",
-    "meta": "Trail of Bits is a security research and engineering firm that audits critical software. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "Trail of Bits - Web3 Security Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.trailofbits.com",
-    "twitter": "https://twitter.com/trailofbits"
-  },
-  "relations": {
-    "alternatives": [
-      "scalebit",
-      "hexens",
-      "solidity-auditor"
-    ],
-    "related": [
-      "beosin",
-      "quillaudits",
-      "positiveweb3"
-    ]
-  }
+    "slug":  "trail-of-bits",
+    "name":  "Trail of Bits",
+    "logoUrl":  "https://x.com/trailofbits/photo",
+    "category":  "Web3 Security Tools",
+    "subcategory":  [
+                        "Blockchain Auditing Companies"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Arbitrum",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Multichain",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Trail of Bits is a security research and engineering firm that audits critical software, smart contracts, and protocols.",
+                    "description":  "Trail of Bits is a security research and engineering firm known for reviewing high-stakes software systems. Web3 teams use its audits, tooling, and security expertise to assess smart contracts, protocol implementations, cryptography, and infrastructure before exposing users or funds to production risk. Since 2012, Trail of Bits has helped secure some of the world\u0027s most targeted organizations and products. Users see this through software assurance, security engineering, research \u0026 development, and expert training courses.",
+                    "meta":  "Trail of Bits is a security research and engineering firm that audits critical software. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Trail of Bits - Web3 Security Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.trailofbits.com",
+                  "twitter":  "https://twitter.com/trailofbits"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "scalebit",
+                                           "hexens",
+                                           "solidity-auditor"
+                                       ],
+                      "related":  [
+                                      "beosin",
+                                      "quillaudits",
+                                      "positiveweb3"
+                                  ]
+                  }
 }

@@ -1,36 +1,46 @@
 {
-  "slug": "symbiosis",
-  "name": "Symbiosis",
-  "logoUrl": "https://ton.app/media/4a4c1759-1544-4c01-b5a5-5ccadd9fc3f3.png?w=128&q=75",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Web3 Bridges"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Symbiosis connects Bitcoin, Solana, Tron, and 45+ EVM networks into one cross-chain ecosystem.",
-    "description": "Symbiosis connects Bitcoin, Solana, Tron, and 45+ EVM networks into one cross-chain ecosystem. The hard parts are routing, fees, settlement, and making cross-chain transfers understandable. Swap and bridge tokens instantly with the best rates, low fees, and no KYC. Those details make symbiosis products, swap any to any tokens in one click, secure the symbiosis network with sis staking, and add liquidity to liquidity pools or defi protocols part of the product story. Symbiosis is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
-    "meta": "Symbiosis connects Bitcoin, Solana, Tron, and 45+ EVM networks into one cross-chain ecosystem. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "Symbiosis - DeFi Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://symbiosis.finance",
-    "twitter": "https://twitter.com/symbiosis_fi",
-    "telegram": "https://t.me/symbiosis_finance"
-  },
-  "relations": {
-    "alternatives": [
-      "tac-cross-chain-layer",
-      "rubic",
-      "ton-bridge"
-    ],
-    "related": [
-      "utyabswap-bridge",
-      "layerswap",
-      "ton-bridge"
-    ]
-  }
+    "slug":  "symbiosis",
+    "name":  "Symbiosis",
+    "logoUrl":  "https://ton.app/media/4a4c1759-1544-4c01-b5a5-5ccadd9fc3f3.png?w=128\u0026q=75",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Web3 Bridges"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "BNB Chain",
+                   "Ethereum",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Polygon zkEVM",
+                   "Tron",
+                   "ZKsync",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Symbiosis connects Bitcoin, Solana, Tron, and 45+ EVM networks into one cross-chain ecosystem.",
+                    "description":  "Symbiosis connects Bitcoin, Solana, Tron, and 45+ EVM networks into one cross-chain ecosystem. The hard parts are routing, fees, settlement, and making cross-chain transfers understandable. Swap and bridge tokens instantly with the best rates, low fees, and no KYC. Those details make symbiosis products, swap any to any tokens in one click, secure the symbiosis network with sis staking, and add liquidity to liquidity pools or defi protocols part of the product story. Symbiosis is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
+                    "meta":  "Symbiosis connects Bitcoin, Solana, Tron, and 45+ EVM networks into one cross-chain ecosystem. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Symbiosis - DeFi Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://symbiosis.finance",
+                  "twitter":  "https://twitter.com/symbiosis_fi",
+                  "telegram":  "https://t.me/symbiosis_finance"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "tac-cross-chain-layer",
+                                           "rubic",
+                                           "ton-bridge"
+                                       ],
+                      "related":  [
+                                      "utyabswap-bridge",
+                                      "layerswap",
+                                      "ton-bridge"
+                                  ]
+                  }
 }

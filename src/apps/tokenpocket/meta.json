@@ -1,36 +1,36 @@
 {
-  "slug": "tokenpocket",
-  "name": "TokenPocket",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750738/web3-explorer/dapp-logos/tokenpocket.jpg",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Ethereum",
-    "TON"
-  ],
-  "pricing": "",
-  "content": {
-    "short": "TokenPocket is a multichain wallet with TON support, dapp access, swaps, transfers, and asset management.",
-    "description": "TokenPocket is a secure multi-chain cryptocurrency wallet that lets you send, receive, and swap tokens across networks such as Bitcoin, Ethereum, Polkadot, TRON, EOS, IOST, BOScoin, Polygon, and more. Built on the DApp portal, it connects with over 2,200 pre-built DApps. In a single screen, you can manage transfers and monitor all activity, while the News and Market sections provide blockchain updates and live prices. Security is ensured with a 6-digit PIN, fingerprint, and FaceID authentication.",
-    "meta": "TokenPocket is a secure multichain digital cryptocurrency wallet. Discover its wallet features, TON support, and related wallet apps on Lancers Web3 Explorer.",
-    "pageTitle": "TokenPocket - Web3 Wallets on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.tokenpocket.pro/",
-    "twitter": "https://x.com/TokenPocket_TP"
-  },
-  "relations": {
-    "alternatives": [
-      "0xprocessing",
-      "atomic-wallet",
-      "coin-wallet"
-    ],
-    "related": [
-      "0xprocessing",
-      "atomic-wallet",
-      "coin-wallet"
-    ]
-  }
+    "slug":  "tokenpocket",
+    "name":  "TokenPocket",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750738/web3-explorer/dapp-logos/tokenpocket.jpg",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "TON"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "TokenPocket is a multichain wallet with TON support, dapp access, swaps, transfers, and asset management.",
+                    "description":  "TokenPocket is a secure multi-chain cryptocurrency wallet that lets you send, receive, and swap tokens across networks such as Bitcoin, Ethereum, Polkadot, TRON, EOS, IOST, BOScoin, Polygon, and more. Built on the DApp portal, it connects with over 2,200 pre-built DApps. In a single screen, you can manage transfers and monitor all activity, while the News and Market sections provide blockchain updates and live prices. Security is ensured with a 6-digit PIN, fingerprint, and FaceID authentication.",
+                    "meta":  "TokenPocket is a secure multichain digital cryptocurrency wallet. Discover its wallet features, TON support, and related wallet apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "TokenPocket - Web3 Wallets on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.tokenpocket.pro/",
+                  "twitter":  "https://x.com/TokenPocket_TP"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "0xprocessing",
+                                           "atomic-wallet",
+                                           "coin-wallet"
+                                       ],
+                      "related":  [
+                                      "0xprocessing",
+                                      "atomic-wallet",
+                                      "coin-wallet"
+                                  ]
+                  }
 }

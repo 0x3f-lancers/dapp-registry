@@ -1,35 +1,36 @@
 {
-  "slug": "scalebit",
-  "name": "ScaleBit",
-  "logoUrl": "https://x.com/scalebit_/photo",
-  "category": "Web3 Security Tools",
-  "subcategory": [
-    "Blockchain Auditing Companies"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "ScaleBit is a blockchain security team that provides security solutions for Mass Adoption of Web3.",
-    "description": "ScaleBit is a blockchain security team that provides security solutions for Mass Adoption of Web3. It supports Web3 teams that need independent review, monitoring, or incident-prevention expertise. We are at the forefront of utilizing cutting-edge Formal Verification and Fuzzing techniques. The team comprises security professionals with extensive experience in both academia and enterprise. Those details make audit partners, services, audit process, and blogs part of the product story.",
-    "meta": "ScaleBit is a blockchain security team that provides security solutions for Mass Adoption of Web3. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "ScaleBit - Web3 Security Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.scalebit.xyz",
-    "twitter": "https://twitter.com/scalebit_"
-  },
-  "relations": {
-    "alternatives": [
-      "hexens",
-      "trail-of-bits",
-      "solidity-auditor"
-    ],
-    "related": [
-      "beosin",
-      "quillaudits",
-      "positiveweb3"
-    ]
-  }
+    "slug":  "scalebit",
+    "name":  "ScaleBit",
+    "logoUrl":  "https://x.com/scalebit_/photo",
+    "category":  "Web3 Security Tools",
+    "subcategory":  [
+                        "Blockchain Auditing Companies"
+                    ],
+    "chains":  [
+                   "Multichain",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "ScaleBit is a blockchain security team that provides security solutions for Mass Adoption of Web3.",
+                    "description":  "ScaleBit is a blockchain security team that provides security solutions for Mass Adoption of Web3. It supports Web3 teams that need independent review, monitoring, or incident-prevention expertise. We are at the forefront of utilizing cutting-edge Formal Verification and Fuzzing techniques. The team comprises security professionals with extensive experience in both academia and enterprise. Those details make audit partners, services, audit process, and blogs part of the product story.",
+                    "meta":  "ScaleBit is a blockchain security team that provides security solutions for Mass Adoption of Web3. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "ScaleBit - Web3 Security Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.scalebit.xyz",
+                  "twitter":  "https://twitter.com/scalebit_"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "hexens",
+                                           "trail-of-bits",
+                                           "solidity-auditor"
+                                       ],
+                      "related":  [
+                                      "beosin",
+                                      "quillaudits",
+                                      "positiveweb3"
+                                  ]
+                  }
 }

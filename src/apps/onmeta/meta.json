@@ -1,35 +1,46 @@
 {
-  "slug": "onmeta",
-  "name": "Onmeta",
-  "logoUrl": "https://ton.app/media/d1887a03-abc3-4a87-85a9-0ccf50f905aa.png?w=128&q=75",
-  "category": "Web3 Wallet Tools",
-  "subcategory": [
-    "Fiat Onramps"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Onmeta provides fiat on-ramp and off-ramp infrastructure for wallets and dapps in India and Southeast Asia.",
-    "description": "Onmeta is a compliant fiat on/off-ramp provider for Web3 apps. It helps wallets and dapps let users buy and sell virtual digital assets with local payment methods, with particular focus on India, the Philippines, and Southeast Asian markets. OnMeta provides compliant, plug and play fiat On/Off- Ramps for global wallets and dApp with local payment support across India and Southeast Asia. The app presents build with onmeta, supported ecosystem, and integration video as core parts of the workflow.",
-    "meta": "Onmeta provides fiat on-ramp and off-ramp infrastructure for wallets and dapps in India. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "Onmeta - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://onmeta.in",
-    "twitter": "https://twitter.com/onmetahq"
-  },
-  "relations": {
-    "alternatives": [
-      "evaa-protocol",
-      "esprito-protocol",
-      "ton-api"
-    ],
-    "related": [
-      "coinstats",
-      "chainsim",
-      "chainaware-ai"
-    ]
-  }
+    "slug":  "onmeta",
+    "name":  "Onmeta",
+    "logoUrl":  "https://ton.app/media/d1887a03-abc3-4a87-85a9-0ccf50f905aa.png?w=128\u0026q=75",
+    "category":  "Web3 Wallet Tools",
+    "subcategory":  [
+                        "Fiat Onramps"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "BNB Chain",
+                   "Ethereum",
+                   "Fantom",
+                   "Immutable X",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Solana",
+                   "Tron",
+                   "Multichain",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Onmeta provides fiat on-ramp and off-ramp infrastructure for wallets and dapps in India and Southeast Asia.",
+                    "description":  "Onmeta is a compliant fiat on/off-ramp provider for Web3 apps. It helps wallets and dapps let users buy and sell virtual digital assets with local payment methods, with particular focus on India, the Philippines, and Southeast Asian markets. OnMeta provides compliant, plug and play fiat On/Off- Ramps for global wallets and dApp with local payment support across India and Southeast Asia. The app presents build with onmeta, supported ecosystem, and integration video as core parts of the workflow.",
+                    "meta":  "Onmeta provides fiat on-ramp and off-ramp infrastructure for wallets and dapps in India. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Onmeta - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://onmeta.in",
+                  "twitter":  "https://twitter.com/onmetahq"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "evaa-protocol",
+                                           "esprito-protocol",
+                                           "ton-api"
+                                       ],
+                      "related":  [
+                                      "coinstats",
+                                      "chainsim",
+                                      "chainaware-ai"
+                                  ]
+                  }
 }

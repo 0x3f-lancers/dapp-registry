@@ -1,35 +1,39 @@
 {
-  "slug": "hexens",
-  "name": "Hexens.io",
-  "logoUrl": "https://x.com/hexensio/photo",
-  "category": "Web3 Security Tools",
-  "subcategory": [
-    "Blockchain Auditing Companies"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Hexens.io is a Web3 security provider. Hexens is the blockchain security firm trusted by protocols that can't afford to get hacked.",
-    "description": "Hexens.io is a Web3 security provider. Hexens is the blockchain security firm trusted by protocols that can't afford to get hacked. Security for systems that cannot afford to make mistakes. The product surface includes ready to start? and security for systems that cannot afford to make mistakes. Hexens.io matters because TON teams need review, monitoring, fraud checks, or safer launch processes before real users and funds are exposed. Hexens.io is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
-    "meta": "Hexens.io is a Web3 security provider. Hexens is the blockchain security firm trusted by protocols that. Discover Hexens.io's TON role.",
-    "pageTitle": "Hexens.io - Web3 Security Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://hexens.io",
-    "twitter": "https://twitter.com/hexensio"
-  },
-  "relations": {
-    "alternatives": [
-      "scalebit",
-      "trail-of-bits",
-      "solidity-auditor"
-    ],
-    "related": [
-      "beosin",
-      "quillaudits",
-      "positiveweb3"
-    ]
-  }
+    "slug":  "hexens",
+    "name":  "Hexens.io",
+    "logoUrl":  "https://x.com/hexensio/photo",
+    "category":  "Web3 Security Tools",
+    "subcategory":  [
+                        "Blockchain Auditing Companies"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Arbitrum",
+                   "OP Mainnet",
+                   "Polygon",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Hexens.io is a Web3 security provider. Hexens is the blockchain security firm trusted by protocols that can\u0027t afford to get hacked.",
+                    "description":  "Hexens.io is a Web3 security provider. Hexens is the blockchain security firm trusted by protocols that can\u0027t afford to get hacked. Security for systems that cannot afford to make mistakes. The product surface includes ready to start? and security for systems that cannot afford to make mistakes. Hexens.io matters because TON teams need review, monitoring, fraud checks, or safer launch processes before real users and funds are exposed. Hexens.io is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
+                    "meta":  "Hexens.io is a Web3 security provider. Hexens is the blockchain security firm trusted by protocols that. Discover Hexens.io\u0027s TON role.",
+                    "pageTitle":  "Hexens.io - Web3 Security Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://hexens.io",
+                  "twitter":  "https://twitter.com/hexensio"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "scalebit",
+                                           "trail-of-bits",
+                                           "solidity-auditor"
+                                       ],
+                      "related":  [
+                                      "beosin",
+                                      "quillaudits",
+                                      "positiveweb3"
+                                  ]
+                  }
 }

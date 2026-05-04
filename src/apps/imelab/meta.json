@@ -1,39 +1,39 @@
 {
-  "slug": "imelab",
-  "name": "iMe Lab",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747682/web3-explorer/dapp-logos/imelab.jpg",
-  "category": "Web3 Social Dapps",
-  "subcategory": [
-    "Social Tokens"
-  ],
-  "chains": [
-    "Ethereum",
-    "Polygon",
-    "Avalanche",
-    "Solana",
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "ImeLab builds Telegram and TON-connected messaging, wallet, and mini-app experiences for Web3 users.",
-    "description": "iMe Lab is a smart platform that combines a Telegram-based messenger, a cryptocurrency wallet, and DeFi tools. It gives Telegram users access to DeFi features, with a user-friendly process and a secure interface for managing cryptocurrencies. iMe Lab also enables mainstream and crypto communities to connect, communicate, and discuss their projects, and the iMe Smart Platform was the first in the industry to incorporate DeFi functionality into its messaging platform. It belongs in social dapps because identity, creator activity, community coordination, chat, or content interaction is central to the product.",
-    "meta": "iMe Lab is a native messaging smart platform powered by Telegram with Crypto Wallet. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "iMe Lab - Web3 Social Dapps on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://imem.app/",
-    "twitter": "https://x.com/ImePlatform"
-  },
-  "relations": {
-    "alternatives": [
-      "bidask",
-      "bridgers",
-      "balus"
-    ],
-    "related": [
-      "balus",
-      "frogy-live",
-      "host-tg"
-    ]
-  }
+    "slug":  "imelab",
+    "name":  "iMe Lab",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747682/web3-explorer/dapp-logos/imelab.jpg",
+    "category":  "Web3 Social Dapps",
+    "subcategory":  [
+                        "Social Tokens"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Polygon",
+                   "Avalanche",
+                   "Solana",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "ImeLab builds Telegram and TON-connected messaging, wallet, and mini-app experiences for Web3 users.",
+                    "description":  "iMe Lab is a smart platform that combines a Telegram-based messenger, a cryptocurrency wallet, and DeFi tools. It gives Telegram users access to DeFi features, with a user-friendly process and a secure interface for managing cryptocurrencies. iMe Lab also enables mainstream and crypto communities to connect, communicate, and discuss their projects, and the iMe Smart Platform was the first in the industry to incorporate DeFi functionality into its messaging platform. It belongs in social dapps because identity, creator activity, community coordination, chat, or content interaction is central to the product.",
+                    "meta":  "iMe Lab is a native messaging smart platform powered by Telegram with Crypto Wallet. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "iMe Lab - Web3 Social Dapps on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://imem.app/",
+                  "twitter":  "https://x.com/ImePlatform"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "bidask",
+                                           "bridgers",
+                                           "balus"
+                                       ],
+                      "related":  [
+                                      "balus",
+                                      "frogy-live",
+                                      "host-tg"
+                                  ]
+                  }
 }

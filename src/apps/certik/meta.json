@@ -1,36 +1,49 @@
 {
-  "slug": "certik",
-  "name": "CertiK",
-  "logoUrl": "https://ton.app/media/0f554646-fd69-4fca-a0cb-a0fa9ca235d0.jpg?w=128&q=75",
-  "category": "Web3 Security Tools",
-  "subcategory": [
-    "Blockchain Auditing Companies"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "CertiK, the largest Web3 security service provider, uses AI and formal verification to protect and monitor smart contracts and protocols.",
-    "description": "CertiK, the largest Web3 security service provider, uses AI and formal verification to protect and monitor smart contracts and protocols, securing the Web3 ecosystem. That shows up in features such as solutions for all, featured in top global media, building a safer, smarter future for web3, and we safeguard decentralized systems in multiple languages. CertiK is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
-    "meta": "CertiK, the largest Web3 security service provider, uses AI and formal verification to protect. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "CertiK - Web3 Security Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.certik.com",
-    "twitter": "https://twitter.com/CertiK",
-    "telegram": "https://t.me/CertiKCommunity"
-  },
-  "relations": {
-    "alternatives": [
-      "hacken",
-      "quillaudits",
-      "trail-of-bits"
-    ],
-    "related": [
-      "decurity",
-      "hexens",
-      "scalebit"
-    ]
-  }
+    "slug":  "certik",
+    "name":  "CertiK",
+    "logoUrl":  "https://ton.app/media/0f554646-fd69-4fca-a0cb-a0fa9ca235d0.jpg?w=128\u0026q=75",
+    "category":  "Web3 Security Tools",
+    "subcategory":  [
+                        "Blockchain Auditing Companies"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "BNB Chain",
+                   "Polygon",
+                   "Avalanche",
+                   "Arbitrum",
+                   "Fantom",
+                   "Polkadot",
+                   "Solana",
+                   "OP Mainnet",
+                   "Tron",
+                   "Cosmos",
+                   "Harmony",
+                   "Cronos",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "CertiK, the largest Web3 security service provider, uses AI and formal verification to protect and monitor smart contracts and protocols.",
+                    "description":  "CertiK, the largest Web3 security service provider, uses AI and formal verification to protect and monitor smart contracts and protocols, securing the Web3 ecosystem. That shows up in features such as solutions for all, featured in top global media, building a safer, smarter future for web3, and we safeguard decentralized systems in multiple languages. CertiK is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
+                    "meta":  "CertiK, the largest Web3 security service provider, uses AI and formal verification to protect. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "CertiK - Web3 Security Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.certik.com",
+                  "twitter":  "https://twitter.com/CertiK",
+                  "telegram":  "https://t.me/CertiKCommunity"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "hacken",
+                                           "quillaudits",
+                                           "trail-of-bits"
+                                       ],
+                      "related":  [
+                                      "decurity",
+                                      "hexens",
+                                      "scalebit"
+                                  ]
+                  }
 }

@@ -1,35 +1,44 @@
 {
-  "slug": "coin-wallet",
-  "name": "Coin Wallet",
-  "logoUrl": "https://ton.app/media/f4a1befa-78fc-413a-8da5-d70c2f2bbb40.png?w=128&q=75",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Coin Wallet is a self-custodial multicurrency wallet for buying, storing, sending, receiving, and swapping crypto.",
-    "description": "Coin Wallet is a self-custodial wallet for desktop and mobile users. Its site describes support for many major assets, including Bitcoin, Ethereum, Solana, Dogecoin, XRP, Monero, and other cryptocurrencies, with built-in buy, send, receive, and swap functions. It is a broad wallet listing with TON relevance through multi-chain asset support. Buy, send, receive and swap cryptocurrencies with the best Crypto Wallet. The product surface includes multichain cryptocurrency wallet, crypto & web3 on mobile and desktop, secure bitcoin and crypto wallet, and what users say.",
-    "meta": "Coin Wallet is a self-custodial multicurrency wallet for buying, storing, sending, receiving,. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "Coin Wallet - Web3 Wallets on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://coin.space",
-    "twitter": "https://twitter.com/CoinAppWallet"
-  },
-  "relations": {
-    "alternatives": [
-      "atomic-wallet",
-      "cwallet",
-      "trust-wallet"
-    ],
-    "related": [
-      "crypto-bot",
-      "tonkeeper",
-      "mytonwallet"
-    ]
-  }
+    "slug":  "coin-wallet",
+    "name":  "Coin Wallet",
+    "logoUrl":  "https://ton.app/media/f4a1befa-78fc-413a-8da5-d70c2f2bbb40.png?w=128\u0026q=75",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Bitcoin",
+                   "Avalanche",
+                   "BNB Chain",
+                   "Ethereum",
+                   "Fantom",
+                   "Polygon",
+                   "Tron",
+                   "Arbitrum",
+                   "OP Mainnet",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Coin Wallet is a self-custodial multicurrency wallet for buying, storing, sending, receiving, and swapping crypto.",
+                    "description":  "Coin Wallet is a self-custodial wallet for desktop and mobile users. Its site describes support for many major assets, including Bitcoin, Ethereum, Solana, Dogecoin, XRP, Monero, and other cryptocurrencies, with built-in buy, send, receive, and swap functions. It is a broad wallet listing with TON relevance through multi-chain asset support. Buy, send, receive and swap cryptocurrencies with the best Crypto Wallet. The product surface includes multichain cryptocurrency wallet, crypto \u0026 web3 on mobile and desktop, secure bitcoin and crypto wallet, and what users say.",
+                    "meta":  "Coin Wallet is a self-custodial multicurrency wallet for buying, storing, sending, receiving,. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Coin Wallet - Web3 Wallets on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://coin.space",
+                  "twitter":  "https://twitter.com/CoinAppWallet"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "atomic-wallet",
+                                           "cwallet",
+                                           "trust-wallet"
+                                       ],
+                      "related":  [
+                                      "crypto-bot",
+                                      "tonkeeper",
+                                      "mytonwallet"
+                                  ]
+                  }
 }

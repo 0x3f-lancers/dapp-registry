@@ -1,35 +1,36 @@
 {
-  "slug": "chainalysis",
-  "name": "Chainalysis",
-  "logoUrl": "https://x.com/chainalysis/photo",
-  "category": "Web3 Security Tools",
-  "subcategory": [
-    "Blockchain Security Tools"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Chainalysis provides blockchain intelligence for investigations, compliance, wallet screening, and risk management.",
-    "description": "Chainalysa blockchain analytics platform used by agencies, financial institutions, and crypto businesses. Its site describes investigation tools, wallet screening, transaction monitoring, risk exposure management, and intelligence for tracing illicit activity. The listing is relevant to TON as a compliance and analytics provider rather than a consumer dapp. Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
-    "meta": "Chainalysis provides blockchain intelligence for investigations, compliance, wallet screening,. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "Chainalysis - Web3 Security Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.chainalysis.com",
-    "twitter": "https://twitter.com/chainalysis"
-  },
-  "relations": {
-    "alternatives": [
-      "bitok",
-      "elliptic",
-      "scorechain"
-    ],
-    "related": [
-      "hexens",
-      "scalebit",
-      "trail-of-bits"
-    ]
-  }
+    "slug":  "chainalysis",
+    "name":  "Chainalysis",
+    "logoUrl":  "https://x.com/chainalysis/photo",
+    "category":  "Web3 Security Tools",
+    "subcategory":  [
+                        "Blockchain Security Tools"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Chainalysis provides blockchain intelligence for investigations, compliance, wallet screening, and risk management.",
+                    "description":  "Chainalysa blockchain analytics platform used by agencies, financial institutions, and crypto businesses. Its site describes investigation tools, wallet screening, transaction monitoring, risk exposure management, and intelligence for tracing illicit activity. The listing is relevant to TON as a compliance and analytics provider rather than a consumer dapp. Chainalysis helps government agencies, cryptocurrency businesses, and financial institutions engage confidently with cryptocurrency.",
+                    "meta":  "Chainalysis provides blockchain intelligence for investigations, compliance, wallet screening,. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "Chainalysis - Web3 Security Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.chainalysis.com",
+                  "twitter":  "https://twitter.com/chainalysis"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "bitok",
+                                           "elliptic",
+                                           "scorechain"
+                                       ],
+                      "related":  [
+                                      "hexens",
+                                      "scalebit",
+                                      "trail-of-bits"
+                                  ]
+                  }
 }

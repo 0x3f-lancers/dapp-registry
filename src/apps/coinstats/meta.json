@@ -1,35 +1,43 @@
 {
-  "slug": "coinstats",
-  "name": "CoinStats",
-  "logoUrl": "https://ton.app/media/4292de51-76b2-41b7-9c77-170556f80bab.jpg?w=128&q=75",
-  "category": "Trading Tools",
-  "subcategory": [
-    "Crypto Portfolio Dashboards"
-  ],
-  "chains": [
-    "TON"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "CoinStats is a crypto portfolio tracker for monitoring wallets, exchange accounts, DeFi positions, and market data.",
-    "description": "CoinStats is a portfolio dashboard for crypto investors. Users connect wallets and exchange accounts, track assets, follow market prices, and monitor DeFi positions from one interface, which makes it useful for TON holders managing broader portfolios. CoinStats is the leading crypto tracker on the market. Track over 20000 coins, 300 exchanges/wallets across 120 blockchains from a single platform. Its practical role is market access and trading support rather than protocol ownership or wallet storage.",
-    "meta": "CoinStats is a crypto portfolio tracker for monitoring wallets, exchange accounts, DeFi positions,. Discover its TON role and related apps on Lancers Web3 Explorer.",
-    "pageTitle": "CoinStats - Trading Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://coinstats.app",
-    "twitter": "https://x.com/CoinStats"
-  },
-  "relations": {
-    "alternatives": [
-      "chainsim",
-      "chainaware-ai",
-      "ton-api"
-    ],
-    "related": [
-      "esprito-protocol",
-      "evaa-protocol",
-      "aqua-protocol-cdp"
-    ]
-  }
+    "slug":  "coinstats",
+    "name":  "CoinStats",
+    "logoUrl":  "https://ton.app/media/4292de51-76b2-41b7-9c77-170556f80bab.jpg?w=128\u0026q=75",
+    "category":  "Trading Tools",
+    "subcategory":  [
+                        "Crypto Portfolio Dashboards"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Polygon",
+                   "Avalanche",
+                   "Arbitrum",
+                   "Solana",
+                   "Polkadot",
+                   "BNB Chain",
+                   "OP Mainnet",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "CoinStats is a crypto portfolio tracker for monitoring wallets, exchange accounts, DeFi positions, and market data.",
+                    "description":  "CoinStats is a portfolio dashboard for crypto investors. Users connect wallets and exchange accounts, track assets, follow market prices, and monitor DeFi positions from one interface, which makes it useful for TON holders managing broader portfolios. CoinStats is the leading crypto tracker on the market. Track over 20000 coins, 300 exchanges/wallets across 120 blockchains from a single platform. Its practical role is market access and trading support rather than protocol ownership or wallet storage.",
+                    "meta":  "CoinStats is a crypto portfolio tracker for monitoring wallets, exchange accounts, DeFi positions,. Discover its TON role and related apps on Lancers Web3 Explorer.",
+                    "pageTitle":  "CoinStats - Trading Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://coinstats.app",
+                  "twitter":  "https://x.com/CoinStats"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "chainsim",
+                                           "chainaware-ai",
+                                           "ton-api"
+                                       ],
+                      "related":  [
+                                      "esprito-protocol",
+                                      "evaa-protocol",
+                                      "aqua-protocol-cdp"
+                                  ]
+                  }
 }

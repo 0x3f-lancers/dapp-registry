@@ -1,52 +1,52 @@
 {
-  "slug": "redstone-oracles",
-  "name": "RedStone",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749543/web3-explorer/dapp-logos/redstone-oracles.png",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Decentralized Oracles"
-  ],
-  "chains": [
-    "Arbitrum",
-    "Avalanche",
-    "Base",
-    "BNB Chain",
-    "Celo",
-    "Cronos",
-    "Ethereum",
-    "Fantom",
-    "Linea",
-    "OP Mainnet",
-    "ZKsync",
-    "Sui",
-    "Starknet",
-    "Solana",
-    "Polygon zkEVM",
-    "Polygon",
-    "Moonbeam",
-    "TON"
-  ],
-  "pricing": "",
-  "content": {
-    "short": "RedStone provides fast, gas-efficient cross-chain data feeds as a blockchain oracle for DeFi protocols and institutions.",
-    "description": "RedStone delivers reliable, real-time financial data to blockchains for decentralized applications. Traditional oracle solutions are slow, expensive, or can't support the diverse range of assets that institutional DeFi requires. RedStone's modular architecture provides access to over 1,200 price feeds, enabling DeFi lending platforms to verify collateral values and tokenized asset protocols that price real-world assets like treasuries and private credit. In the TON stack, RedStone is useful around bridges, analytics, routing, or protocol discovery rather than as a standalone trading venue.",
-    "meta": "RedStone provides fast, gas-efficient cross-chain data feeds as a blockchain oracle for DeFi protocols a. Discover RedStone's TON role.",
-    "pageTitle": "RedStone - DeFi Tools on TON - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.redstone.finance/",
-    "twitter": "https://x.com/redstone_defi"
-  },
-  "relations": {
-    "alternatives": [
-      "layerswap",
-      "rubic",
-      "symbiosis"
-    ],
-    "related": [
-      "layerswap",
-      "rubic",
-      "symbiosis"
-    ]
-  }
+    "slug":  "redstone-oracles",
+    "name":  "RedStone",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749543/web3-explorer/dapp-logos/redstone-oracles.png",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Decentralized Oracles"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "BNB Chain",
+                   "Celo",
+                   "Cronos",
+                   "Ethereum",
+                   "Fantom",
+                   "Linea",
+                   "OP Mainnet",
+                   "ZKsync",
+                   "Sui",
+                   "Starknet",
+                   "Solana",
+                   "Polygon zkEVM",
+                   "Polygon",
+                   "Moonbeam",
+                   "TON"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "RedStone provides fast, gas-efficient cross-chain data feeds as a blockchain oracle for DeFi protocols and institutions.",
+                    "description":  "RedStone delivers reliable, real-time financial data to blockchains for decentralized applications. Traditional oracle solutions are slow, expensive, or can\u0027t support the diverse range of assets that institutional DeFi requires. RedStone\u0027s modular architecture provides access to over 1,200 price feeds, enabling DeFi lending platforms to verify collateral values and tokenized asset protocols that price real-world assets like treasuries and private credit. In the TON stack, RedStone is useful around bridges, analytics, routing, or protocol discovery rather than as a standalone trading venue.",
+                    "meta":  "RedStone provides fast, gas-efficient cross-chain data feeds as a blockchain oracle for DeFi protocols a. Discover RedStone\u0027s TON role.",
+                    "pageTitle":  "RedStone - DeFi Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.redstone.finance/",
+                  "twitter":  "https://x.com/redstone_defi"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "layerswap",
+                                           "rubic",
+                                           "symbiosis"
+                                       ],
+                      "related":  [
+                                      "layerswap",
+                                      "rubic",
+                                      "symbiosis"
+                                  ]
+                  }
 }
