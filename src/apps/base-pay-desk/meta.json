@@ -1,0 +1,36 @@
+{
+  "slug": "base-pay-desk",
+  "name": "Base Pay Desk",
+  "logoUrl": "https://oskarasi.github.io/base-pay-desk-site/assets/miniapp-icon.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Base"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Base Pay Desk helps merchants create shareable ETH payment links on Base.",
+    "description": "Base Pay Desk is an open source checkout builder for merchants, creators, agencies, and service sellers who want to accept ETH payments on Base without running a storefront. The static app creates shareable payment links, buyer-ready payment messages, setup request briefs, and portable setup handoff links while keeping sellers in control of their own wallets. It also exposes the deployer wallet, router funding state, and ledger-counting rules so operators can verify which payments are confirmed before claiming traction or revenue.",
+    "meta": "Base Pay Desk helps merchants create shareable ETH payment links on Base. Discover Base Pay Desk and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Base Pay Desk - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://oskarasi.github.io/base-pay-desk-site/",
+    "github": "https://github.com/oskarasi/base-pay-desk-site",
+    "docs": "https://github.com/oskarasi/base-pay-desk-site"
+  },
+  "relations": {
+    "alternatives": [
+      "acctual",
+      "copperx",
+      "pocketpay-finance"
+    ],
+    "related": [
+      "depay",
+      "p-link",
+      "bulla-network"
+    ]
+  }
+}
