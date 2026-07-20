@@ -63,6 +63,7 @@ export async function generateMetaFilesFromConsolidated(
         chains: dapp.chains_from_pages ?? dapp.chains ?? ["Ethereum"],
         tags: dapp.tags ?? [],
         pricing: dapp.pricing,
+        archived: false,
         content: {
           short: dapp.shortDescription,
           description: dapp.description || "", // Provide fallback
