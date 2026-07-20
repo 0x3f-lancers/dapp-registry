@@ -9,6 +9,7 @@ export const metaJsonSchema = z.object({
   chains: z.array(z.string()),
   tags: z.array(z.string()).default([]),
   pricing: z.string(),
+  archived: z.boolean().default(false),
   content: z.object({
     short: z.string().max(200),
     description: z.string(),

@@ -9,6 +9,7 @@ export const appsMinSchema = z.array(
     subcategory: z.array(z.string()),
     chains: z.array(z.string()),
     short: z.string(),
+    archived: z.boolean().default(false),
     links: z
       .object({
         website: z.string().optional(),
