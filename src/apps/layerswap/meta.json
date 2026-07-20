@@ -1,49 +1,46 @@
 {
-    "slug":  "layerswap",
-    "name":  "Layerswap",
-    "logoUrl":  "https://ton.app/media/6551dedd-d12f-4808-aae3-2b4a12d320c3.png?w=128\u0026q=75",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Web3 Bridges"
-                    ],
-    "chains":  [
-                   "BNB Chain",
-                   "OP Mainnet",
-                   "Starknet",
-                   "Arbitrum",
-                   "Ethereum",
-                   "Multichain",
-                   "Solana",
-                   "Avalanche",
-                   "Polygon zkEVM",
-                   "Linea",
-                   "Immutable X",
-                   "Tron",
-                   "ZetaChain",
-                   "TON"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Layerswap is a cross-chain bridge and swap service for moving assets between TON and many other networks.",
-                    "description":  "Layerswap is a bridge and swap product for cross-chain asset transfers. Its site describes moving tokens across dozens of supported chains with fast, affordable, and secure routing. For TON users, the main value is transferring assets between TON and external ecosystems without manually coordinating several bridge steps. Layerswap Labs is an industry-leading blockchain company building innovative solutions for cross-chain asset transfers. Users see this through footer, swap \u0026 bridge, and across chains.",
-                    "meta":  "Layerswap is a cross-chain bridge and swap service for moving assets between TON and many other networks. Discover Layerswap\u0027s TON role.",
-                    "pageTitle":  "Layerswap - DeFi Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.layerswap.io",
-                  "twitter":  "https://twitter.com/layerswap",
-                  "telegram":  "https://t.me/layerswap"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "rubic",
-                                           "symbiosis",
-                                           "tac-cross-chain-layer"
-                                       ],
-                      "related":  [
-                                      "cede-store",
-                                      "ton-bridge",
-                                      "utyabswap-bridge"
-                                  ]
-                  }
+  "slug": "layerswap",
+  "name": "Layerswap",
+  "logoUrl": "https://ton.app/media/6551dedd-d12f-4808-aae3-2b4a12d320c3.png?w=128&q=75",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "BNB Chain",
+    "OP Mainnet",
+    "Starknet",
+    "Arbitrum",
+    "Ethereum",
+    "Multichain",
+    "Solana",
+    "Avalanche",
+    "Polygon zkEVM",
+    "Linea",
+    "Immutable X",
+    "Tron",
+    "ZetaChain",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Layerswap is a cross-chain bridge and swap service for moving assets between TON and many other networks.",
+    "description": "Layerswap is a bridge and swap product for cross-chain asset transfers. Its site describes moving tokens across dozens of supported chains with fast, affordable, and secure routing. For TON users, the main value is transferring assets between TON and external ecosystems without manually coordinating several bridge steps. Layerswap Labs is an industry-leading blockchain company building innovative solutions for cross-chain asset transfers. Users see this through footer, swap & bridge, and across chains.",
+    "meta": "Layerswap is a cross-chain bridge and swap service for moving assets between TON and many other networks. Discover Layerswap's TON role.",
+    "pageTitle": "Layerswap - DeFi Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.layerswap.io",
+    "twitter": "https://x.com/layerswap"
+  },
+  "relations": {
+    "alternatives": [
+      "rubic",
+      "symbiosis",
+      "tac-cross-chain-layer"
+    ],
+    "related": [
+      "cede-store"
+    ]
+  }
 }

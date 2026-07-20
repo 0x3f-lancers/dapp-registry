@@ -1,36 +1,33 @@
 {
-    "slug":  "defillama",
-    "name":  "DefiLlama",
-    "logoUrl":  "https://x.com/DefiLlama/photo",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Analytics Tools"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "TON"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "DefiLlama tracks TVL, fees, revenue, DEX volume, yields, stablecoins, and protocol data across DeFi.",
-                    "description":  "DefiLlama is a DeFi analytics dashboard covering thousands of protocols and hundreds of chains. Its public site tracks TVL, revenue, fees, volume, yields, stablecoins, RWA data, and protocol rankings without requiring users to rely on a single app\u0027s own metrics. It is useful for TON users who want ecosystem-wide context around DeFi activity. Track Total Value Locked (TVL), revenue, fees, volume, and yields across 7000+ DeFi protocols on 500+ chains. Important product areas are settings, key metrics, protocol rankings, and total value locked in defi.",
-                    "meta":  "DefiLlama tracks TVL, fees, revenue, DEX volume, yields, stablecoins, and protocol data across DeFi. Discover its TON role and related apps on Lancers Web3 Explorer.",
-                    "pageTitle":  "DefiLlama - DeFi Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://defillama.com",
-                  "twitter":  "https://twitter.com/DefiLlama"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "anton-tools",
-                                           "geckoterminal",
-                                           "ton-radar"
-                                       ],
-                      "related":  [
-                                      "utyabswap-bridge",
-                                      "redstone-oracles",
-                                      "ton-bridge"
-                                  ]
-                  }
+  "slug": "defillama",
+  "name": "DefiLlama",
+  "logoUrl": "https://x.com/DefiLlama/photo",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "DefiLlama tracks TVL, fees, revenue, DEX volume, yields, stablecoins, and protocol data across DeFi.",
+    "description": "DefiLlama is a DeFi analytics dashboard covering thousands of protocols and hundreds of chains. Its public site tracks TVL, revenue, fees, volume, yields, stablecoins, RWA data, and protocol rankings without requiring users to rely on a single app's own metrics. It is useful for TON users who want ecosystem-wide context around DeFi activity. Track Total Value Locked (TVL), revenue, fees, volume, and yields across 7000+ DeFi protocols on 500+ chains. Important product areas are settings, key metrics, protocol rankings, and total value locked in defi.",
+    "meta": "DefiLlama tracks TVL, fees, revenue, DEX volume, yields, stablecoins, and protocol data across DeFi. Discover its TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "DefiLlama - DeFi Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://defillama.com",
+    "twitter": "https://twitter.com/DefiLlama"
+  },
+  "relations": {
+    "alternatives": [
+      "anton-tools",
+      "geckoterminal"
+    ],
+    "related": [
+      "redstone-oracles"
+    ]
+  }
 }

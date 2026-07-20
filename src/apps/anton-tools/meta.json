@@ -1,7 +1,7 @@
 {
   "slug": "anton-tools",
   "name": "Anton.tools",
-  "logoUrl": "https://x.com/apachesuperset/photo",
+  "logoUrl": "https://unavatar.io/x/apachesuperset",
   "category": "DeFi Tools",
   "subcategory": [
     "Analytics Tools"
@@ -18,18 +18,15 @@
   },
   "links": {
     "website": "https://anton.tools",
-    "twitter": "https://twitter.com/apachesuperset"
+    "twitter": "https://x.com/apachesuperset"
   },
   "relations": {
     "alternatives": [
       "defillama",
-      "geckoterminal",
-      "ton-radar"
+      "geckoterminal"
     ],
     "related": [
-      "utyabswap-bridge",
-      "redstone-oracles",
-      "ton-bridge"
+      "redstone-oracles"
     ]
   }
 }
