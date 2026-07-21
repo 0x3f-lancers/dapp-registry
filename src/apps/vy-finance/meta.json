@@ -1,7 +1,7 @@
 {
   "slug": "vy-finance",
   "name": "VyFinance",
-  "logoUrl": "https://cdn.cardanocube.com/roal7o9hzwk9gg5f7jcesbmi5zhj",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774341543/dapp-store-logos/vy-finance.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "Cardano"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "VyFinance is a comprehensive Cardano DeFi suite featuring a DEX, yield aggregation, and staking tools.",
     "description": "VyFinance is a robust decentralized finance protocol on Cardano that combines a wide range of financial products into a single ecosystem. The platform includes an AMM-based decentralized exchange, neural-network-assisted yield aggregation, and multiple staking options for native tokens and NFTs. By focusing on capital efficiency and community rewards through its VYFI fee-sharing bar, the project provides passive strategies for all types of users. VyFinance aims to democratize access to sophisticated DeFi tools while maintaining the transparency and security of the blockchain.",
@@ -18,9 +20,9 @@
   },
   "links": {
     "website": "https://vyfi.io/",
+    "docs": "https://vyfi-docs.s3.amazonaws.com/whitepaper.pdf",
     "twitter": "https://x.com/vyfiofficial",
-    "telegram": "https://t.me/vyfinance",
-    "docs": "https://vyfi-docs.s3.amazonaws.com/whitepaper.pdf"
+    "telegram": "https://t.me/vyfinance"
   },
   "relations": {
     "alternatives": [

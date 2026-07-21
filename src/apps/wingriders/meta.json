@@ -1,7 +1,7 @@
 {
   "slug": "wingriders",
   "name": "WingRiders",
-  "logoUrl": "https://cdn.cardanocube.com/ziz0virjkuuqalmvyhi348cmzinu",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774341568/dapp-store-logos/wingriders.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "Cardano"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "WingRiders is a premier Cardano DEX featuring an AMM model, yield farming, and hardware wallet integration.",
     "description": "WingRiders is a leading decentralized exchange (DEX) on the Cardano blockchain, utilizing an Automated Market Maker (AMM) model to facilitate secure and efficient token swaps. It distinguishes itself by being the first Cardano DEX to offer direct hardware wallet support for Ledger and Trezor users, alongside unique 'auto-staking' features for liquidity providers. The platform enables participants to earn rewards through liquidity pools and yield farming while maintaining full custody of their assets. WingRiders is committed to driving DeFi innovation and accessibility within the ecosystem.",
@@ -18,9 +20,9 @@
   },
   "links": {
     "website": "https://www.wingriders.com/",
+    "docs": "https://assets.wingriders.com/whitepaper.pdf",
     "twitter": "https://x.com/wingriderscom",
-    "telegram": "https://t.me/WingRidersOfficial",
-    "docs": "https://assets.wingriders.com/whitepaper.pdf"
+    "telegram": "https://t.me/WingRidersOfficial"
   },
   "relations": {
     "alternatives": [

@@ -1,7 +1,7 @@
 {
   "slug": "txpipe",
   "name": "TxPipe",
-  "logoUrl": "https://cdn.cardanocube.com/blp9bl5zg5uhhcj4q9bkpp72esmm",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774341503/dapp-store-logos/txpipe.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Web3 Data Tools"
@@ -9,7 +9,9 @@
   "chains": [
     "Cardano"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "TxPipe is a leading organization building open-source infrastructure and developer tools for Cardano.",
     "description": "TxPipe is a prominent organization dedicated to accelerating Cardano adoption by improving the developer experience through high-quality open-source tools. Their suite of infrastructure solutions includes Dolos, a lightweight data node; Oura, an on-chain event observer; and Pallas, a Rust-native building block for the protocol. By providing robust, audit-ready components and a domain-specific language for dApp development, TxPipe empowers builders to create secure and efficient applications. Their commitment to the open-source community makes them a vital pillar of the Cardano ecosystem.",
@@ -18,8 +20,8 @@
   },
   "links": {
     "website": "https://txpipe.io/",
-    "twitter": "https://x.com/txpipe_tools",
-    "docs": "https://txpipe.io/"
+    "docs": "https://txpipe.io/",
+    "twitter": "https://x.com/txpipe_tools"
   },
   "relations": {
     "alternatives": [

@@ -1,7 +1,7 @@
 {
   "slug": "daedalus-wallet",
   "name": "Daedalus Wallet",
-  "logoUrl": "https://cdn.cardanocube.com/71dipooyh8n8tt211gxsz9mevnxq",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340405/dapp-store-logos/daedalus-wallet.png",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -9,7 +9,9 @@
   "chains": [
     "Cardano"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Daedalus Wallet is an open-source full-node wallet for ADA with local validation and strong custody.",
     "description": "Daedalus Wallet is an open-source full-node wallet for ADA built by Input Output Global for the Cardano ecosystem. Unlike a light wallet, Daedalus downloads and validates the Cardano blockchain locally, giving users a more trustless way to manage funds without relying on a centrally hosted server. It supports multiple wallets, hierarchical deterministic wallet structure, staking, and detailed control over ADA storage. Daedalus is designed for users who value security, decentralization, and full-node validation.",

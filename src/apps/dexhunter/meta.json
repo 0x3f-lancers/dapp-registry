@@ -1,7 +1,7 @@
 {
   "slug": "dexhunter",
   "name": "DexHunter",
-  "logoUrl": "https://cdn.cardanocube.com/qc6ddhonvfbfy5104w2z0wtrs6b5",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340437/dapp-store-logos/dexhunter.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "Cardano"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "DexHunter is a Cardano DEX aggregator that compares swaps across exchanges to find better trading routes.",
     "description": "DexHunter is a decentralized exchange aggregator for Cardano traders. The platform compares liquidity and prices across multiple Cardano DEXs, then routes swaps to help users get stronger execution, lower slippage, and better token prices from a single interface. It is designed for both everyday users and active traders who do not want to manually compare pools across each exchange. DexHunter also supports integrations so other projects can route Cardano swaps through its aggregation infrastructure.",
@@ -18,8 +20,8 @@
   },
   "links": {
     "website": "https://www.dexhunter.io/",
-    "twitter": "https://x.com/dexhunterio",
-    "docs": "https://dexhunter.gitbook.io/dexhunter-partners"
+    "docs": "https://dexhunter.gitbook.io/dexhunter-partners",
+    "twitter": "https://x.com/dexhunterio"
   },
   "relations": {
     "alternatives": [

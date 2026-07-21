@@ -1,7 +1,7 @@
 {
   "slug": "charli3",
   "name": "Charli3",
-  "logoUrl": "https://cdn.cardanocube.com/4wacudjoyielhsy88u3rle0gcnbc",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340313/dapp-store-logos/charli3.png",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -9,7 +9,9 @@
   "chains": [
     "Cardano"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Charli3 is a decentralized oracle network bringing verified off-chain data feeds to Cardano smart contracts.",
     "description": "Charli3 is a decentralized oracle network built for Cardano applications that need trusted off-chain data on-chain. It provides market, pricing, and external data feeds that smart contracts can read when executing DeFi logic or other data-dependent workflows. The network uses node operators to source, validate, and publish information, giving Cardano builders a native oracle layer instead of relying only on centralized APIs. Charli3 supports projects that need accurate, timely data for lending, trading, analytics, and automation.",

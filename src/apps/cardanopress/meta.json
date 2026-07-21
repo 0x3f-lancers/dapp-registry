@@ -1,7 +1,7 @@
 {
   "slug": "cardanopress",
   "name": "CardanoPress",
-  "logoUrl": "https://cdn.cardanocube.com/z0razyrk1jxi71o9b3y3pp6xnbzx",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340241/dapp-store-logos/cardanopress.jpg",
   "category": "Web3 Developer Tools",
   "subcategory": [
     "Development Frameworks"
@@ -9,7 +9,15 @@
   "chains": [
     "Cardano"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "CardanoPress is a WordPress plugin for adding Cardano wallet, token, and dapp features to websites easily.",
+    "description": "CardanoPress is a WordPress plugin designed to help site owners add Cardano blockchain features without heavy custom development. It gives builders a way to integrate wallet-aware experiences, dapp functionality, and Cardano-powered workflows into familiar WordPress sites. The project lowers the barrier for creators, communities, and businesses that want to connect websites with Cardano while still using the content-management tools they already know. Its role is practical Web3 integration for WordPress.",
+    "meta": "CardanoPress helps WordPress sites add Cardano wallet, token, and dapp features easily. Explore CardanoPress on Lancers Web3 Explorer.",
+    "pageTitle": "CardanoPress - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
   "links": {
     "website": "https://cardanopress.io/",
     "twitter": "https://x.com/cardanopress"
@@ -23,11 +31,5 @@
     "related": [
       "erasure"
     ]
-  },
-  "content": {
-    "short": "CardanoPress is a WordPress plugin for adding Cardano wallet, token, and dapp features to websites easily.",
-    "description": "CardanoPress is a WordPress plugin designed to help site owners add Cardano blockchain features without heavy custom development. It gives builders a way to integrate wallet-aware experiences, dapp functionality, and Cardano-powered workflows into familiar WordPress sites. The project lowers the barrier for creators, communities, and businesses that want to connect websites with Cardano while still using the content-management tools they already know. Its role is practical Web3 integration for WordPress.",
-    "meta": "CardanoPress helps WordPress sites add Cardano wallet, token, and dapp features easily. Explore CardanoPress on Lancers Web3 Explorer.",
-    "pageTitle": "CardanoPress - Web3 Developer Tools - Lancers Web3 Explorer"
   }
 }
