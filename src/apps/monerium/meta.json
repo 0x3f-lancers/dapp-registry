@@ -1,0 +1,51 @@
+{
+  "slug": "monerium",
+  "name": "Monerium",
+  "logoUrl": "https://unavatar.io/x/monerium",
+  "category": "Neobanks",
+  "subcategory": [
+    "Business Neobanks",
+    "Consumer Neobanks",
+    "Cross-border Neobanks",
+    "Crypto Neobanks",
+    "DeFi Neobanks",
+    "Stablecoin Neobanks"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Polygon",
+    "Base",
+    "Linea",
+    "Cosmos"
+  ],
+  "tags": [
+    "Neobanks",
+    "Business Neobanks",
+    "Consumer Neobanks",
+    "Cross-border Neobanks",
+    "Crypto Neobanks",
+    "DeFi Neobanks",
+    "Stablecoin Neobanks",
+    "B2B",
+    "B2C",
+    "Stablecoin",
+    "Cross-border Payments",
+    "Cards and Virtual Accounts"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Web3 IBANs and on-chain euro money movement.",
+    "description": "Monerium is a European e-money institution that connects traditional bank rails to blockchains, letting users hold regulated euros on-chain and move money between IBANs and wallets instantly. Its flagship token, EURe, is a MiCA-compliant euro e-money stablecoin that comes with a real IBAN, so businesses and individuals can receive SEPA transfers directly into a self-custodied wallet and send euros on-chain like any other token. EURe is available across many networks, including Ethereum, Arbitrum, Polygon, Base, Linea, and via Noble on Cosmos, and is transferable cross-chain. By issuing fully backed, regulated euro money that lives natively on public blockchains, Monerium bridges DeFi and everyday finance, powering payments, payroll, and settlement for Web3 companies and fintechs across the EU.",
+    "meta": "Monerium issues regulated on-chain euros (EURe) with real IBANs across many chains. Discover Monerium and other Neobanks on Lancers Web3 Explorer.",
+    "pageTitle": "Monerium - Neobanks - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://monerium.com/",
+    "twitter": "https://x.com/monerium"
+  },
+  "relations": {
+    "alternatives": ["gnosis-pay", "bleap", "holyheld"],
+    "related": ["kast", "stables"]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "bleap",
+  "name": "Bleap",
+  "logoUrl": "https://unavatar.io/x/BleapApp",
+  "category": "Neobanks",
+  "subcategory": [
+    "Consumer Neobanks",
+    "Cross-border Neobanks",
+    "DeFi Neobanks",
+    "Stablecoin Neobanks"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Ethereum",
+    "Polygon",
+    "Base",
+    "OP Mainnet",
+    "BNB Chain",
+    "Solana",
+    "Bitcoin"
+  ],
+  "tags": [
+    "Neobanks",
+    "Consumer Neobanks",
+    "Cross-border Neobanks",
+    "DeFi Neobanks",
+    "Stablecoin Neobanks",
+    "B2C",
+    "Stablecoin",
+    "Cross-border Payments",
+    "Cards and Virtual Accounts"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Self-custodial money app with stablecoin payments and Mastercard.",
+    "description": "Bleap, founded by former Revolut employees, is a self-custodial money app that lets users hold and spend stablecoins directly from their own smart wallet. Through a partnership with Mastercard, its non-custodial debit card converts stablecoins such as USDC, USDT, USDA, and EURA to fiat automatically at the point of sale, so people can pay anywhere while keeping funds on-chain. The smart wallet is deployed on Arbitrum, and Bleap's on/off-ramp and bridging services extend across Ethereum, Polygon, Base, Optimism, BNB Chain, Solana, and Bitcoin. Aimed at consumers in Europe and globally, Bleap blends a familiar neobank experience — cards, cashback, and savings yield — with DeFi rails, positioning stablecoins as everyday spending money.",
+    "meta": "Bleap is a self-custodial app to spend stablecoins via a Mastercard debit card. Discover Bleap and other Neobanks on Lancers Web3 Explorer.",
+    "pageTitle": "Bleap - Neobanks - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.bleap.finance/",
+    "twitter": "https://x.com/BleapApp",
+    "telegram": "https://t.me/+x9IHkcVqcxcyNjVk"
+  },
+  "relations": {
+    "alternatives": ["gnosis-pay", "kast", "redotpay"],
+    "related": ["oobit", "stables"]
+  }
+}
