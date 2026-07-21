@@ -1,7 +1,7 @@
 {
   "slug": "liqwid",
   "name": "Liqwid",
-  "logoUrl": "https://cdn.cardanocube.com/zh0j50miy2c11nrik8y0wmqm3i9s",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340791/dapp-store-logos/liqwid.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -9,7 +9,9 @@
   "chains": [
     "Cardano"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Liqwid is an interest-rate liquidity protocol for the Cardano ecosystem providing decentralized money markets.",
     "description": "Liqwid is a pioneering interest-rate liquidity protocol built on the Cardano blockchain, facilitating decentralized money markets for lending and borrowing. Users can supply assets to earn interest and mint qTokens, or borrow against their collateral in a completely non-custodial environment. The protocol leverages Cardano's EUTXO model to ensure security, transparency, and capital efficiency for all participants. Governed by the Liqwid DAO, the platform empowers the community to manage risk parameters and interest rate models, driving the growth and stability of the Cardano DeFi landscape.",
@@ -18,8 +20,8 @@
   },
   "links": {
     "website": "https://www.liqwid.finance/",
-    "twitter": "https://x.com/liqwidfinance",
-    "docs": "https://liqwid-labs.gitbook.io/liqwid-docs"
+    "docs": "https://liqwid-labs.gitbook.io/liqwid-docs",
+    "twitter": "https://x.com/liqwidfinance"
   },
   "relations": {
     "alternatives": [
