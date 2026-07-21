@@ -1,6 +1,15 @@
 name: Validate DApp Data
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "src/apps/**"
+      - "scripts/**"
+      - "schema/**"
+      - "lib/**"
+      - "data/**"
   pull_request:
     branches:
       - main
@@ -12,7 +21,7 @@ on:
       - "data/**"
 
 permissions:
-  contents: read
+  contents: write
   pull-requests: write
 
 jobs:
@@ -54,6 +63,30 @@ jobs:
       - name: Build scripts
         run: pnpm run build
 
+      - name: Fill Missing Relations
+        run: pnpm run fill:relations
+
+      - name: Check for relation updates
+        id: check_relation_changes
+        run: |
+          if git diff --quiet src/apps/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No relation updates generated."
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Relation updates generated."
+            git diff --name-only src/apps/
+          fi
+
+      - name: Commit relation updates
+        if: github.event_name == 'push' && steps.check_relation_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/apps/*/meta.json
+          git commit -m "chore(data): auto-fill missing app relations"
+          git push
+
       - name: Check Missing Relations
         run: pnpm run check:relations
 
@@ -69,3 +102,6 @@ jobs:
           echo "## Validation Passed" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "All metadata files validated successfully." >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.check_relation_changes.outputs.has_changes }}" == "true" ]; then
+            echo "Missing relations were auto-filled during this run." >> $GITHUB_STEP_SUMMARY
+          fi

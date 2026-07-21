@@ -6,8 +6,8 @@
   "scripts": {
     "build": "tsc",
     "check:staged-app-folders": "node scripts/check-staged-app-folders.js",
-    "check:relations": "tsx scripts/fill-missing-relations.ts --check --chain=Cardano",
-    "fill:relations": "tsx scripts/fill-missing-relations.ts --chain=Cardano",
+    "check:relations": "tsx scripts/fill-missing-relations.ts --check",
+    "fill:relations": "tsx scripts/fill-missing-relations.ts",
     "prepare": "node scripts/setup-hooks.js",
     "start": "tsx index.ts",
     "validate": "tsx scripts/run-validate.ts",
