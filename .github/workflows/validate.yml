@@ -78,14 +78,23 @@ jobs:
             git diff --name-only src/apps/
           fi
 
-      - name: Commit relation updates
+      - name: Create pull request for relation updates
         if: github.event_name == 'push' && steps.check_relation_changes.outputs.has_changes == 'true'
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add src/apps/*/meta.json
-          git commit -m "chore(data): auto-fill missing app relations"
-          git push
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(data): auto-fill missing app relations"
+          committer: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          branch: "automation/fill-missing-relations"
+          delete-branch: true
+          title: "chore(data): auto-fill missing app relations"
+          body: |
+            This PR was opened automatically by GitHub Actions.
+
+            It contains generated relation backfills from `pnpm run fill:relations`.
+
+            Please review and merge if the suggested relations look correct.
 
       - name: Check Missing Relations
         run: pnpm run check:relations
