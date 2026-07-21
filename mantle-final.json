@@ -1,0 +1,1093 @@
+{
+    "chain":  "Mantle",
+    "count":  155,
+    "new":  89,
+    "existing":  66,
+    "apps":  [
+                 {
+                     "name":  "0x",
+                     "slug":  "0x",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/0x.svg",
+                     "website":  "https://www.0x.org/"
+                 },
+                 {
+                     "name":  "1delta",
+                     "slug":  "1delta",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744622/web3-explorer/dapp-logos/1delta.png",
+                     "website":  "https://1delta.io/"
+                 },
+                 {
+                     "name":  "AgentLayer",
+                     "slug":  "agentlayer",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/agent_layer",
+                     "website":  "https://www.agentlayer.xyz/"
+                 },
+                 {
+                     "name":  "AGNI",
+                     "slug":  "agni",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Agnidex",
+                     "website":  "https://agni.finance/"
+                 },
+                 {
+                     "name":  "AirPuff",
+                     "slug":  "airpuff",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/airpuff_io",
+                     "website":  "https://www.airpuff.io/"
+                 },
+                 {
+                     "name":  "Alchemy",
+                     "slug":  "alchemy",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770751446/web3-explorer/dapp-logos/alchemy.png",
+                     "website":  "https://cantina.xyz/bounties/d1496b11-e0cb-4905-80e6-b95f892f39ba"
+                 },
+                 {
+                     "name":  "Algebra Protocol",
+                     "slug":  "algebra-protocol",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/cryptoalgebra",
+                     "website":  "https://algebra.finance/"
+                 },
+                 {
+                     "name":  "Ankr",
+                     "slug":  "ankr",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744888/web3-explorer/dapp-logos/ankr.png",
+                     "website":  "https://www.ankr.com/"
+                 },
+                 {
+                     "name":  "API3",
+                     "slug":  "api3",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744921/web3-explorer/dapp-logos/api3.jpg",
+                     "website":  "https://api3.org"
+                 },
+                 {
+                     "name":  "Automata",
+                     "slug":  "automata",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/AutomataNetwork",
+                     "website":  "https://www.ata.network/"
+                 },
+                 {
+                     "name":  "Avalon USDa",
+                     "slug":  "avalon-usda",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/avalonfinance_",
+                     "website":  "https://www.avalonfinance.xyz/"
+                 },
+                 {
+                     "name":  "Axelar",
+                     "slug":  "axelar",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745129/web3-explorer/dapp-logos/axelar.jpg",
+                     "website":  "https://axelar.network/"
+                 },
+                 {
+                     "name":  "Banxa",
+                     "slug":  "banxa",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/banxaofficial",
+                     "website":  "https://banxa.com/"
+                 },
+                 {
+                     "name":  "Beefy",
+                     "slug":  "beefy",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/beefyfinance",
+                     "website":  "https://beefy.com/"
+                 },
+                 {
+                     "name":  "Biconomy Core",
+                     "slug":  "biconomy",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745227/web3-explorer/dapp-logos/biconomy.jpg",
+                     "website":  "https://www.biconomy.io/"
+                 },
+                 {
+                     "name":  "Birdeye",
+                     "slug":  "birdeye",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/birdeye_so",
+                     "website":  "https://birdeye.so/"
+                 },
+                 {
+                     "name":  "Birdeye Data Services",
+                     "slug":  "birdeye-data-services",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/birdeye_data",
+                     "website":  "https://bds.birdeye.so/"
+                 },
+                 {
+                     "name":  "Blockchair",
+                     "slug":  "blockchair",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Blockchair",
+                     "website":  "https://blockchair.com/"
+                 },
+                 {
+                     "name":  "BoomFi",
+                     "slug":  "boomfi",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745429/web3-explorer/dapp-logos/boomfi.jpg",
+                     "website":  "https://www.boomfi.xyz/"
+                 },
+                 {
+                     "name":  "Cede.store",
+                     "slug":  "cede-store",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745595/web3-explorer/dapp-logos/cede-store.png",
+                     "website":  "https://cede.store"
+                 },
+                 {
+                     "name":  "ChainGPT",
+                     "slug":  "chaingpt",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/chain_gpt",
+                     "website":  "https://www.chaingpt.org/"
+                 },
+                 {
+                     "name":  "Chainlink",
+                     "slug":  "chainlink",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745648/web3-explorer/dapp-logos/chainlink.png",
+                     "website":  "https://chain.link/"
+                 },
+                 {
+                     "name":  "Chasm Network",
+                     "slug":  "chasm-network",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/chasmnetwork",
+                     "website":  "https://www.chasm.net/"
+                 },
+                 {
+                     "name":  "Chronicle Protocol",
+                     "slug":  "chronicle-protocol",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745708/web3-explorer/dapp-logos/chronicle-protocol.png",
+                     "website":  "https://chroniclelabs.org/"
+                 },
+                 {
+                     "name":  "CIAN Yield Layer",
+                     "slug":  "cian-yield-layer",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/CIAN_protocol",
+                     "website":  "https://yieldlayer.cian.app/"
+                 },
+                 {
+                     "name":  "claimr",
+                     "slug":  "claimr",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745726/web3-explorer/dapp-logos/claimr.jpg",
+                     "website":  "https://claimr.io/"
+                 },
+                 {
+                     "name":  "Clearpool",
+                     "slug":  "clearpool",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774339947/dapp-store-logos/clearpool.jpg",
+                     "website":  "https://clearpool.finance"
+                 },
+                 {
+                     "name":  "Clipper",
+                     "slug":  "clipper",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Clipper_DEX",
+                     "website":  "https://clipper.exchange/"
+                 },
+                 {
+                     "name":  "Clique",
+                     "slug":  "clique",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Clique2046",
+                     "website":  "https://www.clique.tech/"
+                 },
+                 {
+                     "name":  "Cobo Argus",
+                     "slug":  "cobo-argus",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/cobo_global",
+                     "website":  "https://www.cobo.com/products/argus"
+                 },
+                 {
+                     "name":  "Coin98",
+                     "slug":  "coin98",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745763/web3-explorer/dapp-logos/coin98.jpg",
+                     "website":  "https://coin98.com/"
+                 },
+                 {
+                     "name":  "Compound Finance",
+                     "slug":  "compound-finance",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/compoundfinance",
+                     "website":  "https://compound.finance/"
+                 },
+                 {
+                     "name":  "Cookie3",
+                     "slug":  "cookie3",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/cookie3",
+                     "website":  "https://www.cookie3.com/"
+                 },
+                 {
+                     "name":  "Covalent",
+                     "slug":  "covalent",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745908/web3-explorer/dapp-logos/covalent.jpg",
+                     "website":  "https://www.covalenthq.com/"
+                 },
+                 {
+                     "name":  "CrossCurve",
+                     "slug":  "crosscurve",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770746006/web3-explorer/dapp-logos/crosscurve.png",
+                     "website":  "https://crosscurve.fi/"
+                 },
+                 {
+                     "name":  "DeFiLlama",
+                     "slug":  "defillama",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770746394/web3-explorer/dapp-logos/defillama.jpg",
+                     "website":  "https://defillama.com/"
+                 },
+                 {
+                     "name":  "Demex",
+                     "slug":  "demex",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774339969/dapp-store-logos/demex.png",
+                     "website":  "https://dem.exchange/"
+                 },
+                 {
+                     "name":  "DIN (Infura)",
+                     "slug":  "din-infura",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/infura_io",
+                     "website":  "https://www.infura.io/"
+                 },
+                 {
+                     "name":  "Dolomite",
+                     "slug":  "dolomite",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774339971/dapp-store-logos/dolomite.jpg",
+                     "website":  "https://dolomite.io"
+                 },
+                 {
+                     "name":  "DRPC",
+                     "slug":  "drpc",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770746577/web3-explorer/dapp-logos/drpc.png",
+                     "website":  "https://drpc.org/"
+                 },
+                 {
+                     "name":  "Dune",
+                     "slug":  "dune",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/dune",
+                     "website":  "https://dune.com/home"
+                 },
+                 {
+                     "name":  "DZap",
+                     "slug":  "dzap",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770746611/web3-explorer/dapp-logos/dzap.png",
+                     "website":  "https://dzap.io/"
+                 },
+                 {
+                     "name":  "EigenLayer",
+                     "slug":  "eigenlayer",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/eigencloud",
+                     "website":  "https://www.eigencloud.xyz/"
+                 },
+                 {
+                     "name":  "Eisen Finance",
+                     "slug":  "eisen-finance",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/EisenLabs",
+                     "website":  "https://eisenfinance.com/"
+                 },
+                 {
+                     "name":  "Element",
+                     "slug":  "element",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/element_market",
+                     "website":  "https://element.market/ethereum"
+                 },
+                 {
+                     "name":  "Equilibria",
+                     "slug":  "equilibria",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Equilibriafi",
+                     "website":  "https://equilibria.fi/home"
+                 },
+                 {
+                     "name":  "Etherspot",
+                     "slug":  "etherspot",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770746828/web3-explorer/dapp-logos/etherspot.jpg",
+                     "website":  "https://etherspot.io/"
+                 },
+                 {
+                     "name":  "Flipside",
+                     "slug":  "flipside",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770746980/web3-explorer/dapp-logos/flipside.png",
+                     "website":  "https://docs.flipsidecrypto.com/"
+                 },
+                 {
+                     "name":  "Fluxion Network",
+                     "slug":  "fluxion-network",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/fluxion_network",
+                     "website":  "https://app.fluxion.network/"
+                 },
+                 {
+                     "name":  "FusionX",
+                     "slug":  "fusionx",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774340025/dapp-store-logos/fusionx.jpg",
+                     "website":  "https://fusionx.finance/"
+                 },
+                 {
+                     "name":  "Galxe",
+                     "slug":  "galxe",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747142/web3-explorer/dapp-logos/galxe.jpg",
+                     "website":  "https://galxe.com/"
+                 },
+                 {
+                     "name":  "Game7 DAO",
+                     "slug":  "game7-dao",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Game7HQ",
+                     "website":  "https://game7.io/"
+                 },
+                 {
+                     "name":  "Gamma Strategies",
+                     "slug":  "gamma-strategies",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/gammastrategies",
+                     "website":  "https://app.gamma.xyz/v2/vaults"
+                 },
+                 {
+                     "name":  "Gem Wallet",
+                     "slug":  "gem-wallet",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747203/web3-explorer/dapp-logos/gem-wallet.png",
+                     "website":  "https://gemwallet.com/"
+                 },
+                 {
+                     "name":  "Guild.xyz",
+                     "slug":  "guild-xyz",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/guildxyz",
+                     "website":  "https://guild.xyz/"
+                 },
+                 {
+                     "name":  "Highlight",
+                     "slug":  "highlight",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747536/web3-explorer/dapp-logos/highlight.png",
+                     "website":  "https://highlight.xyz/"
+                 },
+                 {
+                     "name":  "Hive Intelligence",
+                     "slug":  "hive-intelligence",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/hive_intel",
+                     "website":  "https://www.hiveintelligence.xyz/"
+                 },
+                 {
+                     "name":  "Hyperlane",
+                     "slug":  "hyperlane",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/hyperlane",
+                     "website":  "https://www.hyperlane.xyz/"
+                 },
+                 {
+                     "name":  "ICHI",
+                     "slug":  "ichi",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/ichifoundation",
+                     "website":  "https://www.ichi.org/"
+                 },
+                 {
+                     "name":  "IDriss",
+                     "slug":  "idriss",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/idriss_xyz",
+                     "website":  "https://idriss.xyz/"
+                 },
+                 {
+                     "name":  "Impermax V2",
+                     "slug":  "impermax-v2",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/impermaxfinance",
+                     "website":  "https://www.impermax.finance/"
+                 },
+                 {
+                     "name":  "imToken",
+                     "slug":  "imtoken",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747697/web3-explorer/dapp-logos/imtoken.jpg",
+                     "website":  "https://token.im/"
+                 },
+                 {
+                     "name":  "INFINIT",
+                     "slug":  "infinit",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Infinit_Labs",
+                     "website":  "https://infinit.tech/"
+                 },
+                 {
+                     "name":  "INIT Capital",
+                     "slug":  "init-capital",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774860313/dapp-store-logos/init-capital.jpg",
+                     "website":  "https://init.capital"
+                 },
+                 {
+                     "name":  "iZUMi Finance",
+                     "slug":  "izumi-finance",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/izumi_Finance",
+                     "website":  "https://izumi.finance/home"
+                 },
+                 {
+                     "name":  "Kinza Finance",
+                     "slug":  "kinza-finance",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/kinzafinance",
+                     "website":  "https://kinza.finance/"
+                 },
+                 {
+                     "name":  "Krystal Wallet",
+                     "slug":  "krystal-wallet",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/krystaldefi",
+                     "website":  "https://krystal.app/"
+                 },
+                 {
+                     "name":  "KyberSwap",
+                     "slug":  "kyberswap",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747944/web3-explorer/dapp-logos/kyberswap.svg",
+                     "website":  "https://kyberswap.com/"
+                 },
+                 {
+                     "name":  "Lagrange",
+                     "slug":  "lagrange",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747971/web3-explorer/dapp-logos/lagrange.png",
+                     "website":  "https://www.lagrange.dev/"
+                 },
+                 {
+                     "name":  "Layer3",
+                     "slug":  "layer3",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/layer3",
+                     "website":  "https://layer3.xyz/"
+                 },
+                 {
+                     "name":  "LayerZero",
+                     "slug":  "layerzero",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748019/web3-explorer/dapp-logos/layerzero.jpg",
+                     "website":  "https://layerzero.network/"
+                 },
+                 {
+                     "name":  "LogX",
+                     "slug":  "logx",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/LogX_trade",
+                     "website":  "https://logx.trade/"
+                 },
+                 {
+                     "name":  "Mantle Bridge",
+                     "slug":  "mantle-bridge",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Mantle_Official",
+                     "website":  "https://app.mantle.xyz/bridge"
+                 },
+                 {
+                     "name":  "Mantle Index Four Fund",
+                     "slug":  "mantle-index-four-fund",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Securitize",
+                     "website":  "https://securitize.io/"
+                 },
+                 {
+                     "name":  "MantleNS",
+                     "slug":  "mantlens",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/mantlens.domains",
+                     "website":  "https://mantlens.domains/"
+                 },
+                 {
+                     "name":  "Mantle Rewards Station",
+                     "slug":  "mantle-rewards-station",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Mantle_Official",
+                     "website":  "https://rewards.mantle.xyz/"
+                 },
+                 {
+                     "name":  "Matcha",
+                     "slug":  "matcha",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748228/web3-explorer/dapp-logos/matcha.png",
+                     "website":  "https://matcha.xyz/"
+                 },
+                 {
+                     "name":  "MCÃ‚Â² Finance",
+                     "slug":  "mc2-finance",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/mcsquaredfi",
+                     "website":  "https://www.mc2.fi/"
+                 },
+                 {
+                     "name":  "Meson",
+                     "slug":  "meson",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748311/web3-explorer/dapp-logos/meson.png",
+                     "website":  "https://meson.fi/"
+                 },
+                 {
+                     "name":  "MetaCene",
+                     "slug":  "metacene",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/MetaCeneGame",
+                     "website":  "https://www.metacene.io/"
+                 },
+                 {
+                     "name":  "MetaMask",
+                     "slug":  "metamask",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748349/web3-explorer/dapp-logos/metamask.png",
+                     "website":  "https://metamask.io/"
+                 },
+                 {
+                     "name":  "Metrom",
+                     "slug":  "metrom",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748389/web3-explorer/dapp-logos/metrom.png",
+                     "website":  "https://metrom.xyz/"
+                 },
+                 {
+                     "name":  "Mini Bridge",
+                     "slug":  "mini-bridge",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/chaineye_tools",
+                     "website":  "https://minibridge.chaineye.tools/"
+                 },
+                 {
+                     "name":  "Mintpad",
+                     "slug":  "mintpad",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/mintpadco",
+                     "website":  "https://mintpad.co/"
+                 },
+                 {
+                     "name":  "Mitosis",
+                     "slug":  "mitosis",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/mitosisorg",
+                     "website":  "https://mitosis.org/"
+                 },
+                 {
+                     "name":  "MÃƒÂ¶bius Exchange",
+                     "slug":  "mobius-exchange",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/mobius_exchange",
+                     "website":  "https://www.mobius.exchange/"
+                 },
+                 {
+                     "name":  "Moralis",
+                     "slug":  "moralis",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748538/web3-explorer/dapp-logos/moralis.jpg",
+                     "website":  "https://developers.moralis.com/"
+                 },
+                 {
+                     "name":  "MYSO Finance",
+                     "slug":  "myso-finance",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/enzymefinance",
+                     "website":  "https://www.myso.finance/"
+                 },
+                 {
+                     "name":  "Napier",
+                     "slug":  "napier",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/napierfinance",
+                     "website":  "https://app.napier.finance/explore"
+                 },
+                 {
+                     "name":  "Native",
+                     "slug":  "native",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/native_fi",
+                     "website":  "https://native.org"
+                 },
+                 {
+                     "name":  "NFTs2Me",
+                     "slug":  "nfts2me",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748721/web3-explorer/dapp-logos/nfts2me.jpg",
+                     "website":  "https://nfts2me.com/"
+                 },
+                 {
+                     "name":  "NFTScan",
+                     "slug":  "nftscan",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/nftscan_com",
+                     "website":  "https://www.nftscan.com/"
+                 },
+                 {
+                     "name":  "ODOS.xyz",
+                     "slug":  "odos",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748822/web3-explorer/dapp-logos/odos.jpg",
+                     "website":  "https://app.odos.xyz"
+                 },
+                 {
+                     "name":  "Oku Trade",
+                     "slug":  "oku-trade",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/okutrade",
+                     "website":  "https://oku.trade/"
+                 },
+                 {
+                     "name":  "OKX Wallet",
+                     "slug":  "okx-wallet",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748836/web3-explorer/dapp-logos/okx-wallet.jpg",
+                     "website":  "https://www.okx.com/web3"
+                 },
+                 {
+                     "name":  "OMNIA Protocol",
+                     "slug":  "omnia-protocol",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/omnia_protocol",
+                     "website":  "https://omniatech.io/"
+                 },
+                 {
+                     "name":  "ONDO",
+                     "slug":  "ondo",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/ondofinance",
+                     "website":  "https://ondo.finance/"
+                 },
+                 {
+                     "name":  "OneKey",
+                     "slug":  "onekey",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/onekeyhq",
+                     "website":  "https://onekey.so/"
+                 },
+                 {
+                     "name":  "Onramp.money",
+                     "slug":  "onramp-money",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748867/web3-explorer/dapp-logos/onramp-money.png",
+                     "website":  "https://onramp.money/"
+                 },
+                 {
+                     "name":  "Openfort",
+                     "slug":  "openfort",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748894/web3-explorer/dapp-logos/openfort.jpg",
+                     "website":  "https://www.openfort.io/"
+                 },
+                 {
+                     "name":  "OpenGDP Shared Security",
+                     "slug":  "opengdp-shared-security",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/opengdp",
+                     "website":  "https://opengdp.network/"
+                 },
+                 {
+                     "name":  "OpenOcean",
+                     "slug":  "openocean",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748901/web3-explorer/dapp-logos/openocean.png",
+                     "website":  "https://openocean.finance/"
+                 },
+                 {
+                     "name":  "ORA",
+                     "slug":  "ora",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/OraProtocol",
+                     "website":  "https://www.ora.io/"
+                 },
+                 {
+                     "name":  "Ormi Labs",
+                     "slug":  "ormi-labs",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/ormilabs",
+                     "website":  "https://ormilabs.com/"
+                 },
+                 {
+                     "name":  "Owlto Finance",
+                     "slug":  "owlto-finance",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749024/web3-explorer/dapp-logos/owlto-finance.png",
+                     "website":  "https://owlto.finance/"
+                 },
+                 {
+                     "name":  "Particle Network",
+                     "slug":  "particle-network",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749080/web3-explorer/dapp-logos/particle-network.png",
+                     "website":  "https://particle.network"
+                 },
+                 {
+                     "name":  "Pell Network",
+                     "slug":  "pell-network",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/pell_network",
+                     "website":  "https://pell.network/"
+                 },
+                 {
+                     "name":  "Phalcon",
+                     "slug":  "phalcon",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/blocksecteam",
+                     "website":  "https://blocksec.com/phalcon/security"
+                 },
+                 {
+                     "name":  "Polyhedra Network",
+                     "slug":  "polyhedra-network",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749253/web3-explorer/dapp-logos/polyhedra-network.png",
+                     "website":  "https://polyhedra.network/"
+                 },
+                 {
+                     "name":  "Port3 Network",
+                     "slug":  "port3-network",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/port3network",
+                     "website":  "https://port3.io/"
+                 },
+                 {
+                     "name":  "Printr",
+                     "slug":  "printr",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/printr",
+                     "website":  "https://www.printr.money/"
+                 },
+                 {
+                     "name":  "Privy",
+                     "slug":  "privy",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749321/web3-explorer/dapp-logos/privy.jpg",
+                     "website":  "https://www.privy.io/"
+                 },
+                 {
+                     "name":  "PumpBTC",
+                     "slug":  "pumpbtc",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/Pumpbtcxyz",
+                     "website":  "https://mainnet.pumpbtc.xyz/"
+                 },
+                 {
+                     "name":  "Pyth",
+                     "slug":  "pyth",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/pythnetwork",
+                     "website":  "https://www.pyth.network/"
+                 },
+                 {
+                     "name":  "QuestN",
+                     "slug":  "questn",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774860410/dapp-store-logos/questn.jpg",
+                     "website":  "https://questn.com/"
+                 },
+                 {
+                     "name":  "RabbitHole",
+                     "slug":  "rabbithole",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/rabbithole_gg",
+                     "website":  "https://www.rabbithole.gg/"
+                 },
+                 {
+                     "name":  "Range Protocol",
+                     "slug":  "range-protocol",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/skate_fi",
+                     "website":  "https://www.skatefi.org/"
+                 },
+                 {
+                     "name":  "Reservoir Protocol",
+                     "slug":  "reservoir-protocol",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/reservoir_xyz",
+                     "website":  "https://app.reservoir.xyz/leaderboard"
+                 },
+                 {
+                     "name":  "RetroBridge",
+                     "slug":  "retrobridge",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/retro_bridge",
+                     "website":  "https://retrobridge.io/"
+                 },
+                 {
+                     "name":  "Router Nitro",
+                     "slug":  "router-nitro",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749654/web3-explorer/dapp-logos/router-nitro.png",
+                     "website":  "https://app.routernitro.com/swap"
+                 },
+                 {
+                     "name":  "Router Protocol",
+                     "slug":  "router-protocol",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749658/web3-explorer/dapp-logos/router-protocol.jpg",
+                     "website":  "https://www.routerprotocol.com/"
+                 },
+                 {
+                     "name":  "Rubic",
+                     "slug":  "rubic",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749680/web3-explorer/dapp-logos/rubic.png",
+                     "website":  "https://rubic.exchange/"
+                 },
+                 {
+                     "name":  "Safe",
+                     "slug":  "safe",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/safelabs_",
+                     "website":  "https://safe.global/"
+                 },
+                 {
+                     "name":  "Sentio",
+                     "slug":  "sentio",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749809/web3-explorer/dapp-logos/sentio.png",
+                     "website":  "https://www.sentio.xyz"
+                 },
+                 {
+                     "name":  "SimpleHash",
+                     "slug":  "simplehash",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749879/web3-explorer/dapp-logos/simplehash.png",
+                     "website":  "https://simplehash.com"
+                 },
+                 {
+                     "name":  "Skate AMM",
+                     "slug":  "skate-amm",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/skate_chain",
+                     "website":  "https://amm.skatechain.org/swap"
+                 },
+                 {
+                     "name":  "Slash",
+                     "slug":  "slash",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/SlashWeb3",
+                     "website":  "https://slash.vision/"
+                 },
+                 {
+                     "name":  "Solv Protocol",
+                     "slug":  "solv-protocol",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/SolvProtocol",
+                     "website":  "https://app.solv.finance/solvbtc"
+                 },
+                 {
+                     "name":  "Stakefish",
+                     "slug":  "stakefish",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/stakefish",
+                     "website":  "https://stake.fish/"
+                 },
+                 {
+                     "name":  "Stargate",
+                     "slug":  "stargate",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750322/web3-explorer/dapp-logos/stargate.jpg",
+                     "website":  "https://stargate.finance/"
+                 },
+                 {
+                     "name":  "StealthEX",
+                     "slug":  "stealthex",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750382/web3-explorer/dapp-logos/stealthex.png",
+                     "website":  "https://stealthex.io/"
+                 },
+                 {
+                     "name":  "Stryke",
+                     "slug":  "stryke",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774860444/dapp-store-logos/stryke.jpg",
+                     "website":  "https://www.stryke.xyz/"
+                 },
+                 {
+                     "name":  "SubQuery",
+                     "slug":  "subquery",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750429/web3-explorer/dapp-logos/subquery.jpg",
+                     "website":  "https://subquery.network/"
+                 },
+                 {
+                     "name":  "Supra",
+                     "slug":  "supra",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750471/web3-explorer/dapp-logos/supra.png",
+                     "website":  "https://supra.com/"
+                 },
+                 {
+                     "name":  "Swaap Maker V2",
+                     "slug":  "swaap-maker-v2",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/swaapfinance",
+                     "website":  "https://www.swaap.finance/"
+                 },
+                 {
+                     "name":  "Symbiosis",
+                     "slug":  "symbiosis",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750540/web3-explorer/dapp-logos/symbiosis.jpg",
+                     "website":  "https://symbiosis.finance/"
+                 },
+                 {
+                     "name":  "SYMMIO",
+                     "slug":  "symmio",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/symm_io",
+                     "website":  "https://www.symm.io/"
+                 },
+                 {
+                     "name":  "TaskOn",
+                     "slug":  "taskon",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750608/web3-explorer/dapp-logos/taskon.png",
+                     "website":  "https://taskon.xyz/"
+                 },
+                 {
+                     "name":  "Teller",
+                     "slug":  "teller",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/useteller",
+                     "website":  "https://www.teller.org/"
+                 },
+                 {
+                     "name":  "Tellor",
+                     "slug":  "tellor",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/wearetellor",
+                     "website":  "https://tellor.io/"
+                 },
+                 {
+                     "name":  "Thetanuts Finance",
+                     "slug":  "thetanuts-finance",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750677/web3-explorer/dapp-logos/thetanuts-finance.png",
+                     "website":  "https://www.thetanuts.finance/"
+                 },
+                 {
+                     "name":  "thirdweb",
+                     "slug":  "thirdweb",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750682/web3-explorer/dapp-logos/thirdweb.jpg",
+                     "website":  "https://thirdweb.com/"
+                 },
+                 {
+                     "name":  "Timeswap",
+                     "slug":  "timeswap",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750711/web3-explorer/dapp-logos/timeswap.svg",
+                     "website":  "https://timeswap.io/"
+                 },
+                 {
+                     "name":  "Transak",
+                     "slug":  "transak",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750798/web3-explorer/dapp-logos/transak.png",
+                     "website":  "https://transak.com"
+                 },
+                 {
+                     "name":  "TsunamiX",
+                     "slug":  "tsunamix",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/TsunamiFinance_",
+                     "website":  "https://tsunami.finance/"
+                 },
+                 {
+                     "name":  "vfat.io",
+                     "slug":  "vfat-io",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/vfat_io",
+                     "website":  "https://vfat.io/yield"
+                 },
+                 {
+                     "name":  "Vooi",
+                     "slug":  "vooi",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/vooi_io",
+                     "website":  "https://vooi.io/"
+                 },
+                 {
+                     "name":  "WOOFi",
+                     "slug":  "woofi",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/_WOOFi",
+                     "website":  "https://woofi.com/about/"
+                 },
+                 {
+                     "name":  "XDAO",
+                     "slug":  "xdao",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/xdaoapp",
+                     "website":  "https://www.xdao.app/"
+                 },
+                 {
+                     "name":  "XY Finance",
+                     "slug":  "xy-finance",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/xyfinance",
+                     "website":  "https://xy.finance/"
+                 },
+                 {
+                     "name":  "Zapper",
+                     "slug":  "zapper",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770751387/web3-explorer/dapp-logos/zapper.jpg",
+                     "website":  "https://zapper.xyz/"
+                 },
+                 {
+                     "name":  "Zerion",
+                     "slug":  "zerion",
+                     "origin":  "existing",
+                     "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770751405/web3-explorer/dapp-logos/zerion.jpg",
+                     "website":  "https://zerion.io/"
+                 },
+                 {
+                     "name":  "Zircuit",
+                     "slug":  "zircuit",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/zircuit",
+                     "website":  "https://www.zircuit.com/"
+                 },
+                 {
+                     "name":  "zk.Link",
+                     "slug":  "zk-link",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/zklink_official",
+                     "website":  "https://zk.link/"
+                 },
+                 {
+                     "name":  "zkLink Nova",
+                     "slug":  "zklink-nova",
+                     "origin":  "new",
+                     "logoUrl":  "https://unavatar.io/x/zklink_official",
+                     "website":  "https://zklink.io/"
+                 }
+             ]
+}
