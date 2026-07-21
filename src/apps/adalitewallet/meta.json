@@ -1,0 +1,38 @@
+{
+  "slug": "adalitewallet",
+  "name": "AdaLite Wallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339890/dapp-store-logos/adalitewallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "AdaLite is a lightweight Cardano web wallet for ADA transfers, staking, and hardware-wallet access online.",
+    "description": "AdaLite is a browser-based Cardano wallet built by Vacuumlabs for users who want fast access to ADA without downloading the full blockchain. The wallet works as a client-side interface for sending, receiving, and staking ADA, while also supporting hardware wallets such as Ledger, Trezor, and BitBox02 for stronger key protection. Its open-source approach keeps control in the hands of the user while making everyday interaction with the Cardano network simple, private, and accessible. It is built for holders who need reliable wallet access without running a full node.",
+    "meta": "AdaLite is a lightweight Cardano web wallet for ADA transfers, staking, and hardware-wallet access. Explore AdaLite Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "AdaLite Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://adalite.io/",
+    "twitter": "https://x.com/adalitewallet",
+    "telegram": "https://t.me/AdaLite"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "imtoken",
+      "coin-wallet"
+    ],
+    "related": [
+      "pillar",
+      "zypto-wallet",
+      "utila"
+    ]
+  }
+}

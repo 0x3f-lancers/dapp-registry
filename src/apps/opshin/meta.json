@@ -1,0 +1,38 @@
+{
+  "slug": "opshin",
+  "name": "Opshin",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340989/dapp-store-logos/opshin.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 Languages"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Opshin is a toolchain that allows developers to write Cardano smart contracts using the Python language.",
+    "description": "Opshin is a groundbreaking development toolchain that enables the creation of Cardano smart contracts using Python, one of the world's most popular programming languages. By providing a strict subset of Python that compiles directly to Plutus, Opshin significantly lowers the barrier to entry for developers who are unfamiliar with Haskell. The platform ensures that if a program runs in Python, it will behave identically on the blockchain, prioritizing security and predictability. Opshin is a vital initiative for ecosystem growth, empowering a wider pool of builders to innovate on Cardano.",
+    "meta": "Opshin enables Cardano smart contract development using Python to improve builder accessibility. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "Opshin - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://opshin.dev/",
+    "docs": "https://opshin.dev/",
+    "twitter": "https://x.com/opshindev",
+    "discord": "https://discord.gg/umR3A2g4uw"
+  },
+  "relations": {
+    "alternatives": [
+      "wingriders",
+      "blocksurvey",
+      "sundaeswap"
+    ],
+    "related": [
+      "dm3",
+      "chainnodes"
+    ]
+  }
+}

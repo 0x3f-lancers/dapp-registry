@@ -1,0 +1,36 @@
+{
+  "slug": "mesh",
+  "name": "MESH",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340869/dapp-store-logos/mesh.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 SDKs",
+    "Web3 Libraries"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Mesh is an open-source Cardano TypeScript SDK for building wallets, transactions, and Web3 apps fast.",
+    "description": "Mesh is an open-source TypeScript SDK and developer library for building applications on Cardano. It gives teams ready-to-use tools for wallet connections, transaction building, smart contract interactions, React components, and common dapp workflows. By wrapping lower-level Cardano complexity in practical APIs, Mesh helps developers prototype faster and keep applications aligned with network changes. It is used by builders who want modern JavaScript tooling for Cardano dapp development and production apps.",
+    "meta": "Mesh is a Cardano TypeScript SDK with wallet, transaction, smart contract, and React tooling. Explore Mesh on Lancers Web3 Explorer.",
+    "pageTitle": "MESH - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://meshjs.dev/",
+    "twitter": "https://x.com/meshsdk"
+  },
+  "relations": {
+    "alternatives": [
+      "wingriders"
+    ],
+    "related": [
+      "onfinality",
+      "rockx",
+      "wingriders"
+    ]
+  }
+}

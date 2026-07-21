@@ -21,7 +21,11 @@
     "twitter": "https://x.com/solanafm"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "orb",
+      "optimism-block-explorer",
+      "sepolia-testnet-block-explorer"
+    ],
     "related": [
       "vanar"
     ]
