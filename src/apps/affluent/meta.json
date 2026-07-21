@@ -22,14 +22,13 @@
   },
   "relations": {
     "alternatives": [
-      "torch-finance",
       "wisdomise-ai-trader",
-      "ton-api"
+      "evaa-protocol"
     ],
     "related": [
-      "aqua-protocol",
       "evaa-protocol",
-      "coinstats"
+      "coinstats",
+      "getblock"
     ]
   }
 }

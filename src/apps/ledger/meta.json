@@ -1,42 +1,39 @@
 {
-    "slug":  "ledger",
-    "name":  "Ledger",
-    "logoUrl":  "https://x.com/Ledger/photo",
-    "category":  "Web3 Wallets",
-    "subcategory":  [
-                        "Software Wallets"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Polygon",
-                   "Avalanche",
-                   "BNB Chain",
-                   "OP Mainnet",
-                   "Arbitrum",
-                   "Solana",
-                   "TON"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Ledger gives TON users hardware-wallet custody through Ledger devices and companion wallet workflows.",
-                    "description":  "Ledger is relevant to TON as a hardware-wallet custody option. Users rely on Ledger devices to keep private keys offline while managing assets through supported wallet software, which makes it a security-first choice for holding Toncoin. Decide on the best Toncoin wallet for your TON. Explore hot vs cold storage and see why the Ledger Wallet app offers the most secure way to manage your crypto with a hardware device. That makes it relevant as an access layer for holding assets, signing transactions, connecting to dapps, and moving funds.",
-                    "meta":  "Ledger gives TON users hardware-wallet custody through Ledger devices and companion wallet workflows. Discover its TON role and related apps on Lancers Web3 Explorer.",
-                    "pageTitle":  "Ledger - Web3 Wallets on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.ledger.com/coin/wallet/the-open-network",
-                  "twitter":  "https://twitter.com/Ledger"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "imelab",
-                                           "mathwallet",
-                                           "grindery"
-                                       ],
-                      "related":  [
-                                      "onto-wallet",
-                                      "openmask",
-                                      "orniton"
-                                  ]
-                  }
+  "slug": "ledger",
+  "name": "Ledger",
+  "logoUrl": "https://x.com/Ledger/photo",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "OP Mainnet",
+    "Arbitrum",
+    "Solana",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Ledger gives TON users hardware-wallet custody through Ledger devices and companion wallet workflows.",
+    "description": "Ledger is relevant to TON as a hardware-wallet custody option. Users rely on Ledger devices to keep private keys offline while managing assets through supported wallet software, which makes it a security-first choice for holding Toncoin. Decide on the best Toncoin wallet for your TON. Explore hot vs cold storage and see why the Ledger Wallet app offers the most secure way to manage your crypto with a hardware device. That makes it relevant as an access layer for holding assets, signing transactions, connecting to dapps, and moving funds.",
+    "meta": "Ledger gives TON users hardware-wallet custody through Ledger devices and companion wallet workflows. Discover its TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "Ledger - Web3 Wallets on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.ledger.com/coin/wallet/the-open-network",
+    "twitter": "https://twitter.com/Ledger"
+  },
+  "relations": {
+    "alternatives": [
+      "imelab",
+      "0xprocessing"
+    ],
+    "related": [
+      "orniton"
+    ]
+  }
 }

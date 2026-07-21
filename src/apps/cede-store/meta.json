@@ -1,36 +1,31 @@
 {
-    "slug":  "cede-store",
-    "name":  "Cede.store",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745595/web3-explorer/dapp-logos/cede-store.png",
-    "category":  "Web3 Wallet Tools",
-    "subcategory":  [
-                        "Wallet Connection Tools"
-                    ],
-    "chains":  [
-                   "Multichain",
-                   "TON"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Cede.store provides access to CeFi liquidity and transfers assets from Centralized Exchanges to DeFi, while preserving self-custody and wallet UX.",
-                    "description":  "Most crypto liquidity remains on centralized exchanges, and about 90% of DeFi users have at least one CEX. The gap between CeFi and DeFi can create friction for on-chain activity. Cede.store provides a non-custodial bridge between CeFi and DeFi, enabling dApps across DeFi ecosystems to tap into liquidity from centralized exchanges without surrendering control of funds. It connects CeFi liquidity to decentralized applications while maintaining self-custody and the core DeFi principles of transparency and permissionless access.",
-                    "meta":  "Cede.store provides access to CeFi liquidity and transfers assets from Centralized Exchanges to DeFi. Discover Cede.store\u0027s TON role and related apps on Lancers Web3 Explorer.",
-                    "pageTitle":  "Cede.store - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://cede.store",
-                  "twitter":  "https://x.com/CedeLabs"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "mugglepay",
-                                           "ton-minter",
-                                           "transak"
-                                       ],
-                      "related":  [
-                                      "mugglepay",
-                                      "ton-minter",
-                                      "transak"
-                                  ]
-                  }
+  "slug": "cede-store",
+  "name": "Cede.store",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745595/web3-explorer/dapp-logos/cede-store.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Wallet Connection Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Cede.store provides access to CeFi liquidity and transfers assets from Centralized Exchanges to DeFi, while preserving self-custody and wallet UX.",
+    "description": "Most crypto liquidity remains on centralized exchanges, and about 90% of DeFi users have at least one CEX. The gap between CeFi and DeFi can create friction for on-chain activity. Cede.store provides a non-custodial bridge between CeFi and DeFi, enabling dApps across DeFi ecosystems to tap into liquidity from centralized exchanges without surrendering control of funds. It connects CeFi liquidity to decentralized applications while maintaining self-custody and the core DeFi principles of transparency and permissionless access.",
+    "meta": "Cede.store provides access to CeFi liquidity and transfers assets from Centralized Exchanges to DeFi. Discover Cede.store's TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "Cede.store - Web3 Wallet Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cede.store",
+    "twitter": "https://x.com/CedeLabs"
+  },
+  "relations": {
+    "alternatives": [
+      "transak",
+      "onmeta"
+    ],
+    "related": []
+  }
 }

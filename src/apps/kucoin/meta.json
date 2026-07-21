@@ -1,37 +1,37 @@
 {
-    "slug":  "kucoin",
-    "name":  "KuCoin",
-    "logoUrl":  "https://x.com/kucoincom/photo",
-    "category":  "Trading Tools",
-    "subcategory":  [
-                        "Crypto Exchanges"
-                    ],
-    "chains":  [
-                   "Bitcoin",
-                   "Ethereum",
-                   "TON"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "KuCoin is a centralized crypto exchange for buying, selling, storing, and trading assets across global markets.",
-                    "description":  "KuCoin is a global exchange focused on trading access, account security, proof-of-reserves messaging, and broad asset support. TON users encounter it as a centralized venue for market access rather than as an on-chain TON protocol. KuCoin is a secure cryptocurrency exchange that makes it easier to buy, sell, and store cryptocurrencies like BTC, ETH, KCS, SHIB, DOGE, Gari etc. Crypto Exchange | Bitcoin Exchange | Bitcoin Trading | KuCoin Trust First. For TON users, it supports the decisions and account actions that happen around buying, selling, or monitoring assets.",
-                    "meta":  "KuCoin is a centralized crypto exchange for buying, selling, storing,. Discover its trading workflow, TON support, and related market tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "KuCoin - Trading Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.kucoin.com",
-                  "twitter":  "https://x.com/kucoincom"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "gate-io",
-                                           "bybit",
-                                           "guardarian"
-                                       ],
-                      "related":  [
-                                      "onramp-money",
-                                      "alchemy-pay",
-                                      "transak"
-                                  ]
-                  }
+  "slug": "kucoin",
+  "name": "KuCoin",
+  "logoUrl": "https://x.com/kucoincom/photo",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "KuCoin is a centralized crypto exchange for buying, selling, storing, and trading assets across global markets.",
+    "description": "KuCoin is a global exchange focused on trading access, account security, proof-of-reserves messaging, and broad asset support. TON users encounter it as a centralized venue for market access rather than as an on-chain TON protocol. KuCoin is a secure cryptocurrency exchange that makes it easier to buy, sell, and store cryptocurrencies like BTC, ETH, KCS, SHIB, DOGE, Gari etc. Crypto Exchange | Bitcoin Exchange | Bitcoin Trading | KuCoin Trust First. For TON users, it supports the decisions and account actions that happen around buying, selling, or monitoring assets.",
+    "meta": "KuCoin is a centralized crypto exchange for buying, selling, storing,. Discover its trading workflow, TON support, and related market tools on Lancers Web3 Explorer.",
+    "pageTitle": "KuCoin - Trading Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.kucoin.com",
+    "twitter": "https://x.com/kucoincom"
+  },
+  "relations": {
+    "alternatives": [
+      "bybit",
+      "guardarian",
+      "binance"
+    ],
+    "related": [
+      "onramp-money",
+      "alchemy-pay",
+      "transak"
+    ]
+  }
 }

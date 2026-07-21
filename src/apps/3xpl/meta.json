@@ -1,39 +1,33 @@
 {
-    "slug":  "3xpl",
-    "name":  "3xpl",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744644/web3-explorer/dapp-logos/3xpl.png",
-    "category":  "Web3 Developer Tools",
-    "subcategory":  [
-                        "Block Explorers"
-                    ],
-    "chains":  [
-                   "Bitcoin",
-                   "BNB Chain",
-                   "Ethereum",
-                   "Multichain",
-                   "TON"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Fast, ad-free multi-chain block explorer with an easy interface for users and professional tools for developers and analysts.",
-                    "description":  "3xpl is a fast, universal block explorer built for the most popular public blockchains. It provides a clear, user-friendly interface for everyday crypto users while offering a robust suite of professional features for developers and analysts. With rapid access to transactions, addresses, blocks, and network statistics across multiple chains, 3xpl delivers speed, clarity, and versatility for Bitcoin, Ethereum, BNB Chain, Multichain, Arbitrum, Avalanche, and beyond, making on-chain data approachable for all.",
-                    "meta":  "Fast, ad-free multi-chain block explorer with an easy interface for users. Discover its builder workflow, TON support, and related dev tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "3xpl - Web3 Developer Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://3xpl.com/",
-                  "twitter":  "https://x.com/3xplcom"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "portfel",
-                                           "ton-api",
-                                           "tonviewer"
-                                       ],
-                      "related":  [
-                                      "portfel",
-                                      "ton-api",
-                                      "tonviewer"
-                                  ]
-                  }
+  "slug": "3xpl",
+  "name": "3xpl",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744644/web3-explorer/dapp-logos/3xpl.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Bitcoin",
+    "BNB Chain",
+    "Ethereum",
+    "Multichain",
+    "TON"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Fast, ad-free multi-chain block explorer with an easy interface for users and professional tools for developers and analysts.",
+    "description": "3xpl is a fast, universal block explorer built for the most popular public blockchains. It provides a clear, user-friendly interface for everyday crypto users while offering a robust suite of professional features for developers and analysts. With rapid access to transactions, addresses, blocks, and network statistics across multiple chains, 3xpl delivers speed, clarity, and versatility for Bitcoin, Ethereum, BNB Chain, Multichain, Arbitrum, Avalanche, and beyond, making on-chain data approachable for all.",
+    "meta": "Fast, ad-free multi-chain block explorer with an easy interface for users. Discover its builder workflow, TON support, and related dev tools on Lancers Web3 Explorer.",
+    "pageTitle": "3xpl - Web3 Developer Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://3xpl.com/",
+    "twitter": "https://x.com/3xplcom"
+  },
+  "relations": {
+    "alternatives": [],
+    "related": [
+      "multisender"
+    ]
+  }
 }

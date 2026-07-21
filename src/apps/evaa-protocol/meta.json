@@ -23,14 +23,13 @@
   },
   "relations": {
     "alternatives": [
-      "esprito-protocol",
       "coinstats",
-      "ton-api"
+      "affluent"
     ],
     "related": [
-      "chainsim",
       "chainaware-ai",
-      "onmeta"
+      "onmeta",
+      "getblock"
     ]
   }
 }

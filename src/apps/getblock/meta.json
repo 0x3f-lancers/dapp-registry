@@ -1,42 +1,40 @@
 {
-    "slug":  "getblock",
-    "name":  "GetBlock",
-    "logoUrl":  "https://x.com/getblockio/photo",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "RPC Node Providers"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Polygon",
-                   "Avalanche",
-                   "BNB Chain",
-                   "OP Mainnet",
-                   "Arbitrum",
-                   "Solana",
-                   "TON"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "GetBlock is a Web3 RPC provider offering shared, dedicated, and enterprise node access for blockchain apps.",
-                    "description":  "GetBlock provides blockchain RPC infrastructure for builders. Teams use it for instant node access, RPC APIs, dedicated nodes, enterprise clusters, and production connectivity across supported networks, including projects that need reliable TON access. GetBlock Web3 RPC Provider is the best service for connecting to blockchain nodes and the right solution to expand the capabilities for your web3 projects. The product surface includes explore our products for web3 development and growth, supported protocols, web3 provider delivering apis for every use case, and flexible pricing that matches your scale.",
-                    "meta":  "GetBlock is a Web3 RPC provider offering shared, dedicated, and enterprise node access for blockchain ap. Discover GetBlock\u0027s TON role.",
-                    "pageTitle":  "GetBlock - Infrastructure Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://getblock.io",
-                  "twitter":  "https://twitter.com/getblockio"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "ton-access",
-                                           "wisdomise-ai-trader",
-                                           "ton-dns"
-                                       ],
-                      "related":  [
-                                      "torch-finance",
-                                      "onmeta",
-                                      "evaa-protocol"
-                                  ]
-                  }
+  "slug": "getblock",
+  "name": "GetBlock",
+  "logoUrl": "https://x.com/getblockio/photo",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "OP Mainnet",
+    "Arbitrum",
+    "Solana",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "GetBlock is a Web3 RPC provider offering shared, dedicated, and enterprise node access for blockchain apps.",
+    "description": "GetBlock provides blockchain RPC infrastructure for builders. Teams use it for instant node access, RPC APIs, dedicated nodes, enterprise clusters, and production connectivity across supported networks, including projects that need reliable TON access. GetBlock Web3 RPC Provider is the best service for connecting to blockchain nodes and the right solution to expand the capabilities for your web3 projects. The product surface includes explore our products for web3 development and growth, supported protocols, web3 provider delivering apis for every use case, and flexible pricing that matches your scale.",
+    "meta": "GetBlock is a Web3 RPC provider offering shared, dedicated, and enterprise node access for blockchain ap. Discover GetBlock's TON role.",
+    "pageTitle": "GetBlock - Infrastructure Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://getblock.io",
+    "twitter": "https://twitter.com/getblockio"
+  },
+  "relations": {
+    "alternatives": [
+      "wisdomise-ai-trader",
+      "affluent"
+    ],
+    "related": [
+      "onmeta",
+      "evaa-protocol"
+    ]
+  }
 }

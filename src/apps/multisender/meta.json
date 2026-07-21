@@ -1,47 +1,41 @@
 {
-    "slug":  "multisender",
-    "name":  "Multisender",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748583/web3-explorer/dapp-logos/multisender.png",
-    "category":  "Web3 Developer Tools",
-    "subcategory":  [
-                        "Transaction Tools"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Avalanche",
-                   "BNB Chain",
-                   "Arbitrum",
-                   "OP Mainnet",
-                   "Fantom",
-                   "Moonbeam",
-                   "Cronos",
-                   "Celo",
-                   "Harmony",
-                   "Tron",
-                   "Solana",
-                   "TON"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Multisender is an efficient and secure solution for airdrops and other batch transfers.",
-                    "description":  "Multisender is a robust dapp designed to simplify token distribution to many recipients. Since 2018, a small team of crypto enthusiasts has kept it under active development and ongoing support. The tool is ideal for airdrops and other mass transfers of tokens to an unlimited number of addresses. You only need a smart wallet and a list of recipient addresses to initiate an airdrop with Multisender in just three clicks, making large-scale token deployments straightforward and accessible for developers, communities, and project teams.",
-                    "meta":  "Multisender is an efficient and secure solution for airdrops and other batch transfers. Discover its TON role and related apps on Lancers Web3 Explorer.",
-                    "pageTitle":  "Multisender - Web3 Developer Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://multisender.app",
-                  "twitter":  "https://x.com/multi_sender"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "portfel",
-                                           "ton-api",
-                                           "tonviewer"
-                                       ],
-                      "related":  [
-                                      "portfel",
-                                      "ton-api",
-                                      "tonviewer"
-                                  ]
-                  }
+  "slug": "multisender",
+  "name": "Multisender",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748583/web3-explorer/dapp-logos/multisender.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Transaction Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "BNB Chain",
+    "Arbitrum",
+    "OP Mainnet",
+    "Fantom",
+    "Moonbeam",
+    "Cronos",
+    "Celo",
+    "Harmony",
+    "Tron",
+    "Solana",
+    "TON"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Multisender is an efficient and secure solution for airdrops and other batch transfers.",
+    "description": "Multisender is a robust dapp designed to simplify token distribution to many recipients. Since 2018, a small team of crypto enthusiasts has kept it under active development and ongoing support. The tool is ideal for airdrops and other mass transfers of tokens to an unlimited number of addresses. You only need a smart wallet and a list of recipient addresses to initiate an airdrop with Multisender in just three clicks, making large-scale token deployments straightforward and accessible for developers, communities, and project teams.",
+    "meta": "Multisender is an efficient and secure solution for airdrops and other batch transfers. Discover its TON role and related apps on Lancers Web3 Explorer.",
+    "pageTitle": "Multisender - Web3 Developer Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://multisender.app",
+    "twitter": "https://x.com/multi_sender"
+  },
+  "relations": {
+    "alternatives": [
+      "3xpl"
+    ],
+    "related": []
+  }
 }

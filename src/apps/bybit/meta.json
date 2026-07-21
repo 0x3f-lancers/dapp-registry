@@ -1,43 +1,43 @@
 {
-    "slug":  "bybit",
-    "name":  "Bybit",
-    "logoUrl":  "https://x.com/Bybit_Official/photo",
-    "category":  "Trading Tools",
-    "subcategory":  [
-                        "Crypto Exchanges"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Arbitrum",
-                   "OP Mainnet",
-                   "Polygon",
-                   "Solana",
-                   "Starknet",
-                   "BNB Chain",
-                   "Avalanche",
-                   "TON"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Bybit is a centralized crypto exchange for buying, selling, trading, staking, and managing digital assets including TON.",
-                    "description":  "Bybit is a global centralized exchange with spot, derivatives, staking, NFT, and account tools. For this TON list, it matters because users can access Toncoin through a broader exchange environment rather than through a TON-native dapp. Get access to the spot and futures market or stake your coins securely. Buy \u0026 Sell Bitcoin, Ether | Cryptocurrency Exchange | Bybit. For TON holders, Bybit is useful for market prices, venues, account tools, routes, signals, or strategy support around supported assets.",
-                    "meta":  "Bybit is a centralized crypto exchange for buying, selling, trading, staking,. Discover its trading workflow, TON support, and related market tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "Bybit - Trading Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.bybit.com",
-                  "twitter":  "https://x.com/Bybit_Official"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "gate-io",
-                                           "kucoin",
-                                           "alchemy-pay"
-                                       ],
-                      "related":  [
-                                      "guardarian",
-                                      "onramp-money",
-                                      "transak"
-                                  ]
-                  }
+  "slug": "bybit",
+  "name": "Bybit",
+  "logoUrl": "https://x.com/Bybit_Official/photo",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Starknet",
+    "BNB Chain",
+    "Avalanche",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Bybit is a centralized crypto exchange for buying, selling, trading, staking, and managing digital assets including TON.",
+    "description": "Bybit is a global centralized exchange with spot, derivatives, staking, NFT, and account tools. For this TON list, it matters because users can access Toncoin through a broader exchange environment rather than through a TON-native dapp. Get access to the spot and futures market or stake your coins securely. Buy & Sell Bitcoin, Ether | Cryptocurrency Exchange | Bybit. For TON holders, Bybit is useful for market prices, venues, account tools, routes, signals, or strategy support around supported assets.",
+    "meta": "Bybit is a centralized crypto exchange for buying, selling, trading, staking,. Discover its trading workflow, TON support, and related market tools on Lancers Web3 Explorer.",
+    "pageTitle": "Bybit - Trading Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.bybit.com",
+    "twitter": "https://x.com/Bybit_Official"
+  },
+  "relations": {
+    "alternatives": [
+      "kucoin",
+      "alchemy-pay",
+      "binance-us"
+    ],
+    "related": [
+      "guardarian",
+      "onramp-money",
+      "transak"
+    ]
+  }
 }

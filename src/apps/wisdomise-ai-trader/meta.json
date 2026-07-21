@@ -22,13 +22,14 @@
   },
   "relations": {
     "alternatives": [
-      "torch-finance",
-      "ton-dns",
-      "onmeta"
+      "onmeta",
+      "guardarian",
+      "onramp-money"
     ],
     "related": [
-      "flagship-crypto",
-      "tradoor"
+      "tradoor",
+      "bybit",
+      "coinstats"
     ]
   }
 }
