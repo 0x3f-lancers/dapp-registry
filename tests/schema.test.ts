@@ -14,6 +14,7 @@ describe('Schema Validation', () => {
       chains: ['Ethereum'],
       tags: ['Dex'],
       pricing: 'Free',
+      archived: false,
       content: {
         short: 'A short description.',
         description: 'A longer description.',
@@ -74,6 +75,7 @@ describe('Schema Validation', () => {
         subcategory: ['Play-to-Earn'],
         chains: ['Polygon'],
         short: 'A short summary.',
+        archived: false,
       },
       {
         slug: 'min-dapp-2',
@@ -83,6 +85,7 @@ describe('Schema Validation', () => {
         subcategory: ['Utility'],
         chains: ['Ethereum'],
         short: 'Another summary.',
+        archived: true,
       },
     ];
 
@@ -102,6 +105,12 @@ describe('Schema Validation', () => {
       // Note: Zod schema only checks if it's a string, not if it's a Cloudinary URL pattern
       // This specific check would need custom refine or a more specific regex in schema
       expect(() => appsMinSchema.parse(invalidData)).not.toThrow(); // Will not throw by default Zod schema
+    });
+
+    it('should default archived to false when omitted', () => {
+      const [{ archived, ...itemWithoutArchived }] = validAppsMinData;
+      const parsed = appsMinSchema.parse([itemWithoutArchived]);
+      expect(parsed[0].archived).toBe(false);
     });
 
 
