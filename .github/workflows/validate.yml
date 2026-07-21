@@ -54,6 +54,9 @@ jobs:
       - name: Build scripts
         run: pnpm run build
 
+      - name: Check Missing Relations
+        run: pnpm run check:relations
+
       - name: Run DApp Data Validation
         run: pnpm run validate
 

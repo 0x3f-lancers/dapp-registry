@@ -22,7 +22,11 @@
     "docs": "https://dexhunter.gitbook.io/dexhunter-partners"
   },
   "relations": {
-    "alternatives": [],
+    "alternatives": [
+      "minswap",
+      "ray-network",
+      "sundaeswap"
+    ],
     "related": [
       "tokensfarm",
       "parrot-protocol",
