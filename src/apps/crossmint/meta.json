@@ -28,7 +28,15 @@
     "twitter": "https://x.com/crossmint"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "blockradar",
+      "apillon-embedded-wallet-service",
+      "privy"
+    ],
+    "related": [
+      "dynamic",
+      "onramp-money",
+      "openfort"
+    ]
   }
 }
