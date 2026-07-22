@@ -11,9 +11,9 @@
                ],
     "pricing":  "free",
     "content":  {
-                    "short":  "Automata Network is a decentralized attestation layer providing hardware-anchored trust and privacy-preserving infrastructure for the Web3 ecosystem.",
-                    "description":  "Automata Network provides high-performance privacy and verification services through a decentralized network of Trusted Execution Environments (TEEs). By anchoring trust in specialized hardware, Automata enables secure computations and verifiable attestations for autonomous agents and smart contracts. Supporting the Mantle Network, Automata offers essential infrastructure for protocols that require confidential on-chain operations and robust, machine-verifiable security standards.",
-                    "meta":  "Automata Network provides hardware-anchored trust and privacy infrastructure for Mantle. Discover Automata on Lancers Web3 Explorer.",
+                    "short":  "Automata provides an attestation layer that brings verifiable hardware trust and TEE based infrastructure to Mantle apps.",
+                    "description":  "Automata focuses on onchain attestations and trusted execution infrastructure, giving protocols a way to verify machines, secure workloads, and publish hardware proofs on public networks. Its documentation centers on TEE verifiers, attestation contracts, and a trust layer that can support rollups, agents, private computation, and other systems that depend on machine integrity. For Mantle related builders, Automata is relevant as infrastructure for services that need auditable hardware backed execution rather than a standard consumer facing application.",
+                    "meta":  "Automata offers attestation and TEE infrastructure that helps Mantle builders verify machines and anchor hardware trust onchain.",
                     "pageTitle":  "Automata - Infrastructure Tools - Lancers Web3 Explorer"
                 },
     "links":  {

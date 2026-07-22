@@ -1,34 +1,53 @@
 {
-    "slug": "blockchair",
-    "name": "Blockchair",
-    "logoUrl": "https://unavatar.io/x/Blockchair",
-    "category": "Web3 Developer Tools",
-    "subcategory": [
-        "Block Explorers"
+  "slug": "blockchair",
+  "name": "Blockchair",
+  "logoUrl": "https://unavatar.io/x/Blockchair",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Bitcoin",
+    "BNB Chain",
+    "Cardano",
+    "Ethereum",
+    "Fantom",
+    "Linea",
+    "Mantle",
+    "Moonbeam",
+    "OP Mainnet",
+    "Polkadot",
+    "Polygon",
+    "Polygon zkEVM",
+    "Solana",
+    "TON",
+    "Tron",
+    "ZKsync"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Blockchair is a privacy focused multi-chain explorer and data platform for searching blocks, transactions, and addresses.",
+    "description": "Blockchair is a blockchain search and analytics engine that lets users inspect blocks, transactions, addresses, and token activity across many supported networks from one interface. The platform is known for advanced filtering, full text style search, export options, and an API that helps developers and researchers work with chain data at scale. It also positions privacy as a core value by limiting tracking compared with many explorer products. For Mantle users, Blockchair offers another way to inspect network activity and pull structured blockchain data.",
+    "meta": "Blockchair is a multi-chain explorer and API platform with Mantle support.",
+    "pageTitle": "Blockchair - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blockchair.com/",
+    "twitter": "https://x.com/Blockchair"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "chasm-network"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Blockchair is a universal privacy-respecting block explorer supporting 46 blockchains in 20 languages with comprehensive API access including Mantle.",
-        "description": "Blockchair is a blockchain data platform available, supporting 46 different blockchain networks in 20 languages with cross-chain search functionality enabling users to look up transactions, addresses, and blocks across multiple networks simultaneously. The platform emphasizes user privacy and provides extensive API access for developers building analytics or compliance applications. Blockchair is an officially recognized data provider for the Mantle Network.",
-        "meta": "Blockchair is a universal block explorer for 46 blockchains including Mantle with full API access. Discover Blockchair on Lancers Web3 Explorer.",
-        "pageTitle": "Blockchair - Web3 Developer Tools - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://blockchair.com/",
-        "twitter": "https://x.com/Blockchair"
-    },
-    "relations": {
-        "alternatives": [
-            "axelar",
-            "chasm-network"
-        ],
-        "related": [
-            "cobo-argus",
-            "etherspot",
-            "hyperlane"
-        ]
-    }
+    "related": [
+      "cobo-argus",
+      "etherspot",
+      "hyperlane"
+    ]
+  }
 }

@@ -1,33 +1,33 @@
 {
-    "slug": "teller",
-    "name": "Teller",
-    "logoUrl": "https://unavatar.io/x/useteller",
-    "category": "DeFi Dapps",
-    "subcategory": [
-        "Decentralized Lending Dapps"
+  "slug": "teller",
+  "name": "Teller",
+  "logoUrl": "https://unavatar.io/x/useteller",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Teller is a non-custodial lending protocol on Mantle enabling permissionless borrowing markets for any ERC20 token or NFT collateral.",
+    "description": "Teller Finance is a decentralized lending protocol enabling permissionless borrowing against any ERC20 token or NFT (ERC721/ERC1155) collateral, unlike traditional lending protocols limited to blue-chip assets. Communities can create lending markets for any token, enabling long-tail asset borrowing without governance approval. The protocol matches lenders and borrowers through its lending book infrastructure on Mantle, supporting both fungible token and NFT collateral for unprecedented asset coverage.",
+    "meta": "Teller is a non-custodial lending protocol on Mantle supporting any ERC20 or NFT as collateral.",
+    "pageTitle": "Teller - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.teller.org/",
+    "twitter": "https://x.com/useteller"
+  },
+  "relations": {
+    "alternatives": [
+      "clearpool",
+      "compound-finance"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Teller is a non-custodial lending protocol on Mantle enabling permissionless borrowing markets for any ERC20 token or NFT collateral.",
-        "description": "Teller Finance is a decentralized lending protocol enabling permissionless borrowing against any ERC20 token or NFT (ERC721/ERC1155) collateral, unlike traditional lending protocols limited to blue-chip assets. Communities can create lending markets for any token, enabling long-tail asset borrowing without governance approval. The protocol matches lenders and borrowers through its lending book infrastructure on Mantle, supporting both fungible token and NFT collateral for unprecedented asset coverage.",
-        "meta": "Teller is a non-custodial lending protocol on Mantle supporting any ERC20 or NFT as collateral. Discover Teller on Lancers Web3 Explorer.",
-        "pageTitle": "Teller - DeFi Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://www.teller.org/",
-        "twitter": "https://x.com/useteller"
-    },
-    "relations": {
-        "alternatives": [
-            "clearpool",
-            "compound-finance"
-        ],
-        "related": [
-            "impermax-v2",
-            "kinza-finance"
-        ]
-    }
+    "related": [
+      "impermax-v2",
+      "kinza-finance"
+    ]
+  }
 }

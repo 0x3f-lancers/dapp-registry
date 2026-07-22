@@ -1,42 +1,42 @@
 {
-    "slug":  "nfts2me",
-    "name":  "NFTs2Me",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748721/web3-explorer/dapp-logos/nfts2me.jpg",
-    "category":  "NFT Tools",
-    "subcategory":  [
-                        "NFT Minting Tools"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Avalanche",
-                   "BNB Chain",
-                   "Ethereum",
-                   "Fantom",
-                   "Polygon",
-                   "OP Mainnet",
-                   "Mantle"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "NFTs2Me is a multichain, user-friendly tool to create, deploy, and manage your NFT collection for free.",
-                    "description":  "NFTs2Me makes it easy to create, deploy, and manage NFTs with a user-friendly interface for crafting artwork and launching contracts on the blockchain. Contracts become immutable, verifiable, and publicly accessible, while deployment fees remain low and advanced features like different minting types and soulbound tokens are supported. The platform also provides tools for managing collections and communities, including custom subdomains or on-site minting widgets, allowlists, whitelists, airdrops, and token-gated content for holders.",
-                    "meta":  "NFTs2Me is a multichain platform that simplifies creating, deploying, and managing NFTs. Discover NFTs2Me and other NFT Tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "NFTs2Me - NFT Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://nfts2me.com/",
-                  "twitter":  "https://x.com/nfts2me"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "minero",
-                                           "autominter",
-                                           "miniorange-web3-authentication-plugin"
-                                       ],
-                      "related":  [
-                                      "nftscan-api",
-                                      "brand-extender",
-                                      "vrgdas"
-                                  ]
-                  }
+  "slug": "nfts2me",
+  "name": "NFTs2Me",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748721/web3-explorer/dapp-logos/nfts2me.jpg",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT Minting Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "Fantom",
+    "Polygon",
+    "OP Mainnet",
+    "Mantle"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "NFTs2Me is a multichain, user-friendly tool to create, deploy, and manage your NFT collection for free.",
+    "description": "NFTs2Me makes it easy to create, deploy, and manage NFTs with a user-friendly interface for crafting artwork and launching contracts on the blockchain. Contracts become immutable, verifiable, and publicly accessible, while deployment fees remain low and advanced features like different minting types and soulbound tokens are supported. The platform also provides tools for managing collections and communities, including custom subdomains or on-site minting widgets, allowlists, whitelists, airdrops, and token-gated content for holders.",
+    "meta": "NFTs2Me is a multichain platform that simplifies creating, deploying, and managing NFTs.",
+    "pageTitle": "NFTs2Me - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nfts2me.com/",
+    "twitter": "https://x.com/nfts2me"
+  },
+  "relations": {
+    "alternatives": [
+      "minero",
+      "autominter",
+      "miniorange-web3-authentication-plugin"
+    ],
+    "related": [
+      "nftscan-api",
+      "brand-extender",
+      "vrgdas"
+    ]
+  }
 }

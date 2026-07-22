@@ -11,9 +11,9 @@
     ],
     "pricing": "free",
     "content": {
-        "short": "Gamma Strategies automates concentrated liquidity management for Uniswap v3-style DEXes, maximizing LP fee income while minimizing impermanent loss on Mantle.",
-        "description": "Gamma Strategies is a leading active liquidity management protocol that automates the management of concentrated liquidity positions on Uniswap v3-style DEXes, continuously rebalancing LP positions to stay within optimal price ranges and maximize fee income. The platform uses algorithmic strategies to minimize impermanent loss and optimize LP performance without requiring manual intervention. On Mantle, Gamma manages positions across multiple concentrated liquidity pools, providing a passive yet professionally managed LP experience.",
-        "meta": "Gamma Strategies automates concentrated liquidity management for maximum LP returns on Mantle. Discover Gamma on Lancers Web3 Explorer.",
+        "short": "Gamma automates concentrated liquidity management for Uniswap v3 and Algebra-style pools used by LPs on Mantle.",
+        "description": "Gamma provides automated vaults for concentrated liquidity DEXs such as Uniswap v3, Uniswap v4, and Algebra-based markets. Its docs focus on non-custodial LP vaults, rebalancing logic, position strategies, and capital-efficient range management for users who do not want to monitor concentrated liquidity manually. The product is aimed at liquidity providers who want more systematic exposure to fee generation while accepting the risks that come with active LP strategies. On Mantle, Gamma fits as a liquidity management layer for concentrated pools where users want automated rebalancing over running positions by hand.",
+        "meta": "Gamma automates concentrated liquidity management for Uniswap v3 and Algebra-style pools used by LPs on Mantle.",
         "pageTitle": "Gamma Strategies - DeFi Dapps - Lancers Web3 Explorer"
     },
     "links": {

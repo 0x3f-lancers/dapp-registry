@@ -1,41 +1,41 @@
 {
-    "slug":  "layerzero",
-    "name":  "LayerZero",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770748019/web3-explorer/dapp-logos/layerzero.jpg",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Web3 Bridges"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "BNB Chain",
-                   "Avalanche",
-                   "Polygon",
-                   "Arbitrum",
-                   "OP Mainnet",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "LayerZero is a protocol for on-chain cross-communication.",
-                    "description":  "LayerZero is a cross-chain protocol that enables interaction between separate blockchains and their ecosystems. It accomplishes this with a dedicated oracle and relayer that together handle cross-chain messaging and verification of cross-chain data. By coordinating these components, LayerZero supports communication across blockchains. The protocol supports a wide array of blockchains, including Aptos, Avalanche, Polygon, and Harmony, reflecting its goal to connect multiple networks via cross-chain messaging.",
-                    "meta":  "LayerZero is a protocol that facilitates interaction between separate blockchains and ecosystems. Discover LayerZero and other DeFi Tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "LayerZero - DeFi Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://layerzero.network/",
-                  "twitter":  "https://x.com/LayerZero_Labs"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "crosscurve",
-                                           "stargate",
-                                           "garden-finance"
-                                       ],
-                      "related":  [
-                                      "xdc-network",
-                                      "flare-network",
-                                      "cosmos"
-                                  ]
-                  }
+  "slug": "layerzero",
+  "name": "LayerZero",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748019/web3-explorer/dapp-logos/layerzero.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Avalanche",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Mantle"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "LayerZero is a protocol for on-chain cross-communication.",
+    "description": "LayerZero is a cross-chain protocol that enables interaction between separate blockchains and their ecosystems. It accomplishes this with a dedicated oracle and relayer that together handle cross-chain messaging and verification of cross-chain data. By coordinating these components, LayerZero supports communication across blockchains. The protocol supports a wide array of blockchains, including Aptos, Avalanche, Polygon, and Harmony, reflecting its goal to connect multiple networks via cross-chain messaging.",
+    "meta": "LayerZero is a protocol that facilitates interaction between separate blockchains and ecosystems.",
+    "pageTitle": "LayerZero - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://layerzero.network/",
+    "twitter": "https://x.com/LayerZero_Labs"
+  },
+  "relations": {
+    "alternatives": [
+      "crosscurve",
+      "stargate",
+      "garden-finance"
+    ],
+    "related": [
+      "xdc-network",
+      "flare-network",
+      "cosmos"
+    ]
+  }
 }

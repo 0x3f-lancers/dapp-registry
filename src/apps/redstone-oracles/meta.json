@@ -28,9 +28,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "RedStone provides fast, gas-efficient cross-chain data feeds as a blockchain oracle for DeFi protocols and institutions.",
-    "description": "RedStone delivers reliable, real-time financial data to blockchains for decentralized applications. Traditional oracle solutions are slow, expensive, or can't support the diverse range of assets that institutional DeFi requires. RedStone's modular architecture provides access to over 1,200 price feeds, enabling DeFi lending platforms to verify collateral values and tokenized asset protocols that price real-world assets like treasuries and private credit. In the TON stack, RedStone is useful around bridges, analytics, routing, or protocol discovery rather than as a standalone trading venue.",
-    "meta": "RedStone provides fast, gas-efficient cross-chain data feeds as a blockchain oracle for DeFi protocols a. Discover RedStone's TON role.",
+    "short": "RedStone is a blockchain oracle network that delivers market data feeds to DeFi apps across many chains.",
+    "description": "RedStone provides price feeds and other data streams for lending markets, derivatives, staking protocols, and tokenized asset platforms. Its documentation describes a modular design that separates data collection from delivery, which helps protocols integrate frequently updated feeds without the overhead of a traditional push based oracle model. On TON, RedStone fits as shared infrastructure that can supply external market data to apps built on the network, especially products that need dependable pricing for trading, lending, and collateral logic.",
+    "meta": "RedStone is a blockchain oracle network delivering market data feeds to DeFi apps across many chains, including TON infrastructure.",
     "pageTitle": "RedStone - DeFi Tools on TON - Lancers Web3 Explorer"
   },
   "links": {

@@ -1,33 +1,33 @@
 {
-    "slug": "mintpad",
-    "name": "Mintpad",
-    "logoUrl": "https://unavatar.io/x/mintpadco",
-    "category": "NFT Dapps",
-    "subcategory": [
-        "NFT Marketplaces"
+  "slug": "mintpad",
+  "name": "Mintpad",
+  "logoUrl": "https://unavatar.io/x/mintpadco",
+  "category": "NFT Dapps",
+  "subcategory": [
+    "NFT Marketplaces"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Mintpad is a no-code NFT launchpad and minting platform on Mantle enabling creators and projects to launch NFT collections effortlessly.",
+    "description": "Mintpad is a comprehensive NFT launch platform that provides creators, brands, and projects with the tools to deploy and manage NFT collections on Mantle without technical expertise. The platform offers customizable mint pages, allowlist management, reveal mechanics, and royalty configuration in a no-code interface. Mintpad supports multiple minting models including free mints, tiered pricing, and Dutch auctions, giving creators flexibility in how they structure their NFT drops on the Mantle Network.",
+    "meta": "Mintpad is a no-code NFT launchpad for effortlessly creating and launching NFT collections on Mantle.",
+    "pageTitle": "Mintpad - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mintpad.co/",
+    "twitter": "https://x.com/mintpadco"
+  },
+  "relations": {
+    "alternatives": [
+      "alchemy",
+      "chaingpt"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Mintpad is a no-code NFT launchpad and minting platform on Mantle enabling creators and projects to launch NFT collections effortlessly.",
-        "description": "Mintpad is a comprehensive NFT launch platform that provides creators, brands, and projects with the tools to deploy and manage NFT collections on Mantle without technical expertise. The platform offers customizable mint pages, allowlist management, reveal mechanics, and royalty configuration in a no-code interface. Mintpad supports multiple minting models including free mints, tiered pricing, and Dutch auctions, giving creators flexibility in how they structure their NFT drops on the Mantle Network.",
-        "meta": "Mintpad is a no-code NFT launchpad for effortlessly creating and launching NFT collections on Mantle. Discover Mintpad on Lancers Web3 Explorer.",
-        "pageTitle": "Mintpad - NFT Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://mintpad.co/",
-        "twitter": "https://x.com/mintpadco"
-    },
-    "relations": {
-        "alternatives": [
-            "alchemy",
-            "chaingpt"
-        ],
-        "related": [
-            "element",
-            "galxe"
-        ]
-    }
+    "related": [
+      "element",
+      "galxe"
+    ]
+  }
 }

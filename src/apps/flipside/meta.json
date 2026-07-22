@@ -7,14 +7,26 @@
                         "Web3 Data Tools"
                     ],
     "chains":  [
+                   "Aptos",
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "Bitcoin",
+                   "BNB Chain",
+                   "Cosmos",
                    "Ethereum",
-                   "Mantle"
+                   "Mantle",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Solana",
+                   "Sui",
+                   "TON"
                ],
     "pricing":  "Free",
     "content":  {
-                    "short":  "Flipside enables community members to create and share data insights on crypto projects.",
-                    "description":  "Flipside provides community-enabled crypto analytics, enabling users to create and share data insights on crypto projects they care about. It also enables thousands of analysts to learn, collaborate, and compete to solve analytical challenges through structured bounty programs using a free, open data platform.",
-                    "meta":  "Flipside offers community crypto analytics to share insights on crypto projects. Discover Flipside and other Infrastructure Tools on Lancers Web3 Explorer.",
+                    "short":  "Flipside is a crypto data platform for querying blockchain activity, sharing insights, and building analytics on Mantle.",
+                    "description":  "Flipside is a crypto analytics platform that gives analysts and developers access to structured blockchain data, query tools, and shared research workflows. Its docs and product updates emphasize SQL queries, API access, automations, AI-assisted analysis, and a community model where users publish dashboards or contribute insights. That makes it useful for teams building data products and for researchers tracking user behavior, protocol growth, and network activity. For Mantle, Flipside fits as an analytics layer for exploring datasets, publishing research, and turning blockchain activity into usable metrics.",
+                    "meta":  "Flipside is a crypto data platform for querying blockchain activity, sharing insights, and building analytics for Mantle teams.",
                     "pageTitle":  "Flipside - Infrastructure Tools - Lancers Web3 Explorer"
                 },
     "links":  {

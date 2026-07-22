@@ -1,35 +1,35 @@
 {
-    "slug":  "stakefish",
-    "name":  "Stakefish",
-    "logoUrl":  "https://unavatar.io/x/stakefish",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "RPC Node Providers"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Stakefish is one of the world\u0027s largest and most trusted blockchain validators and staking service providers supporting Mantle Network infrastructure.",
-                    "description":  "Stakefish is a leading proof-of-stake validator and infrastructure provider that secures dozens of blockchain networks with institutional-grade reliability. With over $2 billion in assets staked and a team of experienced blockchain engineers, Stakefish maintains high-performance nodes with SLA-backed uptime guarantees. The service supports Mantle Network\u0027s infrastructure by operating validator nodes that contribute to the network\u0027s security and consensus. Stakefish also offers delegation services for individual token holders wanting to stake their assets.",
-                    "meta":  "Stakefish is a trusted institutional validator and staking service provider supporting Mantle Network infrastructure. Discover Stakefish on Lancers Web3 Explorer.",
-                    "pageTitle":  "Stakefish - Infrastructure - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://stake.fish/",
-                  "twitter":  "https://x.com/stakefish"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "agentlayer",
-                                           "automata",
-                                           "boomfi"
-                                       ],
-                      "related":  [
-                                      "drpc",
-                                      "omnia-protocol",
-                                      "phalcon"
-                                  ]
-                  }
+  "slug": "stakefish",
+  "name": "Stakefish",
+  "logoUrl": "https://unavatar.io/x/stakefish",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Stakefish is one of the world's largest and most trusted blockchain validators and staking service providers supporting Mantle Network infrastructure.",
+    "description": "Stakefish is a leading proof-of-stake validator and infrastructure provider that secures dozens of blockchain networks with institutional-grade reliability. With over $2 billion in assets staked and a team of experienced blockchain engineers, Stakefish maintains high-performance nodes with SLA-backed uptime guarantees. The service supports Mantle Network's infrastructure by operating validator nodes that contribute to the network's security and consensus. Stakefish also offers delegation services for individual token holders wanting to stake their assets.",
+    "meta": "Stakefish is a trusted institutional validator and staking service provider supporting Mantle Network infrastructure.",
+    "pageTitle": "Stakefish - Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stake.fish/",
+    "twitter": "https://x.com/stakefish"
+  },
+  "relations": {
+    "alternatives": [
+      "agentlayer",
+      "automata",
+      "boomfi"
+    ],
+    "related": [
+      "drpc",
+      "omnia-protocol",
+      "phalcon"
+    ]
+  }
 }

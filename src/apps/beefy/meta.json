@@ -7,13 +7,27 @@
         "DeFi Yield Aggregators"
     ],
     "chains": [
-        "Mantle"
+        "Arbitrum",
+        "Avalanche",
+        "Base",
+        "BNB Chain",
+        "Celo",
+        "Cronos",
+        "Ethereum",
+        "Fantom",
+        "Harmony",
+        "Mantle",
+        "Moonbeam",
+        "OP Mainnet",
+        "Polygon",
+        "Polygon zkEVM",
+        "ZKsync"
     ],
     "pricing": "free",
     "content": {
-        "short": "Beefy is a multichain yield optimizer that auto-compounds crypto holdings multiple times per day to earn the highest sustainable APYs on Mantle.",
-        "description": "Beefy Finance is one of DeFi's most established yield optimization protocols, operating across 20+ blockchain networks since 2020. Users deposit assets into Beefy Vaults which automatically harvest and reinvest farming rewards multiple times per day, maximizing APY through continuous compounding without manual intervention. Beefy sources strategies from the best yield opportunities across all major Mantle DEXes and lending protocols, making it the go-to passive yield solution for the network.",
-        "meta": "Beefy is a multichain yield optimizer auto-compounding crypto rewards for maximum APY on Mantle. Discover Beefy and other DeFi Dapps on Lancers Web3 Explorer.",
+        "short": "Beefy runs auto-compounding vaults on Mantle that help users deposit assets and earn yield through managed strategies.",
+        "description": "Beefy is a multichain yield optimizer built around vaults that deposit user assets into predefined strategies and automatically compound rewards over time. Its docs describe vaults, strategy contracts, mooTokens, public APIs, and safety controls such as address transparency and timelocks. Users can withdraw at any time, while the protocol handles the repeated harvesting and reinvestment that would otherwise require manual work. On Mantle, Beefy serves people who want passive exposure to yield opportunities through structured vault products rather than managing every farm, pool, or lending loop themselves.",
+        "meta": "Beefy offers auto-compounding Mantle vaults that package yield strategies into simpler deposit and withdrawal workflows for users.",
         "pageTitle": "Beefy - DeFi Dapps - Lancers Web3 Explorer"
     },
     "links": {

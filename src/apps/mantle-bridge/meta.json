@@ -1,34 +1,34 @@
 {
-    "slug": "mantle-bridge",
-    "name": "Mantle Bridge",
-    "logoUrl": "https://unavatar.io/x/Mantle_Official",
-    "category": "DeFi Tools",
-    "subcategory": [
-        "Web3 Bridges"
+  "slug": "mantle-bridge",
+  "name": "Mantle Bridge",
+  "logoUrl": "https://unavatar.io/x/Mantle_Official",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Mantle Bridge is the official native bridge for transferring assets between Ethereum and Mantle Network with full security guarantees.",
+    "description": "The Mantle Bridge is the official, natively integrated asset bridge between Ethereum mainnet and the Mantle Network. Built into the core of Mantle's Layer 2 architecture, the bridge inherits Ethereum's security guarantees through its on-chain smart contract infrastructure. Users can deposit ETH and ERC-20 tokens from Ethereum to Mantle, or initiate withdrawals back to Ethereum using the standard optimistic rollup challenge period. As the canonical bridge, it is the most secure option for moving assets into the Mantle ecosystem.",
+    "meta": "Mantle Bridge is the official native bridge for secure asset transfers between Ethereum and Mantle Network.",
+    "pageTitle": "Mantle Bridge - Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.mantle.xyz/bridge",
+    "twitter": "https://x.com/Mantle_Official"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "blockchair"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Mantle Bridge is the official native bridge for transferring assets between Ethereum and Mantle Network with full security guarantees.",
-        "description": "The Mantle Bridge is the official, natively integrated asset bridge between Ethereum mainnet and the Mantle Network. Built into the core of Mantle's Layer 2 architecture, the bridge inherits Ethereum's security guarantees through its on-chain smart contract infrastructure. Users can deposit ETH and ERC-20 tokens from Ethereum to Mantle, or initiate withdrawals back to Ethereum using the standard optimistic rollup challenge period. As the canonical bridge, it is the most secure option for moving assets into the Mantle ecosystem.",
-        "meta": "Mantle Bridge is the official native bridge for secure asset transfers between Ethereum and Mantle Network. Discover it on Lancers Web3 Explorer.",
-        "pageTitle": "Mantle Bridge - Infrastructure - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://app.mantle.xyz/bridge",
-        "twitter": "https://x.com/Mantle_Official"
-    },
-    "relations": {
-        "alternatives": [
-            "axelar",
-            "blockchair"
-        ],
-        "related": [
-            "chasm-network",
-            "cobo-argus",
-            "etherspot"
-        ]
-    }
+    "related": [
+      "chasm-network",
+      "cobo-argus",
+      "etherspot"
+    ]
+  }
 }

@@ -11,9 +11,9 @@
     ],
     "pricing": "free",
     "content": {
-        "short": "Clipper is a DEX optimized for retail traders and small LPs, offering the best swap rates for trades under $10K on blue-chip assets like ETH, WBTC, and stablecoins.",
-        "description": "Clipper is a decentralized exchange built specifically for retail-sized trades and smaller liquidity providers, using a Formula Market Maker (FMM) model that outperforms other DEXes for trades under $10,000 with tighter spreads on blue-chip assets. Clipper also provides favorable returns for LPs by minimizing impermanent loss through its unique pricing mechanism. Deployed on Mantle, Clipper democratizes access to tight spreads that were previously only available to large traders on centralized exchanges.",
-        "meta": "Clipper is a DEX optimized for retail traders offering the best swap rates for blue-chip assets on Mantle. Discover Clipper on Lancers Web3 Explorer.",
+        "short": "Clipper is a DEX built for retail sized swaps, using its Formula Market Maker design to improve small trade execution.",
+        "description": "Clipper is a decentralized exchange built around smaller trade sizes and blue chip asset pairs rather than large arbitrage driven flow. Its official docs explain a Formula Market Maker model that uses offchain computation with onchain validation to target better pricing for retail sized swaps while also aiming to reduce impermanent loss for liquidity providers. The protocol is positioned as a different design choice from standard constant product AMMs. On Mantle, Clipper fits as a swap venue for users who care about execution quality on smaller trades rather than broad long tail token discovery.",
+        "meta": "Clipper is a DEX built for retail sized swaps, using a Formula Market Maker model to improve execution quality on Mantle today.",
         "pageTitle": "Clipper - DeFi Dapps - Lancers Web3 Explorer"
     },
     "links": {

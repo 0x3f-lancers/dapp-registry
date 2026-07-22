@@ -7,14 +7,23 @@
                         "Decentralized Exchanges"
                     ],
     "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "BNB Chain",
                    "Ethereum",
-                   "Mantle"
+                   "Linea",
+                   "Mantle",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Solana",
+                   "Tron"
                ],
     "pricing":  "",
     "content":  {
-                    "short":  "0x is an open-source protocol and DEX infrastructure for wallet-to-wallet trading of ERC-20 and ERC-723 tokens.",
-                    "description":  "0x, founded in 2017 by Will Warren, is among the oldest decentralized exchanges. It has raised about $109 million to date, including a $70 million Series B from investors such as Pantera Capital and Jump Crypto. The project provides open-source smart contracts that enable developers and businesses to build decentralized exchanges and trading protocols. These protocols support direct, non-custodial wallet-to-wallet trading of ERC-20 and ERC-723 tokens, while the 0x network uses nodes hosting an off-chain order book and the ZRX token to facilitate transactions.",
-                    "meta":  "0x provides smart contracts and liquidity infrastructure for decentralized trading. Discover 0x and other DeFi Dapps on Lancers Web3 Explorer.",
+                    "short":  "0x provides trading APIs and swap infrastructure that let apps add token exchange across many chains and liquidity sources.",
+                    "description":  "0x is a trading infrastructure platform for developers that want to add token swaps, routing, and onchain execution to their apps. Its APIs aggregate liquidity from a large set of sources across many supported networks, returning quotes and transaction data without requiring teams to integrate every venue separately. Builders use 0x for embedded swaps, gasless flows, trade analytics, and cross chain routing, while users keep control of their wallets and sign transactions directly onchain through the apps that integrate it.",
+                    "meta":  "0x gives developers swap APIs, routing, and liquidity access for token trading across supported chains. Explore 0x on Lancers Web3 Explorer.",
                     "pageTitle":  "0x - DeFi Dapps - Lancers Web3 Explorer"
                 },
     "links":  {

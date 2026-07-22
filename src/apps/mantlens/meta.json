@@ -1,34 +1,34 @@
 {
-    "slug":  "mantlens",
-    "name":  "MantleNS",
-    "logoUrl":  "https://unavatar.io/mantlens.domains",
-    "category":  "Web3 Wallets",
-    "subcategory":  [
-                        "Software Wallets"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "MantleNS is the native name service on Mantle Network that maps human-readable .mantle domain names to wallet addresses and on-chain resources.",
-                    "description":  "MantleNS is the official decentralized name service for the Mantle Network, enabling users to register human-readable .mantle domain names and map them to their wallet addresses, smart contracts, and other on-chain resources. Similar to how ENS works on Ethereum, MantleNS eliminates the need to remember long hexadecimal addresses when transacting on Mantle. Registered names can also be used as decentralized identities across supported dApps and wallets in the Mantle ecosystem.",
-                    "meta":  "MantleNS is the native domain name service for Mantle Network mapping .mantle names to wallet addresses. Discover MantleNS on Lancers Web3 Explorer.",
-                    "pageTitle":  "MantleNS - Infrastructure - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://mantlens.domains/"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "ankr",
-                                           "biconomy",
-                                           "birdeye-data-services"
-                                       ],
-                      "related":  [
-                                      "din-infura",
-                                      "flipside",
-                                      "hive-intelligence"
-                                  ]
-                  }
+  "slug": "mantlens",
+  "name": "MantleNS",
+  "logoUrl": "https://unavatar.io/mantlens.domains",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "MantleNS is the native name service on Mantle Network that maps human-readable.mantle domain names to wallet addresses and on-chain resources.",
+    "description": "MantleNS is the official decentralized name service for the Mantle Network, enabling users to register human-readable.mantle domain names and map them to their wallet addresses, smart contracts, and other on-chain resources. Similar to how ENS works on Ethereum, MantleNS eliminates the need to remember long hexadecimal addresses when transacting on Mantle. Registered names can also be used as decentralized identities across supported dApps and wallets in the Mantle ecosystem.",
+    "meta": "MantleNS is the native domain name service for Mantle Network mapping.mantle names to wallet addresses.",
+    "pageTitle": "MantleNS - Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mantlens.domains/"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr",
+      "biconomy",
+      "birdeye-data-services"
+    ],
+    "related": [
+      "din-infura",
+      "flipside",
+      "hive-intelligence"
+    ]
+  }
 }

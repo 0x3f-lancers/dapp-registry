@@ -1,41 +1,41 @@
 {
-    "slug":  "boomfi",
-    "name":  "BoomFi",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745429/web3-explorer/dapp-logos/boomfi.jpg",
-    "category":  "Web3 Wallet Tools",
-    "subcategory":  [
-                        "Web3 Payment Tools"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Polygon",
-                   "Ethereum",
-                   "BNB Chain",
-                   "Solana",
-                   "Tron",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "BoomFi provides an all-in-one solution to send, accept, and convert crypto payments quickly.",
-                    "description":  "BoomFi provides a straightforward path for businesses to start accepting digital currency payments with confidence. It supports both one-time and recurring transactions and can settle in crypto or fiat currencies. Options include no-code, low-code, API access, and ready-made embedded integrations to suit different tech stacks. Pricing is flat 1% plus 25c per transaction. Core offerings span a crypto payment gateway, subscription billing, fast bank transfers, payouts, and Digital Wallet-as-a-Service, with embedded or white-label deployment available.",
-                    "meta":  "BoomFi provides an all-in-one solution to send, accept, and convert crypto payments quickly. Discover BoomFi and other Web3 Wallet Tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "BoomFi - Web3 Wallet Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.boomfi.xyz/",
-                  "twitter":  "https://x.com/boom_fi"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "ivorypay",
-                                           "pocketpay-finance",
-                                           "recap"
-                                       ],
-                      "related":  [
-                                      "solrip",
-                                      "tokenscript",
-                                      "defi-tools"
-                                  ]
-                  }
+  "slug": "boomfi",
+  "name": "BoomFi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745429/web3-explorer/dapp-logos/boomfi.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Polygon",
+    "Ethereum",
+    "BNB Chain",
+    "Solana",
+    "Tron",
+    "Mantle"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "BoomFi helps businesses accept crypto payments, run recurring billing, and settle funds across supported networks.",
+    "description": "BoomFi is a payments platform for businesses that want to accept cryptocurrency without building the full settlement and compliance stack in house. Its products include payment links, checkout, recurring crypto payments, fiat and crypto settlement options, and exchange or ramp services that can be embedded through APIs or lighter integrations. The platform also screens transactions for AML compliance and supports configurable settlement networks and currencies. Mantle merchants can use BoomFi to collect payments, manage subscriptions, and route funds through a more operationally ready workflow.",
+    "meta": "BoomFi provides crypto checkout, billing, and settlement tools with Mantle support.",
+    "pageTitle": "BoomFi - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.boomfi.xyz/",
+    "twitter": "https://x.com/boom_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "ivorypay",
+      "pocketpay-finance",
+      "recap"
+    ],
+    "related": [
+      "solrip",
+      "tokenscript",
+      "defi-tools"
+    ]
+  }
 }

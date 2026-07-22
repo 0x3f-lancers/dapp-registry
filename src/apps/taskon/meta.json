@@ -1,43 +1,43 @@
 {
-    "slug":  "taskon",
-    "name":  "TaskOn",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750608/web3-explorer/dapp-logos/taskon.png",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Quest-to-Earn Tools"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "BNB Chain",
-                   "Polygon",
-                   "Avalanche",
-                   "OP Mainnet",
-                   "Fantom",
-                   "Cronos",
-                   "Arbitrum",
-                   "Solana",
-                   "Aptos",
-                   "Immutable X",
-                   "Moonbeam",
-                   "Mantle"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "TaskOn is a platform that boosts the completion of various Web3 tasks in a decentralized way.",
-                    "description":  "TaskOn is a Web3 task collaboration platform designed for marketing and operations. It enables campaigns to promote your brand, attract real users, grow your community, drive up campaign volume, mint NFTs, and manage a whitelist. The platform provides templates for both on-chain and off-chain tasks, making it easy to design and run campaigns without complex setup. TaskOn is free to use for teams seeking a versatile campaign solution.",
-                    "meta":  "TaskOn is a platform that boosts the completion of various Web3 tasks in a decentralized way. Discover TaskOn and other DeFi Tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "TaskOn - DeFi Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://taskon.xyz/",
-                  "twitter":  "https://x.com/taskonxyz"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "fishcake"
-                                       ],
-                      "related":  [
-                                      "snapshot"
-                                  ]
-                  }
+  "slug": "taskon",
+  "name": "TaskOn",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750608/web3-explorer/dapp-logos/taskon.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Quest-to-Earn Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Polygon",
+    "Avalanche",
+    "OP Mainnet",
+    "Fantom",
+    "Cronos",
+    "Arbitrum",
+    "Solana",
+    "Aptos",
+    "Immutable X",
+    "Moonbeam",
+    "Mantle"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "TaskOn is a platform that boosts the completion of various Web3 tasks in a decentralized way.",
+    "description": "TaskOn is a Web3 task collaboration platform designed for marketing, community growth, and operations. It enables teams to run campaigns that attract users, reward participation, grow communities, manage allowlists, and coordinate both onchain and offchain actions from one interface. The product is widely used for quests, campaign tracking, and user acquisition workflows that need wallet-aware participation rules. On Mantle, TaskOn fits as a quest and campaign layer for teams that want to activate communities without building custom event infrastructure from scratch.",
+    "meta": "TaskOn is a platform that boosts the completion of various Web3 tasks in a decentralized way.",
+    "pageTitle": "TaskOn - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://taskon.xyz/",
+    "twitter": "https://x.com/taskonxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "fishcake"
+    ],
+    "related": [
+      "snapshot"
+    ]
+  }
 }

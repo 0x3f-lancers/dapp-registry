@@ -1,50 +1,50 @@
 {
-    "slug":  "particle-network",
-    "name":  "Particle Network",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749080/web3-explorer/dapp-logos/particle-network.png",
-    "category":  "Web3 Developer Tools",
-    "subcategory":  [
-                        "Development Frameworks",
-                        "Web3 SDKs"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Avalanche",
-                   "BNB Chain",
-                   "Celo",
-                   "Cronos",
-                   "Ethereum",
-                   "Fantom",
-                   "Harmony",
-                   "Mantle",
-                   "Moonbeam",
-                   "Multichain",
-                   "OP Mainnet",
-                   "Polygon",
-                   "Polygon zkEVM",
-                   "Solana",
-                   "Tron",
-                   "ZKsync"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Particle Network provides Web3 development services, including secure authentication and NFT solutions.",
-                    "description":  "Particle Network provides seamless onboarding, wallet integration, and NFT marketplace capabilities for developers and users in the blockchain space. It delivers social-authentication powered by MPC-TSS, white-label wallets compatible with Account Abstraction (ERC-4337), and end-to-end NFT solutions for easy marketplace creation and management. With Particle Network\u0027s middleware, developers access a cohesive toolset to streamline workflows and build more user-friendly blockchain applications across Web, iOS, Android, Unity, Unreal Engine, Flutter, React Native, and Cocos Creator.",
-                    "meta":  "Particle Network offers Web3 development services such as secure authentication. Discover Particle Network and other Web3 apps on Lancers Web3 Explorer.",
-                    "pageTitle":  "Particle Network - Web3 Developer Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://particle.network",
-                  "twitter":  "https://x.com/particlentwrk"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "apeworx-ape",
-                                           "0xcert"
-                                       ],
-                      "related":  [
-                                      "aarc",
-                                      "ethereum-etl"
-                                  ]
-                  }
+  "slug": "particle-network",
+  "name": "Particle Network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749080/web3-explorer/dapp-logos/particle-network.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Development Frameworks",
+    "Web3 SDKs"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Celo",
+    "Cronos",
+    "Ethereum",
+    "Fantom",
+    "Harmony",
+    "Mantle",
+    "Moonbeam",
+    "Multichain",
+    "OP Mainnet",
+    "Polygon",
+    "Polygon zkEVM",
+    "Solana",
+    "Tron",
+    "ZKsync"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Particle Network provides Web3 development services, including secure authentication and NFT solutions.",
+    "description": "Particle Network provides seamless onboarding, wallet integration, and NFT marketplace capabilities for developers and users in the blockchain space. It delivers social-authentication powered by MPC-TSS, white-label wallets compatible with Account Abstraction (ERC-4337), and end-to-end NFT solutions for easy marketplace creation and management. With Particle Network's middleware, developers access a cohesive toolset to streamline workflows and build more user-friendly blockchain applications across Web, iOS, Android, Unity, Unreal Engine, Flutter, React Native, and Cocos Creator.",
+    "meta": "Particle Network offers Web3 development services such as secure authentication.",
+    "pageTitle": "Particle Network - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://particle.network",
+    "twitter": "https://x.com/particlentwrk"
+  },
+  "relations": {
+    "alternatives": [
+      "apeworx-ape",
+      "0xcert"
+    ],
+    "related": [
+      "aarc",
+      "ethereum-etl"
+    ]
+  }
 }

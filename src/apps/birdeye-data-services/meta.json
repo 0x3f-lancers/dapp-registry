@@ -1,35 +1,35 @@
 {
-    "slug":  "birdeye-data-services",
-    "name":  "Birdeye Data Services",
-    "logoUrl":  "https://unavatar.io/x/birdeye_data",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "Web3 Data Tools"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Birdeye Data Services is a high-performance on-chain data API platform offering real-time token, wallet, trading, and DeFi protocol data for developers on Mantle.",
-                    "description":  "Birdeye Data Services (BDS) is a professional-grade blockchain data API platform providing comprehensive real-time and historical on-chain data including token prices, wallet tracking, trading activity, and DeFi protocol metrics. Originally known for its Solana analytics, BDS has expanded to cover multiple chains including Mantle, offering developers a reliable data layer for building trading tools, analytics dashboards, and data-driven dApps.",
-                    "meta":  "Birdeye Data Services provides real-time multi-chain on-chain data APIs for developers building on Mantle. Discover Birdeye Data Services and other Infrastructure Tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "Birdeye Data Services - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://bds.birdeye.so/",
-                  "twitter":  "https://x.com/birdeye_data"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "ankr",
-                                           "biconomy",
-                                           "din-infura"
-                                       ],
-                      "related":  [
-                                      "flipside",
-                                      "hive-intelligence",
-                                      "idriss"
-                                  ]
-                  }
+  "slug": "birdeye-data-services",
+  "name": "Birdeye Data Services",
+  "logoUrl": "https://unavatar.io/x/birdeye_data",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Birdeye Data Services offers APIs for real-time and historical token, wallet, trade, and DeFi data on Mantle.",
+    "description": "Birdeye Data Services is the developer facing API layer behind Birdeye's market data products. It provides access to token pricing, OHLCV, wallet activity, swaps, liquidity, and other onchain datasets through public and premium endpoints, with WebSocket options for lower latency use cases. Teams building on Mantle can use BDS to power dashboards, trading interfaces, alerts, and research tools without indexing chain activity from scratch. The platform is built for applications that need broad coverage, structured responses, and production friendly data delivery.",
+    "meta": "Birdeye Data Services supplies token, trade, and wallet APIs for Mantle builders.",
+    "pageTitle": "Birdeye Data Services - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bds.birdeye.so/",
+    "twitter": "https://x.com/birdeye_data"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr",
+      "biconomy",
+      "din-infura"
+    ],
+    "related": [
+      "flipside",
+      "hive-intelligence",
+      "idriss"
+    ]
+  }
 }

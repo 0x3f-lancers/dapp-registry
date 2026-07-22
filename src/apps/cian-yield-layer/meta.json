@@ -11,9 +11,9 @@
     ],
     "pricing": "free",
     "content": {
-        "short": "CIAN Yield Layer is an ERC-4626 yield infrastructure product for structured, automated DeFi strategies.",
-        "description": "CIAN Yield Layer is a yield infrastructure layer that consolidates secure and sustainable yield sources into structured vault products. Users deposit supported assets into vault contracts and receive shares representing their position, while strategy contracts dynamically allocate funds across lending, staking, restaking, and liquidity strategies. The system is designed around transparent smart contracts, multisig-controlled parameters, and data endpoints for builders who want to integrate vault information. On Mantle, CIAN Yield Layer helps route assets into curated yield strategies while keeping users' deposits represented on-chain.",
-        "meta": "CIAN Yield Layer provides structured ERC-4626 yield vaults and automated DeFi strategies on Mantle.",
+        "short": "CIAN Yield Layer provides vault based DeFi yield products that package automated strategies into depositable onchain positions.",
+        "description": "CIAN Yield Layer is a DeFi yield product built around structured vaults that route deposits into strategy positions across supported protocols. The live app presents vault level APY, allocation, leverage, safety scoring, and underlying positions so users can see how a yield product is assembled before depositing. Instead of asking users to manage every loop or recursive position manually, CIAN packages those strategies into share based vaults with onchain accounting. On Mantle, it fits as a yield layer for users who want managed strategy exposure while keeping assets represented through vault receipts.",
+        "meta": "CIAN Yield Layer provides vault based DeFi yield products with automated strategy exposure and onchain position tracking on Mantle.",
         "pageTitle": "CIAN Yield Layer - DeFi Dapps - Lancers Web3 Explorer"
     },
     "links": {

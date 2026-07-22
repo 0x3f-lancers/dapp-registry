@@ -1,56 +1,56 @@
 {
-    "slug":  "stealthex",
-    "name":  "StealthEX",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750382/web3-explorer/dapp-logos/stealthex.png",
-    "category":  "Trading Tools",
-    "subcategory":  [
-                        "Crypto Exchanges"
-                    ],
-    "chains":  [
-                   "Aptos",
-                   "Arbitrum",
-                   "Avalanche",
-                   "Base",
-                   "Bitcoin",
-                   "BNB Chain",
-                   "Celo",
-                   "Cosmos",
-                   "Cronos",
-                   "Ethereum",
-                   "Fantom",
-                   "Harmony",
-                   "Immutable X",
-                   "Moonbeam",
-                   "ZKsync",
-                   "Tron",
-                   "Sui",
-                   "Starknet",
-                   "Solana",
-                   "Polygon",
-                   "Polkadot",
-                   "OP Mainnet",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "StealthEX is a custody-free swapping service with 1500+ assets available for cross-chain instant swaps.",
-                    "description":  "StealthEX is a cryptocurrency exchange that supports more than 1400 assets. Users can exchange Bitcoin, Ethereum, Litecoin, Monero, Zcash, Shib, Optimism, Arbitrum, Kaspa, and many other coins and tokens instantly and without registration. The platform offers both fixed and floating rate options for crypto swaps. Crypto is never stored on the platform, and all swaps are non-custodial. Buying crypto with debit and credit cards (Mastercard or Visa) is also available.",
-                    "meta":  "StealthEX is a custody-free cryptocurrency exchange offering instant cross-chain swaps. Discover StealthEX and other Trading Tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "StealthEX - Trading Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://stealthex.io/",
-                  "twitter":  "https://x.com/StealthEX_io"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "mangrovedao",
-                                           "gemini"
-                                       ],
-                      "related":  [
-                                      "atrix",
-                                      "degate",
-                                      "dolomite"
-                                  ]
-                  }
+  "slug": "stealthex",
+  "name": "StealthEX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750382/web3-explorer/dapp-logos/stealthex.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Bitcoin",
+    "BNB Chain",
+    "Celo",
+    "Cosmos",
+    "Cronos",
+    "Ethereum",
+    "Fantom",
+    "Harmony",
+    "Immutable X",
+    "Moonbeam",
+    "ZKsync",
+    "Tron",
+    "Sui",
+    "Starknet",
+    "Solana",
+    "Polygon",
+    "Polkadot",
+    "OP Mainnet",
+    "Mantle"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "StealthEX is a custody-free swapping service with 1500+ assets available for cross-chain instant swaps.",
+    "description": "StealthEX is a cryptocurrency exchange that supports more than 1400 assets. Users can exchange Bitcoin, Ethereum, Litecoin, Monero, Zcash, Shib, Optimism, Arbitrum, Kaspa, and many other coins and tokens instantly and without registration. The platform offers both fixed and floating rate options for crypto swaps. Crypto is never stored on the platform, and all swaps are non-custodial. Buying crypto with debit and credit cards (Mastercard or Visa) is also available.",
+    "meta": "StealthEX is a custody-free cryptocurrency exchange offering instant cross-chain swaps.",
+    "pageTitle": "StealthEX - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stealthex.io/",
+    "twitter": "https://x.com/StealthEX_io"
+  },
+  "relations": {
+    "alternatives": [
+      "mangrovedao",
+      "gemini"
+    ],
+    "related": [
+      "atrix",
+      "degate",
+      "dolomite"
+    ]
+  }
 }

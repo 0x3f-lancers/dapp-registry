@@ -1,34 +1,38 @@
 {
-    "slug": "izumi-finance",
-    "name": "iZUMi Finance",
-    "logoUrl": "https://unavatar.io/x/izumi_Finance",
-    "category": "DeFi Dapps",
-    "subcategory": [
-        "Decentralized Exchanges"
+  "slug": "izumi-finance",
+  "name": "iZUMi Finance",
+  "logoUrl": "https://unavatar.io/x/izumi_Finance",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "BNB Chain",
+    "Ethereum",
+    "Mantle",
+    "Polygon"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "iZUMi Finance is a multi-chain Liquidity-as-a-Service protocol offering concentrated liquidity DEX services including LiquidBox and limit orders.",
+    "description": "iZUMi Finance offers a comprehensive Liquidity-as-a-Service (LaaS) platform enabling protocols to efficiently manage and incentivize concentrated liquidity positions across multiple chains. Its core LiquidBox product provides flexible liquidity mining with concentrated liquidity positions, helping projects attract sticky, capital-efficient liquidity from LPs. iZUMi's DEX additionally supports advanced order types including Discrete Liquidity (DL-AMM) and on-chain Limit Orders, features not commonly found in standard AMMs on Mantle.",
+    "meta": "iZUMi Finance is a multi-chain LaaS protocol offering concentrated liquidity and DEX services on Mantle.",
+    "pageTitle": "iZUMi Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://izumi.finance/home",
+    "twitter": "https://x.com/izumi_Finance"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1delta",
+      "agni"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "iZUMi Finance is a multi-chain Liquidity-as-a-Service protocol offering concentrated liquidity DEX services including LiquidBox and limit orders.",
-        "description": "iZUMi Finance offers a comprehensive Liquidity-as-a-Service (LaaS) platform enabling protocols to efficiently manage and incentivize concentrated liquidity positions across multiple chains. Its core LiquidBox product provides flexible liquidity mining with concentrated liquidity positions, helping projects attract sticky, capital-efficient liquidity from LPs. iZUMi's DEX additionally supports advanced order types including Discrete Liquidity (DL-AMM) and on-chain Limit Orders, features not commonly found in standard AMMs on Mantle.",
-        "meta": "iZUMi Finance is a multi-chain LaaS protocol offering concentrated liquidity and DEX services on Mantle. Discover iZUMi on Lancers Web3 Explorer.",
-        "pageTitle": "iZUMi Finance - DeFi Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://izumi.finance/home",
-        "twitter": "https://x.com/izumi_Finance"
-    },
-    "relations": {
-        "alternatives": [
-            "0x",
-            "1delta",
-            "agni"
-        ],
-        "related": [
-            "algebra-protocol",
-            "banxa"
-        ]
-    }
+    "related": [
+      "algebra-protocol",
+      "banxa"
+    ]
+  }
 }

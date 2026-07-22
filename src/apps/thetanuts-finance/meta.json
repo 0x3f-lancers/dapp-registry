@@ -1,40 +1,40 @@
 {
-    "slug":  "thetanuts-finance",
-    "name":  "Thetanuts Finance",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750677/web3-explorer/dapp-logos/thetanuts-finance.png",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Options"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Fantom",
-                   "Polygon",
-                   "Avalanche",
-                   "BNB Chain",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Thetanuts Finance provides thetanuts, a DeFi protocol, enabling sustainable yield through options strategies.",
-                    "description":  "Thetanuts Finance is a DeFi protocol that offers structured products designed to generate diversified, organic yields. It supports DAO treasury management and enables retail traders to earn organic yields on their assets. The vaults simplify options trading, turning complex instruments into approachable strategies for any investor, and allow users to monetize volatility in a risk-adjusted way. By combining diversification with automated risk controls, the platform seeks to broaden access to advanced yield opportunities beyond traditional funds.",
-                    "meta":  "Thetanuts Finance is a DeFi structured products protocol for diversified yields. Discover Thetanuts Finance and other DeFi Dapps on Lancers Web3 Explorer.",
-                    "pageTitle":  "Thetanuts Finance - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.thetanuts.finance/",
-                  "twitter":  "https://x.com/ThetanutsFi"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "optix",
-                                           "syndr",
-                                           "foxify"
-                                       ],
-                      "related":  [
-                                      "alchemix",
-                                      "metronome-synth",
-                                      "hakka-finance"
-                                  ]
-                  }
+  "slug": "thetanuts-finance",
+  "name": "Thetanuts Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750677/web3-explorer/dapp-logos/thetanuts-finance.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Options"
+  ],
+  "chains": [
+    "Ethereum",
+    "Fantom",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "Mantle"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Thetanuts Finance provides thetanuts, a DeFi protocol, enabling sustainable yield through options strategies.",
+    "description": "Thetanuts Finance is a DeFi protocol that offers structured products designed to generate diversified, organic yields. It supports DAO treasury management and enables retail traders to earn organic yields on their assets. The vaults simplify options trading, turning complex instruments into approachable strategies for any investor, and allow users to monetize volatility in a risk-adjusted way. By combining diversification with automated risk controls, the platform seeks to broaden access to advanced yield opportunities beyond traditional funds.",
+    "meta": "Thetanuts Finance is a DeFi structured products protocol for diversified yields.",
+    "pageTitle": "Thetanuts Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.thetanuts.finance/",
+    "twitter": "https://x.com/ThetanutsFi"
+  },
+  "relations": {
+    "alternatives": [
+      "optix",
+      "syndr",
+      "foxify"
+    ],
+    "related": [
+      "alchemix",
+      "metronome-synth",
+      "hakka-finance"
+    ]
+  }
 }
