@@ -30,9 +30,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Stablecoin-powered global money app with virtual account details, cards and business surfaces.",
-    "description": "KAST is a stablecoin-powered global money app that lets consumers and businesses hold digital dollars and spend them anywhere via Visa cards. Users can deposit USDC and USDT across networks including Solana, Ethereum, Polygon, Tron, and Arbitrum, then get virtual account details, earn on balances, and pay online and in person with KAST crypto cards that convert stablecoins to fiat automatically. With deep integration into the Solana ecosystem and business-focused surfaces alongside its consumer app, KAST positions itself as a stablecoin neobank for people who live and transact globally. Backed by an $80 million raise, it aims to make dollar-denominated stablecoins a practical everyday account and spending method across borders and emerging markets.",
-    "meta": "KAST is a stablecoin money app with multi-chain deposits and global Visa cards. Discover KAST and other Neobanks on Lancers Web3 Explorer.",
+    "short": "KAST is a stablecoin money app with USD and EU IBAN accounts, Visa cards, yield and global payouts.",
+    "description": "KAST is a stablecoin money app that lets people store, earn on, move and spend digital dollars anywhere. Users get US and EU virtual accounts with IBAN and routing details, Visa cards in several tiers, yield vaults through KAST Earn, and global payouts and remittances. They can deposit USDC and USDT or swap in SOL, ETH and BTC across networks including Solana and Ethereum, then spend with cards that convert stablecoins to fiat at checkout. Available in more than 170 countries and backed by an 80 million dollar Series A, KAST targets freelancers, remote workers and global earners who want borderless spending built on stablecoins.",
+    "meta": "KAST is a stablecoin money app with USD/EU accounts, Visa cards and yield. Discover KAST and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "KAST - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -40,7 +40,14 @@
     "twitter": "https://x.com/KAST_official"
   },
   "relations": {
-    "alternatives": ["redotpay", "oobit", "gnosis-pay"],
-    "related": ["bleap", "stables"]
+    "alternatives": [
+      "redotpay",
+      "oobit",
+      "gnosis-pay"
+    ],
+    "related": [
+      "bleap",
+      "stables"
+    ]
   }
 }

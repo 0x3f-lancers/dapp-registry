@@ -15,9 +15,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "US consumer banking app with cards and teen accounts.",
-    "description": "Current is a US consumer fintech that delivers mobile-first banking to everyday Americans and, notably, teenagers through parent-managed accounts. Working with partner banks, it offers spending accounts, a debit card, savings pods with boosted rates, fee-free overdraft, faster direct deposit, and money-management tools built for younger and underbanked users. Current has also experimented with crypto access and points-based rewards, but its core is a simple, low-fee everyday banking experience rather than an on-chain wallet. By focusing on accessible accounts, teen banking, and financial-wellness features, Current competes with other US neobanks for consumers who want an alternative to traditional banks and their fees.",
-    "meta": "Current is a US mobile banking app with cards, savings, and teen accounts. Discover Current and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Current is a US mobile banking app with spending and savings accounts, a debit card and teen accounts.",
+    "description": "Current is a US consumer fintech that offers mobile-first banking to everyday Americans and, notably, to teenagers through parent-managed accounts. Working with partner banks, it provides spending accounts, a debit card, savings pods with boosted rates, fee-free overdraft, faster direct deposit and money-management tools built for younger and underbanked users. Current has also offered crypto access and points-based rewards, but its core is simple, low-fee everyday banking rather than an on-chain wallet. By focusing on accessible accounts, teen banking and financial-wellness features, it competes with other US neobanks for people who want an alternative to traditional banks.",
+    "meta": "Current is a US mobile banking app with accounts, a card, savings and teen accounts. Discover Current and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Current - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -25,7 +25,14 @@
     "twitter": "https://x.com/current"
   },
   "relations": {
-    "alternatives": ["chime", "varo-bank", "dave"],
-    "related": ["sofi", "moneylion"]
+    "alternatives": [
+      "chime",
+      "varo-bank",
+      "dave"
+    ],
+    "related": [
+      "sofi",
+      "moneylion"
+    ]
   }
 }

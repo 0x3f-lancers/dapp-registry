@@ -29,9 +29,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Multi-asset wallet, remittance and crypto/fiat conversion.",
-    "description": "BiyaPay is a global multi-asset trading wallet and payments app that lets users hold, exchange, and move both traditional and digital money in one place. From the app, people can trade cryptocurrencies such as BTC, ETH, SOL, XRP, TRX, and BNB along with stablecoins like USDT, invest in US and Hong Kong stocks, and convert between more than 30 fiat currencies for cross-border remittances. BiyaPay supports depositing and withdrawing crypto over networks including Bitcoin, Ethereum, Solana, Tron, and BNB Chain, bridging on-chain assets with fiat payouts to bank accounts worldwide. Targeting globally mobile consumers, investors, and cross-border earners, BiyaPay combines a crypto exchange, brokerage, and remittance tool into a single multi-asset wallet designed for moving value across currencies, assets, and borders.",
-    "meta": "BiyaPay is a multi-asset wallet for crypto, stocks, and cross-border remittances. Discover BiyaPay and other Neobanks on Lancers Web3 Explorer.",
+    "short": "BiyaPay is a multi-asset wallet for trading crypto and US and Hong Kong stocks and sending remittances.",
+    "description": "BiyaPay is a global multi-asset wallet and remittance app based in Hong Kong that lets people manage traditional and digital money in one place. Users can trade cryptocurrencies such as Bitcoin, Ethereum and Solana along with stablecoins like USDT, invest in US and Hong Kong stocks, and convert between more than 30 fiat currencies for cross-border transfers. It supports depositing and withdrawing crypto over networks including Bitcoin, Ethereum, Solana, Tron and BNB Chain, connecting on-chain assets with fiat payouts to bank accounts. BiyaPay is built for globally mobile users, investors and cross-border earners.",
+    "meta": "BiyaPay is a multi-asset wallet for crypto, stocks and cross-border remittances. Discover BiyaPay and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "BiyaPay - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -39,7 +39,14 @@
     "twitter": "https://x.com/BiyaPay"
   },
   "relations": {
-    "alternatives": ["kast", "redotpay", "oobit"],
-    "related": ["wise", "payoneer"]
+    "alternatives": [
+      "kast",
+      "redotpay",
+      "oobit"
+    ],
+    "related": [
+      "wise",
+      "payoneer"
+    ]
   }
 }

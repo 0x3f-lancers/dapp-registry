@@ -18,8 +18,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Remittance and credit card product for families across borders.",
-    "description": "Pomelo is a US fintech that reinvents remittances by combining money transfers with credit cards, letting families send money abroad while building credit at home. A sender in the United States opens a Pomelo account with a credit line and issues cards to family members overseas — initially focused on the Philippines — so recipients can spend directly, with no transfer fees and rewards points earned along the way. Banking services are provided through a partner bank, and Pomelo settles the international leg through payment networks like Thunes. By turning remittances into instant, card-based spending backed by credit rather than slow, fee-heavy wires, Pomelo targets immigrant families who regularly support relatives abroad and want a cheaper, more rewarding way to do it.",
+    "short": "Pomelo blends fee-free remittances with credit cards, letting US senders fund cards for family abroad.",
+    "description": "Pomelo is a US fintech that reinvents remittances by combining money transfers with credit cards, letting families send money abroad while building credit at home. A sender in the United States opens a Pomelo account with a credit line and issues cards to family members overseas, initially focused on the Philippines, so recipients can spend directly with no transfer fees and rewards points along the way. Banking services come from a partner bank, and Pomelo settles the international leg through payment networks. By turning remittances into instant, card-based spending backed by credit rather than slow, fee-heavy wires, it targets immigrant families who regularly support relatives abroad and want a cheaper, more rewarding way to do it.",
     "meta": "Pomelo blends fee-free remittances with credit cards for families abroad. Discover Pomelo and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Pomelo - Neobanks - Lancers Web3 Explorer"
   },
@@ -28,7 +28,14 @@
     "twitter": "https://x.com/pomelocard"
   },
   "relations": {
-    "alternatives": ["majority", "lemfi", "wise"],
-    "related": ["nala", "instarem"]
+    "alternatives": [
+      "majority",
+      "lemfi",
+      "wise"
+    ],
+    "related": [
+      "nala",
+      "instarem"
+    ]
   }
 }

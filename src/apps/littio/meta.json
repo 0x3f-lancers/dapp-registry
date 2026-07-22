@@ -24,9 +24,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Dollar/euro account product with card and global access.",
-    "description": "Littio is a Colombian stablecoin neobank, backed by Y Combinator, that gives Latin Americans access to US dollar and euro accounts along with dollar-denominated yield. Users get real USD accounts with US ACH details and European IBANs, a Mastercard for spending, and interest-bearing 'Pots' whose returns are backed by US Treasuries and real-world assets via OpenTrade. Under the hood, Littio uses the USDC and EURC stablecoins on networks such as Avalanche and Ethereum for settlement and storage, while integrating with local banks so users in Colombia, Mexico, and Argentina can top up and withdraw in their home currencies. By wrapping stablecoin infrastructure in a familiar account-and-card experience, Littio lets people save in hard currency and earn yield despite local inflation.",
-    "meta": "Littio is a stablecoin neobank giving LatAm users USD/EUR accounts and dollar yield. Discover Littio and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Littio is a Colombian app for USD and EUR digital dollar accounts, yield and a Mastercard for spending.",
+    "description": "Littio is a Colombian fintech that gives Latin Americans access to US dollar and euro accounts along with dollar-denominated yield. Users get global accounts in USD, EUR and Colombian pesos, a Mastercard for international spending and ATM withdrawals, and yield products paying up to around 9.8 percent through its Bolsillos and Bovedas features. Under the hood, Littio uses the USDC and EURC stablecoins issued by Circle for settlement and storage, while integrating with local banks so users can top up and withdraw in their home currency. It targets freelancers, remote workers and travelers who want to save in hard currency and earn yield despite local inflation.",
+    "meta": "Littio gives LatAm users USD/EUR accounts, dollar yield and a Mastercard. Discover Littio and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Littio - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -34,7 +34,14 @@
     "twitter": "https://x.com/littioco"
   },
   "relations": {
-    "alternatives": ["airtm", "takenos", "kontigo"],
-    "related": ["belo", "arq-finance"]
+    "alternatives": [
+      "airtm",
+      "takenos",
+      "kontigo"
+    ],
+    "related": [
+      "belo",
+      "arq-finance"
+    ]
   }
 }

@@ -29,9 +29,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Crypto/fiat wallet with card and stablecoin usage.",
-    "description": "Belo, founded in 2021 in Buenos Aires, is a Latin American digital wallet that lets more than three million users hold local currencies alongside digital dollars and crypto. Within a single app, people can buy, hold, send, and receive BTC, ETH, SOL, and stablecoins such as USDC and USDT across supported networks including Bitcoin, Ethereum, Tron, BNB Chain, and Solana, then spend balances through a linked card. Backed by a Tether-led funding round, Belo leans on stablecoin infrastructure to offer cross-border transfers, foreign exchange, and everyday payments at lower cost than traditional banks. Its goal is to give people in Latin America's inflation-prone economies a simple way to protect savings in dollars and move money without borders.",
-    "meta": "Belo is a LatAm wallet for holding dollars, crypto, and stablecoins with a spending card. Discover Belo and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Belo is an Argentine digital wallet for holding local currency, crypto and stablecoins with a spending card.",
+    "description": "Belo, founded in 2021 in Buenos Aires, is a Latin American digital wallet used by more than three million people to hold local currencies, crypto and dollar stablecoins in one app. Users can buy, hold, send and receive assets such as Bitcoin, Ethereum and USDC, convert to digital dollars to protect savings from inflation, and spend their balance through a linked card. Belo runs on stablecoin rails for low-cost transfers, foreign exchange and everyday payments. It raised a 14 million dollar Series A led by Tether to expand stablecoin payments across the region.",
+    "meta": "Belo is an Argentine wallet for local currency, crypto and dollar stablecoins with a card. Discover Belo and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Belo - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -39,7 +39,14 @@
     "twitter": "https://x.com/belo_app"
   },
   "relations": {
-    "alternatives": ["lemon", "takenos", "airtm"],
-    "related": ["littio", "redotpay"]
+    "alternatives": [
+      "lemon",
+      "takenos",
+      "airtm"
+    ],
+    "related": [
+      "littio",
+      "redotpay"
+    ]
   }
 }

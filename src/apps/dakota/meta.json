@@ -25,8 +25,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Stablecoin business account for storing and moving money.",
-    "description": "Dakota, founded by alumni of Coinbase, Square, and Airbnb, is a stablecoin-native business banking platform that lets companies store and move money in US dollars or stablecoins while still connecting to traditional rails like ACH, SWIFT, and SEPA. Its business account offers stablecoin custody, cross-border treasury, international payouts, and compliance tooling, using USDC across networks such as Ethereum, Solana, and Polygon as the underlying settlement layer. Backed by a Series A led by CoinFund, Dakota targets businesses and fintechs that want the speed and global reach of stablecoins with the familiarity of a bank account. By blending on-chain settlement with conventional payment networks, it positions itself as a modern account without a traditional bank behind it.",
+    "short": "Dakota is a stablecoin business account for storing money and moving it across bank and blockchain rails.",
+    "description": "Dakota, built by alumni of Coinbase, Square and Airbnb, is a stablecoin-native business banking platform. Its business account lets companies store money in US dollars or stablecoins such as USDC and move it across traditional rails like SWIFT, ACH and Fedwire as well as on-chain, with custody, cross-border payouts and card issuing built in. Dakota targets developers, fintechs and crypto-native businesses that want the speed and reach of stablecoins with the familiarity of a bank account and enterprise APIs. Its Series A was led by CoinFund. By blending on-chain settlement with conventional networks, it works as a modern account without a traditional bank behind it.",
     "meta": "Dakota is a stablecoin business account for storing and moving money globally. Discover Dakota and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Dakota - Neobanks - Lancers Web3 Explorer"
   },
@@ -35,7 +35,14 @@
     "twitter": "https://x.com/dakota_xyz"
   },
   "relations": {
-    "alternatives": ["mercury", "caliza", "brex"],
-    "related": ["cedar-money", "orbital"]
+    "alternatives": [
+      "mercury",
+      "caliza",
+      "brex"
+    ],
+    "related": [
+      "cedar-money",
+      "orbital"
+    ]
   }
 }

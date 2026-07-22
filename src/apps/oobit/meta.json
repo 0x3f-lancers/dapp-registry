@@ -31,9 +31,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Crypto/stablecoin tap-to-pay and card app.",
-    "description": "Oobit is a Tether-backed crypto payments app that lets people spend Bitcoin, stablecoins, and other cryptocurrencies in everyday life through a tap-to-pay experience. Much like Apple Pay, users tap their phone at any Visa or Mastercard terminal worldwide, and Oobit converts crypto to fiat in real time so merchants receive normal payments while users spend from their own balances. It supports assets and networks including Bitcoin, Ethereum, BNB Chain, and Polygon, along with stablecoins like USDT, and has expanded into global bank transfers. Serving both consumers and businesses, Oobit aims to make crypto usable for regular spending rather than just trading, bridging Web3 wallets and the traditional card-acceptance network at retailers around the globe.",
-    "meta": "Oobit is a tap-to-pay crypto app to spend Bitcoin and stablecoins at any card terminal. Discover Oobit and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Oobit is a tap-to-pay app for spending Bitcoin, stablecoins and crypto at over 150 million card merchants.",
+    "description": "Oobit is a Tether-backed crypto payments app that lets people spend Bitcoin, stablecoins and other crypto in everyday life through a tap-to-pay experience. Much like Apple Pay, users tap their phone at any Visa or Mastercard terminal and Oobit converts crypto to fiat in real time, so merchants receive normal payments while users spend from their own balances. It supports assets including Bitcoin, Ethereum, USDT and its OOB token across networks such as BNB Chain, VeChain and TON, and adds features like sending crypto to a bank, corporate cards and agent cards with spending controls. Accepted at more than 150 million merchants worldwide, Oobit makes crypto usable for regular spending.",
+    "meta": "Oobit is a tap-to-pay app to spend Bitcoin and stablecoins at card terminals. Discover Oobit and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Oobit - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -41,7 +41,14 @@
     "twitter": "https://x.com/oobit"
   },
   "relations": {
-    "alternatives": ["redotpay", "kast", "gnosis-pay"],
-    "related": ["bleap", "stables"]
+    "alternatives": [
+      "redotpay",
+      "kast",
+      "gnosis-pay"
+    ],
+    "related": [
+      "bleap",
+      "stables"
+    ]
   }
 }

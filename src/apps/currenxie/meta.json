@@ -18,9 +18,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Global accounts, FX, payments and virtual cards for businesses.",
-    "description": "Currenxie, founded in 2014 and headquartered in Hong Kong, is a business payments platform built around its Global Account — a single multi-currency account that lets companies collect, hold, convert, and send money worldwide. Businesses use it to open local receiving accounts in major currencies, accept payments from marketplaces and customers abroad, manage foreign exchange, pay suppliers, and issue virtual cards for online spend. Popular with e-commerce sellers, importers, and internationally trading SMEs, Currenxie replaces the need for multiple foreign bank accounts and costly wire transfers. Its focus on cross-border collections, payouts, and card spend makes reconciliation and multi-currency finance operations central to the product.",
-    "meta": "Currenxie offers a multi-currency Global Account with FX, payments, and cards. Discover Currenxie and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Currenxie is a Hong Kong business payments platform built around a multi-currency Global Account and API.",
+    "description": "Currenxie, founded in 2014 and headquartered in Hong Kong, is a business payments platform built around its Global Account, a single multi-currency account for collecting, holding, converting and sending money worldwide. Businesses can open local receiving accounts in major currencies, accept payments from marketplaces and customers abroad, manage foreign exchange and pay suppliers. Its platform API adds mass payments, collections and card issuing for companies operating at scale. Popular with e-commerce sellers, importers and internationally trading SMEs, Currenxie replaces the need for several foreign bank accounts and costly wire transfers.",
+    "meta": "Currenxie offers a multi-currency Global Account, FX and payments for businesses. Discover Currenxie and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Currenxie - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -28,7 +28,14 @@
     "twitter": "https://x.com/currenxie"
   },
   "relations": {
-    "alternatives": ["airwallex", "worldfirst", "statrys"],
-    "related": ["payoneer", "wise"]
+    "alternatives": [
+      "airwallex",
+      "worldfirst",
+      "statrys"
+    ],
+    "related": [
+      "payoneer",
+      "wise"
+    ]
   }
 }

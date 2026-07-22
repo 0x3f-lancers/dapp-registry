@@ -19,9 +19,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Brazilian digital bank with cards, accounts and business services.",
-    "description": "C6 Bank, launched in 2019 and now part-owned by JPMorgan, is one of Brazil's largest digital banks, serving tens of millions of individuals and small businesses. Through its app it offers free checking accounts, credit and debit cards, a global account for spending abroad, investments, loans, and the C6 Tag for contactless payments, plus dedicated products for SMEs. Customers manage everyday banking, Pix instant transfers, bill payments, and international spending from a single mobile experience. By bundling accounts, cards, credit, and investments into one platform, C6 Bank competes with both incumbent Brazilian banks and other neobanks, generating high volumes of card and payment activity across consumer and business segments.",
-    "meta": "C6 Bank is a Brazilian digital bank with accounts, cards, investments, and SME tools. Discover C6 Bank and other Neobanks on Lancers Web3 Explorer.",
+    "short": "C6 Bank is a Brazilian digital bank with accounts, cards, a global account, investments and SME tools.",
+    "description": "C6 Bank, launched in 2019 and part-owned by JPMorgan, is one of Brazil's largest digital banks, serving tens of millions of individuals and small businesses. Through its app it offers free checking accounts, credit and debit cards, a global account for spending abroad, investments, loans and the C6 Tag for contactless payments, plus products for small companies. Customers handle everyday banking, Pix instant transfers, bill payments and international spending from one mobile app. It bundles accounts, cards, credit and investments, competing with incumbent Brazilian banks and other digital challengers.",
+    "meta": "C6 Bank is a Brazilian digital bank with accounts, cards, a global account and SME tools. Discover C6 Bank and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "C6 Bank - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -29,7 +29,14 @@
     "twitter": "https://x.com/C6Bank"
   },
   "relations": {
-    "alternatives": ["nubank", "picpay", "mercado-pago"],
-    "related": ["neon", "uala"]
+    "alternatives": [
+      "nubank",
+      "picpay",
+      "mercado-pago"
+    ],
+    "related": [
+      "neon",
+      "uala"
+    ]
   }
 }

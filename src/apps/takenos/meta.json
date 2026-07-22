@@ -27,9 +27,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Wallet for receiving global income and spending/withdrawing locally.",
-    "description": "Takenos is a financial platform for Latin American freelancers and contractors that lets them receive global income in stablecoins and spend or withdraw it locally. Users can get paid from clients and platforms abroad, hold balances in stablecoins such as USDT, and cash out to local currency across around 20 countries, with a card for everyday spending. Built on Solana and having processed hundreds of millions of dollars in payroll volume, Takenos also supports withdrawing USDT over networks including Polygon, Tron, and BNB Chain, bridging on-chain payouts with local money. It targets the region's large base of remote workers earning in dollars who face slow, expensive traditional cross-border payment options, turning stablecoins into a fast, low-cost way to get paid and access money at home.",
-    "meta": "Takenos lets LatAm freelancers receive stablecoin income and cash out locally. Discover Takenos and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Takenos is a Latin American wallet for freelancers to receive global income and spend or withdraw locally.",
+    "description": "Takenos is a financial app for Latin American freelancers and small businesses that lets them receive international income and spend or withdraw it locally without commission fees. Users get paid from clients and platforms abroad, hold a digital dollar account, and cash out to local currency or spend with the TakeCard, along with local payment options like QR and investment packages. Built on stablecoin infrastructure over Solana, with support for withdrawing USDT across networks, Takenos bridges on-chain payouts with everyday money for the region's remote workers who earn in dollars. It targets people facing slow, expensive traditional cross-border payment options who want a fast, low-cost way to get paid and use their money at home.",
+    "meta": "Takenos lets LatAm freelancers receive global income and cash out locally. Discover Takenos and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Takenos - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -37,7 +37,14 @@
     "twitter": "https://x.com/TakenosApp"
   },
   "relations": {
-    "alternatives": ["airtm", "littio", "belo"],
-    "related": ["lemon", "parallax"]
+    "alternatives": [
+      "airtm",
+      "littio",
+      "belo"
+    ],
+    "related": [
+      "lemon",
+      "parallax"
+    ]
   }
 }

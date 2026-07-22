@@ -27,8 +27,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Stablecoin-powered neobank and asset platform for emerging markets.",
-    "description": "Fasset is a stablecoin-powered digital bank built for emerging markets, positioning itself as one of the first Islamic, fully on-chain neobanks. Serving users across the MENA region, Southeast Asia, and other emerging economies, it lets consumers and businesses hold dollar-pegged stablecoins such as USDC, make cross-border payments, and invest in tokenized and digital assets from a single app. Fasset uses stablecoins as its core settlement layer, running on its Own Network Layer 2 alongside established chains like Ethereum and Polygon to keep transactions fast and low-cost. Backed by a $51 million raise, it aims to turn stablecoins into everyday banking rails for the billions of people underserved by traditional financial institutions.",
+    "short": "Fasset is a stablecoin-powered Islamic neobank and digital asset platform for MENA and emerging markets.",
+    "description": "Fasset is a stablecoin-powered digital bank built for emerging markets and one of the first Islamic, fully on-chain neobanks. Serving users across the MENA region, Southeast Asia and other emerging economies, it lets people hold dollar-pegged stablecoins such as USDC, make cross-border payments and invest in tokenized and digital assets from a single app. Fasset uses stablecoins as its settlement layer, running on its Own Network Layer 2 alongside established chains like Ethereum and Polygon to keep transactions fast and low cost. Backed by a 51 million dollar raise, it works to turn stablecoins into everyday banking rails for people underserved by traditional banks.",
     "meta": "Fasset is a stablecoin-powered Islamic neobank and asset platform for emerging markets. Discover Fasset and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Fasset - Neobanks - Lancers Web3 Explorer"
   },
@@ -37,7 +37,14 @@
     "twitter": "https://x.com/fasset"
   },
   "relations": {
-    "alternatives": ["oobit", "redotpay", "kast"],
-    "related": ["airtm", "stables"]
+    "alternatives": [
+      "oobit",
+      "redotpay",
+      "kast"
+    ],
+    "related": [
+      "airtm",
+      "stables"
+    ]
   }
 }

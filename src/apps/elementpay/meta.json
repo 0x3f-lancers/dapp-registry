@@ -24,8 +24,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Stablecoin payments and mobile-money off-ramps in Africa.",
-    "description": "ElementPay is a B2B stablecoin payments platform building cross-border rails for Africa. It offers USDC invoicing, crypto-to-mobile-money APIs, and compliant off-ramps that let businesses settle payments between stablecoins and local currencies across corridors such as Kenya, Nigeria, and Ghana. Using USDC over networks including Ethereum and Base, ElementPay connects on-chain value to Africa's mobile-money and banking systems, so companies can pay suppliers, staff, and partners quickly and cheaply without relying on slow correspondent banking. Positioned as agentic, API-first payment infrastructure, it targets fintechs, exporters, and enterprises that need reliable stablecoin settlement and local disbursement across emerging African markets.",
+    "short": "ElementPay is a B2B stablecoin payments platform connecting USDC to mobile money and banks across Africa.",
+    "description": "ElementPay is a B2B stablecoin payments platform building cross-border rails for Africa. It offers USDC invoicing, collections and payout APIs, and off-ramps that convert USDC to mobile money such as M-Pesa and local bank rails, along with USSD payment flows that work without internet and EUR and USD IBAN accounts for settlement. ElementPay uses USDC over networks including Base, Arbitrum and Starknet, connecting on-chain value to Africa's mobile-money and banking systems so businesses can pay staff, suppliers and partners quickly and cheaply. It serves fintechs, marketplaces, payroll platforms and exporters across markets like Kenya, Nigeria and Ghana.",
     "meta": "ElementPay provides B2B stablecoin payments and mobile-money off-ramps across Africa. Discover ElementPay and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "ElementPay - Neobanks - Lancers Web3 Explorer"
   },
@@ -34,7 +34,14 @@
     "twitter": "https://x.com/element_pay"
   },
   "relations": {
-    "alternatives": ["cedar-money", "juicyway", "verto"],
-    "related": ["bitnob", "nala"]
+    "alternatives": [
+      "cedar-money",
+      "juicyway",
+      "verto"
+    ],
+    "related": [
+      "bitnob",
+      "nala"
+    ]
   }
 }

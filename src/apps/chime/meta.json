@@ -15,9 +15,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "US consumer neobank with checking and cards.",
-    "description": "Chime, founded in 2013, is one of the largest consumer neobanks in the United States, serving millions of members with fee-free everyday banking delivered entirely through its mobile app. In partnership with regulated banks, Chime offers checking and high-yield savings accounts, a debit card, secured credit-builder cards, early direct deposit, automatic savings, and fee-free overdraft features such as SpotMe. The company targets everyday Americans underserved by traditional banks, earning most of its revenue from interchange rather than monthly fees or overdraft charges. By focusing on simple, low-cost accounts and cards at massive scale, Chime has become a defining example of the US consumer neobank model.",
-    "meta": "Chime is a leading US consumer neobank offering fee-free checking, savings, and cards. Discover Chime and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Chime is a leading US consumer neobank with fee-free checking, savings, a debit card and credit building.",
+    "description": "Chime, founded in 2013, is one of the largest consumer neobanks in the United States, serving millions of members through its mobile app rather than branches. Working with partner banks, it offers fee-free checking and high-yield savings accounts, a debit card, secured credit-builder cards, early direct deposit, automatic savings and fee-free overdraft through its SpotMe feature. Chime is built for everyday Americans underserved by traditional banks and earns most of its money from card interchange rather than monthly fees or overdraft charges. Its focus on simple, low-cost accounts at large scale made it a defining example of the US consumer neobank.",
+    "meta": "Chime is a leading US consumer neobank with fee-free checking, savings and cards. Discover Chime and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Chime - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -25,7 +25,14 @@
     "twitter": "https://x.com/Chime"
   },
   "relations": {
-    "alternatives": ["current", "varo-bank", "dave"],
-    "related": ["sofi", "moneylion"]
+    "alternatives": [
+      "current",
+      "varo-bank",
+      "dave"
+    ],
+    "related": [
+      "sofi",
+      "moneylion"
+    ]
   }
 }

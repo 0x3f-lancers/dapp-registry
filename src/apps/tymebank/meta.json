@@ -19,8 +19,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Digital bank serving consumers and businesses.",
-    "description": "TymeBank is a South African digital bank and one of the first in the country to reach profitability, serving millions of consumers and small businesses. It combines a fully digital app-based experience with a network of physical kiosks and retail partners where customers can open accounts and deposit cash, blending online convenience with in-person accessibility. TymeBank offers everyday transaction accounts, a debit card, high-interest savings 'GoalSave', and lending, targeting South Africans who are underserved or frustrated by traditional banks' fees. Part of the broader Tyme group that also operates GoTyme in the Philippines, it focuses on financial inclusion in emerging markets. By pairing low-cost digital banking with human-assisted onboarding, TymeBank has grown quickly among consumers and SMEs seeking affordable, accessible accounts.",
+    "short": "TymeBank is a South African digital bank with accounts, cards and savings, using an app and retail kiosks.",
+    "description": "TymeBank is a South African digital bank and one of the first in the country to reach profitability, serving millions of consumers and small businesses. It combines a fully digital app-based experience with a network of physical kiosks and retail partners where customers can open accounts and deposit cash, blending online convenience with in-person access. TymeBank offers everyday transaction accounts, a debit card, high-interest GoalSave savings and lending, targeting South Africans underserved or frustrated by traditional banks' fees. Part of the broader Tyme group that also runs GoTyme in the Philippines, it focuses on financial inclusion in emerging markets, growing quickly among consumers seeking affordable, accessible accounts.",
     "meta": "TymeBank is a South African digital bank for consumers and small businesses. Discover TymeBank and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "TymeBank - Neobanks - Lancers Web3 Explorer"
   },
@@ -29,7 +29,14 @@
     "twitter": "https://x.com/tymebankza"
   },
   "relations": {
-    "alternatives": ["kuda", "gotyme-bank", "moniepoint"],
-    "related": ["opay", "lenco"]
+    "alternatives": [
+      "kuda",
+      "gotyme-bank",
+      "moniepoint"
+    ],
+    "related": [
+      "opay",
+      "lenco"
+    ]
   }
 }

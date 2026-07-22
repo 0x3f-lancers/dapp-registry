@@ -24,9 +24,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Business transfers across ACH, wire, SWIFT, SEPA and stablecoins.",
-    "description": "Karsa is a stablecoin neobank built for people and businesses in emerging markets, letting them buy dollar-denominated stablecoins, save in US bank accounts, and move money across borders using both traditional and blockchain rails. For businesses, Karsa enables transfers across ACH, wire, SWIFT, SEPA, and stablecoins, so companies can pay and get paid globally without stitching together multiple providers. Peer-to-peer under the hood and powered by USDC over networks such as Ethereum and Solana, it aims to be a global, censorship-resistant account that still feels as simple as a normal banking app, and pairs balances with a Visa card for everyday spending. A Y Combinator and Circle partner, Karsa targets the more than 100 million people underserved by legacy cross-border banking.",
-    "meta": "Karsa is a stablecoin neobank for global dollar savings and cross-border transfers. Discover Karsa and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Karsa offers multi-currency business and personal accounts with cards and stablecoin transfers in emerging markets.",
+    "description": "Karsa is a fintech, backed by Y Combinator, that gives entrepreneurs and businesses in emerging markets multi-currency accounts, cards and cross-border payments. Users can hold balances in currencies including USD, EUR, GBP and the USDT stablecoin, receive money from platforms like Stripe, Shopify and Upwork, and send payouts to more than 80 countries over ACH, wire, SWIFT, SEPA and stablecoin rails. Karsa focuses on e-commerce resellers, freelancers and companies in markets such as Pakistan, Nigeria, Vietnam and Bangladesh that struggle to access global banking. It pairs traditional and stablecoin rails so customers can get paid and pay suppliers internationally.",
+    "meta": "Karsa offers multi-currency accounts, cards and stablecoin transfers in emerging markets. Discover Karsa and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Karsa - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -34,7 +34,14 @@
     "twitter": "https://x.com/Go_Karsa"
   },
   "relations": {
-    "alternatives": ["kontigo", "airtm", "fasset"],
-    "related": ["littio", "takenos"]
+    "alternatives": [
+      "kontigo",
+      "airtm",
+      "fasset"
+    ],
+    "related": [
+      "littio",
+      "takenos"
+    ]
   }
 }

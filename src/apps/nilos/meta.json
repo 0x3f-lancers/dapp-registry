@@ -27,16 +27,23 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Treasury/accounts platform for fiat, crypto and stablecoin business flows.",
-    "description": "Nilos is a business treasury and payments platform that unifies fiat, crypto, and stablecoin flows for companies operating across borders, especially into emerging markets. From one place, businesses can connect crypto wallets, bank accounts, and payment service providers to collect, hold, exchange, and pay using stablecoins such as USDC and USDT over networks like Ethereum, Polygon, and Tron alongside traditional currencies. Nilos handles treasury operations end to end — tracking incoming payments, reconciling money flows across crypto and fiat, and executing global payouts — so finance teams can manage everything from a single dashboard. Backed by venture funding, it targets internationally active companies that want the speed and reach of stablecoins with proper accounting, reconciliation, and compliance built in.",
-    "meta": "Nilos unifies fiat, crypto, and stablecoin treasury and payments for businesses. Discover Nilos and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Nilos is a B2B cross-border payments platform with multi-currency and stablecoin accounts across 120+ countries.",
+    "description": "Nilos is a business payments platform that helps companies collect, convert and pay out money across emerging and global markets through a single API. It offers multi-currency accounts for collections, global payments over local rails, foreign exchange, and stablecoin accounts, so businesses can move money between fiat and stablecoins such as USDC and USDT. Regulated in France, the Netherlands and Canada and reaching more than 120 countries, Nilos serves import-export merchants, global corporates managing subsidiary transfers, and fintechs and neobanks that want to add multi-currency and stablecoin payments. It handles treasury and reconciliation so finance teams can manage crypto and fiat flows in one place.",
+    "meta": "Nilos offers B2B multi-currency and stablecoin cross-border payments and treasury. Discover Nilos and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Nilos - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.nilos.io/"
   },
   "relations": {
-    "alternatives": ["orbital", "cedar-money", "caliza"],
-    "related": ["mural-pay", "dakota"]
+    "alternatives": [
+      "orbital",
+      "cedar-money",
+      "caliza"
+    ],
+    "related": [
+      "mural-pay",
+      "dakota"
+    ]
   }
 }

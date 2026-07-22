@@ -27,9 +27,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Digital dollar wallet with many add/withdraw methods and virtual cards.",
-    "description": "Airtm, founded in 2015, is a US-headquartered digital dollar platform serving individuals and businesses across Latin America and other emerging markets. It provides a dollar-denominated wallet backed by USDC, letting users add and withdraw funds through more than 500 local payment methods, hold balances in digital dollars, and spend via virtual cards. For businesses, Airtm powers mass payouts, payroll, and marketplace disbursements, converting between local currencies, fiat, and USDC on networks such as Ethereum and Polygon. By combining a peer-to-peer liquidity network with stablecoin rails, Airtm helps people in economies with currency instability preserve value and move money across borders quickly and at lower cost than traditional banking channels.",
-    "meta": "Airtm is a USDC-backed digital dollar wallet with 500+ payment methods and virtual cards. Discover Airtm and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Airtm is a digital dollar wallet and peer-to-peer exchange that lets people in emerging markets hold and send USDC.",
+    "description": "Airtm, founded in 2015 and based in Mexico City and San Francisco, runs a digital dollar wallet and peer-to-peer exchange for people across Latin America and other emerging markets. Users hold money as USDC, a dollar stablecoin, and add or withdraw funds through more than 500 local payment methods, which helps them protect savings from local currency devaluation. For businesses, Airtm handles mass payouts, payroll and marketplace disbursements, converting between local currencies and USDC. The Stellar Development Foundation has invested 15 million dollars to support its payouts.",
+    "meta": "Airtm is a USDC digital dollar wallet and peer-to-peer exchange for emerging markets. Discover Airtm and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Airtm - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -37,7 +37,14 @@
     "twitter": "https://x.com/airtminc"
   },
   "relations": {
-    "alternatives": ["arq-finance", "belo", "wise"],
-    "related": ["payoneer", "nala"]
+    "alternatives": [
+      "arq-finance",
+      "belo",
+      "wise"
+    ],
+    "related": [
+      "payoneer",
+      "nala"
+    ]
   }
 }

@@ -18,8 +18,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Account and card product distributed through retail networks.",
-    "description": "Nickel is a French financial service, owned by BNP Paribas, that offers a simple account and Mastercard opened not through a bank branch but at local tobacconists and retail partners across France and parts of Europe. Designed to be inclusive and accessible to everyone regardless of income or credit history, Nickel provides an IBAN, a payment card, cash deposits and withdrawals at partner shops, and clear flat-fee pricing without overdrafts or hidden charges. It targets people who are excluded from or frustrated by traditional banking, including those with irregular income or past banking issues. By distributing accounts through a physical retail network while keeping the experience app-based, Nickel blends everyday digital banking with real-world accessibility for underserved consumers.",
+    "short": "Nickel is a French account and Mastercard opened at tobacconists, built to be inclusive and low-cost.",
+    "description": "Nickel is a French financial service, owned by BNP Paribas, that offers a simple account and Mastercard opened not at a bank branch but at local tobacconists and retail partners across France and parts of Europe. Designed to be inclusive and accessible to everyone regardless of income or credit history, it provides an IBAN, a payment card, cash deposits and withdrawals at partner shops, and clear flat-fee pricing with no overdrafts or hidden charges. Nickel targets people excluded from or frustrated by traditional banking, including those with irregular income or past banking issues. By distributing accounts through a physical retail network while keeping the experience app-based, it blends everyday digital banking with real-world accessibility.",
     "meta": "Nickel offers an inclusive account and card opened at tobacconists across France. Discover Nickel and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Nickel - Neobanks - Lancers Web3 Explorer"
   },
@@ -28,7 +28,14 @@
     "twitter": "https://x.com/CompteNickel"
   },
   "relations": {
-    "alternatives": ["n26", "revolut", "bunq"],
-    "related": ["lunar", "vivid-money"]
+    "alternatives": [
+      "n26",
+      "revolut",
+      "bunq"
+    ],
+    "related": [
+      "lunar",
+      "vivid-money"
+    ]
   }
 }

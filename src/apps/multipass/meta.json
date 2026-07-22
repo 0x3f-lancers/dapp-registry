@@ -18,9 +18,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Multi-currency business accounts, FX and payments.",
-    "description": "MultiPass is a UK-based business financial platform that gives internationally trading companies a single multi-currency account to send, receive, and exchange money worldwide. Regulated as an electronic money institution, it offers dedicated IBANs, local receiving accounts in many currencies, competitive foreign exchange, corporate cards, and fast SWIFT and SEPA payments, with support for transactions across dozens of currencies. MultiPass targets e-commerce sellers, import-export firms, marketplaces, startups, and holding companies that need reliable cross-border payments without maintaining separate bank accounts in each market. By consolidating multi-currency accounts, FX, cards, and payments into one dashboard, it helps global businesses simplify collections, payouts, and reconciliation across their international operations.",
-    "meta": "MultiPass offers multi-currency business accounts, FX, cards, and global payments. Discover Multipass and other Neobanks on Lancers Web3 Explorer.",
+    "short": "MultiPass gives internationally trading businesses multi-currency accounts, virtual IBANs, FX and cards.",
+    "description": "MultiPass is a UK-based business financial platform that gives internationally trading companies multi-currency accounts to send, receive and exchange money worldwide. Regulated as an electronic money institution by the UK FCA, with a branch under the Dubai Financial Services Authority, it offers virtual IBANs, local receiving accounts, foreign exchange across more than 70 currencies, corporate cards, batch payments and open-banking APIs. MultiPass targets e-commerce sellers, import-export firms, agencies and startups that need reliable cross-border payments across 200-plus countries without maintaining separate bank accounts in each market. By consolidating accounts, FX, cards and payments, it simplifies collections, payouts and reconciliation for global businesses.",
+    "meta": "MultiPass offers multi-currency business accounts, virtual IBANs, FX and cards. Discover Multipass and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Multipass - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -28,7 +28,14 @@
     "twitter": "https://x.com/multipasseco"
   },
   "relations": {
-    "alternatives": ["airwallex", "currenxie", "statrys"],
-    "related": ["wise", "payset"]
+    "alternatives": [
+      "airwallex",
+      "currenxie",
+      "statrys"
+    ],
+    "related": [
+      "wise",
+      "payset"
+    ]
   }
 }

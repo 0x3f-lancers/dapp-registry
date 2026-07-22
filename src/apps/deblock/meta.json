@@ -26,9 +26,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Current account plus non-custodial wallet, card and exchange.",
-    "description": "Deblock, founded by four former Revolut executives, is a crypto-native neobank that pairs a regulated current account with a non-custodial crypto wallet in a single app. Users get an IBAN, a debit card, and instant transfers alongside self-custody of Bitcoin, Ethereum, Solana, and Base assets, with a built-in exchange to buy, sell, and swap more than 200 cryptocurrencies. Deblock bridges traditional payment rails and blockchains by integrating on- and off-ramps, swaps, and secure key handling directly into the banking experience, and even supports DeFi access via WalletConnect and Bitcoin over Lightning. Serving consumers in France, the UK, and beyond, it lets people keep fiat and self-custodied crypto side by side.",
-    "meta": "Deblock is a neobank pairing a current account with a non-custodial crypto wallet. Discover Deblock and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Deblock is a crypto-native neobank pairing a current account with a self-custody wallet in one app.",
+    "description": "Deblock, founded by four former Revolut executives, is a crypto-native neobank that pairs a regulated current account with a non-custodial crypto wallet in a single app. Users get an IBAN, a debit card and instant transfers alongside self-custody of Bitcoin, Ethereum, Solana and Base assets, with a built-in exchange to buy, sell and swap more than 200 cryptocurrencies. It connects everyday banking to on-chain finance with in-app on and off ramps, swaps and secure key handling, and supports Bitcoin over the Lightning Network. Serving consumers in France, the UK and beyond, Deblock lets people keep fiat and self-custodied crypto side by side.",
+    "meta": "Deblock is a neobank pairing a current account with a self-custody crypto wallet. Discover Deblock and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Deblock - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -36,7 +36,14 @@
     "twitter": "https://x.com/DeblockApp"
   },
   "relations": {
-    "alternatives": ["kast", "holyheld", "gnosis-pay"],
-    "related": ["oobit", "bleap"]
+    "alternatives": [
+      "kast",
+      "holyheld",
+      "gnosis-pay"
+    ],
+    "related": [
+      "oobit",
+      "bleap"
+    ]
   }
 }

@@ -26,8 +26,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Stablecoin card and white-label payments platform.",
-    "description": "Gnosis Pay is a self-custodial payments platform that connects on-chain stablecoins to the traditional card network, letting users spend directly from their own smart-contract wallet with a Visa debit card. Purchases settle by pulling stablecoins such as EURe and USDC from the user's account at the point of sale, so funds stay non-custodial until spent. Built on Gnosis Chain and expanding to the Celo ecosystem, Gnosis Pay also offers a white-label program that lets fintechs and DeFi projects launch their own branded stablecoin cards on top of its rails. Serving consumers and businesses across Europe and globally, it aims to make self-custodied stablecoins usable for everyday purchases anywhere cards are accepted.",
+    "short": "Gnosis Pay is a self-custodial stablecoin Visa card and white-label card platform bridging DeFi and payments.",
+    "description": "Gnosis Pay is a self-custodial payments network that connects on-chain stablecoins to the Visa card network, letting users spend directly from their own smart-contract wallet. Purchases pull stablecoins such as USDC, EURe and GBPe from the user's Safe account at checkout, so funds stay non-custodial until spent. Built on Gnosis Chain and reaching Ethereum and Polygon, it also offers a white-label program that lets wallets, neobanks and exchanges launch their own branded stablecoin cards. Serving consumers and businesses across Europe and other markets, Gnosis Pay has deployed tens of thousands of accounts and processed over 100 million dollars in volume.",
     "meta": "Gnosis Pay is a self-custodial stablecoin Visa card and white-label card platform. Discover Gnosis Pay and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Gnosis Pay - Neobanks - Lancers Web3 Explorer"
   },
@@ -36,7 +36,14 @@
     "twitter": "https://x.com/gnosispay"
   },
   "relations": {
-    "alternatives": ["kast", "holyheld", "redotpay"],
-    "related": ["bleap", "oobit"]
+    "alternatives": [
+      "kast",
+      "holyheld",
+      "redotpay"
+    ],
+    "related": [
+      "bleap",
+      "oobit"
+    ]
   }
 }

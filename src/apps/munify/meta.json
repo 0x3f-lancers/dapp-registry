@@ -26,9 +26,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Cross-border neobank/local payout product using USDC-powered rails.",
-    "description": "Munify is a stablecoin-powered cross-border neobank, backed by Y Combinator, built to help people and businesses in the Middle East and North Africa — starting with Egyptians abroad — move money globally with instant local payouts. It offers USD accounts, wallets, virtual cards, savings, and local cash-out across more than 80 countries, using USDC settlement over networks such as Ethereum and Base to bridge on-chain liquidity with local banking and payout partners. Through an integration with the Circle Payments Network, Munify enables USDC-powered payouts into markets like the Philippines, turning stablecoins into fast, low-cost cross-border rails. By wrapping this infrastructure in a familiar banking experience, Munify serves both consumers and businesses that need dependable global money movement in and out of emerging markets.",
-    "meta": "Munify is a stablecoin-powered cross-border neobank with USDC payouts for MENA. Discover Munify and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Munify is a cross-border neobank for MENA with USD accounts, a non-custodial wallet and USDC virtual cards.",
+    "description": "Munify is a stablecoin-powered cross-border neobank, backed by Y Combinator, built to help people and businesses in the Middle East and North Africa, starting with Egyptians abroad, move money globally. It offers multi-currency USD accounts, a non-custodial wallet, USD virtual cards backed by USDC, and fast global transfers, with EUR and GBP accounts and invoicing on the way. Munify uses USDC and stablecoin rails to bridge on-chain liquidity with local banking and payout partners, and has secured in-principle approval for a license from the Dubai Financial Services Authority. It serves remote workers, freelancers and businesses that need dependable global money movement, and raised a 4.5 million dollar seed round.",
+    "meta": "Munify is a stablecoin-powered cross-border neobank with USD accounts and USDC cards. Discover Munify and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Munify - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -36,7 +36,14 @@
     "twitter": "https://x.com/Munify_ai"
   },
   "relations": {
-    "alternatives": ["fasset", "kast", "juicyway"],
-    "related": ["cedar-money", "airtm"]
+    "alternatives": [
+      "fasset",
+      "kast",
+      "juicyway"
+    ],
+    "related": [
+      "cedar-money",
+      "airtm"
+    ]
   }
 }

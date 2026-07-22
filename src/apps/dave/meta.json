@@ -15,9 +15,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Consumer banking and cash advance app.",
-    "description": "Dave, founded in 2016, is a US consumer banking app best known for small, interest-free cash advances that help members cover expenses before payday and avoid overdraft fees. Alongside its ExtraCash advances, Dave offers a spending account and debit card, automated budgeting that predicts upcoming bills, savings features, and a side-gig marketplace to help users earn extra income. Working with a partner bank, it targets everyday Americans living paycheck to paycheck who are underserved by traditional banks and hurt by high overdraft charges. By combining short-term liquidity, banking, and financial-health tools in one app, Dave competes with other US neobanks focused on affordability and inclusion.",
-    "meta": "Dave is a US banking app with fee-free cash advances, a debit card, and budgeting. Discover Dave and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Dave is a US consumer banking app known for fee-free cash advances, a spending account, card and budgeting.",
+    "description": "Dave, founded in 2016, is a US consumer banking app best known for small, fee-free cash advances that help members cover expenses before payday and avoid overdraft charges. Alongside its ExtraCash advances, Dave offers a spending account and debit card, automated budgeting that predicts upcoming bills, savings features and a side-gig marketplace to help users earn extra income. It works with a partner bank and targets everyday Americans living paycheck to paycheck who are underserved by traditional banks. By combining short-term liquidity, banking and financial-health tools in one app, Dave competes with other US neobanks focused on affordability.",
+    "meta": "Dave is a US banking app with fee-free cash advances, a card and budgeting. Discover Dave and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Dave - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -25,7 +25,14 @@
     "twitter": "https://x.com/davebanking"
   },
   "relations": {
-    "alternatives": ["chime", "current", "varo-bank"],
-    "related": ["moneylion", "sofi"]
+    "alternatives": [
+      "chime",
+      "current",
+      "varo-bank"
+    ],
+    "related": [
+      "moneylion",
+      "sofi"
+    ]
   }
 }

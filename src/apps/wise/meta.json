@@ -21,8 +21,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Multi-currency account, global transfers and Wise Business.",
-    "description": "Wise, formerly TransferWise, is a global money-transfer and multi-currency account platform built to make international payments cheap and transparent using the real mid-market exchange rate. Individuals and businesses can hold and convert dozens of currencies, receive money with local account details in markets like the US, UK, EU, and Australia, spend worldwide with a debit card, and send fast, low-fee international transfers. Wise Business adds features for companies, including batch payments, accounting integrations, and access to its payments infrastructure via API, which other banks and fintechs also build on. Serving millions of customers and moving huge volumes across borders, Wise focuses squarely on transparent, low-cost cross-border money movement, competing with banks and other transfer providers by consistently undercutting hidden FX markups.",
+    "short": "Wise is a global multi-currency account and money-transfer platform using the mid-market exchange rate.",
+    "description": "Wise, formerly TransferWise and founded in 2011, is a global money-transfer and multi-currency account platform built to make international payments cheap and transparent using the real mid-market exchange rate. Individuals and businesses can hold and convert dozens of currencies, receive money with local account details in markets like the US, UK, EU and Australia, spend worldwide with a debit card, and send fast, low-fee international transfers. Wise Business adds features for companies, including batch payments, accounting integrations and API access to its payments infrastructure, which other banks and fintechs build on. Serving millions of customers and moving large volumes across borders, it focuses squarely on low-cost cross-border money movement.",
     "meta": "Wise offers multi-currency accounts and low-cost global transfers for people and business. Discover Wise and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Wise - Neobanks - Lancers Web3 Explorer"
   },
@@ -31,7 +31,14 @@
     "twitter": "https://x.com/Wise"
   },
   "relations": {
-    "alternatives": ["payoneer", "revolut", "paysend"],
-    "related": ["airwallex", "instarem"]
+    "alternatives": [
+      "payoneer",
+      "revolut",
+      "paysend"
+    ],
+    "related": [
+      "airwallex",
+      "instarem"
+    ]
   }
 }

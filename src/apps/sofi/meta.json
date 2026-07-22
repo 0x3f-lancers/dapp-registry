@@ -15,9 +15,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Consumer financial super app with banking, investing and lending.",
-    "description": "SoFi is a US consumer financial super app and chartered bank that brings banking, borrowing, investing, and financial planning into a single platform. Members get checking and high-yield savings accounts, a debit card, credit cards, and lending products including student loan refinancing, personal loans, and mortgages, alongside investing in stocks, ETFs, retirement accounts, and, in some periods, crypto. SoFi rounds this out with budgeting tools, career and financial education, and member perks, aiming to be the one app for a person's entire financial life. By cross-selling across banking, credit, and investing at national scale, SoFi competes with both traditional banks and other US neobanks, positioning itself as a full-service digital alternative for mainstream consumers.",
-    "meta": "SoFi is a US financial super app with banking, investing, and lending. Discover SoFi and other Neobanks on Lancers Web3 Explorer.",
+    "short": "SoFi is a US financial super app with banking, investing and lending under its own bank charter.",
+    "description": "SoFi is a US consumer financial super app and chartered bank that brings banking, borrowing, investing and financial planning into one platform. Members get checking and high-yield savings accounts, a debit card, credit cards, and lending products including student loan refinancing, personal loans and mortgages, alongside investing in stocks, ETFs, retirement accounts and, in some periods, crypto. SoFi rounds this out with budgeting tools, financial education and member perks, aiming to be the one app for a person's entire financial life. By cross-selling across banking, credit and investing at national scale, it competes with both traditional banks and other US neobanks as a full-service digital alternative.",
+    "meta": "SoFi is a US financial super app with banking, investing and lending. Discover SoFi and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "SoFi - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -25,7 +25,14 @@
     "twitter": "https://x.com/SoFi"
   },
   "relations": {
-    "alternatives": ["chime", "moneylion", "dave"],
-    "related": ["varo-bank", "current"]
+    "alternatives": [
+      "chime",
+      "moneylion",
+      "dave"
+    ],
+    "related": [
+      "varo-bank",
+      "current"
+    ]
   }
 }

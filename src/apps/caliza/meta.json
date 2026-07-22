@@ -24,16 +24,23 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Digital dollar accounts, wallets, payouts and stablecoin operations.",
-    "description": "Caliza is a US and Latin America focused financial infrastructure company that lets banks, fintechs, and businesses operate digital dollar accounts and settle cross-border payments in real time using stablecoins. Its platform provides named digital dollar accounts, wallets, and payout APIs backed by USDC, enabling instant transfers between the United States and Latin American markets such as Mexico and Brazil without the delays of correspondent banking. Companies use Caliza to hold dollar balances, run treasury and multi-currency operations, and disburse funds at scale, with USDC on networks including Ethereum and Polygon acting as the settlement rail. By combining compliant accounts with stablecoin settlement, Caliza aims to modernize how money moves across the Americas.",
-    "meta": "Caliza powers digital dollar accounts and real-time USDC settlement across the Americas. Discover Caliza and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Caliza is a B2B platform for USD digital dollar accounts and real-time cross-border payments using stablecoins.",
+    "description": "Caliza is a financial infrastructure company that lets businesses run US dollar accounts and settle cross-border payments in real time using stablecoins. It provides named digital dollar accounts with ACH and wire access, multi-currency business accounts with foreign exchange, and global payout rails in both fiat and stablecoins. Companies use Caliza for treasury, settlement and supply-chain finance across corridors linking the US, Latin America, Asia and Africa. Its customers include importers and exporters, marketplaces, remittance providers, payroll platforms and digital banks that want faster, cheaper settlement than correspondent banking.",
+    "meta": "Caliza offers USD digital dollar accounts and real-time stablecoin cross-border payments. Discover Caliza and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Caliza - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.caliza.com/"
   },
   "relations": {
-    "alternatives": ["cedar-money", "orbital", "nilos"],
-    "related": ["mural-pay", "airtm"]
+    "alternatives": [
+      "cedar-money",
+      "orbital",
+      "nilos"
+    ],
+    "related": [
+      "mural-pay",
+      "airtm"
+    ]
   }
 }

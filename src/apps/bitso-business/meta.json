@@ -26,9 +26,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Crypto/stablecoin business payments and cross-border infrastructure in LatAm.",
-    "description": "Bitso Business is the enterprise arm of Bitso, one of Latin America's largest crypto platforms, providing stablecoin-powered payments and cross-border infrastructure for companies across the region. It enables businesses to run cross-border and local payments, treasury, and professional trading using stablecoins, and issues its own fiat-backed tokens such as MXNB, a Mexican-peso stablecoin transactable on Arbitrum, Ethereum, and Avalanche. Through these rails, companies can move money between the US, Mexico, Brazil, Argentina, and other markets faster and more cheaply than through traditional correspondent banking. Serving fintechs, remittance firms, and enterprises, Bitso Business turns Bitso's crypto liquidity and licensing into practical B2B financial infrastructure, bridging on-chain stablecoins with local currencies and banking across Latin America.",
-    "meta": "Bitso Business provides stablecoin payments and cross-border infrastructure in LatAm. Discover Bitso Business and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Bitso Business provides stablecoin cross-border payments and treasury for companies across Latin America.",
+    "description": "Bitso Business is the enterprise arm of Bitso, one of Latin America's largest crypto platforms. It gives companies stablecoin-powered cross-border payments, local payments through Pix, SPEI and ACH, multi-currency accounts, treasury tools and professional trading. Bitso issues its own fiat-backed stablecoins, including the Mexican peso token MXNB and the Brazilian real token BRL1, and settles them on-chain across networks such as Ethereum, Arbitrum and Avalanche. It operates in Mexico, Brazil, Colombia, Argentina, Chile and the US, serving fintechs, remittance firms and exporters, with partners including Ripple and BVNK.",
+    "meta": "Bitso Business offers stablecoin cross-border payments and treasury across Latin America. Discover Bitso Business and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Bitso Business - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -36,7 +36,14 @@
     "twitter": "https://x.com/Bitso"
   },
   "relations": {
-    "alternatives": ["caliza", "cedar-money", "orbital"],
-    "related": ["mural-pay", "arq-finance"]
+    "alternatives": [
+      "caliza",
+      "cedar-money",
+      "orbital"
+    ],
+    "related": [
+      "mural-pay",
+      "arq-finance"
+    ]
   }
 }

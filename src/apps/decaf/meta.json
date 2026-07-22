@@ -24,9 +24,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Payments app for collecting card, bank and USDC payments with cash-out options.",
-    "description": "Decaf is a self-custody payments app built to bring stablecoins to consumers and merchants in emerging markets, with a strong focus on Latin America. Through a simple wallet on Solana, users can hold and spend USDC, send money across borders, and cash out to local bank accounts, while businesses can accept card, bank, and USDC payments via a point-of-sale system that settles in stablecoins. Decaf hides blockchain complexity behind an easy interface aimed at onboarding unbanked and underbanked users who need fast, low-cost dollar payments. By combining consumer wallets with merchant acceptance and off-ramps, Decaf positions Solana-based stablecoins as everyday money for people underserved by traditional banking.",
-    "meta": "Decaf is a self-custody app to send, spend, and accept USDC payments on Solana. Discover Decaf and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Decaf is a Solana-based payments app for accepting card, bank and USDC payments and cashing out locally.",
+    "description": "Decaf is a self-custody payments app built to bring stablecoins to consumers and merchants, with a strong focus on Latin America. Through shareable payment links and a simple wallet, users and businesses accept card, bank transfer and USDC payments across more than 180 countries, spend through a virtual Visa card, and cash out to local bank accounts or in cash. Decaf runs on Solana and hides blockchain complexity behind an easy interface aimed at remote workers, freelancers, creators and merchants who want an alternative to PayPal and Stripe. It pairs consumer wallets with merchant acceptance and low-cost payouts.",
+    "meta": "Decaf is a Solana app to accept card, bank and USDC payments and cash out locally. Discover Decaf and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Decaf - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -34,7 +34,14 @@
     "twitter": "https://x.com/Decaf_so"
   },
   "relations": {
-    "alternatives": ["airtm", "takenos", "kontigo"],
-    "related": ["belo", "spritz"]
+    "alternatives": [
+      "airtm",
+      "takenos",
+      "kontigo"
+    ],
+    "related": [
+      "belo",
+      "spritz"
+    ]
   }
 }

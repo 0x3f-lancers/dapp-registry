@@ -21,9 +21,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Multi-currency account, card and international payments platform.",
-    "description": "Paysera is a Lithuania-based fintech and one of the Baltics' best-known financial 'super apps,' offering multi-currency accounts, payments, and cards to consumers and businesses across Europe and beyond. Users get an IBAN, low-cost currency conversion, international transfers, a payment card, and features like bill splitting, event ticketing, and parcel lockers, while businesses can accept payments online and in store through Paysera Checkout. Regulated as an electronic money institution, Paysera focuses on affordable, transparent financial services for everyday people and small companies that want an alternative to traditional banks. By bundling accounts, cards, FX, and merchant tools into a single app, Paysera serves as a practical cross-border money platform for individuals and SMEs throughout Europe.",
-    "meta": "Paysera is a European multi-currency account, card, and payments super app. Discover Paysera and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Paysera is a European multi-currency account, card and payments super app based in Lithuania.",
+    "description": "Paysera is a Lithuania-based fintech and one of the Baltics' best-known financial super apps, offering multi-currency accounts, payments and cards to consumers and businesses across Europe and beyond. Users get an IBAN, low-cost currency conversion, international transfers, a payment card, and features like bill splitting, event ticketing and parcel lockers, while businesses can accept payments online and in store through Paysera Checkout. Regulated as an electronic money institution, it focuses on affordable, transparent financial services for everyday people and small companies that want an alternative to traditional banks. By bundling accounts, cards, FX and merchant tools into one app, Paysera serves as a practical cross-border money platform.",
+    "meta": "Paysera is a European multi-currency account, card and payments super app. Discover Paysera and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Paysera - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -31,7 +31,14 @@
     "twitter": "https://x.com/paysera"
   },
   "relations": {
-    "alternatives": ["wise", "revolut", "n26"],
-    "related": ["paysend", "multipass"]
+    "alternatives": [
+      "wise",
+      "revolut",
+      "n26"
+    ],
+    "related": [
+      "paysend",
+      "multipass"
+    ]
   }
 }

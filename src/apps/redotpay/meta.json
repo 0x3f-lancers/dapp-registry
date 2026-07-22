@@ -32,8 +32,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Crypto/stablecoin card, wallet and payout product.",
-    "description": "RedotPay is a Hong Kong-based crypto payments company that lets people spend stablecoins and crypto like cash at more than 130 million merchants through Visa cards. Users hold assets such as USDT, USDC, BTC, ETH, and SOL in the RedotPay wallet and spend directly via physical or virtual cards, with the platform converting crypto to fiat at the point of sale. Deposits are supported across networks including Bitcoin, Ethereum, Solana, Arbitrum, and Polygon, and RedotPay has added dedicated products like a Solana card for spending SOL-ecosystem tokens without bridging. Serving both consumers and businesses globally, RedotPay also offers payouts, positioning itself as an everyday crypto spending and cross-border payments product that bridges digital assets and the traditional card network.",
+    "short": "RedotPay is a Hong Kong crypto card and wallet for spending stablecoins and crypto at 130M+ merchants.",
+    "description": "RedotPay is a Hong Kong-based crypto payments company that lets people spend stablecoins and crypto like cash at more than 130 million merchants through Visa cards. Users hold assets such as USDT, USDC, BTC, ETH and SOL in the RedotPay wallet and spend directly with physical or virtual cards, while the platform converts crypto to fiat at the point of sale. Deposits are supported across networks including Bitcoin, Ethereum, Solana, Arbitrum and Polygon, and RedotPay has added products like a Solana card for spending SOL-ecosystem tokens without bridging. Serving both consumers and businesses globally, it also offers payouts, working as an everyday crypto spending and cross-border payments product.",
     "meta": "RedotPay lets users spend stablecoins and crypto via Visa cards at 130M+ merchants. Discover RedotPay and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "RedotPay - Neobanks - Lancers Web3 Explorer"
   },
@@ -42,7 +42,14 @@
     "twitter": "https://x.com/RedotPay"
   },
   "relations": {
-    "alternatives": ["kast", "oobit", "gnosis-pay"],
-    "related": ["bleap", "stables"]
+    "alternatives": [
+      "kast",
+      "oobit",
+      "gnosis-pay"
+    ],
+    "related": [
+      "bleap",
+      "stables"
+    ]
   }
 }

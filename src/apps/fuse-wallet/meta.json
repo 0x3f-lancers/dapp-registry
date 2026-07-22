@@ -23,9 +23,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Stablecoin-powered cash management and card product.",
-    "description": "Fuse is a stablecoin-powered money app that lets consumers hold, earn on, and spend digital dollars without dealing with the usual complexity of crypto. Built on Solana, the self-custodial wallet uses a multi-key design with no seed phrase, offers integrated stablecoin yield, and pairs with Fuse Pay — a prepaid Visa card that works directly with stablecoins so users can spend at merchants without manually converting back to fiat. Aimed at users in the US and globally, Fuse positions stablecoins as an upgraded everyday cash account: dollar-denominated balances that earn yield, move instantly across borders, and can be spent anywhere Visa is accepted. Its goal is to make stablecoin cash management feel like a familiar neobank experience.",
-    "meta": "Fuse is a Solana-based stablecoin wallet with yield and a spending Visa card. Discover Fuse Wallet and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Fuse is a Solana-based personal finance app to hold, earn yield on and spend stablecoins with a Visa card.",
+    "description": "Fuse is a stablecoin money app, built by Squads Labs on Solana, that lets people hold, earn yield on and spend digital dollars without the usual complexity of crypto. Its self-custodial smart accounts have no seed phrase, offer built-in stablecoin yield and staking, and support zero-fee swaps through Jupiter. Fuse Card, a Visa debit card issued via Lead Bank and Bridge, lets users spend stablecoins directly at merchants without manually converting to fiat. Available in more than 18 countries, Fuse treats stablecoins as an upgraded cash account: dollar balances that earn yield, move instantly and can be spent anywhere Visa is accepted.",
+    "meta": "Fuse is a Solana app to hold, earn on and spend stablecoins with a Visa card. Discover Fuse Wallet and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Fuse Wallet - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -33,7 +33,14 @@
     "twitter": "https://x.com/fusewallet"
   },
   "relations": {
-    "alternatives": ["holyheld", "kast", "gnosis-pay"],
-    "related": ["oobit", "stables"]
+    "alternatives": [
+      "holyheld",
+      "kast",
+      "gnosis-pay"
+    ],
+    "related": [
+      "oobit",
+      "stables"
+    ]
   }
 }

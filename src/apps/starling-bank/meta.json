@@ -21,8 +21,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Digital bank with personal and business accounts.",
-    "description": "Starling Bank is a UK digital bank, founded by Anne Boden, that offers app-based personal, joint, and business accounts backed by a full UK banking licence. It provides current accounts with a debit card, savings 'Spaces', real-time spending notifications, overdrafts, loans, and well-regarded business banking for sole traders and small companies, along with a marketplace of integrated third-party financial products. Unlike some challengers, Starling has been notable for profitability and also licenses its technology to other banks through its Engine software arm. Serving millions of customers, Starling focuses on transparent, feature-rich everyday banking for consumers and SMEs, competing with both traditional UK banks and other digital challengers like Monzo and Revolut on service, tools, and reliability.",
+    "short": "Starling Bank is a licensed UK digital bank with personal and business accounts, cards and savings.",
+    "description": "Starling Bank is a UK digital bank, founded by Anne Boden, that offers app-based personal, joint and business accounts backed by a full UK banking licence. It provides current accounts with a debit card, savings Spaces, real-time spending notifications, overdrafts, loans and well-regarded business banking for sole traders and small companies, along with a marketplace of integrated third-party products. Unlike some challengers, Starling has been notable for profitability, and it also licenses its technology to other banks through its Engine software arm. Serving millions of customers, it focuses on transparent, feature-rich everyday banking for consumers and SMEs, competing with both traditional UK banks and other digital challengers on service and tools.",
     "meta": "Starling Bank is a UK digital bank with personal and business accounts and cards. Discover Starling Bank and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Starling Bank - Neobanks - Lancers Web3 Explorer"
   },
@@ -31,7 +31,14 @@
     "twitter": "https://x.com/StarlingBank"
   },
   "relations": {
-    "alternatives": ["monzo", "revolut", "n26"],
-    "related": ["bunq", "lunar"]
+    "alternatives": [
+      "monzo",
+      "revolut",
+      "n26"
+    ],
+    "related": [
+      "bunq",
+      "lunar"
+    ]
   }
 }

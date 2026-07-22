@@ -18,9 +18,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Global business accounts, FX, payments, cards and embedded finance.",
-    "description": "Airwallex, founded in 2015 in Melbourne and now operating globally from hubs in Australia and Singapore, is a business financial platform built for companies that move money across borders. It offers multi-currency business accounts, local collection accounts in dozens of currencies, competitive foreign-exchange, global pay-ins and payouts, corporate and virtual cards, and expense management. Through its embedded finance and payments APIs, Airwallex also lets platforms and marketplaces offer accounts, cards, and cross-border transfers to their own customers. By replacing a patchwork of correspondent banks with its own global network, Airwallex reduces the cost, delay, and reconciliation complexity of international business payments for startups and enterprises alike.",
-    "meta": "Airwallex offers multi-currency business accounts, FX, cards, and cross-border payments. Discover Airwallex and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Airwallex is a global business finance platform with multi-currency accounts, cards, FX and cross-border payments.",
+    "description": "Airwallex, founded in 2015 in Melbourne, is a business finance platform that helps companies move and manage money across borders. From one account it offers multi-currency business accounts, local receiving accounts, foreign exchange, global pay-ins and payouts, corporate and virtual cards, expense management and billing. Through its payments APIs, other platforms can embed accounts, cards and transfers for their own customers. Airwallex serves more than 200,000 businesses, including Shein, Qantas and Canva, and processes over 287 billion dollars in payments a year across more than 200 countries.",
+    "meta": "Airwallex offers multi-currency business accounts, cards, FX and cross-border payments. Discover Airwallex and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Airwallex - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -29,7 +29,14 @@
     "docs": "https://www.airwallex.com/docs"
   },
   "relations": {
-    "alternatives": ["wise", "payoneer", "aspire"],
-    "related": ["brex", "qonto"]
+    "alternatives": [
+      "wise",
+      "payoneer",
+      "aspire"
+    ],
+    "related": [
+      "brex",
+      "qonto"
+    ]
   }
 }

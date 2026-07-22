@@ -20,9 +20,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "African remittance and payments company with consumer and business rails.",
-    "description": "NALA is an African-focused remittance and payments company that helps people in the diaspora send money home and lets businesses move money across the continent. Its consumer app enables fast, low-cost transfers from the UK, US, and Europe to bank accounts and mobile-money wallets across Tanzania, Kenya, Nigeria, Ghana, and other African markets, with transparent FX and support for local payment methods. Beyond consumer remittances, NALA is building Rafiki, its own payment infrastructure, to power reliable business and cross-border payment rails on the continent. By combining a trusted money-transfer app with underlying payments infrastructure, NALA aims to make sending and receiving money in Africa as seamless as anywhere else, serving both individual senders and businesses.",
-    "meta": "NALA is an African remittance app and payments platform for consumers and businesses. Discover NALA and other Neobanks on Lancers Web3 Explorer.",
+    "short": "NALA is an African-focused remittance app and multi-currency account for diaspora and cross-border payments.",
+    "description": "NALA is a global multi-currency account and remittance app focused on Africa and other emerging markets, helping people in the diaspora send money home and letting businesses move money across the continent. Its consumer app enables fast, low-cost transfers from the UK, US, Europe and Asia to bank accounts and mobile-money wallets across Tanzania, Kenya, Nigeria, Ghana and beyond, with transparent rates. Beyond consumer remittances, NALA runs Rafiki, its own payments infrastructure that powers business payouts and collections across more than 35 countries. Backed by Y Combinator and named to the Forbes Fintech 50, it has more than a million users.",
+    "meta": "NALA is an African remittance app and payments platform for people and businesses. Discover NALA and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "NALA - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -30,7 +30,14 @@
     "twitter": "https://x.com/NALAmoney"
   },
   "relations": {
-    "alternatives": ["lemfi", "transfergo", "grey"],
-    "related": ["wise", "bitnob"]
+    "alternatives": [
+      "lemfi",
+      "transfergo",
+      "grey"
+    ],
+    "related": [
+      "wise",
+      "bitnob"
+    ]
   }
 }

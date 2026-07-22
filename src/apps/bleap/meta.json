@@ -32,9 +32,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Self-custodial money app with stablecoin payments and Mastercard.",
-    "description": "Bleap, founded by former Revolut employees, is a self-custodial money app that lets users hold and spend stablecoins directly from their own smart wallet. Through a partnership with Mastercard, its non-custodial debit card converts stablecoins such as USDC, USDT, USDA, and EURA to fiat automatically at the point of sale, so people can pay anywhere while keeping funds on-chain. The smart wallet is deployed on Arbitrum, and Bleap's on/off-ramp and bridging services extend across Ethereum, Polygon, Base, Optimism, BNB Chain, Solana, and Bitcoin. Aimed at consumers in Europe and globally, Bleap blends a familiar neobank experience — cards, cashback, and savings yield — with DeFi rails, positioning stablecoins as everyday spending money.",
-    "meta": "Bleap is a self-custodial app to spend stablecoins via a Mastercard debit card. Discover Bleap and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Bleap is a self-custodial money app for holding and spending stablecoins through a Mastercard debit card.",
+    "description": "Bleap, founded by former Revolut employees, is a self-custodial money app based in Europe that lets people hold and spend stablecoins straight from their own wallet. Through a Mastercard debit card it converts stablecoins such as USDC and USDT to fiat at checkout, so users can pay anywhere while their funds stay on-chain. The app also offers crypto trading, savings with yield, cashback and global transfers. The wallet is deployed on Arbitrum, and its on and off ramps reach networks including Ethereum, Polygon, Base, Optimism, BNB Chain, Solana and Bitcoin. Bleap is backed by investors such as Maven 11 and Ethereal Ventures.",
+    "meta": "Bleap is a self-custodial app to hold and spend stablecoins with a Mastercard card. Discover Bleap and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Bleap - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -43,7 +43,14 @@
     "telegram": "https://t.me/+x9IHkcVqcxcyNjVk"
   },
   "relations": {
-    "alternatives": ["gnosis-pay", "kast", "redotpay"],
-    "related": ["oobit", "stables"]
+    "alternatives": [
+      "gnosis-pay",
+      "kast",
+      "redotpay"
+    ],
+    "related": [
+      "oobit",
+      "stables"
+    ]
   }
 }

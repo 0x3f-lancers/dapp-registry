@@ -24,8 +24,8 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Cross-border business accounts, FX and bulk payouts.",
-    "description": "Cedar Money, founded in 2022, is a cross-border payments company that uses stablecoins to move money between developed and emerging markets, with a strong focus on African corridors. It gives businesses, fintechs, and exporters virtual accounts, competitive foreign exchange, and bulk payout tools wrapped in a familiar fiat interface, while settling on the backend over blockchain networks such as Ethereum and Tron. With T+1 settlement, stablecoin-to-fiat off-ramps, and compliance built in, Cedar Money helps companies avoid the delays, high fees, and banking restrictions of traditional correspondent networks. Backed by a seed round led by QED Investors, it positions stablecoins as invisible infrastructure behind reliable international B2B payments.",
+    "short": "Cedar Money moves cross-border B2B payments using stablecoins, with a focus on emerging and African markets.",
+    "description": "Cedar Money is a cross-border payments company that uses stablecoins to move money between developed and emerging markets, with a strong focus on Africa. It lets businesses send and collect payments across more than 190 countries, manage foreign exchange and hold funds through a familiar interface, while stablecoins handle settlement in the background so customers never hold digital assets themselves. Cedar reports processing more than a billion dollars a year for exporters, importers and fintechs in corridors covering Nigeria, Kenya, South Africa, Ghana and Togo. It raised 9.9 million dollars in a round led by QED Investors.",
     "meta": "Cedar Money enables cross-border B2B payments using stablecoins into emerging markets. Discover Cedar Money and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Cedar Money - Neobanks - Lancers Web3 Explorer"
   },
@@ -34,7 +34,14 @@
     "twitter": "https://x.com/cedar_money"
   },
   "relations": {
-    "alternatives": ["caliza", "orbital", "nilos"],
-    "related": ["mural-pay", "verto"]
+    "alternatives": [
+      "caliza",
+      "orbital",
+      "nilos"
+    ],
+    "related": [
+      "mural-pay",
+      "verto"
+    ]
   }
 }

@@ -23,9 +23,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Digital-dollar savings and spending app.",
-    "description": "Cenoa is a borderless super-wallet that gives people in Turkey and other emerging markets access to digital dollars as a bank alternative. Through a non-custodial blockchain wallet, users can convert local currency into the USDC stablecoin, save and earn yield on dollar balances, and send or receive stablecoin payments across borders. Cenoa supports receiving USDC and USDT over networks including Ethereum and Polygon, letting users move value globally at low cost while holding a stable store of value against local currency depreciation. Designed for consumers rather than crypto traders, Cenoa hides blockchain complexity behind a simple savings-and-spending experience aimed at protecting and growing everyday money.",
-    "meta": "Cenoa is a non-custodial super-wallet for digital dollar savings in emerging markets. Discover Cenoa and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Cenoa gives freelancers in emerging markets US and EU accounts plus digital dollar balances to get paid globally.",
+    "description": "Cenoa is a fintech app for freelancers, remote workers and e-exporters in emerging markets such as Turkey, Egypt, Pakistan and Nigeria. It opens free US, EU and UK bank accounts through Stripe's Bridge infrastructure so users can receive international payments with no fees, then hold balances as USDC or USDT digital dollars, convert to local currency, send peer-to-peer payments and earn yield. By pairing real bank accounts with stablecoin balances, Cenoa helps people who earn from abroad avoid high transfer fees and protect savings from local currency swings. It raised 7 million dollars in seed funding led by Quiet Capital and Underscore VC.",
+    "meta": "Cenoa gives freelancers in emerging markets US/EU accounts and digital dollar balances. Discover Cenoa and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Cenoa - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -33,7 +33,14 @@
     "twitter": "https://x.com/cenoaapp"
   },
   "relations": {
-    "alternatives": ["airtm", "littio", "takenos"],
-    "related": ["fasset", "redotpay"]
+    "alternatives": [
+      "airtm",
+      "littio",
+      "takenos"
+    ],
+    "related": [
+      "fasset",
+      "redotpay"
+    ]
   }
 }

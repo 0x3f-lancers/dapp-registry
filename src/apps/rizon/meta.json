@@ -24,16 +24,23 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Stablecoin-first dollar banking alternative with cards.",
-    "description": "Rizon is a stablecoin-first dollar banking app that gives people anywhere in the world a way to hold, spend, and move digital dollars. A Circle partner, it lets users store value in USDC, earn on balances, send money across borders, and spend with a card that converts stablecoins to fiat at the point of sale, using networks such as Ethereum and Solana under the hood. Rizon targets consumers in markets where access to stable US dollars and reliable banking is limited, wrapping stablecoin infrastructure in a simple, familiar mobile banking experience rather than a crypto-trading interface. By making digital dollars easy to save and spend globally, Rizon positions itself among the new wave of stablecoin-powered neobanks focused on dollar access for everyday users.",
-    "meta": "Rizon is a stablecoin-first dollar banking app with a card for global users. Discover Rizon and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Rizon is a stablecoin-powered neobank to save, send, spend and invest in US dollars with a Visa card.",
+    "description": "Rizon is a stablecoin-powered neobank that lets people anywhere save, send, spend and invest in US dollars. A Circle partner, it gives users a USD stablecoin account, a Visa Platinum card, EUR accounts with SEPA access, US stock investing and a RizPoints rewards program. Users can fund the account through ACH, SEPA, cards, Apple Pay and Google Pay or by depositing stablecoins directly across several blockchain networks, then spend with a card that converts stablecoins to fiat at checkout. Rizon targets remittance senders, freelancers, creators and digital nomads in emerging markets who want dependable dollar access and borderless spending built on stablecoins.",
+    "meta": "Rizon is a stablecoin neobank to save, send, spend and invest in dollars with a card. Discover Rizon and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Rizon - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.getrizon.com/"
   },
   "relations": {
-    "alternatives": ["kast", "karsa", "fasset"],
-    "related": ["airtm", "stables"]
+    "alternatives": [
+      "kast",
+      "karsa",
+      "fasset"
+    ],
+    "related": [
+      "airtm",
+      "stables"
+    ]
   }
 }

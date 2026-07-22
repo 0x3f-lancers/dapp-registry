@@ -18,9 +18,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Digital banking and expense platform for African businesses.",
-    "description": "Lenco is a pan-African digital bank built for the continent's tens of millions of businesses, combining business banking with expense management in one platform. From its base in Nigeria, it offers business current accounts, physical and virtual cards, sub-accounts, team spend controls, invoicing, and bulk payments, helping startups and SMEs run their finances without the friction of traditional African banks. A Y Combinator company, Lenco focuses on fast onboarding, multi-user access for finance teams, and tools that make it easy to collect payments, pay vendors, and track spend across an organization. By tailoring accounts, cards, and expense workflows to African business realities, Lenco aims to be the primary banking platform for the region's growing small and midsize companies.",
-    "meta": "Lenco is a pan-African digital bank with business accounts, cards, and expense tools. Discover Lenco and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Lenco is a pan-African digital bank with business accounts, cards, sub-accounts and expense management.",
+    "description": "Lenco is a pan-African digital bank built for the continent's businesses, combining business banking with expense management in one platform. From its base in Nigeria it offers business current accounts, physical and virtual cards, sub-accounts, team spend controls, invoicing and bulk payments, helping startups and SMEs run their finances without the friction of traditional African banks. A Y Combinator company, Lenco focuses on fast onboarding, multi-user access for finance teams, and tools that make it easy to collect payments, pay vendors and track spend across an organization. It has become a go-to banking platform for the region's growing small and midsize companies.",
+    "meta": "Lenco is a pan-African digital bank with business accounts, cards and expense tools. Discover Lenco and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Lenco - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -28,7 +28,14 @@
     "twitter": "https://x.com/LencoHQ"
   },
   "relations": {
-    "alternatives": ["kuda", "opay", "moniepoint"],
-    "related": ["grey", "juicyway"]
+    "alternatives": [
+      "kuda",
+      "opay",
+      "moniepoint"
+    ],
+    "related": [
+      "grey",
+      "juicyway"
+    ]
   }
 }
