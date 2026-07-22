@@ -7,7 +7,9 @@
     "Business Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Solana"
+  ],
   "tags": [
     "Neobanks",
     "Business Neobanks",
@@ -29,12 +31,9 @@
   },
   "relations": {
     "alternatives": [
-      "mercury",
-      "ramp-financial",
-      "rho"
+      "ramp-financial"
     ],
     "related": [
-      "bluevine",
       "meow"
     ]
   }

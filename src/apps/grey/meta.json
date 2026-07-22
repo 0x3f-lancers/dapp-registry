@@ -8,7 +8,10 @@
     "Cross-border Neobanks",
     "Stablecoin Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "BNB Chain",
+    "Solana"
+  ],
   "tags": [
     "Neobanks",
     "Consumer Neobanks",
@@ -22,9 +25,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Grey gives Africans and freelancers foreign currency accounts, virtual cards and FX to get paid globally.",
-    "description": "Grey, formerly Aboki Africa and backed by Y Combinator, is a cross-border money platform for Africans, freelancers and remote workers who earn or spend in foreign currencies. It gives users foreign accounts in USD, GBP and EUR to receive international payments, real-time currency exchange, fast transfers and virtual Visa cards for online spending, along with bill payments and a business product for African startups. Licensed in Canada and the US, Grey helps people in Nigeria, Kenya, Ghana and beyond get paid from abroad and manage international money in one app, competing with other diaspora-focused fintechs on rates and payout speed.",
-    "meta": "Grey offers foreign accounts, virtual cards and FX for Africans and freelancers. Discover Grey and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Grey gives Africans and freelancers foreign currency accounts, USDC transfers, virtual cards and FX to get paid globally.",
+    "description": "Grey, formerly Aboki Africa and backed by Y Combinator, is a cross-border money platform for Africans, freelancers and remote workers who earn or spend in foreign currencies. It gives users foreign accounts in USD, GBP and EUR to receive international payments, real-time currency exchange, fast transfers and virtual Visa cards for online spending, along with bill payments and a business product for African startups. Grey also supports USDC transfers, with official support material listing Solana and BNB Smart Chain addresses for deposits and payouts. Licensed in Canada and the US, Grey helps people in Nigeria, Kenya, Ghana and beyond get paid from abroad and manage international money in one app.",
+    "meta": "Grey offers foreign accounts, USDC transfers, virtual cards and FX for Africans and freelancers. Discover Grey and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Grey - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -34,8 +37,7 @@
   "relations": {
     "alternatives": [
       "lemfi",
-      "raenest",
-      "verto"
+      "raenest"
     ],
     "related": [
       "nala",

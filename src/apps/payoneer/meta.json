@@ -8,7 +8,9 @@
     "Consumer Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Multichain"
+  ],
   "tags": [
     "Neobanks",
     "Business Neobanks",
@@ -32,13 +34,9 @@
   },
   "relations": {
     "alternatives": [
-      "wise",
       "airwallex",
       "paysend"
     ],
-    "related": [
-      "instarem",
-      "worldfirst"
-    ]
+    "related": []
   }
 }

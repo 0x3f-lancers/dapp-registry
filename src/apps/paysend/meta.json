@@ -8,7 +8,9 @@
     "Consumer Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Multichain"
+  ],
   "tags": [
     "Neobanks",
     "Business Neobanks",
@@ -31,14 +33,9 @@
     "twitter": "https://x.com/Paysend"
   },
   "relations": {
-    "alternatives": [
-      "wise",
-      "transfergo",
-      "instarem"
-    ],
+    "alternatives": [],
     "related": [
-      "payoneer",
-      "paysera"
+      "payoneer"
     ]
   }
 }

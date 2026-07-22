@@ -6,7 +6,11 @@
   "subcategory": [
     "Consumer Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana"
+  ],
   "tags": [
     "Neobanks",
     "Consumer Neobanks",
@@ -16,7 +20,7 @@
   "pricing": "",
   "content": {
     "short": "SoFi is a US financial super app with banking, investing and lending under its own bank charter.",
-    "description": "SoFi is a US consumer financial super app and chartered bank that brings banking, borrowing, investing and financial planning into one platform. Members get checking and high-yield savings accounts, a debit card, credit cards, and lending products including student loan refinancing, personal loans and mortgages, alongside investing in stocks, ETFs, retirement accounts and, in some periods, crypto. SoFi rounds this out with budgeting tools, financial education and member perks, aiming to be the one app for a person's entire financial life. By cross-selling across banking, credit and investing at national scale, it competes with both traditional banks and other US neobanks as a full-service digital alternative.",
+    "description": "SoFi is a US consumer financial super app and chartered bank that brings banking, borrowing, investing and financial planning into one platform. Members get checking and high-yield savings accounts, a debit card, credit cards, and lending products including student loan refinancing, personal loans and mortgages, alongside investing in stocks, ETFs, retirement accounts and crypto. SoFi rounds this out with budgeting tools, financial education and member perks, aiming to be the one app for a person's entire financial life. By cross-selling across banking, credit and investing at national scale, it competes with both traditional banks and other US neobanks as a full-service digital alternative.",
     "meta": "SoFi is a US financial super app with banking, investing and lending. Discover SoFi and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "SoFi - Neobanks - Lancers Web3 Explorer"
   },
@@ -25,14 +29,7 @@
     "twitter": "https://x.com/SoFi"
   },
   "relations": {
-    "alternatives": [
-      "chime",
-      "moneylion",
-      "dave"
-    ],
-    "related": [
-      "varo-bank",
-      "current"
-    ]
+    "alternatives": [],
+    "related": []
   }
 }

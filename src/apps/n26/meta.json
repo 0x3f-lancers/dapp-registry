@@ -8,7 +8,9 @@
     "Consumer Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Multichain"
+  ],
   "tags": [
     "Neobanks",
     "Business Neobanks",
@@ -33,12 +35,10 @@
   "relations": {
     "alternatives": [
       "revolut",
-      "monzo",
       "bunq"
     ],
     "related": [
-      "vivid-money",
-      "lunar"
+      "vivid-money"
     ]
   }
 }

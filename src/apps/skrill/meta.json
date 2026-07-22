@@ -8,7 +8,11 @@
     "Cross-border Neobanks",
     "Stablecoin Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Arbitrum"
+  ],
   "tags": [
     "Neobanks",
     "Consumer Neobanks",
@@ -32,9 +36,7 @@
   },
   "relations": {
     "alternatives": [
-      "paysend",
-      "wise",
-      "paysera"
+      "paysend"
     ],
     "related": [
       "payoneer",

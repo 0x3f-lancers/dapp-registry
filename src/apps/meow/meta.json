@@ -7,7 +7,12 @@
     "Business Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Arbitrum",
+    "Base",
+    "Ethereum",
+    "Solana"
+  ],
   "tags": [
     "Neobanks",
     "Business Neobanks",
@@ -19,7 +24,7 @@
   "pricing": "",
   "content": {
     "short": "Meow is a US business banking platform with treasury yield, corporate cards and USDC and USDT payment rails.",
-    "description": "Meow is a US business banking platform focused on helping companies earn more on their cash while running everyday finance. It offers business checking with no wire or ACH fees, a Commercial Paper Account paying yield close to 4 percent, corporate cards with cashback, invoicing, spend management, international payments and crypto rails using USDC and USDT. Meow leans into AI-native businesses, letting agents open and manage accounts through tools like Claude or ChatGPT, and it supports more than 50 currencies across many regions. Banking services are provided by partner banks including Cross River and Grasshopper, giving finance teams a place to make idle cash work while managing spend.",
+    "description": "Meow is a US business banking platform for global teams and AI-native companies that want banking, treasury and stablecoin payments in one place. It offers business accounts, corporate cards, invoicing, spend management, international payments and USDC and USDT rails across supported blockchains, while also giving finance teams ways to put idle cash to work. Meow now leans heavily into software-driven operations, including workflows where AI agents can help open accounts and run day-to-day finance tasks. Banking services are delivered through partner institutions, giving companies a modern alternative to stitching together a bank, treasury tool and crypto payment provider.",
     "meta": "Meow offers business banking with treasury yield, corporate cards and crypto rails. Discover Meow and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Meow - Neobanks - Lancers Web3 Explorer"
   },
@@ -29,13 +34,10 @@
   },
   "relations": {
     "alternatives": [
-      "mercury",
-      "brex",
-      "rho"
+      "brex"
     ],
     "related": [
-      "dakota",
-      "arc"
+      "dakota"
     ]
   }
 }

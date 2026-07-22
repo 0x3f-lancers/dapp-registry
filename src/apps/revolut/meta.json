@@ -1,7 +1,7 @@
 {
   "slug": "revolut",
   "name": "Revolut",
-  "logoUrl": "https://unavatar.io/x/RevolutApp",
+  "logoUrl": "https://unavatar.io/x/Revolut",
   "category": "Neobanks",
   "subcategory": [
     "Business Neobanks",
@@ -37,17 +37,15 @@
   },
   "links": {
     "website": "https://www.revolut.com/",
-    "twitter": "https://x.com/RevolutApp"
+    "twitter": "https://x.com/Revolut"
   },
   "relations": {
     "alternatives": [
       "n26",
-      "monzo",
       "bunq"
     ],
     "related": [
-      "vivid-money",
-      "wise"
+      "vivid-money"
     ]
   }
 }

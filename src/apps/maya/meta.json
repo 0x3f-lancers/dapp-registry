@@ -7,7 +7,9 @@
     "Consumer Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Multichain"
+  ],
   "tags": [
     "Neobanks",
     "Consumer Neobanks",
@@ -29,13 +31,8 @@
     "twitter": "https://x.com/mayaofficialph"
   },
   "relations": {
-    "alternatives": [
-      "gotyme-bank",
-      "tonik",
-      "kakaobank"
-    ],
+    "alternatives": [],
     "related": [
-      "jenius",
       "nubank"
     ]
   }

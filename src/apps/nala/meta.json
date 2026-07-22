@@ -8,7 +8,9 @@
     "Consumer Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Multichain"
+  ],
   "tags": [
     "Neobanks",
     "Business Neobanks",
@@ -32,11 +34,9 @@
   "relations": {
     "alternatives": [
       "lemfi",
-      "transfergo",
       "grey"
     ],
     "related": [
-      "wise",
       "bitnob"
     ]
   }

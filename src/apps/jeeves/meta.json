@@ -7,7 +7,9 @@
     "Business Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Multichain"
+  ],
   "tags": [
     "Neobanks",
     "Business Neobanks",
@@ -18,9 +20,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Jeeves is a global business finance platform with corporate cards, expense management and cross-border payments.",
-    "description": "Jeeves is a global business finance platform that gives startups and growing companies corporate cards, expense management, accounts payable and cross-border payments from one dashboard. Built to work across many countries and currencies, it lets businesses issue physical and virtual cards, pay vendors and bills internationally, earn cashback and manage spend in local currencies without opening separate accounts in each market. Popular with companies in the US, Latin America and other regions, Jeeves works as international banking infrastructure for global startups, keeping approvals, reconciliation and cross-border finance in one place.",
-    "meta": "Jeeves offers global corporate cards, expense management and cross-border payments. Discover Jeeves and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Jeeves is a global business finance platform with corporate cards, business accounts and cross-border payments.",
+    "description": "Jeeves is a global business finance platform that gives startups and growing companies corporate cards, business accounts, accounts payable and cross-border payments from one dashboard. Built to work across many countries and currencies, it lets businesses issue physical and virtual cards, pay vendors and bills internationally, manage treasury across Latin America and the US, and move money through both bank rails and instant stablecoin transfers. Popular with companies operating across borders, Jeeves keeps cards, approvals, payments and reconciliation in one place instead of splitting them across separate banks and software tools.",
+    "meta": "Jeeves offers corporate cards, business accounts and cross-border payments for global companies. Discover Jeeves and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Jeeves - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -33,9 +35,6 @@
       "ramp-financial",
       "airwallex"
     ],
-    "related": [
-      "mercury",
-      "tribal-credit"
-    ]
+    "related": []
   }
 }

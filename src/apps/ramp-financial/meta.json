@@ -7,7 +7,14 @@
     "Business Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Base",
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Solana"
+  ],
   "tags": [
     "Neobanks",
     "Business Neobanks",
@@ -30,11 +37,9 @@
   "relations": {
     "alternatives": [
       "brex",
-      "mercury",
       "meow"
     ],
     "related": [
-      "bluevine",
       "jeeves"
     ]
   }

@@ -7,7 +7,9 @@
     "Consumer Neobanks",
     "Cross-border Neobanks"
   ],
-  "chains": [],
+  "chains": [
+    "Solana"
+  ],
   "tags": [
     "Neobanks",
     "Consumer Neobanks",
@@ -18,9 +20,9 @@
   ],
   "pricing": "",
   "content": {
-    "short": "Majority is a US mobile banking and remittance membership built for migrants and immigrant communities.",
-    "description": "Majority is a US mobile banking service built specifically for migrants and immigrant communities who are often underserved by traditional banks. For a flat monthly membership fee, it offers an FDIC-insured account and debit card that can be opened with a foreign ID and without a US social security number, along with international money transfers, discounted global calling and community perks tailored to specific diaspora groups. Majority focuses on the real needs of newcomers, from sending remittances home to receiving pay and building financial footing in a new country, bundling banking, transfers and support into one app made around the migrant experience.",
-    "meta": "Majority is US mobile banking and remittances built for migrant communities. Discover Majority and other Neobanks on Lancers Web3 Explorer.",
+    "short": "Majority is a US banking and remittance app for migrants, with debit accounts, transfers and a USDC wallet on Solana.",
+    "description": "Majority is a US mobile banking service built specifically for migrants and immigrant communities who are often underserved by traditional banks. For a flat monthly membership fee, it offers an account and debit card that can be opened with a foreign ID and without a US social security number, along with international money transfers, discounted global calling and community perks tailored to specific diaspora groups. Majority also supports a self-custody wallet for USDC on Solana, giving customers another way to move value internationally alongside its core banking and remittance tools. It focuses on the real needs of newcomers, from sending money home to receiving pay and building financial footing in a new country.",
+    "meta": "Majority is a migrant-focused US banking, remittance and Solana USDC wallet app. Discover Majority and other Neobanks on Lancers Web3 Explorer.",
     "pageTitle": "Majority - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
@@ -29,9 +31,9 @@
   },
   "relations": {
     "alternatives": [
-      "chime",
-      "dave",
-      "current"
+      "lemfi",
+      "nala",
+      "payoneer"
     ],
     "related": [
       "lemfi",
