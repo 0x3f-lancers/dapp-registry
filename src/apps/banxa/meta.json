@@ -1,35 +1,34 @@
 {
-    "slug":  "banxa",
-    "name":  "Banxa",
-    "logoUrl":  "https://unavatar.io/x/banxaofficial",
-    "category":  "Web3 Wallet Tools",
-    "subcategory":  [
-                        "Fiat Onramps"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Banxa is a global fiat on-ramp and off-ramp service enabling users to convert fiat currency to crypto and vice versa on Mantle.",
-                    "description":  "Banxa is one of the world\u0027s largest regulated fiat-to-crypto on-ramp and off-ramp service providers, processing billions in volume annually for crypto exchanges, wallets, and DeFi platforms across 100+ countries. The platform supports multiple payment methods including bank transfers, credit cards, and local payment options, with Banxa\u0027s integration with Mantle providing users a compliant, regulated pathway to convert fiat currency directly into Mantle-based assets.",
-                    "meta":  "Banxa is a global fiat on-ramp solution enabling seamless crypto purchases and sales on Mantle. Discover Banxa on Lancers Web3 Explorer.",
-                    "pageTitle":  "Banxa - Web3 Wallet Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://banxa.com/",
-                  "twitter":  "https://x.com/banxaofficial"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "0x",
-                                           "1delta",
-                                           "agni"
-                                       ],
-                      "related":  [
-                                      "algebra-protocol",
-                                      "archly-v2",
-                                      "beefy"
-                                  ]
-                  }
+    "slug": "banxa",
+    "name": "Banxa",
+    "logoUrl": "https://unavatar.io/x/banxaofficial",
+    "category": "Web3 Wallet Tools",
+    "subcategory": [
+        "Fiat Onramps"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Banxa is a global fiat on-ramp and off-ramp service enabling users to convert fiat currency to crypto and vice versa on Mantle.",
+        "description": "Banxa is one of the world's largest regulated fiat-to-crypto on-ramp and off-ramp service providers, processing billions in volume annually for crypto exchanges, wallets, and DeFi platforms across 100+ countries. The platform supports multiple payment methods including bank transfers, credit cards, and local payment options, with Banxa's integration with Mantle providing users a compliant, regulated pathway to convert fiat currency directly into Mantle-based assets.",
+        "meta": "Banxa is a global fiat on-ramp solution enabling seamless crypto purchases and sales on Mantle. Discover Banxa on Lancers Web3 Explorer.",
+        "pageTitle": "Banxa - Web3 Wallet Tools - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://banxa.com/",
+        "twitter": "https://x.com/banxaofficial"
+    },
+    "relations": {
+        "alternatives": [
+            "0x",
+            "1delta",
+            "agni"
+        ],
+        "related": [
+            "algebra-protocol",
+            "beefy"
+        ]
+    }
 }

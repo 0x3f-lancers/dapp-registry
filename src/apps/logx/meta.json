@@ -1,35 +1,34 @@
 {
-    "slug":  "logx",
-    "name":  "LogX",
-    "logoUrl":  "https://unavatar.io/x/LogX_trade",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Exchanges"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "LogX is the world\u0027s first cross-chain perpetual futures aggregator, routing trades across multiple DEXes for best execution on Mantle.",
-                    "description":  "LogX is a pioneering DeFi protocol that aggregates perpetual futures liquidity across multiple decentralized exchanges to provide optimal trade execution for any given position size. By routing perp trades through the deepest available liquidity pools across chains, LogX delivers better pricing and lower slippage than any single perp DEX. The cross-chain architecture enables traders to access unified perpetual markets on Mantle and other supported networks through one interface.",
-                    "meta":  "LogX is the world\u0027s first cross-chain perp aggregator routing trades for best execution on Mantle. Discover LogX on Lancers Web3 Explorer.",
-                    "pageTitle":  "LogX - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://logx.trade/",
-                  "twitter":  "https://x.com/LogX_trade"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "0x",
-                                           "1delta",
-                                           "agni"
-                                       ],
-                      "related":  [
-                                      "algebra-protocol",
-                                      "archly-v2",
-                                      "banxa"
-                                  ]
-                  }
+    "slug": "logx",
+    "name": "LogX",
+    "logoUrl": "https://unavatar.io/x/LogX_trade",
+    "category": "DeFi Dapps",
+    "subcategory": [
+        "Decentralized Exchanges"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "LogX is the world's first cross-chain perpetual futures aggregator, routing trades across multiple DEXes for best execution on Mantle.",
+        "description": "LogX is a pioneering DeFi protocol that aggregates perpetual futures liquidity across multiple decentralized exchanges to provide optimal trade execution for any given position size. By routing perp trades through the deepest available liquidity pools across chains, LogX delivers better pricing and lower slippage than any single perp DEX. The cross-chain architecture enables traders to access unified perpetual markets on Mantle and other supported networks through one interface.",
+        "meta": "LogX is the world's first cross-chain perp aggregator routing trades for best execution on Mantle. Discover LogX on Lancers Web3 Explorer.",
+        "pageTitle": "LogX - DeFi Dapps - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://logx.trade/",
+        "twitter": "https://x.com/LogX_trade"
+    },
+    "relations": {
+        "alternatives": [
+            "0x",
+            "1delta",
+            "agni"
+        ],
+        "related": [
+            "algebra-protocol",
+            "banxa"
+        ]
+    }
 }

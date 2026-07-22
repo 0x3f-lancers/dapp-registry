@@ -1,35 +1,34 @@
 {
-    "slug":  "vooi",
-    "name":  "Vooi",
-    "logoUrl":  "https://unavatar.io/x/vooi_io",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Exchanges"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Vooi is an intent-based Perpetual DEX Aggregator on Mantle routing perp trades across multiple exchanges for best execution and deepest liquidity.",
-                    "description":  "Vooi is a next-generation perpetual DEX aggregator using an intent-based architecture to source the best execution across multiple perpetual futures exchanges simultaneously. By acting as a smart router for perp trades, Vooi finds the deepest liquidity and tightest spreads for any given position across the fragmented perp DEX landscape. The protocol serves both retail and institutional traders on Mantle through a unified interface that eliminates the need to manage multiple perp exchange accounts.",
-                    "meta":  "Vooi is an intent-based Perp DEX Aggregator on Mantle offering the best execution for perpetual trading. Discover Vooi on Lancers Web3 Explorer.",
-                    "pageTitle":  "Vooi - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://vooi.io/",
-                  "twitter":  "https://x.com/vooi_io"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "0x",
-                                           "1delta",
-                                           "agni"
-                                       ],
-                      "related":  [
-                                      "algebra-protocol",
-                                      "archly-v2",
-                                      "banxa"
-                                  ]
-                  }
+    "slug": "vooi",
+    "name": "Vooi",
+    "logoUrl": "https://unavatar.io/x/vooi_io",
+    "category": "DeFi Dapps",
+    "subcategory": [
+        "Decentralized Exchanges"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Vooi is an intent-based Perpetual DEX Aggregator on Mantle routing perp trades across multiple exchanges for best execution and deepest liquidity.",
+        "description": "Vooi is a next-generation perpetual DEX aggregator using an intent-based architecture to source the best execution across multiple perpetual futures exchanges simultaneously. By acting as a smart router for perp trades, Vooi finds the deepest liquidity and tightest spreads for any given position across the fragmented perp DEX landscape. The protocol serves both retail and institutional traders on Mantle through a unified interface that eliminates the need to manage multiple perp exchange accounts.",
+        "meta": "Vooi is an intent-based Perp DEX Aggregator on Mantle offering the best execution for perpetual trading. Discover Vooi on Lancers Web3 Explorer.",
+        "pageTitle": "Vooi - DeFi Dapps - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://vooi.io/",
+        "twitter": "https://x.com/vooi_io"
+    },
+    "relations": {
+        "alternatives": [
+            "0x",
+            "1delta",
+            "agni"
+        ],
+        "related": [
+            "algebra-protocol",
+            "banxa"
+        ]
+    }
 }

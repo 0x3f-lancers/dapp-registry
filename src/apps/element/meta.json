@@ -1,35 +1,33 @@
 {
-    "slug":  "element",
-    "name":  "Element",
-    "logoUrl":  "https://unavatar.io/x/element_market",
-    "category":  "NFT Dapps",
-    "subcategory":  [
-                        "NFT Marketplaces"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Element is a multi-chain NFT marketplace aggregator enabling users to buy, sell, and discover NFTs across Mantle and 20+ blockchains.",
-                    "description":  "Element Market is a multi-chain NFT marketplace and aggregator that connects buyers and sellers across more than 20 blockchain networks including Mantle. The platform aggregates listings from other major NFT marketplaces to provide the best prices, while also hosting its own native marketplace infrastructure. Element supports a wide range of NFT standards and collection types, offering advanced features like bulk buying, sweeping, and portfolio management. Its integration with Mantle makes it the largest multi-chain NFT destination available to Mantle users.",
-                    "meta":  "Element is a multi-chain NFT marketplace aggregator for buying and selling NFTs on Mantle and 20+ chains. Discover Element on Lancers Web3 Explorer.",
-                    "pageTitle":  "Element - NFT Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://element.market/ethereum",
-                  "twitter":  "https://x.com/element_market"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "alchemy",
-                                           "chaingpt",
-                                           "charged-particles"
-                                       ],
-                      "related":  [
-                                      "cryptodo",
-                                      "galxe",
-                                      "guild-xyz"
-                                  ]
-                  }
+    "slug": "element",
+    "name": "Element",
+    "logoUrl": "https://unavatar.io/x/element_market",
+    "category": "NFT Dapps",
+    "subcategory": [
+        "NFT Marketplaces"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Element is a multi-chain NFT marketplace aggregator enabling users to buy, sell, and discover NFTs across Mantle and 20+ blockchains.",
+        "description": "Element Market is a multi-chain NFT marketplace and aggregator that connects buyers and sellers across more than 20 blockchain networks including Mantle. The platform aggregates listings from other major NFT marketplaces to provide the best prices, while also hosting its own native marketplace infrastructure. Element supports a wide range of NFT standards and collection types, offering advanced features like bulk buying, sweeping, and portfolio management. Its integration with Mantle makes it the largest multi-chain NFT destination available to Mantle users.",
+        "meta": "Element is a multi-chain NFT marketplace aggregator for buying and selling NFTs on Mantle and 20+ chains. Discover Element on Lancers Web3 Explorer.",
+        "pageTitle": "Element - NFT Dapps - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://element.market/ethereum",
+        "twitter": "https://x.com/element_market"
+    },
+    "relations": {
+        "alternatives": [
+            "alchemy",
+            "chaingpt"
+        ],
+        "related": [
+            "galxe",
+            "guild-xyz"
+        ]
+    }
 }

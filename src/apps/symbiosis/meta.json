@@ -1,45 +1,46 @@
 {
-    "slug":  "symbiosis",
-    "name":  "Symbiosis",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770750540/web3-explorer/dapp-logos/symbiosis.jpg",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Web3 Bridges"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Avalanche",
-                   "Base",
-                   "BNB Chain",
-                   "Ethereum",
-                   "OP Mainnet",
-                   "Polygon",
-                   "Polygon zkEVM",
-                   "Tron",
-                   "ZKsync",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Symbiosis is a multi-chain liquidity protocol that aggregates exchange liquidity across EVM and selected non-EVM networks.",
-                    "description":  "Symbiosis is a multi-chain liquidity protocol that aggregates exchange liquidity across EVM networks and select non-EVM ecosystems, including TRON, Bitcoin, and BNB. By unifying liquidity across disparate bridges and swap platforms, it enables asset swaps and cross-chain liquidity transfers with a single click and a single on-chain transaction, helping to reduce fragmentation and streamline multi-chain trading. This simple setup aims to reduce fragmentation across bridges and swap platforms.",
-                    "meta":  "Symbiosis is a multi-chain liquidity protocol. Discover Symbiosis and other DeFi Tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "Symbiosis - DeFi Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://symbiosis.finance/",
-                  "twitter":  "https://x.com/symbiosis_fi"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "matcha",
-                                           "rubic",
-                                           "squid"
-                                       ],
-                      "related":  [
-                                      "eclipse",
-                                      "starknet",
-                                      "solana"
-                                  ]
-                  }
+  "slug": "symbiosis",
+  "name": "Symbiosis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750540/web3-explorer/dapp-logos/symbiosis.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Polygon zkEVM",
+    "Tron",
+    "ZKsync",
+    "Mantle",
+    "TON"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Symbiosis is a multi-chain liquidity protocol that aggregates exchange liquidity across EVM and selected non-EVM networks.",
+    "description": "Symbiosis is a multi-chain liquidity protocol that aggregates exchange liquidity across EVM networks and select non-EVM ecosystems, including TRON, Bitcoin, and BNB. By unifying liquidity across disparate bridges and swap platforms, it enables asset swaps and cross-chain liquidity transfers with a single click and a single on-chain transaction, helping to reduce fragmentation and streamline multi-chain trading. This simple setup aims to reduce fragmentation across bridges and swap platforms.",
+    "meta": "Symbiosis is a multi-chain liquidity protocol. Discover Symbiosis and other DeFi Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Symbiosis - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://symbiosis.finance/",
+    "twitter": "https://x.com/symbiosis_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "matcha",
+      "rubic",
+      "squid"
+    ],
+    "related": [
+      "eclipse",
+      "starknet",
+      "solana"
+    ]
+  }
 }

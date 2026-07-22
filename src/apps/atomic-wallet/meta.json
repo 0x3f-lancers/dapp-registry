@@ -7,14 +7,15 @@
     "Software Wallets"
   ],
   "chains": [
-    "Multichain"
+    "Multichain",
+    "TON"
   ],
   "pricing": "Free",
   "content": {
     "short": "Atomic Wallet helps manage Bitcoin, Ethereum, XRP, Litecoin, USDT, and over 1000 other coins and tokens.",
-    "description": "Atomic Wallet is a decentralized, non-custodial wallet that serves as a bridge to the blockchain, ensuring that only you—the owner of your cryptocurrencies and NFTs—have access to your private keys. It offers a lightweight, multi-chain interface that supports more than 50 coins and 200 tokens, along with a peer-to-peer atomic swap exchange. The app also enables asset exchanges through instant exchangers, empowering you to swap and manage holdings securely within a single wallet.",
-    "meta": "Atomic Wallet is a decentralized, non-custodial cryptocurrency wallet. Discover Atomic Wallet and other Web3 Wallets on Lancers Web3 Explorer.",
-    "pageTitle": "Atomic Wallet - Web3 Wallets - Lancers Web3 Explorer"
+    "description": "Atomic Wallet is a decentralized, non-custodial wallet that serves as a bridge to the blockchain, ensuring that only you - the owner of your cryptocurrencies and NFTs - have access to your private keys. It offers a lightweight, multi-chain interface that supports more than 50 coins and 200 tokens, along with a peer-to-peer atomic swap exchange. The app also enables asset exchanges through instant exchangers, empowering you to swap and manage holdings securely within a single wallet.",
+    "meta": "Atomic Wallet helps manage Bitcoin, Ethereum, XRP, Litecoin, USDT, and over 1000 other coins and tokens. Discover Atomic Wallet's TON role.",
+    "pageTitle": "Atomic Wallet - Web3 Wallets on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://atomicwallet.io/",
@@ -22,14 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "clear-evm-wallet",
-      "coinbase-wallet",
-      "wallet3"
+      "0xprocessing",
+      "coin-wallet",
+      "coin98-super-wallet"
     ],
     "related": [
-      "candide",
-      "cregis",
-      "fordefi"
+      "bitcoincom-wallet",
+      "bitget-wallet",
+      "coinbase-wallet"
     ]
   }
 }

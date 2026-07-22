@@ -1,35 +1,33 @@
 {
-    "slug":  "chaingpt",
-    "name":  "ChainGPT",
-    "logoUrl":  "https://unavatar.io/x/chain_gpt",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "Decentralized Computing Tools"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "ChainGPT is an advanced AI infrastructure providing a comprehensive suite of AI-powered tools tailored for the Web3 and blockchain ecosystem.",
-                    "description":  "ChainGPT is a leading AI platform that offers decentralized artificial intelligence services for the cryptocurrency and blockchain world. Its tools include an AI chatbot, smart contract generator, auditor, and an AI-powered NFT generator. By integrating with the Mantle Network, ChainGPT allows users to mint AI-generated assets directly on-chain and supports Mantle-based projects through its incubation and IDO launchpad, simplifying complex Web3 tasks through automation.",
-                    "meta":  "ChainGPT provides advanced AI infrastructure and automated tools for the Mantle Network ecosystem. Discover ChainGPT on Lancers Web3 Explorer.",
-                    "pageTitle":  "ChainGPT - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.chaingpt.org/",
-                  "twitter":  "https://x.com/chain_gpt"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "alchemy",
-                                           "charged-particles",
-                                           "cryptodo"
-                                       ],
-                      "related":  [
-                                      "element",
-                                      "galxe",
-                                      "guild-xyz"
-                                  ]
-                  }
+    "slug": "chaingpt",
+    "name": "ChainGPT",
+    "logoUrl": "https://unavatar.io/x/chain_gpt",
+    "category": "Infrastructure Tools",
+    "subcategory": [
+        "Decentralized Computing Tools"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "ChainGPT is an advanced AI infrastructure providing a comprehensive suite of AI-powered tools tailored for the Web3 and blockchain ecosystem.",
+        "description": "ChainGPT is a leading AI platform that offers decentralized artificial intelligence services for the cryptocurrency and blockchain world. Its tools include an AI chatbot, smart contract generator, auditor, and an AI-powered NFT generator. By integrating with the Mantle Network, ChainGPT allows users to mint AI-generated assets directly on-chain and supports Mantle-based projects through its incubation and IDO launchpad, simplifying complex Web3 tasks through automation.",
+        "meta": "ChainGPT provides advanced AI infrastructure and automated tools for the Mantle Network ecosystem. Discover ChainGPT on Lancers Web3 Explorer.",
+        "pageTitle": "ChainGPT - Infrastructure Tools - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://www.chaingpt.org/",
+        "twitter": "https://x.com/chain_gpt"
+    },
+    "relations": {
+        "alternatives": [
+            "alchemy"
+        ],
+        "related": [
+            "element",
+            "galxe",
+            "guild-xyz"
+        ]
+    }
 }

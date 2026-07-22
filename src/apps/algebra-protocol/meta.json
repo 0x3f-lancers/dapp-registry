@@ -1,35 +1,34 @@
 {
-    "slug":  "algebra-protocol",
-    "name":  "Algebra Protocol",
-    "logoUrl":  "https://unavatar.io/x/cryptoalgebra",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Exchanges"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Algebra Protocol provides concentrated liquidity AMM infrastructure with dynamic fees and built-in farming modules for DEXes building on Mantle.",
-                    "description":  "Algebra Protocol is a concentrated liquidity DEX infrastructure layer enabling other DEX projects to deploy capital-efficient pools with advanced features including dynamic fee adjustment based on market volatility, built-in farming and incentive modules, and a plugin-based architecture for extensibility. Multiple DEXes on Mantle use Algebra\u0027s smart contracts as their core AMM engine, making it a foundational piece of infrastructure for the network\u0027s decentralized exchange ecosystem.",
-                    "meta":  "Algebra Protocol provides concentrated liquidity and dynamic fee infrastructure for DEXes on Mantle. Discover Algebra on Lancers Web3 Explorer.",
-                    "pageTitle":  "Algebra Protocol - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://algebra.finance/",
-                  "twitter":  "https://x.com/cryptoalgebra"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "0x",
-                                           "1delta",
-                                           "agni"
-                                       ],
-                      "related":  [
-                                      "archly-v2",
-                                      "banxa",
-                                      "beefy"
-                                  ]
-                  }
+    "slug": "algebra-protocol",
+    "name": "Algebra Protocol",
+    "logoUrl": "https://unavatar.io/x/cryptoalgebra",
+    "category": "DeFi Dapps",
+    "subcategory": [
+        "Decentralized Exchanges"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Algebra Protocol provides concentrated liquidity AMM infrastructure with dynamic fees and built-in farming modules for DEXes building on Mantle.",
+        "description": "Algebra Protocol is a concentrated liquidity DEX infrastructure layer enabling other DEX projects to deploy capital-efficient pools with advanced features including dynamic fee adjustment based on market volatility, built-in farming and incentive modules, and a plugin-based architecture for extensibility. Multiple DEXes on Mantle use Algebra's smart contracts as their core AMM engine, making it a foundational piece of infrastructure for the network's decentralized exchange ecosystem.",
+        "meta": "Algebra Protocol provides concentrated liquidity and dynamic fee infrastructure for DEXes on Mantle. Discover Algebra on Lancers Web3 Explorer.",
+        "pageTitle": "Algebra Protocol - DeFi Dapps - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://algebra.finance/",
+        "twitter": "https://x.com/cryptoalgebra"
+    },
+    "relations": {
+        "alternatives": [
+            "0x",
+            "1delta",
+            "agni"
+        ],
+        "related": [
+            "banxa",
+            "beefy"
+        ]
+    }
 }

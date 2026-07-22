@@ -1,35 +1,34 @@
 {
-    "slug":  "printr",
-    "name":  "Printr",
-    "logoUrl":  "https://unavatar.io/x/printr",
-    "category":  "Web3 Wallet Tools",
-    "subcategory":  [
-                        "Token Management Tools"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Printr is a universal token launchpad for creating and trading tokens across multiple blockchains.",
-                    "description":  "Printr is a token launchpad built around cross-chain token creation, trading, and liquidity management. The protocol uses modular smart contracts for storage, bonding curves, trade execution, treasury management, creator fees, and interoperability. Instead of forcing projects into a single-chain launch model, Printr centers the token experience and hides much of the cross-chain complexity from creators and traders. On Mantle, Printr can be used by projects that want to launch tokens, build early liquidity, and connect communities across ecosystems.",
-                    "meta":  "Printr is a universal token launchpad for token creation, trading, and liquidity on Mantle.",
-                    "pageTitle":  "Printr - Web3 Developer Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.printr.money/",
-                  "twitter":  "https://x.com/printr"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "bigpump",
-                                           "mintpad",
-                                           "thirdweb"
-                                       ],
-                      "related":  [
-                                      "port3-network",
-                                      "reservoir-protocol",
-                                      "nfts2me"
-                                  ]
-                  }
+    "slug": "printr",
+    "name": "Printr",
+    "logoUrl": "https://unavatar.io/x/printr",
+    "category": "Web3 Wallet Tools",
+    "subcategory": [
+        "Token Management Tools"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Printr is a universal token launchpad for creating and trading tokens across multiple blockchains.",
+        "description": "Printr is a token launchpad built around cross-chain token creation, trading, and liquidity management. The protocol uses modular smart contracts for storage, bonding curves, trade execution, treasury management, creator fees, and interoperability. Instead of forcing projects into a single-chain launch model, Printr centers the token experience and hides much of the cross-chain complexity from creators and traders. On Mantle, Printr can be used by projects that want to launch tokens, build early liquidity, and connect communities across ecosystems.",
+        "meta": "Printr is a universal token launchpad for token creation, trading, and liquidity on Mantle.",
+        "pageTitle": "Printr - Web3 Developer Tools - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://www.printr.money/",
+        "twitter": "https://x.com/printr"
+    },
+    "relations": {
+        "alternatives": [
+            "mintpad",
+            "thirdweb"
+        ],
+        "related": [
+            "port3-network",
+            "reservoir-protocol",
+            "nfts2me"
+        ]
+    }
 }

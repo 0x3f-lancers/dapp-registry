@@ -1,35 +1,33 @@
 {
-    "slug":  "nftscan",
-    "name":  "NFTScan",
-    "logoUrl":  "https://unavatar.io/x/nftscan_com",
-    "category":  "NFT Tools",
-    "subcategory":  [
-                        "NFT APIs"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "NFTScan is a professional NFT explorer and API platform providing comprehensive NFT data across Mantle and 20+ blockchain networks.",
-                    "description":  "NFTScan is a specialized NFT data platform and blockchain explorer that provides comprehensive tracking of NFT collections, transactions, and wallet holdings across more than 20 blockchain networks including Mantle. The platform offers a professional-grade NFT API for developers building NFT-centric applications, covering collection metadata, ownership history, transfer events, and market statistics. NFTScan\u0027s explorer tools allow users to browse all NFT activity on Mantle Network with detailed analytics and historical data.",
-                    "meta":  "NFTScan is a professional NFT explorer and API platform covering all NFT data on Mantle and 20+ chains. Discover NFTScan on Lancers Web3 Explorer.",
-                    "pageTitle":  "NFTScan - NFT Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.nftscan.com/",
-                  "twitter":  "https://x.com/nftscan_com"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "alchemy",
-                                           "chaingpt",
-                                           "charged-particles"
-                                       ],
-                      "related":  [
-                                      "cryptodo",
-                                      "element",
-                                      "galxe"
-                                  ]
-                  }
+    "slug": "nftscan",
+    "name": "NFTScan",
+    "logoUrl": "https://unavatar.io/x/nftscan_com",
+    "category": "NFT Tools",
+    "subcategory": [
+        "NFT APIs"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "NFTScan is a professional NFT explorer and API platform providing comprehensive NFT data across Mantle and 20+ blockchain networks.",
+        "description": "NFTScan is a specialized NFT data platform and blockchain explorer that provides comprehensive tracking of NFT collections, transactions, and wallet holdings across more than 20 blockchain networks including Mantle. The platform offers a professional-grade NFT API for developers building NFT-centric applications, covering collection metadata, ownership history, transfer events, and market statistics. NFTScan's explorer tools allow users to browse all NFT activity on Mantle Network with detailed analytics and historical data.",
+        "meta": "NFTScan is a professional NFT explorer and API platform covering all NFT data on Mantle and 20+ chains. Discover NFTScan on Lancers Web3 Explorer.",
+        "pageTitle": "NFTScan - NFT Dapps - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://www.nftscan.com/",
+        "twitter": "https://x.com/nftscan_com"
+    },
+    "relations": {
+        "alternatives": [
+            "alchemy",
+            "chaingpt"
+        ],
+        "related": [
+            "element",
+            "galxe"
+        ]
+    }
 }

@@ -1,42 +1,40 @@
 {
-    "slug":  "fusionx",
-    "name":  "FusionX",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774340025/dapp-store-logos/fusionx.jpg",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Exchanges"
-                    ],
-    "chains":  [
-                   "Multichain",
-                   "Mantle"
-               ],
-    "tags":  [
-
-             ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "The leading native decentralized exchange on Mantle, offering efficient AMM trading and yield farming opportunities.",
-                    "description":  "FusionX is the premier native decentralized exchange (DEX) and automated market maker (AMM) on the Mantle Network. It provides a highly efficient environment for swapping tokens with minimal slippage and low costs, leveraging Mantle\u0027s modular architecture. Beyond swaps, FusionX offers robust yield farming and liquidity provision tools, allowing users to earn rewards while supporting the network\u0027s liquidity.\n\nAs a foundational liquidity layer for Mantle, FusionX plays a critical role in the ecosystem\u0027s growth. Its focus on community-driven innovation and transparent security ensures that users can trade and farm with confidence in a fully decentralized setting.",
-                    "meta":  "Swap tokens and earn yield on FusionX, the native DEX of Mantle Network. Experience low fees and high liquidity in a decentralized environment.",
-                    "pageTitle":  "FusionX - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://fusionx.finance/",
-                  "github":  "https://github.com/fusionx-finance",
-                  "docs":  "https://docs.fusionx.finance/",
-                  "twitter":  "https://x.com/fusionx_finance",
-                  "telegram":  "https://t.me/fusionx_finance"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "index-coop",
-                                           "juice-finance",
-                                           "aerodrome"
-                                       ],
-                      "related":  [
-                                      "unilend-finance",
-                                      "bumper-finance",
-                                      "tarot"
-                                  ]
-                  }
+  "slug": "fusionx",
+  "name": "FusionX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340025/dapp-store-logos/fusionx.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Multichain",
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "The leading native decentralized exchange on Mantle, offering efficient AMM trading and yield farming opportunities.",
+    "description": "FusionX is the premier native decentralized exchange (DEX) and automated market maker (AMM) on the Mantle Network. It provides a highly efficient environment for swapping tokens with minimal slippage and low costs, leveraging Mantle's modular architecture. Beyond swaps, FusionX offers robust yield farming and liquidity provision tools, allowing users to earn rewards while supporting the network's liquidity.\n\nAs a foundational liquidity layer for Mantle, FusionX plays a critical role in the ecosystem's growth. Its focus on community-driven innovation and transparent security ensures that users can trade and farm with confidence in a fully decentralized setting.",
+    "meta": "Swap tokens and earn yield on FusionX, the native DEX of Mantle Network. Experience low fees and high liquidity in a decentralized environment.",
+    "pageTitle": "FusionX - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fusionx.finance/",
+    "github": "https://github.com/fusionx-finance",
+    "docs": "https://docs.fusionx.finance/",
+    "twitter": "https://x.com/fusionx_finance",
+    "telegram": "https://t.me/fusionx_finance"
+  },
+  "relations": {
+    "alternatives": [
+      "index-coop",
+      "juice-finance",
+      "aerodrome"
+    ],
+    "related": [
+      "unilend-finance",
+      "bumper-finance",
+      "tarot"
+    ]
+  }
 }

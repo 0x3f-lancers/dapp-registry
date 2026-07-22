@@ -1,35 +1,34 @@
 {
-    "slug":  "port3-network",
-    "name":  "Port3 Network",
-    "logoUrl":  "https://unavatar.io/x/port3network",
-    "category":  "Identity Tools",
-    "subcategory":  [
-                        "Web3 Credential Tools"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Port3 Network is a Web3 social data layer on Mantle that aggregates on-chain and off-chain user data to build comprehensive identity graphs.",
-                    "description":  "Port3 Network is a decentralized social data infrastructure protocol that aggregates and indexes user data from multiple on-chain and off-chain sources to build rich, portable identity graphs. By connecting wallet addresses with social profiles, on-chain activity history, and reputation signals, Port3 enables dApps to offer personalized experiences based on verifiable user credentials. The protocol deploys on Mantle and provides developers with APIs to query user identity and social data for building more contextualized Web3 applications.",
-                    "meta":  "Port3 Network is a Web3 social data layer aggregating on-chain and off-chain identity data on Mantle. Discover Port3 on Lancers Web3 Explorer.",
-                    "pageTitle":  "Port3 Network - Social Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://port3.io/",
-                  "twitter":  "https://x.com/port3network"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "0x",
-                                           "1delta",
-                                           "agni"
-                                       ],
-                      "related":  [
-                                      "algebra-protocol",
-                                      "archly-v2",
-                                      "banxa"
-                                  ]
-                  }
+    "slug": "port3-network",
+    "name": "Port3 Network",
+    "logoUrl": "https://unavatar.io/x/port3network",
+    "category": "Identity Tools",
+    "subcategory": [
+        "Web3 Credential Tools"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Port3 Network is a Web3 social data layer on Mantle that aggregates on-chain and off-chain user data to build comprehensive identity graphs.",
+        "description": "Port3 Network is a decentralized social data infrastructure protocol that aggregates and indexes user data from multiple on-chain and off-chain sources to build rich, portable identity graphs. By connecting wallet addresses with social profiles, on-chain activity history, and reputation signals, Port3 enables dApps to offer personalized experiences based on verifiable user credentials. The protocol deploys on Mantle and provides developers with APIs to query user identity and social data for building more contextualized Web3 applications.",
+        "meta": "Port3 Network is a Web3 social data layer aggregating on-chain and off-chain identity data on Mantle. Discover Port3 on Lancers Web3 Explorer.",
+        "pageTitle": "Port3 Network - Social Dapps - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://port3.io/",
+        "twitter": "https://x.com/port3network"
+    },
+    "relations": {
+        "alternatives": [
+            "0x",
+            "1delta",
+            "agni"
+        ],
+        "related": [
+            "algebra-protocol",
+            "banxa"
+        ]
+    }
 }

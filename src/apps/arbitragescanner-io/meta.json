@@ -1,40 +1,41 @@
 {
-  "slug": "arbitragescanner-io",
-  "name": "ArbitrageScanner.io",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744943/web3-explorer/dapp-logos/arbitragescanner-io.jpg",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Analytics Tools"
-  ],
-  "chains": [
-    "Arbitrum",
-    "Ethereum",
-    "OP Mainnet",
-    "Solana",
-    "BNB Chain",
-    "Base"
-  ],
-  "pricing": "Paid",
-  "content": {
-    "short": "ArbitrageScanner.io is an ecosystem of crypto analysis tools for arbitrage, sentiment, and on-chain data analysis.",
-    "description": "ArbitrageScanner.io is an ecosystem of crypto analysis tools that covers arbitrage, sentiment, and on-chain data analysis. It offers analytical tools for B2C via the website and Telegram bots, and for B2B clients in different countries through API access or software licenses with zero maintenance costs.",
-    "meta": "ArbitrageScanner.io provides blockchain analysis and cryptocurrency arbitrage tools. Discover ArbitrageScanner.io and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "ArbitrageScanner.io - DeFi Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://arbitragescanner.io/",
-    "twitter": "https://x.com/ArbitrageScan"
-  },
-  "relations": {
-    "alternatives": [
-      "hindsight",
-      "formo",
-      "defi-prime"
-    ],
-    "related": [
-      "howrare-is",
-      "scour",
-      "compass-art"
-    ]
-  }
+    "slug":  "arbitragescanner-io",
+    "name":  "ArbitrageScanner.io",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744943/web3-explorer/dapp-logos/arbitragescanner-io.jpg",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Analytics Tools"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Ethereum",
+                   "OP Mainnet",
+                   "Solana",
+                   "BNB Chain",
+                   "Base",
+                   "TON"
+               ],
+    "pricing":  "Paid",
+    "content":  {
+                    "short":  "ArbitrageScanner.io is an ecosystem of crypto analysis tools for arbitrage, sentiment, and on-chain data analysis.",
+                    "description":  "ArbitrageScanner.io is an ecosystem of crypto analysis tools that covers arbitrage, sentiment, and on-chain data analysis. It offers analytical tools for B2C via the website and Telegram bots, and for B2B clients in different countries through API access or software licenses with zero maintenance costs. In the TON stack, ArbitrageScanner.io is useful around bridges, analytics, routing, or protocol discovery rather than as a standalone trading venue. ArbitrageScanner.io is kept in this TON set because its product has a concrete user or builder workflow, not only a loose mention of the network.",
+                    "meta":  "ArbitrageScanner.io is an ecosystem of crypto analysis tools for arbitrage, sentiment,. Discover its TON DeFi tooling role and related infrastructure on Lancers Web3 Explorer.",
+                    "pageTitle":  "ArbitrageScanner.io - DeFi Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://arbitragescanner.io/",
+                  "twitter":  "https://x.com/ArbitrageScan"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "layerswap",
+                                           "rubic",
+                                           "symbiosis"
+                                       ],
+                      "related":  [
+                                      "layerswap",
+                                      "rubic",
+                                      "symbiosis"
+                                  ]
+                  }
 }

@@ -1,54 +1,55 @@
 {
-    "slug":  "rubic",
-    "name":  "Rubic",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770749680/web3-explorer/dapp-logos/rubic.png",
-    "category":  "Web3 Developer Tools",
-    "subcategory":  [
-                        "Web3 SDKs"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Arbitrum",
-                   "Multichain",
-                   "Aptos",
-                   "Avalanche",
-                   "Bitcoin",
-                   "BNB Chain",
-                   "Celo",
-                   "Cosmos",
-                   "Cronos",
-                   "Fantom",
-                   "Immutable X",
-                   "Moonbeam",
-                   "Polygon",
-                   "OP Mainnet",
-                   "Polkadot",
-                   "Solana",
-                   "Tron",
-                   "ZKsync",
-                   "Sui",
-                   "Starknet",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Rubic is a cross-chain tech aggregator for users and dapps.",
-                    "description":  "Rubic delivers cross-chain capabilities for users and projects by aggregating blockchains, Web3 bridges, and decentralized exchanges. As a cross-chain solution aggregator for tokens and NFT bridges, signals, oracles, and smart contract executors, Rubic enables seamless interactions on your site. By integrating Rubic, users can swap tokens and NFTs across 15,500 assets, including fiat options in 250+ currencies, on both EVM and non-EVM chains without leaving your website. Your project can communicate with networks across different blockchains.",
-                    "meta":  "Rubic is a cross-chain tech aggregator for users and dapps. Discover Rubic and other Web3 Developer Tools on Lancers Web3 Explorer.",
-                    "pageTitle":  "Rubic - Web3 Developer Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://rubic.exchange/",
-                  "twitter":  "https://x.com/CryptoRubic"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "moralis",
-                                           "particle-network"
-                                       ],
-                      "related":  [
-                                      "vscode",
-                                      "ethfiddle"
-                                  ]
-                  }
+  "slug": "rubic",
+  "name": "Rubic",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749680/web3-explorer/dapp-logos/rubic.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 SDKs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Multichain",
+    "Aptos",
+    "Avalanche",
+    "Bitcoin",
+    "BNB Chain",
+    "Celo",
+    "Cosmos",
+    "Cronos",
+    "Fantom",
+    "Immutable X",
+    "Moonbeam",
+    "Polygon",
+    "OP Mainnet",
+    "Polkadot",
+    "Solana",
+    "Tron",
+    "ZKsync",
+    "Sui",
+    "Starknet",
+    "Mantle",
+    "TON"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Rubic is a cross-chain tech aggregator for users and dapps.",
+    "description": "Rubic delivers cross-chain capabilities for users and projects by aggregating blockchains, Web3 bridges, and decentralized exchanges. As a cross-chain solution aggregator for tokens and NFT bridges, signals, oracles, and smart contract executors, Rubic enables seamless interactions on your site. By integrating Rubic, users can swap tokens and NFTs across 15,500 assets, including fiat options in 250+ currencies, on both EVM and non-EVM chains without leaving your website. Your project can communicate with networks across different blockchains.",
+    "meta": "Rubic is a cross-chain tech aggregator for users and dapps. Discover Rubic and other Web3 Developer Tools on Lancers Web3 Explorer.",
+    "pageTitle": "Rubic - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rubic.exchange/",
+    "twitter": "https://x.com/CryptoRubic"
+  },
+  "relations": {
+    "alternatives": [
+      "moralis",
+      "particle-network"
+    ],
+    "related": [
+      "vscode",
+      "ethfiddle"
+    ]
+  }
 }

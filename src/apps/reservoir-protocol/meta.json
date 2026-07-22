@@ -1,35 +1,34 @@
 {
-    "slug":  "reservoir-protocol",
-    "name":  "Reservoir Protocol",
-    "logoUrl":  "https://unavatar.io/x/reservoir_xyz",
-    "category":  "NFT Tools",
-    "subcategory":  [
-                        "NFT APIs"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Reservoir Protocol provides NFT marketplace infrastructure, trading APIs, data APIs, and developer tooling.",
-                    "description":  "Reservoir Protocol is an NFT infrastructure stack for developers building marketplaces, trading interfaces, and NFT data products. Its APIs aggregate NFT metadata, ownership, activity, listings, bids, and market data, while ReservoirKit and marketplace components help teams add buying, selling, sweeping, and custom marketplace functionality. The stack supports custom chain deployments and can provide seaport-style exchange infrastructure for new ecosystems. On Mantle, Reservoir helps builders add NFT liquidity, market data, and trading experiences without rebuilding the full NFT backend from scratch.",
-                    "meta":  "Reservoir Protocol provides NFT marketplace APIs, trading infrastructure, and developer tools for Mantle.",
-                    "pageTitle":  "Reservoir Protocol - NFT Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://app.reservoir.xyz/leaderboard",
-                  "twitter":  "https://x.com/reservoir_xyz"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "bigpump",
-                                           "nftscan",
-                                           "nfts2me"
-                                       ],
-                      "related":  [
-                                      "element",
-                                      "simplehash",
-                                      "alchemy"
-                                  ]
-                  }
+    "slug": "reservoir-protocol",
+    "name": "Reservoir Protocol",
+    "logoUrl": "https://unavatar.io/x/reservoir_xyz",
+    "category": "NFT Tools",
+    "subcategory": [
+        "NFT APIs"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Reservoir Protocol provides NFT marketplace infrastructure, trading APIs, data APIs, and developer tooling.",
+        "description": "Reservoir Protocol is an NFT infrastructure stack for developers building marketplaces, trading interfaces, and NFT data products. Its APIs aggregate NFT metadata, ownership, activity, listings, bids, and market data, while ReservoirKit and marketplace components help teams add buying, selling, sweeping, and custom marketplace functionality. The stack supports custom chain deployments and can provide seaport-style exchange infrastructure for new ecosystems. On Mantle, Reservoir helps builders add NFT liquidity, market data, and trading experiences without rebuilding the full NFT backend from scratch.",
+        "meta": "Reservoir Protocol provides NFT marketplace APIs, trading infrastructure, and developer tools for Mantle.",
+        "pageTitle": "Reservoir Protocol - NFT Tools - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://app.reservoir.xyz/leaderboard",
+        "twitter": "https://x.com/reservoir_xyz"
+    },
+    "relations": {
+        "alternatives": [
+            "nftscan",
+            "nfts2me"
+        ],
+        "related": [
+            "element",
+            "simplehash",
+            "alchemy"
+        ]
+    }
 }

@@ -1,36 +1,30 @@
 {
-    "slug":  "dolomite",
-    "name":  "Dolomite",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1774339971/dapp-store-logos/dolomite.jpg",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Lending Dapps"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Polygon zkEVM",
-                   "Mantle"
-               ],
-    "tags":  [
-
-             ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Margin trading and liquidity hub on Arbitrum.",
-                    "description":  "Dolomite is a DeFi Dapps project focused on decentralized lending dapps supporting Arbitrum, Polygon zkEVM.",
-                    "meta":  "Dolomite is a DeFi Dapps on Arbitrum. Discover it on Lancers Web3 Explorer.",
-                    "pageTitle":  "Dolomite - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://dolomite.io",
-                  "twitter":  "https://x.com/Dolomite_io"
-              },
-    "relations":  {
-                      "alternatives":  [
-
-                                       ],
-                      "related":  [
-
-                                  ]
-                  }
+  "slug": "dolomite",
+  "name": "Dolomite",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339971/dapp-store-logos/dolomite.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Polygon zkEVM",
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Margin trading and liquidity hub on Arbitrum.",
+    "description": "Dolomite is a DeFi Dapps project focused on decentralized lending dapps supporting Arbitrum, Polygon zkEVM.",
+    "meta": "Dolomite is a DeFi Dapps on Arbitrum. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "Dolomite - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dolomite.io",
+    "twitter": "https://x.com/Dolomite_io"
+  },
+  "relations": {
+    "alternatives": [],
+    "related": []
+  }
 }

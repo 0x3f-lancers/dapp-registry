@@ -3,8 +3,12 @@
   "name": "Lifinity",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748049/web3-explorer/dapp-logos/lifinity.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Lifinity is a market maker that prices assets with Pyth as a Web3 oracle, shielding users from impermanent loss and applying manually set fees.",
@@ -17,7 +21,15 @@
     "twitter": "https://x.com/Lifinity_io"
   },
   "relations": {
-    "alternatives": ["atrix", "tokenlon", "0x"],
-    "related": ["bybit", "egemoney", "bumper-finance"]
+    "alternatives": [
+      "atrix",
+      "tokenlon",
+      "0x"
+    ],
+    "related": [
+      "balancer",
+      "egemoney",
+      "bumper-finance"
+    ]
   }
 }
