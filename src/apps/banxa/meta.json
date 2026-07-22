@@ -1,34 +1,36 @@
 {
-    "slug": "banxa",
-    "name": "Banxa",
-    "logoUrl": "https://unavatar.io/x/banxaofficial",
-    "category": "Web3 Wallet Tools",
-    "subcategory": [
-        "Fiat Onramps"
+  "slug": "banxa",
+  "name": "Banxa",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219567/dapp-store-logos/banxa.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Banxa provides fiat on-ramp and off-ramp infrastructure that helps users buy or sell crypto linked to Mantle apps.",
+    "description": "Banxa offers regulated payment infrastructure for turning fiat money into crypto and cashing crypto out through bank transfers, cards, Apple Pay, and local payment methods. Its developer docs emphasize hosted checkout, native API flows, identity and KYC support, and embeddable purchase experiences for wallets, exchanges, and fintech apps. That makes Banxa more of an infrastructure partner than a standalone DeFi product. For Mantle ecosystems, it serves as an access layer that helps users enter or exit onchain positions through compliant purchase and redemption flows.",
+    "meta": "Banxa provides compliant fiat on-ramp and off-ramp infrastructure that helps Mantle apps support crypto purchase and cash-out flows.",
+    "pageTitle": "Banxa - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://banxa.com/",
+    "twitter": "https://x.com/banxaofficial"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1delta",
+      "agni"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Banxa provides fiat on-ramp and off-ramp infrastructure that helps users buy or sell crypto linked to Mantle apps.",
-        "description": "Banxa offers regulated payment infrastructure for turning fiat money into crypto and cashing crypto out through bank transfers, cards, Apple Pay, and local payment methods. Its developer docs emphasize hosted checkout, native API flows, identity and KYC support, and embeddable purchase experiences for wallets, exchanges, and fintech apps. That makes Banxa more of an infrastructure partner than a standalone DeFi product. For Mantle ecosystems, it serves as an access layer that helps users enter or exit onchain positions through compliant purchase and redemption flows.",
-        "meta": "Banxa provides compliant fiat on-ramp and off-ramp infrastructure that helps Mantle apps support crypto purchase and cash-out flows.",
-        "pageTitle": "Banxa - Web3 Wallet Tools - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://banxa.com/",
-        "twitter": "https://x.com/banxaofficial"
-    },
-    "relations": {
-        "alternatives": [
-            "0x",
-            "1delta",
-            "agni"
-        ],
-        "related": [
-            "algebra-protocol",
-            "beefy"
-        ]
-    }
+    "related": [
+      "algebra-protocol",
+      "beefy"
+    ]
+  }
 }

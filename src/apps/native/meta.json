@@ -1,7 +1,7 @@
 {
   "slug": "native",
   "name": "Native",
-  "logoUrl": "https://unavatar.io/x/native_fi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219771/dapp-store-logos/native.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "Mantle"
   ],
+  "tags": [],
   "pricing": "free",
+  "archived": false,
   "content": {
     "short": "Native is Web3's Liquidity Layer unifying bridging, assets, and pricing into one comprehensive solution for DeFi protocols and traders on Mantle.",
     "description": "Native is building comprehensive liquidity infrastructure for Web3, combining swap aggregation, lending markets, and cross-chain bridging into a unified platform powered by a network of professional market makers for optimal execution without idle capital. On Mantle, Native offers both retail swapping and institutional-grade lending services, positioning itself as a foundational liquidity primitive that other DeFi protocols can build on top of for reliable capital access.",

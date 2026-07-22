@@ -1,7 +1,7 @@
 {
   "slug": "mitosis",
   "name": "Mitosis",
-  "logoUrl": "https://unavatar.io/x/mitosisorg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537887/dapp-store-logos/mitosis.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Blockchain Interoperability Tools"
@@ -9,7 +9,9 @@
   "chains": [
     "Mantle"
   ],
+  "tags": [],
   "pricing": "free",
+  "archived": false,
   "content": {
     "short": "Mitosis is a programmable liquidity layer for unified deposits, cross-chain settlement, and DeFi liquidity routing.",
     "description": "Mitosis is a global execution layer focused on programmable liquidity across chains. The protocol addresses fragmented capital by letting users deposit once and make that liquidity accessible to applications across multiple ecosystems without repeatedly bridging assets. Its architecture centers on non-custodial settlement, unified liquidity, and liquidity frameworks such as ecosystem-owned liquidity that let protocols coordinate capital more efficiently. On Mantle, Mitosis can help users and builders access cross-chain liquidity while preserving on-chain ownership and settlement transparency.",

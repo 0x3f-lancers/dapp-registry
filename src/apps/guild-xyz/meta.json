@@ -1,7 +1,7 @@
 {
   "slug": "guild-xyz",
   "name": "Guild.xyz",
-  "logoUrl": "https://unavatar.io/x/guildxyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219692/dapp-store-logos/guild-xyz.jpg",
   "category": "NFT Tools",
   "subcategory": [
     "Token Gating Tools"
@@ -9,7 +9,9 @@
   "chains": [
     "Mantle"
   ],
+  "tags": [],
   "pricing": "free",
+  "archived": false,
   "content": {
     "short": "Guild.xyz is a Web3 membership and access-control platform that enables token-gated communities and role automation on Mantle.",
     "description": "Guild.xyz is a decentralized membership and access-control protocol that allows communities and DAOs to create token-gated roles, channels, and resources automatically. By connecting wallets and verifying on-chain conditions such as holding specific NFTs, tokens, or completing quests Guild grants members appropriate roles in Discord, Telegram, and other platforms. Mantle ecosystem projects use Guild.xyz extensively to manage community access, reward holders, and create tiered membership experiences without manual verification.",

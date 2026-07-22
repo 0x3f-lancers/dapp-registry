@@ -1,34 +1,36 @@
 {
-    "slug": "equilibria",
-    "name": "Equilibria",
-    "logoUrl": "https://unavatar.io/x/Equilibriafi",
-    "category": "DeFi Dapps",
-    "subcategory": [
-        "DeFi Yield Aggregators"
+  "slug": "equilibria",
+  "name": "Equilibria",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537872/dapp-store-logos/equilibria.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Equilibria is a Pendle-focused yield protocol that offers boosted LP rewards and liquid vePENDLE exposure through ePENDLE.",
+    "description": "Equilibria is a Pendle-focused yield protocol built around the vePENDLE model. Its docs explain that users can convert PENDLE into ePENDLE, a liquid tokenized version of vePENDLE, while liquidity providers can route Pendle positions through Equilibria to access boosted rewards without managing their own vePENDLE lock. The protocol is designed to align PENDLE holders and LPs through fee sharing and reward distribution. On Mantle, Equilibria fits as a specialized yield layer for users who want Pendle-linked strategies, boosted LP returns, and more flexible access to vePENDLE exposure.",
+    "meta": "Equilibria is a Pendle-focused yield protocol for boosted LP rewards and liquid vePENDLE exposure for users on Mantle.",
+    "pageTitle": "Equilibria - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://equilibria.fi/home",
+    "twitter": "https://x.com/Equilibriafi"
+  },
+  "relations": {
+    "alternatives": [
+      "cian-yield-layer",
+      "eigenlayer"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Equilibria is a Pendle-focused yield protocol that offers boosted LP rewards and liquid vePENDLE exposure through ePENDLE.",
-        "description": "Equilibria is a Pendle-focused yield protocol built around the vePENDLE model. Its docs explain that users can convert PENDLE into ePENDLE, a liquid tokenized version of vePENDLE, while liquidity providers can route Pendle positions through Equilibria to access boosted rewards without managing their own vePENDLE lock. The protocol is designed to align PENDLE holders and LPs through fee sharing and reward distribution. On Mantle, Equilibria fits as a specialized yield layer for users who want Pendle-linked strategies, boosted LP returns, and more flexible access to vePENDLE exposure.",
-        "meta": "Equilibria is a Pendle-focused yield protocol for boosted LP rewards and liquid vePENDLE exposure for users on Mantle.",
-        "pageTitle": "Equilibria - DeFi Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://equilibria.fi/home",
-        "twitter": "https://x.com/Equilibriafi"
-    },
-    "relations": {
-        "alternatives": [
-            "cian-yield-layer",
-            "eigenlayer"
-        ],
-        "related": [
-            "ichi",
-            "infinit",
-            "zircuit"
-        ]
-    }
+    "related": [
+      "ichi",
+      "infinit",
+      "zircuit"
+    ]
+  }
 }

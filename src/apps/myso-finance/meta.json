@@ -1,7 +1,7 @@
 {
   "slug": "myso-finance",
   "name": "MYSO Finance",
-  "logoUrl": "https://unavatar.io/x/enzymefinance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219769/dapp-store-logos/myso-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -9,7 +9,9 @@
   "chains": [
     "Mantle"
   ],
+  "tags": [],
   "pricing": "free",
+  "archived": false,
   "content": {
     "short": "MYSO Finance offers zero-liquidation DeFi lending where borrowers take fixed-term loans without risk of being liquidated due to price volatility.",
     "description": "MYSO Finance introduces a zero-liquidation lending model where borrowers take fixed-term loans against their collateral with no risk of forced liquidation during the loan period due to price drops. Instead of liquidations, MYSO uses a put option structure where collateral may transfer to the lender at maturity only if the loan is not repaid. This design provides completely predictable borrowing costs and eliminates the most feared risk in DeFi borrowing, deployed on Mantle.",

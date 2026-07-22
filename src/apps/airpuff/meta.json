@@ -1,33 +1,35 @@
 {
-    "slug": "airpuff",
-    "name": "AirPuff",
-    "logoUrl": "https://unavatar.io/x/airpuff_io",
-    "category": "DeFi Dapps",
-    "subcategory": [
-        "DeFi Yield Farming Platforms"
+  "slug": "airpuff",
+  "name": "AirPuff",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537855/dapp-store-logos/airpuff.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Farming Platforms"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "AirPuff is a DeFi protocol for lending and leveraged airdrop or points farming across incentive driven strategies.",
+    "description": "AirPuff is a yield focused DeFi product built around two main user paths: lending for steadier returns and leveraged farming for users targeting points, airdrops, and campaign incentives. Its docs describe lending pools, under collateralized leverage, restaking oriented strategies, and point sharing mechanics that turn incentive programs into structured positions. The project presents itself as an AirdropFi platform rather than a general purpose DEX, with products such as Buff, Lend, staking, and strategy deposits. On Mantle, it gives users a way to pursue reward driven yield through smart contract positions.",
+    "meta": "AirPuff combines lending, leverage, and reward farming strategies for users pursuing airdrops and yield. Explore AirPuff on Lancers Web3 Explorer.",
+    "pageTitle": "AirPuff - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.airpuff.io/",
+    "twitter": "https://x.com/airpuff_io"
+  },
+  "relations": {
+    "alternatives": [
+      "napier",
+      "0x"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "AirPuff is a DeFi protocol for lending and leveraged airdrop or points farming across incentive driven strategies.",
-        "description": "AirPuff is a yield focused DeFi product built around two main user paths: lending for steadier returns and leveraged farming for users targeting points, airdrops, and campaign incentives. Its docs describe lending pools, under collateralized leverage, restaking oriented strategies, and point sharing mechanics that turn incentive programs into structured positions. The project presents itself as an AirdropFi platform rather than a general purpose DEX, with products such as Buff, Lend, staking, and strategy deposits. On Mantle, it gives users a way to pursue reward driven yield through smart contract positions.",
-        "meta": "AirPuff combines lending, leverage, and reward farming strategies for users pursuing airdrops and yield. Explore AirPuff on Lancers Web3 Explorer.",
-        "pageTitle": "AirPuff - DeFi Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://www.airpuff.io/",
-        "twitter": "https://x.com/airpuff_io"
-    },
-    "relations": {
-        "alternatives": [
-            "napier",
-            "0x"
-        ],
-        "related": [
-            "1delta",
-            "agni"
-        ]
-    }
+    "related": [
+      "1delta",
+      "agni"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "tangem-wallet",
   "name": "Tangem Wallet",
-  "logoUrl": "https://unavatar.io/x/tangem",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219893/dapp-store-logos/tangem-wallet.jpg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Hardware Wallets"
@@ -30,7 +30,9 @@
     "Tron",
     "ZKsync"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Tangem Wallet is a hardware wallet that uses NFC cards or rings with a mobile app to secure TON and other crypto assets.",
     "description": "Tangem Wallet is a self custody hardware wallet system built around NFC enabled cards or rings paired with a mobile app. Users manage assets by tapping the device to their phone, which keeps private key control tied to physical hardware rather than a browser or hot wallet alone. Tangem supports sending, receiving, swapping, buying, and portfolio tracking across many assets, with TON included as part of its broader multi-chain coverage for people who want simpler hardware based account security and everyday spending access.",

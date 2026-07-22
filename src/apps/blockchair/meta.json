@@ -1,7 +1,7 @@
 {
   "slug": "blockchair",
   "name": "Blockchair",
-  "logoUrl": "https://unavatar.io/x/Blockchair",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219582/dapp-store-logos/blockchair.jpg",
   "category": "Web3 Developer Tools",
   "subcategory": [
     "Block Explorers"
@@ -28,7 +28,9 @@
     "Tron",
     "ZKsync"
   ],
+  "tags": [],
   "pricing": "free",
+  "archived": false,
   "content": {
     "short": "Blockchair is a privacy focused multi-chain explorer and data platform for searching blocks, transactions, and addresses.",
     "description": "Blockchair is a blockchain search and analytics engine that lets users inspect blocks, transactions, addresses, and token activity across many supported networks from one interface. The platform is known for advanced filtering, full text style search, export options, and an API that helps developers and researchers work with chain data at scale. It also positions privacy as a core value by limiting tracking compared with many explorer products. For Mantle users, Blockchair offers another way to inspect network activity and pull structured blockchain data.",

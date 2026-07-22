@@ -1,34 +1,36 @@
 {
-    "slug": "chasm-network",
-    "name": "Chasm Network",
-    "logoUrl": "https://unavatar.io/x/chasmnetwork",
-    "category": "DeFi Tools",
-    "subcategory": [
-        "Web3 Bridges"
+  "slug": "chasm-network",
+  "name": "Chasm Network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219604/dapp-store-logos/chasm-network.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Chasm Network builds decentralized AI infrastructure for creating, deploying, and running agents with shared inference tools.",
+    "description": "Chasm Network is an AI infrastructure network for decentralized agent creation, deployment, and monetization. Its official site and network docs describe an ecosystem that includes Weave for building agents, protocol level coordination for agent interactions, and Scout based access for higher usage of its OpenAI compatible inference services. In the Mantle context, Chasm fits as infrastructure for builders rather than a consumer app, giving teams a way to work with decentralized AI services, routing, and agent workflows without relying only on centralized providers.",
+    "meta": "Chasm Network builds decentralized AI infrastructure for agents, inference access, and protocol level coordination across the Mantle ecosystem.",
+    "pageTitle": "Chasm Network - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.chasm.net/",
+    "twitter": "https://x.com/chasmnetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "blockchair"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Chasm Network builds decentralized AI infrastructure for creating, deploying, and running agents with shared inference tools.",
-        "description": "Chasm Network is an AI infrastructure network for decentralized agent creation, deployment, and monetization. Its official site and network docs describe an ecosystem that includes Weave for building agents, protocol level coordination for agent interactions, and Scout based access for higher usage of its OpenAI compatible inference services. In the Mantle context, Chasm fits as infrastructure for builders rather than a consumer app, giving teams a way to work with decentralized AI services, routing, and agent workflows without relying only on centralized providers.",
-        "meta": "Chasm Network builds decentralized AI infrastructure for agents, inference access, and protocol level coordination across the Mantle ecosystem.",
-        "pageTitle": "Chasm Network - DeFi Tools - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://www.chasm.net/",
-        "twitter": "https://x.com/chasmnetwork"
-    },
-    "relations": {
-        "alternatives": [
-            "axelar",
-            "blockchair"
-        ],
-        "related": [
-            "cobo-argus",
-            "etherspot",
-            "hyperlane"
-        ]
-    }
+    "related": [
+      "cobo-argus",
+      "etherspot",
+      "hyperlane"
+    ]
+  }
 }

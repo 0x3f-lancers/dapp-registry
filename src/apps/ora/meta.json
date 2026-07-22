@@ -1,7 +1,7 @@
 {
   "slug": "ora",
   "name": "ORA",
-  "logoUrl": "https://unavatar.io/x/OraProtocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219797/dapp-store-logos/ora.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -9,7 +9,9 @@
   "chains": [
     "Mantle"
   ],
+  "tags": [],
   "pricing": "free",
+  "archived": false,
   "content": {
     "short": "ORA is an on-chain AI oracle protocol on Mantle that enables smart contracts to access verifiable AI model outputs trustlessly.",
     "description": "ORA (formerly HyperOracle) is a trustless AI oracle protocol that enables smart contracts to consume AI model outputs with cryptographic verification guarantees. Using optimistic machine learning (opML) and zero-knowledge proofs, ORA provides on-chain verifiable inference from AI models like LLMs and image generators allowing dApps to build AI-powered features without trusting a centralized AI provider. ORA is deployed on Mantle, making it the first network in the ecosystem to support native AI oracle capabilities for smart contract developers.",

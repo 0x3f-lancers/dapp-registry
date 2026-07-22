@@ -1,7 +1,7 @@
 {
   "slug": "beetroot-finance",
   "name": "Beetroot Finance",
-  "logoUrl": "https://ton.app/media/5c91efa8-2503-49ee-8d46-dc2c3d6967c6.jpg?w=128&q=75",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1776953863/dapp-store-logos/beetroot-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -9,7 +9,9 @@
   "chains": [
     "TON"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Beetroot Finance is a TON yield app for USDT deposits that routes funds through automated onchain strategies.",
     "description": "Beetroot Finance is a TON based yield protocol built for users who want simpler access to onchain returns from a single deposit flow. Its product centers on USDT deposits that are routed through automated strategies across TON DeFi venues, reducing the need for users to manage each pool by hand. The protocol issues ROOT as the position token representing deposited capital and accrued yield over time. In practice, Beetroot Finance acts as a managed entry point for users seeking TON yield with less manual portfolio work.",

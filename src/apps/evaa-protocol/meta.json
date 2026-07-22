@@ -1,7 +1,7 @@
 {
   "slug": "evaa-protocol",
   "name": "EVAA Protocol",
-  "logoUrl": "https://ton.app/media/e5b7a372-299b-474f-91a4-9cf693db2b1f.jpg?w=128&q=75",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219668/dapp-store-logos/evaa-protocol.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Web3 Data Tools"
@@ -9,7 +9,9 @@
   "chains": [
     "TON"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "EVAA Protocol is a TON lending market where users supply assets for yield and borrow against collateral.",
     "description": "EVAA Protocol is a decentralized lending market built on TON for users who want to supply assets, earn yield, and borrow onchain. Deposits can be posted as collateral and managed through web and Telegram based interfaces, giving users direct access to lending activity without leaving the TON ecosystem. The protocol is structured as an open liquidity layer rather than a closed finance app, and its official materials also provide smart contract and SDK resources for integrations. EVAA stands out as one of the clearest entry points to borrowing and lending on TON.",

@@ -1,35 +1,37 @@
 {
-    "slug":  "din-infura",
-    "name":  "DIN (Infura)",
-    "logoUrl":  "https://unavatar.io/x/infura_io",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "RPC Node Providers"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "Infura provides managed blockchain APIs and RPC infrastructure with high-availability network access for developers on Mantle.",
-                    "description":  "Infura is Consensys infrastructure for developers who need reliable blockchain connectivity without operating their own nodes. Its official site focuses on high-availability APIs, broad network coverage, developer tooling, and the Decentralized Infrastructure Network initiative aimed at reducing single points of failure in the RPC layer. Teams use Infura to power wallets, apps, and backend services that need stable access to chain data and transaction submission. On Mantle, it fits as managed RPC infrastructure for builders who want dependable connectivity and less operational overhead around node management.",
-                    "meta":  "Infura provides managed blockchain APIs and RPC infrastructure with high-availability network access for developer teams on Mantle.",
-                    "pageTitle":  "DIN (Infura) - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.infura.io/",
-                  "twitter":  "https://x.com/infura_io"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "ankr",
-                                           "biconomy",
-                                           "birdeye-data-services"
-                                       ],
-                      "related":  [
-                                      "flipside",
-                                      "hive-intelligence",
-                                      "idriss"
-                                  ]
-                  }
+  "slug": "din-infura",
+  "name": "DIN (Infura)",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219645/dapp-store-logos/din-infura.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Infura provides managed blockchain APIs and RPC infrastructure with high-availability network access for developers on Mantle.",
+    "description": "Infura is Consensys infrastructure for developers who need reliable blockchain connectivity without operating their own nodes. Its official site focuses on high-availability APIs, broad network coverage, developer tooling, and the Decentralized Infrastructure Network initiative aimed at reducing single points of failure in the RPC layer. Teams use Infura to power wallets, apps, and backend services that need stable access to chain data and transaction submission. On Mantle, it fits as managed RPC infrastructure for builders who want dependable connectivity and less operational overhead around node management.",
+    "meta": "Infura provides managed blockchain APIs and RPC infrastructure with high-availability network access for developer teams on Mantle.",
+    "pageTitle": "DIN (Infura) - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.infura.io/",
+    "twitter": "https://x.com/infura_io"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr",
+      "biconomy",
+      "birdeye-data-services"
+    ],
+    "related": [
+      "flipside",
+      "hive-intelligence",
+      "idriss"
+    ]
+  }
 }

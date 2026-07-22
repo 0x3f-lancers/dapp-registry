@@ -1,7 +1,7 @@
 {
   "slug": "tellor",
   "name": "Tellor",
-  "logoUrl": "https://unavatar.io/x/wearetellor",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219898/dapp-store-logos/tellor.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -9,7 +9,9 @@
   "chains": [
     "Mantle"
   ],
+  "tags": [],
   "pricing": "free",
+  "archived": false,
   "content": {
     "short": "Tellor is a decentralized, permissionless oracle protocol enabling smart contracts on Mantle to request and receive any type of real-world data.",
     "description": "Tellor is a decentralized oracle protocol allowing smart contracts to request and receive any type of data from the real world through a network of staked data reporters who are incentivized to provide accurate information. Unlike curated oracle networks, Tellor is fully permissionless: any data type can be requested by creating a new query specification, making it ideal for niche data needs beyond standard price feeds. Tellor is deployed on Mantle for flexible, permissionless data access.",

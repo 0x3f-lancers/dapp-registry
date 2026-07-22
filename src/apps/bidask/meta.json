@@ -1,7 +1,7 @@
 {
   "slug": "bidask",
   "name": "Bidask",
-  "logoUrl": "https://ton.app/media/6d90e92a-4bdc-4da6-a864-96d75fec386f.png?w=128&q=75",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1776953864/dapp-store-logos/bidask.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "TON"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Bidask is a TON decentralized exchange for token swaps and concentrated liquidity positions across custom price ranges.",
     "description": "Bidask is a decentralized exchange on TON built around concentrated liquidity. The protocol lets traders swap tokens while liquidity providers choose the price ranges where their capital is active, which can improve efficiency compared with standard pool designs. Bidask also documents features such as custom liquidity curves, automatic fee reinvestment, partial order execution, and a Safe Mode that aims to help users operate through volatile market conditions while keeping the product focused on active onchain trading.",

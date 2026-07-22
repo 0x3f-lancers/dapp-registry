@@ -1,7 +1,7 @@
 {
   "slug": "mobius-exchange",
   "name": "MÃ¶bius Exchange",
-  "logoUrl": "https://unavatar.io/x/mobius_exchange",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219759/dapp-store-logos/mobius-exchange.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "Mantle"
   ],
+  "tags": [],
   "pricing": "free",
+  "archived": false,
   "content": {
     "short": "MÃ¶bius Exchange is a StableSwap DEX on Mantle purpose-built for low-slippage trading of stablecoins and liquid staking tokens.",
     "description": "MÃ¶bius Exchange is a specialized decentralized exchange optimized for trading pegged assets such as stablecoins and liquid staking tokens (LSTs), using a StableSwap invariant formula that minimizes slippage and impermanent loss for correlated asset pairs. This provides superior trading conditions compared to general-purpose AMMs for stable asset swaps. Purpose-built for Mantle, MÃ¶bius targets the growing stablecoin and LRT trading market on the network.",

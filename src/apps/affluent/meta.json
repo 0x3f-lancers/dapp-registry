@@ -1,7 +1,7 @@
 {
   "slug": "affluent",
   "name": "Affluent",
-  "logoUrl": "https://ton.app/media/71e5021a-77ab-4c48-8ef3-35e9c67701b0.png?w=128&q=75",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1776953855/dapp-store-logos/affluent.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Web3 Data Tools"
@@ -9,7 +9,9 @@
   "chains": [
     "TON"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Affluent is a TON protocol for non-custodial vaults, lending markets, and Telegram-based access to onchain yield products.",
     "description": "Affluent is a TON-based asset management protocol focused on non-custodial earning, lending, and borrowing. Its website and docs center the product around vaults, isolated markets, and Telegram-friendly access to strategies tied to assets such as USDT, TON, and tokenized gold. Users can deposit into managed vaults for one-click yield or use the market layer to supply collateral and borrow, while strategy logic and risk controls stay onchain. That makes Affluent useful for users who want managed yield exposure without giving up direct wallet control over the funds they deploy.",

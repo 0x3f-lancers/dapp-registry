@@ -1,34 +1,36 @@
 {
-    "slug": "eisen-finance",
-    "name": "Eisen Finance",
-    "logoUrl": "https://unavatar.io/x/EisenLabs",
-    "category": "DeFi Dapps",
-    "subcategory": [
-        "Decentralized Exchanges"
+  "slug": "eisen-finance",
+  "name": "Eisen Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219659/dapp-store-logos/eisen-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Eisen Finance is a multichain trading platform that combines DEX aggregation, cross-chain routing, and CEX-linked strategies.",
+    "description": "Eisen Finance positions itself as a CeDeFi trading platform rather than a standard swap interface. Its site and docs highlight multichain DEX aggregation, cross-chain routing, CEX-connected trading workflows, and strategy categories such as hedging, arbitrage, and delta-neutral yield generation. The product is aimed at users who want broader execution options and better price discovery across more than one liquidity venue. On Mantle, Eisen Finance fits as an advanced trading layer for users who want swaps and route optimization, but also want access to more complex cross-market strategies from one interface.",
+    "meta": "Eisen Finance is a multichain trading platform with DEX aggregation, cross-chain routing, and CEX-linked strategies on Mantle.",
+    "pageTitle": "Eisen Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://eisenfinance.com/",
+    "twitter": "https://x.com/EisenLabs"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1delta",
+      "agni"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Eisen Finance is a multichain trading platform that combines DEX aggregation, cross-chain routing, and CEX-linked strategies.",
-        "description": "Eisen Finance positions itself as a CeDeFi trading platform rather than a standard swap interface. Its site and docs highlight multichain DEX aggregation, cross-chain routing, CEX-connected trading workflows, and strategy categories such as hedging, arbitrage, and delta-neutral yield generation. The product is aimed at users who want broader execution options and better price discovery across more than one liquidity venue. On Mantle, Eisen Finance fits as an advanced trading layer for users who want swaps and route optimization, but also want access to more complex cross-market strategies from one interface.",
-        "meta": "Eisen Finance is a multichain trading platform with DEX aggregation, cross-chain routing, and CEX-linked strategies on Mantle.",
-        "pageTitle": "Eisen Finance - DeFi Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://eisenfinance.com/",
-        "twitter": "https://x.com/EisenLabs"
-    },
-    "relations": {
-        "alternatives": [
-            "0x",
-            "1delta",
-            "agni"
-        ],
-        "related": [
-            "algebra-protocol",
-            "banxa"
-        ]
-    }
+    "related": [
+      "algebra-protocol",
+      "banxa"
+    ]
+  }
 }

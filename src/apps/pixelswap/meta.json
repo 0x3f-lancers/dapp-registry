@@ -1,7 +1,7 @@
 {
   "slug": "pixelswap",
   "name": "PixelSwap",
-  "logoUrl": "https://icons.llama.fi/pixelswap.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219813/dapp-store-logos/pixelswap.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "TON"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "PixelSwap is a TON decentralized exchange with token swaps, weighted pools, and liquidity bootstrapping pool support.",
     "description": "PixelSwap is a decentralized exchange on TON with a modular architecture for swaps and pool based trading. Its documentation highlights weighted pools, liquidity bootstrapping pools, permissionless pool creation, configurable fees, and multi hop routing for more complex trade execution. The product is designed for regular traders as well as teams that need launch oriented pool structures, giving it a broader role than a basic token swap interface and making it useful for token launches as well as daily trading.",

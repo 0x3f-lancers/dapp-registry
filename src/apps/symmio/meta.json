@@ -1,34 +1,36 @@
 {
-    "slug": "symmio",
-    "name": "SYMMIO",
-    "logoUrl": "https://unavatar.io/x/symm_io",
-    "category": "DeFi Dapps",
-    "subcategory": [
-        "Decentralized Derivatives"
+  "slug": "symmio",
+  "name": "SYMMIO",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537909/dapp-store-logos/symmio.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "SYMMIO is an intent-based derivatives clearing protocol for peer-to-peer perps, options, and synthetic markets.",
+    "description": "SYMMIO is a trustless hybrid derivatives clearing protocol that combines off-chain quoting with on-chain collateral and settlement. Traders express intents for a market, direction, size, and price, while professional solvers choose whether to take the other side and lock collateral. This bilateral model avoids traditional liquidity pools and order books, enabling frontends to launch derivatives markets with just-in-time liquidity and shared settlement infrastructure. On Mantle, SYMMIO can power perpetuals, options, and synthetic markets for builders that want derivatives without building a full exchange backend.",
+    "meta": "SYMMIO provides intent-based derivatives clearing and peer-to-peer trading infrastructure on Mantle.",
+    "pageTitle": "SYMMIO - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.symm.io/",
+    "twitter": "https://x.com/symm_io"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1delta"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "SYMMIO is an intent-based derivatives clearing protocol for peer-to-peer perps, options, and synthetic markets.",
-        "description": "SYMMIO is a trustless hybrid derivatives clearing protocol that combines off-chain quoting with on-chain collateral and settlement. Traders express intents for a market, direction, size, and price, while professional solvers choose whether to take the other side and lock collateral. This bilateral model avoids traditional liquidity pools and order books, enabling frontends to launch derivatives markets with just-in-time liquidity and shared settlement infrastructure. On Mantle, SYMMIO can power perpetuals, options, and synthetic markets for builders that want derivatives without building a full exchange backend.",
-        "meta": "SYMMIO provides intent-based derivatives clearing and peer-to-peer trading infrastructure on Mantle.",
-        "pageTitle": "SYMMIO - DeFi Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://www.symm.io/",
-        "twitter": "https://x.com/symm_io"
-    },
-    "relations": {
-        "alternatives": [
-            "0x",
-            "1delta"
-        ],
-        "related": [
-            "agni",
-            "airpuff",
-            "algebra-protocol"
-        ]
-    }
+    "related": [
+      "agni",
+      "airpuff",
+      "algebra-protocol"
+    ]
+  }
 }

@@ -1,34 +1,36 @@
 {
-    "slug": "clipper",
-    "name": "Clipper",
-    "logoUrl": "https://unavatar.io/x/Clipper_DEX",
-    "category": "DeFi Dapps",
-    "subcategory": [
-        "Decentralized Exchanges"
+  "slug": "clipper",
+  "name": "Clipper",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219616/dapp-store-logos/clipper.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Clipper is a DEX built for retail sized swaps, using its Formula Market Maker design to improve small trade execution.",
+    "description": "Clipper is a decentralized exchange built around smaller trade sizes and blue chip asset pairs rather than large arbitrage driven flow. Its official docs explain a Formula Market Maker model that uses offchain computation with onchain validation to target better pricing for retail sized swaps while also aiming to reduce impermanent loss for liquidity providers. The protocol is positioned as a different design choice from standard constant product AMMs. On Mantle, Clipper fits as a swap venue for users who care about execution quality on smaller trades rather than broad long tail token discovery.",
+    "meta": "Clipper is a DEX built for retail sized swaps, using a Formula Market Maker model to improve execution quality on Mantle today.",
+    "pageTitle": "Clipper - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://clipper.exchange/",
+    "twitter": "https://x.com/Clipper_DEX"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1delta",
+      "agni"
     ],
-    "chains": [
-        "Mantle"
-    ],
-    "pricing": "free",
-    "content": {
-        "short": "Clipper is a DEX built for retail sized swaps, using its Formula Market Maker design to improve small trade execution.",
-        "description": "Clipper is a decentralized exchange built around smaller trade sizes and blue chip asset pairs rather than large arbitrage driven flow. Its official docs explain a Formula Market Maker model that uses offchain computation with onchain validation to target better pricing for retail sized swaps while also aiming to reduce impermanent loss for liquidity providers. The protocol is positioned as a different design choice from standard constant product AMMs. On Mantle, Clipper fits as a swap venue for users who care about execution quality on smaller trades rather than broad long tail token discovery.",
-        "meta": "Clipper is a DEX built for retail sized swaps, using a Formula Market Maker model to improve execution quality on Mantle today.",
-        "pageTitle": "Clipper - DeFi Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://clipper.exchange/",
-        "twitter": "https://x.com/Clipper_DEX"
-    },
-    "relations": {
-        "alternatives": [
-            "0x",
-            "1delta",
-            "agni"
-        ],
-        "related": [
-            "algebra-protocol",
-            "banxa"
-        ]
-    }
+    "related": [
+      "algebra-protocol",
+      "banxa"
+    ]
+  }
 }

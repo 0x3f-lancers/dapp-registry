@@ -1,35 +1,37 @@
 {
-    "slug":  "agentlayer",
-    "name":  "AgentLayer",
-    "logoUrl":  "https://unavatar.io/x/agent_layer",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "Decentralized Computing Tools"
-                    ],
-    "chains":  [
-                   "Mantle"
-               ],
-    "pricing":  "free",
-    "content":  {
-                    "short":  "AgentLayer is a decentralized network for building, publishing, and running autonomous AI agents with onchain coordination.",
-                    "description":  "AgentLayer is an AI agent network where developers can build, register, deploy, and distribute autonomous agents through blockchain based infrastructure. The platform combines an agent registry, tokenized incentives, developer tooling, and SDK support so teams can launch agents that interact with users and other services. Its public site highlights AgentStudio, Python and TypeScript integrations, and Telegram deployment paths that help creators reach broader audiences. Within the Mantle ecosystem, AgentLayer is positioned as infrastructure for agent discovery, coordination, and monetized agent services.",
-                    "meta":  "AgentLayer provides developer tooling and network infrastructure for autonomous AI agents and agent services. Explore AgentLayer on Lancers Web3 Explorer.",
-                    "pageTitle":  "AgentLayer - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.agentlayer.xyz/",
-                  "twitter":  "https://x.com/agent_layer"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "automata",
-                                           "boomfi",
-                                           "drpc"
-                                       ],
-                      "related":  [
-                                      "omnia-protocol",
-                                      "phalcon",
-                                      "range-protocol"
-                                  ]
-                  }
+  "slug": "agentlayer",
+  "name": "AgentLayer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219548/dapp-store-logos/agentlayer.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Decentralized Computing Tools"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "AgentLayer is a decentralized network for building, publishing, and running autonomous AI agents with onchain coordination.",
+    "description": "AgentLayer is an AI agent network where developers can build, register, deploy, and distribute autonomous agents through blockchain based infrastructure. The platform combines an agent registry, tokenized incentives, developer tooling, and SDK support so teams can launch agents that interact with users and other services. Its public site highlights AgentStudio, Python and TypeScript integrations, and Telegram deployment paths that help creators reach broader audiences. Within the Mantle ecosystem, AgentLayer is positioned as infrastructure for agent discovery, coordination, and monetized agent services.",
+    "meta": "AgentLayer provides developer tooling and network infrastructure for autonomous AI agents and agent services. Explore AgentLayer on Lancers Web3 Explorer.",
+    "pageTitle": "AgentLayer - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.agentlayer.xyz/",
+    "twitter": "https://x.com/agent_layer"
+  },
+  "relations": {
+    "alternatives": [
+      "automata",
+      "boomfi",
+      "drpc"
+    ],
+    "related": [
+      "omnia-protocol",
+      "phalcon",
+      "range-protocol"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "tonco",
   "name": "TONCO",
-  "logoUrl": "https://ton.app/media/1f913e65-9c32-433e-a0a3-a7c5ccf46ad5.png?w=128&q=75",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219949/dapp-store-logos/tonco.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "TON"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "TONCO is a TON decentralized exchange for swaps and concentrated liquidity positions with tighter capital use.",
     "description": "TONCO is a decentralized exchange on TON built around concentrated liquidity rather than a standard full range pool design. Traders can swap supported assets through the protocol, while liquidity providers choose specific price ranges to target capital more precisely. The exchange is developed by the Algebra team and brings a more advanced market structure to TON. It is aimed at users who want better liquidity efficiency and more control over position placement than a basic automated market maker offers.",

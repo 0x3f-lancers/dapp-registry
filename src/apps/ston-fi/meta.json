@@ -1,7 +1,7 @@
 {
   "slug": "ston-fi",
   "name": "STON.fi",
-  "logoUrl": "https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png?w=128&q=75",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219876/dapp-store-logos/ston-fi.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -9,7 +9,9 @@
   "chains": [
     "TON"
   ],
+  "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "STON.fi is a TON decentralized exchange for token swaps, liquidity provision, routing, and automated market maker trading.",
     "description": "STON.fi is a decentralized exchange protocol on TON built around automated market maker pools. The platform supports permissionless token swaps, liquidity provision, routing, and yield farming, while its public docs also cover APIs and SDKs for teams that want to integrate trading features. In practice, STON.fi has become one of the main trading venues on TON for users swapping assets and for liquidity providers deploying capital into pools tied to the broader ecosystem and its growing DeFi market.",

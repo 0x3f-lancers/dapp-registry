@@ -1,37 +1,39 @@
 {
-    "slug": "element",
-    "name": "Element",
-    "logoUrl": "https://unavatar.io/x/element_market",
-    "category": "NFT Dapps",
-    "subcategory": [
-        "NFT Marketplaces"
+  "slug": "element",
+  "name": "Element",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219660/dapp-store-logos/element.jpg",
+  "category": "NFT Dapps",
+  "subcategory": [
+    "NFT Marketplaces"
+  ],
+  "chains": [
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "Mantle",
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Element is a multichain NFT marketplace and aggregator for discovering, buying, and selling NFTs across Mantle and other networks.",
+    "description": "Element is an NFT marketplace and aggregation platform built for users who want broader listing access than a single storefront can provide. Its product combines a native marketplace with aggregated listings, giving collectors tools for discovery, buying, selling, sweeping, and collection tracking across multiple chains. That makes it useful for traders who care about inventory breadth and execution convenience. On Mantle, Element fits as an NFT trading venue for users who want marketplace aggregation, cross-collection browsing, and more efficient access to available listings.",
+    "meta": "Element is a multichain NFT marketplace and aggregator for discovering, buying, and selling NFTs for collectors on Mantle.",
+    "pageTitle": "Element - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://element.market/ethereum",
+    "twitter": "https://x.com/element_market"
+  },
+  "relations": {
+    "alternatives": [
+      "alchemy",
+      "chaingpt"
     ],
-        "chains": [
-            "Avalanche",
-            "BNB Chain",
-            "Ethereum",
-            "Mantle",
-            "Polygon"
-        ],
-    "pricing": "free",
-    "content": {
-        "short": "Element is a multichain NFT marketplace and aggregator for discovering, buying, and selling NFTs across Mantle and other networks.",
-        "description": "Element is an NFT marketplace and aggregation platform built for users who want broader listing access than a single storefront can provide. Its product combines a native marketplace with aggregated listings, giving collectors tools for discovery, buying, selling, sweeping, and collection tracking across multiple chains. That makes it useful for traders who care about inventory breadth and execution convenience. On Mantle, Element fits as an NFT trading venue for users who want marketplace aggregation, cross-collection browsing, and more efficient access to available listings.",
-        "meta": "Element is a multichain NFT marketplace and aggregator for discovering, buying, and selling NFTs for collectors on Mantle.",
-        "pageTitle": "Element - NFT Dapps - Lancers Web3 Explorer"
-    },
-    "links": {
-        "website": "https://element.market/ethereum",
-        "twitter": "https://x.com/element_market"
-    },
-    "relations": {
-        "alternatives": [
-            "alchemy",
-            "chaingpt"
-        ],
-        "related": [
-            "galxe",
-            "guild-xyz"
-        ]
-    }
+    "related": [
+      "galxe",
+      "guild-xyz"
+    ]
+  }
 }
