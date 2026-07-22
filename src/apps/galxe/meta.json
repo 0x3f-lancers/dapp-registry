@@ -1,38 +1,39 @@
 {
-  "slug": "galxe",
-  "name": "Galxe",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747142/web3-explorer/dapp-logos/galxe.jpg",
-  "category": "Identity Tools",
-  "subcategory": [
-    "Decentralized Identity Tools"
-  ],
-  "chains": [
-    "Ethereum",
-    "Solana",
-    "BNB Chain",
-    "Polygon",
-    "OP Mainnet",
-    "Arbitrum"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Galxe provides credential infrastructure that all Web3 developers can access.",
-    "description": "Galxe is building a credential data network accessible to all Web3 developers. The platform serves both on-chain and off-chain communities, enabling them to curate, verify, and contribute digital credentials to a shared network that can be leveraged across projects. For off-chain credentials, it connects data sources from multiple orgs, such as Snapshot, Twitter, and GitHub. For on-chain credentials, it relies on subgraph queries or static snapshots to capture on-chain activity and attestations.",
-    "meta": "Galxe builds a credential data network open to all developers in Web3. Discover Galxe and other Identity Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Galxe - Identity Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://galxe.com/",
-    "twitter": "https://x.com/Galxe"
-  },
-  "relations": {
-    "alternatives": [
-      "dauth-network",
-      "nextme"
-    ],
-    "related": [
-      "tide-protocol",
-      "meeds"
-    ]
-  }
+    "slug":  "galxe",
+    "name":  "Galxe",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747142/web3-explorer/dapp-logos/galxe.jpg",
+    "category":  "Identity Tools",
+    "subcategory":  [
+                        "Decentralized Identity Tools"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Solana",
+                   "BNB Chain",
+                   "Polygon",
+                   "OP Mainnet",
+                   "Arbitrum",
+                   "Mantle"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Galxe provides credential and identity infrastructure for verifying users, building campaigns, and managing Web3 reputation.",
+                    "description":  "Galxe builds credential and identity infrastructure for Web3 communities, applications, and growth programs. Its current docs emphasize self-sovereign identity, zero-knowledge proof based credential verification, and APIs that let builders check eligibility, reputation, or user achievements without exposing unnecessary data. Beyond identity rails, Galxe is widely used for quests, community campaigns, and access control tied to onchain or offchain behavior. On Mantle, it fits as a credential and engagement layer for teams that want to verify users, run campaigns, and build reputation-aware product flows.",
+                    "meta":  "Galxe provides credential and identity infrastructure for verifying users, running campaigns, and managing reputation on Mantle.",
+                    "pageTitle":  "Galxe - Identity Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://galxe.com/",
+                  "twitter":  "https://x.com/Galxe"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "dauth-network",
+                                           "nextme"
+                                       ],
+                      "related":  [
+                                      "tide-protocol",
+                                      "meeds"
+                                  ]
+                  }
 }

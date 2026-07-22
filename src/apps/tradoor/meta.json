@@ -1,0 +1,36 @@
+{
+  "slug": "tradoor",
+  "name": "Tradoor",
+  "logoUrl": "https://ton.app/media/d63ba650-c479-47d9-8c5b-8fcf73e27ac7.png?w=128&q=75",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Tradoor is a TON trading app for perpetuals and options across web, mobile, and Telegram based access points.",
+    "description": "Tradoor is an onchain derivatives platform for TON users who want access to perpetual and options trading without leaving the network. The product is available through web, mobile, and Telegram interfaces, with documentation focused on fast execution, quoted pricing at the time of trade, and capital efficient position entry. It is designed for self custody trading rather than exchange account custody, which makes it part of the newer wave of TON native financial apps aimed at more active market participants.",
+    "meta": "Tradoor brings perpetual and options trading to TON through self custody execution across web, mobile, and Telegram interfaces.",
+    "pageTitle": "Tradoor - DeFi Dapps on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tradoor.io",
+    "twitter": "https://x.com/tradoor_io",
+    "telegram": "https://t.me/tradoor_io_bot"
+  },
+  "relations": {
+    "alternatives": [
+      "transit-swap",
+      "tonco",
+      "dedust"
+    ],
+    "related": [
+      "swap-coffee",
+      "storm-trade",
+      "bidask"
+    ]
+  }
+}

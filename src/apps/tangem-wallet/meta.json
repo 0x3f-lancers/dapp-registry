@@ -1,0 +1,55 @@
+{
+  "slug": "tangem-wallet",
+  "name": "Tangem Wallet",
+  "logoUrl": "https://unavatar.io/x/tangem",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Hardware Wallets"
+  ],
+  "chains": [
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Bitcoin",
+    "BNB Chain",
+    "Cardano",
+    "Cosmos",
+    "Cronos",
+    "Ethereum",
+    "Fantom",
+    "Linea",
+    "Mantle",
+    "Moonbeam",
+    "OP Mainnet",
+    "Polygon",
+    "Polygon zkEVM",
+    "Solana",
+    "Sui",
+    "TON",
+    "Tron",
+    "ZKsync"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Tangem Wallet is a hardware wallet that uses NFC cards or rings with a mobile app to secure TON and other crypto assets.",
+    "description": "Tangem Wallet is a self custody hardware wallet system built around NFC enabled cards or rings paired with a mobile app. Users manage assets by tapping the device to their phone, which keeps private key control tied to physical hardware rather than a browser or hot wallet alone. Tangem supports sending, receiving, swapping, buying, and portfolio tracking across many assets, with TON included as part of its broader multi-chain coverage for people who want simpler hardware based account security and everyday spending access.",
+    "meta": "Tangem Wallet combines NFC hardware and a mobile app to secure TON and other assets with self custody storage and daily wallet functions.",
+    "pageTitle": "Tangem Wallet - Web3 Wallets on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tangem.com",
+    "twitter": "https://x.com/tangem"
+  },
+  "relations": {
+    "alternatives": [
+      "safepal-wallet",
+      "tonkeeper-pro"
+    ],
+    "related": [
+      "0xprocessing",
+      "atomic-wallet",
+      "coin-wallet"
+    ]
+  }
+}

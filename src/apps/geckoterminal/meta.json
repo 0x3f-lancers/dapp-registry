@@ -1,34 +1,36 @@
 {
-  "slug": "geckoterminal",
-  "name": "GeckoTerminal",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747198/web3-explorer/dapp-logos/geckoterminal.png",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Analytics Tools"
-  ],
-  "chains": [
-    "Multichain"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "GeckoTerminal is a DEX data tracker and price charting tool by CoinGecko.",
-    "description": "GeckoTerminal provides real-time statistics and price analysis across multiple blockchains and decentralized exchanges, consolidating market data into a single view. Users can identify trends as they emerge and access up-to-date statistics on tokens and pools across diverse networks. The platform also presents Proof of Reserves data, enabling users to monitor centralized exchanges' on-chain holdings and assess reserve transparency directly on the blockchain.",
-    "meta": "GeckoTerminal provides real-time statistics and price analysis across multiple blockchains and decentralized exchanges. Discover GeckoTerminal and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "GeckoTerminal - DeFi Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.geckoterminal.com",
-    "twitter": "https://x.com/GeckoTerminal"
-  },
-  "relations": {
-    "alternatives": [
-      "vaultsfyi",
-      "takeprofit",
-      "sentry"
-    ],
-    "related": [
-      "defi",
-      "footprint-analytics"
-    ]
-  }
+    "slug":  "geckoterminal",
+    "name":  "GeckoTerminal",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747198/web3-explorer/dapp-logos/geckoterminal.png",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Analytics Tools"
+                    ],
+    "chains":  [
+                   "Multichain",
+                   "TON"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "GeckoTerminal is a CoinGecko platform for tracking DEX prices, pools, liquidity, and charts across many networks.",
+                    "description":  "GeckoTerminal, built by the team behind CoinGecko, tracks market activity on decentralized exchanges across many blockchains. The platform focuses on token and pool data, interactive charts, trending markets, and onchain analytics that help traders monitor liquidity, volume, transactions, and price movement in real time. It also offers a public API for accessing the same market data programmatically. In the TON ecosystem, GeckoTerminal is mainly used as a research and monitoring tool for pools and tokens rather than a trading venue itself.",
+                    "meta":  "GeckoTerminal tracks DEX prices, pool data, liquidity, charts, and token activity across chains for research on Lancers Web3 Explorer.",
+                    "pageTitle":  "GeckoTerminal - DeFi Tools on TON - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.geckoterminal.com",
+                  "twitter":  "https://x.com/GeckoTerminal"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "layerswap",
+                                           "rubic",
+                                           "symbiosis"
+                                       ],
+                      "related":  [
+                                      "layerswap",
+                                      "rubic",
+                                      "symbiosis"
+                                  ]
+                  }
 }

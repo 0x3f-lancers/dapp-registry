@@ -1,0 +1,35 @@
+{
+  "slug": "pyth",
+  "name": "Pyth",
+  "logoUrl": "https://unavatar.io/x/pythnetwork",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Decentralized Oracles"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Pyth Network connects high-fidelity market data from professional trading firms and exchanges directly to smart contracts on Mantle with sub-second updates.",
+    "description": "Pyth Network is a first-party oracle network that sources price data directly from institutional market participants including trading firms, market makers, and exchanges, providing extremely high-quality, low-latency price feeds with sub-second update frequencies that are far more responsive than traditional oracle models. Pyth's pull-based oracle model lets applications request the latest price only when needed, dramatically reducing gas costs. Deployed on Mantle, Pyth provides institutional-grade data quality for the network's DeFi protocols.",
+    "meta": "Pyth Network provides high-fidelity, low-latency institutional price data to smart contracts on Mantle.",
+    "pageTitle": "Pyth - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.pyth.network/",
+    "twitter": "https://x.com/pythnetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "api3",
+      "chainlink",
+      "tellor"
+    ],
+    "related": [
+      "chronicle-protocol",
+      "ora",
+      "supra"
+    ]
+  }
+}

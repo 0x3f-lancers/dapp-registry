@@ -1,0 +1,47 @@
+{
+    "slug": "dune",
+    "name": "Dune",
+    "logoUrl": "https://unavatar.io/x/dune",
+    "category": "DeFi Tools",
+    "subcategory": [
+        "Analytics Tools"
+    ],
+    "chains": [
+        "Arbitrum",
+        "Avalanche",
+        "Base",
+        "Bitcoin",
+        "BNB Chain",
+        "Celo",
+        "Ethereum",
+        "Fantom",
+        "Linea",
+        "Mantle",
+        "OP Mainnet",
+        "Polygon",
+        "Solana",
+        "ZKsync"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Dune is a blockchain analytics platform for querying, visualizing, and sharing onchain data from Mantle and other networks.",
+        "description": "Dune is a crypto data platform built around SQL querying, dashboards, and collaborative blockchain research. Its docs describe a web workspace where users can write DuneSQL queries, build visualizations, schedule refreshes, and share live dashboards with teams or the public. That makes Dune useful for tracking trading activity, protocol usage, wallet behavior, token flows, and ecosystem-level trends without running your own indexing stack. For Mantle users, it is one of the main tools for studying protocol metrics, building research dashboards, and monitoring onchain activity with flexible custom queries.",
+        "meta": "Dune is a blockchain analytics platform for querying, visualizing, and sharing onchain data for teams building on Mantle.",
+        "pageTitle": "Dune - Infrastructure - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://dune.com/home",
+        "twitter": "https://x.com/dune"
+    },
+    "relations": {
+        "alternatives": [
+            "0x",
+            "1delta",
+            "agni"
+        ],
+        "related": [
+            "algebra-protocol",
+            "banxa"
+        ]
+    }
+}

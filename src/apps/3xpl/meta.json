@@ -10,28 +10,24 @@
     "Bitcoin",
     "BNB Chain",
     "Ethereum",
-    "Multichain"
+    "Multichain",
+    "TON"
   ],
   "pricing": "",
   "content": {
-    "short": "Fast, ad-free multi-chain block explorer with an easy interface for users and professional tools for developers and analysts.",
-    "description": "3xpl is a fast, universal block explorer built for the most popular public blockchains. It provides a clear, user-friendly interface for everyday crypto users while offering a robust suite of professional features for developers and analysts. With rapid access to transactions, addresses, blocks, and network statistics across multiple chains, 3xpl delivers speed, clarity, and versatility for Bitcoin, Ethereum, BNB Chain, Multichain, Arbitrum, Avalanche, and beyond, making on-chain data approachable for all.",
-    "meta": "3xpl is a fast, ad-free multi-chain block explorer for popular public blockchains. Discover 3xpl and other Web3 Developer Tools on Lancers Web3 Explorer.",
-    "pageTitle": "3xpl - Web3 Developer Tools - Lancers Web3 Explorer"
+    "short": "3xpl is a fast multi-chain block explorer with ad-free browsing, blockchain APIs, and data tools for users and analysts.",
+    "description": "3xpl is a universal blockchain explorer built to make on-chain data easier to search, read, and reuse across major public networks, including TON. Its core product is a fast, ad-free explorer for transactions, wallets, blocks, and token activity, backed by tools aimed at heavier research workflows. The platform also offers PDF receipts and wallet statements, downloadable database dumps, JSON and WebSocket APIs, and a ClickHouse API for teams that need structured blockchain data for analytics, monitoring, or product development.",
+    "meta": "Explore 3xpl, a fast multi-chain block explorer with ad-free browsing, APIs, PDF receipts, and TON support for data analysis.",
+    "pageTitle": "3xpl - Web3 Developer Tools on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://3xpl.com/",
     "twitter": "https://x.com/3xplcom"
   },
   "relations": {
-    "alternatives": [
-      "beaconcha-in",
-      "socketscan"
-    ],
+    "alternatives": [],
     "related": [
-      "alephium",
-      "hela-labs",
-      "supra"
+      "multisender"
     ]
   }
 }

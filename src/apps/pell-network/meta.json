@@ -1,0 +1,34 @@
+{
+    "slug": "pell-network",
+    "name": "Pell Network",
+    "logoUrl": "https://unavatar.io/x/pell_network",
+    "category": "DeFi Dapps",
+    "subcategory": [
+        "Liquid Staking Platforms"
+    ],
+    "chains": [
+        "Mantle"
+    ],
+    "pricing": "free",
+    "content": {
+        "short": "Pell Network is an omnichain Bitcoin restaking network for BTC-backed shared cryptoeconomic security.",
+        "description": "Pell Network is a BTC restaking network that extends Bitcoin and BTC liquid staking derivative security into decentralized validation services. The protocol lets stakers restake BTC-related assets, delegate security, and earn rewards while developers can bootstrap applications with a shared trust network instead of building a validator set from scratch. Pell's architecture includes restaking contracts across chains, a restaking ledger, cross-chain messaging, and Pell Chain for unified service management. On Mantle, Pell Network supports BTCFi restaking and shared security opportunities for users and builders.",
+        "meta": "Pell Network provides omnichain BTC restaking and shared security infrastructure for Mantle.",
+        "pageTitle": "Pell Network - DeFi Dapps - Lancers Web3 Explorer"
+    },
+    "links": {
+        "website": "https://pell.network/",
+        "twitter": "https://x.com/pell_network"
+    },
+    "relations": {
+        "alternatives": [
+            "pumpbtc",
+            "0x",
+            "1delta"
+        ],
+        "related": [
+            "agni",
+            "airpuff"
+        ]
+    }
+}

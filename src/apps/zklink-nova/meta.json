@@ -1,0 +1,35 @@
+{
+    "slug":  "zklink-nova",
+    "name":  "zkLink Nova",
+    "logoUrl":  "https://unavatar.io/x/zklink_official",
+    "category":  "Blockchains",
+    "subcategory":  [
+                        "Layer 2 Blockchains"
+                    ],
+    "chains":  [
+                   "Mantle"
+               ],
+    "pricing":  "free",
+    "content":  {
+                    "short":  "zkLink Nova is an aggregated Layer 3 zkEVM rollup that unifies Ethereum and Layer 2 liquidity.",
+                    "description":  "zkLink Nova is an aggregated Layer 3 zkEVM rollup network built on top of Ethereum and multiple Ethereum Layer 2 rollups. It is EVM-compatible, uses zero-knowledge proofs, and aggregates native assets from connected rollups so decentralized applications can access broader liquidity through one execution environment. Nova is designed to reduce liquidity fragmentation, lower transaction costs, and simplify multi-chain user experience through account and chain abstraction. On Mantle, zkLink Nova is relevant for users and builders seeking interoperable liquidity and scalable Ethereum-compatible deployment.",
+                    "meta":  "zkLink Nova is an aggregated Layer 3 zkEVM rollup for unified liquidity and scalable dApps on Mantle.",
+                    "pageTitle":  "zkLink Nova - Blockchains - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://zklink.io/",
+                  "twitter":  "https://x.com/zklink_official"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "zircuit",
+                                           "hyperlane",
+                                           "layerzero"
+                                       ],
+                      "related":  [
+                                      "router-protocol",
+                                      "polyhedra-network",
+                                      "mantle-bridge"
+                                  ]
+                  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "hyperlane",
+  "name": "Hyperlane",
+  "logoUrl": "https://unavatar.io/x/hyperlane",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Celo",
+    "Cosmos",
+    "Ethereum",
+    "Fantom",
+    "Harmony",
+    "Mantle",
+    "OP Mainnet",
+    "Polygon",
+    "Solana"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Hyperlane is a permissionless interoperability framework enabling any developer to connect blockchains and build secure cross-chain applications with modular security.",
+    "description": "Hyperlane is a permissionless interoperability protocol that allows developers to deploy cross-chain messaging between any two blockchains without governance approval. Its modular Interchain Security Modules (ISMs) let developers choose and customize their own security model from multisig validators to ZK proofs tailoring cross-chain applications to specific security and cost requirements. Hyperlane is deployed on Mantle with official support from the network and has become a key building block for cross-chain dApps in the ecosystem.",
+    "meta": "Hyperlane is a permissionless interoperability framework for building secure cross-chain apps on Mantle.",
+    "pageTitle": "Hyperlane - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.hyperlane.xyz/",
+    "twitter": "https://x.com/hyperlane"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "blockchair"
+    ],
+    "related": [
+      "chasm-network",
+      "cobo-argus",
+      "etherspot"
+    ]
+  }
+}

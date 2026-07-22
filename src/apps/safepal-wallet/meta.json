@@ -1,0 +1,44 @@
+{
+  "slug": "safepal-wallet",
+  "name": "SafePal Wallet",
+  "logoUrl": "https://unavatar.io/x/SafePal",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Hardware Wallets"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Celo",
+    "Cronos",
+    "Ethereum",
+    "Fantom",
+    "Harmony",
+    "OP Mainnet",
+    "Polygon",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "SafePal is a self-custody wallet with mobile, extension, and hardware products that support TON and many other assets.",
+    "description": "SafePal combines a mobile app, browser extension, and hardware wallets for storing assets, signing transactions, and accessing dApps through one account system. The wallet stack supports self-custody, cross-chain asset management, swaps, NFT handling, and direct access to onchain services from one interface. In this TON listing, SafePal serves as a broad multi-chain wallet for holding Toncoin, managing transfers, and connecting to supported apps without being limited to a TON-only workflow or product surface.",
+    "meta": "SafePal is a self-custody wallet with mobile, extension, and hardware products that support TON, swaps, NFTs, and multi-chain asset use.",
+    "pageTitle": "SafePal Wallet - Web3 Wallets on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.safepal.com",
+    "twitter": "https://x.com/SafePal"
+  },
+  "relations": {
+    "alternatives": [
+      "tangem-wallet",
+      "tonkeeper-pro"
+    ],
+    "related": [
+      "0xprocessing",
+      "atomic-wallet",
+      "coin-wallet"
+    ]
+  }
+}

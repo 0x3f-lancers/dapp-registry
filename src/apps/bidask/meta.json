@@ -1,0 +1,36 @@
+{
+  "slug": "bidask",
+  "name": "Bidask",
+  "logoUrl": "https://ton.app/media/6d90e92a-4bdc-4da6-a864-96d75fec386f.png?w=128&q=75",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Bidask is a TON decentralized exchange for token swaps and concentrated liquidity positions across custom price ranges.",
+    "description": "Bidask is a decentralized exchange on TON built around concentrated liquidity. The protocol lets traders swap tokens while liquidity providers choose the price ranges where their capital is active, which can improve efficiency compared with standard pool designs. Bidask also documents features such as custom liquidity curves, automatic fee reinvestment, partial order execution, and a Safe Mode that aims to help users operate through volatile market conditions while keeping the product focused on active onchain trading.",
+    "meta": "Bidask provides token swaps and concentrated liquidity tools on TON.",
+    "pageTitle": "Bidask - DeFi Dapps on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bidask.finance",
+    "twitter": "https://x.com/BidaskProtocol",
+    "telegram": "https://t.me/bidask_protocol_bot"
+  },
+  "relations": {
+    "alternatives": [
+      "dedust",
+      "ston-fi",
+      "swap-coffee"
+    ],
+    "related": [
+      "pixelswap",
+      "tonco",
+      "ion-finance"
+    ]
+  }
+}

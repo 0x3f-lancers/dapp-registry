@@ -3,13 +3,29 @@
   "name": "KyberSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747944/web3-explorer/dapp-logos/kyberswap.svg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Bitcoin",
+    "BNB Chain",
+    "Ethereum",
+    "Fantom",
+    "Linea",
+    "Mantle",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "ZKsync"
+  ],
   "pricing": "",
   "content": {
     "short": "KyberSwap is a multi-chain DEX aggregator that pools liquidity from many DEXs for fast trades.",
-    "description": "KyberSwap, founded by Loi Luu of Kyber Network, is a multi‑chain decentralized exchange (DEX) aggregator that lets users trade across 14 EVM‑compatible blockchains, including Polygon, Optimism, Ethereum, Avalanche, and BNB Chain. It uses Dynamic Trade Routing to pool liquidity from more than 70 DEXs, enabling the best prices with low slippage and no additional fees. This liquidity‑aggregation approach broadens access and improves price discovery across compatible networks for traders.",
-    "meta": "KyberSwap is a multi-chain DEX aggregator that pools liquidity from many DEXs for fast trades. Discover KyberSwap and other DeFi Dapps on Lancers Web3 Explorer.",
+    "description": "KyberSwap, founded by Loi Luu of Kyber Network, is a multi-chain decentralized exchange (DEX) aggregator that lets users trade across 14 EVM-compatible blockchains, including Polygon, Optimism, Ethereum, Avalanche, and BNB Chain. It uses Dynamic Trade Routing to pool liquidity from more than 70 DEXs, enabling the best prices with low slippage and no additional fees. This liquidity-aggregation approach broadens access and improves price discovery across compatible networks for traders.",
+    "meta": "KyberSwap is a multi-chain DEX aggregator that pools liquidity from many DEXs for fast trades.",
     "pageTitle": "KyberSwap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -17,7 +33,15 @@
     "twitter": "https://x.com/KyberNetwork"
   },
   "relations": {
-    "alternatives": ["saber", "panoptic", "antfarm-finance"],
-    "related": ["erasure", "pika-protocol", "thetanuts-finance"]
+    "alternatives": [
+      "saber",
+      "panoptic",
+      "antfarm-finance"
+    ],
+    "related": [
+      "erasure",
+      "pika-protocol",
+      "thetanuts-finance"
+    ]
   }
 }

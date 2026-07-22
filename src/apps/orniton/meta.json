@@ -1,0 +1,36 @@
+{
+  "slug": "orniton",
+  "name": "Orniton",
+  "logoUrl": "https://ton.app/media/0b296289-5579-4425-90a9-213fbb44107d.png?w=128&q=75",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Orniton is a TON wallet with swaps, NFT trading tools, and bulk transfer features for tokens and NFTs.",
+    "description": "Orniton is a TON wallet built around active token and NFT use. Its official site and wallet guide describe cross-platform wallet access, jetton swaps through an exchange aggregator, NFT buying and selling across supported marketplaces, and mass sending for tokens or NFTs. The docs also show wallet import and creation flows, including support for different TON wallet contract types and automation features tied to the web and Telegram app experience. In practice, Orniton sits closer to a power user TON wallet than a simple storage app because it combines custody, trading, and collection management in one flow.",
+    "meta": "Orniton is a TON wallet with jetton swaps, NFT marketplace tools, wallet import options, and bulk sending on Lancers Web3 Explorer.",
+    "pageTitle": "Orniton - Web3 Wallets on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://orniton.org",
+    "twitter": "https://x.com/ornitonwallet",
+    "telegram": "https://t.me/Ornitonbot"
+  },
+  "relations": {
+    "alternatives": [
+      "paybis-wallet",
+      "0xprocessing",
+      "atomic-wallet"
+    ],
+    "related": [
+      "tonkeeper-pro",
+      "coin-wallet",
+      "coin98-super-wallet"
+    ]
+  }
+}

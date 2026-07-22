@@ -1,39 +1,40 @@
 {
-  "slug": "chronicle-protocol",
-  "name": "Chronicle Protocol",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745708/web3-explorer/dapp-logos/chronicle-protocol.png",
-  "category": "DeFi Tools",
-  "subcategory": [
-    "Decentralized Oracles"
-  ],
-  "chains": [
-    "Ethereum",
-    "OP Mainnet",
-    "Arbitrum",
-    "Polygon zkEVM",
-    "ZKsync",
-    "Base"
-  ],
-  "pricing": "",
-  "content": {
-    "short": "Chronicle Protocol provides scalable, cost-efficient, decentralized oracles to overcome on-chain data limitations.",
-    "description": "Chronicle Protocol is a blockchain-agnostic data oracle focused on delivering scalable, secure, and resilient information feeds across diverse networks. At its core sits Scribe, an Oracle architecture developed by Chronicle Labs, engineered around five pillars: scalability, transparency, accessibility, resilience, and security. The project emerged in 2023 as a spin-out from the MakerDAO Oracle Core Unit, underscoring a commitment to open, interoperable data that can support decentralized finance and other on-chain applications without relying on a single chain or provider.",
-    "meta": "Chronicle Protocol provides scalable, cost-efficient, decentralized oracles to overcome on-chain data limitations. Discover Chronicle Protocol and other DeFi Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Chronicle Protocol - DeFi Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://chroniclelabs.org/",
-    "twitter": "https://x.com/ChronicleLabs"
-  },
-  "relations": {
-    "alternatives": [
-      "chainlink",
-      "band-protocol",
-      "acurast"
-    ],
-    "related": [
-      "betarpc",
-      "o7node"
-    ]
-  }
+    "slug":  "chronicle-protocol",
+    "name":  "Chronicle Protocol",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745708/web3-explorer/dapp-logos/chronicle-protocol.png",
+    "category":  "DeFi Tools",
+    "subcategory":  [
+                        "Decentralized Oracles"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "OP Mainnet",
+                   "Arbitrum",
+                   "Polygon zkEVM",
+                   "ZKsync",
+                   "Base",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Chronicle Protocol provides decentralized oracle infrastructure for verifiable data delivery and lower cost updates across chains.",
+                    "description":  "Chronicle Protocol is an oracle network built to deliver blockchain data feeds with a stronger focus on transparency, verifiability, and gas efficiency. Its official materials center on Scribe, the protocol's oracle design, along with validator based consensus and tooling that lets builders trace data from publication through onchain delivery. Chronicle grew out of MakerDAO's oracle work and is now positioned as a blockchain agnostic data layer for DeFi and other applications. On Mantle, it fits as shared price and data infrastructure for teams that need secure external inputs.",
+                    "meta":  "Chronicle Protocol provides decentralized oracle infrastructure for verifiable data feeds and lower cost updates across Mantle and other chains.",
+                    "pageTitle":  "Chronicle Protocol - DeFi Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://chroniclelabs.org/",
+                  "twitter":  "https://x.com/ChronicleLabs"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "chainlink",
+                                           "band-protocol",
+                                           "acurast"
+                                       ],
+                      "related":  [
+                                      "betarpc",
+                                      "o7node"
+                                  ]
+                  }
 }

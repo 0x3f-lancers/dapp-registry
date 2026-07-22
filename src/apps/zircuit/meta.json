@@ -1,0 +1,34 @@
+{
+  "slug": "zircuit",
+  "name": "Zircuit",
+  "logoUrl": "https://unavatar.io/x/zircuit",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "pricing": "free",
+  "content": {
+    "short": "Zircuit is a modular ZK rollup with AI-enabled security at the sequencer level, offering yield vaults and restaking products accessible from Mantle.",
+    "description": "Zircuit is a ZK rollup that incorporates AI-powered threat detection directly at the sequencer level, quarantining malicious transactions before they are included in blocks for a novel security model that goes beyond smart contract audits. This approach provides an additional layer of runtime protection for users and protocols. Zircuit also offers yield-bearing vault products accessible through the Mantle ecosystem, enabling users to earn enhanced returns while benefiting from its superior security architecture.",
+    "meta": "Zircuit is a ZK rollup with AI-powered security and yield vaults accessible from Mantle.",
+    "pageTitle": "Zircuit - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.zircuit.com/",
+    "twitter": "https://x.com/zircuit"
+  },
+  "relations": {
+    "alternatives": [
+      "cian-yield-layer",
+      "eigenlayer"
+    ],
+    "related": [
+      "equilibria",
+      "ichi",
+      "infinit"
+    ]
+  }
+}

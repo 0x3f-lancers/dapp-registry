@@ -1,0 +1,35 @@
+{
+  "slug": "bitok",
+  "name": "BitOK",
+  "logoUrl": "https://unavatar.io/x/bitok_org",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "BitOK is a crypto compliance platform with AML screening, KYT monitoring, and investigation tools for wallet activity.",
+    "description": "BitOK is a compliance and risk analysis platform built for monitoring crypto activity. Its product set includes KYT Office for transaction and address monitoring, Graph for visualizing fund flows and address clusters, and AML checks for both companies and individual users. For TON related use cases, BitOK is most relevant to teams that need to review counterparties, watch for suspicious transfers, and build investigation trails around wallet and transaction behavior in day to day operational workflows.",
+    "meta": "BitOK provides AML checks, KYT monitoring, and investigation workflows for crypto activity.",
+    "pageTitle": "BitOK - Web3 Security Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bitok.org",
+    "twitter": "https://x.com/bitok_org"
+  },
+  "relations": {
+    "alternatives": [
+      "chainalysis",
+      "elliptic",
+      "scorechain"
+    ],
+    "related": [
+      "hexens",
+      "scalebit",
+      "trail-of-bits"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "paybis-wallet",
+  "name": "Paybis Wallet",
+  "logoUrl": "https://ton.app/media/4c9b82d5-d883-4368-b8a4-38d9b69e1f18.png?w=128&q=75",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Paybis Wallet is a custodial wallet inside a Paybis account for holding assets and using buy, sell, swap, and transfers.",
+    "description": "Paybis Wallet is the account based wallet layer inside the Paybis exchange product. According to Paybis support and product pages, users can create wallets from their dashboard, receive wallets automatically during checkout, store supported assets, and move between wallet, buy, sell, and swap flows in one account. Paybis also states that its wallet infrastructure is powered by Fireblocks and positions TON support as part of its broader asset coverage rather than as a TON native wallet app. The product is best understood as a custodial access layer for Paybis services instead of a standalone self custody wallet.",
+    "meta": "Paybis Wallet is a custodial account wallet for storing assets and using Paybis buy, sell, swap, and transfer features, including TON.",
+    "pageTitle": "Paybis Wallet - Web3 Wallets on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://paybis.com/?utm_source=TonApp&utm_medium=Wallets_lisitng&utm_campaign=website",
+    "twitter": "https://x.com/paybis",
+    "telegram": "https://t.me/paybis_crypto_exchange_bot"
+  },
+  "relations": {
+    "alternatives": [
+      "orniton",
+      "0xprocessing",
+      "atomic-wallet"
+    ],
+    "related": [
+      "bit2me",
+      "transak",
+      "coin-wallet"
+    ]
+  }
+}
