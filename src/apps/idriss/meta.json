@@ -1,0 +1,37 @@
+{
+  "slug": "idriss",
+  "name": "IDriss",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219706/dapp-store-logos/idriss.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "IDriss maps human-readable identifiers like email addresses and phone numbers to crypto wallet addresses on Mantle and multiple chains.",
+    "description": "IDriss is a decentralized identity and address mapping protocol that allows users to associate human-readable identifiers such as email addresses, Twitter handles, and phone numbers with their cryptocurrency wallet addresses. This eliminates the need to copy-paste long hex addresses when sending crypto, dramatically reducing the chance of errors. IDriss is deployed on Mantle and integrated with popular wallets and browser extensions, making it easier for users to send assets to friends, colleagues, and businesses by name rather than address.",
+    "meta": "IDriss maps emails and social handles to wallet addresses for human-readable crypto transfers on Mantle.",
+    "pageTitle": "IDriss - Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://idriss.xyz/",
+    "twitter": "https://x.com/idriss_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr",
+      "biconomy",
+      "birdeye-data-services"
+    ],
+    "related": [
+      "din-infura",
+      "flipside",
+      "hive-intelligence"
+    ]
+  }
+}

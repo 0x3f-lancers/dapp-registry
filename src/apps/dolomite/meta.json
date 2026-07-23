@@ -8,14 +8,15 @@
   ],
   "chains": [
     "Arbitrum",
-    "Polygon zkEVM"
+    "Polygon zkEVM",
+    "Mantle"
   ],
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Margin trading and liquidity hub on Arbitrum.",
-    "description": "Dolomite is a DeFi Dapps project focused on decentralized lending dapps supporting Arbitrum, Polygon zkEVM.",
-    "meta": "Dolomite is a DeFi Dapps on Arbitrum. Discover it on Lancers Web3 Explorer.",
+    "short": "Dolomite is a decentralized money market and DEX built for lending, borrowing, margin trading, and capital-efficient DeFi.",
+    "description": "Dolomite describes itself as a next-generation decentralized money market protocol and DEX that combines lending and trading inside one modular system. Its docs emphasize broad token support, overcollateralized loans, margin trading, spot trading, flash loans, and a virtual liquidity design aimed at capital efficiency. The protocol is positioned as infrastructure for active DeFi users who want to borrow, hedge, trade, or manage portfolios with more flexibility than a basic lending market. On Mantle, Dolomite fits as an advanced DeFi venue for leveraged strategies, borrowing, and onchain portfolio management.",
+    "meta": "Dolomite is a decentralized money market and DEX for lending, borrowing, margin trading, and capital-efficient DeFi on Mantle.",
     "pageTitle": "Dolomite - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -23,7 +24,15 @@
     "twitter": "https://x.com/Dolomite_io"
   },
   "relations": {
-    "alternatives": [],
-    "related": []
+    "alternatives": [
+      "aave",
+      "b-protocol",
+      "compound"
+    ],
+    "related": [
+      "1delta",
+      "timeswap",
+      "compound-finance"
+    ]
   }
 }

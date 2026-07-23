@@ -3,21 +3,36 @@
   "name": "Transit Swap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750806/web3-explorer/dapp-logos/transit-swap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Polygon", "Multichain"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Multichain",
+    "TON"
+  ],
   "pricing": "",
   "content": {
-    "short": "Transit Swap is a cross-chain swap and DEX platform.",
-    "description": "Transit Swap is a cross-chain swap and decentralized exchange platform that enables real-time, trustless asset swaps across multiple networks. It integrates liquidity from a wide set of DEXs and aggregates quotes from several sources, helping users find favorable rates without leaving the platform. The Transit Swap API returns up-to-date price quotes for token swaps on all supported networks. Liquidity is sourced from top DEXs such as Uniswap, Sushi, PancakeSwap, and more across Ethereum, BNB Chain, Polygon, and beyond.",
-    "meta": "Transit Swap is a cross-chain swap and DEX platform. Discover Transit Swap and other DeFi Dapps on Lancers Web3 Explorer.",
-    "pageTitle": "Transit Swap - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Transit Swap is a multichain trading app that aggregates token swaps, bridge routes, and DEX liquidity across supported networks.",
+    "description": "Transit Swap is a cross-chain trading product from Transit Finance that brings token swaps, bridging, and route comparison into one interface. The platform aggregates liquidity from decentralized exchanges across multiple supported networks and shows users different paths for executing trades or moving assets between chains. TON appears here as one of the supported ecosystems, making Transit Swap more of a multichain routing layer than a TON native exchange or wallet, especially for users comparing price execution across ecosystems.",
+    "meta": "Transit Swap aggregates cross-chain swaps, bridge routes, and DEX liquidity.",
+    "pageTitle": "Transit Swap - DeFi Dapps on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.transit.finance/en/",
     "twitter": "https://x.com/TransitFinance"
   },
   "relations": {
-    "alternatives": ["degate", "balancer"],
-    "related": ["stealthex", "thetanuts-finance"]
+    "alternatives": [
+      "beetroot-finance",
+      "bidask",
+      "ion-finance"
+    ],
+    "related": [
+      "lifi",
+      "rbx",
+      "rhinofi"
+    ]
   }
 }

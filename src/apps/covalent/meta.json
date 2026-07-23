@@ -1,35 +1,36 @@
 {
-  "slug": "covalent",
-  "name": "Covalent",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745908/web3-explorer/dapp-logos/covalent.jpg",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "Indexing Tools"
-  ],
-  "chains": [
-    "Ethereum",
-    "Polygon",
-    "Avalanche",
-    "BNB Chain",
-    "Arbitrum"
-  ],
-  "pricing": "Free",
-  "content": {
-    "short": "Covalent provides a unified API to access data from multiple chains and other searchable endpoints.",
-    "description": "Covalent provides free APIs that connect projects with the data they need, with coverage across 40 blockchains. Developers can use the Covalent API to build query-based applications that retrieve dynamic data on demand. In addition, Covalent runs research training programs aimed at broadening Web3 development knowledge and helping developers harness blockchain data in practical, scalable ways. This combination supports both rapid integration and hands-on learning for teams new to on-chain data.",
-    "meta": "Covalent is a unified API bringing data from multiple chains and other searchable endpoints. Discover Covalent and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Covalent - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.covalenthq.com/",
-    "twitter": "https://x.com/covalent_hq"
-  },
-  "relations": {
-    "alternatives": [
-      "chainstack-subgraphs"
-    ],
-    "related": [
-      "astrochain"
-    ]
-  }
+    "slug":  "covalent",
+    "name":  "Covalent",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745908/web3-explorer/dapp-logos/covalent.jpg",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "Indexing Tools"
+                    ],
+    "chains":  [
+                   "Ethereum",
+                   "Polygon",
+                   "Avalanche",
+                   "BNB Chain",
+                   "Arbitrum",
+                   "Mantle"
+               ],
+    "pricing":  "Free",
+    "content":  {
+                    "short":  "Covalent provides blockchain data infrastructure through unified APIs, indexing, and long term data availability services.",
+                    "description":  "Covalent is a data infrastructure network focused on indexing, normalizing, and serving blockchain data across many ecosystems. Its official documentation describes the Covalent Network as a modular system for long term data availability and verifiability, with GoldRush APIs exposing unified access to historical and real time chain data. The product is useful for developers and analytics systems that need structured blockchain data. On Mantle, Covalent fits as indexing and API infrastructure rather than an end-user product, helping teams query activity without building their own data pipeline from scratch.",
+                    "meta":  "Covalent provides blockchain data infrastructure through unified APIs, indexing, and long term data access for teams on Mantle.",
+                    "pageTitle":  "Covalent - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.covalenthq.com/",
+                  "twitter":  "https://x.com/covalent_hq"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "chainstack-subgraphs"
+                                       ],
+                      "related":  [
+                                      "astrochain"
+                                  ]
+                  }
 }

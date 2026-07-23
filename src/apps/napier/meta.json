@@ -1,0 +1,35 @@
+{
+  "slug": "napier",
+  "name": "Napier",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537889/dapp-store-logos/napier.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Farming Platforms"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Napier is a modular yield tokenization protocol for fixed yield, variable yield, and composable strategies.",
+    "description": "Napier is a decentralized, non-custodial yield protocol for EVM networks. The protocol tokenizes yield-bearing assets into principal tokens and yield tokens, enabling users to fix yield, trade variable yield, and build more advanced strategies around market-set interest rates. Napier v2 is designed as a modular and permissionless base layer where curators and applications can create yield products while users retain control of their assets. On Mantle, Napier expands the toolkit for yield trading, points exposure, and structured DeFi strategies.",
+    "meta": "Napier tokenizes yield-bearing assets for fixed yield, variable yield, and DeFi strategies on Mantle.",
+    "pageTitle": "Napier - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.napier.finance/explore",
+    "twitter": "https://x.com/napierfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "airpuff",
+      "0x"
+    ],
+    "related": [
+      "1delta",
+      "agni"
+    ]
+  }
+}

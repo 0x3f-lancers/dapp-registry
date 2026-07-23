@@ -1,0 +1,38 @@
+{
+  "slug": "swap-coffee",
+  "name": "swap.coffee",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219883/dapp-store-logos/swap-coffee.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "swap.coffee is a TON trading app for token swaps, route aggregation, and liquidity access across supported pools and DEXs.",
+    "description": "swap.coffee is a TON trading app built around token swaps, liquidity routing, and access to multiple execution paths from one interface. The product combines its own Coffee DEX with aggregator logic that searches available pools to find suitable routes for TON and jetton trades. Its documentation also highlights multi hop swaps, developer APIs, and an embeddable widget, which makes the platform useful both for direct users and for teams that want swap features inside their own TON products and services.",
+    "meta": "swap.coffee provides TON swap routing, liquidity aggregation, and developer tools for token trading across supported pools and DEXs.",
+    "pageTitle": "swap.coffee - DeFi Dapps on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://swap.coffee/dex",
+    "twitter": "https://x.com/swap_coffee_ton",
+    "telegram": "https://t.me/swapcoffeebot"
+  },
+  "relations": {
+    "alternatives": [
+      "storm-trade",
+      "ston-fi",
+      "bidask"
+    ],
+    "related": [
+      "pixelswap",
+      "dedust",
+      "ion-finance"
+    ]
+  }
+}

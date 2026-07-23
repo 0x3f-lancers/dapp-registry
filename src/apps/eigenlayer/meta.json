@@ -1,0 +1,36 @@
+{
+  "slug": "eigenlayer",
+  "name": "EigenLayer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339980/dapp-store-logos/eigenlayer.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "EigenLayer is a restaking protocol that lets Ethereum stake secure additional services called actively validated services.",
+    "description": "EigenLayer is a restaking protocol built to extend Ethereum security to additional middleware and applications known as actively validated services. Its official material focuses on operators, AVSs, and restakers who choose to reuse existing stake instead of bootstrapping a separate validator set for every new system. That makes EigenLayer more like shared security infrastructure than a simple yield app, even though users may encounter it through restaking opportunities. For Mantle participants, it is relevant as a gateway to restaking strategies and to services that rely on Ethereum-aligned economic security.",
+    "meta": "EigenLayer is a restaking protocol that extends Ethereum-aligned economic security to additional services for teams on Mantle.",
+    "pageTitle": "EigenLayer - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.eigencloud.xyz/",
+    "twitter": "https://x.com/eigencloud"
+  },
+  "relations": {
+    "alternatives": [
+      "cian-yield-layer",
+      "equilibria"
+    ],
+    "related": [
+      "ichi",
+      "infinit",
+      "zircuit"
+    ]
+  }
+}

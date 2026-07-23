@@ -1,0 +1,36 @@
+{
+  "slug": "hipo-finance",
+  "name": "Hipo Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219696/dapp-store-logos/hipo-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Hipo Finance is a TON liquid staking protocol where users stake TON and receive hTON for use across DeFi products.",
+    "description": "Hipo Finance is a liquid staking protocol on TON that lets users deposit TON, earn validator backed staking rewards, and receive hTON as a liquid receipt token. That structure allows users to keep exposure to staking returns while still moving hTON through supported DeFi products instead of locking all value into a static position. The app and documentation focus on staking, unstaking, reward accrual, validator operations, and integrations that make hTON usable across the wider TON financial ecosystem.",
+    "meta": "Hipo Finance issues hTON for staked TON, giving users staking rewards while preserving liquidity for use in supported TON DeFi apps.",
+    "pageTitle": "Hipo Finance - DeFi Dapps on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.hipo.finance",
+    "twitter": "https://x.com/hipofinance",
+    "telegram": "https://t.me/HipoFinanceBot"
+  },
+  "relations": {
+    "alternatives": [
+      "beetroot-finance"
+    ],
+    "related": [
+      "bidask",
+      "ion-finance",
+      "pixelswap"
+    ]
+  }
+}

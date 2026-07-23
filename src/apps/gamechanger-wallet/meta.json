@@ -1,0 +1,37 @@
+{
+  "slug": "gamechanger-wallet",
+  "name": "GameChanger Wallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340576/dapp-store-logos/gamechanger-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "GameChanger Wallet is a feature-rich, non-custodial web wallet for Cardano with NFT minting and dApp connectivity.",
+    "description": "GameChanger Wallet is a powerful, non-custodial web wallet built to enhance the user experience across the Cardano blockchain. It offers a suite of advanced features, including native NFT minting, drag-and-drop asset management, and a Universal Dapp Connector for direct integration with Web3 platforms like Future Fest. The wallet's unique 'intents' system allows users to interact with smart contracts and verify ownership directly within decentralized applications. By prioritizing technical flexibility, GameChanger Wallet serves as a vital bridge for both everyday users and developers.",
+    "meta": "GameChanger Wallet is a non-custodial Cardano web wallet for NFT minting and dApp connections. Explore it now on Lancers Web3 Explorer.",
+    "pageTitle": "GameChanger Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gamechanger.finance/",
+    "docs": "https://gamechangerfinance.github.io/gamechanger.wallet/docs/",
+    "twitter": "https://x.com/gamechangerok"
+  },
+  "relations": {
+    "alternatives": [
+      "alphawallet",
+      "ecoinwallet"
+    ],
+    "related": [
+      "chainup-mpc-wallet",
+      "etherspot-sdk",
+      "yoroi-wallet"
+    ]
+  }
+}

@@ -7,14 +7,20 @@
     "Software Wallets"
   ],
   "chains": [
-    "Ethereum"
+    "Bitcoin",
+    "BNB Chain",
+    "Ethereum",
+    "Polygon",
+    "Solana",
+    "TON",
+    "Tron"
   ],
   "pricing": "",
   "content": {
-    "short": "TokenPocket is a secure multichain digital cryptocurrency wallet.",
-    "description": "TokenPocket is a secure multi-chain cryptocurrency wallet that lets you send, receive, and swap tokens across networks such as Bitcoin, Ethereum, Polkadot, TRON, EOS, IOST, BOScoin, Polygon, and more. Built on the DApp portal, it connects with over 2,200 pre-built DApps. In a single screen, you can manage transfers and monitor all activity, while the News and Market sections provide blockchain updates and live prices. Security is ensured with a 6-digit PIN, fingerprint, and FaceID authentication.",
-    "meta": "TokenPocket is a secure multichain digital cryptocurrency wallet. Discover TokenPocket and other Web3 Wallets on Lancers Web3 Explorer.",
-    "pageTitle": "TokenPocket - Web3 Wallets - Lancers Web3 Explorer"
+    "short": "TokenPocket is a self-custodial multichain wallet with TON support, dapp access, swaps, and wallet tools across devices.",
+    "description": "TokenPocket is a self-custodial wallet ecosystem that spans mobile, browser extension, and hardware wallet products while supporting a large set of blockchains and dapps. Its official help center describes the wallet as a multichain product for storing assets, connecting to decentralized applications, swapping tokens, and accessing on and off ramp services from one account environment. TON support sits inside that broader offering, making TokenPocket relevant for users who want one wallet for daily multichain use rather than a TON only client.",
+    "meta": "TokenPocket offers a self-custodial multichain wallet with TON support, dapp connectivity, swaps, and cross-device access tools.",
+    "pageTitle": "TokenPocket - Web3 Wallets on TON - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.tokenpocket.pro/",
@@ -22,13 +28,14 @@
   },
   "relations": {
     "alternatives": [
-      "pillar",
-      "taho-xyz",
-      "wombat"
+      "0xprocessing",
+      "atomic-wallet",
+      "coin-wallet"
     ],
     "related": [
-      "trezor",
-      "custonomy-web3asy"
+      "ledger",
+      "alfa1",
+      "alphawallet"
     ]
   }
 }

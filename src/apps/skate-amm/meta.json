@@ -1,0 +1,36 @@
+{
+  "slug": "skate-amm",
+  "name": "Skate AMM",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537904/dapp-store-logos/skate-amm.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Skate AMM is a cross-chain AMM with unified pricing and liquidity across connected blockchain networks.",
+    "description": "Skate AMM is the flagship application of Skate's stateless app infrastructure. Instead of deploying isolated pools on each chain, Skate AMM keeps canonical pool state on a hub chain and lets periphery chains execute swaps against the same unified liquidity model. This design aims to aggregate liquidity, smooth fee income for LPs, and provide one consistent price curve across EVM, Solana, Sui, and other connected environments. On Mantle, Skate AMM gives users access to cross-chain liquidity while preserving native execution on the chain they are using.",
+    "meta": "Skate AMM is a cross-chain AMM with unified liquidity, pricing, and native execution on Mantle.",
+    "pageTitle": "Skate AMM - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://amm.skatechain.org/swap",
+    "twitter": "https://x.com/skate_chain"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1delta",
+      "agni"
+    ],
+    "related": [
+      "algebra-protocol",
+      "banxa"
+    ]
+  }
+}

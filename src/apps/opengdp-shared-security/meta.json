@@ -1,0 +1,35 @@
+{
+  "slug": "opengdp-shared-security",
+  "name": "OpenGDP Shared Security",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537893/dapp-store-logos/opengdp-shared-security.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "OpenGDP Shared Security provides a modular network stack for creating dedicated chains with shared validator security.",
+    "description": "OpenGDP Shared Security is part of the OpenGDP Network Stack, a modular architecture for developers, enterprises, and institutions that want to launch dedicated blockchain networks. The stack emphasizes full-stack customizability, no-inflation network creation, instant validator sets, and shared security backed by blue-chip crypto assets and real-world assets. Its security model validates data at header, block, and transaction levels while enforcing runtime safeguards. On Mantle, OpenGDP brings shared-security infrastructure for applications that need dedicated execution environments with stronger validator guarantees.",
+    "meta": "OpenGDP Shared Security helps launch dedicated blockchain networks with shared validator security on Mantle.",
+    "pageTitle": "OpenGDP Shared Security - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://opengdp.network/",
+    "twitter": "https://x.com/opengdp"
+  },
+  "relations": {
+    "alternatives": [
+      "mitosis",
+      "agentlayer"
+    ],
+    "related": [
+      "automata",
+      "boomfi"
+    ]
+  }
+}

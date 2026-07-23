@@ -12,13 +12,14 @@
     "Avalanche",
     "BNB Chain",
     "Arbitrum",
-    "OP Mainnet"
+    "OP Mainnet",
+    "Mantle"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Chainlink is a DeFi oracle that provides Ethereum-based smart contracts with real-world data.",
-    "description": "Chainlink is a DeFi oracle that enables Ethereum-based smart contracts to access real-world data and off-chain computation. Its core offerings include data feeds, Verifiable Random Numbers (VRF), the ability to call external APIs, and automated contracts. The protocol is designed to verify that smart contract parameters relying on real-world data remain independent of stakeholders, providing trusted inputs for DeFi applications and other on-chain use cases.",
-    "meta": "Chainlink is a DeFi oracle that provides Ethereum-based smart contracts with real-world data. Discover Chainlink and other DeFi Tools on Lancers Web3 Explorer.",
+    "short": "Chainlink provides oracle networks, automation, crosschain messaging, and external data for smart contracts.",
+    "description": "Chainlink is decentralized infrastructure that helps smart contracts connect with data, computation, and systems outside their own chain. Its product set includes Data Feeds for market and reference data, VRF for verifiable randomness, Automation for scheduled execution, Functions for API powered compute, and CCIP for crosschain messaging. These services are widely used across DeFi, gaming, and tokenized asset applications. For Mantle developers, Chainlink serves as a dependable middleware layer for pricing, automation, interoperability, and other offchain inputs that contracts cannot source on their own.",
+    "meta": "Chainlink supplies oracle, automation, and crosschain infrastructure for Mantle apps.",
     "pageTitle": "Chainlink - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

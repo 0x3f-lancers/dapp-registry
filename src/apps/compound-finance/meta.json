@@ -1,0 +1,35 @@
+{
+  "slug": "compound-finance",
+  "name": "Compound Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219625/dapp-store-logos/compound-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Compound Finance is a decentralized lending protocol where users supply assets, earn yield, and borrow against posted collateral.",
+    "description": "Compound Finance is one of the foundational lending protocols in DeFi and now centers much of its architecture around Compound III, also called Comet. Its official docs describe supplying the base asset to earn interest, using supported collateral assets to borrow, and interacting with isolated market deployments on EVM chains. The protocol is governance controlled and designed as an open money market rather than a closed app experience. On Mantle, Compound fits as core lending infrastructure for users who want borrowing, collateral management, and programmatic access to a battle-tested DeFi credit market.",
+    "meta": "Compound Finance is a decentralized lending protocol for supplying assets, earning yield, and borrowing against collateral on Mantle.",
+    "pageTitle": "Compound Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://compound.finance/",
+    "twitter": "https://x.com/compoundfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "clearpool",
+      "impermax-v2"
+    ],
+    "related": [
+      "kinza-finance",
+      "myso-finance"
+    ]
+  }
+}

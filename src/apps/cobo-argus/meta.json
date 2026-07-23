@@ -1,0 +1,36 @@
+{
+  "slug": "cobo-argus",
+  "name": "Cobo Argus",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219619/dapp-store-logos/cobo-argus.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Custody Solutions"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Cobo Argus is an institutional asset management platform for controlled onchain execution and automated DeFi strategies.",
+    "description": "Cobo Argus is Cobo's onchain asset management platform for institutions that want stricter control over DeFi operations. Its official product pages highlight smart contract wallet architecture, role based permissions, workflow controls, strategy bots, and compatibility with open-source DeFi protocols across supported chains. The product is designed for organizations managing treasury or investment activity rather than retail self-custody. On Mantle, Cobo Argus fits as institutional execution infrastructure for teams that need automation and yield access without giving up approvals or audit visibility.",
+    "meta": "Cobo Argus is an institutional asset management platform for controlled onchain execution, permissions, and automated DeFi strategies on Mantle.",
+    "pageTitle": "Cobo Argus - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.cobo.com/products/argus",
+    "twitter": "https://x.com/cobo_global"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "blockchair"
+    ],
+    "related": [
+      "chasm-network",
+      "etherspot",
+      "hyperlane"
+    ]
+  }
+}

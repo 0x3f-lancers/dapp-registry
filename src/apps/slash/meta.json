@@ -1,45 +1,37 @@
 {
   "slug": "slash",
   "name": "Slash",
-  "logoUrl": "https://unavatar.io/x/slashapp",
-  "category": "Neobanks",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219861/dapp-store-logos/slash.jpg",
+  "category": "Infrastructure Tools",
   "subcategory": [
-    "Business Neobanks",
-    "Cross-border Neobanks",
-    "Stablecoin Neobanks"
+    "RPC Node Providers"
   ],
   "chains": [
-    "Ethereum",
-    "Solana"
+    "Mantle"
   ],
-  "tags": [
-    "Neobanks",
-    "Business Neobanks",
-    "Cross-border Neobanks",
-    "Stablecoin Neobanks",
-    "B2B",
-    "Stablecoin",
-    "Cross-border Payments",
-    "Cards and Virtual Accounts"
-  ],
-  "pricing": "",
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
   "content": {
-    "short": "Slash is a business banking platform with corporate cards, treasury, working capital and stablecoin payments.",
-    "description": "Slash is a business banking platform that combines accounts, corporate cards, treasury, invoicing and stablecoin payments for companies operating globally. Businesses can hold and manage funds, issue unlimited physical and virtual cards, run payments and payouts, earn treasury yield, and move money using both traditional rails and stablecoins through its Global USD account and USDSL stablecoin. Slash serves more than 10,000 businesses, including e-commerce sellers, agencies, healthcare providers and Web3 companies, that want fast onboarding, programmable spend controls and the ability to bridge fiat and stablecoin flows. Backed by a 100 million dollar Series C at a 1.4 billion dollar valuation, it works as a modern financial hub for cross-border companies.",
-    "meta": "Slash offers business banking, cards, treasury and stablecoin payments globally. Discover Slash and other Neobanks on Lancers Web3 Explorer.",
-    "pageTitle": "Slash - Neobanks - Lancers Web3 Explorer"
+    "short": "Slash is a Web3 crypto payment gateway on Mantle enabling merchants and users to pay and accept 100+ cryptocurrencies for real-world goods.",
+    "description": "Slash is a decentralized crypto payment infrastructure protocol that enables merchants, e-commerce stores, and service providers to accept over 100 different cryptocurrencies as payment for real-world goods and services. The protocol handles automatic currency conversion and settlement, allowing businesses to receive payments in their preferred token regardless of what the customer pays with. Slash is deployed on Mantle, enabling Mantle ecosystem users and businesses to participate in a growing crypto-native commerce network.",
+    "meta": "Slash is a Web3 crypto payment gateway on Mantle enabling merchants to accept 100+ cryptocurrencies.",
+    "pageTitle": "Slash - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.slash.com/",
-    "twitter": "https://x.com/slashapp"
+    "website": "https://slash.vision/",
+    "twitter": "https://x.com/SlashWeb3"
   },
   "relations": {
     "alternatives": [
-      "brex",
-      "meow"
+      "agentlayer",
+      "automata",
+      "boomfi"
     ],
     "related": [
-      "dakota"
+      "drpc",
+      "omnia-protocol",
+      "phalcon"
     ]
   }
 }

@@ -1,47 +1,48 @@
 {
-  "slug": "ankr",
-  "name": "Ankr",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744888/web3-explorer/dapp-logos/ankr.png",
-  "category": "Infrastructure Tools",
-  "subcategory": [
-    "RPC Node Providers",
-    "Indexing Tools"
-  ],
-  "chains": [
-    "Aptos",
-    "Arbitrum",
-    "Avalanche",
-    "BNB Chain",
-    "Celo",
-    "Ethereum",
-    "Fantom",
-    "Harmony",
-    "OP Mainnet",
-    "Polkadot",
-    "Polygon",
-    "Polygon zkEVM",
-    "Solana",
-    "Sui",
-    "Tron"
-  ],
-  "pricing": "",
-  "content": {
-    "short": "Ankr is a Web3 development hub offering high-performance RPC connections to 30+ blockchains and global node infrastructure.",
-    "description": "Ankr provides high-performance RPC API connections to 30+ blockchains, backed by a global network of node infrastructure. Designed for developers, it offers a suite of advanced tools and services, including Web3 SDKs, libraries, NFT APIs, and wallet connection utilities, to streamline building Web3 apps. With nodes distributed worldwide, it delivers reliable, scalable blockchain access to power decentralized applications with speed and confidence.",
-    "meta": "Ankr offers high-performance RPC API connections to 30+ blockchains with global node infrastructure. Discover Ankr and other Web3 apps on Lancers Web3 Explorer.",
-    "pageTitle": "Ankr - Infrastructure Tools - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://www.ankr.com/",
-    "twitter": "https://x.com/ankr"
-  },
-  "relations": {
-    "alternatives": [
-      "chainstack",
-      "alchemy"
-    ],
-    "related": [
-      "decimal"
-    ]
-  }
+    "slug":  "ankr",
+    "name":  "Ankr",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744888/web3-explorer/dapp-logos/ankr.png",
+    "category":  "Infrastructure Tools",
+    "subcategory":  [
+                        "RPC Node Providers",
+                        "Indexing Tools"
+                    ],
+    "chains":  [
+                   "Aptos",
+                   "Arbitrum",
+                   "Avalanche",
+                   "BNB Chain",
+                   "Celo",
+                   "Ethereum",
+                   "Fantom",
+                   "Harmony",
+                   "OP Mainnet",
+                   "Polkadot",
+                   "Polygon",
+                   "Polygon zkEVM",
+                   "Solana",
+                   "Sui",
+                   "Tron",
+                   "Mantle"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Ankr provides RPC endpoints, blockchain data access, and developer tooling for teams building and scaling apps on Mantle.",
+                    "description":  "Ankr runs blockchain infrastructure that helps developers connect apps to networks through RPC endpoints, node services, and related Web3 tooling. Its Mantle support gives teams access to JSON-RPC methods for reading chain data, broadcasting transactions, tracing activity, and building backend services without operating their own nodes. Ankr also offers SDKs and APIs that simplify app development, making it a practical choice for wallets, analytics products, and other services that need dependable Mantle connectivity at scale.",
+                    "meta":  "Ankr provides RPC endpoints, node access, and developer tooling that helps Mantle apps connect reliably and scale their infrastructure.",
+                    "pageTitle":  "Ankr - Infrastructure Tools - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://www.ankr.com/",
+                  "twitter":  "https://x.com/ankr"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "chainstack",
+                                           "alchemy"
+                                       ],
+                      "related":  [
+                                      "decimal"
+                                  ]
+                  }
 }

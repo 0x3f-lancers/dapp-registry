@@ -1,0 +1,36 @@
+{
+  "slug": "clique",
+  "name": "Clique",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219617/dapp-store-logos/clique.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Clique provides TEE based infrastructure for secure attestations, identity verification, and privacy preserving integrations.",
+    "description": "Clique is building trusted execution infrastructure for applications that need confidential computation, attestations, and secure identity flows. Its official docs describe a TEE network for verifiable offchain computation, proof generation, and data verification, while related product pages show wallet and identity use cases that rely on SGX backed key protection and attested execution. In the Mantle ecosystem, Clique fits as infrastructure for teams that want privacy preserving verification and trusted compute without exposing sensitive user data directly onchain.",
+    "meta": "Clique provides TEE based infrastructure for secure attestations, identity verification, and privacy preserving integrations on Mantle.",
+    "pageTitle": "Clique - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.clique.tech/",
+    "twitter": "https://x.com/Clique2046"
+  },
+  "relations": {
+    "alternatives": [
+      "claimr",
+      "agentlayer"
+    ],
+    "related": [
+      "automata",
+      "boomfi",
+      "drpc"
+    ]
+  }
+}

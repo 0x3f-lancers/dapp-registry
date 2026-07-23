@@ -8,20 +8,22 @@
   ],
   "chains": [
     "Arbitrum",
+    "Avalanche",
     "BNB Chain",
     "Cronos",
-    "Multichain",
     "Ethereum",
-    "Solana",
+    "Mantle",
+    "Multichain",
+    "OP Mainnet",
     "Polygon",
-    "Avalanche",
-    "OP Mainnet"
+    "Solana",
+    "TON"
   ],
   "pricing": "",
   "content": {
-    "short": "Transak is a global fiat on/off ramp and onboarding toolkit.",
-    "description": "Transak provides web3 payments infrastructure that makes onboarding and offboarding web3 users intuitive within any experience. Any web3 application can integrate Transak's suite of products—On-Ramp, Off-Ramp, NFT Checkout, Transak One, Corporate On/Off-Ramp, and more—to onboard new users from 160+ countries with a minimal learning curve. The platform delivers a cohesive, ready-to-implement payment flow that reduces complexity for developers and helps projects reach diverse audiences without heavy custom work.",
-    "meta": "Transak is a global fiat on/off ramp and onboarding toolkit. Discover Transak and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "short": "Transak is a fiat on and off ramp platform that helps apps let users buy or sell crypto without leaving the product.",
+    "description": "Transak provides payments infrastructure for Web3 apps that want embedded fiat on ramp and off ramp flows inside wallets, games, marketplaces, and other products. Its official documentation highlights prebuilt widgets, SDKs, and whitelabel options that let partners support crypto purchases with cards, bank transfers, and local methods, then enable cash outs back to fiat as well. The platform is presented as an onboarding and exit layer that handles compliance, risk controls, and user flow complexity for integrators working across many chains.",
+    "meta": "Transak offers embedded fiat on ramp and off ramp infrastructure with widgets, APIs, and compliance handling for Web3 apps globally.",
     "pageTitle": "Transak - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {

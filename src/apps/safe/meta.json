@@ -1,0 +1,37 @@
+{
+  "slug": "safe",
+  "name": "Safe",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219850/dapp-store-logos/safe.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Smart Contract Wallets",
+    "Multisig Wallets"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Safe is the leading smart contract wallet platform enabling secure multi-signature treasury and asset management for DAOs and teams on Mantle.",
+    "description": "Safe (formerly Gnosis Safe) is the most trusted smart contract wallet platform in Web3, securing billions in assets for DAOs, protocols, and institutional teams with its multi-signature architecture requiring multiple approvals before any transaction executes. Originally launched in 2018, Safe has become the de facto standard for protocol treasury management and team asset custody. Safe is officially supported on Mantle Network and is widely used by Mantle ecosystem projects for secure fund management.",
+    "meta": "Safe is the leading multi-signature smart contract wallet for secure treasury management on Mantle.",
+    "pageTitle": "Safe - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://safe.global/",
+    "twitter": "https://x.com/safelabs_"
+  },
+  "relations": {
+    "alternatives": [
+      "ambire-wallet",
+      "metamask",
+      "rabby-wallet"
+    ],
+    "related": [
+      "ledger",
+      "zerion"
+    ]
+  }
+}

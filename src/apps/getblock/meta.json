@@ -7,19 +7,21 @@
     "RPC Node Providers"
   ],
   "chains": [
+    "Mantle",
     "Ethereum",
     "Polygon",
     "Avalanche",
     "BNB Chain",
     "OP Mainnet",
     "Arbitrum",
-    "Solana"
+    "Solana",
+    "TON"
   ],
   "pricing": "Paid",
   "content": {
-    "short": "GetBlock is a node service provider that offers blockchain-as-a-service and APIs to build.",
-    "description": "GetBlock serves blockchain-dependent businesses by enabling them to run customized private nodes or access shared nodes as needed, providing a flexible foundation for diverse operational setups across multiple networks. The platform offers APIs to integrate crypto payments via DeFi services and custodial wallet functionality, simplifying payment flows, asset management, and secure transaction processing. With support across Ethereum, Polygon, Avalanche, BNB Chain, OP Mainnet, Arbitrum, Solana, Multichain, and Aptos, the service adapts to varied deployment needs.",
-    "meta": "GetBlock is a service provider for blockchain-reliant businesses to host custom private nodes or use shared nodes. Discover GetBlock and other Infrastructure Tools on Lancers Web3 Explorer.",
+    "short": "GetBlock provides RPC nodes and blockchain APIs that help developers connect apps, wallets, and services to supported networks.",
+    "description": "GetBlock is an infrastructure provider that gives developers and businesses access to shared and dedicated blockchain nodes through ready to use RPC endpoints and APIs. Its official docs position the service around fast endpoint setup, access tokens, multi chain coverage, and managed connectivity so teams can build without running their own node stack. The platform supports more than 100 networks and includes TON specific JSON RPC endpoints, which makes it practical for wallets, analytics products, DeFi apps, and other services that need reliable chain access.",
+    "meta": "GetBlock provides RPC nodes and blockchain APIs for developers building wallets, apps, and services across supported networks.",
     "pageTitle": "GetBlock - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {

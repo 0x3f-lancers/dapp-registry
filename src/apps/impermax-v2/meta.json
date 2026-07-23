@@ -1,0 +1,35 @@
+{
+  "slug": "impermax-v2",
+  "name": "Impermax V2",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537878/dapp-store-logos/impermax-v2.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Impermax V2 is a permissionless lending protocol for LP-backed borrowing and leveraged yield farming.",
+    "description": "Impermax V2 is a cross-chain lending protocol designed around isolated lending pools for DEX liquidity pairs. Lenders can supply tokens to earn interest without taking direct impermanent loss, while borrowers can use LP tokens as collateral to borrow the paired assets and increase their farming position. This structure supports indirect liquidity providing, leveraged yield farming, and market-maker-style lending strategies with pool-level risk isolation. On Mantle, Impermax V2 gives DeFi users access to LP-backed credit markets and more flexible ways to manage yield exposure.",
+    "meta": "Impermax V2 enables LP-backed lending, borrowing, and leveraged yield farming strategies on Mantle.",
+    "pageTitle": "Impermax V2 - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.impermax.finance/",
+    "twitter": "https://x.com/impermaxfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "clearpool",
+      "compound-finance"
+    ],
+    "related": [
+      "kinza-finance",
+      "myso-finance"
+    ]
+  }
+}

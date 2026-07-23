@@ -3,7 +3,9 @@
   "name": "Matcha",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748228/web3-explorer/dapp-logos/matcha.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Ethereum",
     "Polygon",
@@ -13,13 +15,14 @@
     "BNB Chain",
     "Avalanche",
     "Fantom",
-    "Celo"
+    "Celo",
+    "Mantle"
   ],
   "pricing": "",
   "content": {
     "short": "Matcha is a DEX aggregator offering swaps and limit orders for 6+ million tokens across 9 networks.",
     "description": "Matcha is a decentralized exchange (DEX) that lets you trade over 6 million tokens with swaps and limit orders. With Matcha Auto, you gain MEV protection and gasless swaps. Connecting to more than 130 liquidity sources, Matcha routes orders to secure the best value through smart order routing, delivering the lowest trade revert rates of any DEX. It is trusted by individuals and institutions alike.",
-    "meta": "Matcha is a DEX aggregator for swaps and limit orders across major EVM networks. Discover Matcha and other DeFi Dapps on Lancers Web3 Explorer.",
+    "meta": "Matcha is a DEX aggregator for swaps and limit orders across major EVM networks.",
     "pageTitle": "Matcha - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -27,7 +30,13 @@
     "twitter": "https://x.com/matchaxyz"
   },
   "relations": {
-    "alternatives": ["kyberswap", "aark"],
-    "related": ["swissborg", "bumper-finance"]
+    "alternatives": [
+      "kyberswap",
+      "aark"
+    ],
+    "related": [
+      "swissborg",
+      "bumper-finance"
+    ]
   }
 }

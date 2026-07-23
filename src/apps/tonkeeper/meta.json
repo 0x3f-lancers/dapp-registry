@@ -1,0 +1,38 @@
+{
+  "slug": "tonkeeper",
+  "name": "Tonkeeper",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860461/dapp-store-logos/tonkeeper.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Tonkeeper is a self custody TON wallet for payments, swaps, staking, NFTs, and access to apps across the network.",
+    "description": "Tonkeeper is one of the main self custody wallets built specifically for The Open Network. It gives users a place to store TON and jettons, send payments, manage NFTs, swap supported assets, and join staking from inside a single wallet app. The product also supports QR based transfers and connections to decentralized applications, which makes it useful as both an everyday wallet and a gateway into the broader TON ecosystem. Its role is closer to a core native wallet than a general multi-chain app with partial TON support.",
+    "meta": "Tonkeeper helps users manage TON assets, payments, swaps, staking, NFTs, and app connections through a wallet built for the network.",
+    "pageTitle": "Tonkeeper - Web3 Wallets on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tonkeeper.com",
+    "twitter": "https://x.com/tonkeeper",
+    "telegram": "https://t.me/tonkeeper"
+  },
+  "relations": {
+    "alternatives": [
+      "tokenpocket",
+      "trust-wallet",
+      "0xprocessing"
+    ],
+    "related": [
+      "paybis-wallet",
+      "atomic-wallet",
+      "coin-wallet"
+    ]
+  }
+}

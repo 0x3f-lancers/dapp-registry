@@ -1,0 +1,44 @@
+{
+  "slug": "trust-wallet",
+  "name": "Trust Wallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219973/dapp-store-logos/trust-wallet.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Bitcoin",
+    "BNB Chain",
+    "Cosmos",
+    "Ethereum",
+    "OP Mainnet",
+    "Solana",
+    "TON"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Trust Wallet is a self custody multi-chain wallet for assets, swaps, NFTs, dapps, and TON support inside a broader Web3 app.",
+    "description": "Trust Wallet is a self custody wallet available on mobile and browser extension, built for users who want one app for assets across many blockchains. It supports token storage, swaps, NFT management, staking features, and connections to decentralized applications through a familiar multi-chain interface. In the TON ecosystem, it works as a general purpose wallet option for people who want access to TON alongside many other networks, rather than a wallet designed only for TON native workflows and product integrations.",
+    "meta": "Trust Wallet gives users self custody access to assets, swaps, NFTs, dapps, and TON support inside a wider multi-chain wallet experience.",
+    "pageTitle": "Trust Wallet - Web3 Wallets on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://trustwallet.com",
+    "twitter": "https://x.com/TrustWallet",
+    "telegram": "https://t.me/trust_announcements"
+  },
+  "relations": {
+    "alternatives": [
+      "tonkeeper",
+      "0xprocessing",
+      "atomic-wallet"
+    ],
+    "related": [
+      "tokenpocket",
+      "tonkeeper-pro",
+      "coin-wallet"
+    ]
+  }
+}

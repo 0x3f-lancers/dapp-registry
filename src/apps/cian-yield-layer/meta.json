@@ -1,0 +1,36 @@
+{
+  "slug": "cian-yield-layer",
+  "name": "CIAN Yield Layer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537866/dapp-store-logos/cian-yield-layer.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "CIAN Yield Layer provides vault based DeFi yield products that package automated strategies into depositable onchain positions.",
+    "description": "CIAN Yield Layer is a DeFi yield product built around structured vaults that route deposits into strategy positions across supported protocols. The live app presents vault level APY, allocation, leverage, safety scoring, and underlying positions so users can see how a yield product is assembled before depositing. Instead of asking users to manage every loop or recursive position manually, CIAN packages those strategies into share based vaults with onchain accounting. On Mantle, it fits as a yield layer for users who want managed strategy exposure while keeping assets represented through vault receipts.",
+    "meta": "CIAN Yield Layer provides vault based DeFi yield products with automated strategy exposure and onchain position tracking on Mantle.",
+    "pageTitle": "CIAN Yield Layer - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://yieldlayer.cian.app/",
+    "twitter": "https://x.com/CIAN_protocol"
+  },
+  "relations": {
+    "alternatives": [
+      "eigenlayer",
+      "equilibria"
+    ],
+    "related": [
+      "ichi",
+      "infinit",
+      "zircuit"
+    ]
+  }
+}

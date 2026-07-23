@@ -7,14 +7,23 @@
     "Relayers"
   ],
   "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
     "Ethereum",
-    "Polygon"
+    "Linea",
+    "OP Mainnet",
+    "Polygon",
+    "Polygon zkEVM",
+    "ZetaChain",
+    "Mantle"
   ],
   "pricing": "",
   "content": {
-    "short": "Biconomy Core is a multi-chain relayer platform that manages transactions, gas payments, and bridges for Web3 apps.",
-    "description": "Biconomy Core is a multi-chain, plug-and-play relayer platform that handles transactions, gas payments, and bridges for Web3 applications across Ethereum, Polygon, Arbitrum, OP Mainnet, and Avalanche. Users can leverage smart contract wallets and design custom transaction journeys within a single platform. For developers, it provides SDKs and APIs to build decentralized applications with a tailored transaction flow, enabling smoother onboarding and a streamlined user experience. This combination helps projects simplify onboarding, reduce friction in transactions, and support flexible routing across multiple networks.",
-    "meta": "Biconomy Core is a multi-chain relayer protocol for Web3 apps. Discover Biconomy Core and other DeFi Tools on Lancers Web3 Explorer.",
+    "short": "Biconomy Core helps apps ship smart accounts, sponsored gas, and smoother onchain flows across EVM networks.",
+    "description": "Biconomy Core is account abstraction infrastructure for developers building easier onchain experiences. Its stack includes smart accounts, paymasters, bundlers, and SDKs that support gas sponsorship, batched actions, and programmable wallet flows. The platform also offers routing for gasless swaps and crosschain execution, helping teams reduce setup work while keeping custody with the user. Mantle projects can use Biconomy to remove native gas friction, simplify onboarding, and design cleaner transaction journeys inside their apps.",
+    "meta": "Biconomy Core provides smart account and gas abstraction infrastructure for Mantle apps.",
     "pageTitle": "Biconomy Core - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

@@ -11,6 +11,12 @@ build/
 #unwanted files
 final_dapps.rewritten.json
 
+# Scratch data dumps at repo root (working files, not registry source)
+/*-apps-meta.json
+/*-final.json
+/neobank-*.json
+/neobank-*.txt
+
 # Generated runtime indexes
 build/apps.min.json
 build/facets.index.json

@@ -1,0 +1,38 @@
+{
+  "slug": "blockfrost",
+  "name": "Blockfrost",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340104/dapp-store-logos/blockfrost.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "API for Cardano decentralized blockchain. Accessing and processing information stored on the blockchain is not trivial.",
+    "description": "API for Cardano decentralized blockchain. Accessing and processing information stored on the blockchain is not trivial. We provide abstraction between you and blockchain data, taking away the burden of complexity, so you can focus on what really matters - developing your applications. Our basic tier is and always will be free of charge. We nurture development and the Cardano ecosystem. However, if you want to support us, please consider upgrading. We run, build, love and deeply care about open-source.",
+    "meta": "Blockfrost provides hosted API infrastructure and blockchain data access for Cardano developers. Explore Blockfrost on Lancers Web3 Explorer.",
+    "pageTitle": "Blockfrost - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blockfrost.io/",
+    "docs": "https://docs.blockfrost.io/",
+    "twitter": "https://x.com/blockfrost_io"
+  },
+  "relations": {
+    "alternatives": [
+      "wingriders",
+      "optimism-eth-faucet",
+      "cexplorer"
+    ],
+    "related": [
+      "empowa",
+      "chainstack-subgraphs",
+      "cexplorer"
+    ]
+  }
+}

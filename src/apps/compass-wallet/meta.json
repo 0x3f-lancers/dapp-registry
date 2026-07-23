@@ -1,0 +1,35 @@
+{
+  "slug": "compass-wallet",
+  "name": "Compass Wallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339950/dapp-store-logos/compass-wallet.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Cosmos"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Compass is a high-performance wallet for the Sei and Cosmos ecosystems, optimized for speed and seamless dApp interaction.",
+    "description": "Compass Wallet, developed by the Leap Wallet team, is a specialized software wallet tailored for the Sei Network and the broader Cosmos ecosystem. It is specifically optimized to leverage Sei's sub-second block finality, providing users with a near-instant experience for transactions and dApp interactions. Compass allows users to manage assets across multiple IBC-enabled chains using a single seed phrase, simplifying the multi-chain experience within the Cosmos hub.\n\nThe wallet features built-in staking, allowing users to delegate tokens and claim rewards directly from the interface. It also includes an NFT gallery for digital collectibles and a robust dApp browser for connecting to DeFi protocols and marketplaces. With its focus on speed and ease of use, Compass Wallet is an essential tool for both newcomers and power users navigating the Sei and Cosmos landscapes.",
+    "meta": "Navigate the Sei and Cosmos ecosystems with speed using Compass Wallet. Manage assets and NFTs on Lancers Web3 Explorer.",
+    "pageTitle": "Compass Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://compasswallet.io/",
+    "twitter": "https://x.com/compass_wallet"
+  },
+  "relations": {
+    "alternatives": [
+      "umpc",
+      "whitewallet"
+    ],
+    "related": [
+      "petra-wallet",
+      "dapp-pocket"
+    ]
+  }
+}

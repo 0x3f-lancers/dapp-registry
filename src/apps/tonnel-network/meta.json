@@ -1,0 +1,33 @@
+{
+  "slug": "tonnel-network",
+  "name": "Tonnel Network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219958/dapp-store-logos/tonnel-network.jpg",
+  "category": "Zero Knowledge Tools",
+  "subcategory": [
+    "ZK Proof Generation Tools"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Tonnel Network is a TON privacy protocol that uses zero-knowledge pools for shielded balances, transfers, and withdrawals.",
+    "description": "Tonnel Network is a privacy protocol on TON that uses zero-knowledge proofs to reduce the traceability of wallet activity. Users can deposit funds into privacy pools, maintain shielded balances, move assets with less visible linkage, and withdraw through relayer based flows described in the product documentation. The protocol is designed for TON users who want stronger transaction privacy without leaving the network, and its tooling is positioned around practical private transfers rather than broad analytics or trading features.",
+    "meta": "Tonnel Network uses zero-knowledge privacy pools on TON for shielded balances, private transfers, and relayer based withdrawals.",
+    "pageTitle": "Tonnel Network - Zero Knowledge Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tonnel.network",
+    "twitter": "https://x.com/tonnel_network"
+  },
+  "relations": {
+    "alternatives": [],
+    "related": [
+      "arbitragescanner-io",
+      "3xpl",
+      "0xprocessing"
+    ]
+  }
+}

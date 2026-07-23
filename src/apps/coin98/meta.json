@@ -1,34 +1,48 @@
 {
-  "slug": "coin98",
-  "name": "Coin98",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745763/web3-explorer/dapp-logos/coin98.jpg",
-  "category": "Web3 Wallets",
-  "subcategory": [
-    "Software Wallets"
-  ],
-  "chains": [
-    "Ethereum",
-    "BNB Chain"
-  ],
-  "pricing": "",
-  "content": {
-    "short": "Coin98 provides an all-in-one DeFi platform with essential wallet features in one app.",
-    "description": "Coin98 serves as a versatile DeFi hub that combines a mobile wallet with built‑in trading, enabling storage and trading in a single app. It can function as either a wallet storage app or a trading app, and supports sweep, stake, borrow, lend, invest and earn crypto—all in one place. Developers can issue tokens via the platform. The app has over one million downloads, three million transactions, and 500,000 active users.",
-    "meta": "Coin98 is an all-in-one crypto wallet and DeFi platform with built-in trading. Discover Coin98 and other Web3 Wallets on Lancers Web3 Explorer.",
-    "pageTitle": "Coin98 - Web3 Wallets - Lancers Web3 Explorer"
-  },
-  "links": {
-    "website": "https://coin98.com/",
-    "twitter": "https://x.com/coin98_wallet"
-  },
-  "relations": {
-    "alternatives": [
-      "gem-wallet",
-      "virgo-wallet"
-    ],
-    "related": [
-      "etherspot-sdk",
-      "holdstation"
-    ]
-  }
+    "slug":  "coin98",
+    "name":  "Coin98",
+    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745763/web3-explorer/dapp-logos/coin98.jpg",
+    "category":  "Web3 Wallets",
+    "subcategory":  [
+                        "Software Wallets"
+                    ],
+    "chains":  [
+                   "Arbitrum",
+                   "Avalanche",
+                   "Base",
+                   "BNB Chain",
+                   "Celo",
+                   "Cronos",
+                   "Ethereum",
+                   "Fantom",
+                   "Harmony",
+                   "Mantle",
+                   "Moonbeam",
+                   "OP Mainnet",
+                   "Polygon",
+                   "Polygon zkEVM",
+                   "Solana",
+                   "ZKsync"
+               ],
+    "pricing":  "",
+    "content":  {
+                    "short":  "Coin98 is a multi-chain wallet and DeFi platform that combines asset management, trading, dapp access, and wallet services.",
+                    "description":  "Coin98 is positioned as a multi-chain wallet and broader Web3 platform rather than a single-function wallet app. Its official product materials describe wallet storage, transfers, built-in trading features, dapp access, AI assisted tools, and services such as identity, referrals, and connected card products within one ecosystem. Compared with the more specific Coin98 Super Wallet listing, this broader Coin98 entry fits as the wider platform brand that connects wallet usage with DeFi access and other consumer facing products. On Mantle, it serves as a general gateway into trading, wallet, and app workflows.",
+                    "meta":  "Coin98 is a multi-chain wallet and DeFi platform that combines asset management, trading, dapp access, and broader wallet services.",
+                    "pageTitle":  "Coin98 - Web3 Wallets - Lancers Web3 Explorer"
+                },
+    "links":  {
+                  "website":  "https://coin98.com/",
+                  "twitter":  "https://x.com/coin98_wallet"
+              },
+    "relations":  {
+                      "alternatives":  [
+                                           "gem-wallet",
+                                           "virgo-wallet"
+                                       ],
+                      "related":  [
+                                      "etherspot-sdk",
+                                      "holdstation"
+                                  ]
+                  }
 }

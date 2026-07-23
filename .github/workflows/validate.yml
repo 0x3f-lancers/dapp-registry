@@ -1,6 +1,15 @@
 name: Validate DApp Data
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "src/apps/**"
+      - "scripts/**"
+      - "schema/**"
+      - "lib/**"
+      - "data/**"
   pull_request:
     branches:
       - main
@@ -12,7 +21,7 @@ on:
       - "data/**"
 
 permissions:
-  contents: read
+  contents: write
   pull-requests: write
 
 jobs:
@@ -28,6 +37,12 @@ jobs:
         uses: pnpm/action-setup@v3
         with:
           version: 8
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
 
       - name: Get pnpm store directory
         shell: bash
@@ -48,6 +63,42 @@ jobs:
       - name: Build scripts
         run: pnpm run build
 
+      - name: Fill Missing Relations
+        run: pnpm run fill:relations
+
+      - name: Check for relation updates
+        id: check_relation_changes
+        run: |
+          if git diff --quiet src/apps/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No relation updates generated."
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Relation updates generated."
+            git diff --name-only src/apps/
+          fi
+
+      - name: Create pull request for relation updates
+        if: github.event_name == 'push' && steps.check_relation_changes.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(data): auto-fill missing app relations"
+          committer: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          branch: "automation/fill-missing-relations"
+          delete-branch: true
+          title: "chore(data): auto-fill missing app relations"
+          body: |
+            This PR was opened automatically by GitHub Actions.
+
+            It contains generated relation backfills from `pnpm run fill:relations`.
+
+            Please review and merge if the suggested relations look correct.
+
+      - name: Check Missing Relations
+        run: pnpm run check:relations
+
       - name: Run DApp Data Validation
         run: pnpm run validate
 
@@ -60,3 +111,6 @@ jobs:
           echo "## Validation Passed" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "All metadata files validated successfully." >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.check_relation_changes.outputs.has_changes }}" == "true" ]; then
+            echo "Missing relations were auto-filled during this run." >> $GITHUB_STEP_SUMMARY
+          fi

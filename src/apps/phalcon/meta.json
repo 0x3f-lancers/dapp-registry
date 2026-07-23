@@ -1,0 +1,37 @@
+{
+  "slug": "phalcon",
+  "name": "Phalcon",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219810/dapp-store-logos/phalcon.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Phalcon by BlockSec is a real-time DeFi attack monitoring and automated exploit blocking platform protecting protocols on Mantle from on-chain attacks.",
+    "description": "Phalcon is a proactive security platform by BlockSec that monitors smart contract activity in real-time and automatically blocks suspicious or malicious transactions before they can execute. Unlike security audits that happen pre-deployment, Phalcon provides continuous runtime protection, detecting and neutralizing attack patterns as they occur on-chain. Officially recognized by Mantle Network, Phalcon provides critical security infrastructure for the ecosystem's DeFi protocols.",
+    "meta": "Phalcon by BlockSec provides real-time DeFi attack monitoring and automatic exploit blocking on Mantle.",
+    "pageTitle": "Phalcon - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blocksec.com/phalcon/security",
+    "twitter": "https://x.com/blocksecteam"
+  },
+  "relations": {
+    "alternatives": [
+      "agentlayer",
+      "automata",
+      "boomfi"
+    ],
+    "related": [
+      "drpc",
+      "omnia-protocol",
+      "range-protocol"
+    ]
+  }
+}

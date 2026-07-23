@@ -1,0 +1,37 @@
+{
+  "slug": "automata",
+  "name": "Automata",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219561/dapp-store-logos/automata.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Automata provides an attestation layer that brings verifiable hardware trust and TEE based infrastructure to Mantle apps.",
+    "description": "Automata focuses on onchain attestations and trusted execution infrastructure, giving protocols a way to verify machines, secure workloads, and publish hardware proofs on public networks. Its documentation centers on TEE verifiers, attestation contracts, and a trust layer that can support rollups, agents, private computation, and other systems that depend on machine integrity. For Mantle related builders, Automata is relevant as infrastructure for services that need auditable hardware backed execution rather than a standard consumer facing application.",
+    "meta": "Automata offers attestation and TEE infrastructure that helps Mantle builders verify machines and anchor hardware trust onchain.",
+    "pageTitle": "Automata - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.ata.network/",
+    "twitter": "https://x.com/AutomataNetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "agentlayer",
+      "boomfi",
+      "drpc"
+    ],
+    "related": [
+      "omnia-protocol",
+      "phalcon",
+      "range-protocol"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "avalon-usda",
+  "name": "Avalon USDa",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1784537860/dapp-store-logos/avalon-usda.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Avalon USDa is a Bitcoin backed CDP stablecoin product built for borrowing, liquidity, and BTCFi activity on Mantle.",
+    "description": "Avalon positions USDa as its flagship Bitcoin backed stablecoin product within a broader BTCFi lending stack. According to its docs, users can lock supported Bitcoin related collateral and mint USDa while staying exposed to BTC, then use that liquidity across lending and DeFi strategies. The protocol also describes risk controls around LTV, liquidation thresholds, custody, and oracle design. On Mantle, Avalon USDa expands the set of Bitcoin focused collateral and stablecoin tools available to borrowers, liquidity providers, and protocols building around BTC based capital markets.",
+    "meta": "Avalon USDa is a Bitcoin backed CDP stablecoin on Mantle built for borrowing, BTCFi liquidity, and collateral based lending use.",
+    "pageTitle": "Avalon USDa - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.avalonfinance.xyz/",
+    "twitter": "https://x.com/avalonfinance_"
+  },
+  "relations": {
+    "alternatives": [
+      "pumpbtc",
+      "pell-network",
+      "solv-protocol"
+    ],
+    "related": [
+      "ondo",
+      "compound-finance",
+      "cian-yield-layer"
+    ]
+  }
+}

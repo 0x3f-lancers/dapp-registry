@@ -1,0 +1,37 @@
+{
+  "slug": "zk-link",
+  "name": "zk.Link",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775220003/dapp-store-logos/zk-link.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "zk.Link is a ZK Aggregated Layer 3 connecting thousands of blockchains and rollups into one unified liquidity and settlement layer.",
+    "description": "zk.Link is building a ZK-powered aggregated Layer 3 infrastructure that connects multiple blockchains and rollups including Mantle into a single, unified trading and settlement environment. Using zero-knowledge proofs, zk.Link aggregates liquidity from dozens of chains, enabling users to trade across chains with unified account balances while solving the cross-chain liquidity fragmentation problem at the infrastructure level through rollup aggregation.",
+    "meta": "zk.Link is a ZK Aggregated Layer 3 unifying liquidity across blockchains including Mantle.",
+    "pageTitle": "zk.Link - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://zk.link/",
+    "twitter": "https://x.com/zklink_official"
+  },
+  "relations": {
+    "alternatives": [
+      "debridge",
+      "hyperlane",
+      "layerzero"
+    ],
+    "related": [
+      "mantle-bridge",
+      "wormhole",
+      "xy-finance"
+    ]
+  }
+}

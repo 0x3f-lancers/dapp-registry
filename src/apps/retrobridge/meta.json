@@ -1,0 +1,36 @@
+{
+  "slug": "retrobridge",
+  "name": "RetroBridge",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219844/dapp-store-logos/retrobridge.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Mantle"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "RetroBridge is a multichain bridging solution providing seamless connectivity across EVM and non-EVM chains with a single unified interface.",
+    "description": "RetroBridge is a comprehensive cross-chain bridging solution enabling users to transfer assets between a wide range of EVM and non-EVM blockchains through a clean, unified interface. The platform supports native token bridging, stablecoin transfers, and exotic chain pairs, providing Mantle users straightforward access to assets on dozens of other blockchains. RetroBridge is integrated with Mantle Network to deliver reliable, user-friendly cross-chain connectivity.",
+    "meta": "RetroBridge provides seamless cross-chain asset transfers between EVM and non-EVM chains including Mantle.",
+    "pageTitle": "RetroBridge - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://retrobridge.io/",
+    "twitter": "https://x.com/retro_bridge"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "blockchair"
+    ],
+    "related": [
+      "chasm-network",
+      "cobo-argus",
+      "etherspot"
+    ]
+  }
+}

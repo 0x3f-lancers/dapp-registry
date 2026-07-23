@@ -7,13 +7,15 @@
     "Wallet Connection Tools"
   ],
   "chains": [
-    "Multichain"
+    "Multichain",
+    "Mantle",
+    "TON"
   ],
   "pricing": "Free",
   "content": {
-    "short": "Cede.store provides access to CeFi liquidity and transfers assets from Centralized Exchanges to DeFi, while preserving self-custody and wallet UX.",
-    "description": "Most crypto liquidity remains on centralized exchanges, and about 90% of DeFi users have at least one CEX. The gap between CeFi and DeFi can create friction for on-chain activity. Cede.store provides a non-custodial bridge between CeFi and DeFi, enabling dApps across DeFi ecosystems to tap into liquidity from centralized exchanges without surrendering control of funds. It connects CeFi liquidity to decentralized applications while maintaining self-custody and the core DeFi principles of transparency and permissionless access.",
-    "meta": "Cede.store helps access and transfer assets from Centralized Exchanges to DeFi. Discover Cede.store and other Web3 Wallet Tools on Lancers Web3 Explorer.",
+    "short": "Cede.store is a non-custodial extension that lets apps connect exchange accounts and use CeFi balances through wallet-style flows.",
+    "description": "Cede.store is a non-custodial browser extension and integration layer designed to connect centralized exchange accounts to decentralized applications without handing control of funds to a third party. According to its docs, users store exchange API keys inside the extension and approve exchange actions client-side, while apps can read balances, manage assets, and trigger supported actions through provider packages or widgets. The product is built to give DeFi apps access to CeFi liquidity with a wallet-like user experience and developer tooling that feels familiar to Web3 integrations.",
+    "meta": "Explore Cede.store, a non-custodial extension that connects exchange accounts to DeFi apps through wallet-style flows and APIs.",
     "pageTitle": "Cede.store - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {

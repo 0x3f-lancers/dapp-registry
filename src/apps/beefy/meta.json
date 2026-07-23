@@ -1,0 +1,50 @@
+{
+  "slug": "beefy",
+  "name": "Beefy",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219569/dapp-store-logos/beefy.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Celo",
+    "Cronos",
+    "Ethereum",
+    "Fantom",
+    "Harmony",
+    "Mantle",
+    "Moonbeam",
+    "OP Mainnet",
+    "Polygon",
+    "Polygon zkEVM",
+    "ZKsync"
+  ],
+  "tags": [],
+  "pricing": "free",
+  "archived": false,
+  "content": {
+    "short": "Beefy runs auto-compounding vaults on Mantle that help users deposit assets and earn yield through managed strategies.",
+    "description": "Beefy is a multichain yield optimizer built around vaults that deposit user assets into predefined strategies and automatically compound rewards over time. Its docs describe vaults, strategy contracts, mooTokens, public APIs, and safety controls such as address transparency and timelocks. Users can withdraw at any time, while the protocol handles the repeated harvesting and reinvestment that would otherwise require manual work. On Mantle, Beefy serves people who want passive exposure to yield opportunities through structured vault products rather than managing every farm, pool, or lending loop themselves.",
+    "meta": "Beefy offers auto-compounding Mantle vaults that package yield strategies into simpler deposit and withdrawal workflows for users.",
+    "pageTitle": "Beefy - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://beefy.com/",
+    "twitter": "https://x.com/beefyfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "extra-finance",
+      "yearn"
+    ],
+    "related": [
+      "agni",
+      "fusionx",
+      "range-protocol"
+    ]
+  }
+}

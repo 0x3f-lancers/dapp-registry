@@ -1,0 +1,38 @@
+{
+  "slug": "dripdropz",
+  "name": "DripDropz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340466/dapp-store-logos/dripdropz.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "DripDropz is a Cardano token distribution platform for wallet-based claims, rewards, and campaigns for users.",
+    "description": "DripDropz is a Cardano token distribution system that lets users check whether their wallet or stake address qualifies for token rewards. Projects can configure distribution parameters, while users can search by wallet address, stake address, ADA Handle, or Begin ID to view available drops. The platform queries Cardano activity and displays claimable tokens based on campaign rules, staking activity, and wallet eligibility. DripDropz helps projects distribute tokens fairly while giving users one place to discover rewards.",
+    "meta": "DripDropz helps Cardano users discover, manage, and claim token rewards from eligible campaigns. Explore it on Lancers Web3 Explorer.",
+    "pageTitle": "DripDropz - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dripdropz.io/",
+    "twitter": "https://x.com/dripdropz_io",
+    "telegram": "https://t.me/+vjveM6iyK4Y2MTJh"
+  },
+  "relations": {
+    "alternatives": [
+      "begin-wallet",
+      "eternl",
+      "revuto"
+    ],
+    "related": [
+      "begin-wallet",
+      "eternl",
+      "cexplorer"
+    ]
+  }
+}
