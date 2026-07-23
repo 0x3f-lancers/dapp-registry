@@ -1,0 +1,50 @@
+{
+  "slug": "avici",
+  "name": "Avici",
+  "logoUrl": "https://unavatar.io/x/Avici",
+  "category": "Neobanks",
+  "subcategory": [
+    "Consumer Neobanks",
+    "Crypto Neobanks",
+    "Stablecoin Neobanks"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Polygon",
+    "Solana"
+  ],
+  "tags": [
+    "Neobanks",
+    "Consumer Neobanks",
+    "Crypto Neobanks",
+    "Stablecoin Neobanks",
+    "B2C",
+    "Stablecoin",
+    "Cross-border Payments",
+    "Cards and Virtual Accounts"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Avici is a Solana based self-custodial neobank with a Visa card and virtual accounts for spending stablecoins.",
+    "description": "Avici is a self-custodial neobank built on Solana for people who want to spend crypto without first moving it to an exchange or a bank. Its wallet uses account abstraction and passkeys rather than a seed phrase, so signing in works like a normal app while the keys stay with the user. Spending goes through a Visa card, available in virtual and physical form and funded by USDC held on Solana, Polygon or Arbitrum. Virtual accounts add personal account numbers and IBANs, so incoming fiat converts to stablecoins and lands in the user's own wallet.",
+    "meta": "Avici is a Solana self-custodial neobank with a Visa card and IBAN virtual accounts. Discover Avici and other Neobanks on Lancers Web3 Explorer.",
+    "pageTitle": "Avici - Neobanks - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://avici.money/",
+    "twitter": "https://x.com/Avici",
+    "telegram": "https://t.me/Aviciclub",
+    "docs": "https://docs.avici.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "kast",
+      "redotpay",
+      "decaf"
+    ],
+    "related": [
+      "gnosis-pay",
+      "bleap"
+    ]
+  }
+}

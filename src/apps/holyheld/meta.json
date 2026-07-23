@@ -2,36 +2,55 @@
   "slug": "holyheld",
   "name": "Holyheld",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747570/web3-explorer/dapp-logos/holyheld.png",
-  "category": "Web3 Wallet Tools",
+  "category": "Neobanks",
   "subcategory": [
-    "Web3 Credit Cards"
+    "Consumer Neobanks",
+    "Crypto Neobanks",
+    "Stablecoin Neobanks"
   ],
   "chains": [
     "Arbitrum",
     "Avalanche",
+    "BNB Chain",
+    "Base",
     "Ethereum",
     "OP Mainnet",
-    "Polygon"
+    "Polygon",
+    "Solana",
+    "Starknet",
+    "Tron",
+    "ZKsync"
+  ],
+  "tags": [
+    "Neobanks",
+    "Consumer Neobanks",
+    "Crypto Neobanks",
+    "Stablecoin Neobanks",
+    "B2C",
+    "Stablecoin",
+    "Cards and Virtual Accounts"
   ],
   "pricing": "Paid",
   "content": {
-    "short": "Holyheld offers a single debit card for all Web3 needs.",
-    "description": "Holyheld is a Web3 debit card that comes with a personal IBAN, letting you access on-chain funds for everyday spending. It works with your non-custodial wallet and supports six networks natively, so you can use digital assets across networks without bridging steps or waiting. Whether you’re getting paid in crypto, contributing to a DAO, trading on DEXs, or collecting and minting NFTs, Holyheld makes your crypto usable for everyday purchases and practical transactions.",
-    "meta": "Holyheld is a Web3 debit card that comes with a personal IBAN. Discover Holyheld and other Web3 Wallet Tools on Lancers Web3 Explorer.",
-    "pageTitle": "Holyheld - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "Holyheld is a non-custodial account with a debit card and personal IBAN for spending onchain funds anywhere.",
+    "description": "Holyheld turns a self-custody wallet into a spending account, pairing a personal IBAN for SEPA transfers with virtual and physical debit cards that work with Apple Pay and Google Pay. Cards come in Classic, Limited Edition and Metal tiers for a one time fee, and purchases earn between 0.5 and 1 percent back in USDC. The account reaches across more than 20 networks and 1,200 tokens, so funds can be spent or cashed out without bridging first, and cashing in works the same way in reverse. Holyheld also sells the underlying rails as an SDK to businesses that want to add on and off ramps.",
+    "meta": "Holyheld is a non-custodial account with a debit card and personal IBAN across 20+ networks. Discover Holyheld and other Neobanks on Lancers Web3 Explorer.",
+    "pageTitle": "Holyheld - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://holyheld.com",
+    "github": "https://github.com/holyheld",
     "twitter": "https://x.com/holyheld"
   },
   "relations": {
     "alternatives": [
-      "xade-finance",
-      "fina-cash"
+      "gnosis-pay",
+      "kast",
+      "oobit"
     ],
     "related": [
-      "hashleap",
-      "degen-wallet"
+      "bleap",
+      "avici"
     ]
   }
 }

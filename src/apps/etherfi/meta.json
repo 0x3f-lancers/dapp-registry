@@ -2,20 +2,32 @@
   "slug": "etherfi",
   "name": "ether.fi",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339989/dapp-store-logos/etherfi.jpg",
-  "category": "DeFi Dapps",
+  "category": "Neobanks",
   "subcategory": [
-    "Liquid Staking Platforms"
+    "Consumer Neobanks",
+    "Crypto Neobanks",
+    "DeFi Neobanks"
   ],
   "chains": [
-    "Ethereum"
+    "Arbitrum",
+    "Base",
+    "Ethereum",
+    "OP Mainnet"
   ],
-  "tags": [],
+  "tags": [
+    "Neobanks",
+    "Consumer Neobanks",
+    "Crypto Neobanks",
+    "DeFi Neobanks",
+    "B2C",
+    "Cards and Virtual Accounts"
+  ],
   "pricing": "Free",
   "content": {
-    "short": "ether.fi is a leading decentralized liquid staking protocol that enables users to maintain control over their keys.",
-    "description": "ether.fi is a pioneer in decentralized liquid staking, uniquely designed to ensure that stakers maintain full control over their private keys throughout the entire process. By providing users with eETH, a liquid staking token, ether.fi allows participants to earn Ethereum validator rewards while simultaneously utilizing their assets across the broader DeFi ecosystem. The protocol also integrates with restaking layers like EigenLayer to provide additional yield opportunities and enhanced network security. ether.fi focuses on providing a secure, transparent, and non-custodial environment, making it a premier choice for users seeking to maximize the utility and safety of their staked ETH in the evolving Web3 landscape.",
-    "meta": "ether.fi offers decentralized liquid staking for Ethereum, empowering users to earn rewards while maintaining full control over their private keys.",
-    "pageTitle": "ether.fi - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "ether.fi pairs liquid restaking with a non-custodial credit card, letting users save, earn and spend without giving up their keys.",
+    "description": "ether.fi started as a liquid restaking protocol where stakers keep control of their own keys, issuing weETH for ETH, eBTC for Bitcoin and eUSD for stablecoins, with Liquid vaults rotating deposits across DeFi strategies. It has since built consumer banking on top of that base under the name Cash, a non-custodial Visa credit card that pays up to 3 percent back and spends against staked collateral rather than forcing a sale. Each cardholder gets a personal Safe vault on OP Mainnet that only they control. The Club wraps it all together with membership tiers, higher limits and travel benefits.",
+    "meta": "ether.fi combines liquid restaking with a non-custodial credit card and membership tiers. Discover ether.fi and other Neobanks on Lancers Web3 Explorer.",
+    "pageTitle": "ether.fi - Neobanks - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://www.ether.fi/",
@@ -25,14 +37,13 @@
   },
   "relations": {
     "alternatives": [
-      "infrared",
-      "eigenpie",
-      "bedrock"
+      "kast",
+      "gnosis-pay",
+      "avici"
     ],
     "related": [
-      "hegic",
-      "bitcoincom",
-      "curve-finance"
+      "bleap",
+      "decaf"
     ]
   }
 }
