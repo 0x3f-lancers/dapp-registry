@@ -1,0 +1,45 @@
+{
+  "slug": "ripple-payments",
+  "name": "Ripple Payments",
+  "logoUrl": "https://unavatar.io/x/Ripple",
+  "category": "Financial Infrastructure",
+  "subcategory": [
+    "Settlement & Liquidity Networks",
+    "Stablecoin Infrastructure"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "Financial Infrastructure",
+    "Settlement & Liquidity Networks",
+    "Stablecoin Infrastructure",
+    "B2B",
+    "Cross-border Payments",
+    "Stablecoin"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Ripple Payments is a managed cross-border payment service settling on the XRP Ledger in seconds.",
+    "description": "Ripple Payments is the enterprise side of Ripple, handling collection, custody, conversion and payout for institutions moving money between countries. Settlement happens on the XRP Ledger in three to five seconds, which removes the prefunded accounts a bank would otherwise keep sitting in each destination market. Businesses can hold and move RLUSD, Ripple's dollar backed stablecoin, alongside USDC, USDT, XRP and ordinary currency. It operates in more than 60 markets under 75 licences, including a New York trust charter.",
+    "meta": "Ripple Payments is a managed cross-border payment service settling on the XRP Ledger in seconds. Discover Ripple Payments on Lancers Web3 Explorer.",
+    "pageTitle": "Ripple Payments - Financial Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ripple.com/",
+    "twitter": "https://x.com/Ripple",
+    "docs": "https://docs.ripple.com",
+    "github": "https://github.com/XRPLF"
+  },
+  "relations": {
+    "alternatives": [
+      "partior",
+      "circle",
+      "thunes"
+    ],
+    "related": [
+      "openpayd",
+      "tranglo"
+    ]
+  }
+}

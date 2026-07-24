@@ -1,0 +1,55 @@
+{
+  "slug": "circle",
+  "name": "Circle",
+  "logoUrl": "https://unavatar.io/x/circle",
+  "category": "Financial Infrastructure",
+  "subcategory": [
+    "Stablecoin Infrastructure",
+    "Stablecoin Issuers"
+  ],
+  "chains": [
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Celo",
+    "Ethereum",
+    "Linea",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Sui",
+    "ZKsync"
+  ],
+  "tags": [
+    "Financial Infrastructure",
+    "Stablecoin Infrastructure",
+    "Stablecoin Issuers",
+    "B2B",
+    "Stablecoin"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Circle issues USDC and EURC and runs the payment network, wallets and cross-chain tooling built around them.",
+    "description": "Circle issues USDC, the largest regulated dollar stablecoin, along with the euro equivalent EURC, and reserves are held in cash and short dated Treasuries with regular reporting. Around the tokens sits the rest of the business, including programmable wallets, smart contract tooling and the Circle Payments Network for institutions settling with each other. CCTP lets USDC move between chains by burning and minting rather than going through a wrapped asset, which avoids the bridge risk that has cost the industry repeatedly. Circle also operates Arc, its own Layer 1.",
+    "meta": "Circle issues USDC and EURC and runs the payment network, wallets and cross-chain tooling built around them. Discover Circle on Lancers Web3 Explorer.",
+    "pageTitle": "Circle - Financial Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.circle.com/",
+    "twitter": "https://x.com/circle",
+    "docs": "https://developers.circle.com",
+    "github": "https://github.com/circlefin"
+  },
+  "relations": {
+    "alternatives": [
+      "straitsx",
+      "stably",
+      "minteo"
+    ],
+    "related": [
+      "arf",
+      "ripple-payments"
+    ]
+  }
+}

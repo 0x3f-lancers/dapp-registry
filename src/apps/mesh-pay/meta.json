@@ -1,0 +1,48 @@
+{
+  "slug": "mesh-pay",
+  "name": "Mesh",
+  "logoUrl": "https://unavatar.io/x/meshpay",
+  "category": "Financial Infrastructure",
+  "subcategory": [
+    "Banking & Payments APIs",
+    "Stablecoin Infrastructure"
+  ],
+  "chains": [
+    "Base",
+    "Ethereum",
+    "Polygon",
+    "Solana",
+    "Tron"
+  ],
+  "tags": [
+    "Financial Infrastructure",
+    "Banking & Payments APIs",
+    "Stablecoin Infrastructure",
+    "B2B",
+    "Cross-border Payments",
+    "Stablecoin"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Mesh lets businesses accept crypto payments from hundreds of wallets and exchanges and settle in stablecoins or fiat.",
+    "description": "Mesh solves a narrow problem that turns out to matter a lot, which is that a customer holding funds on an exchange cannot easily pay a merchant with them. Its network connects to more than 300 wallets and exchanges, so a buyer authorises a payment from wherever their money already sits and the merchant receives stablecoins or local currency. Conversion, settlement and the compliance checks happen inside the same API. It powers crypto payments for PayPal and Shift4, and reached a billion dollar valuation on a Series C.",
+    "meta": "Mesh is a crypto payments network connecting 300+ wallets and exchanges with stablecoin settlement. Discover Mesh on Lancers Web3 Explorer.",
+    "pageTitle": "Mesh - Financial Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.meshpay.com/",
+    "twitter": "https://x.com/meshpay",
+    "docs": "https://docs.meshconnect.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "circle",
+      "openpayd",
+      "baanx"
+    ],
+    "related": [
+      "ripple-payments",
+      "nium"
+    ]
+  }
+}

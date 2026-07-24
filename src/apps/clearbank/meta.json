@@ -1,0 +1,41 @@
+{
+  "slug": "clearbank",
+  "name": "ClearBank",
+  "logoUrl": "https://unavatar.io/x/clear_bank",
+  "category": "Financial Infrastructure",
+  "subcategory": [
+    "Banking & Payments APIs",
+    "Settlement & Liquidity Networks"
+  ],
+  "chains": [],
+  "tags": [
+    "Financial Infrastructure",
+    "Banking & Payments APIs",
+    "Settlement & Liquidity Networks",
+    "B2B",
+    "Cross-border Payments"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "ClearBank is an API-native UK clearing bank that provides accounts and payments to fintechs and digital asset firms.",
+    "description": "ClearBank was the first new clearing bank in the UK in a couple of centuries, and it exists so that fintechs can offer genuine bank accounts without becoming a bank themselves. Client money sits at the Bank of England rather than with an intermediary, which matters when the alternative is a chain of correspondent relationships nobody can see through. The product covers accounts, payments, multi-currency and foreign exchange, with a dedicated line for digital asset platforms. Customers include Coinbase and Kraken, and a European arm is regulated in the Netherlands.",
+    "meta": "ClearBank is an API-native UK clearing bank that provides accounts and payments to fintechs and digital asset firms. Discover ClearBank on Lancers Web3 Explorer.",
+    "pageTitle": "ClearBank - Financial Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.clear.bank/",
+    "twitter": "https://x.com/clear_bank",
+    "docs": "https://clear.bank/explore-our-api"
+  },
+  "relations": {
+    "alternatives": [
+      "banking-circle",
+      "modulr",
+      "openpayd"
+    ],
+    "related": [
+      "nium",
+      "keyrails"
+    ]
+  }
+}

@@ -6,6 +6,7 @@
     "DeFi Dapps",
     "DeFi Tools",
     "Decentralized Games",
+    "Financial Infrastructure",
     "Identity Tools",
     "Infrastructure Tools",
     "NFT Dapps",
@@ -31,10 +32,12 @@
     "Account Abstraction (ERC-4337) Bundlers",
     "Analytics Tools",
     "Assemblers",
+    "Banking & Payments APIs",
     "Block Explorers",
     "Blockchain Auditing Companies",
     "Blockchain Interoperability Tools",
     "Blockchain Security Tools",
+    "Card Issuing Infrastructure",
     "College Blockchain Clubs",
     "Consensus Clients",
     "Creator DAOs",
@@ -70,6 +73,7 @@
     "Decentralized VPNs",
     "Decompilers",
     "Development Frameworks",
+    "Digital Asset Custody Infrastructure",
     "Dissassemblers",
     "ERC-4337 Paymasters",
     "EVM Tools",
@@ -121,6 +125,7 @@
     "Relayers",
     "Rollup Frameworks",
     "Rollups-as-a-Service (RaaS)",
+    "Settlement & Liquidity Networks",
     "Shared Sequencers",
     "Sidechains",
     "Smart Contract Accounts",
@@ -131,6 +136,8 @@
     "Software Wallets",
     "Solidity Developer Tools",
     "Sports NFT Dapps",
+    "Stablecoin Infrastructure",
+    "Stablecoin Issuers",
     "Static Analysis Tools",
     "Subgraphs",
     "Symbolic Execution Tools",
@@ -230,6 +237,14 @@
     "Decentralized Games": [
       "AAA Web3 Games",
       "Web3 Games"
+    ],
+    "Financial Infrastructure": [
+      "Banking & Payments APIs",
+      "Card Issuing Infrastructure",
+      "Digital Asset Custody Infrastructure",
+      "Settlement & Liquidity Networks",
+      "Stablecoin Infrastructure",
+      "Stablecoin Issuers"
     ],
     "Identity Tools": [
       "Decentralized Identity Tools",
@@ -498,6 +513,24 @@
     ],
     "web3-games": [
       "decentralized-games"
+    ],
+    "banking-and-payments-apis": [
+      "financial-infrastructure"
+    ],
+    "card-issuing-infrastructure": [
+      "financial-infrastructure"
+    ],
+    "digital-asset-custody-infrastructure": [
+      "financial-infrastructure"
+    ],
+    "settlement-and-liquidity-networks": [
+      "financial-infrastructure"
+    ],
+    "stablecoin-infrastructure": [
+      "financial-infrastructure"
+    ],
+    "stablecoin-issuers": [
+      "financial-infrastructure"
     ],
     "decentralized-identity-tools": [
       "identity-tools"

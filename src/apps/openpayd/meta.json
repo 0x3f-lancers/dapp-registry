@@ -1,0 +1,41 @@
+{
+  "slug": "openpayd",
+  "name": "OpenPayd",
+  "logoUrl": "https://unavatar.io/x/OpenPayd",
+  "category": "Financial Infrastructure",
+  "subcategory": [
+    "Banking & Payments APIs"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [
+    "Financial Infrastructure",
+    "Banking & Payments APIs",
+    "B2B",
+    "Cross-border Payments"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "OpenPayd delivers embedded accounts, payments, FX and stablecoin rails to businesses through a single API.",
+    "description": "OpenPayd lets a company put banking features inside its own product, covering named accounts, domestic and international payments, foreign exchange and, more recently, stablecoins. The digital asset side runs both ways, with on and off ramps between fiat and tokens plus trading, and a partnership with Ripple provides access to RLUSD. It processes over 280 billion dollars a year for around 1,200 clients. Licensing runs through several entities, including a UK electronic money institution and a Maltese virtual asset service provider.",
+    "meta": "OpenPayd delivers embedded accounts, payments, FX and stablecoin rails to businesses through a single API. Discover OpenPayd on Lancers Web3 Explorer.",
+    "pageTitle": "OpenPayd - Financial Infrastructure - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.openpayd.com/",
+    "twitter": "https://x.com/OpenPayd",
+    "docs": "https://apidocs.openpayd.com"
+  },
+  "relations": {
+    "alternatives": [
+      "clearbank",
+      "modulr",
+      "banking-circle"
+    ],
+    "related": [
+      "nium",
+      "baanx"
+    ]
+  }
+}
