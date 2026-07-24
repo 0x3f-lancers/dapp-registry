@@ -1,0 +1,38 @@
+{
+  "slug": "unichain",
+  "name": "Unichain",
+  "logoUrl": "https://unavatar.io/x/unichain",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Unichain is a DeFi focused Ethereum Layer 2 from Uniswap, built on the OP Stack with 200ms sub-blocks.",
+    "description": "Unichain is an Ethereum Layer 2 developed by Uniswap Labs on the OP Stack and part of the Optimism Superchain. It is tuned specifically for onchain markets, not general purpose usage: sub-blocks land every 200 milliseconds so quotes update far faster than on a typical rollup, and block building runs inside a trusted execution environment to make ordering verifiable and limit extractable value taken from traders. Because it is a Superchain member, assets and messages move natively between Unichain and other OP Stack networks.",
+    "meta": "Unichain is Uniswap's DeFi focused Ethereum Layer 2 with 200ms sub-blocks and verifiable block building. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "Unichain - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.unichain.org",
+    "docs": "https://docs.unichain.org",
+    "twitter": "https://x.com/unichain",
+    "discord": "https://discord.com/invite/uniswap"
+  },
+  "relations": {
+    "alternatives": [
+      "base",
+      "op-mainnet",
+      "mode"
+    ],
+    "related": [
+      "uniswap",
+      "op-stack",
+      "superchain-dev-console"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "aptos",
+  "name": "Aptos",
+  "logoUrl": "https://unavatar.io/x/aptoslabs",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Aptos"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Aptos is a Move based Layer 1 blockchain with parallel execution, designed for high throughput and predictable low fees.",
+    "description": "Aptos is a Layer 1 blockchain launched in October 2022 as the first production network built on the Move programming language. Its Block-STM execution engine processes transactions optimistically in parallel and re-runs only those that actually conflict, which raises throughput without asking developers to shard their own state. Move gives assets first class resource semantics that make common token bugs hard to express. Aptos targets payments, DeFi, and consumer applications, and supports them with wallet, indexing, and identity tooling from Aptos Labs and the wider ecosystem.",
+    "meta": "Aptos is a Move based Layer 1 blockchain with parallel execution and low fees. Discover Aptos on Lancers Web3 Explorer.",
+    "pageTitle": "Aptos - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aptosfoundation.org",
+    "github": "https://github.com/aptos-labs",
+    "docs": "https://aptos.dev",
+    "twitter": "https://x.com/aptoslabs",
+    "discord": "https://discord.com/invite/aptosnetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "sui",
+      "near",
+      "solana"
+    ],
+    "related": [
+      "thala",
+      "amnis",
+      "petra-wallet"
+    ]
+  }
+}

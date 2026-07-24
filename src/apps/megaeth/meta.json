@@ -1,0 +1,38 @@
+{
+  "slug": "megaeth",
+  "name": "MegaETH",
+  "logoUrl": "https://unavatar.io/x/megaeth_labs",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "MegaETH is a real-time Ethereum Layer 2 targeting sub 10 millisecond block times and over 100,000 transactions per second.",
+    "description": "MegaETH is an Ethereum Layer 2 built around the claim that blockchains should feel like ordinary web infrastructure. It separates sequencing, execution, and proving across specialised nodes so a single powerful sequencer can push block times under ten milliseconds and sustain well over a hundred thousand transactions per second while still settling to Ethereum. The intent is to make latency sensitive applications viable onchain: order book trading, real-time games, and interactive consumer apps that break down when confirmations take seconds.",
+    "meta": "MegaETH is a real-time Ethereum Layer 2 with sub 10ms blocks and 100k+ TPS. Discover MegaETH on Lancers Web3 Explorer.",
+    "pageTitle": "MegaETH - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.megaeth.com",
+    "github": "https://github.com/megaeth-labs",
+    "docs": "https://docs.megaeth.com",
+    "twitter": "https://x.com/megaeth_labs"
+  },
+  "relations": {
+    "alternatives": [
+      "monad",
+      "base",
+      "arbitrum"
+    ],
+    "related": [
+      "ethereum",
+      "celestia",
+      "eigenda"
+    ]
+  }
+}

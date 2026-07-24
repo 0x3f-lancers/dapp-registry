@@ -1,0 +1,38 @@
+{
+  "slug": "tron",
+  "name": "TRON",
+  "logoUrl": "https://unavatar.io/x/trondao",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "TRON is a delegated proof of stake Layer 1 blockchain that carries the largest share of circulating USDT transfers.",
+    "description": "TRON is a Layer 1 blockchain that uses delegated proof of stake, with a rotating set of elected super representatives producing blocks every few seconds. Its defining role is stablecoin settlement: TRC-20 USDT accounts for a very large share of Tether in circulation, and TRON's flat, predictable fee model plus the option to stake for energy makes repeated small transfers cheap even when the network is busy. The TRON Virtual Machine is EVM compatible, so Solidity contracts and familiar tooling port across with minimal changes.",
+    "meta": "TRON is a delegated proof of stake Layer 1 that carries the largest USDT transfer volume. Discover TRON on Lancers Web3 Explorer.",
+    "pageTitle": "TRON - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tron.network",
+    "github": "https://github.com/tronprotocol",
+    "docs": "https://developers.tron.network",
+    "twitter": "https://x.com/trondao"
+  },
+  "relations": {
+    "alternatives": [
+      "bnb-chain",
+      "solana",
+      "aelf"
+    ],
+    "related": [
+      "3xpl",
+      "tokenpocket",
+      "imtoken"
+    ]
+  }
+}

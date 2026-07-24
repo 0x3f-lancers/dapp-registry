@@ -1,0 +1,39 @@
+{
+  "slug": "sui",
+  "name": "Sui",
+  "logoUrl": "https://unavatar.io/x/SuiNetwork",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Sui"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Sui is a Layer 1 blockchain using the Move language and an object model that lets simple transactions execute in parallel.",
+    "description": "Sui is a Layer 1 blockchain from Mysten Labs built around the Move programming language and an object centric data model. Because assets are modelled as independent objects, not entries in a global map, transactions that do not touch the same objects can be executed in parallel and simple transfers can skip full consensus entirely, which keeps latency and fees low under load. Sui ships a wider stack alongside the chain, including Walrus for data storage and DeepBook for shared liquidity, aimed at DeFi, gaming, payments, and consumer applications.",
+    "meta": "Sui is a Move based Layer 1 blockchain with parallel execution and low latency. Discover Sui on Lancers Web3 Explorer.",
+    "pageTitle": "Sui - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sui.io",
+    "github": "https://github.com/MystenLabs/sui",
+    "docs": "https://docs.sui.io",
+    "twitter": "https://x.com/SuiNetwork",
+    "discord": "https://discord.com/invite/sui"
+  },
+  "relations": {
+    "alternatives": [
+      "aptos",
+      "near",
+      "solana"
+    ],
+    "related": [
+      "suilend",
+      "suiswap",
+      "cetus"
+    ]
+  }
+}

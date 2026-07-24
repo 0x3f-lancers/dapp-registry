@@ -1,0 +1,39 @@
+{
+  "slug": "ton",
+  "name": "The Open Network",
+  "logoUrl": "https://unavatar.io/x/ton_blockchain",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "The Open Network, or TON, is a decentralized Layer 1 blockchain from Telegram, with fast blocks and native Mini App distribution.",
+    "description": "The Open Network, known as TON, is a decentralized Layer 1 blockchain first designed by Telegram and now maintained by an open source community. Its sharded architecture produces blocks in roughly half a second and keeps fees very low, which suits high volume consumer usage rather than occasional settlement. TON is best known for its distribution channel: wallets, payments, and Mini Apps embed directly inside Telegram, so applications reach a very large existing audience without asking users to install anything new or leave the chat interface.",
+    "meta": "TON is a fast Layer 1 blockchain with native Telegram Mini App distribution. Discover The Open Network on Lancers Web3 Explorer.",
+    "pageTitle": "The Open Network - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ton.org",
+    "github": "https://github.com/ton-blockchain",
+    "docs": "https://docs.ton.org",
+    "twitter": "https://x.com/ton_blockchain",
+    "telegram": "https://t.me/tonblockchain"
+  },
+  "relations": {
+    "alternatives": [
+      "near",
+      "solana",
+      "aelf"
+    ],
+    "related": [
+      "tonkeeper",
+      "ston-fi",
+      "storm-trade"
+    ]
+  }
+}

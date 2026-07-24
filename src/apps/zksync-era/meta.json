@@ -1,0 +1,39 @@
+{
+  "slug": "zksync-era",
+  "name": "ZKsync Era",
+  "logoUrl": "https://unavatar.io/x/zksync",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "ZKsync",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "ZKsync Era is a zero knowledge rollup on Ethereum that proves batched execution with validity proofs instead of fraud proofs.",
+    "description": "ZKsync Era is a zero knowledge rollup built by Matter Labs that executes transactions off chain and posts validity proofs to Ethereum, so withdrawals settle once a proof verifies, with no challenge window to wait out. It is EVM compatible at the language level, letting teams deploy Solidity and Vyper contracts with familiar tooling, and it supports native account abstraction so wallets can sponsor gas or accept fees in tokens other than ETH. The network is used for consumer payments, decentralized exchanges, and tokenized real world assets that need privacy controls.",
+    "meta": "ZKsync Era is a zero knowledge rollup on Ethereum with validity proofs and native account abstraction. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "ZKsync Era - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://zksync.io",
+    "github": "https://github.com/matter-labs",
+    "docs": "https://docs.zksync.io",
+    "twitter": "https://x.com/zksync"
+  },
+  "relations": {
+    "alternatives": [
+      "linea",
+      "scroll",
+      "taiko"
+    ],
+    "related": [
+      "zksync",
+      "zk-link",
+      "zklink-nova"
+    ]
+  }
+}

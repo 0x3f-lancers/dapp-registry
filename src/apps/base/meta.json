@@ -1,0 +1,40 @@
+{
+  "slug": "base",
+  "name": "Base",
+  "logoUrl": "https://unavatar.io/x/base",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Base",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Base is an Ethereum Layer 2 network incubated by Coinbase, offering sub-second transactions at a fraction of a cent.",
+    "description": "Base is an Ethereum Layer 2 network built by Coinbase on the OP Stack and secured by Ethereum. It targets consumer scale payments and onchain finance, settling transactions in under a second for a fraction of a cent while keeping full EVM compatibility so existing Solidity contracts and tooling work unchanged. Builders use Base for payments, decentralized exchanges, social apps, and agent driven wallets, and the network connects to the wider Superchain so liquidity and users can move between OP Stack chains without leaving the Ethereum security model.",
+    "meta": "Base is a Coinbase incubated Ethereum Layer 2 with sub-second, low-cost transactions. Discover Base on Lancers Web3 Explorer.",
+    "pageTitle": "Base - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.base.org",
+    "github": "https://github.com/base-org",
+    "docs": "https://docs.base.org",
+    "twitter": "https://x.com/base",
+    "discord": "https://discord.gg/buildonbase"
+  },
+  "relations": {
+    "alternatives": [
+      "op-mainnet",
+      "arbitrum",
+      "zircuit"
+    ],
+    "related": [
+      "linea",
+      "scroll",
+      "mode"
+    ]
+  }
+}

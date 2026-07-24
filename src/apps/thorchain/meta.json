@@ -1,0 +1,44 @@
+{
+  "slug": "thorchain",
+  "name": "THORChain",
+  "logoUrl": "https://unavatar.io/x/thorchain",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Cosmos",
+    "Avalanche",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "THORChain is a cross-chain liquidity protocol that swaps native assets like BTC and ETH without wrapping or bridging them.",
+    "description": "THORChain is an independent Layer 1 built with the Cosmos SDK that exists to swap native assets across otherwise unconnected blockchains. Instead of issuing wrapped tokens, its validator set jointly controls vaults on each supported chain through threshold signatures, so a user sends real bitcoin and receives real ether without a bridge or custodian holding an IOU in between. Liquidity providers deposit assets paired against RUNE, and swaps route through those pools, with streaming swaps splitting large orders to reduce slippage.",
+    "meta": "THORChain swaps native assets like BTC and ETH across chains without wrapped tokens or bridges. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "THORChain - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://thorchain.org",
+    "github": "https://github.com/thorchain",
+    "docs": "https://docs.thorchain.org",
+    "twitter": "https://x.com/thorchain",
+    "discord": "https://discord.gg/thorchaincommunity",
+    "telegram": "https://t.me/thorchain_org"
+  },
+  "relations": {
+    "alternatives": [
+      "thorswap",
+      "symbiosis",
+      "rubic"
+    ],
+    "related": [
+      "stargate",
+      "layerzero",
+      "wormhole"
+    ]
+  }
+}

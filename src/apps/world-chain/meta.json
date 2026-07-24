@@ -1,0 +1,38 @@
+{
+  "slug": "world-chain",
+  "name": "World Chain",
+  "logoUrl": "https://unavatar.io/x/world_chain_",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "World Chain is an Ethereum Layer 2 that prioritizes World ID verified humans with free gas allowances and bot resistance.",
+    "description": "World Chain is an Ethereum Layer 2 built on the OP Stack by the team behind World ID, whose organising principle is proof of personhood, not raw throughput alone. Accounts that have verified as a unique human through World ID receive priority in the block ordering and an allowance of free gas, so ordinary users are not priced out by automated activity competing for the same blockspace. The network stays permissionless and EVM compatible, and pairs with the World App wallet to reach a large base of already verified users.",
+    "meta": "World Chain is an Ethereum Layer 2 giving World ID verified humans priority blockspace and free gas. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "World Chain - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://world.org/world-chain",
+    "docs": "https://docs.world.org/world-chain",
+    "twitter": "https://x.com/world_chain_",
+    "telegram": "https://t.me/worldnetworkofficial"
+  },
+  "relations": {
+    "alternatives": [
+      "base",
+      "op-mainnet",
+      "mode"
+    ],
+    "related": [
+      "world-app",
+      "world-mobile",
+      "holonym"
+    ]
+  }
+}

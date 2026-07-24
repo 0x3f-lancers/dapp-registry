@@ -1,0 +1,39 @@
+{
+  "slug": "azuro",
+  "name": "Azuro",
+  "logoUrl": "https://unavatar.io/x/azuroprotocol",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Web3 Prediction Markets"
+  ],
+  "chains": [
+    "Polygon",
+    "Base",
+    "Polygon zkEVM"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Azuro is an onchain predictions layer supplying shared liquidity, odds, and settlement to third party betting front ends.",
+    "description": "Azuro is infrastructure, not a destination: it supplies the liquidity pools, odds feeds, and settlement contracts that other teams build betting and prediction front ends on top of. Liquidity providers deposit into shared pools that back every application using the protocol, which means a new front end launches with real depth instead of bootstrapping its own book. Azuro runs across several EVM networks, and its subgraph and SDK let developers ship a working prediction market without operating the risk engine themselves.",
+    "meta": "Azuro is an onchain predictions layer providing shared liquidity and settlement to betting front ends. Discover Azuro on Lancers Web3 Explorer.",
+    "pageTitle": "Azuro - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://azuro.org",
+    "github": "https://github.com/Azuro-protocol",
+    "twitter": "https://x.com/azuroprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "sx-bet",
+      "overtime-markets",
+      "betdex"
+    ],
+    "related": [
+      "polymarket",
+      "dexwin",
+      "bodega-market"
+    ]
+  }
+}

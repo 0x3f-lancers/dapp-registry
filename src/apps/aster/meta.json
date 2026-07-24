@@ -1,0 +1,41 @@
+{
+  "slug": "aster",
+  "name": "Aster",
+  "logoUrl": "https://unavatar.io/x/Aster_DEX",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "BNB Chain",
+    "Ethereum",
+    "Solana",
+    "Arbitrum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Aster is a multi-chain perpetuals DEX with hidden orders, stock perps, and both simplified and pro order book trading modes.",
+    "description": "Aster is a decentralized perpetual futures exchange formed by the merger of Astherus and APX Finance and incubated by YZi Labs. It runs across BNB Chain, Ethereum, Solana, and Arbitrum, and splits its interface in two: an Easy mode for one click directional trades at high leverage, and a Pro mode with a full order book for professional flow. Hidden limit orders keep large resting size from being read by other traders, and positions, funding, profit and loss, and liquidations all settle onchain non-custodially.",
+    "meta": "Aster is a multi-chain perpetuals DEX with hidden orders, stock perps, and onchain settlement. Discover Aster on Lancers Web3 Explorer.",
+    "pageTitle": "Aster - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.asterdex.com",
+    "docs": "https://docs.asterdex.com",
+    "twitter": "https://x.com/Aster_DEX",
+    "telegram": "https://t.me/AsterDEX"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperliquid",
+      "dydx",
+      "gmx"
+    ],
+    "related": [
+      "lighter",
+      "drift",
+      "symmio"
+    ]
+  }
+}

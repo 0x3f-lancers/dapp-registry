@@ -1,0 +1,37 @@
+{
+  "slug": "sonic",
+  "name": "Sonic",
+  "logoUrl": "https://unavatar.io/x/SonicLabs",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Sonic is an EVM compatible Layer 1 built for DeFi, with sub-second finality and fees around a tenth of a cent.",
+    "description": "Sonic is an EVM compatible Layer 1 blockchain built by the team behind Fantom, aimed at decentralized finance workloads that need speed without leaving the Solidity ecosystem. It confirms transactions in under a second at an average cost near one tenth of a cent, and a bridge connects it to Ethereum for liquidity. Its distinguishing feature is Fee Monetization, a protocol level program that returns up to ninety percent of the fees an application generates back to the team that built it, turning gas into a direct revenue stream for developers.",
+    "meta": "Sonic is an EVM compatible Layer 1 for DeFi with sub-second finality and developer fee sharing. Discover Sonic on Lancers Web3 Explorer.",
+    "pageTitle": "Sonic - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.soniclabs.com",
+    "docs": "https://docs.soniclabs.com",
+    "twitter": "https://x.com/SonicLabs",
+    "discord": "https://discord.gg/3Ynr2QDSnB",
+    "telegram": "https://t.me/Sonic_English"
+  },
+  "relations": {
+    "alternatives": [
+      "avalanche",
+      "monad",
+      "sei-network"
+    ],
+    "related": [
+      "shadow-exchange",
+      "beefy",
+      "silo-finance"
+    ]
+  }
+}

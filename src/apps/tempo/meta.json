@@ -1,0 +1,36 @@
+{
+  "slug": "tempo",
+  "name": "Tempo",
+  "logoUrl": "https://unavatar.io/x/tempo",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Tempo is a stablecoin payments Layer 1 from Stripe and Paradigm, settling deterministically in about 0.6 seconds.",
+    "description": "Tempo is a Layer 1 blockchain developed by Stripe and Paradigm specifically for stablecoin denominated payments. Unlike general purpose chains where payments compete with trading and minting for blockspace, Tempo reserves capacity for payment traffic at the protocol level, so settlement stays deterministic at roughly six hundred milliseconds regardless of unrelated network activity. Stablecoins are the native fee asset, with no separate volatile gas token, which lets businesses quote, charge, and reconcile in the same unit they already price in.",
+    "meta": "Tempo is a Stripe and Paradigm Layer 1 for stablecoin payments with guaranteed blockspace. Discover Tempo on Lancers Web3 Explorer.",
+    "pageTitle": "Tempo - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tempo.xyz",
+    "github": "https://github.com/tempoxyz",
+    "docs": "https://tempo.xyz/developers/docs",
+    "twitter": "https://x.com/tempo"
+  },
+  "relations": {
+    "alternatives": [
+      "plasma",
+      "sonic",
+      "canton-network"
+    ],
+    "related": [
+      "stripe-crypto-onramp",
+      "paxos",
+      "circle-yield"
+    ]
+  }
+}

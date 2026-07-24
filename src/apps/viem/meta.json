@@ -1,0 +1,43 @@
+{
+  "slug": "viem",
+  "name": "viem",
+  "logoUrl": "https://unavatar.io/x/wevm_dev",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 Libraries"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "ZKsync"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "viem is a TypeScript interface for Ethereum offering low level, stateless primitives with end to end type safety from ABIs.",
+    "description": "viem is a TypeScript library for interacting with Ethereum and EVM chains, built by wevm as a modern alternative to ethers.js and web3.js. It exposes low level stateless primitives rather than stateful client objects, and infers types directly from contract ABIs and EIP-712 typed data so function names, arguments, and return values are checked at compile time instead of failing at runtime. It uses native BigInt rather than shipping a bignumber dependency, keeping bundles small, and works out of the box with Anvil and Hardhat.",
+    "meta": "viem is a TypeScript interface for Ethereum with type safe ABIs and low level primitives. Discover viem on Lancers Web3 Explorer.",
+    "pageTitle": "viem - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://viem.sh",
+    "github": "https://github.com/wevm/viem",
+    "docs": "https://viem.sh/docs/introduction",
+    "twitter": "https://x.com/wevm_dev"
+  },
+  "relations": {
+    "alternatives": [
+      "ethers-js",
+      "web3-js",
+      "web3-py"
+    ],
+    "related": [
+      "wagmi",
+      "rainbowkit",
+      "typechain"
+    ]
+  }
+}

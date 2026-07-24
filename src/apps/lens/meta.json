@@ -1,0 +1,38 @@
+{
+  "slug": "lens",
+  "name": "Lens",
+  "logoUrl": "https://unavatar.io/x/LC",
+  "category": "Web3 Social Dapps",
+  "subcategory": [
+    "Web3 Social Media Dapps"
+  ],
+  "chains": [
+    "Polygon",
+    "ZKsync"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Lens is a decentralized social graph where profiles, follows, and posts are owned onchain and portable across applications.",
+    "description": "Lens is a decentralized social protocol started by the Aave team, built on the idea that a user's audience should belong to them, not to an application. Profiles, follows, posts, and collects are represented onchain, so any client built on Lens reads the same graph and a user switching interfaces keeps their followers and history intact. Modules let developers attach custom logic to follows and collects, such as gating or monetization. Lens has since moved onto its own ZKsync based chain to cut the cost of frequent social actions.",
+    "meta": "Lens is a decentralized social graph with onchain profiles and follows portable across apps. Discover Lens on Lancers Web3 Explorer.",
+    "pageTitle": "Lens - Web3 Social Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lens.xyz",
+    "github": "https://github.com/lens-protocol",
+    "twitter": "https://x.com/LC"
+  },
+  "relations": {
+    "alternatives": [
+      "farcaster",
+      "friendtech",
+      "phaver"
+    ],
+    "related": [
+      "lenstube",
+      "warpcast",
+      "mirror"
+    ]
+  }
+}

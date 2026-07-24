@@ -1,0 +1,38 @@
+{
+  "slug": "bonkbot",
+  "name": "BONKbot",
+  "logoUrl": "https://unavatar.io/x/bonkbot_io",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "BONKbot is a Solana Telegram trading bot for buying and selling SPL tokens in chat, with Jupiter routing and MEV protection.",
+    "description": "BONKbot is a Telegram based trading bot for Solana that turns buying and selling SPL tokens into a chat command, removing the wallet connect and approval loop that slows down reacting to a new listing. Orders route through Jupiter plus the bot's own logic to find execution, and transactions are submitted with MEV protection to reduce sandwich attacks on volatile pairs. It is among the highest fee generating bots on Solana, and all of that fee revenue is used to buy and burn BONK.",
+    "meta": "BONKbot is a Solana Telegram trading bot with Jupiter routing and MEV protection. Discover BONKbot on Lancers Web3 Explorer.",
+    "pageTitle": "BONKbot - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bonkbot.io",
+    "docs": "https://docs.bonkbot.io",
+    "twitter": "https://x.com/bonkbot_io",
+    "telegram": "https://t.me/bonkbot_bot"
+  },
+  "relations": {
+    "alternatives": [
+      "trojan",
+      "maestro",
+      "gmgn"
+    ],
+    "related": [
+      "jupiter",
+      "dex-screener",
+      "birdeye"
+    ]
+  }
+}

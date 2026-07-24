@@ -1,0 +1,38 @@
+{
+  "slug": "polymarket",
+  "name": "Polymarket",
+  "logoUrl": "https://unavatar.io/x/Polymarket",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Web3 Prediction Markets"
+  ],
+  "chains": [
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Polymarket is a prediction market on Polygon where users trade USDC shares in the outcomes of real world events.",
+    "description": "Polymarket is a decentralized prediction market running on Polygon, where each question resolves into outcome shares that settle at one dollar if correct and nothing if not. Prices therefore read directly as probabilities, and markets cover elections, macroeconomics, sports, and current events. Trading runs through a central limit order book with onchain settlement, so users keep custody of funds while orders match off chain for speed. Resolution is handled by UMA's optimistic oracle, with a dispute path when a reported outcome is contested.",
+    "meta": "Polymarket is a Polygon based prediction market where prices read as probabilities on real world events. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "Polymarket - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://polymarket.com",
+    "github": "https://github.com/Polymarket",
+    "docs": "https://docs.polymarket.com",
+    "twitter": "https://x.com/Polymarket"
+  },
+  "relations": {
+    "alternatives": [
+      "kalshi",
+      "limitless",
+      "azuro"
+    ],
+    "related": [
+      "predipie",
+      "web3predict",
+      "betdex"
+    ]
+  }
+}

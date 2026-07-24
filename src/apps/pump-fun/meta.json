@@ -1,0 +1,36 @@
+{
+  "slug": "pump-fun",
+  "name": "Pump.fun",
+  "logoUrl": "https://unavatar.io/x/pumpfun",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Pump.fun lets anyone launch and trade a Solana token in seconds using a bonding curve, with no presale or team allocation.",
+    "description": "Pump.fun is a Solana token launchpad that collapses creation and trading into a single step. A new token starts on a bonding curve where price rises deterministically as supply is bought, so there is no presale, no team allocation, and no liquidity provisioning for the creator to arrange. If a token accumulates enough buying to complete the curve, its liquidity graduates to an automated market maker and trades normally from there. The design made memecoin issuance essentially frictionless and drove a large share of Solana's retail volume.",
+    "meta": "Pump.fun is a Solana launchpad for creating and trading tokens on a bonding curve. Discover Pump.fun on Lancers Web3 Explorer.",
+    "pageTitle": "Pump.fun - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://pump.fun",
+    "twitter": "https://x.com/pumpfun"
+  },
+  "relations": {
+    "alternatives": [
+      "raydium",
+      "orca",
+      "jupiter"
+    ],
+    "related": [
+      "dex-screener",
+      "birdeye",
+      "solana-tracker"
+    ]
+  }
+}

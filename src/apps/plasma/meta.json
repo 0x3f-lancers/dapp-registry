@@ -1,0 +1,38 @@
+{
+  "slug": "plasma",
+  "name": "Plasma",
+  "logoUrl": "https://unavatar.io/x/plasma",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Plasma is a Layer 1 blockchain purpose built for stablecoin payments, with zero fee USDT transfers and Bitcoin anchoring.",
+    "description": "Plasma is a Layer 1 blockchain built around stablecoin movement, not general purpose computation. A protocol level paymaster sponsors basic USDT transfers so everyday sends cost the user nothing, fees for other activity can be paid in stablecoins instead of a separate gas token, and state is periodically anchored to Bitcoin for settlement assurance. The execution layer stays EVM compatible so existing Solidity contracts deploy unchanged. Plasma One extends the chain into a consumer app and card accepted across more than 180 countries.",
+    "meta": "Plasma is a stablecoin native Layer 1 with zero fee USDT transfers and Bitcoin anchoring. Discover Plasma on Lancers Web3 Explorer.",
+    "pageTitle": "Plasma - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.plasma.org",
+    "twitter": "https://x.com/plasma",
+    "discord": "https://discord.gg/plasmafdn"
+  },
+  "relations": {
+    "alternatives": [
+      "tron",
+      "tempo",
+      "sonic"
+    ],
+    "related": [
+      "ethena",
+      "usual",
+      "m0"
+    ]
+  }
+}

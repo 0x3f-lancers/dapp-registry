@@ -1,0 +1,39 @@
+{
+  "slug": "lighter",
+  "name": "Lighter",
+  "logoUrl": "https://unavatar.io/x/Lighter_xyz",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Lighter is a perpetuals exchange built as an application specific zk-rollup on Ethereum, proving order matching and liquidations.",
+    "description": "Lighter is a perpetual futures exchange built as an application specific zero knowledge rollup on Ethereum. What separates it from most onchain venues is the scope of what gets proven: not just balances, but order matching and liquidations are covered by validity proofs, so users can verify that the exchange filled orders according to its stated rules, with no need to trust an operator. Soft finality lands under ten milliseconds with capacity for tens of thousands of trades per second, and standard accounts trade without fees.",
+    "meta": "Lighter is a zk-rollup perpetuals DEX on Ethereum with verifiable order matching and liquidations. Discover Lighter on Lancers Web3 Explorer.",
+    "pageTitle": "Lighter - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lighter.xyz",
+    "docs": "https://docs.lighter.xyz",
+    "twitter": "https://x.com/Lighter_xyz",
+    "discord": "https://discord.gg/lighterxyz",
+    "telegram": "https://t.me/lighter_announcements"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperliquid",
+      "dydx",
+      "aster"
+    ],
+    "related": [
+      "drift",
+      "zeta-markets",
+      "paradex"
+    ]
+  }
+}

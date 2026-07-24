@@ -1,0 +1,47 @@
+{
+  "slug": "exodus",
+  "name": "Exodus",
+  "logoUrl": "https://unavatar.io/x/exodus",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "Cardano",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "Cosmos",
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Exodus is a self custody multi-chain wallet for desktop, mobile, and browser with built-in swaps, staking, and a spending card.",
+    "description": "Exodus is a self custody cryptocurrency wallet available on desktop, mobile, and as a browser extension, founded in 2015 and now publicly listed on the NYSE. It supports well over a million assets across dozens of networks behind a deliberately simple interface, and keeps keys on the user's device, never with the company. Built-in swaps, staking, and portfolio tracking remove the need to visit separate applications, while pairing with Trezor and Ledger hardware devices lets larger balances sit behind an offline signer.",
+    "meta": "Exodus is a self custody multi-chain wallet with built-in swaps, staking, and hardware wallet support. Discover Exodus on Lancers Web3 Explorer.",
+    "pageTitle": "Exodus - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.exodus.com",
+    "github": "https://github.com/ExodusMovement",
+    "docs": "https://www.exodus.com/support",
+    "twitter": "https://x.com/exodus",
+    "discord": "https://discord.gg/exodus"
+  },
+  "relations": {
+    "alternatives": [
+      "trust-wallet",
+      "atomic-wallet",
+      "guarda-wallet"
+    ],
+    "related": [
+      "ledger",
+      "trezor",
+      "metamask"
+    ]
+  }
+}

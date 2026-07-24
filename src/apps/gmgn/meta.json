@@ -1,0 +1,43 @@
+{
+  "slug": "gmgn",
+  "name": "GMGN",
+  "logoUrl": "https://unavatar.io/x/gmgnai",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Solana",
+    "BNB Chain",
+    "Ethereum",
+    "Base",
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "GMGN is a multi-chain memecoin trading terminal combining fast swaps, launch sniping, copy trading, and smart money tracking.",
+    "description": "GMGN is a multi-chain trading terminal aimed at memecoin markets, running since 2023 across Solana, BNB Chain, Ethereum, Base, Monad, and TRON. It pulls the workflow into one place: swaps and launch sniping, wallet level smart money tracking to see what profitable addresses are accumulating, automated copy trading that runs continuously, and contract safety checks before entering a position. The same account is reachable from the web app, mobile, a Telegram bot, and a command line client, and GMGN has no token of its own.",
+    "meta": "GMGN is a multi-chain memecoin trading terminal with copy trading and smart money tracking. Discover GMGN on Lancers Web3 Explorer.",
+    "pageTitle": "GMGN - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gmgn.ai",
+    "github": "https://github.com/GMGNAI",
+    "docs": "https://docs.gmgn.ai",
+    "twitter": "https://x.com/gmgnai",
+    "telegram": "https://t.me/gmgnai"
+  },
+  "relations": {
+    "alternatives": [
+      "bonkbot",
+      "trojan",
+      "maestro"
+    ],
+    "related": [
+      "dex-screener",
+      "dextools",
+      "birdeye"
+    ]
+  }
+}

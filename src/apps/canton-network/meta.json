@@ -1,0 +1,35 @@
+{
+  "slug": "canton-network",
+  "name": "Canton Network",
+  "logoUrl": "https://unavatar.io/x/cantonnetwork",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Canton Network is a privacy enabled public blockchain for regulated financial markets and institutional tokenization.",
+    "description": "Canton Network is a public blockchain built for institutions that cannot put trade details on a fully transparent ledger. Instead of replicating one global state to every participant, Canton synchronizes only between the parties to a transaction, so counterparties, balances, and terms stay private while atomic settlement across separate applications still holds. That model has drawn regulated finance use cases including tokenized United States Treasuries with DTCC, crypto derivatives, onchain collateral and financing, and stablecoin payments between institutions.",
+    "meta": "Canton Network is a privacy enabled public blockchain for regulated finance and tokenization. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "Canton Network - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.canton.network",
+    "twitter": "https://x.com/cantonnetwork",
+    "discord": "https://discord.com/invite/HMy2hQZySN"
+  },
+  "relations": {
+    "alternatives": [
+      "polkadot",
+      "cosmos",
+      "story"
+    ],
+    "related": [
+      "securitize",
+      "ondo",
+      "paxos"
+    ]
+  }
+}

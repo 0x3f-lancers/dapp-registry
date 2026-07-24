@@ -1,0 +1,38 @@
+{
+  "slug": "grass",
+  "name": "Grass",
+  "logoUrl": "https://unavatar.io/x/grass",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Grass is a Solana based DePIN that pays users for sharing unused bandwidth so AI labs can collect public web data at scale.",
+    "description": "Grass is a decentralized physical infrastructure network built as a data rollup on Solana. Participants install a browser extension or mobile app that turns idle residential bandwidth into a node, and AI labs route public web collection through that distributed pool, avoiding the handful of datacenter ranges that sites routinely block. Validators check the returned data and a zero knowledge processor proves it was not tampered with in transit, so buyers get provenance. Contributors earn GRASS for the bandwidth they supply.",
+    "meta": "Grass is a Solana DePIN paying users for unused bandwidth to source verifiable AI web data. Discover Grass on Lancers Web3 Explorer.",
+    "pageTitle": "Grass - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.grass.io",
+    "twitter": "https://x.com/grass",
+    "discord": "https://discord.gg/getgrass",
+    "telegram": "https://t.me/grassannouncementschannel"
+  },
+  "relations": {
+    "alternatives": [
+      "helium",
+      "ionet",
+      "akash-network"
+    ],
+    "related": [
+      "hivemapper",
+      "render-network",
+      "dimo"
+    ]
+  }
+}

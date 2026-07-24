@@ -1,0 +1,44 @@
+{
+  "slug": "thorswap",
+  "name": "THORSwap",
+  "logoUrl": "https://unavatar.io/x/thorswap",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Avalanche",
+    "BNB Chain",
+    "Cosmos"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "THORSwap is a multi-chain DEX aggregator and the flagship interface to THORChain, routing native swaps across 26+ networks.",
+    "description": "THORSwap is a cross-chain decentralized exchange aggregator that sits above several settlement layers at once. It is the flagship interface to THORChain and also routes through Maya Protocol, Chainflip, and NEAR Intents, comparing paths across them to quote swaps between more than ten thousand assets on over twenty six blockchains. Trades stay non-custodial and settle in native assets, and the platform adds yield, RUNE staking, and liquidity provision alongside plain swapping for users who want to stay in one interface.",
+    "meta": "THORSwap is a cross-chain DEX aggregator routing native asset swaps across 26+ blockchains. Discover THORSwap on Lancers Web3 Explorer.",
+    "pageTitle": "THORSwap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.thorswap.finance",
+    "github": "https://github.com/thorswap",
+    "docs": "https://docs.thorswap.finance",
+    "twitter": "https://x.com/thorswap",
+    "discord": "https://discord.gg/thorswap",
+    "telegram": "https://t.me/thorswap_ann"
+  },
+  "relations": {
+    "alternatives": [
+      "thorchain",
+      "jumper-exchange",
+      "rubic"
+    ],
+    "related": [
+      "symbiosis",
+      "stargate",
+      "odos"
+    ]
+  }
+}

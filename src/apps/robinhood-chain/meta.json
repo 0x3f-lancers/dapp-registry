@@ -1,0 +1,38 @@
+{
+  "slug": "robinhood-chain",
+  "name": "Robinhood Chain",
+  "logoUrl": "https://unavatar.io/x/RobinhoodApp",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Robinhood Chain is an Arbitrum Orbit Layer 2 from Robinhood, built for tokenized equities and onchain financial products.",
+    "description": "Robinhood Chain is an Ethereum Layer 2 built by Robinhood on Arbitrum Orbit, launched to mainnet in July 2026 with roughly 100 millisecond block times and settlement back to Ethereum. Its anchor product is Stock Tokens, onchain representations of equities and ETFs that trade around the clock and can be used inside DeFi applications, available across more than 120 countries but not to United States users. Stock Tokens give price exposure to the underlying asset and do not confer legal share ownership or voting rights.",
+    "meta": "Robinhood Chain is an Arbitrum Orbit Layer 2 for tokenized stocks and onchain finance. Discover it on Lancers Web3 Explorer.",
+    "pageTitle": "Robinhood Chain - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://robinhood.com/us/en/chain/",
+    "docs": "https://docs.robinhood.com/chain/",
+    "twitter": "https://x.com/RobinhoodApp"
+  },
+  "relations": {
+    "alternatives": [
+      "base",
+      "arbitrum",
+      "plume-network"
+    ],
+    "related": [
+      "robinhood",
+      "ondo",
+      "backed-finance"
+    ]
+  }
+}
