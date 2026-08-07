@@ -32,5 +32,21 @@
     "related": [
       "infinitism-bundler"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Rails and Cargo: Why EIP-8141 Is the Transport That Ships ERC-8211",
+      "tldr": "A standard is inert without a way to deliver it to real users. Separates the batching format from the transport carrying it, and makes the case that transport was the harder half.",
+      "url": "https://blog.biconomy.io/rails-and-cargo-why-eip-8141-is-the-transport-that-finally-ships-erc-8211-to-every-ethereum-user/",
+      "source": "Biconomy Blog",
+      "publishedAt": "2026-05-04"
+    },
+    {
+      "title": "Cross-chain and Predicate-Based Simulations with ERC-8211",
+      "tldr": "Simulating a transaction spanning several chains means predicting state you cannot yet read. Covers predicate-based simulation and the failures it is meant to surface early.",
+      "url": "https://blog.biconomy.io/cross-chain-and-predicate-based-simulations-with-erc-8211/",
+      "source": "Biconomy Blog",
+      "publishedAt": "2026-05-13"
+    }
+  ]
 }

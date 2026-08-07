@@ -1,48 +1,71 @@
 {
-    "slug":  "coin98",
-    "name":  "Coin98",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745763/web3-explorer/dapp-logos/coin98.jpg",
-    "category":  "Web3 Wallets",
-    "subcategory":  [
-                        "Software Wallets"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Avalanche",
-                   "Base",
-                   "BNB Chain",
-                   "Celo",
-                   "Cronos",
-                   "Ethereum",
-                   "Fantom",
-                   "Harmony",
-                   "Mantle",
-                   "Moonbeam",
-                   "OP Mainnet",
-                   "Polygon",
-                   "Polygon zkEVM",
-                   "Solana",
-                   "ZKsync"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Coin98 is a multi-chain wallet and DeFi platform that combines asset management, trading, dapp access, and wallet services.",
-                    "description":  "Coin98 is positioned as a multi-chain wallet and broader Web3 platform rather than a single-function wallet app. Its official product materials describe wallet storage, transfers, built-in trading features, dapp access, AI assisted tools, and services such as identity, referrals, and connected card products within one ecosystem. Compared with the more specific Coin98 Super Wallet listing, this broader Coin98 entry fits as the wider platform brand that connects wallet usage with DeFi access and other consumer facing products. On Mantle, it serves as a general gateway into trading, wallet, and app workflows.",
-                    "meta":  "Coin98 is a multi-chain wallet and DeFi platform that combines asset management, trading, dapp access, and broader wallet services.",
-                    "pageTitle":  "Coin98 - Web3 Wallets - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://coin98.com/",
-                  "twitter":  "https://x.com/coin98_wallet"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "gem-wallet",
-                                           "virgo-wallet"
-                                       ],
-                      "related":  [
-                                      "etherspot-sdk",
-                                      "holdstation"
-                                  ]
-                  }
+  "slug": "coin98",
+  "name": "Coin98",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745763/web3-explorer/dapp-logos/coin98.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Celo",
+    "Cronos",
+    "Ethereum",
+    "Fantom",
+    "Harmony",
+    "Mantle",
+    "Moonbeam",
+    "OP Mainnet",
+    "Polygon",
+    "Polygon zkEVM",
+    "Solana",
+    "ZKsync"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Coin98 is a multi-chain wallet and DeFi platform that combines asset management, trading, dapp access, and wallet services.",
+    "description": "Coin98 is positioned as a multi-chain wallet and broader Web3 platform rather than a single-function wallet app. Its official product materials describe wallet storage, transfers, built-in trading features, dapp access, AI assisted tools, and services such as identity, referrals, and connected card products within one ecosystem. Compared with the more specific Coin98 Super Wallet listing, this broader Coin98 entry fits as the wider platform brand that connects wallet usage with DeFi access and other consumer facing products. On Mantle, it serves as a general gateway into trading, wallet, and app workflows.",
+    "meta": "Coin98 is a multi-chain wallet and DeFi platform that combines asset management, trading, dapp access, and broader wallet services.",
+    "pageTitle": "Coin98 - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://coin98.com/",
+    "twitter": "https://x.com/coin98_wallet"
+  },
+  "relations": {
+    "alternatives": [
+      "gem-wallet",
+      "virgo-wallet"
+    ],
+    "related": [
+      "etherspot-sdk",
+      "holdstation"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What a Smart Contract Audit Does and Doesn't Cover",
+      "tldr": "An audit certifies one commit, not a living protocol. Roughly 75% of the value drained from Web3 came from outside any audit's scope, and that gap is the subject here.",
+      "url": "https://coin98.com/blog/what-a-smart-contract-audit-does-and-doesnt-cover/",
+      "source": "Coin98 Blog",
+      "publishedAt": "2026-08-03"
+    },
+    {
+      "title": "How Fake Staking Sites Work, and How to Spot One",
+      "tldr": "A counterfeit Flare staking site took $8.5M in eight days. Pulls apart the two mechanics such sites rely on, plus the checks that catch them before you sign anything.",
+      "url": "https://coin98.com/blog/how-fake-staking-sites-work-and-how-to-spot-one/",
+      "source": "Coin98 Blog",
+      "publishedAt": "2026-08-03"
+    },
+    {
+      "title": "What to Do When a DeFi Protocol Shuts Down",
+      "tldr": "More than 40 protocols wound down in early 2026. Withdrawal order turns out to matter, and the token approvals left dangling afterwards are what almost everyone forgets to revoke.",
+      "url": "https://coin98.com/blog/what-to-do-when-a-defi-protocol-shuts-down/",
+      "source": "Coin98 Blog",
+      "publishedAt": "2026-07-28"
+    }
+  ]
 }

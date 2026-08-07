@@ -34,5 +34,28 @@
       "chainstack-subgraphs",
       "cexplorer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Calidus Pool Keys: Secure SPO Interaction on Cardano",
+      "tldr": "Stake pool operators previously had to touch cold keys to prove who they were. Explains the delegated key scheme that removes that, and why it matters operationally.",
+      "url": "https://blog.blockfrost.io/calidus-pool-keys/",
+      "source": "Blockfrost Blog",
+      "publishedAt": "2025-06-06"
+    },
+    {
+      "title": "IceBreakers: How SPOs Earn Revenue by Decentralizing an API",
+      "tldr": "API infrastructure is a genuine centralisation point that rarely gets discussed. On paying independent operators to run it, and whether the incentives actually hold.",
+      "url": "https://blog.blockfrost.io/icebreakers/",
+      "source": "Blockfrost Blog",
+      "publishedAt": "2024-11-27"
+    },
+    {
+      "title": "IceBreaker Spotlight: Building Lace Pool",
+      "tldr": "A stake pool operator's account of moving from design work into running infrastructure. Worth reading for the unglamorous reality of node operation.",
+      "url": "https://blog.blockfrost.io/icebreaker-spotlight-robin-boning-on-decentralization-cardano-and-building-lace-pool/",
+      "source": "Blockfrost Blog",
+      "publishedAt": "2026-01-31"
+    }
+  ]
 }

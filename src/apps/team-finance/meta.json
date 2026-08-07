@@ -39,5 +39,28 @@
       "mimic",
       "linen"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "SPL vs Token-2022: Understanding Solana's Token Standards",
+      "tldr": "Token-2022 adds extensions like transfer hooks and confidential balances that plain SPL cannot express. Short and clear on when the newer standard is worth the added surface.",
+      "url": "https://blog.team.finance/spl-vs-token-2022-understanding-solanas-token-standards/",
+      "source": "Team Finance Blog",
+      "publishedAt": "2026-03-26"
+    },
+    {
+      "title": "Why Branded Token Vesting Builds Long-Term Trust",
+      "tldr": "A vesting schedule anyone can verify onchain is a commitment; one described in a blog post is a promise. On why the difference shows up in holder behaviour.",
+      "url": "https://blog.team.finance/why-branded-token-vesting-builds-long-term-trust/",
+      "source": "Team Finance Blog",
+      "publishedAt": "2026-03-10"
+    },
+    {
+      "title": "Crypto Payroll: Paying Global Teams",
+      "tldr": "Paying contractors across borders in stablecoins solves the transfer and creates new questions about withholding, local reporting and volatility on payday.",
+      "url": "https://blog.team.finance/crypto-payroll-the-smarter-way-to-pay-global-teams/",
+      "source": "Team Finance Blog",
+      "publishedAt": "2026-03-16"
+    }
+  ]
 }

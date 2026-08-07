@@ -36,5 +36,21 @@
       "minu-swap",
       "lifi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "DIA ZK: Verifiable Offchain Data, Proven Onchain",
+      "tldr": "Uses zkTLS to prove a value genuinely came from a named source, with selective disclosure so the whole response need not be published. Aimed at reserves, NAV and collateral attestation.",
+      "url": "https://www.diadata.org/blog/post/dia-zk-verifiable-offchain-data",
+      "source": "DIA Blog",
+      "publishedAt": "2026-07-22"
+    },
+    {
+      "title": "How ST0x Uses DIA Oracles for Tokenized Equity Trading",
+      "tldr": "Intent-based order logic on tokenised equities lives or dies on price freshness. A concrete look at what an oracle has to guarantee before that design is safe to run.",
+      "url": "https://www.diadata.org/blog/post/how-st0x-uses-dia-oracles-for-tokenized-equity-trading",
+      "source": "DIA Blog",
+      "publishedAt": "2026-07-30"
+    }
+  ]
 }

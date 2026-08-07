@@ -37,5 +37,28 @@
       "impersonator",
       "gem-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Turnkey for Agent Identity: ERC-8004 and Trustless AI",
+      "tldr": "The execution and identity layer that has to exist before an agent can be trusted with money, covering ERC-8004 identities and SIWA authentication together.",
+      "url": "https://www.turnkey.com/blog/agent-identity-erc-8004-siw",
+      "source": "Turnkey Blog",
+      "publishedAt": "2026-02-23"
+    },
+    {
+      "title": "20+ Skills and MCP Servers for Blockchain Development",
+      "tldr": "A survey of 20+ AI skills and MCP servers that expose blockchain infrastructure to models, and how they change a developer's actual workflow rather than just the demo.",
+      "url": "https://www.turnkey.com/blog/20-skills-and-mcp-servers-bridging-ai-and-blockchain-development",
+      "source": "Turnkey Blog",
+      "publishedAt": "2026-02-12"
+    },
+    {
+      "title": "Introducing Agentic Payments with Turnkey",
+      "tldr": "Production infrastructure for agent payments: non-custodial wallets, gas sponsorship, real-time balances and policy controls. The policy layer is what makes the rest safe to run.",
+      "url": "https://www.turnkey.com/blog/agentic-payments-secure-onchain-money-movement",
+      "source": "Turnkey Blog",
+      "publishedAt": "2026-06-24"
+    }
+  ]
 }

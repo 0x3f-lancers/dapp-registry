@@ -32,5 +32,28 @@
       "detask",
       "dmail-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Agentic Memory Debt: Why Your Agents Keep Accumulating It",
+      "tldr": "An agent that forgets everything between sessions rebuilds the same context forever, and one that remembers everything drowns. On the compounding cost sitting between those.",
+      "url": "https://blog.walrus.xyz/what-is-agentic-memory-debt-and-why-your-agents-keep-accumulating-it-verifiable-portable/",
+      "source": "Walrus Blog",
+      "publishedAt": "2026-07-02"
+    },
+    {
+      "title": "Bringing Walrus to the IPFS Ecosystem Through Lighthouse",
+      "tldr": "Two decentralised storage models with different durability guarantees, bridged without forcing anyone to migrate. Good for understanding what content addressing does and does not promise.",
+      "url": "https://blog.walrus.xyz/bringing-walrus-to-the-ipfs-ecosystem-through-lighthouse/",
+      "source": "Walrus Blog",
+      "publishedAt": "2026-06-30"
+    },
+    {
+      "title": "An Open Standard for Agentic Trading",
+      "tldr": "If agents are going to trade, their records need to be verifiable by someone who was not there. Describes what such a standard has to capture to be worth anything after the fact.",
+      "url": "https://blog.walrus.xyz/astros-and-walrus-to-introduce-open-standard-for-agentic-trading/",
+      "source": "Walrus Blog",
+      "publishedAt": "2026-08-06"
+    }
+  ]
 }

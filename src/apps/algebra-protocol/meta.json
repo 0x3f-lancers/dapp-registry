@@ -32,5 +32,21 @@
       "banxa",
       "beefy"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Algebra Made QuickSwap Liquidity 4x More Fee-Efficient",
+      "tldr": "A case study with actual numbers: QuickSwap's Algebra-based V3 earned 4.1x the fees and 17x the volume per dollar of TVL compared with its own V2 on Polygon.",
+      "url": "https://blog.algebra.finance/quickswap-algebra-clamm-capital-efficiency-case-study",
+      "source": "Algebra Blog",
+      "publishedAt": "2026-08-04"
+    },
+    {
+      "title": "How Algebra's NAV Plugin Enables Efficient RWA Trading on Base",
+      "tldr": "Tokenized real-world assets price off net asset value rather than order flow, which breaks the usual AMM curve. Covers how an oracle-aware plugin reshapes the pool around that.",
+      "url": "https://blog.algebra.finance/algebra-hydrex-nav-liquidity-rwas",
+      "source": "Algebra Blog",
+      "publishedAt": "2026-08-03"
+    }
+  ]
 }

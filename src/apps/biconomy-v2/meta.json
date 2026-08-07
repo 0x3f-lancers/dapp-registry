@@ -35,5 +35,21 @@
       "voltaire-bundler",
       "arka-paymaster"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Smart Batching SDK: Building on ERC-8211 Without Touching Solidity",
+      "tldr": "Batched conditional transactions have historically meant deploying a contract. Walks through composing the same behaviour from the client instead, with the tradeoffs stated openly.",
+      "url": "https://blog.biconomy.io/smart-batching-sdk-building-on-erc-8211-without-touching-solidity-2/",
+      "source": "Biconomy Blog",
+      "publishedAt": "2026-05-26"
+    },
+    {
+      "title": "One Address, One Invoice: Multi-Chain Reconciliation on ERC-8211",
+      "tldr": "Accepting payment across several chains usually produces several addresses and a reconciliation mess. Describes collapsing that back to a single identity per invoice.",
+      "url": "https://blog.biconomy.io/one-address-one-invoice-multi-chain-reconciliation-on-erc-8211/",
+      "source": "Biconomy Blog",
+      "publishedAt": "2026-05-07"
+    }
+  ]
 }

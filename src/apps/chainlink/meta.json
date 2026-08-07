@@ -36,5 +36,28 @@
       "gateway-fm",
       "raydium"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is an Oracle in Blockchain?",
+      "tldr": "Blockchains cannot natively reach outside data or systems. Sets out what oracles supply: connectivity plus verifiable computation for privacy, compliance and orchestration.",
+      "url": "https://chain.link/education/blockchain-oracles",
+      "source": "Chainlink Education",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "title": "What is Cross-Chain?",
+      "tldr": "The dApp ecosystem now spans hundreds of chains, L2s and appchains, none of which can natively talk to each other or to existing web infrastructure. A clean statement of the problem itself.",
+      "url": "https://chain.link/education/cross-chain",
+      "source": "Chainlink Education",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "title": "Asset Tokenization: Digital Assets Explained",
+      "tldr": "Defines tokenisation as representing ownership rights to real assets onchain, then covers what that buys - permissionless liquidity, open access, onchain transparency - and why it all rests on trustworthy offchain data.",
+      "url": "https://chain.link/education/asset-tokenization",
+      "source": "Chainlink Education",
+      "publishedAt": "2026-01-01"
+    }
+  ]
 }

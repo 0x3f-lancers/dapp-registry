@@ -35,5 +35,28 @@
       "dcent",
       "tangem"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Is an Air-Gapped Cold Wallet Truly Unbreakable?",
+      "tldr": "Air-gapping removes the network as an attack surface and leaves several others intact. An unusually honest look at supply chain, firmware, and the human holding the device.",
+      "url": "https://blog.keyst.one/is-an-air-gapped-cold-wallet-truly-unbreakable-technical-principles-and-risks",
+      "source": "Keystone Blog",
+      "publishedAt": "2026-05-27"
+    },
+    {
+      "title": "How to Use Mnemonic Sharding (SLIP39): A Step-by-Step Guide",
+      "tldr": "SLIP39 applies Shamir's Secret Sharing to split a master key into shards that need a threshold to recover, removing the single point of failure. Includes storage schemes and their risk boundaries.",
+      "url": "https://blog.keyst.one/how-to-use-mnemonic-sharding-slip-39-a-step-by-step-guide",
+      "source": "Keystone Blog",
+      "publishedAt": "2026-05-27"
+    },
+    {
+      "title": "Long-Term Bitcoin Storage: Security Risks Most HODLers Ignore",
+      "tldr": "Ten-year storage fails differently from ten-month storage: media degrades, firmware ages, heirs cannot find the instructions. Concentrates on slow risks rather than dramatic ones.",
+      "url": "https://blog.keyst.one/long-term-bitcoin-storage-security-risks-most-hodlers-ignore",
+      "source": "Keystone Blog",
+      "publishedAt": "2026-05-13"
+    }
+  ]
 }

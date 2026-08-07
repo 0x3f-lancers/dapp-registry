@@ -31,5 +31,28 @@
       "betarpc",
       "rockx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Detect Privately Built Transactions",
+      "tldr": "An end-to-end plugin tutorial for flagging transactions that never appeared in the public mempool, which is a practical way into how private orderflow actually reaches a block.",
+      "url": "https://docs.besu-eth.org/plugins/tutorials/detect-privately-built-transactions",
+      "source": "Besu Documentation",
+      "publishedAt": "2026-07-21"
+    },
+    {
+      "title": "Deploy a Private IBFT 2.0 Network",
+      "tldr": "Deploys a whole IBFT 2.0 network - bootnode, RPC node, three nodes, a block explorer, plus Prometheus and Grafana - onto one Azure VM in minutes. The fastest route to a chain you fully control.",
+      "url": "https://docs.besu-eth.org/private-networks/tutorials/azure",
+      "source": "Besu Documentation",
+      "publishedAt": "2026-07-21"
+    },
+    {
+      "title": "Deploy a Smart Contract on a Private Network",
+      "tldr": "Deploying a contract with eth_sendSignedTransaction and web3js, signing and serialising the transaction yourself rather than letting a framework hide the step.",
+      "url": "https://docs.besu-eth.org/private-networks/tutorials/contracts",
+      "source": "Besu Documentation",
+      "publishedAt": "2026-07-21"
+    }
+  ]
 }

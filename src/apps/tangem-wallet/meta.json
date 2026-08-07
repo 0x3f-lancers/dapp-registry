@@ -53,5 +53,28 @@
       "atomic-wallet",
       "coin-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Protect Your Crypto From Phishing Scams",
+      "tldr": "Phishing took over $1.8B in 2024, and almost none of it required breaking any cryptography. Runs through the actual vectors: cloned sites, Discord lures, malicious approvals.",
+      "url": "https://tangem.com/en/blog/post/how-to-protect-crypto-from-phishing/",
+      "source": "Tangem Blog",
+      "publishedAt": "2026-05-22"
+    },
+    {
+      "title": "Is Self-Custody Risky? Understanding Crypto Self-Custody Risks",
+      "tldr": "Refuses the usual framing that self-custody is simply safer. Weighs the risks you take on against the ones you shed, then covers how to reduce the former.",
+      "url": "https://tangem.com/en/blog/post/is-self-custody-risky/",
+      "source": "Tangem Blog",
+      "publishedAt": "2026-04-20"
+    },
+    {
+      "title": "What Is a Hot Wallet?",
+      "tldr": "Being connected to the internet is the entire definition, and every tradeoff follows from it. A clean primer on where hot wallets fit and where they stop being appropriate.",
+      "url": "https://tangem.com/en/blog/post/what-is-a-hot-wallet/",
+      "source": "Tangem Blog",
+      "publishedAt": "2026-02-24"
+    }
+  ]
 }

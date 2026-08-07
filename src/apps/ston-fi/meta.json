@@ -34,5 +34,28 @@
       "dedust",
       "ion-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cross-chain DeFi risks: what blockchain bridge security really costs",
+      "tldr": "Bridges exist because the best opportunities are never all on one chain, and every hop adds a trust assumption. Adds those costs up instead of waving at them.",
+      "url": "https://blog.ston.fi/cross-chain-defi-risks-what-blockchain-bridge-security-really-costs-crypto-users/",
+      "source": "STON.fi Blog",
+      "publishedAt": "2026-07-24"
+    },
+    {
+      "title": "How to build a cross-chain DeFi strategy step by step: HTLC, RFQ, and atomic swaps",
+      "tldr": "HTLC, RFQ and atomic swaps are not interchangeable plumbing. Each decides who carries the timing risk while value is in flight, which is the real basis for picking between them.",
+      "url": "https://blog.ston.fi/how-to-build-a-cross-chain-defi-strategy-step-by-step-htlc-rfq-and-atomic-swaps/",
+      "source": "STON.fi Blog",
+      "publishedAt": "2026-07-30"
+    },
+    {
+      "title": "The future of cross-chain UX: will users even know what chain they're on?",
+      "tldr": "Choosing a chain is still a step users perform by hand. Looks at how intents and resolvers erase that step from the interface, and what has to hold together underneath.",
+      "url": "https://blog.ston.fi/the-future-of-cross-chain-ux-will-users-even-know-what-chain-theyre-on/",
+      "source": "STON.fi Blog",
+      "publishedAt": "2026-08-06"
+    }
+  ]
 }

@@ -3,8 +3,16 @@
   "name": "Baltex",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745159/web3-explorer/dapp-logos/baltex.io.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Bitcoin", "Base", "BNB Chain", "Solana", "Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Base",
+    "BNB Chain",
+    "Solana",
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "Baltex is a cross-chain DEX aggregator unifying DEXs and bridges into a single swap terminal.",
@@ -17,7 +25,37 @@
     "twitter": "https://x.com/baltexio"
   },
   "relations": {
-    "alternatives": ["narfex", "wombat-exchange"],
-    "related": ["heroswap", "robinhood", "contango"]
-  }
+    "alternatives": [
+      "narfex",
+      "wombat-exchange"
+    ],
+    "related": [
+      "heroswap",
+      "robinhood",
+      "contango"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Raydium vs Orca: Solana DEX Rates Compared",
+      "tldr": "Two Solana venues with different pool designs, compared on realised execution rather than headline fees. The gap between the two numbers is the interesting part.",
+      "url": "https://baltex.io/blog/ecosystem/raydium-vs-orca-which-solana-dex-offers-better-rates",
+      "source": "Baltex Blog",
+      "publishedAt": "2026-08-05"
+    },
+    {
+      "title": "Balancer V3 Review: Custom Pools and Hooks",
+      "tldr": "Balancer's weighted and custom pools behave quite differently from a standard constant-product AMM. Goes into the hooks, the fee mechanics and the security surface they add.",
+      "url": "https://baltex.io/blog/ecosystem/balancer-v3-review",
+      "source": "Baltex Blog",
+      "publishedAt": "2026-08-05"
+    },
+    {
+      "title": "Curve Finance Review: Still Best for Stablecoin Swaps?",
+      "tldr": "Curve's invariant is built for assets that should trade near parity, which is why it wins on stables and loses elsewhere. Revisits whether that advantage still holds.",
+      "url": "https://baltex.io/blog/ecosystem/curve-finance-review-2026",
+      "source": "Baltex Blog",
+      "publishedAt": "2026-08-05"
+    }
+  ]
 }

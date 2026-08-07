@@ -32,5 +32,21 @@
       "aevo",
       "auro-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Two Markets. One Spread. One Yield. Zero Direction.",
+      "tldr": "A market-neutral position built from Hyperliquid funding against Aave credit. Worth reading for how the two legs offset, and for what breaks the neutrality when they stop.",
+      "url": "https://usual.money/blog/two-markets-one-spread-one-yield-zero-direction",
+      "source": "Usual Blog",
+      "publishedAt": "2026-08-06"
+    },
+    {
+      "title": "From Bank Account to EUR0, No Exchange Needed",
+      "tldr": "Reaching a euro stablecoin normally means an exchange, an intermediate token and several fees. Describes collapsing that path, and what has to be regulated for it to be legal.",
+      "url": "https://usual.money/blog/from-bank-account-to-eur0.-no-exchange-needed",
+      "source": "Usual Blog",
+      "publishedAt": "2026-03-03"
+    }
+  ]
 }

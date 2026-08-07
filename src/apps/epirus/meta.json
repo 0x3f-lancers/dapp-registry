@@ -35,5 +35,19 @@
       "wowearn",
       "flare-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Guide to Attestations in Web3",
+      "tldr": "An attestation is a digitally signed statement about something. Compares them directly against NFTs and POAPs to argue they may prove more useful and more scalable for identity.",
+      "url": "https://www.chainlens.com/post/attestations-in-web3-a-comprehensive-guide",
+      "source": "Chainlens Blog"
+    },
+    {
+      "title": "How to Use Quorum Dev Quickstart With a Blockchain Explorer",
+      "tldr": "Chainlens is now wired into the Quorum dev quickstart repo, so spinning up a private network gives you a working block explorer with it. Useful for actually seeing what your chain does.",
+      "url": "https://www.chainlens.com/post/chainlens-block-explorer-integration-with-quorum-developer-quickstart",
+      "source": "Chainlens Blog"
+    }
+  ]
 }

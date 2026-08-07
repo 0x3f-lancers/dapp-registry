@@ -38,5 +38,21 @@
     "related": [
       "noves"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How SQD Validates Every Block",
+      "tldr": "Most indexers trust whatever an RPC endpoint returns. This covers trie-rooted verification at the source instead, and why blind trust in RPC is a real correctness problem.",
+      "url": "https://sqd.dev/blog/how-sqd-validates-every-block/",
+      "source": "SQD Blog",
+      "publishedAt": "2026-04-23"
+    },
+    {
+      "title": "DeFi Wasn't Built for This",
+      "tldr": "Research with Barter arguing that DeFi infrastructure designed around human reaction times quietly penalises autonomous agents, and what would need to change for it not to.",
+      "url": "https://sqd.dev/blog/defi-wasnt-built-for-this/",
+      "source": "SQD Blog",
+      "publishedAt": "2026-04-16"
+    }
+  ]
 }

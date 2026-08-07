@@ -42,5 +42,28 @@
       "saakuru",
       "coinbase-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Agent Wallet Identity, Permissions, and Compliance",
+      "tldr": "Three questions decide whether an agent can be trusted with money: who it acts as, what it is allowed to do, and what you can prove afterwards. Treats all three as engineering problems.",
+      "url": "https://www.openfort.io/blog/agent-permissions",
+      "source": "Openfort Blog",
+      "publishedAt": "2026-08-04"
+    },
+    {
+      "title": "Server-Side Wallets: An API Guide for Automated Payouts",
+      "tldr": "Batched payouts and treasury operations need keys that live somewhere defensible. Covers holding them in a TEE with policy enforcement, rather than in an environment variable.",
+      "url": "https://www.openfort.io/blog/backend-wallets",
+      "source": "Openfort Blog",
+      "publishedAt": "2026-08-04"
+    },
+    {
+      "title": "Best AI Agent Wallets for Developers, Compared",
+      "tldr": "Compares agent wallets on payment rails (x402, AP2, MCP) and spending controls. Long, and more concerned with what happens when an agent misbehaves than with feature counts.",
+      "url": "https://www.openfort.io/blog/best-agent-wallets-for-developers",
+      "source": "Openfort Blog",
+      "publishedAt": "2026-07-18"
+    }
+  ]
 }

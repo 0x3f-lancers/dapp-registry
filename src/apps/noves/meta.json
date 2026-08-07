@@ -48,5 +48,28 @@
       "presearch",
       "footprint-analytics"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Retrieving Party Balances on Canton",
+      "tldr": "A privacy-preserving ledger will not simply tell you a balance, which breaks the naive approach immediately. A practical guide to what does work and why the difference exists.",
+      "url": "https://noves.fi/blog/canton-coin-balances",
+      "source": "Noves Blog",
+      "publishedAt": "2026-06-24"
+    },
+    {
+      "title": "From Intent to a Working USDCx Transfer Feed",
+      "tldr": "Four stages from wanting to receive a token to actually having a reliable feed of transfers, with the failure at each step named rather than skipped over.",
+      "url": "https://noves.fi/blog/canton-usdcx-tracking",
+      "source": "Noves Blog",
+      "publishedAt": "2026-06-24"
+    },
+    {
+      "title": "Replacing Custom Event-Parsing Scripts: A Modulo Case Study",
+      "tldr": "Every team indexing a chain writes the same brittle parsing scripts and then maintains them forever. A concrete account of retiring that layer.",
+      "url": "https://noves.fi/blog/modulo-case-study",
+      "source": "Noves Blog",
+      "publishedAt": "2026-06-24"
+    }
+  ]
 }

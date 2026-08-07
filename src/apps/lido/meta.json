@@ -34,5 +34,21 @@
       "truefi",
       "hundred-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "stETH Liquidity Held Its Ground During the KelpDAO Stress Event",
+      "tldr": "The April 2026 rsETH exploit was a shock Lido did not cause. Market depth got expensive and pricing moved, but stETH kept functioning, which makes this a useful read on second-hand contagion.",
+      "url": "https://blog.lido.fi/steth-liquidity-held-ground-during-stress-event/",
+      "source": "Lido Blog",
+      "publishedAt": "2026-06-24"
+    },
+    {
+      "title": "A New Lido Core Upgrade for Protocol Sustainability and a Leaner Ethereum",
+      "tldr": "Changes across the staking modules aimed at protocol health and a lighter validator footprint. A good window into how a liquid staking protocol keeps pace with Ethereum's roadmap.",
+      "url": "https://blog.lido.fi/a-new-lido-core-upgrade-for-protocol-sustainability-and-a-leaner-ethereum/",
+      "source": "Lido Blog",
+      "publishedAt": "2026-07-27"
+    }
+  ]
 }

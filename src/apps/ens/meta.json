@@ -31,5 +31,28 @@
       "timelessx",
       "fiat24"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How ENS Normalization Works",
+      "tldr": "Two names can look identical to a person and be entirely different strings to a machine, which is precisely how spoofing works. Explains the normalization step that closes that gap.",
+      "url": "https://ens.domains/blog/post/how-ens-normalization-works",
+      "source": "ENS Blog",
+      "publishedAt": "2026-08-06"
+    },
+    {
+      "title": "How ENS Names Evolved",
+      "tldr": "From a flat ownership model for .eth names through subnames and permissions to ENSv2's registry-native design. Good for understanding why the architecture ended up shaped this way.",
+      "url": "https://ens.domains/blog/post/how-ens-names-evolved",
+      "source": "ENS Blog",
+      "publishedAt": "2026-07-02"
+    },
+    {
+      "title": "What Makes ENS a Protocol",
+      "tldr": "The argument that ENS is naming infrastructure and not a product: stable resolution rules, open standards, and many independent interfaces all reading the same records.",
+      "url": "https://ens.domains/blog/post/what-makes-ens-a-protocol",
+      "source": "ENS Blog",
+      "publishedAt": "2026-07-29"
+    }
+  ]
 }

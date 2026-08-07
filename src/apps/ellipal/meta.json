@@ -33,5 +33,21 @@
       "frontier-wallet",
       "stackup"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Seed Entropy: How to Verify Your Hardware Wallet",
+      "tldr": "A seed phrase can only be as unpredictable as the randomness that produced it. Prompted by the Coldcard RNG flaw, this shows how to check where your device sources entropy.",
+      "url": "https://www.ellipal.com/blogs/news/coldcard-rng-vulnerability-explained",
+      "source": "ELLIPAL Blog",
+      "publishedAt": "2026-08-03"
+    },
+    {
+      "title": "How Crypto Cards Hold Your Money: Custody Explained",
+      "tldr": "A crypto card is really two systems stacked: payment rails and custody. Worth reading for who holds your balance between transactions, and what an issuer collapse could actually touch.",
+      "url": "https://www.ellipal.com/blogs/news/how-crypto-cards-hold-your-money",
+      "source": "ELLIPAL Blog",
+      "publishedAt": "2026-07-31"
+    }
+  ]
 }

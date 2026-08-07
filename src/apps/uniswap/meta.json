@@ -3,8 +3,15 @@
   "name": "Uniswap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750933/web3-explorer/dapp-logos/uniswap.svg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Polygon", "Arbitrum", "OP Mainnet"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet"
+  ],
   "pricing": "",
   "content": {
     "short": "Uniswap is an Ethereum-based decentralized exchange enabling token swaps via liquidity pools.",
@@ -17,7 +24,30 @@
     "twitter": "https://x.com/Uniswap"
   },
   "relations": {
-    "alternatives": ["position-exchange", "xtoken-terminal"],
-    "related": ["erasure", "egemoney", "bumper-finance"]
-  }
+    "alternatives": [
+      "position-exchange",
+      "xtoken-terminal"
+    ],
+    "related": [
+      "erasure",
+      "egemoney",
+      "bumper-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "DualPool Hook: A Technical Deep Dive",
+      "tldr": "A v4 hook that parks idle market-maker inventory in a lending market until the moment a swap needs it. Walks through the accounting and the edge cases that make doing so safe.",
+      "url": "https://blog.uniswap.org/dualpool-hook-is-now-live",
+      "source": "Uniswap Labs Blog",
+      "publishedAt": "2026-07-22"
+    },
+    {
+      "title": "Introducing Permissioned Pools on Uniswap v4",
+      "tldr": "A hook standard for trading assets that carry compliance constraints, with the eligibility checks enforced onchain at swap time rather than bolted on at the interface layer.",
+      "url": "https://blog.uniswap.org/introducing-permissioned-pools-on-uniswap-v4",
+      "source": "Uniswap Labs Blog",
+      "publishedAt": "2026-07-23"
+    }
+  ]
 }

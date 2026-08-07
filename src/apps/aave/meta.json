@@ -36,5 +36,28 @@
       "lagoon",
       "thestandard"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Rebuilding securities finance on Aave V4",
+      "tldr": "Repo alone averages around $12.6 trillion in daily exposures in the US, almost all of it offchain. This sets out how V4's Hub and Spoke split could carry that collateral machinery onchain.",
+      "url": "https://aave.com/blog/rebuilding-securities-finance-v4",
+      "source": "Aave Blog",
+      "publishedAt": "2026-06-29"
+    },
+    {
+      "title": "Unlimited Lending Market Structures",
+      "tldr": "Market structure decides who may borrow against what, and who absorbs the risk when it goes wrong. A tour of those tradeoffs, and why V4 separates shared liquidity from the markets drawing on it.",
+      "url": "https://aave.com/blog/unlimited-lending-market-structures",
+      "source": "Aave Blog",
+      "publishedAt": "2026-06-11"
+    },
+    {
+      "title": "Why Chainlink CCIP Secures Aave Protocol and the Aave App",
+      "tldr": "Aave routes GHO transfers and multi-chain governance over CCIP instead of running its own bridge. Worth reading for what that choice assumes about trusting cross-chain messaging.",
+      "url": "https://aave.com/blog/chainlink-ccip-secures-aave",
+      "source": "Aave Blog",
+      "publishedAt": "2026-07-13"
+    }
+  ]
 }

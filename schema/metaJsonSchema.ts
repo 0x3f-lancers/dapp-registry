@@ -32,4 +32,31 @@ export const metaJsonSchema = z.object({
     alternatives: z.array(z.string()),
     related: z.array(z.string()),
   }),
+  // Curated educational reading about this app. Optional and deliberately
+  // sparse: only added where genuinely good material exists, so the detail
+  // page carries something no other page has. Absent => the UI renders
+  // nothing (no empty state).
+  //
+  // Detail-page only. Never copy this into appsMinSchema / distill's
+  // appEntry -- apps.min.json is loaded by every listing page and must stay
+  // small.
+  resources: z
+    .array(
+      z.object({
+        title: z.string().min(1).max(160),
+        // Written by us, never pasted from the source (pasted text would be
+        // duplicate content, which is the problem this field exists to fix).
+        tldr: z.string().min(40).max(300),
+        url: z.url(),
+        source: z.string().min(1).max(80),
+        publishedAt: z
+          .string()
+          .regex(/^\d{4}-\d{2}-\d{2}$/, "publishedAt must be YYYY-MM-DD")
+          .optional(),
+      }),
+    )
+    // Three is the cap. This is a curated shortlist; more turns the section
+    // into a link dump and dilutes the value of each entry.
+    .max(3)
+    .optional(),
 });

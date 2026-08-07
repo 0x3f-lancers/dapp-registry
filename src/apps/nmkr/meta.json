@@ -30,5 +30,21 @@
     "related": [
       "cnft-tools"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tokenization of Real-World Assets on Cardano: A Guide",
+      "tldr": "Minting the token is the easy part. The real work is the bridge to the physical world - legal frameworks, custody, metadata standards, oracles - and why Cardano's native assets avoid smart contract risk.",
+      "url": "https://www.nmkr.io/blog/tokenization-of-real-world-assets-on-cardano-a-guide",
+      "source": "NMKR Blog",
+      "publishedAt": "2025-10-09"
+    },
+    {
+      "title": "NMKR Studio Goes Open Source on Cardano",
+      "tldr": "NMKR Studio is now fully open source after months of preparation, security audits and documentation. The reasoning is largely about transparency and community-driven development.",
+      "url": "https://www.nmkr.io/blog/nmkr-studio-is-now-open-source",
+      "source": "NMKR Blog",
+      "publishedAt": "2025-10-12"
+    }
+  ]
 }

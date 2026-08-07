@@ -32,5 +32,28 @@
       "dimo",
       "blob-archive"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "CISO Guide to Confidential Computing",
+      "tldr": "Written for the person who has to sign off on the risk. Covers what a trusted execution environment genuinely guarantees, what it does not, and which threats it leaves standing.",
+      "url": "https://phala.com/learn/06-confidential-computing-vs-traditional-security-whats-the",
+      "source": "Phala Learn",
+      "publishedAt": "2026-08-07"
+    },
+    {
+      "title": "Confidential LLMs",
+      "tldr": "Running a model on someone else's hardware normally means showing them your prompts. Explains the enclave approach that keeps inputs sealed even from the operator of the machine.",
+      "url": "https://phala.com/learn/Confidential-LLMs",
+      "source": "Phala Learn",
+      "publishedAt": "2026-08-07"
+    },
+    {
+      "title": "GDPR, HIPAA and SOC 2 with Confidential Computing",
+      "tldr": "Three regimes that all ask who could theoretically see the data, not just who did. Maps each requirement onto what hardware isolation can and cannot evidence.",
+      "url": "https://phala.com/learn/GDPR-HIPAA-SOC2",
+      "source": "Phala Learn",
+      "publishedAt": "2026-08-07"
+    }
+  ]
 }

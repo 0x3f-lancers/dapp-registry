@@ -20,3 +20,20 @@ build/facets.index.json
 .github/scripts/
 
 .claude
+
+# Resource discovery scratch: the fetch cache holds one file per crawled URL
+# (tens of thousands, >1GB) and every file in it is regenerable by re-running
+# fetch-resources.ts.
+data/.resource-cache/
+data/_*.json
+data/_*.log
+data/target-slugs*.txt
+
+# Crawl output and curation working files. The published data lives in each
+# app's meta.json; these are inputs and reports that can all be regenerated
+# from the scripts, so they stay out of the repo.
+data/resource-candidates.json
+data/editorial-candidates.json
+data/resource-selections.json
+data/resources-added.json
+data/selections/

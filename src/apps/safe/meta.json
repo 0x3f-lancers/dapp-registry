@@ -33,5 +33,28 @@
       "ledger",
       "zerion"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why protocols check for Safe before deploying",
+      "tldr": "New chains pitch throughput and fees, yet protocol teams ask first whether a multisig they trust already exists there. Argues that wallet infrastructure, not TPS, gates what actually launches.",
+      "url": "https://safe.global/blog/what-protocols-check-before-deploying-on-your-chain",
+      "source": "Safe Blog",
+      "publishedAt": "2026-07-27"
+    },
+    {
+      "title": "Beyond multisig: why approval isn't enough anymore",
+      "tldr": "Approval and control are not the same thing. A signer set records who is allowed to act, not whether the action itself is sound, which is the gap continuous treasury monitoring aims to close.",
+      "url": "https://safe.global/blog/dappcon-2026-beyond-multisig-why-approval-isn-t-enough-anymore",
+      "source": "Safe Blog",
+      "publishedAt": "2026-07-08"
+    },
+    {
+      "title": "The Best Crypto Wallets for Institutions",
+      "tldr": "Serving a team rather than a person changes what a wallet is judged on: approval policy, audit trail, role separation. Compares how the main institutional options handle each.",
+      "url": "https://safe.global/blog/the-best-crypto-wallets-for-institutions",
+      "source": "Safe Blog",
+      "publishedAt": "2026-06-24"
+    }
+  ]
 }

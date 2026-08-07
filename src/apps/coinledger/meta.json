@@ -37,5 +37,28 @@
       "phantom",
       "clear-evm-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Crypto Accounting: Beginner's Guide",
+      "tldr": "The hard part is not the arithmetic. Your transactions sit across several exchanges, wallets and chains with no broker assembling a statement for you, unlike buying stock through Fidelity.",
+      "url": "https://coinledger.io/blog/crypto-accounting",
+      "source": "CoinLedger Blog",
+      "publishedAt": "2026-05-19"
+    },
+    {
+      "title": "Is Crypto Staking Worth It? Rewards, Risks & Taxes",
+      "tldr": "Locking coins to secure a proof-of-stake chain pays a yield whether you run a validator or delegate to one. Covers the mechanics first, then what the rewards do to your tax position.",
+      "url": "https://coinledger.io/blog/is-crypto-staking-worth-it",
+      "source": "CoinLedger Blog",
+      "publishedAt": "2026-07-15"
+    },
+    {
+      "title": "Prediction Markets Tax: Kalshi & Polymarket Guide",
+      "tldr": "The income is definitely reportable; what remains genuinely unsettled is the category, because the IRS has never published a formal ruling on prediction market contracts.",
+      "url": "https://coinledger.io/blog/prediction-markets-tax",
+      "source": "CoinLedger Blog",
+      "publishedAt": "2026-06-09"
+    }
+  ]
 }

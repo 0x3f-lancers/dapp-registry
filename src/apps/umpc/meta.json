@@ -44,5 +44,28 @@
       "gem-wallet",
       "unstoppable-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Your Crypto's Not as Safe as You Think: How Modern Hackers Hunt Private Keys",
+      "tldr": "Key theft has been industrialised: what once needed a skilled operator now runs as tooling anyone can rent. Long report on how that pipeline actually works end to end.",
+      "url": "https://www.gk8.io/research/your-cryptos-not-as-safe-as-you-think-how-modern-hackers-hunt-private-keys/",
+      "source": "GK8 Research",
+      "publishedAt": "2025-11-17"
+    },
+    {
+      "title": "Bounty Programs: The First Step in Stopping the Crypto Hack Epidemic",
+      "tldr": "A bounty only works if the payout beats what the exploit is worth, which is a harder economic condition to satisfy than most programmes admit. Honest about that limit.",
+      "url": "https://www.gk8.io/blog/bounty-programs-the-first-step-in-stopping-the-crypto-hack-epidemic/",
+      "source": "GK8 Blog",
+      "publishedAt": "2025-11-16"
+    },
+    {
+      "title": "Crypto Private Key Theft Is Now Big Business",
+      "tldr": "A short brief on key theft as an organised commercial operation rather than opportunistic crime, and what that shift means for how custody has to be designed.",
+      "url": "https://www.gk8.io/news/crypto-private-key-theft-is-now-big-business-heres-what-to-know/",
+      "source": "GK8 News",
+      "publishedAt": "2025-11-18"
+    }
+  ]
 }

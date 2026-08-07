@@ -35,5 +35,28 @@
       "gauntlet",
       "dexcheck"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Multiproofs on Base",
+      "tldr": "Fast withdrawals require confidence that the proof system itself is not wrong. Running multiple independent proofs is how Base hedges that, and a step toward Stage 2 decentralisation.",
+      "url": "https://blog.base.dev/multiproofs-on-base",
+      "source": "Base Blog",
+      "publishedAt": "2026-05-21"
+    },
+    {
+      "title": "Postmortem: June 25th Block Production Outage",
+      "tldr": "A public, detailed account of why block production stopped and what was changed afterwards. Postmortems like this teach more about L2 architecture than any launch announcement.",
+      "url": "https://blog.base.dev/postmortem-june-25th-block-production-outage",
+      "source": "Base Blog",
+      "publishedAt": "2026-06-27"
+    },
+    {
+      "title": "Native Account Abstraction",
+      "tldr": "EIP-8130 moves account abstraction from a bolted-on layer into the protocol itself. Covers where the gas savings actually come from once the bundler is no longer in the way.",
+      "url": "https://blog.base.dev/native-account-abstraction",
+      "source": "Base Blog",
+      "publishedAt": "2026-07-17"
+    }
+  ]
 }
