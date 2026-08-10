@@ -29,5 +29,34 @@
       "1inch",
       "marginly"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "DuelDuck for Beginners: A P2P Prediction Market Guide",
+      "tldr": "In a peer-to-peer duel your counterparty is another user, not a house. Covers how a ticket gets priced, how Yes and No resolve, and when the USDC actually reaches you.",
+      "url": "https://duelduck.com/blog/guide/beginners-guide",
+      "source": "Duel Duck",
+      "publishedAt": "2026-08-10",
+      "tag": "Trading",
+      "image": "https://duelduck.com/logoShareLink.webp"
+    },
+    {
+      "title": "2026 Election Forecast Methodology Explained",
+      "tldr": "Most forecast pages hand you a number and hide the recipe. This publishes the polling adjustments, how poll and market data get weighted against each other, and the scenario modelling.",
+      "url": "https://duelduck.com/blog/guide/election-forecast-methodology",
+      "source": "Duel Duck",
+      "publishedAt": "2026-08-10",
+      "tag": "Explainer",
+      "image": "https://duelduck.com/logoShareLink.webp"
+    },
+    {
+      "title": "Bitcoin Analysis: Reading the Market When It Crashes",
+      "tldr": "A framework for reading a falling market rather than a prediction about one. Runs through the indicators and onchain signals that stay meaningful when price is moving fast.",
+      "url": "https://duelduck.com/blog/guide/bitcoin-analysis",
+      "source": "Duel Duck",
+      "publishedAt": "2026-08-10",
+      "tag": "Research",
+      "image": "https://duelduck.com/logoShareLink.webp"
+    }
+  ]
 }

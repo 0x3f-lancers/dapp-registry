@@ -32,5 +32,34 @@
       "gearbox",
       "convex-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cross-Chain Swaps Are Not a Feature, They're the New Default",
+      "tldr": "Bridges, atomic swaps and resolver-based HTLC each handle custody differently, and the difference decides who holds your asset mid-transfer. Read before moving anything.",
+      "url": "https://blog.ston.fi/cross-chain-swaps-is-not-a-feature-its-the-new-default-for-defi/",
+      "source": "STON.fi Blog",
+      "publishedAt": "2026-08-07",
+      "tag": "Trading",
+      "image": "https://blog.ston.fi/wp-content/uploads/2026/08/cross-chain-swaps-is-not-a-feature-%E2%80%94-its-the-new-default-for-defi-1024x537.png"
+    },
+    {
+      "title": "Do Cross-Chain Bridge Users Get Better DeFi Rewards?",
+      "tldr": "Wallet data suggesting bridge users run more deliberate strategies, set against the fees that quietly erode the difference. Data-led rather than asserted.",
+      "url": "https://blog.ston.fi/do-cross-chain-bridge-users-get-better-defi-rewards-what-wallet-data-shows/",
+      "source": "STON.fi Blog",
+      "publishedAt": "2026-07-31",
+      "tag": "Infrastructure",
+      "image": "https://blog.ston.fi/wp-content/uploads/2026/07/do-cross-chain-bridge-users-get-better-defi-rewards-what-wallet-data-shows.png"
+    },
+    {
+      "title": "DeFi Protocols Across Chains: Same Brand, Different Game?",
+      "tldr": "A protocol on Ethereum and the same protocol on Base share a name and little else. Compares liquidity, fees and token availability across deployments.",
+      "url": "https://blog.ston.fi/defi-protocols-across-chains-same-brand-different-game/",
+      "source": "STON.fi Blog",
+      "publishedAt": "2026-07-24",
+      "tag": "DeFi",
+      "image": "https://blog.ston.fi/wp-content/uploads/2026/07/defi-protocols-across-chains-same-brand-different-game.png"
+    }
+  ]
 }

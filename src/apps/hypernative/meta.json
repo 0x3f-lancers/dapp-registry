@@ -36,5 +36,25 @@
       "oxorio",
       "smartstate"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "4 Wallet Security Myths That Put Users at Risk",
+      "tldr": "Takes apart the reassuring beliefs people hold about hardware wallets and seed phrases, and is specific about what each myth actually leaves exposed.",
+      "url": "https://www.hypernative.io/insights/blog/4-wallet-security-myths-that-put-users-at-risk",
+      "source": "Hypernative Blog",
+      "publishedAt": "2026-04-28",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/69d8ddbc3349f891fea87dc6/6a3c8eaf6cb6b070db0c0892_4%20Wallet%20Security%20Myths%20That%20Put%20Users%20at%20Risk.webp"
+    },
+    {
+      "title": "4 Security Testing Tools Every DeFi Developer Should Use Before Auditing",
+      "tldr": "What to run yourself before paying anyone to audit, on the reasonable basis that auditors should not be spending their time on what a fuzzer would have caught.",
+      "url": "https://www.hypernative.io/insights/blog/4-security-testing-tools-every-defi-developer-should-use-before-auditing",
+      "source": "Hypernative Blog",
+      "publishedAt": "2026-03-17",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/69d8ddbc3349f891fea87dc6/6a39bbf089f800a4a370a270_4%20Security%20Testing%20Tools%20Every%20DeFi%20Developer%20Should%20Use%20Before%20Auditing.avif"
+    }
+  ]
 }

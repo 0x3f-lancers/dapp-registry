@@ -31,5 +31,31 @@
       "reaper-farm",
       "lifinity"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "CeFi vs DeFi Loans: Which Is Better?",
+      "tldr": "The longest piece here and the most useful: what changes about custody, liquidation and recourse depending on who is holding your collateral.",
+      "url": "https://rocko.co/learn/cefi-vs-defi-loans-which-is-better/",
+      "source": "Rocko Learn",
+      "tag": "DeFi",
+      "image": "https://rocko.co/learn/posts/reading2.png"
+    },
+    {
+      "title": "Account Abstraction and the Future of DeFi",
+      "tldr": "Approaches account abstraction from the borrowing side rather than the wallet side, which surfaces different questions about who can act on a position and when.",
+      "url": "https://rocko.co/learn/account-abstraction-and-the-future-of-defi/",
+      "source": "Rocko Learn",
+      "tag": "DeFi",
+      "image": "https://rocko.co/learn/posts/reading2.png"
+    },
+    {
+      "title": "How to Take Out a Crypto-Backed Loan, Step by Step",
+      "tldr": "Borrowing against crypto rather than selling it changes your tax position and adds a liquidation price you now have to watch. Walks the actual mechanics of doing it.",
+      "url": "https://rocko.co/learn/how-to-take-out-a-crypto-backed-loan-in-minutes-using-Rocko/",
+      "source": "Rocko Learn",
+      "tag": "Tutorial",
+      "image": "https://rocko.co/learn/posts/howToTakeOutLoanCoverPic.png"
+    }
+  ]
 }

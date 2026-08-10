@@ -37,12 +37,44 @@ function arg(name: string): string | undefined {
   return i >= 0 ? process.argv[i + 1] : undefined;
 }
 
+/** Titles shaped like an explanation rather than an announcement. */
+const EXPLAINER_TITLE =
+  /\b(how (it |they |the )?works?|how to|what is|what are|why|explained|explainer|deep dive|introduction|intro to|guide|primer|understanding|behind the|under the hood|breakdown|101|mechanics|architecture)\b/i;
+
+/**
+ * Does this post explain the app itself, rather than the wider space?
+ *
+ * These are the most valuable entries: a page about 0x benefits far more from
+ * "how 0x routing works" than from a general piece on DEX aggregation. Matched
+ * on the app's own name appearing in the title, ignoring very short names
+ * where a coincidental hit means nothing.
+ */
+function isAboutApp(title: string, name: string, slug: string): boolean {
+  const needles = [name, slug.replace(/-/g, ' '), slug.replace(/-/g, '')]
+    .map((n) => n.toLowerCase().trim())
+    .filter((n) => n.length >= 4);
+
+  // Most blogs append their own name to every <title> ("... - KyberSwap Blog"),
+  // which would mark every post as app-specific. Drop trailing separator
+  // segments before matching so only a real mention in the headline counts.
+  const t = title
+    .toLowerCase()
+    .split(/\s+[-|–—]\s+/)[0]
+    .trim();
+
+  return needles.some((n) => t.includes(n));
+}
+
 /**
  * How promising an app's material looks. Longer, more recent, better-described
  * posts score higher -- these are only heuristics to order the review queue,
  * not a substitute for actually reading them.
  */
-function scoreApp(kept: ArticleCandidate[]): number {
+function scoreApp(
+  kept: ArticleCandidate[],
+  name: string,
+  slug: string,
+): number {
   let score = kept.length * 2;
   for (const c of kept) {
     if (c.wordCount >= 1200) score += 3;
@@ -50,9 +82,9 @@ function scoreApp(kept: ArticleCandidate[]): number {
     else score += 1;
     if (c.description.length > 80) score += 1;
     if (c.publishedAt && c.publishedAt >= '2026-01-01') score += 2;
-    // Titles that pose or answer a question tend to be explainers.
-    if (/\b(how|why|what|guide|explained|deep dive|introduction)\b/i.test(c.title))
-      score += 2;
+    if (EXPLAINER_TITLE.test(c.title)) score += 2;
+    // Weighted hardest: a post that explains this app specifically.
+    if (isAboutApp(c.title, name, slug)) score += 5;
   }
   return score;
 }
@@ -68,7 +100,7 @@ async function main() {
   const ranked = results
     .map((r) => ({ r, kept: r.candidates.filter((c) => !c.rejected) }))
     .filter((x) => x.kept.length >= minCandidates)
-    .map((x) => ({ ...x, score: scoreApp(x.kept) }))
+    .map((x) => ({ ...x, score: scoreApp(x.kept, x.r.name, x.r.slug) }))
     .sort((a, b) => b.score - a.score || a.r.slug.localeCompare(b.r.slug));
 
   console.log(
@@ -88,8 +120,13 @@ async function main() {
       const desc = (c.description || c.excerpt)
         .replace(/\s+/g, ' ')
         .slice(0, descLen);
+      // Flag posts that name the app: those explain the product itself and
+      // are worth more on its page than another general-interest piece.
+      const mark = isAboutApp(c.title, r.name, r.slug) ? '[APP] ' : '';
       if (compact) {
-        console.log(`  ${c.publishedAt ?? 'nodate'} ${c.wordCount}w ${c.title}`);
+        console.log(
+          `  ${mark}${c.publishedAt ?? 'nodate'} ${c.wordCount}w ${c.title}`,
+        );
         console.log(`   ${c.url}`);
         if (desc) console.log(`   > ${desc}`);
       } else {

@@ -31,5 +31,34 @@
       "galxe",
       "guild-xyz"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Run a Token Sale on Your Own Website",
+      "tldr": "Hosting the sale yourself means owning the compliance, the contract and the failure modes that a launchpad would otherwise absorb. Practical about all three.",
+      "url": "https://www.chaingpt.org/blog/how-to-run-a-token-sale-on-your-own-website",
+      "source": "ChainGPT Blog",
+      "publishedAt": "2026-07-17",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/64354b8ce4872a52ac1c7b06/69e72f80864a5e1cf84c9c69_Running%20Token%20Sales%20on%20Your%20Own%20Terms.png"
+    },
+    {
+      "title": "How to Ship Token Staking at TGE",
+      "tldr": "Staking live on day one changes the circulating supply maths immediately. Covers what has to be ready before generation rather than bolted on weeks later.",
+      "url": "https://www.chaingpt.org/blog/how-to-ship-token-staking-at-tge",
+      "source": "ChainGPT Blog",
+      "publishedAt": "2026-06-07",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/64354b8ce4872a52ac1c7b06/6a0d64725c23e6539cfa561e_Staking%20is%20expected%20from%20day%20one.png"
+    },
+    {
+      "title": "How to Ship a Token Launch That Runs as One Stack",
+      "tldr": "Launches usually get assembled from four vendors that do not talk to each other. Argues for treating sale, vesting, staking and distribution as one system.",
+      "url": "https://www.chaingpt.org/blog/how-to-ship-a-token-launch-that-runs-as-one-stack",
+      "source": "ChainGPT Blog",
+      "publishedAt": "2026-06-07",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/64354b8ce4872a52ac1c7b06/6a16a0620effbb60923f3874_Disconnected%20systems%20break%20after%20launch.png"
+    }
+  ]
 }

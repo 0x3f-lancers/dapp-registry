@@ -29,5 +29,34 @@
       "polkadot",
       "ercx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Verify Smart Contracts on OP Stack, Step by Step",
+      "tldr": "Verification is what lets anyone read the source behind a deployed address. A straightforward walkthrough for OP Stack chains, where the process differs slightly from mainnet.",
+      "url": "https://tracehawk.io/blog/heres-how-to-verify-smart-contracts-on-op-stack-step-by-step/",
+      "source": "TraceHawk Blog",
+      "publishedAt": "2024-12-20",
+      "tag": "Tutorial",
+      "image": "https://tracehawk.io/wp-content/uploads/2024/12/Heres-How-to-Verify-Smart-Contracts-on-OP-Stack-Step-by-Step.png"
+    },
+    {
+      "title": "Tracking Every OP Stack L1 to L2 Interaction",
+      "tldr": "Deposits and withdrawals between layers are where rollup users most often lose track of funds. On monitoring that boundary continuously rather than checking after the fact.",
+      "url": "https://tracehawk.io/blog/tracking-every-op-stack-l1-l2-interaction-how-tracehawk-does-it-24-7/",
+      "source": "TraceHawk Blog",
+      "publishedAt": "2024-11-08",
+      "tag": "Infrastructure",
+      "image": "https://tracehawk.io/wp-content/uploads/2024/11/Tracking-Every-OP-Stack-L1-L2-Interaction-How-TraceHawk-Does-It-247.png"
+    },
+    {
+      "title": "Batched L2 Details: The Explorer Feature You're Probably Missing",
+      "tldr": "Rollups post transactions to L1 in batches, and most explorers hide that layer entirely. Explains what batching does to cost and finality, and why seeing it matters.",
+      "url": "https://tracehawk.io/blog/batched-l2-details-for-op-stack-key-feature-your-explorer-might-be-missing/",
+      "source": "TraceHawk Blog",
+      "publishedAt": "2024-10-25",
+      "tag": "Infrastructure",
+      "image": "https://tracehawk.io/wp-content/uploads/2024/10/Batched-L2-Details-for-OP-Stack-Key-Feature-your-Explorer-Might-be-missing-1.png"
+    }
+  ]
 }

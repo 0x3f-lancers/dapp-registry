@@ -28,5 +28,31 @@
     "related": [
       "0xgraph"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What \"Verifiable\" Actually Means for Blockchain Data",
+      "tldr": "Breaks down 1-of-N trust models, consensus and cryptographic verification as separate things, because they get used interchangeably and they guarantee very different amounts.",
+      "url": "https://thegraph.com/blog/verifiable-onchain-data-what-that-really-means",
+      "source": "The Graph Blog",
+      "tag": "Identity",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/3a78686f-c7c2-803e-ab0b-fd3a4fd130e0/seoImage/verifiable-onchain-data-seo.png.png"
+    },
+    {
+      "title": "Subgraphs or Substreams: Which Blockchain Data Solution Should You Choose?",
+      "tldr": "Subgraphs give structured queryable data for user-facing apps; substreams push high-throughput pipelines. Picks apart which workload each is genuinely built for.",
+      "url": "https://thegraph.com/blog/subgraphs-or-substreams-blockchain-data-solution",
+      "source": "The Graph Blog",
+      "tag": "Infrastructure",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/3968686f-c7c2-803a-b0e4-d93cbd3cb98a/seoImage/thegraph-blog-seo-1600x90022.png"
+    },
+    {
+      "title": "GraphTally: How The Graph Solved Micropayments for the Machine Economy",
+      "tldr": "Pay-per-request billing is being treated as new, but The Graph has settled micropayments this way in production since early 2025. Worth reading for the operational lessons rather than the concept.",
+      "url": "https://thegraph.com/blog/graphtally-micropayments-machine-economy",
+      "source": "The Graph Blog",
+      "tag": "Payments",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/3908686f-c7c2-80c5-a7fd-dcddc23d399e/seoImage/thegraph-blog-seo-1600x900_(6).png"
+    }
+  ]
 }

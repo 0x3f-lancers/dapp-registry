@@ -32,5 +32,25 @@
       "tradinglite",
       "defi-tools"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Halliday: The First Workflow Protocol",
+      "tldr": "As chains and services multiplied, the hard part stopped being any single call and became sequencing them reliably. Sets out workflows as the missing abstraction.",
+      "url": "https://blog.halliday.xyz/halliday-the-first-agentic-workflow-protocol/",
+      "source": "Halliday Blog",
+      "publishedAt": "2025-02-20",
+      "tag": "Finance",
+      "image": "https://storage.ghost.io/c/02/df/02dfbdca-346f-4e4b-9a73-f924b521b7e2/content/images/size/w1200/2025/03/Screenshot-2025-03-17-at-2.41.56-PM.png"
+    },
+    {
+      "title": "Dev Workshop: Building an Onramp to Any Chain",
+      "tldr": "Seven lines of code to a working onramp. Short, and a good measure of how far the integration burden for fiat-to-crypto has actually fallen.",
+      "url": "https://blog.halliday.xyz/developer-workshop-halliday-payments/",
+      "source": "Halliday Blog",
+      "publishedAt": "2025-11-20",
+      "tag": "Payments",
+      "image": "https://storage.ghost.io/c/02/df/02dfbdca-346f-4e4b-9a73-f924b521b7e2/content/images/size/w1200/2025/11/Screenshot-2025-11-14-at-11.19.00---AM.png"
+    }
+  ]
 }

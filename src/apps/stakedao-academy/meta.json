@@ -31,5 +31,23 @@
       "solbase",
       "boring-solidity"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "vsdCRV Incident Disclosure",
+      "tldr": "A compromised deployer key used to forge unbacked tokens on Arbitrum, written up with the timeline and the fix. Key compromise, not contract logic, which is the more common failure.",
+      "url": "https://www.stakedao.org/blog/incident-disclosure-27-05-2026",
+      "source": "Stake DAO Blog",
+      "tag": "Security",
+      "image": "https://www.stakedao.org/hero.png"
+    },
+    {
+      "title": "Votemarket Incident Disclosure",
+      "tldr": "A second published post-mortem from the same team. Protocols that disclose properly, twice, are worth reading precisely because most disclose once and quietly.",
+      "url": "https://www.stakedao.org/blog/incident-disclosure-12-03-2026",
+      "source": "Stake DAO Blog",
+      "tag": "Security",
+      "image": "https://www.stakedao.org/hero.png"
+    }
+  ]
 }

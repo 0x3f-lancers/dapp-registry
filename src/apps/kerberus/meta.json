@@ -42,5 +42,34 @@
       "walletconnect",
       "linen"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Address Poisoning Attacks: How They Scam Web3 Users",
+      "tldr": "The attack works because people verify the first and last few characters of an address and nothing in between. Covers detection and the habits that defeat it.",
+      "url": "https://www.kerberus.com/learn/address-poisoning-attacks-web3-guide/",
+      "source": "Kerberus Learn",
+      "publishedAt": "2025-12-11",
+      "tag": "Security",
+      "image": "https://www.kerberus.com/images/blog/Blog_Default_Banner.png"
+    },
+    {
+      "title": "Human Behavior Causes 44% of Web3 Losses",
+      "tldr": "Research putting nearly half of crypto theft down to human error rather than broken code, despite the billions spent on securing the code.",
+      "url": "https://www.kerberus.com/articles/human-behavior-web3-losses/",
+      "source": "Kerberus Articles",
+      "publishedAt": "2025-11-17",
+      "tag": "Security",
+      "image": "https://www.kerberus.com/images/blog/human-behavior-web3-losses.jpg"
+    },
+    {
+      "title": "Solana Security: Automated Defense for Wallets and Programs",
+      "tldr": "$250M lost on Solana in a single half-year, most of it to phishing and social engineering rather than protocol bugs. On catching those at transaction time.",
+      "url": "https://www.kerberus.com/articles/scaling-solana-safely/",
+      "source": "Kerberus Articles",
+      "publishedAt": "2025-12-10",
+      "tag": "Security",
+      "image": "https://www.kerberus.com/images/blog/scaling-solana-safely-phishing-losses.jpg"
+    }
+  ]
 }

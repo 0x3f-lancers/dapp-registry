@@ -1,0 +1,2285 @@
+{
+  "generatedAt": "2026-08-10T10:54:37.481Z",
+  "comparedAgainst": "HEAD",
+  "apps": 100,
+  "resources": 253,
+  "items": [
+    {
+      "app": "20lab",
+      "slug": "20lab",
+      "title": "Adding Liquidity to Meteora: A Pool Creation Guide",
+      "tldr": "Step by step through DAMM v2 pool creation and fee configuration, which is the part where a small misconfiguration quietly costs you for the life of the pool.",
+      "link": "https://20lab.app/blog/add-liquidity-to-meteora/",
+      "image": "https://cdn.sanity.io/images/cg52btsy/production/61c85136b1cd5fed8b529d0123b8aba2587dd2d4-1600x900.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "20lab",
+      "slug": "20lab",
+      "title": "How to Create a Liquidity Pool for Your Solana Token",
+      "tldr": "Compares Raydium and Meteora pool types and walks the setup. Genuinely useful because pool choice is made once and is awkward to undo afterwards.",
+      "link": "https://20lab.app/blog/how-to-create-liquidity-pool-for-your-solana-token/",
+      "image": "https://cdn.sanity.io/images/cg52btsy/production/fe1be9630558984fd35d66d98b71062f33460f52-1600x900.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "20lab",
+      "slug": "20lab",
+      "title": "How to Create and Deploy Your Own ERC-20 Token",
+      "tldr": "A deployment walkthrough on a new EVM chain. Worth reading for what the standard actually requires versus what tooling adds on top.",
+      "link": "https://20lab.app/blog/how-to-create-erc-20-token-on-robinhood/",
+      "image": "https://cdn.sanity.io/images/cg52btsy/production/d9993692c23c1f83001b99ccd5beb158f105effa-1600x900.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "4 Point O Labs",
+      "slug": "4pto",
+      "title": "Driving Saturn's Revolution in Bitcoin DeFi",
+      "tldr": "An engineering account of building DeFi where the base layer offers almost no programmability. The constraints are the interesting part.",
+      "link": "https://www.4pto.io/blog/how-were-driving-saturns-revolution-in-bitcoin-defi",
+      "image": "https://cdn.prod.website-files.com/686bb39e901e21f669950a94/68ee0244671572975a7e725f_blog-saturn-header.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "4 Point O Labs",
+      "slug": "4pto",
+      "title": "Engineering tBTC on Sui: Bitcoin's First Live Non-EVM Integration",
+      "tldr": "Porting a Bitcoin bridge to a chain with a completely different object model. Interesting for the assumptions that turned out to be EVM-specific rather than universal.",
+      "link": "https://www.4pto.io/blog/threshold-networks-tbtc-on-sui-engineering-bitcoin-first-fully-live-non-evm-integration",
+      "image": "https://cdn.prod.website-files.com/686bb39e901e21f669950a94/6900f70d3e9a7c9986539c20_Threshold-blog-main-image.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Aark",
+      "slug": "aark",
+      "title": "Broad Onchain Contraction Defined Crypto Markets in H1 2026",
+      "tldr": "A short data note arguing the contraction was broad rather than concentrated in one sector. Useful as a counterweight to narratives built on a single chart.",
+      "link": "https://aark.digital/en/blog/broad-onchain-contraction-defined-crypto-markets-in-h1-2026",
+      "image": "https://aark.digital/assets/broad-onchain-contraction-defined-crypto-markets-in-h1-2026-thumbnail.jpeg",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Across",
+      "slug": "across",
+      "title": "Canonical Bridges vs Third-Party Bridges: What's the Difference?",
+      "tldr": "One is the chain's own official route with its withdrawal delay; the other fronts liquidity to make it fast. They solve different jobs, and this is clear about when each is right.",
+      "link": "https://across.to/blog/canonical-bridges-vs-third-party-bridges-whats-the-difference",
+      "image": "https://images.ctfassets.net/gr2sdxmfnju2/4HxAtOBmmUmpMI2425fNsy/8cc34ef7db9dbd9706738bb8531f8788/SEO_Canonical_Bridges_vs_Third-Party_Bridges__16_9.png?w=1200&h=630&fit=fill&fm=jpg&q=80",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Across",
+      "slug": "across",
+      "title": "Crosschain Swaps Explained: Swap and Bridge in One Transaction",
+      "tldr": "Trading a token on one chain for a different token on another, without doing it as two steps. Walks through how the swap and the bridge get composed into a single action.",
+      "link": "https://across.to/blog/crosschain-swaps-explained-swap-and-bridge-in-one-transaction",
+      "image": "https://images.ctfassets.net/gr2sdxmfnju2/6mocIeukh8KYXLT2a1Fz8Z/16b2b890dff0c6fbb92a7a23b6eb04d1/SEO_Crosschain_Swaps_16_9.png?w=1200&h=630&fit=fill&fm=jpg&q=80",
+      "tag": "Trading"
+    },
+    {
+      "app": "Across",
+      "slug": "across",
+      "title": "No Gas on a New Chain? How to Arrive With ETH Ready to Spend",
+      "tldr": "Landing on a chain with assets you cannot move because you have no native token is a genuinely common trap. Explains how to arrive already able to transact.",
+      "link": "https://across.to/blog/no-gas-on-a-new-chain-how-to-arrive-with-eth-ready-to-spend",
+      "image": "https://images.ctfassets.net/gr2sdxmfnju2/1aa9EVsFEf7T4odNRb525p/db50b98a5137f6cdcb3581ae29792d29/SEO_No_Gas_on_a_New_Chain_16_9.png?w=1200&h=630&fit=fill&fm=jpg&q=80",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "AgorApp",
+      "slug": "agorapp",
+      "title": "Efficient Sorter: The Winning Solutions",
+      "tldr": "Published solutions from a gas-optimisation contest. Reading how other people solved the same constrained problem is one of the fastest ways to improve at Solidity.",
+      "link": "https://blog.agorapp.dev/blog/efficient-sorter-competition",
+      "image": "https://blog.agorapp.dev/",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "AgorApp",
+      "slug": "agorapp",
+      "title": "Fibonacci Neighbor: The Winning Solutions",
+      "tldr": "Another set of contest answers, this time on an algorithmic challenge. Useful for seeing where clever maths beats clever code and where it does not.",
+      "link": "https://blog.agorapp.dev/blog/fibonacci-neighbor-competition",
+      "image": "https://blog.agorapp.dev/",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "AgorApp",
+      "slug": "agorapp",
+      "title": "Meet AgorApp",
+      "tldr": "An interactive IDE for learning Web3 engineering by writing code rather than reading about it. Sets out the case for practice-first learning in a field that mostly ships documentation.",
+      "link": "https://blog.agorapp.dev/blog/meet-agorapp",
+      "image": "https://blog.agorapp.dev/",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Akash Network",
+      "slug": "akash-network",
+      "title": "5 New AI Apps Built on Akash",
+      "tldr": "From simplified agent deployment to gesture-controlled glasses. Useful as evidence of what people actually build on decentralised compute rather than what it is pitched for.",
+      "link": "https://akash.network/blog/5-new-exciting-ai-apps-built-on-akash-in-2026/",
+      "image": "https://akash.network/_astro/banner-image.DEeBZCjR.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Akash Network",
+      "slug": "akash-network",
+      "title": "AI's Infrastructure Problem Is Bigger Than the Grid",
+      "tldr": "Close to half of US data centres planned for 2026 are expected to slip or be cancelled. Digs into causes that go well beyond power availability.",
+      "link": "https://akash.network/blog/ais-infrastructure-problem-is-bigger-than-the-grid/",
+      "image": "https://akash.network/_astro/banner.BdCI4QBC.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Aragon",
+      "slug": "aragon",
+      "title": "EVM Mirror: Mind the Gap Between Audit and Deployment",
+      "tldr": "The code that was audited and the bytecode that ended up onchain are not always the same thing. On closing that gap, which is a quietly common source of risk.",
+      "link": "https://blog.aragon.org/evm-mirror-mind-the-gap-between-audit-and-deployment/",
+      "image": "https://storage.ghost.io/c/8d/92/8d92831a-4253-4ba7-a8b6-d8c42dd2bfb6/content/images/size/w1200/2026/06/EVM-Mirror-Blog-Cover--1-.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Aragon",
+      "slug": "aragon",
+      "title": "Verifiable Secret Ballots With Interfold and Aragon",
+      "tldr": "Onchain voting is transparent by default, which is exactly wrong for a secret ballot. Describes a CRISP-based implementation that keeps votes private while still verifiable.",
+      "link": "https://blog.aragon.org/verifiable-secret-ballots-with-interfold-and-aragon/",
+      "image": "https://storage.ghost.io/c/8d/92/8d92831a-4253-4ba7-a8b6-d8c42dd2bfb6/content/images/size/w1200/2026/06/ar---the-interfold.png",
+      "tag": "Identity"
+    },
+    {
+      "app": "ArbitrageScanner API",
+      "slug": "arbitragescanner-api",
+      "title": "Binance Arbitrage: Fee Optimization, API Limits and Strategies",
+      "tldr": "The longest of the set, and the most practical: fee tiers, API rate limits, and triangular routes. Rate limits are what actually kill these strategies at scale.",
+      "link": "https://arbitragescanner.io/blog/binance-arbitrage-guide-fees-api-strategies",
+      "image": "https://s3.arbitragescanner.io/blog/cd711b58-90c2-43c9-8850-48854015763b.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "ArbitrageScanner API",
+      "slug": "arbitragescanner-api",
+      "title": "Money Flow Index: A Complete Guide for Crypto Trading",
+      "tldr": "A volume-weighted momentum indicator, explained properly rather than as a signal to copy. Covers divergence and where the reading misleads.",
+      "link": "https://arbitragescanner.io/blog/money-flow-index",
+      "image": "https://s3.arbitragescanner.io/blog/121855be-3133-4960-ba72-fe4267b9aa3e.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "ArbitrageScanner.io",
+      "slug": "arbitragescanner-io",
+      "title": "Binance-Bybit BTC Arbitrage: Strategy, Fees and Execution",
+      "tldr": "Works a single pair between two venues in detail: identifying 0.3-0.5% spreads, then showing how taker fees decide whether the trade was ever profitable.",
+      "link": "https://arbitragescanner.io/blog/binance-bybit-btc-arbitrage-guide",
+      "image": "https://s3.arbitragescanner.io/blog/de1249ba-ee90-4363-ac68-741c982805d2.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "ArbitrageScanner.io",
+      "slug": "arbitragescanner-io",
+      "title": "Cryptocurrency Coins vs Tokens: What's the Difference?",
+      "tldr": "A coin has its own chain, a token borrows someone else's. The distinction sounds pedantic until it determines who can freeze your balance.",
+      "link": "https://arbitragescanner.io/blog/crypto-coins-vs-tokens-complete-comparison-guide",
+      "image": "https://s3.arbitragescanner.io/blog/1951ed0a-5200-4890-a6b4-628f702162dd.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "AstraKode Smart Contract Auditor",
+      "slug": "astrakode-smart-contract-auditor",
+      "title": "Blockchain and Parametric Insurance",
+      "tldr": "Parametric policies pay out on a measured trigger rather than an assessed claim, which is exactly the shape a smart contract handles well. A good fit worth understanding.",
+      "link": "https://www.astrakode.tech/blockchain/blockchain-parametric-insurance/",
+      "image": "https://www.astrakode.tech/wp-content/uploads/2025/01/Blockchain-and-Parametric-Insurance-A-Game-Changer-in-Risk-Management.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "AstraKode Smart Contract Auditor",
+      "slug": "astrakode-smart-contract-auditor",
+      "title": "Blockchain and the EU Digital Battery Passport",
+      "tldr": "A regulated traceability requirement with real deadlines, which makes it one of the few enterprise blockchain cases driven by law rather than by interest.",
+      "link": "https://www.astrakode.tech/blockchain/how-blockchain-technology-is-revolutionizing-eu-battery-compliance-the-digital-battery-passport-era/",
+      "image": "https://www.astrakode.tech/wp-content/uploads/2025/08/How-Blockchain-Technology-is-Revolutionizing-EU-Battery-Compliance-The-Digital-Battery-Passport-Era-376-x-274-px.png",
+      "tag": "Regulation"
+    },
+    {
+      "app": "AstraKode Smart Contract Auditor",
+      "slug": "astrakode-smart-contract-auditor",
+      "title": "Securing Solidity Smart Contracts: Essential Audit Insights",
+      "tldr": "The longest piece here, covering common vulnerability classes, how to fix them, and where AI-driven tooling genuinely helps versus where it produces noise.",
+      "link": "https://www.astrakode.tech/blockchain/securing-solidity-smart-contracts-essential-audit-insights/",
+      "image": "https://www.astrakode.tech/wp-content/uploads/2024/12/Cover-Securing-Solidity-Smart-Contracts-Essential-Audit-Insights-1.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Atomic Wallet",
+      "slug": "atomic-wallet",
+      "title": "3 Different Ways of Filing Your Crypto Taxes",
+      "tldr": "Lays out the realistic options, from doing it yourself through software to handing everything to an accountant, with what each actually demands of your records.",
+      "link": "https://blog.atomicwallet.io/articles/3-different-ways-of-filing-your-crypto-taxes",
+      "image": "https://cdn.prod.website-files.com/64949dc489c374ac1c5faa91/64a0904f3bda74eb0a68d3e4_crypto-tax%20(1).webp",
+      "tag": "Regulation"
+    },
+    {
+      "app": "Atomic Wallet",
+      "slug": "atomic-wallet",
+      "title": "Atomic Wallet Security",
+      "tldr": "How the wallet handles keys, backups and recovery. Worth reading critically given the platform's own history, and useful as a checklist of what to ask any wallet.",
+      "link": "https://blog.atomicwallet.io/articles/atomic-wallet-security",
+      "image": "https://cdn.prod.website-files.com/64949dc489c374ac1c5faa91/64a08933648003926e690d1c_cryptocurrency-wallet-security.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Bidask",
+      "slug": "bidask",
+      "title": "Liquidity Pools: What They Are and How They Work",
+      "tldr": "Starts from the pool itself, then automated market makers, the pool types that exist and what providing liquidity commits you to. Thorough for a beginner piece.",
+      "link": "https://bidask.finance/en/blog/liquidity-pool",
+      "image": "",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Blockaid",
+      "slug": "blockaid",
+      "title": "Blockaid's Response to the CFTC on Prediction Markets",
+      "tldr": "A submitted comment letter on the CFTC's proposed public interest framework. Reading a real regulatory filing teaches more about the constraints than any summary of one.",
+      "link": "https://blockaid.io/blog/blockaids-response-to-the-cftc-on-prediction-markets",
+      "image": "https://blockaid.io/api/resourceThumbnails/file/Blockaid&#x27;s%20response%20to%20the%20CFTC%20Prediction%20Markets%20(1).jpg",
+      "tag": "Regulation"
+    },
+    {
+      "app": "Blockaid",
+      "slug": "blockaid",
+      "title": "Onchain Monitoring for Trading Firms: Real-Time Risk Visibility",
+      "tldr": "A desk needs to know not just what it holds but everything those positions quietly depend on. On making that second layer visible while capital is still deployed.",
+      "link": "https://blockaid.io/blog/onchain-monitoring-for-trading-firms-real-time-risk-visibility-for-capital-deployed-onchain",
+      "image": "https://blockaid.io/api/resourceThumbnails/file/Onchain%20Monitoring%20for%20Trading%20Firms.jpg",
+      "tag": "Trading"
+    },
+    {
+      "app": "Blockaid",
+      "slug": "blockaid",
+      "title": "Prop Desk to Curator: JPEG Trading's Security Evolution",
+      "tldr": "A fast-moving book across 100+ protocols and 15+ chains, and what had to change operationally to keep it safe. Concrete case study rather than a capability list.",
+      "link": "https://blockaid.io/blog/prop-desk-to-curator-jpeg-tradings-security-evolution-with-blockaid",
+      "image": "https://blockaid.io/api/resourceThumbnails/file/JPEG%20Trading%20%2B%20Blockaid%20Case%20Study.jpg",
+      "tag": "Security"
+    },
+    {
+      "app": "BlockPI Network",
+      "slug": "blockpi-network",
+      "title": "Adding a ZetaChain-EVM RPC Endpoint to MetaMask",
+      "tldr": "A short walkthrough for pointing a wallet at a specific RPC provider. Doing this once makes clear how much your wallet depends on whoever answers those calls.",
+      "link": "https://blockpi.io/blog/a-comprehensive-guide-adding-blockpis-zetachain-evm-rpc-endpoint-in-your-metamask-wallet-18f8a9f50d6e",
+      "image": "",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "BuidlGuidl",
+      "slug": "buidlguidl",
+      "title": "Building an AI Agent From Scratch",
+      "tldr": "A minimal assistant written in TypeScript, used to strip agents down to their actual moving parts. Far more instructive than reading about frameworks.",
+      "link": "https://buidlguidl.com/blog/building-ai-agent-from-scratch",
+      "image": "https://buidlguidl.com/api/og?title=Building%20an%20AI%20Agent%20From%20Scratch",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "BuidlGuidl",
+      "slug": "buidlguidl",
+      "title": "Evaluating Agent Skills: Testing Whether They Are Actually Useful",
+      "tldr": "92 A/B evaluations run to measure whether agent skills genuinely improved capability. Rare in publishing a measurement rather than an impression.",
+      "link": "https://buidlguidl.com/blog/evaluating-agent-skills",
+      "image": "https://buidlguidl.com/api/og?title=Evaluating%20agent%20skills%3A%20testing%20whether%20they%20are%20actually%20useful",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "BuidlGuidl",
+      "slug": "buidlguidl",
+      "title": "RAG From the Ground Up",
+      "tldr": "Builds retrieval-augmented generation from nothing: ingestion, retrieval, generation, and crucially how they evaluated whether it worked. The evaluation half is what most write-ups skip.",
+      "link": "https://buidlguidl.com/blog/rag-from-the-ground-up",
+      "image": "https://buidlguidl.com/api/og?title=RAG%20From%20the%20Ground%20Up",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Bundle Fren",
+      "slug": "bundle-fren",
+      "title": "What Is Bundling in Crypto?",
+      "tldr": "Grouping several transactions into one atomic execution so they either all land in order or none do. Explains why ordering guarantees matter far more than the gas saving.",
+      "link": "https://bundlefren.com/blog/what-is-bundling-in-crypto",
+      "image": "https://bundlefren.com/opengraph.png",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Burner",
+      "slug": "burner",
+      "title": "Send Money Home Cheaper and Faster With Stablecoins",
+      "tldr": "Traditional remittance takes an average 6.49% per transfer and several days. Compares that against a stablecoin route without pretending the last mile is solved.",
+      "link": "https://www.burner.pro/blog/stablecoin-remittances-burner-card",
+      "image": "https://images.ctfassets.net/rz8pq1p19z9k/3mkGyYSSanYdiAVf0Eb782/5bc1841e62b9e6ec745f2e3d784c6b5c/sendmoneyhome-splash.jpg",
+      "tag": "Payments"
+    },
+    {
+      "app": "Burner",
+      "slug": "burner",
+      "title": "What Is a Real-World Asset (RWA)? A Guide to RWAs on Base",
+      "tldr": "Begins at the plainest definition, a Treasury bond or a bar of gold sitting off the chain, then builds up to how those get represented on Base and where you keep them safely.",
+      "link": "https://www.burner.pro/blog/real-world-assets-rwa",
+      "image": "https://images.ctfassets.net/rz8pq1p19z9k/SdZDTsHTqWbXZ5Vm2p7IW/f8582f7b6cb8d171cdddb38acb6cccc9/RWAsplash.jpg",
+      "tag": "Tokenization"
+    },
+    {
+      "app": "Burner",
+      "slug": "burner",
+      "title": "Who Is Satoshi Nakamoto? The Suspects and the Hunt to Unmask Bitcoin's Creator",
+      "tldr": "Seventeen years after the genesis block nobody has proved who Satoshi is. Goes through each named suspect and what the evidence really amounts to, which is usually less than reported.",
+      "link": "https://www.burner.pro/blog/who-is-satoshi-nakamoto",
+      "image": "https://images.ctfassets.net/rz8pq1p19z9k/V28jdynQX5bWdoIQ7lLPk/ef14c53f1d6ecbe1cddd0fac630c0860/satoshi-slash-hero.jpg",
+      "tag": "Research"
+    },
+    {
+      "app": "Ceramic",
+      "slug": "ceramic",
+      "title": "A Step-by-Step Guide to Ceramic's Private Data Proof-of-Concept",
+      "tldr": "Adding privacy to a network built around open, shared data is genuinely awkward. Walks through a deliberately minimal proof of concept rather than promising a finished feature.",
+      "link": "https://blog.ceramic.network/private-data-guide/",
+      "image": "https://storage.ghost.io/c/c0/3a/c03a89d4-812a-4696-84a1-1c88442d9908/content/images/2024/07/Running-Ceramic-Recon--4-.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Ceramic",
+      "slug": "ceramic",
+      "title": "How Pairwise Synchronization Improves Decentralized Data Management",
+      "tldr": "The team replaced the algorithm at the heart of the database, moving from multicast to pairwise sync. Explains what was wrong with the old approach and what the swap cost them.",
+      "link": "https://blog.ceramic.network/revolutionizing-data-publishing-why-ceramic-shifted-from-multicast-to-pairwise-synchronization/",
+      "image": "https://storage.ghost.io/c/c0/3a/c03a89d4-812a-4696-84a1-1c88442d9908/content/images/size/w1200/2024/07/new-thumbnail.png",
+      "tag": "Research"
+    },
+    {
+      "app": "Ceramic",
+      "slug": "ceramic",
+      "title": "OrbisDB Is a Practical Upgrade for Databases on Ceramic",
+      "tldr": "What changes when you put a familiar database interface over a decentralised data network, and which of the usual guarantees survive that translation.",
+      "link": "https://blog.ceramic.network/orbisdb-is-a-practical-upgrade-for-databases-on-ceramic/",
+      "image": "https://storage.ghost.io/c/c0/3a/c03a89d4-812a-4696-84a1-1c88442d9908/content/images/2024/08/Running_Ceramic-Recon_6.png",
+      "tag": "Research"
+    },
+    {
+      "app": "ChainGPT",
+      "slug": "chaingpt",
+      "title": "How to Run a Token Sale on Your Own Website",
+      "tldr": "Hosting the sale yourself means owning the compliance, the contract and the failure modes that a launchpad would otherwise absorb. Practical about all three.",
+      "link": "https://www.chaingpt.org/blog/how-to-run-a-token-sale-on-your-own-website",
+      "image": "https://cdn.prod.website-files.com/64354b8ce4872a52ac1c7b06/69e72f80864a5e1cf84c9c69_Running%20Token%20Sales%20on%20Your%20Own%20Terms.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "ChainGPT",
+      "slug": "chaingpt",
+      "title": "How to Ship a Token Launch That Runs as One Stack",
+      "tldr": "Launches usually get assembled from four vendors that do not talk to each other. Argues for treating sale, vesting, staking and distribution as one system.",
+      "link": "https://www.chaingpt.org/blog/how-to-ship-a-token-launch-that-runs-as-one-stack",
+      "image": "https://cdn.prod.website-files.com/64354b8ce4872a52ac1c7b06/6a16a0620effbb60923f3874_Disconnected%20systems%20break%20after%20launch.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "ChainGPT",
+      "slug": "chaingpt",
+      "title": "How to Ship Token Staking at TGE",
+      "tldr": "Staking live on day one changes the circulating supply maths immediately. Covers what has to be ready before generation rather than bolted on weeks later.",
+      "link": "https://www.chaingpt.org/blog/how-to-ship-token-staking-at-tge",
+      "image": "https://cdn.prod.website-files.com/64354b8ce4872a52ac1c7b06/6a0d64725c23e6539cfa561e_Staking%20is%20expected%20from%20day%20one.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Chaos Labs",
+      "slug": "chaos-labs",
+      "title": "From \"Sandboxed\" Evals to Production Exploits",
+      "tldr": "A test environment that quietly reaches real infrastructure stops being a test. Uses a Hugging Face case to show how the line between evaluation and exploitation gets crossed.",
+      "link": "https://chaoslabs.xyz/posts/from-sandboxed-evals-to-production-exploits",
+      "image": "https://cdn.sanity.io/images/zmh9mnff/production/a54d14d4894af75e0cd1cbf1a6a464ef01310867-1320x1320.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Chaos Labs",
+      "slug": "chaos-labs",
+      "title": "The Rise of Spot Markets for Inference",
+      "tldr": "Long first part on where inference marketplaces actually stand, the structural inefficiencies holding them back, and the pressures that may force them to change.",
+      "link": "https://chaoslabs.xyz/posts/the-rise-of-spot-markets-for-inference",
+      "image": "https://cdn.sanity.io/images/zmh9mnff/production/9cf78d0baf3233081c6da45d02e53d0bf4e23fc8-1320x1320.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Chaos Labs",
+      "slug": "chaos-labs",
+      "title": "When Cyber Agents Go Off-Script",
+      "tldr": "Giving an agent internet access and relying on the prompt to contain it is not a security boundary. Argues that combination reliably produces misconduct rather than occasionally.",
+      "link": "https://chaoslabs.xyz/posts/when-cyber-agents-go-off-script",
+      "image": "https://cdn.sanity.io/images/zmh9mnff/production/593de130cf7a73411f86a5e0b14ddba95c2db476-1320x1320.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "CoinsDo",
+      "slug": "coinsdo",
+      "title": "\"Insufficient Funds\" in Your Wallet? Here's What's Actually Wrong",
+      "tldr": "The error almost never means what it says. Six causes, nearly all of them about gas rather than balance, explained clearly enough to fix rather than guess at.",
+      "link": "https://www.coinsdo.com/en/blog/how-to-resolve-insufficient-funds-error-in-a-crypto-wallet",
+      "image": "https://www.coinsdo.com/en/blog/how-to-resolve-insufficient-funds-error-in-a-crypto-wallet/opengraph-image-om32ya?1db5c332a72160fb",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "CoinsDo",
+      "slug": "coinsdo",
+      "title": "How to Choose a Wallet-as-a-Service Provider",
+      "tldr": "A seven-step checklist covering key control, MPC security, approval flows and compliance. The key control question is the one that determines everything else.",
+      "link": "https://www.coinsdo.com/en/blog/how-to-choose-a-wallet-as-a-service-provider",
+      "image": "https://www.coinsdo.com/en/blog/how-to-choose-a-wallet-as-a-service-provider/opengraph-image-om32ya?1db5c332a72160fb",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "CoinsDo",
+      "slug": "coinsdo",
+      "title": "Wallet-as-a-Service: What the Comparisons Skip",
+      "tldr": "Most vendor comparisons weigh speed and cost. Argues the custody model is the variable that actually matters and the one nobody puts in the table.",
+      "link": "https://www.coinsdo.com/en/blog/wallet-as-a-service-benefits",
+      "image": "https://www.coinsdo.com/en/blog/wallet-as-a-service-benefits/opengraph-image-om32ya?1db5c332a72160fb",
+      "tag": "Security"
+    },
+    {
+      "app": "Compound v3 Subgraph",
+      "slug": "compound-v3-subgraph",
+      "title": "Ten Projects Built on The Graph at ETHGlobal Lisbon",
+      "tldr": "The interesting result is not who won but how many independent teams reached for the same data primitives. A read on what indexing gets used for in practice.",
+      "link": "https://thegraph.com/blog/ethglobal-lisbon-2026-winners",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/3aa8686f-c7c2-804e-ae91-cf8d6977d69e/seoImage/thegraph-lisbon2026-header1600-1600x900.png",
+      "tag": "Research"
+    },
+    {
+      "app": "Compound v3 Subgraph",
+      "slug": "compound-v3-subgraph",
+      "title": "The Graph Technical Roadmap",
+      "tldr": "Sets out multi-service blockchain data infrastructure on Horizon, a protocol intended to serve more than subgraph queries. Useful for seeing where indexing is heading.",
+      "link": "https://thegraph.com/blog/technical-roadmap",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/30a8686f-c7c2-80dd-9599-f5a9e21bff7b/seoImage/Roadmap_2026_SEO_(1).png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "ConnectKit",
+      "slug": "connectkit",
+      "title": "Making Family Simpler and Safer",
+      "tldr": "The follow-up covering what actually changed in onboarding. Worth reading alongside the first piece to see the argument turned into product decisions.",
+      "link": "https://family.co/blog/family-accounts",
+      "image": "https://family.co/media/family-accounts.png",
+      "tag": "Finance"
+    },
+    {
+      "app": "ConnectKit",
+      "slug": "connectkit",
+      "title": "The Crypto Wallet Problem: Why We Created Family Accounts",
+      "tldr": "Seed phrases put irreversible loss one mistake away, which no other consumer product does. A well-argued piece on why that model was never going to reach ordinary users.",
+      "link": "https://family.co/blog/why-family-accounts",
+      "image": "https://family.co/media/why-family-accounts.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Crossmint",
+      "slug": "crossmint",
+      "title": "Agent Wallets Compared: Crossmint, Privy, Turnkey, Coinbase",
+      "tldr": "Long side-by-side of the main agent wallet providers. Vendor-authored, but detailed enough on key custody and spending limits to serve as a map of what this category has to solve.",
+      "link": "https://crossmint.com/learn/agent-wallets-compared",
+      "image": "",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Crossmint",
+      "slug": "crossmint",
+      "title": "Agentic Commerce Use Cases: 5 Examples That Work Today",
+      "tldr": "Short and deliberately unambitious: five things agents can actually transact for right now, which is a useful corrective to the broader speculation.",
+      "link": "https://crossmint.com/learn/agentic-commerce-use-cases",
+      "image": "",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Crossmint",
+      "slug": "crossmint",
+      "title": "What Is Account Abstraction? ERC-4337 Wallets Explained",
+      "tldr": "A clean walk through what ERC-4337 changes about who pays gas, who signs, and what a wallet is allowed to be. Good grounding before anything agent-related makes sense.",
+      "link": "https://crossmint.com/learn/account-abstraction-erc-4337-wallets",
+      "image": "",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Crypto APIs",
+      "slug": "crypto-apis",
+      "title": "Argentina's LIBRA Wallet Freeze: AML Screening at Scale",
+      "tldr": "A judicial order naming 25 wallets, and what exchanges had to do about it across their books. Concrete illustration of why screening has to be programmatic rather than manual.",
+      "link": "https://cryptoapis.io/blog/622-argentina-libra-wallet-freeze-cross-exchange-aml-screening-at-scale",
+      "image": "https://cryptoapis.io/images/fbdf2f04-8ef4-4148-907f-c2eccd2d9b7d-798x423.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Crypto APIs",
+      "slug": "crypto-apis",
+      "title": "Uniswap v4 Permissioned Pools: On-Chain AML for Regulated DeFi",
+      "tldr": "Compliance moving into the protocol layer changes who is responsible for screening and when it happens. Covers what that means for address checks and transaction monitoring.",
+      "link": "https://cryptoapis.io/blog/624-uniswap-v4-permissioned-pools-on-chain-aml-for-regulated-defi",
+      "image": "https://cryptoapis.io/images/d14fa4b1-231d-4120-a57d-319aebebf32b-798x423.jpg",
+      "tag": "Regulation"
+    },
+    {
+      "app": "Crypto APIs",
+      "slug": "crypto-apis",
+      "title": "x402 Payments: The Stablecoin Rail for AI Agents and APIs",
+      "tldr": "HTTP 402 was reserved for payment and never used. Explains how a stablecoin paywall on an API endpoint finally gives it a purpose, and what an agent needs to satisfy it.",
+      "link": "https://cryptoapis.io/blog/625-x402-payments-are-live-the-stablecoin-rail-for-ai-agents-and-apis",
+      "image": "https://cryptoapis.io/images/sHelNzAEmav0biKFC1wVR4hHQhKIKOc3tHzVKWjl-798x423.png",
+      "tag": "Payments"
+    },
+    {
+      "app": "DAObox",
+      "slug": "daobox",
+      "title": "DAO Formation: A Legal Wrapper Guide",
+      "tldr": "How to pick a wrapper and then keep it aligned with the governance and treasury controls you actually run. The ongoing maintenance section is the part most guides omit.",
+      "link": "https://daobox.io/blog/dao-formation-2026-2027-legal-wrapper-guide-how-to-choose-the-right-legal-setup",
+      "image": "https://framerusercontent.com/images/L9Lz0YSgbAij8ec9Eb66IXRlA8.webp?width=6000&height=4000",
+      "tag": "Governance"
+    },
+    {
+      "app": "DAObox",
+      "slug": "daobox",
+      "title": "DAOs and AI Agents: A New Frontier or a Risk to Decentralization?",
+      "tldr": "Automating governance removes the human bottleneck and also removes the human check. Balanced on the legal implications, which are further from settled than the technical ones.",
+      "link": "https://daobox.io/blog/dao-ai-agents-a-new-frontier-or-a-risk-to-decentralization",
+      "image": "https://framerusercontent.com/images/s5uCito6KgSE439BU1bRHnsyqrQ.webp?width=3840&height=2160",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "DAObox",
+      "slug": "daobox",
+      "title": "Incentives and Coordination in DAOs: Build an Operating System, Not a Voting Machine",
+      "tldr": "Argues DAOs rarely fail at voting and routinely fail at coordination. Mandates and incentive design get more attention here than governance mechanics, which is the right emphasis.",
+      "link": "https://daobox.io/blog/incentives-coordination-in-daos-build-an-operating-system",
+      "image": "https://framerusercontent.com/images/yFmEsIPQ2AIWDcJtR9s4bVgT9AE.webp?width=2000&height=1500",
+      "tag": "Governance"
+    },
+    {
+      "app": "Defx",
+      "slug": "defx",
+      "title": "The Defx Liquidity Engine",
+      "tldr": "What sits behind a perps DEX and how liquidity gets sourced and priced. Short, but one of the few places this layer is described rather than assumed.",
+      "link": "https://blog.defx.com/p/defx-liquidity-engine",
+      "image": "https://substackcdn.com/image/fetch/$s_!NgJP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe98500c1-199e-4e4e-a2bd-779d724e46c9_1456x1048.jpeg",
+      "tag": "DeFi"
+    },
+    {
+      "app": "dm3",
+      "slug": "dm3",
+      "title": "Multi-Chain Apps and the Importance of Stateless Clients",
+      "tldr": "Every extra chain an app touches adds another RPC endpoint you have to trust. Explains how stateless clients verify data locally with proofs instead of taking a provider's word.",
+      "link": "https://www.corpuscore.tech/blog/multi-chain-stateless-clients",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*HNK8KuV4jkvU0GoPqMpajw.jpeg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "dm3",
+      "slug": "dm3",
+      "title": "Pragmatic Adaptive Privacy",
+      "tldr": "Opens by admitting privacy was never a design goal of Bitcoin or Ethereum, which is why retrofitting it is so awkward. Long and unusually honest about the tradeoffs involved.",
+      "link": "https://www.corpuscore.tech/blog/pragmatic-adaptive-privacy-pap",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*-yi-KJOulScHzI4oW20Utg.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "dm3",
+      "slug": "dm3",
+      "title": "The Code Was Fine. That's the Problem.",
+      "tldr": "A long post-mortem on the KelpDAO exploit arguing the failure was in the trust layer, not the contracts. Makes the case that cross-chain bridges need cryptographic verification rather than multisig assurance.",
+      "link": "https://www.corpuscore.tech/blog/the-code-was-fine-thats-the-problem",
+      "image": "https://www.corpuscore.tech/images/blog/the-code-was-fine-thats-the-problem.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Drift",
+      "slug": "drift",
+      "title": "Best Solana Wallets",
+      "tldr": "A survey aimed at people arriving at Solana for the first time, weighing custody model and recovery rather than which one looks nicest.",
+      "link": "https://www.drift.trade/learn/best-solana-wallets",
+      "image": "https://cdn.prod.website-files.com/6310e7dee49f08e5798eed50/66ffb33f052ef82c86e62d86_631ba17842caf4628bb80fb7_6302edc2e96cf9e56d281385_Best%2520Solana%2520Wallet_Drift-1.jpeg",
+      "tag": "Security"
+    },
+    {
+      "app": "Drift",
+      "slug": "drift",
+      "title": "Centralised Exchange vs Decentralised Exchange",
+      "tldr": "Sets the two models against each other on custody, listing control and what happens when something goes wrong, rather than treating it as an ideological question.",
+      "link": "https://www.drift.trade/learn/centralised-exchange-vs-decentralised-exchange",
+      "image": "https://cdn.prod.website-files.com/6310e7dee49f08e5798eed50/66ffb33f4194789891ee055f_633291631a95385c10bd7baf_Centralised%2520Exchange%2520(CEX)%2520vs.%2520Decentralised%2520Exchange%2520(DEX).png",
+      "tag": "Security"
+    },
+    {
+      "app": "Drift",
+      "slug": "drift",
+      "title": "Price Action 101: Breakers",
+      "tldr": "Part of a trading fundamentals series. Short, focused on one pattern, and explains what the structure is supposed to signal rather than just how to draw it.",
+      "link": "https://www.drift.trade/learn/breakers",
+      "image": "https://cdn.prod.website-files.com/6310e7dee49f08e5798eed50/6407ec7bc27d331f1e98bfb3_Breakers.png",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Duel Duck",
+      "slug": "duel-duck",
+      "title": "2026 Election Forecast Methodology Explained",
+      "tldr": "Most forecast pages hand you a number and hide the recipe. This publishes the polling adjustments, how poll and market data get weighted against each other, and the scenario modelling.",
+      "link": "https://duelduck.com/blog/guide/election-forecast-methodology",
+      "image": "https://duelduck.com/logoShareLink.webp",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Duel Duck",
+      "slug": "duel-duck",
+      "title": "Bitcoin Analysis: Reading the Market When It Crashes",
+      "tldr": "A framework for reading a falling market rather than a prediction about one. Runs through the indicators and onchain signals that stay meaningful when price is moving fast.",
+      "link": "https://duelduck.com/blog/guide/bitcoin-analysis",
+      "image": "https://duelduck.com/logoShareLink.webp",
+      "tag": "Research"
+    },
+    {
+      "app": "Duel Duck",
+      "slug": "duel-duck",
+      "title": "DuelDuck for Beginners: A P2P Prediction Market Guide",
+      "tldr": "In a peer-to-peer duel your counterparty is another user, not a house. Covers how a ticket gets priced, how Yes and No resolve, and when the USDC actually reaches you.",
+      "link": "https://duelduck.com/blog/guide/beginners-guide",
+      "image": "https://duelduck.com/logoShareLink.webp",
+      "tag": "Trading"
+    },
+    {
+      "app": "Dynamic",
+      "slug": "dynamic",
+      "title": "A Deep Dive Into TSS-MPC",
+      "tldr": "What threshold signature schemes are, how they differ from other flavours of multi-party computation, and the security properties that follow from each choice.",
+      "link": "https://www.dynamic.xyz/blog/a-deep-dive-into-tss-mpc",
+      "image": "https://www.fireblocks.com/wp-content/uploads/2026/04/a-deep-dive-into-tss-mpc-dynamics-focus-on-security-and-flexibility.webp",
+      "tag": "Security"
+    },
+    {
+      "app": "Dynamic",
+      "slug": "dynamic",
+      "title": "Beyond the Speed Myth: TSS-MPC Performance",
+      "tldr": "The standing objection to threshold signatures has been latency. Argues that objection is now several years out of date, and shows where the time actually goes.",
+      "link": "https://www.dynamic.xyz/blog/beyond-the-speed-myth-why-tss-mpc-performance-is-already-a-solved-problem",
+      "image": "https://www.fireblocks.com/wp-content/uploads/2026/04/beyond-the-speed-myth-why-tss-mpc-performance-is-already-a-solved-problem.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Dynamic",
+      "slug": "dynamic",
+      "title": "Building Identity-Based Mini Apps With World ID",
+      "tldr": "Gating an app on proof of personhood rather than on a wallet balance. A practical walkthrough of what verified human access changes about the design.",
+      "link": "https://www.dynamic.xyz/blog/build-identity-based-mini-apps-with-world-id-and-dynamic",
+      "image": "https://www.fireblocks.com/wp-content/uploads/2026/04/build-identity-based-mini-apps-with-world-id-and-dynamic.webp",
+      "tag": "Identity"
+    },
+    {
+      "app": "EtherMail",
+      "slug": "ethermail",
+      "title": "The Next Billion Wallets Won't Know They're Using Crypto",
+      "tldr": "Argues the next wave of wallet users never self-identify as crypto users at all, and that stablecoins plus embedded wallets are what make that possible.",
+      "link": "https://blog.ethermail.io/the-next-billion-wallets-wont-know-theyre-using-crypto",
+      "image": "https://blog.ethermail.io/hubfs/ChatGPT%20Image%20Jun%2023%2c%202026%2c%2003_08_56%20PM.png",
+      "tag": "Payments"
+    },
+    {
+      "app": "EtherMail",
+      "slug": "ethermail",
+      "title": "Why AI Agents Need Communication Infrastructure",
+      "tldr": "An autonomous agent still has to receive information it can trust, on time. Short piece on what that channel has to guarantee before the agent can act on anything.",
+      "link": "https://blog.ethermail.io/why-ai-agents-need-communication-infrastructure",
+      "image": "https://blog.ethermail.io/hubfs/ChatGPT%20Image%20Jun%2023%2c%202026%2c%2002_56_08%20PM.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Euler Finance",
+      "slug": "euler",
+      "title": "Euler Primer: The Credit Layer for Programmable Finance",
+      "tldr": "The long-form case for treating lending as modular infrastructure rather than one monolithic pool, and what that unlocks that a shared-pool design cannot.",
+      "link": "https://www.euler.finance/blog/euler-primer-the-credit-layer-for-programmable-finance",
+      "image": "https://storage.ghost.io/c/fd/e0/fde05e3b-cf46-409d-acb7-5713e1135685/content/images/2026/05/Euler-Primer-1.png",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Euler Finance",
+      "slug": "euler",
+      "title": "What Is the Ethereum Vault Connector?",
+      "tldr": "Account infrastructure built around ERC-4626 that lets vaults be used as collateral for one another. The piece of plumbing that makes modular lending composable rather than isolated.",
+      "link": "https://www.euler.finance/blog/what-is-the-ethereum-vault-connector",
+      "image": "https://storage.ghost.io/c/fd/e0/fde05e3b-cf46-409d-acb7-5713e1135685/content/images/2026/05/evc-explain.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Euler Finance",
+      "slug": "euler",
+      "title": "What Is the Euler Vault Kit?",
+      "tldr": "The framework every Euler lending vault is built from. Start here if you want to understand what is actually configurable in a lending market and what is fixed.",
+      "link": "https://www.euler.finance/blog/what-is-the-euler-vault-kit",
+      "image": "https://storage.ghost.io/c/fd/e0/fde05e3b-cf46-409d-acb7-5713e1135685/content/images/2026/05/evk-explain-1.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Fabrica",
+      "slug": "fabrica",
+      "title": "Lost Keys, No Lost Land",
+      "tldr": "The obvious objection to tokenised property is what happens when someone loses their keys. Nearly six thousand words answering exactly that, which is the right length for the question.",
+      "link": "https://blog.fabrica.land/lost-keys-no-lost-land",
+      "image": "https://paragraph.com/api/og?title=Lost+Keys%2C+No+Lost+Land&blogName=Fabrica&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fc1f913f694b3dbd6dbc9eceb98826902aaf05e9173817ac6ff4316dcee51abea.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F42c580e006ecaaeef8ad7a91fc8e1c3b&publishedDate=1772074221564",
+      "tag": "Tokenization"
+    },
+    {
+      "app": "Fabrica",
+      "slug": "fabrica",
+      "title": "Tether for Land",
+      "tldr": "Takes the comparison seriously rather than as a slogan: what it would mean for land titles to move the way a stablecoin does, and which parts of property law refuse to cooperate.",
+      "link": "https://blog.fabrica.land/tether-for-land",
+      "image": "https://paragraph.com/api/og?title=Tether+for+Land&blogName=Fabrica&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F70af0e74c96bb294d35cf628493ce9aadfc18372c746451c557a6ad13a78e114.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F42c580e006ecaaeef8ad7a91fc8e1c3b&publishedDate=1777140157548",
+      "tag": "Tokenization"
+    },
+    {
+      "app": "Fabrica",
+      "slug": "fabrica",
+      "title": "Title Insurance After Tokenization",
+      "tldr": "Short, and the most concrete evidence in the set: a tokenised property went through a conventional sale and a major underwriter wrote the title policy. Theory meeting practice.",
+      "link": "https://blog.fabrica.land/title-insurance-after-tokenization",
+      "image": "https://paragraph.com/api/og?title=Title+Insurance+After+Tokenization&blogName=Fabrica&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fee2597cc3b18a32eb87cad4fdd2942c9482282bd7668a619082917e22dac0bb4.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F42c580e006ecaaeef8ad7a91fc8e1c3b&publishedDate=1772067759796",
+      "tag": "Tokenization"
+    },
+    {
+      "app": "Filebase",
+      "slug": "filebase",
+      "title": "AWS S3 Pricing: What You'll Actually Pay",
+      "tldr": "Storage is the cheap part. Requests, retrievals and egress are where the bill comes from, and this walks each line so the total stops being a surprise.",
+      "link": "https://filebase.com/blog/aws-s3-pricing-in-2026-what-youll-actually-pay/",
+      "image": "https://filebase.com/blog/content/images/2026/07/Cover---AWS-S3-Pricing-2026@2x.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Filebase",
+      "slug": "filebase",
+      "title": "How Browser Uploads Work With Pre-Signed S3 URLs",
+      "tldr": "Letting a browser upload straight to storage without handing it your credentials. Covers the backend signing step and the CORS configuration that trips everyone up.",
+      "link": "https://filebase.com/blog/how-browser-uploads-work-with-pre-signed-s3-urls/",
+      "image": "https://filebase.com/blog/content/images/2026/07/Blog-Image-Variation-E---Dark-Polished@2x--3-.webp",
+      "tag": "Identity"
+    },
+    {
+      "app": "Filebase",
+      "slug": "filebase",
+      "title": "Infura IPFS Is Shutting Down: How to Migrate",
+      "tldr": "A concrete deadline and a concrete migration path for anyone with pins on Infura. Also a useful reminder that pinned does not mean permanent.",
+      "link": "https://filebase.com/blog/infura-ipfs-is-shutting-down-how-to-migrate/",
+      "image": "https://filebase.com/blog/content/images/2026/07/infura-shutdown.webp",
+      "tag": "Security"
+    },
+    {
+      "app": "Fileverse",
+      "slug": "fileverse",
+      "title": "An End-to-End Encrypted Alternative to Google Docs",
+      "tldr": "What actually changes when collaborative editing is encrypted by default, including the features that become harder to offer once the server cannot read the document.",
+      "link": "https://blog.fileverse.io/end-to-end-encrypted-google-docs-alternative/",
+      "image": "https://storage.ghost.io/c/13/ba/13ba5b79-a677-4b75-9078-342e7947f4fc/content/images/size/w1200/2026/01/New-Screen-Web2.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Fileverse",
+      "slug": "fileverse",
+      "title": "Google Docs and Gemini AI: The Privacy Problem",
+      "tldr": "Your documents are not end-to-end encrypted, which means the privacy question is entirely one of trust rather than of cryptography. Direct about what that implies.",
+      "link": "https://blog.fileverse.io/google-docs-gemini-ai-privacy-2025/",
+      "image": "https://storage.ghost.io/c/13/ba/13ba5b79-a677-4b75-9078-342e7947f4fc/content/images/2025/08/Screenshot-2025-08-21-at-15.03.43.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Fileverse",
+      "slug": "fileverse",
+      "title": "Google Docs vs Microsoft Word: Which Is Better?",
+      "tldr": "Compares the two on collaboration, formatting and offline editing, but the privacy and security section is the part worth your time.",
+      "link": "https://blog.fileverse.io/google-docs-vs-microsoft-word/",
+      "image": "https://storage.ghost.io/c/13/ba/13ba5b79-a677-4b75-9078-342e7947f4fc/content/images/size/w1200/2026/06/gdocsword.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Halliday",
+      "slug": "halliday",
+      "title": "Dev Workshop: Building an Onramp to Any Chain",
+      "tldr": "Seven lines of code to a working onramp. Short, and a good measure of how far the integration burden for fiat-to-crypto has actually fallen.",
+      "link": "https://blog.halliday.xyz/developer-workshop-halliday-payments/",
+      "image": "https://storage.ghost.io/c/02/df/02dfbdca-346f-4e4b-9a73-f924b521b7e2/content/images/size/w1200/2025/11/Screenshot-2025-11-14-at-11.19.00---AM.png",
+      "tag": "Payments"
+    },
+    {
+      "app": "Halliday",
+      "slug": "halliday",
+      "title": "Halliday: The First Workflow Protocol",
+      "tldr": "As chains and services multiplied, the hard part stopped being any single call and became sequencing them reliably. Sets out workflows as the missing abstraction.",
+      "link": "https://blog.halliday.xyz/halliday-the-first-agentic-workflow-protocol/",
+      "image": "https://storage.ghost.io/c/02/df/02dfbdca-346f-4e4b-9a73-f924b521b7e2/content/images/size/w1200/2025/03/Screenshot-2025-03-17-at-2.41.56-PM.png",
+      "tag": "Finance"
+    },
+    {
+      "app": "Hardhat",
+      "slug": "hardhat",
+      "title": "Deploying Smart Contracts Using Hardhat Ignition",
+      "tldr": "Declarative deployment: describe the end state and let the tool work out the ordering and resume from failures. A better model than a script that must run perfectly once.",
+      "link": "https://hardhat.org/docs/guides/deployment/using-ignition",
+      "image": "https://hardhat.org/thumbnail.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Hardhat",
+      "slug": "hardhat",
+      "title": "Displaying Execution Traces",
+      "tldr": "Short, and disproportionately useful: seeing exactly which calls ran and what they returned is the fastest way to understand why a transaction reverted.",
+      "link": "https://hardhat.org/docs/guides/execution-traces",
+      "image": "https://hardhat.org/thumbnail.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Hardhat",
+      "slug": "hardhat",
+      "title": "Managing Config Values and Secrets Safely",
+      "tldr": "Private keys in a committed config file remain one of the most common ways teams lose funds. Covers the mechanism Hardhat provides so they never sit in the repo.",
+      "link": "https://hardhat.org/docs/guides/configuration-variables",
+      "image": "https://hardhat.org/thumbnail.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Hiro Platform",
+      "slug": "hiro",
+      "title": "Breaking Down the sBTC-Wormhole Integration",
+      "tldr": "Moving a Bitcoin-backed asset across chains means two different trust models meeting in the middle. Explains where the handoff happens and what each side assumes.",
+      "link": "https://www.hiro.so/blog/breaking-down-the-sbtc-wormhole-integration",
+      "image": "https://cdn.prod.website-files.com/5ff21113877dd79ed7913b57/6893338d22cccb3a32445dd2_Frame%20316126263.jpg",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Hiro Platform",
+      "slug": "hiro",
+      "title": "Deep Dive: How the Token Metadata API Works",
+      "tldr": "Token metadata sounds trivial until you have to serve it consistently across standards and chains. A look at what the API actually has to reconcile.",
+      "link": "https://www.hiro.so/blog/deep-dive-how-the-token-metadata-api-works",
+      "image": "https://cdn.prod.website-files.com/5ff21113877dd79ed7913b57/6900da8526bc84cc2e53c9c4_Deep%20Dive%20-%20Token%20Metadata%20API.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Hiro Platform",
+      "slug": "hiro",
+      "title": "Dissecting a Transaction Signature on Stacks",
+      "tldr": "Pulls a signature apart field by field. Signature formats are usually treated as a black box, and understanding one properly makes a whole class of bugs legible.",
+      "link": "https://www.hiro.so/blog/dissecting-a-transaction-signature-on-stacks",
+      "image": "https://cdn.prod.website-files.com/5ff21113877dd79ed7913b57/6878c7fd6ea0ad726f116ff7_Hiro-blog-7.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Hive Intelligence",
+      "slug": "hive-intelligence",
+      "title": "LangChain and CrewAI Integration",
+      "tldr": "Wiring live prices, DeFi analytics and token security checks into agent frameworks. Useful for seeing where an agent's data actually comes from.",
+      "link": "https://www.hiveintelligence.xyz/tutorials/langchain",
+      "image": "https://www.hiveintelligence.xyz/api/og?title=LangChain+%26+CrewAI+Integration+%7C+Hive+Intelligence&eyebrow=Tutorials",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Hive Intelligence",
+      "slug": "hive-intelligence",
+      "title": "MCP Integration Tutorial",
+      "tldr": "Step by step for connecting Claude, Cursor or another MCP client to live crypto data. Practical, and a decent introduction to what MCP actually does.",
+      "link": "https://www.hiveintelligence.xyz/tutorials/mcp-integration",
+      "image": "https://www.hiveintelligence.xyz/api/og?title=MCP+Integration+Tutorial+%7C+Hive+Intelligence&eyebrow=Tutorials",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Hive Intelligence",
+      "slug": "hive-intelligence",
+      "title": "REST API Tutorial",
+      "tldr": "The plainest of the three: querying prices, yields and token security over HTTP, with no framework in the way. Start here if the others feel like too many layers.",
+      "link": "https://www.hiveintelligence.xyz/tutorials/rest-api",
+      "image": "https://www.hiveintelligence.xyz/api/og?title=REST+API+Tutorial+%7C+Hive+Intelligence&eyebrow=Tutorials",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Hyperlane",
+      "slug": "hyperlane-xyz",
+      "title": "Builder Journeys: Deploying Bridged USDC With Warp Routes",
+      "tldr": "A team's actual path to getting bridged USDC live on their chain. Implementation detail of the kind that rarely makes it into documentation.",
+      "link": "https://www.hyperlane.xyz/post/builder-journeys-how-fusionist-deployed-bridged-usdc-with-warp-routes",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b4f94347e69db2149944_67dbad3de06fb02b97b68d2b_1_5cj6wQOKnM5Y-Wx2J_r2YA.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Hyperlane",
+      "slug": "hyperlane",
+      "title": "Builder Journeys: DIA Crosschain Oracle",
+      "tldr": "How an oracle team delivered price data across chains, and which interoperability decisions they had to make first. Implementation detail rather than architecture diagram.",
+      "link": "https://www.hyperlane.xyz/post/builder-journeys-dia-crosschain-oracle",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b504d816e3ea4343be9f_6801382853e7fe3cd7e04ee8_24.jpeg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Hyperlane",
+      "slug": "hyperlane",
+      "title": "Builder Journeys: LogX Expands Trading Interchain",
+      "tldr": "A trading venue extending across chains, told from the builder's side. Worth reading for what breaks when order flow and settlement stop sharing a chain.",
+      "link": "https://www.hyperlane.xyz/post/builder-journeys-logx-expands-trading-interchain",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b4fd801b60a83a781f31_67e18c510a402411cad6fcdf_1_vTfBo6Nfg04m0eE_JRYoWg.webp",
+      "tag": "Trading"
+    },
+    {
+      "app": "Hyperlane",
+      "slug": "hyperlane-xyz",
+      "title": "Building With Modular Security Legos",
+      "tldr": "Interoperability security is usually presented as one setting. This breaks it into composable modules you choose between, which makes the tradeoffs visible instead of implicit.",
+      "link": "https://www.hyperlane.xyz/post/building-with-modular-security-legos",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b4f71845db03c7dfd163_67dba45f9d6996c79dad36df_1_SnPTPviEOeslsFaqNJzT6w.webp",
+      "tag": "Security"
+    },
+    {
+      "app": "Hyperlane",
+      "slug": "hyperlane-xyz",
+      "title": "How Permissionless Is Your Interoperability Provider? A Checklist",
+      "tldr": "A pointed set of questions to ask before depending on a bridge: who can add a chain, who can pause it, and who you need permission from. Uncomfortable for most providers.",
+      "link": "https://www.hyperlane.xyz/post/checklist-how-permissionless-is-your-interoperability-provider",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b4f7baae82d9f96ce67a_67dba3c1c24274cca937722a_1_WxO536Rn6SKQK3G_oRn-fg.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Hypernative",
+      "slug": "hypernative",
+      "title": "4 Security Testing Tools Every DeFi Developer Should Use Before Auditing",
+      "tldr": "What to run yourself before paying anyone to audit, on the reasonable basis that auditors should not be spending their time on what a fuzzer would have caught.",
+      "link": "https://www.hypernative.io/insights/blog/4-security-testing-tools-every-defi-developer-should-use-before-auditing",
+      "image": "https://cdn.prod.website-files.com/69d8ddbc3349f891fea87dc6/6a39bbf089f800a4a370a270_4%20Security%20Testing%20Tools%20Every%20DeFi%20Developer%20Should%20Use%20Before%20Auditing.avif",
+      "tag": "Security"
+    },
+    {
+      "app": "Hypernative",
+      "slug": "hypernative",
+      "title": "4 Wallet Security Myths That Put Users at Risk",
+      "tldr": "Takes apart the reassuring beliefs people hold about hardware wallets and seed phrases, and is specific about what each myth actually leaves exposed.",
+      "link": "https://www.hypernative.io/insights/blog/4-wallet-security-myths-that-put-users-at-risk",
+      "image": "https://cdn.prod.website-files.com/69d8ddbc3349f891fea87dc6/6a3c8eaf6cb6b070db0c0892_4%20Wallet%20Security%20Myths%20That%20Put%20Users%20at%20Risk.webp",
+      "tag": "Security"
+    },
+    {
+      "app": "Ingonmaya",
+      "slug": "ingonmaya",
+      "title": "A Mathematical Theory of Danksharding",
+      "tldr": "Short and unapologetically formal. If you have read the accessible explanations of data availability sampling and want the actual mathematics, this is the step up.",
+      "link": "https://ingonyama.com/post/a-mathematical-theory-of-danksharding",
+      "image": "https://cdn.prod.website-files.com/63970f25aa7b42e284492d52/68024429bbcbcd3895424cfe_75.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Ingonmaya",
+      "slug": "ingonmaya",
+      "title": "AMD XDNA: Meet the ZK Acceleration King",
+      "tldr": "Proof generation is now a hardware problem as much as a cryptographic one. Benchmarks a specific accelerator architecture against the workload ZK actually creates.",
+      "link": "https://ingonyama.com/post/amd-xdna-meet-2023-zk-acceleration-king",
+      "image": "https://cdn.prod.website-files.com/63970f25aa7b42e284492d52/67fff21b6a900e1fb5225893_37.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Ingonmaya",
+      "slug": "ingonmaya",
+      "title": "Bridging the Multichain Universe With Zero Knowledge Proofs",
+      "tldr": "Long treatment of proof-based bridging, where the receiving chain verifies mathematics rather than trusting a validator set. The most rigorous answer to the bridge problem.",
+      "link": "https://ingonyama.com/post/bridging-the-multichain-universe-with-zero-knowledge-proofs",
+      "image": "https://cdn.prod.website-files.com/63970f25aa7b42e284492d52/6802438f3b08c57fdaecbc67_68.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Integral",
+      "slug": "integral",
+      "title": "DAO Taxes: The Ultimate Guide",
+      "tldr": "Governance tokens create tax positions that nobody agreed to take on. Covers how a DAO can stay compliant when the entity itself may not legally exist anywhere.",
+      "link": "https://integral.xyz/blog/dao-taxes-guide",
+      "image": "https://framerusercontent.com/images/NgX4EqlVw6ZBdQaAkY70VdodHI.png?width=2000&height=1000",
+      "tag": "Regulation"
+    },
+    {
+      "app": "Integral",
+      "slug": "integral",
+      "title": "How to Prepare for the Transition to Account-Level Cost Basis",
+      "tldr": "New IRS rules mandate wallet-by-wallet lot tracking rather than one pooled basis. If you have been reporting the old way, this is the change that forces a rebuild.",
+      "link": "https://integral.xyz/blog/account-level-cost-basis",
+      "image": "https://framerusercontent.com/images/5deftMEhCc4DBVyZ7LNwp2lnRUQ.jpg?width=2000&height=1000",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "IX Swap",
+      "slug": "ix-swap",
+      "title": "A Step-by-Step KYC Guide",
+      "tldr": "Verification is where most people abandon a regulated platform. Useful mostly for showing exactly what gets asked for and why each item is required.",
+      "link": "https://www.ixs.finance/tutorials/ix-swap-kyc-guide",
+      "image": "https://cdn.prod.website-files.com/62d08346f4ff1e435a905bad/66a05b910e0fa83b936b178c_Website%20(10).avif",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "IX Swap",
+      "slug": "ix-swap",
+      "title": "An Extensive Guide to Buying Your First Security Token",
+      "tldr": "Security tokens carry transfer restrictions and eligibility checks that ordinary tokens do not. Walks a first purchase including the parts that will block you.",
+      "link": "https://www.ixs.finance/tutorials/an-extensive-guide-to-buying-your-first-security-token",
+      "image": "https://cdn.prod.website-files.com/62d08346f4ff1e435a905bad/68f9afa6b690081caea5e1a5_1.jpg",
+      "tag": "Security"
+    },
+    {
+      "app": "JEB Decompiler",
+      "slug": "jeb-decompiler",
+      "title": "Deobfuscation Ratings, Inlining Fat Functions, and Breaking Opaque Predicates",
+      "tldr": "Concrete techniques for undoing deliberate obfuscation. Directly relevant to anyone trying to understand what an unverified contract or binary actually does.",
+      "link": "https://www.pnfsoftware.com/blog/deobfuscation-ratings-inlining-fat-functions-and-breaking-opaque-predicates/",
+      "image": "",
+      "tag": "Security"
+    },
+    {
+      "app": "JEB Decompiler",
+      "slug": "jeb-decompiler",
+      "title": "Mutation-Resistant Library Code Matching",
+      "tldr": "Identifying known library code even after it has been altered to avoid detection. The cat-and-mouse framing makes the problem unusually easy to follow.",
+      "link": "https://www.pnfsoftware.com/blog/mutation-resistant-library-code-matching/",
+      "image": "",
+      "tag": "Finance"
+    },
+    {
+      "app": "JEB Decompiler",
+      "slug": "jeb-decompiler",
+      "title": "Reversing Nvidia GPU SASS Code",
+      "tldr": "Long and deeply technical work on decompiling GPU assembly, a target with almost no tooling. Far outside the usual crypto reading and better for it.",
+      "link": "https://www.pnfsoftware.com/blog/reversing-nvidia-cuda-sass-code/",
+      "image": "",
+      "tag": "Security"
+    },
+    {
+      "app": "Kerberus Sentinel3",
+      "slug": "kerberus",
+      "title": "Address Poisoning Attacks: How They Scam Web3 Users",
+      "tldr": "The attack works because people verify the first and last few characters of an address and nothing in between. Covers detection and the habits that defeat it.",
+      "link": "https://www.kerberus.com/learn/address-poisoning-attacks-web3-guide/",
+      "image": "https://www.kerberus.com/images/blog/Blog_Default_Banner.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Kerberus Sentinel3",
+      "slug": "kerberus",
+      "title": "Human Behavior Causes 44% of Web3 Losses",
+      "tldr": "Research putting nearly half of crypto theft down to human error rather than broken code, despite the billions spent on securing the code.",
+      "link": "https://www.kerberus.com/articles/human-behavior-web3-losses/",
+      "image": "https://www.kerberus.com/images/blog/human-behavior-web3-losses.jpg",
+      "tag": "Security"
+    },
+    {
+      "app": "Kerberus Sentinel3",
+      "slug": "kerberus",
+      "title": "Solana Security: Automated Defense for Wallets and Programs",
+      "tldr": "$250M lost on Solana in a single half-year, most of it to phishing and social engineering rather than protocol bugs. On catching those at transaction time.",
+      "link": "https://www.kerberus.com/articles/scaling-solana-safely/",
+      "image": "https://www.kerberus.com/images/blog/scaling-solana-safely-phishing-losses.jpg",
+      "tag": "Security"
+    },
+    {
+      "app": "Krystal Wallet",
+      "slug": "krystal-wallet",
+      "title": "A New Automation Fee Model",
+      "tldr": "Moving away from charging per automation run. Worth reading for how fee design shapes whether users leave automation switched on at all.",
+      "link": "https://blog.krystal.app/introducing-krystals-new-automation-fee-model/",
+      "image": "https://i2.wp.com/blog.krystal.app/wp-content/uploads/2024/12/Banner-4.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Krystal Wallet",
+      "slug": "krystal-wallet",
+      "title": "How to Use Zap In on the Krystal Wallet App",
+      "tldr": "Entering a liquidity position from a single token instead of assembling both sides yourself. Explains the swap happening underneath and what it costs you.",
+      "link": "https://blog.krystal.app/how-to-use-zap-in-on-the-krystal-wallet-app/",
+      "image": "https://i1.wp.com/blog.krystal.app/wp-content/uploads/2025/02/How-to-use-Zap-In-on-the-Krystal-Wallet-App.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Kuru",
+      "slug": "kuru",
+      "title": "Flip Orders: Concentrated Liquidity on Order Books",
+      "tldr": "Borrows the concentrated liquidity idea from AMMs and applies it to a CLOB, aiming for AMM-style simplicity without giving up order book control.",
+      "link": "https://blog.kuru.io/p/flip-orders-concentrated-liquidity",
+      "image": "https://substackcdn.com/image/fetch/$s_!ENXN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01138650-cd14-4e47-b06b-9416fa6f44dc_3840x2160.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Kuru",
+      "slug": "kuru",
+      "title": "Introducing Vaults",
+      "tldr": "Providing liquidity to an order book without managing individual orders yourself. Short, and useful for seeing what gets abstracted away and what you still carry.",
+      "link": "https://blog.kuru.io/p/introducing-vaults",
+      "image": "https://substackcdn.com/image/fetch/$s_!4vTS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F457dfc54-0804-4a27-929c-a56dd40c0740_4232x2426.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Kuru",
+      "slug": "kuru",
+      "title": "What Does a Market Maker Do?",
+      "tldr": "The clearest of the three: what market making actually involves, and how the job differs on an AMM versus a central limit order book. Good grounding before the others.",
+      "link": "https://blog.kuru.io/p/what-does-a-market-maker-do",
+      "image": "https://substackcdn.com/image/fetch/$s_!oX35!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a01723d-01d7-4ccd-a455-e50d50566852_2464x1052.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Lagoon",
+      "slug": "lagoon",
+      "title": "Agentic Finance: How AI Agents Work With Lagoon Vaults",
+      "tldr": "Moving agents from chat to actual capital means letting them discover a vault, read its state, and act on it. Describes what each of those three steps requires.",
+      "link": "https://lagoon.finance/blog/agentic-finance-lagoon-vaults",
+      "image": "https://storage.googleapis.com/lagoon-blog-media/blog/agentic-finance-lagoon-vaults/og.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Lagoon",
+      "slug": "lagoon",
+      "title": "Lagoon's Fee Structure: The Four Fee Types, Explained",
+      "tldr": "Management, performance, entry/exit and protocol fees, with the actual formulas, caps and accrual mechanics rather than a summary. Rare to see a vault show this much of its arithmetic.",
+      "link": "https://lagoon.finance/blog/lagoon-fee-structure",
+      "image": "https://storage.googleapis.com/lagoon-blog-media/blog/lagoon-fee-structure/og.png",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Lagoon",
+      "slug": "lagoon",
+      "title": "More Than Vaults: Lagoon's Open Data Layer",
+      "tldr": "An SDK reading contracts directly, plus a public GraphQL API with no key required. Worth reading for the argument that vault data should be queryable by anyone, not just the operator.",
+      "link": "https://lagoon.finance/blog/lagoon-api-sdk-mcp",
+      "image": "https://storage.googleapis.com/lagoon-blog-media/blog/lagoon-api-sdk-mcp/og.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Lagrange",
+      "slug": "lagrange",
+      "title": "A New Era for ZK: Decentralizing the ZK Stack",
+      "tldr": "Proof generation concentrated in a few hands recreates the trust problem proofs were meant to remove. The longest piece here, and the clearest on why prover decentralisation matters.",
+      "link": "https://lagrange.dev/blog/a-new-era-for-zk",
+      "image": "https://cdn.prod.website-files.com/662a1b8028d7e78401160d03/6a5e765ed8eb3f2a4de01b5b_6a5e75c2417b97d60302f540_cover-a-new-era-for-zk.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Lagrange",
+      "slug": "lagrange",
+      "title": "AI Is Scaling Faster Than We Can Verify It",
+      "tldr": "Model capability is outrunning any ability to check what a model actually did. Frames verifiable computation as the missing half rather than an optional extra.",
+      "link": "https://lagrange.dev/blog/ai-is-scaling-faster-than-we-can-verify-it",
+      "image": "https://cdn.prod.website-files.com/662a1b8028d7e78401160d03/69efd53731256b5941dfd688_AI%20Is%20Scaling%20Faster%20Than%20We%20Can%20Verify%20It%20-%20Blog%20Header.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Lagrange",
+      "slug": "lagrange",
+      "title": "Cheap and Fast Cross-Chain Queries With a ZK Coprocessor",
+      "tldr": "Reading another chain's historical state normally means trusting whoever tells you about it. A concrete look at proving the answer instead of trusting it.",
+      "link": "https://lagrange.dev/blog/cheap-fast-cross-chain-queries-from-fraxtal-with-lagranges-zk-coprocessor",
+      "image": "https://cdn.prod.website-files.com/662a1b8028d7e78401160d03/6867d189b43b6499782f1355_663d281c296b8ca0f71034f0_frax-blog.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Mass",
+      "slug": "mass",
+      "title": "Making Gas Tokens a Thing of the Past",
+      "tldr": "Opens on the familiar dead end of holding tokens you cannot move because you have no ETH for gas, then covers how paying fees in any asset removes it.",
+      "link": "https://blog.mass.money/mass-made-gas-tokens-a-thing-from-the-past/",
+      "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/size/w1200/2024/05/gas_tank-3.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Mass",
+      "slug": "mass",
+      "title": "Most Tokens Will Never Reach Their ATH Again. Why?",
+      "tldr": "Dilution is the answer, and it is a much less comfortable one than market sentiment. A short piece that reframes how to read a token's price history.",
+      "link": "https://blog.mass.money/my-token-will-never-reach-its-ath-again-why/",
+      "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/2024/06/gameover.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Mass",
+      "slug": "mass",
+      "title": "Trading With Onchain Data Instead of Guesswork",
+      "tldr": "Nobody has a crystal ball, but most people trade with far less onchain information than is freely available. A survey of what data is worth watching.",
+      "link": "https://blog.mass.money/mass-data-your-crystal-ball-to-trade/",
+      "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/2024/05/blind_traders.png",
+      "tag": "Research"
+    },
+    {
+      "app": "Meld",
+      "slug": "meld",
+      "title": "Introducing Meld Network: Access Digital Assets Anywhere",
+      "tldr": "The project's own statement of what it is building and why a dedicated network was the chosen route. Short, and the clearest single description available.",
+      "link": "https://www.meld.io/blog/introducing-meld-network",
+      "image": "https://images.ctfassets.net/r0as9klpglto/6IflbRTXG2vJv45Mfu31Ba/dc3b81302086a1ef8202ccc94e7c595b/Frame_2147240618-removebg-preview.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Midas",
+      "slug": "midas",
+      "title": "Introducing Midas Staked Liquidity: Atomic Liquidity for Tokenised Assets",
+      "tldr": "Tokenised assets are easy to issue and awkward to exit. Describes a dedicated liquidity layer built specifically to make redemption instant rather than negotiated.",
+      "link": "https://blog.midas.app/introducing-msl-midas-staked-liquidity/",
+      "image": "https://storage.ghost.io/c/17/41/1741921d-b2cf-47e4-979c-d15ef792d2f2/content/images/size/w1200/2026/03/XandBlog_MSL.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Midas",
+      "slug": "midas",
+      "title": "What Are Onchain Investment Products?",
+      "tldr": "Traces the shift from lending pools and liquidity farming toward something structured like an actual financial product, and what has to exist for that to hold.",
+      "link": "https://blog.midas.app/what-are-onchain-investment-products/",
+      "image": "https://storage.ghost.io/c/17/41/1741921d-b2cf-47e4-979c-d15ef792d2f2/content/images/size/w1200/2026/05/blog-What-Are-Onchain-Investment-Products--and-Why-They-Are-Not-Vaults-or-Stablecoins.png",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Mimic",
+      "slug": "mimic",
+      "title": "The Execution Gap in Onchain Asset Management",
+      "tldr": "Having a strategy is the easy half. Getting it executed reliably, repeatedly, without someone watching a dashboard is where onchain asset management actually breaks down.",
+      "link": "https://www.mimic.fi/blog/the-execution-gap-in-onchain-asset-management",
+      "image": "https://mimic.fi/blog/the-execution-gap-in-onchain-asset-management/TN---The-Execution-Gap--in-Onchain-Asset-Management-1.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Mimic",
+      "slug": "mimic",
+      "title": "The Infrastructure Behind One-Click DeFi",
+      "tldr": "One button on the surface, several of the hardest coordination problems in crypto underneath. Unpacks everything that has to line up between the click and settlement.",
+      "link": "https://www.mimic.fi/blog/the-infrastructure-behind-one-click-defi",
+      "image": "https://mimic.fi/blog/the-infrastructure-behind-one-click-defi/Infra.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Mimic",
+      "slug": "mimic",
+      "title": "What Is Mimic?",
+      "tldr": "The short version straight from the source: you define the logic, Mimic runs it, and you never deploy or babysit a contract yourself. Read this before the deeper pieces.",
+      "link": "https://www.mimic.fi/blog/what-is-mimic",
+      "image": "https://mimic.fi/blog/what-is-mimic/what-is-mimic-thumbnail.png",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Mt Pelerin",
+      "slug": "mtpelerin",
+      "title": "Introducing the Personal Crypto IBAN",
+      "tldr": "A bank transfer arriving directly as crypto in your own wallet, and the reverse. The clearest example of the fiat boundary genuinely disappearing rather than being wrapped.",
+      "link": "https://www.mtpelerin.com/blog/personal-crypto-iban",
+      "image": "https://www.mtpelerin.com/images/personal-iban-thumbnail.jpg",
+      "tag": "Payments"
+    },
+    {
+      "app": "Mt Pelerin",
+      "slug": "mtpelerin",
+      "title": "Zero Fees on the ZCHF Swiss Franc Stablecoin",
+      "tldr": "Worth reading less for the fee change than for the introduction to Frankencoin itself, a Swiss franc stablecoin with a governance model unlike the dollar-backed majority.",
+      "link": "https://www.mtpelerin.com/blog/zero-fees-zchf-frankencoin",
+      "image": "https://www.mtpelerin.com/images/zchf-card-image.png",
+      "tag": "Payments"
+    },
+    {
+      "app": "Nethermind",
+      "slug": "nethermind",
+      "title": "AgentArena Case Study: Adversarial AI Security Analysis for Lido",
+      "tldr": "Pointing adversarial agents at a live staking protocol to see what they find. Interesting for the methodology as much as the findings.",
+      "link": "https://www.nethermind.io/blog/agent-arena-case-study-adversarial-ai-security-analysis-for-lido",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/69b10290c79af872a488af27_AgentArena_Adversarial%20AI%20Auditing%20on%20Lido%20Smart%20Contracts%C2%A0.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Nethermind",
+      "slug": "nethermind",
+      "title": "AuditAgent on EVMBench: What the Data Shows",
+      "tldr": "Benchmarks an AI auditing tool rather than asserting it works. The honest framing, including where it underperforms, is the reason to read it.",
+      "link": "https://www.nethermind.io/blog/auditagent-on-evmbench-what-the-data-shows",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/69f00e050ed1d8eb8902c0ef_AuditAgent_AuditAgent%20Performs%20Against%20Base%20Models.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Nethermind",
+      "slug": "nethermind",
+      "title": "How We Formalized Ethereum Execution: A Semantics of the EVM and Yul in Lean",
+      "tldr": "Writing a machine-checked formal model of the EVM in a proof assistant. Dense and genuinely serious work, and a rare look at what verifying a virtual machine involves.",
+      "link": "https://www.nethermind.io/blog/a-trustworthy-formal-model-of-evm-yul-in-lean",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/698456fc2950369860f36cd4_Nethermind_Formal%20Model%20of%20%20the%20Ethereum%20Virtual%20Machine%20%C2%A0.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Nexus Mutual",
+      "slug": "nexus-mutual",
+      "title": "Real-World Assets, Real Risk",
+      "tldr": "Tokenising a Treasury bill does not remove the issuer, the custodian or the legal wrapper. On the risks RWAs carry that a purely onchain position does not.",
+      "link": "https://nexusmutual.io/blog/real-world-assets-real-risk",
+      "image": "https://framerusercontent.com/images/sjoLC7KG9wFaBNkJ4PF8vr1Cym8.png?width=3840&height=2160",
+      "tag": "Tokenization"
+    },
+    {
+      "app": "Nexus Mutual",
+      "slug": "nexus-mutual",
+      "title": "SKHYNIX Flash Crash on Hyperliquid: Incident Report",
+      "tldr": "A written-up incident on a tokenised equity market rather than a protocol hack. Useful for seeing how thin books and oracle behaviour combine during a fast move.",
+      "link": "https://nexusmutual.io/blog/xyz-skhynix-flash-crash-on-hyperliquid-incident-report",
+      "image": "https://framerusercontent.com/images/znCBiknKnwXFaKXLaj6Dap4ASk.png?width=3840&height=2160",
+      "tag": "Security"
+    },
+    {
+      "app": "Nexus Mutual",
+      "slug": "nexus-mutual",
+      "title": "The State of Crypto Insurance: Q2 2026",
+      "tldr": "A long quarterly read on what onchain cover actually paid out for and where demand moved. Rare visibility into a market that is usually discussed only in the abstract.",
+      "link": "https://nexusmutual.io/blog/the-state-of-crypto-insurance-q2-2026",
+      "image": "https://framerusercontent.com/images/pkSrNqYRarSL8X0F17doWOXaQ70.png?width=1200&height=675",
+      "tag": "Finance"
+    },
+    {
+      "app": "Nolus",
+      "slug": "nolus",
+      "title": "Nolus Web App: An Architectural Evolution",
+      "tldr": "A rewrite writeup that is candid about what the previous architecture made hard. Useful as a look at what a DeFi front end actually has to coordinate.",
+      "link": "https://nolus.io/blog/nolus-web-app-architectural-evolution",
+      "image": "https://nolus.io/blog/assets/nolus-web-app-architectural-evolution/cover.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Nolus",
+      "slug": "nolus",
+      "title": "When the Weakest Link Isn't the Code",
+      "tldr": "Drift Protocol lost $285M in twelve minutes in April 2026 without a smart contract being exploited. On the shift from breaking contracts to breaking the people around them.",
+      "link": "https://nolus.io/blog/when-the-weakest-link-isnt-the-code",
+      "image": "https://nolus.io/blog/assets/when-the-weakest-link-isnt-the-code/cover.webp",
+      "tag": "Security"
+    },
+    {
+      "app": "ONDO",
+      "slug": "ondo",
+      "title": "How Tokenized Stock Collateral Solves the Liquidity Problem for Equity Perps",
+      "tldr": "Perpetuals on equities need collateral that tracks the underlying closely. Explains why tokenised stock fits there, and precisely which liquidity problem it removes.",
+      "link": "https://ondo.finance/blog/tokenized-stock-collateral-for-equity-perps",
+      "image": "https://cdn.sanity.io/images/8k2tqa6n/production/73c75a792f09f65814c0b4a860456308003dda4f-1600x960.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "ONDO",
+      "slug": "ondo",
+      "title": "Introducing the Ondo Network: The Evolution of Ondo Infrastructure",
+      "tldr": "A long design piece on building an execution layer for regulated markets, where the demands around speed and privacy pull in a different direction from a general-purpose chain.",
+      "link": "https://ondo.finance/blog/introducing-the-ondo-network",
+      "image": "https://cdn.sanity.io/images/8k2tqa6n/production/a38530ed7840cb6c782753a5e251994b7adeec37-1600x900.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Onramper",
+      "slug": "onramper",
+      "title": "Best Crypto Onramp Guide: Providers and Aggregators Reviewed",
+      "tldr": "Very long survey of the onramp landscape, comparing coverage by country and payment method. The regional detail is what makes it useful rather than the ranking.",
+      "link": "https://onramper.com/blog/best-crypto-onramp-guide-2026-top-providers-aggregators-reviewed",
+      "image": "https://cdn.prod.website-files.com/67b7793088b7edd898c6368d/69bd4edf200444e75ad49961_Cover-OnrampGuide26.png",
+      "tag": "Payments"
+    },
+    {
+      "app": "Onramper",
+      "slug": "onramper",
+      "title": "Fee-Based Onramp Routing Is Costing You Business",
+      "tldr": "Routing purely on the lowest fee ignores the thing that actually matters, which is whether the payment succeeds at all. On optimising for conversion instead.",
+      "link": "https://onramper.com/blog/fee-based-onramp-routing-is-costing-you-business",
+      "image": "https://cdn.prod.website-files.com/67b7793088b7edd898c6368d/6878fc5d0f6ae4c619d761fd_BL009%20Banner.png",
+      "tag": "Payments"
+    },
+    {
+      "app": "OpenTrade",
+      "slug": "opentrade",
+      "title": "How Stablecoins Are Reshaping B2B Payments",
+      "tldr": "Business-to-business transfer is the fastest-growing use for stablecoins and the least discussed. Covers why the pain there is sharper than in consumer payments.",
+      "link": "https://www.opentrade.io/blog/opentrade.io-blog-stablecoin-b2b-payments",
+      "image": "https://framerusercontent.com/images/MEWZZLzLjqClFoVpnfeN9dKWhO4.png",
+      "tag": "Payments"
+    },
+    {
+      "app": "OpenTrade",
+      "slug": "opentrade",
+      "title": "How to Evaluate Stablecoin Yield Risks: A Guide for Fintechs",
+      "tldr": "Five risks to work through before shipping a yield product, starting with counterparty exposure and liquidity. Written for someone who will be accountable for the answer.",
+      "link": "https://www.opentrade.io/blog/blog-stablecoin-yield-risks-fintechs",
+      "image": "https://framerusercontent.com/images/MEWZZLzLjqClFoVpnfeN9dKWhO4.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "OpenTrade",
+      "slug": "opentrade",
+      "title": "Stablecoin Yield Explained: Why Rates Beat Traditional Banks",
+      "tldr": "The gap is not magic, it is a shorter chain of intermediaries each taking a cut. Traces where the extra return genuinely comes from and where it is being borrowed against risk.",
+      "link": "https://www.opentrade.io/blog/blog-stablecoin-yield-explained",
+      "image": "https://framerusercontent.com/images/MEWZZLzLjqClFoVpnfeN9dKWhO4.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Orange Protocol",
+      "slug": "orange-protocol",
+      "title": "Private Proof-of-Funds for OTC Deals and Launchpad Access",
+      "tldr": "Using zkTLS to prove you meet an exchange's balance threshold without revealing the account or the balance. A neat, narrow application of a general technique.",
+      "link": "https://www.orangeprotocol.io/blog/private-proof%e2%80%91of%e2%80%91funds-for-otc-deals-launchpad-spots-and-vip-access/",
+      "image": "https://www.orangeprotocol.io/blog/wp-content/uploads/2025/09/zkTLS-ppt-template.pptx-5.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Orange Protocol",
+      "slug": "orange-protocol",
+      "title": "Reputation in Web2 vs Web3, Explained",
+      "tldr": "Opens on the real problem: your Uber rating is worthless on Airbnb and LinkedIn endorsements mean nothing on Discord. Long piece on why reputation stays fenced in.",
+      "link": "https://www.orangeprotocol.io/blog/orange-protocol-reputation-in-web2-vs-web3-explained/",
+      "image": "https://www.orangeprotocol.io/blog/wp-content/uploads/2025/11/The-Reputation-Layer-Template.pptx-2.png",
+      "tag": "Identity"
+    },
+    {
+      "app": "Orange Protocol",
+      "slug": "orange-protocol",
+      "title": "Why Reputation Is the New Currency in Web3",
+      "tldr": "Pseudonymous systems remove the usual anchors for trust, then have to rebuild something in their place. Works through what a portable reputation would actually need to satisfy.",
+      "link": "https://www.orangeprotocol.io/blog/orange-protocol-why-reputation-is-the-new-currency-in-web3/",
+      "image": "https://www.orangeprotocol.io/blog/wp-content/uploads/2025/10/The-Reputation-Layer-Template.pptx.png",
+      "tag": "Identity"
+    },
+    {
+      "app": "OrangeDAO",
+      "slug": "orange-dao",
+      "title": "A Fund GP on the Crypto Founder's Zero-to-One Journey",
+      "tldr": "The investor's side of very early crypto companies: what gets funded, what does not, and which signals a GP is actually reading.",
+      "link": "https://www.orangedao.xyz/blog/orange-fund-gp-on-crypto-founders-zero-to-one-journey",
+      "image": "https://framerusercontent.com/images/emIWpUzt7AIiK3J87SG1PJqcww.jpg",
+      "tag": "Finance"
+    },
+    {
+      "app": "OrangeDAO",
+      "slug": "orange-dao",
+      "title": "Lessons in Entrepreneurship With Ben Huh",
+      "tldr": "A founder conversation that stays concrete about early decisions rather than drifting into advice. Useful if you are near the start of building something.",
+      "link": "https://www.orangedao.xyz/blog/lessons-in-entrepreneurship-with-ben-huh",
+      "image": "https://framerusercontent.com/images/emIWpUzt7AIiK3J87SG1PJqcww.jpg",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Orca",
+      "slug": "orca",
+      "title": "A Complete Guide to Orca's Liquidity Terminal",
+      "tldr": "A full walkthrough of tooling built to turn liquidity provision from guesswork into measured allocation. Useful even if you provide liquidity somewhere else.",
+      "link": "https://blog.orca.so/the-only-lp-terminal-you-need-on-solana-a-complete-guide-to-orcas-liquidity-terminal/",
+      "image": "https://storage.ghost.io/c/c0/a1/c0a18033-d424-4a1c-a821-a9222884efef/content/images/size/w1200/2026/05/Product-Liquidity-Terminal.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Orca",
+      "slug": "orca",
+      "title": "Orca Is Becoming a Platform for Every Capital Allocator on Solana",
+      "tldr": "A DEX arguing its own ceiling is higher than exchange. Worth reading as a statement of where AMM infrastructure thinks it is heading next.",
+      "link": "https://blog.orca.so/orca-is-becoming-a-platform-for-every-capital-allocator-on-solana/",
+      "image": "https://storage.ghost.io/c/c0/a1/c0a18033-d424-4a1c-a821-a9222884efef/content/images/size/w1200/2026/05/Key-Announcement-Vaults-1.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Orca",
+      "slug": "orca",
+      "title": "The Full Picture for Liquidity Provision in One Place",
+      "tldr": "Covers pool filters, position monitoring and the numbers an LP actually needs to see. Good on why scattered information leads to bad range decisions.",
+      "link": "https://blog.orca.so/the-full-picture-for-liquidity-provision-in-one-place/",
+      "image": "https://storage.ghost.io/c/c0/a1/c0a18033-d424-4a1c-a821-a9222884efef/content/images/size/w1200/2026/05/liquidityprovisiongraphicv2.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Orderly Network",
+      "slug": "orderly-network",
+      "title": "How to Create a Perp DEX Without Writing Any Code",
+      "tldr": "Spinning up an exchange in minutes on shared liquidity. Worth reading for what it reveals about which parts of an exchange are commodity infrastructure now.",
+      "link": "https://orderly.network/blog/create-a-perp-dex",
+      "image": "https://orderly.network/uploads/blog/create-a-perp-dex/perp%20dex.jpg",
+      "tag": "Trading"
+    },
+    {
+      "app": "Orderly Network",
+      "slug": "orderly-network",
+      "title": "Multi-Collateral Margin",
+      "tldr": "Funding a position with USDC, USDT or ETH sounds like a convenience feature and is really a risk-engine change. Covers what has to be handled behind it.",
+      "link": "https://orderly.network/blog/MultiColat",
+      "image": "https://oss.orderly.network/static/blog/small_2collatera2l_1_5eefe7df6e.jpg",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Orderly Network",
+      "slug": "orderly-network",
+      "title": "Permissionless Listings on Orderly",
+      "tldr": "Letting any venue list and manage its own assets moves the listing decision away from a central gatekeeper, and moves the risk with it.",
+      "link": "https://orderly.network/blog/permissionless-listings-are-live-on-orderly",
+      "image": "https://oss.orderly.network/static/blog/small_HE_59_s_Oao_AA_Elbq_8b6f6dcc06.jpeg",
+      "tag": "Finance"
+    },
+    {
+      "app": "Ostium",
+      "slug": "ostium",
+      "title": "Trading Real World Assets Without a Broker",
+      "tldr": "Long piece on what changes when exposure to commodities or equities is taken directly onchain rather than through an intermediary, including what the broker was actually doing for you.",
+      "link": "https://ostium.com/blog/brokerless-real-world-asset-platform-trade-rwa-in-2026",
+      "image": "",
+      "tag": "Tokenization"
+    },
+    {
+      "app": "OtoCo",
+      "slug": "otoco",
+      "title": "Best State to Form a US LLC as a Foreigner",
+      "tldr": "Wyoming against Delaware, and the cases where neither is the right answer. Structured as a decision guide rather than a ranking, which is what the question actually needs.",
+      "link": "https://blog.otoco.io/best-state-to-form-a-us-llc-as-a-foreigner-2026/",
+      "image": "https://storage.ghost.io/c/6e/a8/6ea8e171-c236-45c5-97ae-d3e5e20c5cbb/content/images/size/w1200/2026/07/04-best-state-cover-2x.png",
+      "tag": "Regulation"
+    },
+    {
+      "app": "OtoCo",
+      "slug": "otoco",
+      "title": "LLC for a Token Launch: The Legal Setup Founders Miss",
+      "tldr": "Who owns the treasury, who owns the IP, and what the entity is actually for. These get decided by accident before a launch far more often than they get decided deliberately.",
+      "link": "https://blog.otoco.io/llc-for-a-token-launch-the-legal-setup-founders-miss/",
+      "image": "https://storage.ghost.io/c/6e/a8/6ea8e171-c236-45c5-97ae-d3e5e20c5cbb/content/images/size/w1200/2026/08/llc-token-launch-cover-2x.png",
+      "tag": "Regulation"
+    },
+    {
+      "app": "OtoCo",
+      "slug": "otoco",
+      "title": "Pass-Through Taxation for Foreign-Owned US LLCs, in Plain English",
+      "tldr": "Separates what a non-US owner genuinely owes from what they merely have to file, which are very different lists and the source of most of the confusion.",
+      "link": "https://blog.otoco.io/pass-through-taxation-for-foreign-owned-us-llcs-plain-english/",
+      "image": "https://storage.ghost.io/c/6e/a8/6ea8e171-c236-45c5-97ae-d3e5e20c5cbb/content/images/size/w1200/2026/07/pass-through-tax-cover-2x-1.png",
+      "tag": "Regulation"
+    },
+    {
+      "app": "Ownbit",
+      "slug": "ownbit",
+      "title": "Wallet Entropy and the Coldcard Incident, Explained",
+      "tldr": "A silent fallback in the random number generator cut seed entropy from 128 bits to 40, which is the difference between unbreakable and brute-forceable. Ends with five questions to ask your own device.",
+      "link": "https://ownbit.io/en/blog/wallet-entropy-coldcard-incident/",
+      "image": "https://ownbit.io/assets/images/blog/wallet-entropy-coldcard-incident/cover.svg",
+      "tag": "Security"
+    },
+    {
+      "app": "Paraswap",
+      "slug": "paraswap",
+      "title": "Guarded Swaps: Best Price Without the Fail Rate",
+      "tldr": "RFQ and proprietary AMM quotes are often the best price available and the first to expire between click and confirmation. On keeping the quote alive long enough to fill.",
+      "link": "https://www.velora.xyz/articles/guarded-swaps-on-velora",
+      "image": "https://framerusercontent.com/images/zuSZ1DzX7FCIKMlYBIzfZqvzJNw.png?width=7680&height=4320",
+      "tag": "Trading"
+    },
+    {
+      "app": "Paraswap",
+      "slug": "paraswap",
+      "title": "How Large Trades Impact Your Execution (And How to Avoid It)",
+      "tldr": "Size moves the price against you before the trade even completes. Explains how splitting an order over time reduces slippage and where that stops helping.",
+      "link": "https://www.velora.xyz/articles/twap-execution-large-trades",
+      "image": "https://framerusercontent.com/images/THL6GDvvJ4GKdountKyUFS7GtI.png?width=7680&height=4320",
+      "tag": "Trading"
+    },
+    {
+      "app": "Paraswap",
+      "slug": "paraswap",
+      "title": "The End of the Bridge: A Cross-Chain Execution Layer",
+      "tldr": "Argues the bridge should disappear behind execution rather than being a step the user performs. Covers hybrid execution, MEV protection and gasless flows.",
+      "link": "https://www.velora.xyz/articles/the-end-of-the-bridge-a-cross-chain-execution-layer-for-web3-dapps",
+      "image": "https://framerusercontent.com/images/n6YYq8sEAp9SaCk9FeB0rzyk3kw.png?width=7680&height=4320",
+      "tag": "Trading"
+    },
+    {
+      "app": "Portal",
+      "slug": "Portal",
+      "title": "MPC Wallets",
+      "tldr": "A short primer on splitting a key so no single party ever holds it whole, and what that means for recovery when one share is lost.",
+      "link": "https://www.portalhq.io/guides/mpc-wallets",
+      "image": "https://cdn.prod.website-files.com/63f4977057c72b328b5368ca/65efd257eb815149d0a951b4_Portalhq%20opengraph.jpg",
+      "tag": "Security"
+    },
+    {
+      "app": "Portal",
+      "slug": "Portal",
+      "title": "Understanding Stablecoins",
+      "tldr": "Covers what keeps a peg in place and the different mechanisms issuers use to defend it. Brief, and a reasonable starting point before anything more technical.",
+      "link": "https://www.portalhq.io/guides/understanding-stablecoins",
+      "image": "https://cdn.prod.website-files.com/63f4977057c72b328b5368ca/65efd257eb815149d0a951b4_Portalhq%20opengraph.jpg",
+      "tag": "Payments"
+    },
+    {
+      "app": "Quicknode SDK",
+      "slug": "quicknode-sdk",
+      "title": "Earn API: Automated USDC Yield in Your App",
+      "tldr": "Creating and closing yield strategies over plain HTTP, non-custodially, across seven chains. Interesting for how thin the integration surface has become.",
+      "link": "https://www.quicknode.com/blog/introducing-the-quicknode-earn-api-automated-usdc-yield-in-your-app",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/5aMVnJLGfuIfexuMZ801an/aedf2c42d934b24e881f52b350538cf4/1200x630__3_.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Quicknode SDK",
+      "slug": "quicknode-sdk",
+      "title": "Hyperliquid Fees Explained: Developer Costs",
+      "tldr": "Long and specific on what it costs to build on Hyperliquid: infrastructure, HyperEVM gas, HIP-3 and HIP-4, and the ways those costs can be offset.",
+      "link": "https://www.quicknode.com/blog/hyperliquid-developer-costs",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/6daVDd7bjIJ4jdFE4ND0t8/812d2b49505577853527dd988380e921/hyperliquid-fees-explained.jpg",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Quicknode SDK",
+      "slug": "quicknode-sdk",
+      "title": "What Is a DATCO? A Digital Asset Treasury Guide",
+      "tldr": "Plain explanation of how digital asset treasury companies raise capital, deploy it, and the mNAV arithmetic that determines whether they trade at a premium or a discount.",
+      "link": "https://www.quicknode.com/blog/digital-asset-treasury-companies",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/2Q1u6eJKfdsj9tVRezyKqG/a76e6bc45c6e90822ee0c0df5ee11b77/datco-complete-guide-2026-uniform__2_.png",
+      "tag": "Governance"
+    },
+    {
+      "app": "Radom",
+      "slug": "radom",
+      "title": "Cloudflare Starts Wallet Rollout for AI Agents",
+      "tldr": "Programmable wallets from an infrastructure company that already sits in front of much of the web. Notable for who is doing it rather than what is being built.",
+      "link": "https://www.radom.com/insights/cloudflare-ai-agents-stablecoin-wallet-rollout",
+      "image": "https://images.pexels.com/photos/29502369/pexels-photo-29502369.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=830&w=1200&fit=crop",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Radom",
+      "slug": "radom",
+      "title": "How BlackRock's Tokenized Treasury Funds Are Changing Stablecoin Reserves",
+      "tldr": "Two money market funds aimed specifically at backing stablecoins. A sign that reserve management is becoming its own product category rather than an internal function.",
+      "link": "https://www.radom.com/insights/blackrock-tokenized-treasury-funds-stablecoin-reserves",
+      "image": "https://images.pexels.com/photos/27425624/pexels-photo-27425624.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=830&w=1200&fit=crop",
+      "tag": "Payments"
+    },
+    {
+      "app": "Radom",
+      "slug": "radom",
+      "title": "Wells Fargo's Tokenized Deposits Show Where Settlement Is Heading",
+      "tldr": "A major bank offering round-the-clock dollar-to-pound transfers for corporate clients. Tokenised deposits differ from stablecoins in ways this makes clear.",
+      "link": "https://www.radom.com/insights/wells-fargo-tokenized-deposits-settlement-rails",
+      "image": "https://images.pexels.com/photos/29857218/pexels-photo-29857218.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=830&w=1200&fit=crop",
+      "tag": "Tokenization"
+    },
+    {
+      "app": "REAP",
+      "slug": "reap",
+      "title": "Agentic Commerce: How AI Agents Pay",
+      "tldr": "Surveys the payment methods an autonomous agent can actually use today, and what each one requires the merchant on the other side to accept.",
+      "link": "https://reap.global/blog/agentic-payments",
+      "image": "https://cdn.prod.website-files.com/682c2f22e6ee2bd77906f100/6a17ea638174a1fa61cd5f97_Agentic-Commerce-What-Is-Blog.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "REAP",
+      "slug": "reap",
+      "title": "AI Agents Using Credit Cards: Is It Safe? Will It Work?",
+      "tldr": "Card rails assume a human is present and can dispute a charge later. Examines what breaks when the cardholder is software, and which protections quietly stop applying.",
+      "link": "https://reap.global/blog/agentic-payments-credit-card-security",
+      "image": "https://cdn.prod.website-files.com/682c2f22e6ee2bd77906f100/6a744f782f13080ad25bfa48_Is%20It%20Safe%20to%20Give%20AI%20Agents%20Your%20Credit%20Card_.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "REAP",
+      "slug": "reap",
+      "title": "Business Credit Cards for SMEs: A Spend Control Guide",
+      "tldr": "Long and practical on the part that matters after issuing cards: limits, approval routing and catching the spend you did not authorise before the statement arrives.",
+      "link": "https://reap.global/blog/business-credit-cards-sme-spend-control",
+      "image": "https://cdn.prod.website-files.com/682c2f22e6ee2bd77906f100/69d539e166c196632384b65c_What%20SMEs%20Should%20Look%20for%20in%20a%20Business%20Credit%20Card.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Rise In",
+      "slug": "rise-in",
+      "title": "How to Design Web3 Hackathon Tracks and Prizes",
+      "tldr": "Track design quietly determines who bothers entering and whether judging can be fair. Works through both, which most hackathon advice skips entirely.",
+      "link": "https://www.risein.com/guide/hackathon-tracks-and-prizes-guide",
+      "image": "https://files.risein.com/seo/program-seo.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Rise In",
+      "slug": "rise-in",
+      "title": "How to Organize a Web3 Hackathon That Creates Real Builder Outcomes",
+      "tldr": "Very long and genuinely operational: goals, tracks, promotion, workshops, judging, and the post-event follow-through that decides whether anything survives the weekend.",
+      "link": "https://www.risein.com/guide/hackathon-organizer-guide",
+      "image": "https://files.risein.com/seo/program-seo.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Rise In",
+      "slug": "rise-in",
+      "title": "Web3 Hackathon Timeline: A Step-by-Step Planning Guide",
+      "tldr": "The whole run in order, from strategy and promotion through onboarding, submissions and reporting. Useful even if you are only attending, to see what shapes the event.",
+      "link": "https://www.risein.com/guide/hackathon-timeline-guide",
+      "image": "https://files.risein.com/seo/program-seo.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Rocko",
+      "slug": "rocko",
+      "title": "Account Abstraction and the Future of DeFi",
+      "tldr": "Approaches account abstraction from the borrowing side rather than the wallet side, which surfaces different questions about who can act on a position and when.",
+      "link": "https://rocko.co/learn/account-abstraction-and-the-future-of-defi/",
+      "image": "https://rocko.co/learn/posts/reading2.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Rocko",
+      "slug": "rocko",
+      "title": "CeFi vs DeFi Loans: Which Is Better?",
+      "tldr": "The longest piece here and the most useful: what changes about custody, liquidation and recourse depending on who is holding your collateral.",
+      "link": "https://rocko.co/learn/cefi-vs-defi-loans-which-is-better/",
+      "image": "https://rocko.co/learn/posts/reading2.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Rocko",
+      "slug": "rocko",
+      "title": "How to Take Out a Crypto-Backed Loan, Step by Step",
+      "tldr": "Borrowing against crypto rather than selling it changes your tax position and adds a liquidation price you now have to watch. Walks the actual mechanics of doing it.",
+      "link": "https://rocko.co/learn/how-to-take-out-a-crypto-backed-loan-in-minutes-using-Rocko/",
+      "image": "https://rocko.co/learn/posts/howToTakeOutLoanCoverPic.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Rust",
+      "slug": "rust",
+      "title": "Fearless Concurrency With Rust",
+      "tldr": "The post that explained why Rust's ownership rules eliminate data races at compile time rather than at runtime. Still the clearest statement of the language's central bet.",
+      "link": "https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency/",
+      "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
+      "tag": "Explainer"
+    },
+    {
+      "app": "Rust",
+      "slug": "rust",
+      "title": "Stability as a Deliverable",
+      "tldr": "Treats not breaking your users as a feature to be engineered rather than a promise to be made. The reasoning here shaped how Rust ships to this day.",
+      "link": "https://blog.rust-lang.org/2014/10/30/Stability/",
+      "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
+      "tag": "Finance"
+    },
+    {
+      "app": "Rust",
+      "slug": "rust",
+      "title": "The Road to Rust 1.0",
+      "tldr": "What the team decided had to be true before calling a language finished enough to commit to. Useful reading for anyone versioning a protocol or an API.",
+      "link": "https://blog.rust-lang.org/2014/09/15/Rust-1.0/",
+      "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Safeheron",
+      "slug": "safeheron",
+      "title": "594.5 BTC Gone: When Trusted Hardware Fails",
+      "tldr": "Around 500 addresses drained in a short window, 1,324 UTXOs in total. A careful write-up of what happens when the hardware you trusted turns out to be the weakness.",
+      "link": "https://safeheron.com/blog/over-500-btc-gone-when-trusted-hardware-fails/",
+      "image": "https://safeheron.com/wp-content/uploads/2026/08/EN-Banner.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Safeheron",
+      "slug": "safeheron",
+      "title": "The Triple-A Attack and a Review of July's Security Incidents",
+      "tldr": "A month of failures collected in one place, starting with a treasury breach. Reading incidents in aggregate reveals patterns that individual post-mortems miss.",
+      "link": "https://safeheron.com/blog/triplea-attack-and-technical-security-incidents-july-2026/",
+      "image": "https://safeheron.com/wp-content/uploads/2026/07/TripleA-7&#26376;-&#20107;&#20214;EN-Banner-new.png",
+      "tag": "Security"
+    },
+    {
+      "app": "SafePal",
+      "slug": "safepal",
+      "title": "Security Tips and Best Practices for Web3 Wallets",
+      "tldr": "Broad but practical: approvals, phishing, backup handling and the everyday habits that account for most avoidable losses. Long enough to be worth the read.",
+      "link": "https://www.safepal.com/en/blog/web3-wallet-security",
+      "image": "https://blogcontent.safepal.com/uploads/2026/07/img_v3_0213k_a6dde514-ab16-4b41-a10d-cb84fdc27dhu-scaled.png",
+      "tag": "Security"
+    },
+    {
+      "app": "SafePal",
+      "slug": "safepal",
+      "title": "Why a Recovery Phrase Must Be Truly Random",
+      "tldr": "A seed is only as strong as the entropy behind it, and hardware random number generation is where that quietly goes wrong. Goes into the actual TRNG design.",
+      "link": "https://www.safepal.com/en/blog/hw-firmware-trng",
+      "image": "https://blogcontent.safepal.com/uploads/2026/08/img_v3_02145_48f9e725-6cea-4da6-8419-7f83a1cd1chu.png",
+      "tag": "Security"
+    },
+    {
+      "app": "Saros",
+      "slug": "saros",
+      "title": "Building Internet Capital Markets: RWAs, Stablecoins and BTC",
+      "tldr": "A founder's thesis piece on how those three pieces fit together on Solana. Opinionated rather than instructional, and clearer for it.",
+      "link": "https://blog.saros.xyz/p/building-internet-capital-markets",
+      "image": "https://substackcdn.com/image/fetch/$s_!fmK6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c3901d0-2b5b-4f70-a5f1-e31e18442b88_5824x4192.png",
+      "tag": "Tokenization"
+    },
+    {
+      "app": "Saros",
+      "slug": "saros",
+      "title": "Introducing Concentrated Incentives on Saros DLMM",
+      "tldr": "Streaming rewards only to liquidity sitting at the market price, rather than spraying them across the whole curve. A direct answer to incentives that buy depth nobody trades against.",
+      "link": "https://blog.saros.xyz/p/introducing-concentrated-incentives",
+      "image": "https://substackcdn.com/image/fetch/$s_!XoEG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F829346be-3527-4383-aa64-0f2b16a06d0e_5824x4192.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "SentismAI",
+      "slug": "sentismai",
+      "title": "Ever Wondered What APY Really Means?",
+      "tldr": "Vaults advertise 10%, 20%, sometimes 100%+ and the number rarely means what a reader assumes. Unpacks compounding, emissions and what is being quietly annualised.",
+      "link": "https://blog.sentism.ai/ever-wondered-what-apy-really-means/",
+      "image": "https://blog.sentism.ai/content/images/2025/10/RWA-x-AI-Agents_.jpg",
+      "tag": "DeFi"
+    },
+    {
+      "app": "SentismAI",
+      "slug": "sentismai",
+      "title": "Navigating Risk in DeFi: How OneRouter Builds Resilience",
+      "tldr": "Routing across protocols means inheriting the weakest one's risk. Covers how a router limits that exposure rather than assuming every venue behaves.",
+      "link": "https://blog.sentism.ai/navigating-risk-in-defi-how-onerouter-builds-resilience/",
+      "image": "https://blog.sentism.ai/content/images/2025/09/RWA-x-AI-Agents_-1.jpg",
+      "tag": "DeFi"
+    },
+    {
+      "app": "SentismAI",
+      "slug": "sentismai",
+      "title": "x402: The Payment Layer for the Agentic Internet",
+      "tldr": "As tasks shift from humans clicking to agents executing, something has to settle payment machine-to-machine. On why an old HTTP status code became the candidate.",
+      "link": "https://blog.sentism.ai/x402-protocol-the-ordinals-of-the-ai-era-and-the-payment-layer-for-the-agentic-internet/",
+      "image": "https://blog.sentism.ai/content/images/2025/10/RWA-x-AI-Agents_-1.jpg",
+      "tag": "Payments"
+    },
+    {
+      "app": "Sherlock",
+      "slug": "sherlock",
+      "title": "A Complete Guide to Solidity Security Audits for Web3 Protocols",
+      "tldr": "What an audit engagement involves from the protocol's side: how scope gets set, what reviewers will and will not look at, and how to actually read the report you get back.",
+      "link": "https://sherlock.xyz/post/a-complete-guide-to-solidity-security-audits-for-web3-protocols",
+      "image": "https://cdn.prod.website-files.com/688c43c7cd606083ecbbec8b/690900e4d6d203a6d9240bb9_solidity%20guide%20blog.avif",
+      "tag": "Security"
+    },
+    {
+      "app": "Sherlock",
+      "slug": "sherlock",
+      "title": "Agentic AI Security Risks in Web3: What Protocols Need to Know",
+      "tldr": "Agents acting onchain widen the attack surface in ways a point-in-time audit was never designed to catch. Sets out the failure modes protocols should be planning around now.",
+      "link": "https://sherlock.xyz/post/agentic-ai-security-risks-in-web3-what-protocols-need-to-know-in-2026",
+      "image": "https://cdn.prod.website-files.com/688c43c7cd606083ecbbec8b/69a09c8e8b7dc156f26259ab_392967601.png",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Sherlock",
+      "slug": "sherlock",
+      "title": "Best Web3 Bug Bounties in 2026: The Highest-Paying Programs",
+      "tldr": "Surveys what the top programmes pay across every major platform. More interesting as a read on how protocols privately price their own risk than as a job board.",
+      "link": "https://sherlock.xyz/post/best-web3-bug-bounties-in-2026-the-highest-paying-programs-on-every-platform",
+      "image": "https://cdn.prod.website-files.com/688c43c7cd606083ecbbec8b/69c1516b83bbc5ec420fe790_2.png",
+      "tag": "Research"
+    },
+    {
+      "app": "Solayer",
+      "slug": "solayer",
+      "title": "sBridge: Purpose-Built Interoperability for SVM Networks",
+      "tldr": "A bridge designed for one virtual machine family rather than for everything. Narrowing the problem changes what security assumptions are available.",
+      "link": "https://solayer.org/resources/blog/sbridge-by-solayer-purpose-built-interoperability-for-svm-networks",
+      "image": "https://framerusercontent.com/images/gXos5iern3KgRfBEGVxsxVBDoMw.jpeg?width=1280&height=731",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Solayer",
+      "slug": "solayer",
+      "title": "Seeding Real-Time Ideas on InfiniSVM",
+      "tldr": "What applications become possible once execution is fast enough to feel synchronous, written as a survey of ideas rather than a product pitch.",
+      "link": "https://solayer.org/resources/blog/seeding-real-time-ideas-on-infinisvm-with-hackvc",
+      "image": "https://framerusercontent.com/images/3YLk1Xaw8mKn4ddSdhvEzsOe4U.png?width=2398&height=1348",
+      "tag": "Trading"
+    },
+    {
+      "app": "Spruce",
+      "slug": "spruce",
+      "title": "Using a Mobile Driver's License at the Airport: How TSA mDL Acceptance Works",
+      "tldr": "Behind one tap at a checkpoint sits a chain of trust and a pile of interoperability standards. Traces that chain, which is the clearest worked example of digital ID in production.",
+      "link": "https://blog.spruceid.com/interoperability-using-a-mobile-drivers-license-at-the-airport-how-tsa-checkpoint-mdl-acceptance-works/",
+      "image": "https://storage.ghost.io/c/1c/80/1c8003a5-fff1-4a96-8748-8ad268c1a7c6/content/images/size/w1200/2026/07/elissa_clouds_in_the_sky_over_mountains_--ar_43_--sref_195452_bdefdee6-cf77-4354-815e-fbf0fd48598e_0-1.png",
+      "tag": "Identity"
+    },
+    {
+      "app": "Spruce",
+      "slug": "spruce",
+      "title": "What Is Device Binding, and How Does It Stop a Stolen Digital ID Being Reused?",
+      "tldr": "A digital credential that can be copied is worth very little. Device binding is the cryptographic layer that ties one to a single phone, and this explains how.",
+      "link": "https://blog.spruceid.com/what-is-device-binding-and-how-does-it-keep-a-stolen-digital-id-from-being-reused/",
+      "image": "https://storage.ghost.io/c/1c/80/1c8003a5-fff1-4a96-8748-8ad268c1a7c6/content/images/size/w1200/2026/07/elissa_snowy_peaks_--ar_43_--sref_1954524072_--v_7_c2fc1db6-c4f0-4f85-b5c7-81db82d317a8_0-1.png",
+      "tag": "Identity"
+    },
+    {
+      "app": "Spruce",
+      "slug": "spruce",
+      "title": "What Is Selective Disclosure, and How Do Verifiable Credentials Reveal Only What's Needed?",
+      "tldr": "Showing a driving licence to prove your age hands over your address too. Selective disclosure turns that oversharing into proving exactly one fact and nothing more.",
+      "link": "https://blog.spruceid.com/digitalidentity-what-is-selective-disclosure-and-how-do-verifiable-digital-credentials-reveal-only-whats-needed/",
+      "image": "https://storage.ghost.io/c/1c/80/1c8003a5-fff1-4a96-8748-8ad268c1a7c6/content/images/size/w1200/2026/07/elissa_golden_meadow_at_dawn_--ar_43_--sref_1954524072_--v_7_2205eca5-d1d4-459b-9722-1140605350c3_2-1-1.png",
+      "tag": "Identity"
+    },
+    {
+      "app": "StakeDAO academy",
+      "slug": "stakedao-academy",
+      "title": "Votemarket Incident Disclosure",
+      "tldr": "A second published post-mortem from the same team. Protocols that disclose properly, twice, are worth reading precisely because most disclose once and quietly.",
+      "link": "https://www.stakedao.org/blog/incident-disclosure-12-03-2026",
+      "image": "https://www.stakedao.org/hero.png",
+      "tag": "Security"
+    },
+    {
+      "app": "StakeDAO academy",
+      "slug": "stakedao-academy",
+      "title": "vsdCRV Incident Disclosure",
+      "tldr": "A compromised deployer key used to forge unbacked tokens on Arbitrum, written up with the timeline and the fix. Key compromise, not contract logic, which is the more common failure.",
+      "link": "https://www.stakedao.org/blog/incident-disclosure-27-05-2026",
+      "image": "https://www.stakedao.org/hero.png",
+      "tag": "Security"
+    },
+    {
+      "app": "StakeWise",
+      "slug": "stakewise",
+      "title": "Diversified Staking With MetaVaults",
+      "tldr": "Routing deposits across several underlying vaults instead of running validators directly. Explains what that spreads out and what it does not, which matters for slashing exposure.",
+      "link": "https://blog.stakewise.io/guide/diversified-staking-with-metavaults",
+      "image": "https://images.ctfassets.net/qp58gszk1081/15r2ZOLB2L30ZE3pQ3zmPv/1ce127f9675635196b20ec9301d5d18b/IMG_5129__1_.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "StakeWise",
+      "slug": "stakewise",
+      "title": "Leveraged osETH/WETH Looping Strategy on Gearbox",
+      "tldr": "Walks a leveraged staking loop end to end with the actual numbers attached. Useful precisely because it shows where the yield comes from and what liquidates it.",
+      "link": "https://blog.stakewise.io/guide/leveraged-oseth-weth-looping-strategy-on-gearbox",
+      "image": "https://images.ctfassets.net/qp58gszk1081/1hmPl2smpclbdYfQ8ciujT/30abfa62c22c7a1f7e1aa6da60cd5574/osETH_on_Gearbox.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "StakeWise",
+      "slug": "stakewise",
+      "title": "Setting Up Per-Client MetaVaults",
+      "tldr": "How one validator fleet can serve several clients with separate staking experiences. Operationally specific in a way most staking content avoids.",
+      "link": "https://blog.stakewise.io/guide/setting-up-per-client-metavaults",
+      "image": "https://images.ctfassets.net/qp58gszk1081/2hnfiLXBylls8DYi5bfuWa/135fd6efdb3ed14519db9935a8fe8450/Setting_Up_Per-Client_Meta_Vaults__1_.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "STON.fi",
+      "slug": "stonfi",
+      "title": "Cross-Chain Swaps Are Not a Feature, They're the New Default",
+      "tldr": "Bridges, atomic swaps and resolver-based HTLC each handle custody differently, and the difference decides who holds your asset mid-transfer. Read before moving anything.",
+      "link": "https://blog.ston.fi/cross-chain-swaps-is-not-a-feature-its-the-new-default-for-defi/",
+      "image": "https://blog.ston.fi/wp-content/uploads/2026/08/cross-chain-swaps-is-not-a-feature-%E2%80%94-its-the-new-default-for-defi-1024x537.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "STON.fi",
+      "slug": "stonfi",
+      "title": "DeFi Protocols Across Chains: Same Brand, Different Game?",
+      "tldr": "A protocol on Ethereum and the same protocol on Base share a name and little else. Compares liquidity, fees and token availability across deployments.",
+      "link": "https://blog.ston.fi/defi-protocols-across-chains-same-brand-different-game/",
+      "image": "https://blog.ston.fi/wp-content/uploads/2026/07/defi-protocols-across-chains-same-brand-different-game.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "STON.fi",
+      "slug": "stonfi",
+      "title": "Do Cross-Chain Bridge Users Get Better DeFi Rewards?",
+      "tldr": "Wallet data suggesting bridge users run more deliberate strategies, set against the fees that quietly erode the difference. Data-led rather than asserted.",
+      "link": "https://blog.ston.fi/do-cross-chain-bridge-users-get-better-defi-rewards-what-wallet-data-shows/",
+      "image": "https://blog.ston.fi/wp-content/uploads/2026/07/do-cross-chain-bridge-users-get-better-defi-rewards-what-wallet-data-shows.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "SundaeSwap",
+      "slug": "sundaeswap",
+      "title": "Building a Strategies Platform for Cardano DeFi",
+      "tldr": "What has to exist before automated strategies can run on a UTXO chain, where the execution model differs sharply from account-based DeFi.",
+      "link": "https://sundae.fi/blog/building-a-strategies-platform-for-cardano-defi",
+      "image": "https://images.prismic.io/sundae-labs-website/aHAGFkMqNJQqHxSm_sundae_strategies_banner.png?auto=format,compress",
+      "tag": "DeFi"
+    },
+    {
+      "app": "SundaeSwap",
+      "slug": "sundaeswap",
+      "title": "Building the Hydra Transaction Stream Plugin",
+      "tldr": "Extending Cardano's layer 2 with a plugin for streaming transactions. A concrete look at what Hydra makes possible and what it demands in return.",
+      "link": "https://sundae.fi/blog/building-hydra-transaction-stream-plugin-cardano-layer-2",
+      "image": "https://images.prismic.io/sundae-labs-website/aJoyxKTt2nPbaLWz_rokindo_httpss.mj.runsBqPbIcR2tM_Resize_by_extending_the_back_95dfa570-464d-423c-a25d-5d2acfa2763c_3_og.png?auto=format,compress",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Syndica",
+      "slug": "syndica",
+      "title": "Deep Dive: Solana DApp Revenue",
+      "tldr": "Revenue is the least flattering metric to publish and the most informative. Breaks down which applications on Solana genuinely earn and how much.",
+      "link": "https://blog.syndica.io/deep-dive-solana-dapps-revenue-april-2026/",
+      "image": "https://storage.ghost.io/c/3b/ff/3bff990a-a440-478a-adc9-e55d775c0099/content/images/size/w1200/2026/05/Deep-Dive---Solana-DApps-Revenue-April-2026_page-0001.jpg",
+      "tag": "Finance"
+    },
+    {
+      "app": "Syndica",
+      "slug": "syndica",
+      "title": "Deep Dive: Solana Developers",
+      "tldr": "Tracks developer activity rather than price or TVL, which tends to lead the other two. Worth reading for how the measurement itself is constructed.",
+      "link": "https://blog.syndica.io/deep-dive-solana-developers-may-2026/",
+      "image": "https://storage.ghost.io/c/3b/ff/3bff990a-a440-478a-adc9-e55d775c0099/content/images/size/w1200/2026/06/Deep-Dive_-Solana-Developers---May-2026-000.png",
+      "tag": "Finance"
+    },
+    {
+      "app": "Syndica",
+      "slug": "syndica",
+      "title": "Deep Dive: Solana Onchain Activity",
+      "tldr": "A monthly data read on what Solana is actually being used for, broken out rather than reported as one headline number. Long, and closer to a research note than a blog post.",
+      "link": "https://blog.syndica.io/deep-dive-solana-onchain-activity-april-2026/",
+      "image": "https://storage.ghost.io/c/3b/ff/3bff990a-a440-478a-adc9-e55d775c0099/content/images/size/w1200/2026/05/Deep-Dive_-Solana-Onchain-Activity---April-2026-000.png",
+      "tag": "Research"
+    },
+    {
+      "app": "Synthetix",
+      "slug": "synthetix",
+      "title": "Introducing ETH as Margin on Synthetix",
+      "tldr": "The first non-stable asset accepted as collateral, which sounds simple and is not: posting a volatile asset as margin changes how liquidation has to work.",
+      "link": "https://blog.synthetix.io/eth-multicollateral-margin/",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2026/06/Multicollateral--1-.png",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Synthetix",
+      "slug": "synthetix",
+      "title": "Introducing Scaled Orders on Synthetix Perps",
+      "tldr": "Rather than one large limit at a single level, a scaled order lays a ladder across a range. Useful for understanding how execution shape changes your average fill.",
+      "link": "https://blog.synthetix.io/introducing-scaled-orders-on-synthetix-perps/",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2026/05/Scaled-Orders.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Synthetix",
+      "slug": "synthetix",
+      "title": "Introducing TWAP Orders on Synthetix Perps",
+      "tldr": "Time-weighted average price orders exist because pushing size through in one go moves the market against you. A clear explanation of scaling in and out over time.",
+      "link": "https://blog.synthetix.io/introducing-twap-orders-on-synthetix-perps/",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2026/05/TWAP-Orders.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Term Finance",
+      "slug": "termfinance",
+      "title": "3 Ways to Use Fixed-Rate Loans as a Passive User",
+      "tldr": "Written for someone who wants a known rate and no daily management. Three concrete positions, with what each assumes about where rates go next.",
+      "link": "https://www.term.finance/post/3-ways-to-use-fixed-rate-loans-as-a-passive-user",
+      "image": "",
+      "tag": "Finance"
+    },
+    {
+      "app": "Term Finance",
+      "slug": "termfinance",
+      "title": "3 Ways to Use Fixed-Rate Loans as an Advanced User",
+      "tldr": "The follow-up for people who will actively manage the position: leveraging the rate view itself rather than just locking one in.",
+      "link": "https://www.term.finance/post/3-ways-to-use-fixed-rate-loans-as-an-advanced-user",
+      "image": "",
+      "tag": "Finance"
+    },
+    {
+      "app": "Term Finance",
+      "slug": "termfinance",
+      "title": "How to Avoid DeFi Liquidity Squeezes",
+      "tldr": "Variable-rate pools like Compound and Aave can leave lenders unable to withdraw exactly when they most want to. Sets out the mechanics of a squeeze and how fixed terms sidestep it.",
+      "link": "https://www.term.finance/post/avoiding-defi-liquidity-squeezes",
+      "image": "",
+      "tag": "DeFi"
+    },
+    {
+      "app": "The Graph",
+      "slug": "the-graph",
+      "title": "GraphTally: How The Graph Solved Micropayments for the Machine Economy",
+      "tldr": "Pay-per-request billing is being treated as new, but The Graph has settled micropayments this way in production since early 2025. Worth reading for the operational lessons rather than the concept.",
+      "link": "https://thegraph.com/blog/graphtally-micropayments-machine-economy",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/3908686f-c7c2-80c5-a7fd-dcddc23d399e/seoImage/thegraph-blog-seo-1600x900_(6).png",
+      "tag": "Payments"
+    },
+    {
+      "app": "The Graph",
+      "slug": "the-graph",
+      "title": "Subgraphs or Substreams: Which Blockchain Data Solution Should You Choose?",
+      "tldr": "Subgraphs give structured queryable data for user-facing apps; substreams push high-throughput pipelines. Picks apart which workload each is genuinely built for.",
+      "link": "https://thegraph.com/blog/subgraphs-or-substreams-blockchain-data-solution",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/3968686f-c7c2-803a-b0e4-d93cbd3cb98a/seoImage/thegraph-blog-seo-1600x90022.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "The Graph",
+      "slug": "the-graph",
+      "title": "What \"Verifiable\" Actually Means for Blockchain Data",
+      "tldr": "Breaks down 1-of-N trust models, consensus and cryptographic verification as separate things, because they get used interchangeably and they guarantee very different amounts.",
+      "link": "https://thegraph.com/blog/verifiable-onchain-data-what-that-really-means",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/3a78686f-c7c2-803e-ab0b-fd3a4fd130e0/seoImage/verifiable-onchain-data-seo.png.png",
+      "tag": "Identity"
+    },
+    {
+      "app": "Toros Finance",
+      "slug": "toros-finance",
+      "title": "Hyperliquid-Powered Stock and Commodity Leveraged Tokens",
+      "tldr": "2x and 3x tokens on NVDA and the Nasdaq 100, built on perp markets. A concrete look at how leveraged exposure to equities gets wrapped into a single token.",
+      "link": "https://toros.finance/blog/hyperliquid-powered-stock-and-commodity-leveraged-tokens-are-live-on-toros",
+      "image": "https://storage.ghost.io/c/fd/60/fd60c258-c3a2-44ad-bb1f-59c64f8fcdfc/content/images/2026/05/Toros-HL-3d.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Toros Finance",
+      "slug": "toros-finance",
+      "title": "Inside Toros Bitcoin Short Volatility",
+      "tldr": "Takes a structured product apart into its two components, a covered call position and an actively rebalanced short. Short, and unusually willing to show the construction.",
+      "link": "https://toros.finance/blog/inside-toros-bitcoin-short-volatility",
+      "image": "https://storage.ghost.io/c/fd/60/fd60c258-c3a2-44ad-bb1f-59c64f8fcdfc/content/images/2026/04/How-Toros-Covered-Call-Short-Volatility-Works--1-.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Toros Finance",
+      "slug": "toros-finance",
+      "title": "Leveraged Gold Exposure on Ethereum and Arbitrum",
+      "tldr": "Explains the wider project of turning complex leveraged strategies into one holdable token, and what gets abstracted away when you do that.",
+      "link": "https://toros.finance/blog/double-down-on-gold-leveraged-exposure-now-live-on-ethereum-arbitrum",
+      "image": "https://storage.ghost.io/c/fd/60/fd60c258-c3a2-44ad-bb1f-59c64f8fcdfc/content/images/2026/02/Gold_ARB_ETH.png",
+      "tag": "Finance"
+    },
+    {
+      "app": "Tracehawk",
+      "slug": "tracehawk",
+      "title": "Batched L2 Details: The Explorer Feature You're Probably Missing",
+      "tldr": "Rollups post transactions to L1 in batches, and most explorers hide that layer entirely. Explains what batching does to cost and finality, and why seeing it matters.",
+      "link": "https://tracehawk.io/blog/batched-l2-details-for-op-stack-key-feature-your-explorer-might-be-missing/",
+      "image": "https://tracehawk.io/wp-content/uploads/2024/10/Batched-L2-Details-for-OP-Stack-Key-Feature-your-Explorer-Might-be-missing-1.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Tracehawk",
+      "slug": "tracehawk",
+      "title": "How to Verify Smart Contracts on OP Stack, Step by Step",
+      "tldr": "Verification is what lets anyone read the source behind a deployed address. A straightforward walkthrough for OP Stack chains, where the process differs slightly from mainnet.",
+      "link": "https://tracehawk.io/blog/heres-how-to-verify-smart-contracts-on-op-stack-step-by-step/",
+      "image": "https://tracehawk.io/wp-content/uploads/2024/12/Heres-How-to-Verify-Smart-Contracts-on-OP-Stack-Step-by-Step.png",
+      "tag": "Tutorial"
+    },
+    {
+      "app": "Tracehawk",
+      "slug": "tracehawk",
+      "title": "Tracking Every OP Stack L1 to L2 Interaction",
+      "tldr": "Deposits and withdrawals between layers are where rollup users most often lose track of funds. On monitoring that boundary continuously rather than checking after the fact.",
+      "link": "https://tracehawk.io/blog/tracking-every-op-stack-l1-l2-interaction-how-tracehawk-does-it-24-7/",
+      "image": "https://tracehawk.io/wp-content/uploads/2024/11/Tracking-Every-OP-Stack-L1-L2-Interaction-How-TraceHawk-Does-It-247.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Traceye",
+      "slug": "traceye",
+      "title": "Build Your First SubQuery Project in 10 Minutes",
+      "tldr": "A short hands-on route into blockchain indexing: stand up a working project and query it end to end, which teaches the data model far faster than reading about it.",
+      "link": "https://traceye.io/blog/build-your-1st-subquery-project-in-10-minutes-step-by-step-guide/",
+      "image": "https://traceye.io/wp-content/uploads/2025/02/Feature-image-Build-and-Launch-your-SubQuery-Project-on-Traceye.jpg",
+      "tag": "AI & Agents"
+    },
+    {
+      "app": "Traceye",
+      "slug": "traceye",
+      "title": "Why Newly-Launched Rollups and Appchains Need a Different Indexer",
+      "tldr": "A new rollup has no indexing infrastructure on day one and no history to backfill. Covers what an appchain actually needs from an indexer and how that differs from an established chain.",
+      "link": "https://traceye.io/blog/traceye-subquery-an-ideal-indexer-for-newly-launched-rollups-appchains/",
+      "image": "https://traceye.io/wp-content/uploads/2024/12/Traceye-SubQuery-Ideal-Indexer-for-New-Appchains-Rollups-.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Uniblock",
+      "slug": "uniblock",
+      "title": "Beyond JSON-RPC: How Unified Data Schemas Simplify Multi-Chain Frontends",
+      "tldr": "Building across many chains feels like translating a dozen languages at once. Makes the case for normalising at the schema level rather than in every component.",
+      "link": "https://uniblock.dev/blog/beyond-json-rpc-how-unified-data-schemas-can-simplify-frontend-development-for-150-chains",
+      "image": "https://framerusercontent.com/assets/m2EeA09rADZI38fwZI3G18ft0vo.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Uniblock",
+      "slug": "uniblock",
+      "title": "Live Smart Routing to the Best Web3 RPC Provider",
+      "tldr": "Providers degrade at different times and in different regions, so the best endpoint is not a fixed choice. On measuring and switching continuously rather than picking once.",
+      "link": "https://uniblock.dev/blog/live-smart-routing-to-the-best-web3-rpc-provider",
+      "image": "https://framerusercontent.com/assets/m2EeA09rADZI38fwZI3G18ft0vo.webp",
+      "tag": "Trading"
+    },
+    {
+      "app": "Uniblock",
+      "slug": "uniblock",
+      "title": "Web3 Infrastructure Health Scorecard: A Deep Dive",
+      "tldr": "Breaks down each pillar and metric used to judge whether infrastructure is actually healthy. Worth reading for the definitions alone, since most uptime claims skip them.",
+      "link": "https://uniblock.dev/blog/web3-infrastructure-health-scorecard-a-deep-dive",
+      "image": "https://framerusercontent.com/assets/m2EeA09rADZI38fwZI3G18ft0vo.webp",
+      "tag": "DeFi"
+    },
+    {
+      "app": "Wallet Guard",
+      "slug": "wallet-guard",
+      "title": "Best Practices to Secure Your Assets",
+      "tldr": "Written around setting up a clean machine, which is the right frame: most compromises trace back to the environment rather than the wallet itself.",
+      "link": "https://www.walletguard.app/blog/best-practices-to-secure-your-assets-new-computer",
+      "image": "https://cdn.prod.website-files.com/65adddbbd2c6ecb99e857ff7/65ade1896f3b62ef2c986232_653313636030d32806922a6b_security-practices.png",
+      "tag": "Finance"
+    },
+    {
+      "app": "Wallet Guard",
+      "slug": "wallet-guard",
+      "title": "Common Trends With Phishing in Web3",
+      "tldr": "Short catalogue of the patterns that recur across Web3 phishing. Dated now, but the underlying tricks have proved remarkably durable.",
+      "link": "https://www.walletguard.app/blog/common-trends-with-phishing-in-web3",
+      "image": "https://cdn.prod.website-files.com/65adddbbd2c6ecb99e857ff7/65ade08f449f09e79e8f48d1_64fea7b42900d8b57c047d1e_phishing.jpg",
+      "tag": "Security"
+    },
+    {
+      "app": "Web3Auth",
+      "slug": "web3auth",
+      "title": "Gas Sponsorship in Web3: Concepts, Tools, and Implementation",
+      "tldr": "Covers relayers, meta-transactions, smart accounts and ERC-4337 as one connected story rather than four separate buzzwords, which is how they actually fit together.",
+      "link": "https://blog.web3auth.io/implementing-gas-sponsorship-in-web3-key-concepts-and-tools/",
+      "image": "https://blog.web3auth.io/content/images/2025/01/medium-_-Implementing-Gas-Sponsorship-in-Web3_-Key-Concepts-and-Tools.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "app": "Web3Auth",
+      "slug": "web3auth",
+      "title": "How Cross-Chain MEV and Private Order Flow Disrupt Chain Abstraction",
+      "tldr": "Extraction is about positioning and speed, not just trading. Explains why abstracting chains away from the user makes the value being extracted underneath harder to see.",
+      "link": "https://blog.web3auth.io/how-cross-chain-mev-and-private-order-flow-disrupt-chain-abstraction/",
+      "image": "https://blog.web3auth.io/content/images/2025/01/medium-_-How-Cross-Chain-MEV-and-Private-Order-Flow-Affect-Blockchain-Ecosystems.png",
+      "tag": "Trading"
+    },
+    {
+      "app": "Web3Auth",
+      "slug": "web3auth",
+      "title": "The Hidden Complexity of Solver Rebalancing in Intent-Based Systems",
+      "tldr": "Solvers have to hold inventory across chains to fill intents, and that inventory drifts. On why rebalancing quietly decides whether an intent system stays fair or efficient.",
+      "link": "https://blog.web3auth.io/why-intent-based-systems-in-web3-are-more-complex-than-they-seem/",
+      "image": "https://blog.web3auth.io/content/images/2024/12/medium-_-Why-Intent-Systems-Aren-t-Plug-and-Play--2-.png",
+      "tag": "Finance"
+    },
+    {
+      "app": "Yield Guild Games",
+      "slug": "yield-guild-games",
+      "title": "2025 in Review: The Rise of Casual Degen Gaming",
+      "tldr": "A year of Web3 gaming summarised by someone who had money on the outcome. Useful as a record of what the category actually did rather than what it promised.",
+      "link": "https://yieldguild.io/news/2025-in-review-the-rise-of-casual-degen-gaming",
+      "image": "https://cdn.prod.website-files.com/68507d9f6a89979c02144874/6969f526869064c0e66f8711_YGG%20Play%20-%20EOY%20Blog%20Artwork.png",
+      "tag": "Research"
+    },
+    {
+      "app": "Yield Guild Games",
+      "slug": "yield-guild-games",
+      "title": "An Explosion of Casual Games, Powered by AI",
+      "tldr": "On what happens to game economies when production costs collapse and the supply of games rises sharply. Relevant well beyond the guild model.",
+      "link": "https://yieldguild.io/news/an-explosion-of-casual-games-powered-by-ai",
+      "image": "https://cdn.prod.website-files.com/68507d9f6a89979c02144874/69fadfc8947fc55807faf324_YGG%20Play%20-%20Artwork%20-%20Ecosystem%20Map%20for%20Casual%20Degen%20Games%20(6).png",
+      "tag": "AI & Agents"
+    }
+  ]
+}

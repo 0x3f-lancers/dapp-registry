@@ -30,5 +30,34 @@
       "origin-ether",
       "nusa-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The State of Crypto Insurance: Q2 2026",
+      "tldr": "A long quarterly read on what onchain cover actually paid out for and where demand moved. Rare visibility into a market that is usually discussed only in the abstract.",
+      "url": "https://nexusmutual.io/blog/the-state-of-crypto-insurance-q2-2026",
+      "source": "Nexus Mutual Blog",
+      "publishedAt": "2026-07-15",
+      "tag": "Finance",
+      "image": "https://framerusercontent.com/images/pkSrNqYRarSL8X0F17doWOXaQ70.png?width=1200&height=675"
+    },
+    {
+      "title": "Real-World Assets, Real Risk",
+      "tldr": "Tokenising a Treasury bill does not remove the issuer, the custodian or the legal wrapper. On the risks RWAs carry that a purely onchain position does not.",
+      "url": "https://nexusmutual.io/blog/real-world-assets-real-risk",
+      "source": "Nexus Mutual Blog",
+      "publishedAt": "2026-07-29",
+      "tag": "Tokenization",
+      "image": "https://framerusercontent.com/images/sjoLC7KG9wFaBNkJ4PF8vr1Cym8.png?width=3840&height=2160"
+    },
+    {
+      "title": "SKHYNIX Flash Crash on Hyperliquid: Incident Report",
+      "tldr": "A written-up incident on a tokenised equity market rather than a protocol hack. Useful for seeing how thin books and oracle behaviour combine during a fast move.",
+      "url": "https://nexusmutual.io/blog/xyz-skhynix-flash-crash-on-hyperliquid-incident-report",
+      "source": "Nexus Mutual Blog",
+      "publishedAt": "2026-08-03",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/znCBiknKnwXFaKXLaj6Dap4ASk.png?width=3840&height=2160"
+    }
+  ]
 }

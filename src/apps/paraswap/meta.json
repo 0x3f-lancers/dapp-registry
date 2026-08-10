@@ -29,5 +29,31 @@
       "bumper-finance",
       "binance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Large Trades Impact Your Execution (And How to Avoid It)",
+      "tldr": "Size moves the price against you before the trade even completes. Explains how splitting an order over time reduces slippage and where that stops helping.",
+      "url": "https://www.velora.xyz/articles/twap-execution-large-trades",
+      "source": "Velora Blog",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/THL6GDvvJ4GKdountKyUFS7GtI.png?width=7680&height=4320"
+    },
+    {
+      "title": "Guarded Swaps: Best Price Without the Fail Rate",
+      "tldr": "RFQ and proprietary AMM quotes are often the best price available and the first to expire between click and confirmation. On keeping the quote alive long enough to fill.",
+      "url": "https://www.velora.xyz/articles/guarded-swaps-on-velora",
+      "source": "Velora Blog",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/zuSZ1DzX7FCIKMlYBIzfZqvzJNw.png?width=7680&height=4320"
+    },
+    {
+      "title": "The End of the Bridge: A Cross-Chain Execution Layer",
+      "tldr": "Argues the bridge should disappear behind execution rather than being a step the user performs. Covers hybrid execution, MEV protection and gasless flows.",
+      "url": "https://www.velora.xyz/articles/the-end-of-the-bridge-a-cross-chain-execution-layer-for-web3-dapps",
+      "source": "Velora Blog",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/n6YYq8sEAp9SaCk9FeB0rzyk3kw.png?width=7680&height=4320"
+    }
+  ]
 }

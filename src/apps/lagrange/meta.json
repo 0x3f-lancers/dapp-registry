@@ -34,5 +34,34 @@
       "astrakode-smart-contract-auditor",
       "toolblox"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A New Era for ZK: Decentralizing the ZK Stack",
+      "tldr": "Proof generation concentrated in a few hands recreates the trust problem proofs were meant to remove. The longest piece here, and the clearest on why prover decentralisation matters.",
+      "url": "https://lagrange.dev/blog/a-new-era-for-zk",
+      "source": "Lagrange Blog",
+      "publishedAt": "2025-01-13",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/662a1b8028d7e78401160d03/6a5e765ed8eb3f2a4de01b5b_6a5e75c2417b97d60302f540_cover-a-new-era-for-zk.webp"
+    },
+    {
+      "title": "AI Is Scaling Faster Than We Can Verify It",
+      "tldr": "Model capability is outrunning any ability to check what a model actually did. Frames verifiable computation as the missing half rather than an optional extra.",
+      "url": "https://lagrange.dev/blog/ai-is-scaling-faster-than-we-can-verify-it",
+      "source": "Lagrange Blog",
+      "publishedAt": "2026-05-11",
+      "tag": "AI & Agents",
+      "image": "https://cdn.prod.website-files.com/662a1b8028d7e78401160d03/69efd53731256b5941dfd688_AI%20Is%20Scaling%20Faster%20Than%20We%20Can%20Verify%20It%20-%20Blog%20Header.png"
+    },
+    {
+      "title": "Cheap and Fast Cross-Chain Queries With a ZK Coprocessor",
+      "tldr": "Reading another chain's historical state normally means trusting whoever tells you about it. A concrete look at proving the answer instead of trusting it.",
+      "url": "https://lagrange.dev/blog/cheap-fast-cross-chain-queries-from-fraxtal-with-lagranges-zk-coprocessor",
+      "source": "Lagrange Blog",
+      "publishedAt": "2024-05-09",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/662a1b8028d7e78401160d03/6867d189b43b6499782f1355_663d281c296b8ca0f71034f0_frax-blog.webp"
+    }
+  ]
 }

@@ -31,5 +31,28 @@
       "eisenlabs",
       "saros"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Avoid DeFi Liquidity Squeezes",
+      "tldr": "Variable-rate pools like Compound and Aave can leave lenders unable to withdraw exactly when they most want to. Sets out the mechanics of a squeeze and how fixed terms sidestep it.",
+      "url": "https://www.term.finance/post/avoiding-defi-liquidity-squeezes",
+      "source": "Term Finance",
+      "tag": "DeFi"
+    },
+    {
+      "title": "3 Ways to Use Fixed-Rate Loans as a Passive User",
+      "tldr": "Written for someone who wants a known rate and no daily management. Three concrete positions, with what each assumes about where rates go next.",
+      "url": "https://www.term.finance/post/3-ways-to-use-fixed-rate-loans-as-a-passive-user",
+      "source": "Term Finance",
+      "tag": "Finance"
+    },
+    {
+      "title": "3 Ways to Use Fixed-Rate Loans as an Advanced User",
+      "tldr": "The follow-up for people who will actively manage the position: leveraging the rate view itself rather than just locking one in.",
+      "url": "https://www.term.finance/post/3-ways-to-use-fixed-rate-loans-as-an-advanced-user",
+      "source": "Term Finance",
+      "tag": "Finance"
+    }
+  ]
 }

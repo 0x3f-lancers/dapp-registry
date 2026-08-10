@@ -37,5 +37,34 @@
       "eth-sdk",
       "codeslaw"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Securing Solidity Smart Contracts: Essential Audit Insights",
+      "tldr": "The longest piece here, covering common vulnerability classes, how to fix them, and where AI-driven tooling genuinely helps versus where it produces noise.",
+      "url": "https://www.astrakode.tech/blockchain/securing-solidity-smart-contracts-essential-audit-insights/",
+      "source": "AstraKode Blog",
+      "publishedAt": "2024-12-02",
+      "tag": "Infrastructure",
+      "image": "https://www.astrakode.tech/wp-content/uploads/2024/12/Cover-Securing-Solidity-Smart-Contracts-Essential-Audit-Insights-1.png"
+    },
+    {
+      "title": "Blockchain and Parametric Insurance",
+      "tldr": "Parametric policies pay out on a measured trigger rather than an assessed claim, which is exactly the shape a smart contract handles well. A good fit worth understanding.",
+      "url": "https://www.astrakode.tech/blockchain/blockchain-parametric-insurance/",
+      "source": "AstraKode Blog",
+      "publishedAt": "2025-01-08",
+      "tag": "Infrastructure",
+      "image": "https://www.astrakode.tech/wp-content/uploads/2025/01/Blockchain-and-Parametric-Insurance-A-Game-Changer-in-Risk-Management.png"
+    },
+    {
+      "title": "Blockchain and the EU Digital Battery Passport",
+      "tldr": "A regulated traceability requirement with real deadlines, which makes it one of the few enterprise blockchain cases driven by law rather than by interest.",
+      "url": "https://www.astrakode.tech/blockchain/how-blockchain-technology-is-revolutionizing-eu-battery-compliance-the-digital-battery-passport-era/",
+      "source": "AstraKode Blog",
+      "publishedAt": "2025-08-04",
+      "tag": "Regulation",
+      "image": "https://www.astrakode.tech/wp-content/uploads/2025/08/How-Blockchain-Technology-is-Revolutionizing-EU-Battery-Compliance-The-Digital-Battery-Passport-Era-376-x-274-px.png"
+    }
+  ]
 }

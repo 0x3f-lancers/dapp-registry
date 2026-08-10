@@ -51,21 +51,27 @@
       "tldr": "The first check shipped is lookalike detection for address poisoning, an attack that beats careful people because it exploits how humans compare long strings.",
       "url": "https://dfns.co/article/introducing-transaction-screening",
       "source": "Dfns Blog",
-      "publishedAt": "2026-07-28"
+      "publishedAt": "2026-07-28",
+      "tag": "Security",
+      "image": "https://dfns.co/_astro/introducing-transaction-screening.DvdK6Ony.jpg"
     },
     {
       "title": "Introducing Vaults",
       "tldr": "A managed multichain account with composite balances, quarantine by default and a ledger behind it. Good on why custody needs its own data model rather than a list of keys.",
       "url": "https://dfns.co/article/introducing-vaults",
       "source": "Dfns Blog",
-      "publishedAt": "2026-07-08"
+      "publishedAt": "2026-07-08",
+      "tag": "DeFi",
+      "image": "https://dfns.co/_astro/vault.CtCh1Bg0.jpg"
     },
     {
       "title": "AWS CloudHSM Support",
       "tldr": "Hardware-grade key custody inside your own AWS account rather than a vendor's. Worth reading for the trust boundary it moves and the operational burden it hands back to you.",
       "url": "https://dfns.co/article/aws-cloudhsm-support",
       "source": "Dfns Blog",
-      "publishedAt": "2026-07-22"
+      "publishedAt": "2026-07-22",
+      "tag": "Security",
+      "image": "https://dfns.co/_astro/aws-cloudhsm-support.BMuXVEm4.jpg"
     }
   ]
 }

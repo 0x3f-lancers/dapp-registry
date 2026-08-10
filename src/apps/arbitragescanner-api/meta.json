@@ -29,5 +29,25 @@
       "flooredape",
       "solswatch"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Binance Arbitrage: Fee Optimization, API Limits and Strategies",
+      "tldr": "The longest of the set, and the most practical: fee tiers, API rate limits, and triangular routes. Rate limits are what actually kill these strategies at scale.",
+      "url": "https://arbitragescanner.io/blog/binance-arbitrage-guide-fees-api-strategies",
+      "source": "ArbitrageScanner Blog",
+      "publishedAt": "2026-04-25",
+      "tag": "Infrastructure",
+      "image": "https://s3.arbitragescanner.io/blog/cd711b58-90c2-43c9-8850-48854015763b.png"
+    },
+    {
+      "title": "Money Flow Index: A Complete Guide for Crypto Trading",
+      "tldr": "A volume-weighted momentum indicator, explained properly rather than as a signal to copy. Covers divergence and where the reading misleads.",
+      "url": "https://arbitragescanner.io/blog/money-flow-index",
+      "source": "ArbitrageScanner Blog",
+      "publishedAt": "2026-04-11",
+      "tag": "Trading",
+      "image": "https://s3.arbitragescanner.io/blog/121855be-3133-4960-ba72-fe4267b9aa3e.png"
+    }
+  ]
 }

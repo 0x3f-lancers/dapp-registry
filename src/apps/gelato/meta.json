@@ -42,21 +42,27 @@
       "tldr": "The sequencer decides ordering and latency, which makes it the most consequential and least discussed part of a rollup. On building one for throughput without losing reliability.",
       "url": "https://gelato.cloud/blog/turbo-sequencer",
       "source": "Gelato Blog",
-      "publishedAt": "2025-12-17"
+      "publishedAt": "2025-12-17",
+      "tag": "Infrastructure",
+      "image": "https://framerusercontent.com/images/blQslCCGtvMePG7kRCLC3cY7Sus.png?width=960&height=540"
     },
     {
       "title": "Turbo Relayer: Faster Transactions, Lower Gas Overhead",
       "tldr": "Sub-300ms gasless confirmations by way of EIP-7702 and ERC-4337. Useful for seeing where the overhead in account abstraction actually accumulates.",
       "url": "https://gelato.cloud/blog/turbo-relayer",
       "source": "Gelato Blog",
-      "publishedAt": "2026-03-11"
+      "publishedAt": "2026-03-11",
+      "tag": "Infrastructure",
+      "image": "https://framerusercontent.com/images/y5CjH92WcmRVVtwusNV9wDmI.png?width=960&height=540"
     },
     {
       "title": "Fee Collector: Automatically Aggregate Protocol Fees Into USDC",
       "tldr": "Protocols accrue fees in dozens of tokens and then have to do something about it. A small, practical piece on turning that scatter into one denominated balance.",
       "url": "https://gelato.cloud/blog/fee-collector",
       "source": "Gelato Blog",
-      "publishedAt": "2026-02-02"
+      "publishedAt": "2026-02-02",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/tLgdBoGxNPDMwY6Bzc8KDIIqs.png?width=960&height=540"
     }
   ]
 }

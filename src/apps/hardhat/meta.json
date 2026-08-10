@@ -31,5 +31,31 @@
       "bonadocs",
       "evm2"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Managing Config Values and Secrets Safely",
+      "tldr": "Private keys in a committed config file remain one of the most common ways teams lose funds. Covers the mechanism Hardhat provides so they never sit in the repo.",
+      "url": "https://hardhat.org/docs/guides/configuration-variables",
+      "source": "Hardhat Docs",
+      "tag": "Security",
+      "image": "https://hardhat.org/thumbnail.png"
+    },
+    {
+      "title": "Deploying Smart Contracts Using Hardhat Ignition",
+      "tldr": "Declarative deployment: describe the end state and let the tool work out the ordering and resume from failures. A better model than a script that must run perfectly once.",
+      "url": "https://hardhat.org/docs/guides/deployment/using-ignition",
+      "source": "Hardhat Docs",
+      "tag": "Infrastructure",
+      "image": "https://hardhat.org/thumbnail.png"
+    },
+    {
+      "title": "Displaying Execution Traces",
+      "tldr": "Short, and disproportionately useful: seeing exactly which calls ran and what they returned is the fastest way to understand why a transaction reverted.",
+      "url": "https://hardhat.org/docs/guides/execution-traces",
+      "source": "Hardhat Docs",
+      "tag": "Trading",
+      "image": "https://hardhat.org/thumbnail.png"
+    }
+  ]
 }

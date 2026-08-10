@@ -32,5 +32,25 @@
       "vaultka",
       "hypersonic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "sBridge: Purpose-Built Interoperability for SVM Networks",
+      "tldr": "A bridge designed for one virtual machine family rather than for everything. Narrowing the problem changes what security assumptions are available.",
+      "url": "https://solayer.org/resources/blog/sbridge-by-solayer-purpose-built-interoperability-for-svm-networks",
+      "source": "Solayer Blog",
+      "publishedAt": "2025-08-15",
+      "tag": "Infrastructure",
+      "image": "https://framerusercontent.com/images/gXos5iern3KgRfBEGVxsxVBDoMw.jpeg?width=1280&height=731"
+    },
+    {
+      "title": "Seeding Real-Time Ideas on InfiniSVM",
+      "tldr": "What applications become possible once execution is fast enough to feel synchronous, written as a survey of ideas rather than a product pitch.",
+      "url": "https://solayer.org/resources/blog/seeding-real-time-ideas-on-infinisvm-with-hackvc",
+      "source": "Solayer Blog",
+      "publishedAt": "2025-10-14",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/3YLk1Xaw8mKn4ddSdhvEzsOe4U.png?width=2398&height=1348"
+    }
+  ]
 }

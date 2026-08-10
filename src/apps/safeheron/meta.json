@@ -42,5 +42,25 @@
       "defi",
       "bitpowr"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "594.5 BTC Gone: When Trusted Hardware Fails",
+      "tldr": "Around 500 addresses drained in a short window, 1,324 UTXOs in total. A careful write-up of what happens when the hardware you trusted turns out to be the weakness.",
+      "url": "https://safeheron.com/blog/over-500-btc-gone-when-trusted-hardware-fails/",
+      "source": "Safeheron Blog",
+      "publishedAt": "2026-08-03",
+      "tag": "Security",
+      "image": "https://safeheron.com/wp-content/uploads/2026/08/EN-Banner.png"
+    },
+    {
+      "title": "The Triple-A Attack and a Review of July's Security Incidents",
+      "tldr": "A month of failures collected in one place, starting with a treasury breach. Reading incidents in aggregate reveals patterns that individual post-mortems miss.",
+      "url": "https://safeheron.com/blog/triplea-attack-and-technical-security-incidents-july-2026/",
+      "source": "Safeheron Blog",
+      "publishedAt": "2026-07-31",
+      "tag": "Security",
+      "image": "https://safeheron.com/wp-content/uploads/2026/07/TripleA-7&#26376;-&#20107;&#20214;EN-Banner-new.png"
+    }
+  ]
 }

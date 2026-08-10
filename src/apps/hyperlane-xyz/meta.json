@@ -41,5 +41,31 @@
       "snapchain",
       "stackr"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building With Modular Security Legos",
+      "tldr": "Interoperability security is usually presented as one setting. This breaks it into composable modules you choose between, which makes the tradeoffs visible instead of implicit.",
+      "url": "https://www.hyperlane.xyz/post/building-with-modular-security-legos",
+      "source": "Hyperlane Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b4f71845db03c7dfd163_67dba45f9d6996c79dad36df_1_SnPTPviEOeslsFaqNJzT6w.webp"
+    },
+    {
+      "title": "How Permissionless Is Your Interoperability Provider? A Checklist",
+      "tldr": "A pointed set of questions to ask before depending on a bridge: who can add a chain, who can pause it, and who you need permission from. Uncomfortable for most providers.",
+      "url": "https://www.hyperlane.xyz/post/checklist-how-permissionless-is-your-interoperability-provider",
+      "source": "Hyperlane Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b4f7baae82d9f96ce67a_67dba3c1c24274cca937722a_1_WxO536Rn6SKQK3G_oRn-fg.webp"
+    },
+    {
+      "title": "Builder Journeys: Deploying Bridged USDC With Warp Routes",
+      "tldr": "A team's actual path to getting bridged USDC live on their chain. Implementation detail of the kind that rarely makes it into documentation.",
+      "url": "https://www.hyperlane.xyz/post/builder-journeys-how-fusionist-deployed-bridged-usdc-with-warp-routes",
+      "source": "Hyperlane Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b4f94347e69db2149944_67dbad3de06fb02b97b68d2b_1_5cj6wQOKnM5Y-Wx2J_r2YA.webp"
+    }
+  ]
 }

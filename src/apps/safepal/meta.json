@@ -32,5 +32,25 @@
       "totalsig",
       "saakuru"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why a Recovery Phrase Must Be Truly Random",
+      "tldr": "A seed is only as strong as the entropy behind it, and hardware random number generation is where that quietly goes wrong. Goes into the actual TRNG design.",
+      "url": "https://www.safepal.com/en/blog/hw-firmware-trng",
+      "source": "SafePal Blog",
+      "publishedAt": "2026-08-01",
+      "tag": "Security",
+      "image": "https://blogcontent.safepal.com/uploads/2026/08/img_v3_02145_48f9e725-6cea-4da6-8419-7f83a1cd1chu.png"
+    },
+    {
+      "title": "Security Tips and Best Practices for Web3 Wallets",
+      "tldr": "Broad but practical: approvals, phishing, backup handling and the everyday habits that account for most avoidable losses. Long enough to be worth the read.",
+      "url": "https://www.safepal.com/en/blog/web3-wallet-security",
+      "source": "SafePal Blog",
+      "publishedAt": "2026-07-15",
+      "tag": "Security",
+      "image": "https://blogcontent.safepal.com/uploads/2026/07/img_v3_0213k_a6dde514-ab16-4b41-a10d-cb84fdc27dhu-scaled.png"
+    }
+  ]
 }

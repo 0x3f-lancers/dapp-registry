@@ -30,5 +30,23 @@
       "ceramic",
       "loop-decoder"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Graph Technical Roadmap",
+      "tldr": "Sets out multi-service blockchain data infrastructure on Horizon, a protocol intended to serve more than subgraph queries. Useful for seeing where indexing is heading.",
+      "url": "https://thegraph.com/blog/technical-roadmap",
+      "source": "The Graph Blog",
+      "tag": "Infrastructure",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/30a8686f-c7c2-80dd-9599-f5a9e21bff7b/seoImage/Roadmap_2026_SEO_(1).png"
+    },
+    {
+      "title": "Ten Projects Built on The Graph at ETHGlobal Lisbon",
+      "tldr": "The interesting result is not who won but how many independent teams reached for the same data primitives. A read on what indexing gets used for in practice.",
+      "url": "https://thegraph.com/blog/ethglobal-lisbon-2026-winners",
+      "source": "The Graph Blog",
+      "tag": "Research",
+      "image": "https://storage.googleapis.com/graph-blog/_notion/3aa8686f-c7c2-804e-ae91-cf8d6977d69e/seoImage/thegraph-lisbon2026-header1600-1600x900.png"
+    }
+  ]
 }

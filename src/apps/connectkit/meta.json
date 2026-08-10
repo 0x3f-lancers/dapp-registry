@@ -30,5 +30,23 @@
       "triangle",
       "locksmith-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Crypto Wallet Problem: Why We Created Family Accounts",
+      "tldr": "Seed phrases put irreversible loss one mistake away, which no other consumer product does. A well-argued piece on why that model was never going to reach ordinary users.",
+      "url": "https://family.co/blog/why-family-accounts",
+      "source": "Family Blog",
+      "tag": "Security",
+      "image": "https://family.co/media/why-family-accounts.png"
+    },
+    {
+      "title": "Making Family Simpler and Safer",
+      "tldr": "The follow-up covering what actually changed in onboarding. Worth reading alongside the first piece to see the argument turned into product decisions.",
+      "url": "https://family.co/blog/family-accounts",
+      "source": "Family Blog",
+      "tag": "Finance",
+      "image": "https://family.co/media/family-accounts.png"
+    }
+  ]
 }

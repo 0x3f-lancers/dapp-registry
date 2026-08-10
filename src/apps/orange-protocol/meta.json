@@ -29,5 +29,34 @@
       "metagame",
       "repute-x"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reputation in Web2 vs Web3, Explained",
+      "tldr": "Opens on the real problem: your Uber rating is worthless on Airbnb and LinkedIn endorsements mean nothing on Discord. Long piece on why reputation stays fenced in.",
+      "url": "https://www.orangeprotocol.io/blog/orange-protocol-reputation-in-web2-vs-web3-explained/",
+      "source": "Orange Protocol Blog",
+      "publishedAt": "2025-11-29",
+      "tag": "Identity",
+      "image": "https://www.orangeprotocol.io/blog/wp-content/uploads/2025/11/The-Reputation-Layer-Template.pptx-2.png"
+    },
+    {
+      "title": "Why Reputation Is the New Currency in Web3",
+      "tldr": "Pseudonymous systems remove the usual anchors for trust, then have to rebuild something in their place. Works through what a portable reputation would actually need to satisfy.",
+      "url": "https://www.orangeprotocol.io/blog/orange-protocol-why-reputation-is-the-new-currency-in-web3/",
+      "source": "Orange Protocol Blog",
+      "publishedAt": "2025-10-26",
+      "tag": "Identity",
+      "image": "https://www.orangeprotocol.io/blog/wp-content/uploads/2025/10/The-Reputation-Layer-Template.pptx.png"
+    },
+    {
+      "title": "Private Proof-of-Funds for OTC Deals and Launchpad Access",
+      "tldr": "Using zkTLS to prove you meet an exchange's balance threshold without revealing the account or the balance. A neat, narrow application of a general technique.",
+      "url": "https://www.orangeprotocol.io/blog/private-proof%e2%80%91of%e2%80%91funds-for-otc-deals-launchpad-spots-and-vip-access/",
+      "source": "Orange Protocol Blog",
+      "publishedAt": "2025-09-22",
+      "tag": "Infrastructure",
+      "image": "https://www.orangeprotocol.io/blog/wp-content/uploads/2025/09/zkTLS-ppt-template.pptx-5.png"
+    }
+  ]
 }

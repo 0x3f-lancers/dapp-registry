@@ -50,14 +50,18 @@
       "tldr": "A hardware security module protects the key and does nothing about who asked it to sign. On the policy, approval and segregation layers a bank still has to build around it.",
       "url": "https://utila.io/blog/digital-asset-custody-banks-hsm",
       "source": "Utila Blog",
-      "publishedAt": "2026-07-29"
+      "publishedAt": "2026-07-29",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/FpjjoaWOPbmwUiBuB6CB09yNY.webp?width=1920&height=1080"
     },
     {
-      "title": "Utila vs Fireblocks: Stablecoin Infrastructure Compared",
-      "tldr": "Vendor-authored and openly so, but detailed enough on gas management, batching and policy controls to be a useful map of what institutional wallet infrastructure has to cover.",
-      "url": "https://utila.io/blog/utila-vs-fireblocks-comparison-article",
+      "title": "Private Stablecoin Payments for Institutions",
+      "tldr": "Institutions want stablecoin settlement without broadcasting payroll and treasury movements to everyone. Covers how a privacy layer sits under payments while staying governable.",
+      "url": "https://utila.io/blog/utila-aleo-private-stablecoin-payments",
       "source": "Utila Blog",
-      "publishedAt": "2026-08-06"
+      "publishedAt": "2026-08-05",
+      "tag": "Payments",
+      "image": "https://framerusercontent.com/images/mrw0s2LJlP4FmbaVpu2YxfowVA.webp"
     }
   ]
 }

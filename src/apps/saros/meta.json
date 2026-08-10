@@ -3,8 +3,12 @@
   "name": "Saros",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749750/web3-explorer/dapp-logos/saros.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Saros is a multi-purpose DeFi protocol on Solana.",
@@ -17,7 +21,35 @@
     "twitter": "https://x.com/Saros_Finance"
   },
   "relations": {
-    "alternatives": ["altfins", "morfi", "kriya"],
-    "related": ["ezo", "hegic", "rubydex"]
-  }
+    "alternatives": [
+      "altfins",
+      "morfi",
+      "kriya"
+    ],
+    "related": [
+      "ezo",
+      "hegic",
+      "rubydex"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introducing Concentrated Incentives on Saros DLMM",
+      "tldr": "Streaming rewards only to liquidity sitting at the market price, rather than spraying them across the whole curve. A direct answer to incentives that buy depth nobody trades against.",
+      "url": "https://blog.saros.xyz/p/introducing-concentrated-incentives",
+      "source": "Saros Blog",
+      "publishedAt": "2025-12-01",
+      "tag": "Trading",
+      "image": "https://substackcdn.com/image/fetch/$s_!XoEG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F829346be-3527-4383-aa64-0f2b16a06d0e_5824x4192.png"
+    },
+    {
+      "title": "Building Internet Capital Markets: RWAs, Stablecoins and BTC",
+      "tldr": "A founder's thesis piece on how those three pieces fit together on Solana. Opinionated rather than instructional, and clearer for it.",
+      "url": "https://blog.saros.xyz/p/building-internet-capital-markets",
+      "source": "Saros Blog",
+      "publishedAt": "2025-10-14",
+      "tag": "Tokenization",
+      "image": "https://substackcdn.com/image/fetch/$s_!fmK6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c3901d0-2b5b-4f70-a5f1-e31e18442b88_5824x4192.png"
+    }
+  ]
 }

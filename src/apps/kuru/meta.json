@@ -34,5 +34,34 @@
       "shapeshift",
       "solend"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Does a Market Maker Do?",
+      "tldr": "The clearest of the three: what market making actually involves, and how the job differs on an AMM versus a central limit order book. Good grounding before the others.",
+      "url": "https://blog.kuru.io/p/what-does-a-market-maker-do",
+      "source": "Kuru Blog",
+      "publishedAt": "2025-01-28",
+      "tag": "Trading",
+      "image": "https://substackcdn.com/image/fetch/$s_!oX35!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a01723d-01d7-4ccd-a455-e50d50566852_2464x1052.png"
+    },
+    {
+      "title": "Flip Orders: Concentrated Liquidity on Order Books",
+      "tldr": "Borrows the concentrated liquidity idea from AMMs and applies it to a CLOB, aiming for AMM-style simplicity without giving up order book control.",
+      "url": "https://blog.kuru.io/p/flip-orders-concentrated-liquidity",
+      "source": "Kuru Blog",
+      "publishedAt": "2025-07-14",
+      "tag": "DeFi",
+      "image": "https://substackcdn.com/image/fetch/$s_!ENXN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01138650-cd14-4e47-b06b-9416fa6f44dc_3840x2160.png"
+    },
+    {
+      "title": "Introducing Vaults",
+      "tldr": "Providing liquidity to an order book without managing individual orders yourself. Short, and useful for seeing what gets abstracted away and what you still carry.",
+      "url": "https://blog.kuru.io/p/introducing-vaults",
+      "source": "Kuru Blog",
+      "publishedAt": "2025-05-02",
+      "tag": "DeFi",
+      "image": "https://substackcdn.com/image/fetch/$s_!4vTS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F457dfc54-0804-4a27-929c-a56dd40c0740_4232x2426.png"
+    }
+  ]
 }

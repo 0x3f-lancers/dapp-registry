@@ -3,8 +3,14 @@
   "name": "IX Swap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747787/web3-explorer/dapp-logos/ix-swap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Base", "Polygon"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Polygon"
+  ],
   "pricing": "",
   "content": {
     "short": "IX Swap is an AMM-powered DeFi platform for investing in and trading tokenized real-world assets (RWAs).",
@@ -17,7 +23,31 @@
     "twitter": "https://x.com/IxSwap"
   },
   "relations": {
-    "alternatives": ["bebop", "morfi"],
-    "related": ["bydfi", "heroswap"]
-  }
+    "alternatives": [
+      "bebop",
+      "morfi"
+    ],
+    "related": [
+      "bydfi",
+      "heroswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "An Extensive Guide to Buying Your First Security Token",
+      "tldr": "Security tokens carry transfer restrictions and eligibility checks that ordinary tokens do not. Walks a first purchase including the parts that will block you.",
+      "url": "https://www.ixs.finance/tutorials/an-extensive-guide-to-buying-your-first-security-token",
+      "source": "IX Swap Tutorials",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/62d08346f4ff1e435a905bad/68f9afa6b690081caea5e1a5_1.jpg"
+    },
+    {
+      "title": "A Step-by-Step KYC Guide",
+      "tldr": "Verification is where most people abandon a regulated platform. Useful mostly for showing exactly what gets asked for and why each item is required.",
+      "url": "https://www.ixs.finance/tutorials/ix-swap-kyc-guide",
+      "source": "IX Swap Tutorials",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/62d08346f4ff1e435a905bad/66a05b910e0fa83b936b178c_Website%20(10).avif"
+    }
+  ]
 }

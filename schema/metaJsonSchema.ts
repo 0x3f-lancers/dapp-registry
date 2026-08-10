@@ -49,6 +49,55 @@ export const metaJsonSchema = z.object({
         tldr: z.string().min(40).max(300),
         url: z.url(),
         source: z.string().min(1).max(80),
+        // Topic label shown on the card in place of the publisher name, so a
+        // reader can tell at a glance what kind of read this is.
+        //
+        // Optional because it is backfilled by enrich-resources.ts after
+        // apply-resources.ts writes the entry; requiring it here would make
+        // every hand-written selections file fail to apply.
+        tag: z
+          .enum([
+            "Security",
+            "Research",
+            "Tutorial",
+            "Explainer",
+            "Regulation",
+            "DeFi",
+            "Infrastructure",
+            "AI & Agents",
+            "Identity",
+            "Payments",
+            "Governance",
+            "Tokenization",
+            "Trading",
+            "Finance",
+          ])
+          .optional(),
+        // The article's own og:image. Absent when the page declares none, in
+        // which case the card falls back to a local placeholder.
+        //
+        // Must be a public https URL. Some sites publish a build-time og:image
+        // pointing at their own dev server, and next/image throws a runtime
+        // error on a host it has not been told about -- so a bad value here
+        // takes the whole page down rather than degrading.
+        image: z
+          .url()
+          .refine(
+            (u) => {
+              try {
+                const { protocol, hostname } = new URL(u);
+                return (
+                  protocol === 'https:' &&
+                  hostname.includes('.') &&
+                  !/^(localhost|127\.|0\.0\.0\.0|10\.|192\.168\.)/i.test(hostname)
+                );
+              } catch {
+                return false;
+              }
+            },
+            { message: 'image must be a public https URL' },
+          )
+          .optional(),
         publishedAt: z
           .string()
           .regex(/^\d{4}-\d{2}-\d{2}$/, "publishedAt must be YYYY-MM-DD")

@@ -55,21 +55,27 @@
       "tldr": "A privacy-preserving ledger will not simply tell you a balance, which breaks the naive approach immediately. A practical guide to what does work and why the difference exists.",
       "url": "https://noves.fi/blog/canton-coin-balances",
       "source": "Noves Blog",
-      "publishedAt": "2026-06-24"
+      "publishedAt": "2026-06-24",
+      "tag": "Tutorial",
+      "image": "https://noves.fi/opengraph-image?5a18093e8cd9f63e"
     },
     {
       "title": "From Intent to a Working USDCx Transfer Feed",
       "tldr": "Four stages from wanting to receive a token to actually having a reliable feed of transfers, with the failure at each step named rather than skipped over.",
       "url": "https://noves.fi/blog/canton-usdcx-tracking",
       "source": "Noves Blog",
-      "publishedAt": "2026-06-24"
+      "publishedAt": "2026-06-24",
+      "tag": "Finance",
+      "image": "https://noves.fi/opengraph-image?5a18093e8cd9f63e"
     },
     {
       "title": "Replacing Custom Event-Parsing Scripts: A Modulo Case Study",
       "tldr": "Every team indexing a chain writes the same brittle parsing scripts and then maintains them forever. A concrete account of retiring that layer.",
       "url": "https://noves.fi/blog/modulo-case-study",
       "source": "Noves Blog",
-      "publishedAt": "2026-06-24"
+      "publishedAt": "2026-06-24",
+      "tag": "Research",
+      "image": "https://noves.fi/opengraph-image?5a18093e8cd9f63e"
     }
   ]
 }

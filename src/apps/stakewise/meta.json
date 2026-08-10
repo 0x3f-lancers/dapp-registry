@@ -32,5 +32,34 @@
       "tarot",
       "goldfinch"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Diversified Staking With MetaVaults",
+      "tldr": "Routing deposits across several underlying vaults instead of running validators directly. Explains what that spreads out and what it does not, which matters for slashing exposure.",
+      "url": "https://blog.stakewise.io/guide/diversified-staking-with-metavaults",
+      "source": "StakeWise Blog",
+      "publishedAt": "2026-06-01",
+      "tag": "DeFi",
+      "image": "https://images.ctfassets.net/qp58gszk1081/15r2ZOLB2L30ZE3pQ3zmPv/1ce127f9675635196b20ec9301d5d18b/IMG_5129__1_.png"
+    },
+    {
+      "title": "Setting Up Per-Client MetaVaults",
+      "tldr": "How one validator fleet can serve several clients with separate staking experiences. Operationally specific in a way most staking content avoids.",
+      "url": "https://blog.stakewise.io/guide/setting-up-per-client-metavaults",
+      "source": "StakeWise Blog",
+      "publishedAt": "2026-06-01",
+      "tag": "DeFi",
+      "image": "https://images.ctfassets.net/qp58gszk1081/2hnfiLXBylls8DYi5bfuWa/135fd6efdb3ed14519db9935a8fe8450/Setting_Up_Per-Client_Meta_Vaults__1_.png"
+    },
+    {
+      "title": "Leveraged osETH/WETH Looping Strategy on Gearbox",
+      "tldr": "Walks a leveraged staking loop end to end with the actual numbers attached. Useful precisely because it shows where the yield comes from and what liquidates it.",
+      "url": "https://blog.stakewise.io/guide/leveraged-oseth-weth-looping-strategy-on-gearbox",
+      "source": "StakeWise Blog",
+      "publishedAt": "2026-01-27",
+      "tag": "DeFi",
+      "image": "https://images.ctfassets.net/qp58gszk1081/1hmPl2smpclbdYfQ8ciujT/30abfa62c22c7a1f7e1aa6da60cd5574/osETH_on_Gearbox.png"
+    }
+  ]
 }

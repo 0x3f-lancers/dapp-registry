@@ -38,5 +38,34 @@
       "amarna",
       "pocketuniverse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blockaid's Response to the CFTC on Prediction Markets",
+      "tldr": "A submitted comment letter on the CFTC's proposed public interest framework. Reading a real regulatory filing teaches more about the constraints than any summary of one.",
+      "url": "https://blockaid.io/blog/blockaids-response-to-the-cftc-on-prediction-markets",
+      "source": "Blockaid Blog",
+      "publishedAt": "2026-07-29",
+      "tag": "Regulation",
+      "image": "https://blockaid.io/api/resourceThumbnails/file/Blockaid&#x27;s%20response%20to%20the%20CFTC%20Prediction%20Markets%20(1).jpg"
+    },
+    {
+      "title": "Onchain Monitoring for Trading Firms: Real-Time Risk Visibility",
+      "tldr": "A desk needs to know not just what it holds but everything those positions quietly depend on. On making that second layer visible while capital is still deployed.",
+      "url": "https://blockaid.io/blog/onchain-monitoring-for-trading-firms-real-time-risk-visibility-for-capital-deployed-onchain",
+      "source": "Blockaid Blog",
+      "publishedAt": "2026-07-22",
+      "tag": "Trading",
+      "image": "https://blockaid.io/api/resourceThumbnails/file/Onchain%20Monitoring%20for%20Trading%20Firms.jpg"
+    },
+    {
+      "title": "Prop Desk to Curator: JPEG Trading's Security Evolution",
+      "tldr": "A fast-moving book across 100+ protocols and 15+ chains, and what had to change operationally to keep it safe. Concrete case study rather than a capability list.",
+      "url": "https://blockaid.io/blog/prop-desk-to-curator-jpeg-tradings-security-evolution-with-blockaid",
+      "source": "Blockaid Blog",
+      "publishedAt": "2026-08-05",
+      "tag": "Security",
+      "image": "https://blockaid.io/api/resourceThumbnails/file/JPEG%20Trading%20%2B%20Blockaid%20Case%20Study.jpg"
+    }
+  ]
 }

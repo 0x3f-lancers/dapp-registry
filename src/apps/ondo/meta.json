@@ -33,5 +33,25 @@
       "mountain-protocol",
       "paxos"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing the Ondo Network: The Evolution of Ondo Infrastructure",
+      "tldr": "A long design piece on building an execution layer for regulated markets, where the demands around speed and privacy pull in a different direction from a general-purpose chain.",
+      "url": "https://ondo.finance/blog/introducing-the-ondo-network",
+      "source": "Ondo Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "Infrastructure",
+      "image": "https://cdn.sanity.io/images/8k2tqa6n/production/a38530ed7840cb6c782753a5e251994b7adeec37-1600x900.png"
+    },
+    {
+      "title": "How Tokenized Stock Collateral Solves the Liquidity Problem for Equity Perps",
+      "tldr": "Perpetuals on equities need collateral that tracks the underlying closely. Explains why tokenised stock fits there, and precisely which liquidity problem it removes.",
+      "url": "https://ondo.finance/blog/tokenized-stock-collateral-for-equity-perps",
+      "source": "Ondo Blog",
+      "publishedAt": "2026-07-07",
+      "tag": "DeFi",
+      "image": "https://cdn.sanity.io/images/8k2tqa6n/production/73c75a792f09f65814c0b4a860456308003dda4f-1600x960.png"
+    }
+  ]
 }

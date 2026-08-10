@@ -43,14 +43,18 @@
       "tldr": "Uses zkTLS to prove a value genuinely came from a named source, with selective disclosure so the whole response need not be published. Aimed at reserves, NAV and collateral attestation.",
       "url": "https://www.diadata.org/blog/post/dia-zk-verifiable-offchain-data",
       "source": "DIA Blog",
-      "publishedAt": "2026-07-22"
+      "publishedAt": "2026-07-22",
+      "tag": "Identity",
+      "image": "https://cms3.diadata.org/wp-content/uploads/2026/07/DIA-ZK.png"
     },
     {
       "title": "How ST0x Uses DIA Oracles for Tokenized Equity Trading",
       "tldr": "Intent-based order logic on tokenised equities lives or dies on price freshness. A concrete look at what an oracle has to guarantee before that design is safe to run.",
       "url": "https://www.diadata.org/blog/post/how-st0x-uses-dia-oracles-for-tokenized-equity-trading",
       "source": "DIA Blog",
-      "publishedAt": "2026-07-30"
+      "publishedAt": "2026-07-30",
+      "tag": "Tokenization",
+      "image": "https://cms3.diadata.org/wp-content/uploads/2026/07/st0x.jpg"
     }
   ]
 }

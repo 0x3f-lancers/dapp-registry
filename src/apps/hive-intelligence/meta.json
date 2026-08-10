@@ -33,5 +33,31 @@
       "flipside",
       "idriss"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "MCP Integration Tutorial",
+      "tldr": "Step by step for connecting Claude, Cursor or another MCP client to live crypto data. Practical, and a decent introduction to what MCP actually does.",
+      "url": "https://www.hiveintelligence.xyz/tutorials/mcp-integration",
+      "source": "Hive Intelligence Tutorials",
+      "tag": "AI & Agents",
+      "image": "https://www.hiveintelligence.xyz/api/og?title=MCP+Integration+Tutorial+%7C+Hive+Intelligence&eyebrow=Tutorials"
+    },
+    {
+      "title": "LangChain and CrewAI Integration",
+      "tldr": "Wiring live prices, DeFi analytics and token security checks into agent frameworks. Useful for seeing where an agent's data actually comes from.",
+      "url": "https://www.hiveintelligence.xyz/tutorials/langchain",
+      "source": "Hive Intelligence Tutorials",
+      "tag": "AI & Agents",
+      "image": "https://www.hiveintelligence.xyz/api/og?title=LangChain+%26+CrewAI+Integration+%7C+Hive+Intelligence&eyebrow=Tutorials"
+    },
+    {
+      "title": "REST API Tutorial",
+      "tldr": "The plainest of the three: querying prices, yields and token security over HTTP, with no framework in the way. Start here if the others feel like too many layers.",
+      "url": "https://www.hiveintelligence.xyz/tutorials/rest-api",
+      "source": "Hive Intelligence Tutorials",
+      "tag": "Infrastructure",
+      "image": "https://www.hiveintelligence.xyz/api/og?title=REST+API+Tutorial+%7C+Hive+Intelligence&eyebrow=Tutorials"
+    }
+  ]
 }

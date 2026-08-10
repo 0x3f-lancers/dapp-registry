@@ -35,5 +35,34 @@
       "hardhat",
       "tatum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is a DATCO? A Digital Asset Treasury Guide",
+      "tldr": "Plain explanation of how digital asset treasury companies raise capital, deploy it, and the mNAV arithmetic that determines whether they trade at a premium or a discount.",
+      "url": "https://www.quicknode.com/blog/digital-asset-treasury-companies",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-08-03",
+      "tag": "Governance",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/2Q1u6eJKfdsj9tVRezyKqG/a76e6bc45c6e90822ee0c0df5ee11b77/datco-complete-guide-2026-uniform__2_.png"
+    },
+    {
+      "title": "Hyperliquid Fees Explained: Developer Costs",
+      "tldr": "Long and specific on what it costs to build on Hyperliquid: infrastructure, HyperEVM gas, HIP-3 and HIP-4, and the ways those costs can be offset.",
+      "url": "https://www.quicknode.com/blog/hyperliquid-developer-costs",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "Explainer",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/6daVDd7bjIJ4jdFE4ND0t8/812d2b49505577853527dd988380e921/hyperliquid-fees-explained.jpg"
+    },
+    {
+      "title": "Earn API: Automated USDC Yield in Your App",
+      "tldr": "Creating and closing yield strategies over plain HTTP, non-custodially, across seven chains. Interesting for how thin the integration surface has become.",
+      "url": "https://www.quicknode.com/blog/introducing-the-quicknode-earn-api-automated-usdc-yield-in-your-app",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-07-29",
+      "tag": "DeFi",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/5aMVnJLGfuIfexuMZ801an/aedf2c42d934b24e881f52b350538cf4/1200x630__3_.png"
+    }
+  ]
 }

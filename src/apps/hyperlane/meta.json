@@ -44,5 +44,23 @@
       "cobo-argus",
       "etherspot"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Builder Journeys: DIA Crosschain Oracle",
+      "tldr": "How an oracle team delivered price data across chains, and which interoperability decisions they had to make first. Implementation detail rather than architecture diagram.",
+      "url": "https://www.hyperlane.xyz/post/builder-journeys-dia-crosschain-oracle",
+      "source": "Hyperlane Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b504d816e3ea4343be9f_6801382853e7fe3cd7e04ee8_24.jpeg"
+    },
+    {
+      "title": "Builder Journeys: LogX Expands Trading Interchain",
+      "tldr": "A trading venue extending across chains, told from the builder's side. Worth reading for what breaks when order flow and settlement stop sharing a chain.",
+      "url": "https://www.hyperlane.xyz/post/builder-journeys-logx-expands-trading-interchain",
+      "source": "Hyperlane Blog",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/669871c478050139b74c8e08/6986b4fd801b60a83a781f31_67e18c510a402411cad6fcdf_1_vTfBo6Nfg04m0eE_JRYoWg.webp"
+    }
+  ]
 }

@@ -30,5 +30,34 @@
       "optix",
       "perpetual-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing TWAP Orders on Synthetix Perps",
+      "tldr": "Time-weighted average price orders exist because pushing size through in one go moves the market against you. A clear explanation of scaling in and out over time.",
+      "url": "https://blog.synthetix.io/introducing-twap-orders-on-synthetix-perps/",
+      "source": "Synthetix Blog",
+      "publishedAt": "2026-05-08",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2026/05/TWAP-Orders.png"
+    },
+    {
+      "title": "Introducing Scaled Orders on Synthetix Perps",
+      "tldr": "Rather than one large limit at a single level, a scaled order lays a ladder across a range. Useful for understanding how execution shape changes your average fill.",
+      "url": "https://blog.synthetix.io/introducing-scaled-orders-on-synthetix-perps/",
+      "source": "Synthetix Blog",
+      "publishedAt": "2026-05-11",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2026/05/Scaled-Orders.png"
+    },
+    {
+      "title": "Introducing ETH as Margin on Synthetix",
+      "tldr": "The first non-stable asset accepted as collateral, which sounds simple and is not: posting a volatile asset as margin changes how liquidation has to work.",
+      "url": "https://blog.synthetix.io/eth-multicollateral-margin/",
+      "source": "Synthetix Blog",
+      "publishedAt": "2026-06-03",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2026/06/Multicollateral--1-.png"
+    }
+  ]
 }

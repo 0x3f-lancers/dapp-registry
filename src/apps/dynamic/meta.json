@@ -39,5 +39,34 @@
       "magic",
       "blockradar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Deep Dive Into TSS-MPC",
+      "tldr": "What threshold signature schemes are, how they differ from other flavours of multi-party computation, and the security properties that follow from each choice.",
+      "url": "https://www.dynamic.xyz/blog/a-deep-dive-into-tss-mpc",
+      "source": "Dynamic Blog",
+      "publishedAt": "2025-02-25",
+      "tag": "Security",
+      "image": "https://www.fireblocks.com/wp-content/uploads/2026/04/a-deep-dive-into-tss-mpc-dynamics-focus-on-security-and-flexibility.webp"
+    },
+    {
+      "title": "Beyond the Speed Myth: TSS-MPC Performance",
+      "tldr": "The standing objection to threshold signatures has been latency. Argues that objection is now several years out of date, and shows where the time actually goes.",
+      "url": "https://www.dynamic.xyz/blog/beyond-the-speed-myth-why-tss-mpc-performance-is-already-a-solved-problem",
+      "source": "Dynamic Blog",
+      "publishedAt": "2026-02-05",
+      "tag": "Infrastructure",
+      "image": "https://www.fireblocks.com/wp-content/uploads/2026/04/beyond-the-speed-myth-why-tss-mpc-performance-is-already-a-solved-problem.webp"
+    },
+    {
+      "title": "Building Identity-Based Mini Apps With World ID",
+      "tldr": "Gating an app on proof of personhood rather than on a wallet balance. A practical walkthrough of what verified human access changes about the design.",
+      "url": "https://www.dynamic.xyz/blog/build-identity-based-mini-apps-with-world-id-and-dynamic",
+      "source": "Dynamic Blog",
+      "publishedAt": "2025-06-12",
+      "tag": "Identity",
+      "image": "https://www.fireblocks.com/wp-content/uploads/2026/04/build-identity-based-mini-apps-with-world-id-and-dynamic.webp"
+    }
+  ]
 }

@@ -357,9 +357,27 @@ function blogIndexUrls(origin: string): string[] {
  * platforms it actually links to. A squatter cannot make the real site link
  * to them, which makes this the one trustworthy signal available.
  */
-async function externalFeedsFromSite(origin: string): Promise<string[]> {
-  const html = await fetchText(origin);
-  if (!html) return [];
+async function externalFeedsFromSite(
+  origin: string,
+  extraPages: string[] = [],
+): Promise<string[]> {
+  // A link to the project's Medium often sits in the footer of a subpage, or
+  // on an /about or /community page, rather than on the landing page. Checking
+  // only the homepage misses those, so sweep a few likely pages too.
+  const pages = [
+    origin,
+    `${origin}/blog`,
+    `${origin}/about`,
+    `${origin}/community`,
+    `${origin}/resources`,
+    ...extraPages,
+  ];
+
+  const htmls = (
+    await Promise.all([...new Set(pages)].map((p) => fetchText(p)))
+  ).filter((h): h is string => Boolean(h));
+  if (!htmls.length) return [];
+  const html = htmls.join('\n');
 
   const feeds = new Set<string>();
   for (const m of html.matchAll(/href=["']([^"']+)["']/gi)) {
@@ -786,7 +804,9 @@ async function processApp(slug: string): Promise<AppResult> {
   // 4. The project may not self-host at all. Try the third-party platforms
   //    crypto teams actually publish on, guessing handles from the registry.
   if (!urls.length) {
-    for (const feedUrl of await externalFeedsFromSite(origin)) {
+    // Docs sites carry the same footer links and are worth sweeping too.
+    const docsPage = meta.links?.docs ? [meta.links.docs] : [];
+    for (const feedUrl of await externalFeedsFromSite(origin, docsPage)) {
       const found = await collectSitemapUrls(feedUrl);
       // Two entries is a real feed; one is usually a placeholder profile page.
       if (found.length < 2) continue;

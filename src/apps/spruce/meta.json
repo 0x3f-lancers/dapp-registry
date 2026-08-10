@@ -29,5 +29,34 @@
       "tide-protocol",
       "karma"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Selective Disclosure, and How Do Verifiable Credentials Reveal Only What's Needed?",
+      "tldr": "Showing a driving licence to prove your age hands over your address too. Selective disclosure turns that oversharing into proving exactly one fact and nothing more.",
+      "url": "https://blog.spruceid.com/digitalidentity-what-is-selective-disclosure-and-how-do-verifiable-digital-credentials-reveal-only-whats-needed/",
+      "source": "SpruceID Blog",
+      "publishedAt": "2026-07-02",
+      "tag": "Identity",
+      "image": "https://storage.ghost.io/c/1c/80/1c8003a5-fff1-4a96-8748-8ad268c1a7c6/content/images/size/w1200/2026/07/elissa_golden_meadow_at_dawn_--ar_43_--sref_1954524072_--v_7_2205eca5-d1d4-459b-9722-1140605350c3_2-1-1.png"
+    },
+    {
+      "title": "What Is Device Binding, and How Does It Stop a Stolen Digital ID Being Reused?",
+      "tldr": "A digital credential that can be copied is worth very little. Device binding is the cryptographic layer that ties one to a single phone, and this explains how.",
+      "url": "https://blog.spruceid.com/what-is-device-binding-and-how-does-it-keep-a-stolen-digital-id-from-being-reused/",
+      "source": "SpruceID Blog",
+      "publishedAt": "2026-07-30",
+      "tag": "Identity",
+      "image": "https://storage.ghost.io/c/1c/80/1c8003a5-fff1-4a96-8748-8ad268c1a7c6/content/images/size/w1200/2026/07/elissa_snowy_peaks_--ar_43_--sref_1954524072_--v_7_c2fc1db6-c4f0-4f85-b5c7-81db82d317a8_0-1.png"
+    },
+    {
+      "title": "Using a Mobile Driver's License at the Airport: How TSA mDL Acceptance Works",
+      "tldr": "Behind one tap at a checkpoint sits a chain of trust and a pile of interoperability standards. Traces that chain, which is the clearest worked example of digital ID in production.",
+      "url": "https://blog.spruceid.com/interoperability-using-a-mobile-drivers-license-at-the-airport-how-tsa-checkpoint-mdl-acceptance-works/",
+      "source": "SpruceID Blog",
+      "publishedAt": "2026-07-02",
+      "tag": "Identity",
+      "image": "https://storage.ghost.io/c/1c/80/1c8003a5-fff1-4a96-8748-8ad268c1a7c6/content/images/size/w1200/2026/07/elissa_clouds_in_the_sky_over_mountains_--ar_43_--sref_195452_bdefdee6-cf77-4354-815e-fbf0fd48598e_0-1.png"
+    }
+  ]
 }
