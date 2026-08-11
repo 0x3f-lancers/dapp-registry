@@ -30,5 +30,34 @@
       "portals-fi",
       "ethfiddle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Invariant Testing",
+      "tldr": "Instead of asserting what one call returns, you state what must always hold and let the fuzzer attack it.",
+      "url": "https://www.getfoundry.sh/guides/invariant-testing",
+      "source": "Foundry Guides",
+      "tag": "Tutorial",
+      "publishedAt": "2026-08-05",
+      "image": "https://www.getfoundry.sh/og-image.png"
+    },
+    {
+      "title": "Debugging Transactions",
+      "tldr": "Replaying a failed mainnet transaction locally and stepping the trace is the fastest route from 'it reverted' to knowing which call reverted and why.",
+      "url": "https://www.getfoundry.sh/guides/debugging-transactions",
+      "source": "Foundry Guides",
+      "tag": "Tutorial",
+      "publishedAt": "2026-07-27",
+      "image": "https://www.getfoundry.sh/og-image.png"
+    },
+    {
+      "title": "Code Coverage",
+      "tldr": "Generating LCOV output and per-test attribution, so you can see which test actually exercised a branch rather than trusting one aggregate percentage.",
+      "url": "https://www.getfoundry.sh/guides/coverage",
+      "source": "Foundry Guides",
+      "tag": "Tutorial",
+      "publishedAt": "2026-07-27",
+      "image": "https://www.getfoundry.sh/og-image.png"
+    }
+  ]
 }

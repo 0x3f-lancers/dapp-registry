@@ -35,5 +35,34 @@
     "related": [
       "zcloak-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Colyseus 0.17: Reconnection, Type Safety and defineServer()",
+      "tldr": "Automatic reconnection and end-to-end TypeScript safety are exactly the things multiplayer servers usually leave to you.",
+      "url": "https://colyseus.io/blog/colyseus-017-is-here/",
+      "source": "Colyseus Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-02-05",
+      "image": "https://colyseus.io/_astro/pattern-bg-purple.a5a2a485_Z1vIjW3.webp"
+    },
+    {
+      "title": "Two Open-Source Multiplayer Demos: Realtime and Turn-Based",
+      "tldr": "One server driving clients in Unity, Godot, GameMaker, Defold, React and Three.js. The clearest demonstration of what engine-agnostic really means.",
+      "url": "https://colyseus.io/blog/new-demos-realtime-tanks-turnbased-cards/",
+      "source": "Colyseus Blog",
+      "tag": "Tutorial",
+      "publishedAt": "2026-04-13",
+      "image": "https://colyseus.io/_astro/demos-realtime-turnbased.373bcbb3_2vEcmJ.webp"
+    },
+    {
+      "title": "First-Class Vite Integration",
+      "tldr": "Hot module reloading and unified builds for a multiplayer server. Small in scope but it removes the slowest part of the game-dev feedback loop.",
+      "url": "https://colyseus.io/blog/vite-integration/",
+      "source": "Colyseus Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-04-09",
+      "image": "https://colyseus.io/_astro/vite.98a497d9_Zy45Hv.webp"
+    }
+  ]
 }

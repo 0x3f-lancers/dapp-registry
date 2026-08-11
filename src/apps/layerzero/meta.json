@@ -37,5 +37,33 @@
       "flare-network",
       "cosmos"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Default Is Many Chains",
+      "tldr": "Four thousand words arguing the multi-chain outcome already happened and the question is now how anything coordinates across 170 of them.",
+      "url": "https://layerzero.network/blog/the-default-is-many-chains",
+      "source": "LayerZero Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-07-16",
+      "image": "https://assets.layerzero.network/images/3a83b312906d61307afc4676e74f09a086a635f83f8b45f4575245763deded01.png"
+    },
+    {
+      "title": "Cross-Chain Messaging Explained",
+      "tldr": "The protocol layer that carries data and instructions between chains, explained from first principles. Start here before reading anything about bridges.",
+      "url": "https://layerzero.network/blog/cross-chain-messaging",
+      "source": "LayerZero Blog",
+      "tag": "Explainer",
+      "publishedAt": "2026-06-29"
+    },
+    {
+      "title": "Enterprise DVNs: Who Actually Verifies Cross-Chain Messages",
+      "tldr": "Household-name payment processors and cloud providers now run verification nodes in production. Read it for how they divide up responsibility.",
+      "url": "https://layerzero.network/blog/enterprise-dvns",
+      "source": "LayerZero Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-07-21",
+      "image": "https://assets.layerzero.network/images/3b1d5a0b4f327e4eb49ec06c2dd9c456f23a5e69f50aa89d2372aa802f74c2fe.png"
+    }
+  ]
 }

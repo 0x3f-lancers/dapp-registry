@@ -32,7 +32,7 @@
   "resources": [
     {
       "title": "What \"Verifiable\" Actually Means for Blockchain Data",
-      "tldr": "Breaks down 1-of-N trust models, consensus and cryptographic verification as separate things, because they get used interchangeably and they guarantee very different amounts.",
+      "tldr": "Breaks down 1-of-N trust models, consensus and cryptographic verification as separate things, because they get used interchangeably and guarantee less.",
       "url": "https://thegraph.com/blog/verifiable-onchain-data-what-that-really-means",
       "source": "The Graph Blog",
       "tag": "Identity",
@@ -40,7 +40,7 @@
     },
     {
       "title": "Subgraphs or Substreams: Which Blockchain Data Solution Should You Choose?",
-      "tldr": "Subgraphs give structured queryable data for user-facing apps; substreams push high-throughput pipelines. Picks apart which workload each is genuinely built for.",
+      "tldr": "Subgraphs give structured queryable data for user-facing apps; substreams push high-throughput pipelines.",
       "url": "https://thegraph.com/blog/subgraphs-or-substreams-blockchain-data-solution",
       "source": "The Graph Blog",
       "tag": "Infrastructure",
@@ -48,7 +48,7 @@
     },
     {
       "title": "GraphTally: How The Graph Solved Micropayments for the Machine Economy",
-      "tldr": "Pay-per-request billing is being treated as new, but The Graph has settled micropayments this way in production since early 2025. Worth reading for the operational lessons rather than the concept.",
+      "tldr": "Pay-per-request billing is being treated as new, but The Graph has settled micropayments this way in production since early 2025.",
       "url": "https://thegraph.com/blog/graphtally-micropayments-machine-economy",
       "source": "The Graph Blog",
       "tag": "Payments",

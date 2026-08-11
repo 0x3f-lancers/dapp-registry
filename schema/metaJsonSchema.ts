@@ -46,7 +46,10 @@ export const metaJsonSchema = z.object({
         title: z.string().min(1).max(160),
         // Written by us, never pasted from the source (pasted text would be
         // duplicate content, which is the problem this field exists to fix).
-        tldr: z.string().min(40).max(300),
+        // 155 is what fits a Learn card without clipping. The card renders
+        // `tldr` in full and never truncates, so anything longer would
+        // overflow the design rather than be quietly cut -- keep it here.
+        tldr: z.string().min(40).max(155),
         url: z.url(),
         source: z.string().min(1).max(80),
         // Topic label shown on the card in place of the publisher name, so a

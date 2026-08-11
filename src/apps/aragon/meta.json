@@ -34,7 +34,7 @@
   "resources": [
     {
       "title": "Verifiable Secret Ballots With Interfold and Aragon",
-      "tldr": "Onchain voting is transparent by default, which is exactly wrong for a secret ballot. Describes a CRISP-based implementation that keeps votes private while still verifiable.",
+      "tldr": "Onchain voting is transparent by default, exactly wrong for a secret ballot. A CRISP-based implementation that keeps votes private yet verifiable.",
       "url": "https://blog.aragon.org/verifiable-secret-ballots-with-interfold-and-aragon/",
       "source": "Aragon Blog",
       "publishedAt": "2026-06-30",
@@ -43,7 +43,7 @@
     },
     {
       "title": "EVM Mirror: Mind the Gap Between Audit and Deployment",
-      "tldr": "The code that was audited and the bytecode that ended up onchain are not always the same thing. On closing that gap, which is a quietly common source of risk.",
+      "tldr": "The code that was audited and the bytecode that ended up onchain are not always the same. On closing that gap, a quietly common source of risk.",
       "url": "https://blog.aragon.org/evm-mirror-mind-the-gap-between-audit-and-deployment/",
       "source": "Aragon Blog",
       "publishedAt": "2026-06-15",

@@ -35,7 +35,7 @@
   "resources": [
     {
       "title": "A Mathematical Theory of Danksharding",
-      "tldr": "Short and unapologetically formal. If you have read the accessible explanations of data availability sampling and want the actual mathematics, this is the step up.",
+      "tldr": "If you have read the accessible explanations of data availability sampling and want the actual mathematics, this is the step up.",
       "url": "https://ingonyama.com/post/a-mathematical-theory-of-danksharding",
       "source": "Ingonyama Research",
       "tag": "Infrastructure",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Bridging the Multichain Universe With Zero Knowledge Proofs",
-      "tldr": "Long treatment of proof-based bridging, where the receiving chain verifies mathematics rather than trusting a validator set. The most rigorous answer to the bridge problem.",
+      "tldr": "Long treatment of proof-based bridging, where the receiving chain verifies mathematics rather than trusting a validator set.",
       "url": "https://ingonyama.com/post/bridging-the-multichain-universe-with-zero-knowledge-proofs",
       "source": "Ingonyama Research",
       "tag": "Infrastructure",
@@ -51,7 +51,7 @@
     },
     {
       "title": "AMD XDNA: Meet the ZK Acceleration King",
-      "tldr": "Proof generation is now a hardware problem as much as a cryptographic one. Benchmarks a specific accelerator architecture against the workload ZK actually creates.",
+      "tldr": "Proof generation is now a hardware problem as much as a cryptographic one. Benchmarks an accelerator architecture against the workload ZK creates.",
       "url": "https://ingonyama.com/post/amd-xdna-meet-2023-zk-acceleration-king",
       "source": "Ingonyama Research",
       "tag": "Infrastructure",

@@ -40,5 +40,34 @@
     "related": [
       "slither"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Price Oracle Manipulation in Smart Contracts",
+      "tldr": "Move the price the contract reads and you move everything downstream of it. Still one of the most productive attack classes in DeFi.",
+      "url": "https://smartstate.tech/blog/price-oracle-manipulation-vulnerability-in-smart-contracts.html",
+      "source": "SmartState Blog",
+      "tag": "Security",
+      "publishedAt": "2025-09-04",
+      "image": "https://smartstate.tech/sites/default/files/styles/large/public/blog/price_oracle_manipulation.jpg?itok=HWj9C-jA"
+    },
+    {
+      "title": "What Is the Entropy Illusion Vulnerability?",
+      "tldr": "Randomness that looks unpredictable and is not. A narrower bug class than reentrancy and considerably less well understood.",
+      "url": "https://smartstate.tech/blog/what-is-entropy-illusion-vulnerability.html",
+      "source": "SmartState Blog",
+      "tag": "Security",
+      "publishedAt": "2025-07-21",
+      "image": "https://smartstate.tech/sites/default/files/styles/large/public/blog/entropy_illusion.jpg?itok=n-urh8Tt"
+    },
+    {
+      "title": "ISO 20022 and What It Means for Blockchain",
+      "tldr": "The messaging standard the banking system is migrating to, and where onchain settlement would have to meet it. Dry subject, real consequences.",
+      "url": "https://smartstate.tech/blog/a-swift-shift-what-is-iso-20022-and-how-is-it-related-to-the-blockchain-industry.html",
+      "source": "SmartState Blog",
+      "tag": "Payments",
+      "publishedAt": "2026-01-16",
+      "image": "https://smartstate.tech/sites/default/files/styles/large/public/blog/iso20022_0.jpg?itok=LcTu3xMn"
+    }
+  ]
 }

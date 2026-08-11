@@ -35,5 +35,31 @@
       "ethlint",
       "militereum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "90% of Tokens Deployed on Uniswap v2 on Base Were Hard Rug Pulls",
+      "tldr": "Not an estimate but a measurement across deployments, showing scam tokens are being mass-produced rather than hand-crafted. The ratio is the finding.",
+      "url": "https://forta.org/blog/90-of-tokens-deployed-on-uniswap-v2-on-base-were-hard-rug-pulls",
+      "source": "Forta Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/66cd2d7ea789238685811a86/67ffd4b3197dfd21f3131108_basePosta.png?4362984378"
+    },
+    {
+      "title": "A Decade of Sanctions-Linked Exposure on Ethereum",
+      "tldr": "Billions moved through addresses tied to sanctions over ten years, traced. Short, and blunt about why compliance screening stopped being optional.",
+      "url": "https://forta.org/blog/a-decade-of-sanctions-linked-exposure-on-ethereum",
+      "source": "Forta Blog",
+      "tag": "Regulation",
+      "image": "https://cdn.prod.website-files.com/66cd2d7ea789238685811a86/698b4ab73fc0297a39d40fe3_Group%20238381.png?4362984378"
+    },
+    {
+      "title": "1,000+ Scan Nodes: Inside an Incentivized Detection Network",
+      "tldr": "How a threat-detection network pays independent operators to run scanners. Interesting as a design problem: how do you reward finding nothing?",
+      "url": "https://forta.org/blog/1000-nodes",
+      "source": "Forta Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/66cd2d7ea789238685811a86/66fd86786a3c1880b175ad70_map.png?4362984378"
+    }
+  ]
 }

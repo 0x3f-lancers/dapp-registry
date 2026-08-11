@@ -38,5 +38,31 @@
       "chaos-labs",
       "wallet-guard"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Anthropic Can Now Crack Smart Contracts: What AI Agents Mean for Web3 Security",
+      "tldr": "Models finding real contract vulnerabilities changes who can attack and how cheaply. Thinks through what that does to the economics of auditing.",
+      "url": "https://www.anchain.ai/blog/anthropic-red",
+      "source": "AnChain.AI Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/6477830016348fbd6594f23c/693453092112f48107efeef5_blog%20anthropic%20crack.jpg"
+    },
+    {
+      "title": "Agentic AML: AI Agents in Anti-Money-Laundering Compliance",
+      "tldr": "Compliance teams drown in alerts that are mostly false positives. Where agents genuinely reduce that load, and where handing them the call is reckless.",
+      "url": "https://www.anchain.ai/blog/agentic-aml",
+      "source": "AnChain.AI Blog",
+      "tag": "Regulation",
+      "image": "https://cdn.prod.website-files.com/6477830016348fbd6594f23c/696acd5b9cd4af889231491a_blog%20agentic%20aml%20front.png"
+    },
+    {
+      "title": "Building a Blockchain Investigation AI Agent",
+      "tldr": "Tracing funds across mixers and bridges is slow, repetitive work that suits an agent. A practical look at what that investigation loop needs.",
+      "url": "https://www.anchain.ai/blog/agent-skills",
+      "source": "AnChain.AI Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/6477830016348fbd6594f23c/69c6d4ef83ad4a4a34decd33_blog%20banner%20pocket%20network.png"
+    }
+  ]
 }

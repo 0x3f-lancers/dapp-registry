@@ -33,7 +33,7 @@
   "resources": [
     {
       "title": "How Pairwise Synchronization Improves Decentralized Data Management",
-      "tldr": "The team replaced the algorithm at the heart of the database, moving from multicast to pairwise sync. Explains what was wrong with the old approach and what the swap cost them.",
+      "tldr": "The team replaced the algorithm at the heart of the database, moving from multicast to pairwise sync. What was wrong before, and what the swap cost.",
       "url": "https://blog.ceramic.network/revolutionizing-data-publishing-why-ceramic-shifted-from-multicast-to-pairwise-synchronization/",
       "source": "Ceramic Blog",
       "publishedAt": "2024-07-17",
@@ -42,7 +42,7 @@
     },
     {
       "title": "A Step-by-Step Guide to Ceramic's Private Data Proof-of-Concept",
-      "tldr": "Adding privacy to a network built around open, shared data is genuinely awkward. Walks through a deliberately minimal proof of concept rather than promising a finished feature.",
+      "tldr": "Adding privacy to a network built around open, shared data is genuinely awkward. A deliberately minimal proof of concept, not a finished feature.",
       "url": "https://blog.ceramic.network/private-data-guide/",
       "source": "Ceramic Blog",
       "publishedAt": "2024-07-25",

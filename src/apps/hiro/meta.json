@@ -33,7 +33,7 @@
   "resources": [
     {
       "title": "Dissecting a Transaction Signature on Stacks",
-      "tldr": "Pulls a signature apart field by field. Signature formats are usually treated as a black box, and understanding one properly makes a whole class of bugs legible.",
+      "tldr": "Signature formats are usually treated as a black box, and understanding one properly makes a whole class of bugs legible.",
       "url": "https://www.hiro.so/blog/dissecting-a-transaction-signature-on-stacks",
       "source": "Hiro Blog",
       "publishedAt": "2025-07-17",
@@ -51,7 +51,7 @@
     },
     {
       "title": "Breaking Down the sBTC-Wormhole Integration",
-      "tldr": "Moving a Bitcoin-backed asset across chains means two different trust models meeting in the middle. Explains where the handoff happens and what each side assumes.",
+      "tldr": "Moving a Bitcoin-backed asset across chains means two trust models meeting in the middle. Where the handoff happens and what each side assumes.",
       "url": "https://www.hiro.so/blog/breaking-down-the-sbtc-wormhole-integration",
       "source": "Hiro Blog",
       "publishedAt": "2025-08-06",

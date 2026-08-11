@@ -38,5 +38,34 @@
       "glider",
       "pocketuniverse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An $8M Mux-Up: Finding a Critical Vulnerability in MUX Protocol",
+      "tldr": "Two thousand words tracing a real critical bug from detection to disclosure. The value is in the reasoning path, not the headline figure.",
+      "url": "https://octane.security/post/an-8m-mux-up-how-octanes-ai-found-a-critical-vulnerability-in-mux-protocol",
+      "source": "Octane Security Blog",
+      "tag": "Security",
+      "publishedAt": "2026-06-20",
+      "image": "https://cdn.prod.website-files.com/69f1b8ab17950a86b0bcbc19/6a369df0fb64c8b93b0dd166_6a02044b2918eae54baefa30_mux%2520up.avif"
+    },
+    {
+      "title": "Catching a High-Severity Ethereum Client Bug",
+      "tldr": "A bug in client software rather than a contract, which is a much less examined surface with much broader blast radius.",
+      "url": "https://octane.security/post/ethereum",
+      "source": "Octane Security Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-27",
+      "image": "https://cdn.prod.website-files.com/69f1b8ab17950a86b0bcbc19/6a369e0d0bf5c79b641bca0f_6a02044b2918eae54baefa3f_ethereum%2520smaller%25202.avif"
+    },
+    {
+      "title": "Asymmetric War: Agentic AI and the Future of Cybersecurity",
+      "tldr": "Attackers and defenders both get the same tooling, and the argument here is about which side the asymmetry favours. Not a comfortable conclusion.",
+      "url": "https://octane.security/post/asymmetric-war-agentic-ai-future-of-cybersecurity",
+      "source": "Octane Security Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-06-20",
+      "image": "https://cdn.prod.website-files.com/69f1b8ab17950a86b0bcbc19/6a369df3af92497fe92e4005_6a02044b2918eae54baefa18_asym%2520thumb.avif"
+    }
+  ]
 }

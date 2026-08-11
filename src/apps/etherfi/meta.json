@@ -34,5 +34,34 @@
       "bitcoincom",
       "curve-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Redeeming 20% of TVL Without Lengthening Ethereum's Exit Queue",
+      "tldr": "Nearly a fifth of deposits withdrawn in 33 days while keeping the pressure off a shared queue every validator depends on.",
+      "url": "https://ether.fi/blog/how-ether-fi-redeemed-20-percent-of-tvl-without-adding-to-exit-queue",
+      "source": "ether.fi Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-06-09",
+      "image": "https://cdn.sanity.io/images/ufyao9jy/production/a451753ca4a95a24c3f2595852707ce534232977-1360x768.jpg?rect=0,27,1360,714&w=1200&h=630&fit=crop&auto=format&rev=2026-06-24T10%3A55%3A18Z"
+    },
+    {
+      "title": "Non-Custodial and Actively Defended",
+      "tldr": "When an exploit lands the window to prevent loss is seconds, so this describes defence designed around that constraint rather than around audits.",
+      "url": "https://ether.fi/blog/non-custodial-actively-defended",
+      "source": "ether.fi Blog",
+      "tag": "Security",
+      "publishedAt": "2026-06-23",
+      "image": "https://cdn.sanity.io/images/ufyao9jy/production/9a0691674c25e1b06db1bea5870fac9745ca7b1f-1360x768.jpg?rect=0,27,1360,714&w=1200&h=630&fit=crop&auto=format&rev=2026-06-24T14%3A56%3A49Z"
+    },
+    {
+      "title": "Safe Staking, From Doctrine to Code",
+      "tldr": "Turning stated risk principles into the actual implementation, written just after the protocol had been tested by industry-wide redemptions.",
+      "url": "https://ether.fi/blog/safe-staking-from-doctrine-to-code",
+      "source": "ether.fi Blog",
+      "tag": "DeFi",
+      "publishedAt": "2026-07-14",
+      "image": "https://cdn.sanity.io/images/ufyao9jy/production/902ac0ab0eac01957c1b3215c9c0524b299eaa84-1672x941.jpg?rect=0,32,1672,878&w=1200&h=630&fit=crop&auto=format&rev=2026-07-14T21%3A36%3A22Z"
+    }
+  ]
 }

@@ -37,7 +37,7 @@
   "resources": [
     {
       "title": "DualPool Hook: A Technical Deep Dive",
-      "tldr": "A v4 hook that parks idle market-maker inventory in a lending market until the moment a swap needs it. Walks through the accounting and the edge cases that make doing so safe.",
+      "tldr": "A v4 hook parking idle market-maker inventory in a lending market until a swap needs it. Walks the accounting and the edge cases that make it safe.",
       "url": "https://blog.uniswap.org/dualpool-hook-is-now-live",
       "source": "Uniswap Labs Blog",
       "publishedAt": "2026-07-22",
@@ -46,7 +46,7 @@
     },
     {
       "title": "Introducing Permissioned Pools on Uniswap v4",
-      "tldr": "A hook standard for trading assets that carry compliance constraints, with the eligibility checks enforced onchain at swap time rather than bolted on at the interface layer.",
+      "tldr": "A hook standard for trading assets carrying compliance constraints, with eligibility enforced onchain at swap time rather than at the interface.",
       "url": "https://blog.uniswap.org/introducing-permissioned-pools-on-uniswap-v4",
       "source": "Uniswap Labs Blog",
       "publishedAt": "2026-07-23",

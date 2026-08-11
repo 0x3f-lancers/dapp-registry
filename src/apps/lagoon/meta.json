@@ -34,7 +34,7 @@
   "resources": [
     {
       "title": "Lagoon's Fee Structure: The Four Fee Types, Explained",
-      "tldr": "Management, performance, entry/exit and protocol fees, with the actual formulas, caps and accrual mechanics rather than a summary. Rare to see a vault show this much of its arithmetic.",
+      "tldr": "Management, performance, entry/exit and protocol fees, with the actual formulas, caps and accrual mechanics rather than a summary.",
       "url": "https://lagoon.finance/blog/lagoon-fee-structure",
       "source": "Lagoon Blog",
       "publishedAt": "2026-05-05",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Agentic Finance: How AI Agents Work With Lagoon Vaults",
-      "tldr": "Moving agents from chat to actual capital means letting them discover a vault, read its state, and act on it. Describes what each of those three steps requires.",
+      "tldr": "Moving agents from chat to actual capital means letting them discover a vault, read its state, and act on it.",
       "url": "https://lagoon.finance/blog/agentic-finance-lagoon-vaults",
       "source": "Lagoon Blog",
       "publishedAt": "2026-07-27",
@@ -52,7 +52,7 @@
     },
     {
       "title": "More Than Vaults: Lagoon's Open Data Layer",
-      "tldr": "An SDK reading contracts directly, plus a public GraphQL API with no key required. Worth reading for the argument that vault data should be queryable by anyone, not just the operator.",
+      "tldr": "An SDK reading contracts directly, plus a public GraphQL API with no key. Argues vault data should be queryable by anyone, not just the operator.",
       "url": "https://lagoon.finance/blog/lagoon-api-sdk-mcp",
       "source": "Lagoon Blog",
       "publishedAt": "2026-05-28",

@@ -32,5 +32,34 @@
       "rockx",
       "wingriders"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Build Your First Aiken Smart Contract",
+      "tldr": "Writing a Cardano validator in Aiken and then actually locking and unlocking assets with it. Complete enough to run rather than just read.",
+      "url": "https://meshjs.dev/guides/aiken",
+      "source": "Mesh SDK Guides",
+      "tag": "Tutorial",
+      "publishedAt": "2026-08-10",
+      "image": "https://meshjs.dev/docs-og/guides/aiken/image.png"
+    },
+    {
+      "title": "Building a Custom Blockchain Provider",
+      "tldr": "Implementing the fetcher and submitter interfaces to point an SDK at your own infrastructure. The part of a toolkit that decides whether you can leave it.",
+      "url": "https://meshjs.dev/guides/custom-provider",
+      "source": "Mesh SDK Guides",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-08-10",
+      "image": "https://meshjs.dev/docs-og/guides/custom-provider/image.png"
+    },
+    {
+      "title": "Minting NFTs on Cardano From Node.js",
+      "tldr": "Server-side minting with distribution to many recipients. Cardano's UTXO model makes batch operations genuinely different, and this shows how.",
+      "url": "https://meshjs.dev/guides/minting-on-nodejs",
+      "source": "Mesh SDK Guides",
+      "tag": "Tutorial",
+      "publishedAt": "2026-08-10",
+      "image": "https://meshjs.dev/docs-og/guides/minting-on-nodejs/image.png"
+    }
+  ]
 }

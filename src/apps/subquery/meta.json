@@ -40,5 +40,34 @@
       "bitquery",
       "o7node"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Network Security Incident: Full Disclosure and Recovery Plan",
+      "tldr": "Root cause, timeline and a commitment to make every affected staker whole. Published fast and without hedging, the standard others should be held to.",
+      "url": "https://subquery.network/blog/subquery-network-security-incident-report",
+      "source": "SubQuery Blog",
+      "tag": "Security",
+      "publishedAt": "2026-04-13",
+      "image": "https://storage.ghost.io/c/2c/56/2c56f86a-d6e6-4123-8dda-7ecbe3e32daf/content/images/2026/04/Incident-Report.png"
+    },
+    {
+      "title": "How OpenZeppelin Handles Access Control Across 30+ Chains",
+      "tldr": "A real architecture walkthrough of running multi-chain data with no backend of your own. The constraint is what makes it interesting.",
+      "url": "https://subquery.network/blog/openzeppelin-indexer-case-study-with-subquery",
+      "source": "SubQuery Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-04-09",
+      "image": "https://storage.ghost.io/c/2c/56/2c56f86a-d6e6-4123-8dda-7ecbe3e32daf/content/images/2026/04/OpenZeppelin.png"
+    },
+    {
+      "title": "Multi-Chain Perpetual Futures Indexing: A Case Study",
+      "tldr": "Perps generate a punishing volume of events, and indexing them across chains is where most data layers fall over. This shows what held.",
+      "url": "https://subquery.network/blog/multichain-indexing-with-subquery-case-study",
+      "source": "SubQuery Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-03-25",
+      "image": "https://storage.ghost.io/c/2c/56/2c56f86a-d6e6-4123-8dda-7ecbe3e32daf/content/images/2026/03/Fufuture-Case-Study.png"
+    }
+  ]
 }

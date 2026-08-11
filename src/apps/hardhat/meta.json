@@ -35,7 +35,7 @@
   "resources": [
     {
       "title": "Managing Config Values and Secrets Safely",
-      "tldr": "Private keys in a committed config file remain one of the most common ways teams lose funds. Covers the mechanism Hardhat provides so they never sit in the repo.",
+      "tldr": "Private keys in a committed config file remain a common way teams lose funds. Covers the mechanism Hardhat provides so they never sit in the repo.",
       "url": "https://hardhat.org/docs/guides/configuration-variables",
       "source": "Hardhat Docs",
       "tag": "Security",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Deploying Smart Contracts Using Hardhat Ignition",
-      "tldr": "Declarative deployment: describe the end state and let the tool work out the ordering and resume from failures. A better model than a script that must run perfectly once.",
+      "tldr": "Declarative deployment: describe the end state and let the tool work out the ordering and resume from failures.",
       "url": "https://hardhat.org/docs/guides/deployment/using-ignition",
       "source": "Hardhat Docs",
       "tag": "Infrastructure",

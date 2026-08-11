@@ -36,7 +36,7 @@
   "resources": [
     {
       "title": "Why a Recovery Phrase Must Be Truly Random",
-      "tldr": "A seed is only as strong as the entropy behind it, and hardware random number generation is where that quietly goes wrong. Goes into the actual TRNG design.",
+      "tldr": "A seed is only as strong as the entropy behind it, and hardware random number generation is where that quietly goes wrong.",
       "url": "https://www.safepal.com/en/blog/hw-firmware-trng",
       "source": "SafePal Blog",
       "publishedAt": "2026-08-01",

@@ -8,7 +8,10 @@
     "Decentralized Derivatives",
     "Decentralized Lending Dapps"
   ],
-  "chains": ["Cosmos", "Multichain"],
+  "chains": [
+    "Cosmos",
+    "Multichain"
+  ],
   "pricing": "",
   "content": {
     "short": "Shade Protocol is a privacy-preserving DeFi hub on Secret Network that unites multiple DeFi products in a single Dapp.",
@@ -21,7 +24,40 @@
     "twitter": "https://x.com/shade_protocol"
   },
   "relations": {
-    "alternatives": ["soldex", "ix-swap", "swoop-exchange"],
-    "related": ["thetanuts-finance", "ezo"]
-  }
+    "alternatives": [
+      "soldex",
+      "ix-swap",
+      "swoop-exchange"
+    ],
+    "related": [
+      "thetanuts-finance",
+      "ezo"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is Silk?",
+      "tldr": "A privacy-preserving stablecoin pegged to a basket rather than to the dollar alone. Explains why the basket design was chosen and what it trades away.",
+      "url": "https://shadeprotocol.io/blog/silk",
+      "source": "Shade Protocol Blog",
+      "tag": "DeFi",
+      "image": "https://framerusercontent.com/images/IX2lr4dcj3e2WSQrkyfpJrsSEkk.png"
+    },
+    {
+      "title": "ShadeX: Redefining Lending and Borrowing via Encryption",
+      "tldr": "Public lending markets expose every position to anyone watching. Works through what changes when balances are encrypted by default.",
+      "url": "https://shadeprotocol.io/blog/shadex-coming-soon",
+      "source": "Shade Protocol Blog",
+      "tag": "DeFi",
+      "image": "https://framerusercontent.com/images/j3RKkNGwYb5yXcpD8RZmIZdRYI.png"
+    },
+    {
+      "title": "Introducing Feather",
+      "tldr": "Governance participation usually demands attention nobody has. Describes delegating that without handing over the underlying assets.",
+      "url": "https://shadeprotocol.io/blog/shade-introduces-feather",
+      "source": "Shade Protocol Blog",
+      "tag": "Governance",
+      "image": "https://framerusercontent.com/images/R1xYHpIVls17V67iSZo3esVgLEI.png"
+    }
+  ]
 }

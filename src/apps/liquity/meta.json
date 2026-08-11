@@ -31,5 +31,31 @@
       "stellaswap",
       "kyberswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Beginner's Guide to Trove Management",
+      "tldr": "Troves are the collateral positions the whole protocol runs on, and mismanaging one is how people get liquidated. Explains what to watch and when to act.",
+      "url": "https://www.liquity.org/blog/a-beginners-guide-to-trove-management",
+      "source": "Liquity Blog",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/5fe512bf3e57baa22a4812f0/611fe610baefcf61ce128fdf_trove-manage.avif"
+    },
+    {
+      "title": "A BOLD Stance",
+      "tldr": "The reasoning behind the stablecoin design rather than the announcement of it. Useful for seeing which trade-offs were chosen deliberately.",
+      "url": "https://www.liquity.org/blog/a-bold-stance",
+      "source": "Liquity Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/5fe512bf3e57baa22a4812f0/678008e37873eb69af7c8c22_Group%202570.avif"
+    },
+    {
+      "title": "Addressing Concerns About Liquity",
+      "tldr": "A protocol answering its critics in detail rather than deflecting. Read it for the objections as much as the responses.",
+      "url": "https://www.liquity.org/blog/addressing-concerns-about-liquity",
+      "source": "Liquity Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/5fe512bf3e57baa22a4812f0/60e49e7062b1d14888211b92_1_K4GsPOHTi-5edacV5eNToQ.png"
+    }
+  ]
 }

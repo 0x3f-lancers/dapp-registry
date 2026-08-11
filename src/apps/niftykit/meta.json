@@ -35,5 +35,23 @@
       "culture-vault",
       "ghostmarket"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Withdraw From Smart Contracts on Etherscan",
+      "tldr": "Money stuck in a contract you deployed is a common and panicky problem. This walks the block explorer interface that gets it out.",
+      "url": "https://niftykit.com/blog/how-to-withdraw-from-smart-contracts-on-etherscan",
+      "source": "NiftyKit Blog",
+      "tag": "Tutorial",
+      "image": "https://framerusercontent.com/images/aaQ3G7yhXR0c9EForzQxErTQ.png"
+    },
+    {
+      "title": "Minting NFTs Inside Farcaster Frames, No Code",
+      "tldr": "Turning a social post into a mint surface, which changed where NFT distribution happens. Worth reading for the mechanic even if you skip the tooling.",
+      "url": "https://niftykit.com/blog/niftykit-x-farcaster-create-nfts-and-mint-with-warpcast-frames-(no-code)",
+      "source": "NiftyKit Blog",
+      "tag": "Tutorial",
+      "image": "https://framerusercontent.com/images/wkqsEyj9CDkNhXUqxtIrvKQwl4.jpg"
+    }
+  ]
 }

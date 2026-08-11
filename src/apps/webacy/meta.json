@@ -30,5 +30,31 @@
       "squads",
       "connectkit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Hardware Wallet Is Not Enough: Behind the NFT God Hack",
+      "tldr": "A cold wallet protects the key and does nothing about what you agree to sign. Uses a well-known theft to show how the device was never the weak point.",
+      "url": "https://www.webacy.com/blog/a-hardware-wallet-is-not-enough-behind-the-nft-god-hack",
+      "source": "Webacy Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/69b04431ab7a00527a1ce4d1/69b0781282da05425e5d095c_A-Hardware-Wallet-is-Not-Enough.png"
+    },
+    {
+      "title": "Address Poisoning Is Accelerating: What the Data Shows",
+      "tldr": "Measures the attack rather than describing it, which makes the scale clear. The mechanism preys on people checking only the first and last characters.",
+      "url": "https://www.webacy.com/blog/address-poisoning-is-accelerating",
+      "source": "Webacy Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/69b04431ab7a00527a1ce4d1/69b8af0add948648b7c88925_Blog%20Post%20Heros.png"
+    },
+    {
+      "title": "Agent Payment Security: The Asset Layer Nobody Is Checking",
+      "tldr": "Most agent-payment discussion stops at spending limits. Argues the unexamined risk is what the agent is paid in, and whether it is what it claims.",
+      "url": "https://www.webacy.com/blog/agent-payment-asset-risk-gap",
+      "source": "Webacy Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/69b04431ab7a00527a1ce4d1/6a6211ac2b11944864a8e466_Blog%20Post%20Heros.png"
+    }
+  ]
 }

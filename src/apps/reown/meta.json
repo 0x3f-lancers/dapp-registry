@@ -32,5 +32,34 @@
       "connectkit",
       "kerberus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "UX Writing in the Age of AI",
+      "tldr": "Using models to audit copy rather than generate it. A rare piece that lands on a specific division of labour instead of a position on AI.",
+      "url": "https://reown.com/blog/ux-writing-in-age-of-ai",
+      "source": "Reown Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-06-22",
+      "image": "https://cdn.sanity.io/images/uvy10p5b/production/e554c1499caf233c21c2621d8cc12a68d7dbc276-7680x4320.png?rect=0,144,7680,4032&w=1200&h=630&fm=jpg&q=80&fit=crop"
+    },
+    {
+      "title": "Optimising an Onchain App to Survive a Bear Market",
+      "tldr": "Cost structure, retention and what to cut when volume falls. Written for the part of the cycle nobody publishes advice about.",
+      "url": "https://reown.com/blog/optimize-onchain-app-to-survive-bear-market",
+      "source": "Reown Blog",
+      "tag": "Research",
+      "publishedAt": "2026-06-11",
+      "image": "https://cdn.sanity.io/images/uvy10p5b/production/f9bf82d46c193ed0cb273f2986f95dc2fa827324-5760x3240.png?rect=0,108,5760,3024&w=1200&h=630&fm=jpg&q=80&fit=crop"
+    },
+    {
+      "title": "Wallet Verification Flows for Compliance: A Case Study",
+      "tldr": "Connecting wallet authentication to an identity-verification product. Concrete on where the compliance boundary sits in a self-custodial flow.",
+      "url": "https://reown.com/blog/how-sumsub-leveraged-reown-authentication-to-expand-compliance-offering",
+      "source": "Reown Blog",
+      "tag": "Identity",
+      "publishedAt": "2026-06-16",
+      "image": "https://cdn.sanity.io/images/uvy10p5b/production/d3e06266474d02c52e16d8f7270f84e38b3ffb86-7680x4320.png?rect=0,144,7680,4032&w=1200&h=630&fm=jpg&q=80&fit=crop"
+    }
+  ]
 }

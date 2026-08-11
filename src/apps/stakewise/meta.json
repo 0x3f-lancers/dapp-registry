@@ -36,7 +36,7 @@
   "resources": [
     {
       "title": "Diversified Staking With MetaVaults",
-      "tldr": "Routing deposits across several underlying vaults instead of running validators directly. Explains what that spreads out and what it does not, which matters for slashing exposure.",
+      "tldr": "Routing deposits across several underlying vaults instead of running validators directly. What that spreads out and what it does not, for slashing.",
       "url": "https://blog.stakewise.io/guide/diversified-staking-with-metavaults",
       "source": "StakeWise Blog",
       "publishedAt": "2026-06-01",
@@ -54,7 +54,7 @@
     },
     {
       "title": "Leveraged osETH/WETH Looping Strategy on Gearbox",
-      "tldr": "Walks a leveraged staking loop end to end with the actual numbers attached. Useful precisely because it shows where the yield comes from and what liquidates it.",
+      "tldr": "Walks a leveraged staking loop end to end with the actual numbers. Useful because it shows where the yield comes from and what liquidates it.",
       "url": "https://blog.stakewise.io/guide/leveraged-oseth-weth-looping-strategy-on-gearbox",
       "source": "StakeWise Blog",
       "publishedAt": "2026-01-27",

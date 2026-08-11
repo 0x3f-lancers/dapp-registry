@@ -42,5 +42,25 @@
       "arkworks-marlin",
       "ingonmaya"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Ocash: A Programmable, Privacy-Preserving Settlement Layer",
+      "tldr": "Private by default, disclosable when required. The design question is who holds the key to that disclosure, and this is where to start on it.",
+      "url": "https://blog.polyhedra.network/ocash-the-next-generation-open-cash-system/",
+      "source": "Polyhedra Blog",
+      "tag": "Payments",
+      "publishedAt": "2025-11-24",
+      "image": "https://img.zkbridge.com/ghost/2025/11/dd2cce0edf0aee90.jpg"
+    },
+    {
+      "title": "From zkML to Privacy Rails: A Year in Review",
+      "tldr": "Zero-knowledge machine learning, a testnet, and a privacy chain, reviewed together. Useful for seeing how one team's research turned into shipped products.",
+      "url": "https://blog.polyhedra.network/polyhedra-moving-into-2026/",
+      "source": "Polyhedra Blog",
+      "tag": "Research",
+      "publishedAt": "2026-01-02",
+      "image": "https://img.polyhedra.network/content/images/2026/01/Moving-into-2026.png"
+    }
+  ]
 }

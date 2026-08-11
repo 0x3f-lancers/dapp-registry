@@ -43,5 +43,34 @@
       "airswap",
       "betarpc"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Security Incident Report: Hedera Pull-Oracle Verifier",
+      "tldr": "An attacker found a cryptographic edge case in an on-chain verifier. Published with the timeline and the specific flaw, more than most incidents get.",
+      "url": "https://supra.com/news/security-incident-report-hedera-pull-oracle-verifier/",
+      "source": "Supra News",
+      "tag": "Security",
+      "publishedAt": "2026-08-07",
+      "image": "https://wp.supraoracles.com/wp-content/uploads/2025/08/Supra-chain.webp"
+    },
+    {
+      "title": "Hydrangea++: Consensus With Optimistic Proposals",
+      "tldr": "Pushing block latency toward its theoretical floor by assuming the happy path and recovering when wrong. Real consensus engineering, in full detail.",
+      "url": "https://supra.com/news/enhancing-hydrangea-with-optimistic-proposals/",
+      "source": "Supra News",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-08-07",
+      "image": "https://wp.supraoracles.com/wp-content/uploads/2025/11/image.png"
+    },
+    {
+      "title": "Parallel EVM Execution Compared",
+      "tldr": "A benchmark against a competitor with an open challenge to disprove it. Read it for the methodology argument as much as the numbers.",
+      "url": "https://supra.com/news/supra-vs-monad/",
+      "source": "Supra News",
+      "tag": "Research",
+      "publishedAt": "2026-08-07",
+      "image": "https://wp.supraoracles.com/wp-content/uploads/2025/09/image-8.png"
+    }
+  ]
 }

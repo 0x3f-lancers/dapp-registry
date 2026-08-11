@@ -36,7 +36,7 @@
   "resources": [
     {
       "title": "Launching Fynd: An Open-Source Trustless DEX Router",
-      "tldr": "Run your own trustless DEX router locally: 10ms quotes, scaling to 1,000 requests per second, first self-routed swap in about five minutes. Aimed squarely at Ethereum developers.",
+      "tldr": "Run your own trustless DEX router locally: 10ms quotes, scaling to 1,000 requests per second, first self-routed swap in about five minutes.",
       "url": "https://www.propellerheads.xyz/blog/launching-fynd-the-open-source-trustless-dex-router",
       "source": "PropellerHeads Blog",
       "tag": "Trading",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Track Onchain Liquidity Locally",
-      "tldr": "Risk managers, protocol teams, traders and investors all watch liquidity depth for different reasons. Sets out those reasons, then why tracking it locally beats querying constantly.",
+      "tldr": "Risk managers, traders and investors all watch liquidity depth for different reasons. Sets out those reasons, then why tracking it locally beats polling.",
       "url": "https://www.propellerheads.xyz/blog/track-onchain-liquidity-locally",
       "source": "PropellerHeads Blog",
       "tag": "DeFi",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Reducing Gas on the Tycho Router by 20%",
-      "tldr": "Tokens used to return to the router between every hop; now they flow straight through, cutting swap cost by up to 20%. Encoding also moved so you supply the critical parameters yourself.",
+      "tldr": "Tokens used to return to the router between every hop; now they flow straight through, cutting swap cost by up to 20%.",
       "url": "https://www.propellerheads.xyz/blog/tycho-router-gas-upgrade",
       "source": "PropellerHeads Blog",
       "tag": "Infrastructure",

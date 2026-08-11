@@ -39,7 +39,7 @@
   "resources": [
     {
       "title": "Introducing Gelato Turbo: High-Performance Sequencing for Rollups",
-      "tldr": "The sequencer decides ordering and latency, which makes it the most consequential and least discussed part of a rollup. On building one for throughput without losing reliability.",
+      "tldr": "The sequencer decides ordering and latency, which makes it the most consequential and least discussed part of a rollup.",
       "url": "https://gelato.cloud/blog/turbo-sequencer",
       "source": "Gelato Blog",
       "publishedAt": "2025-12-17",
@@ -57,7 +57,7 @@
     },
     {
       "title": "Fee Collector: Automatically Aggregate Protocol Fees Into USDC",
-      "tldr": "Protocols accrue fees in dozens of tokens and then have to do something about it. A small, practical piece on turning that scatter into one denominated balance.",
+      "tldr": "Protocols accrue fees in dozens of tokens and then have to do something about it. A small, practical piece on turning that scatter into one balance.",
       "url": "https://gelato.cloud/blog/fee-collector",
       "source": "Gelato Blog",
       "publishedAt": "2026-02-02",

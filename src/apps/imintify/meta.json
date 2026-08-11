@@ -39,5 +39,34 @@
       "solsea",
       "dttd"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is a Liquidity Pool? Crypto Liquidity Explained",
+      "tldr": "Covers pools and automated market makers, then the question most guides skip: when adding liquidity is actually the wrong move for your token.",
+      "url": "https://imintify.com/education/what-is-a-liquidity-pool",
+      "source": "iMintify Education",
+      "tag": "Explainer",
+      "publishedAt": "2026-07-27",
+      "image": "https://imintify.com/media/shop-products/imintify/blog/what-is-a-liquidity-pool.png"
+    },
+    {
+      "title": "How to Create a Crypto Token, SPL or ERC-20",
+      "tldr": "The same task on Solana and Ethereum side by side, which makes the differences between the two token models unusually easy to see.",
+      "url": "https://imintify.com/guides/how-to-create-a-token",
+      "source": "iMintify Guides",
+      "tag": "Tutorial",
+      "publishedAt": "2026-07-17",
+      "image": "https://imintify.com/media/shop-products/imintify/blog/how-to-create-a-token.png"
+    },
+    {
+      "title": "How to Create an ERC-20 Token on Base",
+      "tldr": "A short deployment walkthrough that continues past minting into adding liquidity, which is where most token guides stop and most launches fail.",
+      "url": "https://imintify.com/guides/create-token-on-base",
+      "source": "iMintify Guides",
+      "tag": "Tutorial",
+      "publishedAt": "2026-07-18",
+      "image": "https://imintify.com/media/shop-products/imintify/blog/tokens/create-token-on-base.png"
+    }
+  ]
 }

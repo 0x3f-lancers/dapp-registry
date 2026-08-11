@@ -40,5 +40,34 @@
       "locksmith-wallet",
       "arculus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Providing Liquidity on Uniswap With an AI Agent",
+      "tldr": "Handing an LP position to Claude or Codex through a CLI. Worth reading for what it implies about who is executing DeFi transactions soon.",
+      "url": "https://zerion.io/blog/how-to-provide-liquidity-on-uniswap-with-ai/",
+      "source": "Zerion Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-07-24",
+      "image": "https://storage.ghost.io/c/40/4e/404e902f-a497-4c57-98a8-ff885ab1951b/content/images/size/w1200/2026/07/Blog.png"
+    },
+    {
+      "title": "An Agent That Sweeps, Sorts and Consolidates a Portfolio",
+      "tldr": "Dust cleanup and consolidation are exactly the tedious jobs worth automating first. A grounded example of agent tooling rather than a demo.",
+      "url": "https://zerion.io/blog/talk-to-your-treasury-the-zerion-cli-agent-that-sweeps-sorts-and-consolidates/",
+      "source": "Zerion Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-07-29",
+      "image": "https://storage.ghost.io/c/40/4e/404e902f-a497-4c57-98a8-ff885ab1951b/content/images/size/w1200/2026/07/Blog-2.png"
+    },
+    {
+      "title": "Trading Tokenized Stocks From a Self-Custodial Wallet",
+      "tldr": "Six hundred equities as tokens, traded without an intermediary holding them. The custody question is the interesting one here, not the ticker list.",
+      "url": "https://zerion.io/blog/how-to-trade-spacex-and-other-xstocks-right-in-zerion/",
+      "source": "Zerion Blog",
+      "tag": "Tokenization",
+      "publishedAt": "2026-07-31",
+      "image": "https://storage.ghost.io/c/40/4e/404e902f-a497-4c57-98a8-ff885ab1951b/content/images/size/w1200/2026/07/Blog--1-.png"
+    }
+  ]
 }

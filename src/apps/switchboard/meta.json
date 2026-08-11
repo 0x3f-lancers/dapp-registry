@@ -29,5 +29,34 @@
       "quickswap",
       "dolomite"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Next Oracle Problem Is Not Price",
+      "tldr": "Argues the harder question is verifying everything else an onchain system needs to know, especially once AI-generated noise enters the inputs.",
+      "url": "https://switchboard.xyz/blog/oracles-beyond-price-data/",
+      "source": "Switchboard Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-04-16",
+      "image": "https://switchboard.xyz/blog/covers/oracles-beyond-price-data.png"
+    },
+    {
+      "title": "Verifiable Off-Chain Execution in the AI Era",
+      "tldr": "If the computation happens off-chain, the chain is trusting a claim about it. Makes the case for proving that work rather than attesting to it.",
+      "url": "https://switchboard.xyz/blog/verifiable-off%20chain-execution/",
+      "source": "Switchboard Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-04-23",
+      "image": "https://switchboard.xyz/blog/covers/verifiable-offchain-execution.png"
+    },
+    {
+      "title": "501 Sources of Real-World Yield and How to Bring Them On-Chain",
+      "tldr": "The count itself is the useful part, and so is what each source needs before it can be referenced onchain.",
+      "url": "https://switchboard.xyz/blog/rwa-oracle-coverage/",
+      "source": "Switchboard Blog",
+      "tag": "Tokenization",
+      "publishedAt": "2026-04-10",
+      "image": "https://switchboard.xyz/blog/covers/rwa-oracle-coverage.png"
+    }
+  ]
 }

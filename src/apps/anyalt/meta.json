@@ -33,7 +33,7 @@
   "resources": [
     {
       "title": "Security Risks of Using Cross-Chain Bridges",
-      "tldr": "Works through why bridges keep getting drained, using real breaches rather than abstractions. The recurring theme is trusted validator sets rather than clever cryptography failing.",
+      "tldr": "Why bridges keep getting drained, using real breaches rather than abstractions. The recurring theme is trusted validator sets, not broken cryptography.",
       "url": "https://anyalt.finance/blog/security-risks-of-using-cross-chain-bridges/",
       "source": "AnyAlt Blog",
       "publishedAt": "2024-12-05",
@@ -42,7 +42,7 @@
     },
     {
       "title": "What Is Cross-Chain and Multichain?",
-      "tldr": "The two terms get used interchangeably and mean quite different things: one moves value between chains, the other simply deploys in several places. Clears that up early.",
+      "tldr": "The two terms get used interchangeably and mean quite different things: one moves value between chains, the other simply deploys in several places.",
       "url": "https://anyalt.finance/blog/what-is-cross-chain-and-multichain/",
       "source": "AnyAlt Blog",
       "publishedAt": "2024-12-02",
@@ -51,7 +51,7 @@
     },
     {
       "title": "What Is Gas Refueling in Crypto?",
-      "tldr": "Arriving on a new chain holding tokens you cannot move is a genuinely common dead end. Explains the refuelling pattern that avoids it and where it can still fail.",
+      "tldr": "Arriving on a new chain holding tokens you cannot move is a common dead end. Explains the refuelling pattern that avoids it and where it still fails.",
       "url": "https://anyalt.finance/blog/what-is-gas-refueling-in-crypto/",
       "source": "AnyAlt Blog",
       "publishedAt": "2024-12-17",

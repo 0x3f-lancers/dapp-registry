@@ -38,7 +38,7 @@
   "resources": [
     {
       "title": "Enterprise Custody: Air-Gapped Multi-Signature Signing for Security Tokens",
-      "tldr": "The signing device never connects to a network, and that is the architecture rather than a setting. QR-based air gap, with multi-sig quorum enforced as onchain permissions instead of database rows.",
+      "tldr": "The signing device never connects to a network, and that is the architecture rather than a setting. Multi-sig quorum enforced as onchain permissions.",
       "url": "https://tokensoft.com/blog/enterprise-custody.html",
       "source": "Tokensoft Blog",
       "publishedAt": "2026-04-10",
@@ -46,7 +46,7 @@
     },
     {
       "title": "Transfer Agent Administration: On-Chain Cap Tables",
-      "tldr": "The blockchain ledger becomes the authoritative cap table, so there is nothing to reconcile. ERC-1404 runs five compliance checks before every transfer, and failures revert with a full audit trail.",
+      "tldr": "The ledger becomes the authoritative cap table, so there is nothing to reconcile. ERC-1404 runs five compliance checks before every transfer.",
       "url": "https://tokensoft.com/blog/transfer-agent-administration.html",
       "source": "Tokensoft Blog",
       "publishedAt": "2026-04-10",

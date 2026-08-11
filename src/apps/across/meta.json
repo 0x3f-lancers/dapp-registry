@@ -39,7 +39,7 @@
   "resources": [
     {
       "title": "Canonical Bridges vs Third-Party Bridges: What's the Difference?",
-      "tldr": "One is the chain's own official route with its withdrawal delay; the other fronts liquidity to make it fast. They solve different jobs, and this is clear about when each is right.",
+      "tldr": "One is the chain's own official route with its withdrawal delay; the other fronts liquidity to make it fast.",
       "url": "https://across.to/blog/canonical-bridges-vs-third-party-bridges-whats-the-difference",
       "source": "Across Blog",
       "tag": "Infrastructure",
@@ -47,7 +47,7 @@
     },
     {
       "title": "Crosschain Swaps Explained: Swap and Bridge in One Transaction",
-      "tldr": "Trading a token on one chain for a different token on another, without doing it as two steps. Walks through how the swap and the bridge get composed into a single action.",
+      "tldr": "Trading a token on one chain for a different token on another in one step. Walks through how the swap and the bridge compose into a single action.",
       "url": "https://across.to/blog/crosschain-swaps-explained-swap-and-bridge-in-one-transaction",
       "source": "Across Blog",
       "tag": "Trading",
@@ -55,7 +55,7 @@
     },
     {
       "title": "No Gas on a New Chain? How to Arrive With ETH Ready to Spend",
-      "tldr": "Landing on a chain with assets you cannot move because you have no native token is a genuinely common trap. Explains how to arrive already able to transact.",
+      "tldr": "Landing on a chain with assets you cannot move because you have no native token is a genuinely common trap.",
       "url": "https://across.to/blog/no-gas-on-a-new-chain-how-to-arrive-with-eth-ready-to-spend",
       "source": "Across Blog",
       "tag": "Tutorial",

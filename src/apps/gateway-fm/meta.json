@@ -32,5 +32,34 @@
       "hela-labs",
       "cosmos"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Deep Dive Into DePIN",
+      "tldr": "Crowdsourcing storage, compute and connectivity through token incentives. Long enough to get past the acronym and into whether the economics hold.",
+      "url": "https://gateway.fm/blog/a-deep-dive-into-dePIN/",
+      "source": "Gateway.fm Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-06-26",
+      "image": "https://gateway.fm/strapi-media/Depin_fc745bcc6c.png"
+    },
+    {
+      "title": "Beyond Hyperledger: Why Banks Are Leaving Closed Networks",
+      "tldr": "The permissioned-chain era in banking, and what pushed institutions toward open architectures instead. A quieter shift than the headlines suggest.",
+      "url": "https://gateway.fm/blog/beyond-hyperledger/",
+      "source": "Gateway.fm Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-06-26",
+      "image": "https://gateway.fm/strapi-media/Hyperledger_320252d087.png"
+    },
+    {
+      "title": "CDK Erigon and the Limits of Rollup Infrastructure",
+      "tldr": "Building a chain stack on top of an existing execution client rather than from scratch. Useful for understanding what a chain deployment actually inherits.",
+      "url": "https://gateway.fm/blog/cdk-erigon-gatway/",
+      "source": "Gateway.fm Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-06-26",
+      "image": "https://gateway.fm/strapi-media/cdk_erigon_gateway_c4c74ef859.png"
+    }
+  ]
 }

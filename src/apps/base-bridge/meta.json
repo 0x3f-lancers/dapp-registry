@@ -39,7 +39,7 @@
   "resources": [
     {
       "title": "How the Base Standard Bridge Moves ETH and ERC-20s Between Ethereum and Base",
-      "tldr": "Fast withdrawals require confidence that the proof system itself is not wrong. Running multiple independent proofs is how Base hedges that, and a step toward Stage 2 decentralisation.",
+      "tldr": "Fast withdrawals require confidence the proof system is not wrong. Running multiple independent proofs is how Base hedges that, en route to Stage 2.",
       "url": "https://blog.base.dev/multiproofs-on-base",
       "source": "Base Blog",
       "publishedAt": "2026-05-21",
@@ -48,7 +48,7 @@
     },
     {
       "title": "Deposits vs Withdrawals on Base: Finality, Timing, and Common Failure Modes",
-      "tldr": "A public, detailed account of why block production stopped and what was changed afterwards. Postmortems like this teach more about L2 architecture than any launch announcement.",
+      "tldr": "A public, detailed account of why block production stopped and what changed after. Postmortems teach more about L2 architecture than launch posts.",
       "url": "https://blog.base.dev/postmortem-june-25th-block-production-outage",
       "source": "Base Blog",
       "publishedAt": "2026-06-27",
@@ -57,7 +57,7 @@
     },
     {
       "title": "Base Bridge Security: What Users and Developers Should Verify Before Bridging",
-      "tldr": "EIP-8130 moves account abstraction from a bolted-on layer into the protocol itself. Covers where the gas savings actually come from once the bundler is no longer in the way.",
+      "tldr": "EIP-8130 moves account abstraction from a bolted-on layer into the protocol. Where the gas savings come from once the bundler is out of the way.",
       "url": "https://blog.base.dev/native-account-abstraction",
       "source": "Base Blog",
       "publishedAt": "2026-07-17",

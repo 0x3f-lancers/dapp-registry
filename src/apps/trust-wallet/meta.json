@@ -40,5 +40,24 @@
       "tonkeeper-pro",
       "coin-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Agent Kit for Non-Custodial Wallets",
+      "tldr": "Letting an AI agent hold value and pay for things without handing custody to a service. The permission design is the hard part and this engages with it.",
+      "url": "https://trustwallet.com/blog/company/trust-wallet-agent-kit-the-non-custodial-wallet-primitive-for-ai-agents",
+      "source": "Trust Wallet Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-07-06",
+      "image": "https://strapi-cdn.trustwallet.com/trust_wallet_agent_kit_the_non_custodial_wallet_primitive_for_ai_agents_a298c03930.png"
+    },
+    {
+      "title": "Putting an Assistant Inside a Wallet",
+      "tldr": "Reading a portfolio and assembling transactions through conversation. Interesting mostly for where the product draws the line on what it will execute.",
+      "url": "https://trustwallet.com/blog/company/introducing-trust-wallet-ai",
+      "source": "Trust Wallet Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-07-23"
+    }
+  ]
 }

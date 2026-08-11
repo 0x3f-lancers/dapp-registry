@@ -38,7 +38,7 @@
   "resources": [
     {
       "title": "Raydium vs Orca: Solana DEX Rates Compared",
-      "tldr": "Two Solana venues with different pool designs, compared on realised execution rather than headline fees. The gap between the two numbers is the interesting part.",
+      "tldr": "Two Solana venues with different pool designs, compared on realised execution rather than headline fees. The gap between the two is the point.",
       "url": "https://baltex.io/blog/ecosystem/raydium-vs-orca-which-solana-dex-offers-better-rates",
       "source": "Baltex Blog",
       "publishedAt": "2026-08-05",
@@ -47,7 +47,7 @@
     },
     {
       "title": "Balancer V3 Review: Custom Pools and Hooks",
-      "tldr": "Balancer's weighted and custom pools behave quite differently from a standard constant-product AMM. Goes into the hooks, the fee mechanics and the security surface they add.",
+      "tldr": "Balancer's weighted and custom pools behave quite differently from a constant-product AMM. Goes into the hooks, fee mechanics and security surface.",
       "url": "https://baltex.io/blog/ecosystem/balancer-v3-review",
       "source": "Baltex Blog",
       "publishedAt": "2026-08-05",
@@ -56,7 +56,7 @@
     },
     {
       "title": "Curve Finance Review: Still Best for Stablecoin Swaps?",
-      "tldr": "Curve's invariant is built for assets that should trade near parity, which is why it wins on stables and loses elsewhere. Revisits whether that advantage still holds.",
+      "tldr": "Curve's invariant is built for assets that should trade near parity, which is why it wins on stables and loses elsewhere.",
       "url": "https://baltex.io/blog/ecosystem/curve-finance-review-2026",
       "source": "Baltex Blog",
       "publishedAt": "2026-08-05",

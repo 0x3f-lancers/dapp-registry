@@ -39,7 +39,7 @@
   "resources": [
     {
       "title": "Dynamic Trade Routing: Why Splitting Your Swap Gets You a Better Price",
-      "tldr": "A single pool charges you for depth it does not have. Explains why breaking one order across several venues beats the best individual quote, and where the saving stops covering gas.",
+      "tldr": "Explains why breaking one order across several venues beats the best individual quote, and where the saving stops covering gas.",
       "url": "https://7k.ag/blog/dynamic-trade-routing-explained",
       "source": "7K Blog",
       "publishedAt": "2026-04-13",
@@ -48,7 +48,7 @@
     },
     {
       "title": "OnlyFence: DeFi Guardrails for the Age of AI Agents",
-      "tldr": "Letting an agent transact means deciding in advance what it may never do. A concrete look at building that fence rather than trusting the model to stay inside an imaginary one.",
+      "tldr": "Letting an agent transact means deciding in advance what it may never do. A concrete look at building that fence rather than trusting the model.",
       "url": "https://7k.ag/blog/onlyfence-defi-guardrails-for-ai-agents",
       "source": "7K Blog",
       "publishedAt": "2026-04-11",
@@ -57,7 +57,7 @@
     },
     {
       "title": "A Practical Guide to LP Automation",
-      "tldr": "Concentrated liquidity only earns while the price stays in range, which turns providing it into an ongoing job. Covers what automated rebalancing does and what it costs you.",
+      "tldr": "Concentrated liquidity only earns while the price stays in range, which turns providing it into an ongoing job.",
       "url": "https://7k.ag/blog/lp-automation-guide",
       "source": "7K Blog",
       "publishedAt": "2026-04-15",

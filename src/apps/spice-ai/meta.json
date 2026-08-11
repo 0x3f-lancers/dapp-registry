@@ -35,7 +35,7 @@
   "resources": [
     {
       "title": "Cluster-Sidecar Architecture: Localhost Latency",
-      "tldr": "Long and genuinely technical: how running a query engine as a sidecar gives applications and agents sandboxed access at localhost latency, and what that costs in operational complexity.",
+      "tldr": "How running a query engine as a sidecar gives applications and agents sandboxed access at localhost latency, and what it costs operationally.",
       "url": "https://spice.ai/blog/cluster-sidecar-architecture",
       "source": "Spice AI Blog",
       "publishedAt": "2026-04-21",
@@ -44,7 +44,7 @@
     },
     {
       "title": "The Analytics Replica Pattern for Data-Based AI",
-      "tldr": "Pointing an AI agent at your production database is how you take it down. Describes the replica pattern that keeps operational systems isolated while still answering in real time.",
+      "tldr": "Describes the replica pattern that keeps operational systems isolated while still answering in real time.",
       "url": "https://spice.ai/blog/the-analytics-replica-pattern-shortening-the-path-to-data-based-ai",
       "source": "Spice AI Blog",
       "publishedAt": "2026-07-28",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Spice 2.0: Real-Time Analytics Without ETL",
-      "tldr": "Change data capture plus Apache Ballista in place of a nightly pipeline. Worth reading for the argument that ETL latency, not query speed, is what usually makes data stale.",
+      "tldr": "Change data capture plus Apache Ballista in place of a nightly pipeline. Argues ETL latency, not query speed, is what usually makes data stale.",
       "url": "https://spice.ai/blog/spice-2-0-is-now-available",
       "source": "Spice AI Blog",
       "publishedAt": "2026-07-09",

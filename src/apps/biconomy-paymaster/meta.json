@@ -36,7 +36,7 @@
   "resources": [
     {
       "title": "Gas Sponsorship in Account Abstraction: How Paymasters Work",
-      "tldr": "A standard is inert without a way to deliver it to real users. Separates the batching format from the transport carrying it, and makes the case that transport was the harder half.",
+      "tldr": "Separates the batching format from the transport carrying it, and makes the case that transport was the harder half.",
       "url": "https://blog.biconomy.io/rails-and-cargo-why-eip-8141-is-the-transport-that-finally-ships-erc-8211-to-every-ethereum-user/",
       "source": "Biconomy Blog",
       "publishedAt": "2026-05-04",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Designing Gasless UX: Sponsorship Policies, Limits, and Abuse Controls",
-      "tldr": "Simulating a transaction spanning several chains means predicting state you cannot yet read. Covers predicate-based simulation and the failures it is meant to surface early.",
+      "tldr": "Simulating a transaction spanning several chains means predicting state you cannot read yet. Predicate-based simulation and the failures it surfaces.",
       "url": "https://blog.biconomy.io/cross-chain-and-predicate-based-simulations-with-erc-8211/",
       "source": "Biconomy Blog",
       "publishedAt": "2026-05-13",

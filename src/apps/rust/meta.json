@@ -36,7 +36,7 @@
   "resources": [
     {
       "title": "Fearless Concurrency With Rust",
-      "tldr": "The post that explained why Rust's ownership rules eliminate data races at compile time rather than at runtime. Still the clearest statement of the language's central bet.",
+      "tldr": "The post that explained why Rust's ownership rules eliminate data races at compile time rather than at runtime.",
       "url": "https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency/",
       "source": "Rust Blog",
       "tag": "Explainer",

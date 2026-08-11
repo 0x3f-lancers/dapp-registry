@@ -34,7 +34,7 @@
   "resources": [
     {
       "title": "Introducing TWAP Orders on Synthetix Perps",
-      "tldr": "Time-weighted average price orders exist because pushing size through in one go moves the market against you. A clear explanation of scaling in and out over time.",
+      "tldr": "Time-weighted average price orders exist because pushing size through in one go moves the market against you.",
       "url": "https://blog.synthetix.io/introducing-twap-orders-on-synthetix-perps/",
       "source": "Synthetix Blog",
       "publishedAt": "2026-05-08",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Introducing Scaled Orders on Synthetix Perps",
-      "tldr": "Rather than one large limit at a single level, a scaled order lays a ladder across a range. Useful for understanding how execution shape changes your average fill.",
+      "tldr": "Rather than one large limit at a single level, a scaled order lays a ladder across a range. How execution shape changes your average fill.",
       "url": "https://blog.synthetix.io/introducing-scaled-orders-on-synthetix-perps/",
       "source": "Synthetix Blog",
       "publishedAt": "2026-05-11",

@@ -32,5 +32,23 @@
       "akash-network",
       "4everland"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is the Internet Backbone?",
+      "tldr": "Submarine cables, tier hierarchies and exchange points, explained properly. Few people building distributed systems know what the packets cross.",
+      "url": "https://kelvpn.com/blog/what-is-the-internet-backbone",
+      "source": "KelVPN Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-04-29"
+    },
+    {
+      "title": "IPv8 and What Comes After IPv4 and IPv6",
+      "tldr": "A draft proposing 64-bit addresses with backward compatibility. Speculative, and a good excuse to understand why the previous transition took decades.",
+      "url": "https://kelvpn.com/blog/what-is-ipv8",
+      "source": "KelVPN Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-04-27"
+    }
+  ]
 }
