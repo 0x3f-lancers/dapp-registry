@@ -31,5 +31,34 @@
       "circular-protocol",
       "avalanche"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading Perpetual Futures Through an MCP Server",
+      "tldr": "An MCP server exposing Injective's markets, so an AI agent can place perpetual futures orders from natural language rather than raw calls.",
+      "url": "https://injective.com/blog/introducing-the-injective-mcp-server",
+      "source": "Injective Blog",
+      "publishedAt": "2026-02-25",
+      "tag": "Trading",
+      "image": "https://willing-flame-a009dd7c0a.media.strapiapp.com/Introducing_the_Injective_MCP_server_14a9dff974.webp"
+    },
+    {
+      "title": "Unveiling Injective EVM",
+      "tldr": "A native EVM layer embedded in the chain's core architecture rather than bolted on, so both environments run against one state.",
+      "url": "https://injective.com/blog/unveiling-injective-evm-the-fastest-unified-developer-environment",
+      "source": "Injective Blog",
+      "publishedAt": "2025-01-29",
+      "tag": "Infrastructure",
+      "image": "https://willing-flame-a009dd7c0a.media.strapiapp.com/Unveiling_Injective_EVM_284f950788.webp"
+    },
+    {
+      "title": "Injective Registers as an SEC Transfer Agent",
+      "tldr": "Registration with the SEC as a transfer agent, a concrete regulatory step toward handling registered securities onchain.",
+      "url": "https://injective.com/blog/sec-transfer-agent",
+      "source": "Injective Blog",
+      "publishedAt": "2026-08-19",
+      "tag": "Regulation",
+      "image": "https://willing-flame-a009dd7c0a.media.strapiapp.com/Official_SEC_Registered_Transfer_Agent_Blog_d5806f09ad.webp"
+    }
+  ]
 }

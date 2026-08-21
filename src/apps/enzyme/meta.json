@@ -3,8 +3,13 @@
   "name": "Enzyme",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746722/web3-explorer/dapp-logos/enzyme.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Polygon"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Enzyme is a composable Web3 asset management protocol.",
@@ -17,7 +22,30 @@
     "twitter": "https://x.com/enzymefinance"
   },
   "relations": {
-    "alternatives": ["atrix", "seif-finance", "propellerswap"],
-    "related": ["coinmate", "contango"]
-  }
+    "alternatives": [
+      "atrix",
+      "seif-finance",
+      "propellerswap"
+    ],
+    "related": [
+      "coinmate",
+      "contango"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Ending Black-Box NAV Reporting for Onchain Vaults",
+      "tldr": "A tie-up with 1Token aimed at net asset value accuracy and lifecycle reporting, so vault investors can check the numbers rather than trust them.",
+      "url": "https://enzyme.finance/blog-posts/enzyme-and-1token-partnership",
+      "source": "Enzyme Blog",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Portfolio Management for Tokenised Funds",
+      "tldr": "Pairing fund issuance and administration with a reporting layer, filling the gap between running a fund onchain and reporting on it properly.",
+      "url": "https://enzyme.finance/blog-posts/enzyme-and-renesis-partner-to-bring-portfolio-management-and-reporting-natively-to-tokenized-funds",
+      "source": "Enzyme Blog",
+      "tag": "Tokenization"
+    }
+  ]
 }

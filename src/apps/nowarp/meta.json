@@ -34,5 +34,34 @@
       "beosin",
       "solidity-auditor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Compiler Testing: Coverage-Guided Fuzzing with Grammars and LLMs",
+      "tldr": "Fuzzing small-language compilers means few optimisation passes, tiny corpora and thin docs. The adaptation found 100+ compiler bugs.",
+      "url": "https://nowarp.io/blog/compiler-testing-part-1",
+      "source": "Nowarp Blog",
+      "publishedAt": "2026-04-24",
+      "tag": "AI & Agents",
+      "image": "https://nowarp.io/assets/images/compiler-testing-part-1-00c360ddaa8aab1f9355d04c5aed91ee.png"
+    },
+    {
+      "title": "Compiler Testing: Metamorphic Testing with Verified Identities",
+      "tldr": "Miscompilation is the bug class that drains funds: valid program in, silently different behaviour out. Differential and metamorphic testing for it.",
+      "url": "https://nowarp.io/blog/compiler-testing-part-2",
+      "source": "Nowarp Blog",
+      "publishedAt": "2026-06-27",
+      "tag": "Security",
+      "image": "https://nowarp.io/assets/images/compiler-testing-part-2-b9a2582c20454bf3b9f8cda8dab4b09c.png"
+    },
+    {
+      "title": "TON Security Risks from a Static Analysis View",
+      "tldr": "Contracts are unforgiving and a single bug vaporises real money. Where static analysis catches TON-specific mistakes before deployment.",
+      "url": "https://nowarp.io/blog/ton-security-risks",
+      "source": "Nowarp Blog",
+      "publishedAt": "2025-01-26",
+      "tag": "Research",
+      "image": "https://nowarp.io/img/og-image.png"
+    }
+  ]
 }

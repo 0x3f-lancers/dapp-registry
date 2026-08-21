@@ -31,5 +31,34 @@
       "avatr",
       "pine-loans"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Revoke Token Permissions on Solana",
+      "tldr": "Unlimited approvals have drained plenty of Ethereum wallets. Solana has an equivalent, it works differently, and revoking cannot undo everything.",
+      "url": "https://sol-incinerator.com/blog/how-to-revoke-token-permissions-on-solana",
+      "source": "Sol Incinerator Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "Tutorial",
+      "image": "https://sol-incinerator.com/blog/og/how-to-revoke-token-permissions-on-solana.png"
+    },
+    {
+      "title": "Reclaiming SOL Locked in Empty Accounts",
+      "tldr": "Rent sits attached to token accounts you no longer use. Closing them returns it, which is a different thing from earning new SOL.",
+      "url": "https://sol-incinerator.com/blog/get-free-solana",
+      "source": "Sol Incinerator Blog",
+      "publishedAt": "2026-08-13",
+      "tag": "Finance",
+      "image": "https://sol-incinerator.com/blog/og/get-free-solana.png"
+    },
+    {
+      "title": "Four Legitimate Ways to Earn SOL",
+      "tldr": "Search results mix jobs, staking, referrals and giveaways as if they were equivalent. Some need work, some need capital, some are just marketing.",
+      "url": "https://sol-incinerator.com/blog/earn-solana",
+      "source": "Sol Incinerator Blog",
+      "publishedAt": "2026-08-13",
+      "tag": "DeFi",
+      "image": "https://sol-incinerator.com/blog/og/earn-solana.png"
+    }
+  ]
 }

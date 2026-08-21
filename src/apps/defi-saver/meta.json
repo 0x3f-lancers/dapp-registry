@@ -30,5 +30,34 @@
       "pillar",
       "mangrovedao"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Automation Does During Mass Liquidation Events",
+      "tldr": "Auto Repay and Auto Boost handle routine rebalancing in calm markets. A case study of how they behave when everything liquidates at once.",
+      "url": "https://blog.defisaver.com/defi-saver-case-study-the-role-of-automation-during-mass-liquidation-events/",
+      "source": "DeFi Saver Blog",
+      "publishedAt": "2026-07-23",
+      "tag": "DeFi",
+      "image": "https://blog.defisaver.com/content/images/size/w1200/2026/07/The-role-of-Automation-during-mass-liquidation-events---DFS-Blog.jpg"
+    },
+    {
+      "title": "Seven Years With Compound",
+      "tldr": "60,294 transactions and 4,667 unique addresses since 2019. What a long partnership looks like measured in numbers rather than announcements.",
+      "url": "https://blog.defisaver.com/defi-saver-x-compound-a-seven-year-retrospective/",
+      "source": "DeFi Saver Blog",
+      "publishedAt": "2026-07-28",
+      "tag": "Finance",
+      "image": "https://blog.defisaver.com/content/images/size/w1200/2026/07/DeFi-Saver-x-Compound_-A-seven-year-retrospective-01@2x--1-.jpg"
+    },
+    {
+      "title": "Why DeFi Needs Customer Support",
+      "tldr": "Uncommon in 2019 and still unusual now. The argument for being reachable when a user's position is the thing going wrong.",
+      "url": "https://blog.defisaver.com/why-you-need-customer-support-in-defi/",
+      "source": "DeFi Saver Blog",
+      "publishedAt": "2026-05-29",
+      "tag": "DeFi",
+      "image": "https://blog.defisaver.com/content/images/size/w1200/2026/05/1.jpg"
+    }
+  ]
 }

@@ -30,5 +30,34 @@
       "starknet",
       "startmining"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is a Smart Wallet?",
+      "tldr": "Rather than one secret key plus a written backup, the account is a contract that can authorise spending from a fingerprint or face scan.",
+      "url": "https://www.gnosis.io/blog/what-is-a-smart-wallet",
+      "source": "Gnosis Blog",
+      "publishedAt": "2026-06-04",
+      "tag": "Explainer",
+      "image": "https://framerusercontent.com/images/6l6mJvK04JBNN8fcyi5355jjny8.png"
+    },
+    {
+      "title": "What Is a Seed Phrase, and Why You Might Not Need One",
+      "tldr": "Twelve or 24 words that are the master key to everything in a wallet. Lose them and the money is gone — which is exactly the problem.",
+      "url": "https://www.gnosis.io/blog/what-is-a-seed-phrase",
+      "source": "Gnosis Blog",
+      "publishedAt": "2026-06-03",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/6l6mJvK04JBNN8fcyi5355jjny8.png"
+    },
+    {
+      "title": "Choosing a Non-Custodial Wallet",
+      "tldr": "A plain-English guide arguing the right answer depends on what you actually do with crypto, not on which wallet has the longest feature list.",
+      "url": "https://www.gnosis.io/blog/best-non-custodial-wallets",
+      "source": "Gnosis Blog",
+      "publishedAt": "2026-06-02",
+      "tag": "Tutorial",
+      "image": "https://framerusercontent.com/images/6l6mJvK04JBNN8fcyi5355jjny8.png"
+    }
+  ]
 }

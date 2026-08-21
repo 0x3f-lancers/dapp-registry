@@ -31,5 +31,25 @@
       "mafiafoot",
       "decentral-games"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "From Video Transcoding to Real-Time AI",
+      "tldr": "The Cascade vision moved Livepeer from streaming infrastructure toward compute for real-time AI video. What that shift actually requires.",
+      "url": "https://livepeer.org/blog/a-real-time-update-to-the-livepeer-network-vision",
+      "source": "Livepeer Blog",
+      "publishedAt": "2025-11-13",
+      "tag": "AI & Agents",
+      "image": "https://livepeer.org/images/blog/real-time-update-network-vision.svg"
+    },
+    {
+      "title": "Introducing the Livepeer Foundation",
+      "tldr": "A neutral entity to steward decentralisation as the network scales, and why that separation was thought necessary at this point.",
+      "url": "https://livepeer.org/blog/introducing-the-livepeer-foundation",
+      "source": "Livepeer Blog",
+      "publishedAt": "2025-06-05",
+      "tag": "Infrastructure",
+      "image": "https://livepeer.org/images/blog/introducing-the-livepeer-foundation.svg"
+    }
+  ]
 }

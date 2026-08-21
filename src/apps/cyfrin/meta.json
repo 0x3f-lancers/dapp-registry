@@ -33,5 +33,23 @@
       "semgrep",
       "perimeter"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Approach a Smart Contract Audit",
+      "tldr": "You know the attack vectors, then you clone the repo and face 10,000 lines. A systematic method for the part nobody teaches.",
+      "url": "https://www.cyfrin.io/blog/10-steps-to-systematically-approach-a-smart-contract-audit",
+      "source": "Cyfrin Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/659ddeb7f63ce6a1f7898526/67af412cd59d0e3777aeeb58_10-steps-smart-contract-auditing.png"
+    },
+    {
+      "title": "What Aave V3 Changed",
+      "tldr": "The upgrade's effect on capital efficiency and risk management, walked through for people who lend or borrow rather than just hold.",
+      "url": "https://www.cyfrin.io/blog/aave-v3-improved-lending-liquidity-and-risk-management",
+      "source": "Cyfrin Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/659ddeb7f63ce6a1f7898526/688c78156e7ee781661a8f4c_aaveV3ImprovedLendingLiquidity%2CRiskManagement.png"
+    }
+  ]
 }

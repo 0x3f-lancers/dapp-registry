@@ -32,5 +32,25 @@
       "ethlint",
       "apeworx-evmtrace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Decentralised Password Manager",
+      "tldr": "Storing credentials across blockchain and IPFS with zero-knowledge encryption, so the service itself never holds anything readable.",
+      "url": "https://blog.rehide.io/web3-password-manager-decentralised-zero-knowledge/",
+      "source": "Rehide Blog",
+      "publishedAt": "2023-06-09",
+      "tag": "Security",
+      "image": "https://mlb3k6dqguq3.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/https://blog.rehide.io/wp-content/uploads/2024/01/blog1.webp"
+    },
+    {
+      "title": "Password Encryption: Web2 Versus Web3",
+      "tldr": "Where the two models actually differ on who holds the key, and what that changes when the provider is breached rather than if.",
+      "url": "https://blog.rehide.io/exploring-secure-password-encryption-web3/",
+      "source": "Rehide Blog",
+      "publishedAt": "2024-04-09",
+      "tag": "Security",
+      "image": "https://mlb3k6dqguq3.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/https://blog.rehide.io/wp-content/uploads/2024/04/Web3VSWeb2PasswordManagers.webp"
+    }
+  ]
 }

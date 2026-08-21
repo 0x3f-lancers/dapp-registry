@@ -29,5 +29,34 @@
       "pantera-capital",
       "chainlight"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Catching the Bugs a Normal Review Misses",
+      "tldr": "Tests passed, every PR was reviewed, QA clicked every flow. The staking UI looked ready, so they put it on trial with two AI reviewers.",
+      "url": "https://blog.bootnode.dev/posts/catching-bugs-a-normal-review-misses",
+      "source": "BootNode Blog",
+      "publishedAt": "2026-08-10",
+      "tag": "Research",
+      "image": "https://blog.bootnode.dev/assets/blog/posts/2026-08-10/cover.webp"
+    },
+    {
+      "title": "Engineering With LLMs Without Surrendering to Them",
+      "tldr": "Beyond vibecoding: turning a painful FHEVM integration into a repeatable practice that actually shortened time to release.",
+      "url": "https://blog.bootnode.dev/posts/from-fhevm-pain-to-production-ready-skill",
+      "source": "BootNode Blog",
+      "publishedAt": "2026-05-13",
+      "tag": "AI & Agents",
+      "image": "https://blog.bootnode.dev/assets/blog/posts/2026-05-13/hero.webp"
+    },
+    {
+      "title": "An Introduction to Interoperability in Practice",
+      "tldr": "After delivering Gnosis Bridge and an on-ramp dapp, the team concluded interop was the real problem. OIF, Hyperlane, Khalani and Espresso compared.",
+      "url": "https://blog.bootnode.dev/posts/interop-intro",
+      "source": "BootNode Blog",
+      "publishedAt": "2025-08-20",
+      "tag": "Explainer",
+      "image": "https://blog.bootnode.dev/assets/blog/posts/2025-08-20/interop-intro.webp"
+    }
+  ]
 }

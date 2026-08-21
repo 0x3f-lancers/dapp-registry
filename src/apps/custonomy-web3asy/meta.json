@@ -29,5 +29,34 @@
       "dapp-pocket",
       "kryptogo-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What's Holding Back Web3 Mass Adoption?",
+      "tldr": "A keynote at ETH Hong Kong naming the obstacles plainly, from someone building custody infrastructure rather than speculating about it.",
+      "url": "https://www.custonomy.io/post/what-s-holding-back-web3-mass-adoption",
+      "source": "Custonomy Blog",
+      "publishedAt": "2023-10-24",
+      "tag": "Security",
+      "image": "https://static.wixstatic.com/media/1ccfb2_ae23b644e78c420f99c1ae640e5e8253~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/1ccfb2_ae23b644e78c420f99c1ae640e5e8253~mv2.jpg"
+    },
+    {
+      "title": "Virtual Asset Startups Under Hong Kong's New Rules",
+      "tldr": "A panel on whether Hong Kong becomes the next virtual asset hub, and how fintech startups are positioning against the new regime.",
+      "url": "https://www.custonomy.io/post/fintech-and-virtual-asset-startups-positioning-in-hong-kong-under-new-regulations",
+      "source": "Custonomy Blog",
+      "publishedAt": "2023-02-07",
+      "tag": "Finance",
+      "image": "https://static.wixstatic.com/media/1ccfb2_29ccb90298754c97ad3367408e270b54~mv2.png/v1/fill/w_1000,h_750,al_c,q_90,usm_0.66_1.00_0.01/1ccfb2_29ccb90298754c97ad3367408e270b54~mv2.png"
+    },
+    {
+      "title": "MPC Embedded Wallets on Solana",
+      "tldr": "Extending a multi-party computation wallet to Solana mainnet, and what MPC changes about who holds the key material.",
+      "url": "https://www.custonomy.io/post/web3asy-now-supports-solana-mainnet-unlock-seamless-web3-integration-for-your-blockchain-projects",
+      "source": "Custonomy Blog",
+      "publishedAt": "2024-06-25",
+      "tag": "Finance",
+      "image": "https://static.wixstatic.com/media/1ccfb2_ab48d012bce7438db9f7d93771415f66~mv2.png/v1/fill/w_1921,h_1081,al_c/1ccfb2_ab48d012bce7438db9f7d93771415f66~mv2.png"
+    }
+  ]
 }

@@ -29,5 +29,34 @@
       "povio",
       "runtime-verification"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Bitcoin Developers Want to Remove the RBF Signal",
+      "tldr": "Network policy drifted until every transaction is replaceable regardless of what the wallet signals, leaving the signal itself doing nothing.",
+      "url": "https://www.nadcab.com/blog/bitcoin-developers-remove-rbf-signal-wallets",
+      "source": "Nadcab Labs Blog",
+      "publishedAt": "2026-06-22",
+      "tag": "Infrastructure",
+      "image": "https://img.nadcab.com/wp-content/uploads/2026/06/bitcoin-wallet-privacy-update.png"
+    },
+    {
+      "title": "Why Crypto Stocks Are Riskier Than Bitcoin",
+      "tldr": "Funds took what looked like the safer route into the asset by buying the companies around it instead. The leverage that hides in that choice.",
+      "url": "https://www.nadcab.com/blog/crypto-stocks-riskier-than-bitcoin-2026",
+      "source": "Nadcab Labs Blog",
+      "publishedAt": "2026-07-06",
+      "tag": "Finance",
+      "image": "https://img.nadcab.com/wp-content/uploads/2026/07/crypto-stocks-vs-bitcoin-volatility-2026.webp"
+    },
+    {
+      "title": "Blockchain Ticketing at the 2026 World Cup",
+      "tldr": "FIFA's digital collectibles platform and what putting tickets onchain is meant to solve about resale and authenticity.",
+      "url": "https://www.nadcab.com/blog/fifa-world-cup-2026-ticketing-blockchain",
+      "source": "Nadcab Labs Blog",
+      "publishedAt": "2026-07-11",
+      "tag": "Finance",
+      "image": "https://img.nadcab.com/wp-content/uploads/2026/07/Untitled-design-69.webp"
+    }
+  ]
 }

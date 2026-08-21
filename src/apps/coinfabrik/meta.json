@@ -39,5 +39,34 @@
       "borg-security",
       "openzeppelin-defender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Scout for Substrate: Catching Bugs Before Exploits",
+      "tldr": "An open-source static analysis tool for Polkadot developers, aimed at the window between writing a contract and shipping it to production.",
+      "url": "https://www.coinfabrik.com/blog/scout-for-substrate-is-live/",
+      "source": "CoinFabrik Blog",
+      "publishedAt": "2025-05-22",
+      "tag": "Security",
+      "image": "https://www.coinfabrik.com/wp-content/uploads/2025/05/00-Scout-post-featured.jpg"
+    },
+    {
+      "title": "Why Solana Crashed, and How It Was Fixed",
+      "tldr": "Four years of outages examined: what actually caused the halts despite steady infrastructure improvement, and what changed afterwards.",
+      "url": "https://www.coinfabrik.com/blog/why-solana-crashed/",
+      "source": "CoinFabrik Blog",
+      "publishedAt": "2024-03-02",
+      "tag": "Finance",
+      "image": "https://www.coinfabrik.com/wp-content/uploads/2023/04/solana-article.jpg"
+    },
+    {
+      "title": "From Scout to Move Lint: Entering the Aptos Ecosystem",
+      "tldr": "Adapting static analysis tooling to a different language and VM, plus a survey of AI-driven smart contract vulnerability research.",
+      "url": "https://www.coinfabrik.com/blog/entering-the-aptos-ecosystem/",
+      "source": "CoinFabrik Blog",
+      "publishedAt": "2026-03-30",
+      "tag": "Research",
+      "image": "https://www.coinfabrik.com/wp-content/uploads/2026/03/stellar-new3-e1774963276325.png"
+    }
+  ]
 }

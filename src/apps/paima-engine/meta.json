@@ -30,5 +30,25 @@
       "decentraland",
       "crabada"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing Stateful NFTs",
+      "tldr": "Game state that lives in the NFT itself rather than a studio's database, built on lessons taken from layer 2 and rollup design.",
+      "url": "https://blog.paimastudios.com/introducing-stateful-nfts-a-game-changer-in-blockchain-gaming",
+      "source": "Paima Blog",
+      "publishedAt": "2023-01-24",
+      "tag": "Infrastructure",
+      "image": "https://blog.paimastudios.com/img/paima-banner.png"
+    },
+    {
+      "title": "Jungle Wars: The First Game Built on Paima Engine",
+      "tldr": "What shipping an actual game on the engine proved about the architecture, launching on Milkomeda C1 after months of research.",
+      "url": "https://blog.paimastudios.com/announcing-jungle-wars-nft-rumble-the-first-game-from-paima-studios",
+      "source": "Paima Blog",
+      "publishedAt": "2023-01-04",
+      "tag": "Infrastructure",
+      "image": "https://blog.paimastudios.com/img/paima-banner.png"
+    }
+  ]
 }

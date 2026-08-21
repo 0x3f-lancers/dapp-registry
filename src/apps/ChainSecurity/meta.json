@@ -30,5 +30,29 @@
       "dedge-security",
       "semgrep"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Auditor's Wishlist for Ethereum Security",
+      "tldr": "Auditing since 2017, from simple reentrancy checks to protocols holding billions — and the issues that stubbornly persist across all of it.",
+      "url": "https://www.chainsecurity.com/blog/auditors-wishlist-for-ethereum-security-in-2026",
+      "source": "ChainSecurity Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/69f8bec1d2a01de8114602c4_Auditor%27s%20Wishlist%20for%20Ethereum%20Security.png"
+    },
+    {
+      "title": "Finding Critical Bugs in TypeScript Blockchain Code",
+      "tldr": "Contracts dominate security discussion while more logic lives off-chain, in the backends and matching engines that decide what gets submitted.",
+      "url": "https://www.chainsecurity.com/blog/critical-bugs-in-typescript-hex-and-bigints",
+      "source": "ChainSecurity Blog",
+      "tag": "Security"
+    },
+    {
+      "title": "Circom Assertions Are Not Constraints",
+      "tldr": "A privacy-preserving L2 used assert() to enforce constraints in its circuits. Assertions add none, which is a dangerous thing to assume.",
+      "url": "https://www.chainsecurity.com/blog/circom-assertions-misconceptions-and-deceptions",
+      "source": "ChainSecurity Blog",
+      "tag": "Finance"
+    }
+  ]
 }

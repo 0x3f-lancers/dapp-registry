@@ -33,5 +33,34 @@
       "hyperlane-xyz",
       "rollkit-dev"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Banks Choose Bespoke EVM Rollups for Tokenised Deposits",
+      "tldr": "The deposit token represents a claim, while the deposit itself stays a regulated bank liability with insurance and prudential treatment unchanged.",
+      "url": "https://www.zeeve.io/blog/why-banks-are-choosing-bespoke-evm-rollups-for-tokenized-deposits/",
+      "source": "Zeeve Blog",
+      "publishedAt": "2026-08-07",
+      "tag": "Infrastructure",
+      "image": "https://wwwzeeveio.b-cdn.net/wp-content/uploads/2026/08/Feature-Image-EVM-Rollups.png"
+    },
+    {
+      "title": "Tokenised Deposits in Domestic B2B Payments",
+      "tldr": "ACH moves volume cheaply and wires settle high value with finality. What a deposit token adds to markets that are already highly digital.",
+      "url": "https://www.zeeve.io/blog/how-tokenized-deposits-can-improve-domestic-b2b-payments/",
+      "source": "Zeeve Blog",
+      "publishedAt": "2026-08-03",
+      "tag": "Payments",
+      "image": "https://wwwzeeveio.b-cdn.net/wp-content/uploads/2026/07/Feature-Image-1-2.png"
+    },
+    {
+      "title": "Deploying Cosmos Infrastructure for Enterprises",
+      "tldr": "Pairing Cosmos interoperability technology with managed deployment and operations, aimed at organisations that cannot run it themselves.",
+      "url": "https://www.zeeve.io/blog/cosmos-labs-and-zeeve-partner-to-simplify-enterprise-blockchain-deployment/",
+      "source": "Zeeve Blog",
+      "publishedAt": "2026-08-07",
+      "tag": "Infrastructure",
+      "image": "https://wwwzeeveio.b-cdn.net/wp-content/uploads/2026/08/Zeeve-X-Cosmos-PR.png"
+    }
+  ]
 }

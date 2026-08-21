@@ -30,5 +30,34 @@
       "kryptogo-wallet",
       "zerion"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How rotki Shields Against Supply Chain Attacks",
+      "tldr": "A local app still pulls dependencies. The defences in place, including a seven-day cooldown before any dependency update is accepted.",
+      "url": "https://blog.rotki.com/2026/05/22/rotki-security/",
+      "source": "rotki Blog",
+      "publishedAt": "2026-05-22",
+      "tag": "Security",
+      "image": "https://blog.rotki.com/public/og/2026-05-22-rotki-security.png"
+    },
+    {
+      "title": "Why Open Source Matters for a Portfolio Tracker",
+      "tldr": "A tool that reads all your holdings is a tool you have to trust. The argument that auditable source is the only workable basis for that.",
+      "url": "https://blog.rotki.com/2024/10/09/the-power-of-open-source-why-rotki-s-transparency-Is-essential-for-trust/",
+      "source": "rotki Blog",
+      "publishedAt": "2024-10-09",
+      "tag": "Security",
+      "image": "https://blog.rotki.com/public/og/2024-10-09-the-power-of-open-source-why-rotki-s-transparency-Is-essential-for-trust.png"
+    },
+    {
+      "title": "Changing Prices After Seven Years",
+      "tldr": "One subscription price held since 2017 through inflation, new integrations and countless protocol changes. An unusually frank pricing post.",
+      "url": "https://blog.rotki.com/2025/10/13/rotki-tiers/",
+      "source": "rotki Blog",
+      "publishedAt": "2025-10-13",
+      "tag": "Finance",
+      "image": "https://blog.rotki.com/public/og/2025-10-13-rotki-tiers.png"
+    }
+  ]
 }

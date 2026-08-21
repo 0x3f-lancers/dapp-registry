@@ -30,5 +30,25 @@
       "synpress",
       "failsafe"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Critical Resource-Exhaustion Bug in the TON VM",
+      "tldr": "How the flaw was found, what it could have done to the network, and the mitigation that shipped in the virtual machine's security upgrade.",
+      "url": "https://tonbit.xyz/blog/post/TonBit-a-Subsidiary-of-BitsLab-Discovers-Critical-Vulnerability-in-TON-VM_%20Root-Cause-and-Mitigation-Explained.html",
+      "source": "TonBit Blog",
+      "publishedAt": "2024-11-25",
+      "tag": "Security",
+      "image": "https://tonbit.xyz/blog/img/241125/Banner.jpg"
+    },
+    {
+      "title": "A Null-Pointer Flaw in TON's INMSGPARAM Instruction",
+      "tldr": "The third critical VM vulnerability from the same team, this time an instruction that failed to perform a null-pointer check.",
+      "url": "https://tonbit.xyz/blog/post/TonBit-Discovers-Critical-Vulnerability-on-TON-Virtual-Machine-for-the-Third-Time-Once-Again-Receiving-Official-Recognition-from-the-TON-Team.html",
+      "source": "TonBit Blog",
+      "publishedAt": "2025-07-16",
+      "tag": "Security",
+      "image": "https://tonbit.xyz/blog/img/250716/Banner.png"
+    }
+  ]
 }

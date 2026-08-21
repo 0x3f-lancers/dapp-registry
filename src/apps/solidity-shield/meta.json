@@ -43,5 +43,34 @@
       "rattle",
       "cryptolock"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Beginner's Guide to Smart Contract Security",
+      "tldr": "The logic compiles and the tests pass. That is not the same as safe, and this walks a first-time developer through the difference.",
+      "url": "https://blog.securedapp.io/beginners-guide-smart-contract-security-for-developers/",
+      "source": "SecureDapp Blog",
+      "publishedAt": "2026-07-26",
+      "tag": "Security",
+      "image": "https://blog.securedapp.io/wp-content/uploads/2026/04/Gemini_Generated_Image_fjr8njfjr8njfjr8-e1776235913968.png"
+    },
+    {
+      "title": "How Hardware Security Modules Protect Banking Transactions",
+      "tldr": "Behind every instant card approval sits a question of whether the transaction can be trusted. What an HSM does to answer it.",
+      "url": "https://blog.securedapp.io/hsm-banking-transactions/",
+      "source": "SecureDapp Blog",
+      "publishedAt": "2026-07-28",
+      "tag": "Security",
+      "image": "https://blog.securedapp.io/wp-content/uploads/2026/07/Untitled-design-2026-07-28T175204.407.jpg"
+    },
+    {
+      "title": "What Soulbound Tokens Change About Digital Identity",
+      "tldr": "Non-transferable tokens as identity rather than property, and what that shifts about wallet security and proving who you are onchain.",
+      "url": "https://blog.securedapp.io/how-soulbound-tokens-are-redefining-nft-wallet-security-digital-identity/",
+      "source": "SecureDapp Blog",
+      "publishedAt": "2026-07-17",
+      "tag": "Identity",
+      "image": "https://blog.securedapp.io/wp-content/uploads/2026/07/soulbound-tokens-hero-concept-819x1024.png"
+    }
+  ]
 }
