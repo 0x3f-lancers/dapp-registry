@@ -36,22 +36,31 @@
   },
   "resources": [
     {
-      "title": "Seed Entropy: How to Verify Your Hardware Wallet",
-      "tldr": "A seed phrase is only as unpredictable as the randomness behind it. Prompted by the Coldcard RNG flaw, on checking where your device sources entropy.",
-      "url": "https://www.ellipal.com/blogs/news/coldcard-rng-vulnerability-explained",
+      "title": "What Binance's EU Suspension Means for Your Coins",
+      "tldr": "Binance stopped serving EU users in July 2026 without a MiCA licence. ESMA advised moving assets to a licensed provider or to self-custody.",
+      "url": "https://www.ellipal.com/blogs/news/binance-eu-suspension-mica-self-custody",
       "source": "ELLIPAL Blog",
-      "publishedAt": "2026-08-03",
-      "tag": "Security",
-      "image": "https://www.ellipal.com/cdn/shop/articles/ChatGPT_Image_2026_8_3_20_24_41.png?v=1786017254"
+      "publishedAt": "2026-07-01",
+      "tag": "Regulation",
+      "image": "https://www.ellipal.com/cdn/shop/articles/20260702_EU_MICA_77fad030-d079-4e42-a50f-377b10aa0e51.png?v=1782985601"
     },
     {
-      "title": "Air-Gapped Signing Explained: How Cold Wallets Reduce Online Attack Surface",
-      "tldr": "Worth reading for who holds your balance between transactions, and what an issuer collapse could actually touch.",
-      "url": "https://www.ellipal.com/blogs/news/how-crypto-cards-hold-your-money",
+      "title": "The Longest Extreme-Fear Streak Since FTX",
+      "tldr": "The Fear & Greed Index sitting at 8 out of 100 marks the longest such run since November 2022, and experienced holders are moving off exchanges.",
+      "url": "https://www.ellipal.com/blogs/news/the-fear-index-hit-8-smart-crypto-holders-move-to-cold-storage-2026",
       "source": "ELLIPAL Blog",
-      "publishedAt": "2026-07-31",
-      "tag": "Security",
-      "image": "https://www.ellipal.com/cdn/shop/articles/2026-07-31_how-crypto-cards-hold-your-money_cover.png?v=1785478529"
+      "publishedAt": "2026-01-01",
+      "tag": "Finance",
+      "image": "https://www.ellipal.com/cdn/shop/articles/cleaned-Gemini_Generated_Image_vuj3qhvuj3qhvuj3_96de99a9-a150-451b-b5e3-8a8a850ccdf7.png?v=1780046736"
+    },
+    {
+      "title": "Going From Fiat to Offline Storage in One Flow",
+      "tldr": "An Onramper integration that lets someone buy crypto and land it straight in air-gapped hardware storage, without an exchange account in between.",
+      "url": "https://www.ellipal.com/blogs/news/ellipal-integrates-onramper-to-expand-access-to-self-custody-assets",
+      "source": "ELLIPAL Blog",
+      "publishedAt": "2026-06-04",
+      "tag": "Infrastructure",
+      "image": "https://www.ellipal.com/cdn/shop/articles/ORxEllipal.png?v=1780579786"
     }
   ]
 }
