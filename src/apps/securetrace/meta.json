@@ -44,5 +44,34 @@
       "amarna",
       "maian"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wallet Tracing and Address Attribution",
+      "tldr": "Every transaction is public, permanent and pseudonymous at once. That combination is exactly what makes attribution the base of blockchain forensics.",
+      "url": "https://blog.securedapp.io/wallet-tracing-and-address-attribution-in-blockchain-forensics-a-technical-guide/",
+      "source": "SecureDapp Blog",
+      "publishedAt": "2026-08-01",
+      "tag": "Finance",
+      "image": "https://blog.securedapp.io/wp-content/uploads/2026/08/wallet-tracing-address-attribution-hero.png"
+    },
+    {
+      "title": "Access Control, Data Protection and Consent in One Place",
+      "tldr": "Fintech, healthcare and marketplace platforms all face the same three questions: who gets access, how data is protected, how consent is tracked.",
+      "url": "https://blog.securedapp.io/securecms-access-control-data-protection-consent-management-platform/",
+      "source": "SecureDapp Blog",
+      "publishedAt": "2026-08-08",
+      "tag": "Research",
+      "image": "https://blog.securedapp.io/wp-content/uploads/2026/08/securecms-unified-data-protection-platform.png"
+    },
+    {
+      "title": "Complying with India's DPDP Act",
+      "tldr": "The 2023 Act requires companies to demonstrate rather than claim compliance. What a consent management platform has to record to meet that bar.",
+      "url": "https://blog.securedapp.io/consent-management-platform-dpdp-act-compliance-india/",
+      "source": "SecureDapp Blog",
+      "publishedAt": "2026-08-06",
+      "tag": "Regulation",
+      "image": "https://blog.securedapp.io/wp-content/uploads/2026/08/ChatGPT-Image-Aug-6-2026-06_47_54-PM.png"
+    }
+  ]
 }

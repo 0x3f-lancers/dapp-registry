@@ -32,5 +32,25 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Blockchain Data Won't Converge on One Stack",
+      "tldr": "Subgraphs, APIs, streams, warehouses and custom indexers each serve a different slice of the same chain data, and that is unlikely to collapse.",
+      "url": "https://blog.ormilabs.com/blockchain-data-infrastructure-single-stack/",
+      "source": "Ormi Labs Blog",
+      "publishedAt": "2026-06-24",
+      "tag": "Research",
+      "image": "https://storage.ghost.io/c/38/b4/38b42b8d-737f-4ffc-8c7b-97be0a126f89/content/images/size/w1200/2026/06/blockchain-stack-header-1.png"
+    },
+    {
+      "title": "Indexing Robinhood Chain with Ormi Subgraphs",
+      "tldr": "Query contracts, assets, transfers, trades and liquidity through a GraphQL endpoint, without running RPC nodes or an indexing stack.",
+      "url": "https://blog.ormilabs.com/ormi-subgraphs-robinhood-chain/",
+      "source": "Ormi Labs Blog",
+      "publishedAt": "2026-07-24",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/38/b4/38b42b8d-737f-4ffc-8c7b-97be0a126f89/content/images/size/w1200/2026/07/Ormi-X-Robinhood-1.png"
+    }
+  ]
 }

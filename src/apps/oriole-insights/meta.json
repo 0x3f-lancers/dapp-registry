@@ -28,5 +28,34 @@
       "horizondex",
       "tokenlon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Prediction Accuracy Builds Reputation on Oriole",
+      "tldr": "Users forecast price moves, listings and events; accuracy raises reputation and earns ORI. Explains how the scoring and progression actually work.",
+      "url": "https://app.orioleinsights.io/article/community-challenge-beat-your-influencer-on-oriole-insights",
+      "source": "Oriole Insights",
+      "publishedAt": "2025-08-19",
+      "tag": "Identity",
+      "image": "https://oriole-image-bucket-live.s3.eu-central-1.amazonaws.com/article/community-challenge-beat-your-influencer-on-oriole-insights/Challange%20cover.png"
+    },
+    {
+      "title": "Oriole's ORI Goes Onchain on BNB Testnet",
+      "tldr": "Moving the platform's currency onto BNB Smart Chain testnet, so ORI can be deposited, withdrawn and sent through MetaMask rather than held off-chain.",
+      "url": "https://app.orioleinsights.io/article/oriole-insights-public-testnet-is-now-live-on-bnb-chain",
+      "source": "Oriole Insights",
+      "publishedAt": "2025-12-17",
+      "tag": "Finance",
+      "image": "https://oriole-image-bucket-live.s3.eu-central-1.amazonaws.com/article/oriole-insights-public-testnet-is-now-live-on-bnb-chain/celebration%20Oriole%202.png"
+    },
+    {
+      "title": "What Is UMA's Optimistic Oracle?",
+      "tldr": "Every prediction market rests on who decides what happened. How UMA's dispute-and-bond model settles that for Polymarket, and where it strains.",
+      "url": "https://app.orioleinsights.io/article/what-is-uma-optimistic-oracle-prediction-markets",
+      "source": "Oriole Insights",
+      "publishedAt": "2026-05-06",
+      "tag": "Infrastructure",
+      "image": "https://oriole-image-bucket-live.s3.eu-central-1.amazonaws.com/article/what-is-uma-optimistic-oracle-prediction-markets/hero-v5.png"
+    }
+  ]
 }

@@ -34,5 +34,34 @@
       "solsniffer",
       "webacy"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Diagnosing Missed Attestations in Lighthouse",
+      "tldr": "Written for stakers who notice their node is not hitting 100% performance: what causes missed attestations and how to read the evidence.",
+      "url": "https://sigmaprime.io/blog/attestation-analysis/",
+      "source": "Sigma Prime Blog",
+      "publishedAt": "2024-06-17",
+      "tag": "Identity",
+      "image": "https://sigmaprime.io/blog/imgs/cover/attestation-analysis.jpg"
+    },
+    {
+      "title": "Anchor: A Rust SSV Client for Distributed Validators",
+      "tldr": "The first public release of an independent Rust implementation of the SSV protocol, built on the foundations of Lighthouse.",
+      "url": "https://sigmaprime.io/blog/anchor-0-1-0-release/",
+      "source": "Sigma Prime Blog",
+      "publishedAt": "2025-06-04",
+      "tag": "Finance",
+      "image": "https://sigmaprime.io/blog/imgs/cover/anchor-0-1-0-release.jpg"
+    },
+    {
+      "title": "AI as a Force Multiplier for Security Engineers",
+      "tldr": "The debate moved past whether AI can do serious security work. A security firm's assessment of where it genuinely helps and where it does not.",
+      "url": "https://sigmaprime.io/blog/ai-as-a-force-multiplier-for-security-engineers/",
+      "source": "Sigma Prime Blog",
+      "publishedAt": "2026-06-15",
+      "tag": "Security",
+      "image": "https://sigmaprime.io/blog/imgs/cover/ai-as-a-force-multiplier-for-security-engineers.jpg"
+    }
+  ]
 }

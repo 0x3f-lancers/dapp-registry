@@ -38,5 +38,34 @@
       "storx",
       "jolocom"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Running an LLM Without Sending Prompts to a Third Party",
+      "tldr": "The usual path points an OpenAI-compatible client at a hosted API. What the Acurast tunnel and NodeGhost change about where the model actually runs.",
+      "url": "https://acurast.com/blog/builder-spotlight/acurast-builder-spotlight-tunnel-nodeghost/",
+      "source": "Acurast Blog",
+      "publishedAt": "2026-06-12",
+      "tag": "AI & Agents",
+      "image": "https://acurast.com/wp-content/uploads/2026/06/GhostNode-Spotlight-thumb.png"
+    },
+    {
+      "title": "Confidential AI Inference on Smartphones",
+      "tldr": "Acurast, Pocket Network and NodeGhost ran a three-protocol experiment to see what a fully decentralised AI stack looks like in practice.",
+      "url": "https://acurast.com/blog/partnerships/decentralized-confidential-ai-inference-powered-by-smartphones/",
+      "source": "Acurast Blog",
+      "publishedAt": "2026-06-01",
+      "tag": "AI & Agents",
+      "image": "https://acurast.com/wp-content/uploads/2026/06/Blog-image-featured-explorative.png"
+    },
+    {
+      "title": "Confidential Execution for the Agent Economy",
+      "tldr": "A TEE-backed fleet of 270,000+ devices across 175 countries meets a live agent network, to ask where an agent's work can run unobserved.",
+      "url": "https://acurast.com/blog/partnerships/acurast-and-teneo-exploring-confidential-execution-for-the-agent-economy/",
+      "source": "Acurast Blog",
+      "publishedAt": "2026-07-16",
+      "tag": "AI & Agents",
+      "image": "https://acurast.com/wp-content/uploads/2026/07/Acurast-x-Teneo-Partnership.png"
+    }
+  ]
 }

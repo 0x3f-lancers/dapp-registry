@@ -31,5 +31,32 @@
       "plonky2",
       "astrakode-smart-contract-auditor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "GPU Proving Lands on the Axiom Proving API",
+      "tldr": "Distributed multi-GPU proving takes OpenVM to Ethereum mainnet blocks in 15 seconds, a fivefold improvement in both cost and latency.",
+      "url": "https://www.axiom.xyz/blog/openvm-gpu",
+      "source": "Axiom Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/6839ef014c85597c3aad8e10/68af6005e8f7ecd8fbf9090c_openvm-gpu-api.png"
+    },
+    {
+      "title": "Formally Verifying the OpenVM RISC-V Extension",
+      "tldr": "Proving the functional correctness of RV32IM in Lean with Nethermind Research, under an Ethereum Foundation grant, plus provable 100-bit security.",
+      "url": "https://www.axiom.xyz/blog/formal-verification",
+      "source": "Axiom Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/6839ef014c85597c3aad8e10/69825e97a040ba7ee336416c_1.1.png"
+    },
+    {
+      "title": "Releasing OpenVM 2.0 to Production",
+      "tldr": "Combining state-of-the-art proving performance with enterprise security requirements and new proof aggregation features.",
+      "url": "https://www.axiom.xyz/blog/openvm-2-production",
+      "source": "Axiom Blog",
+      "publishedAt": "2026-07-10",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/6839ef014c85597c3aad8e10/6a50661b6ee8f526ffea34d5_2.3-5.png"
+    }
+  ]
 }

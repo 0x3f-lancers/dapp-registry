@@ -36,5 +36,25 @@
       "eth-tester",
       "blockaid"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Negated Check Cost SuperRare $730K",
+      "tldr": "An access control bug that is easy to miss precisely because a check is present — it just fails to restrict anything. From Veridise's auditor series.",
+      "url": "https://veridise.com/blog/audit-insights/smart-contract-access-control-superrare-exploit/",
+      "source": "Veridise Blog",
+      "publishedAt": "2026-06-29",
+      "tag": "Security",
+      "image": "https://veridise.com/wp-content/uploads/2026/06/smart-contract-access-control-vulnerability.jpg"
+    },
+    {
+      "title": "LLZK and Funding Zero-Knowledge Circuit Verification",
+      "tldr": "An open-source compiler framework for verifying ZK circuits, accepted into TheDAO Security Fund's first quadratic funding round on Giveth.",
+      "url": "https://veridise.com/blog/veridise-announcements/llzk-joins-ethereum-security-quadratic-funding-round-on-giveth/",
+      "source": "Veridise Blog",
+      "publishedAt": "2026-04-28",
+      "tag": "Security",
+      "image": "https://veridise.com/wp-content/uploads/2026/04/ChatGPT-Image-28-avr.-2026-14_56_45-1024x576.png"
+    }
+  ]
 }

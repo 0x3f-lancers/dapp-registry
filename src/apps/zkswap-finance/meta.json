@@ -3,8 +3,12 @@
   "name": "zkSwap Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751431/web3-explorer/dapp-logos/zkswap-finance.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["ZKsync"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "ZKsync"
+  ],
   "pricing": "Free",
   "content": {
     "short": "zkSwap Finance is the first Swap-to-Earn DeFi platform on the zkSync Era ecosystem.",
@@ -17,7 +21,42 @@
     "twitter": "https://x.com/zkSwap_finance"
   },
   "relations": {
-    "alternatives": ["crema-finance", "router-nitro"],
-    "related": ["bydfi", "marginly"]
-  }
+    "alternatives": [
+      "crema-finance",
+      "router-nitro"
+    ],
+    "related": [
+      "bydfi",
+      "marginly"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Concentrated Liquidity Comes to zkSwap V3",
+      "tldr": "A V3 AMM on ZKsync Era letting liquidity providers target price ranges, raising capital efficiency for the same amount deposited.",
+      "url": "https://blog.zkswap.finance/2025/01/03/unleashing-defi-potential-with-zkswap-concentrated-liquidity-v3-amm-on-zksync-era/",
+      "source": "zkSwap Finance Blog",
+      "publishedAt": "2025-01-03",
+      "tag": "DeFi",
+      "image": "https://blog.zkswap.finance/wp-content/uploads/2023/08/site_intro.webp"
+    },
+    {
+      "title": "The zkSwap Universal Router",
+      "tldr": "Routing trades across pools through a single contract, alongside a rebuilt frontend engine, and what each changes about execution quality.",
+      "url": "https://blog.zkswap.finance/2025/01/04/introducing-the-zkswap-finance-universal-router-and-new-frontend-engine/",
+      "source": "zkSwap Finance Blog",
+      "publishedAt": "2025-01-04",
+      "tag": "Infrastructure",
+      "image": "https://blog.zkswap.finance/wp-content/uploads/2023/08/site_intro.webp"
+    },
+    {
+      "title": "Stableswap for Low-Slippage Stablecoin Trading",
+      "tldr": "A curve designed for assets that should trade near parity, cutting slippage for traders and giving LPs steadier fee income.",
+      "url": "https://blog.zkswap.finance/2024/12/15/stableswap-superior-stablecoin-trading-for-traders-and-liquidity-providers/",
+      "source": "zkSwap Finance Blog",
+      "publishedAt": "2024-12-15",
+      "tag": "Trading",
+      "image": "https://blog.zkswap.finance/wp-content/uploads/2023/08/site_intro.webp"
+    }
+  ]
 }

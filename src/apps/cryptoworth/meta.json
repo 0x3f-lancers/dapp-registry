@@ -45,5 +45,34 @@
       "rabby-wallet",
       "zerion"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bittensor Accounting for TAO and Subnets",
+      "tldr": "Hotkeys, coldkeys and subnet rewards make TAO unusually awkward to account for. How to track it accurately rather than approximately.",
+      "url": "https://www.cryptoworth.com/blog/bittensor-accounting-solving-the-ai-revolutions-hidden-financial-challenge",
+      "source": "Cryptoworth Blog",
+      "publishedAt": "2025-08-19",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/65d4d423062d9d64893ca361/68acbf92c4cfc60cd38820e0_Bittensor%20accounting%20challenges.webp"
+    },
+    {
+      "title": "Getting Crypto Assets Audit-Ready",
+      "tldr": "Practical steps to prepare systems and records before an auditor arrives, and the reconciliation gaps that most often cause trouble.",
+      "url": "https://www.cryptoworth.com/blog/audit-readiness-crypto-assets",
+      "source": "Cryptoworth Blog",
+      "publishedAt": "2025-06-01",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/65d4d423062d9d64893ca361/683d9d4b5e48409a1e3927ff_crypto-asset-audit-readiness-a-practical-guide-854171.avif"
+    },
+    {
+      "title": "Choosing General Ledger Software for Crypto",
+      "tldr": "What a ledger has to handle once digital assets are involved, and how to weigh the options against the reconciliation work they save.",
+      "url": "https://www.cryptoworth.com/blog/accounting-general-ledger-software",
+      "source": "Cryptoworth Blog",
+      "publishedAt": "2025-06-29",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/65d4d423062d9d64893ca361/6862e4579ecaa482cf36166b_accounting-general-ledger-software-your-complete-guide-889427.avif"
+    }
+  ]
 }

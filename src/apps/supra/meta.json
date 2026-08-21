@@ -31,5 +31,34 @@
       "quai",
       "startmining"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The $SUPRA Token: Tokenomics and Utility",
+      "tldr": "How the token pays for Supra's MultiVM L1 and its native oracle, VRF and automation services, plus the team and founder lock schedules set at launch.",
+      "url": "https://supra.com/news/supra-token-tokenomics-and-utility/",
+      "source": "Supra",
+      "publishedAt": "2024-12-04",
+      "tag": "Infrastructure",
+      "image": "https://wp.supraoracles.com/wp-content/uploads/2024/12/Cover.png"
+    },
+    {
+      "title": "Supra Raises Its Minimum Gas Price a Thousandfold",
+      "tldr": "Governance proposal SUP #3 moved the mainnet floor from 100 to 100,000 Quants. Why, and what breaks for wallets and dapps that ignore it.",
+      "url": "https://supra.com/news/supra-mainnet-gas-price-adjustment-effective-11-may-2026/",
+      "source": "Supra",
+      "publishedAt": "2026-05-07",
+      "tag": "Infrastructure",
+      "image": "https://wp.supraoracles.com/wp-content/uploads/2026/05/gas-price-adjustment-cover.webp"
+    },
+    {
+      "title": "Native Automation Arrives on Supra Testnet",
+      "tldr": "Scheduled execution built into the chain rather than bolted on by keeper bots, so transactions fire on conditions without an external trigger.",
+      "url": "https://supra.com/news/supra-automation-on-public-testnet/",
+      "source": "Supra",
+      "publishedAt": "2025-04-21",
+      "tag": "Trading",
+      "image": "https://wp.supraoracles.com/wp-content/uploads/2025/04/image-6.png"
+    }
+  ]
 }

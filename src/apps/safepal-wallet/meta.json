@@ -42,5 +42,34 @@
       "atomic-wallet",
       "coin-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "SafePal Adds Support for Robinhood Chain",
+      "tldr": "Robinhood's permissionless L2 for tokenised real-world assets is now supported across SafePal's software, hardware and extension wallets.",
+      "url": "https://www.safepal.com/en/blog/robinhood-chain-integration",
+      "source": "SafePal Blog",
+      "publishedAt": "2026-07-02",
+      "tag": "Tokenization",
+      "image": "https://blogcontent.safepal.com/uploads/2026/06/20260629-174702.png"
+    },
+    {
+      "title": "SafePal Supports the Lemon Chain Network",
+      "tldr": "Adding an EVM-compatible chain and its native $LEMX asset to both the software and hardware wallet, extending SafePal's cross-chain coverage.",
+      "url": "https://www.safepal.com/en/blog/lemx-lemon-chain",
+      "source": "SafePal Blog",
+      "publishedAt": "2026-03-24",
+      "tag": "Infrastructure",
+      "image": "https://blogcontent.safepal.com/uploads/2026/03/image-2.png"
+    },
+    {
+      "title": "Non-Custodial TRX Staking via XYSwap",
+      "tldr": "Staking TRX from inside the wallet without surrendering custody, earning from TRON energy rental and super-representative rewards.",
+      "url": "https://www.safepal.com/en/blog/stake-trx-safepal-xyswap-earn-10apy",
+      "source": "SafePal Blog",
+      "publishedAt": "2026-04-02",
+      "tag": "DeFi",
+      "image": "https://blogcontent.safepal.com/uploads/2026/03/image-3.png"
+    }
+  ]
 }

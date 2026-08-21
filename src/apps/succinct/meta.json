@@ -34,5 +34,34 @@
       "meson",
       "hashport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Optimism Brings ZK Proving to the Superchain",
+      "tldr": "OP Succinct becomes a preferred proving solution for OP Stack rollups, with OP Mainnet among the largest rollups moving to ZK proofs.",
+      "url": "https://blog.succinct.xyz/optimism-superchain/",
+      "source": "Succinct Blog",
+      "publishedAt": "2026-02-12",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/4d/89/4d8952d8-d0e5-4d81-b2cd-5e7810e6982a/content/images/size/w1200/2026/02/x-preview_optimism.png"
+    },
+    {
+      "title": "Confidential Transactions in OP Succinct",
+      "tldr": "A rollup can withhold its transaction data from public view and still prove correctness to Ethereum. Polygon CDK shipped the first production use.",
+      "url": "https://blog.succinct.xyz/op-succinct-data-confidentiality/",
+      "source": "Succinct Blog",
+      "publishedAt": "2026-05-12",
+      "tag": "Research",
+      "image": "https://storage.ghost.io/c/4d/89/4d8952d8-d0e5-4d81-b2cd-5e7810e6982a/content/images/size/w1200/2026/05/Twitter-post---1--1-.png"
+    },
+    {
+      "title": "Flock: Proving Hash Functions at 250x Native Cost",
+      "tldr": "Proving a batch of ordinary hash computations costs roughly 250 times running them. An honest measure of where proving overhead now sits.",
+      "url": "https://blog.succinct.xyz/introducing-flock/",
+      "source": "Succinct Blog",
+      "publishedAt": "2026-06-25",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/4d/89/4d8952d8-d0e5-4d81-b2cd-5e7810e6982a/content/images/size/w1200/2026/06/Frame-140.png"
+    }
+  ]
 }

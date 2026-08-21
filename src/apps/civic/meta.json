@@ -38,5 +38,34 @@
     "related": [
       "metacrafters"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Business Leaders Need to Know About AI in 2026",
+      "tldr": "The bar moved from 'can it write, summarise, code' to 'show me the return'. What that shift changes about how AI gets bought and deployed.",
+      "url": "https://www.civic.com/news/ai-in-2026",
+      "source": "Civic",
+      "publishedAt": "2026-02-11",
+      "tag": "AI & Agents",
+      "image": "https://www.civic.com/images/webflow/698673d02ea645d2e4ea8aaa_2026.02.05-blog-what-business-leaders-need-to-know-about-ai-in-2026.webp"
+    },
+    {
+      "title": "How AI Agents Are Changing Everyday Work",
+      "tldr": "Better model answers stopped being the driver. What matters now is who carries the identity and permissions when an agent acts on your behalf.",
+      "url": "https://www.civic.com/news/how-ai-agents-are-changing-everyday-work",
+      "source": "Civic",
+      "publishedAt": "2026-04-14",
+      "tag": "AI & Agents",
+      "image": "https://www.civic.com/images/webflow/69d7dd98ab9c77a9942fc993_2026.04.09-Blog-AI-Agents-changing-everyday-work.webp"
+    },
+    {
+      "title": "Installing Civic Nexus on OpenClaw",
+      "tldr": "Setting up an agent normally means editing .env files and hoping nothing sensitive reaches version control. A shorter path through that setup.",
+      "url": "https://www.civic.com/news/install-nexus-on-openclaw",
+      "source": "Civic",
+      "publishedAt": "2026-03-05",
+      "tag": "AI & Agents",
+      "image": "https://www.civic.com/images/webflow/69a204d3703c4ff38d447548_OpenClaw-Nexus-Email.webp"
+    }
+  ]
 }

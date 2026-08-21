@@ -36,5 +36,31 @@
       "yield-protocol",
       "notional"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing Veda, a Native Yield Layer",
+      "tldr": "Tokenising arbitrarily complex DeFi interactions so protocols can embed yield directly, rather than sending users elsewhere to find it.",
+      "url": "https://veda.tech/blog/introducing-veda",
+      "source": "Veda Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/682e0b50bbbe61ea75f0e504/6856a35be92310d8af72dcad_Introducing%20Veda.svg"
+    },
+    {
+      "title": "How Veda Vaults Approach Security",
+      "tldr": "What to examine in vault infrastructure: a provider's general practices and the guarantees at the smart contract level are different questions.",
+      "url": "https://veda.tech/blog/how-veda-defi-vaults-put-security-first",
+      "source": "Veda Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/682e0b50bbbe61ea75f0e504/6a26e36f3e633f7374763398_1200x628_social_vault_security%20(2).png"
+    },
+    {
+      "title": "Powering Lombard's Bitcoin DeFi Vault",
+      "tldr": "Giving LBTC holders one-click access to DeFi yield, and the engineering needed to keep bitcoin-native users away from the usual complexity.",
+      "url": "https://veda.tech/blog/lombard-launch",
+      "source": "Veda Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/682e0b50bbbe61ea75f0e504/6856a386c0e2c8d0c643120c_Veda%20Now%20Powers%20Lombard%27s%20DeFi%20Vault.svg"
+    }
+  ]
 }

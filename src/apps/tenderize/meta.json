@@ -31,5 +31,34 @@
       "nusa-finance",
       "yieldfi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tenderize v2 and Validator-Specific Liquid Staking",
+      "tldr": "Eighteen months of work behind v2: per-validator liquid staking tokens plus a shared liquidity pool, instead of one pooled token across all validators.",
+      "url": "https://blog.tenderize.me/the-cookout-tenderize-v2-mainnet-launch/",
+      "source": "Tenderize Blog",
+      "publishedAt": "2024-01-12",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/fc/57/fc57c327-e87e-496c-9d2b-bb794450ca89/content/images/size/w1200/2024/01/Mainnet-launch.png"
+    },
+    {
+      "title": "Liquid Staking Arrives on Sei",
+      "tldr": "tSEI spreads stake across 20+ high-performing Sei validators, with liquid wrappers for delegation. What the launch offers SEI holders.",
+      "url": "https://blog.tenderize.me/tenderize-is-live-on-sei/",
+      "source": "Tenderize Blog",
+      "publishedAt": "2025-09-18",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/fc/57/fc57c327-e87e-496c-9d2b-bb794450ca89/content/images/2025/09/seilaunch.png"
+    },
+    {
+      "title": "How TenderTokens Work",
+      "tldr": "Single-validator liquid staking pools with zero fees and no counterparty, and the case for a credibly neutral base layer under liquid staking.",
+      "url": "https://blog.tenderize.me/the-year-of-the-steak-2/",
+      "source": "Tenderize Blog",
+      "publishedAt": "2025-01-17",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/fc/57/fc57c327-e87e-496c-9d2b-bb794450ca89/content/images/size/w1200/2025/01/The-year-of-the-steak-V2-1.png"
+    }
+  ]
 }

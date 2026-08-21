@@ -31,5 +31,34 @@
       "silo-finance",
       "venus-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Guide to Using Liquid Staking Tokens",
+      "tldr": "Staking yield while holding a transferable token instead of running a validator, and how the yield accounting differs between implementations.",
+      "url": "https://www.oeth.com/blog/how-to-use-liquid-staking-tokens",
+      "source": "Origin Ether Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "DeFi",
+      "image": "https://cmsmediaproduction.s3.amazonaws.com/How_To_Use_Liquid_Staking_Tokens_35ca57aa02.png"
+    },
+    {
+      "title": "What Is Leveraged Ethereum Staking?",
+      "tldr": "Pairing liquid staking collateral with a borrow position raises ETH exposure and net carry — and liquidation, rate, liquidity and contract risk with it.",
+      "url": "https://www.oeth.com/blog/what-is-leveraged-staking",
+      "source": "Origin Ether Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "DeFi",
+      "image": "https://cmsmediaproduction.s3.amazonaws.com/what_is_leveraged_staking_morpho_oeth_rays_summer_fi_origin_protocol_56bcc6a479.png"
+    },
+    {
+      "title": "Introducing the WETH ARM Vault",
+      "tldr": "One shared WETH pool quotes stETH, wstETH, eETH and weETH markets at once, rather than dedicating separate liquidity to each pair.",
+      "url": "https://www.oeth.com/blog/weth-arm-introduction",
+      "source": "Origin Ether Blog",
+      "publishedAt": "2026-07-30",
+      "tag": "DeFi",
+      "image": "https://cmsmediaproduction.s3.amazonaws.com/origin_arm_72d6834d02.svg"
+    }
+  ]
 }

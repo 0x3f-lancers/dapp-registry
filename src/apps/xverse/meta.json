@@ -31,5 +31,34 @@
       "ambire-wallet",
       "dfns"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Xverse Cash: A Dollar Layer for Bitcoin",
+      "tldr": "The tension every long-term holder knows: net worth onchain, rent due in dollars, and no way to pay a Venmo request from a UTXO.",
+      "url": "https://www.xverse.app/blog/xverse-cash-dollar-layer-for-bitcoin",
+      "source": "Xverse Blog",
+      "publishedAt": "2026-07-24",
+      "tag": "Finance",
+      "image": "https://cdn.prod.website-files.com/624b08d53d7ac65cf7c11d91/6a62dfc77876a0d6084eec2b_Your%20Financial%20Life%20One%20Tab.webp"
+    },
+    {
+      "title": "How AI Agents Pay Each Other in Bitcoin",
+      "tldr": "Coinbase, MetaMask and Solana all shipped agent wallets; Bitcoin had none. What a Bitcoin-native agentic wallet and MCP server actually do.",
+      "url": "https://www.xverse.app/blog/ai-agents-bitcoin-payments-agentic-wallet",
+      "source": "Xverse Blog",
+      "publishedAt": "2026-04-09",
+      "tag": "AI & Agents",
+      "image": "https://cdn.prod.website-files.com/624b08d53d7ac65cf7c11d91/69d5bfa607f53f2266941b3a_xverse-agentic-blog.webp"
+    },
+    {
+      "title": "Earning Stablecoin Yield in Xverse",
+      "tldr": "Stablecoins are mostly used for payments and moving in and out of the market. How the yield feature works and what the return depends on.",
+      "url": "https://www.xverse.app/blog/earn-stablecoin-yield",
+      "source": "Xverse Blog",
+      "publishedAt": "2026-05-15",
+      "tag": "Payments",
+      "image": "https://cdn.prod.website-files.com/624b08d53d7ac65cf7c11d91/69f167a7ea7ebef996f550b8_Idle%20Stablecoins_.jpg"
+    }
+  ]
 }

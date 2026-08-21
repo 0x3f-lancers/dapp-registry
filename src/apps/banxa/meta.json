@@ -32,5 +32,34 @@
       "algebra-protocol",
       "beefy"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is an On-Ramp Aggregator?",
+      "tldr": "Press Buy in a wallet and you see several providers quoting one purchase. The named provider runs payment, ID checks and delivery; the wallet only routes.",
+      "url": "https://banxa.com/learn/crypto-basics/what-is-an-on-ramp-aggregator",
+      "source": "Banxa Learn",
+      "publishedAt": "2026-08-03",
+      "tag": "Trading",
+      "image": "https://banxa.com/learn/images/learn-og-default.jpg"
+    },
+    {
+      "title": "How to Check If a Crypto Platform Is Licensed",
+      "tldr": "A footer claiming 'licensed' proves nothing. Search the exact legal name from the terms page on the regulator's own register, then check warning lists.",
+      "url": "https://banxa.com/learn/how-to-buy-and-sell/how-to-check-if-a-crypto-platform-is-licensed",
+      "source": "Banxa Learn",
+      "publishedAt": "2026-08-03",
+      "tag": "Regulation",
+      "image": "https://banxa.com/learn/images/learn-og-default.jpg"
+    },
+    {
+      "title": "Why Crypto Prices Differ Between Platforms",
+      "tldr": "No venue quotes an authoritative number; each order book settles its own, kept in line by arbitrage. Aggregator sites average them, so quotes never match.",
+      "url": "https://banxa.com/learn/markets-and-trading-basics/why-do-crypto-prices-differ-between-platforms",
+      "source": "Banxa Learn",
+      "publishedAt": "2026-08-03",
+      "tag": "Trading",
+      "image": "https://banxa.com/learn/images/learn-og-default.jpg"
+    }
+  ]
 }

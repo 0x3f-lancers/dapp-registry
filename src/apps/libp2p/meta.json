@@ -30,5 +30,25 @@
       "foundry-forge",
       "infura"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "rust-libp2p Gets WebRTC in the Browser",
+      "tldr": "WebRTC connections now work browser-side, not just on the server, removing the need for a CA-signed certificate to dial a node from a browser.",
+      "url": "https://libp2p.io/blog/rust-libp2p-browser-webrtc/",
+      "source": "libp2p Blog",
+      "publishedAt": "2024-02-20",
+      "tag": "Infrastructure",
+      "image": "https://libp2p.io/img/blog/rust-libp2p.jpeg"
+    },
+    {
+      "title": "Rewriting the libp2p Interoperability Test Framework",
+      "tldr": "Testing across many languages, transports and protocols is genuinely hard. Why the unified-testing repo was rebuilt from scratch, and what changed.",
+      "url": "https://libp2p.io/blog/new-unified-testing/",
+      "source": "libp2p Blog",
+      "publishedAt": "2026-01-27",
+      "tag": "Finance",
+      "image": "https://libp2p.io/blog/new-unified-testing/..&#x2F;..&#x2F;img&#x2F;og-image.png"
+    }
+  ]
 }

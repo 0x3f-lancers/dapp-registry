@@ -32,5 +32,31 @@
       "militereum",
       "amarna"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The ZetaChain Gateway Hack, Analysed",
+      "tldr": "A step-by-step reconstruction of the April 2026 exploit on ZetaChain's GatewayEVM bridge contract, including the drain window and root cause.",
+      "url": "https://blog.solidityscan.com/zetachain-gateway-hack-analysis/",
+      "source": "SolidityScan Blog",
+      "publishedAt": "2026-04-28",
+      "tag": "Security"
+    },
+    {
+      "title": "What Audited Contracts Still Get Breached",
+      "tldr": "Around $1.7B was stolen in 2023 despite widespread auditing. Which failure classes keep slipping past review, drawn from specific breaches.",
+      "url": "https://blog.solidityscan.com/smart-contract-audit-breaches/",
+      "source": "SolidityScan Blog",
+      "publishedAt": "2026-03-20",
+      "tag": "Security"
+    },
+    {
+      "title": "NFT Security Across Minting, Trading and Holding",
+      "tldr": "The risks change at each stage of an NFT's life. What to watch for when minting, when trading, and when simply holding a piece.",
+      "url": "https://blog.solidityscan.com/nft-security/",
+      "source": "SolidityScan Blog",
+      "publishedAt": "2026-03-20",
+      "tag": "Trading"
+    }
+  ]
 }

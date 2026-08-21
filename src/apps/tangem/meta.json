@@ -31,5 +31,34 @@
       "rainbow-wallet",
       "pier-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Entropy Matters in Private Key Generation",
+      "tldr": "What entropy is, how it feeds seed phrase generation, and the Trust Wallet exploit that showed what happens when there is not enough of it.",
+      "url": "https://tangem.com/en/blog/post/entropy/",
+      "source": "Tangem Blog",
+      "publishedAt": "2024-08-26",
+      "tag": "Security",
+      "image": "https://tangem.com/_astro/23_143_3c61453cbb_1sx3D7.png"
+    },
+    {
+      "title": "Moving Crypto from Robinhood to a Hardware Wallet",
+      "tldr": "Generating receive addresses on a cold wallet, executing the withdrawal, and the fees and limits Robinhood applies along the way.",
+      "url": "https://tangem.com/en/blog/post/robinhood-to-cold-wallet/",
+      "source": "Tangem Blog",
+      "publishedAt": "2025-07-16",
+      "tag": "Security",
+      "image": "https://tangem.com/_astro/How_to_Withdraw_Crypto_From_Robinhood_9ea4c0f6c5_1irqc7.png"
+    },
+    {
+      "title": "How to Receive Crypto Payments Safely",
+      "tldr": "How receiving addresses work, how much is sensible to hold in each wallet type, and the mistakes that most often lose funds on the way in.",
+      "url": "https://tangem.com/en/blog/post/how-to-receive-crypto-payments/",
+      "source": "Tangem Blog",
+      "publishedAt": "2026-05-11",
+      "tag": "Payments",
+      "image": "https://tangem.com/_astro/best_crypto_wallets_in_africa_april_2026_og_86be958e01_Z2p5HC0.png"
+    }
+  ]
 }

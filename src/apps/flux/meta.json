@@ -35,5 +35,34 @@
       "spheron-network",
       "kaito"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Multimodal AI Explained",
+      "tldr": "Why processing text, images and documents together is different from handling each in turn, and what inferring context across formats requires.",
+      "url": "https://runonflux.com/multimodal-ai-explained/",
+      "source": "Flux Blog",
+      "publishedAt": "2026-06-18",
+      "tag": "AI & Agents",
+      "image": "https://runonflux.com/og/multimodal-ai-explained.jpg"
+    },
+    {
+      "title": "Self-Hosted AI Assistants on FluxCloud",
+      "tldr": "Deploying OpenClaw from the Flux Marketplace, so a personal AI assistant runs on infrastructure the user controls and keeps its data there.",
+      "url": "https://runonflux.com/openclaw-fluxcloud-custom-ai-assistance/",
+      "source": "Flux Blog",
+      "publishedAt": "2026-04-24",
+      "tag": "AI & Agents",
+      "image": "https://runonflux.com/og/openclaw-fluxcloud-custom-ai-assistance.jpg"
+    },
+    {
+      "title": "Flux Network Operator and Security Changes",
+      "tldr": "Operational changes to node running and network security processes, and what operators need to adjust as a result.",
+      "url": "https://runonflux.com/flux-network-operator-security-infrastructure-update/",
+      "source": "Flux Blog",
+      "publishedAt": "2026-05-27",
+      "tag": "Infrastructure",
+      "image": "https://runonflux.com/og/flux-network-operator-security-infrastructure-update.jpg"
+    }
+  ]
 }

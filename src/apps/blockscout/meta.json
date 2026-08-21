@@ -35,5 +35,34 @@
       "hela-labs",
       "injective-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How HypurrClaw Built an AI Trading Agent on the Blockscout API",
+      "tldr": "An agent that researches onchain activity and trades from one chat thread, using Blockscout for explorer data across every EVM chain it touches.",
+      "url": "https://www.blog.blockscout.com/how-hypurrclaw-built-an-ai-crypto-trading-agent-with-the-blockscout-api/",
+      "source": "Blockscout Blog",
+      "publishedAt": "2026-07-08",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/ba/bf/babf742f-7c99-455a-9a8d-a5eed88c9d69/content/images/size/w1200/2026/07/2_HypurrClaw_Blockscout-1.jpg"
+    },
+    {
+      "title": "Building on Robinhood Chain with the Blockscout Pro API",
+      "tldr": "Blockscout is Robinhood Chain's official explorer from block one. What the Pro API exposes for tracking tokenised stocks, ETPs and RWAs in real time.",
+      "url": "https://www.blog.blockscout.com/build-on-robinhood-chain-with-the-blockscout-pro-api/",
+      "source": "Blockscout Blog",
+      "publishedAt": "2026-07-06",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/ba/bf/babf742f-7c99-455a-9a8d-a5eed88c9d69/content/images/size/w1200/2026/07/Dark_Blockscout_Robinhood_explorer-3.png"
+    },
+    {
+      "title": "Which Chains Are Growing Fastest Right Now",
+      "tldr": "Daily transaction data across 30 chains over 30 days, comparing first week to last. A worked example of using explorer data to read network growth.",
+      "url": "https://www.blog.blockscout.com/10-chains-growing-fastest-july-2026/",
+      "source": "Blockscout Blog",
+      "publishedAt": "2026-07-16",
+      "tag": "Research",
+      "image": "https://storage.ghost.io/c/ba/bf/babf742f-7c99-455a-9a8d-a5eed88c9d69/content/images/2026/07/10-chains-growing-fastest-july-2026-hero-1.png"
+    }
+  ]
 }

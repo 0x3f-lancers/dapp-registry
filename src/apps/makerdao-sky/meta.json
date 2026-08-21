@@ -1,7 +1,7 @@
 {
   "slug": "makerdao-sky",
   "name": "MakerDAO (Sky)",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860344/dapp-store-logos/makerdao-sky.jpg",
+  "logoUrl": "https://cdn.prod.website-files.com/69a087b704bd54891a523a0f/69b4979474d803500cff8206_webclip%20(1).png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized CDPs"
@@ -34,5 +34,34 @@
       "euler",
       "drift"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is sUSDS?",
+      "tldr": "An ERC-4626 token that is deliberately not pegged to $1: the balance stays put while each token redeems for more USDS as the Sky Savings Rate accrues.",
+      "url": "https://sky.money/blog/what-is-susds",
+      "source": "Sky",
+      "publishedAt": "2026-06-23",
+      "tag": "Explainer",
+      "image": "https://cdn.prod.website-files.com/6a046b1b3c0a7bdcc5d0e321/6a3522b5e16a19b5fba35ffb_open-graph_1200x630%20v1%20(1).png"
+    },
+    {
+      "title": "What Is Sky.money?",
+      "tldr": "The non-custodial front end to Sky Protocol, and the four routes it offers for stablecoins: sUSDS, stUSDS, ecosystem rewards and vaults.",
+      "url": "https://sky.money/blog/what-is-sky-money",
+      "source": "Sky",
+      "publishedAt": "2026-05-28",
+      "tag": "Explainer",
+      "image": "https://cdn.prod.website-files.com/6a046b1b3c0a7bdcc5d0e321/6a1dabb9401866d1e6f0b6d6_what-is-sky-money-opengraph.png"
+    },
+    {
+      "title": "What Is USDS?",
+      "tldr": "Sky's native stablecoin, what backs it, and how the Peg Stability Module defends the peg in both directions rather than only on the downside.",
+      "url": "https://sky.money/blog/what-is-usds",
+      "source": "Sky",
+      "publishedAt": "2026-06-12",
+      "tag": "Explainer",
+      "image": "https://cdn.prod.website-files.com/6a046b1b3c0a7bdcc5d0e321/6a2af92cf160b44f020875a4_what-is-usd-open-graph_1200x630.png"
+    }
+  ]
 }
