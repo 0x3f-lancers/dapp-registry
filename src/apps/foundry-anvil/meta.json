@@ -30,34 +30,5 @@
       "bonadocs",
       "arachne"
     ]
-  },
-  "resources": [
-    {
-      "title": "Deterministic Deployments with CREATE2",
-      "tldr": "An opcode from the 2019 Constantinople fork that lets a contract land at an address you can compute in advance from deployer-controlled inputs.",
-      "url": "https://www.getfoundry.sh/guides/deterministic-deployments-using-create2",
-      "source": "Foundry Guides",
-      "publishedAt": "2026-07-27",
-      "tag": "Infrastructure",
-      "image": "https://www.getfoundry.sh/og-image.png"
-    },
-    {
-      "title": "Signing with a Browser Wallet Instead of a Private Key",
-      "tldr": "Point Foundry at a browser wallet rather than pasting a key into the CLI, and let the wallet handle signing and confirmation prompts.",
-      "url": "https://www.getfoundry.sh/guides/browser-wallet",
-      "source": "Foundry Guides",
-      "publishedAt": "2026-08-05",
-      "tag": "Security",
-      "image": "https://www.getfoundry.sh/og-image.png"
-    },
-    {
-      "title": "Running Foundry in Docker",
-      "tldr": "Reproducible builds, CI pipelines and isolated development environments using the official image from the GitHub Container Registry.",
-      "url": "https://www.getfoundry.sh/guides/docker",
-      "source": "Foundry Guides",
-      "publishedAt": "2026-07-27",
-      "tag": "Finance",
-      "image": "https://www.getfoundry.sh/og-image.png"
-    }
-  ]
+  }
 }

@@ -38,5 +38,30 @@
       "glider",
       "pocketuniverse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An $8M Mux-Up: Finding a Critical Vulnerability in MUX Protocol",
+      "tldr": "Two thousand words tracing a real critical bug from detection to disclosure. The value is in the reasoning path, not the headline figure.",
+      "url": "https://octane.security/post/an-8m-mux-up-how-octanes-ai-found-a-critical-vulnerability-in-mux-protocol",
+      "source": "Octane Security Blog",
+      "tag": "Security",
+      "publishedAt": "2026-06-20"
+    },
+    {
+      "title": "Catching a High-Severity Ethereum Client Bug",
+      "tldr": "A bug in client software rather than a contract, which is a much less examined surface with much broader blast radius.",
+      "url": "https://octane.security/post/ethereum",
+      "source": "Octane Security Blog",
+      "publishedAt": "2026-07-27"
+    },
+    {
+      "title": "Asymmetric War: Agentic AI and the Future of Cybersecurity",
+      "tldr": "Attackers and defenders both get the same tooling, and the argument here is about which side the asymmetry favours. Not a comfortable conclusion.",
+      "url": "https://octane.security/post/asymmetric-war-agentic-ai-future-of-cybersecurity",
+      "source": "Octane Security Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-06-20"
+    }
+  ]
 }
