@@ -5,6 +5,10 @@ on:
     types:
       - opened
       - reopened
+      # `edited` so a submission that failed on a fixable mistake (wrong
+      # subcategory, missing field) retries once the author corrects it,
+      # instead of needing a maintainer to close and reopen the issue.
+      - edited
 
 permissions:
   contents: write
@@ -18,7 +22,14 @@ concurrency:
 jobs:
   new_app_issue_to_pr:
     # Only `new-app` submissions are automated. Taxonomy and chain registry requests stay manual.
-    if: startsWith(github.event.issue.title, '[New App]:') && contains(github.event.issue.body, '### App name')
+    #
+    # Gate on the label, not the title. The issue form prefills the title as
+    # "[New App]: " but GitHub lets the submitter overwrite it, and several have
+    # (#120 became "[CiaoTool]: ..."). A renamed title skipped this job before any
+    # step ran, so no PR was opened and no failure comment was posted -- the
+    # submission simply vanished. The `new-app` label is applied by the form and
+    # cannot be edited by the submitter, so it is the reliable signal.
+    if: contains(github.event.issue.labels.*.name, 'new-app') && contains(github.event.issue.body, '### App name')
     runs-on: ubuntu-latest
 
     steps:
@@ -50,7 +61,7 @@ jobs:
         if: steps.generate.outcome == 'success'
         continue-on-error: true
         run: |
-          pnpm run dev:validate >"$RUNNER_TEMP/validate.log" 2>&1
+          pnpm run validate >"$RUNNER_TEMP/validate.log" 2>&1
 
       - name: Create draft pull request
         id: cpr

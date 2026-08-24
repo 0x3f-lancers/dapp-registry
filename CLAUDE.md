@@ -10,9 +10,9 @@ Lancers Dapp Registry is a curated Web3 application registry with structured met
 
 ```bash
 pnpm install                    # Install dependencies
-pnpm run dev:validate           # Validate all meta.json files against schema
-pnpm run dev:distill            # Generate apps.min.json and facets.index.json
-pnpm run dev:build:site         # Build publishable site bundle to build/
+pnpm run validate           # Validate all meta.json files against schema
+pnpm run distill            # Generate apps.min.json and facets.index.json
+pnpm run build:site         # Build publishable site bundle to build/
 pnpm test                       # Run Jest tests
 pnpm test -- tests/validate.test.ts  # Run single test file
 ```
@@ -84,7 +84,7 @@ tsx scripts/review-candidates.ts --apps 20          # compact digest to review
 # ...hand-pick posts and write TLDRs into data/resource-selections.json...
 tsx scripts/apply-resources.ts --in data/resource-selections.json --dry-run
 tsx scripts/apply-resources.ts --in data/resource-selections.json
-pnpm run dev:validate
+pnpm run validate
 ```
 
 ### Fastify Server
@@ -104,4 +104,4 @@ pnpm run dev:validate
 1. Create/edit `src/apps/<slug>/meta.json`
 2. Ensure `slug` matches folder name exactly
 3. Ensure all relations reference existing slugs
-4. Run `pnpm run dev:validate` before committing
+4. Run `pnpm run validate` before committing
