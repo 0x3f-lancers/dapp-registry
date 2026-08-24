@@ -74,6 +74,14 @@ export const metaJsonSchema = z.object({
             "Tokenization",
             "Trading",
             "Finance",
+            // The subject areas the first fourteen could not cover. Articles
+            // that fell outside them were previously left untagged rather than
+            // forced into a wrong label: artist profiles on NFT marketplaces,
+            // game design pieces, essays about teaching, and company news.
+            "Gaming",
+            "Culture",
+            "Education",
+            "Product",
           ])
           .optional(),
         // The article's own og:image. Absent when the page declares none, in
