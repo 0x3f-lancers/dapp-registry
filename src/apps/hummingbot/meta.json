@@ -29,5 +29,33 @@
       "solrip",
       "uncx-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Connecting Hummingbot to the XRP Ledger",
+      "tldr": "A connector for XRPL arrives in version 2.0, opening a decade-old layer 1 to the same automated market-making strategies used elsewhere.",
+      "url": "https://hummingbot.org/blog/hummingbot-unveils-new-connector-to-xrp-ledger-in-version-20/",
+      "source": "Hummingbot Blog",
+      "publishedAt": "2024-07-24",
+      "image": "https://hummingbot.org/assets/images/social/blog/hummingbot-unveils-new-connector-to-xrp-ledger-in-version-20/index.png"
+    },
+    {
+      "title": "Running an Open-Source Trading Bot as a DAO",
+      "tldr": "A year into governing a shared codebase with the HBOT token, the foundation reworked how maintenance and decisions actually happen.",
+      "url": "https://hummingbot.org/blog/changes-to-hummingbot-maintenance-and-governance/",
+      "source": "Hummingbot Blog",
+      "publishedAt": "2022-12-12",
+      "tag": "Trading",
+      "image": "https://hummingbot.org/assets/images/social/blog/changes-to-hummingbot-maintenance-and-governance/index.png"
+    },
+    {
+      "title": "Botcamp and the Wider Hummingbot Ecosystem",
+      "tldr": "What grew around an experiment in building a professional-grade, free trading system owned by the people who use it.",
+      "url": "https://hummingbot.org/blog/announcing-botcamp-and-the-expanding-hummingbot-ecosystem/",
+      "source": "Hummingbot Blog",
+      "publishedAt": "2024-02-16",
+      "tag": "Trading",
+      "image": "https://hummingbot.org/assets/images/social/blog/announcing-botcamp-and-the-expanding-hummingbot-ecosystem/index.png"
+    }
+  ]
 }

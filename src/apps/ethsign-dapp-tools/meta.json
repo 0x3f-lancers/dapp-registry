@@ -30,5 +30,23 @@
       "kevm",
       "epirus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Attestations Meet Zero-Knowledge Identity",
+      "tldr": "Pairing an attestation protocol with ZK identity proofs, so a claim can be checked without the checker learning who made it.",
+      "url": "https://medium.com/ethsign/zeronym-integrates-sign-protocol-for-sybil-resistance-7f03abf8b242",
+      "source": "EthSign Blog",
+      "publishedAt": "2024-06-18",
+      "tag": "Identity"
+    },
+    {
+      "title": "Registering Residency Onchain",
+      "tldr": "Sierra Leone permanent residency recorded onchain as the first case, and what a portable credential means for people living across borders.",
+      "url": "https://medium.com/ethsign/signpass-your-passport-to-sovereign-countries-and-network-states-e601a78243d6",
+      "source": "EthSign Blog",
+      "publishedAt": "2024-06-03",
+      "tag": "Identity"
+    }
+  ]
 }

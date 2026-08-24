@@ -30,5 +30,23 @@
       "deeper-network",
       "space-and-time"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Arweave as an Evolutionary Protocol",
+      "tldr": "A framework for changing a protocol that promises permanence, using forking as the mechanism rather than governance votes over a live chain.",
+      "url": "https://arweave.medium.com/arweave-is-an-evolutionary-protocol-e072f5e69eaa",
+      "source": "Arweave Blog",
+      "publishedAt": "2023-03-02",
+      "tag": "Governance"
+    },
+    {
+      "title": "Permanent Storage Reaches Avalanche",
+      "tldr": "What interoperability with another smart-contract chain buys a storage network, and what Avalanche builders can do with permanence.",
+      "url": "https://arweave.medium.com/arweave-permanent-storage-is-now-available-on-avalanche-687f8d032a5",
+      "source": "Arweave Blog",
+      "publishedAt": "2022-04-14",
+      "tag": "Infrastructure"
+    }
+  ]
 }

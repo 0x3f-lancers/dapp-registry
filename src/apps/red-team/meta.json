@@ -36,5 +36,25 @@
       "solsniffer",
       "kerberus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building a DIY Electrolytic Memristor",
+      "tldr": "Replicating memristive behaviour with materials you can source easily, from a security researcher building custom switching circuits.",
+      "url": "https://redteam.substack.com/p/making-a-diy-electrolytic-memristor",
+      "source": "Red Team Blog",
+      "publishedAt": "2026-08-02",
+      "tag": "Tutorial",
+      "image": "https://substackcdn.com/image/fetch/$s_!e8ey!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee02a837-a049-4c20-af5d-831244d6a84c_1280x720.png"
+    },
+    {
+      "title": "Resizing a LUKS-Encrypted Raw Image",
+      "tldr": "The practical fix when an encrypted volume was allocated too small: growing the image, then the filesystem inside it, without losing the data.",
+      "url": "https://redteam.substack.com/p/resizing-a-luks-encrypted-raw-image",
+      "source": "Red Team Blog",
+      "publishedAt": "2022-09-17",
+      "tag": "Security",
+      "image": "https://substackcdn.com/image/fetch/$s_!luXg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d79b6a0-d1e2-468a-954a-997fb3436970_768x768.png"
+    }
+  ]
 }

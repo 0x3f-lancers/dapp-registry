@@ -35,5 +35,24 @@
       "gnosis-safe",
       "etherspot-sdk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Importing and Exporting Private Keys in Taho",
+      "tldr": "Until this landed the wallet only accepted a recovery phrase. What changes when a single key can be moved in or out, and the care that demands.",
+      "url": "https://blog.taho.xyz/taho-unveils-private-key-support/",
+      "source": "Taho Blog",
+      "publishedAt": "2023-07-26",
+      "tag": "Security",
+      "image": "https://storage.ghost.io/c/3a/6b/3a6bfaa0-ca2d-47d9-8631-c9e112da9cda/content/images/size/w1200/2023/07/privatekey.png"
+    },
+    {
+      "title": "What a Wallet Owes Its Users",
+      "tldr": "Access, transparency and ownership are the stated values of web3, yet not every dapp behaves that way. A wallet team setting out its own obligations.",
+      "url": "https://blog.taho.xyz/tahos-pledge-to-web3-building-the-wallet-you-deserve/",
+      "source": "Taho Blog",
+      "publishedAt": "2023-04-19",
+      "image": "https://storage.ghost.io/c/3a/6b/3a6bfaa0-ca2d-47d9-8631-c9e112da9cda/content/images/size/w1200/2023/04/tahoweb3pledge.png"
+    }
+  ]
 }

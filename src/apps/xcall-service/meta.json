@@ -34,5 +34,34 @@
       "pocket-portal",
       "succinct"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building a Cross-Chain Voting Dapp with xCall",
+      "tldr": "The opening part of a hands-on series: wiring a vote that originates on one chain and settles on another, written by an ICON validator.",
+      "url": "https://icon.community/tutorials/x-call-tutorial-part-1-creating-a-cross-chain-voting-dapp/",
+      "source": "ICON Community",
+      "publishedAt": "2023-07-11",
+      "tag": "Governance",
+      "image": "https://icon.community/tutorials/x-call-tutorial-part-1-creating-a-cross-chain-voting-dapp/featured.jpg"
+    },
+    {
+      "title": "Unit Testing Cross-Chain Contracts",
+      "tldr": "The part most tutorials skip: how to test contracts whose behaviour depends on a message arriving from somewhere else.",
+      "url": "https://icon.community/tutorials/x-call-tutorial-part-4-adding-unit-testing/",
+      "source": "ICON Community",
+      "publishedAt": "2023-07-24",
+      "tag": "Tutorial",
+      "image": "https://icon.community/tutorials/x-call-tutorial-part-4-adding-unit-testing/featured.jpg"
+    },
+    {
+      "title": "Zero Knowledge Proofs on ICON: The Circuits",
+      "tldr": "Walks the circuits behind a Sudoku game built with ZK proofs, showing what the constraint system actually has to express.",
+      "url": "https://icon.community/tutorials/zkp-on-icon-pt2/",
+      "source": "ICON Community",
+      "publishedAt": "2023-05-11",
+      "tag": "Infrastructure",
+      "image": "https://icon.community/tutorials/zkp-on-icon-pt2/featured.jpg"
+    }
+  ]
 }

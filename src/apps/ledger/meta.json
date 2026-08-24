@@ -38,5 +38,34 @@
       "pier-wallet",
       "dapp-pocket"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Connect Kit Supply-Chain Incident, Reported in Full",
+      "tldr": "Malicious code was injected through Ledger Connect Kit in December 2023, reaching dapps that embedded it. The timeline and the response, written plainly.",
+      "url": "https://www.ledger.com/blog/security-incident-report",
+      "source": "Ledger Blog",
+      "publishedAt": "2023-12-20",
+      "tag": "Security",
+      "image": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/12/L-logo-1.png"
+    },
+    {
+      "title": "Why Ledger Recover Verifies Identity",
+      "tldr": "Part of a series on building a seed recovery service: who may reach a backup, and how that is settled without a custodian holding the seed.",
+      "url": "https://www.ledger.com/blog/part-4-genesis-of-ledger-recover-controlling-access-to-the-backup-identity-verification",
+      "source": "Ledger Blog",
+      "publishedAt": "2023-09-07",
+      "tag": "Identity",
+      "image": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/LEDGER_RECOVER_STILLFRAME_COFFRE.jpg"
+    },
+    {
+      "title": "Staking From Inside Ledger Live",
+      "tldr": "Tracking yields across protocols usually means juggling interfaces and accepting custody risk. Bringing several staking routes under one app instead.",
+      "url": "https://www.ledger.com/blog/ledger-live-new-earn-section-is-here-grow-your-portfolio-the-right-way",
+      "source": "Ledger Blog",
+      "publishedAt": "2023-09-13",
+      "tag": "DeFi",
+      "image": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/09/LEDGER_BLOG_POST_JULY_26-2.webp"
+    }
+  ]
 }

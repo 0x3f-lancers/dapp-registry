@@ -28,5 +28,31 @@
     "related": [
       "torus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Making Airdrops Sybil Resistant",
+      "tldr": "While free money is on the table, sophisticated actors will farm it. What actually raises the cost of pretending to be a thousand people.",
+      "url": "https://medium.com/holonym/sybil-resistant-airdrops-023710717413",
+      "source": "Holonym Blog",
+      "publishedAt": "2023-12-27",
+      "tag": "Identity"
+    },
+    {
+      "title": "Proof of Clean Hands",
+      "tldr": "Privacy tools have to keep out sanctioned actors without surveilling everyone else. An attempt at proving the negative with zero knowledge.",
+      "url": "https://medium.com/holonym/introducing-proof-of-clean-hands-by-zeronym-5339d0f706de",
+      "source": "Holonym Blog",
+      "publishedAt": "2024-08-05",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Mishti Network and Decentralised Key Operations",
+      "tldr": "An EigenLayer service for elliptic curve scalar multiplication, which is what makes recoverable keys and compliance checks possible without a custodian.",
+      "url": "https://medium.com/holonym/announcing-mishti-network-9330d90e0ead",
+      "source": "Holonym Blog",
+      "publishedAt": "2024-05-23",
+      "tag": "Infrastructure"
+    }
+  ]
 }

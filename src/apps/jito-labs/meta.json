@@ -29,5 +29,24 @@
       "open-zeppelin-relay",
       "blocknative"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Opening the Jito Block Engine to Every Searcher",
+      "tldr": "MEV infrastructure on Solana, wired into the Jito-Solana validator client, made available to any searcher rather than a closed set.",
+      "url": "https://www.jito.wtf/blog/jito-block-engine-expands-access-to-all-solana-mev-traders/",
+      "source": "Jito Labs Blog",
+      "publishedAt": "2023-05-25",
+      "image": "https://storage.ghost.io/c/29/01/2901bf8a-ae0b-425c-b354-46c4aa633199/content/images/2023/05/0_HwcdkkokRt4NVn-m.png"
+    },
+    {
+      "title": "How One Swap Handed Millions to Arbitrage Bots",
+      "tldr": "A single mistaken transaction in January 2024, traced step by step, as a way into what MEV actually looks like on Solana.",
+      "url": "https://www.jito.wtf/blog/mev-wif-me/",
+      "source": "Jito Labs Blog",
+      "publishedAt": "2024-01-12",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/29/01/2901bf8a-ae0b-425c-b354-46c4aa633199/content/images/2024/01/Group-10124423.png"
+    }
+  ]
 }

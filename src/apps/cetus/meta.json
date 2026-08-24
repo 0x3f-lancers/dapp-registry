@@ -36,5 +36,31 @@
       "dodo",
       "joule-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cetus Terminal: Running Your Own Mini DEX on Sui",
+      "tldr": "Letting any project embed a trading venue rather than sending users elsewhere, built on the liquidity layer Cetus already runs on Sui.",
+      "url": "https://medium.com/@CetusProtocol/introducing-cetus-terminal-the-gateway-to-your-own-mini-dex-on-sui-64a589c65a1b",
+      "source": "Cetus Blog",
+      "publishedAt": "2025-01-15",
+      "tag": "Trading"
+    },
+    {
+      "title": "Launching Cetus DLMM",
+      "tldr": "A discretised liquidity market maker following the concentrated-liquidity design, and what changes for the people supplying the liquidity.",
+      "url": "https://medium.com/@CetusProtocol/build-one-more-cetus-launching-cetus-dlmm-48354681eb5b",
+      "source": "Cetus Blog",
+      "publishedAt": "2025-09-29",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Rebuilding After the Security Incident",
+      "tldr": "An unusually direct account of the quarter Cetus was exploited: what recovery actually involved and how the protocol relaunched.",
+      "url": "https://medium.com/@CetusProtocol/cetus-report-2025-q2-9d4f25a3eed9",
+      "source": "Cetus Blog",
+      "publishedAt": "2025-07-17",
+      "tag": "Security"
+    }
+  ]
 }

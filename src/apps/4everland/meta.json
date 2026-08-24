@@ -33,5 +33,30 @@
       "opensea-api",
       "aesirx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Migrating a Hosted Project to 4EVERLAND",
+      "tldr": "A move from Fleek used as the worked example, covering what carries over cleanly and what has to be reconfigured on arrival.",
+      "url": "https://4everland.medium.com/how-to-migrate-hosting-projects-to-4everland-using-fleek-as-an-example-29c27d89351a",
+      "source": "4EVERLAND Blog",
+      "publishedAt": "2026-01-29",
+      "tag": "Security"
+    },
+    {
+      "title": "What an IPFS Gateway Does for a High-Traffic Platform",
+      "tldr": "Pump.fun as the case study: what breaks when a token-launch platform scales, and where gateway performance becomes the bottleneck.",
+      "url": "https://medium.com/4everland/how-4everlands-ipfs-gateway-enhances-decentralized-platforms-like-pump-fun-8a475aca4480",
+      "source": "4EVERLAND Blog",
+      "publishedAt": "2025-07-15",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Hosting a Frontend Without a Single Point of Failure",
+      "tldr": "Contracts may be decentralised while the interface sits on one server. What it takes to remove that weak link from a dapp.",
+      "url": "https://medium.com/4everland/4everland-building-a-secure-web-3-0-frontend-hosting-solution-ab46f2029b5a",
+      "source": "4EVERLAND Blog",
+      "publishedAt": "2025-08-01"
+    }
+  ]
 }
