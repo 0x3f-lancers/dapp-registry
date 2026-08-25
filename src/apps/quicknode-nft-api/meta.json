@@ -29,5 +29,28 @@
       "gamma-io",
       "holders-at"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What MEV Is and How to Protect Against It",
+      "tldr": "A long, practical treatment of value extracted from ordering — and the defences actually available to you.",
+      "url": "https://www.quicknode.com/guides/ethereum-development/MEV/what-is-mev",
+      "source": "QuickNode Guides",
+      "tag": "Security"
+    },
+    {
+      "title": "Reading the Mempool",
+      "tldr": "Watching transactions before they are included. How to access it, and what the view is genuinely good for.",
+      "url": "https://www.quicknode.com/guides/ethereum-development/transactions/how-to-access-ethereum-mempool",
+      "source": "QuickNode Guides",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Writing a Flash Loan",
+      "tldr": "Borrowing and repaying inside one transaction, built against Aave. The clearest way to understand atomicity.",
+      "url": "https://www.quicknode.com/guides/defi/lending-protocols/how-to-make-a-flash-loan-using-aave",
+      "source": "QuickNode Guides",
+      "tag": "DeFi"
+    }
+  ]
 }

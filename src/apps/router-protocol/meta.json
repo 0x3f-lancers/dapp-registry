@@ -35,5 +35,21 @@
       "wowearn",
       "near"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Embedding a Bridge Widget",
+      "tldr": "Dropping cross-chain swaps into your own front end via the npm package.",
+      "url": "https://docs.routerprotocol.com/docs/swap-bridge-widget-npm",
+      "source": "Router Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The API Surface",
+      "tldr": "The endpoints available for building routing into an application directly.",
+      "url": "https://docs.routerprotocol.com/docs/api-reference",
+      "source": "Router Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

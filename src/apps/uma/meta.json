@@ -30,5 +30,31 @@
       "crema-finance",
       "polkaswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How an Optimistic Oracle Works",
+      "tldr": "Assume the answer is right unless someone disputes it. What that assumption buys in scale, and what it risks.",
+      "url": "https://docs.umaproject.org/protocol-overview/how-does-umas-oracle-work",
+      "source": "UMA Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.uma.xyz/~gitbook/image?url=https%3A%2F%2F1756496800-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FMZ06Z7ucpJtTO46hUUQr%252Fsites%252Fsite_p4ETo%252Fsocialpreview%252F6IXRQKo80zNjoVZ8TnLj%252FUMA-Link-Preview.png%3Falt%3Dmedia%26token%3D6aeb1b62-3532-48bd-b6f5-c8d08fa06f9b&width=1200&height=630&sign=b07e6b76&sv=2"
+    },
+    {
+      "title": "Resolving a Prediction Market",
+      "tldr": "Who decides what actually happened, and how the answer becomes final. The settlement half of prediction markets.",
+      "url": "https://docs.umaproject.org/protocol-overview/how-does-uma-resolve-prediction-markets",
+      "source": "UMA Docs",
+      "tag": "Trading",
+      "image": "https://docs.uma.xyz/~gitbook/image?url=https%3A%2F%2F1756496800-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FMZ06Z7ucpJtTO46hUUQr%252Fsites%252Fsite_p4ETo%252Fsocialpreview%252F6IXRQKo80zNjoVZ8TnLj%252FUMA-Link-Preview.png%3Falt%3Dmedia%26token%3D6aeb1b62-3532-48bd-b6f5-c8d08fa06f9b&width=1200&height=630&sign=b07e6b76&sv=2"
+    },
+    {
+      "title": "Choosing Bond and Liveness Settings",
+      "tldr": "The two numbers that decide how expensive a lie is and how long anyone has to catch it. Get these wrong and the oracle fails.",
+      "url": "https://docs.umaproject.org/developers/setting-custom-bond-and-liveness-parameters",
+      "source": "UMA Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.uma.xyz/~gitbook/image?url=https%3A%2F%2F1756496800-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FMZ06Z7ucpJtTO46hUUQr%252Fsites%252Fsite_p4ETo%252Fsocialpreview%252F6IXRQKo80zNjoVZ8TnLj%252FUMA-Link-Preview.png%3Falt%3Dmedia%26token%3D6aeb1b62-3532-48bd-b6f5-c8d08fa06f9b&width=1200&height=630&sign=b07e6b76&sv=2"
+    }
+  ]
 }

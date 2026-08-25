@@ -31,5 +31,31 @@
       "shardeum",
       "gosh"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Proof Travels Through Aggregation",
+      "tldr": "From a protocol generating its own proof to the aggregated result landing on Ethereum. Every stage named.",
+      "url": "https://docs.electron.dev/quantum-proof-aggregation-for-ethereum/proof-lifecycle-and-architecture",
+      "source": "Electron Labs Docs",
+      "tag": "Trading",
+      "image": "https://docs.electron.dev/~gitbook/ogimage/JOEk99OzE1DiptihlZH3"
+    },
+    {
+      "title": "Why Aggregate Proofs at All",
+      "tldr": "Verification cost is the bottleneck on scaling ZK. The case for batching, stated before the mechanics arrive.",
+      "url": "https://docs.electron.dev/quantum-proof-aggregation-for-ethereum",
+      "source": "Electron Labs Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.electron.dev/~gitbook/ogimage/XXYcfnzS7MpYHfGEEfZy"
+    },
+    {
+      "title": "Integrating With Quantum",
+      "tldr": "The concrete steps a protocol takes to plug into proof aggregation, worked through with a real example.",
+      "url": "https://docs.electron.dev/quantum-proof-aggregation-for-ethereum/developer-tutorial-for-integrating-quantum",
+      "source": "Electron Labs Docs",
+      "tag": "Security",
+      "image": "https://docs.electron.dev/~gitbook/ogimage/0vDaSZsCxHy0esPx5JP0"
+    }
+  ]
 }

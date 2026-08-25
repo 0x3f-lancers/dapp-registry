@@ -30,5 +30,30 @@
       "jump-crypto",
       "solana-ventures"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Build an Appchain",
+      "tldr": "The case for your own chain over deploying on a shared one, with the costs included.",
+      "url": "https://docs.syndicate.io/en/docs/syndicate-stack/get-started/why-appchains",
+      "source": "Syndicate Docs",
+      "tag": "Tutorial",
+      "image": "https://docs.syndicate.io/opengraph-image.jpg?415a38c8bdf803e7"
+    },
+    {
+      "title": "How the Stack Fits Together",
+      "tldr": "An orientation to the components before you commit to any of them.",
+      "url": "https://docs.syndicate.io/en/docs/syndicate-stack/get-started/introduction",
+      "source": "Syndicate Docs",
+      "image": "https://docs.syndicate.io/opengraph-image.jpg?415a38c8bdf803e7"
+    },
+    {
+      "title": "Running Appchain RPC in Production",
+      "tldr": "What hosting nodes on cloud infrastructure actually involves operationally.",
+      "url": "https://syndicate.io/blog/syndicate-appchain-rpc-nodes-google-cloud",
+      "source": "Syndicate Blog",
+      "tag": "Infrastructure",
+      "image": "https://syndicate.io/blog/syndicate-appchain-rpc-nodes-google-cloud/opengraph-image-1r5u6l?7133a7c2c4e50542"
+    }
+  ]
 }

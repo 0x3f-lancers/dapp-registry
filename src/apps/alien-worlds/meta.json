@@ -30,5 +30,31 @@
       "star-atlas",
       "ufo-gaming"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Writing Contracts for Real Governance",
+      "tldr": "Engineers on what it took to make DAO voting work in a game, rather than a description of what a DAO is.",
+      "url": "https://alienworlds.io/blogs/alien-worlds-daos-giving-control-to-the-users",
+      "source": "Alien Worlds Blog",
+      "tag": "Governance",
+      "image": "https://alienworlds-media-bucket.s3.eu-central-1.amazonaws.com/medium_aw_dao_giving_control_webblog_8778b2821f.jpg"
+    },
+    {
+      "title": "Everything You Submit Is Permanent",
+      "tldr": "The privacy warning in the interface, explained: on-chain records do not expire, and players should decide accordingly.",
+      "url": "https://alienworlds.io/blogs/preserving-privacy-on-the-wax-blockchain-think-before-you-commit",
+      "source": "Alien Worlds Blog",
+      "tag": "Security",
+      "image": "https://alienworlds-media-bucket.s3.eu-central-1.amazonaws.com/medium_aw_wax_privacy_web_thumb_aba8c1ee86.jpg"
+    },
+    {
+      "title": "What Governing Actually Involves",
+      "tldr": "Elected custodians describing the job in their own words, which is a rare look at DAO participation in practice.",
+      "url": "https://alienworlds.io/blogs/masters-of-the-metaverse-custodians-reveal-what-it-means-to-govern-alien-worlds",
+      "source": "Alien Worlds Blog",
+      "tag": "Security",
+      "image": "https://alienworlds-media-bucket.s3.eu-central-1.amazonaws.com/medium_aw_Masters_of_the_Metaverse_Custodians_web_f075841ddc.jpg"
+    }
+  ]
 }

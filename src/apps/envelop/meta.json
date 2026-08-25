@@ -33,5 +33,31 @@
     "related": [
       "opensea-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wrapping an NFT",
+      "tldr": "Putting assets inside an NFT so the token carries value rather than just pointing at art. The step-by-step version.",
+      "url": "https://docs.envelop.is/niftsy/tutorials/how-to-wrap-your-nft",
+      "source": "Envelop Docs",
+      "tag": "Tokenization",
+      "image": "https://niftsy-protocol-niftsy-1.gitbook.io/niftsy/~gitbook/image?url=https%3A%2F%2F333832744-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-McHCU838dvxE6AYohpm%252Fsocialpreview%252FOZila7FJ3QWpHYZasIOx%252FHoriz%2520on%2520black.jpg%3Falt%3Dmedia%26token%3D65d31ca4-60c2-482a-8e4a-3e723a658914&width=1200&height=630&sign=3c859daa&sv=2"
+    },
+    {
+      "title": "Making a SAFT as a Wrapped NFT",
+      "tldr": "Turning a token purchase agreement into a transferable on-chain instrument, across four supported chains.",
+      "url": "https://docs.envelop.is/niftsy/tutorials/how-to-make-saft-wnft",
+      "source": "Envelop Docs",
+      "tag": "Tokenization",
+      "image": "https://niftsy-protocol-niftsy-1.gitbook.io/niftsy/~gitbook/image?url=https%3A%2F%2F333832744-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-McHCU838dvxE6AYohpm%252Fsocialpreview%252FOZila7FJ3QWpHYZasIOx%252FHoriz%2520on%2520black.jpg%3Falt%3Dmedia%26token%3D65d31ca4-60c2-482a-8e4a-3e723a658914&width=1200&height=630&sign=3c859daa&sv=2"
+    },
+    {
+      "title": "Minting Soulbound Tokens",
+      "tldr": "Non-transferable tokens for credentials and membership. How to issue one, and what you give up by doing so.",
+      "url": "https://docs.envelop.is/niftsy/tutorials/how-to-mint-soulbound-tokens-with-envelop",
+      "source": "Envelop Docs",
+      "tag": "Tokenization",
+      "image": "https://niftsy-protocol-niftsy-1.gitbook.io/niftsy/~gitbook/image?url=https%3A%2F%2F333832744-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-McHCU838dvxE6AYohpm%252Fsocialpreview%252FOZila7FJ3QWpHYZasIOx%252FHoriz%2520on%2520black.jpg%3Falt%3Dmedia%26token%3D65d31ca4-60c2-482a-8e4a-3e723a658914&width=1200&height=630&sign=3c859daa&sv=2"
+    }
+  ]
 }

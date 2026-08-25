@@ -36,5 +36,31 @@
     "related": [
       "hyperspace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Fetching an Account's NFTs",
+      "tldr": "The core query most NFT applications start with, with the response shape explained.",
+      "url": "https://docs.nftscan.com/reference/evm/get-nfts-by-account",
+      "source": "NFTScan Docs",
+      "tag": "Tokenization",
+      "image": "https://www.nftscan.com/images/og-img/doc.png"
+    },
+    {
+      "title": "Reading Transaction History",
+      "tldr": "Pulling an address's NFT activity, and what the fields actually mean.",
+      "url": "https://docs.nftscan.com/reference/evm/get-transactions-by-account",
+      "source": "NFTScan Docs",
+      "tag": "Tokenization",
+      "image": "https://www.nftscan.com/images/og-img/doc.png"
+    },
+    {
+      "title": "Querying a Collection",
+      "tldr": "Collection-level data in one call, for building anything that ranks or compares.",
+      "url": "https://docs.nftscan.com/reference/evm/get-an-nft-collection",
+      "source": "NFTScan Docs",
+      "tag": "Tokenization",
+      "image": "https://www.nftscan.com/images/og-img/doc.png"
+    }
+  ]
 }

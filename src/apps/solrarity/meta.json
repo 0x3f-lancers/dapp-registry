@@ -29,5 +29,22 @@
     "related": [
       "bend-dao"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Real-Time Sniper Works",
+      "tldr": "Watching mints and acting on them in the same instant. What the tool is doing technically.",
+      "url": "https://docs.solrarity.app/utilities/sandstorm-realtime-sniper",
+      "source": "SolRarity Docs",
+      "image": "https://docs.solrarity.app/~gitbook/ogimage/7kNFds0GAhjHDc5FOMQG"
+    },
+    {
+      "title": "Rarity Analysis Tooling",
+      "tldr": "Scoring collections by trait scarcity, and the assumptions baked into any rarity score.",
+      "url": "https://docs.solrarity.app/utilities/black-box-pro",
+      "source": "SolRarity Docs",
+      "tag": "Research",
+      "image": "https://docs.solrarity.app/~gitbook/ogimage/r3Z1TVFzrUkA8PUN5K8d"
+    }
+  ]
 }

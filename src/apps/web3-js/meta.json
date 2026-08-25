@@ -30,5 +30,29 @@
       "kurtosis",
       "dappkit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Deploying and Calling Contracts",
+      "tldr": "The full path from ABI to a working call, in the library many projects still run on.",
+      "url": "https://docs.web3js.org/guides/smart_contracts/smart_contracts_guide",
+      "source": "Web3.js Docs",
+      "tag": "Infrastructure",
+      "image": "https://pbs.twimg.com/profile_images/1746099108937363456/duG_Pqem_400x400.jpg"
+    },
+    {
+      "title": "Choosing a Provider",
+      "tldr": "HTTP, WebSocket and injected providers, and what each one can and cannot do.",
+      "url": "https://docs.web3js.org/guides/web3_providers_guide",
+      "source": "Web3.js Docs",
+      "image": "https://pbs.twimg.com/profile_images/1746099108937363456/duG_Pqem_400x400.jpg"
+    },
+    {
+      "title": "Subscribing to Events",
+      "tldr": "Listening for contract events as they happen, and handling the reconnection problem.",
+      "url": "https://docs.web3js.org/guides/events_subscriptions",
+      "source": "Web3.js Docs",
+      "image": "https://pbs.twimg.com/profile_images/1746099108937363456/duG_Pqem_400x400.jpg"
+    }
+  ]
 }

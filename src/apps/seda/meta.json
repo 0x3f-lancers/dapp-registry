@@ -35,5 +35,29 @@
       "fcondex",
       "drpc"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why a Feed Might Need Custom Logic",
+      "tldr": "Deterministic execution is what makes contracts safe and what makes outside data hard. Programmable oracles, explained.",
+      "url": "https://www.seda.xyz/blog/programmable-oracle-what-it-is-why-it-matters",
+      "source": "SEDA Blog",
+      "tag": "Trading"
+    },
+    {
+      "title": "Pricing Equities That Trade Around the Clock",
+      "tldr": "Tokenised stocks used as DeFi collateral need prices when the stock market is shut. How that gap gets filled.",
+      "url": "https://www.seda.xyz/blog/oracle-tokenized-equities-24-7-xstocks-rwas",
+      "source": "SEDA Blog",
+      "tag": "Trading"
+    },
+    {
+      "title": "Creating an Address and Delegating",
+      "tldr": "Setup and delegation walked through, with the key-security recommendations placed before the steps rather than after.",
+      "url": "https://docs.seda.xyz/home/token-overview/access-and-delegate-seda-token",
+      "source": "SEDA Docs",
+      "tag": "Governance",
+      "image": "https://docs.seda.xyz/home/~gitbook/ogimage/f92nK38754vOze1Zdazp"
+    }
+  ]
 }

@@ -31,5 +31,27 @@
       "nfttrack",
       "icy-tools"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Fractal Offers Game Studios",
+      "tldr": "The introduction worth reading first, covering where it sits between a launcher, a wallet and a marketplace.",
+      "url": "https://docs.fractal.is/getting-started/introduction",
+      "source": "Fractal Docs",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Wallet-Based Login for Players",
+      "tldr": "Authentication that does not start with an email and password, and what that changes for onboarding.",
+      "url": "https://docs.fractal.is/wallet/fractal-login-v2",
+      "source": "Fractal Docs",
+      "tag": "Security"
+    },
+    {
+      "title": "Publishing a Game to the Launcher",
+      "tldr": "Uploading builds and gating access with codes. The practical distribution steps for a studio.",
+      "url": "https://docs.fractal.is/launcher/upload-your-game",
+      "source": "Fractal Docs"
+    }
+  ]
 }

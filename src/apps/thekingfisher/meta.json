@@ -31,5 +31,31 @@
       "memetools",
       "jiffyscan"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Order Flow and Market Structure",
+      "tldr": "What actually moves price at the microstructure level, written for traders rather than economists.",
+      "url": "https://thekingfisher.io/blogs/crypto-market-structure-guide",
+      "source": "The Kingfisher Blog",
+      "tag": "Trading",
+      "image": "https://thekingfisher.io/images/blog/crypto-market-structure-guide.jpg"
+    },
+    {
+      "title": "Spotting a Short Squeeze Early",
+      "tldr": "The positioning data that precedes one, and how to read it before the move rather than after.",
+      "url": "https://thekingfisher.io/blogs/how-to-spot-short-squeeze",
+      "source": "The Kingfisher Blog",
+      "tag": "Tutorial",
+      "image": "https://thekingfisher.io/images/blog/liquidation-maps-crypto.jpg"
+    },
+    {
+      "title": "Detecting Manipulation in Real Time",
+      "tldr": "Concrete signatures of manipulation in live order flow, with what each one looks like on a chart.",
+      "url": "https://thekingfisher.io/blogs/how_to_detect_market_manipulation_in_real_time",
+      "source": "The Kingfisher Blog",
+      "tag": "Trading",
+      "image": "https://thekingfisher.io/images/blog/toxic-order-flow.jpg"
+    }
+  ]
 }

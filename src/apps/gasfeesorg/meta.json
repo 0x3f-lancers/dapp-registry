@@ -31,5 +31,21 @@
       "intersend",
       "mimic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Actually Drives Gas Fees",
+      "tldr": "Demand, block space and base fee, explained without assuming you know the fee market.",
+      "url": "https://gasfees.org/what-influences-gas-fees-a-quick-guide",
+      "source": "GasFees.org",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "A Survey of Public Blockchains",
+      "tldr": "A long comparison across hundreds of networks, useful as a reference rather than a read.",
+      "url": "https://gasfees.org/the-galactic-guide-to-top-100-public-blockchains",
+      "source": "GasFees.org",
+      "tag": "Research"
+    }
+  ]
 }

@@ -32,5 +32,31 @@
       "vvs-finance",
       "minu-swap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Adaptive Interest Rate Model",
+      "tldr": "Rates that respond to utilisation rather than sitting fixed. The mechanism a lender is actually exposed to.",
+      "url": "https://docs.tarot.to/tarot-protocol/interest-rate-model",
+      "source": "Tarot Docs",
+      "tag": "AI & Agents",
+      "image": "https://docs.tarot.to/~gitbook/ogimage/-MgRXXWx9MPLsFasMASU"
+    },
+    {
+      "title": "How Collateral Is Valued",
+      "tldr": "What the protocol counts your position as worth, which decides when it can be liquidated.",
+      "url": "https://docs.tarot.to/tarot-protocol/collateralization-model",
+      "source": "Tarot Docs",
+      "tag": "DeFi",
+      "image": "https://docs.tarot.to/~gitbook/ogimage/-MgRXLlSCUAkhcSWCZF-"
+    },
+    {
+      "title": "The v1 to v2 Token Migration",
+      "tldr": "What holders had to do and by when. Useful history for understanding which token is which today.",
+      "url": "https://docs.tarot.to/token-migration/migration-details",
+      "source": "Tarot Docs",
+      "tag": "Security",
+      "image": "https://docs.tarot.to/~gitbook/ogimage/piXlGasTkdqEYWNVvcUD"
+    }
+  ]
 }

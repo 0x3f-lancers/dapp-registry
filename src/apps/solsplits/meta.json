@@ -31,5 +31,23 @@
       "gasfeesorg",
       "eth-gas-reporter"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Payment Splits Need a Protocol",
+      "tldr": "The case for automating revenue division rather than trusting someone to forward funds.",
+      "url": "https://docs.solsplits.xyz/welcome-to-solsplits/why-solsplits-why-now",
+      "source": "SolSplits Docs",
+      "tag": "Payments",
+      "image": "https://docs.solsplits.xyz/~gitbook/ogimage/nrClBY0CMMkRBFOYAMQc"
+    },
+    {
+      "title": "Migrating Existing Splits in Bulk",
+      "tldr": "The tooling for moving many recipients at once without doing it by hand.",
+      "url": "https://docs.solsplits.xyz/integrations/bulk-upload-migration-tool",
+      "source": "SolSplits Docs",
+      "tag": "Security",
+      "image": "https://docs.solsplits.xyz/~gitbook/ogimage/xjlGXLVnnqlTvbSOqT58"
+    }
+  ]
 }

@@ -31,5 +31,31 @@
       "defx",
       "ribbon-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "From Dopex to Stryke",
+      "tldr": "The rebrand explained along with the options design behind it. Read this first if the two names confuse you.",
+      "url": "https://blog.dopex.io/articles/introducing-stryke-the-future-of-crypto-options",
+      "source": "Stryke Blog",
+      "tag": "Trading",
+      "image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/351f06b2-41da-441e-855f-5758e42123aa/DPX_Stryke_3/public"
+    },
+    {
+      "title": "How Reward Gauges Direct Liquidity",
+      "tldr": "Voting decides where LP incentives land. A concrete look at gauge mechanics on live WETH markets.",
+      "url": "https://blog.dopex.io/articles/introducing-reward-gauges-maximizing-lp-rewards-in-weth-and-wbtc-markets",
+      "source": "Stryke Blog",
+      "tag": "DeFi",
+      "image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/01aad855-e37d-482a-bba8-0405f84f4112/Reward_Gauges/public"
+    },
+    {
+      "title": "Automating an Options Exercise",
+      "tldr": "Limit exercise, so a position closes on your terms without you watching the market to do it.",
+      "url": "https://blog.dopex.io/articles/stryke-x-steer-expanding-automated-liquidity-strategies-for-onchain-options/introducing-limit-exercise-automate-your-option-trades",
+      "source": "Stryke Blog",
+      "tag": "Trading",
+      "image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/75294ded-bd21-472e-b6d5-4613a2bf6872/Limit_Exercise/public"
+    }
+  ]
 }

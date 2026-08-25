@@ -31,5 +31,31 @@
       "kodadot",
       "nfttrack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "NFT 101, Before Your First Purchase",
+      "tldr": "What you are actually buying, what you are not, and the checks worth doing beforehand.",
+      "url": "https://docs.rarible.org/docs/nft-101-what-you-need-to-know-before-buying-your-first-nft-copy",
+      "source": "Rarible Docs",
+      "tag": "Tokenization",
+      "image": "https://cdn.readme.io/og-image/create?type=docs&title=NFT%20101%3A%20What%20you%20need%20to%20know%2C%20before%20buying%20your%20first%20NFT&projectTitle=Rarible&description=This%20article%20is%20a%20non-technical%20one%2C%20and%20its%20main%20goal%20is%20to%20help%20you%20feel%20comfortable%20navigating%20the%20different%20marketplaces%20and%20buying%20your%20first%20NFTs.%20Wallets%20First%20things%20first.%20On%20the%20internet%2C%20everything%20that%20involves%20possession%20needs%20some%20sort%20of%20authentication.%20In%20a%20blockchain%2C%20we%20achieve%20thi%E2%80%A6&logoUrl=https%3A%2F%2Ffiles.readme.io%2F1b24605-small-rarible_logo.png&color=%23018ef5&variant=light"
+    },
+    {
+      "title": "Adding Your Own Marketplace Fee",
+      "tldr": "How a front end takes a cut on trades it routes, and where that fee is configured.",
+      "url": "https://docs.rarible.org/docs/how-to-set-up-custom-fees",
+      "source": "Rarible Docs",
+      "tag": "Trading",
+      "image": "https://cdn.readme.io/og-image/create?type=docs&title=How%20to%20Set%20Up%20a%20Custom%20Front-End%20Fee%20for%20Your%20Application&projectTitle=Rarible&description=One%20powerful%20feature%20that%20can%20be%20integrated%20into%20your%20application%20is%20the%20ability%20to%20set%20up%20a%20custom%20front-end%20fee.%20This%20article%20will%20guide%20you%20through%20the%20process%20of%20implementing%20this%20capability%20in%20your%20application%2C%20providing%20step-by-step%20instructions%20and%20a%20practical%20example.%20Setting%20Up%20a%20Custom%20Fro%E2%80%A6&logoUrl=https%3A%2F%2Ffiles.readme.io%2F1b24605-small-rarible_logo.png&color=%23018ef5&variant=light"
+    },
+    {
+      "title": "Driving the Protocol From an AI Client",
+      "tldr": "Wiring the MCP server up so a model can query and act on NFT data directly.",
+      "url": "https://docs.rarible.org/docs/how-to-using-rarible-protocol-mcp",
+      "source": "Rarible Docs",
+      "tag": "AI & Agents",
+      "image": "https://cdn.readme.io/og-image/create?type=docs&title=How%20to%20Using%20Rarible%20Protocol%20MCP&projectTitle=Rarible&description=This%20guide%20covers%20three%20key%20ways%20to%20get%20started%20with%20the%20%40rarible%2Fprotocol-mcp%20SDK%3A%20integrating%20with%20Claude%2C%20integrating%20with%20ChatGPT%2C%20self-hosting%20the%20MCP%20server%2C%20and%20leveraging%20the%20OpenAPI%20specification%20for%20custom%20integrations.%20Prerequisites%20Node.js%20%3A%20Version%2020%20or%20higher.%20Rarible%20API%20Key%20%3A%20Obtain%E2%80%A6&logoUrl=https%3A%2F%2Ffiles.readme.io%2F1b24605-small-rarible_logo.png&color=%23018ef5&variant=light"
+    }
+  ]
 }

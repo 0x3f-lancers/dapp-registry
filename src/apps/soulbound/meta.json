@@ -29,5 +29,29 @@
       "nalikes",
       "carbonated-games"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What the Classics Got Right",
+      "tldr": "A long essay on the games that shaped this one, and which of their design instincts still hold up.",
+      "url": "https://soulbound.game/blog/how-nostalgic-classics-captured-our-hearts-and-inspired-a-new-mmo",
+      "source": "Soulbound Blog",
+      "image": "https://soulbound.game/wp-content/uploads/Screenshot-2025-02-10-at-23.47.14.webp"
+    },
+    {
+      "title": "Building a Pixel Art Cosmetic System",
+      "tldr": "How the character and cosmetic pipeline was put together, written by the people who built it.",
+      "url": "https://soulbound.game/news/how-we-built-a-pixel-art-character-and-cosmetic-system",
+      "source": "Soulbound Blog",
+      "tag": "Tutorial",
+      "image": "https://soulbound.game/wp-content/uploads/Cosmetics.png"
+    },
+    {
+      "title": "Getting Better Performance",
+      "tldr": "Practical settings work for players on weaker hardware, rather than a generic advice list.",
+      "url": "https://soulbound.game/guides/how-to-improve-your-fps-and-performance-in-soulbound",
+      "source": "Soulbound Guides",
+      "image": "https://soulbound.game/wp-content/uploads/improve-performance-on-soulbound-scaled.jpg"
+    }
+  ]
 }

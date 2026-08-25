@@ -30,5 +30,30 @@
       "floats",
       "wonderverse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Setting Token-Gated Requirements",
+      "tldr": "Defining who qualifies for access, which is the whole point of the product.",
+      "url": "https://docs.guild.xyz/guild/how-to-setup-requirements",
+      "source": "Guild Docs",
+      "tag": "DeFi",
+      "image": "https://docs.guild.xyz/guild/~gitbook/image?url=https%3A%2F%2F2741276286-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYUpDHzd4HDKO8hEPSNOZ%252Fsocialpreview%252F6eQZXJKznKjoO8WaKEDg%252Fguildsofguild.png%3Falt%3Dmedia%26token%3D52cc91c2-5b9d-49c2-ae22-941e294ece22&width=1200&height=630&sign=a1fcf72f&sv=2"
+    },
+    {
+      "title": "Attaching Rewards to a Role",
+      "tldr": "What members get once they qualify, and how the reward is delivered.",
+      "url": "https://docs.guild.xyz/guild/how-to-setup-rewards",
+      "source": "Guild Docs",
+      "image": "https://docs.guild.xyz/guild/~gitbook/image?url=https%3A%2F%2F2741276286-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYUpDHzd4HDKO8hEPSNOZ%252Fsocialpreview%252F6eQZXJKznKjoO8WaKEDg%252Fguildsofguild.png%3Falt%3Dmedia%26token%3D52cc91c2-5b9d-49c2-ae22-941e294ece22&width=1200&height=630&sign=a1fcf72f&sv=2"
+    },
+    {
+      "title": "Connecting Discord",
+      "tldr": "Wiring on-chain requirements to Discord roles, the most common setup by far.",
+      "url": "https://docs.guild.xyz/guild/how-to-add-discord",
+      "source": "Guild Docs",
+      "tag": "Tutorial",
+      "image": "https://docs.guild.xyz/guild/~gitbook/image?url=https%3A%2F%2F2741276286-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYUpDHzd4HDKO8hEPSNOZ%252Fsocialpreview%252F6eQZXJKznKjoO8WaKEDg%252Fguildsofguild.png%3Falt%3Dmedia%26token%3D52cc91c2-5b9d-49c2-ae22-941e294ece22&width=1200&height=630&sign=a1fcf72f&sv=2"
+    }
+  ]
 }

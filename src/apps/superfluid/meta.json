@@ -33,5 +33,29 @@
       "eth-gas-reporter",
       "multisender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Super Token Is",
+      "tldr": "A wrapper that lets balances change continuously rather than only when a transaction fires.",
+      "url": "https://docs.superfluid.finance/docs/concepts/overview/super-tokens",
+      "source": "Superfluid Docs",
+      "image": "https://docs.superfluid.finance/img/superfluid-social-card.png"
+    },
+    {
+      "title": "Creating and Cancelling a Stream",
+      "tldr": "The full lifecycle of a money stream, and what happens to it if the sender runs out.",
+      "url": "https://docs.superfluid.finance/docs/protocol/money-streaming/guides/create-update-delete-flow",
+      "source": "Superfluid Docs",
+      "image": "https://docs.superfluid.finance/img/superfluid-social-card.png"
+    },
+    {
+      "title": "Distributions Versus Streams",
+      "tldr": "Paying many recipients at once, and when that beats opening a stream to each of them.",
+      "url": "https://docs.superfluid.finance/docs/concepts/overview/distributions",
+      "source": "Superfluid Docs",
+      "tag": "Explainer",
+      "image": "https://docs.superfluid.finance/img/superfluid-social-card.png"
+    }
+  ]
 }

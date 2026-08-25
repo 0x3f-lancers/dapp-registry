@@ -30,5 +30,30 @@
       "flooz-trade",
       "rubydex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Economics of a Stablecoin",
+      "tldr": "What actually holds a peg, treated as an economic question rather than a technical one.",
+      "url": "https://docs.mai.finance/docs/stablecoin-economics",
+      "source": "QiDao Docs",
+      "tag": "Payments",
+      "image": "https://docs.mai.finance/og/docs/stablecoin-economics/image.png"
+    },
+    {
+      "title": "The Peg Stability Module",
+      "tldr": "The mechanism that absorbs pressure when the price drifts, and the limits on what it can absorb.",
+      "url": "https://docs.mai.finance/docs/peg-stability-module",
+      "source": "QiDao Docs",
+      "image": "https://docs.mai.finance/og/docs/peg-stability-module/image.png"
+    },
+    {
+      "title": "Why Debt Ceilings Exist",
+      "tldr": "Caps on how much can be minted against a collateral type, and the risk they are containing.",
+      "url": "https://docs.mai.finance/docs/debt-ceilings",
+      "source": "QiDao Docs",
+      "tag": "DeFi",
+      "image": "https://docs.mai.finance/og/docs/debt-ceilings/image.png"
+    }
+  ]
 }

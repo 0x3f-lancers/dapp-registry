@@ -28,5 +28,27 @@
       "miniorange",
       "blockasset"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Locking Value Inside an NFT",
+      "tldr": "Minting a financial NFT that holds assets until a condition is met. The value-lock version, step by step.",
+      "url": "https://docs.revest.finance/tutorials/how-to-mint-an-fnft-value-lock",
+      "source": "Revest Docs",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Time-Locking Tokens",
+      "tldr": "The same idea keyed to a date instead of a price. Useful for vesting without trusting a counterparty.",
+      "url": "https://docs.revest.finance/tutorials/how-to-mint-an-fnft-time-lock",
+      "source": "Revest Docs"
+    },
+    {
+      "title": "Getting Your Assets Back Out",
+      "tldr": "Unlocking and withdrawing once conditions are met — the half people only read when they are already stuck.",
+      "url": "https://docs.revest.finance/tutorials/how-to-withdraw-from-an-unlocked-fnft",
+      "source": "Revest Docs",
+      "tag": "Payments"
+    }
+  ]
 }

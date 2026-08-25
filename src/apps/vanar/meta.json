@@ -29,5 +29,31 @@
       "quai",
       "circular-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Running a Validator",
+      "tldr": "A full node setup walkthrough, including the requirements before you start rather than after.",
+      "url": "https://docs.vanarchain.com/nodes-and-validators/setup-a-validator-node",
+      "source": "Vanar Docs",
+      "tag": "DeFi",
+      "image": "https://docs.vanarchain.com/~gitbook/ogimage/1Mnt4zFwDDTqwcw2SnAu"
+    },
+    {
+      "title": "What the Foundation Does",
+      "tldr": "Governance and stewardship of the chain, explained rather than listed.",
+      "url": "https://docs.vanarchain.com/getting-started/vanar/the-vanar-foundation",
+      "source": "Vanar Docs",
+      "tag": "Governance",
+      "image": "https://docs.vanarchain.com/~gitbook/ogimage/NAQnJtiWe0abcvFn0C9q"
+    },
+    {
+      "title": "The VANRY Token",
+      "tldr": "What it is used for on the network, kept short and free of price talk.",
+      "url": "https://docs.vanarchain.com/getting-started/vanar/usdvanry-token",
+      "source": "Vanar Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.vanarchain.com/~gitbook/ogimage/TYBUqRVMBWo0wNtp0kBU"
+    }
+  ]
 }

@@ -30,5 +30,31 @@
       "kamino-finance",
       "fringefinance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquid Staking, From First Principles",
+      "tldr": "Why locked stake is a problem worth solving, before any particular solution is proposed.",
+      "url": "https://docs.quicksilver.zone/introduction/liquid-staking-unlocking-liquidity-in-proof-of-stake-blockchains",
+      "source": "Quicksilver Docs",
+      "tag": "DeFi",
+      "image": "https://docs.quicksilver.zone/~gitbook/ogimage/LXX1Yr0vCzsgfPmmcuYu"
+    },
+    {
+      "title": "Where Proof of Stake Is Inefficient",
+      "tldr": "A clear-eyed look at what PoS costs in capital efficiency — unusual for a protocol's own docs.",
+      "url": "https://docs.quicksilver.zone/introduction/the-inefficiency-of-proof-of-stake-mechanism",
+      "source": "Quicksilver Docs",
+      "tag": "DeFi",
+      "image": "https://docs.quicksilver.zone/~gitbook/ogimage/6JewY30xiSJ9eSTtQXbO"
+    },
+    {
+      "title": "Built for Cosmos and Beyond",
+      "tldr": "How interchain staking works across zones, and what the design has to handle to do it.",
+      "url": "https://docs.quicksilver.zone/protocol/designed-to-support-cosmos-and-beyond",
+      "source": "Quicksilver Docs",
+      "tag": "DeFi",
+      "image": "https://docs.quicksilver.zone/~gitbook/ogimage/0nNFSlJkum6vNNAO8QZj"
+    }
+  ]
 }

@@ -34,5 +34,31 @@
       "heymint",
       "nftport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Token-Bound Beats Token-Gated",
+      "tldr": "Gating checks who you are at the door; binding attaches the content to the asset itself. The difference matters on resale.",
+      "url": "https://www.darkblock.io/news/token-bound-vs-token-gated-content",
+      "source": "Darkblock Blog",
+      "tag": "Explainer",
+      "image": "https://www.darkblock.io/wp-content/uploads/2023/04/comic-and-bookshelf-web-version.png"
+    },
+    {
+      "title": "The Problem With Unlockable Content",
+      "tldr": "Marketplace unlockables are not as durable as sellers assume. What breaks, and what survives a transfer.",
+      "url": "https://www.darkblock.io/news/why-you-should-use-darkblock-instead-of-opensea-unlockable-content",
+      "source": "Darkblock Blog",
+      "tag": "Payments",
+      "image": "https://www.darkblock.io/wp-content/uploads/2023/07/EX090-100_RS_b01_F61_os_.jpeg"
+    },
+    {
+      "title": "Building a Web3 Storefront, Start to Finish",
+      "tldr": "A full build log of an on-chain ecommerce site, written so you can follow the same path rather than admire theirs.",
+      "url": "https://www.darkblock.io/news/guide-to-build-web3investors",
+      "source": "Darkblock Blog",
+      "tag": "Tutorial",
+      "image": "https://www.darkblock.io/wp-content/uploads/2023/06/Screen-Shot-2023-06-11-at-1.33.30-AM.png"
+    }
+  ]
 }

@@ -9,7 +9,9 @@
     "DeFi Yield Aggregators",
     "DeFi Yield Farming Platforms"
   ],
-  "chains": ["Multichain"],
+  "chains": [
+    "Multichain"
+  ],
   "pricing": "",
   "content": {
     "short": "HorizonDEX is the first concentrated liquidity DEX on Linea.",
@@ -22,7 +24,32 @@
     "twitter": "https://x.com/horizondex_io"
   },
   "relations": {
-    "alternatives": ["rubydex", "trader-joe", "orca"],
-    "related": ["ribbon-finance", "jones-dao"]
-  }
+    "alternatives": [
+      "rubydex",
+      "trader-joe",
+      "orca"
+    ],
+    "related": [
+      "ribbon-finance",
+      "jones-dao"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Concentrated Liquidity Explained",
+      "tldr": "Choosing a price range for your capital, and the impermanent-loss consequence of choosing badly.",
+      "url": "https://docs.horizondex.io/dex/concentrated-liquidity",
+      "source": "HorizonDEX Docs",
+      "tag": "DeFi",
+      "image": "https://docs.horizondex.io/~gitbook/ogimage/2pvHiQugXpayJfbXWDb7"
+    },
+    {
+      "title": "Why Build on Linea",
+      "tldr": "The reasoning behind the network choice, which doubles as a short introduction to the chain.",
+      "url": "https://docs.horizondex.io/introduction/why-linea",
+      "source": "HorizonDEX Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.horizondex.io/~gitbook/ogimage/LVcUoqGsxpARQJViYXU0"
+    }
+  ]
 }

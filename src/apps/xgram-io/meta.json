@@ -3,7 +3,9 @@
   "name": "Xgram.io",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751313/web3-explorer/dapp-logos/xgram-io.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Arbitrum",
     "Aptos",
@@ -29,7 +31,40 @@
     "twitter": "https://x.com/xgram_io"
   },
   "relations": {
-    "alternatives": ["fcondex", "zkswap-finance", "dolomite"],
-    "related": ["hegic", "jasper-vault", "bitget"]
-  }
+    "alternatives": [
+      "fcondex",
+      "zkswap-finance",
+      "dolomite"
+    ],
+    "related": [
+      "hegic",
+      "jasper-vault",
+      "bitget"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How ETFs Changed the Halving",
+      "tldr": "Supply-and-demand dynamics that previously held, and what continuous ETF buying did to them.",
+      "url": "https://xgram.io/blog/how-spot-bitcoin-etfs-altered-halving-supply-demand-dynamics-2",
+      "source": "Xgram Blog",
+      "tag": "Identity",
+      "image": "https://xgram.io/uploads/images/post/17873144801782780266.jpg"
+    },
+    {
+      "title": "How Miners Survived the Last Halving",
+      "tldr": "Hash rate and consolidation data showing who adapted and who was forced out.",
+      "url": "https://xgram.io/blog/how-bitcoin-miners-adapted-after-the-2024-halving-hash-rate-and-consolidation-da",
+      "source": "Xgram Blog",
+      "tag": "Research",
+      "image": "https://xgram.io/uploads/images/post/1787228102426301602.jpg"
+    },
+    {
+      "title": "What Actually Moves the Market",
+      "tldr": "The drivers behind big swings, separated from the narratives applied to them afterwards.",
+      "url": "https://xgram.io/blog/what-caused-crypto-to-go-up-and-down-complete-guide-2026-2",
+      "source": "Xgram Blog",
+      "image": "https://xgram.io/uploads/images/post/17866878311767435473.jpg"
+    }
+  ]
 }

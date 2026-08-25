@@ -28,5 +28,31 @@
     "related": [
       "wally"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Embedding a Wallet in Your App",
+      "tldr": "Wallet-as-a-service explained, including what custody model your users end up with.",
+      "url": "https://docs.paytweed.com/getting-started/embedded-wallets-or-waas",
+      "source": "Tweed Docs",
+      "tag": "Security",
+      "image": "https://docs.paytweed.com/~gitbook/image?url=https%3A%2F%2F2034179314-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgQyCg5IN7Cv6AnUUpGl2%252Fsocialpreview%252FYq3p0Zv0pBYZDEKUWi6A%252Fcover%2520docs.png%3Falt%3Dmedia%26token%3D7cf0bb1a-2868-4135-9ca7-776924ed4abd&width=1200&height=630&sign=ddaa6739&sv=2"
+    },
+    {
+      "title": "Taking a Token Payment",
+      "tldr": "The checkout flow for accepting crypto without handling the complexity yourself.",
+      "url": "https://docs.paytweed.com/getting-started/token-checkout-or-payments",
+      "source": "Tweed Docs",
+      "tag": "Payments",
+      "image": "https://docs.paytweed.com/~gitbook/image?url=https%3A%2F%2F2034179314-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgQyCg5IN7Cv6AnUUpGl2%252Fsocialpreview%252FYq3p0Zv0pBYZDEKUWi6A%252Fcover%2520docs.png%3Falt%3Dmedia%26token%3D7cf0bb1a-2868-4135-9ca7-776924ed4abd&width=1200&height=630&sign=ddaa6739&sv=2"
+    },
+    {
+      "title": "What the Platform Covers",
+      "tldr": "A short scope statement, useful before reading any of the integration pages.",
+      "url": "https://docs.paytweed.com/welcome-to-tweed/what-can-tweed-do",
+      "source": "Tweed Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.paytweed.com/~gitbook/image?url=https%3A%2F%2F2034179314-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FgQyCg5IN7Cv6AnUUpGl2%252Fsocialpreview%252FYq3p0Zv0pBYZDEKUWi6A%252Fcover%2520docs.png%3Falt%3Dmedia%26token%3D7cf0bb1a-2868-4135-9ca7-776924ed4abd&width=1200&height=630&sign=ddaa6739&sv=2"
+    }
+  ]
 }
