@@ -31,5 +31,34 @@
       "areon-network",
       "injective-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started on Quai Network",
+      "tldr": "Acquiring the token, setting up a wallet and finding your way around, written for someone arriving with none of the context.",
+      "url": "https://qu.ai/blog/getting-started-with-quai-network",
+      "source": "Quai Network Blog",
+      "publishedAt": "2026-04-10",
+      "tag": "Tutorial",
+      "image": "https://qu.ai/wp-content/uploads/2026/04/welcome_to_quai_network_intro_guide_5-2.png"
+    },
+    {
+      "title": "The End of the Hashrate Moat",
+      "tldr": "An argument that proof-of-work chains should compete on usefulness rather than accumulated mining power, and the mechanics proposed to force that.",
+      "url": "https://qu.ai/blog/quai-soap-bip302-and-the-end-of-the-hashrate-moat",
+      "source": "Quai Network Blog",
+      "publishedAt": "2026-05-14",
+      "tag": "Infrastructure",
+      "image": "https://qu.ai/wp-content/uploads/2026/05/bip302-blog.png"
+    },
+    {
+      "title": "The Trade-Offs in Solo Mining",
+      "tldr": "Solo mining has meant choosing between custody, identity checks and fees. What a non-custodial, zero-fee setup gives up to avoid that.",
+      "url": "https://qu.ai/blog/quai-network-introduces-stratumx-solo-mining",
+      "source": "Quai Network Blog",
+      "publishedAt": "2026-01-07",
+      "tag": "Trading",
+      "image": "https://qu.ai/wp-content/uploads/2026/01/stratumx-blog-graphic-small-scaled.jpg"
+    }
+  ]
 }

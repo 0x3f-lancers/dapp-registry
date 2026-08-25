@@ -31,5 +31,28 @@
       "ercx",
       "xdc-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Event Logs Are For",
+      "tldr": "Contracts emit structured data as they run. That log is often the only readable record of what a transaction actually did.",
+      "url": "https://info.polygonscan.com/what-is-event-logs/",
+      "source": "Polygonscan Information Centre",
+      "tag": "Identity"
+    },
+    {
+      "title": "Verifying a Contract's Source",
+      "tldr": "Publishing source that provably matches deployed bytecode, and why an unverified contract is a black box you should treat as one.",
+      "url": "https://info.polygonscan.com/how-to-verify-contract/",
+      "source": "Polygonscan Information Centre",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Auditing Your Token Approvals",
+      "tldr": "Approvals persist long after the transaction that created them. How to see what you have granted and revoke what you no longer use.",
+      "url": "https://info.polygonscan.com/polygonscan-token-approvals/",
+      "source": "Polygonscan Information Centre",
+      "tag": "Security"
+    }
+  ]
 }

@@ -37,5 +37,23 @@
       "defi",
       "my-merlin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Futures That Never Expire",
+      "tldr": "Most futures contracts settle on a date. Removing that one constraint is what turned perpetuals into the market's dominant instrument.",
+      "url": "https://www.bitgo.com/resources/blog/what-are-perpetual-futures-in-crypto",
+      "source": "BitGo Blog",
+      "tag": "Payments",
+      "image": "https://images.ctfassets.net/knkqyfncynw3/11WJx6FyxLYpSDy80phvmz/5f595d4b5827ebfebbe6931f58522646/perpetual-futures-crypto.png?w=1200&#38;h=628&#38;fit=fill&#38;f=center&#38;q=70&#38;fm=jpg"
+    },
+    {
+      "title": "Paying Across Borders Without Correspondent Banks",
+      "tldr": "The chain of intermediaries is what makes international payment slow. What stablecoin rails remove, and what they add in its place.",
+      "url": "https://www.bitgo.com/resources/blog/stablecoin-cross-border-payments",
+      "source": "BitGo Blog",
+      "tag": "Payments",
+      "image": "https://images.ctfassets.net/knkqyfncynw3/11THUAQTxbkwAMgax1qkvv/1033edb3aad3ba6d515b287c0a02355a/stablecoin-cross-border-payments.png?w=1200&#38;h=628&#38;fit=fill&#38;f=center&#38;q=70&#38;fm=jpg"
+    }
+  ]
 }

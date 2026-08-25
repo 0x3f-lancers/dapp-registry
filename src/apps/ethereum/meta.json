@@ -31,5 +31,30 @@
       "taraxa",
       "spinor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Creating an Ethereum Account",
+      "tldr": "Anyone can make one for free, and no company issues it. What a wallet actually creates, and what you become responsible for the moment it exists.",
+      "url": "https://ethereum.org/guides/how-to-create-an-ethereum-account/",
+      "source": "ethereum.org Guides",
+      "image": "https://ethereum.org/images/heroes/guides-hub-hero.jpg"
+    },
+    {
+      "title": "Moving Tokens to a Layer 2",
+      "tldr": "When mainnet gets busy it gets expensive. What a bridge does to your tokens on the way across, explained before you use one.",
+      "url": "https://ethereum.org/guides/how-to-use-a-bridge/",
+      "source": "ethereum.org Guides",
+      "tag": "Infrastructure",
+      "image": "https://ethereum.org/images/heroes/guides-hub-hero.jpg"
+    },
+    {
+      "title": "Using a Wallet, Step by Step",
+      "tldr": "Every basic operation walked through in order — the reference for someone who has an account and does not yet know what to do with it.",
+      "url": "https://ethereum.org/guides/how-to-use-a-wallet/",
+      "source": "ethereum.org Guides",
+      "tag": "Tutorial",
+      "image": "https://ethereum.org/images/heroes/guides-hub-hero.jpg"
+    }
+  ]
 }

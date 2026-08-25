@@ -34,5 +34,31 @@
       "dmail-network",
       "axelar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Used GPU Is Worth",
+      "tldr": "Depreciation assumptions now swing reported earnings by billions. How long a training card actually stays useful, and who is guessing.",
+      "url": "https://aethir.com/blog-posts/gpu-depreciation-in-2026-what-a-used-gpu-is-worth",
+      "source": "Aethir Blog",
+      "tag": "Infrastructure",
+      "image": "https://ecosystem-files-1408521173.cos.ap-singapore.myqcloud.com/blog-title-images/20260813/1786588111163-f5bafcda-b790-438b-928f-c8238e93e650.png"
+    },
+    {
+      "title": "When Thousands of GPUs Stop at Once",
+      "tldr": "A training phase ending together can shed hundreds of megawatts in moments, then ramp back. A physics problem, not a scheduling one.",
+      "url": "https://aethir.com/blog-posts/ai-training-power-spikes-are-straining-the-grid",
+      "source": "Aethir Blog",
+      "tag": "Infrastructure",
+      "image": "https://ecosystem-files-1408521173.cos.ap-singapore.myqcloud.com/blog-title-images/20260819/1787134052443-62585aa1-71ba-4041-bf16-63a0c5e86952.png"
+    },
+    {
+      "title": "Why GPU Cloud Prices Started Rising",
+      "tldr": "Two decades of falling cloud costs reversed in 2026. What changed on the supply side, and what it means for anyone budgeting compute.",
+      "url": "https://aethir.com/blog-posts/gpu-cloud-pricing-in-2026-why-ai-compute-costs-keep-rising",
+      "source": "Aethir Blog",
+      "tag": "Infrastructure",
+      "image": "https://ecosystem-files-1408521173.cos.ap-singapore.myqcloud.com/blog-title-images/20260804/1785831715489-f94aa6b2-0167-41b3-9c86-e59c57ac9b66.png"
+    }
+  ]
 }

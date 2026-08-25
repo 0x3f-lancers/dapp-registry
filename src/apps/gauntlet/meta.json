@@ -35,5 +35,22 @@
       "kazm",
       "allium"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Borrowing Against Market Maker Shares",
+      "tldr": "Uniswap, Balancer and Curve positions are collateral of an unusual kind, because their value depends on the trading that happens around them.",
+      "url": "https://www.gauntlet.xyz/resources/a-note-on-borrowing-constant-function-market-maker-shares",
+      "source": "Gauntlet Research",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/649aa439c7750d94d66dd96f/66edd35860350a17aa4891f1_Research%20-%2017.png"
+    },
+    {
+      "title": "Choosing Which Bundles Go in a Block",
+      "tldr": "A builder holds fixed transactions plus competing bundles and has to maximise value. The allocation problem stated formally, then solved.",
+      "url": "https://www.gauntlet.xyz/resources/a-note-on-bundle-profit-maximization",
+      "source": "Gauntlet Research",
+      "image": "https://cdn.prod.website-files.com/649aa439c7750d94d66dd96f/66eb6bc190d8982a3c96b587_Research%20-%207.png"
+    }
+  ]
 }

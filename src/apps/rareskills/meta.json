@@ -32,5 +32,33 @@
       "0xcert",
       "zenland"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Number Theoretic Transform",
+      "tldr": "Evaluating a polynomial at n points in n log n time instead of n squared, which is what makes proof systems fast enough to be practical.",
+      "url": "https://rareskills.io/post/number-theoretic-transform",
+      "source": "RareSkills",
+      "publishedAt": "2026-07-01",
+      "tag": "Infrastructure",
+      "image": "https://rareskills.io/og-images/post/number-theoretic-transform.png"
+    },
+    {
+      "title": "Reading an Algorithm as a Signal Flow Graph",
+      "tldr": "Drawing computation as nodes and edges makes the structure of an algorithm visible, and the diagram then does much of the reasoning for you.",
+      "url": "https://rareskills.io/post/signal-flow-graphs",
+      "source": "RareSkills",
+      "publishedAt": "2026-06-17",
+      "tag": "Infrastructure",
+      "image": "https://rareskills.io/og-images/post/signal-flow-graphs.png"
+    },
+    {
+      "title": "Why Point-Value Form Makes Multiplication Cheap",
+      "tldr": "The convolution theorem, derived rather than asserted, showing why converting polynomials before multiplying them is worth the conversion.",
+      "url": "https://rareskills.io/post/convolution-theorem",
+      "source": "RareSkills",
+      "publishedAt": "2026-06-16",
+      "image": "https://rareskills.io/og-images/post/convolution-theorem.png"
+    }
+  ]
 }

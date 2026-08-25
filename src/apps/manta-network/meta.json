@@ -35,5 +35,15 @@
       "taraxa",
       "allora-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reaching Finality Faster on a Layer 2",
+      "tldr": "How quickly a rollup's state becomes irreversible decides what can be built on it. A dual-layer approach to shortening that wait.",
+      "url": "https://mantanetwork.medium.com/achieving-fast-finality-on-manta-network-a-dual-layer-approach-84f1ee74375b",
+      "source": "Manta Network Blog",
+      "publishedAt": "2025-02-11",
+      "tag": "Infrastructure"
+    }
+  ]
 }

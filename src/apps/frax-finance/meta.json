@@ -35,5 +35,29 @@
       "marginfi",
       "infinex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What an AMO Can and Cannot Do",
+      "tldr": "Contracts allowed to mint, burn and deploy protocol assets — but only in ways that leave the peg where it was. The constraint is the design.",
+      "url": "https://docs.frax.finance/amo/overview",
+      "source": "Frax Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.frax.finance/~gitbook/image?url=https%3A%2F%2F3873460390-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MJQZW1mSg2O5N7HXHo0%252Fsocialpreview%252FN2VMyOsi3yUxIjHmszMu%252FFRAX_Logo_White_On_Black.png%3Falt%3Dmedia%26token%3D7a29cf16-4d39-445f-be3a-46db791d6a17&width=1200&height=630&sign=77d30e20&sv=2"
+    },
+    {
+      "title": "FRAX, FXS and frxETH Distinguished",
+      "tldr": "Three tokens doing three jobs, plus the story of moving from a fractional-algorithmic model to full collateralisation.",
+      "url": "https://www.coingecko.com/learn/what-is-frax-crypto",
+      "source": "CoinGecko Learn",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "The Frax Ecosystem for Beginners",
+      "tldr": "Each primitive introduced in turn — the stablecoin, the lending market, the liquid staking token — and how they feed each other.",
+      "url": "https://medium.com/coinmonks/frax-ecosystem-101-a-beginners-guide-to-the-revolutionary-defi-protocol-and-its-primitives-c6f1e4e9817a",
+      "source": "Coinmonks",
+      "tag": "DeFi"
+    }
+  ]
 }

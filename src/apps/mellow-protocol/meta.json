@@ -34,5 +34,25 @@
       "goat-protocol",
       "yield-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Automated Liquidity Management Works",
+      "tldr": "Walked through against Velodrome Slipstream: what an ALM decides on your behalf inside a concentrated-liquidity pool, and when it rebalances.",
+      "url": "https://mellowprotocol.substack.com/p/thats-how-mellow-alm-works-for-velodrome",
+      "source": "Mellow Protocol Blog",
+      "publishedAt": "2024-10-10",
+      "tag": "DeFi",
+      "image": "https://substackcdn.com/image/fetch/$s_!vqaB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7263860b-dbb6-4b46-b614-4b60cc568ce4_1920x1152.png"
+    },
+    {
+      "title": "Reaching Mainnet Yield From Another Chain",
+      "tldr": "Restaking and the deepest yield still live on Ethereum mainnet. What has to happen for capital sitting elsewhere to reach it.",
+      "url": "https://mellowprotocol.substack.com/p/mellow-interop-vaults-unlocking-yield",
+      "source": "Mellow Protocol Blog",
+      "publishedAt": "2025-06-18",
+      "tag": "DeFi",
+      "image": "https://substackcdn.com/image/fetch/$s_!GBLm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dba8d54-136f-4763-95c9-21771ba4a4bf_1200x676.png"
+    }
+  ]
 }

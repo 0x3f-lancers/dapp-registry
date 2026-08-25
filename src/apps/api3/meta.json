@@ -1,38 +1,58 @@
 {
-    "slug":  "api3",
-    "name":  "API3",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744921/web3-explorer/dapp-logos/api3.jpg",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Decentralized Oracles"
-                    ],
-    "chains":  [
-                   "Polygon",
-                   "BNB Chain",
-                   "Avalanche",
-                   "Mantle"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "API3 supplies first-party oracle data feeds that help Mantle apps use verifiable offchain market and API data onchain.",
-                    "description":  "API3 builds oracle infrastructure around first-party data providers, aiming to deliver data to smart contracts without relying on third-party relay networks. Its dAPIs combine signed feeds from individual providers into onchain data products that developers can integrate into lending markets, stablecoins, derivatives, and other DeFi systems. API3 also supports OEV-aware designs and uses Airnode for direct API connectivity, giving Mantle teams a way to work with price feeds and external data that is built for transparency, verification, and practical smart contract use.",
-                    "meta":  "API3 provides first-party oracle feeds and API connectivity for Mantle apps that need verifiable prices and trusted external data.",
-                    "pageTitle":  "API3 - DeFi Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://api3.org",
-                  "twitter":  "https://x.com/API3DAO"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "flare-network",
-                                           "uma",
-                                           "switchboard"
-                                       ],
-                      "related":  [
-                                      "avnu",
-                                      "concordex",
-                                      "wombat-exchange"
-                                  ]
-                  }
+  "slug": "api3",
+  "name": "API3",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744921/web3-explorer/dapp-logos/api3.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Decentralized Oracles"
+  ],
+  "chains": [
+    "Polygon",
+    "BNB Chain",
+    "Avalanche",
+    "Mantle"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "API3 supplies first-party oracle data feeds that help Mantle apps use verifiable offchain market and API data onchain.",
+    "description": "API3 builds oracle infrastructure around first-party data providers, aiming to deliver data to smart contracts without relying on third-party relay networks. Its dAPIs combine signed feeds from individual providers into onchain data products that developers can integrate into lending markets, stablecoins, derivatives, and other DeFi systems. API3 also supports OEV-aware designs and uses Airnode for direct API connectivity, giving Mantle teams a way to work with price feeds and external data that is built for transparency, verification, and practical smart contract use.",
+    "meta": "API3 provides first-party oracle feeds and API connectivity for Mantle apps that need verifiable prices and trusted external data.",
+    "pageTitle": "API3 - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://api3.org",
+    "twitter": "https://x.com/API3DAO"
+  },
+  "relations": {
+    "alternatives": [
+      "flare-network",
+      "uma",
+      "switchboard"
+    ],
+    "related": [
+      "avnu",
+      "concordex",
+      "wombat-exchange"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Layers of an Oracle Stack",
+      "tldr": "How a data feed a contract can call is assembled from the API upward, and what each layer is responsible for when something goes wrong.",
+      "url": "https://blog.api3.org/the-api3-technology-stack/",
+      "source": "API3 Blog",
+      "publishedAt": "2022-04-18",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/54/27/54270ba9-a2ab-4bff-ab6d-78b9694f8e94/content/images/size/w1200/2026/03/tech-stack.webp"
+    },
+    {
+      "title": "Why the Oracle Problem Is a Middleman Problem",
+      "tldr": "The founding argument for letting API providers serve contracts directly rather than through a third party paid to relay their data.",
+      "url": "https://blog.api3.org/api3-decentralized-apis-for-the-decentralized-web/",
+      "source": "API3 Blog",
+      "publishedAt": "2020-09-16",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/54/27/54270ba9-a2ab-4bff-ab6d-78b9694f8e94/content/images/size/w1200/2026/03/API3.webp"
+    }
+  ]
 }

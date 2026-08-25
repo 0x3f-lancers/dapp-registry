@@ -30,5 +30,23 @@
       "polkadot",
       "canvas-connect"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Private Mempool Actually Protects",
+      "tldr": "MEV bots profit from seeing a transaction before it lands. Which flows that exposure really hurts, taken use case by use case.",
+      "url": "https://polygon.technology/blog/moving-money-confidentially-with-private-mempool-on-polygon-what-that-means-for-every-use-case",
+      "source": "Polygon Blog",
+      "tag": "Security",
+      "image": "https://polygon.technology/_astro/private-mempool-use-cases-cover.Ch8dlf37.png"
+    },
+    {
+      "title": "Custodial or Non-Custodial: A Builder's Choice",
+      "tldr": "Most products should pick one model and commit. The hard part is matching it to your users and to what your team can carry.",
+      "url": "https://polygon.technology/blog/custodial-vs-non-custodial-wallets",
+      "source": "Polygon Blog",
+      "tag": "AI & Agents",
+      "image": "https://polygon.technology/_astro/custodial-vs-non-custodial-wallets-header._SeZwCAB.png"
+    }
+  ]
 }

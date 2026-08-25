@@ -34,5 +34,30 @@
     "related": [
       "stackup-bundler"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Integrating a Wallet Into a Product",
+      "tldr": "A guide for teams adding wallets to something that already exists, covering the decisions that are hard to reverse once users arrive.",
+      "url": "https://www.privy.io/learn/master-crypto-wallet-integration",
+      "source": "Privy Learn",
+      "tag": "Tutorial",
+      "image": "https://framerusercontent.com/assets/II9wRZPS7yUnAlAGEb6gtGp9w.png"
+    },
+    {
+      "title": "What Wallet-as-a-Service Actually Provides",
+      "tldr": "Businesses increasingly hold funds inside their own products. What gets outsourced when the wallet layer is bought rather than built.",
+      "url": "https://www.privy.io/learn/wallet-as-service",
+      "source": "Privy Learn",
+      "image": "https://framerusercontent.com/assets/II9wRZPS7yUnAlAGEb6gtGp9w.png"
+    },
+    {
+      "title": "Using a Crypto Wallet",
+      "tldr": "The beginner's walkthrough: what the app is doing on your behalf, and which actions you cannot undo once confirmed.",
+      "url": "https://www.privy.io/learn/use-a-crypto-wallet",
+      "source": "Privy Learn",
+      "tag": "Tutorial",
+      "image": "https://framerusercontent.com/assets/II9wRZPS7yUnAlAGEb6gtGp9w.png"
+    }
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "Koi Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747898/web3-explorer/dapp-logos/koi-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["ZKsync"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "ZKsync"
+  ],
   "pricing": "",
   "content": {
     "short": "Koi Finance is a fast DEX with yield farming and bond features, built on zkSync.",
@@ -17,7 +21,33 @@
     "twitter": "https://x.com/koi_finance"
   },
   "relations": {
-    "alternatives": ["0x", "vaultka", "zkswap-finance"],
-    "related": ["perpetual-protocol", "bydfi"]
-  }
+    "alternatives": [
+      "0x",
+      "vaultka",
+      "zkswap-finance"
+    ],
+    "related": [
+      "perpetual-protocol",
+      "bydfi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Robinhood Chain Is",
+      "tldr": "A permissionless Ethereum layer 2 on the Arbitrum stack, described by a protocol that neither built it nor is affiliated with it.",
+      "url": "https://www.koi.finance/learn/robinhood-chain",
+      "source": "Koi Learn",
+      "publishedAt": "2026-08-17",
+      "image": "https://www.koi.finance/assets/og.png?v=20260817-logo"
+    },
+    {
+      "title": "How to Create a Memecoin",
+      "tldr": "The deployment steps, followed by the part most guides leave out: this is not a business and most of these go to zero.",
+      "url": "https://www.koi.finance/learn/how-to-create-a-memecoin",
+      "source": "Koi Learn",
+      "publishedAt": "2026-08-17",
+      "tag": "Tutorial",
+      "image": "https://www.koi.finance/assets/og.png?v=20260817-logo"
+    }
+  ]
 }

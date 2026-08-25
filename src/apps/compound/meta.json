@@ -36,5 +36,14 @@
       "nillaconnect",
       "pike-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a cToken Is",
+      "tldr": "Supplying an asset returns a token whose exchange rate climbs with accrued interest, so the balance never changes but its value does.",
+      "url": "https://docs.compound.finance/v2/ctokens/",
+      "source": "Compound Docs",
+      "image": "https://docs.compound.finance/public/img/meta-tag.png"
+    }
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "DODO",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746535/web3-explorer/dapp-logos/dodo.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "DODO is a DEX enabling cross-chain trading of fungible and non-fungible tokens.",
@@ -17,7 +21,36 @@
     "twitter": "https://x.com/BreederDodo"
   },
   "relations": {
-    "alternatives": ["carbon", "1delta"],
-    "related": ["contango", "binance", "opyn"]
-  }
+    "alternatives": [
+      "carbon",
+      "1delta"
+    ],
+    "related": [
+      "contango",
+      "binance",
+      "opyn"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Proactive Market Maker Algorithm",
+      "tldr": "An inventory-management approach to pricing rather than a fixed curve, and what it changes for liquidity providers.",
+      "url": "https://docs.dodoex.io/en/product/pmm-algorithm",
+      "source": "DODO Docs",
+      "tag": "Trading"
+    },
+    {
+      "title": "The Mathematics Behind PMM",
+      "tldr": "The price curve stated as equations rather than described, for anyone who wants to verify the behaviour rather than trust it.",
+      "url": "https://docs.dodoex.io/en/product/pmm-algorithm/the-mathematical-principle-of-pmm",
+      "source": "DODO Docs"
+    },
+    {
+      "title": "Splitting Liquidity From Strategy",
+      "tldr": "A vault where providers supply the funds and separate strategy providers decide how they are deployed.",
+      "url": "https://docs.dodoex.io/en/product/dodo-v3-pools",
+      "source": "DODO Docs",
+      "tag": "DeFi"
+    }
+  ]
 }

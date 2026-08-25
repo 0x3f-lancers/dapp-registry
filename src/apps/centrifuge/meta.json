@@ -36,5 +36,21 @@
       "huma-finance",
       "openeden"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why a Fund Cannot Live on One Chain",
+      "tldr": "A tokenised fund deployed to a single chain is a closed loop: capital sits where the vault is, and investors have to come to it.",
+      "url": "https://www.centrifuge.io/blog/multichain-by-design",
+      "source": "Centrifuge Blog",
+      "tag": "Finance"
+    },
+    {
+      "title": "Constraining the Manager, Onchain",
+      "tldr": "Caps a curator cannot exceed, roles split between parties, a timelock over the parameters that matter. The standard answer to manager risk.",
+      "url": "https://www.centrifuge.io/blog/onchain-execution-policy",
+      "source": "Centrifuge Blog",
+      "image": "https://cdn.prod.website-files.com/670e54977f3ebadc23387103/6a72df8fd00ade3c5ca32c3f_centrifuge%20v3.3.webp"
+    }
+  ]
 }

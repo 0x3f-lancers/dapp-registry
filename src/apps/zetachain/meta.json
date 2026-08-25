@@ -35,5 +35,23 @@
       "areon-network",
       "realio-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What an AI Agent Needs Beyond Reasoning",
+      "tldr": "An agent can work out what to do without having any durable identity, a way to pay, or memory that survives the session. Those three gaps, examined.",
+      "url": "https://zetachain.com/blog/ai-agents-blockchain-identity-payments-memory",
+      "source": "ZetaChain Blog",
+      "tag": "AI & Agents",
+      "image": "https://images.ctfassets.net/jmvpciyouqsr/ZYeg1zw4qd5K17UOy9xzV/426692f6b1287fd87d190cc39249de21/ai-agents-blockchain-identity-payments-and-persistent-memory-796031.webp"
+    },
+    {
+      "title": "Redacting Personal Data Before It Reaches a Model",
+      "tldr": "Conversations, documents and calendars are what make AI useful and what make it invasive. An architecture that tries to keep the first without the second.",
+      "url": "https://zetachain.com/blog/making-ai-more-private-introducing-pii-redaction-as-part-of-zetachains-privacy-architecture",
+      "source": "ZetaChain Blog",
+      "tag": "AI & Agents",
+      "image": "https://images.ctfassets.net/jmvpciyouqsr/Nv735xDTR4rnQcg28G6ke/424af8d1b650defd7608ddc84b011608/Screenshot_2026-07-15_at_09.29.02.png"
+    }
+  ]
 }

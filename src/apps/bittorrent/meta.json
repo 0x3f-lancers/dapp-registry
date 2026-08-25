@@ -31,5 +31,22 @@
       "mini-royale",
       "pixel-chain-games"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "File Sharing Meets a Cross-Chain Protocol",
+      "tldr": "How BitTorrent's peer-to-peer heritage turned into BTTC, and what interoperability adds to a network built for distributing files.",
+      "url": "https://coinrule.com/blog/learn/what-you-need-to-know-about-bittorrent-chain-bttc-and-its-functionality/",
+      "source": "Coinrule Learn",
+      "tag": "Infrastructure",
+      "image": "https://coinrule.com/blog/wp-content/uploads/2024/11/Untitled-design-17.jpg"
+    },
+    {
+      "title": "How the Bridge Locks and Mints",
+      "tldr": "Assets locked on the root chain, equivalents issued on the side chain, and burned to come back. The mechanics, from the docs.",
+      "url": "https://doc.bt.io/docs/bridge/overview",
+      "source": "BitTorrent Chain Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

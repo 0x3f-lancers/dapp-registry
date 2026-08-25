@@ -36,5 +36,31 @@
     "related": [
       "taraxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why You Filled Worse Than the Quote",
+      "tldr": "A clean quote, fair slippage, and still a bad fill. What sits between signing and settlement, and what a protected endpoint changes.",
+      "url": "https://getblock.io/blog/how-to-protect-your-transactions-from-mev-with-getblock-rpc/",
+      "source": "GetBlock Blog",
+      "tag": "Security",
+      "image": "https://images.prismic.io/getblock-blog/Tb-RUrM09EPPzPnt_HowtoProtectYourTransactionsfromMEV.png?auto=format,compress"
+    },
+    {
+      "title": "Diagnosing a Slow Solana RPC",
+      "tldr": "The app worked yesterday and users cannot reach it today. Working through 429s and latency to the cause rather than guessing.",
+      "url": "https://getblock.io/blog/solana-rpc-slow-429-diagnose-and-fix/",
+      "source": "GetBlock Blog",
+      "tag": "Infrastructure",
+      "image": "https://images.prismic.io/getblock-blog/LLpl8jMzWhyTpqoR_SolanaRPCTooSloworHitting429s_.png?auto=format,compress"
+    },
+    {
+      "title": "Cutting RPC Costs Without Breaking Things",
+      "tldr": "Traffic barely moved but the bill jumped a third. How RPC billing actually counts, and which calls are quietly expensive.",
+      "url": "https://getblock.io/blog/how-to-reduce-rpc-costs-without-breaking-your-app/",
+      "source": "GetBlock Blog",
+      "tag": "Infrastructure",
+      "image": "https://images.prismic.io/getblock-blog/KshFe7L5NvePsN-h_HowtoReduceYourRPCCosts.png?auto=format,compress"
+    }
+  ]
 }

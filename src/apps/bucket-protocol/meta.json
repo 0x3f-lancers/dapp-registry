@@ -34,5 +34,21 @@
       "swop",
       "hyperliquid"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Minting a Stablecoin Against Locked Assets",
+      "tldr": "How a liquidity layer on Sui lets you lock collateral and mint against it, and what the token coordinating that is for.",
+      "url": "https://medium.com/@bucketprotocol/bucket-token-but-tokenomics-3d19a3213b34",
+      "source": "Bucket Protocol Blog",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Designing Incentives People Can Predict",
+      "tldr": "Reward systems that change often stop being reasons to participate. The reasoning behind a model built for predictability.",
+      "url": "https://medium.com/@bucketprotocol/introducing-the-new-debut-model-choice-clarity-and-aligned-incentives-59b409abf206",
+      "source": "Bucket Protocol Blog",
+      "tag": "AI & Agents"
+    }
+  ]
 }

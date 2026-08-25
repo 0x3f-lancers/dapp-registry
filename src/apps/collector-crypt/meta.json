@@ -25,5 +25,21 @@
   "relations": {
     "alternatives": [],
     "related": []
-  }
+  },
+  "resources": [
+    {
+      "title": "Turning a Graded Card Into a Token",
+      "tldr": "The physical card is shipped in and verified before an NFT is issued against it. What custody looks like on the other side of that.",
+      "url": "https://collectorcrypt.tg/docs/tokenization/depositing-cards",
+      "source": "Collector Crypt Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "Redeeming the Physical Card Back",
+      "tldr": "Every tokenised card can be withdrawn and shipped to you, which is the test of whether the token really represents the object.",
+      "url": "https://collectorcrypt.tg/docs/tokenization/withdrawing-cards",
+      "source": "Collector Crypt Docs",
+      "tag": "Payments"
+    }
+  ]
 }

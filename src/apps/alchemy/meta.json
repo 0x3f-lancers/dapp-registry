@@ -1,48 +1,77 @@
 {
-    "slug":  "alchemy",
-    "name":  "Alchemy",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770751446/web3-explorer/dapp-logos/alchemy.png",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "RPC Node Providers",
-                        "Indexing Tools"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Solana",
-                   "Polygon",
-                   "Arbitrum",
-                   "OP Mainnet",
-                   "Polkadot",
-                   "Starknet",
-                   "ZKsync",
-                   "Polygon zkEVM",
-                   "ZetaChain",
-                   "Fantom",
-                   "Linea",
-                   "Base",
-                   "BNB Chain",
-                   "Avalanche",
-                   "Mantle"
-               ],
-    "pricing":  "Freemium",
-    "content":  {
-                    "short":  "Alchemy provides blockchain APIs, data services, and developer tooling for apps building across many supported chains.",
-                    "description":  "Alchemy is a blockchain infrastructure platform that gives developers access to standard RPC endpoints, indexed data services, wallet tooling, simulation, and other building blocks used in production apps. Its docs organize the stack into Chain APIs for direct network access, Data APIs for enriched queries, and wallet products for account abstraction and transaction flows. Alchemy supports Mantle alongside a large set of other EVM and non EVM networks, which makes it useful for teams shipping multi chain products without operating their own node and indexing infrastructure from scratch.",
-                    "meta":  "Alchemy supplies RPC, data, and wallet infrastructure for apps building on Mantle and many other chains. Explore Alchemy on Lancers Web3 Explorer.",
-                    "pageTitle":  "Alchemy - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.alchemy.com/",
-                  "twitter":  "https://x.com/Alchemy"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "blast",
-                                           "solana-tracker"
-                                       ],
-                      "related":  [
-                                      "blast"
-                                  ]
-                  }
+  "slug": "alchemy",
+  "name": "Alchemy",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751446/web3-explorer/dapp-logos/alchemy.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers",
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polkadot",
+    "Starknet",
+    "ZKsync",
+    "Polygon zkEVM",
+    "ZetaChain",
+    "Fantom",
+    "Linea",
+    "Base",
+    "BNB Chain",
+    "Avalanche",
+    "Mantle"
+  ],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Alchemy provides blockchain APIs, data services, and developer tooling for apps building across many supported chains.",
+    "description": "Alchemy is a blockchain infrastructure platform that gives developers access to standard RPC endpoints, indexed data services, wallet tooling, simulation, and other building blocks used in production apps. Its docs organize the stack into Chain APIs for direct network access, Data APIs for enriched queries, and wallet products for account abstraction and transaction flows. Alchemy supports Mantle alongside a large set of other EVM and non EVM networks, which makes it useful for teams shipping multi chain products without operating their own node and indexing infrastructure from scratch.",
+    "meta": "Alchemy supplies RPC, data, and wallet infrastructure for apps building on Mantle and many other chains. Explore Alchemy on Lancers Web3 Explorer.",
+    "pageTitle": "Alchemy - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.alchemy.com/",
+    "twitter": "https://x.com/Alchemy"
+  },
+  "relations": {
+    "alternatives": [
+      "blast",
+      "solana-tracker"
+    ],
+    "related": [
+      "blast"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What a Blockchain Indexer Is For",
+      "tldr": "Chain data is stored to be verified, not to be searched. What has to be built on top before an app can ask an ordinary question of it.",
+      "url": "https://www.alchemy.com/overviews/blockchain-indexer",
+      "source": "Alchemy Overviews",
+      "publishedAt": "2025-12-02",
+      "tag": "Infrastructure",
+      "image": "https://media.alchemy.com/1764645001-what-is-a-blockchain-indexer.png"
+    },
+    {
+      "title": "Signing In With a Key Instead of a Password",
+      "tldr": "Authentication by public key rather than a stored credential, and the practical questions that raises about sessions, recovery and who is really signed in.",
+      "url": "https://www.alchemy.com/overviews/a-guide-to-web3-authentication",
+      "source": "Alchemy Overviews",
+      "publishedAt": "2025-10-29",
+      "tag": "Security",
+      "image": "https://media.alchemy.com/1761749240-a-guide-to-web3-authentication_1.png"
+    },
+    {
+      "title": "Agentic Payments and x402",
+      "tldr": "For thirty years software could recommend a purchase but never make one. What changes when the buyer is a program, and what that requires of payment rails.",
+      "url": "https://www.alchemy.com/overviews/agentic-payments-x402-explained",
+      "source": "Alchemy Overviews",
+      "publishedAt": "2026-07-08",
+      "tag": "Payments",
+      "image": "https://media.alchemy.com/blog/agentic-payments-x402-explained-hero.png"
+    }
+  ]
 }

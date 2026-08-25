@@ -35,5 +35,23 @@
       "0xgraph",
       "chainstack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Makes an AI Data Centre Different",
+      "tldr": "Cooling, storage and interconnect all change once the workload is training rather than serving web pages. The architecture, laid out.",
+      "url": "https://io.net/blog/ai-data-centers",
+      "source": "io.net Blog",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/33/2c/332c3e6c-8dbe-4aa1-87fd-98e6cf4fe33a/content/images/2025/10/SOC-136-io-Blog.png"
+    },
+    {
+      "title": "The GPU Bottleneck Teams Actually Hit",
+      "tldr": "Months of hiring and planning stall on infrastructure nobody budgeted for. Where distributed compute helps, and where it does not.",
+      "url": "https://io.net/blog/ai-infrastructure",
+      "source": "io.net Blog",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/33/2c/332c3e6c-8dbe-4aa1-87fd-98e6cf4fe33a/content/images/2025/08/why-decentralization-matters.jpeg"
+    }
+  ]
 }

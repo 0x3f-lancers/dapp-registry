@@ -30,5 +30,15 @@
     "related": [
       "genius-yield"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Optimising a Plutus Script",
+      "tldr": "Cardano fees and throughput both depend on script size and execution units. A technical account of getting both down.",
+      "url": "https://medium.com/minswap/tech-drips-1-optimizing-plutus-script-to-reduce-fees-and-increase-throughput-db6cce65c959",
+      "source": "Minswap Blog",
+      "publishedAt": "2021-11-29",
+      "tag": "Trading"
+    }
+  ]
 }

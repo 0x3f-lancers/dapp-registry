@@ -35,5 +35,31 @@
       "wave",
       "thetanuts-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Order Types, and When Each Applies",
+      "tldr": "Market, limit, stop and the rest, defined precisely enough to know which one does what you actually intend.",
+      "url": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/order-types",
+      "source": "Hyperliquid Docs",
+      "tag": "DeFi",
+      "image": "https://hyperliquid.gitbook.io/hyperliquid-docs/~gitbook/ogimage/Wk4PO4551XjWHb1bJBle"
+    },
+    {
+      "title": "Unifying Spot and Perps Margin",
+      "tldr": "Portfolio margin treats both books as one position, which raises capital efficiency and changes how liquidation is calculated.",
+      "url": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/portfolio-margin",
+      "source": "Hyperliquid Docs",
+      "tag": "Trading",
+      "image": "https://hyperliquid.gitbook.io/hyperliquid-docs/~gitbook/ogimage/EEBj6eO4kWNeRnPThvWr"
+    },
+    {
+      "title": "How a Perpetual Stays Near Spot",
+      "tldr": "Contracts with no expiry need something else to pull them toward the index. Funding payments are that mechanism, specified in full.",
+      "url": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/contract-specifications",
+      "source": "Hyperliquid Docs",
+      "tag": "Trading",
+      "image": "https://hyperliquid.gitbook.io/hyperliquid-docs/~gitbook/ogimage/cHEndKtdJuvnzjO6RMKE"
+    }
+  ]
 }

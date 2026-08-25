@@ -32,5 +32,28 @@
       "legato-finance",
       "rubydex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Yield Without Managing It Yourself",
+      "tldr": "Earning well onchain usually means several positions across several protocols and constant rate-checking. What automating that away costs and returns.",
+      "url": "https://alchemixfi.medium.com/diverse-risk-adjusted-defi-yield-12949e9ea209",
+      "source": "Alchemix Blog",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How a Peg Stability Engine Works",
+      "tldr": "The Transmuter converts discounted synthetic assets back to par, holding the peg and producing a fixed yield for whoever supplies it.",
+      "url": "https://alchemixfi.medium.com/master-defis-new-fixed-yield-primitive-2897fe8bb709",
+      "source": "Alchemix Blog",
+      "tag": "DeFi"
+    },
+    {
+      "title": "What a Self-Repaying Loan Rests On",
+      "tldr": "Synthetic assets have been the backbone of the idea since launch. What worked, what did not, and what the redesign changes.",
+      "url": "https://alchemixfi.medium.com/the-rebirth-of-alassets-39bfd912954e",
+      "source": "Alchemix Blog",
+      "tag": "DeFi"
+    }
+  ]
 }

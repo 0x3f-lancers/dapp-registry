@@ -34,5 +34,31 @@
       "injective-protocol",
       "areon-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Crypto Wallet Actually Holds",
+      "tldr": "Not coins. Keys, and the ability to sign. What creation, storage and recovery each involve once you know that.",
+      "url": "https://abs.xyz/blog/articles/what-is-a-wallet",
+      "source": "Abstract Blog",
+      "publishedAt": "2024-09-16",
+      "tag": "Security"
+    },
+    {
+      "title": "What a Blockchain Is, Explained Simply",
+      "tldr": "Written for someone who has heard the word and wants the concept rather than the marketing, including why anyone would want one.",
+      "url": "https://abs.xyz/blog/articles/what-is-a-blockchain",
+      "source": "Abstract Blog",
+      "tag": "Explainer",
+      "image": "https://images.prismic.io/abstract-blog/ZuNjMrVsGrYSvUQX_What-Is-A-Blockchain-Banner.png?auto=format,compress&rect=11,0,613,322&w=2400&h=1260"
+    },
+    {
+      "title": "How Passkey Wallets Work",
+      "tldr": "Passkeys already authenticate people without passwords. The same elliptic curve cryptography can create and hold a wallet.",
+      "url": "https://abs.xyz/blog/articles/how-passkey-wallets-work",
+      "source": "Abstract Blog",
+      "publishedAt": "2024-09-17",
+      "tag": "Tutorial"
+    }
+  ]
 }

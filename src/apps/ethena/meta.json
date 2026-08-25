@@ -35,5 +35,23 @@
       "jupiter",
       "carbonable"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Dollar Made From a Hedge",
+      "tldr": "Long spot collateral against an equal short perpetual, so price moves cancel. Where the yield comes from, and what happens when funding turns negative.",
+      "url": "https://yellow.com/learn/usde-ethena-synthetic-dollar-hedging",
+      "source": "Yellow",
+      "tag": "Payments",
+      "image": "https://media.yellow.com/uploads/shutterstock_2697610987_78569fc3b8.jpg"
+    },
+    {
+      "title": "The Architecture Behind USDe",
+      "tldr": "Written for people building something similar: how the delta-neutral core is assembled and how sUSDe distributes what it earns.",
+      "url": "https://rocknblock.io/blog/stablecoin-architecture-how-ethena-usde-works",
+      "source": "Rock'n'Block Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/65ae959392a2143f6424f882/69a23c587a876d32fc91136b_Frame-1.webp"
+    }
+  ]
 }

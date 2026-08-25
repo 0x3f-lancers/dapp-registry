@@ -32,5 +32,34 @@
       "starknet",
       "aelf"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Neoclouds and the GPU Crunch",
+      "tldr": "Demand for compute keeps outrunning supply. How reorganising capacity that already exists closes part of that gap.",
+      "url": "https://blog.thetatoken.org/how-neoclouds-like-theta-edgecloud-are-helping-solve-the-gpu-crunch/",
+      "source": "Theta Network Blog",
+      "publishedAt": "2025-12-22",
+      "tag": "Infrastructure",
+      "image": "https://blog.thetatoken.org/content/images/size/w1200/miro-medium-com/max/1400/1-hz-x3tr3upd38k3fhq517g-2x.png"
+    },
+    {
+      "title": "Matching the GPU to the Job",
+      "tldr": "The reflex in AI infrastructure is to reach for the largest card available. Which workloads actually justify it, and which do not.",
+      "url": "https://blog.thetatoken.org/find-the-gpu-built-for-your-workload/",
+      "source": "Theta Network Blog",
+      "publishedAt": "2026-07-22",
+      "tag": "Infrastructure",
+      "image": "https://blog.thetatoken.org/content/images/size/w1200/miro-medium-com/max/1400/1-13si-2dgjwn9vwysrgimdq.png"
+    },
+    {
+      "title": "Why Inference Changes the Infrastructure Question",
+      "tldr": "Years of AI progress were shaped by enormous training runs. Serving models instead has a different shape, and different hardware needs.",
+      "url": "https://blog.thetatoken.org/the-inference-era-why-the-next-chapter-of-ai-looks-different/",
+      "source": "Theta Network Blog",
+      "publishedAt": "2026-08-19",
+      "tag": "AI & Agents",
+      "image": "https://blog.thetatoken.org/content/images/size/w1200/2026/08/Inference--1-.png"
+    }
+  ]
 }

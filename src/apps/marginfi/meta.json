@@ -35,5 +35,31 @@
       "maverick",
       "panoptic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Conservative Case for DeFi",
+      "tldr": "Not the usual argument. Why moving activity onto public rails might benefit the existing financial sector rather than replace it.",
+      "url": "https://medium.com/marginfi/a-conservative-case-for-defi-d9a948b172f1",
+      "source": "marginfi Blog",
+      "publishedAt": "2022-07-28",
+      "tag": "DeFi"
+    },
+    {
+      "title": "What Hedging Actually Means",
+      "tldr": "Reducing exposure rather than betting against yourself. The concept explained before any product is mentioned.",
+      "url": "https://medium.com/marginfi/what-is-hedging-5bacb032f71e",
+      "source": "marginfi Blog",
+      "publishedAt": "2021-12-31",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Perpetual Against Expiring Futures",
+      "tldr": "One settles on a date, the other never does. What that means for funding, carry and how long you can hold the position.",
+      "url": "https://medium.com/marginfi/perpetual-futures-vs-expiratory-futures-d42e184e6449",
+      "source": "marginfi Blog",
+      "publishedAt": "2022-01-11",
+      "tag": "Trading"
+    }
+  ]
 }

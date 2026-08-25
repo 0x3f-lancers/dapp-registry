@@ -30,5 +30,31 @@
     "related": [
       "metronome-synth"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Earning in a Quiet Market",
+      "tldr": "Long condor and long butterfly explained as what they are: positions that pay out when nothing much happens.",
+      "url": "https://medium.com/hegic/new-one-click-option-strategies-earn-yield-in-low-volatility-markets-with-long-condor-long-4e6d3c9ef0c7",
+      "source": "Hegic Blog",
+      "publishedAt": "2022-07-08",
+      "tag": "Payments"
+    },
+    {
+      "title": "Strangles and Spreads, Plainly",
+      "tldr": "Bull call spread and bear put spread taken apart: what you pay, what you cap, and which view each one expresses.",
+      "url": "https://medium.com/hegic/new-one-click-option-strategies-strangle-and-spreads-bull-call-spread-and-bear-put-spread-4e81c7570bc2",
+      "source": "Hegic Blog",
+      "publishedAt": "2022-04-15",
+      "tag": "Trading"
+    },
+    {
+      "title": "Buying an Option Without Paying Gas",
+      "tldr": "A walkthrough of placing an onchain options trade, from connecting a wallet through to choosing strike and expiry.",
+      "url": "https://medium.com/hegic/how-to-trade-gas-fee-free-options-on-hegic-v8888-561131179c48",
+      "source": "Hegic Blog",
+      "publishedAt": "2021-08-22",
+      "tag": "Payments"
+    }
+  ]
 }

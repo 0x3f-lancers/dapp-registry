@@ -31,5 +31,22 @@
       "sinohope",
       "qredo"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Beginner's Walkthrough of Rabby",
+      "tldr": "Automatic chain switching and transaction pre-simulation are the selling points. Here is what using them day to day looks like.",
+      "url": "https://www.coingecko.com/learn/how-to-use-rabby-wallet",
+      "source": "CoinGecko Learn",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Is Rabby Actually Safe?",
+      "tldr": "A hardware-wallet maker reviewing a software wallet, so read it with that in mind — the audit and threat-model detail still holds up.",
+      "url": "https://www.cypherock.com/blogs/is-rabby-wallet-safe",
+      "source": "Cypherock",
+      "tag": "Security",
+      "image": "https://www.cypherock.com/wp-content/uploads/2025/07/Is-Rabby-Wallet-Safe_.jpg"
+    }
+  ]
 }

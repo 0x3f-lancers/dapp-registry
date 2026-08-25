@@ -32,5 +32,23 @@
       "infinit",
       "zircuit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Restaking, Explained From First Principles",
+      "tldr": "Stake already securing Ethereum put to work securing other services too, and what that reuse costs in added slashing exposure.",
+      "url": "https://consensys.io/blog/eigenlayer-decentralized-ethereum-restaking-protocol-explained",
+      "source": "Consensys Blog",
+      "tag": "Explainer",
+      "image": "https://images.ctfassets.net/gjyjx7gst9lo/6GyFZCyT4LtbtMIR9uNFoy/a95194553846c854c84dd4dadd7b965b/EigenLayer-Decentralized-Ethereum-Restaking-Protocol-Explained-meta.png?fm=jpg"
+    },
+    {
+      "title": "Operators, AVSs and Where the Risk Sits",
+      "tldr": "A long guide separating the three roles — staker, operator, service — and showing which one actually bears each failure.",
+      "url": "https://daic.capital/blog/what-is-eigenlayer",
+      "source": "DAIC Capital",
+      "tag": "DeFi",
+      "image": "https://daic.capital/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdelg5k1gs%2Fimage%2Fupload%2Fv1735534867%2Fdaic%2Fn%2F1635f22d-7b58-80a3-b386-cb97b9aab5a1%2Fultimate_guide_to_eigenlayer_revolutionizing_ethereum_staking_and_security.webp&w=1200&q=75"
+    }
+  ]
 }

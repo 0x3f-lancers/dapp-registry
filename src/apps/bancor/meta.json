@@ -3,8 +3,12 @@
   "name": "Bancor",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745164/web3-explorer/dapp-logos/bancor.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "Bancor is a decentralized market maker and staking protocol enabling yields from liquidity.",
@@ -17,7 +21,31 @@
     "twitter": "https://x.com/Bancor"
   },
   "relations": {
-    "alternatives": ["tokenlon", "saros", "rhinofi"],
-    "related": ["whitebit"]
-  }
+    "alternatives": [
+      "tokenlon",
+      "saros",
+      "rhinofi"
+    ],
+    "related": [
+      "whitebit"
+    ]
+  },
+  "resources": [
+    {
+      "title": "When Makers Control the Curve",
+      "tldr": "Traditional AMMs pool everyone onto one shared curve. What changes about pricing and risk when each maker sets their own.",
+      "url": "https://blog.bancor.network/amms-vs-onchain-orderbooks-what-changes-when-makers-control-the-curve-478b39724fc0",
+      "source": "Bancor Blog",
+      "publishedAt": "2026-08-03",
+      "tag": "Finance"
+    },
+    {
+      "title": "$630M Lost Through Someone Else's Code",
+      "tldr": "Manipulated price feeds and compromised cross-chain checks. The year losses traced to third-party dependencies rather than the protocols.",
+      "url": "https://blog.bancor.network/exploits-targeting-external-dependencies-have-cost-defi-over-630-million-in-2026-4b22932f52d2",
+      "source": "Bancor Blog",
+      "publishedAt": "2026-07-23",
+      "tag": "Trading"
+    }
+  ]
 }

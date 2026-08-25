@@ -36,5 +36,25 @@
       "hq-xyz",
       "lightning-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Issuing a Card in a Single Paid Request",
+      "tldr": "A worked tutorial: one HTTP call answers with a payment challenge, and settling it returns a spendable prepaid card.",
+      "url": "https://laso.finance/guides/issue-a-virtual-card-with-one-x402-call",
+      "source": "Laso Finance Guides",
+      "publishedAt": "2026-08-18",
+      "tag": "Payments",
+      "image": "https://laso.finance/laso-unfurl.png"
+    },
+    {
+      "title": "Can an AI Agent Hold a Credit Card?",
+      "tldr": "No bank will extend credit to a software process. What an agent can actually be given instead, and where the limits sit.",
+      "url": "https://laso.finance/guides/how-to-give-your-ai-agent-a-credit-card",
+      "source": "Laso Finance Guides",
+      "publishedAt": "2026-08-18",
+      "tag": "AI & Agents",
+      "image": "https://laso.finance/laso-unfurl.png"
+    }
+  ]
 }

@@ -34,5 +34,34 @@
       "hord",
       "convex-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Looping ezETH on Compound",
+      "tldr": "An automated strategy that amplifies ETH-denominated exposure by borrowing against the position it just opened. What that leverage costs.",
+      "url": "https://blog.renzoprotocol.com/2026/01/15/new-ezeth-loop-vault-on-compound",
+      "source": "Renzo Blog",
+      "publishedAt": "2026-01-15",
+      "tag": "DeFi",
+      "image": "https://i0.wp.com/blog.renzoprotocol.com/wp-content/uploads/2026/01/renzo-compound.png?fit=1200%2C597&#038;ssl=1"
+    },
+    {
+      "title": "Restaked ETH Underwriting Institutional Loans",
+      "tldr": "pzETH used as the collateral behind borrowing, with premiums compounding back into the position. How three protocols stack to do it.",
+      "url": "https://blog.renzoprotocol.com/2025/12/19/renzo-cap-symbiotic-pzeth-underwrites-institutional-borrowing-with-auto-compounding-premiums",
+      "source": "Renzo Blog",
+      "publishedAt": "2025-12-19",
+      "tag": "DeFi",
+      "image": "https://i0.wp.com/blog.renzoprotocol.com/wp-content/uploads/2025/12/renzo-cap.png?fit=1200%2C597&#038;ssl=1"
+    },
+    {
+      "title": "What Shipping an MCP Server Actually Means",
+      "tldr": "A co-founder quietly shipped a way for agents to act on the protocol. What that opens up, explained without the jargon.",
+      "url": "https://blog.renzoprotocol.com/2026/02/18/renzo-launches-mcp-server-on-openclaw-autonomous-yield-agent",
+      "source": "Renzo Blog",
+      "publishedAt": "2026-02-18",
+      "tag": "AI & Agents",
+      "image": "https://i0.wp.com/blog.renzoprotocol.com/wp-content/uploads/2026/02/renzo-clawd.png?fit=1200%2C980&#038;ssl=1"
+    }
+  ]
 }
