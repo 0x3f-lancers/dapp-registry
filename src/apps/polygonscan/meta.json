@@ -41,18 +41,18 @@
       "tag": "Identity"
     },
     {
-      "title": "Verifying a Contract's Source",
-      "tldr": "Publishing source that provably matches deployed bytecode, and why an unverified contract is a black box you should treat as one.",
-      "url": "https://info.polygonscan.com/how-to-verify-contract/",
+      "title": "Why a Transaction Gets Stuck",
+      "tldr": "Nonces, gas and the ways a pending transaction can be cancelled or replaced. The page you want when nothing is confirming.",
+      "url": "https://info.polygonscan.com/how-to-cancel-pending-transactions/",
       "source": "Polygonscan Information Centre",
       "tag": "Infrastructure"
     },
     {
-      "title": "Auditing Your Token Approvals",
-      "tldr": "Approvals persist long after the transaction that created them. How to see what you have granted and revoke what you no longer use.",
-      "url": "https://info.polygonscan.com/polygonscan-token-approvals/",
+      "title": "Verifying a Contract With Constructor Arguments",
+      "tldr": "Why the arguments are appended to the bytecode at compile time, and how to recover them when verification keeps failing.",
+      "url": "https://info.polygonscan.com/how-to-verify-contract-constructor-arguments/",
       "source": "Polygonscan Information Centre",
-      "tag": "Security"
+      "tag": "Infrastructure"
     }
   ]
 }
