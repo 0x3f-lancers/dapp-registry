@@ -38,21 +38,24 @@
       "tldr": "Contracts emit structured data as they run. That log is often the only readable record of what a transaction actually did.",
       "url": "https://info.polygonscan.com/what-is-event-logs/",
       "source": "Polygonscan Information Centre",
-      "tag": "Identity"
+      "tag": "Identity",
+      "image": "https://info.polygonscan.com/explorer/polygonscan/og-preview.jpg"
     },
     {
       "title": "Why a Transaction Gets Stuck",
       "tldr": "Nonces, gas and the ways a pending transaction can be cancelled or replaced. The page you want when nothing is confirming.",
       "url": "https://info.polygonscan.com/how-to-cancel-pending-transactions/",
       "source": "Polygonscan Information Centre",
-      "tag": "Infrastructure"
+      "tag": "Infrastructure",
+      "image": "https://info.polygonscan.com/explorer/polygonscan/og-preview.jpg"
     },
     {
       "title": "Verifying a Contract With Constructor Arguments",
       "tldr": "Why the arguments are appended to the bytecode at compile time, and how to recover them when verification keeps failing.",
       "url": "https://info.polygonscan.com/how-to-verify-contract-constructor-arguments/",
       "source": "Polygonscan Information Centre",
-      "tag": "Infrastructure"
+      "tag": "Infrastructure",
+      "image": "https://info.polygonscan.com/explorer/polygonscan/og-preview.jpg"
     }
   ]
 }

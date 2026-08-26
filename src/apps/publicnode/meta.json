@@ -47,5 +47,22 @@
       "startmining",
       "xdc-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Free Endpoints Against Paid Infrastructure",
+      "tldr": "What a public RPC gives you and where it stops, including the rate limits that only show up under real load.",
+      "url": "https://onfinality.io/en/rpc-assistant/public-rpc-nodes",
+      "source": "OnFinality",
+      "tag": "Infrastructure",
+      "image": "https://static.onfinality.io/header.jpg"
+    },
+    {
+      "title": "Who Sees Your Requests",
+      "tldr": "The privacy question behind RPC choice: your node provider can link IP to wallet unless it deliberately does not.",
+      "url": "https://medium.com/integritee/public-vs-private-blockchain-rpc-nodes-whats-best-cd5f0cd019a8",
+      "source": "Integritee",
+      "tag": "Infrastructure"
+    }
+  ]
 }
