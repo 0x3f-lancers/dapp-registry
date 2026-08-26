@@ -39,6 +39,22 @@
       "source": "Raydium Blog",
       "publishedAt": "2022-11-16",
       "tag": "DeFi"
+    },
+    {
+      "title": "Concentrated Liquidity on Solana",
+      "tldr": "Choosing a price band instead of spreading liquidity from zero to infinity, and what going out of range does to a position.",
+      "url": "https://docs.raydium.io/products/clmm",
+      "source": "Raydium Docs",
+      "tag": "DeFi",
+      "image": "https://raydium.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCLMM%26title%3DCLMM%26description%3DConcentrated-liquidity%2BAMM.%2BLiquidity%2Bis%2Bdeposited%2Binto%2Bprice%2Branges%2B%2528ticks%2529%253B%2Bpositions%2Bearn%2Bfees%2Bonly%2Bwhen%2Bthe%2Bprice%2Bis%2Bin%2Brange.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fraydium%252F_tRY-DXWaHnr_oNu%252Flogo%252Flight.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D_tRY-DXWaHnr_oNu%2526q%253D85%2526s%253D7085a1104d3b6b9db0f4cd6b94f94f90%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fraydium%252F_tRY-DXWaHnr_oNu%252Flogo%252Fdark.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D_tRY-DXWaHnr_oNu%2526q%253D85%2526s%253D345de52f38d0c938f8b68a04d6f81cbe%26primaryColor%3D%25238C6EFF%26lightColor%3D%2523A88BFF%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230A0514&w=1200&q=100"
+    },
+    {
+      "title": "CLMM Against a Constant-Product Pool",
+      "tldr": "The two designs compared directly, including the capital efficiency gain and the active management it quietly demands.",
+      "url": "https://smithii.io/en/clmm-vs-amm/",
+      "source": "Smithii",
+      "tag": "Finance",
+      "image": "https://smithii.io/wp-content/uploads/2025/06/CLMM-vs-AMM-main-differences.webp"
     }
   ]
 }

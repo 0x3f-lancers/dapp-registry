@@ -37,6 +37,22 @@
       "url": "https://medium.com/@etherscan/ethereums-killer-app-e2f3468642eb",
       "source": "Etherscan Blog",
       "publishedAt": "2017-04-10"
+    },
+    {
+      "title": "What Every Field on a Transaction Means",
+      "tldr": "Status, nonce, gas, input data and internal transfers, each explained. The page to keep open the first few times you look one up.",
+      "url": "https://info.etherscan.com/understanding-an-ethereum-transaction/",
+      "source": "Etherscan Information Centre",
+      "tag": "Payments",
+      "image": "https://info.etherscan.com/explorer/etherscan/og-preview.jpg"
+    },
+    {
+      "title": "Reading the Explorer Properly",
+      "tldr": "Why a contract interaction looks nothing like a plain transfer, and how to find the token movements hidden in the logs.",
+      "url": "https://blog.ambire.com/how-to-use-etherscan/",
+      "source": "Ambire",
+      "tag": "Infrastructure",
+      "image": "https://blog.ambire.com/content/images/size/w1200/2022/11/Etherscann.jpg"
     }
   ]
 }
