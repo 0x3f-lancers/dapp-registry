@@ -30,5 +30,28 @@
       "metatrust",
       "securedapp"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Every Challenge, Worked Through",
+      "tldr": "Full solutions to the wargame, with the reasoning left in. Most of the lessons still apply years after it launched.",
+      "url": "https://cmichel.io/capture-the-ether-solutions/",
+      "source": "cmichel",
+      "image": "https://cmichel.io/static/28465ff5d76016e2772f5cfb2c48b6ca/630fb/featured.png"
+    },
+    {
+      "title": "Breaking the Lottery Contracts",
+      "tldr": "Why on-chain randomness derived from block data is not random, demonstrated against contracts built to look convincing.",
+      "url": "https://medium.com/coinmonks/smart-contract-exploits-part-1-featuring-capture-the-ether-lotteries-8a061ad491b",
+      "source": "Coinmonks",
+      "tag": "Research"
+    },
+    {
+      "title": "Arithmetic as an Attack Surface",
+      "tldr": "Overflow, underflow and forced ether transfers via selfdestruct, each shown as a working exploit rather than a warning.",
+      "url": "https://medium.com/coinmonks/smart-contract-exploits-part-2-featuring-capture-the-ether-math-31a289da0427",
+      "source": "Coinmonks",
+      "tag": "Security"
+    }
+  ]
 }

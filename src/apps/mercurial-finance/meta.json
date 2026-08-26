@@ -30,5 +30,22 @@
       "lodestar-finance",
       "unilend-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Stable Assets That Do Not Sit Idle",
+      "tldr": "Dynamic vaults route pooled capital into lending markets while still backing swaps, so a provider stops choosing between fees and yield.",
+      "url": "https://medium.com/cryptobrosresearch/mercurial-finance-maximizing-utility-yield-of-stable-assets-on-solana-4f7191c46706",
+      "source": "Cryptobros Research",
+      "tag": "DeFi"
+    },
+    {
+      "title": "The Protocol, Documented",
+      "tldr": "Low-slippage stable swaps, dynamic fees and continuous rebalancing between external platforms, stated by the team.",
+      "url": "https://docs.mercurial.finance/mercurial/about/overview",
+      "source": "Mercurial Docs",
+      "tag": "Trading",
+      "image": "https://docs.mercurial.finance/mercurial/~gitbook/ogimage/-McDZoRi0yiMwbM1lQ9P"
+    }
+  ]
 }

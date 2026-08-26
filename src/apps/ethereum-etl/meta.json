@@ -31,5 +31,14 @@
       "mockthereum",
       "truffle-verify"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Every Export Command, Explained",
+      "tldr": "Exporting blocks, transactions, receipts and traces to CSV or JSON, with what each flag controls.",
+      "url": "https://ethereum-etl.readthedocs.io/en/latest/commands/",
+      "source": "Ethereum ETL Docs",
+      "tag": "Explainer"
+    }
+  ]
 }

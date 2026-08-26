@@ -40,5 +40,21 @@
       "quay",
       "synthetic-smart-contracts"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Account Abstraction in a Few Lines of React",
+      "tldr": "Dropping in a component that handles batched transactions, gas paid in stablecoins and social login without reworking your flow.",
+      "url": "https://moralis.com/web3-wiki/buidler-component/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What the Dashboard Adds Around It",
+      "tldr": "The team own write-up of the tooling that sits beside the component, and where each piece fits in a build.",
+      "url": "https://etherspot.io/blog/the-etherspot-dashboard-v1-0-launch-is-here/",
+      "source": "Etherspot",
+      "image": "https://etherspot.io/wp-content/uploads/2022/10/All-in-one-Web3-Dashboard.png"
+    }
+  ]
 }

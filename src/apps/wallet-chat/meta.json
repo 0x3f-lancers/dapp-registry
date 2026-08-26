@@ -32,5 +32,22 @@
       "omnia",
       "elk-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Your Address as Your Username",
+      "tldr": "Messaging where identity is a wallet rather than a phone number, with encryption and a widget dapps can drop in directly.",
+      "url": "https://www.walletchat.fun/",
+      "source": "WalletChat",
+      "tag": "Identity"
+    },
+    {
+      "title": "Where It Fits in a Dapp",
+      "tldr": "The integration side: the widget, the API, and the MetaMask snap that puts replies inside the wallet people already use.",
+      "url": "https://www.alchemy.com/dapps/wallet-chat",
+      "source": "Alchemy",
+      "tag": "Infrastructure",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=WalletChat&token=bced6c382cf523afbef792b12f6c5be737cf3800a13e9e094a3655ed5e600ed7"
+    }
+  ]
 }

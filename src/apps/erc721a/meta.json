@@ -29,5 +29,30 @@
     "related": [
       "opensea-stream-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where the Gas Savings Come From",
+      "tldr": "Minting one NFT costs 154,814 gas the old way and 76,690 here. Minting five saves over seven times. The mechanism behind that.",
+      "url": "https://www.alchemy.com/blog/erc721-vs-erc721a-batch-minting-nfts",
+      "source": "Alchemy Blog",
+      "tag": "Infrastructure",
+      "image": "https://media.alchemy.com/1703672992-2064-20pt.png"
+    },
+    {
+      "title": "The Three Optimisations Azuki Made",
+      "tldr": "Redesigned storage layout and ownership updated once per batch rather than per token. Plus the assumptions that buys.",
+      "url": "https://onekey.so/blog/ecosystem/erc-721a-how-azuki-optimized-batch-minting-and-gas-efficiency/",
+      "source": "OneKey Blog",
+      "tag": "Infrastructure",
+      "image": "https://asset-strapi.onekey.so/portal/strapi/generated_image_1760597035_1_4df8d3aee3.jpg"
+    },
+    {
+      "title": "Reading the Implementation",
+      "tldr": "A developer walking through the contract itself, which is the fastest way to see what the standard actually changed.",
+      "url": "https://kristaps.me/blog/solidity-erc-721-a-azuki/",
+      "source": "Kristaps Grinbergs",
+      "image": "https://kristaps.me/blog/solidity-erc-721-a-azuki/fb-og.png"
+    }
+  ]
 }

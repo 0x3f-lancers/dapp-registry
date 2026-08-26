@@ -29,5 +29,28 @@
       "dauth-network",
       "meeds"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Verifiable Credentials Work",
+      "tldr": "Everyone is talking about them and few can say what they are. Issuer, holder and verifier, defined properly.",
+      "url": "https://medium.com/veramo/how-verifiable-credentials-work-2648733abd59",
+      "source": "Veramo Blog",
+      "tag": "Identity"
+    },
+    {
+      "title": "Giving an AI Agent an Identity",
+      "tldr": "If agents act on your behalf, something has to establish who they are. Decentralised identifiers as the answer.",
+      "url": "https://medium.com/veramo/veramo-didcomm-bringing-identity-to-ai-f7efd1fbdf5d",
+      "source": "Veramo Blog",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "A Plugin System for Identity Agents",
+      "tldr": "The modular design behind the toolkit, and what building your own plugin involves.",
+      "url": "https://medium.com/veramo/announcing-the-veramo-agent-explorer-plugin-system-171c1c32d2a1",
+      "source": "Veramo Blog",
+      "tag": "Identity"
+    }
+  ]
 }

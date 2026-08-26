@@ -18,8 +18,9 @@
     "pageTitle": "Octopus - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/FuzzingLabs/octopus",
-    "twitter": "https://x.com/FuzzingLabs"
+    "website": "https://fuzzinglabs.com/",
+    "twitter": "https://x.com/FuzzingLabs",
+    "github": "https://github.com/FuzzingLabs/octopus"
   },
   "relations": {
     "alternatives": [
@@ -32,5 +33,15 @@
       "rattle",
       "kerberus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where Octopus Fits in Security Tooling",
+      "tldr": "The analysis tool for WebAssembly and EVM bytecode, set alongside the other fuzzing work from the same team.",
+      "url": "https://fuzzinglabs.com/fuzzer-fuzzing-products/",
+      "source": "FuzzingLabs",
+      "tag": "Security",
+      "image": "https://fuzzinglabs.com/wp-content/uploads/2020/08/website_1200_630.png"
+    }
+  ]
 }

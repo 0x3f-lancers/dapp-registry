@@ -31,5 +31,31 @@
       "hela-labs",
       "vanar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Running a Full Node",
+      "tldr": "Docker or Java, with the trade-offs of each spelled out before you commit to one.",
+      "url": "https://docs.alephium.org/full-node/getting-started",
+      "source": "Alephium Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.alephium.org/img/wiki-metadataimage.jpg"
+    },
+    {
+      "title": "Building Your First dApp",
+      "tldr": "The TypeScript SDK and the tooling around it, from an empty folder to something running.",
+      "url": "https://docs.alephium.org/dapps/tutorials/quick-start",
+      "source": "Alephium Docs",
+      "tag": "Tutorial",
+      "image": "https://docs.alephium.org/img/wiki-metadataimage.jpg"
+    },
+    {
+      "title": "Connecting to the Chain in TypeScript",
+      "tldr": "The SDK basics: connecting, reading state and submitting transactions.",
+      "url": "https://docs.alephium.org/sdk/getting-started",
+      "source": "Alephium Docs",
+      "tag": "Tutorial",
+      "image": "https://docs.alephium.org/img/wiki-metadataimage.jpg"
+    }
+  ]
 }

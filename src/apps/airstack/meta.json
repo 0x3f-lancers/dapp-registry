@@ -29,5 +29,15 @@
       "envio",
       "presearch"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying Onchain Data in One Request",
+      "tldr": "A worked build: ENS, Farcaster, POAPs and NFTs pulled through a single GraphQL query instead of four indexers.",
+      "url": "https://phala.com/posts/airstack-starter-kit",
+      "source": "Phala",
+      "tag": "Research",
+      "image": "https://phala.com/_next/image?url=%2Fapi%2Fmedia%2Fcovers%2F84cc5522a7da438ea72b65bb4f71108f-1758236940000.jpg&w=1200&q=75"
+    }
+  ]
 }

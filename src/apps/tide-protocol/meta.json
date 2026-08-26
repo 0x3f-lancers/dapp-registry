@@ -32,5 +32,29 @@
       "daobase-ai",
       "moni-social-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Credentials Instead of One-Off Airdrops",
+      "tldr": "Defining on-chain and off-chain triggers that issue badges, so retention is measured rather than bought once.",
+      "url": "https://www.alchemy.com/dapps/tide-protocol",
+      "source": "Alchemy",
+      "tag": "Identity",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=List%20of%20Web3%20credential%20tools&token=c5683c9bcd2f84689ee0a7c1b833cfc30209054b12ab2bfd4490bfdf36a1a8cd"
+    },
+    {
+      "title": "Spending a Marketing Budget on Wallets",
+      "tldr": "Using on-chain behaviour to target campaigns and resist Sybils, with the awkward question of what engagement is worth.",
+      "url": "https://medium.com/@Tide_web3/data-driven-insights-for-optimizing-web3-marketing-budgets-13a9b4bfe78e",
+      "source": "Tide Protocol",
+      "tag": "Payments"
+    },
+    {
+      "title": "Adding Proof of Human to Campaigns",
+      "tldr": "What integrating biometric humanity checks changes about who can farm a rewards campaign.",
+      "url": "https://medium.com/@Tide_web3/tide-protocol-integrates-with-the-humanode-chain-eca1c40d2c2f",
+      "source": "Tide Protocol",
+      "tag": "Infrastructure"
+    }
+  ]
 }

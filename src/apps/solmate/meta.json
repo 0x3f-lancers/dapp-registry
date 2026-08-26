@@ -31,5 +31,15 @@
       "webstudio",
       "nft-analyst-starter-pack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Minimal Contract Building Blocks",
+      "tldr": "Lean ERC-20, ERC-721 and vault implementations that trade some safety rails for bytecode size. What that trade-off means in practice.",
+      "url": "https://www.alchemy.com/dapps/solmate",
+      "source": "Alchemy",
+      "tag": "Tutorial",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Solmate&token=5201380bc969a1d595afe00192211536297c4cd7e7482b0b997ecd6bbf729c95"
+    }
+  ]
 }

@@ -3,8 +3,12 @@
   "name": "BetDEX Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745219/web3-explorer/dapp-logos/betdex.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "",
   "content": {
     "short": "BetDEX Exchange is a Web3 sports betting exchange.",
@@ -17,7 +21,30 @@
     "twitter": "https://x.com/BetDEXLabs"
   },
   "relations": {
-    "alternatives": ["evo-exchange", "cowswap", "uniswap"],
-    "related": ["jasper-vault", "stealthex"]
-  }
+    "alternatives": [
+      "evo-exchange",
+      "cowswap",
+      "uniswap"
+    ],
+    "related": [
+      "jasper-vault",
+      "stealthex"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Betting Against Other Punters, Not the House",
+      "tldr": "An exchange model where back and lay orders match on-chain, so nobody can close your account for winning too often.",
+      "url": "https://grahilkhandelwal.medium.com/a-deep-dive-into-betdex-and-web3-betting-ecosystem-843a83f450e9",
+      "source": "Medium",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "The Exchange, Reviewed From Outside",
+      "tldr": "An independent profile covering the Monaco Protocol underneath, the non-custodial model and how settlement actually reaches the winner.",
+      "url": "https://solanacompass.com/projects/betdex",
+      "source": "Solana Compass",
+      "tag": "Research"
+    }
+  ]
 }

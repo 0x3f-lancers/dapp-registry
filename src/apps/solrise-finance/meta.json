@@ -30,5 +30,28 @@
       "kromatika-finance",
       "aark"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "DeFi 101",
+      "tldr": "A structured course module rather than a blog post, covering the primitives before any specific protocol.",
+      "url": "https://solrise.medium.com/defi-101-40c302d63dc",
+      "source": "Solflare Academy",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Crypto Fundamentals",
+      "tldr": "The first course in the series, aimed at someone who has not yet made a transaction.",
+      "url": "https://medium.com/solrise-finance/crypto-fundamentals-ab6fa90427d2",
+      "source": "Solflare Academy",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Why Transaction Notifications Matter",
+      "tldr": "Signing on-chain opens doors you cannot close afterwards. What a warning at the right moment prevents.",
+      "url": "https://medium.com/solrise-finance/the-importance-of-solflares-protocol-notifications-3ff94f55dbe5",
+      "source": "Solrise Blog",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Ubn63hS5NiYTlO3J"
+    }
+  ]
 }

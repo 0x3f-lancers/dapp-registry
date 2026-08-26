@@ -34,5 +34,22 @@
       "celer-network",
       "kroma"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How the Swap Auction Works",
+      "tldr": "Drivers bid onchain to fill your cross-chain order, and the winner settles it atomically. The mechanism, in the protocol's own words.",
+      "url": "https://docs.mayan.finance/architecture/wh-swap",
+      "source": "Mayan Docs",
+      "tag": "Trading",
+      "image": "https://mayan.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DARCHITECTURE%26title%3DWormhole%2BSwap%26description%3DPermissionless%252C%2Bopen-source%2Bcross-chain%2Btoken%2Bswaps%2Bbuilt%2Bon%2BWormhole%2Bprimitives%2Band%2Bpowered%2Bby%2BMayan.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fmayan%252FIvxrs0esdid731no%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DIvxrs0esdid731no%2526q%253D85%2526s%253D1d8956e57978829816e2a2b2b4596ef0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fmayan%252FIvxrs0esdid731no%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DIvxrs0esdid731no%2526q%253D85%2526s%253Daeb3f239274998894ef55a8479547848%26primaryColor%3D%25236C2A87%26lightColor%3D%2523F4D9D7%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25231A1A1F&w=1200&q=100"
+    },
+    {
+      "title": "Intents, Not Routes",
+      "tldr": "Why an auction between solvers prices a cross-chain swap better than a fixed path, and what the driver takes on to do it.",
+      "url": "https://paragraph.com/@bitbytecrypto/VcN2vCrrjmjklHflin8K",
+      "source": "BitByte Crypto",
+      "tag": "Infrastructure"
+    }
+  ]
 }

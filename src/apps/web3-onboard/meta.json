@@ -37,5 +37,23 @@
     "related": [
       "kerberus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Adding a Connect Button",
+      "tldr": "Installing the core package, wiring injected wallets, and getting a multi-wallet connect flow running in a few minutes.",
+      "url": "https://web3onboard.thirdweb.com/docs/getting-started/installation",
+      "source": "Web3-Onboard Docs",
+      "tag": "Tutorial",
+      "image": "https://web3onboard.thirdweb.com/blocknative-onboard-og-image.png"
+    },
+    {
+      "title": "Wiring Up a Wallet Adaptor",
+      "tldr": "What an adaptor does between library and wallet, shown from the wallet vendor's side of the integration.",
+      "url": "https://web3.bitget.com/en/docs/guide/adaptor/web3-onboard/",
+      "source": "Bitget Wallet Docs",
+      "tag": "Infrastructure",
+      "image": "https://cdn.bitkeep.vip/operation/u_b_7e3a39a0-3492-11f0-b351-f3b6e40853e6.png"
+    }
+  ]
 }

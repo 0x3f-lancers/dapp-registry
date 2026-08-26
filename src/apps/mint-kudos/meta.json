@@ -30,5 +30,22 @@
       "metacrafters",
       "karma"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Recognition You Cannot Sell",
+      "tldr": "Non-transferable badges for contributions, which is what stops recognition turning into another tradable asset.",
+      "url": "https://www.alchemy.com/dapps/mint-kudos",
+      "source": "Alchemy",
+      "tag": "Payments",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Mint%20Kudos&token=31ba55a1bb65e8aa6fc81fd27c8304498368e41062d05ecb1ef02af616244993"
+    },
+    {
+      "title": "How a Kudos Gets Issued",
+      "tldr": "An address plus a description of what someone did, and a badge is generated from it. The no-code flow and the API behind it.",
+      "url": "https://moralis.com/web3-wiki/mint-kudos/",
+      "source": "Moralis",
+      "tag": "Identity"
+    }
+  ]
 }

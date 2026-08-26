@@ -30,5 +30,28 @@
       "huffmate",
       "tenderly"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Editor Built for Reading Contracts",
+      "tldr": "Security-centric highlighting, class outlines and call graphs, from the team that built it for their own audits.",
+      "url": "https://consensys.io/diligence/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/",
+      "source": "Consensys Diligence",
+      "tag": "Security"
+    },
+    {
+      "title": "An Auditor Reviews the Tool",
+      "tldr": "The audit and audit-ok bookmarks, function signature hashing, and which features survive contact with a real review.",
+      "url": "https://medium.com/@JohnnyTime/unleashing-the-power-of-solidity-visual-developer-a-smart-contract-auditors-review-5cb61e6472a4",
+      "source": "Medium",
+      "tag": "Security"
+    },
+    {
+      "title": "The Rest of the Toolbelt",
+      "tldr": "This extension set beside the other VS Code tools for contract work, which clarifies where each one stops.",
+      "url": "https://sm4rty.medium.com/top-5-vs-code-extensions-for-smart-contract-hacking-2022-528740a575c6",
+      "source": "Medium",
+      "tag": "Explainer"
+    }
+  ]
 }

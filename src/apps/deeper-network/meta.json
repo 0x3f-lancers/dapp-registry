@@ -31,5 +31,22 @@
       "orbit-db",
       "proofivy"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A 101 on Decentralised Private Networks",
+      "tldr": "Every node is both client and server, routing through residential connections instead of a provider's server farm.",
+      "url": "https://deeper-network.medium.com/a-101-on-dpns-bd5e2b7c9e25",
+      "source": "Deeper Network",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Living With the Device",
+      "tldr": "A hands-on account of setting up the router, sharing bandwidth and what the mining side actually returns.",
+      "url": "https://cryptomarketpool.com/how-to-use-a-deeper-connect-dpn/",
+      "source": "Crypto Market Pool",
+      "tag": "Tutorial",
+      "image": "https://cryptomarketpool.com/wp-content/uploads/2022/08/deeperConnect_mini-1.jpg"
+    }
+  ]
 }

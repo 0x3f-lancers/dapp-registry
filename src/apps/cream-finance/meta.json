@@ -30,5 +30,15 @@
       "position-exchange",
       "interport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a crToken Represents",
+      "tldr": "Every supported asset is wrapped in an EIP-20 contract that accrues interest. The mechanics, in full.",
+      "url": "https://docs.cream.finance/developer/crtokens",
+      "source": "C.R.E.A.M. Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.cream.finance/~gitbook/ogimage/-MY0LQuX9sgnQnSiYcQ1"
+    }
+  ]
 }

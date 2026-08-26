@@ -34,5 +34,30 @@
       "copper",
       "anchorage"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Liquidity Bootstrapping Pool Prices a Token",
+      "tldr": "The price starts high and falls as pool weights shift, which is what blunts sniper bots and lets demand find a level.",
+      "url": "https://help.fjordfoundry.com/fjord-foundry-docs/for-sale-participants/token-sale-types/liquidity-bootstrapping-pools-lbps",
+      "source": "Fjord Foundry Docs",
+      "tag": "DeFi",
+      "image": "https://help.fjordfoundry.com/fjord-foundry-docs/~gitbook/ogimage/vBCVi6lUKtixirrZ1UaG"
+    },
+    {
+      "title": "Running an LBP as a Project",
+      "tldr": "The setup from the issuer's side, including why you can start with far less paired capital than a conventional launch.",
+      "url": "https://help.fjordfoundry.com/fjord-foundry-docs/for-sale-creators/how-to-create-a-sale/how-to-create-an-lbp",
+      "source": "Fjord Foundry Docs",
+      "tag": "Finance",
+      "image": "https://help.fjordfoundry.com/fjord-foundry-docs/~gitbook/ogimage/1ocpOdR3cDAwFoRG8aKC"
+    },
+    {
+      "title": "The Questions Sale Creators Actually Ask",
+      "tldr": "An FAQ that covers the awkward parts — weight schedules, failed sales and what happens if nobody buys.",
+      "url": "https://help.fjordfoundry.com/fjord-foundry-docs/for-sale-creators/faqs-creators/lbp-faq",
+      "source": "Fjord Foundry Docs",
+      "image": "https://help.fjordfoundry.com/fjord-foundry-docs/~gitbook/ogimage/GTFnHj6onrwIdvFHte8y"
+    }
+  ]
 }

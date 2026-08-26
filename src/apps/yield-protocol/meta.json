@@ -32,5 +32,21 @@
       "opium",
       "dolomite"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Zero-Coupon Bond, On Chain",
+      "tldr": "fyTokens pay no interest. They trade at a discount and redeem one-to-one at maturity, and the gap between the two is the rate.",
+      "url": "https://medium.com/yield-protocol/introducing-ydai-43a727b96fc7",
+      "source": "Yield Protocol",
+      "tag": "Payments"
+    },
+    {
+      "title": "Why Fixed Rates Were Missing From DeFi",
+      "tldr": "The history of fixed-rate lending on Ethereum and the design problems each attempt ran into. Good context before the mechanics.",
+      "url": "https://albaronventures.com/the-emergence-of-fixed-rate-lending-in-defi/",
+      "source": "Albaron Ventures",
+      "tag": "DeFi"
+    }
+  ]
 }

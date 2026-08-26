@@ -31,5 +31,28 @@
       "polygon",
       "gnosis-chain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "One Identity Across Wallets and Logins",
+      "tldr": "Binding several addresses and social accounts into a single sign-in, and the zero-knowledge step that keeps them unlinked publicly.",
+      "url": "https://www.matchain.io/blog/matchain-revolutionizing-web3-identity",
+      "source": "Matchain",
+      "tag": "Identity"
+    },
+    {
+      "title": "Data Sovereignty on an OP Stack L2",
+      "tldr": "The argument for keeping AI training data user-owned, and what the chain architecture does to make that enforceable.",
+      "url": "https://www.matchain.io/blog/pioneering-decentralized-ai-and-data-sovereignty-on-the-bnb-chain",
+      "source": "Matchain",
+      "tag": "Research"
+    },
+    {
+      "title": "An Outside Analysis",
+      "tldr": "Independent coverage of the rollup design, the proof-of-humanity staking and where the token is actually used.",
+      "url": "https://www.bitrue.com/blog/what-is-matchain-decentralized-ai-platform",
+      "source": "Bitrue",
+      "tag": "Research"
+    }
+  ]
 }

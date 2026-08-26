@@ -39,5 +39,23 @@
       "ronin",
       "pillar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Settling Across Borders in Crypto",
+      "tldr": "What a global settlement flow looks like when the rails are crypto rather than correspondent banking.",
+      "url": "https://cregis.com/cross-border-payment",
+      "source": "Cregis",
+      "tag": "Payments",
+      "image": "https://www.cregis.com/opengraph.jpg"
+    },
+    {
+      "title": "A Zero-Trust Custody Framework",
+      "tldr": "How custody is structured so no single party can move funds alone. The security model, stated.",
+      "url": "https://cregis.com/trust-vault-security-framework",
+      "source": "Cregis",
+      "tag": "Security",
+      "image": "https://www.cregis.com/opengraph.jpg"
+    }
+  ]
 }

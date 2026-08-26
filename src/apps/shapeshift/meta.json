@@ -3,7 +3,9 @@
   "name": "ShapeShift DAO",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749839/web3-explorer/dapp-logos/shapeshift.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Ethereum",
     "Bitcoin",
@@ -24,7 +26,31 @@
     "twitter": "https://x.com/shapeshift"
   },
   "relations": {
-    "alternatives": ["clipper-dex", "fibrous-finance", "balancer"],
-    "related": ["pika-protocol", "bydfi"]
-  }
+    "alternatives": [
+      "clipper-dex",
+      "fibrous-finance",
+      "balancer"
+    ],
+    "related": [
+      "pika-protocol",
+      "bydfi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Vocabulary of a DAO That Replaced a Company",
+      "tldr": "Workstreams, proposals and treasury terms defined, which is the fastest way to understand how the handover actually works.",
+      "url": "https://shapeshift.zendesk.com/hc/en-us/articles/4405155758989-ShapeShift-DAO-Terminology",
+      "source": "ShapeShift Help",
+      "tag": "Governance",
+      "image": "https://shapeshift.zendesk.com/hc/theming_assets/01HZH7J7YRFA7CCHC4Y3TZV5S1"
+    },
+    {
+      "title": "What FOX Is Actually For",
+      "tldr": "Governance, fee sharing and staking, plus the capped supply. A long look at where the token value is meant to come from.",
+      "url": "https://www.bitrue.com/blog/shapeshift-fox-token-guide",
+      "source": "Bitrue",
+      "tag": "DeFi"
+    }
+  ]
 }

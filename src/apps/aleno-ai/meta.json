@@ -42,5 +42,23 @@
       "solana-floor",
       "omnia"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Detecting a Hack While It Happens",
+      "tldr": "A write-up of the model itself — features, training and what it flags — rather than a product claim.",
+      "url": "https://aleno.ai/blog/hack-detection-ml-model",
+      "source": "Aleno Blog",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/sBhP9xNZhCwxJSXBiHvij10kJk.png"
+    },
+    {
+      "title": "Alerting on On-Chain Market Moves",
+      "tldr": "What is worth alerting on, and the design problem of staying useful without becoming noise.",
+      "url": "https://aleno.ai/blog/on-chain-markets-alerting-system",
+      "source": "Aleno Blog",
+      "tag": "Explainer",
+      "image": "https://framerusercontent.com/images/sBhP9xNZhCwxJSXBiHvij10kJk.png"
+    }
+  ]
 }

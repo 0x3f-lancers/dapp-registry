@@ -33,5 +33,21 @@
       "metopia",
       "sourcecred"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Web3 Has No Working Reputation",
+      "tldr": "The problem before the product: wallets are free to create, so any score has to survive people simply making a new one.",
+      "url": "https://reputex.medium.com/unlocking-reputation-in-web3-challenges-and-solutions-1112a44e74ac",
+      "source": "ReputeX",
+      "tag": "Identity"
+    },
+    {
+      "title": "Scoring People Without Exposing Them",
+      "tldr": "The tension between a transparent ledger and a private score, and the granular controls proposed to resolve it.",
+      "url": "https://reputex.medium.com/privacy-transparency-the-balancing-act-of-web3-reputation-5e9e684c7370",
+      "source": "ReputeX",
+      "tag": "Security"
+    }
+  ]
 }

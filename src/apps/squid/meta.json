@@ -38,5 +38,31 @@
       "cubanespace",
       "decimal"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blockchains as Settlement, Not Execution",
+      "tldr": "One design principle drives the whole system: move off-chain everything that does not have to settle.",
+      "url": "https://docs.squidrouter.com/additional-resources/architecture",
+      "source": "Squid Docs",
+      "tag": "Payments",
+      "image": "https://docs.squidrouter.com/~gitbook/image?url=https%3A%2F%2F4247625265-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtXbXyuWIO2PwzNc5Dets%252Fsocialpreview%252FfiL1IYK0K7LATbqa858v%252FDevDocs.png%3Falt%3Dmedia%26token%3Da060ba0f-a113-413b-96d8-2551a1938422&width=1200&height=630&sign=4038ddf1&sv=2"
+    },
+    {
+      "title": "The Concepts Behind a Cross-Chain Swap",
+      "tldr": "The ideas shared across the widget, API and SDK. Read these before any integration guide.",
+      "url": "https://docs.squidrouter.com/api-and-sdk-integration/key-concepts",
+      "source": "Squid Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.squidrouter.com/~gitbook/image?url=https%3A%2F%2F4247625265-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtXbXyuWIO2PwzNc5Dets%252Fsocialpreview%252FfiL1IYK0K7LATbqa858v%252FDevDocs.png%3Falt%3Dmedia%26token%3Da060ba0f-a113-413b-96d8-2551a1938422&width=1200&height=630&sign=4038ddf1&sv=2"
+    },
+    {
+      "title": "What Has Been Audited",
+      "tldr": "The security posture stated plainly, which is the first thing to check before routing value through a bridge.",
+      "url": "https://docs.squidrouter.com/additional-resources/audits-and-security",
+      "source": "Squid Docs",
+      "tag": "Security",
+      "image": "https://docs.squidrouter.com/~gitbook/image?url=https%3A%2F%2F4247625265-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtXbXyuWIO2PwzNc5Dets%252Fsocialpreview%252FfiL1IYK0K7LATbqa858v%252FDevDocs.png%3Falt%3Dmedia%26token%3Da060ba0f-a113-413b-96d8-2551a1938422&width=1200&height=630&sign=4038ddf1&sv=2"
+    }
+  ]
 }

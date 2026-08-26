@@ -32,5 +32,31 @@
     "related": [
       "degenscore"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What an ENS Subdomain Really Is",
+      "tldr": "The concept before the API: why giving every user a name under one domain differs from selling them each a name of their own.",
+      "url": "https://namestone.com/blog/ens-subdomains",
+      "source": "NameStone",
+      "tag": "Identity",
+      "image": "https://namestone.com/opengraph-image.jpg"
+    },
+    {
+      "title": "Issuing Names Without Gas",
+      "tldr": "The gasless DNS setup, covering offchain resolution and how a name still verifies for anyone who looks it up.",
+      "url": "https://namestone.com/docs/gasless-dns",
+      "source": "NameStone Docs",
+      "tag": "Infrastructure",
+      "image": "https://namestone.com/opengraph-image.jpg"
+    },
+    {
+      "title": "Subdomains, From the ENS Side",
+      "tldr": "The protocol documentation on subname issuance, which is the ground truth any provider is building against.",
+      "url": "https://docs.ens.domains/web/subdomains/",
+      "source": "ENS Docs",
+      "tag": "Identity",
+      "image": "https://docs.ens.domains/api/og?title=Subdomains"
+    }
+  ]
 }

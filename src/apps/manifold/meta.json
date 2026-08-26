@@ -31,5 +31,31 @@
       "blockasset",
       "foundation"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Owning Your Own Contract",
+      "tldr": "The alternative to minting into a marketplace's shared contract, and what creators keep by deploying their own.",
+      "url": "https://manifoldxyz.substack.com/p/manifold-studio",
+      "source": "Manifold Blog",
+      "tag": "Tokenization",
+      "image": "https://substackcdn.com/image/fetch/$s_!15-E!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F344ac008-7ad0-4851-a3b2-4032b61a9510_1402x786.png"
+    },
+    {
+      "title": "From No-Code Mint to Open Edition",
+      "tldr": "A long walkthrough covering deployment, royalties and airdrops, including the real gas costs per chain.",
+      "url": "https://nftevening.com/manifold-studio-guide-from-no-code-nfts-to-open-edition-nft-minting/",
+      "source": "NFT Evening",
+      "tag": "Tokenization",
+      "image": "https://nftevening.com/wp-content/uploads/2023/03/Manifold-Studio-Guide-From-No-Code-NFTs-to-Open-Edition-NFT-Minting-PINK.png"
+    },
+    {
+      "title": "The Creator Contract Architecture",
+      "tldr": "An extended ERC-721 and ERC-1155 design with an extensions framework. What that lets a token do that a standard one cannot.",
+      "url": "https://docs.manifold.xyz/manifold-for-developers/smart-contracts/manifold-creator",
+      "source": "Manifold Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.manifold.xyz/~gitbook/image?url=https%3A%2F%2F2048822672-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fg8kphrWjLxTXoT7DG8WJ%252Fsocialpreview%252F8grN8MoS04HiAlaNwhVX%252FRecurso%252011%25402x.png%3Falt%3Dmedia%26token%3Daee93a9c-6374-470f-a518-04cbc6b144fd&width=1200&height=630&sign=20fb7652&sv=2"
+    }
+  ]
 }

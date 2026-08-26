@@ -46,5 +46,28 @@
       "ethlint",
       "sygnum-web3-recovery"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Year of Web3 Attacks, Counted",
+      "tldr": "On-chain analysis of the exploits across a full year, grouped by attack type. More useful than any single incident report.",
+      "url": "https://medium.com/@sharkteam/annual-web3-security-report-2022-dacd25e5c931",
+      "source": "SharkTeam",
+      "tag": "Security"
+    },
+    {
+      "title": "Judging a Stablecoin From Its Chain Data",
+      "tldr": "Assessing backing and concentration from on-chain evidence rather than attestations. A method, applied.",
+      "url": "https://medium.com/@sharkteam/sharkteam-assessing-the-security-and-regulation-of-stablecoins-from-on-chain-data-84035a3fe17a",
+      "source": "SharkTeam",
+      "tag": "Payments"
+    },
+    {
+      "title": "The Services in Summary",
+      "tldr": "Audits, the ChainAegis graph analysis platform and incident response. A short reference on what each covers.",
+      "url": "https://moralis.com/web3-wiki/sharkteam/",
+      "source": "Moralis",
+      "tag": "Security"
+    }
+  ]
 }

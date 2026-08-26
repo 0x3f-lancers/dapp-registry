@@ -35,5 +35,29 @@
       "safestake",
       "foundry"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Writing Your First Contract in the Browser",
+      "tldr": "Compile, deploy and interact without installing a toolchain. Useful for seeing which parts of local setup you were not missing.",
+      "url": "https://medium.com/white-matrix/how-to-create-a-smart-contract-941c045ae8b2",
+      "source": "ChainIDE",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Deploying to BNB Chain Testnet",
+      "tldr": "A chain team own walkthrough, covering MetaMask, testnet funds and the compile-deploy loop end to end.",
+      "url": "https://www.bnbchain.org/en/blog/chain-ide-tutorial",
+      "source": "BNB Chain",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/f4/1b/f41b2cc7-c557-4fb7-82f5-ff223a27dcc6/content/images/2021/02/Screen-Shot-2021-01-27-at-7.49.21-PM-1.png"
+    },
+    {
+      "title": "The Same IDE Against Conflux",
+      "tldr": "Conflux documentation for building on Core Space, which shows how little changes when the target chain does.",
+      "url": "https://doc.confluxnetwork.org/docs/core/tutorials/chainide/",
+      "source": "Conflux Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

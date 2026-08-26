@@ -29,5 +29,21 @@
       "underdog-protocol",
       "pnthn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Verifying a W3C Credential",
+      "tldr": "The first release of a verifier for the standard, and what conformance to it actually buys.",
+      "url": "https://medium.com/dock/dock-releases-the-first-w3c-credential-verifier-30e08b9031c0",
+      "source": "Dock Blog",
+      "tag": "Identity"
+    },
+    {
+      "title": "The Issuer's Role in a Credential System",
+      "tldr": "Who signs a claim, what they are attesting to, and the responsibility that comes with it.",
+      "url": "https://medium.com/dock/issuers-role-in-the-dock-ecosystem-4270261ed160",
+      "source": "Dock Blog",
+      "tag": "Identity"
+    }
+  ]
 }

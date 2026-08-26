@@ -38,5 +38,28 @@
       "pnthn",
       "noox"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Credit Score Built From On-Chain Behaviour",
+      "tldr": "What goes into the FICO Crypto Credit Score, and the awkward question of scoring a borrower who can simply make a new wallet.",
+      "url": "https://medium.com/@centicio/an-introduction-to-fico-crypto-credit-score-22f3f41a429",
+      "source": "Centic",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Joining Web2 Records to Web3 Wallets",
+      "tldr": "The case for mixing off-chain data into on-chain scoring, and the three ways a protocol can consume the result.",
+      "url": "https://medium.com/@centicio/centic-a-gateway-to-connect-web2-and-web3-18107ee6f337",
+      "source": "Centic",
+      "tag": "Research"
+    },
+    {
+      "title": "The Same Borrower, Scored on Different Chains",
+      "tldr": "A comparison across networks showing how much a score shifts with the lending market it was measured in.",
+      "url": "https://medium.com/@centicio/a-comparison-of-centic-fico-credit-score-across-blockchain-networks-24417d9c4bf1",
+      "source": "Centic",
+      "tag": "DeFi"
+    }
+  ]
 }

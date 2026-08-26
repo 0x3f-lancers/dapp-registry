@@ -35,5 +35,21 @@
       "slerftools",
       "enso"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Recurring Payments Without Recurring Signatures",
+      "tldr": "One approval delegates future charges to a contract, so a subscription can bill without the user signing every month.",
+      "url": "https://loopcrypto.medium.com/introducing-loop-crypto-e2579d81006f",
+      "source": "Loop Crypto",
+      "tag": "Payments"
+    },
+    {
+      "title": "The Friction Between Users and Onchain Commerce",
+      "tldr": "The founders on why crypto had no direct debit, and what had to be built before subscriptions could work at all.",
+      "url": "https://medium.com/fabric-ventures/inside-loopcrypto-the-founders-fixing-the-friction-between-users-onchain-commerce-5e577fbb28d6",
+      "source": "Fabric Ventures",
+      "tag": "Finance"
+    }
+  ]
 }

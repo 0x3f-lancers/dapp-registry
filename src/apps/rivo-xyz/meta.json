@@ -33,5 +33,21 @@
     "related": [
       "trezor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Wallet With No Seed Phrase",
+      "tldr": "Account abstraction and a social login, plus paying gas in any token. What that changes for a first-time DeFi user.",
+      "url": "https://medium.com/@rivoxyz/rivo-xyz-smart-contract-wallet-an-all-in-one-solution-for-defi-users-91fff531a921",
+      "source": "Rivo.xyz",
+      "tag": "Security"
+    },
+    {
+      "title": "Picking a Yield Strategy",
+      "tldr": "How strategies are screened on risk against reward, and what one-click entry and exit actually does under the hood.",
+      "url": "https://medium.com/@rivoxyz/how-to-earn-yield-with-rivo-defi-marketplace-35021401db39",
+      "source": "Rivo.xyz",
+      "tag": "DeFi"
+    }
+  ]
 }

@@ -30,5 +30,30 @@
     "related": [
       "ronin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Self-Custody, Explained by the Team",
+      "tldr": "A primer on holding your own assets through a Safe-backed multisig, and what the interface does and does not control.",
+      "url": "https://linen.app/articles/crypto-assets-self-custody-linen-wallet-primer",
+      "source": "Linen",
+      "tag": "Security",
+      "image": "https://pbs.twimg.com/profile_images/1647932324212768768/YD41_VA1_400x400.jpg"
+    },
+    {
+      "title": "Why Multiple Signatures Change the Risk",
+      "tldr": "In a 2-of-3 setup an attacker needs two separate keys. The threshold model, and the recovery options it opens up.",
+      "url": "https://chain.link/article/multi-signature-wallet",
+      "source": "Chainlink",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/5f75fe1dce99248be5a892db/69853a609fcf51eac36e84e1_Education-Hub-Article-Banner-Template---20-(4).jpeg"
+    },
+    {
+      "title": "MPC Against Smart Contract Wallets",
+      "tldr": "The two roads to seedless self-custody compared, with the trade-offs each makes on recovery and on-chain cost.",
+      "url": "https://medium.com/1kxnetwork/wallets-91c7c3457578",
+      "source": "1kx",
+      "tag": "Security"
+    }
+  ]
 }

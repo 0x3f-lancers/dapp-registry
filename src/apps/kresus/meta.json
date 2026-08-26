@@ -34,5 +34,23 @@
     "related": [
       "frontier-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Self-Custody Without a Seed Phrase",
+      "tldr": "MPC and account abstraction combined so keys never sit on the phone, and recovery still works when email access is gone.",
+      "url": "https://docs.kresus.com/introduction/quickstart",
+      "source": "Kresus Docs",
+      "tag": "Security",
+      "image": "https://docs.kresus.com/~gitbook/ogimage/CyH2xJQs9yWJ1S8BYNav"
+    },
+    {
+      "title": "An Outside Look at the SuperApp",
+      "tldr": "Independent coverage of the vault, the insurance cover and the inheritance planning that sits on top of it.",
+      "url": "https://financefeeds.com/kresus-superapp-the-crypto-all-in-one-solution/",
+      "source": "FinanceFeeds",
+      "tag": "DeFi",
+      "image": "https://financefeeds.com/wp-content/uploads/2024/01/ab8fb628-00ac-4883-a4da-da195eb4d115.jpg"
+    }
+  ]
 }

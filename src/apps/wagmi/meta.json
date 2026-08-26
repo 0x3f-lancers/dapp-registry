@@ -29,5 +29,22 @@
       "blast",
       "cobo-arugs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building a Frontend With wagmi",
+      "tldr": "A full walkthrough from create-wagmi to reading contract state and sending a transaction, with viem underneath.",
+      "url": "https://www.quicknode.com/guides/ethereum-development/dapps/building-dapps-with-wagmi",
+      "source": "QuickNode",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Getting Started, From the Source",
+      "tldr": "Config, connectors and the query client. The official setup, including the caching behaviour people usually discover late.",
+      "url": "https://wagmi.sh/react/getting-started",
+      "source": "wagmi",
+      "tag": "Tutorial",
+      "image": "https://wagmi.sh/og.png"
+    }
+  ]
 }
