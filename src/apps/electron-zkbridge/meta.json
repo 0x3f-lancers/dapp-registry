@@ -34,28 +34,28 @@
   },
   "resources": [
     {
-      "title": "How a Proof Travels Through Aggregation",
-      "tldr": "From a protocol generating its own proof to the aggregated result landing on Ethereum. Every stage named.",
-      "url": "https://docs.electron.dev/quantum-proof-aggregation-for-ethereum/proof-lifecycle-and-architecture",
-      "source": "Electron Labs Docs",
+      "title": "Bridging on Proofs, Not Trust",
+      "tldr": "Ed25519 verification compiled into EVM-friendly circuits, which is what lets a Cosmos-to-Ethereum hop cost under a dollar.",
+      "url": "https://www.alchemy.com/dapps/electron-zkbridge",
+      "source": "Alchemy",
       "tag": "Trading",
-      "image": "https://docs.electron.dev/~gitbook/ogimage/JOEk99OzE1DiptihlZH3"
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Electron%20zkBridge&token=42528f6842e1d9ddc2372ba28056945c1ee5bd3d375151e50a2902b0b540bcb7"
     },
     {
       "title": "Why Aggregate Proofs at All",
-      "tldr": "Verification cost is the bottleneck on scaling ZK. The case for batching, stated before the mechanics arrive.",
-      "url": "https://docs.electron.dev/quantum-proof-aggregation-for-ethereum",
-      "source": "Electron Labs Docs",
+      "tldr": "Verifying one recursive proof instead of many is the whole economic argument for an aggregation layer.",
+      "url": "https://www.ingonyama.com/post/bridging-the-multichain-universe-with-zero-knowledge-proofs",
+      "source": "Ingonyama",
       "tag": "Infrastructure",
-      "image": "https://docs.electron.dev/~gitbook/ogimage/XXYcfnzS7MpYHfGEEfZy"
+      "image": "https://cdn.prod.website-files.com/63970f25aa7b42e284492d52/6802438f3b08c57fdaecbc67_68.jpg"
     },
     {
-      "title": "Integrating With Quantum",
-      "tldr": "The concrete steps a protocol takes to plug into proof aggregation, worked through with a real example.",
-      "url": "https://docs.electron.dev/quantum-proof-aggregation-for-ethereum/developer-tutorial-for-integrating-quantum",
-      "source": "Electron Labs Docs",
+      "title": "The End of Trusted Bridges",
+      "tldr": "Every large bridge hack traces back to a multisig. What replacing that committee with a proof actually changes.",
+      "url": "https://blockeden.xyz/blog/2025/09/21/zk-cross-chain-interoperability-trust-minimized-bridges/",
+      "source": "BlockEden",
       "tag": "Security",
-      "image": "https://docs.electron.dev/~gitbook/ogimage/0vDaSZsCxHy0esPx5JP0"
+      "image": "https://opengraph-image.blockeden.xyz/api/og-blockeden-xyz?title=The%20End%20of%20Trusted%20Bridges%3A%20How%20Zero-Knowledge%20Proofs%20Are%20Rewriting%20Cross-Chain%20Security"
     }
   ]
 }
