@@ -31,5 +31,15 @@
       "whal3s",
       "foundry"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An EVM Running Inside the EVM",
+      "tldr": "A stripped-down virtual machine built in Yul and Solidity, as a memory-management exercise that points toward Solidity scripting.",
+      "url": "https://www.alchemy.com/dapps/solvm",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Solvm&token=7f5b8e9bbaf39e3998a0a7746d4ed1e1e1716cb1b92aeaefafa7e97683789361",
+      "tag": "Infrastructure"
+    }
+  ]
 }

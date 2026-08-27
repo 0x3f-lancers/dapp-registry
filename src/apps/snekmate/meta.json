@@ -30,5 +30,22 @@
     "related": [
       "webstudio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Vyper Building Blocks",
+      "tldr": "Authentication, tokens and utility modules written for Vyper rather than ported from Solidity habits.",
+      "url": "https://www.alchemy.com/dapps/snekmate",
+      "source": "Alchemy",
+      "tag": "Tutorial",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Snekmate&token=26de7b35919d30179f1ddf7f7f5dc3b93c0fd9fd70b64a60d72c82b3fac0e626"
+    },
+    {
+      "title": "What Has and Has Not Been Audited",
+      "tldr": "No full audit yet, though modules pulled into Curve were reviewed there. Worth knowing before you import one.",
+      "url": "https://moralis.com/web3-wiki/snekmate/",
+      "source": "Moralis",
+      "tag": "Security"
+    }
+  ]
 }

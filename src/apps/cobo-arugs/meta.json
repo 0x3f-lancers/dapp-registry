@@ -29,5 +29,21 @@
     "related": [
       "walletkit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Delegating DeFi Without Handing Over Keys",
+      "tldr": "Role-based permissions down to the function and parameter, so a bot can harvest rewards but cannot move the treasury.",
+      "url": "https://www.cobo.com/post/how-to-use-safe-based-cobo-argus-for-defi-auto-farming-and-risk-management",
+      "source": "Cobo",
+      "tag": "Governance"
+    },
+    {
+      "title": "Built as a Safe Module",
+      "tldr": "Sitting on top of Safe rather than replacing it, which is what makes the access-control rules enforceable on-chain.",
+      "url": "https://www.alchemy.com/dapps/cobo-arugs",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Cobo%20Argus&token=daf19cb6c631a4d2a5e5e32bc3c6309f4bdd7df133f43d5e1be29c62c57d5403"
+    }
+  ]
 }

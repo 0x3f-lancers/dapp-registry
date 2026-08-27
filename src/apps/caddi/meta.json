@@ -33,5 +33,23 @@
       "binance-us",
       "robinhood"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Extension That Checks Your Swap",
+      "tldr": "It intercepts a trade before it reaches the wallet, compares prices across venues, and blocks transactions that look malicious.",
+      "url": "https://www.alchemy.com/dapps/caddi",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=List%20of%20Crypto%20trading%20tools&token=8c68f1efc230a25d37034306857fed5d7fc52008614d0015c1154ea0851b7488",
+      "tag": "Trading"
+    },
+    {
+      "title": "Why Bridge Aggregation Matters",
+      "tldr": "A long practical piece on comparing bridges on rate and fee rather than picking whichever one the app defaults to.",
+      "url": "https://medium.com/@JohnnyTime/stop-using-defi-bridges-the-ultimate-guide-to-caddi-d88d52093f0e",
+      "source": "Johnny Time",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*PhLH_-z8w6U5hThO2G6x8w.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

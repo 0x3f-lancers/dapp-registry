@@ -36,5 +36,15 @@
       "solhint-prettier-plugin",
       "cryptolock"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Catching an Exploit While It Runs",
+      "tldr": "Behavioural models watching the mempool and contract calls, aiming to flag an attack before the funds have finished moving.",
+      "url": "https://www.alchemy.com/dapps/cyvers",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Cyvers&token=c9adb4e4570d0747cbddc21f70526931dedd4230df5986908f411b7d8a0ebecd",
+      "tag": "Security"
+    }
+  ]
 }

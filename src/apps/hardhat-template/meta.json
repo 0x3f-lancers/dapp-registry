@@ -30,5 +30,22 @@
       "beamer-bridge",
       "solady"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Project With the Decisions Made",
+      "tldr": "Ethers, TypeChain, Solhint and coverage already wired together, so the first commit is a contract rather than config.",
+      "url": "https://www.alchemy.com/dapps/hardhat-template",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Hardhat%20Template&token=fad512c28dd67f3115c1f5a21eb5e93e25a0e1edcd1ab4b05a18f9628193a300"
+    },
+    {
+      "title": "Setting One Up by Hand",
+      "tldr": "The manual path a template short-circuits. Worth doing once so you know what each config file is actually for.",
+      "url": "https://v2.hardhat.org/hardhat-runner/docs/guides/project-setup",
+      "source": "Hardhat Docs",
+      "image": "https://v2.hardhat.org/card.jpg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

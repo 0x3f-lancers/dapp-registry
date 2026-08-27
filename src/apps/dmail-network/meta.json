@@ -32,5 +32,23 @@
       "coordinape",
       "anyalt"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Mail Addressed to a Wallet",
+      "tldr": "Messages keyed to DIDs, NFT domains or plain addresses, encrypted end to end and stored off the provider's servers.",
+      "url": "https://learn.bybit.com/en/web3/what-is-dmail-network",
+      "source": "Bybit Learn",
+      "image": "https://www.bybit.com/common-static/fht-static/cms/cs-assets/blt7922feec927cc169/2eb81f2976f31f8a2277a6a80d7c8072.png",
+      "tag": "Security"
+    },
+    {
+      "title": "How Decentralised Email Works",
+      "tldr": "What changes when the mailbox is not held by a company: delivery, storage and the awkward question of spam.",
+      "url": "https://indodax.com/academy/en/understanding-dmail-network-decentralized-email-web3/",
+      "source": "Indodax Academy",
+      "image": "https://indodax.com/academy/wp-content/uploads/2025/12/Mengenal-Dmail-Network-dan-Email-Terdesentralisasi_1.webp",
+      "tag": "Infrastructure"
+    }
+  ]
 }

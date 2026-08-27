@@ -33,5 +33,15 @@
       "solidity-code-coverage",
       "abitype"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where the Endpoints Live",
+      "tldr": "One subgraph per chain, and the transferId that ties an origin xcall to its destination. The reference you actually need.",
+      "url": "https://docs.connext.network/resources/subgraphs",
+      "source": "Connext Docs",
+      "image": "https://docs.connext.network/~gitbook/image?url=https%3A%2F%2F858160501-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGwOvqA6nETuFs4yvrBGy%252Fsocialpreview%252FCbOq8FQFQfwDAd9e8FEe%252Fconnext-social-share.png%3Falt%3Dmedia%26token%3D97b7078c-268a-41ed-8c61-2ce082b2121e&width=1200&height=630&sign=4f9784a26b3a0e5c17d4b7c587f88c8a&sv=3",
+      "tag": "Infrastructure"
+    }
+  ]
 }

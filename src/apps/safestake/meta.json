@@ -31,5 +31,23 @@
       "kevm",
       "quicknode-sdk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Splitting a Validator Key",
+      "tldr": "DVT shares one signing key across a cluster, so no single machine holds it and no single failure takes the validator down.",
+      "url": "https://ethereum.org/staking/dvt/",
+      "source": "ethereum.org",
+      "image": "https://ethereum.org/images/upgrades/upgrade_rhino.png",
+      "tag": "DeFi"
+    },
+    {
+      "title": "DVT in Practice",
+      "tldr": "Distributed key generation, mini-pools and what changes operationally when several operators run one validator between them.",
+      "url": "https://medium.com/ethereum-on-steroids/understanding-distributed-validator-technology-dvt-on-ethereum-an-analysis-of-its-implementation-2a5dc1e3e880",
+      "source": "SafeStake",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*uEUn004c8SjUSXBQjXqAtw.png",
+      "tag": "DeFi"
+    }
+  ]
 }

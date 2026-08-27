@@ -29,5 +29,22 @@
       "tradingview",
       "blockradar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Paying Less by Waiting",
+      "tldr": "Sign the transaction now, submit it when the base fee drops. Non-custodial, because a signed transaction cannot be altered.",
+      "url": "https://www.alchemy.com/dapps/gashawk",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=List%20of%20Gas%20tools&token=75b16c7cc5590c3407b8439f9884d3814a6dfc5fa223debddd4526d0c3365dc5",
+      "tag": "Payments"
+    },
+    {
+      "title": "Which Transactions Can Actually Wait",
+      "tldr": "Transfers, staking and deployments tolerate a delay; a swap usually does not. Knowing the difference is the whole saving.",
+      "url": "https://moralis.com/web3-wiki/gashawk/",
+      "source": "Moralis",
+      "tag": "Payments"
+    }
+  ]
 }

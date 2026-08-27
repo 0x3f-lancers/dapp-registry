@@ -31,5 +31,22 @@
       "etheno",
       "replit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What the K Framework Does",
+      "tldr": "Write a language's semantics once and get an interpreter and a verifier out of it. The idea KEVM applies to EVM bytecode.",
+      "url": "https://runtimeverification.com/blog/k-framework-an-overview",
+      "source": "Runtime Verification",
+      "image": "https://strapi.runtimeverification.com/uploads/k_framework_an_overview_b8f1519d85.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Formally Verifying a Contract",
+      "tldr": "A worked account of proving properties about contract bytecode, and where the effort actually goes.",
+      "url": "https://www.apriorit.com/dev-blog/592-formal-verification-with-k-framework",
+      "source": "Apriorit",
+      "tag": "Tokenization"
+    }
+  ]
 }

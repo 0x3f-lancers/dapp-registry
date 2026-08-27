@@ -29,5 +29,22 @@
       "torus",
       "metacrafters"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reputation From Thirty-Odd Signals",
+      "tldr": "Wallet age, protocol use and transaction pattern combined, with the weighting changed depending on what the score is for.",
+      "url": "https://www.alchemy.com/dapps/0xscore",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=List%20of%20Decentralized%20identity%20tools&token=f1ab9a0084452a2313110cb1167b5e0b7d055a1a25821ad840c1e8508ab81233",
+      "tag": "Identity"
+    },
+    {
+      "title": "Why Onchain Credit Is Hard",
+      "tldr": "A wallet costs nothing to abandon, so any score has to survive someone simply starting again. The general problem, examined.",
+      "url": "https://yellow.com/learn/on-chain-credit-scores-what-they-are-and-how-they-work",
+      "source": "Yellow",
+      "image": "https://media.yellow.com/uploads/shutterstock_2492758751_6276d02128.jpg"
+    }
+  ]
 }

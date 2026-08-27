@@ -36,5 +36,22 @@
       "taraxa",
       "robot-framework"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Right-Click Any Address",
+      "tldr": "Select an address on any page and jump straight to Zapper, Nansen or OpenSea, instead of copying it into a search box.",
+      "url": "https://www.alchemy.com/dapps/eth-explorers-extension",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=ETH%20Explorers%20Extensions&token=2ea7348f041e3f91ef0faffaac5a494cf5b0926126d70c7a201142a4ce1c458b"
+    },
+    {
+      "title": "The Official Extension, for Comparison",
+      "tldr": "Etherscan's own version, with a live gas badge. Useful for deciding which of the two you actually want installed.",
+      "url": "https://info.etherscan.com/etherscan-browser-extension/",
+      "source": "Etherscan",
+      "image": "https://info.etherscan.com/explorer/etherscan/og-preview.jpg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

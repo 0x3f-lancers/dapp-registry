@@ -33,5 +33,23 @@
       "mintworld",
       "wizarre"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Putting a Shooter On Chain",
+      "tldr": "An engineering case study of the wallet sign-in and multi-chain support behind the game, written by the team that built it.",
+      "url": "https://blog.chainsafe.io/case-study-arsenal-fabwelt/",
+      "source": "ChainSafe",
+      "image": "https://blog.chainsafe.io/content/images/size/w1200/2023/11/arsenal-sd.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Items That Do Something",
+      "tldr": "In-game NFTs with actual effects — freeze an opponent, go briefly invulnerable — rather than cosmetics with a token attached.",
+      "url": "https://www.alchemy.com/dapps/arsenal-fabwelt",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Arsenal&token=72c3e9bb962b6ff92e5e24e30cc9fb3de84bd7f0e605e43a7d58316f6d80b0a8",
+      "tag": "Tokenization"
+    }
+  ]
 }

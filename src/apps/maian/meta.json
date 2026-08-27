@@ -30,5 +30,15 @@
       "bonadocs",
       "huff-vm"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Greedy, Prodigal and Suicidal Contracts",
+      "tldr": "Three trace properties found straight from bytecode. Nearly a million contracts scanned, and 34,200 flagged.",
+      "url": "https://arxiv.org/abs/1802.06038",
+      "source": "arXiv",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "tag": "Tokenization"
+    }
+  ]
 }

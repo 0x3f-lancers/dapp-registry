@@ -29,5 +29,23 @@
       "cryptoquant",
       "chainstack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading a zkRollup's Blocks",
+      "tldr": "Rollup data sits on Ethereum but is not readable as transactions. What indexing it turns back into accounts and balances.",
+      "url": "https://www.alchemy.com/dapps/loopring-subgraph",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Loopring%20Subgraph&token=2c616a7bd6fab4ce0e310eca533fdad9848d7e3a62480408e260f8976aa905ee",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Why the Subgraph Was Built",
+      "tldr": "The team on wanting an Etherscan-like view of L2 activity, and what developers were expected to build with it.",
+      "url": "https://medium.com/loopring-protocol/loopring-subgraph-hackathon-bounties-148705a35f58",
+      "source": "Loopring",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*sJieTczFKq7PqIyjZBjTTA.jpeg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

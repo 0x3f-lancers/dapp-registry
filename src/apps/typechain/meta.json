@@ -30,5 +30,23 @@
       "evm2",
       "solidity-documentation-generator"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Typed Contracts in Hardhat",
+      "tldr": "Bindings regenerate on every compile, so a renamed function breaks the build instead of failing at runtime.",
+      "url": "https://hardhat.org/docs/plugins/hardhat-typechain",
+      "source": "Hardhat Docs",
+      "image": "https://hardhat.org/thumbnail.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Setting It Up From Scratch",
+      "tldr": "A worked tutorial covering the packages, the config object and the target choice that trips people up.",
+      "url": "https://github.com/yvasilyev92/how-to-hardhat-typechain",
+      "source": "yvasilyev92",
+      "image": "https://opengraph.githubassets.com/75806922f10c69a8d1699666e5f17e404c43bb7e9d40ec16d98148df36793c6b/yvasilyev92/how-to-hardhat-typechain",
+      "tag": "Infrastructure"
+    }
+  ]
 }

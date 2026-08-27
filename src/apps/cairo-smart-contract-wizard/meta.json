@@ -31,5 +31,14 @@
       "ethereum-etl",
       "solidity-documentation-generator"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Audited Building Blocks for Cairo",
+      "tldr": "Components, presets and utilities for Starknet, which is what the wizard is assembling when it generates a contract.",
+      "url": "https://docs.openzeppelin.com/contracts-cairo",
+      "source": "OpenZeppelin Docs",
+      "tag": "Security"
+    }
+  ]
 }

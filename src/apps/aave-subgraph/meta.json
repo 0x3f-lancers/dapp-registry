@@ -35,5 +35,23 @@
       "evmtools-xyz",
       "itheum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying Lending Data With GraphQL",
+      "tldr": "Borrows, deposits, collateral ratios and liquidations, exposed as a GraphQL endpoint instead of raw contract calls.",
+      "url": "https://www.quicknode.com/builders-guide/tools/aave-subgraph-by-aave-protocol",
+      "source": "QuickNode",
+      "image": "https://www.quicknode.com/og-image?title=Aave%20Subgraph%20*by%20Aave%20Protocol*",
+      "tag": "DeFi"
+    },
+    {
+      "title": "What the Subgraph Indexes",
+      "tldr": "The fields available and the paging limit of 100 per query, plus why interest-bearing balances need formatting after you read them.",
+      "url": "https://www.alchemy.com/dapps/aave-subgraph",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Aave%20Subgraph&token=2efbb2fcb94ebe0d2e8696c2cede411202bb52b07a6723747c07fc421b79d49c",
+      "tag": "Infrastructure"
+    }
+  ]
 }

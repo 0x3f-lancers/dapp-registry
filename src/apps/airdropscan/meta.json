@@ -37,5 +37,22 @@
       "pulsar-finance",
       "rotki"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Checking a Wallet Without Connecting It",
+      "tldr": "Paste a public address and see unclaimed drops. Not connecting is the point — most drainers arrive dressed as a claim page.",
+      "url": "https://airdropscan.io/about",
+      "source": "AirdropScan",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Tracking Claims Across Chains",
+      "tldr": "Eligibility, deadlines and alerts pulled into one place, covering thousands of rewards across the major networks.",
+      "url": "https://www.alchemy.com/dapps/airdropscan",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=AirdropScan&token=80fe812e96ed5d26dc395dafbfe04fa7e4dbc3da6630c8918af5f0ecf2b481fb",
+      "tag": "Infrastructure"
+    }
+  ]
 }

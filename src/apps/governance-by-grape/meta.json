@@ -30,5 +30,23 @@
       "meeds",
       "metopia"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Voting Weighted by More Than One Token",
+      "tldr": "Balance-based voting that can draw on several tokens or NFT holdings at once, plus Discord gating tied to the same rules.",
+      "url": "https://www.alchemy.com/dapps/governance-by-grape",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Governance%20by%20Grape&token=4f4948f0a491fb9d7a4134228054ec68f2ffb7bc75525d8bc1deec2802a2592c",
+      "tag": "Governance"
+    },
+    {
+      "title": "DAOs and Governance on Solana",
+      "tldr": "How proposals, treasuries and voting actually work on this chain, which is the context any Solana governance tool sits in.",
+      "url": "https://sinoglobalcap.medium.com/how-to-solana-chapter-5-daos-governance-e41a753ce72a",
+      "source": "Ryze Labs",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1000/0*loXm5mg0W5GxT1CY",
+      "tag": "Governance"
+    }
+  ]
 }

@@ -38,5 +38,23 @@
       "syndica",
       "nft-price-floor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Faster Path to Subgraph Data",
+      "tldr": "Same tooling as The Graph, run on dedicated hardware instead of shared cloud. What that buys in latency and sync time.",
+      "url": "https://medium.com/ormilabs/fast-reliable-blockchain-data-queries-with-0xgraph-5511ada68772",
+      "source": "Ormi Labs",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*qFtzqFu4YIjA7eWBlBdFeA.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Should You Self-Host a Subgraph?",
+      "tldr": "An honest cost comparison between running your own indexer and paying someone else to, from a company selling the latter.",
+      "url": "https://blog.ormilabs.com/self-host-subgraph/",
+      "source": "Ormi Labs",
+      "image": "https://storage.ghost.io/c/38/b4/38b42b8d-737f-4ffc-8c7b-97be0a126f89/content/images/size/w1200/2026/07/blockchain-graphic-2.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

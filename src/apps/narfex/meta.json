@@ -31,5 +31,22 @@
       "pocketpay-finance",
       "mangrovedao"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Peer-to-Peer Fiat Without a Middleman",
+      "tldr": "A liquidity pool guarantees the trade instead of a centralised escrow agent, which is what removes the counterparty from P2P.",
+      "url": "https://www.alchemy.com/dapps/narfex",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Narfex&token=6ed57d9a0f31623e2bd7e5c95b213526f16d3ae23c6229f3742500563f6feb4f",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "Synthetic Fiat, Held Non-Custodially",
+      "tldr": "Non-custodial by construction, with synthetic fiat tokens bridging currencies into DeFi. A reference on the moving parts.",
+      "url": "https://moralis.com/web3-wiki/narfex/",
+      "source": "Moralis",
+      "tag": "DeFi"
+    }
+  ]
 }

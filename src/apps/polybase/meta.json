@@ -35,5 +35,15 @@
       "ceramic",
       "detask"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Database That Proves Its Own Rules",
+      "tldr": "Permissions written in Polylang, compiled to Miden assembly, so one machine computes and everyone else verifies a proof.",
+      "url": "https://medium.com/@polybase/a-zk-powered-database-built-with-polygon-miden-870b2a975b87",
+      "source": "Polybase",
+      "image": "https://miro.medium.com/v2/resize:fit:626/1*1ehMUsRdMDOSKTPl1RYWcg.png",
+      "tag": "Research"
+    }
+  ]
 }

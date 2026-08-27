@@ -46,5 +46,23 @@
       "magic",
       "mimic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Stuck Because You Have No Gas",
+      "tldr": "The problem exactly: tokens you cannot move because the fee asset is empty. How a gasless swap breaks the deadlock.",
+      "url": "https://medium.com/@SmolRefuel/how-to-fix-need-to-bridge-coins-but-out-of-gas-bdadd83db0e5",
+      "source": "SmolRefuel",
+      "image": "https://miro.medium.com/v2/resize:fit:720/0*vSYVEjae1qJtkzYq.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Refuelling Across Eighty Chains",
+      "tldr": "Trade any token you already hold for the native gas asset of the chain you need, without funding the transaction first.",
+      "url": "https://www.alchemy.com/dapps/smolrefuel",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=SmolRefuel&token=effe904c6de1227461deaf767bb4cfb17bfb2e0b3368892d0b0f1d6bef17ab68",
+      "tag": "Trading"
+    }
+  ]
 }

@@ -32,5 +32,23 @@
       "quay",
       "opensea-subgraph"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A JSON Database for Dapps",
+      "tldr": "Application data that changes constantly does not belong on-chain. Where it does belong, and what rolling up to Arweave buys.",
+      "url": "https://medium.com/@db3_network/db3-network-revolutionizing-data-management-in-the-web3-ecosystem-f0df43b1e17d",
+      "source": "DB3 Network",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*BbhKj6xJ-OnvoBolkhqgvA.png",
+      "tag": "Research"
+    },
+    {
+      "title": "Decentralised Firebase, Roughly",
+      "tldr": "Query through db3.js with access controlled by key signature rather than by a service account.",
+      "url": "https://www.alchemy.com/dapps/db3-network",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=DB3%20Network&token=8ad91b0147dcaf4ca3102de4aa609fba4871a1c98f1060a924c2266945e43b9b",
+      "tag": "Infrastructure"
+    }
+  ]
 }

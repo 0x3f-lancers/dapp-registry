@@ -30,5 +30,23 @@
       "astrochain",
       "starknet-react"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying On-Chain Vault Data",
+      "tldr": "Contract events indexed into something searchable, so vault composition and depositor history stop needing a node of your own.",
+      "url": "https://www.alchemy.com/dapps/enzyme-subgraph",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Enzyme%20Subgraph&token=50b8d6daee38efa4afa7b49a3e073c6ff274c295c67ef57c494ccf1af3afdae6",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Subgraph or API",
+      "tldr": "The protocol's own comparison of the two ways to read its data, and which questions each one answers better.",
+      "url": "https://medium.com/enzymefinance/introducing-the-enzyme-api-a-unified-way-to-query-data-and-enable-new-use-cases-666466e60a54",
+      "source": "Enzyme Finance",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*xj5uXfvkEn0UCF58",
+      "tag": "Infrastructure"
+    }
+  ]
 }

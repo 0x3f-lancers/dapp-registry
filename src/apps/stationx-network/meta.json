@@ -33,5 +33,23 @@
       "meeds",
       "pnthn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Spinning Up a Group Treasury",
+      "tldr": "Templates that stand up a shared pool in about a minute, instead of one member holding funds in a personal wallet.",
+      "url": "https://www.alchemy.com/dapps/stationx-network",
+      "source": "Alchemy",
+      "tag": "Governance",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=StationX&token=6aa1774805d27e05fe4d60bd1d47cfe8849a7818164ad72a523f27916c5497ab"
+    },
+    {
+      "title": "Running a Treasury Properly",
+      "tldr": "Stablecoin reserves, yield deployment and the reporting that keeps members able to check the numbers themselves.",
+      "url": "https://limechain.tech/blog/dao-treasury-management-explained",
+      "source": "LimeChain",
+      "tag": "Governance",
+      "image": "https://cdn.prod.website-files.com/663a011a75c99dd4890549b8/66977422b9f67e31e76b19e7_DAO-treasury-management.webp"
+    }
+  ]
 }

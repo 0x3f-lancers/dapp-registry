@@ -30,5 +30,22 @@
       "decurity-decompiler",
       "evmole"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reverse Engineering a Closed-Source Program",
+      "tldr": "Solana compiles Rust to a modified eBPF. The write-up on building a disassembler and lifter for it, from the researchers who did.",
+      "url": "https://osec.io/blog/2022-08-27-reverse-engineering-solana/",
+      "source": "OtterSec",
+      "image": "https://osec.io/_astro/banner.DWOtFvlf.webp",
+      "tag": "Identity"
+    },
+    {
+      "title": "What the Plugin Adds",
+      "tldr": "Instruction lifting and Solana SDK structures on top of Binary Ninja, so bytecode reads as something close to source.",
+      "url": "https://moralis.com/web3-wiki/binary-ninja-ebpf/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    }
+  ]
 }

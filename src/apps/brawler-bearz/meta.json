@@ -31,5 +31,23 @@
       "delysium",
       "star-atlas"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An NFT That Changes as You Play",
+      "tldr": "Training, questing and battling all rewrite the token's own metadata, so the art you own reflects what the character has done.",
+      "url": "https://www.alchemy.com/dapps/brawler-bearz",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Brawler%20Bearz&token=77a3c94b1eb4a4ec897b089c29045c3ba00ea22f0504665913dd1b99a9296f58",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Equippable Items on Chain",
+      "tldr": "Over 350 ERC-1155 items that attach to a character, synced between Ethereum and Polygon to keep the interface responsive.",
+      "url": "https://www.crossmint.com/ecosystem/brawler-bearz",
+      "source": "Crossmint",
+      "image": "https://cdn.prod.website-files.com/653a93effa45d5e5a3b8e1e8/6870a77c5d9622fa67ddbe46_crossmint-social-banner.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -30,5 +30,20 @@
       "solidity-array-generator",
       "cant-be-evil-license"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What the Hex After 0x Means",
+      "tldr": "A four-byte selector followed by ABI-encoded arguments. Once you can read that, a transaction stops being opaque.",
+      "url": "https://www.quicknode.com/guides/ethereum-development/transactions/ethereum-transaction-calldata",
+      "source": "QuickNode"
+    },
+    {
+      "title": "Decoding in the Browser",
+      "tldr": "Paste calldata, get the function and each typed parameter back, with nothing leaving the page.",
+      "url": "https://www.alchemy.com/dapps/calldata-decoder",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Calldata%20Decoder&token=62600083193a69c16d54ad3c878e10ec8ed3c4224a05b0cad5df67152ecfdf7b"
+    }
+  ]
 }

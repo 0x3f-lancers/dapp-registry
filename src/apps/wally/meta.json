@@ -32,5 +32,22 @@
       "pillar",
       "minipay"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Onboarding Without a Seed Phrase",
+      "tldr": "Smart accounts created behind a normal login, so a first-time user is onchain in seconds without meeting a recovery phrase.",
+      "url": "https://www.alchemy.com/dapps/wally",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=List%20of%20Wallet%20developer%20tools&token=5e33f69164efef12d1ba7b05fdc89f931a1d2d6b8b49a9fc92c822affb4f55d9",
+      "tag": "Security"
+    },
+    {
+      "title": "Why Games Reach for Embedded Wallets",
+      "tldr": "Seed-phrase management is the single biggest drop-off in game onboarding. What removing it changes, and what it costs.",
+      "url": "https://sequence.xyz/blog/why-embedded-wallets-are-better-for-web3-games",
+      "source": "Sequence",
+      "image": "https://cdn.sanity.io/images/tophvfhl/production/25998126ce896fccfef6d241c933346a515a7647-1440x800.webp"
+    }
+  ]
 }

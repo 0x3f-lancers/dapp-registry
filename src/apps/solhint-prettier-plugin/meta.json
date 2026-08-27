@@ -31,5 +31,23 @@
       "huff-vm",
       "prettier-solidity"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wiring Prettier Into the Linter",
+      "tldr": "Every formatting difference reported as its own lint issue. The packages to install and the config that connects them.",
+      "url": "https://www.alchemy.com/dapps/solhint-prettier-plugin",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Solhint-Prettier%20Plugin&token=13a937d6e14e119f17d7abe5b7180031fd1c3d62623d55b610b2aa5b0d710a69",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Linting and Formatting Are Not the Same Job",
+      "tldr": "One catches bugs, the other catches disagreements. Why a Solidity project usually wants both, set up together.",
+      "url": "https://medium.com/coinmonks/introduction-to-solidity-linting-and-formatting-e838c074791a",
+      "source": "Coinmonks",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*UwaAIpO6UmRAY_ICQ9xikw.jpeg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -31,5 +31,23 @@
       "blockbucket",
       "gashawk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Accepting Crypto as a Merchant",
+      "tldr": "Checkout links, a POS interface and QR payments across several chains, aimed at sellers who will never touch a wallet UI.",
+      "url": "https://www.alchemy.com/dapps/pocketpay-finance",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=PocketPay%20Finance&token=bb67e996647bef2dcd492d1d31b10dce007d9bf6e7ab3d655262ae30118eafdc",
+      "tag": "Payments"
+    },
+    {
+      "title": "The Payment Model, Documented",
+      "tldr": "How settlement works between buyer and merchant, and which chains the gateway routes across.",
+      "url": "https://pocketpay.gitbook.io/pocketpay/white-paper/introduction",
+      "source": "PocketPay Docs",
+      "image": "https://pocketpay.gitbook.io/pocketpay/~gitbook/ogimage/2eHPkYCQwQxfIbrXxcPC",
+      "tag": "Payments"
+    }
+  ]
 }

@@ -37,5 +37,23 @@
       "ninjalerts",
       "solana-floor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Finding Airdrops You Forgot About",
+      "tldr": "Paste an address and see unclaimed drops, mints and rewards across several chains, without connecting a wallet to do it.",
+      "url": "https://www.alchemy.com/dapps/kwikclaim",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=KwikClaim&token=6619ef45330bac910e741db2b09ccaae6f520836a3ce0ce3553c2f520d4dcd36",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Much Goes Unclaimed",
+      "tldr": "A look at the scale of the problem, and the ordinary reasons eligible people miss a distribution entirely.",
+      "url": "https://dappradar.com/blog/discover-how-many-airdrops-you-forgot-to-claim",
+      "source": "DappRadar",
+      "image": "https://dappradar.com/wp-content/uploads/og-images/1076-df960eb5.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

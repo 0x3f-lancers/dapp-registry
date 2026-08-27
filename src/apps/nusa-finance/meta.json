@@ -3,8 +3,13 @@
   "name": "Nusa",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748801/web3-explorer/dapp-logos/nusa-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Lending Dapps", "Decentralized Exchanges"],
-  "chains": ["BNB Chain"],
+  "subcategory": [
+    "Decentralized Lending Dapps",
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "BNB Chain"
+  ],
   "pricing": "",
   "content": {
     "short": "Nusa is a one-stop web3 platform with DeFi applications and an NFT marketplace.",
@@ -17,7 +22,24 @@
     "twitter": "https://x.com/nusa_finance"
   },
   "relations": {
-    "alternatives": ["bulla-network", "lodestar-finance", "1delta"],
-    "related": ["stellaswap", "dolomite"]
-  }
+    "alternatives": [
+      "bulla-network",
+      "lodestar-finance",
+      "1delta"
+    ],
+    "related": [
+      "stellaswap",
+      "dolomite"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Lending Beside a Swap and a Marketplace",
+      "tldr": "Deposit to earn or borrow against collateral, with farms and governance attached. Note the BNB Chain lending market has closed.",
+      "url": "https://www.alchemy.com/dapps/nusa-finance",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Nusa&token=d35d61fafc38233ec502326c0a1c8eeeab8cc6828339392238d7e0de6baee2e5",
+      "tag": "DeFi"
+    }
+  ]
 }

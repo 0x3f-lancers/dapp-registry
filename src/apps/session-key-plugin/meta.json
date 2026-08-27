@@ -35,5 +35,23 @@
       "stackup-bundler",
       "ambire-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Signing Without the Main Key",
+      "tldr": "A scoped key with a start and end time, an allowlist, and spending caps. What an app can do with it, and what it cannot.",
+      "url": "https://www.alchemy.com/dapps/session-key-plugin",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Session%20Key%20Plugin&token=caa04dec513d75b5e69abec26df28505672631694f6174c512610d893ee622f8",
+      "tag": "Payments"
+    },
+    {
+      "title": "The Standard It Plugs Into",
+      "tldr": "ERC-6900 splits an account into validation, execution and hooks. The spec that makes plugins like this installable at all.",
+      "url": "https://eips.ethereum.org/EIPS/eip-6900",
+      "source": "Ethereum Improvement Proposals",
+      "image": "https://eips.ethereum.org/assets/images/eip-og-image.png",
+      "tag": "Trading"
+    }
+  ]
 }
