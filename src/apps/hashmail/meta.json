@@ -33,5 +33,23 @@
       "portrait-gg",
       "guild"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Inbox Keyed to Your Wallet",
+      "tldr": "Messages addressed to an address rather than an account, end-to-end encrypted, with dapps able to push transaction notices in.",
+      "url": "https://inc42.com/startups/bringing-email-blockchain-hashmail-building-inbox-web3/",
+      "source": "Inc42",
+      "image": "https://inc42.com/wp-content/uploads/2022/10/Hashmail-social.png",
+      "tag": "Security"
+    },
+    {
+      "title": "How Blockchain Messaging Works",
+      "tldr": "The general problem of getting a message from one chain address to another without a server in the middle holding it.",
+      "url": "https://chain.link/article/blockchain-messaging-secure-communication",
+      "source": "Chainlink",
+      "image": "https://cdn.prod.website-files.com/5f75fe1dce99248be5a892db/69852af3728ae4dd97e04144_Education-Hub-Article-Banner-Template---16.jpeg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

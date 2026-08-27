@@ -29,5 +29,21 @@
       "compass-art",
       "jumper-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Verifying a Token Burn",
+      "tldr": "Burn claims are easy to make and hard to check. Real-time tracking of what was actually destroyed, per token.",
+      "url": "https://www.alchemy.com/dapps/burncheckerio",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Burnchecker&token=58bd5f136751fc8548d9685eee7c1e466f5506b08515050f973303651ee5c15b"
+    },
+    {
+      "title": "What Burning Actually Does",
+      "tldr": "The mechanics on Solana: supply is reduced by the instruction, and the tokens are genuinely unrecoverable afterwards.",
+      "url": "https://solana.com/docs/tokens/basics/burn-tokens",
+      "source": "Solana Docs",
+      "image": "https://solana.com/opengraph/developers/docs/tokens/basics/burn-tokens"
+    }
+  ]
 }

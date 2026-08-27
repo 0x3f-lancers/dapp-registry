@@ -30,5 +30,15 @@
       "xdc-network",
       "supra"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Traders Buy Private RPC",
+      "tldr": "Bare-metal servers and direct validator links, because on Solana the gap between a shared endpoint and a private one is measured in blocks.",
+      "url": "https://www.alchemy.com/dapps/ligmanode",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Ligma%20Node&token=c235ba8af416dbca87af089f87a5ccabca22c8bb93f68552b0d4de20c9745c94",
+      "tag": "Infrastructure"
+    }
+  ]
 }

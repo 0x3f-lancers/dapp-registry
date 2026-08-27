@@ -36,5 +36,23 @@
       "solidity-flattener",
       "rockx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying Pools and Swaps",
+      "tldr": "Balances, pool state and transaction history exposed as GraphQL, indexed from contract events across several chains.",
+      "url": "https://www.alchemy.com/dapps/sushiswap-subgraph",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=SushiSwap%20Subgraph&token=442388885e948c078edbc01ba8d847a1e12e4ba8753efc2508e7b6abb9636e60",
+      "tag": "Trading"
+    },
+    {
+      "title": "Why DeFi Apps Rely on Subgraphs",
+      "tldr": "TVL, pool liquidity and fee aggregates are painful to compute from a node. What indexing changes about that.",
+      "url": "https://www.zeeve.io/blog/how-defi-applications-can-benefit-using-subgraphs-for-data-indexing/",
+      "source": "Zeeve",
+      "image": "https://wwwzeeveio.b-cdn.net/wp-content/uploads/2026/04/DeFi-applications-can-use-subgraphs_feature.jpg",
+      "tag": "DeFi"
+    }
+  ]
 }

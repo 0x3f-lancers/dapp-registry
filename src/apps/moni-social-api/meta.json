@@ -30,5 +30,22 @@
       "noox",
       "pnthn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Scoring an Account, Not Counting Followers",
+      "tldr": "Who follows an account matters more than how many. Smart followers, mentions and tiers, exposed as a REST call.",
+      "url": "https://www.alchemy.com/dapps/moni-social-api",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Moni%20Social%20API&token=7af4950b8ccc9a0cd10d1ea66b2f97ea839b7e1aa4ba32a1dc4f3aabea470da7"
+    },
+    {
+      "title": "Filtering Sybils Before They Queue",
+      "tldr": "Set a score threshold on a launchpad or airdrop and screen social accounts up front instead of cleaning up afterwards.",
+      "url": "https://moni.ai/api",
+      "source": "Moni",
+      "image": "https://moni.ai/img/previews/api.jpg",
+      "tag": "Identity"
+    }
+  ]
 }

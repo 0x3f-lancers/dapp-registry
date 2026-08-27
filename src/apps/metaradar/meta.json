@@ -32,5 +32,21 @@
       "guild",
       "herodotus-dev"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Alerts on Addresses You Do Not Own",
+      "tldr": "Watch any address across chains and get an email the moment it transacts or signs. Useful for treasuries and for suspicion.",
+      "url": "https://www.alchemy.com/dapps/metaradar",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Metaradar.io&token=e30749909e262ee954f012901609d699f54ec93a19585cf4da6f688adc608baf"
+    },
+    {
+      "title": "Monitoring Many Wallets at Once",
+      "tldr": "The problem it solves: past a handful of addresses, nobody checks an explorer often enough to catch anything.",
+      "url": "https://moralis.com/web3-wiki/metaradario/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    }
+  ]
 }

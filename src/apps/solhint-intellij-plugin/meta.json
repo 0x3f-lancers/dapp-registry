@@ -31,5 +31,23 @@
       "etherspot",
       "ethp2p"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Linting Solidity as You Save",
+      "tldr": "Solhint findings surfaced inline in the editor, with the style-guide and security rule sets configurable per project.",
+      "url": "https://www.alchemy.com/dapps/solhint-intellij-plugin",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Solhint%20for%20IntelliJ&token=9df07046dfb8677b29041bf1ba7db3f82e039e25304ff0f09532dbe0dcf4d16b",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Installing and Configuring It",
+      "tldr": "The Node and Solhint prerequisites, plus how rules are managed at the code level with inline comments.",
+      "url": "https://github.com/protofire/idea-solidity-solhint",
+      "source": "Protofire",
+      "image": "https://opengraph.githubassets.com/73bc7ff0bfe0b9dc18a52105cbeb1f042535ba383c2de5a70a8934bc93f60953/protofire/idea-solidity-solhint",
+      "tag": "Tutorial"
+    }
+  ]
 }

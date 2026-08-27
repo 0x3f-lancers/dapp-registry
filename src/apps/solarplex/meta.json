@@ -32,5 +32,23 @@
       "pubdao",
       "liker-land"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Product Hunt for Solana",
+      "tldr": "Builders post, users test and upvote, and a bot curates ecosystem news. Social identity handled by the AT Protocol underneath.",
+      "url": "https://phantom.com/learn/crypto-101/solarplex",
+      "source": "Phantom",
+      "image": "https://phantom.com/_web_platform_assets/images/og-image.jpg",
+      "tag": "Security"
+    },
+    {
+      "title": "Tipping Without Leaving the Feed",
+      "tldr": "Micropayments and badges settled on Solana while the social graph lives on a separate protocol. An unusual split.",
+      "url": "https://www.alchemy.com/dapps/solarplex",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Solarplex&token=de677185178b982b13eb12d8abe6f7088e3745313c37e51a9fa55878f4468c92",
+      "tag": "Payments"
+    }
+  ]
 }

@@ -31,5 +31,23 @@
       "alchemix",
       "metronome-synth"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Perpetual Actually Is",
+      "tldr": "A contract with no expiry that tracks spot through a funding payment between longs and shorts. Start here before touching leverage.",
+      "url": "https://www.ledger.com/academy/topics/economics-and-regulation/perpetual-trading-explained-what-is-it-and-how-does-it-work",
+      "source": "Ledger Academy",
+      "image": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/02/03_Economics_Thumb_No-title.jpg",
+      "tag": "Trading"
+    },
+    {
+      "title": "Trading Perps Without an Exchange Account",
+      "tldr": "Collateral, margin and liquidation handled by contracts instead of a desk, and where that trade-off costs you.",
+      "url": "https://coincub.com/blog/what-is-a-perpetual-dex-complete-guide-for-2026/",
+      "source": "Coincub",
+      "image": "https://coincub.com/wp-content/uploads/2026/04/hyperliquid-snap.png",
+      "tag": "Trading"
+    }
+  ]
 }

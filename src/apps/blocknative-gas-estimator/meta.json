@@ -32,5 +32,15 @@
       "gelato",
       "enso"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Estimating Gas From the Mempool",
+      "tldr": "Predicting the next base fee from pending transactions rather than past blocks, with a confidence level attached to each estimate.",
+      "url": "https://www.blocknative.com/blog/eth-gas-1559",
+      "source": "Blocknative",
+      "image": "https://www.blocknative.com/hubfs/blocknative-deloitte%201%20(1)%201.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

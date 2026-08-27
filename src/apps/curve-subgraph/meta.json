@@ -30,5 +30,22 @@
       "ethp2p",
       "abi-decoder"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying Pool Data",
+      "tldr": "Balances, swaps and liquidity history as a GraphQL endpoint, rather than reading each pool contract yourself.",
+      "url": "https://www.alchemy.com/dapps/curve-subgraph",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Curve%20Subgraph&token=232bffbfad44a8076a5bff7dcfb4c44af854d61c985f51c253439e6a7bc6f745",
+      "tag": "Research"
+    },
+    {
+      "title": "Why Index Instead of Calling a Node",
+      "tldr": "A subgraph precompiles and caches raw chain data, which is what makes an aggregate query return in one request.",
+      "url": "https://moralis.com/web3-wiki/curve-subgraph/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -28,5 +28,23 @@
       "rubyscore",
       "moni-social-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Credentials You Actually Own",
+      "tldr": "Decentralized identifiers and verifiable credentials, and why the issuer never learns where you presented the credential.",
+      "url": "https://ethereum.org/decentralized-identity",
+      "source": "ethereum.org",
+      "image": "https://ethereum.org/images/eth-gif-cat.png",
+      "tag": "Identity"
+    },
+    {
+      "title": "The Longer Version",
+      "tldr": "Issuer, holder and verifier, the wallet in between, and the selective disclosure that makes any of it worth doing.",
+      "url": "https://www.dock.io/post/decentralized-identity",
+      "source": "Dock",
+      "image": "https://cdn.prod.website-files.com/6311eb97e2519f5dbb9ea0cb/676184c45b543507301191e0_decentralized%20identity.webp",
+      "tag": "Identity"
+    }
+  ]
 }

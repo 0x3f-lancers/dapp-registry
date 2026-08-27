@@ -32,5 +32,15 @@
       "prettier-solidity",
       "itheum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Indexing a Prize Savings Protocol",
+      "tldr": "Deposits, draws, claims and liquidations as queryable entities, which is what any leaderboard or history view is built from.",
+      "url": "https://dev.pooltogether.com/protocol/subgraphs/",
+      "source": "PoolTogether Docs",
+      "image": "https://dev.pooltogether.com/img/twitter_card_bg.jpg",
+      "tag": "Payments"
+    }
+  ]
 }

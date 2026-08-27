@@ -31,5 +31,15 @@
       "hummingbot",
       "tradinglite"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Impermanent Loss, Calculated",
+      "tldr": "A Python library for working out what a liquidity position actually returned once rewards and IL are both counted.",
+      "url": "https://github.com/gauss314/defi/blob/main/README.md",
+      "source": "gauss314",
+      "image": "https://opengraph.githubassets.com/5371090d6230b0110e9bf65046a7b49d13a5b1495e2c2e56206cd44431c3926a/gauss314/defi",
+      "tag": "DeFi"
+    }
+  ]
 }

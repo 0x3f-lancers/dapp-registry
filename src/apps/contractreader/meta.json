@@ -32,5 +32,22 @@
       "openzeppelin",
       "gnosis-vs-smart-contracts"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading a Contract Properly",
+      "tldr": "Syntax highlighting with live on-chain values beside the code, and side-by-side comparison against another version.",
+      "url": "https://www.alchemy.com/dapps/contractreader",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=ContractReader&token=3b1e7431c9d7c44ff8aafe27a99da6b49499e06a0ad611c671df5a798088eea4"
+    },
+    {
+      "title": "What the Tool Is Good For",
+      "tldr": "Aimed at auditors, bounty hunters and anyone reading someone else's contract before interacting with it.",
+      "url": "https://manytools.ai/blog/introduction-to-contractreader-the-premiere-smart-contract-analysis-platform/",
+      "source": "ManyTools",
+      "image": "https://static.manytools.ai/origin_6dde0d9b-63d1-4520-b016-580aff5496c6_Default_ContractReader_is_a_cuttingedge_platform_revolutionisi_1.jpg",
+      "tag": "Security"
+    }
+  ]
 }

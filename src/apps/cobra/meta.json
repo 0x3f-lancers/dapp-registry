@@ -31,5 +31,15 @@
       "quicknode-sdk",
       "evm2"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Contracts Tested From Python",
+      "tldr": "Compile, deploy and migrate from one CLI, with tests written in unittest or pytest instead of JavaScript.",
+      "url": "https://github.com/cobraframework/cobra",
+      "source": "Cobra Framework",
+      "image": "https://repository-images.githubusercontent.com/196801589/1dbfbf00-b76b-11e9-8127-1a8ab6387197",
+      "tag": "Security"
+    }
+  ]
 }

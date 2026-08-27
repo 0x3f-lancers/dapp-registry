@@ -38,5 +38,23 @@
       "sinohope",
       "cregis"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Chain With No Gas Fee",
+      "tldr": "Permissioned validators are what let the fee disappear entirely. The trade-off behind gasless is stated rather than glossed over.",
+      "url": "https://medium.com/@saakuru/introducing-the-saakuru-protocol-the-bridge-from-web2-to-web3-f893cbeeacdf",
+      "source": "Saakuru Labs",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*qB2eV1yW2zngZ8A3",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How the Rollup Is Built",
+      "tldr": "Optimistic rollups on Oasys with roughly one-second confirmations. What that combination is tuned for.",
+      "url": "https://source.saakuru.com/saakuru-source/saakuru-blockchain",
+      "source": "Saakuru Source",
+      "image": "https://source.saakuru.com/saakuru-source/~gitbook/ogimage/fPvAe8C0NqBhbJo581Gh",
+      "tag": "Infrastructure"
+    }
+  ]
 }

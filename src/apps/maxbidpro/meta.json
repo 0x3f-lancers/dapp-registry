@@ -8,7 +8,10 @@
     "Decentralized Exchanges",
     "Liquid Staking Platforms"
   ],
-  "chains": ["Solana", "BNB Chain"],
+  "chains": [
+    "Solana",
+    "BNB Chain"
+  ],
   "pricing": "",
   "content": {
     "short": "Maxbid Pro is a fully on-chain leverage trading platform for meme coins.",
@@ -21,7 +24,32 @@
     "twitter": "https://x.com/maxbidpro"
   },
   "relations": {
-    "alternatives": ["antfarm-finance", "wardenswap", "kyberswap"],
-    "related": ["optix", "drift"]
-  }
+    "alternatives": [
+      "antfarm-finance",
+      "wardenswap",
+      "kyberswap"
+    ],
+    "related": [
+      "optix",
+      "drift"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Leverage on a Meme Coin",
+      "tldr": "Borrowed size from a contract rather than a broker, on assets with no floor. The mechanics and the obvious hazard.",
+      "url": "https://www.alchemy.com/dapps/maxbidpro",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Maxbid%20Pro&token=1ff9d624be54cca5142325b4d52d8f329692e721af289ab9d87ea561d3127e65",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Spot, Leverage and Bridging in One Place",
+      "tldr": "How the Solana and BNB Chain sides fit together, and what the cross-chain leg actually does to a position.",
+      "url": "https://web3.bitget.com/en/dapp/maxbidpro-27057",
+      "source": "Bitget Web3",
+      "image": "https://cdn.bitkeep.vip/operation/u_b_7e3a39a0-3492-11f0-b351-f3b6e40853e6.png",
+      "tag": "DeFi"
+    }
+  ]
 }

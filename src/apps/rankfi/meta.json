@@ -30,5 +30,23 @@
       "virgo-wallet",
       "sorted-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Picking an Exchange on More Than Fees",
+      "tldr": "Maker-taker pricing, cold storage share, withdrawal limits and who holds the keys. The checklist before you deposit.",
+      "url": "https://coinlaw.io/how-to-choose-a-crypto-exchange/",
+      "source": "CoinLaw",
+      "image": "https://coinlaw.io/wp-content/uploads/2026/04/how-to-choose-a-crypto-exchange.jpg",
+      "tag": "Payments"
+    },
+    {
+      "title": "The Venues Side by Side",
+      "tldr": "Where the big exchanges differ on cost, security record and product range, rather than on marketing.",
+      "url": "https://coincub.com/blog/comparing-top-crypto-exchanges-fees-security-and-features-explained/",
+      "source": "Coincub",
+      "image": "https://coincub.com/wp-content/uploads/2025/08/bitcoin-cips.png",
+      "tag": "Security"
+    }
+  ]
 }

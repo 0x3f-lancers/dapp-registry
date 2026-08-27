@@ -29,5 +29,23 @@
       "wally",
       "mpcvault"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Making MetaMask Trustless",
+      "tldr": "A local RPC proxy that syncs a light client first, then checks every response from the node against a Merkle proof.",
+      "url": "https://github.com/shresthagrawal/kevlar",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/68ba7ee6f021cbf6c5b05839f38abb7d865f28ae8b1bd0996e728004977b3dc5/commonprefix/kevlar",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Why Light Clients Matter",
+      "tldr": "Wallets take a full node's word for it. What a light client verifies instead, and what it still cannot check.",
+      "url": "https://ethereum.org/developers/docs/nodes-and-clients/light-clients/",
+      "source": "ethereum.org",
+      "image": "https://ethereum.org/images/heroes/developers-hub-hero.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -33,5 +33,23 @@
     "related": [
       "metopia"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Scoring Humanity Instead of Proving It Once",
+      "tldr": "Biometrics, social graph and offline attendance combined into an adaptive score, with zero-knowledge proofs keeping the inputs private.",
+      "url": "https://www.alchemy.com/dapps/xstar",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=XSTAR&token=72c5f3417070ee966dee43af8fbe6bfb41a2ac19848170d06ac2cd5431cd6b86",
+      "tag": "Security"
+    },
+    {
+      "title": "One Name Across Every Chain",
+      "tldr": "A readable identifier that resolves on L1 and L2 alike, carried between them by LayerZero and Axelar rather than redeployed per chain.",
+      "url": "https://docs.xname.app/the-solution-adaptive-proof-of-humanity-on-blockchain/xname-omnichain-dns",
+      "source": "XStar Docs",
+      "image": "https://docs.xname.app/~gitbook/ogimage/KqHExWnkzO6QAnyIZljz",
+      "tag": "Identity"
+    }
+  ]
 }

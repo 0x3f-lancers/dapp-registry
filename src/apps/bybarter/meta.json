@@ -3,7 +3,9 @@
   "name": "ByBarter",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745515/web3-explorer/dapp-logos/bybarter.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Avalanche",
     "BNB Chain",
@@ -26,7 +28,29 @@
     "twitter": "https://x.com/Bybarterio"
   },
   "relations": {
-    "alternatives": ["universalx"],
-    "related": ["bumper-finance"]
-  }
+    "alternatives": [
+      "universalx"
+    ],
+    "related": [
+      "bumper-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Trading From Your Own Wallet",
+      "tldr": "Non-custodial peer-to-peer with escrow, so neither side holds the other's funds while the trade settles.",
+      "url": "https://www.alchemy.com/dapps/bybarter",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=ByBarter&token=93308e6d48fde086bfc6a5501d538b030228083c45903b02581f9dbce981b8ce",
+      "tag": "Trading"
+    },
+    {
+      "title": "Paying With Almost Anything",
+      "tldr": "Mobile money, gift cards, top-ups and services, aimed squarely at people no exchange will onboard.",
+      "url": "https://alexablockchain.com/what-is-bybarter/",
+      "source": "AlexaBlockchain",
+      "image": "https://alexablockchain.com/wp-content/uploads/2022/05/What-is-Bybarter-A-Decentralized-Non-Custodial-P2P-Platform-for-DEX-DeFi-Users.jpg",
+      "tag": "Payments"
+    }
+  ]
 }

@@ -3,8 +3,13 @@
   "name": "MorFi",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748546/web3-explorer/dapp-logos/morfi.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges", "DeFi Yield Farming Platforms"],
-  "chains": ["Multichain"],
+  "subcategory": [
+    "Decentralized Exchanges",
+    "DeFi Yield Farming Platforms"
+  ],
+  "chains": [
+    "Multichain"
+  ],
   "pricing": "",
   "content": {
     "short": "MorFi is the native DEX and Liquidity Hub on Morph L2.",
@@ -17,7 +22,33 @@
     "twitter": "https://x.com/MorFi_finance"
   },
   "relations": {
-    "alternatives": ["uniswap", "betdex", "shapeshift"],
-    "related": ["futureswap", "ribbon-finance", "bitget"]
-  }
+    "alternatives": [
+      "uniswap",
+      "betdex",
+      "shapeshift"
+    ],
+    "related": [
+      "futureswap",
+      "ribbon-finance",
+      "bitget"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The DEX Morph Ships With",
+      "tldr": "An Algebra fork acting as the chain's liquidity layer, so swaps, farming and pool depth all sit in one place.",
+      "url": "https://www.alchemy.com/dapps/morfi",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=MorFi&token=842347e3b46b192aa401a3fd31bc94df78f8d8abeda2868cba3594ae70673485",
+      "tag": "Trading"
+    },
+    {
+      "title": "What the Protocol Is Built On",
+      "tldr": "A modular AMM with adaptive fees rather than a fixed tier, and the reasoning behind starting from Algebra.",
+      "url": "https://docs.morfi.io/morfi",
+      "source": "MorFi Docs",
+      "image": "https://docs.morfi.io/morfi/~gitbook/ogimage/kzTlst3tKo255yz4YpDi",
+      "tag": "DeFi"
+    }
+  ]
 }

@@ -29,5 +29,23 @@
       "backpac-inc",
       "wallet-guard"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Bundler Written in Rust",
+      "tldr": "Modular after Erigon's design, so entry points and mempools can be swapped. Written up by the author himself.",
+      "url": "https://hackmd.io/@Vid201/aa-bundler-rust",
+      "source": "Vid Kersic",
+      "image": "https://hackmd.io/api/_/preview/-OmUD7trSZm6gaprNshUOQ",
+      "tag": "Trading"
+    },
+    {
+      "title": "What the Bundler Is Responsible For",
+      "tldr": "Simulating operations, tracking the reputation of paymasters and factories, and gossiping a mempool to other bundlers.",
+      "url": "https://www.alchemy.com/dapps/aa-bundler",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Silius&token=61efc11410a776e6f99deada46bad693a77422518b775022463b5d52c35c9202",
+      "tag": "Identity"
+    }
+  ]
 }

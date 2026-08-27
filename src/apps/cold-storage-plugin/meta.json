@@ -34,5 +34,23 @@
       "rivo-xyz",
       "coinbase-smart-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Locking NFTs Inside a Live Wallet",
+      "tldr": "A separate storage key freezes chosen tokens, so they survive even if the owner key is compromised — and stay usable for gating.",
+      "url": "https://www.alchemy.com/dapps/cold-storage-plugin",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Cold%20Storage%20Plugin&token=1bfaddc9b16e18a2429a0615b48f13a42f427c783c22375e87a6598381ff65de",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "The Modular Account Standard",
+      "tldr": "How ERC-6900 splits validation, execution and hooks so a plugin like this can be installed without redeploying the account.",
+      "url": "https://medium.com/decipher-media/demystifying-erc-6900-5a52db06dcff",
+      "source": "Decipher Media",
+      "image": "https://miro.medium.com/v2/resize:fit:875/0*SxZwtvkVz0Jk73-O.png",
+      "tag": "Trading"
+    }
+  ]
 }

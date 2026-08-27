@@ -30,5 +30,23 @@
       "biconomy",
       "walletos"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What You Have Actually Spent on Gas",
+      "tldr": "Connect an address and see the lifetime total, including the failed transactions people forget they paid for.",
+      "url": "https://www.alchemy.com/dapps/fees-wtf",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=fees.wtf&token=f62f660d75b9bad3cde6f2a2645bf1c938ec4a65abc6b1d782ab944a3bcb4312",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Where the Fee Comes From",
+      "tldr": "Base fee, priority fee and the gas limit, and why the number moves the way it does. The technical grounding under any tracker.",
+      "url": "https://ethereum.org/developers/docs/gas/",
+      "source": "ethereum.org",
+      "image": "https://ethereum.org/images/heroes/developers-hub-hero.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

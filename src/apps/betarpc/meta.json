@@ -30,5 +30,22 @@
       "flare-network",
       "polkadot"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An RPC That Protects the Sender",
+      "tldr": "Transactions routed so sandwich bots cannot see them first, with back-running rebates returned to the wallet that sent them.",
+      "url": "https://www.alchemy.com/dapps/betarpc",
+      "source": "Alchemy",
+      "image": "https://www.alchemy.com/api/og?variant=dapp&title=BetaRPC&token=795dbf5b3aa11484e3a9dc051fb7d0abeabf528388908bcfdfe4967092b1bb3a",
+      "tag": "Security"
+    },
+    {
+      "title": "Why the Free Endpoint Fails in Production",
+      "tldr": "Rate limits, no SLA and inconsistent data during congestion. What to demand from an endpoint before you depend on it.",
+      "url": "https://instanodes.io/blogs/reliable-rpc-better-uptime-comparing-the-top-5-node-service-providers",
+      "source": "Instanodes",
+      "tag": "Infrastructure"
+    }
+  ]
 }
