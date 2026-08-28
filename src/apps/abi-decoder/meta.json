@@ -34,11 +34,10 @@
   },
   "resources": [
     {
-      "title": "Turning Receipt Logs Into Readable Events",
-      "tldr": "Register the ABI, hand it a receipt, and get named parameters back instead of indexed topics and hex blobs.",
-      "url": "https://www.alchemy.com/dapps/abi-decoder",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=ConsenSys%20ABI%20Decoder&token=f72509f476df8044f5ae96c39d71d112f0898babeca9185f5ed4fd3e7a99b619"
+      "title": "Installing And Calling The Decoder",
+      "tldr": "The package page: adding the ABI, decoding transaction input, and pulling event params out of a receipt.",
+      "url": "https://www.npmjs.com/package/abi-decoder",
+      "source": "npm"
     },
     {
       "title": "Using It in Node",

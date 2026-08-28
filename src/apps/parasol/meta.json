@@ -32,11 +32,10 @@
   },
   "resources": [
     {
-      "title": "An Unopinionated Contract Environment",
-      "tldr": "Mocha tests that rerun on save, generated docs, and direct access to solc and ganache rather than a wrapper over them.",
-      "url": "https://www.alchemy.com/dapps/parasol",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Parasol&token=289ac21d63baf5c272ac1bffe732f0ac9331a5e417aea57ae9f73f88cf586f32"
+      "title": "An Agile Solidity Workflow",
+      "tldr": "Save a file and it recompiles, runs static analysis, redeploys to ganache and reruns the tests, with a REPL open against the deployed contracts.",
+      "url": "https://moralis.com/web3-wiki/parasol/",
+      "source": "Moralis Web3 Wiki"
     }
   ]
 }

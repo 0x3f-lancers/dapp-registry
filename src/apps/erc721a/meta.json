@@ -32,12 +32,11 @@
   },
   "resources": [
     {
-      "title": "Where the Gas Savings Come From",
-      "tldr": "Minting one NFT costs 154,814 gas the old way and 76,690 here. Minting five saves over seven times. The mechanism behind that.",
-      "url": "https://www.alchemy.com/blog/erc721-vs-erc721a-batch-minting-nfts",
-      "source": "Alchemy Blog",
-      "tag": "Infrastructure",
-      "image": "https://media.alchemy.com/1703672992-2064-20pt.png"
+      "title": "Minting Many NFTs For One Fee",
+      "tldr": "The implementation behind cheap batch mints, what it changes about ownership storage, and the trade-off it makes on transfers.",
+      "url": "https://github.com/chiru-labs/ERC721A",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/d6e94fab51a40bbbeafa39f5b6f02807514094b76c9fe4516e15a36737e1bd33/chiru-labs/ERC721A"
     },
     {
       "title": "The Three Optimisations Azuki Made",

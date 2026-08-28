@@ -33,20 +33,11 @@
   },
   "resources": [
     {
-      "title": "Querying Synth Activity",
-      "tldr": "Exchanges, fees and the Candle entity that carries oracle prices over time, which is what any chart is really built from.",
-      "url": "https://www.alchemy.com/dapps/synthetix-subgraph",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Synthetix%20Subgraph&token=397e191837be1c5af0f4449963d483ae3626983fee9f4306d514f9ef5cdd7fb2",
-      "tag": "Infrastructure"
-    },
-    {
-      "title": "What Changed in the Subgraphs",
-      "tldr": "The team's own write-up of a significant rework, useful for understanding why older queries stopped matching the schema.",
+      "title": "Rebuilding The Data Layer",
+      "tldr": "What changed across the exchange, rates and loan subgraphs, and why the split into several smaller ones made queries faster.",
       "url": "https://blog.synthetix.io/major-subgraph-improvements/",
-      "source": "Synthetix",
-      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2021/12/header.png",
-      "tag": "Infrastructure"
+      "source": "Synthetix Blog",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2021/12/header.png"
     }
   ]
 }

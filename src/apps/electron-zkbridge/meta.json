@@ -34,12 +34,11 @@
   },
   "resources": [
     {
-      "title": "Bridging on Proofs, Not Trust",
-      "tldr": "Ed25519 verification compiled into EVM-friendly circuits, which is what lets a Cosmos-to-Ethereum hop cost under a dollar.",
-      "url": "https://www.alchemy.com/dapps/electron-zkbridge",
-      "source": "Alchemy",
-      "tag": "Trading",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Electron%20zkBridge&token=42528f6842e1d9ddc2372ba28056945c1ee5bd3d375151e50a2902b0b540bcb7"
+      "title": "A Bridge With No Multisig",
+      "tldr": "How the header relay and updater contract work together, so the receiving chain verifies a proof rather than trusting a signer set.",
+      "url": "https://medium.com/electron-labs/electron-zkbridge-1-0-mainnet-launch-3cd1e1f8f37d",
+      "source": "Electron Labs",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:800/1*mgOf7rAcxgYmvr4n8ZTqRA.gif"
     },
     {
       "title": "Why Aggregate Proofs at All",

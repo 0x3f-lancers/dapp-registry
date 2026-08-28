@@ -34,12 +34,11 @@
   },
   "resources": [
     {
-      "title": "A Terabyte of Chain Data a Day",
-      "tldr": "Solana produces more data than ordinary RPC can serve. Real-time streams, backfillers and archival endpoints built for that volume.",
-      "url": "https://www.alchemy.com/dapps/dexterlab",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Alchemy&token=9518af8cb31d15b5c3e22912bbc34d5f5ad120ad29162c7a1272ab7724e8ea3e",
-      "tag": "Research"
+      "title": "A Lighter Solana RPC Node",
+      "tldr": "Their open-source RPC implementation: what it drops from the full validator, how it serves ledger reads, and how to run it yourself.",
+      "url": "https://github.com/dexterlaboss/solana-lite-rpc",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/11912b4a20f4e0cf221c42e26c5bd32a10c00386c8325a3a0c9cf2b0bceedda7/dexterlaboss/archival-rpc"
     }
   ]
 }

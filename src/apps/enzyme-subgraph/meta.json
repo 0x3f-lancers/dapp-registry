@@ -33,12 +33,11 @@
   },
   "resources": [
     {
-      "title": "Querying On-Chain Vault Data",
-      "tldr": "Contract events indexed into something searchable, so vault composition and depositor history stop needing a node of your own.",
-      "url": "https://www.alchemy.com/dapps/enzyme-subgraph",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Enzyme%20Subgraph&token=50b8d6daee38efa4afa7b49a3e073c6ff274c295c67ef57c494ccf1af3afdae6",
-      "tag": "DeFi"
+      "title": "Indexing Vault Activity",
+      "tldr": "How the vault, share and asset entities are modelled so fund performance can be queried instead of replayed from logs.",
+      "url": "https://github.com/enzymefinance/subgraphs",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/be756ee04ad43c516079f17c1013964f93c7f380ff268ba8a5ec179f7019f6b0/enzymefinance/subgraphs"
     },
     {
       "title": "Subgraph or API",

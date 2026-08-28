@@ -46,12 +46,11 @@
       "tag": "DeFi"
     },
     {
-      "title": "What the Subgraph Indexes",
-      "tldr": "The fields available and the paging limit of 100 per query, plus why interest-bearing balances need formatting after you read them.",
-      "url": "https://www.alchemy.com/dapps/aave-subgraph",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Aave%20Subgraph&token=2efbb2fcb94ebe0d2e8696c2cede411202bb52b07a6723747c07fc421b79d49c",
-      "tag": "Infrastructure"
+      "title": "The Subgraphs Aave Publishes",
+      "tldr": "Entity definitions and mappings for reserves, users and rates across every deployment, and how to build them locally.",
+      "url": "https://github.com/aave/protocol-subgraphs",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/f4b8e2ceddcdced92a9445b3430f290e246af966b1afa3b08a2ef8c30397a6e5/aave/protocol-subgraphs"
     }
   ]
 }

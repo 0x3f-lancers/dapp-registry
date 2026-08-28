@@ -34,12 +34,11 @@
   },
   "resources": [
     {
-      "title": "Wiring Prettier Into the Linter",
-      "tldr": "Every formatting difference reported as its own lint issue. The packages to install and the config that connects them.",
-      "url": "https://www.alchemy.com/dapps/solhint-prettier-plugin",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Solhint-Prettier%20Plugin&token=13a937d6e14e119f17d7abe5b7180031fd1c3d62623d55b610b2aa5b0d710a69",
-      "tag": "Tutorial"
+      "title": "Formatting As A Lint Rule",
+      "tldr": "Reports prettier differences as solhint problems, so style issues show up in the same output as everything else.",
+      "url": "https://github.com/fvictorio/solhint-plugin-prettier",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/ab310ab93a30a3c48663e08844ee501e2854f85c9a4b7fd49f97e7a1ea1300be/fvictorio/solhint-plugin-prettier"
     },
     {
       "title": "Linting and Formatting Are Not the Same Job",

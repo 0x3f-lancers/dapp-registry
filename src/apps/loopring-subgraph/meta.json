@@ -32,12 +32,11 @@
   },
   "resources": [
     {
-      "title": "Reading a zkRollup's Blocks",
-      "tldr": "Rollup data sits on Ethereum but is not readable as transactions. What indexing it turns back into accounts and balances.",
-      "url": "https://www.alchemy.com/dapps/loopring-subgraph",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Loopring%20Subgraph&token=2c616a7bd6fab4ce0e310eca533fdad9848d7e3a62480408e260f8976aa905ee",
-      "tag": "Infrastructure"
+      "title": "Querying Layer 2 Blocks Directly",
+      "tldr": "The schema behind the index: L2 blocks, transactions, account balances, pools and pairs, with the volume aggregations already built.",
+      "url": "https://github.com/protofire/loopringv3.6-subgraph",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/56fba0ffb3d4aa1b8d8002456570b0301e9d1a5f42e7365b951511c2599d5ed2/protofire/loopringv3.6-subgraph"
     },
     {
       "title": "Why the Subgraph Was Built",

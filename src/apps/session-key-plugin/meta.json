@@ -38,12 +38,11 @@
   },
   "resources": [
     {
-      "title": "Signing Without the Main Key",
-      "tldr": "A scoped key with a start and end time, an allowlist, and spending caps. What an app can do with it, and what it cannot.",
-      "url": "https://www.alchemy.com/dapps/session-key-plugin",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Session%20Key%20Plugin&token=caa04dec513d75b5e69abec26df28505672631694f6174c512610d893ee622f8",
-      "tag": "Payments"
+      "title": "Plugins On A Smart Account",
+      "tldr": "The standard this plugin is built on, and why a scoped, expiring signer is safer to hand an app than the account's own key.",
+      "url": "https://medium.com/decipher-media/demystifying-erc-6900-5a52db06dcff",
+      "source": "Decipher Media",
+      "image": "https://miro.medium.com/v2/resize:fit:875/0*SxZwtvkVz0Jk73-O.png"
     },
     {
       "title": "The Standard It Plugs Into",

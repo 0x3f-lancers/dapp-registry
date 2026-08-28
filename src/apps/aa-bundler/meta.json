@@ -40,12 +40,11 @@
       "tag": "Trading"
     },
     {
-      "title": "What the Bundler Is Responsible For",
-      "tldr": "Simulating operations, tracking the reputation of paymasters and factories, and gossiping a mempool to other bundlers.",
-      "url": "https://www.alchemy.com/dapps/aa-bundler",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Silius&token=61efc11410a776e6f99deada46bad693a77422518b775022463b5d52c35c9202",
-      "tag": "Identity"
+      "title": "An ERC-4337 Bundler In Rust",
+      "tldr": "The implementation itself: how user operations are validated, simulated and packed into a bundle, plus how to run a node.",
+      "url": "https://github.com/Vid201/aa-bundler",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/1d5c01dcc208bd6708a891edd01d249c2936f918be16a29a473c8b040cf7f42a/silius-rs/silius"
     }
   ]
 }

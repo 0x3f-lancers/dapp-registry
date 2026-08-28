@@ -34,12 +34,11 @@
   },
   "resources": [
     {
-      "title": "Perpetuals Backed by a Single Vault",
-      "tldr": "Depositors take the other side of every trade, collecting losses and fees and paying out winners. That is the whole risk model.",
-      "url": "https://www.alchemy.com/dapps/pika-protocol",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Pika%20Protocol&token=e213989a6cf78bf1aaae470e177e45600126570b1cfd6d43e01f32e0df1e56ac",
-      "tag": "Trading"
+      "title": "How The vAMM Prices A Trade",
+      "tldr": "A research write-up on the perp exchange: the virtual AMM, the oracle blend behind it, and where the liquidity provider takes on risk.",
+      "url": "https://medium.com/magnuscapital/pika-protocol-5633bd31c506",
+      "source": "Magnus Capital",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*3TY6GU6YBz7FcVk282UABg.png"
     }
   ]
 }

@@ -35,12 +35,10 @@
   },
   "resources": [
     {
-      "title": "Onboarding Without a Seed Phrase",
-      "tldr": "Smart accounts created behind a normal login, so a first-time user is onchain in seconds without meeting a recovery phrase.",
-      "url": "https://www.alchemy.com/dapps/wally",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=List%20of%20Wallet%20developer%20tools&token=5e33f69164efef12d1ba7b05fdc89f931a1d2d6b8b49a9fc92c822affb4f55d9",
-      "tag": "Security"
+      "title": "Wallets Without Seed Phrases",
+      "tldr": "How an embedded wallet signs users in with an email or a Google account, and where the key actually lives when nobody writes down twelve words.",
+      "url": "https://developers.moralis.com/web3-wiki/wally/",
+      "source": "Moralis Web3 Wiki"
     },
     {
       "title": "Why Games Reach for Embedded Wallets",

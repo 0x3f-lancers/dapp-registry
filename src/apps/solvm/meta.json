@@ -34,12 +34,11 @@
   },
   "resources": [
     {
-      "title": "An EVM Running Inside the EVM",
-      "tldr": "A stripped-down virtual machine built in Yul and Solidity, as a memory-management exercise that points toward Solidity scripting.",
-      "url": "https://www.alchemy.com/dapps/solvm",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Solvm&token=7f5b8e9bbaf39e3998a0a7746d4ed1e1e1716cb1b92aeaefafa7e97683789361",
-      "tag": "Infrastructure"
+      "title": "Why Solana Runs Contracts In Parallel",
+      "tldr": "Sealevel and the register-based SVM explained, and how that execution model differs from the single-threaded EVM.",
+      "url": "https://squads.xyz/blog/solana-svm-sealevel-virtual-machine",
+      "source": "Squads",
+      "image": "https://framerusercontent.com/images/pxqhGwSyGnBhGQoYGsB7y1RyfQ.png"
     }
   ]
 }

@@ -37,12 +37,11 @@
   },
   "resources": [
     {
-      "title": "Locking NFTs Inside a Live Wallet",
-      "tldr": "A separate storage key freezes chosen tokens, so they survive even if the owner key is compromised — and stay usable for gating.",
-      "url": "https://www.alchemy.com/dapps/cold-storage-plugin",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Cold%20Storage%20Plugin&token=1bfaddc9b16e18a2429a0615b48f13a42f427c783c22375e87a6598381ff65de",
-      "tag": "Tokenization"
+      "title": "Locking NFTs Inside A Live Wallet",
+      "tldr": "The plugin source: a separate storage key freezes chosen ERC-721s, so the tokens survive even if the account owner key is compromised.",
+      "url": "https://github.com/alchemyplatform/aa-virtual-cold-storage",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/3a9ef9f05f055f98b93c9408fc1dc50bf0e9fe87a80f8cfef247e8cb9cd8a5da/alchemyplatform/aa-virtual-cold-storage"
     },
     {
       "title": "The Modular Account Standard",

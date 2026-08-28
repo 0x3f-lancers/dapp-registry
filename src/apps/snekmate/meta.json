@@ -33,12 +33,11 @@
   },
   "resources": [
     {
-      "title": "Vyper Building Blocks",
-      "tldr": "Authentication, tokens and utility modules written for Vyper rather than ported from Solidity habits.",
-      "url": "https://www.alchemy.com/dapps/snekmate",
-      "source": "Alchemy",
-      "tag": "Tutorial",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Snekmate&token=26de7b35919d30179f1ddf7f7f5dc3b93c0fd9fd70b64a60d72c82b3fac0e626"
+      "title": "Vyper Building Blocks, Audited In Places",
+      "tldr": "The modules themselves: ownership, access control and token implementations, with a clear note on which have been reviewed and which have not.",
+      "url": "https://github.com/pcaversaccio/snekmate",
+      "source": "GitHub",
+      "image": "https://repository-images.githubusercontent.com/519523885/7256856d-8529-4e22-aafd-8233588090d3"
     },
     {
       "title": "What Has and Has Not Been Audited",

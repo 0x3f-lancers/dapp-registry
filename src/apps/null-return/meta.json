@@ -45,12 +45,11 @@
   },
   "resources": [
     {
-      "title": "Pre-Audit, Audit, Fuzzing, Proof",
-      "tldr": "Four different depths of review and what each one is actually capable of catching. Useful before commissioning any of them.",
-      "url": "https://www.alchemy.com/dapps/null-return",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Null%20Return&token=ff131737a063e2b2fc0249c9fda4ab53339330dfdb1fb6c0b8f4590d928f2e3b",
-      "tag": "Security"
+      "title": "Audit Or Formal Verification?",
+      "tldr": "The firm's own case for running both: what a manual review catches that a proof cannot, and where the proof is the only thing that settles it.",
+      "url": "https://medium.com/@nullreturn/audit-formal-verification-why-they-work-best-together-c7e35d9cfd36",
+      "source": "Null Return",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*MA2AGXQrT7W4hzAjDPueBw.png"
     },
     {
       "title": "What an Audit Is and Is Not",

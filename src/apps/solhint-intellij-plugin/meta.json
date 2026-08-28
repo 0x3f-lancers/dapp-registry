@@ -34,12 +34,10 @@
   },
   "resources": [
     {
-      "title": "Linting Solidity as You Save",
-      "tldr": "Solhint findings surfaced inline in the editor, with the style-guide and security rule sets configurable per project.",
-      "url": "https://www.alchemy.com/dapps/solhint-intellij-plugin",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=Solhint%20for%20IntelliJ&token=9df07046dfb8677b29041bf1ba7db3f82e039e25304ff0f09532dbe0dcf4d16b",
-      "tag": "Infrastructure"
+      "title": "The Linter Behind The Plugin",
+      "tldr": "The rule set the IDE plugin surfaces: style and security rules, how to configure them, and how to silence one on a single line.",
+      "url": "https://protofire.github.io/solhint/",
+      "source": "Solhint"
     },
     {
       "title": "Installing and Configuring It",

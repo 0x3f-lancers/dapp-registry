@@ -32,12 +32,11 @@
   },
   "resources": [
     {
-      "title": "Paying Less by Waiting",
-      "tldr": "Sign the transaction now, submit it when the base fee drops. Non-custodial, because a signed transaction cannot be altered.",
-      "url": "https://www.alchemy.com/dapps/gashawk",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=List%20of%20Gas%20tools&token=75b16c7cc5590c3407b8439f9884d3814a6dfc5fa223debddd4526d0c3365dc5",
-      "tag": "Payments"
+      "title": "Waiting For Cheap Gas Automatically",
+      "tldr": "You sign now and set a deadline; the queue picks the moment to broadcast, which is why the service can never alter the transaction.",
+      "url": "https://www.blog.blockscout.com/gashawk-on-blockscout-save-gas-fees/",
+      "source": "Blockscout",
+      "image": "https://storage.ghost.io/c/ba/bf/babf742f-7c99-455a-9a8d-a5eed88c9d69/content/images/size/w1200/2024/09/Gashawk_Blockscout.jpg"
     },
     {
       "title": "Which Transactions Can Actually Wait",

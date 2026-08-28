@@ -33,12 +33,11 @@
   },
   "resources": [
     {
-      "title": "An RPC That Protects the Sender",
-      "tldr": "Transactions routed so sandwich bots cannot see them first, with back-running rebates returned to the wallet that sent them.",
-      "url": "https://www.alchemy.com/dapps/betarpc",
-      "source": "Alchemy",
-      "image": "https://www.alchemy.com/api/og?variant=dapp&title=BetaRPC&token=795dbf5b3aa11484e3a9dc051fb7d0abeabf528388908bcfdfe4967092b1bb3a",
-      "tag": "Security"
+      "title": "Routing Trades Away From The Mempool",
+      "tldr": "Setup notes for a private RPC endpoint, and what changes for a transaction that never sits in the public mempool.",
+      "url": "https://github.com/mevalphaleak/BetaRPC-setup",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/830cd4b22384dc43d5c2dc55dacd1c0ac270d3c7d258bfdddb495bd3dfe67674/mevalphaleak/BetaRPC-setup"
     },
     {
       "title": "Why the Free Endpoint Fails in Production",
