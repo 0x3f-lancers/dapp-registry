@@ -35,5 +35,23 @@
       "wowearn",
       "flare-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Guide to Attestations in Web3",
+      "tldr": "Compares them directly against NFTs and POAPs to argue they may prove more useful and more scalable for identity.",
+      "url": "https://www.chainlens.com/post/attestations-in-web3-a-comprehensive-guide",
+      "source": "Chainlens Blog",
+      "tag": "Identity",
+      "image": "https://cdn.prod.website-files.com/65b25a7c1cf0ffce7d928878/66d6f83e095da5b31e3b6e71_Attestations%20in%20Web3%20A%20%20Comprehensive%20Guide%20Blog%20(1).png"
+    },
+    {
+      "title": "How to Use Quorum Dev Quickstart With a Blockchain Explorer",
+      "tldr": "Chainlens is now wired into the Quorum dev quickstart repo, so spinning up a private network gives you a working block explorer with it.",
+      "url": "https://www.chainlens.com/post/chainlens-block-explorer-integration-with-quorum-developer-quickstart",
+      "source": "Chainlens Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/65b25a7c1cf0ffce7d928878/65c4cc3c8dad3b1cdcc6eb13_Chainlens%20Block%20Explorer%20integration%20with%20Quorum%20Developer%20Quickstart%20(webflow).png"
+    }
+  ]
 }

@@ -30,5 +30,34 @@
       "nightfall",
       "ercx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Fuzzing Solana Programs with Honggfuzz",
+      "tldr": "Builds a Solana vault, then writes fuzz targets around its invariants, showing how property-based testing surfaces the cases unit tests miss.",
+      "url": "https://zokyo.io/blog/fuzzing-solana-honggfuzz/",
+      "source": "Zokyo Blog",
+      "publishedAt": "2025-10-13",
+      "tag": "Infrastructure",
+      "image": "https://zokyo.io/assets/og-image.png"
+    },
+    {
+      "title": "Can We Stop Backdoors in AI-Generated Solidity?",
+      "tldr": "Generated contract code carries real risk when it ships unaudited. What controls actually catch a deliberately hidden backdoor.",
+      "url": "https://zokyo.io/blog/control-ai-smart-contracts/",
+      "source": "Zokyo Blog",
+      "publishedAt": "2025-04-16",
+      "tag": "Security",
+      "image": "https://zokyo.io/assets/og-image.png"
+    },
+    {
+      "title": "The BetterBank Exploit",
+      "tldr": "Unauthorised bonus minting combined with liquidity manipulation on PulseChain. The incident reconstructed from the chain.",
+      "url": "https://zokyo.io/blog/betterbank-exploit/",
+      "source": "Zokyo Blog",
+      "publishedAt": "2025-08-28",
+      "tag": "Security",
+      "image": "https://zokyo.io/assets/og-image.png"
+    }
+  ]
 }

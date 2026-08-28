@@ -30,5 +30,22 @@
       "opensea-api",
       "deeper-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Working With OrbitDB in Node",
+      "tldr": "A full build: starting a node, opening a database, and watching two peers converge without a server between them.",
+      "url": "https://blog.logrocket.com/guide-to-orbitdb-node-js/",
+      "source": "LogRocket",
+      "image": "https://blog.logrocket.com/wp-content/uploads/2020/07/guide-working-with-orbitdb-node-js.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Database Types on Offer",
+      "tldr": "Append-only logs, key-value stores and document collections, all merged with CRDTs so concurrent writes never conflict.",
+      "url": "https://orbitdb.org/",
+      "source": "OrbitDB",
+      "tag": "Research"
+    }
+  ]
 }

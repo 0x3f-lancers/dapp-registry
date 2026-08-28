@@ -38,5 +38,16 @@
       "holdstation",
       "kryptogo-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wallet Entropy and the Coldcard Incident, Explained",
+      "tldr": "A silent fallback in the random number generator cut seed entropy from 128 bits to 40, which is the difference between unbreakable and brute-forceable.",
+      "url": "https://ownbit.io/en/blog/wallet-entropy-coldcard-incident/",
+      "source": "Ownbit Blog",
+      "publishedAt": "2026-08-01",
+      "tag": "Security",
+      "image": "https://ownbit.io/assets/images/v2/blog/wallet-entropy-coldcard-incident/cover.svg"
+    }
+  ]
 }

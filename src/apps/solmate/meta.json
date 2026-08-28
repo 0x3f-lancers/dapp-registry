@@ -31,5 +31,14 @@
       "webstudio",
       "nft-analyst-starter-pack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Gas-Optimised Solidity Building Blocks",
+      "tldr": "Token, auth and vault implementations written for minimal bytecode and cheap execution. The readme notes it is now soft-deprecated for Solady.",
+      "url": "https://github.com/transmissions11/solmate",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/614a09f72bfb345709dbfbedaeb9c2e89cde72210d8459a33b604a085b012f56/transmissions11/solmate"
+    }
+  ]
 }

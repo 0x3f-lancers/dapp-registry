@@ -32,5 +32,34 @@
     "related": [
       "infinitism-bundler"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is a Multisig Wallet?",
+      "tldr": "A wallet that needs several keys to approve a transaction rather than one. How the threshold rule works, the trade-offs, and where it is actually used.",
+      "url": "https://safe.global/blog/what-is-a-multisig-wallet",
+      "source": "Safe Blog",
+      "publishedAt": "2026-05-28",
+      "tag": "Security",
+      "image": "https://a.storyblok.com/f/287344004594556/1800x1233/4ff613f0dd/multisig-blog.jpg/m/1200x630/filters:format(jpg)"
+    },
+    {
+      "title": "WalletConnect Arrives in Safe{Mobile}",
+      "tldr": "Connect a Safe to any compatible dapp from mobile while every transaction still passes through the same multisig approval policy.",
+      "url": "https://safe.global/blog/walletconnect-is-now-available-in-safe-mobile-",
+      "source": "Safe Blog",
+      "publishedAt": "2026-07-20",
+      "tag": "Security",
+      "image": "https://a.storyblok.com/f/287344004594556/1200x627/9de46ed69c/blog-windows-2.png/m/1200x630/filters:format(jpg)"
+    },
+    {
+      "title": "Tempo and Safe{Wallet} for Treasury Payments",
+      "tldr": "Payments-first infrastructure meets smart-account treasury management, as settlement moves to stablecoins and predictability outweighs general execution.",
+      "url": "https://safe.global/blog/tempo-and-safe-wallet-integration",
+      "source": "Safe Blog",
+      "publishedAt": "2026-03-27",
+      "tag": "Payments",
+      "image": "https://a.storyblok.com/f/287344004594556/1800x1233/7b1453acb5/tempo.png/m/1200x630/filters:format(jpg)"
+    }
+  ]
 }

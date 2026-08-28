@@ -31,5 +31,34 @@
       "silo-finance",
       "venus-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Guide to Using Liquid Staking Tokens",
+      "tldr": "Staking yield while holding a transferable token instead of running a validator, and how the yield accounting differs between implementations.",
+      "url": "https://www.oeth.com/blog/how-to-use-liquid-staking-tokens",
+      "source": "Origin Ether Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "DeFi",
+      "image": "https://cmsmediaproduction.s3.us-east-1.amazonaws.com/how_to_use_liquid_staking_tokens_3681644ef4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAWACFXAKGTK2XS5HY%2F20260825%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T072526Z&X-Amz-Expires=900&X-Amz-Signature=49208a18f0b1a94ffe0413bfb1baf71f5cf8bcc89a17d22e9b7780b94a75fef8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+    },
+    {
+      "title": "What Is Leveraged Ethereum Staking?",
+      "tldr": "Pairing liquid staking collateral with a borrow position raises ETH exposure and net carry — and liquidation, rate, liquidity and contract risk with it.",
+      "url": "https://www.oeth.com/blog/what-is-leveraged-staking",
+      "source": "Origin Ether Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "DeFi",
+      "image": "https://cmsmediaproduction.s3.us-east-1.amazonaws.com/what_is_leveraged_staking_morpho_oeth_rays_summer_fi_origin_protocol_56bcc6a479.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAWACFXAKGTK2XS5HY%2F20260825%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T072526Z&X-Amz-Expires=900&X-Amz-Signature=20c5a2cf7db03f09792bc45c03dddbcf5548219b2ced17cde087c8eb40235503&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+    },
+    {
+      "title": "Introducing the WETH ARM Vault",
+      "tldr": "One shared WETH pool quotes stETH, wstETH, eETH and weETH markets at once, rather than dedicating separate liquidity to each pair.",
+      "url": "https://www.oeth.com/blog/weth-arm-introduction",
+      "source": "Origin Ether Blog",
+      "publishedAt": "2026-07-30",
+      "tag": "DeFi",
+      "image": "https://cmsmediaproduction.s3.us-east-1.amazonaws.com/origin_arm_25_a0078736e9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAWACFXAKGTK2XS5HY%2F20260825%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260825T072525Z&X-Amz-Expires=900&X-Amz-Signature=e1115f2c7148aaa72e522288856e269f1ff089a8cfc792b9adbab043eab1e460&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+    }
+  ]
 }

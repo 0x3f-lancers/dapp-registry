@@ -31,5 +31,28 @@
       "apricot-finance",
       "venus-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Rug-Checking a Token in Nine Steps",
+      "tldr": "A concrete checklist you can run before buying, covering contract, liquidity and holder concentration.",
+      "url": "https://www.sharpe.ai/learn/how-to-rug-check-a-token",
+      "source": "Sharpe Learn",
+      "tag": "Security"
+    },
+    {
+      "title": "What to Trust in a Price Model",
+      "tldr": "Machine-learning price prediction examined sceptically, with attention to where these models mislead.",
+      "url": "https://www.sharpe.ai/learn/machine-learning-bitcoin-price-prediction",
+      "source": "Sharpe Learn",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "Reading On-Chain Metrics in Context",
+      "tldr": "Risk and return figures only mean something next to a comparison. How to build one that is honest.",
+      "url": "https://www.sharpe.ai/learn/compare-crypto-on-chain-metrics",
+      "source": "Sharpe Learn",
+      "tag": "Tutorial"
+    }
+  ]
 }

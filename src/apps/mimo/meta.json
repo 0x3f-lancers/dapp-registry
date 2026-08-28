@@ -31,5 +31,31 @@
       "saber",
       "bitcoincom"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Euro Stablecoin Nobody Issues",
+      "tldr": "PAR is minted against overcollateralised vaults rather than a bank deposit, which is what makes it decentralised and not a euro IOU.",
+      "url": "https://medium.com/mimolabs/mimo-par-tokens-explained-are-they-really-innovative-and-how-likely-is-mass-adoption-c6d04cc81079",
+      "source": "Mimo Labs",
+      "tag": "Payments",
+      "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+    },
+    {
+      "title": "Borrowing Without Selling",
+      "tldr": "Locking WBTC, ETH or USDC to mint PAR while keeping exposure to the collateral. The CDP model stated plainly.",
+      "url": "https://globalfintechseries.com/fintech/mimo-defi-protocol-worlds-first-decentralized-lending-platform-to-mint-euro-stablecoin-par/",
+      "source": "Global Fintech Series",
+      "tag": "DeFi",
+      "image": "https://globalfintechseries.com/wp-content/uploads/2021/03/MiMo-DeFi-Protocol-Worlds-First-Decentralized-Lending-Platform-to-Mint-Euro-Stablecoin-PAR.jpg"
+    },
+    {
+      "title": "Working the Polygon Pool",
+      "tldr": "A third-party walkthrough of supplying to the pool, which is more concrete than any protocol overview.",
+      "url": "https://medium.com/midas-capital/guide-mimo-polygon-pool-6f96e2a75736",
+      "source": "Midas Capital",
+      "tag": "Tutorial",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*xobG9iIejO0YfXYvixO_6A.jpeg"
+    }
+  ]
 }

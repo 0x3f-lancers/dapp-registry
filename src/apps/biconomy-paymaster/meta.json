@@ -32,5 +32,25 @@
     "related": [
       "infinitism-bundler"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Gas Sponsorship in Account Abstraction: How Paymasters Work",
+      "tldr": "Separates the batching format from the transport carrying it, and makes the case that transport was the harder half.",
+      "url": "https://blog.biconomy.io/rails-and-cargo-why-eip-8141-is-the-transport-that-finally-ships-erc-8211-to-every-ethereum-user/",
+      "source": "Biconomy Blog",
+      "publishedAt": "2026-05-04",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/f3/e3/f3e3890e-ae54-4873-8478-d803f1a269b8/content/images/size/w1200/2026/05/Gemini_Generated_Image_wn3160wn3160wn31-1.png"
+    },
+    {
+      "title": "Designing Gasless UX: Sponsorship Policies, Limits, and Abuse Controls",
+      "tldr": "Simulating a transaction spanning several chains means predicting state you cannot read yet. Predicate-based simulation and the failures it surfaces.",
+      "url": "https://blog.biconomy.io/cross-chain-and-predicate-based-simulations-with-erc-8211/",
+      "source": "Biconomy Blog",
+      "publishedAt": "2026-05-13",
+      "image": "https://storage.ghost.io/c/f3/e3/f3e3890e-ae54-4873-8478-d803f1a269b8/content/images/size/w1200/2026/05/Screenshot-2026-04-15-at-15.50.38.webp",
+      "tag": "Infrastructure"
+    }
+  ]
 }

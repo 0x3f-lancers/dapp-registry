@@ -31,5 +31,30 @@
       "goat-protocol",
       "metavisor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Elevator Pitch",
+      "tldr": "Undercollateralised on-chain credit, stated in one page including the part where lenders can lose money.",
+      "url": "https://docs.wildcat.finance/overview/introduction",
+      "source": "Wildcat Docs",
+      "image": "https://docs.wildcat.finance/~gitbook/ogimage/lNR0Y4yDm60fdEv5Dhcu"
+    },
+    {
+      "title": "How Borrowers Get Onboarded",
+      "tldr": "Who is allowed to borrow and what they agree to. The gatekeeping that the whole credit model rests on.",
+      "url": "https://docs.wildcat.finance/using-wildcat/how-borrowers-are-onboarded",
+      "source": "Wildcat Docs",
+      "tag": "DeFi",
+      "image": "https://docs.wildcat.finance/~gitbook/ogimage/P3Dbl0bqjVDD6nMczdmf"
+    },
+    {
+      "title": "Proving You Were Affected by a Default",
+      "tldr": "What a lender has to demonstrate when a borrower fails. Rarely documented anywhere, and worth reading before you lend.",
+      "url": "https://docs.wildcat.finance/security-measures/proving-you-are-an-affected-lender-in-a-default",
+      "source": "Wildcat Docs",
+      "tag": "DeFi",
+      "image": "https://docs.wildcat.finance/~gitbook/ogimage/3C2zSUN4GbWOZyzc5Btz"
+    }
+  ]
 }

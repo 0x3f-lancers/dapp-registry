@@ -3,8 +3,12 @@
   "name": "Aark",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744718/web3-explorer/dapp-logos/aark.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Arbitrum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Aark is a 1000x perpetual DEX powered by LST/LRT assets, with no gas fees, an OI cap, and low slippage.",
@@ -17,7 +21,24 @@
     "twitter": "https://x.com/aark_digital"
   },
   "relations": {
-    "alternatives": ["dolomite", "concordex"],
-    "related": ["polynomial-protocol", "zeta-markets"]
-  }
+    "alternatives": [
+      "dolomite",
+      "concordex"
+    ],
+    "related": [
+      "polynomial-protocol",
+      "zeta-markets"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Broad Onchain Contraction Defined Crypto Markets in H1 2026",
+      "tldr": "A short data note arguing the contraction was broad rather than sector-specific. A counterweight to narratives built on a single chart.",
+      "url": "https://aark.digital/en/blog/broad-onchain-contraction-defined-crypto-markets-in-h1-2026",
+      "source": "Aark Digital Blog",
+      "publishedAt": "2026-07-31",
+      "tag": "DeFi",
+      "image": "https://aark.digital/assets/broad-onchain-contraction-defined-crypto-markets-in-h1-2026-thumbnail.jpeg"
+    }
+  ]
 }

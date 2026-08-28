@@ -28,5 +28,23 @@
       "arbitrum-orbit",
       "hyperlane-xyz"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Sequencer That Cannot Read Your Transaction",
+      "tldr": "Time-lock puzzles encrypt each transaction until after ordering, which removes the sequencer ability to front-run or censor.",
+      "url": "https://hackmd.io/@zeroknight/radius_decentralizing_rollup_sequencers",
+      "source": "HackMD",
+      "tag": "Infrastructure",
+      "image": "https://hackmd.io/_uploads/SkWfChrST.png"
+    },
+    {
+      "title": "Shared Sequencing, Researched",
+      "tldr": "An outside analysis of the design, including the split between protected user blockspace and an auction for benign MEV.",
+      "url": "https://medium.com/@scalingx/scalingx-research-radius-a-sequencer-for-layer-2-blockchain-solutions-f24bf4b8b45e",
+      "source": "ScalingX",
+      "tag": "Research",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*LtQIcpHEudFl0VzOzUZ47w.jpeg"
+    }
+  ]
 }

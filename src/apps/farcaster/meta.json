@@ -29,5 +29,28 @@
       "friends-with-benefits",
       "mojito"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building a Mini App",
+      "tldr": "Ordinary web apps that get discovered and run inside the client. What that constrains and what it gives you.",
+      "url": "https://miniapps.farcaster.xyz/docs/getting-started",
+      "source": "Farcaster Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Running a Snapchain Node",
+      "tldr": "Standing one up on EC2, with the real monthly cost stated up front rather than discovered later.",
+      "url": "https://snapchain.farcaster.xyz/guides/running-a-node",
+      "source": "Snapchain Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Getting Network Data Into Postgres",
+      "tldr": "Syncing a node to a database, which is what you need before any serious analysis of the network.",
+      "url": "https://snapchain.farcaster.xyz/guides/syncing-to-db",
+      "source": "Snapchain Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

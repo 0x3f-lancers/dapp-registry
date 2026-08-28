@@ -35,5 +35,31 @@
       "injective-protocol",
       "eigenda"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Subnets, Miners, Validators and Emissions",
+      "tldr": "The chain coordinates and pays; the useful work happens off it. Every moving part of the network defined in one pass.",
+      "url": "https://www.bittensor.com/docs/concepts/network",
+      "source": "Bittensor Docs",
+      "tag": "DeFi",
+      "image": "https://www.bittensor.com/og/docs/concepts/network/image.png"
+    },
+    {
+      "title": "The Case for a Decentralised AI Company",
+      "tldr": "A long essay by a core developer on what Bittensor is trying to replace, and why the incentive design looks the way it does.",
+      "url": "https://www.bittensor.com/about",
+      "source": "Bittensor",
+      "tag": "AI & Agents",
+      "image": "https://www.bittensor.com/images/og_thumbs/about.png"
+    },
+    {
+      "title": "Every Subnet Hyperparameter, Explained",
+      "tldr": "What each knob controls, the unit it is measured in, and how a subnet owner changes it. A reference rather than an overview.",
+      "url": "https://www.bittensor.com/docs/hyperparameters",
+      "source": "Bittensor Docs",
+      "tag": "Explainer",
+      "image": "https://www.bittensor.com/og/docs/hyperparameters/image.png"
+    }
+  ]
 }

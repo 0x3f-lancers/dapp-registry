@@ -35,5 +35,23 @@
       "flooz-trade",
       "degate"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why the Oracle Was Moved to Chainlink",
+      "tldr": "A lending market is only as sound as the prices it liquidates against. The reasoning behind changing the price feed everywhere.",
+      "url": "https://medium.com/venusprotocol/venus-upgrades-its-oracle-mechanism-to-chainlink-across-all-lending-markets-ea93299880b6",
+      "source": "Venus Protocol Blog",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*IILjQjQ5XvVbOIlS8fy7OQ.png"
+    },
+    {
+      "title": "The Risk Framework Behind the Markets",
+      "tldr": "Collateral factors, isolated pools and audits written down as one approach rather than scattered across release notes.",
+      "url": "https://docs-v4.venus.io/risk/risk-management",
+      "source": "Venus Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs-v4.venus.io/~gitbook/ogimage/LjiBsRlf9vdNCuUo891Z"
+    }
+  ]
 }

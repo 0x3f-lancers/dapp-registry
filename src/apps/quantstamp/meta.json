@@ -35,5 +35,34 @@
       "semgrep",
       "polyzoa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Exploit Race",
+      "tldr": "The longest piece here, on the window between an exploit becoming visible and a protocol being able to respond.",
+      "url": "https://quantstamp.com/blog/the-exploit-race",
+      "source": "Quantstamp Blog",
+      "tag": "Security",
+      "publishedAt": "2026-01-16",
+      "image": "https://quantstamp.com/cms-assets/7fd6c424652713ce5a59.png"
+    },
+    {
+      "title": "Engineering Smart Contract Families for Solidity",
+      "tldr": "Designing a set of related contracts as one system rather than several separate ones, and what that changes about upgrades and shared assumptions.",
+      "url": "https://quantstamp.com/blog/engineering-smart-contract-families-for-solidity",
+      "source": "Quantstamp Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-01-15",
+      "image": "https://quantstamp.com/cms-assets/c13f64bcf59806b1b73a.png"
+    },
+    {
+      "title": "Security Beat: Keys Over Code",
+      "tldr": "The month's incidents, with the observation that keeps recurring: far more value is lost through compromised keys than through flawed contracts.",
+      "url": "https://quantstamp.com/blog/june-security-beat",
+      "source": "Quantstamp Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-07",
+      "image": "https://quantstamp.com/cms-assets/e3ac13c94bb2f40845df.png"
+    }
+  ]
 }

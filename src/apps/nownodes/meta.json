@@ -46,5 +46,34 @@
       "spinor",
       "unmarshal"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is the EVM?",
+      "tldr": "Every swap, mint and loan runs code somewhere. That somewhere is the Ethereum Virtual Machine, which turns out to sit under most of Web3.",
+      "url": "https://nownodes.io/blog/what-is-evm-ethereum-virtual-machine-and-why-it-powers-most-of-web3/",
+      "source": "NOWNodes Blog",
+      "publishedAt": "2026-08-07",
+      "tag": "Infrastructure",
+      "image": "https://nownodes.io/blog/wp-content/uploads/2026/07/nodes_1-9.jpg"
+    },
+    {
+      "title": "What Is a DAO?",
+      "tldr": "A group that pools money and decides by code and member vote, not a board. Rules live in a contract, the treasury is visible, no one moves funds alone.",
+      "url": "https://nownodes.io/blog/what-is-a-dao-and-how-do-decentralized-organizations-work/",
+      "source": "NOWNodes Blog",
+      "publishedAt": "2026-08-07",
+      "tag": "Governance",
+      "image": "https://nownodes.io/blog/wp-content/uploads/2026/07/text_2-1.jpg"
+    },
+    {
+      "title": "What Is a DEX?",
+      "tldr": "Swapping one asset for another straight from your own wallet, with no company holding funds or approving the trade. Code executes it, not a support desk.",
+      "url": "https://nownodes.io/blog/what-is-a-dex-decentralized-exchanges-guide-for-beginners/",
+      "source": "NOWNodes Blog",
+      "publishedAt": "2026-08-07",
+      "tag": "Trading",
+      "image": "https://nownodes.io/blog/wp-content/uploads/2026/07/nodes_1-11.jpg"
+    }
+  ]
 }

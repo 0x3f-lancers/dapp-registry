@@ -31,5 +31,21 @@
       "huff-vm",
       "foundry-rust-template"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Installing And Calling The Decoder",
+      "tldr": "The package page: adding the ABI, decoding transaction input, and pulling event params out of a receipt.",
+      "url": "https://www.npmjs.com/package/abi-decoder",
+      "source": "npm"
+    },
+    {
+      "title": "Using It in Node",
+      "tldr": "The API surface with worked examples, including the indexed-versus-non-indexed parameter distinction that confuses people.",
+      "url": "https://github.com/ConsenSys/abi-decoder/blob/master/README.md",
+      "source": "Consensys",
+      "image": "https://opengraph.githubassets.com/ecd80426581bd000aab035321401a5f4c3ef3a1675644f8138200b8da3f0a680/Consensys/abi-decoder",
+      "tag": "Infrastructure"
+    }
+  ]
 }

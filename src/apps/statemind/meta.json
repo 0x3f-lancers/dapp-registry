@@ -37,5 +37,34 @@
       "misttrack",
       "coinsdo"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Curve CryptoPool With Donations",
+      "tldr": "Fourteen thousand words taking one AMM design apart to the arithmetic. If you have wanted to genuinely understand a Curve pool, this is the piece.",
+      "url": "https://statemind.io/blog/curve-cryptopool-with-donations",
+      "source": "Statemind Blog",
+      "tag": "DeFi",
+      "publishedAt": "2026-03-13",
+      "image": "https://statemind.io/blog-media/91a4bc59-27eb-48f5-a643-c385e06a4d7a.jpg"
+    },
+    {
+      "title": "How YieldBasis Really Works",
+      "tldr": "Ten thousand words on a protocol most coverage describes in a paragraph. The word really in the title is earned.",
+      "url": "https://statemind.io/blog/how-yieldbasis-really-works",
+      "source": "Statemind Blog",
+      "tag": "DeFi",
+      "publishedAt": "2026-03-13",
+      "image": "https://statemind.io/blog-media/de9d661f-cd2d-4caa-80a8-d3710a60122a.jpg"
+    },
+    {
+      "title": "Fixed-Rate Lending in DeFi: A Design Review",
+      "tldr": "Notional, TermMax and Pendle solving the same yield-uncertainty problem three ways, compared at the architecture level rather than the marketing one.",
+      "url": "https://statemind.io/blog/fixed-rate-design",
+      "source": "Statemind Blog",
+      "tag": "DeFi",
+      "publishedAt": "2026-01-29",
+      "image": "https://statemind.io/blog-media/f37a2848-c54c-4c18-b650-c52d4a9c95ca.png"
+    }
+  ]
 }

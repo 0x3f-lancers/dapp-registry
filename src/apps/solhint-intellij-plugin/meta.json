@@ -31,5 +31,21 @@
       "etherspot",
       "ethp2p"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Linter Behind The Plugin",
+      "tldr": "The rule set the IDE plugin surfaces: style and security rules, how to configure them, and how to silence one on a single line.",
+      "url": "https://protofire.github.io/solhint/",
+      "source": "Solhint"
+    },
+    {
+      "title": "Installing and Configuring It",
+      "tldr": "The Node and Solhint prerequisites, plus how rules are managed at the code level with inline comments.",
+      "url": "https://github.com/protofire/idea-solidity-solhint",
+      "source": "Protofire",
+      "image": "https://opengraph.githubassets.com/73bc7ff0bfe0b9dc18a52105cbeb1f042535ba383c2de5a70a8934bc93f60953/protofire/idea-solidity-solhint",
+      "tag": "Tutorial"
+    }
+  ]
 }

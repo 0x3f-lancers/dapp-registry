@@ -31,5 +31,25 @@
       "automata",
       "boomfi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Token Incentives Exist in DeFi at All",
+      "tldr": "What happened to profitable LPing, and why extra incentives became necessary to attract liquidity that once arrived for the yield alone.",
+      "url": "https://blog.mitosis.org/blog/why-even-have-token-incentives-in-decentralized-finance",
+      "source": "Mitosis Blog",
+      "publishedAt": "2024-12-23",
+      "tag": "DeFi",
+      "image": "https://blog.mitosis.org/contents/blog/why-even-have-token-incentives-in-decentralized-finance/thumbnail.png"
+    },
+    {
+      "title": "Matrix Vaults Arrive on Morph",
+      "tldr": "Deploying to an L2 that combines optimistic and zk rollups in a hybrid design, and what that hybrid means for vault settlement.",
+      "url": "https://blog.mitosis.org/blog/morph-mitosis",
+      "source": "Mitosis Blog",
+      "publishedAt": "2025-05-01",
+      "tag": "DeFi",
+      "image": "https://blog.mitosis.org/contents/blog/morph-mitosis/thumbnail.png"
+    }
+  ]
 }

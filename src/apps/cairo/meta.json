@@ -31,5 +31,25 @@
       "circular-protocol",
       "parasol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cairo Scores Big With Starknet Devs",
+      "tldr": "Developer feedback after the move from Cairo Zero to Cairo. Worth reading as a record of what a breaking language transition feels like from the outside.",
+      "url": "https://www.cairo-lang.org/blog/cairo-scores-big-with-starknet-devs/",
+      "source": "Cairo Blog",
+      "publishedAt": "2024-08-21",
+      "image": "https://www.cairo-lang.org/wp-content/uploads/2024/08/Starknet-Developer-Survey-2026.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Cairo Community Update",
+      "tldr": "A progress round-up spanning the editor tooling, test runner, CLI and package manager. A snapshot of a language ecosystem being assembled in public.",
+      "url": "https://www.cairo-lang.org/blog/cairo-community-update-1/",
+      "source": "Cairo Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2024-11-19",
+      "image": "https://www.cairo-lang.org/wp-content/uploads/2024/11/1.jpg"
+    }
+  ]
 }

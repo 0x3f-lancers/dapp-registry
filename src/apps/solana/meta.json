@@ -30,5 +30,30 @@
       "bnb-chain",
       "startmining"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Solana Is",
+      "tldr": "The opening chapter of the network's own course: what it does, what it costs to use, and what the speed claims actually mean in practice.",
+      "url": "https://solana.com/learn/what-is-solana",
+      "source": "Solana Learn",
+      "tag": "Infrastructure",
+      "image": "https://solana.com/social/solana.png"
+    },
+    {
+      "title": "How Tokens Work on Solana",
+      "tldr": "SOL is the native currency the way a dollar is a country's. Everything else is a token, and the difference matters more than it first appears.",
+      "url": "https://solana.com/learn/introduction-to-solana-tokens",
+      "source": "Solana Learn",
+      "tag": "Tutorial",
+      "image": "https://solana.com/social/solana.png"
+    },
+    {
+      "title": "Where Solana's Transaction Fees Come From",
+      "tldr": "Fees are designed to stay predictable and cost fractions of a cent. The chapter explains the mechanism rather than just quoting the number.",
+      "url": "https://solana.com/learn/understanding-solana-transaction-fees",
+      "source": "Solana Learn",
+      "image": "https://solana.com/social/solana.png"
+    }
+  ]
 }

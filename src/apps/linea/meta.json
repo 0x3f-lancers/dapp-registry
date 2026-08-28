@@ -33,5 +33,34 @@
       "starknet",
       "shardeum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Small Fields: Faster Proving Toward Real-Time Finality",
+      "tldr": "Cutting proof generation latency and RAM at the same time by changing the field arithmetic. Real cryptographic engineering with a measurable result.",
+      "url": "https://linea.build/blog/small-fields-faster-proving-on-linea-toward-real-time-finality",
+      "source": "Linea Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-07-27",
+      "image": "https://images.ctfassets.net/64upluvbiuck/2FkU9wdTgqGCnuDOVfqYV3/9bd2b7588eeb246703a48822a3ae5c41/Small_Fields_Blog__1_.png"
+    },
+    {
+      "title": "Atomic Delivery-Versus-Payment, Settled Privately",
+      "tldr": "Asset and payment changing hands in one indivisible step across two chains, without publishing who traded what.",
+      "url": "https://linea.build/blog/atomic-dvp-settled-privately-linea-and-bermuda-demonstrate-trustless-private-interoperability-across-chains",
+      "source": "Linea Blog",
+      "tag": "Payments",
+      "publishedAt": "2026-07-27",
+      "image": "https://images.ctfassets.net/64upluvbiuck/2kuOwdWs2Q0OPjowPr4JnQ/11069b4a984885584c97033865687f77/LINEA__1_.png"
+    },
+    {
+      "title": "Your Wallet Just Got Smarter Without Changing Your Address",
+      "tldr": "Adding account abstraction features to an address people already use. The migration problem is usually what stops smart accounts from being adopted.",
+      "url": "https://linea.build/blog/your-wallet-just-got-smarter-without-changing-your-address",
+      "source": "Linea Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-27",
+      "image": "https://images.ctfassets.net/64upluvbiuck/PQHa73jroYhxgEsgNw6T7/c6242a32faf22c3333637b3cc65d4df1/eip_7702_blog.webp"
+    }
+  ]
 }

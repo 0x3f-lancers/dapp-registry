@@ -29,5 +29,34 @@
       "ultimate",
       "zerion"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Meet AgorApp",
+      "tldr": "An interactive IDE for learning Web3 engineering by writing code rather than reading about it. The case for practice-first in a docs-heavy field.",
+      "url": "https://blog.agorapp.dev/blog/meet-agorapp",
+      "source": "AgorApp Blog",
+      "publishedAt": "2024-04-08",
+      "tag": "Tutorial",
+      "image": "https://blog.agorapp.dev/"
+    },
+    {
+      "title": "Efficient Sorter: The Winning Solutions",
+      "tldr": "Reading how other people solved the same constrained problem is one of the fastest ways to improve at Solidity.",
+      "url": "https://blog.agorapp.dev/blog/efficient-sorter-competition",
+      "source": "AgorApp Blog",
+      "publishedAt": "2024-03-27",
+      "tag": "Tutorial",
+      "image": "https://blog.agorapp.dev/"
+    },
+    {
+      "title": "Fibonacci Neighbor: The Winning Solutions",
+      "tldr": "Another set of contest answers, this time on an algorithmic challenge. Useful for seeing where clever maths beats clever code and where it does not.",
+      "url": "https://blog.agorapp.dev/blog/fibonacci-neighbor-competition",
+      "source": "AgorApp Blog",
+      "publishedAt": "2024-02-12",
+      "tag": "Tutorial",
+      "image": "https://blog.agorapp.dev/"
+    }
+  ]
 }

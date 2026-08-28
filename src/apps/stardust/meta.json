@@ -32,5 +32,22 @@
       "monsterra",
       "mfl"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wallets the Player Never Sees",
+      "tldr": "Server-to-server custodial wallets, so a game can hold assets on-chain without asking anyone to write down a seed phrase.",
+      "url": "https://blog.sui.io/stardust-serves-web3-games-sui/",
+      "source": "Sui",
+      "image": "https://cdn.prod.website-files.com/693322d04141bcb0ce1ffb7e/6a4c323f1fbfa9a80fe24b0c_Stardust-Blog-Header--1800x700-.avif",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Onboarding Players Who Do Not Want a Wallet",
+      "tldr": "A long interview on where studios actually lose users, and what has to be hidden for a game to reach a mainstream audience.",
+      "url": "https://www.blockchaingamer.biz/profiles/32443/how-stardust-is-helping-blockchain-devs-onboard-one-billion-gamers/",
+      "source": "BlockchainGamer.biz",
+      "image": "https://www.blockchaingamer.biz/wp-content/uploads/2024/06/canaan-linder.jpg"
+    }
+  ]
 }

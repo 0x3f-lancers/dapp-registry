@@ -36,5 +36,24 @@
       "cartesi",
       "subsquid"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Knowing When Contract State Changes",
+      "tldr": "Events and logs are how an app finds out something happened on chain. Why querying them well is harder than it looks.",
+      "url": "https://medium.com/infura/faster-logs-and-events-e43e2fa13773",
+      "source": "Infura Blog",
+      "publishedAt": "2019-04-17",
+      "image": "https://miro.medium.com/v2/resize:fit:988/1*3I_5rldciszn0Vu50ToxSA.png"
+    },
+    {
+      "title": "Managing Peers Across a Node Fleet",
+      "tldr": "Controlling which nodes connect to which is a real operational problem at scale. How one provider solved it.",
+      "url": "https://medium.com/infura/how-infura-uses-vipnode-to-manage-ethereum-nodes-972cf2acc0f0",
+      "source": "Infura Blog",
+      "publishedAt": "2019-12-11",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*oCvAJ_AFWhBy6JaIDDgDzA.png"
+    }
+  ]
 }

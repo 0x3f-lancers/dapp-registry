@@ -31,5 +31,22 @@
       "violet-verse",
       "buidlguidl"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Turning Addresses Into Names",
+      "tldr": "How labels get assigned from transaction patterns and public disclosure, and why a label is not the same as a tag.",
+      "url": "https://nansen.ai/post/what-is-address-labeling-in-crypto",
+      "source": "Nansen",
+      "image": "https://framerusercontent.com/assets/QHchw4E80B8HlJrZEs9d1fAGUU.jpg"
+    },
+    {
+      "title": "How Public Name Tags Work",
+      "tldr": "The explorer's own account of where its labels come from and what a tag does and does not verify about an address.",
+      "url": "https://info.etherscan.com/public-name-tags-labels/",
+      "source": "Etherscan",
+      "image": "https://info.etherscan.com/explorer/etherscan/og-preview.jpg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

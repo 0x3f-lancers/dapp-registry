@@ -3,8 +3,15 @@
   "name": "Mass",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748225/web3-explorer/dapp-logos/mass.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Arbitrum", "Base", "OP Mainnet", "Polygon"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Base",
+    "OP Mainnet",
+    "Polygon"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Mass is a mobile DeFi app offering trading, on-ramp and off-ramp, limit orders, and access to on-chain and off-chain data.",
@@ -17,7 +24,42 @@
     "twitter": "https://x.com/massdotmoney"
   },
   "relations": {
-    "alternatives": ["crema-finance", "morfi"],
-    "related": ["jasper-vault", "swissborg"]
-  }
+    "alternatives": [
+      "crema-finance",
+      "morfi"
+    ],
+    "related": [
+      "jasper-vault",
+      "swissborg"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Most Tokens Will Never Reach Their ATH Again. Why?",
+      "tldr": "Dilution is the answer, and it is a much less comfortable one than market sentiment. A short piece that reframes how to read a token's price history.",
+      "url": "https://blog.mass.money/my-token-will-never-reach-its-ath-again-why/",
+      "source": "Mass Blog",
+      "publishedAt": "2024-06-03",
+      "tag": "Tutorial",
+      "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/2024/06/gameover.png"
+    },
+    {
+      "title": "Making Gas Tokens a Thing of the Past",
+      "tldr": "Opens on the familiar dead end of holding tokens you cannot move because you have no ETH for gas, then covers how paying fees in any asset removes it.",
+      "url": "https://blog.mass.money/mass-made-gas-tokens-a-thing-from-the-past/",
+      "source": "Mass Blog",
+      "publishedAt": "2024-05-27",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/size/w1200/2024/05/gas_tank-3.png"
+    },
+    {
+      "title": "Trading With Onchain Data Instead of Guesswork",
+      "tldr": "Nobody has a crystal ball, but most people trade with far less onchain information than is freely available. A survey of what data is worth watching.",
+      "url": "https://blog.mass.money/mass-data-your-crystal-ball-to-trade/",
+      "source": "Mass Blog",
+      "publishedAt": "2024-05-29",
+      "tag": "Research",
+      "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/2024/05/blind_traders.png"
+    }
+  ]
 }

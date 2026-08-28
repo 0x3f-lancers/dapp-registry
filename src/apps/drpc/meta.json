@@ -37,5 +37,34 @@
       "injective-protocol",
       "gosh"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying Blockchain Data in Natural Language",
+      "tldr": "Agent skills let an AI retrieve chain data without hand-writing RPC calls, integrating SDKs or parsing JSON. How the pattern works in practice.",
+      "url": "https://blog.drpc.org/agent-skills-rpc-blockchain-ai/",
+      "source": "dRPC Blog",
+      "publishedAt": "2026-04-16",
+      "tag": "Research",
+      "image": "https://blog.drpc.org/_astro/Use-dRPC-Agent-Skills-to-access-blockchain-data-via-AI-agents.-No-RPC-setup-no-manual-queries.-Connect-in-seconds-and-start-querying-100-chains.CHy2pt1e_IoNnf.jpeg"
+    },
+    {
+      "title": "HyperCore Support and Tron and TON Upgrades on dRPC",
+      "tldr": "A round of infrastructure changes across NodeCloud and NodeCore, with what each means for developers already building against the endpoints.",
+      "url": "https://blog.drpc.org/drpc-platform-updates-hypercore-tron-ton/",
+      "source": "dRPC Blog",
+      "publishedAt": "2026-07-01",
+      "tag": "Infrastructure",
+      "image": "https://blog.drpc.org/_astro/features-update-july-2026-blog-post-cover.C6pX0CmZ_Z1qYo84.jpeg"
+    },
+    {
+      "title": "dRPC and JAW.id on Identity-First Smart Accounts",
+      "tldr": "Pairing RPC infrastructure with an identity-first smart account SDK for EVM chains, and why reliability stops being optional at real usage.",
+      "url": "https://blog.drpc.org/drpc-jaw-id-partnership/",
+      "source": "dRPC Blog",
+      "publishedAt": "2026-03-04",
+      "tag": "Identity",
+      "image": "https://blog.drpc.org/_astro/drpc-jaw.id-partnership-rpc-node-infrastructure.CsEfj670_21Qz3a.jpeg"
+    }
+  ]
 }

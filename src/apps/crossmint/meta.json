@@ -38,5 +38,31 @@
       "onramp-money",
       "openfort"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Account Abstraction? ERC-4337 Wallets Explained",
+      "tldr": "A clean walk through what ERC-4337 changes about who pays gas, who signs, and what a wallet is allowed to be.",
+      "url": "https://crossmint.com/learn/account-abstraction-erc-4337-wallets",
+      "source": "Crossmint Learn",
+      "publishedAt": "2026-05-04",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Agent Wallets Compared: Crossmint, Privy, Turnkey, Coinbase",
+      "tldr": "Vendor-authored, but detailed enough on key custody and spending limits to serve as a map of what this category has to solve.",
+      "url": "https://crossmint.com/learn/agent-wallets-compared",
+      "source": "Crossmint Learn",
+      "publishedAt": "2026-04-24",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "Agentic Commerce Use Cases: 5 Examples That Work Today",
+      "tldr": "Short and deliberately unambitious: five things agents can actually transact for right now, which is a useful corrective to the broader speculation.",
+      "url": "https://crossmint.com/learn/agentic-commerce-use-cases",
+      "source": "Crossmint Learn",
+      "publishedAt": "2026-04-24",
+      "tag": "AI & Agents"
+    }
+  ]
 }

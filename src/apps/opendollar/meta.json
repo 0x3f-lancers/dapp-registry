@@ -30,5 +30,30 @@
       "wigoswap",
       "smartcredit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What OD Is",
+      "tldr": "The stablecoin explained in one page, including what backs it.",
+      "url": "https://docs.opendollar.com/What-is-OD",
+      "source": "Open Dollar Docs",
+      "tag": "Payments",
+      "image": "https://docs.opendollar.com/assets/docs-og-image.png"
+    },
+    {
+      "title": "Vaults as NFTs",
+      "tldr": "Making a debt position transferable by representing it as a token. What that enables.",
+      "url": "https://docs.opendollar.com/NFT-Vaults-Overview",
+      "source": "Open Dollar Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.opendollar.com/assets/docs-og-image.png"
+    },
+    {
+      "title": "Who It Is Built For",
+      "tldr": "An explicit statement of the intended user, which makes the design choices legible.",
+      "url": "https://docs.opendollar.com/Who-is-Open-Dollar-built-for",
+      "source": "Open Dollar Docs",
+      "image": "https://docs.opendollar.com/assets/docs-og-image.png"
+    }
+  ]
 }

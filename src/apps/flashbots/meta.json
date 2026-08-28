@@ -30,5 +30,25 @@
       "publicnode",
       "nodereal"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Putting a Number on MEV",
+      "tldr": "The first serious attempt to measure extractable value rather than argue about it, released as a public dashboard.",
+      "url": "https://medium.com/flashbots/quantifying-mev-introducing-mev-explore-v0-5ccbee0f6d02",
+      "source": "Flashbots Blog",
+      "publishedAt": "2021-02-22",
+      "tag": "Trading",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*ZpRhuTKj-gqURgslnqEtIg.png"
+    },
+    {
+      "title": "Sandwiching, Fairness and EIP-1559",
+      "tldr": "A monthly report that reads as analysis: what sandwich attacks cost users, and how the fee change was expected to alter them.",
+      "url": "https://medium.com/flashbots/flashbots-transparency-report-february-2021-8ac45b467d0a",
+      "source": "Flashbots Blog",
+      "publishedAt": "2021-03-18",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*LUqjT2l59iaAxWki3i_HMg.jpeg"
+    }
+  ]
 }

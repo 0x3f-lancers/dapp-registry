@@ -32,5 +32,34 @@
       "ora",
       "axelar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reporter Rewards Have Fully Moved to Tellor Layer",
+      "tldr": "Rewards no longer flow through the legacy Ethereum contracts. What reporters still on Tellor 360 must do, and why Tellor now means the Layer chain.",
+      "url": "https://tellor.io/blog/tellor-rewards-have-fully-transitioned",
+      "source": "Tellor Blog",
+      "publishedAt": "2026-05-22",
+      "tag": "Research",
+      "image": "https://tellor.io/wp-content/uploads/2024/11/logo512.png"
+    },
+    {
+      "title": "Tellor Pull: Fetching Oracle Data On Demand",
+      "tldr": "An alternative to the default push model: the value is fetched at the moment a user interacts, attested by Tellor and verified inside the same transaction.",
+      "url": "https://tellor.io/blog/tellor-pull-a-new-way-to-use-tellor",
+      "source": "Tellor Blog",
+      "publishedAt": "2026-05-28",
+      "tag": "Infrastructure",
+      "image": "https://tellor.io/wp-content/uploads/2024/11/logo512.png"
+    },
+    {
+      "title": "Introducing the Tellor Operator Dashboard",
+      "tldr": "Tellor's security rests on validators, reporters and delegators locking TRB. The dashboard lets each estimate their costs and earnings before committing.",
+      "url": "https://tellor.io/blog/introducing-the-tellor-operator-dashboard",
+      "source": "Tellor Blog",
+      "publishedAt": "2026-06-12",
+      "tag": "Security",
+      "image": "https://tellor.io/wp-content/uploads/2024/11/logo512.png"
+    }
+  ]
 }

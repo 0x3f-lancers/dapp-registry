@@ -31,5 +31,34 @@
       "huff-vm",
       "ethfiddle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Self-Driving Company",
+      "tldr": "Code output nearly tripled in six months while review times and incident rates held. Whether you believe the numbers, the operational detail is good.",
+      "url": "https://replit.com/blog/self-driving-company",
+      "source": "Replit Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-16",
+      "image": "https://cdn.sanity.io/images/bj34pdbp/migration/d52c029ac77689f23a2160c4ef9db64d44ae582b-3600x2025.png?w=1200&h=630&fit=max&fm=jpg"
+    },
+    {
+      "title": "Evaluating and Improving an Agent at Scale",
+      "tldr": "Users arrive with a goal in natural language and no repo, tests or framework. How do you measure whether the agent did well?",
+      "url": "https://replit.com/blog/evaluating-and-improving-agent-at-scale",
+      "source": "Replit Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-06-23",
+      "image": "https://cdn.sanity.io/images/bj34pdbp/migration/8664112b3f359393a7d01407e09eba086c28eaf4-1954x952.png?w=1200&h=630&fit=max&fm=jpg"
+    },
+    {
+      "title": "AI Adoption Starts With Truth",
+      "tldr": "One confidently wrong answer and a user stops trusting the tool entirely. Makes the case that a reliable data layer is the prerequisite, not the polish.",
+      "url": "https://replit.com/blog/ai-adoption",
+      "source": "Replit Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-08-03",
+      "image": "https://cdn.sanity.io/images/bj34pdbp/migration/a66d3a0fce27c3ba894def847fc0194bce6456a4-1280x720.jpg?w=1200&h=630&fit=max&fm=jpg"
+    }
+  ]
 }

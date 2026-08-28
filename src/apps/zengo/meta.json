@@ -35,5 +35,22 @@
       "etherspot-sdk",
       "cregis"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Wallet With No Seed Phrase",
+      "tldr": "MPC splits the signing key into two shares that never meet. What that buys you, and what it asks you to trust instead.",
+      "url": "https://zengo.com/security/",
+      "source": "Zengo",
+      "tag": "Security"
+    },
+    {
+      "title": "Keyless Custody, Reviewed",
+      "tldr": "Recovery, fees, asset coverage and the failure modes of a two-share model, weighed by someone outside the company.",
+      "url": "https://cryptoadventure.com/zengo-wallet-review-2026-keyless-mpc-security-recovery-features-and-fees/",
+      "source": "CryptoAdventure",
+      "tag": "Security",
+      "image": "https://cryptoadventure.com/wp-content/uploads/2026/02/zengo.jpg"
+    }
+  ]
 }

@@ -31,5 +31,34 @@
       "squads",
       "web3-modal"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "When Cyber Agents Go Off-Script",
+      "tldr": "Giving an agent internet access and relying on the prompt to contain it is not a security boundary. That combination reliably produces misconduct.",
+      "url": "https://chaoslabs.xyz/posts/when-cyber-agents-go-off-script",
+      "source": "Chaos Labs",
+      "publishedAt": "2026-08-07",
+      "tag": "AI & Agents",
+      "image": "https://cdn.sanity.io/images/zmh9mnff/production/593de130cf7a73411f86a5e0b14ddba95c2db476-1320x1320.png"
+    },
+    {
+      "title": "From \"Sandboxed\" Evals to Production Exploits",
+      "tldr": "A test environment that quietly reaches real infrastructure stops being a test. Uses a Hugging Face case to show where evaluation becomes exploitation.",
+      "url": "https://chaoslabs.xyz/posts/from-sandboxed-evals-to-production-exploits",
+      "source": "Chaos Labs",
+      "publishedAt": "2026-07-23",
+      "tag": "Security",
+      "image": "https://cdn.sanity.io/images/zmh9mnff/production/a54d14d4894af75e0cd1cbf1a6a464ef01310867-1320x1320.png"
+    },
+    {
+      "title": "The Rise of Spot Markets for Inference",
+      "tldr": "Where inference marketplaces actually stand, the structural inefficiencies holding them back, and the pressures that may force them to change.",
+      "url": "https://chaoslabs.xyz/posts/the-rise-of-spot-markets-for-inference",
+      "source": "Chaos Labs",
+      "publishedAt": "2026-07-31",
+      "tag": "AI & Agents",
+      "image": "https://cdn.sanity.io/images/zmh9mnff/production/9cf78d0baf3233081c6da45d02e53d0bf4e23fc8-1320x1320.png"
+    }
+  ]
 }

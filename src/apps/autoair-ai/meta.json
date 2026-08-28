@@ -29,5 +29,23 @@
       "transit-swap",
       "quickswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Automating the Airdrop Grind",
+      "tldr": "On-chain scanning for wallets that look eligible, plus a bot that runs the qualifying tasks for you. Custodial by design.",
+      "url": "https://www.bitget.com/academy/what-is-autoair-ai-aai-and-how-does-it-work",
+      "source": "Bitget Academy",
+      "image": "https://img.bgstatic.com/multiLang/web/0c26821dc3a39a5b3e6e1cb54e48bd63.png",
+      "tag": "Security"
+    },
+    {
+      "title": "Staying Under the Sybil Filter",
+      "tldr": "Farming many wallets is the point and also the risk. The measures the tool takes so its wallets do not look like one person.",
+      "url": "https://autobots-organization.gitbook.io/autoair-ai/autoair-ai-service/autoair-ai-bot/sybil-prevention",
+      "source": "AutoAir Docs",
+      "image": "https://autobots-organization.gitbook.io/autoair-ai/~gitbook/ogimage/K1v3reDkbtQ48nv6zFSr",
+      "tag": "Identity"
+    }
+  ]
 }

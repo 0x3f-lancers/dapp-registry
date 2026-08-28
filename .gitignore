@@ -20,3 +20,82 @@ build/facets.index.json
 .github/scripts/
 
 .claude
+
+# Resource discovery scratch: the fetch cache holds one file per crawled URL
+# (tens of thousands, >1GB) and every file in it is regenerable by re-running
+# fetch-resources.ts.
+data/.resource-cache/
+data/_*.json
+data/_*.txt
+data/_*.log
+data/target-slugs*.txt
+
+# Crawl output and curation working files. The published data lives in each
+# app's meta.json; these are inputs and reports that can all be regenerated
+# from the scripts, so they stay out of the repo.
+data/resource-candidates.json
+data/resource-candidates-b.json
+data/resource-candidates-c.json
+data/resource-candidates-pool.json
+data/editorial-candidates.json
+data/resource-selections.json
+data/resources-new-100.json
+data/resources-third-batch-100.json
+data/resources-third-batch.json
+data/resources-added.json
+data/selections/
+
+# One-off local helper scripts used during resource curation.
+scripts/apply-tldr-patch.ts
+scripts/check-resource-links.ts
+scripts/enrich-resources.ts
+scripts/export-new-batch.ts
+scripts/fetch-resource-images.ts
+scripts/probe-article-tags.ts
+data/resources-batch4-100.json
+data/resources-fourth-batch-100.json
+data/resources-fifth-batch-100.json
+data/resources-first-batch-100.json
+data/resources-all-flat.json
+data/resources-new-100-flat.json
+data/resources-sixth-batch-40.json
+data/ALL-APPS.csv
+data/ALL-APPS.json
+data/REMAINING-158.tsv
+data/REMAINING.tsv
+data/FAMOUS-OG-LIST.json
+data/FAMOUS-OG-LIST.csv
+data/FAMOUS-OG-RESOURCES.csv
+data/FAMOUS-OG-DROPPED.json
+data/GSC-NOT-INDEXED-NEEDS-RESOURCES.json
+data/GSC-NOT-INDEXED-NEEDS-RESOURCES.csv
+data/BATCH-200-TODO.txt
+data/BATCH-200-SLUGS.txt
+data/BATCH-200-RESOURCES.json
+data/GSC-BATCH-DONE.json
+data/GSC-BATCH-DONE.csv
+data/GSC-STILL-PENDING.json
+data/XLSX-ALREADY-HAD-RESOURCES.json
+data/XLSX-ALREADY-HAD-RESOURCES.csv
+data/XLSX-WE-ADDED.json
+data/XLSX-WE-ADDED.csv
+data/XLSX-STILL-NONE.json
+data/XLSX-STILL-NONE.csv
+data/FAMOUS-OG-PROVENANCE.json
+data/FAMOUS-OG-PROVENANCE.csv
+data/XLSX-ADDED-2026-08-26.json
+data/XLSX-ADDED-2026-08-26.csv
+data/XLSX-EDUCATION-FULL.json
+data/XLSX-EDUCATION-FULL.csv
+data/NON-APP-URLS.txt
+
+data/TODAY-2026-08-27.json
+data/TODAY-2026-08-27.csv
+data/FINAL-FAMOUS-OG.json
+data/FINAL-XLSX-APPS.json
+data/ALCHEMY-REPLACEMENTS.json
+data/ALCHEMY-REPLACEMENTS.csv
+data/DIRECTORY-LINKS-REVIEW.json
+data/_work/
+data/_link-mismatch-report.json
+data/_img-alc.json

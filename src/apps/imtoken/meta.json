@@ -16,8 +16,7 @@
     "Ethereum",
     "Fantom",
     "Harmony",
-    "Mantle"
-    ,
+    "Mantle",
     "OP Mainnet",
     "Polkadot",
     "Polygon",
@@ -46,5 +45,25 @@
     "related": [
       "arculus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Permit Signature Problem",
+      "tldr": "Users reached phishing sites through search ads and signed away tokens without a transaction. Why permit makes that possible, and what helps.",
+      "url": "https://medium.com/imtoken/permit-signature-security-challenges-and-solutions-3817de9aa381",
+      "source": "imToken Blog",
+      "publishedAt": "2023-10-11",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*Pbdr1HiK8lkDcxHtPUL-mg.png"
+    },
+    {
+      "title": "Rethinking What a Wallet Should Be",
+      "tldr": "A design essay on where the current wallet model strains as use cases multiply, from a team that has shipped one for years.",
+      "url": "https://medium.com/imtoken/imtoken-s-exploration-of-the-next-gen-web3-wallet-ux-and-product-framework-6bb0c4900236",
+      "source": "imToken Blog",
+      "publishedAt": "2023-09-19",
+      "tag": "AI & Agents",
+      "image": "https://miro.medium.com/v2/resize:fit:900/1*PP4MOPs-HJ-xde8kde6XCQ.png"
+    }
+  ]
 }

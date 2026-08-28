@@ -37,5 +37,34 @@
       "xdefi-wallet",
       "sender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is a Threshold Signature Wallet?",
+      "tldr": "Splitting a single key so no party ever holds it whole, and honest about the drawbacks alongside the security gain. Twenty-four hundred words, balanced.",
+      "url": "https://www.totalsig.com/blog/what-is-a-threshold-signature-wallet",
+      "source": "TotalSig Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2025-08-27",
+      "image": "https://www.totalsig.com/uploads/post/image/11/threshold-signature-key-shares.png"
+    },
+    {
+      "title": "How Threshold Signatures Actually Work",
+      "tldr": "The cryptography underneath, at a level you can follow without a maths degree. Read after the overview if you want to know why it holds.",
+      "url": "https://www.totalsig.com/blog/threshold-signature-how-it-works-and-advantages",
+      "source": "TotalSig Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2025-07-21",
+      "image": "https://www.totalsig.com/uploads/post/image/8/652d4004a68c55a2ee2c20bb_threshold_signatures-p-1600.webp"
+    },
+    {
+      "title": "How Multisig Wallets Work: Strengths and Weaknesses",
+      "tldr": "Bitcoin and Ethereum multisig compared, including what each leaks and costs. Multisig and threshold signatures solve overlapping but different problems.",
+      "url": "https://www.totalsig.com/blog/how-multsig-wallet-works",
+      "source": "TotalSig Blog",
+      "tag": "Security",
+      "publishedAt": "2025-07-21",
+      "image": "https://www.totalsig.com/uploads/post/image/10/DALL_E_2024-01-10_15.35.30_-_A_less_colorful__cartoonish_image_of_a_wallet_with_various_blockchain_coins_attached_to_a_chain_ring__which_is_pulled_inside_out._The_wallet_should_ma.png"
+    }
+  ]
 }

@@ -31,5 +31,21 @@
       "rockx",
       "near"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Java Consensus Client Built for Institutions",
+      "tldr": "What Teku is and where it fits: a full beacon node plus validator client, with metrics and key management aimed at operators.",
+      "url": "https://docs.teku.consensys.io/introduction",
+      "source": "Teku Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Running the Node and Validator Apart",
+      "tldr": "The architecture, and the operational reason you might split the beacon node from the validator client into separate processes.",
+      "url": "https://docs.teku.consensys.io/concepts/architecture",
+      "source": "Teku Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

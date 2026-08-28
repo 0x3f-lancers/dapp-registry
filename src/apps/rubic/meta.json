@@ -51,5 +51,34 @@
       "vscode",
       "ethfiddle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Send Crypto Without Exposing Your Wallet History",
+      "tldr": "An address is a permanent public index of everything that wallet has done. Spells out what a recipient can see, and how to limit what travels along.",
+      "url": "https://rubic.exchange/blog/crypto-payment-wallet-history/",
+      "source": "Rubic Blog",
+      "publishedAt": "2026-08-06",
+      "tag": "Tutorial",
+      "image": "https://rubic.exchange/blog/wp-content/uploads/2026/08/cover-socials.png"
+    },
+    {
+      "title": "Private Swaps vs. Mixers: Why They're Not the Same",
+      "tldr": "Both reduce traceability, but they differ in intent, compliance posture and the legal exposure they carry.",
+      "url": "https://rubic.exchange/blog/private-swaps-vs-mixers/",
+      "source": "Rubic Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "Trading",
+      "image": "https://rubic.exchange/blog/wp-content/uploads/2026/07/socials.png"
+    },
+    {
+      "title": "Swap Aggregators vs Instant Exchanges: What's the Difference?",
+      "tldr": "The real split is custody: one routes your trade, the other takes your coins and sends different ones back.",
+      "url": "https://rubic.exchange/blog/swap-aggregators-vs-instant-exchanges/",
+      "source": "Rubic Blog",
+      "publishedAt": "2026-07-16",
+      "tag": "Trading",
+      "image": "https://rubic.exchange/blog/wp-content/uploads/2026/07/post.png"
+    }
+  ]
 }

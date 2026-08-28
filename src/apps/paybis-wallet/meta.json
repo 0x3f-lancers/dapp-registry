@@ -34,5 +34,34 @@
       "transak",
       "coin-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Is Crypto Swapping Safe?",
+      "tldr": "Most losses come from phishing, hidden fees and contract bugs rather than sophisticated hacking. What to check before approving a swap.",
+      "url": "https://paybis.com/blog/is-swapping-safe/",
+      "source": "Paybis Blog",
+      "publishedAt": "2026-07-31",
+      "tag": "Trading",
+      "image": "https://paybis.com/blog/wp-content/uploads/2026/07/Is-Swapping-Safe_.webp"
+    },
+    {
+      "title": "What You Owe in Tax on a Crypto Swap",
+      "tldr": "Swapping one coin for another is a taxable event in the US, UK and Brazil: the gain is fair market value at the moment of the trade, minus cost basis.",
+      "url": "https://paybis.com/blog/swap-taxes/",
+      "source": "Paybis Blog",
+      "publishedAt": "2026-07-31",
+      "tag": "Trading",
+      "image": "https://paybis.com/blog/wp-content/uploads/2026/07/Taxes-on-swaps.webp"
+    },
+    {
+      "title": "Converting Bitcoin and Ethereum to Cash",
+      "tldr": "The full fee stack laid out - service fee, processing fee and network fee - and how each behaves differently depending on the payout method.",
+      "url": "https://paybis.com/blog/how-to-swap-crypto-to-fiat/",
+      "source": "Paybis Blog",
+      "publishedAt": "2026-07-31",
+      "tag": "Infrastructure",
+      "image": "https://paybis.com/blog/wp-content/uploads/2026/07/Swap-crypto-to-fiat.webp"
+    }
+  ]
 }

@@ -30,5 +30,23 @@
       "polynomial-protocol",
       "metronome-synth"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Other Side of the Trade",
+      "tldr": "An interview with the co-head of trading at Genesis on running a derivatives book, and who is actually taking the opposite position.",
+      "url": "https://www.research.ribbon.finance/blog/the-other-side-of-the-trade-genesis",
+      "source": "Ribbon Research",
+      "publishedAt": "2023-02-09",
+      "tag": "Trading"
+    },
+    {
+      "title": "Anatomy of a Custom Structured Trade",
+      "tldr": "A case study of the first trade placed through Ribbon VIP, showing how a bespoke options structure is priced and filled.",
+      "url": "https://www.research.ribbon.finance/blog/ribbon-vip-custom-trade-case-study",
+      "source": "Ribbon Research",
+      "publishedAt": "2023-02-07",
+      "tag": "Trading"
+    }
+  ]
 }

@@ -33,5 +33,31 @@
       "compound-finance",
       "cian-yield-layer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Liquidation Is Triggered",
+      "tldr": "Once the health factor drops below 1 the collateral no longer covers the debt. Up to half the position is repaid, plus a fee.",
+      "url": "https://docs.avalonfinance.xyz/avalon-btcfi-products/defi-lending/liquidation",
+      "source": "Avalon Labs Docs",
+      "tag": "DeFi",
+      "image": "https://docs.avalonfinance.xyz/~gitbook/image?url=https%3A%2F%2F1294230734-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252Fp6UTcjtUIBbnpUaK6W8f%252Fsites%252Fsite_E1hlN%252Fsocialpreview%252F41OMZcvcv02tMuqwVdbB%252FTwitter%2520header%2520-%252023.png%3Falt%3Dmedia%26token%3D22fbdbb9-c903-46ca-987b-88fd09be0dc8&width=1200&height=630&sign=b98794da&sv=2"
+    },
+    {
+      "title": "Why Isolated Pools Instead of One Market",
+      "tldr": "Three pool types, each matched to its asset mix, so a problem in one BTC derivative cannot spread across the whole book.",
+      "url": "https://docs.avalonfinance.xyz/avalon-btcfi-products/defi-lending/isolated-lending-pool-mechanism",
+      "source": "Avalon Labs Docs",
+      "tag": "Trading",
+      "image": "https://docs.avalonfinance.xyz/~gitbook/image?url=https%3A%2F%2F1294230734-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252Fp6UTcjtUIBbnpUaK6W8f%252Fsites%252Fsite_E1hlN%252Fsocialpreview%252F41OMZcvcv02tMuqwVdbB%252FTwitter%2520header%2520-%252023.png%3Falt%3Dmedia%26token%3D22fbdbb9-c903-46ca-987b-88fd09be0dc8&width=1200&height=630&sign=b98794da&sv=2"
+    },
+    {
+      "title": "A Borrow Rate That Ignores Utilisation",
+      "tldr": "Most lending markets reprice as the pool fills. This one deliberately does not, and the trade-off that comes with it.",
+      "url": "https://docs.avalonfinance.xyz/avalon-btcfi-products/cedefi-cdp-usda/interest-rate-model",
+      "source": "Avalon Labs Docs",
+      "tag": "DeFi",
+      "image": "https://docs.avalonfinance.xyz/~gitbook/image?url=https%3A%2F%2F1294230734-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252Fp6UTcjtUIBbnpUaK6W8f%252Fsites%252Fsite_E1hlN%252Fsocialpreview%252F41OMZcvcv02tMuqwVdbB%252FTwitter%2520header%2520-%252023.png%3Falt%3Dmedia%26token%3D22fbdbb9-c903-46ca-987b-88fd09be0dc8&width=1200&height=630&sign=b98794da&sv=2"
+    }
+  ]
 }

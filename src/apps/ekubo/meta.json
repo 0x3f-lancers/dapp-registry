@@ -34,5 +34,24 @@
       "airswap",
       "dolomite"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Extensions Compared With Uniswap v4 Hooks",
+      "tldr": "Two singleton AMMs that look alike from a distance, read side by side on the one thing that differs: how custom logic binds to a pool.",
+      "url": "https://blog.ekubo.org/ekubo-extensions-vs-uniswap-v4-hooks/",
+      "source": "Ekubo Blog",
+      "publishedAt": "2026-08-06",
+      "image": "https://blog.ekubo.org/og.jpg"
+    },
+    {
+      "title": "Treating Liquidity as a Marketplace",
+      "tldr": "Chains and protocols need depth in particular markets. A design where that demand is bid for openly rather than negotiated deal by deal.",
+      "url": "https://blog.ekubo.org/ve33-liquidity-marketplace/",
+      "source": "Ekubo Blog",
+      "publishedAt": "2026-07-15",
+      "tag": "DeFi",
+      "image": "https://blog.ekubo.org/og-ve33.jpg"
+    }
+  ]
 }

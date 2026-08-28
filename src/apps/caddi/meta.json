@@ -33,5 +33,21 @@
       "binance-us",
       "robinhood"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Better Swap Routes From The Browser",
+      "tldr": "An extension that sits over the DEX you already use, compares routes for a cheaper fill, and blocks transactions it flags as malicious.",
+      "url": "https://moralis.com/web3-wiki/caddi/",
+      "source": "Moralis Web3 Wiki"
+    },
+    {
+      "title": "Why Bridge Aggregation Matters",
+      "tldr": "A long practical piece on comparing bridges on rate and fee rather than picking whichever one the app defaults to.",
+      "url": "https://medium.com/@JohnnyTime/stop-using-defi-bridges-the-ultimate-guide-to-caddi-d88d52093f0e",
+      "source": "Johnny Time",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*PhLH_-z8w6U5hThO2G6x8w.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

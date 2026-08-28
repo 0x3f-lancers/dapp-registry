@@ -35,5 +35,34 @@
       "gauntlet",
       "dexcheck"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How the Base Standard Bridge Moves ETH and ERC-20s Between Ethereum and Base",
+      "tldr": "Fast withdrawals require confidence the proof system is not wrong. Running multiple independent proofs is how Base hedges that, en route to Stage 2.",
+      "url": "https://blog.base.dev/multiproofs-on-base",
+      "source": "Base Blog",
+      "publishedAt": "2026-05-21",
+      "tag": "Infrastructure",
+      "image": "https://paragraph.com/api/og?title=Multiproofs+on+Base&blogName=Base+Engineering+Blog&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F09c177c50ec6ab1232051a6fba69364098e5060367a0ff8ed496a0d5b7a5019d.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F6a417c9a16819ad9d65b36381b293a19.jpg&publishedDate=1779396576537"
+    },
+    {
+      "title": "Deposits vs Withdrawals on Base: Finality, Timing, and Common Failure Modes",
+      "tldr": "A public, detailed account of why block production stopped and what changed after. Postmortems teach more about L2 architecture than launch posts.",
+      "url": "https://blog.base.dev/postmortem-june-25th-block-production-outage",
+      "source": "Base Blog",
+      "publishedAt": "2026-06-27",
+      "tag": "Security",
+      "image": "https://paragraph.com/api/og?title=Postmortem%3A++June+25th+Block+Production+Outage&blogName=Base+Engineering+Blog&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fead82ed2d0af26dfea6be3809a7bc0d4365a2cea478f90235715e0240973da78.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F6a417c9a16819ad9d65b36381b293a19.jpg&publishedDate=1782575051176"
+    },
+    {
+      "title": "Base Bridge Security: What Users and Developers Should Verify Before Bridging",
+      "tldr": "EIP-8130 moves account abstraction from a bolted-on layer into the protocol. Where the gas savings come from once the bundler is out of the way.",
+      "url": "https://blog.base.dev/native-account-abstraction",
+      "source": "Base Blog",
+      "publishedAt": "2026-07-17",
+      "tag": "Infrastructure",
+      "image": "https://paragraph.com/api/og?title=Native+Account+Abstraction&blogName=Base+Engineering+Blog&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F72da88e1c4d73c3757dcb3156724b29fbd59a550bfd7888bdc6b163c6f1cd566.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F6a417c9a16819ad9d65b36381b293a19.jpg&publishedDate=1784300401424"
+    }
+  ]
 }

@@ -35,5 +35,25 @@
       "rattle",
       "solidity-linting-tool"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Predicting Sybil Attacks Before They Land",
+      "tldr": "Spotting fraudulent addresses and contract activity early, and why that matters for a protocol trying to grow without inflating its own numbers.",
+      "url": "https://medium.com/@CUBE3AI/predicting-blockchain-sybil-attacks-with-cube3-ai-a3252224a9f1",
+      "source": "CUBE3.AI Blog",
+      "publishedAt": "2024-06-18",
+      "tag": "Security",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*etmEIN9JNqbQcPl7K6zvUQ.png"
+    },
+    {
+      "title": "New Machine Learning Models for Fraud Detection",
+      "tldr": "What changed in how the models read chain data and analyse contracts, and where the accuracy gains actually came from.",
+      "url": "https://medium.com/@CUBE3AI/cube3-unveils-next-gen-ml-models-for-ai-fraud-prevention-7d6764e57172",
+      "source": "CUBE3.AI Blog",
+      "publishedAt": "2024-07-03",
+      "tag": "AI & Agents",
+      "image": "https://miro.medium.com/v2/resize:fit:1177/1*gfwGZmcDiMt0DEFNlEO71w.png"
+    }
+  ]
 }

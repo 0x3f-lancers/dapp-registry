@@ -35,5 +35,23 @@
       "dzap",
       "lifi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Opening a Position",
+      "tldr": "Minting a stablecoin against collateral, and the parameters you are choosing when you do.",
+      "url": "https://docs.frankencoin.com/positions/open",
+      "source": "Frankencoin Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.frankencoin.com/~gitbook/image?url=https%3A%2F%2F2247514564-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252F9PNWHuENofp3fUTDwkLd%252Fsites%252Fsite_INVi5%252Fsocialpreview%252FgiQ5GRdc9fFmeit3ESzV%252FFrankencoin%2520Logo_2048px.png%3Falt%3Dmedia%26token%3D9ecfc78a-c96f-47d5-844b-7ca39f1f0023&width=1200&height=630&sign=c9a3d022&sv=2"
+    },
+    {
+      "title": "Challenges and Auctions",
+      "tldr": "How anyone can contest a position they think is under-collateralised. The system's core safety mechanism.",
+      "url": "https://docs.frankencoin.com/positions/auctions",
+      "source": "Frankencoin Docs",
+      "tag": "Security",
+      "image": "https://docs.frankencoin.com/~gitbook/image?url=https%3A%2F%2F2247514564-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252F9PNWHuENofp3fUTDwkLd%252Fsites%252Fsite_INVi5%252Fsocialpreview%252FgiQ5GRdc9fFmeit3ESzV%252FFrankencoin%2520Logo_2048px.png%3Falt%3Dmedia%26token%3D9ecfc78a-c96f-47d5-844b-7ca39f1f0023&width=1200&height=630&sign=c9a3d022&sv=2"
+    }
+  ]
 }

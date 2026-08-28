@@ -30,5 +30,21 @@
       "flare-network",
       "polkadot"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Routing Trades Away From The Mempool",
+      "tldr": "Setup notes for a private RPC endpoint, and what changes for a transaction that never sits in the public mempool.",
+      "url": "https://github.com/mevalphaleak/BetaRPC-setup",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/830cd4b22384dc43d5c2dc55dacd1c0ac270d3c7d258bfdddb495bd3dfe67674/mevalphaleak/BetaRPC-setup"
+    },
+    {
+      "title": "Why the Free Endpoint Fails in Production",
+      "tldr": "Rate limits, no SLA and inconsistent data during congestion. What to demand from an endpoint before you depend on it.",
+      "url": "https://instanodes.io/blogs/reliable-rpc-better-uptime-comparing-the-top-5-node-service-providers",
+      "source": "Instanodes",
+      "tag": "Infrastructure"
+    }
+  ]
 }

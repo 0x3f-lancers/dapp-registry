@@ -30,5 +30,34 @@
       "truefi",
       "hubble"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Ever Wondered What APY Really Means?",
+      "tldr": "Vaults advertise 10%, 20%, sometimes 100%+ and the number rarely means what a reader assumes. Unpacks compounding, emissions and annualisation.",
+      "url": "https://blog.sentism.ai/ever-wondered-what-apy-really-means/",
+      "source": "Sentism AI Blog",
+      "publishedAt": "2025-10-06",
+      "tag": "DeFi",
+      "image": "https://blog.sentism.ai/content/images/2025/10/RWA-x-AI-Agents_.jpg"
+    },
+    {
+      "title": "x402: The Payment Layer for the Agentic Internet",
+      "tldr": "As tasks shift from humans clicking to agents executing, something has to settle payment machine-to-machine.",
+      "url": "https://blog.sentism.ai/x402-protocol-the-ordinals-of-the-ai-era-and-the-payment-layer-for-the-agentic-internet/",
+      "source": "Sentism AI Blog",
+      "publishedAt": "2025-10-27",
+      "tag": "Payments",
+      "image": "https://blog.sentism.ai/content/images/2025/10/RWA-x-AI-Agents_-1.jpg"
+    },
+    {
+      "title": "Navigating Risk in DeFi: How OneRouter Builds Resilience",
+      "tldr": "Routing across protocols means inheriting the weakest one's risk. Covers how a router limits that exposure rather than assuming every venue behaves.",
+      "url": "https://blog.sentism.ai/navigating-risk-in-defi-how-onerouter-builds-resilience/",
+      "source": "Sentism AI Blog",
+      "publishedAt": "2025-09-30",
+      "tag": "DeFi",
+      "image": "https://blog.sentism.ai/content/images/2025/09/RWA-x-AI-Agents_-1.jpg"
+    }
+  ]
 }

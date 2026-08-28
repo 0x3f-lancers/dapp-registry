@@ -31,5 +31,22 @@
       "astar",
       "polygon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where Zero-Knowledge Fits Into a Rollup",
+      "tldr": "Ethereum's scaling limits stated plainly, then what ZK proving changes for a rollup that has been optimistic until now.",
+      "url": "https://www.offchain.io/blog/products/scaling-ethereum-with-zk-and-the-road-ahead-for-arbitrum",
+      "source": "Offchain Labs Blog",
+      "tag": "Infrastructure",
+      "image": "https://www.offchain.io/opengraph/home.jpg"
+    },
+    {
+      "title": "Making Chains Talk to Each Other",
+      "tldr": "Launching a chain is easy now; making it interoperate is not. What has to exist between chains before an app can span them.",
+      "url": "https://www.offchain.io/blog/products/bringing-interoperability-to-arbitrum-and-ethereum",
+      "source": "Offchain Labs Blog",
+      "image": "https://www.offchain.io/opengraph/home.jpg"
+    }
+  ]
 }

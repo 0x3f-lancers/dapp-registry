@@ -31,5 +31,31 @@
       "evm-toolkit",
       "abitype"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reversing Nvidia GPU SASS Code",
+      "tldr": "Long and deeply technical work on decompiling GPU assembly, a target with almost no tooling. Far outside the usual crypto reading and better for it.",
+      "url": "https://www.pnfsoftware.com/blog/reversing-nvidia-cuda-sass-code/",
+      "source": "PNF Software Blog",
+      "publishedAt": "2025-08-15",
+      "tag": "Security"
+    },
+    {
+      "title": "Deobfuscation Ratings, Inlining Fat Functions, and Breaking Opaque Predicates",
+      "tldr": "Concrete techniques for undoing deliberate obfuscation. Relevant to anyone trying to understand what an unverified contract or binary actually does.",
+      "url": "https://www.pnfsoftware.com/blog/deobfuscation-ratings-inlining-fat-functions-and-breaking-opaque-predicates/",
+      "source": "PNF Software Blog",
+      "publishedAt": "2024-10-07",
+      "tag": "Security"
+    },
+    {
+      "title": "Mutation-Resistant Library Code Matching",
+      "tldr": "Identifying known library code even after it has been altered to avoid detection. The cat-and-mouse framing makes the problem unusually easy to follow.",
+      "url": "https://www.pnfsoftware.com/blog/mutation-resistant-library-code-matching/",
+      "source": "PNF Software Blog",
+      "publishedAt": "2026-03-11",
+      "tag": "Infrastructure"
+    }
+  ]
 }

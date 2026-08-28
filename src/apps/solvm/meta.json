@@ -31,5 +31,14 @@
       "whal3s",
       "foundry"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Solana Runs Contracts In Parallel",
+      "tldr": "Sealevel and the register-based SVM explained, and how that execution model differs from the single-threaded EVM.",
+      "url": "https://squads.xyz/blog/solana-svm-sealevel-virtual-machine",
+      "source": "Squads",
+      "image": "https://framerusercontent.com/images/pxqhGwSyGnBhGQoYGsB7y1RyfQ.png"
+    }
+  ]
 }

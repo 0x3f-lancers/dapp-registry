@@ -3,8 +3,13 @@
   "name": "XchangeOn",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744708/web3-explorer/dapp-logos/XchangeOn.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Bitcoin"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Bitcoin"
+  ],
   "pricing": "Paid",
   "content": {
     "short": "XchangeOn is a cryptocurrency exchange platform offering Arbitrage, P2P, Spot, and Swap trading with an AI-powered cross-exchange arbitrage bot.",
@@ -17,7 +22,33 @@
     "twitter": "https://x.com/XChangeon"
   },
   "relations": {
-    "alternatives": ["flooz-trade", "minu-swap", "shell-protocol"],
-    "related": ["panoptic", "pika-protocol", "robinhood"]
-  }
+    "alternatives": [
+      "flooz-trade",
+      "minu-swap",
+      "shell-protocol"
+    ],
+    "related": [
+      "panoptic",
+      "pika-protocol",
+      "robinhood"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Where Cross-Exchange Arbitrage Profits Go",
+      "tldr": "The spread is real, then fees, transfer time and slippage eat it. What has to be true before the trade is worth taking.",
+      "url": "https://www.shiftmarkets.com/blog/cross-exchange-arbitrage-explained",
+      "source": "Shift Markets",
+      "image": "https://www.shiftmarkets.com/wp-content/uploads/2024/09/Frame-15978808513.webp",
+      "tag": "Trading"
+    },
+    {
+      "title": "How the Bot Actually Runs",
+      "tldr": "Scanning, margin check, paired execution and the risk controls, plus the capital you must park on every venue.",
+      "url": "https://scand.com/company/blog/cross-exchange-arbitrage-bot/",
+      "source": "Scand",
+      "image": "https://static.scand.com/com/wp-content/uploads/2025/07/bitcoin.png",
+      "tag": "Security"
+    }
+  ]
 }

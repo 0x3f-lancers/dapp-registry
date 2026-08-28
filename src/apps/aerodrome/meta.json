@@ -34,5 +34,22 @@
       "mantra-finance",
       "dsla"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Aerodrome Became Base's Liquidity Layer",
+      "tldr": "A long read on the ve(3,3) design, where the AERO emissions go each week, and the risks that come with contract upgradeability.",
+      "url": "https://www.coingecko.com/learn/what-is-aerodrome-finance-aero-base",
+      "source": "CoinGecko Learn",
+      "tag": "DeFi"
+    },
+    {
+      "title": "The Weekly Incentive Flywheel, Step by Step",
+      "tldr": "Providers stake, veAERO holders vote on where emissions go, fees return to those voters. The loop laid out in order, with the lock mechanics.",
+      "url": "https://www.unitywallet.com/blogs/crypto-explained/aerodrome-finance-the-decentralized-liquidity-engine-of-base",
+      "source": "Unity Wallet",
+      "tag": "Tutorial",
+      "image": "https://framerusercontent.com/images/lT985O4hXm8cRTpOOmL640tz6ZM.webp?width=4716&height=1788"
+    }
+  ]
 }

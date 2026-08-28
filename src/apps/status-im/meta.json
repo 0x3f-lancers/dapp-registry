@@ -29,5 +29,23 @@
       "eluvio-live",
       "xircusweb3"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Messaging Without Servers",
+      "tldr": "Waku relays encrypted messages across a peer network, so there is no company inbox to subpoena. What that costs in battery and latency.",
+      "url": "https://status.app/blog/waku-decentralized-communication-for-web3",
+      "source": "Status",
+      "tag": "Infrastructure",
+      "image": "https://our.status.im/content/images/2022/04/Waku_-Decentralized-Web3-Communication-1-1.png"
+    },
+    {
+      "title": "The Life of a Message",
+      "tldr": "Following one message from keyboard to recipient through encryption, relay and storage. The clearest look at how the protocol behaves.",
+      "url": "https://status.app/blog/the-life-of-a-message",
+      "source": "Status",
+      "tag": "Security",
+      "image": "https://our.status.im/content/images/2020/08/Header-1.jpg"
+    }
+  ]
 }

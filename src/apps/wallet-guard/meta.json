@@ -30,5 +30,23 @@
       "web3-onboard",
       "mpcvault"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Best Practices to Secure Your Assets",
+      "tldr": "Written around setting up a clean machine, which is the right frame: most compromises trace back to the environment rather than the wallet itself.",
+      "url": "https://www.walletguard.app/blog/best-practices-to-secure-your-assets-new-computer",
+      "source": "Wallet Guard Academy",
+      "image": "https://cdn.prod.website-files.com/65adddbbd2c6ecb99e857ff7/65ade1896f3b62ef2c986232_653313636030d32806922a6b_security-practices.png",
+      "tag": "Security"
+    },
+    {
+      "title": "Common Trends With Phishing in Web3",
+      "tldr": "Short catalogue of the patterns that recur across Web3 phishing. Dated now, but the underlying tricks have proved remarkably durable.",
+      "url": "https://www.walletguard.app/blog/common-trends-with-phishing-in-web3",
+      "source": "Wallet Guard Academy",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/65adddbbd2c6ecb99e857ff7/65ade08f449f09e79e8f48d1_64fea7b42900d8b57c047d1e_phishing.jpg"
+    }
+  ]
 }

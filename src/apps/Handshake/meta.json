@@ -29,5 +29,22 @@
       "phantom",
       "makersplace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Replacing the DNS Root, Not All of DNS",
+      "tldr": "The scope is narrower than it first sounds: the root zone file and root servers, held by every peer rather than by ICANN.",
+      "url": "https://www.geeksforgeeks.org/blogs/handshake-an-peer-to-peer-naming-system/",
+      "source": "GeeksforGeeks",
+      "tag": "Infrastructure",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png"
+    },
+    {
+      "title": "Who Currently Keeps the Internet's Names",
+      "tldr": "A long piece on the certificate authorities and registrars this is aimed at, and what displacing them would actually change.",
+      "url": "https://www.decentralizedinter.net/blog/everything-you-didn-t-know-about-the-handshake-naming-system/",
+      "source": "Decentralized Internet",
+      "image": "https://cdn.sanity.io/images/w5oqszet/production/32acbb7c38a9beade2f7fdd610de62f75f6818f7-5472x3648.jpg"
+    }
+  ]
 }

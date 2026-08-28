@@ -36,5 +36,25 @@
       "shardeum",
       "theta-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Staking Works on AIOZ Network",
+      "tldr": "Delegating AIOZ to validators to help secure the chain, with the mechanics of joining and what a delegator is actually agreeing to.",
+      "url": "https://medium.com/aioz-network/aioz-network-staking-program-33dbeb816f7f",
+      "source": "AIOZ Network Blog",
+      "publishedAt": "2022-01-31",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*VGXION-eXwDUp9I8"
+    },
+    {
+      "title": "The AIOZ Cross-Chain Bridge",
+      "tldr": "Moving AIOZ between its own chain, Ethereum and BNB Smart Chain, and what multi-chain compatibility required of the design.",
+      "url": "https://medium.com/aioz-network/aioz-cross-chain-bridge-live-on-mainnet-d500ccb8f83c",
+      "source": "AIOZ Network Blog",
+      "publishedAt": "2022-01-08",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*n8ORnxSInJ8NP0nX"
+    }
+  ]
 }

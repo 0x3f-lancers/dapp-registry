@@ -45,5 +45,28 @@
       "sender",
       "magna"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Calculating Unrealized Gains and Losses on Solana",
+      "tldr": "Accounting for positions you have not closed, which is where onchain bookkeeping gets genuinely hard. Practical rather than conceptual.",
+      "url": "https://entendre.ai/blog/how-to/calculate-unrealized-gains-losses-solana/",
+      "source": "Entendre Finance",
+      "tag": "Finance"
+    },
+    {
+      "title": "Automating Payroll Payments on Solana",
+      "tldr": "Paying people on a schedule from onchain funds, with the failure modes that come with it. One of the more concrete treasury operations pieces around.",
+      "url": "https://entendre.ai/blog/how-to/automate-payroll-payments-solana/",
+      "source": "Entendre Finance",
+      "tag": "Payments"
+    },
+    {
+      "title": "Calculating Gas Expense on Solana",
+      "tldr": "Fees are small individually and material at volume, and few teams track them properly until an accountant asks. This is how to actually count them.",
+      "url": "https://entendre.ai/blog/how-to/calculate-gas-fees-on-solana/",
+      "source": "Entendre Finance",
+      "tag": "Infrastructure"
+    }
+  ]
 }

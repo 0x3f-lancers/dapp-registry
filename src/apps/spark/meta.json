@@ -30,5 +30,23 @@
       "antfarm-finance",
       "openocean"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An FX Layer for Stablecoins",
+      "tldr": "Everyone is launching stablecoins; far fewer are solving how to move between them. What programmable liquidity changes about that.",
+      "url": "https://paragraph.com/@spark-11/spark-uniswap-and-sky-building-the-fx-layer-for-stablecoins",
+      "source": "Spark Blog",
+      "tag": "Payments",
+      "image": "https://paragraph.com/api/og?title=Spark%2C+Uniswap+and+Sky%3A+Building+the+FX+Layer+for+stablecoins&blogName=Spark&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F4b700fed8efe118933e7fcc0d5417c5f1fcadffa5180597d1bef206524329e4c.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F74e31e16d7d539b55262ea7597c0d16990943c0ca3ec6fcf17bf3fc4c1e9e9a6.png&publishedDate=1782392630055"
+    },
+    {
+      "title": "Margin Lending Between CeFi and DeFi",
+      "tldr": "Over-collateralised institutional borrowing where positions can be managed across both worlds, and what that requires structurally.",
+      "url": "https://paragraph.com/@spark-11/spark-prime-cedefi-margin-lending",
+      "source": "Spark Blog",
+      "tag": "DeFi",
+      "image": "https://paragraph.com/api/og?title=Spark+Prime%3A+CeDeFi+Margin+Lending&blogName=Spark&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fa82c543c625a5b3709acc8cb6afaa5ccd7b0a2987fe1b94e7ec07bffc1eb14e3.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F74e31e16d7d539b55262ea7597c0d16990943c0ca3ec6fcf17bf3fc4c1e9e9a6.png&publishedDate=1770789898172"
+    }
+  ]
 }

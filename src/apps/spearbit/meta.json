@@ -35,5 +35,31 @@
       "solidcheck",
       "foundry-anvil"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Security Review Gets Scoped",
+      "tldr": "Scope is usually settled while the review is already moving. An honest account of how that actually plays out.",
+      "url": "https://docs.spearbit.com/spearbook/anatomy-of-a-spearbit-review/scoping-and-information-gathering",
+      "source": "Spearbook",
+      "tag": "Research",
+      "image": "https://docs.spearbit.com/~gitbook/ogimage/BTwa7bwDeUzvd1Vd0rAQ"
+    },
+    {
+      "title": "The Close-Out Call",
+      "tldr": "What happens after the findings land, and why the walkthrough matters as much as the report itself.",
+      "url": "https://docs.spearbit.com/spearbook/anatomy-of-a-spearbit-review/close-out-call-and-walkthrough",
+      "source": "Spearbook",
+      "tag": "Tokenization",
+      "image": "https://docs.spearbit.com/~gitbook/ogimage/V8yKIQAzXkJYb9wJTTwE"
+    },
+    {
+      "title": "AI Security Tools on the Same Codebase",
+      "tldr": "Three tools run against one codebase, with accepted-vulnerability counts. A rare like-for-like comparison.",
+      "url": "https://spearbit.com/blog/apex-vs-claude-codex-same-codebase",
+      "source": "Spearbit Blog",
+      "tag": "Security",
+      "image": "https://www.cantina.security/_astro/apex-vs-claude-codex-hero.CL8HhX96.png"
+    }
+  ]
 }

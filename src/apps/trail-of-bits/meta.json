@@ -36,5 +36,34 @@
       "openzeppelin-defender",
       "foundry-anvil"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building Secure Uniswap v4 Hooks",
+      "tldr": "Hooks let anyone inject logic into a pool, which is the point and also why they break. Catalogues the mistakes that keep reappearing in shipped code.",
+      "url": "https://blog.trailofbits.com/2026/07/30/building-secure-uniswap-v4-hooks/",
+      "source": "Trail of Bits Blog",
+      "tag": "Tutorial",
+      "publishedAt": "2026-07-30",
+      "image": "https://blog.trailofbits.com/2026/07/30/building-secure-uniswap-v4-hooks/uniswapv4-social-banner.png"
+    },
+    {
+      "title": "A Few Notes on AWS Nitro Enclaves and KMS Integration",
+      "tldr": "Very long and very specific on the risks of wiring an enclave to a key management service. Relevant to anyone putting signing keys inside a TEE.",
+      "url": "https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration/",
+      "source": "Trail of Bits Blog",
+      "tag": "Security",
+      "publishedAt": "2026-08-05",
+      "image": "https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration/nitroenclaveskms-socialbanner.png"
+    },
+    {
+      "title": "Mutation Testing Comes to DAML",
+      "tldr": "Mutation testing deliberately breaks your code to see whether the test suite notices. The clearest way to learn coverage and rigour are not the same.",
+      "url": "https://blog.trailofbits.com/2026/07/08/mutation-testing-comes-to-daml/",
+      "source": "Trail of Bits Blog",
+      "tag": "Tutorial",
+      "publishedAt": "2026-07-08",
+      "image": "https://blog.trailofbits.com/img/tob.png"
+    }
+  ]
 }

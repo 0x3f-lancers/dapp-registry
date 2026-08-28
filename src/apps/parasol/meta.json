@@ -29,5 +29,13 @@
       "aarc",
       "swing-sdk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Agile Solidity Workflow",
+      "tldr": "Save a file and it recompiles, runs static analysis, redeploys to ganache and reruns the tests, with a REPL open against the deployed contracts.",
+      "url": "https://moralis.com/web3-wiki/parasol/",
+      "source": "Moralis Web3 Wiki"
+    }
+  ]
 }

@@ -37,5 +37,34 @@
       "entre",
       "ethereum-follow-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Attack Surface Has Moved to Vault Infrastructure",
+      "tldr": "A $6M exploit that never touched the contract logic. Vault accounting, stale asset values and strategy adapters are where the real surface now sits.",
+      "url": "https://okcontract.com/blog/summer-fi-hack-the-attack-surface-has-moved-to-vault-infrastructure",
+      "source": "OKcontract Labs",
+      "tag": "Security",
+      "publishedAt": "2026-07-08",
+      "image": "https://okcontract.com/assets/blog/203235ded5accc53927f.png"
+    },
+    {
+      "title": "Can ERC-4626 Exploits Be Prevented?",
+      "tldr": "Uses a live oracle-manipulation exploit on an Aave fork to ask whether the vault standard itself invites this class of bug, or whether the integrators do.",
+      "url": "https://okcontract.com/blog/can-erc-4626-exploits-be-prevented",
+      "source": "OKcontract Labs",
+      "tag": "Security",
+      "publishedAt": "2026-07-01",
+      "image": "https://okcontract.com/assets/blog/fa9d0b02e7a36e78ab0e.png"
+    },
+    {
+      "title": "Valid Signatures Are Not Enough",
+      "tldr": "Forty major hacks in a single month, around $647M, and a good number of them were correctly signed transactions.",
+      "url": "https://okcontract.com/blog/valid-signatures-are-not-enough",
+      "source": "OKcontract Labs",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-05-19",
+      "image": "https://okcontract.com/assets/blog/cbe576c29a040d4c51ca.png"
+    }
+  ]
 }

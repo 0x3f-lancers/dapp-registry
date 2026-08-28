@@ -30,5 +30,34 @@
       "hegic",
       "drift"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Deep Dive: How MegaVault Works",
+      "tldr": "Depositors supply USDC that is automatically market-made across dYdX Chain markets, earning yield in exchange for providing that liquidity.",
+      "url": "https://www.dydx.exchange/blog/deep-dive-megavault",
+      "source": "dYdX Blog",
+      "publishedAt": "2026-05-12",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/678fb0f1c3f23bcf01f8cff8/67939682bc41710faea08ef8_67939413b2149d93cb872fb9_67938615cebd6a45a56ab6af_MegaVault.avif"
+    },
+    {
+      "title": "dYdX Unlimited",
+      "tldr": "The largest upgrade to dYdX Chain software since launch, aimed at letting any market be traded with leverage rather than a curated list.",
+      "url": "https://www.dydx.exchange/blog/dydx-unlimited-coming-this-fall",
+      "source": "dYdX Blog",
+      "publishedAt": "2026-05-12",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/678fb0f1c3f23bcf01f8cff8/6793968a430714a3f6e3ee90_6793942a91d1813c1a8ae87b_67939428132a7ab4a81ab5bb_unlimited.avif"
+    },
+    {
+      "title": "Sunsetting dYdX v3",
+      "tldr": "v3 carried over $1 trillion in trading volume before being retired for the v4 chain. What the wind-down meant for people still on it.",
+      "url": "https://www.dydx.exchange/blog/v3-product-sunset",
+      "source": "dYdX Blog",
+      "publishedAt": "2026-05-12",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/678fb0f1c3f23bcf01f8cff8/6793968bc4282fc6377b4c0f_67939450968b495de3c1e7d0_6793944ef806d1155c3db716_v3sunset.avif"
+    }
+  ]
 }

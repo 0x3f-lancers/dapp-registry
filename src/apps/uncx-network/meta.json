@@ -34,5 +34,30 @@
       "totalsig",
       "liminal"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Blockchains Reach Real-World Data",
+      "tldr": "A contract cannot see outside its own chain by design. Oracles close that gap, and become the thing worth attacking.",
+      "url": "https://uncx.network/blog/oracles-in-defi-how-blockchains-access-data",
+      "source": "UNCX Blog",
+      "tag": "Research",
+      "image": "https://uncx.network/images/uncx-page-preview-main.png"
+    },
+    {
+      "title": "Why Locking Liquidity Matters",
+      "tldr": "LP tokens sitting in a time-locked contract are the cheapest trust signal a new token has. What the lock does and does not prove.",
+      "url": "https://unicrypt.medium.com/liquidity-locking-overview-112329ecfaaa",
+      "source": "UNCX Network",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*sXqFliwcnBNrYNiiZTGSdw.png"
+    },
+    {
+      "title": "Locks and Vesting, Reviewed",
+      "tldr": "Setting an unlock date, building a linear vesting schedule, and the mistakes that leave a team unable to unlock at all.",
+      "url": "https://www.bitbond.com/resources/uncx-locker-token-vesting-review-and-guide",
+      "source": "Bitbond",
+      "tag": "Research"
+    }
+  ]
 }

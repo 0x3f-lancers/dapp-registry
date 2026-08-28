@@ -48,5 +48,34 @@
       "pheasant-network",
       "supraoracles"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Pricing Gold and Silver Markets on Canton",
+      "tldr": "RedStone became the data layer for Temple's commodity markets, supplying 24/7 pricing, reference data and risk functions for metals rather than crypto.",
+      "url": "https://blog.redstone.finance/2026/08/04/redstone-partners-with-temple-digital-group-to-power-commodity-trading-on-canton/",
+      "source": "RedStone Blog",
+      "publishedAt": "2026-08-04",
+      "tag": "Finance",
+      "image": "https://blog.redstone.finance/wp-content/uploads/2026/08/TemplexRedstone-Hero-02.png"
+    },
+    {
+      "title": "The Infrastructure Problems a Price Feed Cannot Solve",
+      "tldr": "A feed answers what an asset is worth now. This covers everything downstream of that question, across 70+ chains and 200+ protocols.",
+      "url": "https://blog.redstone.finance/2026/07/20/the-redstone-stack-solving-the-infrastructure-problems-a-price-feed-cant/",
+      "source": "RedStone Blog",
+      "publishedAt": "2026-07-20",
+      "image": "https://blog.redstone.finance/wp-content/uploads/2026/07/Blog_InfrastructureProblems_2048x1152_01.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What the RedStone Product Stack Actually Is",
+      "tldr": "Seven products across market data, capital efficiency and risk intelligence, served through one modular architecture rather than as separate tools.",
+      "url": "https://blog.redstone.finance/2026/06/27/what-the-redstone-product-stack-actually-is/",
+      "source": "RedStone Blog",
+      "publishedAt": "2026-06-27",
+      "tag": "Infrastructure",
+      "image": "https://blog.redstone.finance/wp-content/uploads/2026/06/What-the-RedStone-Product-Stack-actually-is.png"
+    }
+  ]
 }

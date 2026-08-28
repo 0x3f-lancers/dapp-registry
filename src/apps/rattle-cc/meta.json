@@ -34,5 +34,21 @@
       "juicebox",
       "pnthn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading a Contract With No Source",
+      "tldr": "Recovering the control flow graph from bytecode and lifting it to SSA, which strips over 60% of the instructions.",
+      "url": "https://blog.trailofbits.com/2018/09/06/rattle-an-ethereum-evm-binary-analysis-framework/",
+      "source": "Trail of Bits",
+      "image": "https://blog.trailofbits.com/img/Trail-of-Bits-Open-Graph.png"
+    },
+    {
+      "title": "Why Raffles Beat First-Come-First-Served",
+      "tldr": "A builder's account of allowlist mechanics: how FCFS mints turn into gas wars, and what an on-chain draw changes about that.",
+      "url": "https://gifgames.substack.com/p/fcfs-whitelist-the-return-of-raffletopia",
+      "source": "gif.games",
+      "image": "https://substackcdn.com/image/fetch/$s_!rD-J!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2e8abaf4-cdb4-45b5-bf3f-dd24c95b1b58_2988x1250.png"
+    }
+  ]
 }

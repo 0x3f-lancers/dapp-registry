@@ -46,5 +46,31 @@
       "metamask",
       "beefy-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Moving Off a Centralised Exchange",
+      "tldr": "Get a wallet, fund it, connect, swap. The short version of leaving a CEX, with the steps people usually stumble on called out.",
+      "url": "https://blog.pancakeswap.finance/articles/how-to-move-from-a-centralized-exchange-to-pancakeswap",
+      "source": "PancakeSwap Blog",
+      "tag": "Trading",
+      "image": "https://sgp1.digitaloceanspaces.com/strapi.space/a012e49d291b7b5771f61d8181c87303.jpg"
+    },
+    {
+      "title": "Trading Tokenised Stocks On-Chain",
+      "tldr": "Real US equities, no brokerage account and no market hours. What that actually involves and where the catches are.",
+      "url": "https://blog.pancakeswap.finance/articles/pancakeswap-your-go-to-guide-to-trade-rwas",
+      "source": "PancakeSwap Blog",
+      "tag": "Trading",
+      "image": "https://sgp1.digitaloceanspaces.com/strapi.space/a7b092fd9d2f171820d46d3f62a5576a.jpg"
+    },
+    {
+      "title": "Quoting Five Pairs Without Five Times the Capital",
+      "tldr": "Liquidity is normally locked to one pair, so most of it sits idle. The hook that lets a single inventory back many markets.",
+      "url": "https://blog.pancakeswap.finance/articles/introducing-shared-inventory-hook-by-pancakeswap",
+      "source": "PancakeSwap Blog",
+      "tag": "Finance",
+      "image": "https://sgp1.digitaloceanspaces.com/strapi.space/f40205f4bf21c1fb60e336faddef40d3.jpg"
+    }
+  ]
 }

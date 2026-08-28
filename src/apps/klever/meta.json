@@ -31,5 +31,25 @@
       "taraxa",
       "areon-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Klever Virtual Machine",
+      "tldr": "What a native VM adds for developers building on the chain, and why the team treated it as the next step rather than an add-on.",
+      "url": "https://klever.org/blog/klever-virtual-machine-klever-blockchain-chapter/",
+      "source": "Klever Blog",
+      "publishedAt": "2025-09-17",
+      "tag": "Infrastructure",
+      "image": "https://assets.klever.io/org/WHAT_IS_KVM-1-1.webp"
+    },
+    {
+      "title": "Inside a Mainnet Upgrade",
+      "tldr": "A CertiK audit closed out, backtests run against fork risk, and a new validator binary. An unusually plain account of upgrade mechanics.",
+      "url": "https://klever.org/blog/klever-blockchain-mainnet-update-2025/",
+      "source": "Klever Blog",
+      "publishedAt": "2025-08-20",
+      "tag": "Security",
+      "image": "https://klever.org/wp-content/uploads/org/imagem_2025-08-20_173904685.webp?_t=1755722734"
+    }
+  ]
 }

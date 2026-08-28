@@ -3,8 +3,15 @@
   "name": "Uniswap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750933/web3-explorer/dapp-logos/uniswap.svg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Polygon", "Arbitrum", "OP Mainnet"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Arbitrum",
+    "OP Mainnet"
+  ],
   "pricing": "",
   "content": {
     "short": "Uniswap is an Ethereum-based decentralized exchange enabling token swaps via liquidity pools.",
@@ -17,7 +24,34 @@
     "twitter": "https://x.com/Uniswap"
   },
   "relations": {
-    "alternatives": ["position-exchange", "xtoken-terminal"],
-    "related": ["erasure", "egemoney", "bumper-finance"]
-  }
+    "alternatives": [
+      "position-exchange",
+      "xtoken-terminal"
+    ],
+    "related": [
+      "erasure",
+      "egemoney",
+      "bumper-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "DualPool Hook: A Technical Deep Dive",
+      "tldr": "A v4 hook parking idle market-maker inventory in a lending market until a swap needs it. Walks the accounting and the edge cases that make it safe.",
+      "url": "https://blog.uniswap.org/dualpool-hook-is-now-live",
+      "source": "Uniswap Labs Blog",
+      "publishedAt": "2026-07-22",
+      "tag": "Trading",
+      "image": "https://images.ctfassets.net/oc3ca6rftwdu/5nLoUze0pIWqllO16rWSTE/a38f342133a12826a31233bcff3aa4e3/Dualpool.png?w=1200&h=900&q=100&fit=crop"
+    },
+    {
+      "title": "Introducing Permissioned Pools on Uniswap v4",
+      "tldr": "A hook standard for trading assets carrying compliance constraints, with eligibility enforced onchain at swap time rather than at the interface.",
+      "url": "https://blog.uniswap.org/introducing-permissioned-pools-on-uniswap-v4",
+      "source": "Uniswap Labs Blog",
+      "publishedAt": "2026-07-23",
+      "tag": "Trading",
+      "image": "https://images.ctfassets.net/oc3ca6rftwdu/4XNVRqRbYYZ76KWsxwmUW7/e153e6266f9f23fe8cbc718fa51da581/Skills__3_.png?w=1200&h=900&q=100&fit=crop"
+    }
+  ]
 }

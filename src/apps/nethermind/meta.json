@@ -31,5 +31,34 @@
       "quicknode",
       "betarpc"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How We Formalized Ethereum Execution: A Semantics of the EVM and Yul in Lean",
+      "tldr": "Writing a machine-checked formal model of the EVM in a proof assistant. Dense, serious work, and a rare look at what verifying a virtual machine takes.",
+      "url": "https://www.nethermind.io/blog/a-trustworthy-formal-model-of-evm-yul-in-lean",
+      "source": "Nethermind Blog",
+      "publishedAt": "2026-02-05",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/698456fc2950369860f36cd4_Nethermind_Formal%20Model%20of%20%20the%20Ethereum%20Virtual%20Machine%20%C2%A0.png"
+    },
+    {
+      "title": "AgentArena Case Study: Adversarial AI Security Analysis for Lido",
+      "tldr": "Pointing adversarial agents at a live staking protocol to see what they find. Interesting for the methodology as much as the findings.",
+      "url": "https://www.nethermind.io/blog/agent-arena-case-study-adversarial-ai-security-analysis-for-lido",
+      "source": "Nethermind Blog",
+      "publishedAt": "2026-03-10",
+      "tag": "AI & Agents",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/69b10290c79af872a488af27_AgentArena_Adversarial%20AI%20Auditing%20on%20Lido%20Smart%20Contracts%C2%A0.png"
+    },
+    {
+      "title": "AuditAgent on EVMBench: What the Data Shows",
+      "tldr": "Benchmarks an AI auditing tool rather than asserting it works. The honest framing, including where it underperforms, is the reason to read it.",
+      "url": "https://www.nethermind.io/blog/auditagent-on-evmbench-what-the-data-shows",
+      "source": "Nethermind Blog",
+      "publishedAt": "2026-04-28",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/69f00e050ed1d8eb8902c0ef_AuditAgent_AuditAgent%20Performs%20Against%20Base%20Models.png"
+    }
+  ]
 }

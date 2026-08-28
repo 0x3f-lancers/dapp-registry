@@ -30,5 +30,22 @@
       "astrochain",
       "starknet-react"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Indexing Vault Activity",
+      "tldr": "How the vault, share and asset entities are modelled so fund performance can be queried instead of replayed from logs.",
+      "url": "https://github.com/enzymefinance/subgraphs",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/be756ee04ad43c516079f17c1013964f93c7f380ff268ba8a5ec179f7019f6b0/enzymefinance/subgraphs"
+    },
+    {
+      "title": "Subgraph or API",
+      "tldr": "The protocol's own comparison of the two ways to read its data, and which questions each one answers better.",
+      "url": "https://medium.com/enzymefinance/introducing-the-enzyme-api-a-unified-way-to-query-data-and-enable-new-use-cases-666466e60a54",
+      "source": "Enzyme Finance",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*xj5uXfvkEn0UCF58",
+      "tag": "Infrastructure"
+    }
+  ]
 }

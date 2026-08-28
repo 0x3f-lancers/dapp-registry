@@ -42,6 +42,50 @@ The `metaJsonSchema` in `schema/metaJsonSchema.ts` defines required fields:
 - `content`: `{ short, description, meta, pageTitle }`
 - `links`: At least one of `website` or `github` required
 - `relations`: `{ alternatives[], related[] }` - must reference existing slugs
+- `resources[]` (optional): curated educational reading - see below
+
+**Any field not declared in the schema is silently deleted.** Zod strips unknown
+keys, and `distill.ts` writes the parsed object back over `meta.json` whenever it
+uploads a logo. Always add a field to the schema before writing it to disk.
+
+### Educational Resources (`resources`)
+
+Optional per-app array of curated further reading, added so dapp detail pages
+carry content that is unique to them rather than reading as templated listings.
+
+```jsonc
+"resources": [
+  {
+    "title": "DualPool Hook: A Technical Deep Dive",
+    "tldr": "Our own 2-3 sentence summary, never pasted from the source.",
+    "url": "https://blog.uniswap.org/dualpool-hook-is-now-live",
+    "source": "Uniswap Labs Blog",
+    "publishedAt": "2026-07-22"   // optional, YYYY-MM-DD
+  }
+]
+```
+
+Rules that matter:
+- **Quality over coverage.** Most apps should have no `resources` field at all.
+  Filling every app with thin summaries recreates the templated-content problem
+  this field exists to solve.
+- **Never copy the source's own text** into `tldr` - duplicate content defeats
+  the purpose. Write it fresh, and vary the phrasing between entries.
+- **Never add `resources` to `appsMinSchema` or distill's `appEntry`.**
+  `apps.min.json` is fetched by every listing page; this data belongs only on
+  the detail page, which reads the per-app `meta.json`.
+- Max 5 entries, `tldr` 40-300 chars.
+
+Pipeline:
+```bash
+tsx scripts/pick-resource-targets.ts --limit 2600   # rank apps worth crawling
+tsx scripts/fetch-resources.ts --file data/target-slugs.txt --concurrency 24
+tsx scripts/review-candidates.ts --apps 20          # compact digest to review
+# ...hand-pick posts and write TLDRs into data/resource-selections.json...
+tsx scripts/apply-resources.ts --in data/resource-selections.json --dry-run
+tsx scripts/apply-resources.ts --in data/resource-selections.json
+pnpm run dev:validate
+```
 
 ### Fastify Server
 

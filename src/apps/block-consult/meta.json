@@ -33,5 +33,34 @@
       "vector-dao",
       "softstack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "DAO Governance That Actually Works",
+      "tldr": "One token one vote collapses in practice, and this covers the structures teams reach for instead. Grounded in mechanisms rather than governance theory.",
+      "url": "https://www.blockconsult.org/blog/dao-governance",
+      "source": "Block Consult Blog",
+      "tag": "Governance",
+      "publishedAt": "2026-05-20",
+      "image": "https://www.blockconsult.org/en/blog/dao-governance/opengraph-image?5991ebe0b6176979"
+    },
+    {
+      "title": "Token Compliance: MiCA, the Howey Test, and Launching Safely",
+      "tldr": "Two regimes with different questions, applied to the same token. Structured around not walking into a securities problem rather than around the law.",
+      "url": "https://www.blockconsult.org/blog/token-compliance",
+      "source": "Block Consult Blog",
+      "tag": "Regulation",
+      "publishedAt": "2026-04-22",
+      "image": "https://www.blockconsult.org/en/blog/token-compliance/opengraph-image?5991ebe0b6176979"
+    },
+    {
+      "title": "Real-World Assets Onchain: Tokenising Beyond the Hype",
+      "tldr": "Separates what is genuinely live in tokenised finance from what is still being promised, then sits with the custody and legal questions nobody has closed.",
+      "url": "https://www.blockconsult.org/blog/real-world-asset-tokenization",
+      "source": "Block Consult Blog",
+      "tag": "Tokenization",
+      "publishedAt": "2026-05-06",
+      "image": "https://www.blockconsult.org/en/blog/real-world-asset-tokenization/opengraph-image?5991ebe0b6176979"
+    }
+  ]
 }

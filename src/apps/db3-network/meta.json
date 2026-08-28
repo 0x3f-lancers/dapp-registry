@@ -17,8 +17,9 @@
     "pageTitle": "db3 network - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/dbpunk-labs/db3",
-    "twitter": "https://x.com/Db3Network"
+    "website": "https://docs.db3.network/",
+    "twitter": "https://x.com/Db3Network",
+    "github": "https://github.com/dbpunk-labs/db3"
   },
   "relations": {
     "alternatives": [
@@ -31,5 +32,22 @@
       "quay",
       "opensea-subgraph"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A JSON Database for Dapps",
+      "tldr": "Application data that changes constantly does not belong on-chain. Where it does belong, and what rolling up to Arweave buys.",
+      "url": "https://medium.com/@db3_network/db3-network-revolutionizing-data-management-in-the-web3-ecosystem-f0df43b1e17d",
+      "source": "DB3 Network",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*BbhKj6xJ-OnvoBolkhqgvA.png",
+      "tag": "Research"
+    },
+    {
+      "title": "A JSON Database For Dapps",
+      "tldr": "The source and quickstart: collections and documents written with a key signature, rolled up to Arweave for permanence.",
+      "url": "https://github.com/dbpunk-labs/db3",
+      "source": "GitHub",
+      "image": "https://repository-images.githubusercontent.com/473865424/0be326c7-be78-4d56-adab-aabd136d601f"
+    }
+  ]
 }

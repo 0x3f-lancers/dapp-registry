@@ -28,5 +28,23 @@
       "solidity-linting-tool",
       "rattle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Symbolic Execution, Properly Explained",
+      "tldr": "A long treatment of the technique behind the tool: exploring branches by reasoning about inputs rather than guessing them.",
+      "url": "https://hackmd.io/@SaferMaker/EVM-Sym-Exec",
+      "source": "SaferMaker",
+      "tag": "Trading",
+      "image": "https://hackmd.io/api/_/preview/I0zCVfRoQLi-aR99mtNsJQ"
+    },
+    {
+      "title": "Getting Started With Mythril",
+      "tldr": "What the detection modules look for, and how to read the transaction sequence it hands back when it finds something.",
+      "url": "https://joran-honig.medium.com/introduction-to-mythril-classic-and-symbolic-execution-ef59339f259b",
+      "source": "Joran Honig",
+      "tag": "Tutorial",
+      "image": "https://miro.medium.com/v2/resize:fit:453/1*pPG7_8gwqN8IsnNMkJJzXQ.jpeg"
+    }
+  ]
 }

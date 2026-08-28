@@ -30,5 +30,34 @@
     "related": [
       "orby-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lagoon's Fee Structure: The Four Fee Types, Explained",
+      "tldr": "Management, performance, entry/exit and protocol fees, with the actual formulas, caps and accrual mechanics rather than a summary.",
+      "url": "https://lagoon.finance/blog/lagoon-fee-structure",
+      "source": "Lagoon Blog",
+      "publishedAt": "2026-05-05",
+      "tag": "Explainer",
+      "image": "https://storage.googleapis.com/lagoon-blog-media/blog/lagoon-fee-structure/og.png"
+    },
+    {
+      "title": "Agentic Finance: How AI Agents Work With Lagoon Vaults",
+      "tldr": "Moving agents from chat to actual capital means letting them discover a vault, read its state, and act on it.",
+      "url": "https://lagoon.finance/blog/agentic-finance-lagoon-vaults",
+      "source": "Lagoon Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "AI & Agents",
+      "image": "https://storage.googleapis.com/lagoon-blog-media/blog/agentic-finance-lagoon-vaults/og.png"
+    },
+    {
+      "title": "More Than Vaults: Lagoon's Open Data Layer",
+      "tldr": "An SDK reading contracts directly, plus a public GraphQL API with no key. Argues vault data should be queryable by anyone, not just the operator.",
+      "url": "https://lagoon.finance/blog/lagoon-api-sdk-mcp",
+      "source": "Lagoon Blog",
+      "publishedAt": "2026-05-28",
+      "tag": "DeFi",
+      "image": "https://storage.googleapis.com/lagoon-blog-media/blog/lagoon-api-sdk-mcp/og.png"
+    }
+  ]
 }

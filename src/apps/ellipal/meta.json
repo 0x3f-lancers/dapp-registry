@@ -33,5 +33,34 @@
       "frontier-wallet",
       "stackup"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Binance's EU Suspension Means for Your Coins",
+      "tldr": "Binance stopped serving EU users in July 2026 without a MiCA licence. ESMA advised moving assets to a licensed provider or to self-custody.",
+      "url": "https://www.ellipal.com/blogs/news/binance-eu-suspension-mica-self-custody",
+      "source": "ELLIPAL Blog",
+      "publishedAt": "2026-07-01",
+      "tag": "Regulation",
+      "image": "https://www.ellipal.com/cdn/shop/articles/20260702_EU_MICA_77fad030-d079-4e42-a50f-377b10aa0e51.png?v=1782985601"
+    },
+    {
+      "title": "The Longest Extreme-Fear Streak Since FTX",
+      "tldr": "The Fear & Greed Index sitting at 8 out of 100 marks the longest such run since November 2022, and experienced holders are moving off exchanges.",
+      "url": "https://www.ellipal.com/blogs/news/the-fear-index-hit-8-smart-crypto-holders-move-to-cold-storage-2026",
+      "source": "ELLIPAL Blog",
+      "publishedAt": "2026-01-01",
+      "image": "https://www.ellipal.com/cdn/shop/articles/cleaned-Gemini_Generated_Image_vuj3qhvuj3qhvuj3_96de99a9-a150-451b-b5e3-8a8a850ccdf7.png?v=1780046736",
+      "tag": "Trading"
+    },
+    {
+      "title": "Going From Fiat to Offline Storage in One Flow",
+      "tldr": "An Onramper integration that lets someone buy crypto and land it straight in air-gapped hardware storage, without an exchange account in between.",
+      "url": "https://www.ellipal.com/blogs/news/ellipal-integrates-onramper-to-expand-access-to-self-custody-assets",
+      "source": "ELLIPAL Blog",
+      "publishedAt": "2026-06-04",
+      "tag": "Infrastructure",
+      "image": "https://www.ellipal.com/cdn/shop/articles/ORxEllipal.png?v=1780579786"
+    }
+  ]
 }

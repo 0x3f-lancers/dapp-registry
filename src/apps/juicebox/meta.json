@@ -31,5 +31,31 @@
       "opencord",
       "floats"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Crowdfunding on Kickstarter Terms, or Onchain",
+      "tldr": "Indiegogo compared with an onchain treasury: who holds the money, who can see it, and what happens if the project stalls.",
+      "url": "https://docs.juicebox.money/blog/indiegogo-vs-juicebox",
+      "source": "Juicebox Docs",
+      "tag": "Governance",
+      "image": "https://docs.juicebox.money/assets/images/indiegogo-vs-juicebox-f46d68fe3dcb7a023a2f204c14dfa0fd.webp"
+    },
+    {
+      "title": "Raising for a Cause, Transparently",
+      "tldr": "GoFundMe set against a public treasury, focused on the accountability a charity is expected to demonstrate to donors.",
+      "url": "https://docs.juicebox.money/blog/gofundme-vs-juicebox",
+      "source": "Juicebox Docs",
+      "tag": "Governance",
+      "image": "https://docs.juicebox.money/assets/images/gofundme-vs-juicebox-446df3ea2ee65dee82029ce486ad34d8.webp"
+    },
+    {
+      "title": "Onchain Funding for Non-Profits",
+      "tldr": "Accountability and transparency are the core promises of any charity. What it means when the ledger itself provides them.",
+      "url": "https://docs.juicebox.money/blog/jb-for-charity",
+      "source": "Juicebox Docs",
+      "tag": "Finance",
+      "image": "https://docs.juicebox.money/assets/images/jb_for_charity-742792b9ef667e17b0078747d5e6d746.png"
+    }
+  ]
 }

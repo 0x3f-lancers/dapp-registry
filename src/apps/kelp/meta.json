@@ -35,5 +35,31 @@
       "tulip",
       "tenderize"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The End of Fragmented Liquidity",
+      "tldr": "DeFi has grown into a set of walled gardens, each with its own pool. An argument for what replaces that, and what it costs.",
+      "url": "https://blogs.kerneldao.com/blog/the-end-of-fragmented-liquidity-(and-the-start-of-something-bigger)",
+      "source": "Kernel Blog",
+      "tag": "DeFi",
+      "image": "https://framerusercontent.com/images/VcdaHojsUvw8CjIEr2p251FwtL4.png?width=1920&height=1080"
+    },
+    {
+      "title": "A Bridge Verification Failure, Disclosed",
+      "tldr": "The infrastructure processing cross-chain messages failed on 18 April 2026. What went wrong and what changed afterwards.",
+      "url": "https://blogs.kerneldao.com/blog/kelp-dao-%C2%B7-incident-response-%C2%B7-april-19-2026",
+      "source": "Kernel Blog",
+      "tag": "Infrastructure",
+      "image": "https://framerusercontent.com/images/o7kTdZ2prNQch16qyE8x3UCXsoo.png?width=2298&height=1430"
+    },
+    {
+      "title": "Making Onchain Credit Move Securely",
+      "tldr": "What an oracle network contributes to a credit system, and which parts of the flow still need trusting after it is added.",
+      "url": "https://blogs.kerneldao.com/blog/kelp-x-chainlink-finance-for-the-instant-economy",
+      "source": "Kernel Blog",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/m3LdAoEVPEvyk2PIj9RsoyuXjs.png?width=2415&height=1359"
+    }
+  ]
 }

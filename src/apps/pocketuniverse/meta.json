@@ -31,5 +31,22 @@
       "venly",
       "wally"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Simulating a Transaction Before You Sign It",
+      "tldr": "The extension runs the transaction first and shows what leaves your wallet, which is the step wallets historically skipped.",
+      "url": "https://www.startwithnfts.com/posts/breaking-down-pocket-universe-one-click-automated-nft-scam-prevention-with-a-free-and-vetted-browser-extension/",
+      "source": "Start With NFTs",
+      "image": "https://images.ctfassets.net/3mnbejz4r6xh/2l7m83PWxs6QR4BZnXQ35k/129916362ed227f3822a0bfaddbc9631/Breaking_Down_Pocket_Universe.png"
+    },
+    {
+      "title": "Where It Sits Among Security Tools",
+      "tldr": "Compared against the other options, with the honest point that simulation catches drainers but not every social-engineering trick.",
+      "url": "https://pixelplex.io/blog/top-web3-security-tools/",
+      "source": "PixelPlex",
+      "tag": "Security",
+      "image": "https://pixelplex.io/wp-content/uploads/2023/02/top-web3-security-tools-meta.jpg"
+    }
+  ]
 }

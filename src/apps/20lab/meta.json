@@ -38,5 +38,34 @@
     "related": [
       "beamer-bridge"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Create a Liquidity Pool for Your Solana Token",
+      "tldr": "Compares Raydium and Meteora pool types and walks the setup. Genuinely useful because pool choice is made once and is awkward to undo afterwards.",
+      "url": "https://20lab.app/blog/how-to-create-liquidity-pool-for-your-solana-token/",
+      "source": "20lab Blog",
+      "publishedAt": "2026-04-21",
+      "tag": "Tutorial",
+      "image": "https://cdn.sanity.io/images/cg52btsy/production/fe1be9630558984fd35d66d98b71062f33460f52-1600x900.png"
+    },
+    {
+      "title": "Adding Liquidity to Meteora: A Pool Creation Guide",
+      "tldr": "Step by step through DAMM v2 pool creation and fee configuration, where a small misconfiguration quietly costs you for the life of the pool.",
+      "url": "https://20lab.app/blog/add-liquidity-to-meteora/",
+      "source": "20lab Blog",
+      "publishedAt": "2026-03-23",
+      "tag": "Tutorial",
+      "image": "https://cdn.sanity.io/images/cg52btsy/production/61c85136b1cd5fed8b529d0123b8aba2587dd2d4-1600x900.png"
+    },
+    {
+      "title": "How to Create and Deploy Your Own ERC-20 Token",
+      "tldr": "A deployment walkthrough on a new EVM chain. Worth reading for what the standard actually requires versus what tooling adds on top.",
+      "url": "https://20lab.app/blog/how-to-create-erc-20-token-on-robinhood/",
+      "source": "20lab Blog",
+      "publishedAt": "2026-07-04",
+      "tag": "Infrastructure",
+      "image": "https://cdn.sanity.io/images/cg52btsy/production/d9993692c23c1f83001b99ccd5beb158f105effa-1600x900.png"
+    }
+  ]
 }

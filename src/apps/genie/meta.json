@@ -29,5 +29,31 @@
       "nonfungible",
       "scour"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Sweeping a Floor in One Transaction",
+      "tldr": "Buying up to 60 NFTs across several marketplaces at once, and where the gas saving actually comes from.",
+      "url": "https://www.altcoinbuzz.io/nft/guide-to-genie-nft-an-nft-marketplace-aggregator/",
+      "source": "Altcoin Buzz",
+      "tag": "Tokenization",
+      "image": "https://www.altcoinbuzz.io/api/media/file/32-1-2-768x432.jpg"
+    },
+    {
+      "title": "The First Aggregator, Explained",
+      "tldr": "How listings from OpenSea, Rarible, LooksRare and NFTX were pulled into one view, and what that did to buyer behaviour.",
+      "url": "https://pexx.com/chaindebrief/genie-nft-marketplace-metaverse-aggregator/",
+      "source": "Chain Debrief",
+      "tag": "Trading",
+      "image": "https://pexx-chaindebrief-media.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/02/Genie.png"
+    },
+    {
+      "title": "Aggregators Compared",
+      "tldr": "Genie set beside its rivals, which is the clearest way to see which design decisions were specific to it.",
+      "url": "https://nonfungible.com/news/utility/three-popular-aggregators",
+      "source": "NonFungible",
+      "tag": "Trading",
+      "image": "https://nonfungible.com/static/news/2022-06-28-three-popular-aggregators-featured.avif"
+    }
+  ]
 }

@@ -33,5 +33,28 @@
       "emblem-vault",
       "opensea-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Shipping a Collection Without Writing Solidity",
+      "tldr": "Allowlists, art generation, contract config and a mint page. The documentation for each piece and the order to do them in.",
+      "url": "https://docs.launchpad.heymint.xyz/",
+      "source": "HeyMint Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.launchpad.heymint.xyz/~gitbook/ogimage/wobJTncLhcaJ5jsnpl9M"
+    },
+    {
+      "title": "Generating A Collection Without Code",
+      "tldr": "The art generator side of the launchpad: layering traits, setting rarity weights and exporting metadata ready to mint.",
+      "url": "https://nft-launchpad.heymint.xyz/nft-art-generator",
+      "source": "HeyMint"
+    },
+    {
+      "title": "The Launchpad in Summary",
+      "tldr": "A short reference on the mint button embed and the platforms it drops into without a developer.",
+      "url": "https://moralis.com/web3-wiki/heymint-launchpad/",
+      "source": "Moralis",
+      "tag": "Trading"
+    }
+  ]
 }

@@ -36,5 +36,22 @@
       "solidity-flattener",
       "rockx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying Pools And Swaps",
+      "tldr": "The subgraph definitions behind the exchange's analytics: pairs, swaps, liquidity positions and how they get indexed.",
+      "url": "https://github.com/sushiswap/subgraphs",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/804d6a0f8cfbfd37ac1d3deeea9bb85cf42b0dd18e7d6b503be60e7e3137a270/sushiswap/subgraphs"
+    },
+    {
+      "title": "Why DeFi Apps Rely on Subgraphs",
+      "tldr": "TVL, pool liquidity and fee aggregates are painful to compute from a node. What indexing changes about that.",
+      "url": "https://www.zeeve.io/blog/how-defi-applications-can-benefit-using-subgraphs-for-data-indexing/",
+      "source": "Zeeve",
+      "image": "https://wwwzeeveio.b-cdn.net/wp-content/uploads/2026/04/DeFi-applications-can-use-subgraphs_feature.jpg",
+      "tag": "DeFi"
+    }
+  ]
 }

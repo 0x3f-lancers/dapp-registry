@@ -35,5 +35,25 @@
       "solve3",
       "wallet-guard"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Instant Crypto Exchanges Became a Money Laundering Hotspot",
+      "tldr": "Swapping without an account is convenient for everyone, including people moving stolen funds. The structural reason these services attract that flow.",
+      "url": "https://blocksec.com/blog/instant-crypto-exchanges-money-laundering",
+      "source": "BlockSec Blog",
+      "tag": "Security",
+      "publishedAt": "2025-06-24",
+      "image": "https://assets.blocksec.com/frontend/blocksec-strapi-online/_c0ed969ce8.png"
+    },
+    {
+      "title": "Real-Time Threat Detection on Solana",
+      "tldr": "Extending live transaction monitoring to a chain with very different execution timing. Useful for what it implies about how little room there is to react.",
+      "url": "https://blocksec.com/blog/blocksec-phalcon-supports-solana",
+      "source": "BlockSec Blog",
+      "tag": "Trading",
+      "publishedAt": "2025-02-26",
+      "image": "https://assets.blocksec.com/frontend/blocksec-strapi-online/Solana_602b0afaad.jpg"
+    }
+  ]
 }

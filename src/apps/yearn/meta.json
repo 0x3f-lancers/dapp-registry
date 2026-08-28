@@ -30,5 +30,21 @@
       "compound",
       "hundred-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Vault Does With Your Deposit",
+      "tldr": "Described as a savings account, but the contracts are actively moving funds between strategies. What that means for the depositor.",
+      "url": "https://docs.yearn.fi/getting-started/products/yvaults/overview",
+      "source": "Yearn Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "Reading a Vault APY Honestly",
+      "tldr": "APY and APR are DeFi standards with several possible calculations behind them. Which one is on screen, and what it excludes.",
+      "url": "https://docs.yearn.fi/getting-started/guides/how-apy-works",
+      "source": "Yearn Docs",
+      "tag": "DeFi"
+    }
+  ]
 }

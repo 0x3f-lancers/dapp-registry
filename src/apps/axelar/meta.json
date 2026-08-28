@@ -1,39 +1,68 @@
 {
-    "slug":  "axelar",
-    "name":  "Axelar",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745129/web3-explorer/dapp-logos/axelar.jpg",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "Web3 Messaging Tools",
-                        "Blockchain Interoperability Tools"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Polygon",
-                   "Avalanche",
-                   "Multichain",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Axelar gives Mantle apps a cross-chain messaging layer for moving tokens and calling contracts across networks.",
-                    "description":  "Axelar is an interoperability network built to help developers connect applications, assets, and smart contracts across chains through one messaging layer. Its docs focus on interchain token transfers, general message passing, and developer tools that let apps trigger contract calls beyond their home network. The system is secured through a proof of stake validator set and is designed for teams building multichain products rather than isolated single chain deployments. For Mantle users, Axelar is relevant when an app needs cross-chain routing, token movement, or interoperable contract execution.",
-                    "meta":  "Axelar gives Mantle builders cross-chain messaging and token transfer infrastructure for more interoperable app experiences today.",
-                    "pageTitle":  "Axelar - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://axelar.network/",
-                  "twitter":  "https://x.com/axelarcore"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "xcall-service",
-                                           "skiff",
-                                           "epigeon"
-                                       ],
-                      "related":  [
-                                      "betarpc",
-                                      "succinct"
-                                  ]
-                  }
+  "slug": "axelar",
+  "name": "Axelar",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745129/web3-explorer/dapp-logos/axelar.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Messaging Tools",
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "Multichain",
+    "Mantle"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Axelar gives Mantle apps a cross-chain messaging layer for moving tokens and calling contracts across networks.",
+    "description": "Axelar is an interoperability network built to help developers connect applications, assets, and smart contracts across chains through one messaging layer. Its docs focus on interchain token transfers, general message passing, and developer tools that let apps trigger contract calls beyond their home network. The system is secured through a proof of stake validator set and is designed for teams building multichain products rather than isolated single chain deployments. For Mantle users, Axelar is relevant when an app needs cross-chain routing, token movement, or interoperable contract execution.",
+    "meta": "Axelar gives Mantle builders cross-chain messaging and token transfer infrastructure for more interoperable app experiences today.",
+    "pageTitle": "Axelar - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://axelar.network/",
+    "twitter": "https://x.com/axelarcore"
+  },
+  "relations": {
+    "alternatives": [
+      "xcall-service",
+      "skiff",
+      "epigeon"
+    ],
+    "related": [
+      "betarpc",
+      "succinct"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Axelar Steps Out From Behind the Infrastructure",
+      "tldr": "After four years as a layer other apps built on, Axelar launched a direct user interface. What that changes about how the network is reached.",
+      "url": "https://www.axelar.network/blog/a-new-way-to-interact-with-axelar",
+      "source": "Axelar Blog",
+      "publishedAt": "2026-05-25",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/65f28017eaba8cd1f912fa9f/6a141b287df67ff1199dda92_swaplink2_thumbnail.jpg"
+    },
+    {
+      "title": "mXRP: Liquid Staked XRP Built on Axelar",
+      "tldr": "Midas and Interop Labs launched XRP-denominated yield strategies as a tokenised product, giving the XRP ecosystem onchain yield exposure.",
+      "url": "https://www.axelar.network/blog/mxrp-announcement",
+      "source": "Axelar Blog",
+      "publishedAt": "2026-07-16",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/65f28017eaba8cd1f912fa9f/68d0255bdf7f47a1d0945d53_mXRP%20Social%20Banner.png"
+    },
+    {
+      "title": "Bridging Tokens Through Axelar's Interface",
+      "tldr": "A step-by-step walkthrough of moving assets across chains on app.axelar.network, from connecting a wallet to confirming the transfer.",
+      "url": "https://www.axelar.network/blog/how-to-bridge-tokens-using-axelar",
+      "source": "Axelar Blog",
+      "publishedAt": "2026-06-25",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/65f28017eaba8cd1f912fa9f/6a3d60823c7c3b7362364309_Slide%2016_9%20-%20162.png"
+    }
+  ]
 }

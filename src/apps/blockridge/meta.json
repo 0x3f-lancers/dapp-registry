@@ -31,5 +31,34 @@
       "gains-network",
       "blockply"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "ERC-3643: A Compliance-Focused Protocol for RWA Tokenization",
+      "tldr": "A token standard with identity verification and transfer restrictions built in, rather than enforced by the interface.",
+      "url": "https://blockridge.com/blog/erc-3643-a-compliance-focused-protocol/",
+      "source": "BlockRidge Blog",
+      "tag": "Tokenization",
+      "publishedAt": "2025-05-09",
+      "image": "https://blockridge.com/wp-content/uploads/2025/05/freepik__ink-style-artwork-of-a-monitor-displaying-smart-co__72139.jpeg"
+    },
+    {
+      "title": "Tokenizing Private Markets: Venture, PE and Secondaries",
+      "tldr": "Private markets are illiquid by construction, not by accident. Which of those constraints tokenisation actually removes, and which it relocates.",
+      "url": "https://blockridge.com/blog/rwa-tokenization-prrivate-markets-venture-capitals/",
+      "source": "BlockRidge Blog",
+      "tag": "Tokenization",
+      "publishedAt": "2025-04-14",
+      "image": "https://blockridge.com/wp-content/uploads/2025/04/Private-Equity.jpg"
+    },
+    {
+      "title": "AI Agents Handling RWA Portfolios",
+      "tldr": "Speculative but grounded: what an autonomous system managing tokenised real-world assets would need to be trusted with, and which pieces exist.",
+      "url": "https://blockridge.com/blog/ai-agents-and-rwa-for-asset-management/",
+      "source": "BlockRidge Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2025-07-28",
+      "image": "https://blockridge.com/wp-content/uploads/2025/07/AI-Agents-RWA-Management-1024x559.jpeg"
+    }
+  ]
 }

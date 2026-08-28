@@ -45,5 +45,34 @@
       "swc-registry",
       "erc-20-verifier"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Understanding and Preventing Reentrancy Attacks",
+      "tldr": "Explains the mechanism properly, then the coding practices that actually close it rather than the ones people cite.",
+      "url": "https://www.cyberscope.io/blog/what-is-a-reentrancy-attack",
+      "source": "Cyberscope Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-31",
+      "image": "https://dh04d0ixzuvjt.cloudfront.net/cyberscope_reentrancy_blog.png"
+    },
+    {
+      "title": "How to Read a Smart Contract Audit Report",
+      "tldr": "Severity ratings, the red flags that matter, and how to check a report is genuine. Most people who cite audits have never read one closely.",
+      "url": "https://www.cyberscope.io/blog/how-to-read-smart-contract-audit-report",
+      "source": "Cyberscope Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-30",
+      "image": "https://dh04d0ixzuvjt.cloudfront.net/cyberscope_audit_report_blog.png"
+    },
+    {
+      "title": "What Is Formal Verification in Smart Contract Auditing?",
+      "tldr": "Proving code behaves correctly under every possible input, rather than the inputs someone thought to test.",
+      "url": "https://www.cyberscope.io/blog/formal-verification-in-smart-contract-auditing",
+      "source": "Cyberscope Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-30",
+      "image": "https://dh04d0ixzuvjt.cloudfront.net/cyberscope_formal_verification_blog2.png"
+    }
+  ]
 }

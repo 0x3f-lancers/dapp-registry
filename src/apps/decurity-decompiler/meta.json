@@ -30,5 +30,34 @@
       "ethersplay",
       "abi-parser"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Fast Do Vulnerable Contracts Actually Get Exploited?",
+      "tldr": "Original research measuring the gap between a vulnerable contract going live and someone draining it, using incidents from 2020 onward.",
+      "url": "https://blog.decurity.io/time-to-hack-how-fast-vulnerable-smart-contracts-get-exploited-2af36d3d10b7",
+      "source": "Decurity Blog",
+      "publishedAt": "2025-04-17",
+      "tag": "Security",
+      "image": "https://www.decurity.io/research/time-to-hack/01.png"
+    },
+    {
+      "title": "The GemPad Incident, From the Attacker's Side",
+      "tldr": "A $1.8M hack reconstructed as the attacker would have approached it, including how the flaw could have been found first.",
+      "url": "https://blog.decurity.io/gempad-1-8m-incident-super-deep-dive-687cb4acb299",
+      "source": "Decurity Blog",
+      "publishedAt": "2025-01-17",
+      "tag": "Security",
+      "image": "https://www.decurity.io/research/gempad-incident-deep-dive/01.png"
+    },
+    {
+      "title": "Consolidation in the Web3 Security Market",
+      "tldr": "What the run of acquisitions and listings means for a protocol choosing an auditor, written by people inside that market.",
+      "url": "https://blog.decurity.io/web3-security-m-as-and-ipos-de9496e784a9",
+      "source": "Decurity Blog",
+      "publishedAt": "2026-02-11",
+      "tag": "Security",
+      "image": "https://www.decurity.io/research/web3-security-m-and-a-and-ipos/01.png"
+    }
+  ]
 }

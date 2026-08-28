@@ -31,5 +31,21 @@
       "pocketpay-finance",
       "mangrovedao"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Peer-To-Peer Fiat, Held In Contract",
+      "tldr": "How the escrow and liquidity pool replace a centralised guarantor, and who resolves a trade when the two sides disagree.",
+      "url": "https://www.getivy.io/fiat-onramps/narfex",
+      "source": "Ivy",
+      "image": "https://framerusercontent.com/images/T6zn9975CQidFPBioa94joHbKA.webp?width=274&height=400"
+    },
+    {
+      "title": "Synthetic Fiat, Held Non-Custodially",
+      "tldr": "Non-custodial by construction, with synthetic fiat tokens bridging currencies into DeFi. A reference on the moving parts.",
+      "url": "https://moralis.com/web3-wiki/narfex/",
+      "source": "Moralis",
+      "tag": "DeFi"
+    }
+  ]
 }

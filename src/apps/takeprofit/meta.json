@@ -32,5 +32,23 @@
       "dexcheck",
       "playgrounds"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Economic Exploit, Written Up",
+      "tldr": "Not a code bug but an economic attack. The mechanism, and what the protocol changed afterwards.",
+      "url": "https://takeprofit.medium.com/profit-attack-post-mortem-cb319e8b73ac",
+      "source": "Take Profit Blog",
+      "tag": "Security",
+      "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+    },
+    {
+      "title": "How the Reward Ecosystem Works",
+      "tldr": "Where the yield comes from and what participating actually requires of you.",
+      "url": "https://takeprofit.medium.com/how-to-participate-in-take-profit-finance-7d5cc20a7e85",
+      "source": "Take Profit Blog",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*4Z7Pm32tsWx0IMb5L_BXHA.jpeg"
+    }
+  ]
 }

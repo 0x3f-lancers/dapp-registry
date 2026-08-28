@@ -33,5 +33,23 @@
       "solana",
       "reddio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Moving a Domain Between Solana and Eclipse",
+      "tldr": "What the bridge actually does to a name when it crosses chains, and why the round trip takes under a minute rather than days.",
+      "url": "https://docs.alldomains.id/protocol/alldomains-bridge",
+      "source": "AllDomains Docs",
+      "tag": "Identity",
+      "image": "https://docs.alldomains.id/protocol/~gitbook/ogimage/5eMcn2y9zz8ov4qInfw0"
+    },
+    {
+      "title": "Tokenising a Real .com on Solana",
+      "tldr": "A long conversation on wrapping registrar-held Web2 domains as NFTs, and what that changes about how quickly a domain can change hands.",
+      "url": "https://solanacompass.com/learn/Solfate/web3-domains-on-solana-with-alldomains-solfate-podcast-52",
+      "source": "Solana Compass",
+      "tag": "Tokenization",
+      "image": "https://solanacompass.com/storage/learn/Solfate/web3-domains-on-solana-with-alldomains-solfate-podcast-52-eim7-0atm1w-.webp"
+    }
+  ]
 }

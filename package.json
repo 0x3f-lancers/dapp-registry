@@ -14,7 +14,11 @@
     "distill": "tsx scripts/run-distill.ts",
     "build:site": "tsx scripts/build-site.ts",
     "generate-meta": "tsx scripts/generate-meta-from-consolidated.ts",
-    "test": "jest"
+    "test": "jest",
+    "resources:targets": "tsx scripts/pick-resource-targets.ts",
+    "resources:fetch": "tsx scripts/fetch-resources.ts",
+    "resources:review": "tsx scripts/review-candidates.ts",
+    "resources:apply": "tsx scripts/apply-resources.ts"
   },
   "keywords": [],
   "author": "",

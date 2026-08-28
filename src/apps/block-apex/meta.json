@@ -31,5 +31,31 @@
       "threesigmaxyz",
       "ziion-linux-distro"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Primer on Zero-Knowledge Cryptography",
+      "tldr": "Asymmetric cryptography, Diffie-Hellman and the discrete log problem, built up properly rather than hand-waved.",
+      "url": "https://blockapex.io/a-primer-for-the-zero-knowledge-cryptography-part-ii",
+      "source": "BlockApex Blog",
+      "tag": "Explainer",
+      "image": "https://blockapex.io/wp-content/uploads/2024/01/A-Primer-for-the-Zero-Knowledge-Cryptography-Part-II-1.png"
+    },
+    {
+      "title": "Flashbots and MEV for Beginners",
+      "tldr": "What the extraction problem actually is, and which parts of it Flashbots addresses rather than removes.",
+      "url": "https://blockapex.io/flashbots-and-mevs-a-beginners-guide",
+      "source": "BlockApex Blog",
+      "tag": "Trading",
+      "image": "https://blockapex.io/wp-content/uploads/2021/11/Flashbots-MEVs-A-Beginners-Guide.png"
+    },
+    {
+      "title": "Decentralised Science, Explained",
+      "tldr": "Applying on-chain funding and peer review to research. What DeSci is trying to fix about how science gets paid for.",
+      "url": "https://blockapex.io/how-decentralized-science-desci-is-revolutionizing-research",
+      "source": "BlockApex Blog",
+      "tag": "Explainer",
+      "image": "https://blockapex.io/wp-content/uploads/2025/02/How-Decentralized-Science-DeSci-is-Revolutionizing-Research.png"
+    }
+  ]
 }

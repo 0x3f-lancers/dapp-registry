@@ -29,5 +29,22 @@
       "backpac-inc",
       "wallet-guard"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Bundler Written in Rust",
+      "tldr": "Modular after Erigon's design, so entry points and mempools can be swapped. Written up by the author himself.",
+      "url": "https://hackmd.io/@Vid201/aa-bundler-rust",
+      "source": "Vid Kersic",
+      "image": "https://hackmd.io/api/_/preview/-OmUD7trSZm6gaprNshUOQ",
+      "tag": "Trading"
+    },
+    {
+      "title": "An ERC-4337 Bundler In Rust",
+      "tldr": "The implementation itself: how user operations are validated, simulated and packed into a bundle, plus how to run a node.",
+      "url": "https://github.com/Vid201/aa-bundler",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/1d5c01dcc208bd6708a891edd01d249c2936f918be16a29a473c8b040cf7f42a/silius-rs/silius"
+    }
+  ]
 }

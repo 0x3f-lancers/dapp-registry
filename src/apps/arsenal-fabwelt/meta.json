@@ -33,5 +33,21 @@
       "mintworld",
       "wizarre"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Putting a Shooter On Chain",
+      "tldr": "An engineering case study of the wallet sign-in and multi-chain support behind the game, written by the team that built it.",
+      "url": "https://blog.chainsafe.io/case-study-arsenal-fabwelt/",
+      "source": "ChainSafe",
+      "image": "https://blog.chainsafe.io/content/images/size/w1200/2023/11/arsenal-sd.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Where The Blockchain Part Sits",
+      "tldr": "The game's own breakdown of wallet sign-in, NFT weapons and skins as owned items, and how the earn side is paid out.",
+      "url": "https://arsenal.fabwelt.com/blockchain-technology/",
+      "source": "Arsenal by Fabwelt"
+    }
+  ]
 }

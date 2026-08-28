@@ -32,5 +32,34 @@
       "quai",
       "vanar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Comparing Virtual Machine Architectures",
+      "tldr": "Vitalik's RISC-V post put VM design back in the argument. Several approaches recapped and run against each other on their merits.",
+      "url": "https://blog.sei.io/research/the-vm-landscape-comparing-architectures-for-next-generation-blockchains",
+      "source": "Sei Research",
+      "publishedAt": "2025-04-25",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/cf/43/cf43c449-7c7e-4f73-bbe1-f274b8e88ae3/content/images/size/w1200/2025/04/Your-paragraph-text--4-.png"
+    },
+    {
+      "title": "What Quantum Computing Means for Fast Chains",
+      "tldr": "Shor's algorithm is the part everyone knows. The harder question is what migration costs a chain built for throughput.",
+      "url": "https://blog.sei.io/research/building-giga-what-quantum-computing-means-for-high-performance-chains",
+      "source": "Sei Research",
+      "publishedAt": "2026-01-09",
+      "tag": "Security",
+      "image": "https://storage.ghost.io/c/cf/43/cf43c449-7c7e-4f73-bbe1-f274b8e88ae3/content/images/size/w1200/2026/01/Blog--2-.png"
+    },
+    {
+      "title": "How Public Data Availability Creates New MEV",
+      "tldr": "Publishing data openly is the point of a DA layer. It also hands searchers a view they did not previously have.",
+      "url": "https://blog.sei.io/research/blockchain-bandits-how-public-da-creates-new-mev-attack-vectors-2",
+      "source": "Sei Research",
+      "publishedAt": "2025-05-08",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/cf/43/cf43c449-7c7e-4f73-bbe1-f274b8e88ae3/content/images/size/w1200/2025/05/Your-paragraph-text--9--3-1.png"
+    }
+  ]
 }

@@ -35,5 +35,25 @@
     "related": [
       "wallet3"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Importing a Safe Account into Ambire",
+      "tldr": "Safe's multisig model secures billions across DAOs and treasuries. What it takes to drive one of those accounts from a browser extension wallet.",
+      "url": "https://blog.ambire.com/ambire-supports-safe-accounts/",
+      "source": "Ambire Blog",
+      "publishedAt": "2026-03-26",
+      "tag": "Security",
+      "image": "https://blog.ambire.com/content/images/size/w1200/2026/03/safe-accounts-support.jpg"
+    },
+    {
+      "title": "Rebuilding the Ambire Extension Interface",
+      "tldr": "A slimmer layout and reworked flows after several months of redesign, laying the groundwork for the mobile app that follows it.",
+      "url": "https://blog.ambire.com/extension-gets-ui-update/",
+      "source": "Ambire Blog",
+      "publishedAt": "2026-03-17",
+      "image": "https://blog.ambire.com/content/images/size/w1200/2026/03/extension-UI-update.jpg",
+      "tag": "Product"
+    }
+  ]
 }

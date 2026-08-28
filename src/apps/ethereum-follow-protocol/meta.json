@@ -32,5 +32,30 @@
       "bulb",
       "creator-dao"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Owning Your Follower List",
+      "tldr": "Minting a list NFT and following addresses, explained as a user rather than a developer. Short and practical.",
+      "url": "https://www.bankless.com/getting-started-with-ethereum-follow-protocol",
+      "source": "Bankless",
+      "tag": "Tokenization",
+      "image": "https://cdn.bankless.com/openGraph/getting-started-with-ethereum-follow-protocol-1758829285.png"
+    },
+    {
+      "title": "The Questions People Actually Ask",
+      "tldr": "Costs, tags, and the deliberate scope limits: no names, no login, no posting. What EFP refuses to do is half the design.",
+      "url": "https://docs.efp.app/faq/",
+      "source": "EFP Docs",
+      "image": "https://docs.efp.app//og.png"
+    },
+    {
+      "title": "Where EFP Fits Beside ENS and SIWE",
+      "tldr": "An overview positioning the social graph against the rest of Ethereum identity stack, each piece doing one job.",
+      "url": "https://ethereum.org/apps/ethereum-follow-protocol/",
+      "source": "ethereum.org",
+      "tag": "Identity",
+      "image": "https://ethereum.org/images/home/hero.png"
+    }
+  ]
 }

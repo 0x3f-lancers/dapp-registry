@@ -32,5 +32,31 @@
       "rainbowkit",
       "enso"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Builder's Introduction to the Mempool",
+      "tldr": "The waiting room metaphor only gets you so far. What the mempool actually is once you have to build against it.",
+      "url": "https://medium.com/blocknative/a-builders-introduction-to-the-mempool-31616c5f0010",
+      "source": "Blocknative Blog",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*m6Pie3Dw2Hzy_Fg4"
+    },
+    {
+      "title": "Gas Prices as a Competitive Market",
+      "tldr": "Fees are not a fixed cost but the outcome of an auction for settlement. Reading gas that way explains most of its behaviour.",
+      "url": "https://medium.com/blocknative/ethereum-gas-prices-how-the-mempool-acts-as-a-competitive-market-for-settlement-35e7637b0bfd",
+      "source": "Blocknative Blog",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:600/0*EE3UGmsTBxUX1kMB.png"
+    },
+    {
+      "title": "From Stablecoins to Crypto Dollars",
+      "tldr": "What changes when a stablecoin stops being a trading instrument and starts behaving like ordinary money.",
+      "url": "https://medium.com/blocknative/from-stablecoins-to-crypto-dollars-9a3bf9f50dd9",
+      "source": "Blocknative Blog",
+      "tag": "Payments",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*bYrpDxcQLBf_TNTQ96_n2w.png"
+    }
+  ]
 }

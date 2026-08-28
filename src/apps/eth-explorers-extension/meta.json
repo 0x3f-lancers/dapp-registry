@@ -36,5 +36,22 @@
       "taraxa",
       "robot-framework"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Jumping Between Block Explorers",
+      "tldr": "A browser extension that adds cross-links to explorer pages so the same address opens in whichever tool you actually wanted.",
+      "url": "https://github.com/apoorvlathey/eth-explorers-extension",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/057fc684a626f7b861c22a025308f0d90abc4a65e34f0f789d4dc1baba67867e/apoorvlathey/eth-explorers-extension"
+    },
+    {
+      "title": "The Official Extension, for Comparison",
+      "tldr": "Etherscan's own version, with a live gas badge. Useful for deciding which of the two you actually want installed.",
+      "url": "https://info.etherscan.com/etherscan-browser-extension/",
+      "source": "Etherscan",
+      "image": "https://info.etherscan.com/explorer/etherscan/og-preview.jpg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

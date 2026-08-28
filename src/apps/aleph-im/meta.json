@@ -38,5 +38,34 @@
       "opensea-api",
       "noves"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cloud Sovereignty Should Include Architecture",
+      "tldr": "Europe's sovereignty debate skips the layer deciding who can switch a system off, who can read inside it, and whether anyone outside can verify either.",
+      "url": "https://aleph.cloud/blog/articles/cloud-sovereignty-should-include-architecture/",
+      "source": "Aleph Cloud Blog",
+      "publishedAt": "2026-06-16",
+      "tag": "Infrastructure",
+      "image": "https://aleph.cloud/og/cloud-sovereignty-should-include-architecture.png"
+    },
+    {
+      "title": "Decentralized Cloud Gaming: How It Works",
+      "tldr": "Games are the hardest test of decentralised compute because latency is unforgiving. Covers distributed GPU rendering and where it stops working.",
+      "url": "https://aleph.cloud/blog/articles/cloud-computing-for-gaming/",
+      "source": "Aleph Cloud Blog",
+      "publishedAt": "2025-07-15",
+      "tag": "Infrastructure",
+      "image": "https://aleph.cloud/og/cloud-computing-for-gaming.png"
+    },
+    {
+      "title": "Unlocking Confidential Decentralized Computation with GPUs",
+      "tldr": "Confidential computing on CPUs is well trodden; on GPUs much less so. What accelerated confidential workloads require and what they still leak.",
+      "url": "https://aleph.cloud/blog/articles/aleph-cloud-supports-gpu/",
+      "source": "Aleph Cloud Blog",
+      "publishedAt": "2024-12-11",
+      "tag": "Infrastructure",
+      "image": "https://aleph.cloud/og/aleph-cloud-supports-gpu.png"
+    }
+  ]
 }

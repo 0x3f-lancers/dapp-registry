@@ -31,5 +31,30 @@
       "solflare",
       "saakuru"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Teaching Blockchain to People Who Aren't Developers",
+      "tldr": "A game built specifically for the friends and family who glaze over. Notes on what actually lands with them.",
+      "url": "https://cryptozombies.io/blog/en/2022-09-09-teach-blockchain-to-non-nerd",
+      "source": "CryptoZombies Blog",
+      "image": "https://cryptozombies.io/blog/images/cover/How%20to%20Teach%20Your%20NON-NERD%20Friends%20(and%20Family)%20How%20Blockchain%20Works%20%E2%80%94%20While%20Having%20Fun.png"
+    },
+    {
+      "title": "Building a Trust Fund in Solidity",
+      "tldr": "A workshop write-up covering a small but complete contract, which is a better first project than most tutorials pick.",
+      "url": "https://cryptozombies.io/blog/en/2022-08-29-sept-solidity-workshop-ed-zynda",
+      "source": "CryptoZombies Blog",
+      "tag": "Tutorial",
+      "image": "https://cryptozombies.io/blog/images/cover/Sept%20sees%20return%20of%20popular%20online%20Solidity%20workshop%20-%20CryptoZombies%20Live.png"
+    },
+    {
+      "title": "An NFT Gallery in Thirty Minutes",
+      "tldr": "Highlights from a live build session, useful for seeing how far the tooling gets you in one sitting.",
+      "url": "https://cryptozombies.io/blog/en/2022-10-24-alchemy-live-event-highlights",
+      "source": "CryptoZombies Blog",
+      "tag": "Tokenization",
+      "image": "https://cryptozombies.io/blog/images/cover/How%20to%20Build%20an%20NFT%20Gallery%20in%2030%20minutes%20Using%20Alchemy%20-%20Event%20Highlights.png"
+    }
+  ]
 }

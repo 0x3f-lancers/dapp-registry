@@ -31,5 +31,28 @@
     "related": [
       "chainport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Another Oracle",
+      "tldr": "An honest answer to the obvious question, which is more than most oracle docs attempt.",
+      "url": "https://docs.quex.tech/overview/why-another",
+      "source": "Quex Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Getting Structured Data On-Chain",
+      "tldr": "A worked tutorial covering the awkward case of structured rather than scalar data.",
+      "url": "https://docs.quex.tech/consumer/complex_structures_tutorial",
+      "source": "Quex Docs",
+      "tag": "Research"
+    },
+    {
+      "title": "Running a Data Pool",
+      "tldr": "What operating infrastructure on the network involves, from the provider's side.",
+      "url": "https://docs.quex.tech/provider/running_your_own_pool",
+      "source": "Quex Docs",
+      "tag": "Research"
+    }
+  ]
 }

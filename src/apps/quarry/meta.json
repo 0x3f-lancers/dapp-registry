@@ -31,5 +31,22 @@
       "amply-finance",
       "spark"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquidity Mining as Shared Infrastructure",
+      "tldr": "Most projects distributed rewards by manually sending tokens. Making that programmatic and verifiable is the whole point.",
+      "url": "https://www.publish0x.com/cryptoed/quarry-protocol-liquidity-mining-program-on-solana-xxynzwx",
+      "source": "Publish0x",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Bringing Gauge Voting to Solana",
+      "tldr": "Curve's reward-allocation vote rebuilt on Tribeca. How holders end up steering where emissions go.",
+      "url": "https://shipcapital.substack.com/p/drop-001-gauge-by-quarry",
+      "source": "Ship Capital",
+      "tag": "Governance",
+      "image": "https://substackcdn.com/image/fetch/$s_!3Nfy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9bcc2bd-fbc4-4944-96e3-0e79f5710950_800x418.png"
+    }
+  ]
 }

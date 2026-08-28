@@ -33,5 +33,25 @@
       "atomic-wallet",
       "kresus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started with Rainbow",
+      "tldr": "Creating the wallet, writing down the recovery phrase, and the cloud backup option that trips people up later.",
+      "url": "https://rainbow.me/support/app/get-started-with-the-rainbow-app",
+      "source": "Rainbow Support",
+      "publishedAt": "2025-01-17",
+      "tag": "Tutorial",
+      "image": "https://framerusercontent.com/images/gcEges3HDo3clmLxnwJkTFxfVNM.png?width=1370&height=740"
+    },
+    {
+      "title": "A Full Walkthrough of the Wallet",
+      "tldr": "An outside guide covering DeFi positions, ENS profiles, hardware wallets and watch-only mode in one pass.",
+      "url": "https://www.bankless.com/the-bankless-guide-to-rainbow-wallet",
+      "source": "Bankless",
+      "publishedAt": "2024-11-21",
+      "tag": "Tutorial",
+      "image": "https://cdn.bankless.com/openGraph/the-bankless-guide-to-rainbow-wallet-1758829988.png"
+    }
+  ]
 }

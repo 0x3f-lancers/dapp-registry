@@ -37,5 +37,34 @@
       "impersonator",
       "gem-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Turnkey for Agent Identity: ERC-8004 and Trustless AI",
+      "tldr": "The execution and identity layer that must exist before an agent can be trusted with money, covering ERC-8004 identities and SIWA authentication.",
+      "url": "https://www.turnkey.com/blog/agent-identity-erc-8004-siw",
+      "source": "Turnkey Blog",
+      "publishedAt": "2026-02-23",
+      "tag": "AI & Agents",
+      "image": "https://cdn.prod.website-files.com/67780ba5efa7ac95a4e79803/69459fce3c8c617236581a66_8%20(1).avif"
+    },
+    {
+      "title": "20+ Skills and MCP Servers for Blockchain Development",
+      "tldr": "A survey of 20+ AI skills and MCP servers exposing blockchain infrastructure to models, and how they change a developer's workflow, not just demos.",
+      "url": "https://www.turnkey.com/blog/20-skills-and-mcp-servers-bridging-ai-and-blockchain-development",
+      "source": "Turnkey Blog",
+      "publishedAt": "2026-02-12",
+      "tag": "AI & Agents",
+      "image": "https://cdn.prod.website-files.com/67780ba5efa7ac95a4e79803/694302da5b4cf2e8422e60a0_7%20(1).avif"
+    },
+    {
+      "title": "Introducing Agentic Payments with Turnkey",
+      "tldr": "Production infrastructure for agent payments: non-custodial wallets, gas sponsorship, real-time balances and policy controls.",
+      "url": "https://www.turnkey.com/blog/agentic-payments-secure-onchain-money-movement",
+      "source": "Turnkey Blog",
+      "publishedAt": "2026-06-24",
+      "tag": "AI & Agents",
+      "image": "https://cdn.prod.website-files.com/67780ba5efa7ac95a4e79803/6a3d4ae3a9ef177ca75ef429_Agentic%20Wallets%202.avif"
+    }
+  ]
 }

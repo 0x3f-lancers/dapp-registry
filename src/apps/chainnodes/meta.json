@@ -33,5 +33,25 @@
       "avalanche",
       "the-graph"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building a Low-Latency Solo Staking Node for Ethereum",
+      "tldr": "The latency, security and scalability problems a solo staking setup has to solve, and the choices Chainnodes made in addressing each.",
+      "url": "https://www.chainnodes.org/blog/introducing-the-chainnodes-fastest-solo-staking-node-for-ethereum/",
+      "source": "Chainnodes Blog",
+      "publishedAt": "2025-03-01",
+      "tag": "Infrastructure",
+      "image": "https://chainnodes-ghost.ams3.digitaloceanspaces.com/2025/06/13.jpg"
+    },
+    {
+      "title": "The Security Model Behind Validator-as-a-Service",
+      "tldr": "How a VaaS provider lets users earn staking rewards without running a node themselves, and what has to be true for that delegation to stay safe.",
+      "url": "https://www.chainnodes.org/blog/validator-as-a-service-security-protocol-for-vaas-at-chainnodes/",
+      "source": "Chainnodes Blog",
+      "publishedAt": "2025-02-28",
+      "tag": "Security",
+      "image": "https://chainnodes-ghost.ams3.digitaloceanspaces.com/2025/06/123.jpg"
+    }
+  ]
 }

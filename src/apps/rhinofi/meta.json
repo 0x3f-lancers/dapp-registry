@@ -3,7 +3,9 @@
   "name": "RhinoFi",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749597/web3-explorer/dapp-logos/rhinofi.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Ethereum",
     "BNB Chain",
@@ -33,7 +35,41 @@
     "twitter": "https://x.com/rhinofi"
   },
   "relations": {
-    "alternatives": ["unidex", "xtoken-terminal"],
-    "related": ["binance"]
-  }
+    "alternatives": [
+      "unidex",
+      "xtoken-terminal"
+    ],
+    "related": [
+      "binance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why TRC20 USDT Dominates Stablecoin Transfers",
+      "tldr": "Why Tron carries a share of USDT volume out of proportion to its ecosystem, and what that concentration means for stablecoin payment rails.",
+      "url": "https://rhino.fi/blog/what-is-trc20-usdt",
+      "source": "Rhino.fi Blog",
+      "publishedAt": "2026-07-08",
+      "tag": "Payments",
+      "image": "https://framerusercontent.com/images/UdwWISjRtC7ZOyEM6csoa3fX5bw.png"
+    },
+    {
+      "title": "Time-to-Usable-Balance Decides First-Deposit Conversion",
+      "tldr": "Users measure a deposit from the moment they can spend it, not from confirmation. On why that gap quietly decides whether a first deposit converts.",
+      "url": "https://rhino.fi/blog/time-to-usable-balance",
+      "source": "Rhino.fi Blog",
+      "publishedAt": "2026-07-20",
+      "image": "https://framerusercontent.com/images/UdwWISjRtC7ZOyEM6csoa3fX5bw.png",
+      "tag": "Payments"
+    },
+    {
+      "title": "Why DIY Stablecoin Activation Infrastructure Costs More Than You Think",
+      "tldr": "The build-versus-buy maths for payment plumbing rarely includes chain reorgs, failed sweeps or the on-call rota.",
+      "url": "https://rhino.fi/blog/diy-stablecoin-infrastructure-cost",
+      "source": "Rhino.fi Blog",
+      "publishedAt": "2026-07-08",
+      "tag": "Payments",
+      "image": "https://framerusercontent.com/images/UdwWISjRtC7ZOyEM6csoa3fX5bw.png"
+    }
+  ]
 }

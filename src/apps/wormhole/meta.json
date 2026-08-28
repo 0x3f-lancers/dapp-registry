@@ -36,5 +36,28 @@
       "quai",
       "immutablex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Migrating From Standard Relay to Executor Relay",
+      "tldr": "A deprecation guide that doubles as an explanation of how cross-chain message delivery is actually paid for and who is responsible when it stalls.",
+      "url": "https://wormhole.com/blog/migrating-from-standard-relay-to-executor-relay-what-every-wormhole-builder-needs-to-know",
+      "source": "Wormhole Blog",
+      "tag": "Security"
+    },
+    {
+      "title": "Updates to Wormhole's Supported Networks",
+      "tldr": "Chains get deprecated, and anything bridged to them becomes someone's problem. The unglamorous lifecycle question most interoperability writing skips.",
+      "url": "https://wormhole.com/blog/updates-to-wormholes-supported-networks",
+      "source": "Wormhole Blog",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Monad Native Bridge: A User Playbook",
+      "tldr": "Step by step for moving assets to a new chain, the moment users most often lose funds by picking the wrong route or token representation.",
+      "url": "https://wormhole.com/blog/the-monad-native-bridge-monad-user-playbook",
+      "source": "Wormhole Blog",
+      "tag": "Infrastructure"
+    }
+  ]
 }

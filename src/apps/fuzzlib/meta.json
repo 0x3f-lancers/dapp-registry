@@ -17,8 +17,9 @@
     "pageTitle": "fuzzlib - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/perimetersec/fuzzlib",
-    "twitter": "https://x.com/perimeter_sec"
+    "website": "https://www.perimetersec.io",
+    "twitter": "https://x.com/perimeter_sec",
+    "github": "https://github.com/perimetersec/fuzzlib"
   },
   "relations": {
     "alternatives": [
@@ -31,5 +32,23 @@
       "apeworx-evmtrace",
       "solhint-prettier-plugin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Utilities for Writing Fuzz Tests",
+      "tldr": "Assertions, clamping and logging under one namespace, working across Echidna, Medusa and Foundry rather than picking one.",
+      "url": "https://github.com/perimetersec/fuzzlib",
+      "source": "Perimeter",
+      "image": "https://opengraph.githubassets.com/376a87d7f45cffbeb5998bf7ec9f5f873f928273dff5caa9d6606a1888c08c91/perimetersec/fuzzlib",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What an Invariant Actually Is",
+      "tldr": "A condition that must hold in every state. Getting that statement right is most of the work; the fuzzer just hunts for exceptions.",
+      "url": "https://www.cyfrin.io/blog/smart-contract-fuzzing-and-invariants-testing-foundry",
+      "source": "Cyfrin",
+      "image": "https://cdn.prod.website-files.com/659ddeb7f63ce6a1f7898526/65ce44a2cad9ae07bada8cbb_Frame%20181.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

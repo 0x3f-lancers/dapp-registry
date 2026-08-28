@@ -33,5 +33,34 @@
       "slingshot-finance",
       "interport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Hyperliquid, Examined in Depth",
+      "tldr": "A research report on how an onchain derivatives venue built its liquidity base, covering the team, the design and the numbers behind it.",
+      "url": "https://www.htx.com/learn/all-article/hyperliquid-in-depth-report-the-rise-of-a-next-generation-li",
+      "source": "HTX Learn",
+      "publishedAt": "2025-09-11",
+      "tag": "Research",
+      "image": "https://www.htx.com/v4/-/hbg-prod-fed-public/nuwa/static/prod/94b509db-90c3-4ff0-9fdc-10243d98eeaf.png"
+    },
+    {
+      "title": "What Oracles Actually Do",
+      "tldr": "The bridge between a contract and everything outside its chain, treated as a sector rather than a single product.",
+      "url": "https://www.htx.com/learn/all-article/in-depth-report-on-the-oracle-sector-the-intelligence-hub-of",
+      "source": "HTX Learn",
+      "publishedAt": "2025-05-22",
+      "tag": "Infrastructure",
+      "image": "https://www.htx.com/v4/-/hbg-prod-fed-public/nuwa/static/prod/94b509db-90c3-4ff0-9fdc-10243d98eeaf.png"
+    },
+    {
+      "title": "MCP Where AI Meets Crypto",
+      "tldr": "A protocol for connecting models to tools, read as infrastructure rather than as a feature, and what it implies for onchain agents.",
+      "url": "https://www.htx.com/learn/all-article/in-depth-report-on-mcp-new-protocol-infrastructure-in-the-ag",
+      "source": "HTX Learn",
+      "publishedAt": "2025-05-08",
+      "tag": "AI & Agents",
+      "image": "https://www.htx.com/v4/-/hbg-prod-fed-public/nuwa/static/prod/94b509db-90c3-4ff0-9fdc-10243d98eeaf.png"
+    }
+  ]
 }

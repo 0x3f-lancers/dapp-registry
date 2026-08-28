@@ -17,8 +17,9 @@
     "pageTitle": "OpenZeppelin Test Helpers - Solidity Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/OpenZeppelin/openzeppelin-test-helpers",
-    "twitter": "https://x.com/OpenZeppelin"
+    "website": "https://docs.openzeppelin.com/test-helpers",
+    "twitter": "https://x.com/OpenZeppelin",
+    "github": "https://github.com/OpenZeppelin/openzeppelin-test-helpers"
   },
   "relations": {
     "alternatives": [
@@ -30,5 +31,27 @@
       "astrakode-smart-contract-auditor",
       "boring-solidity"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Writing Automated Contract Tests",
+      "tldr": "The half of development that decides whether the other half is safe, from the team behind the test helpers.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/writing-automated-tests",
+      "source": "OpenZeppelin Docs"
+    },
+    {
+      "title": "Setting Up the Project",
+      "tldr": "Getting a Node project ready for contract work, which is where most first attempts stall.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/setting-up-a-node-project",
+      "source": "OpenZeppelin Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Developing Against Audited Libraries",
+      "tldr": "Writing contracts on top of code that has already been reviewed, and what you still have to check yourself.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/developing-smart-contracts",
+      "source": "OpenZeppelin Docs",
+      "tag": "Security"
+    }
+  ]
 }

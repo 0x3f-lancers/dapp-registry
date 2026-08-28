@@ -31,5 +31,23 @@
       "erc721a",
       "webstudio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Shared Debt Pool",
+      "tldr": "Stakers are collectively the counterparty to every trade, so your debt moves when other people's positions do.",
+      "url": "https://blog.synthetix.io/debt-pool-synthesis/",
+      "source": "Synthetix",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2021/11/Debt-Pool-Synthesis.png",
+      "tag": "Trading"
+    },
+    {
+      "title": "How the Protocol Fits Together",
+      "tldr": "Staked SNX, minted sUSD, oracle prices and swaps with no counterparty. The architecture explained end to end.",
+      "url": "https://www.gemini.com/cryptopedia/synthetix",
+      "source": "Gemini Cryptopedia",
+      "image": "https://images.ctfassets.net/0idwgenf7ije/3g3woP9p7cFXIn8ZIRONzg/49bfb5df1600bf3a09f9606085b45500/Gemini-Defi_Synthetix_What_is_Synthetix_and_How_Does_it_Work_.png?fm=webp",
+      "tag": "Infrastructure"
+    }
+  ]
 }

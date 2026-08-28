@@ -3,8 +3,12 @@
   "name": "Shell Protocol",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749849/web3-explorer/dapp-logos/shell-protocol.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Arbitrum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum"
+  ],
   "pricing": "",
   "content": {
     "short": "Shell Protocol is a wrapping protocol and a DeFi development toolkit.",
@@ -17,7 +21,38 @@
     "twitter": "https://x.com/ShellProtocol"
   },
   "relations": {
-    "alternatives": ["betdex", "xtoken-terminal"],
-    "related": ["jones-dao"]
-  }
+    "alternatives": [
+      "betdex",
+      "xtoken-terminal"
+    ],
+    "related": [
+      "jones-dao"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Providing Liquidity to an AMM",
+      "tldr": "Part of a step-by-step DeFi tutorial series, covering what you are agreeing to when you deposit into a pool.",
+      "url": "https://shellprotocol.io/posts/how-to-lp-into-the-toucan-amm",
+      "source": "Shell Guides",
+      "tag": "DeFi",
+      "image": "https://shellprotocol.io/static/img/ShellGuides.jpg"
+    },
+    {
+      "title": "Buying an NFT On-Chain",
+      "tldr": "The purchase flow taken slowly, aimed at people who have a wallet but have not bought anything with it yet.",
+      "url": "https://shellprotocol.io/posts/how-to-buy-an-nft-on-shell",
+      "source": "Shell Guides",
+      "tag": "Tokenization",
+      "image": "https://shellprotocol.io/static/img/ShellGuides.jpg"
+    },
+    {
+      "title": "Swapping NFTs Directly",
+      "tldr": "Trading one token for another without a sale in between, and what that changes about pricing.",
+      "url": "https://shellprotocol.io/posts/how-to-swap-your-toucan-nfts",
+      "source": "Shell Guides",
+      "tag": "Trading",
+      "image": "https://shellprotocol.io/static/img/ShellGuides.jpg"
+    }
+  ]
 }

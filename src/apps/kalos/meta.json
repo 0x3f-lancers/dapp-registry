@@ -42,5 +42,30 @@
       "ziion",
       "kevlar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Solana rBPF Vulnerability, Dissected",
+      "tldr": "The extended Berkeley Packet Filter came from Linux networking. What broke when it became a smart contract runtime.",
+      "url": "https://medium.com/kalos/solana-rbpf-vulnerability-case-study-c7f9ef2ccd45",
+      "source": "Kalos Security Research",
+      "tag": "Security",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/0*aijKytcD4eJQ9N60.png"
+    },
+    {
+      "title": "When a Pre-Compile Has Side Effects",
+      "tldr": "A new pre-compile contract that behaved correctly in isolation and created problems across the ecosystem.",
+      "url": "https://medium.com/kalos/why-the-moonbeams-new-pre-compile-contract-can-create-side-effect-on-its-ecosystem-3257a79b9cbb",
+      "source": "Kalos Security Research",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/0*NJNkQCV5JBxo0YqK.png"
+    },
+    {
+      "title": "A Deposit Front-Run, Analysed",
+      "tldr": "A liquid staking deposit that could be beaten to the block. Written up by the researcher who found it.",
+      "url": "https://medium.com/kalos/tranchess-liquid-staking-deposit-firstrun-vulnerability-analysis-33ad3520e11e",
+      "source": "Kalos Security Research",
+      "tag": "Payments",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/0*XzoR474vp3WveqOM.png"
+    }
+  ]
 }

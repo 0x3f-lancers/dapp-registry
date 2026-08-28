@@ -3,8 +3,12 @@
   "name": "Curve Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746073/web3-explorer/dapp-logos/curve-finance.svg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "Curve Finance is a DEX and AMM focused on efficient stablecoin trading with a range of stablecoins and DeFi features like liquidity mining and yield farming.",
@@ -17,7 +21,36 @@
     "twitter": "https://x.com/CurveFinance"
   },
   "relations": {
-    "alternatives": ["flooz-trade", "lifi", "carbon"],
-    "related": ["binance", "zeta-markets"]
-  }
+    "alternatives": [
+      "flooz-trade",
+      "lifi",
+      "carbon"
+    ],
+    "related": [
+      "binance",
+      "zeta-markets"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why Curve Exists",
+      "tldr": "An AMM tuned for assets meant to trade near parity. What that specialisation buys, and what it rules out.",
+      "url": "https://resources.curve.finance/protocol/why-curve",
+      "source": "Curve Knowledge Hub",
+      "tag": "Trading"
+    },
+    {
+      "title": "Curve as DeFi Infrastructure",
+      "tldr": "Less an exchange than a base layer others build on. What deploying a pool on top actually enables.",
+      "url": "https://resources.curve.finance/user/introduction",
+      "source": "Curve Knowledge Hub",
+      "tag": "DeFi"
+    },
+    {
+      "title": "The Developer's Map of Curve",
+      "tldr": "Where each piece of the protocol is documented, and which contract you need for what.",
+      "url": "https://resources.curve.finance/developer/documentation-overview",
+      "source": "Curve Knowledge Hub"
+    }
+  ]
 }

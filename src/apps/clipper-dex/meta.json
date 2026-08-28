@@ -34,5 +34,31 @@
       "rubydex",
       "bracketx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An AMM That Does Not Use a Constant Product",
+      "tldr": "Gas costs and block times rule out the sophisticated pricing this design wants on-chain. How Clipper works around that.",
+      "url": "https://docs.clipper.exchange/introduction/how-clipper-makes-money-for-lps",
+      "source": "Clipper Docs",
+      "tag": "DeFi",
+      "image": "https://docs.clipper.exchange/~gitbook/image?url=https%3A%2F%2F2356525178-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MZxPgaEAx6qALhvK9dz%252Fsocialpreview%252FTV3CqbmynyPEoqo4HY43%252Fclipper-logo.png%3Falt%3Dmedia%26token%3Dbb4bba47-1ec8-456f-832a-357d3ac4e905&width=1200&height=630&sign=70ad8563&sv=2"
+    },
+    {
+      "title": "LP Returns From Arbitrage, Not Fees",
+      "tldr": "A statistical arbitrage strategy borrowed from traditional asset management, run permissionlessly by formula.",
+      "url": "https://docs.clipper.exchange/introduction/how-lps-earn-from-arbitrage",
+      "source": "Clipper Docs",
+      "tag": "Trading",
+      "image": "https://docs.clipper.exchange/~gitbook/image?url=https%3A%2F%2F2356525178-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MZxPgaEAx6qALhvK9dz%252Fsocialpreview%252FTV3CqbmynyPEoqo4HY43%252Fclipper-logo.png%3Falt%3Dmedia%26token%3Dbb4bba47-1ec8-456f-832a-357d3ac4e905&width=1200&height=630&sign=70ad8563&sv=2"
+    },
+    {
+      "title": "The No-Impermanent-Loss Claim, Defined",
+      "tldr": "Pools behave like a daily rebalancing portfolio of roughly equal thirds. Useful for judging whether the claim holds up.",
+      "url": "https://docs.clipper.exchange/introduction/clippers-benchmark-no-impermanent-loss",
+      "source": "Clipper Docs",
+      "tag": "DeFi",
+      "image": "https://docs.clipper.exchange/~gitbook/image?url=https%3A%2F%2F2356525178-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MZxPgaEAx6qALhvK9dz%252Fsocialpreview%252FTV3CqbmynyPEoqo4HY43%252Fclipper-logo.png%3Falt%3Dmedia%26token%3Dbb4bba47-1ec8-456f-832a-357d3ac4e905&width=1200&height=630&sign=70ad8563&sv=2"
+    }
+  ]
 }

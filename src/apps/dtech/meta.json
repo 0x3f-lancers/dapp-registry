@@ -32,5 +32,34 @@
       "spearbit",
       "creator-dao"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Effect TS: Lessons From the Documentation",
+      "tldr": "Effect handles errors and gives visibility into a running application. A working read of the docs for people who care about production software.",
+      "url": "https://dtech.vision/blog/how-to-effect-ts-best-practices/",
+      "source": "dTech Blog",
+      "publishedAt": "2025-03-29",
+      "tag": "Tutorial",
+      "image": "https://dtech.vision/opengraph.png"
+    },
+    {
+      "title": "Learnings From Effect Days 2025",
+      "tldr": "The two biggest takeaways were not technical: there are no dumb questions, and nobody in the room is as advanced as they look.",
+      "url": "https://dtech.vision/blog/effect-days-workshop-summaries-learningswitheffect-ts/",
+      "source": "dTech Blog",
+      "publishedAt": "2025-03-23",
+      "tag": "Tutorial",
+      "image": "https://dtech.vision/opengraph.png"
+    },
+    {
+      "title": "The Programmability Manifesto",
+      "tldr": "Systems do not talk to each other, and are kept closed for business reasons. An argument for treating programmability as the default.",
+      "url": "https://dtech.vision/blog/manifesto-a-programmable-world/",
+      "source": "dTech Blog",
+      "publishedAt": "2024-12-10",
+      "image": "https://dtech.vision/opengraph.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -34,5 +34,29 @@
       "blasterswap",
       "idle-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Liquidity Incentives Are Distributed",
+      "tldr": "The mechanics of directing rewards to providers, and the design choices that decide who actually receives them.",
+      "url": "https://docs.camelot.exchange/protocol/incentive-system",
+      "source": "Camelot Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "An Ecosystem-First DEX",
+      "tldr": "Dual AMM for volatile and stable pairs, spNFT staked positions and Nitro pools. The design walked through by the team.",
+      "url": "https://camelotdex.medium.com/camelot-dex-general-overview-af92f1e6f186",
+      "source": "Camelot DEX",
+      "tag": "Trading",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:895/0*Bc4yKHvV7Z2g0VOF"
+    },
+    {
+      "title": "Arriving on Arbitrum",
+      "tldr": "Bridging in, funding gas and the first swap, written for someone who has never used the chain the DEX lives on.",
+      "url": "https://docs.camelot.exchange/get-started/arbitrum-guide",
+      "source": "Camelot Docs",
+      "tag": "Trading"
+    }
+  ]
 }

@@ -33,5 +33,34 @@
       "betterclaimsol",
       "team-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Using Splits to Escrow an OTC Deal",
+      "tldr": "A neutral onchain account holds buyer funds, seller assets and collateral, then settles atomically. Removing a middleman without adding a protocol.",
+      "url": "https://splits.org/blog/using-splits-to-escrow-an-otc-deal/",
+      "source": "Splits Blog",
+      "publishedAt": "2026-06-18",
+      "tag": "Payments",
+      "image": "https://storage.ghost.io/c/ec/10/ec1004a4-54fe-4879-9efd-9a3fe755a821/content/images/2026/06/ghost-blog-header.png"
+    },
+    {
+      "title": "Shared Engineering Team Wallets",
+      "tldr": "Getting funds to engineers, on the right chain, without handing everyone the treasury key. A pattern that recurs because the obvious answers fail.",
+      "url": "https://splits.org/blog/shared-eng-team-wallets/",
+      "source": "Splits Blog",
+      "publishedAt": "2026-07-16",
+      "tag": "Governance",
+      "image": "https://storage.ghost.io/c/ec/10/ec1004a4-54fe-4879-9efd-9a3fe755a821/content/images/2026/07/cover_eng_wallet.png"
+    },
+    {
+      "title": "Maintaining Bug Zero With Our Red Team Agent",
+      "tldr": "An internal agent pulling context from Sentry, CloudWatch and Grafana to keep the bug count at zero. Concrete, unglamorous, and unusually useful.",
+      "url": "https://splits.org/blog/maintaining-bug-zero-with-our-red-team-agent/",
+      "source": "Splits Blog",
+      "publishedAt": "2026-06-30",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/ec/10/ec1004a4-54fe-4879-9efd-9a3fe755a821/content/images/2026/06/red_team_agent.png"
+    }
+  ]
 }

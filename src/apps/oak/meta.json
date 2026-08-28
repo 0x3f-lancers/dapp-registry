@@ -29,5 +29,34 @@
     "related": [
       "sub7security"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Most Web3 Losses Do Not Start in the Code",
+      "tldr": "Over half of user-fund losses since 2022 came from stolen keys, phishing, supply-chain compromise and governance attacks — not reentrancy.",
+      "url": "https://oaksecurity.io/research/blog/losses-dont-start-in-the-code",
+      "source": "Oak Security Research",
+      "publishedAt": "2026-06-04",
+      "tag": "Security",
+      "image": "https://oaksecurity.io/assets/og-image.png"
+    },
+    {
+      "title": "Four Years of Audit Findings and Exploits, Measured",
+      "tldr": "23,818 published audit findings from 22 firms set against 218 documented exploits worth $7.76B, with six conclusions drawn from the pairing.",
+      "url": "https://oaksecurity.io/research/blog/state-of-web3-security-key-findings",
+      "source": "Oak Security Research",
+      "publishedAt": "2026-05-28",
+      "tag": "Security",
+      "image": "https://oaksecurity.io/assets/og-image.png"
+    },
+    {
+      "title": "TRACE: Threat Modelling for Decentralised Organisations",
+      "tldr": "A threat modelling methodology aimed at distributed, cloud-first and decentralised organisations, published in full on arXiv.",
+      "url": "https://oaksecurity.io/research/blog/trace-paper",
+      "source": "Oak Security Research",
+      "publishedAt": "2026-06-25",
+      "tag": "Security",
+      "image": "https://oaksecurity.io/assets/og-image.png"
+    }
+  ]
 }

@@ -29,5 +29,24 @@
       "ninjalerts",
       "ligmanode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "LLMs and Reasoning Models, in Plain Language",
+      "tldr": "The opening lesson of a compliance-focused AI series: what a language model actually does, written for a committee rather than for engineers.",
+      "url": "https://www.springlabs.com/learn/ai-fundamentals/lesson-1",
+      "source": "Spring Labs",
+      "publishedAt": "2026-07-24",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "Zanko ComplianceAssist and Complaint Management",
+      "tldr": "Using AI to triage customer complaints at financial firms, where mishandled complaints turn into regulatory risk rather than just poor service.",
+      "url": "https://www.springlabs.com/blog/spring-labs-unveils-zanko-complianceassist-helping-financial-service-firms-ease-compliance",
+      "source": "Spring Labs",
+      "publishedAt": "2024-09-05",
+      "tag": "Regulation",
+      "image": "https://www.springlabs.com/images/blog/spring-labs-unveils-zanko-complianceassist-helping-financial-service-firms-ease-compliance/thumbnailV3.png"
+    }
+  ]
 }

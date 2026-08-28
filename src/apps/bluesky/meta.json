@@ -30,5 +30,31 @@
       "unlock",
       "xircusweb3"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Understanding the AT Protocol",
+      "tldr": "Users publish JSON records into their own repositories, and the changestream is the network. That is the whole model.",
+      "url": "https://atproto.com/guides/understanding-atproto",
+      "source": "AT Protocol Docs",
+      "tag": "Explainer",
+      "image": "https://atproto.com/default-social-card.png"
+    },
+    {
+      "title": "How the Network Is Actually Run",
+      "tldr": "Personal data repositories, relays and app views, and who operates which part.",
+      "url": "https://docs.bsky.app/docs/protocol-services",
+      "source": "Bluesky Docs",
+      "tag": "Infrastructure",
+      "image": "https://bsky.network/img/social-card-default.png"
+    },
+    {
+      "title": "Building on Bluesky",
+      "tldr": "Custom feeds, OAuth and a first social app, each as a worked tutorial rather than an API reference.",
+      "url": "https://atproto.com/guides/tutorials",
+      "source": "AT Protocol Docs",
+      "tag": "Tutorial",
+      "image": "https://atproto.com/default-social-card.png"
+    }
+  ]
 }

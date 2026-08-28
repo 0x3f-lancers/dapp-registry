@@ -52,5 +52,34 @@
       "smartstate",
       "mythx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Renouncing Ownership Opened a $98K Backdoor",
+      "tldr": "The ONTR token drained in minutes on Ethereum. Not a cryptographic puzzle or flash loan — the creator renouncing ownership was itself the flaw.",
+      "url": "https://blog.verichains.io/p/how-renouncing-ownership-opened-a",
+      "source": "Verichains Blog",
+      "publishedAt": "2026-06-02",
+      "tag": "Security",
+      "image": "https://substackcdn.com/image/fetch/$s_!GcEi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabf5640c-d155-4f23-a0c0-bcc0bbb645cc_859x842.png"
+    },
+    {
+      "title": "Gnosis Pay Lost $265K After the Bug Was Already Found",
+      "tldr": "The developers had spotted it. The attacker still got through, using a missing check to pass fake error messages off as approved signatures.",
+      "url": "https://blog.verichains.io/p/gnosis-pay-exploit-the-devs-discovered",
+      "source": "Verichains Blog",
+      "publishedAt": "2026-06-08",
+      "tag": "Security",
+      "image": "https://substackcdn.com/image/fetch/$s_!3NGJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F698a828f-5243-4449-8e08-4381d3a6cfbc_1480x1080.png"
+    },
+    {
+      "title": "Bypassing SAML SSO on a Synology NAS at Pwn2Own",
+      "tldr": "A first-time competitor's account of finding the authentication bypass and clearing the entry requirement days before the deadline.",
+      "url": "https://blog.verichains.io/p/pwn2own-ireland-2025-bypassing-authentication",
+      "source": "Verichains Blog",
+      "publishedAt": "2026-07-31",
+      "image": "https://substackcdn.com/image/fetch/$s_!LYCh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff6dbaf8-53d6-4625-a042-27f641da8e8c_3538x1990.jpeg",
+      "tag": "Security"
+    }
+  ]
 }

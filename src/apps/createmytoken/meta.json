@@ -38,5 +38,34 @@
       "daostack",
       "tokenhunters"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Choosing the Right Chain for Your Token",
+      "tldr": "Ethereum, Base, Solana, BNB, Arbitrum, Optimism and Polygon differ on fees, speed and security — and attract different users.",
+      "url": "https://www.createmytoken.com/blog/how-to-choose-the-right-blockchain-for-your-token/",
+      "source": "CreateMyToken Blog",
+      "publishedAt": "2025-11-12",
+      "tag": "Security",
+      "image": "https://www.createmytoken.com/images/blog/choose-blockchain-cover.jpg"
+    },
+    {
+      "title": "What Is a Superchain ERC-20?",
+      "tldr": "One token, one supply, many chains: deploying a single contract that works across Base, Optimism, Ink and other OP Stack networks.",
+      "url": "https://www.createmytoken.com/blog/what-is-superchain-erc20-and-how-to-deploy-one/",
+      "source": "CreateMyToken Blog",
+      "publishedAt": "2025-10-05",
+      "tag": "Infrastructure",
+      "image": "https://www.createmytoken.com/images/blog/superchain-erc20-cover.jpg"
+    },
+    {
+      "title": "What Is a Deflationary Token?",
+      "tldr": "A cut of every transfer is burned, so supply shrinks with each trade. How the mechanism is built and what it does to holders.",
+      "url": "https://www.createmytoken.com/blog/what-is-a-deflationary-token-and-how-to-create-one/",
+      "source": "CreateMyToken Blog",
+      "publishedAt": "2025-09-01",
+      "tag": "Explainer",
+      "image": "https://www.createmytoken.com/images/blog/deflationary-token-cover.jpg"
+    }
+  ]
 }

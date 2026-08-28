@@ -31,5 +31,34 @@
       "cryptoquant",
       "0xgraph"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Google Docs and Gemini AI: The Privacy Problem",
+      "tldr": "Your documents are not end-to-end encrypted, which means the privacy question is entirely one of trust rather than of cryptography.",
+      "url": "https://blog.fileverse.io/google-docs-gemini-ai-privacy-2025/",
+      "source": "Fileverse Blog",
+      "publishedAt": "2025-08-21",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/13/ba/13ba5b79-a677-4b75-9078-342e7947f4fc/content/images/2025/08/Screenshot-2025-08-21-at-15.03.43.png"
+    },
+    {
+      "title": "An End-to-End Encrypted Alternative to Google Docs",
+      "tldr": "What changes when collaborative editing is encrypted by default, including the features that get harder once the server cannot read the document.",
+      "url": "https://blog.fileverse.io/end-to-end-encrypted-google-docs-alternative/",
+      "source": "Fileverse Blog",
+      "publishedAt": "2026-01-08",
+      "tag": "Security",
+      "image": "https://storage.ghost.io/c/13/ba/13ba5b79-a677-4b75-9078-342e7947f4fc/content/images/size/w1200/2026/01/New-Screen-Web2.png"
+    },
+    {
+      "title": "Google Docs vs Microsoft Word: Which Is Better?",
+      "tldr": "Compares the two on collaboration, formatting and offline editing, but the privacy and security section is the part worth your time.",
+      "url": "https://blog.fileverse.io/google-docs-vs-microsoft-word/",
+      "source": "Fileverse Blog",
+      "publishedAt": "2026-06-19",
+      "tag": "Security",
+      "image": "https://storage.ghost.io/c/13/ba/13ba5b79-a677-4b75-9078-342e7947f4fc/content/images/size/w1200/2026/06/gdocsword.png"
+    }
+  ]
 }

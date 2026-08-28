@@ -17,7 +17,8 @@
     "pageTitle": "Chai - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/chaijs/chai"
+    "website": "https://www.chaijs.com/",
+    "github": "https://github.com/chaijs/chai"
   },
   "relations": {
     "alternatives": [
@@ -29,5 +30,28 @@
       "chaos-labs",
       "cobo-arugs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Three Assertion Styles, and Which to Pick",
+      "tldr": "should, expect and assert do the same job with very different ergonomics. The trade-offs are real and worth deciding once.",
+      "url": "https://www.chaijs.com/guide/styles/",
+      "source": "Chai Guide",
+      "tag": "Trading"
+    },
+    {
+      "title": "What Plugins Are Actually For",
+      "tldr": "Not just vendor integrations — a plugin is how you turn a repeated assertion in your own tests into vocabulary.",
+      "url": "https://www.chaijs.com/guide/plugins/",
+      "source": "Chai Guide",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Writing Your Own Helper",
+      "tldr": "A full tutorial on extending the assertion language, for when the built-in matchers stop expressing what you mean.",
+      "url": "https://www.chaijs.com/guide/helpers/",
+      "source": "Chai Guide",
+      "tag": "Tutorial"
+    }
+  ]
 }

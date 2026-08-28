@@ -30,5 +30,23 @@
       "bonadocs",
       "apeworx-evmtrace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "One Test Suite, Two Fuzzers",
+      "tldr": "Write the property once and run it under both Echidna and Foundry, including across incompatible Solidity versions.",
+      "url": "https://github.com/patrickd-/solidity-fuzzing-boilerplate/blob/main/README.md",
+      "source": "patrickd",
+      "image": "https://repository-images.githubusercontent.com/481564594/1b966236-857f-4ede-a6ec-87abab47bd1f",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Fuzzing a Contract With Forge",
+      "tldr": "The underlying technique: throw generated inputs at an invariant until it breaks. Worked through from a clean project.",
+      "url": "https://fuzzinglabs.com/fuzzing-ethereum-smart-contract-foundry/",
+      "source": "FuzzingLabs",
+      "image": "https://fuzzinglabs.com/wp-content/uploads/2023/02/fuzzing_eth_sc_foundry.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

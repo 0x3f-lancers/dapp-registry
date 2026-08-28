@@ -31,5 +31,34 @@
       "merit-circle",
       "nalikes"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Adding a Geo-Based Compliance Layer to the Marketplace",
+      "tldr": "A quiet but consequential change: which marketplace features are available now depends on the regulations where a player connects from.",
+      "url": "https://blog.faraland.io/2026/06/29/faraland-update-marketplace-access-now-reflects-regional-regulations/",
+      "source": "Faraland Blog",
+      "publishedAt": "2026-06-29",
+      "tag": "Regulation",
+      "image": "https://i0.wp.com/blog.faraland.io/wp-content/uploads/2026/08/blog.faraland.io-6a71b9f0c8444.png?fit=1200%2C670&#038;ssl=1"
+    },
+    {
+      "title": "Resolving Wallet Addresses to Player Names",
+      "tldr": "Leaderboards show ranger.bnb rather than 0x9f2a…4b10. Translating one to the other looks trivial and runs through a single fragile function.",
+      "url": "https://blog.faraland.io/2025/03/27/faraland-update-optimizing-ens-solution-spaceid/",
+      "source": "Faraland Blog",
+      "publishedAt": "2025-03-27",
+      "image": "https://blog.faraland.io/wp-content/uploads/2023/07/image-21.png",
+      "tag": "Identity"
+    },
+    {
+      "title": "Turning Land Ownership into Defendable Territory",
+      "tldr": "A complete combat and recovery loop on the land page, moving land from a passive asset to something that can be attacked and held.",
+      "url": "https://blog.faraland.io/2025/11/06/faraland-land-war-update-deploy-soldiers-defend-your-territory-and-heal-your-army/",
+      "source": "Faraland Blog",
+      "publishedAt": "2025-11-06",
+      "tag": "Tokenization",
+      "image": "https://i0.wp.com/blog.faraland.io/wp-content/uploads/2026/08/land-banner.ea96c935.png?fit=1200%2C600&#038;ssl=1"
+    }
+  ]
 }

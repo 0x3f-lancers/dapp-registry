@@ -37,5 +37,34 @@
       "phantom",
       "clear-evm-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Crypto Accounting: Beginner's Guide",
+      "tldr": "Your transactions sit across several exchanges, wallets and chains with no broker assembling a statement for you, unlike buying stock through Fidelity.",
+      "url": "https://coinledger.io/blog/crypto-accounting",
+      "source": "CoinLedger Blog",
+      "publishedAt": "2026-05-19",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/614c99cf4f23700c8aa3752a/6a105f708cfb1a6578d84dd9_ChatGPT%20Image%20May%2022%2C%202026%2C%2008_50_37%20AM%20(1).png"
+    },
+    {
+      "title": "Is Crypto Staking Worth It? Rewards, Risks & Taxes",
+      "tldr": "Locking coins to secure a proof-of-stake chain pays a yield whether you run a validator or delegate to one.",
+      "url": "https://coinledger.io/blog/is-crypto-staking-worth-it",
+      "source": "CoinLedger Blog",
+      "publishedAt": "2026-07-15",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/614c99cf4f23700c8aa3752a/6a593b747145a2e77af7bda7_6a5903a8a85b61ea791c12ae_is-crypto-staking-worth-it-hero.png"
+    },
+    {
+      "title": "Prediction Markets Tax: Kalshi & Polymarket Guide",
+      "tldr": "The income is definitely reportable; the category is not, because the IRS has never published a formal ruling on prediction market contracts.",
+      "url": "https://coinledger.io/blog/prediction-markets-tax",
+      "source": "CoinLedger Blog",
+      "publishedAt": "2026-06-09",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/614c99cf4f23700c8aa3752a/6a3020b90c17436b049aef77_6a30201b3deb1d41f2ae30c9_prediction-markets-tax-hero-featured.png"
+    }
+  ]
 }

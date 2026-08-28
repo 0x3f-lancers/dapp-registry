@@ -36,5 +36,34 @@
       "shardeum",
       "covalent"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Seeing Solana Transactions Before Execution",
+      "tldr": "shredTransactionSubscribe exposes pre-execution transaction visibility over a WebSocket JSON-RPC subscription, with filters and notification shapes.",
+      "url": "https://www.quicknode.com/blog/introducing-shredtransactionsubscribe",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-06-30",
+      "tag": "Trading",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/4XaqNUqBPNK13MBwyzDACF/10b761aaacaa6add6512bbd64457e612/shredTransactionSubscribe__1_.png"
+    },
+    {
+      "title": "The Hyperliquid Developer Stack",
+      "tldr": "Architecture, APIs, HyperCore data and market infrastructure for a venue that started as a perpetuals exchange and became something broader.",
+      "url": "https://www.quicknode.com/blog/hyperliquid-developer-stack",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-07-02",
+      "tag": "Trading",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/76vesh5qSY41Ql5gWMAKIB/f51f48c5617329317e354e1c05daa330/hyperliquid-developer-stack.png"
+    },
+    {
+      "title": "What Is Open USD (OUSD)?",
+      "tldr": "Issuance is shared, and the bulk of what the reserves earn flows back to partner institutions rather than the issuer. How that departs from USDC.",
+      "url": "https://www.quicknode.com/blog/what-is-openusd-ousd-stablecoin",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-07-08",
+      "tag": "Explainer",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/276fkTZPAMe4Zw0zvr6Evj/cdd99df4c4914c33cee7dec0f369f9ba/what-is-openusd-ousd.jpg"
+    }
+  ]
 }

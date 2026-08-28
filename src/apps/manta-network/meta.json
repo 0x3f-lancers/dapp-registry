@@ -35,5 +35,32 @@
       "taraxa",
       "allora-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reaching Finality Faster on a Layer 2",
+      "tldr": "How quickly a rollup's state becomes irreversible decides what can be built on it. A dual-layer approach to shortening that wait.",
+      "url": "https://mantanetwork.medium.com/achieving-fast-finality-on-manta-network-a-dual-layer-approach-84f1ee74375b",
+      "source": "Manta Network Blog",
+      "publishedAt": "2025-02-11",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*1TS7vnS63aBEMSLGL1jDUA.png"
+    },
+    {
+      "title": "A zkEVM on Celestia",
+      "tldr": "Why Pacific pairs Polygon CDK for execution with Celestia for data availability, and what that combination costs and saves.",
+      "url": "https://mantanetwork.medium.com/manta-pacific-zkevia-polygon-cdk-52def99807e0",
+      "source": "Manta Network",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:540/1*j7a1EJd78tkteMdj7is9TA.gif"
+    },
+    {
+      "title": "Two Networks, One Ecosystem",
+      "tldr": "Atlantic handles zk identity, Pacific handles applications. What the zkAddress does and how selective disclosure works.",
+      "url": "https://www.coingecko.com/learn/what-is-manta-crypto",
+      "source": "CoinGecko",
+      "tag": "Infrastructure",
+      "image": "https://assets.coingecko.com/posts/images/1220/large/What_is_Manta.png?1708921490"
+    }
+  ]
 }

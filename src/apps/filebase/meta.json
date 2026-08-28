@@ -31,5 +31,34 @@
       "noves",
       "spring-labs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Browser Uploads Work With Pre-Signed S3 URLs",
+      "tldr": "Letting a browser upload straight to storage without handing it your credentials. Covers the backend signing step and the CORS setup that trips people.",
+      "url": "https://filebase.com/blog/how-browser-uploads-work-with-pre-signed-s3-urls/",
+      "source": "Filebase Blog",
+      "publishedAt": "2026-07-23",
+      "tag": "Identity",
+      "image": "https://filebase.com/blog/content/images/2026/07/Blog-Image-Variation-E---Dark-Polished@2x--3-.webp"
+    },
+    {
+      "title": "AWS S3 Pricing: What You'll Actually Pay",
+      "tldr": "Storage is the cheap part. Requests, retrievals and egress are where the bill comes from, and this walks each line so the total stops being a surprise.",
+      "url": "https://filebase.com/blog/aws-s3-pricing-in-2026-what-youll-actually-pay/",
+      "source": "Filebase Blog",
+      "publishedAt": "2026-06-22",
+      "tag": "Finance",
+      "image": "https://filebase.com/blog/content/images/2026/07/Cover---AWS-S3-Pricing-2026@2x.webp"
+    },
+    {
+      "title": "Infura IPFS Is Shutting Down: How to Migrate",
+      "tldr": "A concrete deadline and a concrete migration path for anyone with pins on Infura. Also a useful reminder that pinned does not mean permanent.",
+      "url": "https://filebase.com/blog/infura-ipfs-is-shutting-down-how-to-migrate/",
+      "source": "Filebase Blog",
+      "publishedAt": "2026-07-29",
+      "tag": "Security",
+      "image": "https://filebase.com/blog/content/images/2026/07/infura-shutdown.webp"
+    }
+  ]
 }

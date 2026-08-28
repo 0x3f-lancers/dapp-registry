@@ -32,5 +32,25 @@
       "solidity-visual-auditor",
       "pytest"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Web3 AI Agent With an MCP Server",
+      "tldr": "Pairing deep contract-storage inspection with an agent interface, so state can be queried conversationally rather than decoded by hand.",
+      "url": "https://smartmuv.app/blog/web3-ai-agent-new-release-with-mcp-server-2/",
+      "source": "SmartMuv Blog",
+      "publishedAt": "2025-09-29",
+      "tag": "AI & Agents",
+      "image": "https://images.unsplash.com/photo-1667036679091-6da384768075?crop&#x3D;entropy&cs&#x3D;tinysrgb&fit&#x3D;max&fm&#x3D;jpg&ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDEyfHx3ZWIzfGVufDB8fHx8MTc1OTEyNzU4OXww&ixlib&#x3D;rb-4.1.0&q&#x3D;80&w&#x3D;2000"
+    },
+    {
+      "title": "What Full Contract State Visibility Is Good For",
+      "tldr": "Worked examples and sample reports built on deep storage inspection, showing the kinds of question it can answer about a live contract.",
+      "url": "https://smartmuv.app/blog/smartmuv-ai-agent-usecases-report-samples/",
+      "source": "SmartMuv Blog",
+      "publishedAt": "2025-05-20",
+      "tag": "Infrastructure",
+      "image": "https://smartmuv.app/content/images/2025/06/Screenshot-2025-06-03-162029.jpg"
+    }
+  ]
 }

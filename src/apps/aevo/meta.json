@@ -33,5 +33,31 @@
       "nusa-finance",
       "polynomial-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Options Struggled in DeFi",
+      "tldr": "The limits of decentralised options vaults, and what an exchange has to provide instead before options work onchain at all.",
+      "url": "https://www.aevo.xyz/blog/introducing-aevo",
+      "source": "Aevo Blog",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/Ymq0160rRCUvg7tLY77sRnjniHs.png"
+    },
+    {
+      "title": "Perpetuals Alongside Options, on One Margin Account",
+      "tldr": "Portfolio margin lets both sit in the same account, which changes what you can hold and where the guardrails have to go.",
+      "url": "https://www.aevo.xyz/blog/launching-perpetuals",
+      "source": "Aevo Blog",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/Ymq0160rRCUvg7tLY77sRnjniHs.png"
+    },
+    {
+      "title": "Trading a Token Before It Lists",
+      "tldr": "A perpetual with no index price or funding rate until the spot market opens, then both switch on and pull it toward spot.",
+      "url": "https://www.aevo.xyz/blog/pre-launch-token-futures",
+      "source": "Aevo Blog",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/Ymq0160rRCUvg7tLY77sRnjniHs.png"
+    }
+  ]
 }

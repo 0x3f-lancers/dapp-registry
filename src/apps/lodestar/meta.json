@@ -31,5 +31,31 @@
       "geth",
       "o7node"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why a TypeScript Consensus Client Matters",
+      "tldr": "Client diversity is a security property, not a preference. Writing one in TypeScript widens who can realistically contribute.",
+      "url": "https://chainsafe.github.io/lodestar/introduction/",
+      "source": "Lodestar Docs",
+      "tag": "Infrastructure",
+      "image": "https://chainsafe.github.io/lodestar/images/favicon-512x512.png"
+    },
+    {
+      "title": "Running Lodestar as a Validator",
+      "tldr": "An independent setup guide covering installation, configuration and the checks worth doing before staking real ETH.",
+      "url": "https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-i-installation/step-4-installing-consensus-client/lodestar",
+      "source": "CoinCashew",
+      "tag": "DeFi",
+      "image": "https://www.coincashew.com/~gitbook/ogimage/qvjSKxDPjIhjAEQ5hmp9"
+    },
+    {
+      "title": "Notes From Building a Consensus Client",
+      "tldr": "A development update from the team, useful for seeing what implementing the spec actually demands in practice.",
+      "url": "https://blog.chainsafe.io/a-lodestar-for-ethereum-consensus-5/",
+      "source": "ChainSafe Blog",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/1*8ICpJ2re013MI8v_wqZV5w.png"
+    }
+  ]
 }

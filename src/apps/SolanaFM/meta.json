@@ -29,5 +29,15 @@
     "related": [
       "vanar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The SolanaFM API",
+      "tldr": "What the explorer exposes programmatically for anyone building on Solana data.",
+      "url": "https://docs.solana.fm/reference",
+      "source": "SolanaFM Docs",
+      "tag": "Infrastructure",
+      "image": "https://cdn.readme.io/og-image/create?type=reference&title=SolanaFM%20API%20overview&projectTitle=SolanaFM&description=API%20Reference%20The%20SolanaFM%20APIs%20design%20principles%20revolves%20around%20serving%20RESTful%20endpoints%20and%20Websockets%20(WS).%20We%20offer%20a%20suite%20of%20endpoints%20that%20allows%20you%20to%20build%20and%20integrate%20your%20on-chain%20programs%20and%20projects%20much%20conveniently.%20Our%20APIs%20are%20designed%20with%20an%20object-oriented%20approach.%20We%20adhe%E2%80%A6&logoUrl=https%3A%2F%2Ffiles.readme.io%2Fcd129a2-small-Full_Logo_White.png&color=%235E49C5&variant=light"
+    }
+  ]
 }

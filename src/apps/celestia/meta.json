@@ -31,5 +31,25 @@
       "immutablex",
       "eclipse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Blockchain Benchmarks Are Usually Deceiving",
+      "tldr": "Every chain advertises a TPS figure and almost none of them mean the same thing. Takes apart how the number is produced and what it conceals.",
+      "url": "https://blog.celestia.org/why-blockchain-benchmarks-are-usually-deceiving/",
+      "source": "Celestia Blog",
+      "tag": "Research",
+      "publishedAt": "2026-07-03",
+      "image": "https://blog.celestia.org/content/images/size/w1200/2026/07/Why-Blockchain-Benchmarks-Are-Usually-Deceiving.png"
+    },
+    {
+      "title": "Relay Chain: A Case Study in Product-Centric Chain Architecture",
+      "tldr": "An interoperability product that reached 100M+ transactions, examined for what it built its own chain around.",
+      "url": "https://blog.celestia.org/relay-chain-a-case-study-in-product-centric-chain-architecture/",
+      "source": "Celestia Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-05-05",
+      "image": "https://blog.celestia.org/content/images/size/w1200/2026/06/Relay-Chain.png"
+    }
+  ]
 }

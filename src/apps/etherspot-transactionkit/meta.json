@@ -40,5 +40,22 @@
       "blast",
       "onfinality"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where Smart Accounts Actually Stand",
+      "tldr": "Safe passing 130 million smart account transactions, set against the upgrades still in testnet. A useful reality check.",
+      "url": "https://etherspot.io/blog/glamsterdam-nears-its-public-testnet-safe-hits-130m-smart-account-transactions",
+      "source": "Etherspot Blog",
+      "image": "https://etherspot.io/wp-content/uploads/2026/08/Weekly-Digest-173-medium-Everything-About-Account-Abstraction.png"
+    },
+    {
+      "title": "Agent Wallets Arrive",
+      "tldr": "MetaMask shipping an agent wallet, and what delegating transaction authority to software implies for account design.",
+      "url": "https://etherspot.io/blog/metamask-launches-its-agent-wallet-glamsterdam-testnet-goes-public",
+      "source": "Etherspot Blog",
+      "tag": "AI & Agents",
+      "image": "https://etherspot.io/wp-content/uploads/2026/08/Weekly-Digest-180-medium-Everything-About-Account-Abstraction.png"
+    }
+  ]
 }

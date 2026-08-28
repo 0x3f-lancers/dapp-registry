@@ -33,5 +33,23 @@
       "aa-bundler",
       "pimlico"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Account Abstraction, End to End",
+      "tldr": "What changes for developers and what changes for users, kept separate rather than blended into one pitch.",
+      "url": "https://etherspot.io/blog/what-is-account-abstraction",
+      "source": "Etherspot Blog",
+      "tag": "Infrastructure",
+      "image": "https://etherspot.io/wp-content/uploads/2025/01/unnamed.png"
+    },
+    {
+      "title": "ERC-4337 Gets a Reality Check",
+      "tldr": "Native account abstraction slipping, and the migration debate that followed. Useful for seeing where the standard actually stands.",
+      "url": "https://etherspot.io/blog/native-aa-delayed-erc-4337-gets-a-reality-check-eoa-migration-debated",
+      "source": "Etherspot Blog",
+      "tag": "Infrastructure",
+      "image": "https://etherspot.io/wp-content/uploads/2026/08/Weekly-Digest-181-medium-Everything-About-Account-Abstraction.png"
+    }
+  ]
 }

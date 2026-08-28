@@ -43,5 +43,25 @@
       "trezor",
       "atomic-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "HSM-Based Digital Asset Custody for Banks",
+      "tldr": "A hardware security module protects the key and does nothing about who asked it to sign. On the policy and approval layers a bank still has to build.",
+      "url": "https://utila.io/blog/digital-asset-custody-banks-hsm",
+      "source": "Utila Blog",
+      "publishedAt": "2026-07-29",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/FpjjoaWOPbmwUiBuB6CB09yNY.webp?width=1920&height=1080"
+    },
+    {
+      "title": "Utila vs Fireblocks: Stablecoin Infrastructure Compared",
+      "tldr": "Institutions want stablecoin settlement without broadcasting payroll to everyone. How a privacy layer sits under payments while staying governable.",
+      "url": "https://utila.io/blog/utila-aleo-private-stablecoin-payments",
+      "source": "Utila Blog",
+      "publishedAt": "2026-08-05",
+      "tag": "Payments",
+      "image": "https://framerusercontent.com/images/mrw0s2LJlP4FmbaVpu2YxfowVA.webp"
+    }
+  ]
 }

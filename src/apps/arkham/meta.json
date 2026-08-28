@@ -33,5 +33,34 @@
       "omnia",
       "anycall"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tokenised Deposits vs Stablecoins",
+      "tldr": "Banks and asset managers moved from experiments to production infrastructure. What a tokenised deposit is, and how it differs from a stablecoin.",
+      "url": "https://info.arkm.com/research/tokenized-deposits-what-are-they-and-how-are-they-different-to-stablecoins",
+      "source": "Arkham Research",
+      "publishedAt": "2026-07-03",
+      "tag": "Tokenization",
+      "image": "https://cdn.prod.website-files.com/6296255d9030be506dc09bb7/6a478316e7682653782b8032_TOKENIZED%20DEPOSITS.png"
+    },
+    {
+      "title": "Why Victims Are Messaging the Coldcard Hacker Onchain",
+      "tldr": "A Bitcoin address tied to the theft became a permanent public bulletin board, and analysts are reading it rather than only tracing the funds.",
+      "url": "https://info.arkm.com/research/coldcard-why-are-users-sending-on-chain-messages-to-the-hackers-address",
+      "source": "Arkham Research",
+      "publishedAt": "2026-08-04",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/6296255d9030be506dc09bb7/6a72018ba21a0d7684e1f2c0_Coldcard%20Export%202.jpg"
+    },
+    {
+      "title": "Tracing Robinhood Chain Transactions",
+      "tldr": "Following real-time transfers, de-anonymised entities and counterparty flows on a new chain, for traders and investigators alike.",
+      "url": "https://info.arkm.com/research/arkham-is-a-robinhood-chain-explorer-and-transaction-scanner",
+      "source": "Arkham Research",
+      "publishedAt": "2026-07-23",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/6296255d9030be506dc09bb7/6a6240791ee1da06794c3ae7_ROBINHOOD%20EXPLORER.png"
+    }
+  ]
 }

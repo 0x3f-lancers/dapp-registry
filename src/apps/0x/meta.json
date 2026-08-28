@@ -1,44 +1,70 @@
 {
-    "slug":  "0x",
-    "name":  "0x",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/0x.svg",
-    "category":  "DeFi Dapps",
-    "subcategory":  [
-                        "Decentralized Exchanges"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Avalanche",
-                   "Base",
-                   "BNB Chain",
-                   "Ethereum",
-                   "Linea",
-                   "Mantle",
-                   "OP Mainnet",
-                   "Polygon",
-                   "Solana",
-                   "Tron"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "0x provides trading APIs and swap infrastructure that let apps add token exchange across many chains and liquidity sources.",
-                    "description":  "0x is a trading infrastructure platform for developers that want to add token swaps, routing, and onchain execution to their apps. Its APIs aggregate liquidity from a large set of sources across many supported networks, returning quotes and transaction data without requiring teams to integrate every venue separately. Builders use 0x for embedded swaps, gasless flows, trade analytics, and cross chain routing, while users keep control of their wallets and sign transactions directly onchain through the apps that integrate it.",
-                    "meta":  "0x gives developers swap APIs, routing, and liquidity access for token trading across supported chains. Explore 0x on Lancers Web3 Explorer.",
-                    "pageTitle":  "0x - DeFi Dapps - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.0x.org/",
-                  "twitter":  "https://x.com/0xproject"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "position-exchange",
-                                           "ave-ai"
-                                       ],
-                      "related":  [
-                                      "binance",
-                                      "gemini",
-                                      "simpleswap"
-                                  ]
-                  }
+  "slug": "0x",
+  "name": "0x",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744595/web3-explorer/dapp-logos/0x.svg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Ethereum",
+    "Linea",
+    "Mantle",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Tron"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "0x provides trading APIs and swap infrastructure that let apps add token exchange across many chains and liquidity sources.",
+    "description": "0x is a trading infrastructure platform for developers that want to add token swaps, routing, and onchain execution to their apps. Its APIs aggregate liquidity from a large set of sources across many supported networks, returning quotes and transaction data without requiring teams to integrate every venue separately. Builders use 0x for embedded swaps, gasless flows, trade analytics, and cross chain routing, while users keep control of their wallets and sign transactions directly onchain through the apps that integrate it.",
+    "meta": "0x gives developers swap APIs, routing, and liquidity access for token trading across supported chains. Explore 0x on Lancers Web3 Explorer.",
+    "pageTitle": "0x - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.0x.org/",
+    "twitter": "https://x.com/0xproject"
+  },
+  "relations": {
+    "alternatives": [
+      "position-exchange",
+      "ave-ai"
+    ],
+    "related": [
+      "binance",
+      "gemini",
+      "simpleswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "0x 101: What the Protocol Actually Standardises",
+      "tldr": "An open settlement standard rather than an exchange. What that distinction means for anyone building on top of it.",
+      "url": "https://0x.org/post/0x-101-intro-to-0x-protocol",
+      "source": "0x Blog",
+      "tag": "Explainer",
+      "image": "https://cdn.prod.website-files.com/66967cfef0a246cbbb9aee9b/66967cfef0a246cbbb9af399_210.png"
+    },
+    {
+      "title": "How an Order Executes, Under the Hood",
+      "tldr": "Follow a single trade from signature to settlement, and see which parts happen off-chain and which parts cost gas.",
+      "url": "https://0x.org/post/0x-101-intro-to-0x-orders",
+      "source": "0x Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/66967cfef0a246cbbb9aee9b/66967cfef0a246cbbb9af39b_212.png"
+    },
+    {
+      "title": "Building a Swap Programmatically",
+      "tldr": "Finding the best price across sources and executing against it in code. The practical follow-on to the protocol overview.",
+      "url": "https://0x.org/post/0x-101-getting-started-with-swap-api",
+      "source": "0x Blog",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/66967cfef0a246cbbb9aee9b/66967cfef0a246cbbb9af3c6_218.png"
+    }
+  ]
 }

@@ -33,5 +33,31 @@
       "silo-finance",
       "badger-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Autocompounding Actually Does",
+      "tldr": "Harvesting and reinvesting yield on a schedule so the position grows itself. Where the returns come from, and what they cost.",
+      "url": "https://docs.beefy.finance/ecosystem/introduction",
+      "source": "Beefy Docs",
+      "tag": "DeFi",
+      "image": "https://docs.beefy.finance/~gitbook/image?url=https%3A%2F%2F938982642-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MJZ0tXJc-hdgL-YTlPk%252Fsocialpreview%252FmGv07zHBB2WKMNyvHSDX%252Flearn_cow.jpg%3Falt%3Dmedia%26token%3D11be4410-8422-40ef-a44e-4b79f5590598&width=1200&height=630&sign=8f849167&sv=2"
+    },
+    {
+      "title": "SAFU First: The Security Standards",
+      "tldr": "A vault protocol writing down what it must never get wrong. Clever contracts are worthless if user funds are not safe.",
+      "url": "https://docs.beefy.finance/safety/beefy-safu-practices",
+      "source": "Beefy Docs",
+      "tag": "Security",
+      "image": "https://docs.beefy.finance/~gitbook/image?url=https%3A%2F%2F938982642-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MJZ0tXJc-hdgL-YTlPk%252Fsocialpreview%252FmGv07zHBB2WKMNyvHSDX%252Flearn_cow.jpg%3Falt%3Dmedia%26token%3D11be4410-8422-40ef-a44e-4b79f5590598&width=1200&height=630&sign=8f849167&sv=2"
+    },
+    {
+      "title": "Escrowed Tokens Explained",
+      "tldr": "Rewards held in custody until a condition is met. How the mechanism shapes incentives, and what a holder is really waiting on.",
+      "url": "https://docs.beefy.finance/beefy-products/beefy-escrowed-tokens",
+      "source": "Beefy Docs",
+      "tag": "Explainer",
+      "image": "https://docs.beefy.finance/~gitbook/image?url=https%3A%2F%2F938982642-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MJZ0tXJc-hdgL-YTlPk%252Fsocialpreview%252FmGv07zHBB2WKMNyvHSDX%252Flearn_cow.jpg%3Falt%3Dmedia%26token%3D11be4410-8422-40ef-a44e-4b79f5590598&width=1200&height=630&sign=8f849167&sv=2"
+    }
+  ]
 }

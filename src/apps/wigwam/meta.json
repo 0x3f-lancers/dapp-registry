@@ -39,5 +39,22 @@
       "squads",
       "sorted-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Two Wallets, Two Security Models",
+      "tldr": "The extension keeps a seed phrase; the app splits the key with MPC and an encrypted backup. Why the project ships both.",
+      "url": "https://cryptopotato.com/wigwam-launches-a-self-custodial-crypto-trading-app-with-rewards/",
+      "source": "CryptoPotato",
+      "tag": "Security",
+      "image": "https://cryptopotato.com/wp-content/uploads/2025/03/Wigwam-1_1742233233ws6YlZIYWv.jpg"
+    },
+    {
+      "title": "The Wallet in Summary",
+      "tldr": "Open source, EVM-wide, synced across devices. A short reference on what it holds and where it runs.",
+      "url": "https://blockspot.io/wallet/wigwam/",
+      "source": "Blockspot",
+      "tag": "Infrastructure"
+    }
+  ]
 }

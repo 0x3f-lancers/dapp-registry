@@ -31,5 +31,34 @@
       "xdc-network",
       "flare-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Revised Haskell 2010 Language Report",
+      "tldr": "Sixteen years without a new report, while the language kept moving. The effort to write down the Haskell people actually use today.",
+      "url": "https://blog.haskell.org/revised-haskell-2010-report/",
+      "source": "Haskell Blog",
+      "publishedAt": "2026-08-04",
+      "tag": "Research",
+      "image": "https://blog.haskell.org/images/haskell-opengraph.png"
+    },
+    {
+      "title": "What Haskell Users Would Change",
+      "tldr": "553 free-form answers from the State of Haskell Survey 2025, sorted into what is actionable and what reflects long-standing tension.",
+      "url": "https://blog.haskell.org/what-would-you-see-changed-in-haskell/",
+      "source": "Haskell Blog",
+      "publishedAt": "2026-04-02",
+      "tag": "Explainer",
+      "image": "https://blog.haskell.org/images/haskell-opengraph.png"
+    },
+    {
+      "title": "Quick Tips for Fast Iteration in Haskell",
+      "tldr": "Practical ways to cut type-checking and compile times, from a community discussion about why feedback loops had grown slow.",
+      "url": "https://blog.haskell.org/quick-tips-for-fast-iteration-in-haskell/",
+      "source": "Haskell Blog",
+      "publishedAt": "2026-07-28",
+      "image": "https://blog.haskell.org/images/haskell-opengraph.png",
+      "tag": "Tutorial"
+    }
+  ]
 }

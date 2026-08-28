@@ -31,5 +31,34 @@
       "polygon",
       "xdc-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Starknet's Quantum Readiness Roadmap",
+      "tldr": "Post-quantum risk stopped being a horizon problem once governments began setting migration deadlines. What that means for a STARK-based chain.",
+      "url": "https://starkware.co/blog/the-architecture-advantage-starknets-quantum-readiness-roadmap/",
+      "source": "StarkWare Blog",
+      "publishedAt": "2026-06-30",
+      "tag": "Security",
+      "image": "https://starkware.co/wp-content/uploads/2026/06/PQ-roadmap-cover-image_2026-06-30.png"
+    },
+    {
+      "title": "Private KYC with STRK20",
+      "tldr": "Proving you are over 18 or hold a credential currently means handing over the whole document. Confidential onchain identity aims at just the fact.",
+      "url": "https://starkware.co/blog/private-kyc/",
+      "source": "StarkWare Blog",
+      "publishedAt": "2026-06-23",
+      "tag": "Identity",
+      "image": "https://starkware.co/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-11.18.33-scaled.png"
+    },
+    {
+      "title": "Practical Privacy Onchain",
+      "tldr": "Onchain privacy has sat between fully public and fully hidden, with little in between. What a workable middle actually requires.",
+      "url": "https://starkware.co/blog/practical-privacy-onchain/",
+      "source": "StarkWare Blog",
+      "publishedAt": "2026-06-27",
+      "image": "https://starkware.co/wp-content/uploads/2026/06/1-hero-banner-privacy-now-native-to-starknet.png",
+      "tag": "Security"
+    }
+  ]
 }

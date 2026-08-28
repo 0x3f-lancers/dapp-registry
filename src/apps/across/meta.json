@@ -35,5 +35,31 @@
       "canvas-connect",
       "solana"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Canonical Bridges vs Third-Party Bridges: What's the Difference?",
+      "tldr": "One is the chain's own official route with its withdrawal delay; the other fronts liquidity to make it fast.",
+      "url": "https://across.to/blog/canonical-bridges-vs-third-party-bridges-whats-the-difference",
+      "source": "Across Blog",
+      "tag": "Infrastructure",
+      "image": "https://images.ctfassets.net/gr2sdxmfnju2/4HxAtOBmmUmpMI2425fNsy/8cc34ef7db9dbd9706738bb8531f8788/SEO_Canonical_Bridges_vs_Third-Party_Bridges__16_9.png?w=1200&h=630&fit=fill&fm=jpg&q=80"
+    },
+    {
+      "title": "Crosschain Swaps Explained: Swap and Bridge in One Transaction",
+      "tldr": "Trading a token on one chain for a different token on another in one step. Walks through how the swap and the bridge compose into a single action.",
+      "url": "https://across.to/blog/crosschain-swaps-explained-swap-and-bridge-in-one-transaction",
+      "source": "Across Blog",
+      "tag": "Trading",
+      "image": "https://images.ctfassets.net/gr2sdxmfnju2/6mocIeukh8KYXLT2a1Fz8Z/16b2b890dff0c6fbb92a7a23b6eb04d1/SEO_Crosschain_Swaps_16_9.png?w=1200&h=630&fit=fill&fm=jpg&q=80"
+    },
+    {
+      "title": "No Gas on a New Chain? How to Arrive With ETH Ready to Spend",
+      "tldr": "Landing on a chain with assets you cannot move because you have no native token is a genuinely common trap.",
+      "url": "https://across.to/blog/no-gas-on-a-new-chain-how-to-arrive-with-eth-ready-to-spend",
+      "source": "Across Blog",
+      "tag": "Infrastructure",
+      "image": "https://images.ctfassets.net/gr2sdxmfnju2/1aa9EVsFEf7T4odNRb525p/db50b98a5137f6cdcb3581ae29792d29/SEO_No_Gas_on_a_New_Chain_16_9.png?w=1200&h=630&fit=fill&fm=jpg&q=80"
+    }
+  ]
 }

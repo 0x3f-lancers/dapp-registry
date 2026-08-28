@@ -31,5 +31,22 @@
       "vanar",
       "circular-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading a Solana Transaction",
+      "tldr": "Slot, block time, instructions and inner instructions. What each field on the page means when you are trying to work out what happened.",
+      "url": "https://docs.solscan.io/transaction-details/transaction-details",
+      "source": "Solscan Docs",
+      "image": "https://docs.solscan.io/~gitbook/image?url=https%3A%2F%2F3408068746-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-M2WGem6IdHOZpBD3zJX%252Fsocialpreview%252FCgJilnTYdP7AGbUTcYo2%252FSolscan%2520Medium%2520Header-01.png%3Falt%3Dmedia%26token%3D296d3f02-6fc2-4a7a-98fe-cbfa9ef6f3f1&width=1200&height=630&sign=cee4999f&sv=2"
+    },
+    {
+      "title": "Following Blocks and Transactions Live",
+      "tldr": "How to watch confirmed activity as it happens, and what the explorer is actually querying to show it.",
+      "url": "https://docs.solscan.io/browsing-the-site/blockchain-tab",
+      "source": "Solscan Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.solscan.io/~gitbook/image?url=https%3A%2F%2F3408068746-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-M2WGem6IdHOZpBD3zJX%252Fsocialpreview%252FCgJilnTYdP7AGbUTcYo2%252FSolscan%2520Medium%2520Header-01.png%3Falt%3Dmedia%26token%3D296d3f02-6fc2-4a7a-98fe-cbfa9ef6f3f1&width=1200&height=630&sign=cee4999f&sv=2"
+    }
+  ]
 }

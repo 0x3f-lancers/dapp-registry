@@ -34,5 +34,34 @@
       "minipay",
       "begin-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Migrating from Pillar Wallet to PillarX: A Step-by-Step Guide",
+      "tldr": "Pillar V1 and V2 were decommissioned in favour of PillarX. Walks through moving assets across, connecting the old wallet, and what changes once you do.",
+      "url": "https://pillar.fi/blog/how-to-migrate-from-pillar-wallet-to-pillarx-step-by-step-guide/",
+      "source": "Pillar Blog",
+      "publishedAt": "2025-06-03",
+      "tag": "Tutorial",
+      "image": "https://pillar.fi/wp-content/uploads/2025/06/px_how_to_migrate_blog-scaled.png"
+    },
+    {
+      "title": "Why PillarX Replaced Pillar Wallet",
+      "tldr": "Why the wallet was rebuilt on Etherspot's account and chain abstraction SDKs, and what modular smart-account tooling changes for everyday users.",
+      "url": "https://pillar.fi/blog/why-pillarx-is-the-future-of-pillar-wallet-a-game-changing-upgrade/",
+      "source": "Pillar Blog",
+      "publishedAt": "2025-05-01",
+      "tag": "Infrastructure",
+      "image": "https://pillar.fi/wp-content/uploads/2025/05/why_pillarx_is_the_future_of_pillar_wallet_medium.png"
+    },
+    {
+      "title": "PillarX Integrates the XDC Network",
+      "tldr": "Adding XDC support to a smart-account wallet, and why an enterprise-oriented chain pairs with account abstraction features like sponsored gas.",
+      "url": "https://pillar.fi/blog/unlocking-web3-potential-pillarx-integrates-xdc-network-for-seamless-crypto-innovation/",
+      "source": "Pillar Blog",
+      "publishedAt": "2025-01-14",
+      "tag": "Infrastructure",
+      "image": "https://pillar.fi/wp-content/uploads/2025/01/px-xdc.png"
+    }
+  ]
 }

@@ -31,5 +31,34 @@
       "metis",
       "ethereum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Self-Hosting Solana History: Run Your Own Archive RPC",
+      "tldr": "Four thousand words of ClickHouse setup, schema and live ingestion. If you have wondered what a history node costs to operate, this answers it.",
+      "url": "https://blog.triton.one/self-hosting-superbank/",
+      "source": "Triton One Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-07-06",
+      "image": "https://storage.ghost.io/c/2d/1b/2d1bd4a5-8fca-4919-b94d-173e398be507/content/images/size/w1200/2026/07/1361854E-A69D-425B-91DF-D81D86590368.png"
+    },
+    {
+      "title": "Inside Cloudbreak: Indexing Architecture for Account Reads",
+      "tldr": "Half a billion accounts served fast enough to feel like an ordinary database query. The interest is in which storage engine they settled on and why.",
+      "url": "https://blog.triton.one/inside-cloudbreak-indexing-architecture-for-performant-account-reads/",
+      "source": "Triton One Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-06-19",
+      "image": "https://storage.ghost.io/c/2d/1b/2d1bd4a5-8fca-4919-b94d-173e398be507/content/images/size/w1200/2026/06/25198B8D-A082-4DCA-98F5-50F5310FAC49-1.png"
+    },
+    {
+      "title": "Backfilling Solana History Step by Step",
+      "tldr": "Reconstructing the chain's past from archives rather than replaying it. Tedious, necessary, and almost never documented at this level of detail.",
+      "url": "https://blog.triton.one/self-hosting-solana-history-step-by-step-walkthrough-for-backfill/",
+      "source": "Triton One Blog",
+      "tag": "Tutorial",
+      "publishedAt": "2026-07-06",
+      "image": "https://storage.ghost.io/c/2d/1b/2d1bd4a5-8fca-4919-b94d-173e398be507/content/images/size/w1200/2026/07/8AF00172-2E5A-4BD2-BC37-0959D2C0712E.png"
+    }
+  ]
 }

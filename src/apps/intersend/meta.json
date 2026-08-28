@@ -27,5 +27,22 @@
     "related": [
       "hummingbot"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "One Account Across Every Chain",
+      "tldr": "The developer overview: passkey-held keys, auto-conversion to stablecoins, and embedding an app into the marketplace.",
+      "url": "https://intersend.mintlify.app/overview",
+      "source": "Intersend Docs",
+      "image": "https://intersend.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DOverview%26logoLight%3Dhttps%253A%252F%252Fstorage.googleapis.com%252Fexternal-assets-intersend%252FEmblem.png%26logoDark%3Dhttps%253A%252F%252Fstorage.googleapis.com%252Fexternal-assets-intersend%252FEmblem.png%26primaryColor%3D%25230D9373%26lightColor%3D%252307C983%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%2523090d0d&w=1200&q=100"
+    },
+    {
+      "title": "Taking Onchain Payments as a Merchant",
+      "tldr": "Background on what accepting crypto actually involves: settlement, volatility and the reconciliation nobody mentions.",
+      "url": "https://www.payram.com/blog/on-chain-payments-guide",
+      "source": "PayRam",
+      "tag": "Payments",
+      "image": "https://www.payram.com/cdn/wf/68eb6627-The-Ultimate-Guide-to-On-Chain-Payments-PayRam.png"
+    }
+  ]
 }

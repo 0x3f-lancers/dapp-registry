@@ -3,7 +3,9 @@
   "name": "Swoop Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750533/web3-explorer/dapp-logos/swoop-exchange.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Ethereum",
     "OP Mainnet",
@@ -30,7 +32,32 @@
     "twitter": "https://x.com/Swoop_Exchange"
   },
   "relations": {
-    "alternatives": ["veax", "betdex"],
-    "related": ["binance-us", "marginly", "bitget"]
-  }
+    "alternatives": [
+      "veax",
+      "betdex"
+    ],
+    "related": [
+      "binance-us",
+      "marginly",
+      "bitget"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Aggregating the Aggregators",
+      "tldr": "One layer above 1inch and ParaSwap: quote them all, rank the results, and route through whichever router wins.",
+      "url": "https://medium.com/@swoop.exchange/meta-aggregators-in-defi-an-exploration-of-mtopswap-metadex-bc586892683b",
+      "source": "Swoop Exchange",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*J7UPGnaduaHiciCnh0HmLA.png",
+      "tag": "Trading"
+    },
+    {
+      "title": "The Questions Traders Ask First",
+      "tldr": "Where the quotes come from, why a meta-aggregator adds no extra contract risk, and how cross-chain routes get priced.",
+      "url": "https://docs.swoop.exchange/faq",
+      "source": "Swoop Docs",
+      "image": "https://docs.swoop.exchange/og-large-doc.webp",
+      "tag": "Trading"
+    }
+  ]
 }

@@ -34,5 +34,25 @@
     "related": [
       "bitbond"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Manipulated Quotes Create Execution, UX, and Liability Risk in DeFi",
+      "tldr": "Some liquidity is engineered to lie: the pool quotes beautifully and settles badly. On toxic pools, and who carries the loss when a router believes them.",
+      "url": "https://blog.enso.build/toxic-pools/",
+      "source": "Enso Blog",
+      "publishedAt": "2026-07-16",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/38/b3/38b3b250-0832-49d2-943c-a4cab0eeef48/content/images/2026/07/cover.png"
+    },
+    {
+      "title": "Bad Execution, Real Costs",
+      "tldr": "Written for fintechs adding swaps without a trading desk's instincts. Routing quality is a product decision with a measurable price, not a detail.",
+      "url": "https://blog.enso.build/bad-execution-real-costs/",
+      "source": "Enso Blog",
+      "publishedAt": "2026-07-24",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/38/b3/38b3b250-0832-49d2-943c-a4cab0eeef48/content/images/2026/07/Captura-de-pantalla-2026-07-24-170804.png"
+    }
+  ]
 }

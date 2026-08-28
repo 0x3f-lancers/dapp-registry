@@ -39,5 +39,34 @@
       "popular-smart-contract-templates",
       "uniswap-v3-core"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Checklist to Run Before You Deploy",
+      "tldr": "Building a contract is like assembling a complex machine. What to verify before it goes live and holds anyone else's money.",
+      "url": "https://medium.com/@bunzzdev/dont-deploy-until-you-audit-the-ultimate-smart-contract-checklist-bd02fd0b2c43",
+      "source": "Bunzz Blog",
+      "publishedAt": "2024-02-21",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*2noXIM23P_FGArCB"
+    },
+    {
+      "title": "Getting an Audit on a Small Budget",
+      "tldr": "Professional audits price out most small teams. Three practical ways to raise the security bar without one, and their limits.",
+      "url": "https://medium.com/@bunzzdev/3-low-cost-smart-contract-audit-tips-every-developer-should-know-ee66ba669383",
+      "source": "Bunzz Blog",
+      "publishedAt": "2024-02-13",
+      "tag": "Security",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*oxaWduBM-SPPXalc"
+    },
+    {
+      "title": "Searching and Reading Unfamiliar Contracts",
+      "tldr": "Two problems developers hit constantly: finding a contract worth copying, and understanding what a deployed one actually does.",
+      "url": "https://medium.com/@bunzzdev/bunzz-releases-new-features-for-smart-contract-analysis-ceccdad22e46",
+      "source": "Bunzz Blog",
+      "publishedAt": "2023-12-13",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*brECOwjayXOgZXqC5K5DqQ.png"
+    }
+  ]
 }

@@ -35,5 +35,31 @@
       "noves",
       "xcall-service"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Turning Telecom Towers Into Secure AI Data Centres",
+      "tldr": "Existing tower sites hosting private compute at the edge, aggregating into something larger. An unusually physical proposal for a privacy network.",
+      "url": "https://nillion.com/news/transforming-telecom-towers-into-secure-ai-data-centres/",
+      "source": "Nillion News",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-04-09"
+    },
+    {
+      "title": "Taking Private Health Data Mainstream",
+      "tldr": "Health apps collect more the closer they get to daily behaviour. Uses that tension to make the case for computing on data you never decrypt.",
+      "url": "https://nillion.com/news/healthblocks-taking-private-health-mainstream/",
+      "source": "Nillion News",
+      "tag": "Research",
+      "publishedAt": "2026-05-26"
+    },
+    {
+      "title": "Managed Verification Nodes",
+      "tldr": "How work gets checked and trusted across a network where no participant can see the data. Short, and central to how the whole model holds together.",
+      "url": "https://nillion.com/news/introducing-managed-blacklight-nodes/",
+      "source": "Nillion News",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-03-26"
+    }
+  ]
 }

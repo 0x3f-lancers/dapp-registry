@@ -30,5 +30,29 @@
       "kevm",
       "openzeppelin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Local Chain in Five Minutes",
+      "tldr": "Spin up a personal Ethereum network, deploy a contract to it and call it, without spending anything.",
+      "url": "https://jianjye.medium.com/5-min-tutorial-to-ethereum-development-384caf49310",
+      "source": "Jian Jye",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:768/1*_jUc4ZTya5Jyg3-seT6wVg.jpeg"
+    },
+    {
+      "title": "Ganache and Truffle Together",
+      "tldr": "Wiring the two up, including the config values people get wrong and the ten funded accounts you start with.",
+      "url": "https://dev.to/yongchanghe/tutorial-play-with-truffle-ganache-5hf1",
+      "source": "DEV Community",
+      "image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxwklcnousiav31ten3iy.png"
+    },
+    {
+      "title": "From Empty Folder to Deployed Contract",
+      "tldr": "A long walkthrough for someone starting from nothing, covering the whole local development loop.",
+      "url": "https://www.bomberbot.com/smart-contracts/learn-truffle-and-ganache-how-to-create-and-deploy-a-smart-contract/",
+      "source": "Bomberbot",
+      "tag": "Infrastructure"
+    }
+  ]
 }

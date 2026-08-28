@@ -33,5 +33,28 @@
     "related": [
       "infura"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Your First Gasless Transaction",
+      "tldr": "Build the user operation, get a paymaster to sponsor it, and send it. The shortest complete path into ERC-4337.",
+      "url": "https://docs.pimlico.io/guides/tutorials/tutorial-1",
+      "source": "Pimlico Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Paying Gas in USDC",
+      "tldr": "Deploy a smart account and cover its fees with a stablecoin instead of the chain's native token, using an ERC-20 paymaster.",
+      "url": "https://docs.pimlico.io/guides/tutorials/tutorial-2",
+      "source": "Pimlico Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Batching Calls Into One Transaction",
+      "tldr": "Approve and swap in a single step. One of the concrete things smart accounts can do that an ordinary wallet cannot.",
+      "url": "https://docs.pimlico.io/guides/tutorials/send-transaction",
+      "source": "Pimlico Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -34,5 +34,34 @@
       "subsquid",
       "chainnodes"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is a Datachain?",
+      "tldr": "A layer one whose consensus pays miners to store data rather than order transactions. What changes when storage becomes the thing being secured.",
+      "url": "https://irys.xyz/blog/what-is-a-datachain",
+      "source": "Irys Blog",
+      "tag": "Research",
+      "publishedAt": "2026-05-29",
+      "image": "https://irys.xyz/assets/blog/posts/what-is-a-datachain.webp"
+    },
+    {
+      "title": "How Does Irys Store Data?",
+      "tldr": "Data held many times over by miners who have staked something, then challenged continuously to prove they still hold it.",
+      "url": "https://irys.xyz/blog/how-does-irys-store-data",
+      "source": "Irys Blog",
+      "tag": "Research",
+      "publishedAt": "2026-05-29",
+      "image": "https://irys.xyz/assets/blog/posts/how-does-irys-store-data.webp"
+    },
+    {
+      "title": "What Is Programmable Data?",
+      "tldr": "Data a contract can read mid-execution as a trusted input, rather than data that merely sits somewhere permanent.",
+      "url": "https://irys.xyz/blog/what-is-programmable-data",
+      "source": "Irys Blog",
+      "tag": "Research",
+      "publishedAt": "2026-05-29",
+      "image": "https://irys.xyz/assets/blog/posts/what-is-programmable-data.webp"
+    }
+  ]
 }

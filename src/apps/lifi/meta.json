@@ -3,7 +3,9 @@
   "name": "LI.FI",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748047/web3-explorer/dapp-logos/lifi.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Arbitrum",
     "Avalanche",
@@ -33,7 +35,41 @@
     "twitter": "https://x.com/lifiprotocol"
   },
   "relations": {
-    "alternatives": ["vvs-finance", "fcondex", "polkaswap"],
-    "related": ["binance-us", "ribbon-finance", "opyn"]
-  }
+    "alternatives": [
+      "vvs-finance",
+      "fcondex",
+      "polkaswap"
+    ],
+    "related": [
+      "binance-us",
+      "ribbon-finance",
+      "opyn"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Picking the Right Slippage Per Swap",
+      "tldr": "A fixed tolerance is wrong for most trades. How a recommended value gets derived from the route rather than guessed.",
+      "url": "https://li.fi/knowledge-hub/introducing-smart-slippage-on-li.fi-the-right-slippage-for-every-swap",
+      "source": "LI.FI Knowledge Hub",
+      "tag": "Trading",
+      "image": "https://framerusercontent.com/images/fo6kgSU2BSpuncB2nxAPcSjAfcc.png?width=1200&height=675"
+    },
+    {
+      "title": "Simulating a Route Before Quoting It",
+      "tldr": "Failed cross-chain transactions are expensive and confusing. Running the route first turns some of them into a better quote.",
+      "url": "https://li.fi/knowledge-hub/introducing-quote-simulation-on-li.fi-better-quotes-fewer-failures",
+      "source": "LI.FI Knowledge Hub",
+      "tag": "Infrastructure",
+      "image": "https://framerusercontent.com/images/YwqGADjyiDFbJVLXLeFSkDAnY.png?width=1200&height=675"
+    },
+    {
+      "title": "Turning Wallet Dust Into Something Usable",
+      "tldr": "Leftover balances too small to move alone. A worked case study of batching them into one spendable position.",
+      "url": "https://li.fi/knowledge-hub/how-jumper-uses-li.fi-composer-to-turn-wallet-dust-into-usable-liquidity",
+      "source": "LI.FI Knowledge Hub",
+      "tag": "Payments",
+      "image": "https://framerusercontent.com/images/0VNtbJFd2tYL0pS7x4SyYiXkFp8.jpg?width=1920&height=1080"
+    }
+  ]
 }

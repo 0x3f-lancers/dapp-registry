@@ -31,5 +31,22 @@
       "celer-network",
       "kroma"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How the Bridge Actually Moves Value",
+      "tldr": "Stablecoins route through a synthetic asset that is burned and minted; other tokens are locked and wrapped. Two different paths.",
+      "url": "https://101blockchains.com/synapse-bridge/",
+      "source": "101 Blockchains",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Synapse, End to End",
+      "tldr": "The cross-chain AMM, the nUSD mechanism and the validator set securing it, covered in one read.",
+      "url": "https://learn.bybit.com/en/blockchain/what-is-synapse-protocol-syn",
+      "source": "Bybit Learn",
+      "tag": "DeFi",
+      "image": "https://www.bybit.com/common-static/fht-static/cms/cs-assets/blt9b6deb8f2477652b/297d4399640de944841aad20a6fb0a15.png"
+    }
+  ]
 }

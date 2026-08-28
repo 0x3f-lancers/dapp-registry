@@ -19,8 +19,9 @@
     "pageTitle": "EVM Gas Puzzles - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/RareSkills/gas-puzzles",
-    "twitter": "https://x.com/RareSkills_io"
+    "website": "https://rareskills.io",
+    "twitter": "https://x.com/RareSkills_io",
+    "github": "https://github.com/RareSkills/gas-puzzles"
   },
   "relations": {
     "alternatives": [
@@ -31,5 +32,22 @@
       "militereum",
       "verilog-solutions"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "150 Ethereum Developer Interview Questions",
+      "tldr": "Answerable in three sentences each, which makes them a fast way to find the gaps in what you actually know.",
+      "url": "https://rareskills.io/post/solidity-interview-questions",
+      "source": "RareSkills",
+      "image": "https://rareskills.io/og-images/post/solidity-interview-questions.png"
+    },
+    {
+      "title": "A Solidity Course for Experienced Developers",
+      "tldr": "Free and deliberately aimed above beginner level, from the team behind the gas optimisation puzzles.",
+      "url": "https://rareskills.io/learn-solidity",
+      "source": "RareSkills",
+      "tag": "Infrastructure",
+      "image": "https://rareskills.io/og-images/learn-solidity.png"
+    }
+  ]
 }

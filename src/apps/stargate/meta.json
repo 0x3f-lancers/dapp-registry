@@ -39,5 +39,31 @@
       "reddio",
       "xdc-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Unified Liquidity Across Chains",
+      "tldr": "An interview with the team on what made the launch land, and what a single shared pool changes about bridging.",
+      "url": "https://www.bnbchain.org/en/blog/bnb-chain-project-spotlight-stargate-finance",
+      "source": "BNB Chain Blog",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/f4/1b/f41b2cc7-c557-4fb7-82f5-ff223a27dcc6/content/images/2022/04/A-Journey-to--Decentralization--16-.png"
+    },
+    {
+      "title": "One Pool per Asset, Across Every Chain",
+      "tldr": "Native USDC out the far side, no wrapped IOU. The delta algorithm that guarantees the destination pool is funded before the transfer starts.",
+      "url": "https://docs.layerzero.network/v2/concepts/applications/stargate-finance",
+      "source": "LayerZero Docs",
+      "tag": "Payments",
+      "image": "https://layerzero.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DApplications%26appearance%3Ddark%26title%3DStargate%2BFinance%26description%3DStargate%2Bis%2Ba%2Bcomposable%2Bcrosschain%2Bliquidity%2Bprotocol%2Bbuilt%2Bon%2BLayerZero%2BV2%2Bas%2Bits%2Btransport%2Blayer.%2BIt%2Bprovides%2Bunified%2Bliquidity%2Bpools%2Bfor%2Bnative...%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Flayerzero%252FMzSiOdXt8xlDlEr4%252Fimages%252FLayerZero_Logo_Black.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DMzSiOdXt8xlDlEr4%2526q%253D85%2526s%253D091b05c7556f6e8e948d613c2abf58cb%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Flayerzero%252FMzSiOdXt8xlDlEr4%252Fimages%252FLayerZero_Logo_White.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DMzSiOdXt8xlDlEr4%2526q%253D85%2526s%253Dd6e58e0cf42c989a1fed9d1345e2d23a%26primaryColor%3D%2523c084fc%26lightColor%3D%2523c084fc%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230d0b10&w=1200&q=100"
+    },
+    {
+      "title": "The Protocol, Reviewed",
+      "tldr": "An analyst walkthrough of unified liquidity and what happens on a route where the destination pool runs dry.",
+      "url": "https://nansen.ai/post/what-is-stargate",
+      "source": "Nansen",
+      "tag": "Research",
+      "image": "https://framerusercontent.com/assets/QHchw4E80B8HlJrZEs9d1fAGUU.jpg"
+    }
+  ]
 }

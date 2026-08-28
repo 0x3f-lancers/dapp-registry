@@ -33,5 +33,31 @@
       "insurace",
       "goldfinch"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Inside Toros Bitcoin Short Volatility",
+      "tldr": "Takes a structured product apart into its two components, a covered call position and an actively rebalanced short.",
+      "url": "https://toros.finance/blog/inside-toros-bitcoin-short-volatility",
+      "source": "Toros Blog",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/fd/60/fd60c258-c3a2-44ad-bb1f-59c64f8fcdfc/content/images/2026/04/How-Toros-Covered-Call-Short-Volatility-Works--1-.png"
+    },
+    {
+      "title": "Hyperliquid-Powered Stock and Commodity Leveraged Tokens",
+      "tldr": "2x and 3x tokens on NVDA and the Nasdaq 100, built on perp markets. A concrete look at how leveraged exposure to equities gets wrapped into a single token.",
+      "url": "https://toros.finance/blog/hyperliquid-powered-stock-and-commodity-leveraged-tokens-are-live-on-toros",
+      "source": "Toros Blog",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/fd/60/fd60c258-c3a2-44ad-bb1f-59c64f8fcdfc/content/images/2026/05/Toros-HL-3d.png"
+    },
+    {
+      "title": "Leveraged Gold Exposure on Ethereum and Arbitrum",
+      "tldr": "Explains the wider project of turning complex leveraged strategies into one holdable token, and what gets abstracted away when you do that.",
+      "url": "https://toros.finance/blog/double-down-on-gold-leveraged-exposure-now-live-on-ethereum-arbitrum",
+      "source": "Toros Blog",
+      "image": "https://storage.ghost.io/c/fd/60/fd60c258-c3a2-44ad-bb1f-59c64f8fcdfc/content/images/2026/02/Gold_ARB_ETH.png",
+      "tag": "DeFi"
+    }
+  ]
 }

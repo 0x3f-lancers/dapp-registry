@@ -31,5 +31,31 @@
       "nillaconnect",
       "insurace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Doing a DAO's Accounts in Public",
+      "tldr": "Every transaction is visible by definition, which does not make quarterly reporting simple. What a DAO has to build that a company buys.",
+      "url": "https://paragraph.com/@badgerdao/building-the-tools-badgerdao-s-financial-reporting",
+      "source": "BadgerDAO Blog",
+      "tag": "Governance",
+      "image": "https://paragraph.com/api/og?title=Building+the+Tools%3A+BadgerDAO%27s+Financial+Reporting&blogName=BadgerDAO&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F7ebde04a693d6bd30b289c2095a869ee42fd790eb24523f03147f1148b37a7af.png&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F102d137aca279ba94243330b8bc35d17f21587edee90547e6e09f7dcec63b49e.gif&publishedDate=1674837465000"
+    },
+    {
+      "title": "Borrowing BTC Against Staked ETH",
+      "tldr": "eBTC at 110% collateral and no interest, built to avoid custodians and bridges. The design and its trade-offs.",
+      "url": "https://unchainedcrypto.com/ebtc-by-badgerdao-and-lido/",
+      "source": "Unchained",
+      "tag": "DeFi",
+      "image": "https://unchainedcrypto.com/wp-content/uploads/2024/04/ebtc-badgerdao-lido.jpg"
+    },
+    {
+      "title": "Using a Sett Vault",
+      "tldr": "Deposit, strategy, and the fees taken along the way. The user-facing guide to an automated Bitcoin yield vault.",
+      "url": "https://badgerdao.medium.com/sett-vault-user-guide-9040b2f4b7a4",
+      "source": "BadgerDAO",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*REcpvLsBbZeDsMQA2Usezg.jpeg"
+    }
+  ]
 }

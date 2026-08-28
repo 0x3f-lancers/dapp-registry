@@ -3,8 +3,17 @@
   "name": "RBX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749505/web3-explorer/dapp-logos/rbx.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges", "DeFi Yield Farming Platforms"],
-  "chains": ["Avalanche", "BNB Chain", "Ethereum", "Multichain", "Polygon"],
+  "subcategory": [
+    "Decentralized Exchanges",
+    "DeFi Yield Farming Platforms"
+  ],
+  "chains": [
+    "Avalanche",
+    "BNB Chain",
+    "Ethereum",
+    "Multichain",
+    "Polygon"
+  ],
   "pricing": "",
   "content": {
     "short": "RBX is a novel ecosystem of DeFi Dapps and protocols designed to accelerate the flow of capital.",
@@ -17,7 +26,24 @@
     "twitter": "https://x.com/rbxtoken"
   },
   "relations": {
-    "alternatives": ["maxbidpro", "dodo", "clipper-dex"],
-    "related": ["futureswap", "day1x"]
-  }
+    "alternatives": [
+      "maxbidpro",
+      "dodo",
+      "clipper-dex"
+    ],
+    "related": [
+      "futureswap",
+      "day1x"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What DeFi 2.0 Was Supposed to Mean",
+      "tldr": "A cross-chain DEX, a launchpad and a no-KYC ramp bundled together, written up from the token holder's side.",
+      "url": "https://medium.com/@tarekmoin087/rbx-a-new-ecosystem-of-defi-2-0-dapp-exchange-4caedacbcf96",
+      "source": "Medium",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*6_jXtMK9OB9YpQNNda_DpA.jpeg",
+      "tag": "DeFi"
+    }
+  ]
 }

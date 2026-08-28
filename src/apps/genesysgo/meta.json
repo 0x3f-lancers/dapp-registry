@@ -30,5 +30,23 @@
       "shardeum",
       "celer-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Storage Built for One Chain",
+      "tldr": "Shadow Drive uses Solana itself for identity and payment, which is what lets it price against ordinary cloud storage.",
+      "url": "https://solanacompass.com/learn/Solfate/decentralized-cloud-storage-on-the-solana-network-introducing-shadow-drive-v2-64",
+      "source": "Solana Compass",
+      "image": "https://solanacompass.com/storage/learn/Solfate/decentralized-cloud-storage-on-the-solana-network-introducing-shadow-drive-v2-64-hqazxyw4jns-.webp",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "RPC, Storage and Compute as One Stack",
+      "tldr": "How the three layers fit together, and why running RPC nodes led to building storage in the first place.",
+      "url": "https://www.solyzer.ai/articles/what-is-shadow-drive-decentralized-storage-on-solana-explained",
+      "source": "Solyzer",
+      "image": "https://cdn.sanity.io/images/otzq5a9z/production/2d45d472b98b887d4a6239f48224e6af66a20de3-1376x768.jpg?rect=0,23,1376,722&w=1200&h=630",
+      "tag": "Infrastructure"
+    }
+  ]
 }

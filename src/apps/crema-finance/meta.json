@@ -3,8 +3,12 @@
   "name": "Crema Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745987/web3-explorer/dapp-logos/crema-finance.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Crema Finance is a concentrated liquidity DeFi protocol on Solana.",
@@ -17,7 +21,39 @@
     "twitter": "https://x.com/Crema_Finance"
   },
   "relations": {
-    "alternatives": ["lnexchange", "kromatika-finance", "loopring"],
-    "related": ["rubydex", "toobit"]
-  }
+    "alternatives": [
+      "lnexchange",
+      "kromatika-finance",
+      "loopring"
+    ],
+    "related": [
+      "rubydex",
+      "toobit"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Concentrated Liquidity Arrives on Solana",
+      "tldr": "The launch write-up for the first CLMM on the chain, and what specifying a price range does to a provider capital.",
+      "url": "https://medium.com/@Crema.finance/crema-finance-is-now-live-on-mainnet-the-first-concentrated-liquidity-protocol-on-solana-5232c3feba8f",
+      "source": "Crema Finance",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*YdZwGiZYgnH5V6ZMVgIT3Q.png"
+    },
+    {
+      "title": "How the CLMM Module Works",
+      "tldr": "The mechanics of range orders and why liquidity gathered near the current price cuts slippage for everyone trading through it.",
+      "url": "https://medium.com/@Crema.finance/concentrated-liquidity-module-that-cremafinance-first-brings-into-the-solana-universe-d14500a6a46b",
+      "source": "Crema Finance",
+      "tag": "Trading",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*nHim1xABKStf8PoeuuM8Hw.png"
+    },
+    {
+      "title": "An Outside Review of the Protocol",
+      "tldr": "Independent coverage of the pools, LP NFT farming and the trade-offs a narrow range forces on a provider.",
+      "url": "https://solanacompass.com/projects/crema-finance",
+      "source": "Solana Compass",
+      "tag": "Research"
+    }
+  ]
 }

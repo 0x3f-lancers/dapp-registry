@@ -36,5 +36,31 @@
       "maxbidpro",
       "increment-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Moving TON Between Wallet and Exchange",
+      "tldr": "A full walkthrough in both directions, with the network and memo details that cause most failed transfers.",
+      "url": "https://blog.egemoney.com/en/how-to-transfer-ton-coin-from-egemoney-to-ton-keeper",
+      "source": "EgeMoney Blog",
+      "tag": "Payments",
+      "image": "https://blog.egemoney.com/wp-content/uploads/2024/10/how-to-transfer-ton-coin-from-egemoney-to-ton-keeper.jpg"
+    },
+    {
+      "title": "Receiving Tokens From Tonkeeper",
+      "tldr": "The inbound version of the same journey, useful because deposits fail for different reasons than withdrawals.",
+      "url": "https://blog.egemoney.com/en/how-to-transfer-hamster-from-ton-keeper-to-egemoney",
+      "source": "EgeMoney Blog",
+      "tag": "Payments",
+      "image": "https://blog.egemoney.com/wp-content/uploads/2024/10/how-to-transfer-hamster-from-ton-keeper-to-egemoney-blog.jpg"
+    },
+    {
+      "title": "Placing Your First Trade",
+      "tldr": "Order entry walked through screen by screen, aimed at someone who has funded an account but not yet traded.",
+      "url": "https://blog.egemoney.com/en/how-to-trade-hamster-on-egemoney",
+      "source": "EgeMoney Blog",
+      "tag": "Trading",
+      "image": "https://blog.egemoney.com/wp-content/uploads/2024/10/how-to-trade-hamster-on-egemoney.jpg"
+    }
+  ]
 }

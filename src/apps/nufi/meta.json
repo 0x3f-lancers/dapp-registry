@@ -36,5 +36,23 @@
     "related": [
       "etherspot-sdk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Staking ADA While Keys Stay on the Device",
+      "tldr": "Pairing Ledger, Trezor or Keystone and delegating without the stake ever leaving your own wallet. The steps, in order.",
+      "url": "https://support.nu.fi/support/solutions/articles/80000947008-stake-cardano-ada-with-a-ledger-hardware-wallet",
+      "source": "NuFi Support",
+      "tag": "DeFi",
+      "image": "https://s3.eu-central-1.amazonaws.com/euc-cdn.freshdesk.com/data/helpdesk/attachments/production/80542959885/logo/YSmhLuK0tlKHq_TXOBIs-BpHF_t1xRivsw.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAS6FNSMY2XLZULJPI%2F20260817%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260817T082115Z&amp;X-Amz-Expires=604800&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1ee1e8593ae444751ff34431beabf4400e92e41a70c07e097ee212d4f7dcd839"
+    },
+    {
+      "title": "A Long Review of the Wallet",
+      "tldr": "Cardano plus Bitcoin, Solana, Flow and the EVM chains in one place, with an honest look at what the breadth costs.",
+      "url": "https://reviewnexa.com/nufi-wallet-review/",
+      "source": "ReviewNexa",
+      "tag": "Research",
+      "image": "https://reviewnexa.com/wp-content/uploads/2026/06/NUFI-Wallet-Review-The-Ultimate-Multi-Chain-Crypto-Wallet-That-Actually-Delivers.png"
+    }
+  ]
 }

@@ -30,5 +30,15 @@
       "trader-xyz",
       "sender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How ENS Subnames Work",
+      "tldr": "L1, L2 and offchain subnames each have their own records and resolver, and the choice between them is mostly a cost question.",
+      "url": "https://docs.ens.domains/web/subdomains/",
+      "source": "ENS Docs",
+      "image": "https://docs.ens.domains/api/og?title=Subdomains",
+      "tag": "Identity"
+    }
+  ]
 }

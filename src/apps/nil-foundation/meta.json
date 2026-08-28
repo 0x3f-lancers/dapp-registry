@@ -30,5 +30,34 @@
       "blockless",
       "lagrange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trustless Data Management Without a Trusted Replica",
+      "tldr": "Critical workloads normally need a full replica you control. What it takes to verify a data provider's answers instead of trusting them.",
+      "url": "https://nil.foundation/blog/post/dbms-replication-protocol",
+      "source": "=nil; Foundation Blog",
+      "publishedAt": "2026-08-10",
+      "tag": "Research",
+      "image": "https://cms.nil.foundation/uploads/1duje_db7585806a.jpg"
+    },
+    {
+      "title": "Verifying Mina's Full State Inside the EVM",
+      "tldr": "The winning answer to a joint Mina and Ethereum Foundation RFP: verifying the Pickles SNARK on Ethereum, and the engineering that made it fit.",
+      "url": "https://nil.foundation/blog/post/mina-ethereum-bridge",
+      "source": "=nil; Foundation Blog",
+      "publishedAt": "2026-08-10",
+      "tag": "Infrastructure",
+      "image": "https://cms.nil.foundation/uploads/mya5ry_01ac942be3.jpg"
+    },
+    {
+      "title": "=nil; Database Management System, Explained",
+      "tldr": "Handing one cluster's compressed data to another as a proof, and what a proof-native database changes about how clusters share state.",
+      "url": "https://nil.foundation/blog/post/database-management-system",
+      "source": "=nil; Foundation Blog",
+      "publishedAt": "2026-08-10",
+      "tag": "Research",
+      "image": "https://cms.nil.foundation/uploads/ywdfdf_c7bd3f5e32.jpg"
+    }
+  ]
 }

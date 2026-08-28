@@ -42,5 +42,22 @@
       "smartstate",
       "solc-verify"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Audit Or Formal Verification?",
+      "tldr": "The firm's own case for running both: what a manual review catches that a proof cannot, and where the proof is the only thing that settles it.",
+      "url": "https://medium.com/@nullreturn/audit-formal-verification-why-they-work-best-together-c7e35d9cfd36",
+      "source": "Null Return",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*MA2AGXQrT7W4hzAjDPueBw.png"
+    },
+    {
+      "title": "What an Audit Is and Is Not",
+      "tldr": "A time-boxed review, not a guarantee. Setting that expectation properly is the most valuable thing this piece does.",
+      "url": "https://www.cyfrin.io/blog/what-is-a-smart-contract-security-audit",
+      "source": "Cyfrin",
+      "image": "https://cdn.prod.website-files.com/659ddeb7f63ce6a1f7898526/65ce46c92e8d42e9ad55d7f0_Frame%20188.png",
+      "tag": "Security"
+    }
+  ]
 }

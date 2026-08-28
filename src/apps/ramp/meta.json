@@ -37,5 +37,31 @@
       "dzap",
       "propellerswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Buying Crypto With a Card",
+      "tldr": "The on-ramp process end to end, including the verification steps that surprise first-time buyers.",
+      "url": "https://rampnetwork.com/blog/how-to-buy-cryptocurrency-with-ramp-network",
+      "source": "Ramp Blog",
+      "tag": "Payments",
+      "image": "https://cdn.prod.website-files.com/642739228a913925123dd805/67220c3e47e99aba3f6bad59_How%20to%20Buy%20Cryptocurrency%20with%20Ramp%20Network.avif"
+    },
+    {
+      "title": "Selling Back to a Bank Account",
+      "tldr": "The off-ramp is the half most guides skip. What the payout path looks like and where it can stall.",
+      "url": "https://rampnetwork.com/blog/how-to-sell-crypto-with-ramp-network",
+      "source": "Ramp Blog",
+      "tag": "Payments",
+      "image": "https://cdn.prod.website-files.com/642739228a913925123dd805/67220c581028657350fd0256_How%20to%20sell%20crypto.avif"
+    },
+    {
+      "title": "How Native Off-Ramp Flow Works",
+      "tldr": "Selling from inside an app rather than being sent elsewhere. What that removes from the user's journey.",
+      "url": "https://rampnetwork.com/blog/how-off-ramp-native-flow-works",
+      "source": "Ramp Blog",
+      "tag": "Payments",
+      "image": "https://cdn.prod.website-files.com/642739228a913925123dd805/6513e567ed436181a3c156dd_64ed0069f4b1f15c02e23917_blog-cover-off-ramp-native-flow.avif"
+    }
+  ]
 }

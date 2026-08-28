@@ -42,5 +42,34 @@
       "hypernative",
       "forta"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Centralisation Causes Smart Contract Hacks",
+      "tldr": "Protocols described as decentralised often lean on centralised tooling and admin keys. That dependency is where a surprising share of losses start.",
+      "url": "https://shellboxes.com/blog/centralization-leads-to-smart-contract-hacks/",
+      "source": "ShellBoxes Blog",
+      "publishedAt": "2023-02-27",
+      "tag": "Infrastructure",
+      "image": "https://shellboxes.com/blog/wp-content/uploads/2023/02/Shellboxes-CeFi.jpg"
+    },
+    {
+      "title": "The Code Vulnerabilities Attackers Look For",
+      "tldr": "A chain can be sound while the contracts on it are not. The recurring flaw classes that turn into eight-figure losses.",
+      "url": "https://shellboxes.com/blog/hackers-can-exploit-blockchain-code-vulnerabilities-to-attack/",
+      "source": "ShellBoxes Blog",
+      "publishedAt": "2023-02-27",
+      "tag": "Security",
+      "image": "https://shellboxes.com/blog/wp-content/uploads/2023/03/abstract_threat_actor_attribution-1200x600-3.jpg"
+    },
+    {
+      "title": "What Chainlink CCIP Is For",
+      "tldr": "Apps that cannot talk to each other are as useful as a USB drive plugged into a typewriter. How a cross-chain messaging standard closes that.",
+      "url": "https://shellboxes.com/blog/chainlink-ccip-unlocking-the-future-of-blockchain-interoperability-with-ccip/",
+      "source": "ShellBoxes Blog",
+      "publishedAt": "2024-07-29",
+      "image": "https://shellboxes.com/blog/wp-content/uploads/2024/07/upload_d30fd2afb075e3b76131b5b0ed296147.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

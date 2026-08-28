@@ -28,5 +28,34 @@
       "gateway-fm",
       "solsniper"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Pseudonymization After SRB/Deloitte: Re-Identification Is an Engineering Test",
+      "tldr": "Pseudonymised is not anonymous, and regulators increasingly treat the difference as something you must demonstrate.",
+      "url": "https://aesirx.io/blog/aesirx/pseudonymization-after-srb-deloitte-part-2-re-identification-is-now-an-engineering-test",
+      "source": "AesirX Blog",
+      "publishedAt": "2026-06-24",
+      "tag": "Regulation",
+      "image": "https://api.aesirx.io/media/com_reditem/images/customfield/item/260545/5900c7f5855ae0ad81c2295ec91107b5111ca144.png"
+    },
+    {
+      "title": "Consent Governance at Scale: From Cookie Banners to Operational Proof",
+      "tldr": "Collecting consent is easy; proving months later what a specific user agreed to, under which legal basis, is the hard part.",
+      "url": "https://aesirx.io/blog/aesirx/consent-governance-at-scale-from-cookie-banners-to-operational-proof",
+      "source": "AesirX Blog",
+      "publishedAt": "2026-06-10",
+      "tag": "Infrastructure",
+      "image": "https://api.aesirx.io/media/com_reditem/images/customfield/item/260491/e52e0e7a91159bdbd80a0b6454609bb7a60fc95a.png"
+    },
+    {
+      "title": "Cookie Compliance Is an Operational Governance Problem",
+      "tldr": "Treats the banner as the least interesting part and focuses on classifying, governing and evidencing the tracking that sits behind it.",
+      "url": "https://aesirx.io/blog/aesirx/cookie-compliance-is-not-a-banner-problem-it-is-an-operational-governance-problem",
+      "source": "AesirX Blog",
+      "publishedAt": "2026-06-17",
+      "tag": "Regulation",
+      "image": "https://api.aesirx.io/media/com_reditem/images/customfield/item/260501/b686529340763b5014db2f9016189abedda3cd72.png"
+    }
+  ]
 }

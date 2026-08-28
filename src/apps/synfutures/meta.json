@@ -3,8 +3,13 @@
   "name": "SynFutures",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750563/web3-explorer/dapp-logos/synfutures.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Derivatives", "Decentralized Exchanges"],
-  "chains": ["Base"],
+  "subcategory": [
+    "Decentralized Derivatives",
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Base"
+  ],
   "pricing": "",
   "content": {
     "short": "SynFutures is a decentralized exchange with on-chain derivatives trading and leverage.",
@@ -17,7 +22,43 @@
     "twitter": "https://x.com/SynFuturesDefi"
   },
   "relations": {
-    "alternatives": ["paraswap", "stellaswap", "velodrome"],
-    "related": ["toobit", "panoptic"]
-  }
+    "alternatives": [
+      "paraswap",
+      "stellaswap",
+      "velodrome"
+    ],
+    "related": [
+      "toobit",
+      "panoptic"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Trade Tokenised Stocks on SynFutures",
+      "tldr": "A practical walkthrough of taking a position in real-world assets on a venue built for crypto perpetuals, and how the two sit side by side.",
+      "url": "https://blog.synfutures.com/how-to-trade-tokenized-stocks-on-synfutures/",
+      "source": "SynFutures Blog",
+      "publishedAt": "2026-06-25",
+      "tag": "Tokenization",
+      "image": "https://storage.ghost.io/c/78/38/78389ffb-a13c-40e0-accf-0e65a7015f6a/content/images/size/w1200/2026/06/How-to-Trade-rwas.png"
+    },
+    {
+      "title": "SynFutures Expands Beyond Perpetuals",
+      "tldr": "The reasoning behind moving from crypto derivatives into real-world asset trading as global markets shift onchain.",
+      "url": "https://blog.synfutures.com/synfutures-entering-the-next-chapter/",
+      "source": "SynFutures Blog",
+      "publishedAt": "2026-06-08",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/78/38/78389ffb-a13c-40e0-accf-0e65a7015f6a/content/images/2026/06/RWA-Graphic.png"
+    },
+    {
+      "title": "What Changed on SynFutures in Q2",
+      "tldr": "The quarter the venue began listing both crypto and real-world assets, and what that expansion required of the underlying trading engine.",
+      "url": "https://blog.synfutures.com/q2-synfutures-updates/",
+      "source": "SynFutures Blog",
+      "publishedAt": "2026-07-29",
+      "tag": "Tokenization",
+      "image": "https://storage.ghost.io/c/78/38/78389ffb-a13c-40e0-accf-0e65a7015f6a/content/images/size/w1200/2026/07/Q2-Recap.png"
+    }
+  ]
 }

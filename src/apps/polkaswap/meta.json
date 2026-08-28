@@ -31,5 +31,28 @@
       "binance-us",
       "bidask"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Every Pair Contains XOR",
+      "tldr": "A structural choice, not a UI quirk — it is what lets the aggregator route across sources. The consequences are explained here.",
+      "url": "https://wiki.sora.org/polkaswap.html",
+      "source": "SORA Wiki",
+      "tag": "Trading"
+    },
+    {
+      "title": "The Questions Traders Actually Ask",
+      "tldr": "A long FAQ covering fees paid in XOR, the burn-and-remint loop, and where liquidity is really sourced from.",
+      "url": "https://wiki.sora.org/polkaswap/polkaswap-faq.html",
+      "source": "SORA Wiki",
+      "tag": "Trading"
+    },
+    {
+      "title": "Providing Liquidity to an XYK Pool",
+      "tldr": "The practical steps, plus what a provider earns from the portion of burned fees that gets re-minted back to them.",
+      "url": "https://wiki.sora.org/provide-liquidity-to-xyk-pools-polkaswap.html",
+      "source": "SORA Wiki",
+      "tag": "DeFi"
+    }
+  ]
 }

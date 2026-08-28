@@ -37,5 +37,25 @@
       "dedge-security",
       "nightfall"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "AI-Assisted Security Auditing in the Zcash Ecosystem",
+      "tldr": "An audit firm reporting honestly on where model assistance helped and where it did not. Rare because the incentive is to claim it works everywhere.",
+      "url": "https://leastauthority.com/blog/ai-assisted-security-auditing-in-the-zcash-ecosystem/",
+      "source": "Least Authority Blog",
+      "tag": "Security",
+      "publishedAt": "2026-06-12",
+      "image": "https://leastauthority.com/wp-content/uploads/2026/06/AI-Assisted-Security-Auditing-in-the-Zcash-Ecosystem-v2.png"
+    },
+    {
+      "title": "Audit of a Legacy Seed Recovery Workspace",
+      "tldr": "Short, but the subject is unusual: reviewing a tool built to recover old wallet seeds. Recovery tooling has a threat model most audits never encounter.",
+      "url": "https://leastauthority.com/blog/audit-of-sovright-argos/",
+      "source": "Least Authority Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-01",
+      "image": "https://leastauthority.com/wp-content/uploads/2026/07/sovright.png"
+    }
+  ]
 }

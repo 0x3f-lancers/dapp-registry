@@ -30,5 +30,14 @@
       "etherspot",
       "pytest"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Rebuilding The Data Layer",
+      "tldr": "What changed across the exchange, rates and loan subgraphs, and why the split into several smaller ones made queries faster.",
+      "url": "https://blog.synthetix.io/major-subgraph-improvements/",
+      "source": "Synthetix Blog",
+      "image": "https://storage.ghost.io/c/2b/95/2b95aa77-0e57-417f-ba4f-9edc9032d7c3/content/images/size/w1200/2021/12/header.png"
+    }
+  ]
 }

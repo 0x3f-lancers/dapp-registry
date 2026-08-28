@@ -33,5 +33,28 @@
       "xdc-network",
       "reddio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Orchestration Between Agents and Chains",
+      "tldr": "A deterministic control surface sitting between AI agents and settlement. What the engine is actually deciding.",
+      "url": "https://docs.backpac.xyz/guide/getting-started/introduction.html",
+      "source": "Backpac Docs",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "Proof of Intents",
+      "tldr": "Agents running workflows across chains and off-chain systems need a record of what was meant, not just what executed.",
+      "url": "https://docs.backpac.xyz/guide/advanced/proof-of-intent.html",
+      "source": "Backpac Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Why RPC Calls Are Probabilistic",
+      "tldr": "A transaction might land or might not. The argument for execution intents starts from that uncomfortable fact.",
+      "url": "https://docs.backpac.xyz/guide/advanced/execution-intents.html",
+      "source": "Backpac Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

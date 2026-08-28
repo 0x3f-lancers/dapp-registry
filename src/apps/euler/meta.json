@@ -28,5 +28,31 @@
     "related": [
       "veax"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is the Euler Vault Kit?",
+      "tldr": "Start here if you want to understand what is actually configurable in a lending market and what is fixed.",
+      "url": "https://www.euler.finance/blog/what-is-the-euler-vault-kit",
+      "source": "Euler Finance",
+      "tag": "Explainer",
+      "image": "https://storage.ghost.io/c/fd/e0/fde05e3b-cf46-409d-acb7-5713e1135685/content/images/2026/05/evk-explain-1.png"
+    },
+    {
+      "title": "What Is the Ethereum Vault Connector?",
+      "tldr": "Account infrastructure around ERC-4626 letting vaults act as collateral for one another. The plumbing that makes modular lending composable.",
+      "url": "https://www.euler.finance/blog/what-is-the-ethereum-vault-connector",
+      "source": "Euler Finance",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/fd/e0/fde05e3b-cf46-409d-acb7-5713e1135685/content/images/2026/05/evc-explain.png"
+    },
+    {
+      "title": "Euler Primer: The Credit Layer for Programmable Finance",
+      "tldr": "The long-form case for treating lending as modular infrastructure rather than one monolithic pool, and what that unlocks that a shared-pool design cannot.",
+      "url": "https://www.euler.finance/blog/euler-primer-the-credit-layer-for-programmable-finance",
+      "source": "Euler Finance",
+      "tag": "Explainer",
+      "image": "https://storage.ghost.io/c/fd/e0/fde05e3b-cf46-409d-acb7-5713e1135685/content/images/2026/05/Euler-Primer-1.png"
+    }
+  ]
 }

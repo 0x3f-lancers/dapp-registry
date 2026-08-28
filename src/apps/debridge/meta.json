@@ -35,5 +35,34 @@
       "near",
       "gosh"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bridging a Stablecoin, Properly",
+      "tldr": "Native against bridged versions, bridging against swapping, and why the distinction decides what you actually end up holding.",
+      "url": "https://debridge.com/learn/guides/bridge-stablecoins-across-chains",
+      "source": "deBridge Learn",
+      "publishedAt": "2026-07-14",
+      "tag": "Payments",
+      "image": "https://debridge.com/learn/guides/content/images/size/w1200/2026/07/bridging-stablecoins-across-chains.webp"
+    },
+    {
+      "title": "How Equities Trade Onchain",
+      "tldr": "What a tokenized stock is a claim on, how it differs from the share itself, and the legal questions that follow from that gap.",
+      "url": "https://debridge.com/learn/guides/tokenized-stocks-explained",
+      "source": "deBridge Learn",
+      "publishedAt": "2026-07-20",
+      "tag": "Trading",
+      "image": "https://debridge.com/learn/guides/content/images/size/w1200/2026/07/tokenized-stocks-explained-2026.webp"
+    },
+    {
+      "title": "HyperCore and HyperEVM Are Not the Same Place",
+      "tldr": "Two execution environments on one network, and why buying an asset on the wrong one leaves you unable to use it.",
+      "url": "https://debridge.com/learn/guides/how-to-buy-hype",
+      "source": "deBridge Learn",
+      "publishedAt": "2026-07-03",
+      "tag": "Trading",
+      "image": "https://debridge.com/learn/guides/content/images/size/w1200/2026/07/two-ways-to-buy-hype.webp"
+    }
+  ]
 }

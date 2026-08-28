@@ -34,5 +34,34 @@
       "blocksurvey",
       "ankr"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Digital Asset Lineage: Tracking Where Onchain Money Came From",
+      "tldr": "Source of funds, cost basis and partner attribution all get destroyed the moment tokens are pooled. On keeping that context attached to money as it moves.",
+      "url": "https://goldsky.com/blog/digital-asset-lineage",
+      "source": "Goldsky Blog",
+      "publishedAt": "2026-06-26",
+      "tag": "Infrastructure",
+      "image": "https://cms.goldsky.com/api/media/file/digital-asset-lineage.jpg"
+    },
+    {
+      "title": "Open-sourcing Streamling: A Stream Processing Runtime for App Teams",
+      "tldr": "A Rust stream processor on Apache Arrow and DataFusion, pipelines defined in YAML. How onchain indexing problems map onto general streaming ones.",
+      "url": "https://goldsky.com/blog/open-sourcing-streamling",
+      "source": "Goldsky Blog",
+      "publishedAt": "2026-06-08",
+      "tag": "Infrastructure",
+      "image": "https://cms.goldsky.com/api/media/file/open-sourcing-streamling.png"
+    },
+    {
+      "title": "How to Track Solana DEX Trades with the dex_swaps Dataset",
+      "tldr": "Getting every Solana swap into your own database sounds simple until you meet the normalisation problem. A practical walkthrough of doing it in real time.",
+      "url": "https://goldsky.com/blog/track-solana-dex-trades-with-swaps-dataset",
+      "source": "Goldsky Blog",
+      "publishedAt": "2026-07-31",
+      "tag": "Trading",
+      "image": "https://cms.goldsky.com/api/media/file/solana-dex-trades-dataset.png"
+    }
+  ]
 }

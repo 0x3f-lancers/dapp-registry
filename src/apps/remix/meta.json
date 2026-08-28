@@ -30,5 +30,25 @@
       "tatum",
       "swing-sdk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Release v2.5.3: Circom Frontends and Proof Verification",
+      "tldr": "Generating a frontend straight from a zero-knowledge circuit, plus onchain proof verification in the IDE. Notable for how far the tooling has moved.",
+      "url": "https://ethereumremix.substack.com/p/remix-release-v253",
+      "source": "Remix Newsletter",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-08-10",
+      "image": "https://substackcdn.com/image/fetch/$s_!-CaO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F392f2267-e0b7-478d-9340-589a024b9f17_840x420.png"
+    },
+    {
+      "title": "Release v2.4.0: AI Security and Gas Audit Checklists",
+      "tldr": "Structured checklists rather than a chat box, which is a better shape for review work. A good look at where model assistance fits in a dev tool.",
+      "url": "https://ethereumremix.substack.com/p/remix-release-v220-v250",
+      "source": "Remix Newsletter",
+      "tag": "Security",
+      "publishedAt": "2026-06-24",
+      "image": "https://substackcdn.com/image/fetch/$s_!FoM8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab9f3556-96b3-483a-a66a-d5f53c93abdc_840x420.png"
+    }
+  ]
 }

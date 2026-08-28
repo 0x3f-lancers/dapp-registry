@@ -34,5 +34,28 @@
       "auditbase",
       "zenland"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Turning Bytecode Back Into Readable Code",
+      "tldr": "How the decompiler recovers functions, control flow and storage layout from deployed bytecode, at 99.98% contract coverage.",
+      "url": "https://dedaub.com/blog/evm-bytecode-decompiler/",
+      "source": "Dedaub",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Reading a Contract Nobody Verified",
+      "tldr": "The decompiler documentation, including how mappings, arrays and structs are reconstructed from raw storage slots.",
+      "url": "https://docs.dedaub.com/docs/decompiler/",
+      "source": "Dedaub Docs",
+      "tag": "Security"
+    },
+    {
+      "title": "What Static Analysis Can and Cannot Catch",
+      "tldr": "The analyses that flag a contract, and why anything flagged then gets fuzzed to see whether funds can actually be lost.",
+      "url": "https://docs.dedaub.com/docs/analysis/",
+      "source": "Dedaub Docs",
+      "tag": "Research"
+    }
+  ]
 }

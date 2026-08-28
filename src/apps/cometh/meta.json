@@ -37,5 +37,30 @@
     "related": [
       "chainide"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Passkeys Across Devices",
+      "tldr": "Adding a second device as a signer, and the constraint that the wallet must already exist before you can.",
+      "url": "https://docs.cometh.io/advanced/add-a-passkey-signer-on-a-different-os",
+      "source": "Cometh Docs",
+      "image": "https://docs.cometh.io/~gitbook/ogimage/WkGzknVKBRtETq5MIdxO"
+    },
+    {
+      "title": "Importing an Existing Safe",
+      "tldr": "Bringing a Safe you already control into Connect, rather than starting a new account from scratch.",
+      "url": "https://docs.cometh.io/core-features/import-a-safe-into-connect",
+      "source": "Cometh Docs",
+      "tag": "Tutorial",
+      "image": "https://docs.cometh.io/~gitbook/ogimage/pih3jdTEpVAH7ntDopE5"
+    },
+    {
+      "title": "Migrating Off the Legacy SDK",
+      "tldr": "What changed and what breaks, written for teams already shipping on the older integration.",
+      "url": "https://docs.cometh.io/resources/migrate-from-the-connect-legacy-sdk",
+      "source": "Cometh Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.cometh.io/~gitbook/ogimage/1jgP9oDGQGHE5MuGEQ0P"
+    }
+  ]
 }

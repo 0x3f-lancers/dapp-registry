@@ -3,8 +3,12 @@
   "name": "Loopring",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748127/web3-explorer/dapp-logos/loopring.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Loopring is a zkRollup-powered Layer-2 enabling non-custodial exchange and payment protocols.",
@@ -17,7 +21,32 @@
     "twitter": "https://x.com/loopringorg"
   },
   "relations": {
-    "alternatives": ["rubicon", "wardenswap"],
-    "related": ["deri-protocol", "swissborg", "contango"]
-  }
+    "alternatives": [
+      "rubicon",
+      "wardenswap"
+    ],
+    "related": [
+      "deri-protocol",
+      "swissborg",
+      "contango"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Loopring L2, Explained",
+      "tldr": "Batching thousands of trades off-chain into one proof, and why that inherits Ethereum security rather than replacing it.",
+      "url": "https://www.okx.com/learn/loopring-layer2-zk-rollup-ethereum-scalability",
+      "source": "OKX Learn",
+      "tag": "Explainer",
+      "image": "https://www.okx.com/cdn/assets/plugins/contentful/4nqoo8goeymu/6pp1hChRazDyo3CCJi0d06/6502e66cb49158f18289693b08b10039/a587dcb2-6d8d-47f6-bf46-cd844ca6c89d"
+    },
+    {
+      "title": "Actually Using Loopring L2",
+      "tldr": "A long practical walkthrough from the team: getting funds in, trading, and getting them back out again.",
+      "url": "https://medium.com/loopring-protocol/guide-how-to-use-loopring-l2-a267d005255b",
+      "source": "Loopring Blog",
+      "tag": "Tutorial",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*dbM2YY0AQPIZRzBiFX8mNw.png"
+    }
+  ]
 }

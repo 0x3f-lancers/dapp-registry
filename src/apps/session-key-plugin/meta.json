@@ -35,5 +35,22 @@
       "stackup-bundler",
       "ambire-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Plugins On A Smart Account",
+      "tldr": "The standard this plugin is built on, and why a scoped, expiring signer is safer to hand an app than the account's own key.",
+      "url": "https://medium.com/decipher-media/demystifying-erc-6900-5a52db06dcff",
+      "source": "Decipher Media",
+      "image": "https://miro.medium.com/v2/resize:fit:875/0*SxZwtvkVz0Jk73-O.png"
+    },
+    {
+      "title": "The Standard It Plugs Into",
+      "tldr": "ERC-6900 splits an account into validation, execution and hooks. The spec that makes plugins like this installable at all.",
+      "url": "https://eips.ethereum.org/EIPS/eip-6900",
+      "source": "Ethereum Improvement Proposals",
+      "image": "https://eips.ethereum.org/assets/images/eip-og-image.png",
+      "tag": "Trading"
+    }
+  ]
 }

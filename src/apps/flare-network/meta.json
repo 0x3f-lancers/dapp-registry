@@ -30,5 +30,34 @@
       "kadena",
       "cosmos"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Flare Confidential Compute Heads to Songbird",
+      "tldr": "The first piece of the Flare 2.0 plan: pairing trusted execution environments with Flare's data protocols, deploying first on the Songbird canary network.",
+      "url": "https://flare.network/news/flare-confidential-compute-votes-to-launch-on-songbird",
+      "source": "Flare",
+      "publishedAt": "2026-06-28",
+      "tag": "Infrastructure",
+      "image": "https://flare.network/api/media/file/Songbird%20colours-1.png"
+    },
+    {
+      "title": "XRP Yield From Inside a Hardware Wallet",
+      "tldr": "Flare Smart Accounts let D'CENT users deposit XRP into curated vaults with two signatures on XRPL, without moving funds to a new chain or custodian.",
+      "url": "https://flare.network/news/flare-and-dcent-bring-one-flow-institutional-yield-to-xrp-holders-worldwide",
+      "source": "Flare",
+      "publishedAt": "2026-05-19",
+      "tag": "Security",
+      "image": "https://flare.network/api/media/file/dcent_0.5.png"
+    },
+    {
+      "title": "Using a Ledger Device with Flare via MetaMask",
+      "tldr": "Step-by-step setup for holding FLR on a Ledger Nano while transacting through MetaMask, keeping the keys offline throughout.",
+      "url": "https://flare.network/news/ledger-wallet-flare-metamask",
+      "source": "Flare",
+      "publishedAt": "2025-07-30",
+      "tag": "Tutorial",
+      "image": "https://flare.network/en/static/Flare-logo.png"
+    }
+  ]
 }

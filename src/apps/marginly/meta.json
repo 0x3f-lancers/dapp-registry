@@ -29,5 +29,34 @@
       "optix",
       "enzyme-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Marginly Approaches Leveraged Yield Farming",
+      "tldr": "Applying leverage to yield-bearing assets, starting with Pendle. What leveraged yield farming is, and where the returns actually come from.",
+      "url": "https://blog.marginly.com/marginly-is-transforming-leveraged-yield-farming/",
+      "source": "Marginly Blog",
+      "publishedAt": "2024-05-16",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/8a/54/8a548f04-505b-4f51-b258-6b65a02aeae3/content/images/size/w1200/2024/05/Blog-Cover---Leveraged-Farming.png"
+    },
+    {
+      "title": "How Marginly Sources Its Liquidity",
+      "tldr": "The protocol builds isolated side pools alongside existing AMM pools, letting lenders supply ETH, USDC or USDT to back leveraged positions.",
+      "url": "https://blog.marginly.com/bootstrap/",
+      "source": "Marginly Blog",
+      "publishedAt": "2024-05-15",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/8a/54/8a548f04-505b-4f51-b258-6b65a02aeae3/content/images/size/w1200/2024/05/Blog-Cover.png"
+    },
+    {
+      "title": "The Risks of Leveraged Trading, and Marginly's Answers",
+      "tldr": "Walks counterparty, technical, liquidation and oracle risk one by one, saying which the protocol design addresses and which it cannot.",
+      "url": "https://blog.marginly.com/risks-of-leveraged-trading-and-how-marginly-addresses-them-some-ideas-for-marginly-v2/",
+      "source": "Marginly Blog",
+      "publishedAt": "2024-01-16",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/8a/54/8a548f04-505b-4f51-b258-6b65a02aeae3/content/images/size/w1200/2024/01/Marginly-Risks-6.png"
+    }
+  ]
 }

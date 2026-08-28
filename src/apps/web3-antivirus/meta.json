@@ -31,5 +31,25 @@
     "related": [
       "solidity-linting-tool"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Web3 Scams and the Red Flags That Give Them Away",
+      "tldr": "Phishing and scam tokens lead the field. A tour of risky contract patterns, rug pulls and address poisoning, and what to look for in each.",
+      "url": "https://web3antivirus.io/blog/w3a-web3-scams-overview/",
+      "source": "Web3 Antivirus Blog",
+      "publishedAt": "2025-03-04",
+      "tag": "Security",
+      "image": "https://749-web3antivirus-strapi.stage.pixelplexlabs.com/uploads/w3a_web3_scams_overview_d409fd0082.jpg"
+    },
+    {
+      "title": "A Security Layer Inside MetaMask",
+      "tldr": "W3A Snap adds contract screening to MetaMask itself, so the check happens where the transaction is signed rather than in a separate tool.",
+      "url": "https://web3antivirus.io/blog/w3a-snap/",
+      "source": "Web3 Antivirus Blog",
+      "publishedAt": "2025-03-04",
+      "tag": "Security",
+      "image": "https://749-web3antivirus-strapi.stage.pixelplexlabs.com/uploads/Meet_W3_A_Snap_c2ead115e5.jpg"
+    }
+  ]
 }

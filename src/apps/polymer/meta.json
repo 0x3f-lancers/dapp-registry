@@ -34,5 +34,23 @@
       "snapchain",
       "sovereign-labs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bringing Cosmos IBC to Ethereum Rollups",
+      "tldr": "A long argument for reusing a proven interop standard instead of another bridge, and what a hub has to store to make it work.",
+      "url": "https://www.blockchaincapital.com/blog/the-ethereum-cosmos-merge-introducing-polymer-the-ibc-interoperability-hub",
+      "source": "Blockchain Capital",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/646f3aca43cb308828caa9f2/65aa5d00d16705a6c10f4541_polymer%20main%20image.jpg"
+    },
+    {
+      "title": "Replacing Oracle Committees With Proofs",
+      "tldr": "How ZK light clients verify cross-rollup state instead of a trusted set of signers, explained without the cryptography.",
+      "url": "https://eco.com/support/en/articles/11011413-what-is-polymer-ibc-for-ethereum-l2s-explained",
+      "source": "Eco",
+      "tag": "Infrastructure",
+      "image": "https://downloads.intercomcdn.com/i/o/bswxc49x/872497/7fb618c394dc8b00eb54e89b3ebf/cf910b554cce9ebee74be1d4eb5a9eb5.jpg"
+    }
+  ]
 }

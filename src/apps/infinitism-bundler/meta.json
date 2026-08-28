@@ -28,5 +28,22 @@
     "related": [
       "ambire-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Bundler Is Responsible For",
+      "tldr": "It collects UserOperations, simulates each for validity, and packs them into one call to the EntryPoint. The reference docs.",
+      "url": "https://docs.erc4337.io/bundlers/index.html",
+      "source": "ERC-4337 Docs",
+      "image": "https://docs.erc4337.io/assets/images/social/bundlers/README.png"
+    },
+    {
+      "title": "The Rules a Bundler Enforces",
+      "tldr": "Validation cannot touch arbitrary storage or deploy contracts, because the bundler has to trust its own simulation. Why those limits exist.",
+      "url": "https://eco.com/support/en/articles/15254039-what-is-a-bundler-erc-4337-bundlers-2026",
+      "source": "Eco",
+      "image": "https://downloads.intercomcdn.com/i/o/bswxc49x/872497/7fb618c394dc8b00eb54e89b3ebf/cf910b554cce9ebee74be1d4eb5a9eb5.jpg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

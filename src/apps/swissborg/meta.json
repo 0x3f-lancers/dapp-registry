@@ -30,5 +30,34 @@
       "velodrome",
       "multichain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Liquidity Decides How Much Crypto You Receive",
+      "tldr": "The fee and preview price on screen tell only part of the story. What actually lands in the account depends on the depth behind the quote.",
+      "url": "https://swissborg.com/blog/why-liquidity-can-determine-how-much-crypto-you-receive",
+      "source": "SwissBorg Blog",
+      "publishedAt": "2026-08-20",
+      "tag": "DeFi",
+      "image": "https://cdn.sanity.io/images/bor5n0ip/production/7c2c40e144986f44b2796c7b2a6c272103869185-2048x1024.jpg?rect=49,0,1950,1024&w=1200&h=630&fm=jpg&q=85&fit=crop&auto=format"
+    },
+    {
+      "title": "Inside the SwissBorg Meta-Exchange",
+      "tldr": "Aggregating depth across venues without bridging, and the treasury management that sits behind a single quoted price.",
+      "url": "https://swissborg.com/blog/inside-the-swissborg-meta-exchange",
+      "source": "SwissBorg Blog",
+      "publishedAt": "2026-08-06",
+      "tag": "Trading",
+      "image": "https://cdn.sanity.io/images/bor5n0ip/production/6f9c178d16b6fb7c485538c5d76ca0eebce6e00e-2048x1024.jpg?rect=49,0,1950,1024&w=1200&h=630&fm=jpg&q=85&fit=crop&auto=format"
+    },
+    {
+      "title": "Automating Entries with Price Conditions",
+      "tldr": "Dollar cost averaging enforces discipline but ignores price. Adding conditions to an automated plan, and what that changes about execution.",
+      "url": "https://swissborg.com/blog/auto-invest-price-conditions",
+      "source": "SwissBorg Blog",
+      "publishedAt": "2026-08-19",
+      "tag": "Trading",
+      "image": "https://cdn.sanity.io/images/bor5n0ip/production/622a26191eccde6f36201c10d1b0fe21d4fdae25-1600x800.jpg?rect=38,0,1524,800&w=1200&h=630&fm=jpg&q=85&fit=crop&auto=format"
+    }
+  ]
 }

@@ -30,5 +30,34 @@
       "cronos",
       "eclipse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Solana Shreds Are a Latency Battleground",
+      "tldr": "LocalShred against Jito ShredStream: for a validator, seeing network activity early or late is the whole difference, not a technical detail.",
+      "url": "https://medium.com/@dedicatednodes/localshred-vs-jito-shredstream-why-solana-shreds-are-a-real-latency-battleground-a98e3ea390b4",
+      "source": "DedicatedNodes Blog",
+      "publishedAt": "2026-05-05",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*SOVKlw5abx-qhoSJepamew.png"
+    },
+    {
+      "title": "Why We Refused to Host a DoubleZero Device",
+      "tldr": "An operator explaining a decision against its own commercial interest, and why the DoubleZero team ended up agreeing with the reasoning.",
+      "url": "https://medium.com/@dedicatednodes/why-we-refused-to-host-a-doublezero-device-and-the-doublezero-team-agreed-with-us-a95ebea584d4",
+      "source": "DedicatedNodes Blog",
+      "publishedAt": "2026-07-13",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+    },
+    {
+      "title": "Setting Up a Robinhood Chain RPC Node",
+      "tldr": "From ordering bare metal to a fully synced self-hosted endpoint, with the configuration steps that usually get skipped.",
+      "url": "https://medium.com/@dedicatednodes/how-to-set-up-a-robinhood-rpc-node-on-a-bare-metal-server-step-by-step-tutorial-2026-4430c7b21e35",
+      "source": "DedicatedNodes Blog",
+      "publishedAt": "2026-07-13",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*qjKCZX_qqswKCB28HGleUA.png"
+    }
+  ]
 }

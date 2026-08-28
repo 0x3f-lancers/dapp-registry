@@ -34,5 +34,32 @@
       "atomic-wallet",
       "coin-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Staking Toncoin, End to End",
+      "tldr": "How staking works on TON and how token distribution events fit alongside it, covered as one process rather than two.",
+      "url": "https://tonkeeper.medium.com/staking-toncoin-and-token-distribution-a-comprehensive-guide-a067b271000d",
+      "source": "Tonkeeper Blog",
+      "publishedAt": "2024-01-09",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/resize:fit:640/1*1WcOse3MSXxWPcN1ZwIfZw@2x.jpeg"
+    },
+    {
+      "title": "Setting Up the Wallet",
+      "tldr": "Install, back up the 24 words, and understand what the passcode does and does not protect before any funds arrive.",
+      "url": "https://www.kucoin.com/learn/web3/how-to-create-a-tonkeeper-wallet-for-ton-ecosystem",
+      "source": "KuCoin Learn",
+      "tag": "Tutorial",
+      "image": "https://assets.staticimg.com/@kudos/runtime/0.6.7-beta.0/assets/og-ea52b6f9440e857c.jpg"
+    },
+    {
+      "title": "Your First TON Wallet",
+      "tldr": "The account primer from the network itself: addresses, the wallet contract behind them, and why TON addresses look unusual.",
+      "url": "https://ton.org/en/how-to-create-and-start-using-wallet",
+      "source": "TON",
+      "tag": "Infrastructure",
+      "image": "https://ton.org/meta.jpg"
+    }
+  ]
 }

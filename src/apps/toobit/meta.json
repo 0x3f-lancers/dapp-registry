@@ -35,5 +35,23 @@
       "matcha",
       "vvs-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Futures Contract Actually Is",
+      "tldr": "Long and short explained from the agreement itself, before any talk of leverage. The place to start if perps are new.",
+      "url": "https://www.toobit.com/en-US/academy/what-is-futures-trading-and-how-does-it-work",
+      "source": "Toobit Academy",
+      "image": "https://www.toobit.com/static/seo/en.webp",
+      "tag": "Trading"
+    },
+    {
+      "title": "Working the Platform",
+      "tldr": "Futures, the API, convert and the grid bot, walked through by someone outside the exchange. Long and practical.",
+      "url": "https://www.bitdegree.org/crypto/tutorials/how-to-use-toobit",
+      "source": "BitDegree",
+      "image": "https://assets.bitdegree.org/images/how-to-use-toobit-featured-image.jpg",
+      "tag": "Security"
+    }
+  ]
 }

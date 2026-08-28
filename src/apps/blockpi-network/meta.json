@@ -39,5 +39,14 @@
       "solana",
       "gosh"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Adding a ZetaChain-EVM RPC Endpoint to MetaMask",
+      "tldr": "A short walkthrough for pointing a wallet at a specific RPC provider. Doing it once shows how much your wallet depends on whoever answers.",
+      "url": "https://blockpi.io/blog/a-comprehensive-guide-adding-blockpis-zetachain-evm-rpc-endpoint-in-your-metamask-wallet-18f8a9f50d6e",
+      "source": "BlockPI Blog",
+      "tag": "Infrastructure"
+    }
+  ]
 }

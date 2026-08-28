@@ -35,5 +35,25 @@
       "evm2",
       "pytest"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Ten Ways to Save Time Debugging Contracts",
+      "tldr": "Practical shortcuts for the work between writing a contract and trusting it, from people who watch developers do it daily.",
+      "url": "https://medium.com/tenderly/10-ways-to-save-time-during-blockchain-development-by-using-tenderly-9316eff3add0",
+      "source": "Tenderly Blog",
+      "publishedAt": "2019-11-27",
+      "tag": "Tutorial",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/0*6Y6edW8bvnJXVltU.jpg"
+    },
+    {
+      "title": "Alerting on What a Contract Just Did",
+      "tldr": "Setting up real-time notifications for onchain events, so you find out about a problem before your users tell you.",
+      "url": "https://medium.com/tenderly/how-to-set-up-real-time-alerting-for-smart-contracts-with-tenderly-5f4efcabb410",
+      "source": "Tenderly Blog",
+      "publishedAt": "2019-08-15",
+      "tag": "Identity",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*DvdHvloDmdS8H-mB2zhgzg.png"
+    }
+  ]
 }

@@ -40,5 +40,25 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Use Zap In on the Krystal Wallet App",
+      "tldr": "Entering a liquidity position from a single token instead of assembling both sides yourself. Explains the swap happening underneath and what it costs you.",
+      "url": "https://blog.krystal.app/how-to-use-zap-in-on-the-krystal-wallet-app/",
+      "source": "Krystal Blog",
+      "publishedAt": "2025-02-26",
+      "tag": "Tutorial",
+      "image": "https://i1.wp.com/blog.krystal.app/wp-content/uploads/2025/02/How-to-use-Zap-In-on-the-Krystal-Wallet-App.png"
+    },
+    {
+      "title": "A New Automation Fee Model",
+      "tldr": "Moving away from charging per automation run. Worth reading for how fee design shapes whether users leave automation switched on at all.",
+      "url": "https://blog.krystal.app/introducing-krystals-new-automation-fee-model/",
+      "source": "Krystal Blog",
+      "publishedAt": "2024-12-25",
+      "tag": "AI & Agents",
+      "image": "https://i2.wp.com/blog.krystal.app/wp-content/uploads/2024/12/Banner-4.png"
+    }
+  ]
 }

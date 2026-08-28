@@ -3,8 +3,13 @@
   "name": "QuickSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749407/web3-explorer/dapp-logos/quickswap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Polygon", "Polygon zkEVM"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Polygon",
+    "Polygon zkEVM"
+  ],
   "pricing": "Free",
   "content": {
     "short": "QuickSwap is the largest DEX on the Polygon network, offering on-chain liquidity pools and DeFi features like lending, prediction markets, staking, and gamefi.",
@@ -17,7 +22,37 @@
     "twitter": "https://x.com/QuickswapDEX"
   },
   "relations": {
-    "alternatives": ["vvs-finance", "jumper-exchange", "wombat-exchange"],
-    "related": ["perpetual-protocol", "swapspace"]
-  }
+    "alternatives": [
+      "vvs-finance",
+      "jumper-exchange",
+      "wombat-exchange"
+    ],
+    "related": [
+      "perpetual-protocol",
+      "swapspace"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Deflation and Tokenomics, Argued Out",
+      "tldr": "Burns, buybacks and sustainability discussed as design choices with trade-offs rather than as features to announce.",
+      "url": "https://blog.quickswap.exchange/posts/dragonfi-2-0-the-quick-token-deflation-new-tokenomics.html",
+      "source": "QuickSwap Blog",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Changing Tokenomics by Governance Vote",
+      "tldr": "Three votes, starting with a decision to buy back and burn using all protocol revenue. What each round actually changed.",
+      "url": "https://blog.quickswap.exchange/posts/governance-proposal-quick-tokenomics-update-the-ultimate-refresh.html",
+      "source": "QuickSwap Blog",
+      "tag": "Governance"
+    },
+    {
+      "title": "Deciding Which Layer 2 to Expand To",
+      "tldr": "A governance proposal laying out the case for Base, and the reasoning a protocol uses when picking where to deploy next.",
+      "url": "https://blog.quickswap.exchange/posts/governance-proposal-expansion-to-base-dragons-going-blue.html",
+      "source": "QuickSwap Blog",
+      "tag": "Governance"
+    }
+  ]
 }

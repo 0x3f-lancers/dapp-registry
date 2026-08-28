@@ -29,5 +29,34 @@
     "related": [
       "huff-starter-kit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Dissecting a Transaction Signature on Stacks",
+      "tldr": "Signature formats are usually treated as a black box, and understanding one properly makes a whole class of bugs legible.",
+      "url": "https://www.hiro.so/blog/dissecting-a-transaction-signature-on-stacks",
+      "source": "Hiro Blog",
+      "publishedAt": "2025-07-17",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/5ff21113877dd79ed7913b57/6878c7fd6ea0ad726f116ff7_Hiro-blog-7.jpg"
+    },
+    {
+      "title": "Deep Dive: How the Token Metadata API Works",
+      "tldr": "Token metadata sounds trivial until you have to serve it consistently across standards and chains. A look at what the API actually has to reconcile.",
+      "url": "https://www.hiro.so/blog/deep-dive-how-the-token-metadata-api-works",
+      "source": "Hiro Blog",
+      "publishedAt": "2025-10-28",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/5ff21113877dd79ed7913b57/6900da8526bc84cc2e53c9c4_Deep%20Dive%20-%20Token%20Metadata%20API.jpg"
+    },
+    {
+      "title": "Breaking Down the sBTC-Wormhole Integration",
+      "tldr": "Moving a Bitcoin-backed asset across chains means two trust models meeting in the middle. Where the handoff happens and what each side assumes.",
+      "url": "https://www.hiro.so/blog/breaking-down-the-sbtc-wormhole-integration",
+      "source": "Hiro Blog",
+      "publishedAt": "2025-08-06",
+      "tag": "AI & Agents",
+      "image": "https://cdn.prod.website-files.com/5ff21113877dd79ed7913b57/6893338d22cccb3a32445dd2_Frame%20316126263.jpg"
+    }
+  ]
 }

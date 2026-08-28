@@ -30,5 +30,28 @@
       "metacrafters",
       "cred-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trust Levels",
+      "tldr": "How a community grades the weight of its own members' contributions. The core idea behind reputation-weighted rewards, in a few hundred words.",
+      "url": "https://sourcecred.github.io/docs/concepts/trust_levels",
+      "source": "SourceCred Docs",
+      "tag": "Identity"
+    },
+    {
+      "title": "Boosting",
+      "tldr": "Staking earned rewards behind work you want to see happen. An unusual mechanism: it turns reputation into a signal about the future rather than the past.",
+      "url": "https://sourcecred.github.io/docs/concepts/boosting",
+      "source": "SourceCred Docs",
+      "tag": "Identity"
+    },
+    {
+      "title": "Initiatives",
+      "tldr": "The unit for describing efforts too large to be one contribution. Short, and the piece that makes the rest of the model coherent.",
+      "url": "https://sourcecred.github.io/docs/concepts/initiatives",
+      "source": "SourceCred Docs",
+      "tag": "AI & Agents"
+    }
+  ]
 }

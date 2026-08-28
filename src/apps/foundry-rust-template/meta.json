@@ -30,5 +30,21 @@
       "openzeppelin",
       "yearn-smart-contracts"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Starting A Foundry Plus Rust Project",
+      "tldr": "A ready-made layout for contracts tested with Forge alongside Rust tooling, with CI and formatting already wired up.",
+      "url": "https://github.com/gakonst/foundry-rust-template",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/ee2706c95229f05156808a3171ad8eb4bd5f68a55109b633a1ab97b878655873/foundry-rs/foundry-rust-template"
+    },
+    {
+      "title": "Generating the Bindings",
+      "tldr": "forge build then forge bind, and the paths and crate naming that decide whether the Rust side compiles.",
+      "url": "https://moralis.com/web3-wiki/foundry-rust-template/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    }
+  ]
 }

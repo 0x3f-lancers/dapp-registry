@@ -1,48 +1,74 @@
 {
-    "slug":  "ankr",
-    "name":  "Ankr",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744888/web3-explorer/dapp-logos/ankr.png",
-    "category":  "Infrastructure Tools",
-    "subcategory":  [
-                        "RPC Node Providers",
-                        "Indexing Tools"
-                    ],
-    "chains":  [
-                   "Aptos",
-                   "Arbitrum",
-                   "Avalanche",
-                   "BNB Chain",
-                   "Celo",
-                   "Ethereum",
-                   "Fantom",
-                   "Harmony",
-                   "OP Mainnet",
-                   "Polkadot",
-                   "Polygon",
-                   "Polygon zkEVM",
-                   "Solana",
-                   "Sui",
-                   "Tron",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Ankr provides RPC endpoints, blockchain data access, and developer tooling for teams building and scaling apps on Mantle.",
-                    "description":  "Ankr runs blockchain infrastructure that helps developers connect apps to networks through RPC endpoints, node services, and related Web3 tooling. Its Mantle support gives teams access to JSON-RPC methods for reading chain data, broadcasting transactions, tracing activity, and building backend services without operating their own nodes. Ankr also offers SDKs and APIs that simplify app development, making it a practical choice for wallets, analytics products, and other services that need dependable Mantle connectivity at scale.",
-                    "meta":  "Ankr provides RPC endpoints, node access, and developer tooling that helps Mantle apps connect reliably and scale their infrastructure.",
-                    "pageTitle":  "Ankr - Infrastructure Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.ankr.com/",
-                  "twitter":  "https://x.com/ankr"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "chainstack",
-                                           "alchemy"
-                                       ],
-                      "related":  [
-                                      "decimal"
-                                  ]
-                  }
+  "slug": "ankr",
+  "name": "Ankr",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744888/web3-explorer/dapp-logos/ankr.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers",
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Aptos",
+    "Arbitrum",
+    "Avalanche",
+    "BNB Chain",
+    "Celo",
+    "Ethereum",
+    "Fantom",
+    "Harmony",
+    "OP Mainnet",
+    "Polkadot",
+    "Polygon",
+    "Polygon zkEVM",
+    "Solana",
+    "Sui",
+    "Tron",
+    "Mantle"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Ankr provides RPC endpoints, blockchain data access, and developer tooling for teams building and scaling apps on Mantle.",
+    "description": "Ankr runs blockchain infrastructure that helps developers connect apps to networks through RPC endpoints, node services, and related Web3 tooling. Its Mantle support gives teams access to JSON-RPC methods for reading chain data, broadcasting transactions, tracing activity, and building backend services without operating their own nodes. Ankr also offers SDKs and APIs that simplify app development, making it a practical choice for wallets, analytics products, and other services that need dependable Mantle connectivity at scale.",
+    "meta": "Ankr provides RPC endpoints, node access, and developer tooling that helps Mantle apps connect reliably and scale their infrastructure.",
+    "pageTitle": "Ankr - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.ankr.com/",
+    "twitter": "https://x.com/ankr"
+  },
+  "relations": {
+    "alternatives": [
+      "chainstack",
+      "alchemy"
+    ],
+    "related": [
+      "decimal"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Giving an Agent Control of Infrastructure",
+      "tldr": "An RPC layer built for agents rather than people, and the design question of which actions still need a human to approve them.",
+      "url": "https://www.ankr.com/blog/agent-rpc-cut-token-bills-in-half-give-agents-infra-control-and-increase-accuracy",
+      "source": "Ankr Blog",
+      "tag": "AI & Agents",
+      "image": "https://assets.ankr.network/Twitter_Post_08_14_91f836db53.jpg"
+    },
+    {
+      "title": "Comparing the RPC Providers",
+      "tldr": "Latency, uptime, archive access and price laid side by side, so the trade-off behind picking a node provider is visible rather than guessed at.",
+      "url": "https://www.ankr.com/blog/blockchain-infrastructure-rpc-providers-compared-in-2026/",
+      "source": "Ankr",
+      "tag": "Infrastructure",
+      "image": "https://assets.ankr.network/Twitter_Post_07_08_1_dcfb602210.jpg"
+    },
+    {
+      "title": "When the Cloud Goes Down, So Does Crypto",
+      "tldr": "A post-mortem on the 2025 outages: how much of a supposedly decentralised stack sat on a handful of cloud regions.",
+      "url": "https://www.ankr.com/blog/how-2025s-cloud-outages-affected-crypto/",
+      "source": "Ankr",
+      "tag": "Security",
+      "image": "https://assets.ankr.network/ankr_250415_landmarks_01_ankr_250415_landmarks_10_2025_12_02_00_38_04_4f974c4639.png"
+    }
+  ]
 }

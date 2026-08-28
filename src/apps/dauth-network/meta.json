@@ -32,5 +32,22 @@
       "space-id",
       "stripe-identity"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "OAuth Without Google in the Middle",
+      "tldr": "Social login for dapps where the provider never learns which app you signed into, using a TEE off-chain and a proof on-chain.",
+      "url": "https://dauthnetwork.medium.com/introducing-dauth-network-web3-oauth-protocol-for-decentralization-and-privacy-authentication-ad796c832283",
+      "source": "DAuth Network",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*QIzUUNUf4lgGpWPyvdzr9g.png",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Enclave and Proof, Side by Side",
+      "tldr": "Where the trusted enclave ends and the zero-knowledge proof begins, and what each part is actually protecting.",
+      "url": "https://moralis.com/web3-wiki/dauth-network/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -37,5 +37,23 @@
       "sherlock",
       "ackee-blockchain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Engineering tBTC on Sui: Bitcoin's First Live Non-EVM Integration",
+      "tldr": "Porting a Bitcoin bridge to a chain with a different object model. Interesting for the assumptions that turned out to be EVM-specific, not universal.",
+      "url": "https://www.4pto.io/blog/threshold-networks-tbtc-on-sui-engineering-bitcoin-first-fully-live-non-evm-integration",
+      "source": "4PTO Labs Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/686bb39e901e21f669950a94/6900f70d3e9a7c9986539c20_Threshold-blog-main-image.png"
+    },
+    {
+      "title": "Driving Saturn's Revolution in Bitcoin DeFi",
+      "tldr": "An engineering account of building DeFi where the base layer offers almost no programmability. The constraints are the interesting part.",
+      "url": "https://www.4pto.io/blog/how-were-driving-saturns-revolution-in-bitcoin-defi",
+      "source": "4PTO Labs Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/686bb39e901e21f669950a94/68ee0244671572975a7e725f_blog-saturn-header.png"
+    }
+  ]
 }

@@ -36,5 +36,23 @@
       "hash0x",
       "hashport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A History of Intents: The Past",
+      "tldr": "Hashed timelock contracts and atomic swaps were the first attempt at expressing what a user wants rather than how to do it.",
+      "url": "https://medium.com/connext/history-of-intents-the-past-d935e3a8ff13",
+      "source": "Connext Blog",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*ECv2RLR9HLuMk24-kHC-oA.png"
+    },
+    {
+      "title": "A History of Intents: The Present",
+      "tldr": "How today's protocols advanced past atomic swaps, and what solvers now do on a user's behalf between chains.",
+      "url": "https://medium.com/connext/history-of-intents-the-present-94bc657f9db4",
+      "source": "Connext Blog",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*M2lotra9JjPkKv2qp1uHrA.png"
+    }
+  ]
 }

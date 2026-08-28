@@ -37,5 +37,34 @@
       "sepior",
       "gnosis-safe"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is a Seedless Smart Wallet?",
+      "tldr": "Passkeys, biometrics and account abstraction in place of a seed phrase, and what self-custody still means once the phrase is gone.",
+      "url": "https://walllet.com/articles/what-is-walllet-com-the-future-of-crypto-wallets-without-seed-phrases",
+      "source": "walllet.com",
+      "publishedAt": "2025-10-06",
+      "tag": "Explainer",
+      "image": "https://framerusercontent.com/images/gJF4NQUdegf7xd5cGsvIwl0TOkA.jpg?width=1536&height=1024"
+    },
+    {
+      "title": "How Wallets Connect to Lending, Swaps and Liquidity Pools",
+      "tldr": "A plain account of what DeFi actually is and the specific role the wallet plays in reaching it: holding assets, connecting to apps, approving transactions.",
+      "url": "https://walllet.com/articles/deep-into-defi-walllet-keeps-up",
+      "source": "walllet.com",
+      "publishedAt": "2025-10-07",
+      "tag": "DeFi",
+      "image": "https://framerusercontent.com/images/OA42TP6nZqrW8Zjxb3JWNwiyM.jpg"
+    },
+    {
+      "title": "What a Blockchain Records, and What Your Wallet Controls",
+      "tldr": "The beginner's split that actually matters: what the chain stores versus what the wallet holds, and the mistakes that follow from confusing the two.",
+      "url": "https://walllet.com/articles/what-is-blockchain",
+      "source": "walllet.com",
+      "publishedAt": "2025-10-05",
+      "tag": "Explainer",
+      "image": "https://framerusercontent.com/images/OA42TP6nZqrW8Zjxb3JWNwiyM.jpg"
+    }
+  ]
 }

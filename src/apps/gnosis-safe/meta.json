@@ -34,5 +34,34 @@
       "wigwam",
       "degen-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing Workspace for Treasury Teams",
+      "tldr": "One dashboard across every Safe, plus a security hub, shared address book and email login for people who need visibility without holding a key.",
+      "url": "https://safe.global/blog/introducing-workspace-the-onchain-operating-environment-for-treasury-teams",
+      "source": "Safe Blog",
+      "publishedAt": "2026-06-16",
+      "tag": "Governance",
+      "image": "https://a.storyblok.com/f/287344004594556/3604x2026/6203176dda/workspace.png/m/1200x630/filters:format(jpg)"
+    },
+    {
+      "title": "How Email Login Works Without Breaking Self-Custody",
+      "tldr": "A plain account of what is stored and what is not: assets stay controlled by signer keys and the Safe contract, never by an email address.",
+      "url": "https://safe.global/blog/workspace-email-log-in",
+      "source": "Safe Blog",
+      "publishedAt": "2026-06-16",
+      "tag": "Security",
+      "image": "https://a.storyblok.com/f/287344004594556/3600x2026/1f246f2a03/email-log-in.png/m/1200x630/filters:format(jpg)"
+    },
+    {
+      "title": "Security Hub: Catching Misconfiguration Early",
+      "tldr": "Most teams learn about a stale signer or a wrong threshold only after it costs them. Read-only checks that surface it beforehand.",
+      "url": "https://safe.global/blog/security-hub-overview",
+      "source": "Safe Blog",
+      "publishedAt": "2026-07-15",
+      "tag": "Security",
+      "image": "https://a.storyblok.com/f/287344004594556/3600x2026/466242d924/security-hub-2.png/m/1200x630/filters:format(jpg)"
+    }
+  ]
 }

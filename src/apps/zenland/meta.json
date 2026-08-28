@@ -36,5 +36,34 @@
       "quay",
       "webstudio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Crypto Escrow?",
+      "tldr": "You have agreed a $10,000 deal with someone you met online. The question that kills the trade is simply: who sends first?",
+      "url": "https://zen.land/blog/what-is-crypto-escrow/",
+      "source": "Zenland Blog",
+      "publishedAt": "2026-02-17",
+      "tag": "Explainer",
+      "image": "https://zen.land/blog/wp-content/uploads/2026/02/what-is-crypto-escrow.webp"
+    },
+    {
+      "title": "How Smart Contract Escrow Protects Funds",
+      "tldr": "Losses in 2025 reached $18B, and the recurring pattern was misplaced trust in a middleman. Contract-held funds take that party out of the deal.",
+      "url": "https://zen.land/blog/smart-contract-escrow-security/",
+      "source": "Zenland Blog",
+      "publishedAt": "2026-03-04",
+      "tag": "Infrastructure",
+      "image": "https://zen.land/blog/wp-content/uploads/2026/03/smart-contract-escrow-security.webp"
+    },
+    {
+      "title": "Why Stablecoins Suit Escrow",
+      "tldr": "Locking funds until both sides deliver is hard when the locked asset can halve in the meantime. Where a stable unit changes the calculation.",
+      "url": "https://zen.land/blog/ethereum-escrow-services/",
+      "source": "Zenland Blog",
+      "publishedAt": "2026-04-07",
+      "tag": "Payments",
+      "image": "https://zen.land/blog/wp-content/uploads/2026/04/ethereum-escrow-services.webp"
+    }
+  ]
 }

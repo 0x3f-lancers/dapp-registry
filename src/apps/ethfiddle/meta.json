@@ -30,5 +30,22 @@
       "particle-network",
       "apeworx-ape"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Solidity Playground in the Browser",
+      "tldr": "Paste, pick a compiler version, share a permalink. Built for showing someone code rather than building a project.",
+      "url": "https://medium.com/loom-network/ethfiddle-com-share-your-solidity-code-snippets-in-seconds-1a006e09eaad",
+      "source": "Loom Network",
+      "image": "https://miro.medium.com/v2/resize:fit:1023/1*xW7zDFaU8uzsfYJpZ0LDAA.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Embedding Contract Code in a Page",
+      "tldr": "Putting a runnable snippet into a post or docs site, which is the use case the tool was really built for.",
+      "url": "https://medium.com/loom-network/how-to-embed-solidity-code-snippets-in-your-website-blog-using-ethfiddle-980f79649c15",
+      "source": "Loom Network",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*om19kt4KU7PgEJs0hkGk5A.png"
+    }
+  ]
 }

@@ -36,5 +36,34 @@
     "related": [
       "perpetual-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Announcing Blade, a No-Impermanent-Loss AMM",
+      "tldr": "Built on Formula Market Maker technology to harvest volatility rather than lose to it, aimed squarely at the oldest complaint in liquidity provision.",
+      "url": "https://www.sushi.com/blog/announcing-blade",
+      "source": "Sushi Blog",
+      "publishedAt": "2025-10-15",
+      "tag": "DeFi",
+      "image": "https://res.cloudinary.com/sushi-cdn/image/upload/f_webp/if_h_gt_1280/c_fill,h_1280/if_end/q_auto/BLADE_VISUAL_ac32ca719d?_a=BATFJtcg0"
+    },
+    {
+      "title": "How to Swap and Provide Liquidity on Kadena",
+      "tldr": "A step-by-step walkthrough from selecting the network to confirming an LP position, including the wallet quirks specific to Kadena.",
+      "url": "https://www.sushi.com/blog/how-to-swap-and-lp-on-kadena-using-sushi",
+      "source": "Sushi Blog",
+      "publishedAt": "2025-10-07",
+      "tag": "Tutorial",
+      "image": "https://res.cloudinary.com/sushi-cdn/image/upload/f_webp/if_h_gt_1280/c_fill,h_1280/if_end/q_auto/KADENA_SWAP_and_LP_VISUAL_f526f5f903?_a=BATFJtcg0"
+    },
+    {
+      "title": "Sushi V3 Goes Live on Stellar",
+      "tldr": "Bringing a concentrated-liquidity AMM to a chain built for borderless payments, and what that combination opens up for trading there.",
+      "url": "https://www.sushi.com/blog/sushi-is-live-on-the-stellar-network",
+      "source": "Sushi Blog",
+      "publishedAt": "2026-02-10",
+      "tag": "DeFi",
+      "image": "https://res.cloudinary.com/sushi-cdn/image/upload/f_webp/if_h_gt_1280/c_fill,h_1280/if_end/q_auto/SUSHI_V3_LIVE_ON_STELLAR_3842f2335c?_a=BATFJtcg0"
+    }
+  ]
 }

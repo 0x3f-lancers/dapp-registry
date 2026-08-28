@@ -44,5 +44,25 @@
     "related": [
       "op-mainnet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where Solana Trades Are Actually Won",
+      "tldr": "At high frequency the strategy rarely decides the outcome. Node placement, latency and MEV exposure make up the execution stack that does.",
+      "url": "https://medium.com/chainstack/solana-trading-infrastructure-2026-c46c40d1441a",
+      "source": "Chainstack Blog",
+      "publishedAt": "2026-04-23",
+      "tag": "Trading",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*HM-T85oabTMnza-IYIN4nA.png"
+    },
+    {
+      "title": "Running Your Own Node, Honestly Costed",
+      "tldr": "Getting a node running is the easy part. Keeping it synced, patched and available is the part that decides whether to self-host.",
+      "url": "https://medium.com/chainstack/self-hosted-blockchain-node-diy-vs-managed-2d7af20df6e7",
+      "source": "Chainstack Blog",
+      "publishedAt": "2026-04-29",
+      "tag": "Infrastructure",
+      "image": "https://miro.medium.com/v2/resize:fit:800/0*zzEaKNbXKo7UC-aR.png"
+    }
+  ]
 }

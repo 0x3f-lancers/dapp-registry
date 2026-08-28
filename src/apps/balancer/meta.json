@@ -34,5 +34,28 @@
       "hashflow",
       "interport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Concentrating Liquidity in a Range",
+      "tldr": "Classic AMMs spread deposits across every possible price, most of which never trade. What narrowing that range buys and costs.",
+      "url": "https://docs.balancer.fi/concepts/core-concepts/concentrated-liquidity.html",
+      "source": "Balancer Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "What a Pool Token Represents",
+      "tldr": "Proportional ownership of a pool, which means its value moves with both the assets inside and the trading around them.",
+      "url": "https://docs.balancer.fi/concepts/core-concepts/balancer-pool-tokens.html",
+      "source": "Balancer Docs",
+      "tag": "Trading"
+    },
+    {
+      "title": "Rate Providers and Where Prices Come From",
+      "tldr": "Contracts supplying an exchange rate between two assets. The choice of source is a security decision, not a detail.",
+      "url": "https://docs.balancer.fi/concepts/core-concepts/rate-providers.html",
+      "source": "Balancer Docs",
+      "tag": "Security"
+    }
+  ]
 }

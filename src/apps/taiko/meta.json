@@ -32,5 +32,34 @@
       "sei-network",
       "eigenda"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Taiko?",
+      "tldr": "Based sequencing explained at length: what it means to hand block ordering back to Ethereum's own proposers, and what that buys you.",
+      "url": "https://taiko.xyz/guides/what-is-taiko-blockchain",
+      "source": "Taiko Guides",
+      "tag": "Explainer",
+      "publishedAt": "2026-07-03",
+      "image": "https://taiko.xyz/img/og-image.png"
+    },
+    {
+      "title": "ERC-8004: The Trustless Agent Standard",
+      "tldr": "How an autonomous agent registers an onchain identity others can verify. An emerging standard worth understanding before it becomes assumed knowledge.",
+      "url": "https://taiko.xyz/guides/erc-8004-trustless-agent-standard",
+      "source": "Taiko Guides",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-07-03",
+      "image": "https://taiko.xyz/img/og-image.png"
+    },
+    {
+      "title": "Deploying AI Agents On-Chain",
+      "tldr": "The practical side: fees low enough that an agent can transact freely, and sequencing that cannot quietly exclude it. Both matter more than they sound.",
+      "url": "https://taiko.xyz/guides/deploy-ai-agent-on-taiko-network",
+      "source": "Taiko Guides",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-07-03",
+      "image": "https://taiko.xyz/img/og-image.png"
+    }
+  ]
 }

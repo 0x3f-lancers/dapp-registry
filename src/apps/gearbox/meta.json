@@ -31,5 +31,34 @@
       "quickswap",
       "aark"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Happens When Oracles Think Twice: Permissionless Oracle Design",
+      "tldr": "Lending protocols live or die on what they believe assets are worth. Designing that layer so anyone can add a feed without endangering everyone.",
+      "url": "https://blog.gearbox.finance/what-happens-when-oracles-think-twice-permissionless-oracle-design/",
+      "source": "Gearbox Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2025-11-14",
+      "image": "https://storage.ghost.io/c/8c/31/8c31ffa7-b52a-4f6a-8e71-27536c01015f/content/images/size/w1200/2025/11/oraclecover-1.jpg"
+    },
+    {
+      "title": "The End of Looping",
+      "tldr": "A protocol admitting the strategy it became famous for was never the right way to take leverage. Rare candour, and the reasoning is the interesting part.",
+      "url": "https://blog.gearbox.finance/the-end-of-looping-on-gearbox/",
+      "source": "Gearbox Blog",
+      "tag": "DeFi",
+      "publishedAt": "2026-01-07",
+      "image": "https://storage.ghost.io/c/8c/31/8c31ffa7-b52a-4f6a-8e71-27536c01015f/content/images/size/w1200/2026/01/stuckinloopsarticle-1.png"
+    },
+    {
+      "title": "Reclaiming Composability: DeFi's Most Underused Advantage",
+      "tldr": "Composability gets cited constantly and exercised rarely. Argues what would have to change for protocols to genuinely build on each other.",
+      "url": "https://blog.gearbox.finance/reclaiming-composability-why-defis-most-important-advantage-remains-underused/",
+      "source": "Gearbox Blog",
+      "tag": "DeFi",
+      "publishedAt": "2025-12-05",
+      "image": "https://storage.ghost.io/c/8c/31/8c31ffa7-b52a-4f6a-8e71-27536c01015f/content/images/size/w1200/2025/12/composability.jpg"
+    }
+  ]
 }

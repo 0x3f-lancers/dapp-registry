@@ -36,5 +36,30 @@
       "nillaconnect",
       "pike-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a cToken Is",
+      "tldr": "Supplying an asset returns a token whose exchange rate climbs with accrued interest, so the balance never changes but its value does.",
+      "url": "https://docs.compound.finance/v2/ctokens/",
+      "source": "Compound Docs",
+      "image": "https://docs.compound.finance/public/img/meta-tag.png"
+    },
+    {
+      "title": "Lending and Borrowing, End to End",
+      "tldr": "A long walkthrough of supplying, borrowing against collateral and watching the health factor, with the liquidation maths shown.",
+      "url": "https://theledgermind.com/compound-finance-tutorial/",
+      "source": "LedgerMind",
+      "tag": "DeFi",
+      "image": "https://theledgermind.com/wp-content/uploads/2026/05/featured_738_compound_finance_tutorial_complete_guide_to_defi_l.webp"
+    },
+    {
+      "title": "The Questions the Protocol Gets Asked",
+      "tldr": "Interest compounding every block, what happens at liquidation, and where the rates actually come from. Answered by the team.",
+      "url": "https://medium.com/compound-finance/faq-1a2636713b69",
+      "source": "Compound Labs",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+    }
+  ]
 }

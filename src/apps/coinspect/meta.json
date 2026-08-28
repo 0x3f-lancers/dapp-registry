@@ -31,5 +31,34 @@
       "almanax",
       "solve3"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Weak Seed Generation Puts Wallets at Risk for Years",
+      "tldr": "A wallet generated with poor entropy stays vulnerable long after the bug is fixed, because the keys themselves were never really random.",
+      "url": "https://www.coinspect.com/blog/weak-wallet-seed-generation/",
+      "source": "Coinspect Blog",
+      "publishedAt": "2026-06-24",
+      "tag": "Security",
+      "image": "https://www.coinspect.com/og/social-image-weak-wallet-seed-generation.png"
+    },
+    {
+      "title": "The Balancer V2 Stable Pool Rate Manipulation",
+      "tldr": "A technical write-up of how an attacker manipulated the rate used by stable pools, and what the pool assumed that it should not have.",
+      "url": "https://www.coinspect.com/blog/balancer-rate-manipulation-exploit/",
+      "source": "Coinspect Blog",
+      "publishedAt": "2025-11-04",
+      "tag": "Security",
+      "image": "https://www.coinspect.com/og/social-image-balancer-stable-rate-manipulation.png"
+    },
+    {
+      "title": "Securing Babylon's 1000 BTC Cap",
+      "tldr": "An audit report from a Bitcoin staking launch where the cap itself was the security-critical mechanism under scrutiny.",
+      "url": "https://www.coinspect.com/blog/babylon-phase-1/",
+      "source": "Coinspect Blog",
+      "publishedAt": "2024-08-23",
+      "tag": "Security",
+      "image": "https://www.coinspect.com/og/social-image-bitcoin_square.png"
+    }
+  ]
 }

@@ -29,5 +29,28 @@
       "capstone-disassembler",
       "pyevmasm"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Contracts, Constructors and Storage Init",
+      "tldr": "What happens at deployment: storage set to initialiser values, then the constructor runs.",
+      "url": "https://solang.readthedocs.io/en/latest/language/contracts.html",
+      "source": "Solang Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Emitting Events From a Contract",
+      "tldr": "Signalling that state changed, and how the same Solidity concept maps onto a non-EVM target.",
+      "url": "https://solang.readthedocs.io/en/latest/language/events.html",
+      "source": "Solang Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Two Contracts, Worked Through",
+      "tldr": "General Solidity examples compiled with Solang, which is the fastest way to see what it supports.",
+      "url": "https://solang.readthedocs.io/en/latest/examples.html",
+      "source": "Solang Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

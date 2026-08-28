@@ -35,5 +35,34 @@
       "rarible-multichain-sdk",
       "manifold"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Minting Actually Does",
+      "tldr": "Creating a record on a chain, explained separately for the person making the work and the person buying it — the two mean different things by it.",
+      "url": "https://blog.autominter.com/what-is-nft-minting",
+      "source": "AutoMinter Blog",
+      "publishedAt": "2023-03-03",
+      "tag": "Explainer",
+      "image": "https://blog.autominter.com/wp-content/uploads/2023/03/image-7.png"
+    },
+    {
+      "title": "Seven Ways to Protect a Project From Impersonation",
+      "tldr": "Fake versions of a legitimate collection are the common scam. Concrete steps a creator can take before the copies appear.",
+      "url": "https://blog.autominter.com/how-to-protect-your-nft-project-from-scammers-7-essential-steps",
+      "source": "AutoMinter Blog",
+      "publishedAt": "2023-03-17",
+      "tag": "Security",
+      "image": "https://blog.autominter.com/wp-content/uploads/2023/03/image-25.png"
+    },
+    {
+      "title": "What Are Dynamic NFTs?",
+      "tldr": "Tokens whose metadata changes on a condition rather than staying fixed, and where that behaviour is genuinely useful.",
+      "url": "https://blog.autominter.com/what-are-dynamic-nfts-exploring-web3s-interactive-and-transformative-assets",
+      "source": "AutoMinter Blog",
+      "publishedAt": "2023-03-24",
+      "tag": "Explainer",
+      "image": "https://blog.autominter.com/wp-content/uploads/2023/03/image-30.png"
+    }
+  ]
 }

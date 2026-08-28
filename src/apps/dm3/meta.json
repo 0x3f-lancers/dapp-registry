@@ -31,5 +31,34 @@
       "herodotus-dev",
       "gateway-fm"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Code Was Fine. That's the Problem.",
+      "tldr": "A post-mortem on the KelpDAO exploit arguing the failure was in the trust layer, not the contracts. Bridges need cryptographic verification, not multisig.",
+      "url": "https://www.corpuscore.tech/blog/the-code-was-fine-thats-the-problem",
+      "source": "Corpus Core Blog",
+      "publishedAt": "2026-06-04",
+      "tag": "Security",
+      "image": "https://www.corpuscore.tech/images/blog/the-code-was-fine-thats-the-problem.png"
+    },
+    {
+      "title": "Pragmatic Adaptive Privacy",
+      "tldr": "Opens by admitting privacy was never a design goal of Bitcoin or Ethereum, which is why retrofitting it is so awkward.",
+      "url": "https://www.corpuscore.tech/blog/pragmatic-adaptive-privacy-pap",
+      "source": "Corpus Core Blog",
+      "publishedAt": "2026-02-06",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*-yi-KJOulScHzI4oW20Utg.png",
+      "tag": "Security"
+    },
+    {
+      "title": "Multi-Chain Apps and the Importance of Stateless Clients",
+      "tldr": "Every extra chain an app touches adds another RPC endpoint you must trust. How stateless clients verify data locally with proofs instead.",
+      "url": "https://www.corpuscore.tech/blog/multi-chain-stateless-clients",
+      "source": "Corpus Core Blog",
+      "publishedAt": "2026-05-13",
+      "tag": "Infrastructure",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*HNK8KuV4jkvU0GoPqMpajw.jpeg"
+    }
+  ]
 }
