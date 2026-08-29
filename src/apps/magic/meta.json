@@ -35,5 +35,19 @@
       "sender",
       "kuma-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wallets Without Seed Phrases",
+      "tldr": "The developer entry point: how a wallet is created from an email login, and where the key material actually lives.",
+      "url": "https://docs.magic.link/home/welcome",
+      "source": "Magic"
+    },
+    {
+      "title": "Server Wallets With Smart Accounts",
+      "tldr": "A recipe for backend-controlled wallets, covering what the server may sign for and how limits are enforced.",
+      "url": "https://docs.magic.link/recipes/server-wallets/alchemy-smart-wallets",
+      "source": "Magic"
+    }
+  ]
 }

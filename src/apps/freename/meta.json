@@ -33,5 +33,25 @@
       "zora",
       "bitget-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Web3 Domains Are Not Dead",
+      "tldr": "A direct answer to the criticism, with the usage numbers behind naming and what people actually do with a domain.",
+      "url": "https://freename.com/blog/web3-domains-arent-dead.-theyre-growing",
+      "source": "Freename"
+    },
+    {
+      "title": "Owning A Top-Level Domain",
+      "tldr": "What it means to hold a whole TLD rather than a name under one, and what you can issue underneath it.",
+      "url": "https://freename.com/domains/top-level-domains",
+      "source": "Freename"
+    },
+    {
+      "title": "Resolving Names To Payments",
+      "tldr": "How a resolution API turns a readable name into an address across chains, and where that breaks down.",
+      "url": "https://freename.com/apis/global-resolution-api",
+      "source": "Freename"
+    }
+  ]
 }

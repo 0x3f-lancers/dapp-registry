@@ -33,5 +33,19 @@
       "omnia-protocol",
       "range-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blocking An Attack Mid-Flight",
+      "tldr": "The Paraspace case: how monitoring caught a hostile transaction and stopped it before settlement, and what made that possible.",
+      "url": "https://blocksec.com/blog/blocked-paraspace-attack-industry-s-most-important-block-that-rescued-5-000-000",
+      "source": "BlockSec"
+    },
+    {
+      "title": "A Malicious Proposal, Caught",
+      "tldr": "How a governance proposal designed to drain a treasury was spotted, and why proposals are a weak point worth watching.",
+      "url": "https://blocksec.com/blog/how-phlacon-block-helped-loot-block-1-m-usd-hack",
+      "source": "BlockSec"
+    }
+  ]
 }

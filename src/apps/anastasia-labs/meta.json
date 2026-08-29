@@ -33,5 +33,25 @@
       "opshin",
       "bloxbean"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Smart Contract Design Patterns",
+      "tldr": "A reference set of Plutus patterns for writing contracts that stay auditable, maintained as open source.",
+      "url": "https://github.com/Anastasia-Labs/design-patterns",
+      "source": "Anastasia Labs"
+    },
+    {
+      "title": "The Cardano Developer Toolbox",
+      "tldr": "A survey of community-built tooling, including the libraries this team maintains and what each one is for.",
+      "url": "https://www.essentialcardano.io/article/a-list-of-community-built-developer-tools-on-cardano",
+      "source": "Essential Cardano"
+    },
+    {
+      "title": "Formally Verifying A Contract",
+      "tldr": "The proposal behind a verification framework, which doubles as an explanation of what formal methods buy you.",
+      "url": "https://projectcatalyst.io/funds/12/cardano-open-developers/anastasia-labs-smart-contract-formal-verification-framework",
+      "source": "Project Catalyst"
+    }
+  ]
 }

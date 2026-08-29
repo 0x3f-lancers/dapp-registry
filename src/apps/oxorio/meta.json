@@ -35,5 +35,21 @@
       "almanax",
       "solsniffer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Unchecked Return Values",
+      "tldr": "One of the quietest bug classes in Solidity: a call that fails without reverting, and the contract carrying on as though it worked.",
+      "url": "https://oxor.io/blog/2025-01-23-unchecked-return-values/",
+      "source": "OXORIO",
+      "publishedAt": "2025-01-23"
+    },
+    {
+      "title": "How Solana Stores State",
+      "tldr": "Accounts, rent and the data model behind them, written for developers arriving from an EVM background.",
+      "url": "https://oxor.io/blog/2024-11-13-what-is-solana-storage/",
+      "source": "OXORIO",
+      "publishedAt": "2024-11-18"
+    }
+  ]
 }

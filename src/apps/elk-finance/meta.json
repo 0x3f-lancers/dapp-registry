@@ -33,5 +33,28 @@
       "electron-zkbridge",
       "wallet-chat"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What A Bridge Is Really For",
+      "tldr": "Use cases past moving a token: what becomes possible once value can be routed between chains without a wrapper.",
+      "url": "https://elk.finance/resources/beyond-the-bridge",
+      "source": "Elk Finance",
+      "publishedAt": "2023-01-12"
+    },
+    {
+      "title": "How The Cross-Chain Layer Works",
+      "tldr": "The bridging design explained: what is locked, what is minted, and where the network takes on risk in between.",
+      "url": "https://elk.finance/resources/elknet-unleashing-the-power-of-cross-chain-bridging",
+      "source": "Elk Finance",
+      "publishedAt": "2023-06-07"
+    },
+    {
+      "title": "Adding A Chain To A Bridge",
+      "tldr": "What integrating a new network involves and why some chains are far more work to support than others.",
+      "url": "https://elk.finance/resources/blockchain-expansion-new-chains-ready-to-explode-onto-elknet-soon",
+      "source": "Elk Finance",
+      "publishedAt": "2023-06-27"
+    }
+  ]
 }

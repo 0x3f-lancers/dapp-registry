@@ -33,5 +33,28 @@
       "hive-intelligence",
       "idriss"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Revoking Token Approvals",
+      "tldr": "Why old approvals are a standing risk, how an automatic revoker works, and what it never gets access to.",
+      "url": "https://metamask.io/en-GB/news/revoke-cash-auto-revoking-token-approvals",
+      "source": "MetaMask",
+      "publishedAt": "2026-08-27"
+    },
+    {
+      "title": "Agents Spending Under Limits",
+      "tldr": "How delegation lets software earn and spend within onchain rules, and where the boundary of that permission sits.",
+      "url": "https://metamask.io/en-GB/news/clawnch-ai-agent-launchpad-delegation",
+      "source": "MetaMask",
+      "publishedAt": "2026-08-27"
+    },
+    {
+      "title": "A Self-Custodial Agent Wallet",
+      "tldr": "What it takes for an AI to trade without holding your keys, described from the smart account side.",
+      "url": "https://metamask.io/en-GB/news/introducing-metamask-agent-wallet",
+      "source": "MetaMask",
+      "publishedAt": "2026-08-06"
+    }
+  ]
 }

@@ -31,5 +31,25 @@
     "related": [
       "wallet3"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Creating An ERC-20 Through An API",
+      "tldr": "A walkthrough of deploying a token without writing Solidity, covering supply, mint rights and what the API abstracts away.",
+      "url": "https://www.venly.io/blog/how-to-create-erc20-tokens-with-venlys-token-api",
+      "source": "Venly"
+    },
+    {
+      "title": "What Big Brands Actually Shipped",
+      "tldr": "Adidas, Prada and others past the press release: what each one built, what it was for, and which parts users noticed.",
+      "url": "https://www.venly.io/blog/how-adidas-prada-other-top-brands-are-making-blockchain-work",
+      "source": "Venly"
+    },
+    {
+      "title": "When Your Stablecoin Issuer Changes",
+      "tldr": "The operational fallout when the coin behind your balances swaps issuer, and what a business should have in place first.",
+      "url": "https://www.venly.io/blog/what-happens-when-stablecoin-provider-changes",
+      "source": "Venly"
+    }
+  ]
 }

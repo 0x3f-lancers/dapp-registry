@@ -45,5 +45,25 @@
       "bitget-wallet",
       "linen"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Limits Of Self-Custody",
+      "tldr": "An unusually honest piece on what holding your own keys does not protect you from, and where people actually lose funds.",
+      "url": "https://web3.okx.com/learn/the-limits-of-self-custody",
+      "source": "OKX"
+    },
+    {
+      "title": "Storing Assets Yourself",
+      "tldr": "A full guide to self-custody: backup strategies, testing recovery, and choosing between hot and cold for each balance.",
+      "url": "https://www.okx.com/learn/self-custody",
+      "source": "OKX"
+    },
+    {
+      "title": "Setting Up And Managing A Wallet",
+      "tldr": "Creating the wallet, backing up the phrase properly, and the settings worth changing before you fund it.",
+      "url": "https://web3.okx.com/learn/how-to-create-an-okx-wallet",
+      "source": "OKX"
+    }
+  ]
 }

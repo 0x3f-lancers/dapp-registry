@@ -1,39 +1,59 @@
 {
-    "slug":  "galxe",
-    "name":  "Galxe",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747142/web3-explorer/dapp-logos/galxe.jpg",
-    "category":  "Identity Tools",
-    "subcategory":  [
-                        "Decentralized Identity Tools"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Solana",
-                   "BNB Chain",
-                   "Polygon",
-                   "OP Mainnet",
-                   "Arbitrum",
-                   "Mantle"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "Galxe provides credential and identity infrastructure for verifying users, building campaigns, and managing Web3 reputation.",
-                    "description":  "Galxe builds credential and identity infrastructure for Web3 communities, applications, and growth programs. Its current docs emphasize self-sovereign identity, zero-knowledge proof based credential verification, and APIs that let builders check eligibility, reputation, or user achievements without exposing unnecessary data. Beyond identity rails, Galxe is widely used for quests, community campaigns, and access control tied to onchain or offchain behavior. On Mantle, it fits as a credential and engagement layer for teams that want to verify users, run campaigns, and build reputation-aware product flows.",
-                    "meta":  "Galxe provides credential and identity infrastructure for verifying users, running campaigns, and managing reputation on Mantle.",
-                    "pageTitle":  "Galxe - Identity Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://galxe.com/",
-                  "twitter":  "https://x.com/Galxe"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "dauth-network",
-                                           "nextme"
-                                       ],
-                      "related":  [
-                                      "tide-protocol",
-                                      "meeds"
-                                  ]
-                  }
+  "slug": "galxe",
+  "name": "Galxe",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747142/web3-explorer/dapp-logos/galxe.jpg",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Decentralized Identity Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "BNB Chain",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Mantle"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "Galxe provides credential and identity infrastructure for verifying users, building campaigns, and managing Web3 reputation.",
+    "description": "Galxe builds credential and identity infrastructure for Web3 communities, applications, and growth programs. Its current docs emphasize self-sovereign identity, zero-knowledge proof based credential verification, and APIs that let builders check eligibility, reputation, or user achievements without exposing unnecessary data. Beyond identity rails, Galxe is widely used for quests, community campaigns, and access control tied to onchain or offchain behavior. On Mantle, it fits as a credential and engagement layer for teams that want to verify users, run campaigns, and build reputation-aware product flows.",
+    "meta": "Galxe provides credential and identity infrastructure for verifying users, running campaigns, and managing reputation on Mantle.",
+    "pageTitle": "Galxe - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://galxe.com/",
+    "twitter": "https://x.com/Galxe"
+  },
+  "relations": {
+    "alternatives": [
+      "dauth-network",
+      "nextme"
+    ],
+    "related": [
+      "tide-protocol",
+      "meeds"
+    ]
+  },
+  "resources": [
+    {
+      "title": "A Growth Playbook, In Public",
+      "tldr": "How one project used quests to acquire and keep users, including what they measured and what they dropped.",
+      "url": "https://www.galxe.com/blog/dango-s-growth-playbook-using-quests-and-starboard-to-deliver-sustainable-scalable-growth",
+      "source": "Galxe"
+    },
+    {
+      "title": "Running Seasonal Campaigns",
+      "tldr": "A case study on structuring growth in seasons rather than one launch, and what that does to retention.",
+      "url": "https://www.galxe.com/blog/how-dagama-built-seasonal-growth-on-galxe",
+      "source": "Galxe"
+    },
+    {
+      "title": "A Year Of Onchain Campaigns",
+      "tldr": "The platform's own review of what worked across thousands of campaigns, which is a rare aggregate view.",
+      "url": "https://www.galxe.com/blog/galxe-2025-year-in-review",
+      "source": "Galxe"
+    }
+  ]
 }

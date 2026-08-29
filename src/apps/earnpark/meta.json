@@ -9,7 +9,12 @@
     "Liquid Staking Platforms",
     "Decentralized Exchanges"
   ],
-  "chains": ["Tron", "Ethereum", "BNB Chain", "Solana"],
+  "chains": [
+    "Tron",
+    "Ethereum",
+    "BNB Chain",
+    "Solana"
+  ],
   "pricing": "Free",
   "content": {
     "short": "EarnPark provides maximum returns with automated CeFi/DeFi strategies and up to 30% APY with bank-level security.",
@@ -22,7 +27,37 @@
     "twitter": "https://x.com/_earnpark"
   },
   "relations": {
-    "alternatives": ["laraprotocol", "goat-protocol", "stakewise"],
-    "related": ["alpha-homora", "truefi"]
-  }
+    "alternatives": [
+      "laraprotocol",
+      "goat-protocol",
+      "stakewise"
+    ],
+    "related": [
+      "alpha-homora",
+      "truefi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Three CeFi Yields Compared",
+      "tldr": "Nexo, YouHodler and EarnPark set side by side: where each rate comes from and what the depositor is exposed to.",
+      "url": "https://earnpark.com/en/posts/nexo-vs-youhodler-vs-earnpark-2026-cefi-yield-compared",
+      "source": "EarnPark",
+      "publishedAt": "2026-06-23"
+    },
+    {
+      "title": "What The Strategies Returned",
+      "tldr": "A month of product changes and actual strategy performance, which is the honest way to read a yield platform.",
+      "url": "https://earnpark.com/en/posts/earnpark-in-july-2026-product-updates-strategy-performance",
+      "source": "EarnPark",
+      "publishedAt": "2026-08-06"
+    },
+    {
+      "title": "Yield Versus A Crypto Card",
+      "tldr": "Coinbase, Wirex and EarnPark compared on the two things people actually use them for: earning and spending.",
+      "url": "https://earnpark.com/en/posts/coinbase-vs-wirex-vs-earnpark-2026-crypto-yield-card-compared",
+      "source": "EarnPark",
+      "publishedAt": "2026-06-23"
+    }
+  ]
 }

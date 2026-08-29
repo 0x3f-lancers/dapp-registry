@@ -31,5 +31,25 @@
       "chainaware-ai",
       "kerberus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Developing Smart Contracts",
+      "tldr": "The canonical starting guide: project layout, compiling, and the conventions that later tooling assumes you followed.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/developing-smart-contracts",
+      "source": "OpenZeppelin"
+    },
+    {
+      "title": "Deploying And Interacting",
+      "tldr": "Getting a contract onto a network and calling it, including the parts that behave differently once it is not local.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/deploying-and-interacting",
+      "source": "OpenZeppelin"
+    },
+    {
+      "title": "Writing Automated Tests",
+      "tldr": "How to test contracts properly, what to assert about state and reverts, and where a passing suite still misses bugs.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/writing-automated-tests",
+      "source": "OpenZeppelin"
+    }
+  ]
 }

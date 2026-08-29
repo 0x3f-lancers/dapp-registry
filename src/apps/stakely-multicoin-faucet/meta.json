@@ -38,5 +38,21 @@
       "umbira-network",
       "optimism-block-explorer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Running Your Own RPC Node",
+      "tldr": "What a node-as-a-service setup gives you over a shared endpoint, and when the traffic justifies moving off the public one.",
+      "url": "https://stakely.io/blog/rpc-as-a-service-deploy-your-rpc-node-and-scale-your-web3-infrastructure",
+      "source": "Stakely",
+      "publishedAt": "2025-09-11"
+    },
+    {
+      "title": "Staking In One Click",
+      "tldr": "How a staking app hides validator selection and delegation behind a single action, and what you still choose without seeing it.",
+      "url": "https://stakely.io/blog/1-click-staking-the-new-way-to-stake-with-stakely",
+      "source": "Stakely",
+      "publishedAt": "2026-01-19"
+    }
+  ]
 }

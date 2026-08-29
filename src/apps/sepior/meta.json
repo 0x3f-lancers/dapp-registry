@@ -30,5 +30,25 @@
       "unstoppable-wallet",
       "zypto-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Enterprise Key Management",
+      "tldr": "What an MPC vault does with a key that a hardware module cannot, and how signing authority is split across parties.",
+      "url": "https://www.blockdaemon.com/mpc-wallets-and-vaults/builder-vault-enterprise-key-management",
+      "source": "Blockdaemon"
+    },
+    {
+      "title": "Securing Access With MPC",
+      "tldr": "A customer case study on removing single points of failure from signing, and what it changed operationally.",
+      "url": "https://www.blockdaemon.com/resources/how-narval-improves-security-with-blockdaemon-builder-vault",
+      "source": "Blockdaemon"
+    },
+    {
+      "title": "Bootstrapping A New Network",
+      "tldr": "What launching a chain requires from validator infrastructure, told through one network getting off the ground.",
+      "url": "https://www.blockdaemon.com/resources/evmos-case-study",
+      "source": "Blockdaemon"
+    }
+  ]
 }

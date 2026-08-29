@@ -41,5 +41,25 @@
     "related": [
       "pulsar-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Multi-Sig Was Not Enough",
+      "tldr": "The Bybit breach read as a lesson in signing infrastructure, and what the surviving controls would have had to be.",
+      "url": "https://www.cobo.com/post/the-bybit-breach-why-multi-sig-alone-isn-t-enough",
+      "source": "Cobo"
+    },
+    {
+      "title": "Choosing A Custody Provider",
+      "tldr": "A direct comparison against a competitor on the axes that actually decide it: key handling, controls and recovery.",
+      "url": "https://www.cobo.com/post/cobo-vs-fireblocks-choosing-the-right-digital-asset-custody-provider-for-your-business",
+      "source": "Cobo"
+    },
+    {
+      "title": "Wallets For Autonomous Agents",
+      "tldr": "How MPC and policy limits are combined so software can transact without a human approving each step.",
+      "url": "https://www.cobo.com/post/cobo-launches-agentic-wallet-how-ai-agents-interact-on-chain",
+      "source": "Cobo"
+    }
+  ]
 }

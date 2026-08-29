@@ -30,5 +30,19 @@
       "axiom",
       "polyhedra-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing Plonky2",
+      "tldr": "The design note behind the proving system: why recursion matters, and how the proof size and verify cost were driven down.",
+      "url": "https://polygon.technology/blog/introducing-plonky2",
+      "source": "Polygon"
+    },
+    {
+      "title": "A Private Mempool, Use By Use",
+      "tldr": "What keeping a transaction out of the public pool actually protects, walked through case by case rather than in the abstract.",
+      "url": "https://polygon.technology/blog/moving-money-confidentially-with-private-mempool-on-polygon-what-that-means-for-every-use-case",
+      "source": "Polygon"
+    }
+  ]
 }

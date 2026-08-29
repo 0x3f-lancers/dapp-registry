@@ -30,5 +30,25 @@
       "copper",
       "insightx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Connecting To A Perp Venue",
+      "tldr": "What it takes to plug a decentralised exchange into institutional order flow, and what the bridge has to guarantee.",
+      "url": "https://www.gold-i.com/hyperliquid-node-connectivity-into-matrixnet",
+      "source": "Gold-i"
+    },
+    {
+      "title": "Risk Across Many Venues",
+      "tldr": "How value-at-risk and stress testing are run when liquidity sits on thirty venues at once, and what breaks first.",
+      "url": "https://www.gold-i.com/visual-edge-var-and-stress-testing",
+      "source": "Gold-i"
+    },
+    {
+      "title": "How Brokers Reach Crypto",
+      "tldr": "The plumbing between a traditional broker and crypto liquidity: aggregation, credit and where the settlement risk sits.",
+      "url": "https://www.gold-i.com/access-to-crypto",
+      "source": "Gold-i"
+    }
+  ]
 }

@@ -28,5 +28,25 @@
       "mixbytes",
       "founders-fund"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Keeping A Human In QA",
+      "tldr": "Where automated testing stops being trustworthy once models write the tests, and what a person still has to check.",
+      "url": "https://povio.com/blog/the-human-in-the-loop",
+      "source": "Povio"
+    },
+    {
+      "title": "Manual QA On Emulators",
+      "tldr": "A practical guide to testing mobile builds without a device lab, and the bugs an emulator will never show you.",
+      "url": "https://povio.com/blog/manual-qa-on-mobile-emulators-simple-guide",
+      "source": "Povio"
+    },
+    {
+      "title": "Two Kinds Of Webflow Developer",
+      "tldr": "What separates a practitioner from a visual developer in practice, and which one a given project actually needs.",
+      "url": "https://povio.com/blog/webflow-practitioner-vs-visual-developer-2026-senior-developer-and-clients",
+      "source": "Povio"
+    }
+  ]
 }

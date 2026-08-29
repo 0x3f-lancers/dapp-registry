@@ -3,8 +3,12 @@
   "name": "Carbon",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745560/web3-explorer/dapp-logos/carbon.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "Carbon provides an on-chain trading protocol for limit and range orders with auto-rotating, one-directional liquidity.",
@@ -17,7 +21,29 @@
     "twitter": "https://x.com/carbondefixyz"
   },
   "relations": {
-    "alternatives": ["bamboo-relay", "mangrovedao", "clipper-dex"],
-    "related": ["bithumb", "hakka-finance", "cope"]
-  }
+    "alternatives": [
+      "bamboo-relay",
+      "mangrovedao",
+      "clipper-dex"
+    ],
+    "related": [
+      "bithumb",
+      "hakka-finance",
+      "cope"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Maker Versus Taker, Explained",
+      "tldr": "What each side of a trade is actually doing, who pays which fee, and why the distinction decides how a venue is designed.",
+      "url": "https://carbondefi.xyz/blog/what-does-it-mean-to-trade-as-a-maker-vs-a-taker",
+      "source": "Carbon"
+    },
+    {
+      "title": "AMMs Versus Onchain Order Books",
+      "tldr": "What changes when makers set their own curve rather than accepting a pool's, and what each model costs the person trading.",
+      "url": "https://carbondefi.xyz/blog/amms-vs.-onchain-orderbooks-what-changes-when-makers-control-the-curve",
+      "source": "Carbon"
+    }
+  ]
 }
