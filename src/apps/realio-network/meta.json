@@ -32,5 +32,25 @@
       "polkadot",
       "abstract-chain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Staking Guide",
+      "tldr": "Delegating step by step, what the rewards depend on, and what unbonding actually costs you in time.",
+      "url": "https://realio.network/blogs/realio-network-staking-guide",
+      "source": "Realio Network"
+    },
+    {
+      "title": "Adding The Network To A Wallet",
+      "tldr": "Connecting through Keplr or MetaMask, with the RPC settings and the differences between the two paths.",
+      "url": "https://realio.network/blogs/how-to-add-realio-network-to-keplr-metamask",
+      "source": "Realio Network"
+    },
+    {
+      "title": "Validator Economics",
+      "tldr": "What makes running a validator profitable or not, and how network changes move that calculation.",
+      "url": "https://realio.network/blogs/Realio-network-expansion-strengthening-validator-profitability-with-multi-chain-support",
+      "source": "Realio Network"
+    }
+  ]
 }

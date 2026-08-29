@@ -1,43 +1,63 @@
 {
-    "slug":  "crosscurve",
-    "name":  "CrossCurve",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770746006/web3-explorer/dapp-logos/crosscurve.png",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Web3 Bridges"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Avalanche",
-                   "Base",
-                   "BNB Chain",
-                   "Ethereum",
-                   "Fantom",
-                   "Linea",
-                   "OP Mainnet",
-                   "Polygon",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "CrossCurve is a cross-chain liquidity protocol that routes swaps through Curve aligned pools with lower slippage.",
-                    "description":  "CrossCurve is designed to move liquidity across chains using a model connected to Curve style deep stable and blue chip liquidity. Its public positioning emphasizes lower slippage transfers, safer capital movement, and better efficiency for users or projects that need to move larger positions across supported networks. Rather than acting as a standalone wallet or exchange brand, CrossCurve fits as interoperability and liquidity routing infrastructure. On Mantle, it belongs in the bridge and swap tooling layer for teams seeking smoother cross-chain execution backed by concentrated liquidity design choices.",
-                    "meta":  "CrossCurve is a cross-chain liquidity protocol for lower-slippage swaps through Curve aligned pools for active traders on Mantle.",
-                    "pageTitle":  "CrossCurve - DeFi Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://crosscurve.fi/",
-                  "twitter":  "https://x.com/eywaprotocol"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "lifi",
-                                           "meson"
-                                       ],
-                      "related":  [
-                                      "cubanespace",
-                                      "starknet",
-                                      "areon-network"
-                                  ]
-                  }
+  "slug": "crosscurve",
+  "name": "CrossCurve",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746006/web3-explorer/dapp-logos/crosscurve.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Ethereum",
+    "Fantom",
+    "Linea",
+    "OP Mainnet",
+    "Polygon",
+    "Mantle"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "CrossCurve is a cross-chain liquidity protocol that routes swaps through Curve aligned pools with lower slippage.",
+    "description": "CrossCurve is designed to move liquidity across chains using a model connected to Curve style deep stable and blue chip liquidity. Its public positioning emphasizes lower slippage transfers, safer capital movement, and better efficiency for users or projects that need to move larger positions across supported networks. Rather than acting as a standalone wallet or exchange brand, CrossCurve fits as interoperability and liquidity routing infrastructure. On Mantle, it belongs in the bridge and swap tooling layer for teams seeking smoother cross-chain execution backed by concentrated liquidity design choices.",
+    "meta": "CrossCurve is a cross-chain liquidity protocol for lower-slippage swaps through Curve aligned pools for active traders on Mantle.",
+    "pageTitle": "CrossCurve - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://crosscurve.fi/",
+    "twitter": "https://x.com/eywaprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "lifi",
+      "meson"
+    ],
+    "related": [
+      "cubanespace",
+      "starknet",
+      "areon-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What The MetaLayer Is",
+      "tldr": "How cross-chain swaps are routed through a shared liquidity layer, and what that removes from each bridge hop.",
+      "url": "https://docs.crosscurve.fi/crosscurve-metalayer-1/what-is-crosscurve-metalayer",
+      "source": "CrossCurve"
+    },
+    {
+      "title": "The Token Economics",
+      "tldr": "Where supply goes, what the token controls, and how fees reach the people holding it.",
+      "url": "https://docs.crosscurve.fi/crosscurve-dao/crosscurve-tokenomics",
+      "source": "CrossCurve"
+    },
+    {
+      "title": "How Governance Works",
+      "tldr": "What the DAO actually decides, how proposals reach a vote, and which parameters are off limits.",
+      "url": "https://docs.crosscurve.fi/crosscurve-dao/overview-of-crosscurve-dao",
+      "source": "CrossCurve"
+    }
+  ]
 }

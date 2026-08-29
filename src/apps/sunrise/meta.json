@@ -35,5 +35,19 @@
       "starknet",
       "klever"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Data Availability, Explained",
+      "tldr": "What a DA layer guarantees, how sampling proves data was published, and why rollups depend on it.",
+      "url": "https://docs.sunriselayer.io/learn/sunrise/data-availability",
+      "source": "Sunrise"
+    },
+    {
+      "title": "Proof Of Liquidity",
+      "tldr": "A consensus design that rewards useful liquidity rather than idle stake, and what that changes.",
+      "url": "https://docs.sunriselayer.io/learn/sunrise/proof-of-liquidity",
+      "source": "Sunrise"
+    }
+  ]
 }

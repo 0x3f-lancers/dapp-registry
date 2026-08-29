@@ -34,5 +34,19 @@
       "bubblemaps",
       "binance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Earning And Borrowing",
+      "tldr": "Supplying assets and borrowing against them, with the rates and the liquidation threshold explained.",
+      "url": "https://docs.oku.trade/home/earn-and-borrow",
+      "source": "Oku"
+    },
+    {
+      "title": "Managing A Liquidity Position",
+      "tldr": "What the position manager does about ranges and rebalancing, and when it stops helping.",
+      "url": "https://docs.oku.trade/home/lp-manager",
+      "source": "Oku"
+    }
+  ]
 }

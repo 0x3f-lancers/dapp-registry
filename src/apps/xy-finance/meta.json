@@ -44,5 +44,25 @@
       "wormhole",
       "zk-link"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Bridge Works",
+      "tldr": "The pool mechanism behind cross-chain transfers, and who provides the liquidity on the far side.",
+      "url": "https://docs.xy.finance/products/y-pool",
+      "source": "XY Finance"
+    },
+    {
+      "title": "Aggregating Across Bridges",
+      "tldr": "How a route is chosen between chains, and what the aggregator optimises for beyond headline price.",
+      "url": "https://docs.xy.finance/products/x-swap",
+      "source": "XY Finance"
+    },
+    {
+      "title": "Arriving Without Gas",
+      "tldr": "The problem of landing on a chain with no native token, and how refuel solves it in the same transaction.",
+      "url": "https://docs.xy.finance/products/refuel",
+      "source": "XY Finance"
+    }
+  ]
 }

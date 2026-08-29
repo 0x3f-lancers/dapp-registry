@@ -34,5 +34,19 @@
       "cellana",
       "dodo"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Islands, Explained",
+      "tldr": "Managed liquidity positions that rebalance for you, and what the manager is allowed to do with your funds.",
+      "url": "https://docs.kodiak.finance/protocol/islands",
+      "source": "Kodiak"
+    },
+    {
+      "title": "Launching A Token",
+      "tldr": "How the factory creates a market at launch, and what that fixes about the usual first-day liquidity problem.",
+      "url": "https://docs.kodiak.finance/protocol/panda-factory",
+      "source": "Kodiak"
+    }
+  ]
 }

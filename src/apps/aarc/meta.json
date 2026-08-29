@@ -35,5 +35,25 @@
       "truffle",
       "w3box"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Product Works",
+      "tldr": "The flow end to end, covering what happens on chain and what stays off it.",
+      "url": "https://docs.aarc.xyz/product/how-it-works",
+      "source": "Aarc"
+    },
+    {
+      "title": "The Regulatory Structure",
+      "tldr": "How the entity and the token are arranged for compliance, which is usually the undocumented part.",
+      "url": "https://docs.aarc.xyz/legal/structure",
+      "source": "Aarc"
+    },
+    {
+      "title": "A Developer Overview",
+      "tldr": "What the APIs expose and how an integration is put together, written for the engineer doing it.",
+      "url": "https://docs.aarc.xyz/developers/overview",
+      "source": "Aarc"
+    }
+  ]
 }

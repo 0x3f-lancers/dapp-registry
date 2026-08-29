@@ -39,5 +39,25 @@
       "splunk",
       "solve3"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Auditing A Cross-Chain Stablecoin",
+      "tldr": "What reviewers looked for in a dollar token that moves between chains, and what they found.",
+      "url": "https://guardianaudits.com/case-studies/usdt0",
+      "source": "Guardian Audits"
+    },
+    {
+      "title": "Reviewing A Vault And Its Keepers",
+      "tldr": "A case study covering both the contracts and the off-chain automation that drives them.",
+      "url": "https://guardianaudits.com/case-studies/synthetix-lp-vault",
+      "source": "Guardian Audits"
+    },
+    {
+      "title": "An NFT Contract Under Review",
+      "tldr": "What an audit checks on a high-profile collection, where the money and the attention are both large.",
+      "url": "https://guardianaudits.com/case-studies/yuga-labs",
+      "source": "Guardian Audits"
+    }
+  ]
 }

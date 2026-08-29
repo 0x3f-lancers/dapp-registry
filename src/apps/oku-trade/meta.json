@@ -32,5 +32,19 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading Perpetuals",
+      "tldr": "A long walkthrough of margin, leverage and liquidation as this interface presents them.",
+      "url": "https://docs.oku.trade/home/perps",
+      "source": "Oku"
+    },
+    {
+      "title": "Investing Through The App",
+      "tldr": "How positions are opened and tracked, and what the interface abstracts away from the underlying pools.",
+      "url": "https://docs.oku.trade/home/invest",
+      "source": "Oku"
+    }
+  ]
 }

@@ -32,5 +32,19 @@
       "hashstack",
       "port-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading Vault Analytics",
+      "tldr": "What the vault's numbers actually measure, and which of them tell you about risk rather than return.",
+      "url": "https://docs.reaper.farm/crypts/vault-analytics-more-info",
+      "source": "Reaper Farm"
+    },
+    {
+      "title": "Single Strategy Vaults",
+      "tldr": "The simplest vault shape explained, and why concentrating on one strategy changes the risk profile.",
+      "url": "https://docs.reaper.farm/crypts/single-strategy-vaults",
+      "source": "Reaper Farm"
+    }
+  ]
 }

@@ -32,5 +32,19 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Contracts Behind It",
+      "tldr": "What each contract is responsible for, and how they fit together into a working exchange.",
+      "url": "https://mobius-exchange.gitbook.io/mobius-exchange/smart-contracts",
+      "source": "Möbius Exchange"
+    },
+    {
+      "title": "The Security Model",
+      "tldr": "What has been reviewed and what assumptions the protocol makes about the chain underneath it.",
+      "url": "https://mobius-exchange.gitbook.io/mobius-exchange/security",
+      "source": "Möbius Exchange"
+    }
+  ]
 }

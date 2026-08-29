@@ -34,5 +34,19 @@
       "chainbase",
       "wireshape"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Indexing An EVM Chain",
+      "tldr": "A quickstart that gets a working indexer running, and explains what the framework handles for you.",
+      "url": "https://dipdup.io/docs/quickstart-evm",
+      "source": "DipDup"
+    },
+    {
+      "title": "The Questions Developers Ask",
+      "tldr": "Reorgs, backfills and schema changes answered directly, which is most of what goes wrong in indexing.",
+      "url": "https://dipdup.io/docs/faq",
+      "source": "DipDup"
+    }
+  ]
 }

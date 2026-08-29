@@ -32,5 +32,19 @@
       "agni",
       "airpuff"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Restaking Architecture",
+      "tldr": "How staked assets are reused to secure other services, and what new slashing risk that introduces.",
+      "url": "https://docs.pell.network/introduction/pell-network-architecture",
+      "source": "Pell Network"
+    },
+    {
+      "title": "A Guide To Restaking",
+      "tldr": "The practical steps for a delegator, and the questions worth answering before committing a stake.",
+      "url": "https://docs.pell.network/restaking-guides/restaking-guides",
+      "source": "Pell Network"
+    }
+  ]
 }

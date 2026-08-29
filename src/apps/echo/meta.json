@@ -36,5 +36,19 @@
       "aerodrome",
       "antfarm-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bitcoin's Limitations",
+      "tldr": "What the base chain cannot do for yield and lending, framed as the problem the protocol exists to solve.",
+      "url": "https://echo-protocol.gitbook.io/echo-protocol/overview/challenges-within-bitcoin",
+      "source": "Echo Protocol"
+    },
+    {
+      "title": "The Protocol Architecture",
+      "tldr": "How the system is put together, and where custody and trust actually sit in the design.",
+      "url": "https://echo-protocol.gitbook.io/echo-protocol/echo-architecture/protocol-architecture",
+      "source": "Echo Protocol"
+    }
+  ]
 }

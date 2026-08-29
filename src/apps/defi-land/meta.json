@@ -31,5 +31,25 @@
       "gala-games",
       "merit-circle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introduction To DeFi",
+      "tldr": "The core concepts explained through a game, aimed at someone who has never used a protocol directly.",
+      "url": "https://docs.defiland.app/education/introduction-to-defi",
+      "source": "DeFi Land"
+    },
+    {
+      "title": "A Quick-Start Guide",
+      "tldr": "The practical first steps: wallet, funding and the first transaction, with what each one costs.",
+      "url": "https://docs.defiland.app/education/defi-quick-start-guide",
+      "source": "DeFi Land"
+    },
+    {
+      "title": "How A DEX Works",
+      "tldr": "Automated market makers explained from scratch, including why the price moves as you trade against it.",
+      "url": "https://docs.defiland.app/education/the-decentralized-exchange",
+      "source": "DeFi Land"
+    }
+  ]
 }

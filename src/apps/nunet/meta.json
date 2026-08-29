@@ -32,5 +32,19 @@
       "maple-finance",
       "wingriders"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Device Management Service",
+      "tldr": "How a machine offers its spare compute to the network, and what the service controls on it.",
+      "url": "https://docs.nunet.io/dms/what-is-dms",
+      "source": "NuNet"
+    },
+    {
+      "title": "The Token, Explained",
+      "tldr": "What the token is used for in paying for compute, and how that settles between provider and user.",
+      "url": "https://docs.nunet.io/getting-ntx/token-overview",
+      "source": "NuNet"
+    }
+  ]
 }

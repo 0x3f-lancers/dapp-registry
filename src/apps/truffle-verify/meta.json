@@ -30,5 +30,13 @@
       "remix",
       "sublime-ethereum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Verifying A Deployed Contract",
+      "tldr": "Publishing source so an explorer can match it to deployed bytecode, and the settings that make that fail.",
+      "url": "https://github.com/rkalis/truffle-plugin-verify",
+      "source": "truffle-plugin-verify"
+    }
+  ]
 }

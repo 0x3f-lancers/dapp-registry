@@ -33,5 +33,19 @@
     "related": [
       "wingriders"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The DEX Works",
+      "tldr": "The order-book design on an eUTXO chain, and why that model needs a different matching approach.",
+      "url": "https://docs.geniusyield.co/genius-dex/1.-introduction",
+      "source": "Genius Yield"
+    },
+    {
+      "title": "The Technical Updates",
+      "tldr": "A long running log of what has been built and changed, useful for seeing how the protocol evolved.",
+      "url": "https://docs.geniusyield.co/information/technical-updates",
+      "source": "Genius Yield"
+    }
+  ]
 }

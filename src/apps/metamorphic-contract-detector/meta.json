@@ -30,5 +30,13 @@
       "astrakode-smart-contract-auditor",
       "surya"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Contracts That Can Change",
+      "tldr": "How a deployed contract can be replaced with different code, why that breaks trust, and how to detect it.",
+      "url": "https://github.com/a16z/metamorphic-contract-detector",
+      "source": "a16z crypto"
+    }
+  ]
 }

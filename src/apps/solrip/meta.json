@@ -31,5 +31,19 @@
       "safeheron",
       "linen"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reclaiming Rent From Accounts",
+      "tldr": "Why empty token accounts hold locked SOL, and how closing them returns it to you.",
+      "url": "https://docs.solrip.io/features/clean-up-empty-accounts",
+      "source": "SolRIP"
+    },
+    {
+      "title": "Resizing Token Accounts",
+      "tldr": "What account size costs on Solana, and when resizing is worth the transaction to do it.",
+      "url": "https://docs.solrip.io/features/resize-accounts",
+      "source": "SolRIP"
+    }
+  ]
 }

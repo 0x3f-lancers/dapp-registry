@@ -31,5 +31,13 @@
       "webacy",
       "apeworx-evmtrace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Auditing From The Editor",
+      "tldr": "What the extension surfaces while you read a contract, from call graphs to the annotations auditors rely on.",
+      "url": "https://github.com/ConsenSys/vscode-solidity-auditor",
+      "source": "Consensys Diligence"
+    }
+  ]
 }

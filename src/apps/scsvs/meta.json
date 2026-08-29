@@ -30,5 +30,25 @@
       "militereum",
       "blowfish"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Known Attacks, Catalogued",
+      "tldr": "The verification standard's list of attack classes, each with what to check in code to rule it out.",
+      "url": "https://securing.github.io/SCSVS/1.2/0x22-V13-Known-Attacks.html",
+      "source": "SCSVS"
+    },
+    {
+      "title": "Architecture And Threat Modelling",
+      "tldr": "The design-stage requirements: what to decide before writing a contract, and what to write down about it.",
+      "url": "https://securing.github.io/SCSVS/1.2/0x10-V1-Architecture-Design-Threat-modelling.html",
+      "source": "SCSVS"
+    },
+    {
+      "title": "DeFi-Specific Requirements",
+      "tldr": "The controls that only apply once a contract holds other people's money, from oracles to liquidation paths.",
+      "url": "https://securing.github.io/SCSVS/1.2/0x23-V14-Decentralized-Finance.html",
+      "source": "SCSVS"
+    }
+  ]
 }

@@ -29,5 +29,13 @@
       "etheno",
       "glider"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Inside A Symbolic Executor",
+      "tldr": "How the engine explores every path through a contract, and why that finds bugs fuzzing misses.",
+      "url": "https://github.com/trailofbits/manticore/wiki/Hacking-on-Manticore",
+      "source": "Manticore"
+    }
+  ]
 }

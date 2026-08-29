@@ -32,5 +32,19 @@
     "related": [
       "rarity-tools"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying Subgraphs Through A Proxy",
+      "tldr": "How the proxy handles keys and rate limits so an app can query indexed data without managing either.",
+      "url": "https://docs.playgrounds.network/api/subgraph-proxy",
+      "source": "Playgrounds"
+    },
+    {
+      "title": "Subgrounds Integration",
+      "tldr": "Pulling subgraph data into Python for analysis, which is where most onchain research actually happens.",
+      "url": "https://docs.playgrounds.network/api/subgrounds",
+      "source": "Playgrounds"
+    }
+  ]
 }

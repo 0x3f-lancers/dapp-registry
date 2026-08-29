@@ -41,5 +41,19 @@
       "polkadot",
       "metis"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Quickstart",
+      "tldr": "Getting a first RPC call working, with the authentication and endpoint choices explained.",
+      "url": "https://docs.fastnode.io/getting-started/quickstart",
+      "source": "Fastnode"
+    },
+    {
+      "title": "Node APIs And Networks",
+      "tldr": "What is available per chain and how the APIs differ, which decides how portable your code is.",
+      "url": "https://docs.fastnode.io/node-apis/node-apis",
+      "source": "Fastnode"
+    }
+  ]
 }

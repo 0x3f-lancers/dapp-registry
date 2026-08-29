@@ -30,5 +30,19 @@
       "cartesi",
       "eclipse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Gas And Fees",
+      "tldr": "How transaction pricing works on the chain, and what determines whether yours goes through.",
+      "url": "https://docs.areon.network/concepts/gas-and-fees",
+      "source": "Areon"
+    },
+    {
+      "title": "The Account Model",
+      "tldr": "How accounts and balances are represented, which decides how contracts and wallets interact with them.",
+      "url": "https://docs.areon.network/concepts/accounts",
+      "source": "Areon"
+    }
+  ]
 }

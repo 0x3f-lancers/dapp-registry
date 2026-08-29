@@ -34,5 +34,25 @@
       "carv",
       "walt-id"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building A Space",
+      "tldr": "The studio walkthrough for assembling a 3D environment, and what the tooling handles for you.",
+      "url": "https://docs.oncyber.io/guides/studio",
+      "source": "oncyber"
+    },
+    {
+      "title": "Scripting In Depth",
+      "tldr": "A long guide to making a space interactive with code, covering the runtime and its limits.",
+      "url": "https://docs.oncyber.io/guides/getting_started",
+      "source": "oncyber"
+    },
+    {
+      "title": "Remixing Someone's Work",
+      "tldr": "How spaces are forked and reused, and what the original creator keeps control of.",
+      "url": "https://docs.oncyber.io/guides/remixing",
+      "source": "oncyber"
+    }
+  ]
 }

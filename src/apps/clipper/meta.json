@@ -32,5 +32,25 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Liquidity Providers Earn",
+      "tldr": "Where the fee income actually comes from, and why this design pays LPs differently from a standard pool.",
+      "url": "https://docs.clipper.exchange/introduction/how-clipper-makes-money-for-lps",
+      "source": "Clipper"
+    },
+    {
+      "title": "Earning From Arbitrage",
+      "tldr": "How arbitrage flow becomes revenue for depositors rather than a loss, which is the unusual part of the model.",
+      "url": "https://docs.clipper.exchange/introduction/how-lps-earn-from-arbitrage",
+      "source": "Clipper"
+    },
+    {
+      "title": "The Questions Traders Ask",
+      "tldr": "Slippage, limits and withdrawal timing answered directly, which covers most of what a first-time LP needs.",
+      "url": "https://docs.clipper.exchange/how-to-use-clipper/faq",
+      "source": "Clipper"
+    }
+  ]
 }

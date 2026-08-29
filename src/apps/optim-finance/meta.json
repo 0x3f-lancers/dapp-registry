@@ -31,5 +31,19 @@
       "cnft-tools",
       "wingriders"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Yield-Bearing Stablecoin",
+      "tldr": "The difference between the base token and the staked one, and where the yield actually comes from.",
+      "url": "https://optim-finance.gitbook.io/optim-finance/oada/oada-and-soada",
+      "source": "Optim Finance"
+    },
+    {
+      "title": "Algorithmic Market Operations",
+      "tldr": "How the protocol manages its own liquidity and peg, and what those operations are permitted to do.",
+      "url": "https://optim-finance.gitbook.io/optim-finance/oada/amos",
+      "source": "Optim Finance"
+    }
+  ]
 }

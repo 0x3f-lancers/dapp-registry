@@ -32,5 +32,19 @@
       "truefi",
       "solend"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Collateral And Accounts",
+      "tldr": "How margin is held and what counts toward it, which decides how much you can actually put on.",
+      "url": "https://docs.phoenix.trade/phoenix/collateral-and-accounts/collateral",
+      "source": "Phoenix"
+    },
+    {
+      "title": "Perpetual Futures Here",
+      "tldr": "How funding and liquidation work on this venue, and what the matching engine guarantees.",
+      "url": "https://docs.phoenix.trade/phoenix/perpetual-futures",
+      "source": "Phoenix"
+    }
+  ]
 }

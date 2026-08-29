@@ -32,5 +32,25 @@
       "infinit",
       "zircuit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Fees Are Distributed",
+      "tldr": "Who gets paid what from protocol revenue, and how the split changes with vote-locking.",
+      "url": "https://docs.equilibria.fi/mechanism/fees-and-rewards-distribution",
+      "source": "Equilibria"
+    },
+    {
+      "title": "Where The APY Comes From",
+      "tldr": "The actual calculation behind a headline yield, so you can tell base return from incentive.",
+      "url": "https://docs.equilibria.fi/mechanism/apy-calculation",
+      "source": "Equilibria"
+    },
+    {
+      "title": "Votes And Bribes",
+      "tldr": "How emissions get directed by vote, and why paying for those votes became a market of its own.",
+      "url": "https://docs.equilibria.fi/mechanism/vote-and-bribes",
+      "source": "Equilibria"
+    }
+  ]
 }

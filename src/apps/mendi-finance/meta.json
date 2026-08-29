@@ -35,5 +35,25 @@
       "maverick",
       "7k-aggregator"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Collateral And Reserves",
+      "tldr": "What backs a loan here, how much of it is held back as reserve, and why that number matters.",
+      "url": "https://docs.mendi.finance/mendi-finance/protocol/collateral-and-reserves",
+      "source": "Mendi Finance"
+    },
+    {
+      "title": "Emissions And Bribes",
+      "tldr": "How rewards are directed by vote, and the market that grew up around buying those votes.",
+      "url": "https://docs.mendi.finance/mendi-finance/tokenomics/reward-emissions-and-bribes",
+      "source": "Mendi Finance"
+    },
+    {
+      "title": "What A Fair Launch Meant",
+      "tldr": "How supply was distributed at the start, and what the design was trying to prevent.",
+      "url": "https://docs.mendi.finance/mendi-finance/tokenomics/fair-launch",
+      "source": "Mendi Finance"
+    }
+  ]
 }

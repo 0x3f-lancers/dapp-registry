@@ -33,5 +33,25 @@
       "concordex",
       "avnu"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading Perpetuals Here",
+      "tldr": "How positions, margin and funding work on this venue, and what the counterparty actually is.",
+      "url": "https://docs.avantisfi.com/trading/overview",
+      "source": "Avantis"
+    },
+    {
+      "title": "Limits And Safeguards",
+      "tldr": "The caps and circuit breakers built into the protocol, and the failure they each exist to prevent.",
+      "url": "https://docs.avantisfi.com/trading/limitations-and-safeguards",
+      "source": "Avantis"
+    },
+    {
+      "title": "Upside Perps",
+      "tldr": "A position with capped downside, how it is priced, and what you pay for that protection.",
+      "url": "https://docs.avantisfi.com/trading/upside-perps",
+      "source": "Avantis"
+    }
+  ]
 }

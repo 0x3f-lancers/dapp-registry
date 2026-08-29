@@ -32,5 +32,19 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The AMM Fundamentals",
+      "tldr": "How the market maker works across chains, and what a single liquidity layer changes for a trader.",
+      "url": "https://docs.skatechain.org/skate-amm/introduction",
+      "source": "Skate"
+    },
+    {
+      "title": "The Technology Stack",
+      "tldr": "The components underneath, and where state actually lives when an app spans several chains.",
+      "url": "https://docs.skatechain.org/main/introduction/tech-stack",
+      "source": "Skate"
+    }
+  ]
 }

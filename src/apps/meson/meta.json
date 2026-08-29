@@ -43,5 +43,19 @@
       "circular-protocol",
       "quai"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Protocol Works",
+      "tldr": "Cross-chain stablecoin swaps settled by liquidity providers, and what each side is committing to.",
+      "url": "https://docs.meson.fi/protocol/meson",
+      "source": "Meson"
+    },
+    {
+      "title": "The System Design",
+      "tldr": "The atomic-swap machinery underneath, including what happens when one side fails to complete.",
+      "url": "https://docs.meson.fi/protocol/system-design",
+      "source": "Meson"
+    }
+  ]
 }

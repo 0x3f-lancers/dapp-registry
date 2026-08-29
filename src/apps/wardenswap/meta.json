@@ -3,7 +3,9 @@
   "name": "WardenSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751152/web3-explorer/dapp-logos/wardenswap.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Ethereum",
     "Polygon",
@@ -24,7 +26,26 @@
     "twitter": "https://x.com/WardenSwap"
   },
   "relations": {
-    "alternatives": ["curve-finance", "swoop-exchange"],
-    "related": ["binance-us"]
-  }
+    "alternatives": [
+      "curve-finance",
+      "swoop-exchange"
+    ],
+    "related": [
+      "binance-us"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Changed In V2",
+      "tldr": "The current aggregator design and what it improved about routing a trade across venues.",
+      "url": "https://docs.wardenswap.finance/warden/about-us/wardenswap-v2.0",
+      "source": "WardenSwap"
+    },
+    {
+      "title": "The Previous Generation",
+      "tldr": "The earlier version's design, useful for seeing which assumptions had to be replaced and why.",
+      "url": "https://docs.wardenswap.finance/warden/about-us/wardenswap-v1.5-aegis",
+      "source": "WardenSwap"
+    }
+  ]
 }

@@ -33,5 +33,19 @@
       "phalcon",
       "range-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wiring It Into A Wallet",
+      "tldr": "How a private RPC endpoint is added to a wallet, and what changes about the transactions you send after.",
+      "url": "https://docs.omniatech.io/defi/wallet-integration",
+      "source": "OMNIA"
+    },
+    {
+      "title": "Front-Running Protection",
+      "tldr": "What a private mempool actually stops, and the attacks it leaves untouched.",
+      "url": "https://docs.omniatech.io/defi/frontrunning-protection",
+      "source": "OMNIA"
+    }
+  ]
 }

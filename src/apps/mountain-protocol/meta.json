@@ -37,5 +37,19 @@
       "paxos",
       "frigg"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Winding Down A Stablecoin",
+      "tldr": "A rare document: how an issuer closes a dollar token in an orderly way and what holders should do.",
+      "url": "https://docs.mountainprotocol.com/wind-down-documentation/usdm-wind-down-overview",
+      "source": "Mountain Protocol"
+    },
+    {
+      "title": "Proof Of Reserves",
+      "tldr": "How reserves are attested on an ongoing basis, and what such an attestation does and does not prove.",
+      "url": "https://docs.mountainprotocol.com/wind-down-documentation/ongoing-proof-of-reserves",
+      "source": "Mountain Protocol"
+    }
+  ]
 }

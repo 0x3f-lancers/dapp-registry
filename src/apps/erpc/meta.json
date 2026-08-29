@@ -40,5 +40,19 @@
       "taraxa",
       "injective-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Configuring The Proxy",
+      "tldr": "A worked configuration showing how upstreams, failover and caching are wired together.",
+      "url": "https://docs.erpc.cloud/config/example",
+      "source": "eRPC"
+    },
+    {
+      "title": "Server Settings",
+      "tldr": "The options that decide throughput and failure behaviour under load, with what each one trades away.",
+      "url": "https://docs.erpc.cloud/config/server",
+      "source": "eRPC"
+    }
+  ]
 }

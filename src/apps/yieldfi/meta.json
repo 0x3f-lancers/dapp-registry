@@ -35,5 +35,25 @@
       "alpha-homora",
       "amply-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where The Money Goes",
+      "tldr": "The flow of funds from deposit to strategy and back, which is the question due diligence starts with.",
+      "url": "https://docs.yield.fi/due-diligence-questionaire/flow-of-funds",
+      "source": "YieldFi"
+    },
+    {
+      "title": "Bankruptcy Remoteness",
+      "tldr": "What legal structure is meant to protect depositors if the operator fails, and what it does not cover.",
+      "url": "https://docs.yield.fi/due-diligence-questionaire/bankruptcy-remote-structure",
+      "source": "YieldFi"
+    },
+    {
+      "title": "Who Controls Operations",
+      "tldr": "Which keys and approvals sit with whom, stated openly rather than left to be inferred.",
+      "url": "https://docs.yield.fi/due-diligence-questionaire/operational-control",
+      "source": "YieldFi"
+    }
+  ]
 }

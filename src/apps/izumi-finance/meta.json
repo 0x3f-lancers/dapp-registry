@@ -36,5 +36,19 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "On-Chain Financial Products",
+      "tldr": "The range of instruments built on concentrated liquidity, and what each is designed to earn.",
+      "url": "https://docs.izumi.finance/product/on-chain-financial-products",
+      "source": "iZUMi"
+    },
+    {
+      "title": "The Bond And Its Stablecoin",
+      "tldr": "How the bond mechanism works and what backs the dollar token issued against it.",
+      "url": "https://docs.izumi.finance/product/izumi-bond-iusd",
+      "source": "iZUMi"
+    }
+  ]
 }
