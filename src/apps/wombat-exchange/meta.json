@@ -3,8 +3,14 @@
   "name": "Wombat Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751266/web3-explorer/dapp-logos/wombat-exchange.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Arbitrum", "BNB Chain", "Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "BNB Chain",
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "Wombat Exchange is a hyper-efficient multichain stableswap.",
@@ -17,7 +23,28 @@
     "twitter": "https://x.com/WombatExchange"
   },
   "relations": {
-    "alternatives": ["trader-joe", "propellerswap"],
-    "related": ["binance", "day1x", "heroswap"]
-  }
+    "alternatives": [
+      "trader-joe",
+      "propellerswap"
+    ],
+    "related": [
+      "binance",
+      "day1x",
+      "heroswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Yield Farming Here",
+      "tldr": "How the stablecoin pools pay LPs, and what the single-sided design changes about the risk.",
+      "url": "https://docs.wombat.exchange/getting-started/yield-farming",
+      "source": "Wombat Exchange"
+    },
+    {
+      "title": "Making A Swap",
+      "tldr": "How a stablecoin swap is priced here, and why slippage behaves differently from a constant-product pool.",
+      "url": "https://docs.wombat.exchange/getting-started/swap",
+      "source": "Wombat Exchange"
+    }
+  ]
 }

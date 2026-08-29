@@ -31,5 +31,25 @@
       "chainnodes",
       "quicknode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Command Line Options",
+      "tldr": "The flags that decide how a node syncs, what it stores and how much disk it needs, explained rather than listed.",
+      "url": "https://geth.ethereum.org/docs/fundamentals/command-line-options",
+      "source": "Geth"
+    },
+    {
+      "title": "Signing With Clef",
+      "tldr": "A tutorial for keeping keys out of the node process, and what that changes about how transactions get approved.",
+      "url": "https://geth.ethereum.org/docs/tools/clef/tutorial",
+      "source": "Geth"
+    },
+    {
+      "title": "Generating Native Bindings",
+      "tldr": "Turning a contract ABI into typed Go code, and how to call and watch contracts from a real program.",
+      "url": "https://geth.ethereum.org/docs/developers/dapp-developer/native-bindings-v2",
+      "source": "Geth"
+    }
+  ]
 }

@@ -32,5 +32,19 @@
       "sanr-app",
       "bybit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Dollar Cost Averaging On Chain",
+      "tldr": "How recurring buys are executed without a custodian, and what happens when a scheduled swap cannot fill.",
+      "url": "https://docs.panora.exchange/product-suite/dca",
+      "source": "Panora"
+    },
+    {
+      "title": "Limit Orders, Explained",
+      "tldr": "How a resting order works against pooled liquidity, and who executes it when the price arrives.",
+      "url": "https://docs.panora.exchange/product-suite/limit",
+      "source": "Panora"
+    }
+  ]
 }

@@ -30,5 +30,19 @@
       "zeta-markets",
       "hegic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Arbitrage On A Perp DEX",
+      "tldr": "How the mark price is kept in line with the index, and who is paid to do the keeping.",
+      "url": "https://docs.deri.io/trading/arbitraging",
+      "source": "Deri Protocol"
+    },
+    {
+      "title": "Liquidity Mining, Mechanically",
+      "tldr": "What providing liquidity here actually exposes you to, and how the rewards are calculated against it.",
+      "url": "https://docs.deri.io/mining/amm-liquidity-mining",
+      "source": "Deri Protocol"
+    }
+  ]
 }

@@ -33,5 +33,25 @@
       "cobo-arugs",
       "blowfish"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What A Token Approval Really Grants",
+      "tldr": "Approving a contract usually hands it an unlimited claim on that token, indefinitely. What the permission actually says and how to read one.",
+      "url": "https://revoke.cash/learn/approvals/what-are-token-approvals",
+      "source": "Revoke.cash"
+    },
+    {
+      "title": "You Have Been Scammed, Now What",
+      "tldr": "The order of operations after a wallet is drained: what to revoke first, what is recoverable, and what is already gone.",
+      "url": "https://revoke.cash/learn/security/what-to-do-when-scammed",
+      "source": "Revoke.cash"
+    },
+    {
+      "title": "Anatomy Of The Ledger Connect Hack",
+      "tldr": "A retrospective on the compromised library that hit hundreds of dapps at once, and what it revealed about front-end supply chains.",
+      "url": "https://revoke.cash/blog/2023/ledger-connect-kit-hack-retrospective",
+      "source": "Revoke.cash"
+    }
+  ]
 }

@@ -31,5 +31,25 @@
       "element",
       "galxe"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What An NFT Actually Is",
+      "tldr": "A ground-up explainer covering what is stored onchain, what is not, and why that distinction decides ownership.",
+      "url": "https://docs.mintpad.co/nft-fundamentals/what-is-an-nft",
+      "source": "Mintpad"
+    },
+    {
+      "title": "Smart Contracts, Explained",
+      "tldr": "What a contract can and cannot do, written for a creator deploying one rather than for an engineer.",
+      "url": "https://docs.mintpad.co/nft-fundamentals/what-is-a-smart-contract",
+      "source": "Mintpad"
+    },
+    {
+      "title": "Open Editions And Burning",
+      "tldr": "Two mechanics that change a collection's economics: unlimited supply windows, and destroying a token on purpose.",
+      "url": "https://docs.mintpad.co/nft-fundamentals/what-are-open-editions",
+      "source": "Mintpad"
+    }
+  ]
 }

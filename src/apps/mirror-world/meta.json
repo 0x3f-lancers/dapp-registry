@@ -33,5 +33,25 @@
       "venly-nft-api",
       "brand-extender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Logging In Without A Wallet",
+      "tldr": "How authentication creates and secures a wallet behind a normal login, and what the game never has to handle.",
+      "url": "https://www.mirrorworld.fun/docs/solutions/smart-auth",
+      "source": "Mirror World"
+    },
+    {
+      "title": "Building Across Chains",
+      "tldr": "What supporting several networks costs a game studio, and which differences the SDK can and cannot paper over.",
+      "url": "https://www.mirrorworld.fun/docs/overview/introduction/multi-chain-solutions",
+      "source": "Mirror World"
+    },
+    {
+      "title": "The Development Guide",
+      "tldr": "The full path from a new project to a working integration, including the dashboard concepts you have to get right first.",
+      "url": "https://www.mirrorworld.fun/docs/overview/development-guide",
+      "source": "Mirror World"
+    }
+  ]
 }

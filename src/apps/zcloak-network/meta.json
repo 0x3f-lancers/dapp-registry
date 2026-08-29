@@ -28,5 +28,19 @@
       "miniorange-web3-authentication-plugin",
       "degenscore"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Technology Stack",
+      "tldr": "How zero-knowledge proofs are used for identity claims, and what stays on the user's own device.",
+      "url": "https://docs.zcloak.network/about-zcloak/tech-stack-overview",
+      "source": "zCloak"
+    },
+    {
+      "title": "The Glossary",
+      "tldr": "The vocabulary of verifiable credentials defined plainly, which most identity docs assume you know.",
+      "url": "https://docs.zcloak.network/about-zcloak/glossary",
+      "source": "zCloak"
+    }
+  ]
 }

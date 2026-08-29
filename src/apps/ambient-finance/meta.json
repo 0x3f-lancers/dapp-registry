@@ -33,5 +33,25 @@
       "baltex.io",
       "deri-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Knockout Liquidity",
+      "tldr": "A position that closes itself once price crosses a level, and what that gives an LP that a range order does not.",
+      "url": "https://docs.ambient.finance/concepts/knockout-liquidity",
+      "source": "Ambient"
+    },
+    {
+      "title": "How LP Positions Work",
+      "tldr": "Concentrated ranges explained from the depositor's side, including when your position stops earning.",
+      "url": "https://docs.ambient.finance/users/lp-positions",
+      "source": "Ambient"
+    },
+    {
+      "title": "What Happens In A Swap",
+      "tldr": "The path a trade takes through the pool, and where the price impact and the fee actually land.",
+      "url": "https://docs.ambient.finance/users/swaps",
+      "source": "Ambient"
+    }
+  ]
 }

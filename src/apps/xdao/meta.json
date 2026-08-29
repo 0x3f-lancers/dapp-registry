@@ -33,5 +33,19 @@
       "flipside",
       "hive-intelligence"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Contracts Behind A DAO",
+      "tldr": "Which contracts are deployed when a DAO is created, and what each one controls afterwards.",
+      "url": "https://docs.xdao.app/evm/architecture/smart-contracts",
+      "source": "XDAO"
+    },
+    {
+      "title": "The Glossary",
+      "tldr": "The terms used across DAO tooling defined in one place, useful before reading any governance proposal.",
+      "url": "https://docs.xdao.app/evm/architecture/glossary",
+      "source": "XDAO"
+    }
+  ]
 }

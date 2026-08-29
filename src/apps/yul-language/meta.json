@@ -31,5 +31,25 @@
       "foundry-forge",
       "polkadot"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where Yul Fits",
+      "tldr": "The introduction to contracts that frames what the high-level language does, and what assembly is left to handle.",
+      "url": "https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html",
+      "source": "Solidity"
+    },
+    {
+      "title": "Reading Real Contracts",
+      "tldr": "Worked examples showing what the compiler produces, which is the context you need before dropping into Yul.",
+      "url": "https://docs.soliditylang.org/en/latest/solidity-by-example.html",
+      "source": "Solidity"
+    },
+    {
+      "title": "Compiler And Optimiser",
+      "tldr": "How the optimiser transforms intermediate code, the stage where hand-written assembly either helps or hurts.",
+      "url": "https://docs.soliditylang.org/en/latest/using-the-compiler.html",
+      "source": "Solidity"
+    }
+  ]
 }

@@ -31,5 +31,25 @@
       "impermax-v2",
       "kinza-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Protocol Works",
+      "tldr": "The lending design end to end: what backs a loan, how terms are agreed, and what the contracts enforce.",
+      "url": "https://docs.teller.org/teller-docs/protocol-1/overview",
+      "source": "Teller"
+    },
+    {
+      "title": "Pricing And Liquidation",
+      "tldr": "Where prices come from and what happens when a position falls under water, including the manual path.",
+      "url": "https://docs.teller.org/teller-docs/protocol/liquidation-manual",
+      "source": "Teller"
+    },
+    {
+      "title": "The Questions Borrowers Ask",
+      "tldr": "Rates, collateral and repayment answered directly, which is the fastest way to understand the loan you would take.",
+      "url": "https://docs.teller.org/teller-docs/protocol-1/faq",
+      "source": "Teller"
+    }
+  ]
 }

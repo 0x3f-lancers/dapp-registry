@@ -33,5 +33,19 @@
       "status-im",
       "colony"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Creator Quick Start",
+      "tldr": "Going from artwork to a live mint, with the contract decisions made explicit at each step.",
+      "url": "https://docs.highlight.xyz/getting-started/quick-start",
+      "source": "Highlight"
+    },
+    {
+      "title": "Working From The CLI",
+      "tldr": "Deploying and managing a collection from the terminal, which is where generative work usually happens.",
+      "url": "https://docs.highlight.xyz/cli/setup",
+      "source": "Highlight"
+    }
+  ]
 }

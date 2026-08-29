@@ -34,5 +34,19 @@
       "vy-finance",
       "optim-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Margin Modes",
+      "tldr": "The difference between isolated and cross margin, and which one protects the rest of your account.",
+      "url": "https://docs.strikefinance.org/perpetuals/margin-modes",
+      "source": "Strike Finance"
+    },
+    {
+      "title": "Moving Funds In And Out",
+      "tldr": "How deposits and withdrawals settle on this venue, and what can delay one.",
+      "url": "https://docs.strikefinance.org/perpetuals/deposits-and-withdrawals",
+      "source": "Strike Finance"
+    }
+  ]
 }

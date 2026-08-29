@@ -8,7 +8,10 @@
     "Decentralized Derivatives",
     "Decentralized Exchanges"
   ],
-  "chains": ["Ethereum", "Base"],
+  "chains": [
+    "Ethereum",
+    "Base"
+  ],
   "pricing": "",
   "content": {
     "short": "Panoptic is the perpetual, oracle-free, instant settlement options trading protocol on Ethereum.",
@@ -21,7 +24,31 @@
     "twitter": "https://x.com/Panoptic_xyz"
   },
   "relations": {
-    "alternatives": ["polynomial-protocol", "foxify", "zeta-markets"],
-    "related": ["futureswap", "contango", "syndr"]
-  }
+    "alternatives": [
+      "polynomial-protocol",
+      "foxify",
+      "zeta-markets"
+    ],
+    "related": [
+      "futureswap",
+      "contango",
+      "syndr"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Options Without An Oracle",
+      "tldr": "How the vault suite prices and settles perpetual options from liquidity positions instead of an external price feed.",
+      "url": "https://panoptic.xyz/blog/panoptic-v2-the-defi-yield-platform",
+      "source": "Panoptic",
+      "publishedAt": "2026-06-23"
+    },
+    {
+      "title": "What The Vaults Actually Hold",
+      "tldr": "The V2 vault design explained: what a depositor is exposed to, and where the yield comes from underneath.",
+      "url": "https://panoptic.xyz/blog/panoptic-v2-the-vault-suite",
+      "source": "Panoptic",
+      "publishedAt": "2026-06-29"
+    }
+  ]
 }

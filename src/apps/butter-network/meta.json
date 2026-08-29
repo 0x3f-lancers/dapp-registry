@@ -40,5 +40,19 @@
       "across",
       "epns"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Cross-Chain Flow",
+      "tldr": "A message traced from source to destination, showing what is proven and what is merely relayed.",
+      "url": "https://docs.butternetwork.io/omnichain-development/cross-chain-flow",
+      "source": "Butter Network"
+    },
+    {
+      "title": "A Light Client, Refactored",
+      "tldr": "Why verifying another chain's consensus on chain is expensive, and how the zk approach reduces it.",
+      "url": "https://docs.butternetwork.io/zk-light-client/refactored-zk-light-client",
+      "source": "Butter Network"
+    }
+  ]
 }

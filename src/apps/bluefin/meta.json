@@ -35,5 +35,19 @@
       "cvi-finance",
       "bolide-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What The Audits Actually Found",
+      "tldr": "The exchange publishes its audit results in full, including what the reviewers flagged and which findings were fixed before launch.",
+      "url": "https://bluefin.io/blog/results-from-bluefin-security-audits",
+      "source": "Bluefin Blog"
+    },
+    {
+      "title": "Upgrading A Live Exchange Safely",
+      "tldr": "How the contracts are made upgradeable without handing one key total control, and what a user can verify about a pending change.",
+      "url": "https://bluefin.io/blog/bluefin-upgradeability-powered-by-openzeppelin",
+      "source": "Bluefin Blog"
+    }
+  ]
 }

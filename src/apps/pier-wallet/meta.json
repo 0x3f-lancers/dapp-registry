@@ -32,5 +32,19 @@
       "alphawallet",
       "trezor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Account Abstraction Overview",
+      "tldr": "What a smart account gives an app that an EOA cannot, explained from the integrator's side.",
+      "url": "https://docs.pierwallet.com/account-abstraction/overview",
+      "source": "pier wallet"
+    },
+    {
+      "title": "Wallet As A Service",
+      "tldr": "How wallets are provisioned for users who never see a seed phrase, and where the key material lives.",
+      "url": "https://docs.pierwallet.com/account-abstraction/work-with-pier",
+      "source": "pier wallet"
+    }
+  ]
 }

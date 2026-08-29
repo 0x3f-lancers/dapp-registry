@@ -34,5 +34,19 @@
       "crema-finance",
       "biswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Swap Aggregator Works",
+      "tldr": "Routing across venues for a better fill, and what the aggregator is trading off to get it.",
+      "url": "https://docs.plasma.finance/platform-overview/hyperdex-swap",
+      "source": "Plasma Finance"
+    },
+    {
+      "title": "Reading A Token Page",
+      "tldr": "What data is pulled together per token, and which of those numbers can be manipulated.",
+      "url": "https://docs.plasma.finance/platform-overview/token-page",
+      "source": "Plasma Finance"
+    }
+  ]
 }

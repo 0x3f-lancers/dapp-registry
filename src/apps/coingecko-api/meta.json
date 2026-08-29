@@ -30,5 +30,19 @@
       "transit-swap",
       "evo-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading The Market With Data",
+      "tldr": "Analysis pieces built from the same price and volume feeds the API serves, showing what the numbers are good for.",
+      "url": "https://www.coingecko.com/en/insights",
+      "source": "CoinGecko"
+    },
+    {
+      "title": "The Data Behind The Headlines",
+      "tldr": "The news desk built on the same market feeds the API serves, useful for seeing what a move looked like in the numbers.",
+      "url": "https://www.coingecko.com/en/news",
+      "source": "CoinGecko"
+    }
+  ]
 }

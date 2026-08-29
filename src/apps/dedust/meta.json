@@ -35,5 +35,19 @@
       "hyperliquid",
       "compound"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Glossary",
+      "tldr": "The vocabulary of onchain trading defined in one place, from slippage to routing.",
+      "url": "https://help.dedust.io/en/start/glossary",
+      "source": "DeDust"
+    },
+    {
+      "title": "Router Settings Explained",
+      "tldr": "What the aggregator is deciding on your behalf, and when overriding it gets you a better fill.",
+      "url": "https://help.dedust.io/en/trade/router",
+      "source": "DeDust"
+    }
+  ]
 }

@@ -43,5 +43,25 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading The Market Overview",
+      "tldr": "What each panel of the market screen is actually measuring, and which numbers move for boring reasons.",
+      "url": "https://learn.birdeye.so/docs/market-overview",
+      "source": "Birdeye"
+    },
+    {
+      "title": "Finding The Right Token",
+      "tldr": "A method for filtering thousands of tokens down to ones worth looking at, using liquidity and holder data.",
+      "url": "https://learn.birdeye.so/docs/how-to-find-the-right-token",
+      "source": "Birdeye"
+    },
+    {
+      "title": "Connecting A Wallet Safely",
+      "tldr": "What connecting does and does not authorise, and what to check before approving anything afterwards.",
+      "url": "https://learn.birdeye.so/docs/how-to-connect-wallet",
+      "source": "Birdeye"
+    }
+  ]
 }

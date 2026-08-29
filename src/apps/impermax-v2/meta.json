@@ -31,5 +31,25 @@
       "kinza-finance",
       "myso-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lending Pools And Collateral",
+      "tldr": "How an LP token is used as collateral, what the pool lends against it, and what the borrower is actually exposed to.",
+      "url": "https://docs.impermax.finance/protocol/lending-pools-and-collateral",
+      "source": "Impermax"
+    },
+    {
+      "title": "The Risks, Stated Plainly",
+      "tldr": "The protocol's own list of what can go wrong, which is the page worth reading before the marketing one.",
+      "url": "https://docs.impermax.finance/protocol/risks",
+      "source": "Impermax"
+    },
+    {
+      "title": "How Interest Rates Are Set",
+      "tldr": "The rate model explained: what utilisation does to borrowing costs, and how that keeps a pool solvent.",
+      "url": "https://docs.impermax.finance/protocol/interest-rates",
+      "source": "Impermax"
+    }
+  ]
 }

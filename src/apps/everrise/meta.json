@@ -35,5 +35,28 @@
       "ethlint",
       "gatekeepxyz"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading The Ethereum Merge",
+      "tldr": "What the switch to proof of stake changed for holders and for contracts, written just before it happened.",
+      "url": "https://www.everrise.com/post/Looking_at_ETH_Merge/",
+      "source": "EverRise",
+      "publishedAt": "2022-09-12"
+    },
+    {
+      "title": "Getting Listed In A Wallet",
+      "tldr": "What integration with a major wallet involves on both sides, and what it changes about how a token is held.",
+      "url": "https://www.everrise.com/post/Trust-Wallet/",
+      "source": "EverRise",
+      "publishedAt": "2022-09-23"
+    },
+    {
+      "title": "Trading Bots, In The Open",
+      "tldr": "How an automated trading tool was designed and what it does on chain, described rather than just announced.",
+      "url": "https://www.everrise.com/post/Presenting-RiserBotz/",
+      "source": "EverRise",
+      "publishedAt": "2023-01-17"
+    }
+  ]
 }

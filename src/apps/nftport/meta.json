@@ -30,5 +30,25 @@
       "howrare-is",
       "niftygateway"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Minting Through An API",
+      "tldr": "A quickstart that gets a token minted without writing a contract, and what the API is deciding on your behalf.",
+      "url": "https://docs.nftport.xyz/docs/minting-quickstart",
+      "source": "NFTPort"
+    },
+    {
+      "title": "Choosing A Contract Type",
+      "tldr": "The contract options compared on cost, flexibility and what each one locks in permanently at deploy time.",
+      "url": "https://docs.nftport.xyz/docs/contract-comparison",
+      "source": "NFTPort"
+    },
+    {
+      "title": "How Royalties Actually Work",
+      "tldr": "What the royalty field does and does not enforce, and why marketplaces are the ones who decide whether you get paid.",
+      "url": "https://docs.nftport.xyz/docs/royalties",
+      "source": "NFTPort"
+    }
+  ]
 }

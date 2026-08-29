@@ -33,5 +33,25 @@
       "pimlico-paymaster",
       "arka-paymaster"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Smart Account You Can Extend",
+      "tldr": "The design behind a modular ERC-4337 account: what a plugin can change, and what the core refuses to hand over.",
+      "url": "https://zerodev.app/blogs/introducing-zerodev-wallet",
+      "source": "ZeroDev"
+    },
+    {
+      "title": "Wallets With No Seed Phrase",
+      "tldr": "Deploying accounts users never write down twelve words for, in a few lines of code, and what secures them instead.",
+      "url": "https://zerodev.app/blogs/stop-losing-90-of-users-deploy-seed-phrase-free-wallets-in-under-10-lines-of-code",
+      "source": "ZeroDev"
+    },
+    {
+      "title": "Automating A Cross-Chain Portfolio",
+      "tldr": "A case study of using session keys to let software rebalance across networks without holding the owner's key.",
+      "url": "https://zerodev.app/blogs/blog-zerodev-glider",
+      "source": "ZeroDev"
+    }
+  ]
 }

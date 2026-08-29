@@ -35,5 +35,19 @@
       "init-capital",
       "keep-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Liquidity Pools Matter",
+      "tldr": "A ground-up explanation of what a pool does and why providers are needed at all.",
+      "url": "https://docs.meteora.ag/get-started/why-are-liquidity-pools-important",
+      "source": "Meteora"
+    },
+    {
+      "title": "Where Protocol Revenue Goes",
+      "tldr": "How fees are split between LPs, the protocol and the token, stated with the actual numbers.",
+      "url": "https://docs.meteora.ag/protocol/protocol-revenues",
+      "source": "Meteora"
+    }
+  ]
 }

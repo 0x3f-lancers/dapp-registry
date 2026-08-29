@@ -33,5 +33,19 @@
       "omnia-protocol",
       "phalcon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Accepting Crypto With A QR Code",
+      "tldr": "How a no-code payment flow works in a physical shop, and what the merchant has to set up before the first sale.",
+      "url": "https://medium.com/slash-project-publishing/slash-web3-payments-qr-code-payment-function-released-how-to-use-no-code-crypto-payments-at-c956193ef1ef",
+      "source": "Slash"
+    },
+    {
+      "title": "What Slash Vision Labs Is",
+      "tldr": "An outside explainer of the non-custodial payment gateway: how DEX liquidity settles a payment in any token.",
+      "url": "https://coinengineer.net/blog/what-is-slash-vision-labs-svl/",
+      "source": "Coin Engineer"
+    }
+  ]
 }

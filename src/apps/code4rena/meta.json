@@ -36,5 +36,25 @@
       "blockaid",
       "openzeppelin-defender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Full Audit Report",
+      "tldr": "Every finding from one competitive audit, severity by severity, which is the clearest picture of what auditors look for.",
+      "url": "https://code4rena.com/reports/2023-04-caviar",
+      "source": "Code4rena"
+    },
+    {
+      "title": "Findings On A Lending Protocol",
+      "tldr": "A complete report on a borrowing system, showing how economic bugs differ from ordinary code bugs.",
+      "url": "https://code4rena.com/reports/2023-07-arcade",
+      "source": "Code4rena"
+    },
+    {
+      "title": "Auditing A Chain's Contracts",
+      "tldr": "An audit of network-level contracts, useful for seeing how scope and severity are argued at that layer.",
+      "url": "https://code4rena.com/reports/2023-06-lukso",
+      "source": "Code4rena"
+    }
+  ]
 }

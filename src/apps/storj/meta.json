@@ -28,5 +28,25 @@
     "related": [
       "shyft"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Storage Spread Across Strangers",
+      "tldr": "How files are split, encrypted and scattered across independent operators, and what has to be true for that to stay durable.",
+      "url": "https://www.storj.io/blog/1-pb-milestone-reached",
+      "source": "Storj"
+    },
+    {
+      "title": "When Storage Meets Genomics",
+      "tldr": "Why sequencing data breaks normal cloud storage economics, and what a distributed backend changes about moving it.",
+      "url": "https://www.storj.io/blog/storj-excited-to-join-forces-with-petagene-cunofs",
+      "source": "Storj"
+    },
+    {
+      "title": "The Full Engineering Archive",
+      "tldr": "Everything the team has written on running a distributed object store, from node economics to repair and durability maths.",
+      "url": "https://www.storj.io/blog-posts/all",
+      "source": "Storj"
+    }
+  ]
 }

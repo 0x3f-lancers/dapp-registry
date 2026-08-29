@@ -33,5 +33,25 @@
     "related": [
       "wanchain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bridging A Native Token",
+      "tldr": "What happens when a token moves without being wrapped, and which guarantees the issuer has to provide for that.",
+      "url": "https://www.chainport.io/bridging/native-token-bridging",
+      "source": "ChainPort"
+    },
+    {
+      "title": "Wrapped Assets, Explained",
+      "tldr": "The mechanics of lock-and-mint bridging: what you actually hold on the far side, and who can redeem it.",
+      "url": "https://www.chainport.io/bridging/wrapped-asset-bridging",
+      "source": "ChainPort"
+    },
+    {
+      "title": "Routing Through Other Protocols",
+      "tldr": "When a bridge hands a transfer to an external protocol, what that adds in reach and what it adds in trust assumptions.",
+      "url": "https://www.chainport.io/bridging/external-cross-chain-protocols",
+      "source": "ChainPort"
+    }
+  ]
 }

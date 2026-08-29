@@ -33,5 +33,19 @@
       "hive-intelligence",
       "idriss"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started With The API",
+      "tldr": "Authentication, rate limits and the first calls worth making, written for someone wiring the data into a product.",
+      "url": "https://docs.birdeye.so/reference/getting-started",
+      "source": "Birdeye"
+    },
+    {
+      "title": "Following Smart Money",
+      "tldr": "How profitable wallets are identified from trade history, and what following them does and does not tell you.",
+      "url": "https://learn.birdeye.so/docs/how-to-find-and-follow-smart-money",
+      "source": "Birdeye"
+    }
+  ]
 }

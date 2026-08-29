@@ -31,5 +31,25 @@
       "espresso-sequencer",
       "zksync"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Submitting A DAO Proposal",
+      "tldr": "The full path a governance proposal takes, what has to be in it, and where proposals usually stall.",
+      "url": "https://docs.arbitrum.foundation/how-tos/create-submit-dao-proposal",
+      "source": "Arbitrum"
+    },
+    {
+      "title": "The Economics Of Fraud Proofs",
+      "tldr": "How honest challengers get paid back in a dispute game, and why that incentive decides whether the system is safe.",
+      "url": "https://docs.arbitrum.foundation/arbitrum-bold-economics/bold-reimbursing-service-fees",
+      "source": "Arbitrum"
+    },
+    {
+      "title": "When A Proposal Fails",
+      "tldr": "How to revise and resubmit after a rejection, and what that process says about how the DAO actually decides.",
+      "url": "https://docs.arbitrum.foundation/how-tos/resubmit-dao-proposal",
+      "source": "Arbitrum"
+    }
+  ]
 }

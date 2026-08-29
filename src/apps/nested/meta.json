@@ -37,5 +37,19 @@
       "sentry",
       "xangle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Portfolios Are NFTs",
+      "tldr": "The design choice to represent a whole portfolio as one token, and what that makes possible.",
+      "url": "https://docs.nested.fi/common-questions/why-do-we-use-nfts",
+      "source": "Nested"
+    },
+    {
+      "title": "How Fees Are Split",
+      "tldr": "Where the fee on a managed portfolio goes, including the share that reaches the strategy's creator.",
+      "url": "https://docs.nested.fi/general-information/fees-managment",
+      "source": "Nested"
+    }
+  ]
 }

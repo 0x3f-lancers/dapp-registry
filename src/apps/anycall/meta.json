@@ -29,5 +29,19 @@
       "chainstack",
       "turnkey"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Using Cross-Chain Calls",
+      "tldr": "How a contract on one chain triggers one on another, and what has to be true for it to arrive.",
+      "url": "https://docs.multichain.org/getting-started/how-to-use",
+      "source": "Multichain"
+    },
+    {
+      "title": "The Questions That Come Up",
+      "tldr": "Fees, delays and failure modes answered directly, which is most of what integrators need first.",
+      "url": "https://docs.multichain.org/getting-started/faq",
+      "source": "Multichain"
+    }
+  ]
 }

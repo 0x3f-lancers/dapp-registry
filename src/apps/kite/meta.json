@@ -35,5 +35,19 @@
       "teku",
       "aleph-im"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Funding An Agent's Wallet",
+      "tldr": "How an autonomous agent gets spending power, and the limits placed on it before it does.",
+      "url": "https://docs.gokite.ai/kite-agent-passport/funding",
+      "source": "Kite"
+    },
+    {
+      "title": "The Service Provider Guide",
+      "tldr": "What a service has to expose to accept agent payments, and how identity is verified in that flow.",
+      "url": "https://docs.gokite.ai/kite-agent-passport/service-provider-guide",
+      "source": "Kite"
+    }
+  ]
 }

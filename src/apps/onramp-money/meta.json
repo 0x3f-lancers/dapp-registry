@@ -52,5 +52,25 @@
       "orca",
       "shade-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Fiat On-Ramps Work",
+      "tldr": "The full path from a bank payment to tokens in a wallet, including where the compliance and settlement risk sits.",
+      "url": "https://stripe.com/resources/more/fiat-onramp-guide",
+      "source": "Stripe"
+    },
+    {
+      "title": "On-Ramps In Plain English",
+      "tldr": "What an on-ramp does, why fees differ so much between them, and what a user is actually agreeing to at KYC.",
+      "url": "https://banxa.com/learn/crypto-basics/what-is-an-on-ramp",
+      "source": "Banxa"
+    },
+    {
+      "title": "Local Rails, Country By Country",
+      "tldr": "The company's own account of building UPI, SEPA and PIX flows, and what each market demanded differently.",
+      "url": "https://onramp.money/about/",
+      "source": "Onramp Money"
+    }
+  ]
 }

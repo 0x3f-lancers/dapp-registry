@@ -1,42 +1,63 @@
 {
-    "slug":  "etherspot",
-    "name":  "Etherspot",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770746828/web3-explorer/dapp-logos/etherspot.jpg",
-    "category":  "Solidity Tools",
-    "subcategory":  [
-                        "Solidity Developer Tools"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "Polygon",
-                   "BNB Chain",
-                   "Arbitrum",
-                   "OP Mainnet",
-                   "Avalanche",
-                   "Multichain",
-                   "Mantle"
-               ],
-    "pricing":  "",
-    "content":  {
-                    "short":  "Etherspot provides account abstraction infrastructure, smart wallet tooling, and developer SDKs for building smoother Mantle apps.",
-                    "description":  "Etherspot is a developer platform focused on account abstraction and chain abstraction for EVM applications. Its official materials highlight ERC-4337 infrastructure, smart account SDKs, paymasters, bundlers, transaction tooling, and onboarding features such as gasless flows or social-style user experiences. Rather than acting as a consumer wallet, Etherspot serves teams building wallets, games, and dApps that want to remove friction from signing and transaction execution. On Mantle, it fits as smart wallet infrastructure for builders who want better UX without giving up self-custody or programmable controls.",
-                    "meta":  "Etherspot provides account abstraction infrastructure, smart wallet tooling, and developer SDKs for app builders on Mantle.",
-                    "pageTitle":  "Etherspot - Solidity Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://etherspot.io/",
-                  "twitter":  "https://x.com/etherspot"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "husky",
-                                           "ethernal",
-                                           "robot-framework"
-                                       ],
-                      "related":  [
-                                      "amarna",
-                                      "ethereum-transaction-viewer",
-                                      "huffmate"
-                                  ]
-                  }
+  "slug": "etherspot",
+  "name": "Etherspot",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746828/web3-explorer/dapp-logos/etherspot.jpg",
+  "category": "Solidity Tools",
+  "subcategory": [
+    "Solidity Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Arbitrum",
+    "OP Mainnet",
+    "Avalanche",
+    "Multichain",
+    "Mantle"
+  ],
+  "pricing": "",
+  "content": {
+    "short": "Etherspot provides account abstraction infrastructure, smart wallet tooling, and developer SDKs for building smoother Mantle apps.",
+    "description": "Etherspot is a developer platform focused on account abstraction and chain abstraction for EVM applications. Its official materials highlight ERC-4337 infrastructure, smart account SDKs, paymasters, bundlers, transaction tooling, and onboarding features such as gasless flows or social-style user experiences. Rather than acting as a consumer wallet, Etherspot serves teams building wallets, games, and dApps that want to remove friction from signing and transaction execution. On Mantle, it fits as smart wallet infrastructure for builders who want better UX without giving up self-custody or programmable controls.",
+    "meta": "Etherspot provides account abstraction infrastructure, smart wallet tooling, and developer SDKs for app builders on Mantle.",
+    "pageTitle": "Etherspot - Solidity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://etherspot.io/",
+    "twitter": "https://x.com/etherspot"
+  },
+  "relations": {
+    "alternatives": [
+      "husky",
+      "ethernal",
+      "robot-framework"
+    ],
+    "related": [
+      "amarna",
+      "ethereum-transaction-viewer",
+      "huffmate"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Funding Account Abstraction Work",
+      "tldr": "The grant announcement, and with it a plain account of which parts of the account abstraction stack the team was building.",
+      "url": "https://etherspot.io/blog/etherspot-receives-a-grant-from-ethereum-foundation/",
+      "source": "Etherspot",
+      "publishedAt": "2023-09-06"
+    },
+    {
+      "title": "Native Account Abstraction, Delayed",
+      "tldr": "Where EIP-7702 and ERC-4337 actually stand, what slipped, and what that means for anyone shipping smart accounts now.",
+      "url": "https://etherspot.io/blog/native-aa-delayed-erc-4337-gets-a-reality-check-eoa-migration-debated-ethereum-drops-poseidon/",
+      "source": "Etherspot"
+    },
+    {
+      "title": "The Case For Native AA",
+      "tldr": "Base backing EIP-8130 and the wallet fragmentation argument underneath it, covered from a builder's point of view.",
+      "url": "https://etherspot.io/blog/base-backs-eip-8130-for-native-aa-ethereum-opens-the-plataberget-testnet-builders-debate-wallet-fragmentation-nethermind-leaves-layerzero-for-chainlink/",
+      "source": "Etherspot"
+    }
+  ]
 }

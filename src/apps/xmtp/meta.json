@@ -33,5 +33,25 @@
       "venly",
       "free-bitcoins-com"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Protocol Is Layered",
+      "tldr": "Application, client and network split apart, showing what each layer is responsible for and what it never sees.",
+      "url": "https://docs.xmtp.org/protocol/overview",
+      "source": "XMTP"
+    },
+    {
+      "title": "What The Encryption Guarantees",
+      "tldr": "Forward secrecy and post-compromise security explained in terms of what an attacker gets after stealing a key.",
+      "url": "https://docs.xmtp.org/protocol/security",
+      "source": "XMTP"
+    },
+    {
+      "title": "Building Your First Chat App",
+      "tldr": "A getting-started path for developers, covering identities, installations and the parts that surprise people.",
+      "url": "https://docs.xmtp.org/chat-apps/intro/get-started",
+      "source": "XMTP"
+    }
+  ]
 }

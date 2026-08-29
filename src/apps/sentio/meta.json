@@ -35,5 +35,19 @@
       "subquery",
       "ormi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Benchmarking Blockchain Indexers",
+      "tldr": "An open benchmark for indexers: the workloads, the method, and what the numbers say about where each one slows down.",
+      "url": "https://www.sentio.xyz/blog/obib-open-blockchain-indexer-benchmark",
+      "source": "Sentio"
+    },
+    {
+      "title": "From Transaction To Dashboard",
+      "tldr": "A developer walkthrough of turning raw chain activity into monitored metrics, using one network end to end.",
+      "url": "https://www.sentio.xyz/blog/from-transaction-to-dashboard-a-developers-guide-to-monitoring-iota",
+      "source": "Sentio"
+    }
+  ]
 }

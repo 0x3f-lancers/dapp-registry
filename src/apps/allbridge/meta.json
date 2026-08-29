@@ -35,5 +35,19 @@
       "circular-protocol",
       "areon-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Bridge Security Review",
+      "tldr": "A published audit of the bridge contracts, showing what reviewers check on cross-chain code specifically.",
+      "url": "https://allbridge.io/assets/docs/reports/24-01-1500-REP-Allbridge%20Soroban%20Bridge-v1.2.pdf",
+      "source": "Allbridge"
+    },
+    {
+      "title": "A Second Independent Review",
+      "tldr": "Another firm's report on the same system, useful for seeing where two auditors disagree.",
+      "url": "https://allbridge.io/assets/docs/reports/24-03-1573-REP-Allbridge-Estrela-Review-V1.1.pdf",
+      "source": "Allbridge"
+    }
+  ]
 }

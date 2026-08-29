@@ -30,5 +30,25 @@
       "polygon-smart-contracts",
       "mosaia"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building A GPT-3 App",
+      "tldr": "A build-along for wiring a language model into a working product, written for someone shipping their first one.",
+      "url": "https://buildspace.so/notes/build-gpt3-app-for-dms",
+      "source": "buildspace"
+    },
+    {
+      "title": "No-Code Meets The Model",
+      "tldr": "Assembling an app without writing a backend, and where that approach starts to break down.",
+      "url": "https://buildspace.so/notes/gpt3-nocode-app",
+      "source": "buildspace"
+    },
+    {
+      "title": "Customer Research With A Model",
+      "tldr": "Using a model to find out what people actually want before building, with the prompts and the caveats.",
+      "url": "https://buildspace.so/notes/chatgpt-customer-research",
+      "source": "buildspace"
+    }
+  ]
 }

@@ -32,5 +32,19 @@
       "cobo-argus",
       "etherspot"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Network Is Built",
+      "tldr": "The architecture of the rollup: what runs where, and which component is responsible for finality.",
+      "url": "https://docs.mantle.xyz/network/system-information/architecture",
+      "source": "Mantle"
+    },
+    {
+      "title": "The Life Of A Transaction",
+      "tldr": "A transaction traced from submission to settlement on L1, which is what a bridge withdrawal depends on.",
+      "url": "https://docs.mantle.xyz/network/system-information/transaction-lifecycle",
+      "source": "Mantle"
+    }
+  ]
 }

@@ -31,5 +31,25 @@
       "narval",
       "imtoken"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Solidity, By Example",
+      "tldr": "Learning the language through worked contracts rather than syntax lists, in the style the bootcamp taught.",
+      "url": "https://www.web3.university/article/solidity-by-example",
+      "source": "Web3 University"
+    },
+    {
+      "title": "A Frontend For Your Contract",
+      "tldr": "Connecting React to a deployed contract: reading state, sending transactions and handling the wallet.",
+      "url": "https://www.web3.university/article/build-a-web3-frontend-with-react",
+      "source": "Web3 University"
+    },
+    {
+      "title": "Creating Your First NFT",
+      "tldr": "The full path from metadata to a minted token, which is the standard first project on any bootcamp.",
+      "url": "https://www.web3.university/article/how-to-create-an-nft",
+      "source": "Web3 University"
+    }
+  ]
 }

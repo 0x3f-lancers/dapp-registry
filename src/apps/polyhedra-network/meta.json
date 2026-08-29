@@ -42,5 +42,19 @@
       "arkworks-marlin",
       "ingonmaya"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Zero-Knowledge Bridging",
+      "tldr": "The founding argument: proving consensus cryptographically instead of trusting a validator set to relay it.",
+      "url": "https://medium.com/polyhedra-network/why-polyhedra-network-zk-67420617602c",
+      "source": "Polyhedra Network"
+    },
+    {
+      "title": "Advancing The Proof Systems",
+      "tldr": "The research direction behind the bridge, covering the proving work that makes on-chain verification affordable.",
+      "url": "https://medium.com/polyhedra-network/join-us-in-advancing-zero-knowledge-proofs-5ca5bc63d990",
+      "source": "Polyhedra Network"
+    }
+  ]
 }

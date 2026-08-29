@@ -45,5 +45,19 @@
     "related": [
       "guarda-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Transaction Policies",
+      "tldr": "How spending rules are enforced before a signature is produced, which is the point of a shared vault.",
+      "url": "https://docs.mpcvault.com/guides/15-vault-transaction-policies",
+      "source": "MPCVault"
+    },
+    {
+      "title": "Moving Funds In",
+      "tldr": "The deposit path and the checks around it, written for a team setting up custody for the first time.",
+      "url": "https://docs.mpcvault.com/guides/6-how-do-I-transfer-funds-into-mpcvault",
+      "source": "MPCVault"
+    }
+  ]
 }

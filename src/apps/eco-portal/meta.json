@@ -33,5 +33,25 @@
       "supra",
       "celer-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Eco Is",
+      "tldr": "The problem it solves for stablecoin movement, and what a user never has to think about as a result.",
+      "url": "https://docs.eco.com/get-started/what-is-eco",
+      "source": "Eco"
+    },
+    {
+      "title": "Programmable Addresses",
+      "tldr": "How one address can behave differently per chain, and what that removes from a cross-chain payment.",
+      "url": "https://docs.eco.com/addresses/overview",
+      "source": "Eco"
+    },
+    {
+      "title": "How Routes Work",
+      "tldr": "The routing layer explained: how a transfer finds its path and who fronts the liquidity for it.",
+      "url": "https://docs.eco.com/routes/overview",
+      "source": "Eco"
+    }
+  ]
 }

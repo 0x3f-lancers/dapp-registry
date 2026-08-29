@@ -37,5 +37,19 @@
       "multisender",
       "magic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Simulating Transactions",
+      "tldr": "How simulations are stored and queried, which is what makes gas profiling repeatable rather than one-off.",
+      "url": "https://docs.tenderly.co/api-reference/simulator/fetch-all-simulated-transactions",
+      "source": "Tenderly"
+    },
+    {
+      "title": "The Node RPC",
+      "tldr": "What this endpoint adds over a plain node, particularly for debugging a failed transaction.",
+      "url": "https://docs.tenderly.co/node-rpc/overview",
+      "source": "Tenderly"
+    }
+  ]
 }

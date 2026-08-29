@@ -32,5 +32,25 @@
       "algebra-protocol",
       "banxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What A Perp DEX Aggregator Is",
+      "tldr": "Why routing a perpetual trade differs from routing a spot swap, and what the aggregator is optimising for.",
+      "url": "https://vooi.io/perpdexaggregator/what-is-a-perp-dex-aggregator",
+      "source": "Vooi"
+    },
+    {
+      "title": "The Perp DEX Landscape",
+      "tldr": "The main venues compared on liquidity, fees and funding, with what each is actually good at.",
+      "url": "https://vooi.io/perpdexaggregator/best-perp-dexs-in-2026",
+      "source": "Vooi"
+    },
+    {
+      "title": "An Execution Layer For Agents",
+      "tldr": "How trades get executed through a machine-readable interface, and what a model can and cannot be trusted with.",
+      "url": "https://vooi.io/perpdexaggregator/vooi-mcp-execution-layer",
+      "source": "Vooi"
+    }
+  ]
 }

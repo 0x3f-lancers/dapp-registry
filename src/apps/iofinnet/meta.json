@@ -37,5 +37,25 @@
     "related": [
       "haha-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Security By Design In Custody",
+      "tldr": "The argument that institutional key handling has to start from the threat model, drawn from how phone security evolved.",
+      "url": "https://www.iofinnet.com/post/from-iphone-to-institutional-wallets-why-security-by-design-is-the-only-way-forward",
+      "source": "io.finnet"
+    },
+    {
+      "title": "Securing An OTC Desk",
+      "tldr": "A case study of how one trading firm arranged approvals and signing so no single person can move funds.",
+      "url": "https://www.iofinnet.com/post/how-garlic-capital-secures-otc-operations-with-io-finnet",
+      "source": "io.finnet"
+    },
+    {
+      "title": "Swaps From Inside An Exchange",
+      "tldr": "What an exchange needs from a custody layer to offer swaps and limit orders without taking on key risk itself.",
+      "url": "https://www.iofinnet.com/post/why-exchanges-choose-io-finnet-to-power-openocean-swaps-and-limit-orders",
+      "source": "io.finnet"
+    }
+  ]
 }

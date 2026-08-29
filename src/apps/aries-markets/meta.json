@@ -34,5 +34,19 @@
       "solayer",
       "eisenlabs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started",
+      "tldr": "Depositing, borrowing and repaying walked through, with the health factor explained as you go.",
+      "url": "https://docs.ariesmarkets.xyz/aries-markets/tutorial/getting-started",
+      "source": "Aries Markets"
+    },
+    {
+      "title": "Lending And Borrowing Parameters",
+      "tldr": "The collateral factors and rate curves that decide what you can borrow and what it costs.",
+      "url": "https://docs.ariesmarkets.xyz/aries-markets/protocol-parameters/lending-and-borrowing",
+      "source": "Aries Markets"
+    }
+  ]
 }

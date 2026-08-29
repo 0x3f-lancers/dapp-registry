@@ -35,5 +35,19 @@
     "related": [
       "decimal"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting MEV Back",
+      "tldr": "How value extracted from your transaction can be returned to you, and what the RPC has to do to capture it.",
+      "url": "https://docs.omniatech.io/defi/mev-cashback",
+      "source": "OMNIA"
+    },
+    {
+      "title": "Hardening A Transaction",
+      "tldr": "What a protected transaction does differently on its way to a block, and which attacks that prevents.",
+      "url": "https://docs.omniatech.io/defi/reinforced-transactions",
+      "source": "OMNIA"
+    }
+  ]
 }

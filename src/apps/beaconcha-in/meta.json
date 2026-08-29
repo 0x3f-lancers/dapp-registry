@@ -30,5 +30,19 @@
       "robot-framework",
       "astar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Measuring Validator Performance",
+      "tldr": "What the performance metrics actually measure, and why two validators with the same stake differ.",
+      "url": "https://docs.beaconcha.in/use-cases/performance-introduction",
+      "source": "beaconcha.in"
+    },
+    {
+      "title": "Comparing Staking Entities",
+      "tldr": "How operators are ranked against each other, and which of those numbers are worth acting on.",
+      "url": "https://docs.beaconcha.in/use-cases/rank-and-compare-entities",
+      "source": "beaconcha.in"
+    }
+  ]
 }

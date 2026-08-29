@@ -32,5 +32,19 @@
       "boomfi",
       "drpc"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Client SDK",
+      "tldr": "How an app requests and verifies attestations about a user without holding the underlying data.",
+      "url": "https://docs.clique.tech/build-with-clique/clique-client-sdk",
+      "source": "Clique"
+    },
+    {
+      "title": "Application Structure",
+      "tldr": "How a verification app is put together, and what each part is responsible for proving.",
+      "url": "https://docs.clique.tech/build-with-clique/clique-application-structure",
+      "source": "Clique"
+    }
+  ]
 }

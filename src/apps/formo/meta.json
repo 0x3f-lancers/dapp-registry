@@ -29,5 +29,21 @@
       "dipdup",
       "mobula"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Attributing A Wallet To A Campaign",
+      "tldr": "The problem with measuring onchain acquisition when there are no cookies, and which signals actually connect a wallet to a source.",
+      "url": "https://formo.so/blog/best-web3-analytics-wallet-attribution",
+      "source": "Formo",
+      "publishedAt": "2023-11-01"
+    },
+    {
+      "title": "Segmenting Users By What They Do",
+      "tldr": "Building cohorts from onchain behaviour rather than declared traits, and what that changes about who you target.",
+      "url": "https://formo.so/blog/web3-analytics-onchain-user-segmentation",
+      "source": "Formo",
+      "publishedAt": "2023-11-29"
+    }
+  ]
 }

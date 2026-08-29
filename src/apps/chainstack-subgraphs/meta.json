@@ -43,5 +43,19 @@
       "omnia",
       "traxed-supply-chain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting An RPC Endpoint Working",
+      "tldr": "A worked how-to for standing up a node endpoint on one network, with the config choices that decide reliability later.",
+      "url": "https://chainstack.com/learn/how-to/how-to-get-stellar-rpc-endpoint/",
+      "source": "Chainstack"
+    },
+    {
+      "title": "An RPC Endpoint That Survives MEV",
+      "tldr": "Choosing and configuring an Ethereum endpoint when the mempool is adversarial, and what a private route changes about it.",
+      "url": "https://chainstack.com/learn/how-to/how-to-get-ethereum-rpc-endpoint-mev-2026/",
+      "source": "Chainstack"
+    }
+  ]
 }
