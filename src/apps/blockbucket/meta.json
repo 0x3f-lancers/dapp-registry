@@ -29,5 +29,19 @@
     "related": [
       "decent"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Sending One Token To Many Wallets",
+      "tldr": "A walkthrough of a batch ERC-20 transfer: preparing the address list, what the gas actually covers, and where a batch can fail halfway.",
+      "url": "https://blockbucket.io/blog/how-to-multisend-erc-20-with-blockbucket/",
+      "source": "BlockBucket"
+    },
+    {
+      "title": "The Toolset, Summarised",
+      "tldr": "A reference entry covering what the multisend and token tools do and which chains they cover.",
+      "url": "https://moralis.com/web3-wiki/blockbucket/",
+      "source": "Moralis Web3 Wiki"
+    }
+  ]
 }

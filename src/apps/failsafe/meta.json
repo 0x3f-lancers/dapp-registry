@@ -36,5 +36,26 @@
       "walletos",
       "fortress-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Threat Research For Web3 Teams",
+      "tldr": "Write-ups of attacks the team has analysed, with the pattern behind each one rather than just the amount lost.",
+      "url": "https://getfailsafe.com/category/research",
+      "source": "FailSafe",
+      "publishedAt": "2026-07-27"
+    },
+    {
+      "title": "Fifteen Security Practices",
+      "tldr": "A checklist for blockchain developers covering the mistakes that keep producing exploits, with the reasoning for each.",
+      "url": "https://getfailsafe.com/15-security-best-practices",
+      "source": "FailSafe"
+    },
+    {
+      "title": "Anatomy Of The Bybit Breach",
+      "tldr": "How a malicious multisig transaction got signed, and which controls would have caught it before execution.",
+      "url": "https://getfailsafe.com/preventing-the-bybit-breach-failsafe-stops-malicious-multisig-exploits/",
+      "source": "FailSafe"
+    }
+  ]
 }

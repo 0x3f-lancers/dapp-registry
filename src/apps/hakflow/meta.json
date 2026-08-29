@@ -37,5 +37,19 @@
       "cube3-ai",
       "swc-registry"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reverse Engineering A Session ID",
+      "tldr": "A hands-on teardown of how one platform's session tokens are built, and what that exposes to an attacker.",
+      "url": "https://hakflow.com/post/facebook-reverse-engineering-x-fb-session-id",
+      "source": "HAKFLOW"
+    },
+    {
+      "title": "Security Research And Insights",
+      "tldr": "The firm's research index, covering audit findings and the attack techniques they see in live engagements.",
+      "url": "https://hakflow.com/blog.html",
+      "source": "HAKFLOW"
+    }
+  ]
 }
