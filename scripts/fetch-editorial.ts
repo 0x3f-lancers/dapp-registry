@@ -259,7 +259,10 @@ async function main() {
     );
 
     posts.sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? ''));
-    all.push(...posts);
+    // `--limit` is how many posts to keep per source, applied after the date
+    // sort so it keeps the newest rather than an arbitrary slice of the index.
+    // It is separate from `--scan`, which caps how many pages get fetched.
+    all.push(...posts.slice(0, limit));
     console.log(
       `${src.id}: kept ${posts.filter((p) => !p.rejected).length}/${posts.length}`,
     );
