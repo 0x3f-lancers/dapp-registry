@@ -46,11 +46,16 @@ data/resources-added.json
 data/selections/
 
 # One-off local helper scripts used during resource curation.
+#
+# fetch-resource-images.ts is deliberately NOT here. It carries the rules for
+# what counts as usable artwork, and those rules were being lost: a site's own
+# logo is what a CMS serves as og:image when a post has no featured image, so
+# every article on that blog reported the same picture. Keeping the file local
+# meant that fix had to be rediscovered on each machine.
 scripts/apply-tldr-patch.ts
 scripts/check-resource-links.ts
 scripts/enrich-resources.ts
 scripts/export-new-batch.ts
-scripts/fetch-resource-images.ts
 scripts/probe-article-tags.ts
 data/resources-batch4-100.json
 data/resources-fourth-batch-100.json
