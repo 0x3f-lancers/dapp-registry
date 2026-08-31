@@ -37,23 +37,20 @@
       "title": "Mapping a Timestamp to a Block",
       "tldr": "Harder than it sounds on-chain. The design that makes historical lookups provable.",
       "url": "https://docs.herodotus.dev/herodotus-docs/protocol-design/timestamp-to-block-number-mapper",
-      "source": "Herodotus Docs",
-      "image": "https://docs.herodotus.dev/herodotus-docs/~gitbook/image?url=https%3A%2F%2F1694265157-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F3TBwtPMEVIGQI1B6u4Ii%252Fsocialpreview%252FRBmRc4fdl3D3cNwTlNHm%252FGitBook%2520Thumbnail%2520%281%29.png%3Falt%3Dmedia%26token%3D3612ccf1-e91b-4c26-863b-76e6177607d4&width=1200&height=630&sign=5f2b4af3&sv=2"
+      "source": "Herodotus Docs"
     },
     {
       "title": "Accessing Historical Block Hashes",
       "tldr": "Contracts can only see recent blocks. The accumulator that extends that reach.",
       "url": "https://docs.herodotus.dev/herodotus-docs/protocol-design/historical-block-hash-accumulator",
-      "source": "Herodotus Docs",
-      "image": "https://docs.herodotus.dev/herodotus-docs/~gitbook/image?url=https%3A%2F%2F1694265157-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F3TBwtPMEVIGQI1B6u4Ii%252Fsocialpreview%252FRBmRc4fdl3D3cNwTlNHm%252FGitBook%2520Thumbnail%2520%281%29.png%3Falt%3Dmedia%26token%3D3612ccf1-e91b-4c26-863b-76e6177607d4&width=1200&height=630&sign=5f2b4af3&sv=2"
+      "source": "Herodotus Docs"
     },
     {
       "title": "Proving Historical State",
       "tldr": "Using storage proofs to demonstrate what a contract held at some past block.",
       "url": "https://docs.herodotus.dev/herodotus-docs/developers/storage-proof-api",
       "source": "Herodotus Docs",
-      "tag": "Infrastructure",
-      "image": "https://docs.herodotus.dev/herodotus-docs/~gitbook/image?url=https%3A%2F%2F1694265157-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F3TBwtPMEVIGQI1B6u4Ii%252Fsocialpreview%252FRBmRc4fdl3D3cNwTlNHm%252FGitBook%2520Thumbnail%2520%281%29.png%3Falt%3Dmedia%26token%3D3612ccf1-e91b-4c26-863b-76e6177607d4&width=1200&height=630&sign=5f2b4af3&sv=2"
+      "tag": "Infrastructure"
     }
   ]
 }

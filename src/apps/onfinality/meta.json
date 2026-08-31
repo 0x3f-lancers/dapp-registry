@@ -54,16 +54,14 @@
       "tldr": "Full nodes forget old state; archive nodes keep all of it. Which queries need which, and why the second costs so much more.",
       "url": "https://onfinality.io/en/learn/archive-node-vs-full-node",
       "source": "OnFinality",
-      "tag": "Infrastructure",
-      "image": "https://static.onfinality.io/header.jpg"
+      "tag": "Infrastructure"
     },
     {
       "title": "Fixing 429 Too Many Requests",
       "tldr": "Rate limits explained from the provider side, with the batching and backoff changes that actually stop the errors.",
       "url": "https://onfinality.io/en/learn/how-to-fix-rpc-429-too-many-requests",
       "source": "OnFinality",
-      "tag": "Infrastructure",
-      "image": "https://static.onfinality.io/header.jpg"
+      "tag": "Infrastructure"
     }
   ]
 }
