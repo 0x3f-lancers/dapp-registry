@@ -1,0 +1,36 @@
+{
+  "slug": "hyperunit",
+  "name": "Unit",
+  "logoUrl": "https://hyperunit.xyz/brands/unit/apple-touch-icon.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Unit is the asset tokenization layer on Hyperliquid, handling deposits and withdrawals of external assets.",
+    "description": "Unit brings outside assets such as Bitcoin onto Hyperliquid as spot tokens, handling the deposit and withdrawal path in both directions. It is the mechanism by which non-EVM assets become tradeable on HyperCore's order books rather than only through wrapped representations issued elsewhere. For a venue whose main draw is its order book, the range of assets Unit supports directly shapes what can be traded there.",
+    "meta": "Unit is Hyperliquid's asset tokenization layer, handling deposits and withdrawals of external assets.",
+    "pageTitle": "Unit - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperunit.xyz/",
+    "twitter": "https://x.com/unitxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "debridge",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "layerzero",
+      "mayan",
+      "symbiosis"
+    ]
+  }
+}

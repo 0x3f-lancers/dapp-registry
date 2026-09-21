@@ -1,0 +1,36 @@
+{
+  "slug": "kinetiq",
+  "name": "Kinetiq",
+  "logoUrl": "https://kinetiq.xyz/assets/brand/kinetiq/kinetiq-logomark-dark.svg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Kinetiq is a liquid staking protocol on Hyperliquid, issuing kHYPE against staked HYPE.",
+    "description": "Kinetiq issues kHYPE, a liquid staking token representing staked HYPE, so holders keep staking rewards while retaining an asset they can deploy elsewhere in HyperEVM DeFi. It is among the largest protocols by value locked on Hyperliquid. Liquid staking tends to be the first serious DeFi primitive to reach scale on a new proof-of-stake chain, because everything built afterwards wants a yield-bearing version of the native token to work with.",
+    "meta": "Kinetiq is a Hyperliquid liquid staking protocol issuing kHYPE against staked HYPE.",
+    "pageTitle": "Kinetiq - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://kinetiq.xyz/",
+    "github": "https://github.com/kinetiq-research",
+    "twitter": "https://x.com/kinetiq_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "tenderize",
+      "valantis"
+    ],
+    "related": [
+      "0x",
+      "altura-trade",
+      "arrakis-finance"
+    ]
+  }
+}

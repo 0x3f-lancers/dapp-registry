@@ -1,0 +1,37 @@
+{
+  "slug": "keplr",
+  "name": "Keplr",
+  "logoUrl": "https://cdn.prod.website-files.com/667dc891bc7b863b5397495b/68a6ce36c2bf5b25c9cd86cd_symbol%20256.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Monad",
+    "Cosmos"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Keplr is a multi-chain wallet, originally built for Cosmos, now supporting EVM chains including Monad.",
+    "description": "Keplr began as the default wallet for the Cosmos ecosystem and the IBC networks around it, and has since extended to EVM chains. Monad's documentation lists it among software wallets for the network. Wallets that grew up in Cosmos tend to handle multi-chain account management more gracefully than EVM-native ones, because the ecosystem they came from assumed many chains from the start.",
+    "meta": "Keplr is a multi-chain wallet built for Cosmos, now supporting EVM networks including Monad.",
+    "pageTitle": "Keplr - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.keplr.app/",
+    "twitter": "https://x.com/keplrwallet"
+  },
+  "relations": {
+    "alternatives": [
+      "coin98-super-wallet",
+      "imtoken",
+      "trust-wallet"
+    ],
+    "related": [
+      "okx-wallet",
+      "utila",
+      "atomic-wallet"
+    ]
+  }
+}

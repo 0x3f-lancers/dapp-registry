@@ -1,0 +1,35 @@
+{
+  "slug": "gas-zip",
+  "name": "Gas.zip",
+  "logoUrl": "https://www.gas.zip/favicon/apple-touch-icon.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Gas Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Gas.zip is a gas refuel bridge that delivers native gas tokens across 350+ chains.",
+    "description": "Gas.zip solves the bootstrapping problem of arriving on a new chain with assets but no native token to pay fees with, bridging small amounts of gas across more than 350 networks in one transaction. Both Monad's and Hyperliquid's documentation reference it for obtaining native gas. It is a narrow tool, but the problem it addresses catches almost everyone the first time they use a new chain.",
+    "meta": "Gas.zip is a gas refuel bridge delivering native gas tokens across 350+ chains in one transaction.",
+    "pageTitle": "Gas.zip - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.gas.zip/",
+    "twitter": "https://x.com/gasdotzip"
+  },
+  "relations": {
+    "alternatives": [
+      "gelato"
+    ],
+    "related": [
+      "allium",
+      "biconomy",
+      "bubblemaps"
+    ]
+  }
+}

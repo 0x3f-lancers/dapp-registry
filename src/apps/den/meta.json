@@ -1,0 +1,36 @@
+{
+  "slug": "den",
+  "name": "Den",
+  "logoUrl": "https://safe.onchainden.com/favicons/apple-touch-icon.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Multisig Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Den is a Safe-based treasury interface for teams to hold, move and automate digital assets.",
+    "description": "Den builds a team workflow on top of Safe, adding the approval routing, automation and operational tooling that a bare multisig interface leaves to spreadsheets and group chats. Hyperliquid's builder documentation lists it among the Safe multisig instances available for the network. Its pitch is aimed less at key security, which Safe already handles, and more at the human process of getting a transaction reviewed and signed.",
+    "meta": "Den is a Safe-based treasury interface for teams to hold, move and automate digital assets.",
+    "pageTitle": "Den - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://safe.onchainden.com/",
+    "twitter": "https://x.com/onchainden"
+  },
+  "relations": {
+    "alternatives": [
+      "hypersig",
+      "palmera",
+      "gnosis-safe"
+    ],
+    "related": [
+      "safe",
+      "backpack",
+      "fordefi"
+    ]
+  }
+}

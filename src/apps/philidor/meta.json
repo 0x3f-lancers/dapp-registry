@@ -1,0 +1,35 @@
+{
+  "slug": "philidor",
+  "name": "Philidor",
+  "logoUrl": "https://philidor.io/favicon.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Philidor scores and monitors DeFi vaults and tokenized funds, issuing signed risk decisions.",
+    "description": "Philidor assesses vaults and tokenized funds, mapping what each product actually depends on underneath and issuing signed risk decisions against a client's own policy. Monad's documentation lists it under analytics. Dependency mapping is the useful part: yield products routinely wrap other yield products, and the real exposure is often several layers below what the front end advertises.",
+    "meta": "Philidor scores and monitors DeFi vaults and tokenized funds, issuing signed risk decisions.",
+    "pageTitle": "Philidor - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://philidor.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "allium",
+      "birdeye",
+      "bubblemaps"
+    ],
+    "related": [
+      "defillama",
+      "dune",
+      "gamma-research"
+    ]
+  }
+}

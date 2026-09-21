@@ -1,0 +1,35 @@
+{
+  "slug": "perpl",
+  "name": "Perpl",
+  "logoUrl": "https://perpl.xyz/assets/share-logo-Cw66Ed-q.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Perpl is a decentralized perpetual futures exchange with leverage on Monad.",
+    "description": "Perpl trades perpetual futures with leverage on Monad. Perps are the product that most rewards fast block times, since liquidation accuracy and funding updates both degrade when the chain cannot keep pace with price movement, which is the core of Monad's pitch to this category of application.",
+    "meta": "Perpl is a decentralized perpetual futures exchange with leverage on Monad.",
+    "pageTitle": "Perpl - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://perpl.xyz/",
+    "twitter": "https://x.com/perpltrade"
+  },
+  "relations": {
+    "alternatives": [
+      "leverup",
+      "monday-trade"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "swapper-finance",
+  "name": "Swapper Finance",
+  "logoUrl": "https://swapper.finance/favicon-light.svg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Swapper Finance converts any asset on any chain into a trade-ready stablecoin balance.",
+    "description": "Swapper Finance takes an inbound asset on whichever chain it arrives from and delivers a trade-ready stablecoin balance, collapsing bridging and swapping into a single integration for the receiving application. Monad's documentation lists it among onramps. The pattern recurs across this category: applications want funds in one specific form, and users hold everything but that.",
+    "meta": "Swapper Finance converts any asset on any chain into a trade-ready stablecoin balance.",
+    "pageTitle": "Swapper Finance - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://swapper.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "ghost-xyz",
+  "name": "Ghost",
+  "logoUrl": "https://tryghost.xyz/favicon.ico",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Ghost builds GhostGraph, an indexing framework for writing custom on-chain data transforms.",
+    "description": "Ghost is a data infrastructure studio whose GhostGraph framework lets developers define custom indexers for specific contracts rather than relying on a generic schema. Monad's documentation lists it among indexing frameworks for the chain. Custom indexing becomes necessary once an application's important state is derived rather than stored, which is the usual case for anything computing positions or accruals.",
+    "meta": "Ghost builds GhostGraph, an indexing framework for custom on-chain data transforms, including Monad.",
+    "pageTitle": "Ghost - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tryghost.xyz/",
+    "twitter": "https://x.com/0xGhostLogs"
+  },
+  "relations": {
+    "alternatives": [
+      "covalent",
+      "goldsky",
+      "streamingfast"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "envio"
+    ]
+  }
+}

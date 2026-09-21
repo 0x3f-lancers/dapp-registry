@@ -1,0 +1,35 @@
+{
+  "slug": "hydromancer",
+  "name": "Hydromancer",
+  "logoUrl": "https://docs.hydromancer.xyz/~gitbook/ogimage/OFv5OCPthlSvyhbB3g7i",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "Hydromancer offers low-latency Hyperliquid APIs, streaming, historical datasets and node peering.",
+    "description": "Hydromancer supplies the data infrastructure around Hyperliquid that trading teams typically build themselves: rate-limit-free APIs, streaming feeds, historical order book datasets and node peering for teams running their own infrastructure. Hyperliquid's builder documentation lists it under APIs, indexing and node peers, which is an unusually broad footprint for a single provider and reflects how much of the stack it covers.",
+    "meta": "Hydromancer provides low-latency Hyperliquid APIs, streaming, historical data and node peering.",
+    "pageTitle": "Hydromancer - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.hydromancer.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "sonarx",
+      "chainstack-subgraphs",
+      "envio"
+    ],
+    "related": [
+      "subquery",
+      "subsquid",
+      "uniblock"
+    ]
+  }
+}

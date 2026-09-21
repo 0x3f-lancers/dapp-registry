@@ -1,0 +1,39 @@
+{
+  "slug": "ipor",
+  "name": "IPOR",
+  "logoUrl": "https://www.ipor.io/icons/fusion-light.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "IPOR builds Fusion, vault infrastructure for accessing, deploying and managing onchain strategies.",
+    "description": "IPOR started as an on-chain interest rate benchmark and now builds Fusion, infrastructure that lets managers run vaults which allocate across protocols from a single interface. It is one of the few protocols deployed on all three of Hyperliquid, Monad and Robinhood Chain. The vault-infrastructure framing has become the common way for managers to bring strategies on-chain without writing protocol code.",
+    "meta": "IPOR builds Fusion, vault infrastructure for deploying and managing onchain strategies.",
+    "pageTitle": "IPOR - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.ipor.io/",
+    "github": "https://github.com/IPOR-Labs",
+    "twitter": "https://x.com/ipor_io"
+  },
+  "relations": {
+    "alternatives": [
+      "beefy",
+      "d2-finance",
+      "neutral-trade"
+    ],
+    "related": [
+      "lagoon",
+      "upshift",
+      "veda"
+    ]
+  }
+}

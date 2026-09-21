@@ -1,0 +1,35 @@
+{
+  "slug": "unlink",
+  "name": "Unlink",
+  "logoUrl": "https://www.unlink.xyz/favicon.svg?v=unlink-monogram",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Unlink enables private on-chain money movement for fintechs and treasury teams, built for compliance.",
+    "description": "Unlink lets institutions move funds on public chains without broadcasting their full activity, aimed at fintechs, payment processors and treasury teams that cannot expose counterparties and balances to competitors. Monad's documentation lists it under privacy. The design question for anything in this category is whether it can offer confidentiality while remaining auditable, and Unlink positions itself explicitly on that side.",
+    "meta": "Unlink enables compliant private on-chain money movement for fintechs and treasury teams.",
+    "pageTitle": "Unlink - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://unlink.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "blockaid",
+      "chainalysis",
+      "elliptic"
+    ],
+    "related": [
+      "cyberscope",
+      "phalcon",
+      "trm-labs"
+    ]
+  }
+}

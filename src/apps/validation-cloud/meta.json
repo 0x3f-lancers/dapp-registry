@@ -1,0 +1,37 @@
+{
+  "slug": "validation-cloud",
+  "name": "Validation Cloud",
+  "logoUrl": "https://cdn.prod.website-files.com/653acce1d72443c35298481d/67040bdf0ebb3269c2de3dd7_ICON%202.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Monad",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "Validation Cloud offers institutional node APIs, staking and data products for digital assets.",
+    "description": "Validation Cloud combines a high-performance node API with enterprise staking and a data-and-AI product line, aimed at institutions that want one provider across all three rather than stitching together separate vendors. Both Monad's and Robinhood Chain's documentation list it among supported RPC providers. Robinhood Chain named it in the institutional infrastructure group at launch.",
+    "meta": "Validation Cloud provides institutional node APIs, staking and data products for digital assets.",
+    "pageTitle": "Validation Cloud - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://validationcloud.io/",
+    "twitter": "https://x.com/validationcloud"
+  },
+  "relations": {
+    "alternatives": [
+      "blockdaemon",
+      "blockpi-network",
+      "chainstack"
+    ],
+    "related": [
+      "alchemy",
+      "drpc",
+      "dwellir"
+    ]
+  }
+}

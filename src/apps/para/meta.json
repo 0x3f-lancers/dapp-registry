@@ -1,0 +1,36 @@
+{
+  "slug": "para",
+  "name": "Para",
+  "logoUrl": "https://www.getpara.com/images/Webclip.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Embedded Wallets"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Para is a non-custodial embedded wallet SDK using MPC, with email, phone and social login.",
+    "description": "Para lets applications create wallets for users behind familiar logins, splitting keys with MPC so the wallet stays non-custodial while the user never handles a seed phrase. Monad's documentation lists it among embedded wallet providers. Embedded wallets are how most consumer applications now onboard users, having concluded that seed phrase education is a losing battle at scale.",
+    "meta": "Para is a non-custodial MPC embedded wallet SDK with email, phone and social login.",
+    "pageTitle": "Para - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://getpara.com/",
+    "twitter": "https://x.com/getpara"
+  },
+  "relations": {
+    "alternatives": [
+      "crossmint",
+      "mera",
+      "privy"
+    ],
+    "related": [
+      "dynamic",
+      "openfort",
+      "ahoracrypto"
+    ]
+  }
+}

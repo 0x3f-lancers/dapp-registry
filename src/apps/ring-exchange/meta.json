@@ -1,0 +1,35 @@
+{
+  "slug": "ring-exchange",
+  "name": "Ring",
+  "logoUrl": "https://app.ring.exchange/images/192x192_App_Icon.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Ring is a bridging and liquidity interface serving Hyperliquid.",
+    "description": "Ring provides bridging and liquidity routing into Hyperliquid, part of the infrastructure layer that formed around the chain once HyperEVM opened it to general applications. Bridge depth is usually the practical constraint on how quickly capital reaches a new chain, regardless of what the applications there offer.",
+    "meta": "Ring is a bridging and liquidity interface serving Hyperliquid.",
+    "pageTitle": "Ring - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ring.exchange/"
+  },
+  "relations": {
+    "alternatives": [
+      "debridge",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "hyperunit",
+      "layerzero",
+      "mayan"
+    ]
+  }
+}

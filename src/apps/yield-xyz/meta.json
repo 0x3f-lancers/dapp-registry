@@ -1,0 +1,36 @@
+{
+  "slug": "yield-xyz",
+  "name": "Yield.xyz",
+  "logoUrl": "https://yield.xyz/favicon.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Yield.xyz is a unified API for accessing staking, stablecoin and DeFi yield across 75+ networks.",
+    "description": "Yield.xyz normalises yield opportunities across more than seventy networks behind one API, covering staking, stablecoin yield and DeFi positions so integrators do not write bespoke code per protocol. Monad's documentation lists it under earn and yield. The hard part of this product is not the integrations but keeping them correct as the underlying protocols change.",
+    "meta": "Yield.xyz is a unified API for staking, stablecoin and DeFi yield across 75+ networks.",
+    "pageTitle": "Yield.xyz - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://yield.xyz/",
+    "twitter": "https://x.com/yield_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "auto-finance",
+      "beefy",
+      "blend-money"
+    ],
+    "related": [
+      "eisenlabs",
+      "ipor",
+      "lagoon"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "meshpay",
+  "name": "Meshpay",
+  "logoUrl": "https://cdn.prod.website-files.com/656cc624086b77872a31a084/6a9a39c3603e95ea6415789e_mesh-m-badge-raised.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Meshpay accepts crypto payments from 300+ wallets and exchanges, settling in stablecoins or fiat.",
+    "description": "Meshpay lets merchants accept payment directly from a customer's existing exchange or wallet account across several hundred venues, settling in stablecoins or local currency. Monad's documentation lists it under payment orchestrators. Pulling funds from where users already keep them sidesteps the withdraw-then-pay sequence that loses a large share of transactions.",
+    "meta": "Meshpay accepts crypto payments from 300+ wallets and exchanges, settling in stablecoins or fiat.",
+    "pageTitle": "Meshpay - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://meshpay.com/",
+    "twitter": "https://x.com/mesh"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "rango-exchange",
+  "name": "Rango",
+  "logoUrl": "https://rango.exchange/apple-icon.png?c42dc790426747d3",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Monad",
+    "Ethereum",
+    "Solana",
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Rango is a cross-chain DEX and bridge aggregator routing swaps across many networks.",
+    "description": "Rango aggregates both DEXes and bridges, searching across them for a route between two assets on different chains and handling the multi-step execution. Monad's documentation lists it among the chain's aggregators. Aggregating bridges as well as exchanges is a harder problem than either alone, since a route's cost depends on liquidity and finality on both sides at the time of execution.",
+    "meta": "Rango is a cross-chain DEX and bridge aggregator routing swaps across many networks including Monad.",
+    "pageTitle": "Rango - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rango.exchange/",
+    "twitter": "https://x.com/RangoExchange"
+  },
+  "relations": {
+    "alternatives": [
+      "across",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "jumper-exchange",
+      "mayan",
+      "router-nitro"
+    ]
+  }
+}

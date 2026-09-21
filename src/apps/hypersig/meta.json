@@ -1,0 +1,36 @@
+{
+  "slug": "hypersig",
+  "name": "HyperSig",
+  "logoUrl": "https://www.hypersig.xyz/apple-icon.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Multisig Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "HyperSig brings multisig approvals to Hyperliquid operations such as staking, vaults and transfers.",
+    "description": "HyperSig is a multisig layer built for Hyperliquid, letting a team approve actions collectively rather than trusting a single key. It covers the operations that matter on this chain specifically: staking, vault management, limit orders, agent wallets and transfers. Standard EVM multisigs do not reach HyperCore, which is what makes a Hyperliquid-native approach necessary. Hyperliquid's documentation lists it among the multisig and custody options for teams operating on the network.",
+    "meta": "HyperSig is a Hyperliquid-native multisig for staking, vaults, agent wallets and transfers.",
+    "pageTitle": "HyperSig - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.hypersig.xyz/",
+    "twitter": "https://x.com/hypersig_"
+  },
+  "relations": {
+    "alternatives": [
+      "den",
+      "palmera",
+      "gnosis-safe"
+    ],
+    "related": [
+      "safe",
+      "backpack",
+      "fordefi"
+    ]
+  }
+}

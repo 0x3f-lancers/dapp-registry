@@ -1,0 +1,36 @@
+{
+  "slug": "near-intents",
+  "name": "NEAR Intents",
+  "logoUrl": "https://near-intents.org/favicons/near-intents/apple-touch-icon.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "NEAR Intents lets users state a desired swap and have solvers compete to fill it across chains.",
+    "description": "NEAR Intents applies the intent model to cross-chain swapping: a user declares the outcome they want rather than the path to it, and a network of solvers competes to deliver the best price with on-chain settlement. Monad's documentation lists it under cross-chain tooling. The appeal is that routing complexity becomes the solver's problem rather than the user's.",
+    "meta": "NEAR Intents lets users declare a swap and have solvers compete to fill it across chains.",
+    "pageTitle": "NEAR Intents - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://near-intents.org/",
+    "twitter": "https://x.com/nearprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "across",
+      "bungee",
+      "debridge"
+    ],
+    "related": [
+      "garden-finance",
+      "houdini-swap",
+      "hyperlane"
+    ]
+  }
+}

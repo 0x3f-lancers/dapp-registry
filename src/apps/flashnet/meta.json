@@ -1,0 +1,37 @@
+{
+  "slug": "flashnet",
+  "name": "Flashnet",
+  "logoUrl": "https://www.flashnet.xyz/favicon/apple-touch-icon.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Flashnet is non-custodial Bitcoin orchestration for onramps, offramps, swaps and cross-chain transfers.",
+    "description": "Flashnet routes onramps, offramps, swaps and cross-chain transfers through one non-custodial API with a Bitcoin focus. Monad's documentation lists it under both cross-chain tooling and onramps. Bitcoin-centred infrastructure sits slightly apart from the EVM tooling world, since the absence of general smart contracts forces different designs for the same problems.",
+    "meta": "Flashnet is non-custodial Bitcoin orchestration for onramps, offramps, swaps and cross-chain transfers.",
+    "pageTitle": "Flashnet - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://flashnet.xyz/",
+    "twitter": "https://x.com/flashnet"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "beam-cash",
+      "brale"
+    ],
+    "related": [
+      "meld",
+      "bridge-xyz",
+      "capa-fi"
+    ]
+  }
+}

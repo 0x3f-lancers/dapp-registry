@@ -1,0 +1,36 @@
+{
+  "slug": "node101",
+  "name": "Node101",
+  "logoUrl": "https://node101.io/apple-touch-icon.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Node101 is a blockchain infrastructure provider offering validation, RPC and consulting services.",
+    "description": "Node101 has operated as a blockchain infrastructure provider since 2022, running validators and enterprise RPC alongside product development and consulting work. Monad's documentation lists it among supported RPC providers for both mainnet and testnet. Teams of this shape often start as validators for a specific ecosystem and expand into the surrounding services their own operations required first.",
+    "meta": "Node101 provides blockchain validation, enterprise RPC and consulting services including Monad.",
+    "pageTitle": "Node101 - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://node101.io/",
+    "twitter": "https://x.com/node_101"
+  },
+  "relations": {
+    "alternatives": [
+      "blockdaemon",
+      "blockpi-network",
+      "boltrpc"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "chainstack"
+    ]
+  }
+}

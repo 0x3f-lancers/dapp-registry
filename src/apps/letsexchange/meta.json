@@ -1,0 +1,36 @@
+{
+  "slug": "letsexchange",
+  "name": "LetsExchange",
+  "logoUrl": "https://letsexchange.io/icon/icon-180x180.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "LetsExchange is an instant swap service covering several thousand cryptocurrencies.",
+    "description": "LetsExchange offers instant swaps across a very large asset list, aggregating rates from multiple liquidity sources so that long-tail tokens remain tradeable without listing on a major venue. Monad's documentation lists it under cross-chain tooling. Breadth of coverage is the main differentiator in this category, and it is the reason these services persist alongside DEX aggregators.",
+    "meta": "LetsExchange is an instant swap service covering several thousand cryptocurrencies.",
+    "pageTitle": "LetsExchange - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://letsexchange.io/",
+    "twitter": "https://x.com/letsexchange_io"
+  },
+  "relations": {
+    "alternatives": [
+      "bybit",
+      "changehero",
+      "exolix"
+    ],
+    "related": [
+      "simpleswap",
+      "debank",
+      "nansen-portfolio"
+    ]
+  }
+}

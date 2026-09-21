@@ -1,0 +1,35 @@
+{
+  "slug": "arcus",
+  "name": "Arcus",
+  "logoUrl": "https://framerusercontent.com/images/weaNn8qbfjHjx2EYBjRNEHCT6c.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Arcus is a self-custodial DEX on Robinhood Chain for tokenized stocks and perpetuals.",
+    "description": "Arcus trades tokenized equities and perpetual futures on Robinhood Chain, keeping assets self-custodial and running continuously rather than to market hours. Robinhood's chain documentation lists it among the perpetuals venues on the network. Trading equity exposure outside the hours the underlying market is open is one of the clearer arguments for tokenizing stocks in the first place.",
+    "meta": "Arcus is a self-custodial Robinhood Chain DEX trading tokenized stocks and perpetuals around the clock.",
+    "pageTitle": "Arcus - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://arcus.xyz/",
+    "twitter": "https://x.com/arcus_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "lighter",
+      "panoptic"
+    ],
+    "related": [
+      "beefy",
+      "beefy-finance",
+      "curve-finance"
+    ]
+  }
+}

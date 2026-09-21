@@ -1,0 +1,35 @@
+{
+  "slug": "hyperlend",
+  "name": "HyperLend",
+  "logoUrl": "https://hyperlend.finance/favicon.ico",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "HyperLend is a lending and borrowing protocol native to HyperEVM.",
+    "description": "HyperLend runs pooled lending markets on HyperEVM, letting users supply assets for yield or borrow against collateral, and ranks among the larger protocols by value locked on the chain. Lending is the primitive that makes leverage possible, which on a chain built around a perpetuals exchange has an obvious constituency: traders wanting to borrow against spot holdings rather than sell them.",
+    "meta": "HyperLend is a lending and borrowing protocol native to HyperEVM.",
+    "pageTitle": "HyperLend - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperlend.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "euler",
+      "impermax-v2",
+      "morpho"
+    ],
+    "related": [
+      "teller",
+      "termmax",
+      "timeswap"
+    ]
+  }
+}

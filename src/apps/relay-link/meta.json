@@ -1,0 +1,37 @@
+{
+  "slug": "relay-link",
+  "name": "Relay",
+  "logoUrl": "https://assets.relay.link/app/favicon.ico",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Monad",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Relay is a cross-chain bridging and execution protocol built for low-cost instant transfers.",
+    "description": "Relay moves value between chains using relayers who front the funds on the destination side and settle afterwards, which makes transfers fast and cheap for small amounts where traditional bridging overhead dominates. Monad's documentation lists it under cross-chain tooling. The design trades some capital efficiency for latency, a sensible bargain when the alternative is users waiting on finality.",
+    "meta": "Relay is a cross-chain bridging and execution protocol built for low-cost instant transfers.",
+    "pageTitle": "Relay - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://relay.link/",
+    "twitter": "https://x.com/relayprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "across",
+      "debridge",
+      "garden-finance"
+    ],
+    "related": [
+      "hyperlane",
+      "jumper-exchange",
+      "layerzero"
+    ]
+  }
+}

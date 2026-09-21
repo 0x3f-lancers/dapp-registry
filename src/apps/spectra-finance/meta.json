@@ -1,0 +1,38 @@
+{
+  "slug": "spectra-finance",
+  "name": "Spectra",
+  "logoUrl": "https://www.spectra.finance/favicon.ico?favicon.24427dbe.ico",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Spectra is a permissionless protocol for interest rate derivatives and fixed yields.",
+    "description": "Spectra splits yield-bearing assets into principal and yield components so that rates can be traded separately, letting users lock a fixed return or take a view on where variable yields go. It is permissionless, meaning any yield-bearing token can have a market created for it without governance approval, and runs on Hyperliquid and Monad.",
+    "meta": "Spectra is a permissionless protocol for interest rate derivatives and fixed yields.",
+    "pageTitle": "Spectra - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.spectra.finance/",
+    "github": "https://github.com/perspectivefi",
+    "twitter": "https://x.com/spectra_finance"
+  },
+  "relations": {
+    "alternatives": [
+      "ample-money",
+      "beefy",
+      "ipor"
+    ],
+    "related": [
+      "lagoon",
+      "upshift",
+      "veda"
+    ]
+  }
+}

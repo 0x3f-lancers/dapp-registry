@@ -1,0 +1,37 @@
+{
+  "slug": "curvance",
+  "name": "Curvance",
+  "logoUrl": "https://curvance.com/apple-touch-icon.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Curvance lets users deposit collateral, borrow against it and keep earning yield on the deposit.",
+    "description": "Curvance is a lending market on Monad built so that collateral keeps earning its underlying yield while being borrowed against, rather than sitting idle as it does in most lending designs. That detail matters more as an increasing share of collateral is itself yield-bearing, where the opportunity cost of pledging it becomes the main reason users avoid borrowing at all.",
+    "meta": "Curvance is a Monad lending market where deposited collateral keeps earning yield while borrowed against.",
+    "pageTitle": "Curvance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://curvance.com/",
+    "github": "https://github.com/curvance",
+    "twitter": "https://x.com/curvance"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "euler",
+      "gearbox"
+    ],
+    "related": [
+      "morpho",
+      "0x",
+      "1inch"
+    ]
+  }
+}

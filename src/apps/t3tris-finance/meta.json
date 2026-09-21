@@ -1,0 +1,35 @@
+{
+  "slug": "t3tris-finance",
+  "name": "T3tris Finance",
+  "logoUrl": "https://t3tris.finance/static/logos/brand/t3tris_white_icon.svg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "T3tris Finance lets managers deploy and operate async ERC-4626 vaults on any EVM chain.",
+    "description": "T3tris Finance provides infrastructure for deploying and curating asynchronous ERC-4626 vaults, where deposits and withdrawals settle on a delay rather than instantly. Asynchronous settlement is what allows a vault to hold strategies that cannot be unwound on demand, which covers most things yielding more than a money market.",
+    "meta": "T3tris Finance lets managers deploy and operate async ERC-4626 vaults on any EVM chain.",
+    "pageTitle": "T3tris Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://t3tris.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "ample-money",
+      "arcadia-finance",
+      "beefy"
+    ],
+    "related": [
+      "beefy-finance",
+      "d2-finance",
+      "gami-labs"
+    ]
+  }
+}

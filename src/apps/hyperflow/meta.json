@@ -1,0 +1,35 @@
+{
+  "slug": "hyperflow",
+  "name": "Hyperflow",
+  "logoUrl": "https://hyperflow.fun/favicon.ico",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Hyperflow aggregates HyperEVM liquidity and bridging into a single swap interface.",
+    "description": "Hyperflow presents the liquidity on HyperEVM through one interface, combining swap routing with bridging so that funds arriving from another chain and the trade itself are handled in the same flow. Hyperliquid's builder documentation lists it under DEX aggregators. Its focus is reducing the number of separate steps a user takes to get from an asset on another network into a position on HyperEVM.",
+    "meta": "Hyperflow is a HyperEVM aggregator combining swap routing and bridging in one interface.",
+    "pageTitle": "Hyperflow - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperflow.fun/"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "balancer",
+      "curve-finance"
+    ],
+    "related": [
+      "hyperbloom",
+      "infinex",
+      "lifi"
+    ]
+  }
+}

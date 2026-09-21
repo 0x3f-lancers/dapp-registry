@@ -1,0 +1,37 @@
+{
+  "slug": "sonarx",
+  "name": "SonarX",
+  "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=sonarx.com",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "SonarX delivers institutional blockchain datasets via cloud data shares, streaming and file delivery.",
+    "description": "SonarX distributes indexed blockchain data the way enterprise data vendors do, through Snowflake, BigQuery, Databricks and Azure data shares, Kafka streams and file delivery in CSV, Parquet or Iceberg. Both Monad's and Hyperliquid's documentation list it among data providers. This delivery model suits analytics teams who want chain data to land in the warehouse they already query, rather than behind another API.",
+    "meta": "SonarX delivers institutional blockchain datasets via cloud data shares, streaming and file delivery.",
+    "pageTitle": "SonarX - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sonarx.com",
+    "twitter": "https://x.com/SonarX_HQ"
+  },
+  "relations": {
+    "alternatives": [
+      "birdeye-data-services",
+      "birdeye-so",
+      "codex-api"
+    ],
+    "related": [
+      "envio",
+      "subquery",
+      "subsquid"
+    ]
+  }
+}

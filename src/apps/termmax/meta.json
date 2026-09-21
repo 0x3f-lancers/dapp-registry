@@ -1,0 +1,38 @@
+{
+  "slug": "termmax",
+  "name": "TermMax",
+  "logoUrl": "https://ts.finance/images/termmax-favicon.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "TermMax offers fixed-rate lending and leveraged yield strategies with predictable terms.",
+    "description": "TermMax provides fixed-rate, fixed-term lending rather than the floating rates most DeFi markets use, along with leveraged strategies built on those terms. It runs on Hyperliquid and Robinhood Chain. Fixed rates are what institutional borrowers generally require, since a floating rate that can spike without warning is difficult to underwrite against.",
+    "meta": "TermMax offers fixed-rate lending and leveraged yield strategies with predictable terms.",
+    "pageTitle": "TermMax - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ts.finance/",
+    "github": "https://github.com/term-structure",
+    "twitter": "https://x.com/TermMaxFi"
+  },
+  "relations": {
+    "alternatives": [
+      "morpho",
+      "teller",
+      "euler"
+    ],
+    "related": [
+      "hyperlend",
+      "impermax-v2",
+      "maple-finance"
+    ]
+  }
+}

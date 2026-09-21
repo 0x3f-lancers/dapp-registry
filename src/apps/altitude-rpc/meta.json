@@ -1,0 +1,36 @@
+{
+  "slug": "altitude-rpc",
+  "name": "Altitude",
+  "logoUrl": "https://rpc.reachaltitude.xyz/images/webclip.svg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Altitude runs archival RPC infrastructure for HyperEVM built for latency-sensitive workloads.",
+    "description": "Altitude provides RPC endpoints for HyperEVM, listed in Hyperliquid's builder documentation under archival RPC, meaning it serves historical state rather than only recent blocks. Archival access is what indexers, analytics products and anything reconstructing past positions depend on, and it is considerably more expensive to run than a full node tracking the head of the chain.",
+    "meta": "Altitude runs archival RPC infrastructure for HyperEVM aimed at latency-sensitive workloads.",
+    "pageTitle": "Altitude - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rpc.reachaltitude.xyz/",
+    "twitter": "https://x.com/reachaltitude"
+  },
+  "relations": {
+    "alternatives": [
+      "blockpi-network",
+      "chainstack",
+      "drpc"
+    ],
+    "related": [
+      "alchemy",
+      "dwellir",
+      "getblock"
+    ]
+  }
+}

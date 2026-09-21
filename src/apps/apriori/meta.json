@@ -1,0 +1,35 @@
+{
+  "slug": "apriori",
+  "name": "aPriori",
+  "logoUrl": "https://www.capricorn.tech/favicon.ico?favicon.2vob68tjqpejf.ico",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "aPriori combines MEV infrastructure with liquid staking on Monad.",
+    "description": "aPriori builds order flow coordination infrastructure for high-performance chains and pairs it with liquid staking on Monad, so that value captured from transaction ordering flows back to stakers rather than accruing privately to block producers. Whether MEV is returned to stakers or quietly extracted is one of the more consequential decisions a new chain's infrastructure makes.",
+    "meta": "aPriori combines MEV infrastructure with liquid staking on Monad.",
+    "pageTitle": "aPriori - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://apr.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "fastlane",
+      "kintsu",
+      "magma-staking"
+    ],
+    "related": [
+      "renzo",
+      "stakestone",
+      "0x"
+    ]
+  }
+}

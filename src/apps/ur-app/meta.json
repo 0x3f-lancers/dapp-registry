@@ -1,0 +1,35 @@
+{
+  "slug": "ur-app",
+  "name": "UR",
+  "logoUrl": "https://ur.app/favicon.ico?favicon.1deh_5z0rqqol.ico",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "UR combines a Swiss IBAN, seven fiat currencies and stablecoins in a single account.",
+    "description": "UR offers a single account holding both stablecoins and fiat, with a Swiss IBAN and support for seven currencies, aimed at people who need to hold and move both without treating them as separate systems. Monad's documentation lists it among onramps. A real IBAN is the meaningful detail, since it makes the account usable for ordinary salary and invoice payments.",
+    "meta": "UR combines a Swiss IBAN, seven fiat currencies and stablecoins in one account.",
+    "pageTitle": "UR - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ur.app/"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  }
+}

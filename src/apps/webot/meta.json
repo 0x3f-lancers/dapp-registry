@@ -1,0 +1,37 @@
+{
+  "slug": "webot",
+  "name": "Webot",
+  "logoUrl": "https://www.webot.com/static/images/icon_256.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Webot is a cloud-hosted crypto trading bot running automated strategies around the clock.",
+    "description": "Webot runs automated trading strategies in the cloud so they continue executing without the user keeping infrastructure online, with Hyperliquid among its supported venues. Hosted bots trade operational simplicity for the requirement that API keys be entrusted to the provider, which is the security consideration worth weighing before use.",
+    "meta": "Webot is a cloud-hosted crypto trading bot running automated strategies around the clock.",
+    "pageTitle": "Webot - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://webot.com/",
+    "github": "https://github.com/Webot-Official",
+    "twitter": "https://x.com/joinwebot"
+  },
+  "relations": {
+    "alternatives": [
+      "coinmarketman",
+      "hyperdash",
+      "matrixnet"
+    ],
+    "related": [
+      "thekingfisher",
+      "bitget",
+      "bybit"
+    ]
+  }
+}

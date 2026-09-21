@@ -1,0 +1,36 @@
+{
+  "slug": "rialto",
+  "name": "Rialto",
+  "logoUrl": "https://app.rialto.xyz/Logo.svg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Rialto is a spot exchange on Robinhood Chain for trading tokenized stocks, ETFs and crypto.",
+    "description": "Rialto is a proprietary-AMM spot venue built on Robinhood Chain, trading tokenized equities and ETFs alongside crypto assets. Robinhood's own chain documentation names it among the day-one applications on the network. Tokenized equities are the reason Robinhood Chain exists as a dedicated chain rather than a deployment on an existing L2, and Rialto is one of the venues where those assets actually change hands.",
+    "meta": "Rialto is a Robinhood Chain spot exchange for tokenized stocks, ETFs and crypto assets.",
+    "pageTitle": "Rialto - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rialto.xyz",
+    "twitter": "https://x.com/rialto_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "curve-finance",
+      "ekubo",
+      "fables-fi"
+    ],
+    "related": [
+      "infinex",
+      "kodiak-dex",
+      "koi-finance"
+    ]
+  }
+}

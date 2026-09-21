@@ -1,0 +1,35 @@
+{
+  "slug": "blink-cash",
+  "name": "Blink",
+  "logoUrl": "https://blink.cash/favicon.svg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Blink provides one-tap deposit infrastructure for onchain applications.",
+    "description": "Blink reduces onchain deposits to a single tap, handling the routing and conversion behind that action so the user does not choose a chain or bridge. Monad's documentation lists it among onramps. Every additional decision in a deposit flow costs conversion, which is the entire rationale for products that collapse the sequence into one action.",
+    "meta": "Blink provides one-tap deposit infrastructure for onchain applications.",
+    "pageTitle": "Blink - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blink.cash/"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "btc-direct",
+      "calm-treasury",
+      "coindisco"
+    ]
+  }
+}

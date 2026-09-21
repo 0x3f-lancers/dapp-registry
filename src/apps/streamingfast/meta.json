@@ -1,0 +1,39 @@
+{
+  "slug": "streamingfast",
+  "name": "StreamingFast",
+  "logoUrl": "https://www.streamingfast.io/favicon.ico",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Ethereum",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "StreamingFast builds Firehose and Substreams, high-throughput blockchain indexing technology for The Graph.",
+    "description": "StreamingFast is a core developer on The Graph and the team behind Firehose and Substreams, an indexing approach that streams chain data through composable transformation modules rather than replaying blocks through a handwritten indexer. A transform can be pointed at a network and backfill years of history in minutes. Monad's documentation lists it among indexing frameworks for the chain, reached through the Graph Networks Registry.",
+    "meta": "StreamingFast builds Firehose and Substreams, high-throughput blockchain indexing technology for The Graph.",
+    "pageTitle": "StreamingFast - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.streamingfast.io/",
+    "github": "https://github.com/streamingfast",
+    "twitter": "https://x.com/streamingfastio"
+  },
+  "relations": {
+    "alternatives": [
+      "covalent",
+      "goldsky",
+      "the-graph"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "quicknode"
+    ]
+  }
+}

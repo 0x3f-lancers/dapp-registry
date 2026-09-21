@@ -1,0 +1,36 @@
+{
+  "slug": "codex-api",
+  "name": "Codex",
+  "logoUrl": "https://cdn.prod.website-files.com/6669befdbe2926bfc0a8363a/6669bfb80cb8f7130aeec42c_Codex%20Webclip.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "Codex is an enriched blockchain data API covering tokens and prices across 80+ networks.",
+    "description": "Codex serves enriched token and market data, covering tens of millions of tokens across more than eighty networks with charts, metadata, prices and detailed statistics rather than raw chain data alone. Monad's documentation lists it among the providers offering data for common use cases. The enrichment is the product here: raw logs are cheap to obtain and expensive to turn into something a trading interface can render.",
+    "meta": "Codex is an enriched blockchain data API covering token and price data across 80+ networks.",
+    "pageTitle": "Codex - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.codex.io/",
+    "twitter": "https://x.com/trycodex"
+  },
+  "relations": {
+    "alternatives": [
+      "birdeye-data-services",
+      "birdeye-so",
+      "sentio"
+    ],
+    "related": [
+      "envio",
+      "mobula",
+      "sonarx"
+    ]
+  }
+}

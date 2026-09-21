@@ -1,0 +1,36 @@
+{
+  "slug": "cortex-protocol",
+  "name": "Cortex",
+  "logoUrl": "https://cortexprotocol.com/icons/apple-icon-180.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Cortex is an AI agent for crypto that executes onchain actions from natural language requests.",
+    "description": "Cortex exposes an AI agent that carries out on-chain actions from plain language instructions, such as acquiring the native token needed for gas on a chain a user has just arrived on. Hyperliquid's builder documentation references it as one route to obtaining HYPE. Agent interfaces are an attempt to hide the sequencing of bridging, swapping and approvals behind a single stated goal, which is roughly the same problem intent-based protocols address from the protocol side.",
+    "meta": "Cortex is an AI agent for crypto that executes onchain actions from natural language requests.",
+    "pageTitle": "Cortex - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cortexprotocol.com/",
+    "twitter": "https://x.com/cortexprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "airdrophunt-fun",
+      "allium",
+      "artemis"
+    ],
+    "related": [
+      "asxn",
+      "blockliquidity",
+      "bubblemaps"
+    ]
+  }
+}

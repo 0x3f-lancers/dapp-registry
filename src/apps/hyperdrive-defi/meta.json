@@ -1,0 +1,36 @@
+{
+  "slug": "hyperdrive-defi",
+  "name": "Hyperdrive",
+  "logoUrl": "https://hyperdrive.fi/favicon.ico",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Hyperdrive is a lending protocol on HyperEVM offering pooled and isolated markets.",
+    "description": "Hyperdrive provides lending markets on HyperEVM, running both pooled markets and isolated ones so that riskier collateral can be listed without exposing every depositor to it. Isolation is the design lesson the sector took from the shared-pool failures of earlier cycles, where a single bad listing could impair an entire protocol.",
+    "meta": "Hyperdrive is a HyperEVM lending protocol offering both pooled and isolated markets.",
+    "pageTitle": "Hyperdrive - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperdrive.fi/",
+    "twitter": "https://x.com/hyperdrivedefi"
+  },
+  "relations": {
+    "alternatives": [
+      "arkis",
+      "euler",
+      "hyperlend"
+    ],
+    "related": [
+      "hypurrfi",
+      "impermax-v2",
+      "morpho"
+    ]
+  }
+}

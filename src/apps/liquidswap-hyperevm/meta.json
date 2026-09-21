@@ -1,0 +1,36 @@
+{
+  "slug": "liquidswap-hyperevm",
+  "name": "LiquidSwap",
+  "logoUrl": "https://liqd.ag/apple-icon.png?190dd4f03b0da70d",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "LiquidSwap is a DEX aggregator serving HyperEVM and Robinhood Chain with intelligent routing.",
+    "description": "LiquidSwap routes swaps across the liquidity available on HyperEVM and, more recently, Robinhood Chain, splitting an order between venues where that improves the rate. It is one of the few aggregators live on both networks, which matters because each is young enough that liquidity remains fragmented across a handful of pools. Hyperliquid's builder documentation lists it among the chain's DEX aggregators. It is distinct from the Aptos exchange of the same name.",
+    "meta": "LiquidSwap is a DEX aggregator for HyperEVM and Robinhood Chain with split-order routing.",
+    "pageTitle": "LiquidSwap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://liqd.ag/"
+  },
+  "relations": {
+    "alternatives": [
+      "curve-finance",
+      "infinex",
+      "lifi"
+    ],
+    "related": [
+      "skate-amm",
+      "0x",
+      "balancer"
+    ]
+  }
+}

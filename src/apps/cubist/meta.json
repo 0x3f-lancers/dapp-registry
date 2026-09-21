@@ -1,0 +1,35 @@
+{
+  "slug": "cubist",
+  "name": "Cubist",
+  "logoUrl": "https://cdn.prod.website-files.com/638a2693daaf8527290065a3/638a2693daaf851ec30065e0_webclip2x.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Key Management Providers"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Cubist builds CubeSigner, a hardware-backed key management platform for high-performance use cases.",
+    "description": "Cubist's CubeSigner keeps private keys inside secure hardware and exposes signing as a policy-controlled service, so an application can sign at speed without any component ever holding raw key material. Monad's documentation lists it under embedded wallets and institutional wallets. This architecture matters most for validators and trading systems, where keys must be used constantly and cannot simply be kept offline.",
+    "meta": "Cubist builds CubeSigner, a hardware-backed key management and signing platform for demanding workloads.",
+    "pageTitle": "Cubist - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cubist.dev/",
+    "twitter": "https://x.com/cubistdev"
+  },
+  "relations": {
+    "alternatives": [
+      "fireblocks",
+      "turnkey"
+    ],
+    "related": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "alfred-pay"
+    ]
+  }
+}

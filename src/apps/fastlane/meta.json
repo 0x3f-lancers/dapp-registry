@@ -1,0 +1,35 @@
+{
+  "slug": "fastlane",
+  "name": "FastLane",
+  "logoUrl": "https://www.fastlane.xyz/favicon.ico",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "FastLane builds shMONAD, a liquid staking token on Monad backed by staking rewards and MEV.",
+    "description": "FastLane operates validator-side infrastructure on Monad and issues shMONAD, a liquid staking token whose yield comes from both ordinary staking rewards and MEV captured by validators running its sidecar. Monad's documentation references it under account abstraction tooling. Returning MEV to stakers rather than letting it accrue privately to block producers is the more interesting half of the design.",
+    "meta": "FastLane builds shMONAD, a Monad liquid staking token backed by staking rewards and validator MEV.",
+    "pageTitle": "FastLane - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.fastlane.xyz/",
+    "twitter": "https://x.com/0xFastLane"
+  },
+  "relations": {
+    "alternatives": [
+      "renzo",
+      "stakestone"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  }
+}

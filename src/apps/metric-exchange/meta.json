@@ -1,0 +1,36 @@
+{
+  "slug": "metric-exchange",
+  "name": "Metric",
+  "logoUrl": "https://www.metric.xyz/icon.png?icon.0~-a_11-9~urc.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Metric is an onchain exchange operating on Hyperliquid and Monad.",
+    "description": "Metric runs exchange markets on both Hyperliquid and Monad, two chains built around high throughput for different reasons: one for its native order book, the other for parallel execution. Exchanges deploying to both are effectively testing whether faster block times translate into meaningfully better execution for ordinary swaps.",
+    "meta": "Metric is an onchain exchange operating on Hyperliquid and Monad.",
+    "pageTitle": "Metric - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://metric.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "balancer",
+      "curve-finance"
+    ],
+    "related": [
+      "infinex",
+      "lifi",
+      "ormi-labs"
+    ]
+  }
+}

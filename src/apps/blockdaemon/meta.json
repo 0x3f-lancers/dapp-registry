@@ -1,0 +1,38 @@
+{
+  "slug": "blockdaemon",
+  "name": "Blockdaemon",
+  "logoUrl": "https://cdn.prod.website-files.com/633c5e06513fa35f3391a5f9/642d941c659c3d45c8fc35bb_BD-Webclip%20Icon.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Monad",
+    "Robinhood Chain",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "Blockdaemon runs institutional node, staking and custody infrastructure across many networks.",
+    "description": "Blockdaemon provides the node and staking infrastructure that institutions use when running their own validators is not an option, spanning custody, tokenization, staking, payments and settlement. Both Monad's and Robinhood Chain's documentation list it among supported RPC providers. Its customer base skews heavily toward regulated institutions, which shapes the product toward audit trails and service guarantees rather than free developer tiers.",
+    "meta": "Blockdaemon provides institutional node, staking and custody infrastructure across many blockchains.",
+    "pageTitle": "Blockdaemon - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.blockdaemon.com",
+    "twitter": "https://x.com/blockdaemon"
+  },
+  "relations": {
+    "alternatives": [
+      "blockpi-network",
+      "chainstack",
+      "drpc"
+    ],
+    "related": [
+      "alchemy",
+      "getblock",
+      "quicknode"
+    ]
+  }
+}

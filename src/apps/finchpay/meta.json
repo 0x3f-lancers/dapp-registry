@@ -1,0 +1,35 @@
+{
+  "slug": "finchpay",
+  "name": "FinchPay",
+  "logoUrl": "https://finchpay.io/static/icons/finch-pay.svg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "FinchPay provides onramp and offramp services for buying and selling crypto with fiat.",
+    "description": "FinchPay handles fiat-to-crypto purchase and the return journey, offered both directly and as embedded infrastructure for other applications. Monad's documentation lists it among onramp providers. Offramping is the harder half of this product, because sending money back into the banking system attracts more scrutiny than taking it out.",
+    "meta": "FinchPay provides onramp and offramp services for buying and selling crypto with fiat.",
+    "pageTitle": "FinchPay - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://finchpay.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  }
+}

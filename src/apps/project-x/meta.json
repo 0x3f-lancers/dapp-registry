@@ -1,0 +1,35 @@
+{
+  "slug": "project-x",
+  "name": "Project X",
+  "logoUrl": "https://www.prjx.com/favicon.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Project X is a zero-fee decentralized exchange on HyperEVM.",
+    "description": "Project X trades on HyperEVM with no swap fees, earning instead through other parts of its design, and is among the more active exchanges on the chain by value locked. Zero-fee trading shifts where a venue makes its money rather than removing the cost, so the question for users becomes what the exchange does with order flow instead.",
+    "meta": "Project X is a zero-fee decentralized exchange on HyperEVM.",
+    "pageTitle": "Project X - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://prjx.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "balancer",
+      "curve-finance"
+    ],
+    "related": [
+      "hyperbloom",
+      "hyperflow",
+      "infinex"
+    ]
+  }
+}

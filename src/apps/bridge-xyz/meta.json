@@ -1,0 +1,36 @@
+{
+  "slug": "bridge-xyz",
+  "name": "Bridge",
+  "logoUrl": "https://cdn.prod.website-files.com/66c78bffc753432b33c4f61a/6aa83ed16f3009c48966f9f8_bridge-logo-favicon.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Bridge is a stablecoin platform for developers, handling issuance, conversion and global payouts.",
+    "description": "Bridge gives developers APIs for moving money with stablecoins, covering fiat conversion, issuance and cross-border payouts without each company assembling its own banking relationships. Monad's documentation lists it under onramps and payment orchestrators. Stripe's acquisition of the company in 2024 was a fairly direct signal about where mainstream payments infrastructure expects stablecoins to sit.",
+    "meta": "Bridge is a developer stablecoin platform covering issuance, fiat conversion and global payouts.",
+    "pageTitle": "Bridge - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.bridge.xyz/",
+    "twitter": "https://x.com/bridge_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "capa-fi"
+    ],
+    "related": [
+      "chainrails",
+      "checker-finance",
+      "coinflow"
+    ]
+  }
+}

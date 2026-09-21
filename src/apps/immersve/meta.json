@@ -1,0 +1,34 @@
+{
+  "slug": "immersve",
+  "name": "Immersve",
+  "logoUrl": "https://immersve.com/favicon.svg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Credit Cards"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Immersve provides infrastructure for crypto-funded payments over the Mastercard network.",
+    "description": "Immersve issues cards that settle against on-chain funds over Mastercard rails, letting a user spend from a wallet at ordinary merchants without pre-converting to fiat. Monad's documentation lists it under card issuing. The interesting engineering sits in the authorisation window, where the card network expects an answer in milliseconds and the settlement happens on-chain afterwards.",
+    "meta": "Immersve provides infrastructure for crypto-funded card payments over the Mastercard network.",
+    "pageTitle": "Immersve - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.immersve.com/",
+    "twitter": "https://x.com/immersve"
+  },
+  "relations": {
+    "alternatives": [
+      "rain"
+    ],
+    "related": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "alfred-pay"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "trustware",
+  "name": "Trustware",
+  "logoUrl": "https://trustware.io/favicon.ico",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Trustware lets applications and institutions accept deposits from any blockchain.",
+    "description": "Trustware handles the deposit side of cross-chain complexity, letting an application accept funds from whichever network a user holds them on without building bridging into its own product. Monad's documentation lists it under cross-chain tooling. For exchanges and fintechs, deposit friction is a direct conversion problem, which is why this narrow slice of infrastructure has attracted several vendors.",
+    "meta": "Trustware lets applications and institutions accept blockchain deposits from any network.",
+    "pageTitle": "Trustware - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://trustware.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  }
+}

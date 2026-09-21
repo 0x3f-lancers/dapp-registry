@@ -1,0 +1,36 @@
+{
+  "slug": "coinmarketman",
+  "name": "CoinMarketMan",
+  "logoUrl": "https://app.coinmarketman.com/favicon.svg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "content": {
+    "short": "CoinMarketMan is an automated trade journal and analytics tool, with a Hyperliquid tracker.",
+    "description": "CoinMarketMan automates the trading journal: it syncs fills from connected venues and turns them into performance statistics, so a trader reviews what actually happened rather than what they remember doing. Its HyperTracker view covers Hyperliquid specifically, and Hyperliquid's builder documentation lists it among perps analytics tools. Journaling is one of those practices that is widely recommended and rarely sustained by hand, which is most of the argument for automating it.",
+    "meta": "CoinMarketMan is an automated crypto trade journal and analytics tool with Hyperliquid tracking.",
+    "pageTitle": "CoinMarketMan - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.coinmarketman.com/",
+    "twitter": "https://x.com/coinmarketman"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperdash",
+      "matrixnet",
+      "thekingfisher"
+    ],
+    "related": [
+      "bitget",
+      "bybit",
+      "coinstats"
+    ]
+  }
+}

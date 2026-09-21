@@ -1,0 +1,35 @@
+{
+  "slug": "hyperdash",
+  "name": "HyperDash",
+  "logoUrl": "https://hyperdash.com/apple-touch-icon.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "content": {
+    "short": "HyperDash is a trading terminal for Hyperliquid with real-time analytics and portfolio tracking.",
+    "description": "HyperDash is a dedicated terminal for traders on Hyperliquid, built around the perpetuals order book rather than spot markets. It combines live market analytics, position and portfolio tracking, and views into vault and whale activity that the native interface does not surface directly. Hyperliquid's builder documentation lists it under analytics for perps and order book data. It suits traders who want more context on positioning and flow than an exchange front end typically provides.",
+    "meta": "HyperDash is a Hyperliquid trading terminal offering real-time perps analytics and portfolio tracking.",
+    "pageTitle": "HyperDash - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperdash.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "coinmarketman",
+      "matrixnet",
+      "thekingfisher"
+    ],
+    "related": [
+      "bitget",
+      "bybit",
+      "coinstats"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "monday-trade",
+  "name": "Monday Trade",
+  "logoUrl": "https://monday.trade/favicon/webclip.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Monday Trade is a Monad-native DEX for spot, perpetuals and real-world assets.",
+    "description": "Monday Trade combines spot trading, perpetual futures and real-world asset markets in one venue built natively for Monad. Bundling spot and perps in a single interface is largely a margin argument: collateral posted once can support positions across both rather than sitting in separate accounts.",
+    "meta": "Monday Trade is a Monad-native DEX for spot, perpetuals and real-world assets.",
+    "pageTitle": "Monday Trade - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://monday.trade/",
+    "github": "https://github.com/MondayTrade",
+    "twitter": "https://x.com/MondayTrade_"
+  },
+  "relations": {
+    "alternatives": [
+      "leverup",
+      "perpl"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  }
+}

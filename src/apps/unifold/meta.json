@@ -1,0 +1,35 @@
+{
+  "slug": "unifold",
+  "name": "Unifold",
+  "logoUrl": "https://unifold.io/og-image.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Unifold provides cross-chain deposit infrastructure for prediction markets, exchanges and fintechs.",
+    "description": "Unifold builds the deposit layer for platforms where funding friction directly costs revenue, such as prediction markets and exchanges, with a cross-chain payment SDK spanning major networks. Monad's documentation lists it among onramps. Prediction markets have been a notable driver here, since their users arrive with funds on whatever chain they already use.",
+    "meta": "Unifold provides cross-chain deposit infrastructure for prediction markets, exchanges and fintechs.",
+    "pageTitle": "Unifold - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://unifold.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  }
+}

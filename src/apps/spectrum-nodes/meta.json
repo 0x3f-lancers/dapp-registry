@@ -1,0 +1,35 @@
+{
+  "slug": "spectrum-nodes",
+  "name": "Spectrum",
+  "logoUrl": "https://spectrumnodes.com/favicon/favicon-16x16.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Spectrum provides decentralised RPC infrastructure with distributed endpoints for Web3 apps.",
+    "description": "Spectrum runs RPC infrastructure on a decentralised model, spreading endpoints across operators rather than concentrating them in one provider's data centres. Monad's documentation lists it among supported RPC providers. Endpoint concentration is a real liveness risk for applications, since an outage at a single large provider tends to take a visible share of the ecosystem offline at the same moment.",
+    "meta": "Spectrum provides decentralised RPC infrastructure with distributed endpoints for Web3 applications.",
+    "pageTitle": "Spectrum - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://spectrumnodes.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "blockdaemon",
+      "blockpi-network",
+      "boltrpc"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "chainstack"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "kittenswap",
+  "name": "Kittenswap",
+  "logoUrl": "https://kittenswap.finance/favicon.ico",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Kittenswap is a ve(3,3) exchange on HyperEVM and Robinhood Chain with veKITTEN emissions voting.",
+    "description": "Kittenswap runs a ve(3,3) exchange where veKITTEN lockers vote on which pools receive emissions, aligning incentives with the pairs that actually generate fees. It operates on both HyperEVM and Robinhood Chain. The ve(3,3) model has become the default for chain-native exchanges precisely because it lets a young chain direct liquidity where it is needed rather than spreading it evenly.",
+    "meta": "Kittenswap is a ve(3,3) exchange on HyperEVM and Robinhood Chain with veKITTEN emissions voting.",
+    "pageTitle": "Kittenswap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://kittenswap.finance/",
+    "twitter": "https://x.com/KittenswapHype"
+  },
+  "relations": {
+    "alternatives": [
+      "curve-finance",
+      "hybra-finance",
+      "infinex"
+    ],
+    "related": [
+      "lifi",
+      "liquidswap-hyperevm",
+      "ramses-exchange"
+    ]
+  }
+}

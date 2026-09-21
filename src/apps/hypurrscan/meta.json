@@ -1,0 +1,36 @@
+{
+  "slug": "hypurrscan",
+  "name": "HypurrScan",
+  "logoUrl": "https://hypurrscan.io/small.webp",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "HypurrScan is a community block explorer for Hyperliquid, covering HyperCore activity alongside HyperEVM.",
+    "description": "HypurrScan is an explorer built specifically for Hyperliquid rather than adapted from a general EVM scanner. It surfaces the parts of the network a standard explorer misses, including HyperCore order book activity, staking and vault movements, and the flows between Core and the EVM layer. Hyperliquid's own builder documentation lists it among the explorers for the chain, and it also exposes a public RPC endpoint. For anyone tracing an address or a transaction across both halves of Hyperliquid, it is one of the few tools that shows the whole picture in one place.",
+    "meta": "HypurrScan is a Hyperliquid block explorer covering HyperCore and HyperEVM activity in one interface.",
+    "pageTitle": "HypurrScan - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hypurrscan.io/",
+    "twitter": "https://x.com/hypurrscan"
+  },
+  "relations": {
+    "alternatives": [
+      "blockscout",
+      "etherscan",
+      "flowscan"
+    ],
+    "related": [
+      "ccxt",
+      "moralis",
+      "multisender"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "felix-protocol",
+  "name": "Felix",
+  "logoUrl": "https://www.usefelix.xyz/apple-touch-icon.png?v=20260409",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Felix is a borrowing and savings protocol on Hyperliquid built around its own stablecoin.",
+    "description": "Felix lets users borrow against collateral on Hyperliquid and hold the proceeds as a stablecoin, with vaults that put idle balances to work. It is one of the larger protocols by value locked on the chain. A native stablecoin issued against local collateral reduces a chain's dependence on bridged dollars, which is usually the single largest counterparty exposure a young chain carries.",
+    "meta": "Felix is a Hyperliquid borrowing and savings protocol built around its own stablecoin.",
+    "pageTitle": "Felix - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://usefelix.xyz/",
+    "twitter": "https://x.com/felixprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "mai",
+      "timeswap"
+    ],
+    "related": [
+      "0x",
+      "altura-trade",
+      "arrakis-finance"
+    ]
+  }
+}

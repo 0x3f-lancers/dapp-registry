@@ -1,0 +1,34 @@
+{
+  "slug": "tholos",
+  "name": "Tholos",
+  "logoUrl": "https://www.tholos.app/apple-touch-icon.svg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "MPC Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Tholos offers self-custodial MPC wallets for teams, with fiat rails, OTC and DeFi access.",
+    "description": "Tholos gives crypto teams a self-custodial treasury built on MPC key management, so no single person holds a complete key while the organisation keeps control of its own assets. Around that it adds the operational pieces treasuries need: fiat rails, OTC execution and DeFi access across a few dozen chains from one dashboard. Hyperliquid's builder documentation lists it among the MPC and custody options for the network.",
+    "meta": "Tholos provides self-custodial MPC wallets for teams with fiat rails, OTC and DeFi access.",
+    "pageTitle": "Tholos - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.tholos.app/",
+    "twitter": "https://x.com/tholosapp"
+  },
+  "relations": {
+    "alternatives": [
+      "fordefi"
+    ],
+    "related": [
+      "backpack",
+      "den",
+      "gnosis-safe"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "fly-trade",
+  "name": "Fly.trade",
+  "logoUrl": "https://cdn.prod.website-files.com/629b39872d72ff02443a529f/6491371dd08ddae77bddcf36_magpie-webclip.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Fly.trade swaps assets between chains without requiring a separate bridging step.",
+    "description": "Fly.trade executes cross-chain swaps as a single action, so a user moves from an asset on one network to an asset on another without separately bridging and then trading. Monad's documentation lists it among the chain's DEX aggregators. Collapsing bridge-then-swap into one flow removes the step where users most often end up stranded holding a wrapped asset they did not want.",
+    "meta": "Fly.trade performs cross-chain swaps in one step, without a separate bridging transaction.",
+    "pageTitle": "Fly.trade - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fly.trade/",
+    "twitter": "https://x.com/fly_trade"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "clober",
+      "curve-finance",
+      "dzap"
+    ]
+  }
+}

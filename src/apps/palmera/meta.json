@@ -1,0 +1,36 @@
+{
+  "slug": "palmera",
+  "name": "Palmera",
+  "logoUrl": "https://www.palmeradao.xyz/apple-icon.png?apple-icon.139gxhw_v-.1d.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Multisig Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Palmera provides multisig smart account infrastructure for organisations running many Safes.",
+    "description": "Palmera targets organisations that have outgrown a single multisig, providing infrastructure to deploy, monitor and operate many Safe-compatible accounts with hierarchy and permissions between them. Hyperliquid's builder documentation lists its Hyperliquid deployment among the Safe multisig instances for the chain. The problem it addresses appears once a DAO or company runs separate treasuries per team and needs consistent policy across all of them.",
+    "meta": "Palmera provides multisig smart account infrastructure for organisations operating many Safes.",
+    "pageTitle": "Palmera - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://palmeradao.xyz/",
+    "twitter": "https://x.com/palmera_dao"
+  },
+  "relations": {
+    "alternatives": [
+      "den",
+      "hypersig",
+      "gnosis-safe"
+    ],
+    "related": [
+      "safe",
+      "backpack",
+      "fordefi"
+    ]
+  }
+}

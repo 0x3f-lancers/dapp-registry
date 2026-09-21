@@ -1,0 +1,36 @@
+{
+  "slug": "indexing-co",
+  "name": "Indexing Co",
+  "logoUrl": "https://www.indexing.co/assets/dex-light.svg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "Indexing Co provides managed blockchain indexing and data pipelines, including Hyperliquid.",
+    "description": "Indexing Co runs blockchain indexing as a managed service, taking on the operational burden of keeping pipelines in sync through reorgs, schema changes and chain upgrades. Hyperliquid's builder documentation lists it among the indexing and subgraph providers for the network. Teams typically move to a managed indexer at the point where maintaining their own has quietly become someone's full-time job.",
+    "meta": "Indexing Co provides managed blockchain indexing and data pipelines covering Hyperliquid.",
+    "pageTitle": "Indexing Co - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.indexing.co/",
+    "twitter": "https://x.com/indexingco"
+  },
+  "relations": {
+    "alternatives": [
+      "covalent",
+      "goldsky",
+      "hypedexer"
+    ],
+    "related": [
+      "alchemy",
+      "chainstack-subgraphs",
+      "envio"
+    ]
+  }
+}

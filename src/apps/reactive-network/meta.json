@@ -1,0 +1,35 @@
+{
+  "slug": "reactive-network",
+  "name": "Reactive Network",
+  "logoUrl": "https://reactive.network/favicon.ico",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Reactive Network is an event-driven execution layer whose contracts react to events on other chains.",
+    "description": "Reactive Network runs what it calls reactive contracts, which execute in response to events emitted on other EVM chains rather than waiting to be called by a transaction. That inverts the usual model, where a smart contract is inert until someone pays to invoke it, and removes the need for an off-chain keeper watching for conditions. Hyperliquid's builder documentation lists it under cross-chain messaging, with Hyperliquid among its supported origins and destinations.",
+    "meta": "Reactive Network is an event-driven execution layer with contracts that react to cross-chain events.",
+    "pageTitle": "Reactive Network - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://reactive.network/",
+    "twitter": "https://x.com/0xReactive"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "uniblock"
+    ],
+    "related": [
+      "alchemy",
+      "altitude-rpc",
+      "blockpi-network"
+    ]
+  }
+}
