@@ -1,0 +1,35 @@
+{
+  "slug": "nad-fun",
+  "name": "Nad.fun",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/nad.fun-v2",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Nad.fun is a Monad memecoin launchpad with fair-launch bonding curves that graduate to a DEX.",
+    "description": "Nad.fun launches tokens on a bonding curve that moves liquidity to a DEX once a threshold is reached, the pattern established by pump.fun and now standard on most new chains. The fair-launch framing refers to there being no presale allocation, which removes one specific failure mode without addressing the others.",
+    "meta": "Fair-launch bonding curves on Monad that move liquidity to a DEX once a threshold is hit.",
+    "pageTitle": "Nad.fun - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nad.fun"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "bonad",
+      "brownfi",
+      "capricorn-exchange"
+    ]
+  }
+}

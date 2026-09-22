@@ -1,0 +1,36 @@
+{
+  "slug": "peridot",
+  "name": "Peridot",
+  "logoUrl": "https://unavatar.io/x/peridotprotocol",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Peridot is a cross-chain lending protocol with hub-and-spoke money markets.",
+    "description": "Peridot runs lending markets on a hub-and-spoke model, so collateral supplied on one chain can support borrowing on another without the user bridging first. The hub holds the accounting while spokes handle local deposits, which keeps rates coherent across chains instead of fragmenting them per deployment.",
+    "meta": "Collateral supplied on one chain supporting borrowing on another, through a hub-and-spoke design.",
+    "pageTitle": "Peridot - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://peridot.finance",
+    "twitter": "https://x.com/peridotprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "covenant-finance",
+      "curvance"
+    ],
+    "related": [
+      "euler",
+      "folks-finance",
+      "gearbox"
+    ]
+  }
+}

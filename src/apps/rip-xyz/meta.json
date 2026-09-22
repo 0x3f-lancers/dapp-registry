@@ -1,0 +1,35 @@
+{
+  "slug": "rip-xyz",
+  "name": "Rip.xyz",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/rip.xyz",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Rip.xyz is a Hyperliquid vault platform issuing tokenized yield positions such as rHYPE.",
+    "description": "Rip.xyz runs vault strategies on Hyperliquid and issues the resulting positions as tokens, so a depositor holds something transferable rather than a locked balance. Tokenising the position is what lets it be used elsewhere as collateral, which is usually worth more than the marginal yield difference between vaults.",
+    "meta": "Vault positions issued as tokens, so they can be used as collateral elsewhere.",
+    "pageTitle": "Rip.xyz - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.rip.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "blueberry",
+      "clovis",
+      "d2-finance"
+    ]
+  }
+}

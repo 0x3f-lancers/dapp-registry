@@ -1,0 +1,36 @@
+{
+  "slug": "covenant-finance",
+  "name": "Covenant",
+  "logoUrl": "https://unavatar.io/x/covenantFi",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Covenant is a liquid credit market on Monad that turns on-chain assets into leverage and yield.",
+    "description": "Covenant builds a credit market on Monad where on-chain assets become the basis for leverage on one side and yield on the other, with positions kept liquid rather than locked for a term. The liquidity is the differentiator: fixed-term credit is easier to price but harder to exit, and most on-chain lenders want the exit.",
+    "meta": "A Monad credit market where positions stay liquid instead of locking for a fixed term.",
+    "pageTitle": "Covenant - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.covenant.finance",
+    "twitter": "https://x.com/covenantFi"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "curvance",
+      "euler"
+    ],
+    "related": [
+      "folks-finance",
+      "gearbox",
+      "morpho"
+    ]
+  }
+}

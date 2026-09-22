@@ -1,0 +1,35 @@
+{
+  "slug": "defi-app",
+  "name": "Defi App",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/defi-app-aggregator",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Defi App is a mobile-first platform for swaps, perpetuals and yield across EVM chains.",
+    "description": "Defi App brings swapping, perpetuals and yield into a single mobile interface spanning EVM networks and Hyperliquid. Mobile-first DeFi has been attempted repeatedly and usually founders on key management, which is the problem any such product has to solve before the trading features matter.",
+    "meta": "Swaps, perpetuals and yield across EVM chains and Hyperliquid from a single mobile app.",
+    "pageTitle": "Defi App - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://defi.app"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "alt-fun",
+      "balancer"
+    ],
+    "related": [
+      "brownfi",
+      "curve-finance",
+      "hybra-finance"
+    ]
+  }
+}

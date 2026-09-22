@@ -1,0 +1,36 @@
+{
+  "slug": "afi-protocol",
+  "name": "AFI Protocol",
+  "logoUrl": "https://unavatar.io/x/afiprotocol_xyz",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Tokenized commodities RWAs"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "AFI Protocol runs proof-of-reserve vaults paying yield backed by gold and other real assets.",
+    "description": "AFI Protocol operates vaults backed by real assets including gold, with proof-of-reserve attestations covering what sits behind them. For any commodity-backed token the attestation is the product, since the token is only worth what can actually be redeemed against it.",
+    "meta": "Gold-backed and real-asset vaults on Monad, published with proof-of-reserve attestations.",
+    "pageTitle": "AFI Protocol - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://afiprotocol.xyz",
+    "twitter": "https://x.com/afiprotocol_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "paxos",
+      "joinn",
+      "multipli"
+    ],
+    "related": [
+      "etherfuse",
+      "mu-digital",
+      "theo-network"
+    ]
+  }
+}

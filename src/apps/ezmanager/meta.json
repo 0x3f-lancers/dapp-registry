@@ -1,0 +1,35 @@
+{
+  "slug": "ezmanager",
+  "name": "EZManager",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/ezmanager",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "EZManager opens, rebalances and tracks concentrated liquidity positions automatically.",
+    "description": "EZManager handles the lifecycle of a concentrated liquidity position, opening it, moving the range as price drifts and reporting on how it has performed. Without automation these positions quietly stop earning the moment price leaves the band, which is the most common way providers underperform simply holding the assets.",
+    "meta": "Opens and rebalances concentrated liquidity ranges so positions keep earning as price moves.",
+    "pageTitle": "EZManager - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ezmanager.finance"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "blueberry",
+      "clovis",
+      "d2-finance"
+    ]
+  }
+}

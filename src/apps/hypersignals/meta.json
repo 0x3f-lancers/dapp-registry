@@ -1,0 +1,36 @@
+{
+  "slug": "hypersignals",
+  "name": "HyperSignals",
+  "logoUrl": "https://unavatar.io/x/HyperSignals_ai",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "content": {
+    "short": "HyperSignals surfaces order book patterns and smart-money activity on Hyperliquid.",
+    "description": "HyperSignals reads Hyperliquid's public order book and position data to highlight what larger traders are doing, turning the chain's transparency into a social trading feed. On a venue where positioning is visible by design, this kind of product is an inevitable consequence rather than a clever trick.",
+    "meta": "Reads Hyperliquid's public order book to show what larger traders are actually doing.",
+    "pageTitle": "HyperSignals - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hypersignals.ai",
+    "twitter": "https://x.com/HyperSignals_ai"
+  },
+  "relations": {
+    "alternatives": [
+      "asym",
+      "bankr",
+      "cod3x"
+    ],
+    "related": [
+      "coinmarketman",
+      "dextrabot",
+      "hyperdash"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "silk-nodes",
+  "name": "Silk Nodes",
+  "logoUrl": "https://monad.silknodes.io/favicon.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Crypto Staking Companies"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Silk Nodes runs a Monad hub for staking, validator comparison and ecosystem analytics.",
+    "description": "Silk Nodes operates validator infrastructure on Monad and publishes a hub where delegators can compare validators before choosing one. Comparison tooling matters because delegation is usually decided on whichever validator is most visible, not whichever performs best.",
+    "meta": "Validator operations on Monad plus a hub for comparing validators before delegating.",
+    "pageTitle": "Silk Nodes - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://monad.silknodes.io"
+  },
+  "relations": {
+    "alternatives": [
+      "forest-staking",
+      "itrocket",
+      "kiln"
+    ],
+    "related": [
+      "stakemon",
+      "veda",
+      "0x"
+    ]
+  }
+}

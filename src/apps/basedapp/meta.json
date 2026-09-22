@@ -1,0 +1,33 @@
+{
+  "slug": "basedapp",
+  "name": "BasedApp",
+  "logoUrl": "https://www.basedapp.io/favicon.ico?favicon.0un6u9nl7jg7k.ico?dpl=dpl_AKLYA9BNY24rfUR37Pa29J82FYmK",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Credit Cards"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "BasedApp is a self-custody crypto banking app pairing a non-custodial wallet with a Visa debit card.",
+    "description": "BasedApp connects a non-custodial wallet to a Visa debit card, so balances stay under the user's control until the moment they are spent. Keeping custody right up to the point of payment is the interesting constraint here, given card networks expect an authorisation answer in milliseconds.",
+    "meta": "Spend from a non-custodial wallet on a Visa debit card, with custody kept until the point of payment.",
+    "pageTitle": "BasedApp - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.basedapp.io"
+  },
+  "relations": {
+    "alternatives": [
+      "xade-finance"
+    ],
+    "related": [
+      "anchorage",
+      "biconomy-io",
+      "bitgo"
+    ]
+  }
+}

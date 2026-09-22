@@ -1,0 +1,36 @@
+{
+  "slug": "liminal-basis",
+  "name": "Liminal Basis",
+  "logoUrl": "https://unavatar.io/x/liminalmoney",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Liminal Basis runs automated basis-trading vaults capturing Hyperliquid yield sources.",
+    "description": "Liminal Basis operates vaults that run basis trades against Hyperliquid, capturing the spread between spot and perpetual pricing and passing it to depositors. It is unrelated to the custody provider of a similar name. Basis yield is genuine but tracks funding rates, so it compresses exactly when the most capital has arrived to chase it.",
+    "meta": "Basis-trade vaults capturing the spread between Hyperliquid spot and perpetual pricing.",
+    "pageTitle": "Liminal Basis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://liminal.money",
+    "twitter": "https://x.com/liminalmoney"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "blueberry",
+      "clovis",
+      "d2-finance"
+    ]
+  }
+}

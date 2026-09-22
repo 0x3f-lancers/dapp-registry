@@ -1,0 +1,36 @@
+{
+  "slug": "sentiment",
+  "name": "Sentiment",
+  "logoUrl": "https://unavatar.io/x/sentimentxyz",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Sentiment is a permissionless lending protocol with isolated pools and oracle-agnostic markets.",
+    "description": "Sentiment runs lending markets where each pool is isolated and the oracle is chosen per market rather than imposed protocol-wide. That combination lets long-tail assets be listed without every depositor inheriting their risk, which is the structural fix the sector adopted after shared-pool losses in earlier cycles.",
+    "meta": "Isolated pools with a per-market oracle, so long-tail listings do not endanger every depositor.",
+    "pageTitle": "Sentiment - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.sentiment.xyz",
+    "twitter": "https://x.com/sentimentxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "arkis",
+      "euler",
+      "hyperdrive-defi"
+    ],
+    "related": [
+      "hyperlend",
+      "hypurrfi",
+      "impermax-v2"
+    ]
+  }
+}

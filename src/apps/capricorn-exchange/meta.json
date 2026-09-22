@@ -1,0 +1,36 @@
+{
+  "slug": "capricorn-exchange",
+  "name": "Capricorn",
+  "logoUrl": "https://unavatar.io/x/CapricornDEX",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Capricorn is a concentrated liquidity DEX on Monad combining oracle pricing with fast execution.",
+    "description": "Capricorn pairs concentrated liquidity with oracle-driven pricing on Monad, aiming at execution quality closer to a professional venue than a typical AMM. Designs like this depend on the chain keeping pace with the oracle, which is the specific bet Monad's throughput is meant to support.",
+    "meta": "Oracle-priced concentrated liquidity on Monad, aimed at execution closer to a professional venue.",
+    "pageTitle": "Capricorn - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.capricorn.exchange",
+    "twitter": "https://x.com/CapricornDEX"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "bonad",
+      "brownfi",
+      "clober"
+    ]
+  }
+}

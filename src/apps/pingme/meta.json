@@ -1,0 +1,36 @@
+{
+  "slug": "pingme",
+  "name": "PingMe",
+  "logoUrl": "https://unavatar.io/x/PingMe_xyz",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "PingMe is a stablecoin payments app on Monad sending crypto by email, QR or message.",
+    "description": "PingMe lets someone send stablecoins to an email address, a QR code or a message thread rather than a hex address, on Monad. Addressing is the part of crypto payments that most obviously fails ordinary expectations, and removing it is worth more to a first-time user than any fee saving.",
+    "meta": "Send stablecoins to an email address or QR code instead of a hex string.",
+    "pageTitle": "PingMe - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.pingme.xyz",
+    "twitter": "https://x.com/PingMe_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "bidali",
+      "brale"
+    ],
+    "related": [
+      "bridge-xyz",
+      "capa-fi",
+      "chainrails"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "ammplify",
+  "name": "Ammplify",
+  "logoUrl": "https://unavatar.io/x/ammplify_xyz",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Ammplify is a Monad LP aggregator pairing market-making fees with options-style payoffs.",
+    "description": "Ammplify combines liquidity provision income with option-like payoff structures on Monad, acknowledging that an LP position already behaves somewhat like a short volatility trade and building on that rather than hiding it. Framing the position honestly is more useful than quoting an APR that ignores impermanent loss.",
+    "meta": "Monad liquidity aggregation that treats an LP position as the volatility trade it already is.",
+    "pageTitle": "Ammplify - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ammplify.xyz",
+    "twitter": "https://x.com/ammplify_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "ample-money",
+      "auto-finance",
+      "beefy"
+    ],
+    "related": [
+      "blend-money",
+      "eisenlabs",
+      "ipor"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "nordstern",
+  "name": "Nordstern",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/nordstern.finance",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Nordstern is a DEX aggregator API returning simulated, zero-fee swap routes across EVM chains.",
+    "description": "Nordstern exposes swap routing as an API rather than a front end, returning routes that have been simulated before they are returned so the caller knows what execution to expect. Simulating first matters for integrators, because a route that looks optimal on paper can revert or slip once it touches real pool state.",
+    "meta": "Swap routing as an API, returning routes already simulated against live pool state.",
+    "pageTitle": "Nordstern - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nordstern.finance"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "bonad",
+      "brownfi",
+      "capricorn-exchange"
+    ]
+  }
+}

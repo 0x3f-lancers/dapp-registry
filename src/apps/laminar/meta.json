@@ -1,0 +1,36 @@
+{
+  "slug": "laminar",
+  "name": "Laminar",
+  "logoUrl": "https://unavatar.io/x/laminar_xyz",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Laminar is a Hyperliquid-native DEX pairing concentrated liquidity with intent-based routing.",
+    "description": "Laminar trades on Hyperliquid using concentrated liquidity pools alongside intent-based order routing, so a trade can be filled from pooled liquidity or by a solver, whichever serves it better. Mixing the two models is a practical response to a chain where a deep native order book sits next to a young pool-based DeFi layer.",
+    "meta": "Concentrated liquidity and solver-based routing side by side on Hyperliquid.",
+    "pageTitle": "Laminar - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://laminar.xyz",
+    "twitter": "https://x.com/laminar_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "alt-fun",
+      "balancer"
+    ],
+    "related": [
+      "brownfi",
+      "curve-finance",
+      "defi-app"
+    ]
+  }
+}

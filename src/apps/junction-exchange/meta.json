@@ -1,0 +1,36 @@
+{
+  "slug": "junction-exchange",
+  "name": "Junction",
+  "logoUrl": "https://unavatar.io/x/junctionfi",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Junction is a swap and bridge aggregator routing trades across EVM chains, Solana and Hyperliquid.",
+    "description": "Junction aggregates both swapping and bridging, covering EVM networks, Solana and Hyperliquid in one route search. Including a non-EVM chain in the same path is the harder part of this product, since the two sides settle under different assumptions about finality.",
+    "meta": "Route a trade across EVM chains, Solana and Hyperliquid in one search.",
+    "pageTitle": "Junction - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://junction.exchange",
+    "twitter": "https://x.com/junctionfi"
+  },
+  "relations": {
+    "alternatives": [
+      "debridge",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "hyperunit",
+      "layerzero",
+      "mayan"
+    ]
+  }
+}

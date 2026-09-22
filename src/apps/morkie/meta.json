@@ -1,0 +1,36 @@
+{
+  "slug": "morkie",
+  "name": "Morkie",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/morkie",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT Minting Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Morkie is a multi-chain NFT minting platform spanning Polygon, Monad and other EVM networks.",
+    "description": "Morkie lets creators mint NFTs across several EVM networks without deploying their own contracts. Minting tools are the least glamorous part of the NFT stack and the reason most collections exist at all, since few creators write Solidity.",
+    "meta": "Mint NFTs across Polygon, Monad and other EVM chains without deploying a contract.",
+    "pageTitle": "Morkie - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://morkie.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "dropspace",
+      "minero",
+      "mirror-world"
+    ],
+    "related": [
+      "autominter",
+      "bueno",
+      "envelop"
+    ]
+  }
+}

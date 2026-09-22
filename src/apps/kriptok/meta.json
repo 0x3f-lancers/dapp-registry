@@ -1,0 +1,38 @@
+{
+  "slug": "kriptok",
+  "name": "KriptoK",
+  "logoUrl": "https://unavatar.io/x/KriptoKGlobal",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Bitcoin",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "KriptoK is a non-custodial mobile wallet for Bitcoin, Solana and EVM chains.",
+    "description": "KriptoK is a mobile self-custody wallet spanning Bitcoin, Solana and EVM networks, with a published Halborn audit. For a wallet the audit matters more than for most software, since a key-handling bug is not something a user can notice before it costs them.",
+    "meta": "Mobile self-custody across Bitcoin, Solana and EVM chains, with a published Halborn audit.",
+    "pageTitle": "KriptoK - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://kriptok.io",
+    "twitter": "https://x.com/KriptoKGlobal"
+  },
+  "relations": {
+    "alternatives": [
+      "plug-wallet",
+      "trust-wallet",
+      "atomic-wallet"
+    ],
+    "related": [
+      "backpack",
+      "coin98-super-wallet",
+      "cropty-wallet"
+    ]
+  }
+}

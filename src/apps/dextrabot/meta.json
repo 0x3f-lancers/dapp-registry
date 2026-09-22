@@ -1,0 +1,36 @@
+{
+  "slug": "dextrabot",
+  "name": "Dextrabot",
+  "logoUrl": "https://unavatar.io/x/dextrabot",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "content": {
+    "short": "Dextrabot offers Hyperliquid trading bots including copy trading, grid bots and market makers.",
+    "description": "Dextrabot runs automated strategies against Hyperliquid, covering copy trading, grid bots and simple market making from one interface. Copy trading works unusually well on this chain because the positions being copied are public on-chain rather than self-reported by the trader.",
+    "meta": "Copy trading, grid bots and market making run against Hyperliquid's public positions.",
+    "pageTitle": "Dextrabot - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dextrabot.com",
+    "twitter": "https://x.com/dextrabot"
+  },
+  "relations": {
+    "alternatives": [
+      "asym",
+      "bankr",
+      "cod3x"
+    ],
+    "related": [
+      "coinmarketman",
+      "hyperdash",
+      "hypersignals"
+    ]
+  }
+}

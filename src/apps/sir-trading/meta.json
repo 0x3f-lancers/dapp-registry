@@ -1,0 +1,37 @@
+{
+  "slug": "sir-trading",
+  "name": "SIR",
+  "logoUrl": "https://unavatar.io/x/leveragesir",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "SIR offers leveraged tokens with no liquidations and no funding rates.",
+    "description": "SIR issues leveraged tokens that cannot be liquidated and carry no funding payments, shifting the cost of leverage into the token's design rather than an ongoing fee. Removing liquidation removes the sharpest failure mode of leverage, though the exposure still decays in ways that reward reading the mechanism before holding one for long.",
+    "meta": "Leverage without a liquidation price, with the cost moved into the token's design.",
+    "pageTitle": "SIR - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.sir.trading",
+    "twitter": "https://x.com/leveragesir"
+  },
+  "relations": {
+    "alternatives": [
+      "aevo",
+      "apex-protocol",
+      "bounce-tech"
+    ],
+    "related": [
+      "contango",
+      "demex",
+      "erasure"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "diffuse-fi",
+  "name": "Diffuse",
+  "logoUrl": "https://unavatar.io/x/DiffuseFi",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Decentralized Computing Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Diffuse combines zkTLS and trusted execution environments for trustless private computation.",
+    "description": "Diffuse pairs zkTLS with trusted execution environments so that computation over private data can be verified without the data being revealed. The combination matters for bringing off-chain facts on-chain: a proof that a web response said something specific, without publishing the response itself.",
+    "meta": "zkTLS paired with trusted execution, proving a computation without revealing what went into it.",
+    "pageTitle": "Diffuse - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.diffuse.fi",
+    "twitter": "https://x.com/DiffuseFi"
+  },
+  "relations": {
+    "alternatives": [
+      "acurast",
+      "mc2-finance",
+      "nubila-network"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "axelar"
+    ]
+  }
+}

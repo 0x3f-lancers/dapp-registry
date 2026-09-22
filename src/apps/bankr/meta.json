@@ -1,0 +1,35 @@
+{
+  "slug": "bankr",
+  "name": "Bankr",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/bankr",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Bankr is a conversational onchain agent for trading, launching tokens and treasury automation.",
+    "description": "Bankr executes on-chain actions from natural language, covering trades, token launches and recurring treasury operations. Conversational interfaces lower the barrier to acting on-chain considerably, which cuts both ways when the action is irreversible and the instruction was ambiguous.",
+    "meta": "Execute trades, token launches and treasury tasks onchain by describing them in plain language.",
+    "pageTitle": "Bankr - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bankr.bot"
+  },
+  "relations": {
+    "alternatives": [
+      "asym",
+      "cod3x",
+      "coinmarketman"
+    ],
+    "related": [
+      "dextrabot",
+      "hyperdash",
+      "hypersignals"
+    ]
+  }
+}

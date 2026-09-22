@@ -1,0 +1,36 @@
+{
+  "slug": "hyperstable",
+  "name": "Hyperstable",
+  "logoUrl": "https://unavatar.io/x/hyperstable",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Hyperstable is a Hyperliquid CDP protocol minting USH, an over-collateralized stablecoin.",
+    "description": "Hyperstable lets users lock collateral on Hyperliquid and mint USH against it, an over-collateralised stablecoin rather than one backed by off-chain reserves. A locally issued stablecoin gives the chain a dollar that does not depend on a bridge staying solvent, which is the main counterparty risk a young network carries.",
+    "meta": "USH, a stablecoin minted against Hyperliquid collateral rather than off-chain reserves.",
+    "pageTitle": "Hyperstable - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.hyperstable.xyz",
+    "twitter": "https://x.com/hyperstable"
+  },
+  "relations": {
+    "alternatives": [
+      "felix-protocol",
+      "keiko-finance",
+      "mai"
+    ],
+    "related": [
+      "monetrix",
+      "parallel-protocol",
+      "timeswap"
+    ]
+  }
+}

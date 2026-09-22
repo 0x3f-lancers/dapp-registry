@@ -1,0 +1,35 @@
+{
+  "slug": "bron",
+  "name": "Bron",
+  "logoUrl": "https://unavatar.io/x/BronWallet",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "MPC Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Bron is an MPC wallet for individuals and treasuries with biometric signing and guardian recovery.",
+    "description": "Bron uses multi-party computation so no single device holds a complete key, with biometric signing and guardian-based recovery on top. Serving both individuals and treasuries from one product is unusual, since the approval workflows a team needs tend to get in a solo user's way.",
+    "meta": "MPC key management with biometric signing and guardian recovery, for individuals and treasuries alike.",
+    "pageTitle": "Bron - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bron.org",
+    "twitter": "https://x.com/BronWallet"
+  },
+  "relations": {
+    "alternatives": [
+      "fordefi",
+      "tholos"
+    ],
+    "related": [
+      "backpack",
+      "bifrost-wallet",
+      "den"
+    ]
+  }
+}

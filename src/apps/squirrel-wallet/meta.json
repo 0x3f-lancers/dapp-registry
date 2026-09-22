@@ -1,0 +1,37 @@
+{
+  "slug": "squirrel-wallet",
+  "name": "Squirrel Wallet",
+  "logoUrl": "https://unavatar.io/x/squirrel_wallet",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Squirrel Wallet is a non-custodial mobile wallet with social-recovery guardians across 100+ chains.",
+    "description": "Squirrel Wallet covers more than a hundred chains including Hyperliquid and Monad, and uses guardians for social recovery so losing a device does not mean losing the wallet. Recovery design is the part of self-custody that decides whether ordinary users can actually keep their own keys.",
+    "meta": "Guardian-based recovery across 100+ chains, so a lost device is not a lost wallet.",
+    "pageTitle": "Squirrel Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.squirrelwallet.com",
+    "twitter": "https://x.com/squirrel_wallet"
+  },
+  "relations": {
+    "alternatives": [
+      "backpack",
+      "trust-wallet",
+      "zerion"
+    ],
+    "related": [
+      "bifrost-wallet",
+      "bitget-wallet",
+      "coin98"
+    ]
+  }
+}

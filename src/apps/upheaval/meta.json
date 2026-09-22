@@ -1,0 +1,36 @@
+{
+  "slug": "upheaval",
+  "name": "Upheaval",
+  "logoUrl": "https://unavatar.io/x/upheavalfi",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Upheaval is a concentrated liquidity DEX on Hyperliquid for deploying capital across tight price ranges.",
+    "description": "Upheaval runs concentrated liquidity markets on Hyperliquid, letting providers place capital in narrow bands where most trading actually happens rather than spreading it across the whole curve. The efficiency gain is real, and so is the cost: a position outside the active range earns nothing until price returns or the provider moves it.",
+    "meta": "Concentrated liquidity on Hyperliquid, efficient while price stays inside the chosen band.",
+    "pageTitle": "Upheaval - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://upheaval.fi",
+    "twitter": "https://x.com/upheavalfi"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "alt-fun",
+      "balancer"
+    ],
+    "related": [
+      "brownfi",
+      "curve-finance",
+      "defi-app"
+    ]
+  }
+}

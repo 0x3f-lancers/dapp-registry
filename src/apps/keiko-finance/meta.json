@@ -1,0 +1,36 @@
+{
+  "slug": "keiko-finance",
+  "name": "Keiko Finance",
+  "logoUrl": "https://unavatar.io/x/keikofinance",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Keiko Finance is a Hyperliquid CDP protocol minting the KEI stablecoin against HYPE and related assets.",
+    "description": "Keiko Finance issues KEI against collateral including HYPE and other Hyperliquid-native assets, with risk parameters set per collateral type. Accepting a chain's own token as primary collateral concentrates risk in exactly the asset that falls hardest if the chain has a bad week, which is why the liquidation settings matter more here than the headline rate.",
+    "meta": "KEI, minted against HYPE and other Hyperliquid-native collateral with per-asset risk settings.",
+    "pageTitle": "Keiko Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://keikofinance.com",
+    "twitter": "https://x.com/keikofinance"
+  },
+  "relations": {
+    "alternatives": [
+      "felix-protocol",
+      "hyperstable",
+      "mai"
+    ],
+    "related": [
+      "monetrix",
+      "parallel-protocol",
+      "timeswap"
+    ]
+  }
+}

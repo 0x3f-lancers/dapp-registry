@@ -1,0 +1,36 @@
+{
+  "slug": "okto",
+  "name": "Okto",
+  "logoUrl": "https://unavatar.io/x/okto_web3",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Okto is a self-custody wallet and embedded wallet SDK from CoinDCX.",
+    "description": "Okto is both a consumer self-custody wallet and an SDK other applications embed to give their users wallets, built by the team behind the Indian exchange CoinDCX. Running both sides means the SDK is tested against a real consumer product rather than only against sample apps.",
+    "meta": "A consumer self-custody wallet and the embedded wallet SDK behind it, built by CoinDCX.",
+    "pageTitle": "Okto - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.okto.tech",
+    "twitter": "https://x.com/okto_web3"
+  },
+  "relations": {
+    "alternatives": [
+      "backpack",
+      "bifrost-wallet",
+      "kriptok"
+    ],
+    "related": [
+      "krystal-wallet",
+      "phantom",
+      "plug-wallet"
+    ]
+  }
+}

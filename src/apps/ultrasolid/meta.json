@@ -1,0 +1,35 @@
+{
+  "slug": "ultrasolid",
+  "name": "Ultrasolid",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/ultrasolid-v3",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Ultrasolid is a vote-escrow DEX on Hyperliquid linking HyperEVM swaps to HyperCore liquidity.",
+    "description": "Ultrasolid runs a vote-escrow exchange on HyperEVM and routes into HyperCore's order book liquidity, so swaps are not confined to what the EVM side holds. Reaching across the two halves of Hyperliquid is the design advantage native protocols have over deployments ported from other chains.",
+    "meta": "Routes HyperEVM swaps into HyperCore liquidity rather than staying inside the EVM layer.",
+    "pageTitle": "Ultrasolid - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ultrasolid.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "alt-fun",
+      "balancer"
+    ],
+    "related": [
+      "brownfi",
+      "curve-finance",
+      "defi-app"
+    ]
+  }
+}

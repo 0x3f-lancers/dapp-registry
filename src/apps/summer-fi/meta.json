@@ -1,0 +1,36 @@
+{
+  "slug": "summer-fi",
+  "name": "Summer.fi",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/summer.fi-pro",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Summer.fi auto-rebalances deposits across major lending protocols to chase the best rate.",
+    "description": "Summer.fi moves deposits between established lending protocols as their rates change, so a depositor holds one position instead of monitoring several. Rates across lending markets diverge constantly with utilisation, and capturing that spread is the entire reason this category of product exists.",
+    "meta": "Moves deposits between lending protocols as utilisation pushes their rates apart.",
+    "pageTitle": "Summer.fi - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://summer.fi"
+  },
+  "relations": {
+    "alternatives": [
+      "beefy",
+      "harvest",
+      "yearn"
+    ],
+    "related": [
+      "lagoon",
+      "veda",
+      "abyss-finance"
+    ]
+  }
+}

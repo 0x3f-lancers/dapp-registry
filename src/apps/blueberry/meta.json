@@ -1,0 +1,36 @@
+{
+  "slug": "blueberry",
+  "name": "Blueberry",
+  "logoUrl": "https://unavatar.io/x/blueberryfdn",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Blueberry is a Hyperliquid DeFi terminal that tokenizes HLP vault yield into composable assets.",
+    "description": "Blueberry turns yield from Hyperliquid's HLP vault into a token other protocols can use as collateral or trade, rather than a position locked inside one interface. Making a native yield source composable is usually what lets the rest of a chain's DeFi build on top of it.",
+    "meta": "Turns Hyperliquid HLP vault yield into a token other protocols can price and accept as collateral.",
+    "pageTitle": "Blueberry - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.blueberry.garden",
+    "twitter": "https://x.com/blueberryfdn"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "clovis",
+      "d2-finance",
+      "equilibria"
+    ]
+  }
+}

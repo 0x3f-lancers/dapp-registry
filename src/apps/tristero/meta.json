@@ -1,0 +1,36 @@
+{
+  "slug": "tristero",
+  "name": "Tristero",
+  "logoUrl": "https://unavatar.io/x/0xtristero",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Tristero is a non-custodial encrypted exchange for private order matching and cross-chain trades.",
+    "description": "Tristero matches orders under encryption so that trading intent is not broadcast before execution, which on a transparent chain is the difference between getting filled and being front-run. Private matching with non-custodial settlement is a hard combination, and it is the specific problem this protocol takes on.",
+    "meta": "Encrypted order matching, so intent is not broadcast before execution on a transparent chain.",
+    "pageTitle": "Tristero - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.tristero.com",
+    "twitter": "https://x.com/0xtristero"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "bonad",
+      "brownfi",
+      "capricorn-exchange"
+    ]
+  }
+}

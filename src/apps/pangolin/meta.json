@@ -1,0 +1,36 @@
+{
+  "slug": "pangolin",
+  "name": "Pangolin",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/pangolin-v2",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Pangolin is an AMM and trading platform offering limit, TWAP and standard swap orders.",
+    "description": "Pangolin began as one of Avalanche's earliest AMMs and has since added limit and TWAP orders alongside ordinary swaps, with PNG rewards for liquidity providers. It now appears in Monad's ecosystem listing. Order types beyond the market swap are unusual for an AMM and mostly serve traders sizing into thin books.",
+    "meta": "Limit and TWAP orders alongside ordinary swaps, unusual for an AMM and useful in thin books.",
+    "pageTitle": "Pangolin - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.pangolin.exchange"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "kyberswap"
+    ],
+    "related": [
+      "lifi",
+      "sushi",
+      "trader-joe"
+    ]
+  }
+}

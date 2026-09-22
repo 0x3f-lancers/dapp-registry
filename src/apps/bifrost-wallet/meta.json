@@ -1,0 +1,36 @@
+{
+  "slug": "bifrost-wallet",
+  "name": "Bifrost Wallet",
+  "logoUrl": "https://bifrostwallet.com/icons/icon-48x48.png?v=fbd1fdc9039c105b7686966d1c90fe87",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Bifrost Wallet is a self-custody mobile wallet built around the Flare and XRP Ledger ecosystems.",
+    "description": "Bifrost Wallet is a mobile self-custody wallet with its roots in the Flare and XRP Ledger ecosystems, extended to EVM networks including Hyperliquid. Wallets built for a specific ecosystem first tend to handle that chain's quirks properly, which generic multi-chain wallets often approximate.",
+    "meta": "Mobile self-custody for the Flare and XRP Ledger ecosystems, extended to EVM networks.",
+    "pageTitle": "Bifrost Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bifrostwallet.com"
+  },
+  "relations": {
+    "alternatives": [
+      "backpack",
+      "krystal-wallet",
+      "phantom"
+    ],
+    "related": [
+      "plug-wallet",
+      "trust-wallet",
+      "zerion"
+    ]
+  }
+}

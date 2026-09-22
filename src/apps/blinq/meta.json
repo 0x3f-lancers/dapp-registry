@@ -1,0 +1,36 @@
+{
+  "slug": "blinq",
+  "name": "Blinq",
+  "logoUrl": "https://unavatar.io/x/blinqFi",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Web3 Prediction Markets"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Blinq is a derivatives layer for prediction markets offering leverage on event outcomes.",
+    "description": "Blinq adds leverage to prediction market positions, letting a trader take amplified exposure to an outcome rather than posting the full notional. Leverage on a binary outcome behaves differently from leverage on a price, since the position resolves to zero or one rather than drifting toward a liquidation price.",
+    "meta": "Take leveraged positions on prediction market outcomes instead of posting the full notional.",
+    "pageTitle": "Blinq - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blinq.fi",
+    "twitter": "https://x.com/blinqFi"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperstitions",
+      "kizzy",
+      "levr-bet"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  }
+}

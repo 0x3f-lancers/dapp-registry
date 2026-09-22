@@ -1,0 +1,37 @@
+{
+  "slug": "kyber-network",
+  "name": "Kyber Network",
+  "logoUrl": "https://unavatar.io/x/kybernetwork",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Kyber Network is a multi-chain liquidity hub aggregating DEX liquidity for users and dapps.",
+    "description": "Kyber Network aggregates liquidity across decentralised exchanges so that users and integrating applications get a single point of access rather than querying venues individually. It is one of the longer-running protocols in DeFi and now appears in the Hyperliquid ecosystem alongside its established deployments.",
+    "meta": "Aggregated DEX liquidity for users and integrating applications, now including Hyperliquid.",
+    "pageTitle": "Kyber Network - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://kyber.network",
+    "twitter": "https://x.com/kybernetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "balancer",
+      "curve-finance"
+    ],
+    "related": [
+      "infinex",
+      "lifi",
+      "matcha"
+    ]
+  }
+}

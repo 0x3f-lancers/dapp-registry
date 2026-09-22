@@ -1,0 +1,35 @@
+{
+  "slug": "dialect",
+  "name": "Dialect",
+  "logoUrl": "https://www.dialect.to/apple-icon.png?201a673deba7ce6f",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Messaging Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Dialect provides Web3 UX infrastructure letting developers embed onchain actions and alerts.",
+    "description": "Dialect builds the messaging and action layer that lets applications notify users and let them act without leaving the surface they are already on, through its Blinks and Alerts products. Notifications are an unglamorous gap in on-chain UX, and their absence is why users miss liquidations they would otherwise have avoided.",
+    "meta": "Notifications and inline onchain actions, so users can act without leaving the surface they are on.",
+    "pageTitle": "Dialect - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.dialect.to"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "skiff"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "birdeye-so"
+    ]
+  }
+}

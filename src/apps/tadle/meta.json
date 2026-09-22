@@ -1,0 +1,35 @@
+{
+  "slug": "tadle",
+  "name": "Tadle",
+  "logoUrl": "https://unavatar.io/x/tadle_com",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Relayers"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Tadle is a prompt-driven sandbox on Monad automating trading, lending and other onchain actions.",
+    "description": "Tadle lets users describe an on-chain workflow in a prompt and have it carried out across DEXes, lending markets and other protocols on Monad. The sandbox framing is the sensible part, since testing an automated sequence before it runs with real funds is the difference between a tool and a hazard.",
+    "meta": "Describe an onchain workflow in a prompt and test it before it runs with real funds.",
+    "pageTitle": "Tadle - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.tadle.com",
+    "twitter": "https://x.com/tadle_com"
+  },
+  "relations": {
+    "alternatives": [
+      "biconomy",
+      "gelato"
+    ],
+    "related": [
+      "across",
+      "allium",
+      "birdeye"
+    ]
+  }
+}

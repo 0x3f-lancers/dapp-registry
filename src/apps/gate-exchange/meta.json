@@ -1,0 +1,38 @@
+{
+  "slug": "gate-exchange",
+  "name": "Gate",
+  "logoUrl": "https://unavatar.io/x/gate_io",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Gate is a long-running global exchange holding reserves across Hyperliquid, Monad and other chains.",
+    "description": "Gate, previously Gate.io, is one of the older centralised exchanges still operating, with a catalogue that runs far deeper into small-cap listings than most of its peers. Its on-chain reserves are among the larger balances held on both Hyperliquid and Monad, which is how a centralised venue ends up ranked alongside protocols in chain TVL tables. For a new chain, an exchange holding meaningful reserves matters mainly because it signals deposits and withdrawals are supported in production.",
+    "meta": "One of the longest-running global exchanges, with sizeable onchain reserves on Hyperliquid and Monad.",
+    "pageTitle": "Gate - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.gate.com/",
+    "twitter": "https://x.com/gate_io"
+  },
+  "relations": {
+    "alternatives": [
+      "bybit",
+      "bitvavo",
+      "binance"
+    ],
+    "related": [
+      "binance-us",
+      "bitget",
+      "bithumb"
+    ]
+  }
+}

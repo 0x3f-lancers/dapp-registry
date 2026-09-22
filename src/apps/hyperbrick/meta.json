@@ -1,0 +1,35 @@
+{
+  "slug": "hyperbrick",
+  "name": "HyperBrick",
+  "logoUrl": "https://icons.llamao.fi/icons/protocols/hyperbrick",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "HyperBrick is a bin-based dynamic liquidity market maker DEX on HyperEVM.",
+    "description": "HyperBrick organises liquidity into discrete bins rather than a continuous curve, which lets fees adjust with volatility and gives providers exact control over the prices they quote at. Bin-based designs trade some elegance for precision, and suit assets that trade in tight bands most of the time.",
+    "meta": "Liquidity organised into discrete bins, letting fees move with volatility on HyperEVM.",
+    "pageTitle": "HyperBrick - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperbrick.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "alt-fun",
+      "balancer"
+    ],
+    "related": [
+      "brownfi",
+      "curve-finance",
+      "defi-app"
+    ]
+  }
+}

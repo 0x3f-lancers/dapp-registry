@@ -1,0 +1,36 @@
+{
+  "slug": "nubila-network",
+  "name": "Nubila Network",
+  "logoUrl": "https://unavatar.io/x/nubilanetwork",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Decentralized Computing Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Nubila is a DePIN network of weather stations feeding real-world environmental data onchain.",
+    "description": "Nubila runs a physical network of weather stations whose readings are published on-chain, giving contracts access to environmental data that is measured rather than reported. Weather is one of the clearer cases for decentralised physical infrastructure, since the value depends on having many independent sensors rather than one trusted source.",
+    "meta": "A physical network of weather stations publishing measured environmental readings onchain.",
+    "pageTitle": "Nubila Network - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nubila.network",
+    "twitter": "https://x.com/nubilanetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "acurast",
+      "diffuse-fi",
+      "mc2-finance"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "axelar"
+    ]
+  }
+}

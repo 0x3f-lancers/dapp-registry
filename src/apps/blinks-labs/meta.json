@@ -1,0 +1,35 @@
+{
+  "slug": "blinks-labs",
+  "name": "Blinks Labs",
+  "logoUrl": "https://unavatar.io/x/blinkslabs",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Relayers"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Blinks Labs is an automation layer running event-triggered DeFi strategies.",
+    "description": "Blinks Labs executes DeFi strategies when specified on-chain events occur, removing the need for a user to watch for the trigger themselves. Event-driven automation is what turns a conditional intention into something that actually happens at three in the morning.",
+    "meta": "DeFi strategies that fire automatically when a specified onchain event occurs.",
+    "pageTitle": "Blinks Labs - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blinks.zone",
+    "twitter": "https://x.com/blinkslabs"
+  },
+  "relations": {
+    "alternatives": [
+      "biconomy",
+      "gelato"
+    ],
+    "related": [
+      "airdrophunt-fun",
+      "allium",
+      "artemis"
+    ]
+  }
+}
