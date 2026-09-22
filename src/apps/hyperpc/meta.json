@@ -13,7 +13,7 @@
   "pricing": "Freemium",
   "content": {
     "short": "HypeRPC provides low-latency RPC and archival node infrastructure dedicated to Hyperliquid.",
-    "description": "HypeRPC is an RPC provider focused on a single network rather than a long chain list, offering HyperEVM endpoints tuned for latency-sensitive workloads such as trading and liquidation bots. It appears in Hyperliquid's builder documentation under archival RPC, meaning it serves historical state as well as current head. Teams generally reach for a dedicated provider once the public endpoint's rate limits start shaping their architecture.",
+    "description": "HypeRPC is an RPC provider focused on a single network rather than a long chain list, offering HyperEVM endpoints tuned for latency-sensitive workloads such as trading and liquidation bots. Teams generally reach for a dedicated provider once the public endpoint's rate limits start shaping their architecture.",
     "meta": "HypeRPC is a dedicated Hyperliquid RPC provider offering low-latency and archival endpoints.",
     "pageTitle": "HypeRPC - Infrastructure Tools - Lancers Web3 Explorer"
   },

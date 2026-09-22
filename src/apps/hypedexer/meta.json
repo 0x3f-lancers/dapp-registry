@@ -13,7 +13,7 @@
   "pricing": "Paid",
   "content": {
     "short": "HypeDexer indexes every resting Hyperliquid order and fill, served over REST, WebSocket and MCP.",
-    "description": "HypeDexer, built by Enigma, is an indexing service for Hyperliquid order book data. It keeps every resting order with its identifier and the address behind it, alongside a historical fill archive running back to the chain's launch, and serves this over REST, WebSocket and an MCP endpoint for agent use. This is granular market microstructure data that is impractical to reconstruct from a general-purpose indexer. Hyperliquid's documentation lists it under indexing.",
+    "description": "HypeDexer, built by Enigma, is an indexing service for Hyperliquid order book data. It keeps every resting order with its identifier and the address behind it, alongside a historical fill archive running back to the chain's launch, and serves this over REST, WebSocket and an MCP endpoint for agent use. This is granular market microstructure data that is impractical to reconstruct from a general-purpose indexer.",
     "meta": "HypeDexer indexes Hyperliquid resting orders and historical fills over REST, WebSocket and MCP.",
     "pageTitle": "HypeDexer - Infrastructure Tools - Lancers Web3 Explorer"
   },

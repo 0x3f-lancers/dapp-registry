@@ -13,8 +13,8 @@
   "pricing": "",
   "content": {
     "short": "Philidor scores and monitors DeFi vaults and tokenized funds, issuing signed risk decisions.",
-    "description": "Philidor assesses vaults and tokenized funds, mapping what each product actually depends on underneath and issuing signed risk decisions against a client's own policy. Monad's documentation lists it under analytics. Dependency mapping is the useful part: yield products routinely wrap other yield products, and the real exposure is often several layers below what the front end advertises.",
-    "meta": "Philidor scores and monitors DeFi vaults and tokenized funds, issuing signed risk decisions.",
+    "description": "Philidor assesses vaults and tokenized funds, mapping what each product actually depends on underneath and issuing signed risk decisions against a client's own policy. Dependency mapping is the useful part: yield products routinely wrap other yield products, and the real exposure is often several layers below what the front end advertises.",
+    "meta": "Maps what a vault actually depends on underneath and issues signed risk decisions against policy.",
     "pageTitle": "Philidor - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

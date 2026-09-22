@@ -14,8 +14,8 @@
   "pricing": "Free",
   "content": {
     "short": "Relay is a cross-chain bridging and execution protocol built for low-cost instant transfers.",
-    "description": "Relay moves value between chains using relayers who front the funds on the destination side and settle afterwards, which makes transfers fast and cheap for small amounts where traditional bridging overhead dominates. Monad's documentation lists it under cross-chain tooling. The design trades some capital efficiency for latency, a sensible bargain when the alternative is users waiting on finality.",
-    "meta": "Relay is a cross-chain bridging and execution protocol built for low-cost instant transfers.",
+    "description": "Relay moves value between chains using relayers who front the funds on the destination side and settle afterwards, which makes transfers fast and cheap for small amounts where traditional bridging overhead dominates. The design trades some capital efficiency for latency, a sensible bargain when the alternative is users waiting on finality.",
+    "meta": "Relayers front funds on the destination chain, trading capital efficiency for speed.",
     "pageTitle": "Relay - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

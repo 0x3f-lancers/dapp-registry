@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "Flowscan is a real-time explorer and analytics view for Hyperliquid activity.",
-    "description": "Flowscan presents Hyperliquid activity as it happens, sitting between a conventional block explorer and an analytics dashboard. Hyperliquid's builder documentation lists it under both explorers and analytics for perps and order book data, which reflects how it is used in practice: less for looking up a single transaction hash, more for watching flow across the network. It covers HyperCore trading activity rather than only EVM transactions.",
+    "description": "Flowscan presents Hyperliquid activity as it happens, sitting between a conventional block explorer and an analytics dashboard. It is used less for looking up a single transaction hash and more for watching flow across the network as positions build and unwind. Because it reads HyperCore trading activity rather than only EVM transactions, it covers the half of the chain that a standard explorer cannot see.",
     "meta": "Flowscan is a real-time Hyperliquid explorer combining block data with order book analytics.",
     "pageTitle": "Flowscan - Web3 Developer Tools - Lancers Web3 Explorer"
   },
