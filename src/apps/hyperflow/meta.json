@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Hyperflow aggregates HyperEVM liquidity and bridging into a single swap interface.",
-    "description": "Hyperflow presents the liquidity on HyperEVM through one interface, combining swap routing with bridging so that funds arriving from another chain and the trade itself are handled in the same flow. Its focus is reducing the number of separate steps a user takes to get from an asset on another network into a position on HyperEVM.",
+    "description": "Hyperflow gives ordinary accounts the execution quality and fee tiers normally reserved for the largest traders. Perps on BTC, ETH and HYPE trade against Hyperliquid liquidity at lower effective fees than trading there directly, and spot runs on the same order book with scale and TWAP orders available. A meta-aggregator spans more than thirty HyperEVM liquidity sources for swaps, while bridging selects among seven providers to move assets in and out of HyperEVM and HyperCore. Balances across chains appear in one view with one-click funding, and FlowXP rewards trading, bridging and referrals.",
     "meta": "Hyperflow is a HyperEVM aggregator combining swap routing and bridging in one interface.",
     "pageTitle": "Hyperflow - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://hyperflow.fun/"
+    "website": "https://hyperflow.fun/",
+    "twitter": "https://x.com/hyperflow"
   },
   "relations": {
     "alternatives": [

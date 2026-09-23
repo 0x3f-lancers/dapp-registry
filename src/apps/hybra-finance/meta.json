@@ -14,12 +14,13 @@
   "pricing": "Free",
   "content": {
     "short": "Hybra Finance is a decentralized exchange deployed on HyperEVM and Robinhood Chain.",
-    "description": "Hybra Finance operates exchange markets on HyperEVM and Robinhood Chain, two of the newer EVM networks where native liquidity is still forming. Protocols deploying to both tend to be making the same bet: that the chains launching around tokenized assets and on-chain order books will need their own liquidity layer rather than importing one.",
+    "description": "Hybra Finance is a concentrated liquidity AMM on HyperEVM whose V4 release adjusts fees dynamically with volatility and volume. It uses Uniswap V4-style hooks for custom swap logic and a ve(3,3) emissions model that routes real yield to long-term liquidity providers. Earlier V2 and V3 pools remain deployed on both Hyperliquid and Robinhood Chain, with V3 running unmodified Uniswap V3 contracts. V2 also supports intent-based gasless trades.",
     "meta": "Exchange markets deployed on both HyperEVM and Robinhood Chain as their liquidity forms.",
     "pageTitle": "Hybra Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://hybra.finance/"
+    "website": "https://hybra.finance/",
+    "twitter": "https://x.com/hybrafinance"
   },
   "relations": {
     "alternatives": [

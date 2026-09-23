@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Giza is an autonomous DeFi agent platform that continuously rebalances deposited funds.",
-    "description": "Giza runs agents that manage deposited capital across DeFi positions, rebalancing as conditions change rather than on a fixed schedule. The pitch rests on the agent reacting faster than a person would, which is true, and on it reacting correctly, which is the part worth checking against a track record.",
+    "description": "Giza runs agents that manage deposited capital across DeFi positions, monitoring liquidity depth, yield curves and risk metrics across hundreds of pools at once. A depositor connects a wallet, selects assets and either picks specific markets or lets the agent choose, after which capital is routed and rebalanced as conditions change. The arrangement stays self-custodial, and every action the agent takes is recorded so the user can inspect what changed, when and why. On Base it tracks every lending protocol and moves capital as rates shift.",
     "meta": "Agents that rebalance deposited capital across DeFi as conditions change, not on a fixed schedule.",
     "pageTitle": "Giza - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.gizatech.xyz"
+    "website": "https://www.gizatech.xyz",
+    "twitter": "https://x.com/gizatechxyz"
   },
   "relations": {
     "alternatives": [

@@ -1,7 +1,7 @@
 {
   "slug": "apriori",
-  "name": "aPriori",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/apriori",
+  "name": "Capricorn Tech",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2082530939406868480/Asbz_6TX_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -12,13 +12,14 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "aPriori combines MEV infrastructure with liquid staking on Monad.",
-    "description": "aPriori builds order flow coordination infrastructure for high-performance chains and pairs it with liquid staking on Monad, so that value captured from transaction ordering flows back to stakers rather than accruing privately to block producers. Whether MEV is returned to stakers or quietly extracted is one of the more consequential decisions a new chain's infrastructure makes.",
-    "meta": "Liquid staking on Monad with validator MEV returned to stakers rather than kept privately.",
-    "pageTitle": "aPriori - DeFi Dapps - Lancers Web3 Explorer"
+    "short": "Capricorn Tech, formerly aPriori, pairs order flow coordination with liquid staking on Monad.",
+    "description": "Capricorn Tech, which launched as aPriori, runs an order flow coordination layer for high-throughput chains together with a Monad liquid staking product built on top of it, routing value captured from transaction ordering back to stakers. Delegators stake MON and receive a liquid token usable elsewhere while the underlying stake keeps earning. The staking product holds over twenty-five million MON, and the same interface covers bridging, swapping and locking. Its documentation still carries the aPriori name.",
+    "meta": "Monad liquid staking from Capricorn Tech, formerly aPriori, with ordering revenue returned to stakers.",
+    "pageTitle": "Capricorn Tech - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://apr.io/"
+    "website": "https://capricorn.tech/",
+    "twitter": "https://x.com/capricorn_tech"
   },
   "relations": {
     "alternatives": [

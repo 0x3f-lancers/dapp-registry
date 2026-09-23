@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Arcadia Finance sets up automated liquidity provision positions in a few steps.",
-    "description": "Arcadia Finance reduces automated LP position setup to a short flow, handling range selection and rebalancing for the user, and operates on Robinhood Chain. Concentrated liquidity rewards active management, which in practice means most passive providers underperform simply holding the assets, and tools in this category exist to close that gap.",
+    "description": "Arcadia Finance reduces setting up an automated liquidity position to a short flow, handling range selection and rebalancing on the depositor's behalf. A user picks a pool and an amount, and the protocol manages where the range sits as price moves. Positions run on Robinhood Chain and rebalance without the depositor returning to the interface. The automation targets concentrated liquidity, where a position stops earning the moment price leaves its band.",
     "meta": "Automated LP positions on Robinhood Chain configured in a short setup flow.",
     "pageTitle": "Arcadia Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://arcadia.finance/"
+    "website": "https://arcadia.finance/",
+    "twitter": "https://x.com/arcadia"
   },
   "relations": {
     "alternatives": [

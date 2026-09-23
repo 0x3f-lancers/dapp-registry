@@ -1,7 +1,7 @@
 {
   "slug": "stakemon",
   "name": "StakeMON.ad",
-  "logoUrl": "https://www.google.com/s2/favicons?sz=128&domain=stakemon.ad",
+  "logoUrl": "https://stakemon.ad/icon.svg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Crypto Staking Companies"
@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "StakeMON.ad is a staking portal for delegating MON to Monad validators.",
-    "description": "StakeMON.ad provides a front end for delegating MON, with assistance in picking a validator rather than leaving the choice to a raw list. Concentration of stake is a real governance concern on new chains, and how delegation interfaces order their lists has more influence over it than most people assume.",
+    "description": "StakeMON.ad is a staking portal for delegating MON on Monad, with validator selection assisted instead of left to a raw list. The interface covers both mainnet and testnet, and reports rewards per delegation. It is built as a lightweight front end for users who want to stake without operating infrastructure.",
     "meta": "A delegation front end for MON, where list ordering quietly shapes stake concentration.",
     "pageTitle": "StakeMON.ad - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://stakemon.ad"
+    "website": "https://stakemon.ad",
+    "twitter": "https://x.com/StakeMONad"
   },
   "relations": {
     "alternatives": [

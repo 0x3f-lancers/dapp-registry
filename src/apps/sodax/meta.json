@@ -1,7 +1,7 @@
 {
   "slug": "sodax",
   "name": "SODAX",
-  "logoUrl": "https://unavatar.io/x/gosodax",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2092203008993968128/wSYfgMYD_400x400.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "SODAX is a cross-network execution and liquidity system for complex multi-chain flows.",
-    "description": "SODAX provides cross-network execution and liquidity so applications can support flows spanning several chains without building the routing themselves, and operates on Hyperliquid. Execution across chains is harder than moving tokens, because a multi-step route can fail partway and leave a user holding an intermediate asset on the wrong network.",
+    "description": "SODAX is a cross-network execution and liquidity system for applications that need complex financial actions without building cross-chain infrastructure themselves. Its HTTP API and TypeScript SDK quote and execute cross-network swaps, and the same SDK covers supplying, borrowing, withdrawing and repaying in lending markets. Asset transfers move through hub-and-spoke vaults via a separate bridge SDK, and leveraged yield vaults can be entered and exited programmatically. Separate guides cover HTTP, Solana and AI agent integrations.",
     "meta": "Cross-network execution for flows that span several chains and can fail partway.",
     "pageTitle": "SODAX - DeFi Tools - Lancers Web3 Explorer"
   },

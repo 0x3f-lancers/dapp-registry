@@ -1,7 +1,7 @@
 {
   "slug": "leverup",
   "name": "LeverUp",
-  "logoUrl": "https://unavatar.io/x/LeverUp_xyz",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2006665470515335169/yUdYw60S_400x400.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "LeverUp is an LP-free perpetuals exchange on Monad with uncapped open interest.",
-    "description": "LeverUp runs perpetuals without a liquidity provider pool backing trades, which removes the cap on open interest that pool-based designs impose and avoids passing trader profits through to LPs as losses. It redistributes fees rather than retaining them. The trade-off in LP-free designs is that the mechanism balancing longs against shorts has to work without a counterparty of last resort.",
+    "description": "LeverUp is an LP-free perpetuals exchange on Monad offering uncapped open interest and leverage as high as 1001x. Because there is no liquidity provider pool to compensate, the protocol redistributes all of its fees back to traders. Its AnyCollateral system settles positions through the LVUSD synthetic layer, with an LVMON pool handling staking and redemption. One-click trading removes wallet pop-ups and gas from each order. The fee schedule varies by leverage tier with a per-second holding fee.",
     "meta": "Perpetuals without an LP pool behind them, removing the usual cap on open interest.",
     "pageTitle": "LeverUp - DeFi Dapps - Lancers Web3 Explorer"
   },

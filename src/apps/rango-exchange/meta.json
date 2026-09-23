@@ -1,7 +1,7 @@
 {
   "slug": "rango-exchange",
   "name": "Rango",
-  "logoUrl": "https://unavatar.io/x/RangoExchange",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2024001520669282304/JovL7m3V_400x400.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -16,7 +16,7 @@
   "pricing": "Free",
   "content": {
     "short": "Rango is a cross-chain DEX and bridge aggregator routing swaps across many networks.",
-    "description": "Rango aggregates both DEXes and bridges, searching across them for a route between two assets on different chains and handling the multi-step execution. Aggregating bridges as well as exchanges is a harder problem than either alone, since a route's cost depends on liquidity and finality on both sides at the time of execution.",
+    "description": "Rango is a cross-chain DEX and bridge aggregator covering Bitcoin, Ethereum, Solana, Monad and more than fifty other networks. Integrators embed it as a customisable widget or call the API and SDK, and MetaMask is among the wallets routing through it. Gasless swaps are available on Solana and EVM chains, so a user can act without holding the native token. Its action layer executes swaps, payments, lending, staking, limit orders, DCA and NFT purchases from a single intent, which wallets, dapps and AI agents use for cross-chain deposits.",
     "meta": "Rango is a cross-chain DEX and bridge aggregator routing swaps across many networks including Monad.",
     "pageTitle": "Rango - DeFi Tools - Lancers Web3 Explorer"
   },

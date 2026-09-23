@@ -1,7 +1,7 @@
 {
   "slug": "hydromancer",
   "name": "Hydromancer",
-  "logoUrl": "https://docs.hydromancer.xyz/~gitbook/ogimage/OFv5OCPthlSvyhbB3g7i",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2029527760805171202/jYLuhad7_400x400.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Web3 Data Tools"
@@ -13,12 +13,13 @@
   "pricing": "Paid",
   "content": {
     "short": "Hydromancer offers low-latency Hyperliquid APIs, streaming, historical datasets and node peering.",
-    "description": "Hydromancer supplies the data infrastructure around Hyperliquid that trading teams typically build themselves: rate-limit-free APIs, streaming feeds, historical order book datasets and node peering for teams running their own infrastructure.",
+    "description": "Hydromancer supplies the data infrastructure around Hyperliquid that trading teams would otherwise build themselves: rate-limit-free APIs, low-latency streams, historical order book datasets and node peering. Its Builder APIs handle batch operations across thousands of wallets through endpoints such as builderFills and builderLiquidations. Order book streaming covers L2 and L4 with address visibility, which the native API does not expose, and market snapshots are stored as Parquet at one-second resolution. More than fifty teams build on it, including Based, Dexari, Felix and OneKey.",
     "meta": "Hydromancer provides low-latency Hyperliquid APIs, streaming, historical data and node peering.",
     "pageTitle": "Hydromancer - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://docs.hydromancer.xyz/"
+    "website": "https://hydromancer.xyz/",
+    "twitter": "https://x.com/hydromancerxyz"
   },
   "relations": {
     "alternatives": [

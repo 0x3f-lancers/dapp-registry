@@ -14,12 +14,13 @@
   "pricing": "Free",
   "content": {
     "short": "Pangolin is an AMM and trading platform offering limit, TWAP and standard swap orders.",
-    "description": "Pangolin began as one of Avalanche's earliest AMMs and has since added limit and TWAP orders alongside ordinary swaps, with PNG rewards for liquidity providers. It now appears in Monad's ecosystem listing. Order types beyond the market swap are unusual for an AMM and mostly serve traders sizing into thin books.",
+    "description": "Pangolin is a community-driven DEX running on Monad and Avalanche, with its V3 release adding concentrated liquidity and dynamic fees. Providers place capital in ranges and earn fees that adjust with pool conditions, which raises capital efficiency against a flat-fee AMM. Earlier V2 pools remain live and also cover Hedera, Flare and Songbird. Governance and emissions are directed by PNG holders.",
     "meta": "Limit and TWAP orders alongside ordinary swaps, unusual for an AMM and useful in thin books.",
     "pageTitle": "Pangolin - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://app.pangolin.exchange"
+    "website": "https://app.pangolin.exchange",
+    "twitter": "https://x.com/pangolindex"
   },
   "relations": {
     "alternatives": [

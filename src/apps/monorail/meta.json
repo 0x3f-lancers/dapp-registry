@@ -1,7 +1,7 @@
 {
   "slug": "monorail",
   "name": "Monorail",
-  "logoUrl": "https://unavatar.io/x/monorail_xyz",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1964025665105137664/rny-s1Dq_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "Monorail is a Monad swap aggregator combining AMMs, on-chain order books and RFQ liquidity.",
-    "description": "Monorail routes trades on Monad across three liquidity models at once, pulling from AMM pools, on-chain order books and request-for-quote market makers under one execution path. Combining order books with AMMs is more feasible on a chain with Monad's throughput, where posting and cancelling orders on-chain is cheap enough to be practical.",
+    "description": "Monorail combines AMM pools, on-chain order books and RFQ liquidity into one model so any token on Monad can be traded through a single route. Its synthetic order books present aggregated liquidity as a unified book rather than separate venues. Integrators can connect to the aggregate or to the order book layer directly.",
     "meta": "Monorail is a Monad swap aggregator combining AMM, on-chain order book and RFQ liquidity.",
     "pageTitle": "Monorail - DeFi Dapps - Lancers Web3 Explorer"
   },

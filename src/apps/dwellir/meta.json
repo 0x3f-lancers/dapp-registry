@@ -1,7 +1,7 @@
 {
   "slug": "dwellir",
   "name": "Dwellir",
-  "logoUrl": "https://unavatar.io/x/dwellir",
+  "logoUrl": "https://pbs.twimg.com/profile_images/378800000672330414/04235b87c851b11d1d822a932987be01_400x400.png",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -15,7 +15,7 @@
   "pricing": "Paid",
   "content": {
     "short": "Dwellir operates RPC and API infrastructure across 150+ blockchain networks.",
-    "description": "Dwellir runs node infrastructure across more than 150 networks, and is one of the few providers listed in all three of Monad's, Hyperliquid's and Robinhood Chain's documentation. For Hyperliquid it goes beyond standard JSON-RPC to offer gRPC and websocket APIs, which matters on a chain where the interesting data is order book state rather than contract calls.",
+    "description": "Dwellir runs RPC infrastructure across more than 150 blockchains, offering both full and archive nodes through HTTPS and WebSocket endpoints. Its Hyperliquid endpoints cover the EVM layer, and it is one of the few providers listed in the documentation of Monad, Hyperliquid and Robinhood Chain alike. Customers connect with an API key from the platform dashboard. Archive coverage extends to Base, Ethereum, BNB Chain and Polygon among others.",
     "meta": "Dwellir operates RPC and API infrastructure across 150+ networks including Monad and Hyperliquid.",
     "pageTitle": "Dwellir - Infrastructure Tools - Lancers Web3 Explorer"
   },

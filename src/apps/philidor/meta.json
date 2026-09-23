@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Philidor scores and monitors DeFi vaults and tokenized funds, issuing signed risk decisions.",
-    "description": "Philidor assesses vaults and tokenized funds, mapping what each product actually depends on underneath and issuing signed risk decisions against a client's own policy. Dependency mapping is the useful part: yield products routinely wrap other yield products, and the real exposure is often several layers below what the front end advertises.",
+    "description": "Philidor scores and monitors vaults and tokenized funds, mapping what each product depends on and issuing signed risk decisions against a client's own policy. A composite score from zero to ten draws on asset, platform, control and history inputs, then places the product in a Prime, Core or Edge tier. Inputs include audits, code maturity, strategy shape and dependency risk. Coverage spans more than a thousand vaults and 450 assets across twelve chains and thirteen protocol modules, including Aave, Morpho, Compound, Spark, Yearn and Maple. The same scores are available through a dashboard, an API and alerts.",
     "meta": "Maps what a vault actually depends on underneath and issues signed risk decisions against policy.",
     "pageTitle": "Philidor - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://philidor.io/"
+    "website": "https://philidor.io/",
+    "twitter": "https://x.com/philidorlabs"
   },
   "relations": {
     "alternatives": [
@@ -29,7 +30,7 @@
     "related": [
       "defillama",
       "dune",
-      "gamma-research"
+      "insightx"
     ]
   }
 }

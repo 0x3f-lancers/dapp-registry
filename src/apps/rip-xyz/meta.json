@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Rip.xyz is a Hyperliquid vault platform issuing tokenized yield positions such as rHYPE.",
-    "description": "Rip.xyz runs vault strategies on Hyperliquid and issues the resulting positions as tokens, so a depositor holds something transferable rather than a locked balance. Tokenising the position is what lets it be used elsewhere as collateral, which is usually worth more than the marginal yield difference between vaults.",
+    "description": "Rip.xyz runs tokenized vault strategies on HyperEVM and issues the positions as transferable tokens. Its flagship Hypurr Vault is an auto-managed NFT index token giving diversified exposure to the Hypurr NFT ecosystem, taking WHYPE deposits and minting rHYPURR. Vault assets are held in MPC wallets with multi-signature requirements, managed jointly by contracts and the operating team.",
     "meta": "Vault positions issued as tokens, so they can be used as collateral elsewhere.",
     "pageTitle": "Rip.xyz - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.rip.xyz"
+    "website": "https://www.rip.xyz",
+    "twitter": "https://x.com/ripxyz"
   },
   "relations": {
     "alternatives": [

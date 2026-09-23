@@ -1,7 +1,7 @@
 {
   "slug": "laminar",
   "name": "Laminar",
-  "logoUrl": "https://unavatar.io/x/laminar_xyz",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1881501408022892544/RJdoM0TD_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "Laminar is a Hyperliquid-native DEX pairing concentrated liquidity with intent-based routing.",
-    "description": "Laminar trades on Hyperliquid using concentrated liquidity pools alongside intent-based order routing, so a trade can be filled from pooled liquidity or by a solver, whichever serves it better. Mixing the two models is a practical response to a chain where a deep native order book sits next to a young pool-based DeFi layer.",
+    "description": "Laminar runs both a concentrated liquidity AMM and classic pools on HyperEVM. The V3 design lets providers place capital in custom price ranges across fee tiers of 0.05, 0.3 and 1 percent, chosen to suit different pair volatilities, and fees can be collected without withdrawing the position. V2 classic pools remain available for providers wanting simple two-sided exposure.",
     "meta": "Concentrated liquidity and solver-based routing side by side on Hyperliquid.",
     "pageTitle": "Laminar - DeFi Dapps - Lancers Web3 Explorer"
   },

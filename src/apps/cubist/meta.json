@@ -1,7 +1,7 @@
 {
   "slug": "cubist",
   "name": "Cubist",
-  "logoUrl": "https://unavatar.io/x/cubistdev",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1975301480983969792/jnrJ74So_400x400.jpg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Key Management Providers"
@@ -13,7 +13,7 @@
   "pricing": "",
   "content": {
     "short": "Cubist builds CubeSigner, a hardware-backed key management platform for high-performance use cases.",
-    "description": "Cubist's CubeSigner keeps private keys inside secure hardware and exposes signing as a policy-controlled service, so an application can sign at speed without any component ever holding raw key material. This architecture matters most for validators and trading systems, where keys must be used constantly and cannot simply be kept offline.",
+    "description": "Cubist provides hardware-backed key management through CubeSigner, offered in both self-custody and end-user custody configurations. Signing policies are written as code and applied universally, covering advanced transaction types and self-custody staking for validators. Its Bascule Drawbridge product enforces bridge security in real time, checking withdrawals against expected deposits. The stack is used for wallet-as-a-service and embedded wallets in consumer apps and games as well as cross-chain DeFi.",
     "meta": "Cubist builds CubeSigner, a hardware-backed key management and signing platform for demanding workloads.",
     "pageTitle": "Cubist - Web3 Wallet Tools - Lancers Web3 Explorer"
   },

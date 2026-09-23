@@ -1,7 +1,7 @@
 {
   "slug": "hyperunit",
   "name": "Unit",
-  "logoUrl": "https://unavatar.io/x/unitxyz",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1937271299338035200/sEKHkXkc_400x400.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -13,7 +13,7 @@
   "pricing": "",
   "content": {
     "short": "Unit is the asset tokenization layer on Hyperliquid, handling deposits and withdrawals of external assets.",
-    "description": "Unit brings outside assets such as Bitcoin onto Hyperliquid as spot tokens, handling the deposit and withdrawal path in both directions. It is the mechanism by which non-EVM assets become tradeable on HyperCore's order books rather than only through wrapped representations issued elsewhere. For a venue whose main draw is its order book, the range of assets Unit supports directly shapes what can be traded there.",
+    "description": "Unit is the asset tokenization layer for Hyperliquid, handling deposits and withdrawals of major spot assets from their native chains. Users send an asset from a personal wallet or exchange account and can then trade it on Hyperliquid's spot order book alongside existing balances. This creates additional capital on-ramps, since spot sent from any supported source chain can be sold into USDC on the book. It also enables cross margining across major assets and gives DeFi protocols on the Hyperliquid EVM an efficient venue for settling liquidations.",
     "meta": "Unit is Hyperliquid's asset tokenization layer, handling deposits and withdrawals of external assets.",
     "pageTitle": "Unit - DeFi Tools - Lancers Web3 Explorer"
   },

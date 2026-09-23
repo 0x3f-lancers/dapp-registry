@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "HyperLend is a lending and borrowing protocol native to HyperEVM.",
-    "description": "HyperLend runs pooled lending markets on HyperEVM, letting users supply assets for yield or borrow against collateral, and ranks among the larger protocols by value locked on the chain. Lending is the primitive that makes leverage possible, which on a chain built around a perpetuals exchange has an obvious constituency: traders wanting to borrow against spot holdings rather than sell them.",
+    "description": "HyperLend runs pooled lending markets on HyperEVM where users supply assets for yield or borrow against collateral, and it holds one of the larger deposit bases on the chain. Advanced features let a borrower post Hyperliquid L1 spot positions as collateral and swap collateral without closing a loan. Its wHLP product wraps the Hyperliquid liquidity provider position so it can be used inside the money market. A Stake and Save product combines staking with deposits.",
     "meta": "Pooled lending on HyperEVM, giving traders leverage against spot holdings without selling.",
     "pageTitle": "HyperLend - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://hyperlend.finance/"
+    "website": "https://hyperlend.finance/",
+    "twitter": "https://x.com/hyperlend"
   },
   "relations": {
     "alternatives": [

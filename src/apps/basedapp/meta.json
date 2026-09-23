@@ -1,24 +1,26 @@
 {
   "slug": "basedapp",
-  "name": "BasedApp",
-  "logoUrl": "https://www.basedapp.io/favicon.ico?favicon.0un6u9nl7jg7k.ico?dpl=dpl_AKLYA9BNY24rfUR37Pa29J82FYmK",
+  "name": "Based",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1956307990702899200/D88fvjK0_400x400.jpg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Web3 Credit Cards"
   ],
   "chains": [
-    "Hyperliquid"
+    "Hyperliquid",
+    "Robinhood Chain"
   ],
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "BasedApp is a self-custody crypto banking app pairing a non-custodial wallet with a Visa debit card.",
-    "description": "BasedApp connects a non-custodial wallet to a Visa debit card, so balances stay under the user's control until the moment they are spent. Keeping custody right up to the point of payment is the interesting constraint here, given card networks expect an authorisation answer in milliseconds.",
-    "meta": "Spend from a non-custodial wallet on a Visa debit card, with custody kept until the point of payment.",
-    "pageTitle": "BasedApp - Web3 Wallet Tools - Lancers Web3 Explorer"
+    "short": "Based is a self-custody app for trading stock and crypto perpetuals on Hyperliquid, with a Visa card.",
+    "description": "Based is a self-custody wallet for trading on Hyperliquid, covering 54 markets across equities, crypto, commodities such as gold and oil, and indices including the S&P 500 and Nikkei 225. Everything trades as a perpetual future, open at weekends and outside exchange hours, and needs only a wallet funded with USDC instead of a brokerage or bank account. Stock perp fees start at 0.011 percent taker and crypto perps at 0.070 percent, and coin swaps also run on Robinhood Chain, Solana and BSC. Its Based Cash Visa card spends the same balance. Based claims over 44 billion dollars in lifetime volume and 100,000 users.",
+    "meta": "Self-custody trading on Hyperliquid across 54 stock, crypto, commodity and index perpetual markets.",
+    "pageTitle": "Based - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.basedapp.io"
+    "website": "https://based.one",
+    "twitter": "https://x.com/basedapphq"
   },
   "relations": {
     "alternatives": [

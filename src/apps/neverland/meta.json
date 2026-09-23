@@ -1,7 +1,7 @@
 {
   "slug": "neverland",
   "name": "Neverland",
-  "logoUrl": "https://unavatar.io/x/neverland_money",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2074176471669620737/c0aL-hya_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "Neverland is a Monad lending platform built around sustainable incentive design.",
-    "description": "Neverland runs lending markets on Monad with an incentive structure intended to hold up after the initial emissions period, rather than relying on token rewards to attract deposits that leave when those rewards taper. That pattern has repeated often enough across chain launches to make the design question a reasonable one to lead with.",
+    "description": "Neverland runs lending markets on Monad built on its neverland-lending-core engine, where borrowers draw against supplied collateral inside LTV limits. Borrowing costs are discounted by token reward incentives, and suppliers and borrowers both earn DUST rewards. The protocol layers veTokenomics, governance rewards and self-repaying loans on top of the basic market, aiming to hold deposits after the initial emissions period. Advanced yield strategies and integrations with other Monad protocols sit on top of the lending model.",
     "meta": "Monad lending designed to hold up once the initial emissions period tapers off.",
     "pageTitle": "Neverland - DeFi Dapps - Lancers Web3 Explorer"
   },

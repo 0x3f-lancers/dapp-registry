@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Calm builds onramp infrastructure for perp DEXs and onchain apps, replacing retail widgets.",
-    "description": "Calm targets perpetuals DEXs and onchain applications specifically, arguing that general-purpose retail onramp widgets fit those flows badly and cost users more than they should. Trading venues have distinct funding requirements from consumer apps, mostly around speed and the size distribution of deposits.",
+    "description": "Perp DEXs and on-chain trading venues integrate Calm in place of a retail on-ramp widget. Calm argues that widgets price every user as a fraud risk, which pushes deposit fees to between four and ten percent, while trading flows are repeat and predictable and can be priced accordingly. It claims to cut those fees by up to 80 percent. Integrators drop in a white-labelled component or call the API, and Calm handles KYC inside the deposit flow along with banking, conversion and settlement. The service covers GBP, USD and EUR into stablecoins through regulated partners and never takes custody of user funds.",
     "meta": "Calm builds onramp infrastructure for perp DEXs and onchain apps in place of retail widgets.",
     "pageTitle": "Calm - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://calmtreasury.xyz/"
+    "website": "https://calmtreasury.xyz/",
+    "twitter": "https://x.com/calmxyz_"
   },
   "relations": {
     "alternatives": [

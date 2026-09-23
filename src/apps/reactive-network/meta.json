@@ -1,7 +1,7 @@
 {
   "slug": "reactive-network",
   "name": "Reactive Network",
-  "logoUrl": "https://unavatar.io/x/0xReactive",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1985361248850976768/bfquaOod_400x400.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Blockchain Interoperability Tools"
@@ -13,7 +13,7 @@
   "pricing": "",
   "content": {
     "short": "Reactive Network is an event-driven execution layer whose contracts react to events on other chains.",
-    "description": "Reactive Network runs what it calls reactive contracts, which execute in response to events emitted on other EVM chains rather than waiting to be called by a transaction. That inverts the usual model, where a smart contract is inert until someone pays to invoke it, and removes the need for an off-chain keeper watching for conditions.",
+    "description": "Reactive Network is an event-driven execution layer where reactive contracts execute in response to events emitted on other EVM chains, with no transaction needed to call them. A contract is standard Solidity: it subscribes to a target address and event signature, and needs no off-chain indexer, polling loop or bot. Contracts persist state across events, so they can react to a sequence instead of a single transaction, and several can be coordinated into multi-step cross-chain processes. The network runs CometBFT consensus with roughly one-second blocks and instant finality, and contracts can verify that a callback originated from it.",
     "meta": "Reactive Network is an event-driven execution layer with contracts that react to cross-chain events.",
     "pageTitle": "Reactive Network - Infrastructure Tools - Lancers Web3 Explorer"
   },

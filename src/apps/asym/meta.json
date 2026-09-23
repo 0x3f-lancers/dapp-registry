@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "ASYM is an agentic AI system that ideates, codes and executes trading strategies.",
-    "description": "ASYM runs an agent pipeline that generates trading ideas, writes the code to implement them and then executes, rather than automating a strategy a human specified. Letting the agent choose the strategy as well as run it is a meaningful step further than most trading bots take, and the backtest discipline matters correspondingly more.",
+    "description": "ASYM runs an autonomous trading system that generates its own strategies, deploys the ones that pass evaluation into a runtime environment and lets them trade from live data streams. Positions are taken on Hyperliquid across the BTC, ETH, SOL, HYPE, WIF and FARTCOIN markets. The system holds its capital reserve in the ASYM token and returns trading profits to that public reserve. Each cohort of strategies is measured on rolling 24-hour, 7-day and 30-day windows.",
     "meta": "An agent pipeline that writes, codes and runs its own trading strategies rather than automating yours.",
     "pageTitle": "ASYM - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.asym.info"
+    "website": "https://www.asym.info",
+    "twitter": "https://x.com/asym"
   },
   "relations": {
     "alternatives": [

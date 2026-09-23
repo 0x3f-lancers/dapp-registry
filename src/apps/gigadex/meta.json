@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "GIGA DEX offers concentrated and classic liquidity pools on Robinhood Chain.",
-    "description": "GIGA DEX runs both concentrated and constant-product pools on Robinhood Chain, letting liquidity providers choose between capital efficiency and the simpler passive position. Offering both matters more on a chain trading tokenized equities, where some pairs move within tight ranges and others do not.",
+    "description": "GIGA DEX is a liquidity coordination layer native to Robinhood Chain, routing each swap across both concentrated and classic pools to find the best execution. Liquidity providers earn from emissions directed by veGIGA lockers, following the vote-escrow pattern. Its emission schedule feeds an incentive mechanism the team calls the GIGA Machine.",
     "meta": "Both concentrated and constant-product pools on Robinhood Chain, chosen per pair.",
     "pageTitle": "GIGA DEX - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://gigadex.fi/"
+    "website": "https://gigadex.fi/",
+    "twitter": "https://x.com/gigadex"
   },
   "relations": {
     "alternatives": [

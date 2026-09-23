@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Bankr is a conversational onchain agent for trading, launching tokens and treasury automation.",
-    "description": "Bankr executes on-chain actions from natural language, covering trades, token launches and recurring treasury operations. Conversational interfaces lower the barrier to acting on-chain considerably, which cuts both ways when the action is irreversible and the instruction was ambiguous.",
+    "description": "Bankr is an AI agent that buys, sells and swaps tokens and places limit orders from a chat instruction. Every agent built on it receives a cross-chain wallet that can trade, deploy contracts and manage DeFi positions, with gas covered by the platform. Developers install the CLI, run a login that generates a wallet and API key, and can launch a token for free. Trading fees the agent generates pay for its own compute, so there is no recurring hosting bill.",
     "meta": "Execute trades, token launches and treasury tasks onchain by describing them in plain language.",
     "pageTitle": "Bankr - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://bankr.bot"
+    "website": "https://bankr.bot",
+    "twitter": "https://x.com/bankrbot"
   },
   "relations": {
     "alternatives": [

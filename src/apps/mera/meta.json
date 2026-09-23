@@ -12,13 +12,15 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "Mera builds high-performance wallet infrastructure from a team with HFT and low-level systems roots.",
-    "description": "Mera, built by Category Labs, comes from a team with high-frequency trading and low-level systems engineering backgrounds, and applies that to wallet infrastructure where latency is treated as a first-order concern. That engineering lineage is shared with Monad itself, whose performance claims rest on similar systems work.",
-    "meta": "Mera builds high-performance embedded wallet infrastructure from a team with HFT engineering roots.",
+    "short": "Mera derives EVM and Solana accounts straight from a passkey, with no seed phrase or MPC service.",
+    "description": "Mera is a TypeScript library from Category Labs that derives standard EVM accounts directly from a passkey using the WebAuthn PRF extension, with no seed phrase, bundler, MPC service or backend custody involved. Users create and recover accounts with Face ID, Touch ID or a security key, and the same passkey reproduces the same accounts in a web app and its native iOS or Android build. The derived accounts are ordinary BIP-44 EOAs, so an exported mnemonic imports cleanly into MetaMask or Rabby, and the library can derive Solana accounts from the same passkey. Signing sessions zero their keys when ended, and account derivation, recovery and storage stay under the application's control.",
+    "meta": "Passkey-derived EVM and Solana accounts as a library, with no seed phrase, bundler or MPC service.",
     "pageTitle": "Mera - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://category.xyz/"
+    "website": "https://category.xyz/",
+    "twitter": "https://x.com/category_xyz",
+    "github": "https://github.com/category-labs/mera"
   },
   "relations": {
     "alternatives": [

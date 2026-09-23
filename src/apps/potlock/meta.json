@@ -1,7 +1,7 @@
 {
   "slug": "potlock",
   "name": "POTLOCK",
-  "logoUrl": "https://unavatar.io/x/potlock_",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1724444877713268736/N9T64YIm_400x400.jpg",
   "category": "Web3 Social Dapps",
   "subcategory": [
     "Web3 Creator Tools"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "POTLOCK is an open-source public-goods funding protocol running cross-chain donation rounds.",
-    "description": "POTLOCK provides the infrastructure for public-goods funding rounds, including quadratic funding style pots, across several chains. Public-goods funding is a persistently unsolved problem in open source, and the on-chain attempts at it are at least measurable in a way grant committees are not.",
+    "description": "POTLOCK is an open funding stack for public goods, letting anyone launch a campaign with a goal or run a matching round. It supports EVM chains including Ethereum, Arbitrum, Base and Polygon, Bitcoin and its forks, and layer ones such as NEAR and Solana. Active pots have funded AI research, governance and ethics work as well as open-source software, with individual pools holding tens of thousands of dollars. Its own figures show 250 projects and around two thousand unique supporters.",
     "meta": "Infrastructure for public-goods funding rounds, with allocation measurable rather than opaque.",
     "pageTitle": "POTLOCK - Web3 Social Dapps - Lancers Web3 Explorer"
   },
@@ -23,10 +23,14 @@
   },
   "relations": {
     "alternatives": [
-      "aco-labs"
+      "gitcoin",
+      "juicebox",
+      "drips-network"
     ],
     "related": [
-      "opensocial"
+      "crypto-for-charity",
+      "gitcoin-passport",
+      "deepdao"
     ]
   }
 }

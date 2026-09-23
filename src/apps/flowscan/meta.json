@@ -1,7 +1,7 @@
 {
   "slug": "flowscan",
   "name": "Flowscan",
-  "logoUrl": "https://www.flowscan.xyz/favicon.ico",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1945455455699935233/5F8J3AJk_400x400.png",
   "category": "Web3 Developer Tools",
   "subcategory": [
     "Block Explorers"
@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Flowscan is a real-time explorer and analytics view for Hyperliquid activity.",
-    "description": "Flowscan presents Hyperliquid activity as it happens, sitting between a conventional block explorer and an analytics dashboard. It is used less for looking up a single transaction hash and more for watching flow across the network as positions build and unwind. Because it reads HyperCore trading activity rather than only EVM transactions, it covers the half of the chain that a standard explorer cannot see.",
+    "description": "Flowscan is a real-time block explorer for Hyperliquid that reads HyperCore trading activity and not only EVM transactions, so it covers the half of the chain a standard explorer cannot see. Dashboards track daily combined revenue over a fourteen-day window and break down on-chain stablecoin perp margin by issuer. A live transaction feed streams network activity as it confirms.",
     "meta": "Flowscan is a real-time Hyperliquid explorer combining block data with order book analytics.",
     "pageTitle": "Flowscan - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.flowscan.xyz/"
+    "website": "https://www.flowscan.xyz/",
+    "twitter": "https://x.com/flowscanxyz"
   },
   "relations": {
     "alternatives": [

@@ -1,7 +1,7 @@
 {
   "slug": "derive",
   "name": "Derive",
-  "logoUrl": "https://unavatar.io/x/DeriveXYZ",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1828234675325976576/UVYEVWhP_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Options"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "Derive is an onchain options and futures protocol offering institutional-grade derivatives trading.",
-    "description": "Derive runs options and futures markets on-chain, with a portfolio margin system that prices risk across a whole position rather than each leg separately. It was previously known as Lyra, and now operates on Hyperliquid among other venues. On-chain options have been harder to make work than perpetuals, because market makers need margining sophisticated enough to quote a surface rather than a single price.",
+    "description": "Derive runs options and futures markets on-chain with a portfolio margin system that prices risk across a whole position, not each leg separately. Its v3 API exposes options, perps, lending and vaults, with WebSocket and HTTP endpoints and a documented migration path from v2. Permissionless vaults let anyone create a strategy vault on the venue within minutes.",
     "meta": "Onchain options and futures with portfolio margin, formerly known as Lyra.",
     "pageTitle": "Derive - DeFi Dapps - Lancers Web3 Explorer"
   },

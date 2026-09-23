@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Silk Nodes runs a Monad hub for staking, validator comparison and ecosystem analytics.",
-    "description": "Silk Nodes operates validator infrastructure on Monad and publishes a hub where delegators can compare validators before choosing one. Comparison tooling matters because delegation is usually decided on whichever validator is most visible, not whichever performs best.",
+    "description": "Silk Nodes operates Monad validator infrastructure and publishes Monad HUB, an explorer and analytics dashboard alongside it. Delegators stake MON through the interface, track rewards and monitor network statistics, while operators use it to manage validators. The dashboard also surfaces airdrop insights and staking guidance for users new to the chain.",
     "meta": "Validator operations on Monad plus a hub for comparing validators before delegating.",
     "pageTitle": "Silk Nodes - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://monad.silknodes.io"
+    "website": "https://monad.silknodes.io",
+    "twitter": "https://x.com/silknodes"
   },
   "relations": {
     "alternatives": [

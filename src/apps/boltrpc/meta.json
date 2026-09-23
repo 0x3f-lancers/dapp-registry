@@ -1,7 +1,7 @@
 {
   "slug": "boltrpc",
   "name": "BoltRPC",
-  "logoUrl": "https://boltrpc.io/apple-touch-icon.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2095860314344718336/xChV-a1O_400x400.png",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -16,12 +16,13 @@
   "pricing": "Paid",
   "content": {
     "short": "BoltRPC is a dedicated RPC provider with fixed request weights and predictable flat pricing.",
-    "description": "Its distinguishing choice is pricing: fixed request-unit weights and a flat monthly fee rather than metered billing that varies with how expensive each call happens to be. That predictability matters to teams whose infrastructure bill would otherwise swing with user behaviour.",
+    "description": "One API key covers more than 35 chains on BoltRPC, including Ethereum, Solana, Arbitrum and Monad, with failover handled transparently. Billing uses fixed request-unit weights and a flat monthly fee starting at 49 dollars, so a bill does not move with how expensive each call happens to be. The dashboard reports request volume, error rates and latency per network. BoltRPC has been in production since 2021, holds ISO 27001 certification and offers a 14-day trial with five million request units.",
     "meta": "BoltRPC is a dedicated RPC provider offering fixed request weights and predictable flat pricing.",
     "pageTitle": "BoltRPC - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://boltrpc.io/"
+    "website": "https://boltrpc.io/",
+    "twitter": "https://x.com/boltrpc"
   },
   "relations": {
     "alternatives": [

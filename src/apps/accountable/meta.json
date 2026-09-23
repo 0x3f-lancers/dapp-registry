@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Accountable issues cryptographic proofs of solvency, holdings and yield for tokenized assets.",
-    "description": "Accountable runs a verification network that proves assets and liabilities without disclosing the underlying positions, producing real-time cryptographic evidence of solvency, vault holdings and yield for tokenized products. It operates on Monad. Proof of reserves became a serious concern after several custodial failures, and the hard part has always been proving solvency rather than merely asserting reserves, since liabilities are the side that is easy to hide.",
+    "description": "Accountable verifies assets and liabilities in real time so an issuer or borrower can prove solvency without disclosing individual positions. Its Data Verification Network is the trust layer underneath the rest of the product line. Accountable NAV publishes a continuously verified net asset value for on-chain protocols, vault managers and tokenized products, while Accountable Ledger records the underlying attestations. The company also packages the stack as Vault-as-a-Service for issuers that would rather not build verified reporting themselves.",
     "meta": "Real-time solvency and holdings verification for tokenized assets, proved cryptographically rather than asserted.",
     "pageTitle": "Accountable - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://accountable.capital/"
+    "website": "https://accountable.capital/",
+    "twitter": "https://x.com/accountable"
   },
   "relations": {
     "alternatives": [

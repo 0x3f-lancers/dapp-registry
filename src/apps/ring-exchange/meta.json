@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Ring is a bridging and liquidity interface serving Hyperliquid.",
-    "description": "Ring provides bridging and liquidity routing into Hyperliquid, part of the infrastructure layer that formed around the chain once HyperEVM opened it to general applications. Bridge depth is usually the practical constraint on how quickly capital reaches a new chain, regardless of what the applications there offer.",
+    "description": "Ring is an asset and trading layer where Few Protocol wraps original ERC-20 assets into canonical FewToken addresses, and Ring Swap provides the pools, swaps, liquidity and routing over them. A separate integration covers FewToken and Few hooks used with Uniswap v4 contracts, treating v4 as an external environment for specific cases. Contract deployments for the factory, router, wrapper and Permit2 are published per network. Developers pick the correct contract depending on whether they are wrapping, discovering pairs, swapping or integrating with v4.",
     "meta": "Bridging and liquidity routing into Hyperliquid, the constraint on how fast capital arrives.",
     "pageTitle": "Ring - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://ring.exchange/"
+    "website": "https://ring.exchange/",
+    "twitter": "https://x.com/ringprotocol"
   },
   "relations": {
     "alternatives": [

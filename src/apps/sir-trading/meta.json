@@ -1,7 +1,7 @@
 {
   "slug": "sir-trading",
   "name": "SIR",
-  "logoUrl": "https://unavatar.io/x/leveragesir",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1945486033337913344/NG0Axq9d_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -14,7 +14,7 @@
   "pricing": "Free",
   "content": {
     "short": "SIR offers leveraged tokens with no liquidations and no funding rates.",
-    "description": "SIR issues leveraged tokens that cannot be liquidated and carry no funding payments, shifting the cost of leverage into the token's design rather than an ongoing fee. Removing liquidation removes the sharpest failure mode of leverage, though the exposure still decays in ways that reward reading the mechanism before holding one for long.",
+    "description": "SIR issues leveraged tokens that cannot be liquidated and carry no funding payments, shifting the cost of leverage into the token's design. A holder pays a one-time fee at entry instead of an ongoing rate, and the token avoids the volatility decay that erodes comparable products over time. The documentation illustrates the problem with a period where ETH returned to its starting price while a rival leveraged product had already lost value. It is deployed on Hyperliquid and Ethereum.",
     "meta": "Leverage without a liquidation price, with the cost moved into the token's design.",
     "pageTitle": "SIR - DeFi Dapps - Lancers Web3 Explorer"
   },

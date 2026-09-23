@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "AUTOfinance automates liquidity management, rebalancing LP positions across DeFi protocols.",
-    "description": "AUTOfinance manages concentrated liquidity positions automatically, rebalancing ranges as prices move so that providers are not left with capital sitting outside the active band. Concentrated liquidity raised capital efficiency sharply but turned liquidity provision into an active job, which is the gap automated managers exist to fill.",
+    "description": "AUTOfinance, formerly Tokemak, runs Autopools that monitor liquidity pools and lending markets and rebalance when yields or conditions shift. Allocation decisions weigh a full set of metrics instead of moving to whichever pool advertises the highest number. Returns are converted back into the Autopool's base asset and redeployed, leaving a depositor with one position in a single denomination. The protocol offers curated strategies across several chains and assets, each with its own risk profile, and has worked with external auditors since launch.",
     "meta": "AUTOfinance automates liquidity management, rebalancing LP positions across DeFi protocols on Monad.",
     "pageTitle": "AUTOfinance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://auto.finance/"
+    "website": "https://auto.finance/",
+    "twitter": "https://x.com/autopools"
   },
   "relations": {
     "alternatives": [

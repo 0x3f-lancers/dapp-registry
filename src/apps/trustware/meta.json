@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Trustware lets applications and institutions accept deposits from any blockchain.",
-    "description": "Trustware handles the deposit side of cross-chain complexity, letting an application accept funds from whichever network a user holds them on without building bridging into its own product. For exchanges and fintechs, deposit friction is a direct conversion problem, which is why this narrow slice of infrastructure has attracted several vendors.",
+    "description": "Trustware lets dapps, institutions and end users accept deposits from any blockchain without building the routing themselves. Integrators drop in a widget that detects a Trustware wallet, connects an existing wallet or uses WalletConnect, and can run the same widget in swap mode. The SDK covers embedded wallets, withdrawals from them and deposits straight into vault destinations.",
     "meta": "Trustware lets applications and institutions accept blockchain deposits from any network.",
     "pageTitle": "Trustware - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://trustware.io/"
+    "website": "https://trustware.io/",
+    "twitter": "https://x.com/trustware"
   },
   "relations": {
     "alternatives": [

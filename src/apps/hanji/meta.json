@@ -1,7 +1,7 @@
 {
   "slug": "hanji",
   "name": "Hanji Protocol",
-  "logoUrl": "https://unavatar.io/x/HanjiProtocol",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2071946767860412416/Czen9wYa_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "Hanji is an onchain central limit order book exchange on Monad with zero maker fees.",
-    "description": "Hanji runs a central limit order book fully on-chain on Monad, charging no maker fees and relying on low gas costs to make order placement and cancellation economical. On-chain order books were impractical on Ethereum because every cancellation cost real money, which is exactly the constraint chains like Monad are built to remove.",
+    "description": "Hanji Protocol is an on-chain order book exchange charging zero maker fees, built around a logarithmic matching engine that keeps gas costs low per order. Liquidity providers can deposit into single-token vaults for passive yield instead of supplying a pair. Other venues can source its liquidity by integrating against the deployed contracts.",
     "meta": "A fully onchain order book on Monad, practical because cancelling an order costs almost nothing.",
     "pageTitle": "Hanji Protocol - DeFi Dapps - Lancers Web3 Explorer"
   },

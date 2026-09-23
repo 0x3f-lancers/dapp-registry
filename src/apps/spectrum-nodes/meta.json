@@ -1,7 +1,7 @@
 {
   "slug": "spectrum-nodes",
   "name": "Spectrum",
-  "logoUrl": "https://spectrumnodes.com/favicon/favicon-16x16.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2006701479093022720/qd7TKsjh_400x400.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Spectrum provides decentralised RPC infrastructure with distributed endpoints for Web3 apps.",
-    "description": "Spectrum runs RPC infrastructure on a decentralised model, spreading endpoints across operators rather than concentrating them in one provider's data centres. Endpoint concentration is a real liveness risk for applications, since an outage at a single large provider tends to take a visible share of the ecosystem offline at the same moment.",
+    "description": "Spectrum runs RPC infrastructure on a decentralised model, spreading endpoints across independent operators. It covers more than 200 networks on enterprise bare-metal hardware the team owns and operates from the firewall up, with 24/7 monitoring and a direct line to its DevOps staff. The service is SOC 2 Type 2 attested and publishes median latency figures. Features include real-time webhooks, agent-ready APIs, a scriptable CLI and team-wide sponsored access.",
     "meta": "Spectrum provides decentralised RPC infrastructure with distributed endpoints for Web3 applications.",
     "pageTitle": "Spectrum - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://spectrumnodes.com/"
+    "website": "https://spectrumnodes.com/",
+    "twitter": "https://x.com/SpectrumNodes"
   },
   "relations": {
     "alternatives": [

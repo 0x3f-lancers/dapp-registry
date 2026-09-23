@@ -1,7 +1,7 @@
 {
   "slug": "alt-fun",
   "name": "Alt Fun",
-  "logoUrl": "https://alt.fun/favicon/apple-touch-icon.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2049574735764504576/2fY5HRss_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Alt Fun is a Hyperliquid launchpad issuing coins backed by Hyperliquid perps liquidity.",
-    "description": "Alt Fun launches tokens on Hyperliquid that draw on the chain's perpetuals liquidity rather than starting from an empty pool. Using an existing deep market to bootstrap a new token is a genuine advantage of launching on a chain built around an order book.",
+    "description": "Alt Fun is a token launchpad on HyperEVM where every launch is paired with a Hyperliquid perpetual market. Because the token's price references that perp, it keeps moving even when nobody is trading the spot pool, and a new listing draws on the chain's existing perpetuals liquidity from the moment it goes live. The launchpad handles deployment and the market linkage together, so a creator never has to seed a pool separately.",
     "meta": "Launch tokens on Hyperliquid backed by the chain's existing perpetuals liquidity rather than an empty pool.",
     "pageTitle": "Alt Fun - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://alt.fun"
+    "website": "https://alt.fun",
+    "twitter": "https://x.com/altdotfun"
   },
   "relations": {
     "alternatives": [

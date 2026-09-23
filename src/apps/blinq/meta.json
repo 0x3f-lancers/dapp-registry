@@ -1,7 +1,7 @@
 {
   "slug": "blinq",
   "name": "Blinq",
-  "logoUrl": "https://unavatar.io/x/blinqFi",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1998380387517825024/dGZug-l6_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Web3 Prediction Markets"
@@ -13,7 +13,7 @@
   "pricing": "Free",
   "content": {
     "short": "Blinq is a derivatives layer for prediction markets offering leverage on event outcomes.",
-    "description": "Blinq adds leverage to prediction market positions, letting a trader take amplified exposure to an outcome rather than posting the full notional. Leverage on a binary outcome behaves differently from leverage on a price, since the position resolves to zero or one rather than drifting toward a liquidation price.",
+    "description": "Blinq adds up to five times leverage to prediction market positions, settled in USDC. Barriers are listed on a central limit order book as knock-in and knock-out contracts written against probability feeds, and margin is crossed across a trader's positions with pooled LP credit behind it. Polymarket markets can be traded through this layer, alongside live markets in crypto, macro, sports and global events. Short-dated products include five-minute up or down markets on BTC, ETH and SOL.",
     "meta": "Take leveraged positions on prediction market outcomes instead of posting the full notional.",
     "pageTitle": "Blinq - DeFi Dapps - Lancers Web3 Explorer"
   },

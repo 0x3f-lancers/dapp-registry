@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Blink provides one-tap deposit infrastructure for onchain applications.",
-    "description": "Blink reduces onchain deposits to a single tap, handling the routing and conversion behind that action so the user does not choose a chain or bridge. Every additional decision in a deposit flow costs conversion, which is the entire rationale for products that collapse the sequence into one action.",
+    "description": "Blink is a one-tap deposit button that an app embeds instead of building its own on-chain deposit flow. Behind the button it handles authentication, wallet connection, on-chain transfers and cross-chain bridging, and it holds no funds itself. Web and mobile SDKs are both available: the web version renders the flow in a modal iframe, while mobile opens it in an in-app browser and returns the result through a deep link. A single prompt handed to a coding agent completes the integration end to end.",
     "meta": "Onchain deposits reduced to a single tap, with routing and conversion handled behind it.",
     "pageTitle": "Blink - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://blink.cash/"
+    "website": "https://blink.cash/",
+    "twitter": "https://x.com/blinkcash"
   },
   "relations": {
     "alternatives": [

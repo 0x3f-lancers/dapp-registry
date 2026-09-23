@@ -1,7 +1,7 @@
 {
   "slug": "nabla-finance",
   "name": "Nabla Finance",
-  "logoUrl": "https://unavatar.io/x/NablaFi",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1876173023595667456/Wx1aWWBK_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -14,7 +14,7 @@
   "pricing": "Free",
   "content": {
     "short": "Nabla Finance is a single-sided AMM yield protocol where depositors avoid paired exposure.",
-    "description": "Nabla Finance lets liquidity providers deposit one asset rather than a pair, removing the requirement to hold something they did not want in order to earn fees. Single-sided provision shifts the divergence risk onto the protocol's pricing mechanism instead of the depositor, which is where the design work sits.",
+    "description": "Nabla Finance lets a provider deposit one asset in place of a pair, which removes impermanent loss from the position. The risk is absorbed instead by a USDT0 backstop pool that insures every swap pool and earns a share of all protocol fees in return. The interface reports volume, fees and average APR per pool alongside a coverage ratio showing how well each pool is insured. Positions are tracked on HyperEVM, with Monad also supported.",
     "meta": "Deposit one asset instead of a pair, moving divergence risk off the liquidity provider.",
     "pageTitle": "Nabla Finance - DeFi Dapps - Lancers Web3 Explorer"
   },

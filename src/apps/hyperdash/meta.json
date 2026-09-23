@@ -13,12 +13,13 @@
   "pricing": "Freemium",
   "content": {
     "short": "HyperDash is a trading terminal for Hyperliquid with real-time analytics and portfolio tracking.",
-    "description": "HyperDash is a dedicated terminal for traders on Hyperliquid, built around the perpetuals order book rather than spot markets. It combines live market analytics, position and portfolio tracking, and views into vault and whale activity that the native interface does not surface directly. It suits traders who want more context on positioning and flow than an exchange front end typically provides.",
+    "description": "HyperDash is a trading platform for Hyperliquid covering crypto perpetuals, spot that settles to the user's own wallet, and RWA perpetuals on stocks, pre-IPO companies, indices, commodities and FX through HIP-3 markets that stay open with no market holidays. A Perp RFQ facility sources firm quotes from market makers for block-size orders. Its analytics side includes a trader explorer for any Hyperliquid wallet, cohort views of market positioning by PnL and wallet size, live TWAPs and a cross-market leaderboard. Each asset carries its own leverage limit.",
     "meta": "HyperDash is a Hyperliquid trading terminal offering real-time perps analytics and portfolio tracking.",
     "pageTitle": "HyperDash - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://hyperdash.com/"
+    "website": "https://hyperdash.com/",
+    "twitter": "https://x.com/hyperdash"
   },
   "relations": {
     "alternatives": [

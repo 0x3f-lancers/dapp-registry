@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "OSL Pay is a regulated onramp and offramp service for businesses expanding into crypto payments.",
-    "description": "OSL Pay is the payments arm of OSL, a licensed digital asset group listed in Hong Kong, offering onramp and offramp rails to businesses integrating crypto. Its regulatory footing in Asian markets is the differentiator, as licensing there has tightened considerably in recent years.",
+    "description": "OSL Pay is the on-ramp and off-ramp arm of exchange group OSL, aimed at businesses adding crypto purchases to their products. Integrators choose between a WebSDK, a URL-based flow for web and client apps, and native Android and iOS SDKs, or call the OpenAPI directly. The documentation compares the WebSDK and OpenAPI approaches and lists the components each on-ramp integration needs. Being backed by an established exchange supplies the licensing and banking relationships that are the hard part of this business.",
     "meta": "OSL Pay is a regulated onramp and offramp service for businesses adopting crypto payments.",
     "pageTitle": "OSL Pay - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://osl-pay.com/"
+    "website": "https://osl-pay.com/",
+    "twitter": "https://x.com/OSLPay"
   },
   "relations": {
     "alternatives": [

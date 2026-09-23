@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Longbow is an RWA lending layer on Robinhood Chain for borrowing against tokenized stocks.",
-    "description": "Longbow lets users lend USDG and borrow against tokenized equities and other real-world assets on Robinhood Chain. Borrowing against stock without selling it is an ordinary service in traditional brokerage, and reproducing it on-chain is among the more concrete reasons to tokenize equities in the first place.",
+    "description": "Longbow is an RWA lending layer for Robinhood Chain where lenders supply USDG and borrowers post collateral. Accepted collateral spans tokenized stocks, other real-world assets and memecoins, each with its own risk parameters. The design puts equity-backed borrowing on the same chain the tokenized equities themselves settle on.",
     "meta": "Lend USDG and borrow against tokenized equities, the brokerage margin account rebuilt onchain.",
     "pageTitle": "Longbow - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://longbow.cash/"
+    "website": "https://longbow.cash/",
+    "twitter": "https://x.com/longbowxyz"
   },
   "relations": {
     "alternatives": [

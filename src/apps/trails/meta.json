@@ -1,7 +1,7 @@
 {
   "slug": "trails",
   "name": "Trails",
-  "logoUrl": "https://unavatar.io/x/0xsequence",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2009566572331798528/g4aUN6rf_400x400.png",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Web3 Payment Tools"
@@ -13,7 +13,7 @@
   "pricing": "",
   "content": {
     "short": "Trails is an SDK for one-click crypto payments across any chain, token or wallet.",
-    "description": "Trails is a payments SDK that abstracts away which chain the payer holds funds on and which the recipient wants, handling routing so a checkout becomes one click. Payment flows are where chain fragmentation is felt most acutely, because a user who must bridge before paying will often simply abandon the transaction.",
+    "description": "Trails is a universal intents SDK that lets a user transact with any wallet, any token and on any chain in a single click. It aggregates the user's liquidity across chains and orchestrates the swaps and transfers needed to complete the action they asked for. Integrators take one SDK and an API key, with a swap explorer and demo available to test against. Polygon Labs is acquiring Sequence, the team behind it, to bring Trails into its own stack.",
     "meta": "Payments routed across chains and tokens so checkout stays a single click.",
     "pageTitle": "Trails - Web3 Wallet Tools - Lancers Web3 Explorer"
   },

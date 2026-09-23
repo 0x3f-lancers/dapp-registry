@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "T3tris Finance lets managers deploy and operate async ERC-4626 vaults on any EVM chain.",
-    "description": "T3tris Finance provides infrastructure for deploying and curating asynchronous ERC-4626 vaults, where deposits and withdrawals settle on a delay rather than instantly. Asynchronous settlement is what allows a vault to hold strategies that cannot be unwound on demand, which covers most things yielding more than a money market.",
+    "description": "T3tris Finance is infrastructure for deploying, curating and operating asynchronous ERC-4626 vaults on any EVM chain, where deposits and withdrawals settle on a delay and not instantly. That delay is deliberate: it lets a vault use execution models that cannot settle synchronously, including CEX, RWA, OTC, cross-chain, options, staking and epoch-based strategies. Curators pay no protocol fees, because T3tris instead earns on idle capital during the settlement window by routing it to a money market. Depositors receive shares that track the strategy's performance net of the curator's own fees.",
     "meta": "Asynchronous ERC-4626 vaults, letting strategies hold positions that cannot unwind on demand.",
     "pageTitle": "T3tris Finance - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://t3tris.finance/"
+    "website": "https://t3tris.finance/",
+    "twitter": "https://x.com/0xT3tris"
   },
   "relations": {
     "alternatives": [

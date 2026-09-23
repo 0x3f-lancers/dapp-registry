@@ -1,7 +1,7 @@
 {
   "slug": "ghost-xyz",
   "name": "Ghost",
-  "logoUrl": "https://unavatar.io/x/0xGhostLogs",
+  "logoUrl": "https://tryghost.xyz/apple-touch-icon.png",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Indexing Tools"
@@ -13,7 +13,7 @@
   "pricing": "",
   "content": {
     "short": "Ghost builds GhostGraph, an indexing framework for writing custom on-chain data transforms.",
-    "description": "Ghost is a data infrastructure studio whose GhostGraph framework lets developers define custom indexers for specific contracts rather than relying on a generic schema. Custom indexing becomes necessary once an application's important state is derived rather than stored, which is the usual case for anything computing positions or accruals.",
+    "description": "Ghost builds two developer products for on-chain data. GhostGraph lets a team define custom indexers for specific contracts in place of a generic schema, integrating directly with existing Solidity projects. GhostLogs exposes contract-level logging across multiple smart contract languages and feeds into common analytics tools. Both support a broad set of networks, Monad among them.",
     "meta": "Ghost builds GhostGraph, an indexing framework for custom on-chain data transforms, including Monad.",
     "pageTitle": "Ghost - Infrastructure Tools - Lancers Web3 Explorer"
   },

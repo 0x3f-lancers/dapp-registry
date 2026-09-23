@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "AlphaPing runs mandate-driven, non-custodial onchain credit vaults with defined risk boundaries.",
-    "description": "AlphaPing operates credit vaults on Hyperliquid under explicit mandates, so the boundaries of what the vault may do are stated in advance and verifiable on-chain rather than described in a document. Mandate discipline is what institutional allocators expect, and it is one of the clearer advantages on-chain vaults hold over conventional funds.",
+    "description": "AlphaPing operates non-custodial credit vaults on Hyperliquid, each governed by an explicit mandate whose risk constraints are enforced in the contract. The range includes Alpha USDC Core V2, a conservative over-collateralized mandate with deterministic liquidity rules, and Alpha USDC Enhanced V2 for higher-yield exposure. A LINK-denominated vault provides structured credit exposure inside the Chainlink ecosystem, and vault accounting stays visible, so an allocator can check positions against the stated mandate at any point.",
     "meta": "Onchain credit vaults on Hyperliquid operating under explicit, verifiable investment mandates.",
     "pageTitle": "AlphaPing - Web3 Service Providers - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://alphaping.ch/"
+    "website": "https://alphaping.ch/",
+    "twitter": "https://x.com/alphaping_"
   },
   "relations": {
     "alternatives": [

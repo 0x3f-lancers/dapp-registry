@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Altura offers stablecoin deposits earning yield sourced from onchain strategies.",
-    "description": "Altura takes stablecoin deposits and routes them into yield strategies on Hyperliquid, presenting a single deposit rather than a set of positions to manage. Products framed this simply live or die on where the yield actually comes from, which is the question worth asking before the headline rate.",
+    "description": "Altura takes USDT0 deposits on HyperEVM and runs them through a single multi-strategy vault, so a depositor holds one share balance and no separate positions. Deposits can arrive from any EVM-compatible wallet, with the protocol handling the bridging. Shares represent an exact ownership percentage of the vault, and the return combines a base yield with ALTU token rewards. Strategy execution and rebalancing run in the background without depositor action.",
     "meta": "Altura offers stablecoin deposits earning yield from onchain strategies on Hyperliquid.",
     "pageTitle": "Altura - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://altura.trade/"
+    "website": "https://altura.trade/",
+    "twitter": "https://x.com/altura"
   },
   "relations": {
     "alternatives": [

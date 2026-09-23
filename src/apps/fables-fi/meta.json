@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Fables is a hook-native ve(3,3) exchange on Uniswap v4 with pair-specific dynamic fees.",
-    "description": "Fables builds a ve(3,3) exchange on top of Uniswap v4 hooks, using them to set fees per pair dynamically rather than applying one schedule across every market. It runs on Robinhood Chain. Hooks were the main reason v4 mattered, and designs like this are the first real test of whether they enable genuinely different markets or mostly repackage existing ones.",
+    "description": "Fables is a hook-native ve(3,3) exchange built on Uniswap v4, live on Robinhood Chain. It uses v4 hooks to set fees per pair dynamically, so each market carries a schedule suited to its own volatility instead of one applied across every pool. Emissions are directed by lockers in the usual ve(3,3) pattern.",
     "meta": "Uniswap v4 hooks used to set fees per pair, on a ve(3,3) exchange on Robinhood Chain.",
     "pageTitle": "Fables - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://fables.fi/"
+    "website": "https://fables.fi/",
+    "twitter": "https://x.com/fables"
   },
   "relations": {
     "alternatives": [

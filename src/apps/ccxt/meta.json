@@ -13,13 +13,14 @@
   "pricing": "Free",
   "content": {
     "short": "CCXT is an open-source trading library giving one unified API across 100+ exchanges, including Hyperliquid.",
-    "description": "CCXT is the long-standing open-source library for programmatic trading, normalising the APIs of more than a hundred exchanges behind a single interface across JavaScript, Python, PHP and C#. For anyone running the same logic across centralised and on-chain venues, that normalisation is most of the value.",
+    "description": "CCXT is a trading library that puts more than a hundred exchanges and prediction markets behind one unified API, available in JavaScript, Python, PHP, C#, Go, Java and Rust. The unified surface covers markets, tickers, order books, orders and balances, so switching venue means changing one identifier. Hyperliquid is supported alongside Binance, Bybit, OKX and others, and the same interface reaches Polymarket, Kalshi, Limitless and Myriad. Per-exchange references document the endpoints that fall outside the unified set.",
     "meta": "CCXT is an open-source trading library offering one unified API across 100+ exchanges and Hyperliquid.",
     "pageTitle": "CCXT - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
     "website": "https://docs.ccxt.com/",
-    "github": "https://github.com/ccxt"
+    "github": "https://github.com/ccxt",
+    "twitter": "https://x.com/ccxt_official"
   },
   "relations": {
     "alternatives": [

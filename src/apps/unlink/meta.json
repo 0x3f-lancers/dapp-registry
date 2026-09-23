@@ -13,12 +13,13 @@
   "pricing": "",
   "content": {
     "short": "Unlink enables private on-chain money movement for fintechs and treasury teams, built for compliance.",
-    "description": "Unlink lets institutions move funds on public chains without broadcasting their full activity, aimed at fintechs, payment processors and treasury teams that cannot expose counterparties and balances to competitors. The design question for anything in this category is whether it can offer confidentiality while remaining auditable, and Unlink positions itself explicitly on that side.",
+    "description": "Unlink moves money on public blockchains without broadcasting the details, adding encrypted account state and proof-backed transfers underneath existing EVM liquidity, contracts and protocols. Sender, recipient and amount can each be redacted while the transaction remains verifiable, so an auditor can still reconstruct it. It is built for stablecoin issuers, fintechs, payment processors, treasury teams and foundations that need confidentiality without leaving the chains they already use. Ethereum and its L2s are supported, Monad among the targeted networks.",
     "meta": "Unlink enables compliant private on-chain money movement for fintechs and treasury teams.",
     "pageTitle": "Unlink - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://unlink.xyz/"
+    "website": "https://unlink.xyz/",
+    "twitter": "https://x.com/unlink_xyz"
   },
   "relations": {
     "alternatives": [

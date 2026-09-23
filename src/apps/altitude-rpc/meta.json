@@ -1,7 +1,7 @@
 {
   "slug": "altitude-rpc",
   "name": "Altitude",
-  "logoUrl": "https://unavatar.io/x/reachaltitude",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1045850319/portrait-square_400x400.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -13,7 +13,7 @@
   "pricing": "",
   "content": {
     "short": "Altitude runs archival RPC infrastructure for HyperEVM built for latency-sensitive workloads.",
-    "description": "Altitude provides RPC endpoints for HyperEVM, listed in Hyperliquid's builder documentation under archival RPC, meaning it serves historical state rather than only recent blocks. Archival access is what indexers, analytics products and anything reconstructing past positions depend on, and it is considerably more expensive to run than a full node tracking the head of the chain.",
+    "description": "Altitude provides private RPC nodes for workloads where latency decides the outcome, such as contract deployment, state queries and bot execution. Hyperliquid's builder documentation lists it under archival RPC, meaning its endpoints serve historical state and not only recent blocks. Nodes are dedicated to one customer rather than shared in a public pool, and the company builds tailored APIs for specific applications. Coverage extends to several networks alongside HyperEVM.",
     "meta": "Altitude runs archival RPC infrastructure for HyperEVM aimed at latency-sensitive workloads.",
     "pageTitle": "Altitude - Infrastructure Tools - Lancers Web3 Explorer"
   },

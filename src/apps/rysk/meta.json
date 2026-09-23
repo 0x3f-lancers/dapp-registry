@@ -13,12 +13,13 @@
   "pricing": "Free",
   "content": {
     "short": "Rysk is an options protocol letting holders earn upfront yield on crypto assets.",
-    "description": "Rysk turns option premiums into upfront yield for asset holders, so depositors receive payment now in exchange for the obligation an option creates, rather than waiting for a strategy to accrue. It operates on Hyperliquid. Structuring the return as an immediate payment rather than a projected APY is an honest framing, since it makes the trade being made explicit.",
+    "description": "Rysk is a volatility yield protocol that pays asset holders upfront for writing covered calls and cash-secured puts. A user picks a strike and expiry to set their own yield and risk, confirms, and the premium is transferred to their wallet immediately as the trade executes on-chain. Positions are fully collateralised with no liquidation risk and no counterparty exposure. It supports ETH, BTC, HYPE, liquid staking and restaking tokens and other listed assets.",
     "meta": "Rysk is a Hyperliquid options protocol letting holders earn upfront yield on crypto assets.",
     "pageTitle": "Rysk - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://www.rysk.finance/"
+    "website": "https://www.rysk.finance/",
+    "twitter": "https://x.com/rysk_io"
   },
   "relations": {
     "alternatives": [

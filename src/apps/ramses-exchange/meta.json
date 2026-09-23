@@ -14,12 +14,13 @@
   "pricing": "Free",
   "content": {
     "short": "Ramses is multichain DEX infrastructure running concentrated liquidity markets.",
-    "description": "Ramses builds concentrated liquidity exchange infrastructure deployed across several chains, including Hyperliquid and Robinhood Chain. Having originated as one of Arbitrum's larger ve(3,3) venues, its arrival on Robinhood Chain is unsurprising given that chain is built on the Arbitrum stack.",
+    "description": "Ramses is a concentrated liquidity exchange deployed on Hyperliquid and Robinhood Chain, combining dynamic fees with same-chain MEV backruns to keep value inside the protocol. Its token design runs across RAM, xRAM and r33, aligning emissions with the fees each pool actually produces. Products include AutoVaults for managed positions, a DLMM pool type and a concentrated liquidity book. Launchpads can connect a token launch or graduation flow directly into its pools.",
     "meta": "Concentrated liquidity infrastructure, now on Hyperliquid and Robinhood Chain.",
     "pageTitle": "Ramses - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://ramses.xyz/"
+    "website": "https://ramses.xyz/",
+    "twitter": "https://x.com/ramseshq"
   },
   "relations": {
     "alternatives": [
