@@ -1,0 +1,36 @@
+{
+  "slug": "likwid",
+  "name": "LIKWID",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/likwid.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "LIKWID is a permissionless, oracle-less margin trading and lending protocol built on Uniswap v4.",
+    "description": "LIKWID lets anyone open leveraged long or short positions and lend on any token without price oracles, using unified pools where liquidity providers earn swap fees, leverage fees and lending interest together. It is built on Uniswap v4 and listed in Blockscout's Unichain app marketplace.",
+    "meta": "LIKWID is an oracle-less margin trading and lending protocol on Uniswap v4, live on Unichain.",
+    "pageTitle": "LIKWID - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://likwid.fi",
+    "twitter": "https://x.com/likwid_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "pika-protocol",
+      "lighter",
+      "markets-xyz"
+    ],
+    "related": [
+      "symmio",
+      "perpmate",
+      "demex"
+    ]
+  }
+}

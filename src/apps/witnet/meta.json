@@ -1,0 +1,36 @@
+{
+  "slug": "witnet",
+  "name": "Witnet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/witnet.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Decentralized Oracles"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Witnet runs Wit/Oracle, a proof-of-stake oracle delivering verifiable data to smart contracts.",
+    "description": "Witnet operates Wit/Oracle, an oracle network secured by proof-of-stake that delivers price feeds, randomness and other data to smart contracts with verifiable provenance. World Chain's official documentation lists it among the oracle providers for the network. Running as its own chain lets it reach consensus on data independently of the chains it serves.",
+    "meta": "Witnet runs Wit/Oracle, a proof-of-stake oracle for verifiable smart contract data, listed for World Chain.",
+    "pageTitle": "Witnet - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://witnet.io",
+    "twitter": "https://x.com/witnet_io"
+  },
+  "relations": {
+    "alternatives": [
+      "seda",
+      "switchboard",
+      "ora"
+    ],
+    "related": [
+      "chainlink",
+      "api3",
+      "muon"
+    ]
+  }
+}

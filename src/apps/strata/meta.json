@@ -1,0 +1,37 @@
+{
+  "slug": "strata",
+  "name": "Strata",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/strata.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Strata is a risk-tranching protocol offering senior and junior yield tranches, starting with USDe.",
+    "description": "Strata is a generalized risk-tranching protocol that splits on-chain and off-chain yield strategies into tranches with different risk and reward. Its first products are Senior USDe (srUSDe), which takes a steadier yield, and Junior USDe (jrUSDe), which takes more risk for a higher one. Plasma's official ecosystem directory lists Strata.",
+    "meta": "Strata splits yield into senior and junior risk tranches, starting with USDe, listed in the Plasma ecosystem.",
+    "pageTitle": "Strata - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://strata.markets",
+    "twitter": "https://x.com/strata_markets"
+  },
+  "relations": {
+    "alternatives": [
+      "upshift",
+      "goat-protocol",
+      "hyward"
+    ],
+    "related": [
+      "hyperwave",
+      "strkfarm",
+      "ezmanager"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "ophis",
+  "name": "Ophis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/ophis.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Ophis is an intent-based DEX aggregator for MEV-protected swaps of stablecoins and tokenized assets.",
+    "description": "Ophis is an intent-based DEX aggregator: users sign what they want to trade and competing solvers fill the order through batch auctions, which protects swaps from MEV. It focuses on stablecoins and tokenized assets, and can be used from a wallet or integrated through its API, SDK and MCP server. Its site lists Unichain and Robinhood Chain among supported networks.",
+    "meta": "Ophis is an intent-based, MEV-protected DEX aggregator for stablecoins and tokenized assets on Unichain.",
+    "pageTitle": "Ophis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ophis.fi",
+    "github": "https://github.com/ophis-fi",
+    "twitter": "https://x.com/ophisfi"
+  },
+  "relations": {
+    "alternatives": [
+      "eisen-finance",
+      "laminar",
+      "dzap"
+    ],
+    "related": [
+      "vaultka",
+      "alandale",
+      "rubicon"
+    ]
+  }
+}

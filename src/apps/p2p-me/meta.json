@@ -1,0 +1,37 @@
+{
+  "slug": "p2p-me",
+  "name": "P2P.me",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/p2p-me.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Base",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "P2P.me is a decentralized on/off-ramp for swapping USDC and local currencies privately.",
+    "description": "P2P.me is an on-chain protocol that matches users with verified liquidity providers to swap between USDC and local fiat quickly and privately, backed by Coinbase Ventures and Multicoin Capital. It began on Base, and Plasma's official ecosystem directory lists it.",
+    "meta": "P2P.me is a decentralized USDC-to-fiat on/off-ramp, listed in Plasma's ecosystem.",
+    "pageTitle": "P2P.me - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.p2p.me",
+    "twitter": "https://x.com/P2Pdotme"
+  },
+  "relations": {
+    "alternatives": [
+      "osl-pay",
+      "moonpay",
+      "mural-pay"
+    ],
+    "related": [
+      "topper",
+      "guardarian-onramp",
+      "daimo"
+    ]
+  }
+}

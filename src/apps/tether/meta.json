@@ -1,0 +1,39 @@
+{
+  "slug": "tether",
+  "name": "Tether",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/tether.png",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "RWA Tokenization Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Tron",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Tether issues USDT, the most widely used stablecoin, and XAUt, a token backed by physical gold.",
+    "description": "Tether is the company behind USDT, the most widely adopted stablecoin, and Tether Gold (XAUt), a token backed by physical gold. Its tokens are used for trading, payments and savings across many blockchains. Plasma was built as a stablecoin chain centred on USDT, and Plasma's official ecosystem directory lists Tether's wallet and Tether Gold.",
+    "meta": "Tether issues USDT, the largest stablecoin, and gold-backed XAUt, both listed in the Plasma ecosystem.",
+    "pageTitle": "Tether - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tether.to",
+    "twitter": "https://x.com/tether"
+  },
+  "relations": {
+    "alternatives": [
+      "yuzu-money",
+      "valos",
+      "anzens"
+    ],
+    "related": [
+      "schuman",
+      "libeara",
+      "stablr"
+    ]
+  }
+}

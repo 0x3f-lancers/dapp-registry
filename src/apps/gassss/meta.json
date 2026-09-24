@@ -1,0 +1,36 @@
+{
+  "slug": "gassss",
+  "name": "GASSSS",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/gassss.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "GASSSS is a gas-sponsored execution protocol letting users interact with DeFi without paying gas upfront.",
+    "description": "GASSSS sponsors gas so users can interact with DeFi protocols without first holding a native token to pay fees, building on EIP-7702 account behaviour. On Stable it runs a sponsored stable swap. The first-transaction problem, where a new user has assets but no gas, is one of the more persistent onboarding frictions, and sponsorship is one of the cleaner fixes.",
+    "meta": "GASSSS is a gas-sponsored execution protocol for DeFi without upfront gas fees, running on Stable.",
+    "pageTitle": "GASSSS - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gassss.xyz",
+    "twitter": "https://x.com/gassss7702"
+  },
+  "relations": {
+    "alternatives": [
+      "trebleswap",
+      "rubydex",
+      "xgram-io"
+    ],
+    "related": [
+      "eisenlabs",
+      "crema-finance",
+      "kriya"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "createdao",
+  "name": "CreateDAO",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/createdao.png",
+  "category": "DAO Tools",
+  "subcategory": [
+    "DAO Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "CreateDAO deploys a complete DAO, with token, treasury and governor, in a single transaction.",
+    "description": "CreateDAO lets anyone deploy a full governance system, including a token, treasury and OpenZeppelin-based governor, in one transaction with no platform fee, using gas-efficient contract clones and auto-delegation. It runs a mini app inside World App, listed in World's ecosystem directory.",
+    "meta": "CreateDAO deploys a full DAO (token, treasury, governor) in one transaction, with a World App mini app.",
+    "pageTitle": "CreateDAO - DAO Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://createdao.org",
+    "twitter": "https://x.com/createdao"
+  },
+  "relations": {
+    "alternatives": [
+      "loreum",
+      "juicebox",
+      "curia-governance-dashboard"
+    ],
+    "related": [
+      "coordinape",
+      "tally",
+      "aragon"
+    ]
+  }
+}

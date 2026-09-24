@@ -1,0 +1,36 @@
+{
+  "slug": "stablewatch",
+  "name": "Stablewatch",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/stablewatch.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Stablewatch delivers real-time analytics and risk advisory for stablecoins and yield-bearing stablecoins.",
+    "description": "Stablewatch tracks stablecoins and yield-bearing stablecoins in real time, pairing analytics with risk advisory. Plasma's official documentation lists it among the analytics tools for the chain. Yield-bearing stablecoins vary widely in how their returns are generated, which makes independent tracking of backing and risk useful.",
+    "meta": "Stablewatch delivers real-time analytics and risk advisory for stablecoins, listed for Plasma.",
+    "pageTitle": "Stablewatch - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stablewatch.io",
+    "twitter": "https://x.com/stablewatchHQ"
+  },
+  "relations": {
+    "alternatives": [
+      "xangle",
+      "laevitas",
+      "wallet-master-tools"
+    ],
+    "related": [
+      "cookie3",
+      "openbb",
+      "walletx"
+    ]
+  }
+}

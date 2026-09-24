@@ -1,0 +1,36 @@
+{
+  "slug": "gluehook",
+  "name": "GlueHook",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/gluehook.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Dapp Templates"
+  ],
+  "chains": [
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "GlueHook is a free, open-source Uniswap v4 hook automating buybacks, burns and self-compounding liquidity.",
+    "description": "GlueHook is an open-source Uniswap v4 hook that automates token buybacks, burns and self-compounding of liquidity positions, so a project's pool can manage part of its own tokenomics without a team running scripts. It is deployed on Unichain and World Chain. Hooks like this turn a liquidity pool from a passive venue into something that executes policy.",
+    "meta": "GlueHook is an open-source Uniswap v4 hook automating buybacks, burns and LP compounding on Unichain and World Chain.",
+    "pageTitle": "GlueHook - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gluehook.trade",
+    "twitter": "https://x.com/glue_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "dappify",
+      "dappbooster",
+      "gizmolab-ui"
+    ],
+    "related": [
+      "hiro",
+      "webstudio"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "usdt0",
+  "name": "USDT0",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/usdt0.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Stable",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "USDT0 brings Tether's stablecoin to many networks with one unified supply and native transfers.",
+    "description": "USDT0 is the omnichain form of Tether's stablecoin, keeping a single unified supply across networks and moving between them natively rather than through wrapped copies. On Stable, USDT0 is both the gas token and the main asset, and Stable's documentation lists it among bridge options. Unified supply avoids the fragmentation that comes from many bridged versions of the same stablecoin.",
+    "meta": "USDT0 is omnichain Tether with one unified supply and native transfers, and the native asset on Stable.",
+    "pageTitle": "USDT0 - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://usdt0.to",
+    "twitter": "https://x.com/USDT0_to"
+  },
+  "relations": {
+    "alternatives": [
+      "sodax",
+      "relay-link",
+      "wormhole"
+    ],
+    "related": [
+      "mantle-bridge",
+      "houdini-swap",
+      "mini-bridge"
+    ]
+  }
+}

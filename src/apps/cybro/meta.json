@@ -1,0 +1,39 @@
+{
+  "slug": "cybro",
+  "name": "CYBRO",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/cybro.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Arbitrum",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "CYBRO is a hub for liquidity providers, with vaults and tools for managing Uniswap-style LP positions.",
+    "description": "CYBRO is a hub for DeFi liquidity providers, pairing yield vaults with a dashboard for tracking and managing LP positions. Users deposit into vaults and follow their performance, with a referral programme and a CYBRO token that can be staked for rewards and bridged across networks. Its site names Ethereum, Base, Arbitrum and Unichain among its supported chains, and Alchemy's Unichain directory lists it.",
+    "meta": "CYBRO offers yield vaults and LP position management for liquidity providers on Ethereum, Base, Arbitrum and Unichain.",
+    "pageTitle": "CYBRO - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cybro.io",
+    "twitter": "https://x.com/Cybro_io"
+  },
+  "relations": {
+    "alternatives": [
+      "sharpe",
+      "steer-protocol",
+      "ammplify"
+    ],
+    "related": [
+      "ember-protocol",
+      "eisenlabs",
+      "nabla-finance"
+    ]
+  }
+}

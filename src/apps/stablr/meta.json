@@ -1,0 +1,36 @@
+{
+  "slug": "stablr",
+  "name": "StablR",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/stablr.png",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "RWA Tokenization Platforms"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "StablR issues EURR and USDR, regulated European stablecoins backed by reserves.",
+    "description": "StablR is a European issuer of regulated stablecoins: EURR, pegged to the euro, and USDR, pegged to the US dollar, both backed by reserves with published proof of reserves. Plasma's official ecosystem directory lists StablR's EURR. StablR's site currently shows a notice that an exploit affecting it has been contained.",
+    "meta": "StablR issues the regulated EURR and USDR stablecoins, with EURR listed in the Plasma ecosystem.",
+    "pageTitle": "StablR - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.stablr.com",
+    "twitter": "https://x.com/stablreuro"
+  },
+  "relations": {
+    "alternatives": [
+      "yuzu-money",
+      "valos",
+      "anzens"
+    ],
+    "related": [
+      "schuman",
+      "tether",
+      "centrifuge"
+    ]
+  }
+}

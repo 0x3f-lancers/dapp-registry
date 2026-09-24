@@ -1,0 +1,36 @@
+{
+  "slug": "meme-bridge",
+  "name": "MeMe Bridge",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/meme-bridge.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "MeMe Bridge is a low-cost cross-chain bridge and swap for moving assets between Layer 2s.",
+    "description": "MeMe Bridge moves assets between chains with optimised routes and low fees, and also offers swaps, gas top-ups and a contract deploy tool. It uses ZK technology for its bridging. Blockscout's World Chain app marketplace lists MeMe Bridge.",
+    "meta": "MeMe Bridge is a low-fee cross-chain bridge and swap for Layer 2s, including World Chain.",
+    "pageTitle": "MeMe Bridge - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.memebridge.xyz",
+    "twitter": "https://x.com/MemebridgeB"
+  },
+  "relations": {
+    "alternatives": [
+      "owlto-finance",
+      "base-bridge",
+      "wanchain"
+    ],
+    "related": [
+      "helixbox",
+      "stargate",
+      "hop-aggregator"
+    ]
+  }
+}

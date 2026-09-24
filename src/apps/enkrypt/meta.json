@@ -1,0 +1,39 @@
+{
+  "slug": "enkrypt",
+  "name": "Enkrypt",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/enkrypt.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polkadot",
+    "Bitcoin",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Enkrypt is a multichain, self-custodial browser wallet from the team behind MyEtherWallet.",
+    "description": "Enkrypt is a self-custodial browser extension wallet created by MyEtherWallet. It lets users hold, buy, swap and send tokens, manage NFTs and switch between EVM chains, Polkadot, Substrate chains and Bitcoin in one wallet. Unichain is on its supported chains list and Blockscout's Unichain marketplace lists it.",
+    "meta": "Enkrypt is a multichain self-custodial browser wallet by MyEtherWallet, supporting Unichain.",
+    "pageTitle": "Enkrypt - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.enkrypt.com",
+    "twitter": "https://x.com/enkrypt"
+  },
+  "relations": {
+    "alternatives": [
+      "utila",
+      "daedalus-wallet",
+      "wigwam"
+    ],
+    "related": [
+      "fluvi-wallet",
+      "ownbit",
+      "frame"
+    ]
+  }
+}

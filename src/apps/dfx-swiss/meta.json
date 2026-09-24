@@ -1,0 +1,36 @@
+{
+  "slug": "dfx-swiss",
+  "name": "DFX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/dfx-swiss.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "DFX is a Swiss service for buying and selling Bitcoin and 80+ cryptocurrencies directly to your wallet.",
+    "description": "DFX is a Swiss crypto service for buying and selling Bitcoin, Ethereum and more than eighty other assets directly to and from a user's own wallet, without holding customer funds. Stable's official documentation lists it among the fiat ramps for the network. Non-custodial ramps like this leave the user in control of their assets throughout.",
+    "meta": "DFX is a Swiss non-custodial service for buying and selling 80+ cryptocurrencies, listed as a Stable ramp.",
+    "pageTitle": "DFX - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dfx.swiss",
+    "twitter": "https://x.com/DFX_Swiss"
+  },
+  "relations": {
+    "alternatives": [
+      "blink-cash",
+      "paj-cash",
+      "btc-direct"
+    ],
+    "related": [
+      "narfex",
+      "bitpay",
+      "mural-pay"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "cypherock",
+  "name": "Cypherock",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/cypherock.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Hardware Wallets"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "Cypherock X1 is a hardware wallet that removes the seed-phrase single point of failure.",
+    "description": "Cypherock makes the X1, a hardware wallet that splits private keys across multiple cards so there is no single seed phrase to lose, and adds non-custodial crypto inheritance. It is manufactured in India and security-audited. Stable's official ecosystem page lists Cypherock.",
+    "meta": "Cypherock X1 is a hardware wallet with split keys and crypto inheritance, listed in Stable's ecosystem.",
+    "pageTitle": "Cypherock - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.cypherock.com",
+    "twitter": "https://x.com/CypherockWallet"
+  },
+  "relations": {
+    "alternatives": [
+      "degen-wallet",
+      "tangem",
+      "burner"
+    ],
+    "related": [
+      "zkbob",
+      "clave",
+      "trezor"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "revert-finance",
+  "name": "Revert Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/revert-finance.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Revert gives AMM liquidity providers analytics, automation and lending tools for their positions.",
+    "description": "Revert Finance builds tools for liquidity providers on AMMs such as Uniswap: analytics for comparing pools and positions, automation for managing ranges, and lending against LP positions. It is widely used for checking how a concentrated-liquidity position has really performed after fees and impermanent loss. growthepie's contract labels show Revert activity on Unichain.",
+    "meta": "Revert Finance offers analytics, automation and lending for AMM liquidity providers, with activity on Unichain.",
+    "pageTitle": "Revert Finance - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://revert.finance",
+    "github": "https://github.com/revert-finance",
+    "twitter": "https://x.com/revertfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "solglyph",
+      "ball-e",
+      "stablewatch"
+    ],
+    "related": [
+      "ooga-booga",
+      "gauntlet",
+      "tweetscout"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "simplex",
+  "name": "Simplex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/simplex.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Simplex lets users buy and sell crypto instantly with cards, bank transfers, Apple Pay and Google Pay.",
+    "description": "Simplex is a long-established fiat on-ramp that lets users buy and sell crypto with credit cards, bank transfers, Apple Pay and Google Pay, and is embedded in many wallets and exchanges. Stable's official documentation lists it among the fiat ramps for the network. Embedded providers like Simplex are how most users first get funds onto a new chain.",
+    "meta": "Simplex is a fiat on-ramp for buying and selling crypto with cards and bank transfers, listed for Stable.",
+    "pageTitle": "Simplex - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.simplex.com",
+    "twitter": "https://x.com/SimplexCC"
+  },
+  "relations": {
+    "alternatives": [
+      "slide",
+      "kado-onramp-offramp",
+      "guardarian-onramp"
+    ],
+    "related": [
+      "btc-direct",
+      "mercuryo",
+      "assetux"
+    ]
+  }
+}

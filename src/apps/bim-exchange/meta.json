@@ -1,0 +1,37 @@
+{
+  "slug": "bim-exchange",
+  "name": "BIM Exchange",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/bim-exchange.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Base",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "BIM Exchange lets users buy, sell, swap, bridge and stake crypto from one DeFi app.",
+    "description": "BIM Exchange brings several DeFi actions into one app: buying crypto with euros by card or bank transfer, selling, swapping, bridging, staking and bonds. Plasma appears among its supported networks, and DefiLlama tracks its BIM Yield product on Plasma.",
+    "meta": "BIM Exchange combines fiat on-ramp, swaps, bridging and staking in one DeFi app, supporting Plasma.",
+    "pageTitle": "BIM Exchange - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://exchange.bim.finance",
+    "twitter": "https://x.com/Bim_Exchange"
+  },
+  "relations": {
+    "alternatives": [
+      "stripe-crypto-onramp",
+      "hq-xyz",
+      "onramper"
+    ],
+    "related": [
+      "calm-treasury",
+      "onramp-money",
+      "swipelux"
+    ]
+  }
+}

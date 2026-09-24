@@ -1,0 +1,37 @@
+{
+  "slug": "origami-finance",
+  "name": "Origami Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/origami-finance.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Farming Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Origami is an automated leverage protocol that packages looped yield strategies into single tokens.",
+    "description": "Origami automates leverage: it takes yield strategies that would otherwise require repeated borrowing and redepositing, and wraps them into a single position the protocol manages. It launched on Ethereum and has deployed on Plasma. Automating the loop removes the manual work and some of the liquidation-monitoring burden, though the underlying leverage risk remains.",
+    "meta": "Origami is an automated leverage protocol packaging looped yield strategies, on Ethereum and Plasma.",
+    "pageTitle": "Origami Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://origami.finance",
+    "twitter": "https://x.com/origami_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "rbx",
+      "trebleswap",
+      "elixir"
+    ],
+    "related": [
+      "snowball",
+      "martian-labs",
+      "goat-protocol"
+    ]
+  }
+}

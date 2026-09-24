@@ -1,0 +1,36 @@
+{
+  "slug": "semantic-pay",
+  "name": "Semantic",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/semantic-pay.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Semantic is an agentic payment stack for AI agents settling payments onchain.",
+    "description": "Semantic builds a payment stack for AI agents, handling how autonomous systems authorise and settle payments on-chain. Stable's official documentation lists it among the x402 facilitators, which verify signed payments and submit the on-chain call that settles them in USDT0. Machine-to-machine payment is one of the use cases Stable was designed around.",
+    "meta": "Semantic is an agentic payment stack for AI agents, listed as an x402 facilitator on Stable.",
+    "pageTitle": "Semantic - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://semanticpay.io",
+    "github": "https://github.com/SemanticPay"
+  },
+  "relations": {
+    "alternatives": [
+      "super",
+      "r3vl",
+      "entendre-finance"
+    ],
+    "related": [
+      "pingme",
+      "remittix",
+      "mesha"
+    ]
+  }
+}

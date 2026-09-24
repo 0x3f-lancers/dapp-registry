@@ -1,0 +1,39 @@
+{
+  "slug": "wheelx",
+  "name": "WheelX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/wheelx.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Base",
+    "BNB Chain",
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "WheelX is an AI-powered bridge and swap aggregator for moving any token across 50+ chains.",
+    "description": "WheelX aggregates more than 200 bridges, DEXes and AMM pools across 50+ blockchains, routing cross-chain swaps and transfers through the cheapest and fastest path in one click. Blockscout's Unichain and World Chain marketplaces list it, and growthepie labels WheelX contracts on Unichain.",
+    "meta": "WheelX aggregates 200+ bridges and DEXes for cross-chain swaps on Unichain, World Chain and more.",
+    "pageTitle": "WheelX - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://wheelx.fi",
+    "twitter": "https://x.com/WheelX_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "zk-link",
+      "router-nitro",
+      "wormhole"
+    ],
+    "related": [
+      "retrobridge",
+      "across",
+      "chasm-network"
+    ]
+  }
+}

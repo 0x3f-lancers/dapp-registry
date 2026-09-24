@@ -1,0 +1,37 @@
+{
+  "slug": "anoma",
+  "name": "Anoma",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/anoma.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Anoma is an intent-centric distributed operating system that lets apps work across any chain.",
+    "description": "Anoma is a distributed operating system built around intents, where users state what they want and the system figures out how to settle it across chains. Developers get an app SDK to build applications that run everywhere without chain-specific logic. Stable's official ecosystem page lists Anoma.",
+    "meta": "Anoma is an intent-centric distributed OS for building apps that work across chains, listed on Stable.",
+    "pageTitle": "Anoma - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://anoma.net",
+    "twitter": "https://x.com/anoma"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "elk-finance",
+      "superchain-dev-console"
+    ],
+    "related": [
+      "succinct",
+      "quex-tech",
+      "butter-network"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "openusdt",
+  "name": "OpenUSDT",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/openusdt.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "OP Mainnet",
+    "Base",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "OpenUSDT brings Tether USDT across Superchain networks as one cross-chain token, oUSDT.",
+    "description": "OpenUSDT extends Tether's USDT, and gold-backed XAUt as OpenXAUt, to more chains as a single cross-chain token, so liquidity is not split between separately bridged versions. It was built together with Velodrome, Chainlink and Hyperlane for the Superchain, and Unichain is among the supported networks on its site.",
+    "meta": "OpenUSDT makes USDT a single cross-chain token (oUSDT) across Superchain networks such as Unichain.",
+    "pageTitle": "OpenUSDT - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.openusdt.xyz",
+    "twitter": "https://x.com/OpenUSDT"
+  },
+  "relations": {
+    "alternatives": [
+      "eco-portal",
+      "ring-exchange",
+      "brid-gg"
+    ],
+    "related": [
+      "owlto-finance",
+      "celer-cbridge",
+      "garden-finance"
+    ]
+  }
+}

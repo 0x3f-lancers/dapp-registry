@@ -1,0 +1,37 @@
+{
+  "slug": "fairblock",
+  "name": "Fairblock",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/fairblock.png",
+  "category": "Zero Knowledge Tools",
+  "subcategory": [
+    "ZK Developer Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Fairblock is a confidentiality layer for private stablecoin payments, assets and applications.",
+    "description": "Fairblock adds confidentiality to existing chains, enabling private assets, transactions and applications without users changing wallets or bridging. It targets stablecoins, tokenized assets, AI inference and enterprise use. Stable's official ecosystem page lists Fairblock.",
+    "meta": "Fairblock adds confidential transactions for stablecoins and apps without new wallets, listed on Stable.",
+    "pageTitle": "Fairblock - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.fairblock.network",
+    "twitter": "https://x.com/0xfairblock"
+  },
+  "relations": {
+    "alternatives": [
+      "lagrange",
+      "ingonmaya",
+      "risc-zero"
+    ],
+    "related": [
+      "axiom",
+      "taceo",
+      "blockless"
+    ]
+  }
+}

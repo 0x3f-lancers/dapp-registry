@@ -1,0 +1,37 @@
+{
+  "slug": "neutrl",
+  "name": "Neutrl",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/neutrl.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Synthetics"
+  ],
+  "chains": [
+    "Ethereum",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Neutrl issues NUSD, a market-neutral synthetic dollar earning yield from OTC altcoin arbitrage.",
+    "description": "Neutrl is a synthetic dollar protocol whose NUSD and staked sNUSD earn yield by buying discounted altcoins in OTC markets and hedging them delta-neutral. It raised $5 million led by STIX and Accomplice, and uses LayerZero to reach many chains. Plasma's official ecosystem directory lists Neutrl.",
+    "meta": "Neutrl issues NUSD, a market-neutral synthetic dollar with OTC arbitrage yield, listed on Plasma.",
+    "pageTitle": "Neutrl - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.neutrl.finance",
+    "twitter": "https://x.com/Neutrl"
+  },
+  "relations": {
+    "alternatives": [
+      "metronome-synth",
+      "parcl",
+      "cvi-finance"
+    ],
+    "related": [
+      "thestandard",
+      "dinari",
+      "synthetify"
+    ]
+  }
+}

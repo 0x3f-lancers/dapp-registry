@@ -1,0 +1,37 @@
+{
+  "slug": "mach",
+  "name": "Mach",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/mach.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Avalanche",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Mach, by Tristero, offers fast and cheap cross-chain swaps focused on stablecoin markets.",
+    "description": "Mach is a cross-chain exchange built by Tristero that lets users swap directly between tokens on different blockchains, aiming for fast, cheap and direct settlement with a focus on stablecoin markets. Blockscout's Unichain app marketplace lists Mach.",
+    "meta": "Mach by Tristero offers fast cross-chain swaps for stablecoin markets, including Unichain.",
+    "pageTitle": "Mach - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.mach.exchange",
+    "twitter": "https://x.com/mach_exchange"
+  },
+  "relations": {
+    "alternatives": [
+      "usdt0",
+      "squid-router",
+      "bungee"
+    ],
+    "related": [
+      "relay-link",
+      "starkgate",
+      "chainport"
+    ]
+  }
+}

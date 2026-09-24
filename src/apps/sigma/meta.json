@@ -1,0 +1,41 @@
+{
+  "slug": "sigma",
+  "name": "Sigma",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/sigma.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Avalanche",
+    "BNB Chain",
+    "Unichain",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Sigma is a DeFi trading bot and web terminal for fast, MEV-protected token swaps across chains.",
+    "description": "Sigma is a trading companion for DeFi traders, available as a Telegram bot and as a web trading terminal. It focuses on speed, MEV protection and built-in bridging, so users can buy and sell tokens faster than swapping manually from a wallet. Its site lists Ethereum, Base, Avalanche, BNB Chain, Unichain and Solana as supported chains.",
+    "meta": "Sigma is a Telegram bot and web terminal for fast, MEV-protected trading on Ethereum, Base, Unichain, Solana and more.",
+    "pageTitle": "Sigma - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sigma.win",
+    "twitter": "https://x.com/SigmaTrading"
+  },
+  "relations": {
+    "alternatives": [
+      "chainpro",
+      "cod3x",
+      "thekingfisher"
+    ],
+    "related": [
+      "ask-libfi",
+      "firebird-finance",
+      "volboost"
+    ]
+  }
+}

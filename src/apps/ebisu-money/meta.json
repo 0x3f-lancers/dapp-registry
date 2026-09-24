@@ -1,0 +1,36 @@
+{
+  "slug": "ebisu-money",
+  "name": "Ebisu",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/ebisu-money.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Ebisu is a stablecoin credit market where users borrow ebUSD against BTC, ETH and USD-pegged assets.",
+    "description": "Ebisu is a stablecoin credit market built on a CDP model: users borrow its ebUSD stablecoin against BTC, ETH and USD-pegged collateral at market-set interest rates. ebUSD holders can in turn take part in those credit markets. It is deployed on Plasma. It is distinct from Ebisu's Bay, an unrelated NFT marketplace.",
+    "meta": "Ebisu is a CDP stablecoin credit market for borrowing ebUSD against BTC, ETH and stablecoins, on Plasma.",
+    "pageTitle": "Ebisu - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ebisu.money/",
+    "twitter": "https://x.com/Ebisu_Finance"
+  },
+  "relations": {
+    "alternatives": [
+      "reflexer",
+      "m0",
+      "abracadabra"
+    ],
+    "related": [
+      "mai",
+      "mimo",
+      "frankencoin"
+    ]
+  }
+}

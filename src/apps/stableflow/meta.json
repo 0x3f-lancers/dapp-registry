@@ -1,0 +1,36 @@
+{
+  "slug": "stableflow",
+  "name": "StableFlow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/stableflow.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "StableFlow moves stablecoins between chains at scale with fast, low-cost transfers.",
+    "description": "StableFlow is a cross-chain transfer app built specifically for stablecoins, letting users pick a source and destination chain and move funds at scale with competitive pricing. Stable's official ecosystem page lists StableFlow.",
+    "meta": "StableFlow moves stablecoins across chains quickly and cheaply, listed in Stable's ecosystem.",
+    "pageTitle": "StableFlow - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stableflow.ai",
+    "twitter": "https://x.com/0xStableFlow"
+  },
+  "relations": {
+    "alternatives": [
+      "alldomains-bridge",
+      "layerzero",
+      "hashport"
+    ],
+    "related": [
+      "jumper-exchange",
+      "router-nitro",
+      "base-bridge"
+    ]
+  }
+}

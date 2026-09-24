@@ -1,0 +1,38 @@
+{
+  "slug": "zns-connect",
+  "name": "ZNS Connect",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/zns-connect.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Name Service Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "ZNS Connect is a multichain name service for registering Web3 domains on 50+ EVM chains.",
+    "description": "ZNS Connect is a multichain identity protocol and domain name service, positioned as an alternative to ENS and Unstoppable Domains. Users register blockchain domains, resolve identities and mint NFTs, and developers can integrate names through its SDK. It covers more than 50 EVM chains, with Unichain among those listed on its site.",
+    "meta": "ZNS Connect is a multichain Web3 domain name service across 50+ EVM chains, including Unichain.",
+    "pageTitle": "ZNS Connect - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://znsconnect.io",
+    "github": "https://github.com/znsconnect",
+    "twitter": "https://x.com/ZNSConnect"
+  },
+  "relations": {
+    "alternatives": [
+      "ens",
+      "punk-domains",
+      "solnames"
+    ],
+    "related": [
+      "bonfida",
+      "yat",
+      "Handshake"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "infinityname",
+  "name": "InfinityName",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/infinityname.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Name Service Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "OP Mainnet",
+    "Arbitrum",
+    "Linea",
+    "Monad",
+    "Robinhood Chain",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "InfinityName sells permanent Web3 domains across many chains, with no renewals or rent.",
+    "description": "InfinityName is a multichain Web3 domain service where names are bought once and kept forever, with no yearly renewal. Each chain has its own extension, for example .unicorn on Unichain, .hood on Robinhood Chain and .blue on Base, and names can be traded on its marketplace.",
+    "meta": "InfinityName sells permanent multichain Web3 domains, including .unicorn names on Unichain.",
+    "pageTitle": "InfinityName - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://infinityname.com",
+    "github": "https://github.com/infinitynamecom",
+    "twitter": "https://x.com/Infinitynamecom"
+  },
+  "relations": {
+    "alternatives": [
+      "ens",
+      "punk-domains",
+      "unstoppable-domains"
+    ],
+    "related": [
+      "esf-tools",
+      "everyname-xyz",
+      "Handshake"
+    ]
+  }
+}

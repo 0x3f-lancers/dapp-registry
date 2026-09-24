@@ -1,0 +1,37 @@
+{
+  "slug": "ionex",
+  "name": "Ionex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/ionex.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges",
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Ionex is Plasma's trading hub, combining spot and perpetuals trading with deep liquidity.",
+    "description": "Ionex positions itself as Plasma's trading hub, unifying spot and perpetual futures trading in one venue. Offering both in one place means a trader can hedge a spot position with perps without moving funds between protocols. It is one of the native trading venues built specifically for Plasma rather than deployed there from another chain.",
+    "meta": "Ionex is Plasma's trading hub, unifying spot and perpetuals trading in one venue.",
+    "pageTitle": "Ionex - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ionex.trade",
+    "twitter": "https://x.com/IonexTrade"
+  },
+  "relations": {
+    "alternatives": [
+      "paraswap",
+      "upheaval",
+      "tradoor"
+    ],
+    "related": [
+      "cetus",
+      "hyperion",
+      "horizon-protocol"
+    ]
+  }
+}

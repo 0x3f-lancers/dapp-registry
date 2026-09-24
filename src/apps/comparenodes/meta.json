@@ -1,0 +1,38 @@
+{
+  "slug": "comparenodes",
+  "name": "CompareNodes",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/comparenodes.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Multichain",
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "CompareNodes publishes independent performance benchmarks and a directory of blockchain RPC providers.",
+    "description": "CompareNodes is an independent directory and benchmarking service for Web3 infrastructure, tracking thousands of public endpoints from over 200 providers across hundreds of protocols and measuring JSON-RPC, WebSocket and gRPC latency. Blockscout's app marketplaces for Unichain and World Chain list it.",
+    "meta": "CompareNodes benchmarks and lists RPC providers across hundreds of chains, including Unichain and World Chain.",
+    "pageTitle": "CompareNodes - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.comparenodes.com",
+    "twitter": "https://x.com/CompareNodes"
+  },
+  "relations": {
+    "alternatives": [
+      "rockx",
+      "onfinality",
+      "o7node"
+    ],
+    "related": [
+      "nownodes",
+      "helius",
+      "blockdaemon"
+    ]
+  }
+}

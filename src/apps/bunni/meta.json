@@ -1,0 +1,36 @@
+{
+  "slug": "bunni",
+  "name": "Bunni",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/bunni.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Bunni is a DEX built on Uniswap v4 that aims to maximise liquidity provider profits in all conditions.",
+    "description": "Bunni calls itself a shapeshifting exchange: a DEX built on Uniswap v4 that adjusts how liquidity is shaped and deployed to maximise liquidity provider returns across market conditions. It is one of the more ambitious uses of v4 hooks, treating the pool's curve as something that can change rather than a fixed formula. It is deployed on Unichain.",
+    "meta": "Bunni is a Uniswap v4 DEX that reshapes liquidity to maximise LP profits, deployed on Unichain.",
+    "pageTitle": "Bunni - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bunni.xyz/",
+    "twitter": "https://x.com/bunni_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "uniswap",
+      "raydium",
+      "blasterswap"
+    ],
+    "related": [
+      "dexhunter",
+      "algebra-protocol",
+      "suiswap"
+    ]
+  }
+}

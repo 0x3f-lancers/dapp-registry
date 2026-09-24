@@ -1,0 +1,36 @@
+{
+  "slug": "catex",
+  "name": "Catex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/catex.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Catex is a MetaDEX on Unichain built on Uniswap v4 with automated liquidity management.",
+    "description": "Catex is a MetaDEX on Unichain that builds on Uniswap v4 and adds automated liquidity management on top. Rather than running its own AMM from scratch, it uses v4 pools and hooks as the base layer and focuses on managing liquidity positions for users. That pattern of building on shared v4 infrastructure is characteristic of the Unichain ecosystem.",
+    "meta": "Catex is a Unichain MetaDEX built on Uniswap v4 with automated liquidity management.",
+    "pageTitle": "Catex - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.catex.fi/",
+    "twitter": "https://x.com/Catex_Fi"
+  },
+  "relations": {
+    "alternatives": [
+      "balancer",
+      "sundaeswap",
+      "veax"
+    ],
+    "related": [
+      "skate-amm",
+      "ekubo",
+      "alt-fun"
+    ]
+  }
+}

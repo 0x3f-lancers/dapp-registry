@@ -1,0 +1,36 @@
+{
+  "slug": "taceo",
+  "name": "TACEO",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/taceo.png",
+  "category": "Zero Knowledge Tools",
+  "subcategory": [
+    "ZK Developer Tools"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "TACEO adds cryptographic privacy to public blockchains, enabling confidential payments and computation.",
+    "description": "TACEO builds a privacy layer for public blockchains, using techniques such as multi-party computation and collaborative proofs so data can be computed on without being revealed. That enables confidential payments and private computation on chains that are otherwise fully transparent. World's official World Chain ecosystem directory lists it as a private execution layer.",
+    "meta": "TACEO adds cryptographic privacy to public blockchains for confidential payments, listed for World Chain.",
+    "pageTitle": "TACEO - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://taceo.io/",
+    "twitter": "https://x.com/TACEO_IO"
+  },
+  "relations": {
+    "alternatives": [
+      "ingonmaya",
+      "axiom",
+      "blockless"
+    ],
+    "related": [
+      "lagrange",
+      "risc-zero",
+      "labyrinth"
+    ]
+  }
+}

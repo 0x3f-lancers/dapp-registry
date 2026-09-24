@@ -1,0 +1,36 @@
+{
+  "slug": "lithos",
+  "name": "Lithos",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/lithos.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Lithos is Plasma's native liquidity marketplace, powered by a ve(3,3) model for stable and volatile pairs.",
+    "description": "Lithos is a native liquidity marketplace for Plasma built on the ve(3,3) design, where token holders lock for voting power and direct emissions toward the pools they want deepened. It is optimised for both stable and volatile pairs, which matters on a chain whose activity is dominated by stablecoins. The ve(3,3) model has become the standard for chain-native DEXes because it ties liquidity incentives to the protocols that need them.",
+    "meta": "Lithos is Plasma's native ve(3,3) liquidity marketplace for stable and volatile token pairs.",
+    "pageTitle": "Lithos - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lithos.to/",
+    "twitter": "https://x.com/lithos_to"
+  },
+  "relations": {
+    "alternatives": [
+      "logx",
+      "matcha",
+      "wombat-exchange"
+    ],
+    "related": [
+      "airswap",
+      "shade-protocol",
+      "position-exchange"
+    ]
+  }
+}

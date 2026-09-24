@@ -1,0 +1,36 @@
+{
+  "slug": "super-dca",
+  "name": "Super DCA",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/super-dca.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Super DCA automates dollar-cost averaging onchain, splitting purchases into regular buys over time.",
+    "description": "Super DCA automates dollar-cost averaging on-chain: a user sets an amount and a schedule, and purchases are executed in regular increments instead of one lump sum. Streaming the buys reduces exposure to a single bad entry price. It is deployed on Unichain.",
+    "meta": "Super DCA automates onchain dollar-cost averaging with scheduled purchases, deployed on Unichain.",
+    "pageTitle": "Super DCA - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://superdca.org",
+    "twitter": "https://x.com/super_dca"
+  },
+  "relations": {
+    "alternatives": [
+      "matrixnet",
+      "berabot",
+      "volboost"
+    ],
+    "related": [
+      "blockply",
+      "coinmarketman",
+      "simpleswap"
+    ]
+  }
+}

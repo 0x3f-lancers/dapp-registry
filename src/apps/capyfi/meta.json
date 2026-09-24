@@ -1,0 +1,35 @@
+{
+  "slug": "capyfi",
+  "name": "CapyFi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/capyfi.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "CapyFi is an algorithmic lending protocol where suppliers earn interest and borrowers post collateral.",
+    "description": "CapyFi is an algorithmic money market: suppliers deposit liquidity to earn interest, and borrowers take loans against collateral at rates set by pool utilisation. It began on the LAchain network and is also deployed on World Chain. Its World Chain presence also appears in Alchemy's ecosystem directory for the network.",
+    "meta": "CapyFi is an algorithmic lending protocol for supplying and borrowing crypto assets, including on World Chain.",
+    "pageTitle": "CapyFi - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://capyfi.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "compound",
+      "arkis",
+      "covenant-finance"
+    ],
+    "related": [
+      "cream-finance",
+      "notional",
+      "mutuum-finance"
+    ]
+  }
+}

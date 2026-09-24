@@ -1,0 +1,36 @@
+{
+  "slug": "blocksense",
+  "name": "Blocksense",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/blocksense.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Decentralized Oracles"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Blocksense is a verification layer powering trustless oracle services with ZK proofs.",
+    "description": "Blocksense provides verifiable services, including oracle data feeds, with trustless execution secured by zero-knowledge proofs. Plasma's official documentation lists it among the oracle providers for the chain. Proving that data was computed correctly, rather than trusting the reporting nodes, is the part that distinguishes it from older oracle designs.",
+    "meta": "Blocksense is a ZK-based verification layer powering trustless oracle feeds, listed for Plasma.",
+    "pageTitle": "Blocksense - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blocksense.network",
+    "twitter": "https://x.com/blocksense_"
+  },
+  "relations": {
+    "alternatives": [
+      "chronicle-protocol",
+      "tellor",
+      "orcfax"
+    ],
+    "related": [
+      "hyper-oracle",
+      "pyth-network",
+      "charli3"
+    ]
+  }
+}

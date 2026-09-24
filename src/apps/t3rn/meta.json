@@ -1,0 +1,36 @@
+{
+  "slug": "t3rn",
+  "name": "t3rn",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/t3rn.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "t3rn is a reversible cross-chain settlement layer: intents fill on proof or refund on failure.",
+    "description": "t3rn provides reversible settlement for cross-chain operations: a user submits an intent once, and it either fills on proof or refunds on failure, with a receipt either way. Escrowing until proof removes the case where funds get stuck halfway through a cross-chain transfer. It supports Unichain among its networks.",
+    "meta": "t3rn is a reversible cross-chain settlement layer where intents fill on proof or refund, including Unichain.",
+    "pageTitle": "t3rn - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.t3rn.io",
+    "twitter": "https://x.com/t3rn_io"
+  },
+  "relations": {
+    "alternatives": [
+      "base-bridge",
+      "eco-portal",
+      "wanchain-bridge"
+    ],
+    "related": [
+      "symbiosis",
+      "junction-exchange",
+      "valuerouter"
+    ]
+  }
+}

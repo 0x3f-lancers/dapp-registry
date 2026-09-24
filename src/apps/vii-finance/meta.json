@@ -1,0 +1,36 @@
+{
+  "slug": "vii-finance",
+  "name": "VII Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/vii-finance.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "VII Finance lets LPs borrow against Uniswap v4 positions while still earning fees and lending yield.",
+    "description": "VII Finance is a credit-based market-making protocol: liquidity providers can borrow against their Uniswap v4 positions while those positions keep earning swap fees, lending yield and UNI rewards. That unlocks capital that would otherwise sit idle inside a liquidity position. It is deployed on Unichain.",
+    "meta": "VII Finance lets LPs borrow against Uniswap v4 positions while they keep earning fees, on Unichain.",
+    "pageTitle": "VII Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.vii.finance/",
+    "twitter": "https://x.com/vii_finance"
+  },
+  "relations": {
+    "alternatives": [
+      "joule-finance",
+      "termfinance",
+      "maple-finance"
+    ],
+    "related": [
+      "hubble",
+      "horizondex",
+      "meso-finance"
+    ]
+  }
+}

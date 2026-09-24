@@ -1,0 +1,36 @@
+{
+  "slug": "otim",
+  "name": "Otim",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/otim.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "Otim gives finance platforms APIs to hold funds, earn yield and move money globally on-chain.",
+    "description": "Otim offers treasury and payment settlement infrastructure by API: platforms can hold user balances, earn programmable yield with control over attribution and liquidity, and move money between parties with predictable settlement. Stable's official ecosystem page lists Otim.",
+    "meta": "Otim provides treasury, yield and settlement APIs for finance platforms, listed in Stable's ecosystem.",
+    "pageTitle": "Otim - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://otim.com",
+    "twitter": "https://x.com/otimlabs"
+  },
+  "relations": {
+    "alternatives": [
+      "meld",
+      "superfluid",
+      "tres-finance"
+    ],
+    "related": [
+      "swapin",
+      "bridge-xyz",
+      "trustware"
+    ]
+  }
+}

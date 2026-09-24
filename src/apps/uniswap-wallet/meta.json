@@ -1,0 +1,46 @@
+{
+  "slug": "uniswap-wallet",
+  "name": "Uniswap Wallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/uniswap-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Unichain",
+    "World Chain",
+    "Arbitrum",
+    "Base",
+    "OP Mainnet",
+    "Polygon",
+    "BNB Chain",
+    "Avalanche",
+    "Celo",
+    "ZKsync"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Uniswap Wallet is Uniswap Labs' self-custody wallet for swapping and bridging across many chains.",
+    "description": "Uniswap Wallet is the self-custody wallet from Uniswap Labs, built around swapping, bridging and exploring on-chain apps across a long list of networks. Uniswap's own support documentation lists Unichain and World Chain among its supported networks. Being made by the team behind the largest DEX means swaps are the wallet's native action rather than an add-on.",
+    "meta": "Uniswap Wallet is Uniswap Labs' self-custody wallet for swapping and bridging, supporting Unichain and World Chain.",
+    "pageTitle": "Uniswap Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://wallet.uniswap.org",
+    "twitter": "https://x.com/Uniswap"
+  },
+  "relations": {
+    "alternatives": [
+      "coin-wallet",
+      "bifrost-wallet",
+      "kresus"
+    ],
+    "related": [
+      "pillar",
+      "martian-wallet",
+      "exodus"
+    ]
+  }
+}

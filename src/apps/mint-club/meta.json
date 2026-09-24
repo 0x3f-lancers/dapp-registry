@@ -1,0 +1,36 @@
+{
+  "slug": "mint-club",
+  "name": "Mint Club",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/mint-club.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Mint Club lets anyone create bonding-curve-backed tokens and NFTs using an existing ERC-20 as reserve.",
+    "description": "Mint Club is a no-code creator for tokens and NFTs backed by bonding curves, using any ERC-20 as the reserve asset so a new token has liquidity from the moment it launches. A bonding curve sets price as a function of supply, which removes the need to seed a separate liquidity pool. It supports Unichain among the networks where tokens can be launched.",
+    "meta": "Mint Club creates bonding-curve-backed tokens and NFTs with instant liquidity, including on Unichain.",
+    "pageTitle": "Mint Club - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mint.club",
+    "twitter": "https://x.com/MintClubPro"
+  },
+  "relations": {
+    "alternatives": [
+      "tokentoolbox",
+      "blockbucket",
+      "printr"
+    ],
+    "related": [
+      "uncx-network",
+      "ambisafe",
+      "pandatool"
+    ]
+  }
+}

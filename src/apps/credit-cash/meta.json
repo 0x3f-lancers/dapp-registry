@@ -1,0 +1,36 @@
+{
+  "slug": "credit-cash",
+  "name": "Credit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/credit-cash.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Credit is an undercollateralized peer-to-pool lending protocol on World Chain.",
+    "description": "Credit is an undercollateralized lending protocol on World Chain, built by Divine Research, where lenders supply USDC to a pool that funds loans. Undercollateralized lending depends on knowing something about the borrower, and World Chain's verified-human identity layer is what makes that plausible there. Most DeFi lending requires borrowers to post more collateral than they borrow, which limits it to people who already have capital.",
+    "meta": "Credit is an undercollateralized peer-to-pool USDC lending protocol on World Chain.",
+    "pageTitle": "Credit - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://credit.cash/",
+    "twitter": "https://x.com/DivineResearch"
+  },
+  "relations": {
+    "alternatives": [
+      "wildcat",
+      "scallop",
+      "benqi"
+    ],
+    "related": [
+      "init-capital",
+      "folks-finance",
+      "shade-protocol"
+    ]
+  }
+}

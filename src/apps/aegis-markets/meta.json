@@ -1,0 +1,36 @@
+{
+  "slug": "aegis-markets",
+  "name": "Aegis Markets",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/aegis-markets.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "content": {
+    "short": "Aegis builds Uniswap v4 hooks that add dynamic fees and margin-interest activity to liquidity pools.",
+    "description": "Aegis provides programmable infrastructure for Uniswap v4, using hooks to introduce dynamic fees and margin-interest activity into pools. Hooks let a pool run custom logic at points in its lifecycle, and Aegis uses that to make fees respond to market conditions rather than staying fixed. It is active on Unichain, the network Uniswap Labs built with v4 as a first-class primitive.",
+    "meta": "Aegis builds Uniswap v4 hooks adding dynamic fees and margin-interest activity to liquidity pools on Unichain.",
+    "pageTitle": "Aegis Markets - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aegis.markets/",
+    "twitter": "https://x.com/AegisMarkets"
+  },
+  "relations": {
+    "alternatives": [
+      "capricorn-exchange",
+      "tokenlon",
+      "rbx"
+    ],
+    "related": [
+      "rhinofi",
+      "raydium",
+      "dirol"
+    ]
+  }
+}

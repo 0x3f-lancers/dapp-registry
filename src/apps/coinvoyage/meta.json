@@ -1,0 +1,37 @@
+{
+  "slug": "coinvoyage",
+  "name": "CoinVoyage",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/coinvoyage.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "content": {
+    "short": "CoinVoyage lets businesses accept non-custodial crypto payments from any token on any chain.",
+    "description": "CoinVoyage is a non-custodial, cross-chain payment solution: customers pay with any token on any chain and the funds go straight to the merchant's wallet, with support for invoices and checkouts. Stable's official ecosystem page lists CoinVoyage.",
+    "meta": "CoinVoyage offers non-custodial, cross-chain crypto payments for businesses, listed on Stable.",
+    "pageTitle": "CoinVoyage - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://coinvoyage.io",
+    "twitter": "https://x.com/Coin_Voyage"
+  },
+  "relations": {
+    "alternatives": [
+      "boomfi",
+      "walapay",
+      "manteca"
+    ],
+    "related": [
+      "sphereone",
+      "beam-cash",
+      "default"
+    ]
+  }
+}
