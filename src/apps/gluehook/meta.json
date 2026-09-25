@@ -1,7 +1,7 @@
 {
   "slug": "gluehook",
   "name": "GlueHook",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/gluehook.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1999411509189898240/srS8h5o2_400x400.png",
   "category": "DeFi Tools",
   "subcategory": [
     "Dapp Templates"
@@ -13,9 +13,9 @@
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "GlueHook is a free, open-source Uniswap v4 hook automating buybacks, burns and self-compounding liquidity.",
-    "description": "GlueHook is an open-source Uniswap v4 hook that automates token buybacks, burns and self-compounding of liquidity positions, so a project's pool can manage part of its own tokenomics without a team running scripts. It is deployed on Unichain and World Chain. Hooks like this turn a liquidity pool from a passive venue into something that executes policy.",
-    "meta": "GlueHook is an open-source Uniswap v4 hook automating buybacks, burns and LP compounding on Unichain and World Chain.",
+    "short": "Free Uniswap v4 hook that runs token buybacks and auto-compounding liquidity inside trades.",
+    "description": "GlueHook gives each hooked pool its own pot, filled by a share of trading fees, project deposits and donations from anyone. The hook spends that pot on-chain as trades happen: buying back and burning tokens when price rises, absorbing sells when it falls, and reinvesting fees into deeper liquidity. It needs no oracles, keeper bots or admin keys, and the code is open source.",
+    "meta": "GlueHook is an open-source Uniswap v4 hook that runs buybacks, burns and LP auto-compounding without oracles or bots.",
     "pageTitle": "GlueHook - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

@@ -1,7 +1,7 @@
 {
   "slug": "otim",
   "name": "Otim",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/otim.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1780500165096570880/8GaPuRtH_400x400.jpg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Web3 Payment Tools"
@@ -12,9 +12,9 @@
   "tags": [],
   "pricing": "Paid",
   "content": {
-    "short": "Otim gives finance platforms APIs to hold funds, earn yield and move money globally on-chain.",
-    "description": "Otim offers treasury and payment settlement infrastructure by API: platforms can hold user balances, earn programmable yield with control over attribution and liquidity, and move money between parties with predictable settlement. Stable's official ecosystem page lists Otim.",
-    "meta": "Otim provides treasury, yield and settlement APIs for finance platforms, listed in Stable's ecosystem.",
+    "short": "API for finance platforms to hold funds, route yield and settle payments across rails.",
+    "description": "Otim gives fintechs one API to manage balances, earn programmable yield and move money. Platforms set policies once, such as limits and how yield is split with customers, and Otim runs them continuously. Payment settlement handles routing, netting, cutoffs and reconciliation, and a fiat layer connects bank accounts and transfers. It uses EIP-7702 delegation for on-chain actions.",
+    "meta": "Otim's API lets fintechs hold balances, route yield and settle payments with policy controls and EIP-7702 automation.",
     "pageTitle": "Otim - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {

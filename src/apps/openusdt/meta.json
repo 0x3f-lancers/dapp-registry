@@ -1,7 +1,7 @@
 {
   "slug": "openusdt",
   "name": "OpenUSDT",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/openusdt.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1896385771692544000/sMzAKOwk_400x400.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -9,14 +9,15 @@
   "chains": [
     "OP Mainnet",
     "Base",
-    "Unichain"
+    "Unichain",
+    "World Chain"
   ],
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "OpenUSDT brings Tether USDT across Superchain networks as one cross-chain token, oUSDT.",
-    "description": "OpenUSDT extends Tether's USDT, and gold-backed XAUt as OpenXAUt, to more chains as a single cross-chain token, so liquidity is not split between separately bridged versions. It was built together with Velodrome, Chainlink and Hyperlane for the Superchain, and Unichain is among the supported networks on its site.",
-    "meta": "OpenUSDT makes USDT a single cross-chain token (oUSDT) across Superchain networks such as Unichain.",
+    "short": "oUSDT and oXAUt bring Tether's dollar and gold tokens to many chains as one unified asset.",
+    "description": "OpenUSDT is backed 1:1 by native USDT locked on Ethereum and Celo, and moves between chains through Hyperlane with Chainlink CCIP as a security layer, so liquidity is not split across different bridged versions. oUSDT is live on chains such as Base, Optimism, Unichain, Mode and Soneium, and oXAUt carries Tether Gold to World Chain and Avalanche. It was built with Velodrome, Chainlink and Hyperlane.",
+    "meta": "OpenUSDT carries USDT and gold-backed XAUt across chains like Unichain and World Chain as one 1:1-backed token.",
     "pageTitle": "OpenUSDT - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

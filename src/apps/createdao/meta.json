@@ -1,7 +1,7 @@
 {
   "slug": "createdao",
   "name": "CreateDAO",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/createdao.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1878818626826031104/k2iYvGqd_400x400.jpg",
   "category": "DAO Tools",
   "subcategory": [
     "DAO Developer Tools"
@@ -13,9 +13,9 @@
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "CreateDAO deploys a complete DAO, with token, treasury and governor, in a single transaction.",
-    "description": "CreateDAO lets anyone deploy a full governance system, including a token, treasury and OpenZeppelin-based governor, in one transaction with no platform fee, using gas-efficient contract clones and auto-delegation. It runs a mini app inside World App, listed in World's ecosystem directory.",
-    "meta": "CreateDAO deploys a full DAO (token, treasury, governor) in one transaction, with a World App mini app.",
+    "short": "Deploys a full DAO, with token, treasury and governor, in one transaction for gas only.",
+    "description": "CreateDAO turns setting up a DAO into a single call. One transaction deploys an ERC20Votes token, a timelocked treasury and an OpenZeppelin governor, using minimal proxy clones that cut gas costs by around 90%. The creator gets 1% of the supply and the treasury 99%, unlocked only by votes, and holders are delegated automatically so they can vote at once. There are no platform fees.",
+    "meta": "Launch a DAO with token, treasury and governor in one transaction on CreateDAO, with auto-delegation and no platform fee.",
     "pageTitle": "CreateDAO - DAO Tools - Lancers Web3 Explorer"
   },
   "links": {

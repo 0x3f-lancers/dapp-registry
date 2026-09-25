@@ -1,7 +1,7 @@
 {
   "slug": "super-dca",
   "name": "Super DCA",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/super-dca.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1990182659767623680/z_uuvYCN_400x400.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Trading Tools"
@@ -12,9 +12,9 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "Super DCA automates dollar-cost averaging onchain, splitting purchases into regular buys over time.",
-    "description": "Super DCA automates dollar-cost averaging on-chain: a user sets an amount and a schedule, and purchases are executed in regular increments instead of one lump sum. Streaming the buys reduces exposure to a single bad entry price. It is deployed on Unichain.",
-    "meta": "Super DCA automates onchain dollar-cost averaging with scheduled purchases, deployed on Unichain.",
+    "short": "Dollar-cost averaging that streams your USDC into tokens with no swap fees and pays you rewards.",
+    "description": "Super DCA turns USDC into Super USDC and streams it into a chosen token at a monthly rate, so buying happens continuously instead of in lump sums. Instead of paying swap fees, users earn a 0.5% reward on every USDC spent, paid every two weeks, and Chainlink price feeds let anyone check the price impact of each trade. It runs as a Uniswap v4 hook and has received grants from Optimism and a Unichain retro grant from the Uniswap Foundation.",
+    "meta": "Stream USDC into any token with Super DCA's Uniswap v4 hook, paying no swap fees and earning 0.5% back.",
     "pageTitle": "Super DCA - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {

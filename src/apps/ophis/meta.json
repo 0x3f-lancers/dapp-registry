@@ -1,7 +1,7 @@
 {
   "slug": "ophis",
   "name": "Ophis",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/ophis.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2100317473803251712/T0AczSk7_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -13,9 +13,9 @@
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Ophis is an intent-based DEX aggregator for MEV-protected swaps of stablecoins and tokenized assets.",
-    "description": "Ophis is an intent-based DEX aggregator: users sign what they want to trade and competing solvers fill the order through batch auctions, which protects swaps from MEV. It focuses on stablecoins and tokenized assets, and can be used from a wallet or integrated through its API, SDK and MCP server. Its site lists Unichain and Robinhood Chain among supported networks.",
-    "meta": "Ophis is an intent-based, MEV-protected DEX aggregator for stablecoins and tokenized assets on Unichain.",
+    "short": "Intent-based DEX aggregator with MEV-protected swaps across 20+ chains.",
+    "description": "On Ophis, users sign the trade they want and solvers compete in a batch auction to fill it, with liquidity drawn from Uniswap, Curve, SushiSwap and others, which protects the swap from sandwich attacks. It covers more than 20 networks including Ethereum, Solana, Bitcoin, Unichain, Plasma and Robinhood Chain. Developers and AI agents can integrate it through an SDK, API or MCP server and keep their own fee.",
+    "meta": "Swap with MEV protection on Ophis, where solvers compete to fill your signed intent across 20+ chains.",
     "pageTitle": "Ophis - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

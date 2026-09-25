@@ -1,7 +1,7 @@
 {
   "slug": "aori",
   "name": "Aori",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/aori.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1626113164621524992/mv8FzKvj_400x400.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -13,9 +13,9 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "Aori is a universal intent settlement protocol for cross-chain execution.",
-    "description": "Aori is an intent settlement protocol: users state the outcome they want and solvers compete to deliver it, with Aori settling the result across chains. Both Plasma's and Stable's official documentation list it among cross-chain and bridge options. Intent-based settlement hands routing complexity to solvers rather than the user.",
-    "meta": "Aori is a universal intent settlement protocol for cross-chain execution, supporting Plasma and Stable.",
+    "short": "Intent settlement protocol where solvers compete to fill trades, settled atomically across chains.",
+    "description": "Aori moves order matching off-chain for speed and keeps settlement on-chain. Traders sign orders instead of sending transactions, so placing and cancelling is gasless. Solvers and market makers then compete for each order, and the fill settles in one MEV-protected transaction with no slippage beyond the signed price. Developers get a single interface to liquidity on many chains rather than a separate integration for each.",
+    "meta": "Aori matches signed, gasless orders off-chain and settles them atomically on-chain, with solvers competing for the best price.",
     "pageTitle": "Aori - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

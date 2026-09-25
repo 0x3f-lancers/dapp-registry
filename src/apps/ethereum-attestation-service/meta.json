@@ -1,0 +1,41 @@
+{
+  "slug": "ethereum-attestation-service",
+  "name": "Ethereum Attestation Service",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1593335725751083008/0XMyDyLq_400x400.png",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Web3 Credential Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "OP Mainnet",
+    "Arbitrum",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Open standard for signing structured claims about anything, on-chain or off-chain.",
+    "description": "EAS lets anyone register a schema, such as an AI evaluation result or a proof of membership, and sign attestations against it that others can verify. Attestations can be published on-chain or kept privately and checked on demand, with no API keys or fees beyond gas. More than 9.5 million attestations have been made by 450,000 attesters, and the contracts are deployed on many networks, including Unichain.",
+    "meta": "EAS is a free, open standard for signing verifiable attestations, with 9.5M+ made and contracts live on Unichain.",
+    "pageTitle": "Ethereum Attestation Service - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://attest.org",
+    "github": "https://github.com/ethereum-attestation-service",
+    "twitter": "https://x.com/eas_eth"
+  },
+  "relations": {
+    "alternatives": [
+      "tide-protocol",
+      "degenscore",
+      "fractal-id"
+    ],
+    "related": [
+      "talent-protocol",
+      "incred",
+      "port3-network"
+    ]
+  }
+}

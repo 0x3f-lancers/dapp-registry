@@ -1,7 +1,7 @@
 {
   "slug": "credit-cash",
   "name": "Credit",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/credit-cash.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1971678759813369857/-oeZMcdv_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -12,9 +12,9 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "Credit is an undercollateralized peer-to-pool lending protocol on World Chain.",
-    "description": "Credit is an undercollateralized lending protocol on World Chain, built by Divine Research, where lenders supply USDC to a pool that funds loans. Undercollateralized lending depends on knowing something about the borrower, and World Chain's verified-human identity layer is what makes that plausible there. Most DeFi lending requires borrowers to post more collateral than they borrow, which limits it to people who already have capital.",
-    "meta": "Credit is an undercollateralized peer-to-pool USDC lending protocol on World Chain.",
+    "short": "Unsecured lending protocol by Divine Research where lenders fund loans with no collateral.",
+    "description": "Credit lends to people without asking for collateral. Lenders supply USDC to a vault, and the pool funds small unsecured loans, relying on World ID's proof of unique personhood to stop one person borrowing many times. The contracts are audited by Zellic, but returns are variable and lenders can lose deposits if borrowers default. It is developed by Divine Research on World Chain.",
+    "meta": "Supply USDC to Credit's vault to fund unsecured loans on World Chain, where World ID stops one person borrowing twice.",
     "pageTitle": "Credit - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

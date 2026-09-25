@@ -1,7 +1,7 @@
 {
   "slug": "brid-gg",
   "name": "Brid.gg",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/brid-gg.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1791223486221824000/kEd06zXl_400x400.png",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -13,9 +13,9 @@
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Brid.gg bridges assets between Ethereum and chains in the Optimism Superchain.",
-    "description": "Brid.gg is a bridge interface for moving assets between Ethereum mainnet and OP Chains in the Superchain, using each chain's standard bridge. Both Unichain's and World Chain's official documentation list it among bridge options, since both are OP Stack chains. Standard-bridge interfaces trade speed for the security of the chain's native bridge contracts.",
-    "meta": "Brid.gg bridges assets between Ethereum and Superchain OP Chains, including Unichain and World Chain.",
+    "short": "Bridge portal for moving assets between Ethereum and the OP Stack chains of the Superchain.",
+    "description": "Brid.gg started as a front end for the official bridges of OP Stack chains, letting users send assets from Ethereum to networks such as Unichain and World Chain without hunting for each chain's own portal. Transfers are now routed through LI.FI, so users can pick any supported source and destination chain and token from one screen.",
+    "meta": "Move assets between Ethereum and Superchain networks like Unichain and World Chain from one bridge screen, routed by LI.FI.",
     "pageTitle": "Brid.gg - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

@@ -1,7 +1,7 @@
 {
   "slug": "aegis-markets",
   "name": "Aegis Markets",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/aegis-markets.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1919866302887288832/_ZQ-Dnkb_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,9 +12,9 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "Aegis builds Uniswap v4 hooks that add dynamic fees and margin-interest activity to liquidity pools.",
-    "description": "Aegis provides programmable infrastructure for Uniswap v4, using hooks to introduce dynamic fees and margin-interest activity into pools. Hooks let a pool run custom logic at points in its lifecycle, and Aegis uses that to make fees respond to market conditions rather than staying fixed. It is active on Unichain, the network Uniswap Labs built with v4 as a first-class primitive.",
-    "meta": "Aegis builds Uniswap v4 hooks adding dynamic fees and margin-interest activity to liquidity pools on Unichain.",
+    "short": "Uniswap v4 hook whose pool fees rise automatically when volatility spikes, plus pools that double as lending markets.",
+    "description": "Aegis came out of the Uniswap Foundation's Hook Design Lab. Its Dynamic Fee Manager lets liquidity providers earn a swap fee that climbs when markets turn volatile, which is when LPs lose most to informed traders. A second product, the Liquidity Engine, turns a pool into a lending market, so LPs collect lending interest on top of swap fees and others can borrow against the pool. Its pools hold around $6 million in liquidity.",
+    "meta": "Aegis builds Uniswap v4 hooks with volatility-based dynamic fees and pools that also act as lending markets.",
     "pageTitle": "Aegis Markets - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

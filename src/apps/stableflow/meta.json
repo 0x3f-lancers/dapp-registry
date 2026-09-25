@@ -1,20 +1,21 @@
 {
   "slug": "stableflow",
   "name": "StableFlow",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/stableflow.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1975136542835224576/cXCE5Ndm_400x400.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
   ],
   "chains": [
-    "Stable"
+    "Stable",
+    "Plasma"
   ],
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "StableFlow moves stablecoins between chains at scale with fast, low-cost transfers.",
-    "description": "StableFlow is a cross-chain transfer app built specifically for stablecoins, letting users pick a source and destination chain and move funds at scale with competitive pricing. Stable's official ecosystem page lists StableFlow.",
-    "meta": "StableFlow moves stablecoins across chains quickly and cheaply, listed in Stable's ecosystem.",
+    "short": "Cross-chain transfer app built for moving large amounts of stablecoins quickly.",
+    "description": "StableFlow is designed for one job: moving stablecoins between chains at size. Users pick a source chain, a destination and an amount, compare the price with alternatives, and send, with the service built to handle large transfers without heavy slippage. It is one of the transfer routes available for bringing stablecoins onto Stable.",
+    "meta": "Move large amounts of stablecoins between chains quickly and at a competitive price with StableFlow.",
     "pageTitle": "StableFlow - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

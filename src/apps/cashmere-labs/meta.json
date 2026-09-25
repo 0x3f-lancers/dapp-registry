@@ -1,0 +1,37 @@
+{
+  "slug": "cashmere-labs",
+  "name": "Cashmere",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2011016394050060288/woFx8M5-_400x400.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "content": {
+    "short": "Cross-chain USDC transfers and swaps built on Circle's native burn-and-mint rails.",
+    "description": "Cashmere, incubated by Binance Labs, moves USDC between chains using Circle's Cross-Chain Transfer Protocol, so funds are burned on one network and minted natively on another rather than wrapped. It now describes itself as autonomous monetary infrastructure and is a 2026 Circle grantee. Its contracts are active on networks including Unichain and World Chain.",
+    "meta": "Move USDC natively between chains with Cashmere, built on Circle's CCTP and incubated by Binance Labs.",
+    "pageTitle": "Cashmere - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cashmere.exchange",
+    "twitter": "https://x.com/CashmereLabs"
+  },
+  "relations": {
+    "alternatives": [
+      "messinaone-bridge",
+      "zk-link",
+      "squid-router"
+    ],
+    "related": [
+      "helixbox",
+      "squid",
+      "usdt0"
+    ]
+  }
+}

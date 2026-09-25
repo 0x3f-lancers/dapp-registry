@@ -1,7 +1,7 @@
 {
   "slug": "openlaunch",
   "name": "Openlaunch",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/openlaunch.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2084199537489723392/1z4If7Af_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,9 +12,9 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "Openlaunch is a permissionless DEX and safety-first launchpad with locked liquidity and no admin backdoors.",
-    "description": "Openlaunch combines a permissionless DEX with a launchpad built around transparency: no hidden mints, no admin backdoors, and liquidity locked permanently and verifiably. Those are exactly the mechanisms most token launch scams rely on, so ruling them out at the contract level is the point. It operates on Stable.",
-    "meta": "Openlaunch is a permissionless DEX and safety-first launchpad with permanently locked liquidity, on Stable.",
+    "short": "Token launchpad and DEX where anti-rug rules are enforced by the contracts themselves.",
+    "description": "Openlaunch lets anyone launch a token and trade it on real Uniswap v2 and v3 pools, but its contracts rule out the usual scams. Once a token is live nobody can mint more, pause trading or blacklist wallets, and it cannot launch until liquidity is burned or locked with a public unlock date. Names that imitate USDC, USDT or Circle are rejected on-chain. It is live on Stable, with Arc coming.",
+    "meta": "Launch and trade tokens on Openlaunch, where no-mint, locked-liquidity and anti-impersonation rules are enforced on-chain.",
     "pageTitle": "Openlaunch - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

@@ -1,7 +1,7 @@
 {
   "slug": "optimum",
   "name": "Optimum",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/optimum.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2041555783922675712/Y-FMRQHf_400x400.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Web3 Data Tools"
@@ -13,9 +13,9 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "Optimum is a data acceleration network that speeds up how blockchains propagate data.",
-    "description": "Optimum builds a universal data acceleration network for blockchains, using coding techniques to propagate blocks and data faster and more efficiently. It is working with Ethereum validators, reporting tens of billions of dollars of stake connected to its testnet. Stable's official ecosystem page lists Optimum.",
-    "meta": "Optimum is a data acceleration network for faster blockchain propagation, listed in Stable's ecosystem.",
+    "short": "Network that speeds up how blocks and data spread between blockchain nodes.",
+    "description": "Optimum uses random linear network coding (RLNC) to replace the redundant gossip most blockchains use to pass blocks around. It reports 6 to 20 times faster block and blob delivery and 90 to 95% less bandwidth, without any change to a chain's consensus rules. It is working with Ethereum validators first, with 40 testnet partners and $24 billion of staked ETH connected.",
+    "meta": "Optimum speeds up block propagation 6 to 20x and cuts validator bandwidth by up to 95% using network coding.",
     "pageTitle": "Optimum - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {

@@ -1,7 +1,7 @@
 {
   "slug": "reth",
   "name": "Reth",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/reth.png",
+  "logoUrl": "https://reth.rs/logo.png",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Execution Clients"
@@ -13,9 +13,9 @@
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Reth is a secure, performant and modular blockchain SDK and node written in Rust.",
-    "description": "Reth is a Rust implementation of an Ethereum execution client, built by Paradigm as a modular SDK so teams can assemble custom nodes from its components. That modularity is why several L2s build their node software on it. World's official World Chain ecosystem directory lists Reth among the infrastructure the chain builds on. Client diversity matters for any network, since a bug in a single dominant client can halt the whole chain.",
-    "meta": "Reth is a modular Rust blockchain SDK and execution client, used in the World Chain ecosystem.",
+    "short": "Paradigm's Rust Ethereum execution client and modular SDK for building custom nodes.",
+    "description": "Reth is an open-source Ethereum execution client written in Rust by Paradigm, used both to run production nodes and as a library for building new chains. Its components, from networking and the transaction pool to the EVM and RPC, can be reused on their own, and execution extensions let developers add indexing or rollup logic inside the node. It has over 580 contributors, and several OP Stack chains, World Chain among them, build on it.",
+    "meta": "Reth is Paradigm's Rust Ethereum execution client and SDK, used to run nodes and build chains like World Chain.",
     "pageTitle": "Reth - Infrastructure Tools - Lancers Web3 Explorer"
   },
   "links": {

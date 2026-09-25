@@ -1,7 +1,7 @@
 {
   "slug": "gassss",
   "name": "GASSSS",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/gassss.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2005706357216010243/mc0V4pQW_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,9 +12,9 @@
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "GASSSS is a gas-sponsored execution protocol letting users interact with DeFi without paying gas upfront.",
-    "description": "GASSSS sponsors gas so users can interact with DeFi protocols without first holding a native token to pay fees, building on EIP-7702 account behaviour. On Stable it runs a sponsored stable swap. The first-transaction problem, where a new user has assets but no gas, is one of the more persistent onboarding frictions, and sponsorship is one of the cleaner fixes.",
-    "meta": "GASSSS is a gas-sponsored execution protocol for DeFi without upfront gas fees, running on Stable.",
+    "short": "Gas-sponsored swap on Stable so users can trade without holding the gas token first.",
+    "description": "GASSSS removes the need to hold gas before your first transaction. Using EIP-7702-style account features, it sponsors fees for swaps between Stable-native assets such as USDT0 and STABLE, so a new user with stablecoins can trade straight away. Sponsorship currently works with supported wallets, starting with Bitget Wallet.",
+    "meta": "Swap USDT0 and other Stable assets without holding gas, as GASSSS sponsors the fee through EIP-7702 accounts.",
     "pageTitle": "GASSSS - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

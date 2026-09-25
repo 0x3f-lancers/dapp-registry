@@ -1,7 +1,7 @@
 {
   "slug": "bunni",
   "name": "Bunni",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/bunni.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1884669497677647872/t_i4-ppl_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,9 +12,9 @@
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Bunni is a DEX built on Uniswap v4 that aims to maximise liquidity provider profits in all conditions.",
-    "description": "Bunni calls itself a shapeshifting exchange: a DEX built on Uniswap v4 that adjusts how liquidity is shaped and deployed to maximise liquidity provider returns across market conditions. It is one of the more ambitious uses of v4 hooks, treating the pool's curve as something that can change rather than a fixed formula. It is deployed on Unichain.",
-    "meta": "Bunni is a Uniswap v4 DEX that reshapes liquidity to maximise LP profits, deployed on Unichain.",
+    "short": "Uniswap v4 DEX whose liquidity changes shape and moves on its own as markets shift.",
+    "description": "Bunni lets liquidity providers program how their liquidity is spread across prices and when it should move, so a stablecoin position can, for example, shift away from the peg to buy a depeg. Idle liquidity is lent out on platforms such as Aave and Gearbox for extra yield, while an auction-managed AMM and surge fees reduce losses to MEV and arbitrage. The app was hit by a security exploit on 2 September 2025, and the team has published its analysis.",
+    "meta": "Bunni's shapeshifting liquidity on Uniswap v4 moves with the market, lends idle funds and uses surge fees to cut LP losses.",
     "pageTitle": "Bunni - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

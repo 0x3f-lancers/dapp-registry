@@ -1,20 +1,21 @@
 {
   "slug": "springx",
   "name": "SpringX",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/springx.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/1967510696138264576/n8ng2Qjx_400x400.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
   ],
   "chains": [
-    "Plasma"
+    "Plasma",
+    "Monad"
   ],
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "SpringX is a gateway to Plasma DeFi, generating yield through automated liquidity management.",
-    "description": "SpringX presents itself as a gateway to the Plasma DeFi ecosystem, generating yield for depositors through automated liquidity management. It manages liquidity positions on the user's behalf rather than leaving range selection and rebalancing to them. It is built specifically for Plasma.",
-    "meta": "SpringX is a gateway to Plasma DeFi, generating yield through automated liquidity management.",
+    "short": "Yield aggregator that manages liquidity automatically on Plasma and Monad.",
+    "description": "SpringX deposits users' stablecoins, such as USDT0, USDe and USDai, into liquidity and lending strategies and rebalances them automatically so depositors earn trading fees and rewards without managing positions. There are no performance fees and withdrawals are free at any time. It is audited by Shieldify and started on Plasma before expanding to Monad.",
+    "meta": "SpringX auto-manages stablecoin liquidity on Plasma and Monad for fees and rewards, with no performance fee.",
     "pageTitle": "SpringX - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

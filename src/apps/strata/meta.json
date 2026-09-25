@@ -1,7 +1,7 @@
 {
   "slug": "strata",
   "name": "Strata",
-  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/web3-explorer/dapp-logos/strata.png",
+  "logoUrl": "https://pbs.twimg.com/profile_images/2019011893847883776/TnRif0zU_400x400.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -13,9 +13,9 @@
   "tags": [],
   "pricing": "",
   "content": {
-    "short": "Strata is a risk-tranching protocol offering senior and junior yield tranches, starting with USDe.",
-    "description": "Strata is a generalized risk-tranching protocol that splits on-chain and off-chain yield strategies into tranches with different risk and reward. Its first products are Senior USDe (srUSDe), which takes a steadier yield, and Junior USDe (jrUSDe), which takes more risk for a higher one. Plasma's official ecosystem directory lists Strata.",
-    "meta": "Strata splits yield into senior and junior risk tranches, starting with USDe, listed in the Plasma ecosystem.",
+    "short": "Splits yield into a protected senior tranche and a leveraged junior tranche, starting with USDe.",
+    "description": "Strata divides the return from a yield source into two tokens. The senior tranche, srUSDe, is an overcollateralized synthetic dollar with a minimum yield and protection against strategy losses. The junior tranche, jrUSDe, takes first loss in exchange for leveraged upside, acting as a market-priced insurance fund. The first products are built on Ethena's USDe, with more strategies planned.",
+    "meta": "Strata tranches USDe yield into protected senior srUSDe and higher-return junior jrUSDe that absorbs first loss.",
     "pageTitle": "Strata - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
