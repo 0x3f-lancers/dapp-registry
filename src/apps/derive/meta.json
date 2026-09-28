@@ -31,5 +31,21 @@
       "altura-trade",
       "arrakis-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Read the Derive Options Chain",
+      "tldr": "Walks through the options chain so readers can compare strikes, expiries and quotes before opening an options position.",
+      "url": "https://insights.derive.xyz/01-how-to-read-the-derive-options-chain/",
+      "source": "Derive Insights",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How to Roll an Options Position on Derive",
+      "tldr": "Shows how to move an expiring options position to a new strike or expiry while understanding the cost of the roll.",
+      "url": "https://insights.derive.xyz/how-to-roll-an-options-position-on-derive/",
+      "source": "Derive Insights",
+      "tag": "Tutorial"
+    }
+  ]
 }

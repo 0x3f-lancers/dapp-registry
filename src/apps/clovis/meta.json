@@ -32,5 +32,21 @@
       "d2-finance",
       "equilibria"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing Clovis",
+      "tldr": "Explains the cross-chain clearing, execution and settlement model behind Clovis for DeFi transactions.",
+      "url": "https://www.clovis.network/blog/introducing-clovis",
+      "source": "Clovis",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Why DeFi Liquidity Is Fragmented",
+      "tldr": "Explains how liquidity split across hundreds of chains creates uneven rates and why Clovis uses cross-chain clearing.",
+      "url": "https://www.clovis.network/blog/clovis-defi-liquidity-fragmentation-cross-chain",
+      "source": "Clovis",
+      "tag": "DeFi"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "veda",
       "0x"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Validator Services",
+      "tldr": "Explains the validator service commands available through Silk Nodes.",
+      "url": "https://docs.silknodes.io/validator-tools-guide/commands/validator-services.md",
+      "source": "Silk Nodes",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Validator Alerts",
+      "tldr": "Shows how to receive validator status alerts through Discord.",
+      "url": "https://docs.silknodes.io/validator-tools-guide/commands/validator-alerts.md",
+      "source": "Silk Nodes",
+      "tag": "Explainer"
+    }
+  ]
 }

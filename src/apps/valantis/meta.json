@@ -32,5 +32,21 @@
       "altura-trade",
       "arrakis-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Prime Architecture",
+      "tldr": "Explains the accounts, connectors, actions, and access roles in Valantis Prime.",
+      "url": "https://docs.valantis.xyz/prime/developers/architecture.md",
+      "source": "Valantis",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Staking Discounts Risk Matrix",
+      "tldr": "Compares staking discount permissions across operating states and risk controls.",
+      "url": "https://docs.valantis.xyz/prime/developers/staking-discounts-risk-matrix.md",
+      "source": "Valantis",
+      "tag": "Security"
+    }
+  ]
 }

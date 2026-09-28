@@ -32,5 +32,21 @@
       "hyperdash",
       "hypersignals"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading Bots Quickstart",
+      "tldr": "Introduces DextraBot’s trading bots and the steps to start automated trading.",
+      "url": "https://docs.dextrabot.com/dextrabot/quickstart.md",
+      "source": "Dextrabot",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Polymarket Liquidity Pool Farming Bot",
+      "tldr": "Explains how the Polymarket liquidity pool farming bot operates.",
+      "url": "https://docs.dextrabot.com/dextrabot/polymarket-bots/polymarket-liquidity-pool-farming-bot.md",
+      "source": "Dextrabot",
+      "tag": "Explainer"
+    }
+  ]
 }

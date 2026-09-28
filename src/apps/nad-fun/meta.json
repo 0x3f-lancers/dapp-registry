@@ -32,5 +32,21 @@
       "brownfi",
       "capricorn-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Nad.fun User Guide",
+      "tldr": "Explains token creation, bonding curve trading, graduation, and liquidity on the Monad launchpad.",
+      "url": "https://nad-fun.gitbook.io/nad.fun/getting-started/user-guide.md",
+      "source": "Nad.fun",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Nad.fun Customizable Fees",
+      "tldr": "Explains how token creators can route trading fees to supported fee vaults.",
+      "url": "https://nad-fun.gitbook.io/nad.fun/features/customizable-fees.md",
+      "source": "Nad.fun",
+      "tag": "Explainer"
+    }
+  ]
 }

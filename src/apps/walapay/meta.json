@@ -32,5 +32,21 @@
       "chainrails",
       "checker-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Introduces WalaPay’s payment platform and how to begin using its API.",
+      "url": "https://docs.walapay.io/docs/introduction.md",
+      "source": "Walapay",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Countries & Rails",
+      "tldr": "Lists supported countries and payment rails for WalaPay integrations.",
+      "url": "https://docs.walapay.io/docs/countries-and-rails.md",
+      "source": "Walapay",
+      "tag": "Explainer"
+    }
+  ]
 }

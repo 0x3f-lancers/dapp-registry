@@ -32,5 +32,21 @@
       "bubblemaps",
       "chainlink"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tokenized Gold Explained",
+      "tldr": "Introduces how gold ownership can be represented onchain and what holders should check about backing and redemption.",
+      "url": "https://strato.nexus/blog/what-is-tokenized-gold-a-plain-english-guide",
+      "source": "STRATO",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Bridging Tokenized Silver to Ethereum",
+      "tldr": "Explains how SILVST represents physical silver and how holders can bridge the token to trade on Ethereum.",
+      "url": "https://strato.nexus/blog/silvst-on-ethereum",
+      "source": "STRATO",
+      "tag": "Explainer"
+    }
+  ]
 }

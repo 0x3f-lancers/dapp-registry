@@ -32,5 +32,21 @@
       "calm-treasury",
       "coindisco"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blink Wallet's Updated Send and Receive Flows",
+      "tldr": "Walks through sending sats by phone number and receiving through Lightning or onchain addresses in Blink.",
+      "url": "https://www.blink.sv/blog/blink-wallet-just-got-better",
+      "source": "Blink",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Non Custodial Accounts in Blink Wallet",
+      "tldr": "Explains Blink's self custody account option, key control and backup responsibilities for users.",
+      "url": "https://www.blink.sv/blog/non-custodial-accounts-in-blink-wallet",
+      "source": "Blink",
+      "tag": "Security"
+    }
+  ]
 }

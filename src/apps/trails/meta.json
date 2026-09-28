@@ -32,5 +32,21 @@
       "chainrails",
       "checker-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Trails One Click Intents Work",
+      "tldr": "Explains Trails' intent addresses, cross-chain transaction routing and user controlled execution.",
+      "url": "https://trails.build/blog/introducing-trails-the-universal-intents-platform-for-1-click-crypto-transactions",
+      "source": "Trails",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Cross Chain USDC With Trails and Circle CCTP",
+      "tldr": "Shows how Trails combines one click intent execution with Circle CCTP for cross-chain USDC transfers.",
+      "url": "https://trails.build/blog/trails-integrates-circle-cctp-for-1-click-cross-chain-usdc-transactions",
+      "source": "Trails",
+      "tag": "Explainer"
+    }
+  ]
 }

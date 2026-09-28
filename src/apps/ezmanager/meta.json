@@ -32,5 +32,21 @@
       "clovis",
       "d2-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Open an EZManager Position",
+      "tldr": "Guides users through choosing a pool, connecting a wallet, and opening a concentrated liquidity position.",
+      "url": "https://docs.ezmanager.finance/open-position/",
+      "source": "EZManager",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "EZManager Automation Guide",
+      "tldr": "Explains the available controls for automating and managing a liquidity position.",
+      "url": "https://docs.ezmanager.finance/interactive-automation-guide/",
+      "source": "EZManager",
+      "tag": "Tutorial"
+    }
+  ]
 }

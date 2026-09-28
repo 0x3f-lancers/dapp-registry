@@ -32,5 +32,21 @@
       "parallel-protocol",
       "timeswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "USH",
+      "tldr": "Introduces USH, Hyperstable’s stablecoin, and its intended role in the protocol.",
+      "url": "https://hyperstable.gitbook.io/docs/protocol/ush.md",
+      "source": "Hyperstable",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Liquidations",
+      "tldr": "Explains how a Hyperstable loan can be liquidated and repaid with USH.",
+      "url": "https://hyperstable.gitbook.io/docs/protocol/liquidations.md",
+      "source": "Hyperstable",
+      "tag": "Explainer"
+    }
+  ]
 }

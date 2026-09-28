@@ -32,5 +32,21 @@
       "brownfi",
       "capricorn-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Nordstern Routes Swaps",
+      "tldr": "Explains how Nordstern queries liquidity sources, simulates paths, and returns a plan for onchain execution.",
+      "url": "https://docs.nordstern.finance/how-it-works",
+      "source": "Nordstern",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Nordstern Quick Start",
+      "tldr": "Shows developers how to request a swap route and execute a trade using the aggregator API.",
+      "url": "https://docs.nordstern.finance/quick-start",
+      "source": "Nordstern",
+      "tag": "Tutorial"
+    }
+  ]
 }

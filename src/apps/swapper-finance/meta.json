@@ -32,5 +32,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Connecting Payment Systems With DeFi",
+      "tldr": "Explains the steps Swapper uses to bridge familiar payment methods and onchain DeFi activity.",
+      "url": "https://blog.swapper.finance/how-swapper-connects-payment-systems-with-defi/",
+      "source": "Swapper Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "The Access Stack for Onchain Apps",
+      "tldr": "Explains why wallets, onramps and bridges need to work as one onboarding flow rather than isolated links.",
+      "url": "https://blog.swapper.finance/the-access-stack-for-onchain-apps/",
+      "source": "Swapper Finance",
+      "tag": "Infrastructure"
+    }
+  ]
 }

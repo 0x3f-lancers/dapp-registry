@@ -32,5 +32,21 @@
       "btc-direct",
       "coindisco"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Shows developers how to add the Calm onramp to a Hyperliquid app with a React component.",
+      "url": "https://docs.calmtreasury.xyz/introduction.md",
+      "source": "Calm",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Overview",
+      "tldr": "Explains how to configure and embed Calm’s React onramp in an application.",
+      "url": "https://docs.calmtreasury.xyz/sdk/react.md",
+      "source": "Calm",
+      "tag": "Explainer"
+    }
+  ]
 }

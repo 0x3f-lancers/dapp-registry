@@ -33,5 +33,21 @@
       "bitget",
       "bybit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Webot Grid Trading Bots Work",
+      "tldr": "Explains how to create a grid trading bot, choose a pair, and allocate assets in Webot.",
+      "url": "https://blog.webot.com/2023/10/19/grid-trading-bot/",
+      "source": "Webot",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Adding Funds to a Running Grid Bot",
+      "tldr": "Shows how to add investment to a Webot grid bot that is already running.",
+      "url": "https://blog.webot.com/2025/12/18/how-do-i-add-funds-to-the-running-grid-bot-us/",
+      "source": "Webot",
+      "tag": "Tutorial"
+    }
+  ]
 }

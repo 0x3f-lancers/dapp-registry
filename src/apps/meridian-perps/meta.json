@@ -32,5 +32,21 @@
       "ample-money",
       "arcadia-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Meridian Perpetual Futures",
+      "tldr": "Introduces Meridian's perpetual futures markets, trading concepts, and position mechanics.",
+      "url": "https://docs.meridian.xyz/trading/perpetual-futures",
+      "source": "Meridian",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How the Meridian Exchange Works",
+      "tldr": "Explains the exchange architecture behind Meridian's perpetual futures trading.",
+      "url": "https://docs.meridian.xyz/trading/perpetual-futures/exchange-architecture",
+      "source": "Meridian",
+      "tag": "Explainer"
+    }
+  ]
 }

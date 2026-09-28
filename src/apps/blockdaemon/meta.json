@@ -34,5 +34,21 @@
       "getblock",
       "quicknode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lessons From a Solana Validator Outage",
+      "tldr": "Blockdaemon reviews what a Solana outage taught its validator team about network resilience and operational response.",
+      "url": "https://www.blockdaemon.com/blog/3-lessons-we-learned-from-solanas-outage-as-a-validator",
+      "source": "Blockdaemon",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Problems With Institutional Cold Wallets",
+      "tldr": "Explains the operational cost and complexity institutions face when they rely on cold wallets for digital asset custody.",
+      "url": "https://www.blockdaemon.com/blog/5-problems-with-institutional-cold-wallets",
+      "source": "Blockdaemon",
+      "tag": "Security"
+    }
+  ]
 }

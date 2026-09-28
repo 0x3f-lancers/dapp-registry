@@ -32,5 +32,21 @@
       "hyperithm",
       "k3-capital"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How AlphaPing Works",
+      "tldr": "Explains AlphaPing's approach to accessing real world asset strategies and the steps in its user flow.",
+      "url": "https://alphaping.ch/how-it-works",
+      "source": "AlphaPing",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Accounting for Losses in Real World Assets",
+      "tldr": "Discusses how investment losses are recognized and treated in onchain real world asset products.",
+      "url": "https://alphaping.ch/accounting-loss-treatment",
+      "source": "AlphaPing",
+      "tag": "Research"
+    }
+  ]
 }

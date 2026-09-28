@@ -32,5 +32,21 @@
       "hyperbeat",
       "ipor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Altura Vault Working",
+      "tldr": "Explains how the Altura vault combines multiple trading strategies behind one deposit.",
+      "url": "https://docs.altura.trade/howitworks.md",
+      "source": "Altura",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Strategies",
+      "tldr": "Introduces Altura’s market making, funding arbitrage, and real world asset strategy framework.",
+      "url": "https://docs.altura.trade/strategies.md",
+      "source": "Altura",
+      "tag": "Explainer"
+    }
+  ]
 }

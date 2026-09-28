@@ -32,5 +32,21 @@
       "termmax",
       "timeswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Borrow From HyperLend",
+      "tldr": "Covers collateral, borrow limits, health factors and repayment on HyperLend lending markets.",
+      "url": "https://docs.hyperlend.finance/hyperlend-1/hyperlend-services/how-to-borrow-from-hyperlend",
+      "source": "HyperLend",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How to Lend on HyperLend",
+      "tldr": "Walks through supplying assets, earning interest, collateral settings and withdrawals on HyperLend.",
+      "url": "https://docs.hyperlend.finance/how-to/how-to-hyperlend/how-to-lend-on-hyperlend",
+      "source": "HyperLend",
+      "tag": "Tutorial"
+    }
+  ]
 }

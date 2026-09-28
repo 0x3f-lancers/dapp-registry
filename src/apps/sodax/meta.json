@@ -32,5 +32,21 @@
       "layerzero",
       "mayan"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Four Cross Chain DEX Architectures Compared",
+      "tldr": "Compares aggregators, native asset pools, intent networks and unified execution for cross chain trading.",
+      "url": "https://sodax.com/articles/cross-chain-dex-architectures",
+      "source": "SODAX",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Robinhood Stock Tokens on Four Networks",
+      "tldr": "Explains which Robinhood tokenized assets SODAX supports and how its cross network execution reaches them.",
+      "url": "https://sodax.com/news/sodax-whitelists-robinhood-stocks-across-4-networks",
+      "source": "SODAX",
+      "tag": "Explainer"
+    }
+  ]
 }

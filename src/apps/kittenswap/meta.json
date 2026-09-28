@@ -33,5 +33,21 @@
       "liquidswap-hyperevm",
       "ramses-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Introduces Kittenswap and its ve(3,3) exchange model.",
+      "url": "https://docs.kittenswap.finance/introduction.md",
+      "source": "Kittenswap",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Treasury Overview",
+      "tldr": "Explains how Kittenswap organizes its treasury wallets and deployments.",
+      "url": "https://docs.kittenswap.finance/tokenomics/treasury-overview.md",
+      "source": "Kittenswap",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -30,5 +30,21 @@
       "alchemy-pay",
       "alfred-pay"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Card Payments 101",
+      "tldr": "Explains payment authorization, clearing and settlement in Immersve's Mastercard card flows.",
+      "url": "https://docs.immersve.com/guides/card-payments-101/",
+      "source": "Immersve",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Immersve Funding Protocols",
+      "tldr": "Describes how approval-based and custodial funding models support stablecoin-backed card payments.",
+      "url": "https://docs.immersve.com/guides/funding-protocols/",
+      "source": "Immersve",
+      "tag": "Infrastructure"
+    }
+  ]
 }

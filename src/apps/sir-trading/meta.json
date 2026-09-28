@@ -33,5 +33,21 @@
       "demex",
       "erasure"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquidity and Leverage",
+      "tldr": "Explains how SIR vaults set collateral and maintain leveraged exposure.",
+      "url": "https://docs.sir.trading/protocol-overview/liquidity-and-leverage.md",
+      "source": "SIR",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Protocol Owned Liquidity",
+      "tldr": "Explains SIR’s protocol owned liquidity and the fees that support it.",
+      "url": "https://docs.sir.trading/protocol-overview/liquidity-and-leverage/protocol-owned-liquidity.md",
+      "source": "SIR",
+      "tag": "Explainer"
+    }
+  ]
 }

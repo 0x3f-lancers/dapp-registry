@@ -32,5 +32,21 @@
       "1inch",
       "aave"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "MVP Vault: Be the House",
+      "tldr": "Explains how Levr Bet's liquidity vault backs sports markets, issues vault tokens, and handles withdrawals.",
+      "url": "https://blog.levr.bet/post/mvp-vault-be-the-house",
+      "source": "Levr Bet",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Levr Bet Security Audits",
+      "tldr": "Summarizes the protocol's security audits and how findings were addressed before launch.",
+      "url": "https://blog.levr.bet/post/security-audits-how-levr-bet-has-hardened-the-protocol-ahead-of-launch",
+      "source": "Levr Bet",
+      "tag": "Security"
+    }
+  ]
 }

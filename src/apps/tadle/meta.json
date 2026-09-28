@@ -31,5 +31,21 @@
       "allium",
       "birdeye"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tadle Sandbox and dMCP Overview",
+      "tldr": "Explains Tadle's prompt driven dApp sandbox, transaction permissions, supported protocols, and common questions about its approach.",
+      "url": "https://tadle.com/",
+      "source": "Tadle",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Exploring Tadle on Monad",
+      "tldr": "A Monad starter guide introduces Tadle's app discovery portal and explains how its prompts can help users interact with dApps.",
+      "url": "https://ccvalidators.com/blog/monad-starter-kit/",
+      "source": "CryptoCrew Validators",
+      "tag": "Tutorial"
+    }
+  ]
 }

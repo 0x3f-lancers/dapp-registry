@@ -33,5 +33,21 @@
       "0x",
       "balancer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Overview",
+      "tldr": "Introduces LiquidCore, its oracle validated AMM, and its supported chains.",
+      "url": "https://docs.liqd.ag/liquidcore-integration/overview.md",
+      "source": "LiquidSwap",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Integration Guide",
+      "tldr": "Guides developers through integrating LiquidCore swaps into an app.",
+      "url": "https://docs.liqd.ag/liquidcore-integration/integration-guide.md",
+      "source": "LiquidSwap",
+      "tag": "Tutorial"
+    }
+  ]
 }

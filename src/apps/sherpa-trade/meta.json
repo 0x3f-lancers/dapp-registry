@@ -32,5 +32,21 @@
       "blend-money",
       "eisenlabs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "SherpaEarn Quick Start Guide",
+      "tldr": "Guides users through choosing a chain, connecting a wallet, and depositing USDC into SherpaEarn.",
+      "url": "https://docs.sherpa.trade/sherpaearn-vault/quick-start-guide",
+      "source": "Sherpa",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "SherpaEarn Vault FAQ",
+      "tldr": "Answers common questions about deposit limits, withdrawals, and vault operations.",
+      "url": "https://docs.sherpa.trade/sherpaearn-vault/quick-start-guide/f.a.q./",
+      "source": "Sherpa",
+      "tag": "Explainer"
+    }
+  ]
 }

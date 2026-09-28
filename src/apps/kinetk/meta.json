@@ -32,5 +32,21 @@
       "incred",
       "joba-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Designing a Resumable Serverless Sync Pipeline",
+      "tldr": "Covers design choices for restarting long running data synchronization jobs in serverless systems.",
+      "url": "https://kinetk.substack.com/p/designing-a-resumable-serverless",
+      "source": "KINETK",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "From Raw Scans to Knowledge Graph Metadata",
+      "tldr": "Explains turning scanned source material into structured metadata suitable for a knowledge graph.",
+      "url": "https://kinetk.substack.com/p/from-raw-scans-to-kg-ready-metadata",
+      "source": "KINETK",
+      "tag": "Infrastructure"
+    }
+  ]
 }

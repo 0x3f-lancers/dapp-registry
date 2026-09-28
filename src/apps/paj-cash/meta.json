@@ -32,5 +32,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bank account addresses",
+      "tldr": "How a bank account becomes an on-chain address, and what happens when funds arrive.",
+      "url": "https://docs.paj.cash/concepts/bank-account-addresses.md",
+      "source": "Paj",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Onramp",
+      "tldr": "Taking fiat from a user and delivering tokens to their wallet.",
+      "url": "https://docs.paj.cash/concepts/onramp.md",
+      "source": "Paj",
+      "tag": "Explainer"
+    }
+  ]
 }

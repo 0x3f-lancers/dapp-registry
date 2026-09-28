@@ -31,5 +31,21 @@
       "altura-trade",
       "arrakis-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Mint and Borrow feUSD With Felix",
+      "tldr": "Guides users through depositing HYPE or UBTC collateral, borrowing feUSD and managing liquidation risk.",
+      "url": "https://usefelix.gitbook.io/docs/lending-products/quickstart/quickstart",
+      "source": "Felix",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Earn feUSD Yield in Felix Stability Pools",
+      "tldr": "Explains Felix's stability pools, borrower interest and liquidation proceeds for feUSD depositors.",
+      "url": "https://usefelix.gitbook.io/docs/lending-products/quickstart/earning-feusd-yield",
+      "source": "Felix",
+      "tag": "Explainer"
+    }
+  ]
 }

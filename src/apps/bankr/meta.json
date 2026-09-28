@@ -32,5 +32,21 @@
       "hyperdash",
       "hypersignals"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Platform Overview",
+      "tldr": "Bankr is the financial rails for self-sustaining AI agents.",
+      "url": "https://docs.bankr.bot//docs/getting-started/overview.md",
+      "source": "Bankr",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Token Swaps",
+      "tldr": "Swap tokens across all supported chains using natural language.",
+      "url": "https://docs.bankr.bot//docs/features/trading/swaps.md",
+      "source": "Bankr",
+      "tag": "Tutorial"
+    }
+  ]
 }

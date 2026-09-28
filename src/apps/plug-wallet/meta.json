@@ -35,5 +35,21 @@
       "cropty-wallet",
       "cwallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Plug Wallet Common Terms",
+      "tldr": "Defines wallet, account, principal ID, and other terms needed to use or integrate Plug.",
+      "url": "https://docs.plugwallet.ooo/resources/common-terms/",
+      "source": "Plug Wallet",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Connecting Apps to Plug",
+      "tldr": "Guides developers through connecting an Internet Computer app to Plug Wallet.",
+      "url": "https://docs.plugwallet.ooo/developer-guides/connect-to-plug/",
+      "source": "Plug Wallet",
+      "tag": "Tutorial"
+    }
+  ]
 }

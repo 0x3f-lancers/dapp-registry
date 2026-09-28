@@ -31,5 +31,21 @@
       "alchemy-pay",
       "alfred-pay"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Programmable Key Management Policies",
+      "tldr": "Introduces Cubist's policy engine and how teams can set rules before sensitive wallet or signing operations execute.",
+      "url": "https://cubist.dev/blog/introducing-programmable-key-management-policies",
+      "source": "Cubist",
+      "tag": "Security"
+    },
+    {
+      "title": "Build Private Smart Accounts",
+      "tldr": "A hands-on guide to using Cubist confidential functions when building smart accounts that need private execution.",
+      "url": "https://cubist.dev/blog/tutorial-building-private-smart-accounts",
+      "source": "Cubist",
+      "tag": "Tutorial"
+    }
+  ]
 }

@@ -33,5 +33,21 @@
       "morpho",
       "neverland"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What's New in Folks Finance V2",
+      "tldr": "Explains the V2 interface, lending changes, high efficiency loans and integrated DEX routing.",
+      "url": "https://docs.folks.finance/introduction/v2-whats-new",
+      "source": "Folks Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Folks Finance Lending and Borrowing Guide",
+      "tldr": "Introduces the protocol's deposits, collateral, borrowing, liquid governance and flash loans.",
+      "url": "https://docs.folks.finance/folks-finance-algorand-app-documentation",
+      "source": "Folks Finance",
+      "tag": "Tutorial"
+    }
+  ]
 }

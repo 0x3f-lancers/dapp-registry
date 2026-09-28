@@ -34,5 +34,21 @@
       "grinderwiki",
       "questn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Batch Transfer Tokens to Thousands of Wallets",
+      "tldr": "Compares ways to send a token or stablecoin to many wallets and explains the steps in an onchain batch transfer.",
+      "url": "https://merkl.xyz/blog/how-to-batch-transfer-tokens-onchain",
+      "source": "Merkl",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Stablecoin Mass Payouts Compared",
+      "tldr": "Compares stablecoin payouts with bank and traditional provider routes across cost, speed, failures and compliance.",
+      "url": "https://merkl.xyz/blog/stablecoin-mass-payouts-vs-traditional-payout-providers",
+      "source": "Merkl",
+      "tag": "Explainer"
+    }
+  ]
 }

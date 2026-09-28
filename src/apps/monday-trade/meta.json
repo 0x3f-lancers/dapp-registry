@@ -32,5 +32,21 @@
       "1inch",
       "aave"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Trade Perpetuals on Monad",
+      "tldr": "Walks through connecting to Monday Trade on Monad and placing a perpetual futures trade during its beta.",
+      "url": "https://blog.monday.trade/how-to-trade-perps-on-monad/",
+      "source": "Monday Trade",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Why Perpetuals on Monad?",
+      "tldr": "Explains the market structure and execution goals behind Monday Trade's perpetual futures exchange on Monad.",
+      "url": "https://blog.monday.trade/why-the-world-needs-perps-on-monad/",
+      "source": "Monday Trade",
+      "tag": "Explainer"
+    }
+  ]
 }

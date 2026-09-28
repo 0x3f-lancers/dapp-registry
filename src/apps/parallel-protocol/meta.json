@@ -32,5 +32,21 @@
       "monetrix",
       "timeswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Real Time Security Monitoring for Parallel",
+      "tldr": "Explains Parallel's integration of continuous threat detection and automated protective responses.",
+      "url": "https://blog.parallel.best/parallel-adopts-hypernative-for-real-time-protocol-security-monitoring",
+      "source": "Parallel",
+      "tag": "Security"
+    },
+    {
+      "title": "Curated USDp Vaults on HyperEVM",
+      "tldr": "Explains Parallel and Clearstar's HyperEVM vault strategies and the liquidity, borrow and oracle risks they assess.",
+      "url": "https://blog.parallel.best/parallel-x-clearstar-curated-vaults-and-clusters-on-hyperevm",
+      "source": "Parallel",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -33,5 +33,21 @@
       "subquery",
       "subsquid"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Hyperliquid Liquidations Data Explained",
+      "tldr": "Explains what Hyperliquid liquidation records show and how to interpret the data when analyzing market activity.",
+      "url": "https://www.sonarx.com/blog/hyperliquid-liquidations-data",
+      "source": "SonarX",
+      "tag": "Explainer"
+    },
+    {
+      "title": "RWA Summit Questions Answered With Data",
+      "tldr": "Shows how SonarX uses ten onchain queries to test claims about real-world asset markets.",
+      "url": "https://www.sonarx.com/blog/rwa-summit-ten-questions",
+      "source": "SonarX",
+      "tag": "Research"
+    }
+  ]
 }

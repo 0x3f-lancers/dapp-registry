@@ -32,5 +32,21 @@
       "infinex",
       "lifi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquidations & Insurance Fund",
+      "tldr": "Explains perpetual market liquidations and the role of the insurance fund.",
+      "url": "https://docs.hyperflow.fun/perps/liquidations.md",
+      "source": "Hyperflow",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Deposits & Withdrawals",
+      "tldr": "Guides users through deposits and withdrawals for Hyperflow perpetual markets.",
+      "url": "https://docs.hyperflow.fun/perps/deposits-withdrawals.md",
+      "source": "Hyperflow",
+      "tag": "Tutorial"
+    }
+  ]
 }

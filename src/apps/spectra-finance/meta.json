@@ -34,5 +34,21 @@
       "upshift",
       "veda"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Yield?",
+      "tldr": "Explains crypto yield, interest-bearing tokens, changing APYs, and how Spectra separates principal from future yield.",
+      "url": "https://docs.spectra.finance/docs/spectra/the-basics/what-is-yield",
+      "source": "Spectra Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Trade Future Yield",
+      "tldr": "Guides users through buying yield tokens on Spectra and weighing implied APY, liquidity, expiry, and possible loss.",
+      "url": "https://docs.spectra.finance/docs/spectra/guides/trade-yield",
+      "source": "Spectra Finance",
+      "tag": "Tutorial"
+    }
+  ]
 }

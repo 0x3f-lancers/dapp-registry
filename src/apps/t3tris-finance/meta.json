@@ -32,5 +32,21 @@
       "d2-finance",
       "gami-labs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "T3tris Core Concepts",
+      "tldr": "Explains vault shares, request based settlement, capital custody, fees, and how vault APY is calculated.",
+      "url": "https://docs.t3tris.finance/concepts/overview/",
+      "source": "T3tris",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Redeeming from a T3tris Vault",
+      "tldr": "Walks through requesting a redemption, waiting for curator settlement, and claiming the underlying asset.",
+      "url": "https://docs.t3tris.finance/depositors/redeem/",
+      "source": "T3tris",
+      "tag": "Tutorial"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "checker-finance",
       "coinflow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Businesses Use USDC Payments",
+      "tldr": "Explains how stablecoin settlement works for business payments and where USDC fits in the payment flow.",
+      "url": "https://alfredpay.io/blog/usdc-payments-how-businesses-use-them",
+      "source": "Alfred Pay",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Build Stablecoin Rails With Alfred's Wallet API",
+      "tldr": "Shows how a wallet API fits into business stablecoin payments and the infrastructure a fintech needs around it.",
+      "url": "https://alfredpay.io/blog/wallet-api-build-stablecoin-payment-rails",
+      "source": "Alfred",
+      "tag": "Infrastructure"
+    }
+  ]
 }

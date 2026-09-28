@@ -31,5 +31,21 @@
       "bybit",
       "changehero"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "ChainPro Security and TEEs",
+      "tldr": "Describes why ChainPro uses trusted execution environments to protect the strategies and assets run through its system.",
+      "url": "https://blog.chainpro.xyz/chainpro-security-and-tees/",
+      "source": "ChainPro",
+      "tag": "Security"
+    },
+    {
+      "title": "Trusted Execution Environments Explained",
+      "tldr": "Explains the hardware isolation and remote attestation behind the TEE security model used by onchain trading systems.",
+      "url": "https://chain.link/article/trusted-execution-environment-tee",
+      "source": "Chainlink",
+      "tag": "Security"
+    }
+  ]
 }

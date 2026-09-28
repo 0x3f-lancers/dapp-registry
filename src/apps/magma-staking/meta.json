@@ -33,5 +33,21 @@
       "stakestone",
       "0x"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "gVaults: Staking Vaults on Monad",
+      "tldr": "Introduces Magma's Monad staking vaults and explains how the vault structure gives depositors access to staking strategies.",
+      "url": "https://blog.magmastaking.xyz/p/gvaults-are-live-staking-vaults-built",
+      "source": "Magma",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Magma MEV on Monad Testnet",
+      "tldr": "Describes Magma's searcher API and block engine on Monad testnet and the roles they play in MEV execution.",
+      "url": "https://blog.magmastaking.xyz/p/magma-mev-live-on-monad-testnet-powered",
+      "source": "Magma",
+      "tag": "Infrastructure"
+    }
+  ]
 }

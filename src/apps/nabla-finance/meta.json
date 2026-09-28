@@ -33,5 +33,21 @@
       "spectra-finance",
       "upshift"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Swap Algorithm",
+      "tldr": "Explains how Nabla’s swap algorithm sets prices using pool balances and slippage curves.",
+      "url": "https://docs.nabla.fi/protocol-overview/swap-algorithm.md",
+      "source": "Nabla Finance",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Liquidity Pools",
+      "tldr": "Compares Nabla’s pool types and their different roles and risks.",
+      "url": "https://docs.nabla.fi/protocol-overview/liquidity-pools.md",
+      "source": "Nabla Finance",
+      "tag": "Explainer"
+    }
+  ]
 }

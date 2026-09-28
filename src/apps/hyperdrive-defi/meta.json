@@ -32,5 +32,21 @@
       "impermax-v2",
       "morpho"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Deposit Assets",
+      "tldr": "Shows how to deposit supported assets in Hyperdrive lending markets to earn borrowing interest.",
+      "url": "https://hyperdrive-2.gitbook.io/hyperdrive/deposits/deposit-assets.md",
+      "source": "Hyperdrive",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Borrow",
+      "tldr": "Guides users through supplying collateral and borrowing from a Hyperdrive market.",
+      "url": "https://hyperdrive-2.gitbook.io/hyperdrive/borrowing/borrow.md",
+      "source": "Hyperdrive",
+      "tag": "Tutorial"
+    }
+  ]
 }

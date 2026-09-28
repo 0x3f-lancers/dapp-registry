@@ -33,5 +33,21 @@
       "moralis",
       "multisender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Analytics comparison guide",
+      "tldr": "Compares analytics tools available to apps built with Noah.",
+      "url": "https://docs.trynoah.ai/integrations/analytics/comparison-guide.md",
+      "source": "Noah AI",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Security Overview",
+      "tldr": "Explains Noah’s built-in security controls for building and deploying apps.",
+      "url": "https://docs.trynoah.ai/security/overview.md",
+      "source": "Noah AI",
+      "tag": "Security"
+    }
+  ]
 }

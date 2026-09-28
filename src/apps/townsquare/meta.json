@@ -32,5 +32,21 @@
       "folks-finance",
       "gearbox"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Overview",
+      "tldr": "Introduces TownSquare’s cross-chain lending, liquidity, and yield infrastructure.",
+      "url": "https://docs.townsq.xyz/introduction/overview.md",
+      "source": "TownSquare",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Lending",
+      "tldr": "Explains how lenders deposit assets and earn interest and incentives on TownSquare.",
+      "url": "https://docs.townsq.xyz/crosschain-lending-and-liquidity-features/lending.md",
+      "source": "TownSquare",
+      "tag": "Explainer"
+    }
+  ]
 }

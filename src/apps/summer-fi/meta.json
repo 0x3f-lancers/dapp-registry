@@ -33,5 +33,21 @@
       "veda",
       "abyss-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Summer.fi Vault Automation",
+      "tldr": "Explains automatic collateral buying and selling to keep vault positions within selected ratios.",
+      "url": "https://blog.summer.fi/oasis-app-launches-new-automation-features-for-your-vaults-auto-buy-auto-sell/",
+      "source": "Summer.fi",
+      "tag": "Explainer"
+    },
+    {
+      "title": "DAO Risk Managed Vaults",
+      "tldr": "Introduces Summer.fi's risk managed vault category and compares the available vault approaches.",
+      "url": "https://blog.summer.fi/say-to-dao-risk-managed-vaults/",
+      "source": "Summer.fi",
+      "tag": "Explainer"
+    }
+  ]
 }

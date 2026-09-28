@@ -32,5 +32,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Transfer Crypto with Fun",
+      "tldr": "Answers common questions about moving assets from a wallet or exchange into a dApp through Fun Checkout.",
+      "url": "https://intercom.help/funxyz/en/articles/10003876-transfer-crypto-guide-faqs",
+      "source": "Fun.xyz",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Using Lightning with Fun",
+      "tldr": "Explains Bitcoin Lightning payments in Fun and which wallets and apps can be used.",
+      "url": "https://intercom.help/funxyz/en/articles/15861461-lightning-faqs",
+      "source": "Fun.xyz",
+      "tag": "Explainer"
+    }
+  ]
 }

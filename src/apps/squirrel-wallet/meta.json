@@ -33,5 +33,21 @@
       "bitget-wallet",
       "coin98"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Squirrel Wallet Guidebook",
+      "tldr": "Introduces Squirrel's self-custody wallet, supported activities, and common questions.",
+      "url": "https://www.squirrelwallet.com/guidebook/squirrel",
+      "source": "Squirrel Wallet",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Squirrel Wallet Product Guide",
+      "tldr": "Explains the wallet's current features and how users retain control of their crypto assets.",
+      "url": "https://www.squirrelwallet.com/guidebook/product/squirrel-wallet",
+      "source": "Squirrel Wallet",
+      "tag": "Explainer"
+    }
+  ]
 }

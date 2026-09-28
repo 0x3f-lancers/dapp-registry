@@ -32,5 +32,21 @@
       "d2-finance",
       "equilibria"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Architecture",
+      "tldr": "Explains how bbHLP represents a Hyperliquid HLP position as a token usable on HyperEVM.",
+      "url": "https://docs.blueberry.garden/bbhlp/architecture.md",
+      "source": "Blueberry",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Depositing into bbHLP",
+      "tldr": "Guides users through depositing supported assets to receive bbHLP shares.",
+      "url": "https://docs.blueberry.garden/bbhlp/depositing-into-bbhlp.md",
+      "source": "Blueberry",
+      "tag": "Tutorial"
+    }
+  ]
 }

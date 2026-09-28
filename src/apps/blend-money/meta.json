@@ -32,5 +32,21 @@
       "lagoon",
       "neutral-trade"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blend Strategy Mathematical Models",
+      "tldr": "Defines Blend's leverage, delta neutrality and net APR calculations for its automated strategies.",
+      "url": "https://docs.blend.money/strategy/mathematical-models",
+      "source": "Blend",
+      "tag": "Research"
+    },
+    {
+      "title": "Blend Optimization Framework",
+      "tldr": "Explains the risk constraints, liquidity reserves and rebalancing decisions used by Blend strategies.",
+      "url": "https://docs.blend.money/strategy/optimization-framework",
+      "source": "Blend",
+      "tag": "Explainer"
+    }
+  ]
 }

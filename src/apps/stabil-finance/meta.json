@@ -32,5 +32,21 @@
       "clovis",
       "d2-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Stabil Finance Yield Aggregator Overview",
+      "tldr": "Alchemy explains Stabil's automated compounding across lending, liquidity, and staking strategies on HyperEVM.",
+      "url": "https://www.alchemy.com/dapps/stabil-finance",
+      "source": "Alchemy",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Stabil Finance Chain and Vault Data",
+      "tldr": "DefiLlama shows where Stabil operates and explains how deposits in its curated vaults are counted across chains.",
+      "url": "https://defillama.com/protocol/stabil-finance",
+      "source": "DefiLlama",
+      "tag": "Research"
+    }
+  ]
 }

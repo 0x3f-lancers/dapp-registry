@@ -35,5 +35,21 @@
       "ankr",
       "quicknode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Improving RPC Reliability for Web3 Apps",
+      "tldr": "Covers provider failover, retries, monitoring and latency thresholds for keeping blockchain RPC calls reliable in production.",
+      "url": "https://boltrpc.io/blog/how-to-improve-rpc-reliability-web3-dapps",
+      "source": "BoltRPC",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "WebSocket Versus Polling for Block Data",
+      "tldr": "Compares a live newHeads stream with one-second polling over 24 hours, including request cost and detection speed.",
+      "url": "https://boltrpc.io/blog/websocket-vs-polling-measured",
+      "source": "BoltRPC",
+      "tag": "Research"
+    }
+  ]
 }

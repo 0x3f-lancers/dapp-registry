@@ -32,5 +32,21 @@
       "layerzero",
       "mayan"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Security and Risk",
+      "tldr": "Outlines the security considerations and protocol risks of using Ring.",
+      "url": "https://docs.ring.exchange/security-and-risk",
+      "source": "Ring",
+      "tag": "Security"
+    },
+    {
+      "title": "Product map",
+      "tldr": "Maps Ring’s products and the concepts behind its exchange.",
+      "url": "https://docs.ring.exchange/concepts/overview",
+      "source": "Ring",
+      "tag": "Explainer"
+    }
+  ]
 }

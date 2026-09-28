@@ -33,5 +33,21 @@
       "lifi",
       "ormi-labs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Metric DEX: Architecture and Access Review",
+      "tldr": "An independent review examines Metric's oracle priced pools, liquidity efficiency, public contracts, and limited direct app access.",
+      "url": "https://crypturia.com/en/dex/metric/",
+      "source": "Crypturia",
+      "tag": "Research"
+    },
+    {
+      "title": "Metric in the BNB Chain Liquidity Landscape",
+      "tldr": "BNB Chain explains how Metric's pools follow live reference prices and concentrate liquidity where assets actually trade.",
+      "url": "https://www.bnbchain.org/en/blog/bnb-chain-market-making-landscape-liquidity-venues-how-to-integrate",
+      "source": "BNB Chain",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "growi-finance",
       "hyperithm"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "MEV Capital Vault Curation Methodology",
+      "tldr": "Explains how MEV Capital evaluates markets, collateral, protocols, and risks before allocating vault assets.",
+      "url": "https://mevcapital.gitbook.io/vaults-protocol/methodology-and-curation",
+      "source": "MEV Capital",
+      "tag": "Explainer"
+    },
+    {
+      "title": "MEV Capital Vaultbook",
+      "tldr": "Introduces MEV Capital's curated vault strategies and the research behind their construction.",
+      "url": "https://mevcapital.gitbook.io/vaults-protocol",
+      "source": "MEV Capital",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "ipor",
       "lagoon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Architecture Overview",
+      "tldr": "Introduces the main components of Pods’ yield API and architecture.",
+      "url": "https://docs.pods.finance/getting-started/architecture",
+      "source": "Pods Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Deposit to Yield",
+      "tldr": "Shows how to deposit assets into a Pods yield position.",
+      "url": "https://docs.pods.finance/guides/yield/deposit",
+      "source": "Pods Finance",
+      "tag": "Tutorial"
+    }
+  ]
 }

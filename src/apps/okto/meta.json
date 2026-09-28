@@ -32,5 +32,21 @@
       "phantom",
       "plug-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Okto Uses the 1inch Swap API",
+      "tldr": "Shows how Okto integrates 1inch routing to offer token swaps through its wallet experience.",
+      "url": "https://okto.tech/blog/how-okto-leverages-1inch-s-swap-api-to-deliver-seamless-trading-experience",
+      "source": "Okto",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Hyperliquid Builder Codes Explained",
+      "tldr": "Explains how builder codes reward developers who create trading experiences on top of Hyperliquid.",
+      "url": "https://okto.tech/blog/hyperliquid-builder-codes-rewarding-defi-innovation",
+      "source": "Okto",
+      "tag": "Explainer"
+    }
+  ]
 }

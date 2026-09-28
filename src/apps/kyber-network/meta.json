@@ -33,5 +33,21 @@
       "lifi",
       "matcha"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How DEX Limit Orders Work",
+      "tldr": "Explains how limit orders on decentralized exchanges differ from market swaps and when traders use them.",
+      "url": "https://blog.kyberswap.com/what-is-a-limit-order-on-dex-platforms/",
+      "source": "KyberSwap",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Swapping on Robinhood Chain With an Aggregator API",
+      "tldr": "Explores route selection and integration considerations when swapping assets on Robinhood Chain.",
+      "url": "https://blog.kyberswap.com/best-dex-aggregator-api-for-swapping-on-robinhood-chain/",
+      "source": "KyberSwap",
+      "tag": "Tutorial"
+    }
+  ]
 }

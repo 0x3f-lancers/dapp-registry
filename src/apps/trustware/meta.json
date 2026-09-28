@@ -32,5 +32,21 @@
       "chainrails",
       "checker-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Account Abstraction and ERC-4337 Explained",
+      "tldr": "Introduces EntryPoint, paymasters and the account abstraction flow that changes how smart wallets submit transactions.",
+      "url": "https://trustware.io/blog/account-abstraction-101-erc-4337-entrypoint-paymasters",
+      "source": "Trustware",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Client-Managed Versus Provider Paymasters",
+      "tldr": "Explains who controls gas sponsorship policies in each paymaster model and the tradeoffs for smart wallet builders.",
+      "url": "https://trustware.io/blog/client-managed-vs-provider-managed-paymasters",
+      "source": "Trustware",
+      "tag": "Explainer"
+    }
+  ]
 }

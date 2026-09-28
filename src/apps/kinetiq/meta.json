@@ -32,5 +32,21 @@
       "altura-trade",
       "arrakis-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquid Staking Primer",
+      "tldr": "Introduces liquid staking mechanics and the staking token model behind Kinetiq's product.",
+      "url": "https://kinetiq.xyz/docs/liquid-staking-primer",
+      "source": "Kinetiq",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Deployer and Operator Guide",
+      "tldr": "Walks builders through deploying and operating markets with Kinetiq's launch tooling.",
+      "url": "https://kinetiq.xyz/docs/launch-deployer-and-operator-guide",
+      "source": "Kinetiq",
+      "tag": "Tutorial"
+    }
+  ]
 }

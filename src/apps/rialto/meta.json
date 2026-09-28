@@ -32,5 +32,21 @@
       "kodiak-dex",
       "koi-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Programmable Liquidity",
+      "tldr": "How onchain market making logic defends against toxic flow and quotes tighter than an order book.",
+      "url": "https://docs.rialto.xyz/overview/programmable-liquidity.md",
+      "source": "Rialto",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Getting Started",
+      "tldr": "What you need to begin trading on Rialto and how to connect your wallet.",
+      "url": "https://docs.rialto.xyz/users/getting-started.md",
+      "source": "Rialto",
+      "tag": "Tutorial"
+    }
+  ]
 }

@@ -31,5 +31,21 @@
       "1inch",
       "aave"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Understanding Perpetual Market Liquidations",
+      "tldr": "Explains how leverage and collateral changes trigger liquidation in perpetual futures markets.",
+      "url": "https://blog.perpl.xyz/understanding-liquidations-in-perp-markets/",
+      "source": "Perpl",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Leverage Descent and Open-Interest Caps",
+      "tldr": "Explains why oversized leveraged positions can threaten a perp market and how Perpl limits open interest.",
+      "url": "https://blog.perpl.xyz/leverage-descent-sybill-proof-oi-caps/",
+      "source": "Perpl",
+      "tag": "Security"
+    }
+  ]
 }

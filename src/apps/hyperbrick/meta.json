@@ -32,5 +32,21 @@
       "curve-finance",
       "defi-app"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading on HyperBrick",
+      "tldr": "Explains token trading on HyperBrick and its Liquidity Book market design.",
+      "url": "https://docs.hyperbrick.xyz/trade/trading-on-hyperbrick.md",
+      "source": "HyperBrick",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Liquidity Provisioning",
+      "tldr": "Introduces liquidity provision and the Liquidity Book AMM on HyperBrick.",
+      "url": "https://docs.hyperbrick.xyz/liquidity-pools/liquidity-provisioning.md",
+      "source": "HyperBrick",
+      "tag": "Explainer"
+    }
+  ]
 }

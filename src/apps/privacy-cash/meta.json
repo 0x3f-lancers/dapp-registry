@@ -30,5 +30,21 @@
       "chainalysis",
       "elliptic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Privacy Cash Works",
+      "tldr": "Explains private transfers, swaps, and bridging with zero knowledge proofs and relayers across supported chains.",
+      "url": "https://privacycash.mintlify.app/",
+      "source": "Privacy Cash",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Privacy Tips for Privacy Pools",
+      "tldr": "Suggests ways to reduce linkability, including varying timing and amounts and choosing larger anonymity sets.",
+      "url": "https://privacycash.mintlify.app/documentation/user-docs/privacy-tips",
+      "source": "Privacy Cash",
+      "tag": "Security"
+    }
+  ]
 }

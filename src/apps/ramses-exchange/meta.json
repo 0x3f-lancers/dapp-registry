@@ -33,5 +33,21 @@
       "lifi",
       "liquidswap-hyperevm"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Swap on Ramses",
+      "tldr": "Explains token verification, quoted output, price impact and slippage checks before a Ramses swap.",
+      "url": "https://docs.ramses.exchange/pages/swapping",
+      "source": "Ramses",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Ramses Farming Works",
+      "tldr": "Introduces liquidity provision and eligible pool rewards for participants in Ramses farming.",
+      "url": "https://docs.ramses.exchange/pages/farming",
+      "source": "Ramses",
+      "tag": "Tutorial"
+    }
+  ]
 }

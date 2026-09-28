@@ -33,5 +33,21 @@
       "impermax-v2",
       "morpho"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "DeFi Lending on Hyperliquid",
+      "tldr": "Explains lending and borrowing mechanics on Hyperliquid through HypurrFi and the risks users should assess.",
+      "url": "https://hypurrfi.com/blog-posts/defi-lending-on-hyperliquid",
+      "source": "HypurrFi",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Borrow Against Crypto Without Selling",
+      "tldr": "Walks through using deposited crypto as collateral for borrowing while retaining the original exposure.",
+      "url": "https://hypurrfi.com/blog-posts/borrow-against-crypto-without-selling",
+      "source": "HypurrFi",
+      "tag": "Tutorial"
+    }
+  ]
 }

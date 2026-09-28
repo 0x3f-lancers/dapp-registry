@@ -32,5 +32,21 @@
       "mu-digital",
       "theo-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Continuous Verification Versus Periodic Audits",
+      "tldr": "Explains why live verification can expose reserve changes between traditional periodic audits.",
+      "url": "https://afiprotocol.xyz/blog-posts/continuous-verification-vs-periodic-audits-why-real-time-matters",
+      "source": "AFI Protocol",
+      "tag": "Security"
+    },
+    {
+      "title": "Why Tokenization Needs Proof of Reserves",
+      "tldr": "Explores the trust problem in tokenized assets and how proof of reserves can make backing visible.",
+      "url": "https://afiprotocol.xyz/blog-posts/tokenisation-alone-doesnt-solve-trust-why-the-worlds-biggest-banks-need-proof-of-reserve-as-rwas-scale",
+      "source": "AFI Protocol",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Provide liquidity and sell USDC",
+      "tldr": "Guides liquidity providers through selling USDC using Peer.",
+      "url": "https://docs.peer.xyz/guides/for-sellers/provide-liquidity-sell-usdc",
+      "source": "Peer",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Run a vault",
+      "tldr": "Explains the steps and responsibilities involved in running a Peer vault.",
+      "url": "https://docs.peer.xyz/guides/for-vault-managers/run-a-vault",
+      "source": "Peer",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "equilibria",
       "harvest"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Harmonix Finance Documentation",
+      "tldr": "Explains Harmonix's yield vaults, basis strategies, deposit and withdrawal mechanics, and contract architecture.",
+      "url": "https://harmonixfi.github.io/harmonix-docs-v2/harmonix-docs-v2.html",
+      "source": "Harmonix Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Harmonix HYPE Vault Strategy",
+      "tldr": "Describes the vault's diversified delta-neutral HYPE positions and how it allocates capital across HyperEVM.",
+      "url": "https://app.harmonix.fi/vaults/hyperevm-delta-neutral-hype-v3",
+      "source": "Harmonix Finance",
+      "tag": "Explainer"
+    }
+  ]
 }

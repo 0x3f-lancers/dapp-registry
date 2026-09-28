@@ -32,5 +32,21 @@
       "dwellir",
       "getblock"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Quickstart",
+      "tldr": "Walks through connecting to Altitude RPC and making a first request from a browser or client.",
+      "url": "https://docs.reachaltitude.xyz/getting-started/altitude/quickstart.md",
+      "source": "Altitude",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Hyperliquid Node Peering",
+      "tldr": "Explains direct peering with Hyperliquid nodes and its effect on data access.",
+      "url": "https://docs.reachaltitude.xyz/rpc/hyperliquid-node-peering.md",
+      "source": "Altitude",
+      "tag": "Explainer"
+    }
+  ]
 }

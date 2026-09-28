@@ -32,5 +32,21 @@
       "checker-finance",
       "coinflow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Abstracting Blockchain Gas Fees",
+      "tldr": "Explains how stablecoin products can shield users from paying network gas fees directly.",
+      "url": "https://brale.xyz/blog/abstracting-blockchain-gas-fees",
+      "source": "Brale",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Adding Stablecoins to a Fintech",
+      "tldr": "Walks through the infrastructure decisions involved in adding stablecoin support to a fintech product.",
+      "url": "https://brale.xyz/blog/adding-stablecoins-to-your-fintech",
+      "source": "Brale",
+      "tag": "Tutorial"
+    }
+  ]
 }

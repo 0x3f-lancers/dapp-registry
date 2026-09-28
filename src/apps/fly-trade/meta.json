@@ -32,5 +32,21 @@
       "curve-finance",
       "dzap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "On-Chain Swap",
+      "tldr": "Here we will provide you with a step-by-step set of instructions to swap tokens on the same chain using the fly.trade app.",
+      "url": "https://docs.fly.trade/guides/on-chain-swap.md",
+      "source": "Fly.trade",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Cross-Chain Swap",
+      "tldr": "Here we will provide you with a step-by-step set of instructions to swap tokens across chains using the fly.trade app.",
+      "url": "https://docs.fly.trade/guides/cross-chain-swap.md",
+      "source": "Fly.trade",
+      "tag": "Tutorial"
+    }
+  ]
 }

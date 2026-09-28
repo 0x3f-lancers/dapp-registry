@@ -33,5 +33,21 @@
       "coinmerce-capital",
       "growi-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Risk Management in a Clearstar cbXRP Vault",
+      "tldr": "Explains how Clearstar manages collateral, liquidation and custody risks in Upshift's cbXRP vault.",
+      "url": "https://www.upshift.finance/blog/upshift-is-live-on-base-clearstar-cbxrp-yield-vault",
+      "source": "Upshift",
+      "tag": "Security"
+    },
+    {
+      "title": "Clearstar's Role in HyperEVM Lending Markets",
+      "tldr": "Describes Clearstar's market curation role as Euler brings HyperEVM lending coverage in house.",
+      "url": "https://euler.finance/blog/euler-brings-hyperevm-market-coverage-in-house",
+      "source": "Euler",
+      "tag": "Explainer"
+    }
+  ]
 }

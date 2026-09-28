@@ -32,5 +32,21 @@
       "capa-fi",
       "chainrails"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Key Concepts",
+      "tldr": "Explains how PingMe uses hashed commitments to identify lockboxes without exposing their underlying secrets.",
+      "url": "https://pingmexyz.gitbook.io/docs/technical-resources/key-concepts.md",
+      "source": "PingMe",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Security Principles",
+      "tldr": "Explains why PingMe hashes secrets before passing data to public onchain functions.",
+      "url": "https://pingmexyz.gitbook.io/docs/technical-resources/security-principles.md",
+      "source": "PingMe",
+      "tag": "Security"
+    }
+  ]
 }

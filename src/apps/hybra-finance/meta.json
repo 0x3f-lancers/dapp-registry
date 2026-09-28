@@ -33,5 +33,21 @@
       "liquidswap-hyperevm",
       "ramses-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Hybra Finance Whitepaper",
+      "tldr": "Explains Hybra's ve(3,3) exchange design, incentives, liquidity, and Hyperliquid integration.",
+      "url": "https://hybra-foundation.gitbook.io/hybra-foundation/readme.md",
+      "source": "Hybra Foundation",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Adding Liquidity on Hybra",
+      "tldr": "Guides users through supplying tokens to a Hybra liquidity pool.",
+      "url": "https://hybra-foundation.gitbook.io/hybra-foundation/product/liquidity/add-liquidity.md",
+      "source": "Hybra Foundation",
+      "tag": "Tutorial"
+    }
+  ]
 }

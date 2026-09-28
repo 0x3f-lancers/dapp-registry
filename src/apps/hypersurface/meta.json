@@ -31,5 +31,21 @@
       "altura-trade",
       "ample-money"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How do Covered Calls work?",
+      "tldr": "Explains covered calls and how an asset holder can sell an option against their position.",
+      "url": "https://docs.hypersurface.io/overview/how-do-covered-calls-work.md",
+      "source": "Hypersurface",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Integration Guide",
+      "tldr": "Introduces integration with Hypersurface’s onchain options protocol.",
+      "url": "https://docs.hypersurface.io/integration-guide.md",
+      "source": "Hypersurface",
+      "tag": "Tutorial"
+    }
+  ]
 }

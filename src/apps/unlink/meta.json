@@ -32,5 +32,21 @@
       "phalcon",
       "trm-labs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Private Supplier Payments With Openfort",
+      "tldr": "Shows how Unlink powers private onchain supplier payments through Openfort embedded wallets.",
+      "url": "https://unlink.xyz/blog/openfort-private-supplier-payments",
+      "source": "Unlink",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Native Privacy on Monad",
+      "tldr": "Explains Unlink's approach to private balances, transfers and DeFi positions for users on Monad.",
+      "url": "https://unlink.xyz/blog/monad-native-privacy",
+      "source": "Unlink",
+      "tag": "Explainer"
+    }
+  ]
 }

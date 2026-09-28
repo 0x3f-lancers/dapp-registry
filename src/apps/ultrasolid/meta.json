@@ -32,5 +32,21 @@
       "curve-finance",
       "defi-app"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "UltraSolid's Cross-Chain Bridging Integration",
+      "tldr": "Explains how UltraSolid uses LI.FI to let users bridge into HyperEVM before trading or supplying liquidity.",
+      "url": "https://li.fi/knowledge-hub/ultrasolid-integrates-li-fi-to-power-cross-chain-bridging",
+      "source": "LI.FI",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Using UltraSolid's veDEX",
+      "tldr": "Guides users through swaps, liquidity pools, and the vote-escrow model used by UltraSolid.",
+      "url": "https://www.drops.bot/airdrops/upcoming/ultrasolid",
+      "source": "Drops",
+      "tag": "Tutorial"
+    }
+  ]
 }

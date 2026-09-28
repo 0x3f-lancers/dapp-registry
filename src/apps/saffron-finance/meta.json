@@ -33,5 +33,21 @@
       "neutral-trade",
       "arcadia-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Overview",
+      "tldr": "How Saffron Vaults Work Saffron Fixed Income Vaults enable zero-coupon swaps on Uniswap V3 liquidity positions.",
+      "url": "https://docs.saffron.finance/saffron-vaults/overview.md",
+      "source": "Saffron Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Vault Lifecycle",
+      "tldr": "How vaults are created, funded, and settled on-chain.",
+      "url": "https://docs.saffron.finance/saffron-vaults/vault-lifecycle.md",
+      "source": "Saffron Finance",
+      "tag": "Explainer"
+    }
+  ]
 }

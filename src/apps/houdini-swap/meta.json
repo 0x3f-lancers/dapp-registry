@@ -32,5 +32,21 @@
       "hyperlane",
       "jumper-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Core Swap Concepts",
+      "tldr": "Compares Houdini’s private, wallet-free, and DEX swap flows and their tradeoffs.",
+      "url": "https://docs.houdiniswap.com/overview/getting-started/core-swap-concepts.md",
+      "source": "Houdini",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Private Swap",
+      "tldr": "Explains how Houdini routes private cross-chain swaps without custodying user assets.",
+      "url": "https://docs.houdiniswap.com/overview/swaps-and-transfers/private-swaps.md",
+      "source": "Houdini",
+      "tag": "Tutorial"
+    }
+  ]
 }

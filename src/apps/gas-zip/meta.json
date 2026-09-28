@@ -31,5 +31,21 @@
       "biconomy",
       "bubblemaps"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Gas.zip Quote API",
+      "tldr": "Explains how to estimate output and gas costs when refueling one or more destination chains.",
+      "url": "https://dev.gas.zip/gas/api/quote",
+      "source": "Gas.zip",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Building Gas.zip Deposit Transactions",
+      "tldr": "Guides developers through generating ready-to-use calldata for a direct deposit transaction.",
+      "url": "https://dev.gas.zip/gas/api/call-data",
+      "source": "Gas.zip",
+      "tag": "Tutorial"
+    }
+  ]
 }

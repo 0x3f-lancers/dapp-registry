@@ -31,5 +31,21 @@
       "valos",
       "yuzu-money"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How thUSD Turns Gold Carry Into Yield",
+      "tldr": "Explains the delta-neutral gold carry strategy behind Theo's dollar-denominated thUSD yield.",
+      "url": "https://theo.xyz/articles/how-thusd-works-gold-carry-trade-explained",
+      "source": "Theo",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How Gold Leasing Supports thUSD",
+      "tldr": "Explains the century-old gold leasing market and how its carry can generate the return behind Theo's thUSD.",
+      "url": "https://theo.xyz/articles/gold-leasing-credit-market-behind-thusd",
+      "source": "Theo",
+      "tag": "Explainer"
+    }
+  ]
 }

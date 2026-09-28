@@ -32,5 +32,21 @@
       "moralis",
       "multisender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "About HypurrScan",
+      "tldr": "Explains the explorer's tools for investigating Hyperliquid transactions, token activity, and onchain data.",
+      "url": "https://hypurrscan.io/about",
+      "source": "HypurrScan",
+      "tag": "Explainer"
+    },
+    {
+      "title": "HypurrScan API Reference",
+      "tldr": "Documents the public endpoints and rate limits for accessing HypurrScan token and transaction data.",
+      "url": "https://api.hypurrscan.io/ui/",
+      "source": "HypurrScan",
+      "tag": "Tutorial"
+    }
+  ]
 }

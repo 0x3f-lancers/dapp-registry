@@ -32,5 +32,21 @@
       "backpack",
       "fordefi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why multisigs are important?",
+      "tldr": "In crypto, security is everything, but single-signature wallets leave you one mistake or hack away from losing it all.",
+      "url": "https://docs.hypersig.xyz/getting-started/why-multisigs-are-important.md",
+      "source": "HyperSig",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Deposits",
+      "tldr": "Deposit from Hyperliquid Easiest and recommended way to top up your multisig.",
+      "url": "https://docs.hypersig.xyz/guides/deposits.md",
+      "source": "HyperSig",
+      "tag": "Tutorial"
+    }
+  ]
 }

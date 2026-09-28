@@ -32,5 +32,21 @@
       "curve-finance",
       "dzap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Hanji Vault",
+      "tldr": "Explains how the Hanji vault gives liquidity providers exposure to a basket of assets.",
+      "url": "https://docs.hanji.io/lp-vault/hanji-vault.md",
+      "source": "Hanji Protocol",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Overview",
+      "tldr": "Introduces Hanji’s LP vaults and their role in passive liquidity provision.",
+      "url": "https://docs.hanji.io/lp-vault/overview.md",
+      "source": "Hanji Protocol",
+      "tag": "Explainer"
+    }
+  ]
 }

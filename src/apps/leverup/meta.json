@@ -31,5 +31,21 @@
       "1inch",
       "aave"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Borrowing to Leverage Versus Trading Perps",
+      "tldr": "Compares recursive lending positions with perpetual futures, including how each creates exposure and liquidation risk.",
+      "url": "https://blog.leverup.xyz/borrowing-to-leverage-vs-trading-perps/",
+      "source": "LeverUp",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Build a Grok Bot Trading Agent on LeverUp",
+      "tldr": "Shows how to connect a Grok Bot agent to LeverUp's scoped trading flow without handing it a normal wallet key.",
+      "url": "https://blog.leverup.xyz/grok-bot-trading-agent-leverup/",
+      "source": "LeverUp",
+      "tag": "Tutorial"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "backpack",
       "fordefi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started",
+      "tldr": "Guides teams through creating token transfers and dApp transactions in Den.",
+      "url": "https://docs.onchainden.com/creating-transactions/getting-started.md",
+      "source": "Den",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Security Practices",
+      "tldr": "Explains how Den works with Safe contracts to protect team accounts.",
+      "url": "https://docs.onchainden.com/overview/security-practices.md",
+      "source": "Den",
+      "tag": "Security"
+    }
+  ]
 }

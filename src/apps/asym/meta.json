@@ -32,5 +32,21 @@
       "hyperdash",
       "hypersignals"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How ASYM's Agentic Trading System Works",
+      "tldr": "The official overview describes ASYM's strategy ideation, code generation, backtesting, live signals, and Hyperliquid execution.",
+      "url": "https://www.asym.info/",
+      "source": "ASYM",
+      "tag": "Explainer"
+    },
+    {
+      "title": "ASYM Trading System Review",
+      "tldr": "Solana Compass examines ASYM's autonomous trading pipeline, token reserve model, and use of Hyperliquid perpetual markets.",
+      "url": "https://solanacompass.com/projects/asym",
+      "source": "Solana Compass",
+      "tag": "Research"
+    }
+  ]
 }

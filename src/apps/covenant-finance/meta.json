@@ -32,5 +32,21 @@
       "gearbox",
       "morpho"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Latent Swap AMM",
+      "tldr": "Explains Covenant’s Latent Swap AMM and how it prices trades.",
+      "url": "https://docs.covenant.finance/protocol-mechanism/latent-swap-amm.md",
+      "source": "Covenant",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Swap",
+      "tldr": "Shows how to swap between base assets and Covenant’s leverage and yield coins.",
+      "url": "https://docs.covenant.finance/user-guide/market-page/swap.md",
+      "source": "Covenant",
+      "tag": "Tutorial"
+    }
+  ]
 }

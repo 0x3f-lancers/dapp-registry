@@ -33,5 +33,21 @@
       "openfort",
       "ahoracrypto"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Create Passkey Accounts With Mera",
+      "tldr": "Guides developers through deriving and recovering Monad accounts from a passkey using Mera.",
+      "url": "https://monad.docsbot.app/guides/mera",
+      "source": "Monad Documentation",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Mera Security Model",
+      "tldr": "Describes Mera's passkey trust boundary, memory exposure, account recovery risks and key zeroing.",
+      "url": "https://github.com/category-labs/mera/blob/main/docs/src/content/docs/concepts/security-model.mdx",
+      "source": "Category Labs",
+      "tag": "Security"
+    }
+  ]
 }

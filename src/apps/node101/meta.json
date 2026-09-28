@@ -32,5 +32,21 @@
       "ankr",
       "chainstack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Pruning in Blockchains: Who Keeps the Past?",
+      "tldr": "Explores how nodes retain or prune chain history and what those choices mean for access to older data.",
+      "url": "https://blog.node101.io/p/pruning-in-blockchains-who-keeps",
+      "source": "Node101",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "State of ZK 2026",
+      "tldr": "Surveys developer activity and projects across the zero knowledge ecosystem using public development data.",
+      "url": "https://blog.node101.io/p/state-of-zk-2026",
+      "source": "Node101",
+      "tag": "Research"
+    }
+  ]
 }

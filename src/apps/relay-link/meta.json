@@ -33,5 +33,21 @@
       "jumper-exchange",
       "layerzero"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Swap Tokens Across Chains With Relay",
+      "tldr": "Guides wallet users through choosing a cross-chain route, checking the quote and confirming a swap.",
+      "url": "https://relay.link/blog/how-to-use-relay-swap",
+      "source": "Relay",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Integrate the Relay API",
+      "tldr": "Compares Relay's widget, TypeScript SDK and REST API paths for adding cross-chain swaps to an app.",
+      "url": "https://www.relay.link/blog/how-to-integrate-relay-api",
+      "source": "Relay",
+      "tag": "Tutorial"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "bybit",
       "coinstats"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Onboarding, Deposits & Wallets",
+      "tldr": "Guides users through funding Hyperdash and managing wallets.",
+      "url": "https://docs.hyperdash.com/onboarding-deposits.md",
+      "source": "HyperDash",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Trading Indicators",
+      "tldr": "Explains Hyperdash’s liquidation and stop loss heatmaps and live trade feed.",
+      "url": "https://docs.hyperdash.com/trading-indicators.md",
+      "source": "HyperDash",
+      "tag": "Tutorial"
+    }
+  ]
 }

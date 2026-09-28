@@ -32,5 +32,21 @@
       "harvest",
       "ipor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Prediction Markets on Hyperbeat Explained",
+      "tldr": "Explains Yes and No shares, pricing and order placement in Hyperbeat's prediction markets.",
+      "url": "https://hyperbeat.org/blog/predict-markets-explained",
+      "source": "Hyperbeat",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Perpetual Futures for Beginners",
+      "tldr": "Explains how perpetual contracts use leverage and funding without a fixed expiry date.",
+      "url": "https://hyperbeat.org/blog/what-are-perpetual-futures",
+      "source": "Hyperbeat",
+      "tag": "Explainer"
+    }
+  ]
 }

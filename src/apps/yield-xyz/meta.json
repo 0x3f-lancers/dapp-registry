@@ -32,5 +32,21 @@
       "ipor",
       "lagoon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Core Concepts",
+      "tldr": "Introduces Yield.xyz’s key concepts and supported yield workflows.",
+      "url": "https://docs.yield.xyz/docs/core-concepts.md",
+      "source": "Yield.xyz",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Allocator Vaults & OAVs Introduction",
+      "tldr": "Explains allocator vaults and OAVs and how they fit into Yield.xyz.",
+      "url": "https://docs.yield.xyz/docs/allocator-vaults-oavs-introduction.md",
+      "source": "Yield.xyz",
+      "tag": "Explainer"
+    }
+  ]
 }

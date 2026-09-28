@@ -32,5 +32,21 @@
       "1inch",
       "aave"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Deposit and Withdraw",
+      "tldr": "Explains the verified player requirement and steps for depositing and withdrawing on Kizzy.",
+      "url": "https://docs.kizzy.io/transfer-funds/deposit-and-withdraw.md",
+      "source": "Kizzy",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Why did my deposit fail? (Metamask Deposits)",
+      "tldr": "Lists common causes of failed MetaMask deposits and how to avoid them.",
+      "url": "https://docs.kizzy.io/transfer-funds/transfer-faq/why-did-my-deposit-fail-metamask-deposits.md",
+      "source": "Kizzy",
+      "tag": "Tutorial"
+    }
+  ]
 }

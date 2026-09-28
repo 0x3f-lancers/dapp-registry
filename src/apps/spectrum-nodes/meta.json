@@ -32,5 +32,21 @@
       "ankr",
       "chainstack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Hyperliquid Peering Explained",
+      "tldr": "Explains what a Hyperliquid gossip peer slot does for node connectivity and when dedicated peering helps.",
+      "url": "https://spectrumnodes.com/blog/understanding-hyperliquid-peering",
+      "source": "Spectrum Nodes",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "RPC Access at Ecosystem Scale",
+      "tldr": "Explains how Spectrum provisions RPC access with join codes, per-user limits, usage metrics and approvals.",
+      "url": "https://spectrumnodes.com/blog/introducing-foundation-features",
+      "source": "Spectrum Nodes",
+      "tag": "Infrastructure"
+    }
+  ]
 }

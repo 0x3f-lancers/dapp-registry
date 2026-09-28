@@ -30,5 +30,21 @@
     "related": [
       "mintpad"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "StonkBrokers Documentation",
+      "tldr": "Explains the Anvil AMM, broker NFTs, token launches, loans, and other StonkBrokers products.",
+      "url": "https://www.stonkbrokers.cash/docs",
+      "source": "StonkBrokers",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Stonk Interns Whitepaper",
+      "tldr": "Explains how Stonk Interns relate to broker NFTs, minting, and the broader tokenized asset system.",
+      "url": "https://stonkbrokers.io/docs/interns",
+      "source": "StonkBrokers",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "curve-finance",
       "dzap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Monorail Synthetic Orderbooks",
+      "tldr": "Explains how Monorail represents AMM and orderbook liquidity in a common model to route trades.",
+      "url": "https://docs.monorail.xyz/solution/",
+      "source": "Monorail",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Integrating with Monorail",
+      "tldr": "Explains how exchanges can join Monorail routing and how developers can request quotes through its API.",
+      "url": "https://docs.monorail.xyz/integration/",
+      "source": "Monorail",
+      "tag": "Tutorial"
+    }
+  ]
 }

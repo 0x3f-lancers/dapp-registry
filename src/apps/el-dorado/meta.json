@@ -32,5 +32,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "El Dorado P2P Fees Explained",
+      "tldr": "Explains when El Dorado charges a commission and what users should check before completing a P2P exchange.",
+      "url": "https://eldorado.io/en/blog/fees-el-dorado-p2p",
+      "source": "El Dorado",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Send Digital Dollars From Argentina to Venezuela",
+      "tldr": "A practical guide to moving dollar-denominated value between Argentina and Venezuela using El Dorado's service.",
+      "url": "https://eldorado.io/en/blog/como-enviar-dolares-digitales-a-venezuela-desde-argentina",
+      "source": "El Dorado",
+      "tag": "Tutorial"
+    }
+  ]
 }

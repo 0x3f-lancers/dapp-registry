@@ -32,5 +32,21 @@
       "chainstack-subgraphs",
       "envio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Indexing Avalanche L1s With The Neighborhood",
+      "tldr": "Walks through building data pipelines that cover multiple Avalanche L1s and expose real-time indexed data.",
+      "url": "https://www.indexing.co/articles/avalanche-indexing-with-the-neighborhood",
+      "source": "The Indexing Company",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Indexing EVM Chains With The Neighborhood",
+      "tldr": "Shows how to create a unified data pipeline across EVM chains using The Indexing Company's network.",
+      "url": "https://www.indexing.co/articles/indexing-evm-chains-with-the-neighborhood",
+      "source": "The Indexing Company",
+      "tag": "Tutorial"
+    }
+  ]
 }

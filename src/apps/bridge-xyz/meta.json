@@ -32,5 +32,21 @@
       "checker-finance",
       "coinflow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Stablecoin Payment Rails Work",
+      "tldr": "Explains how businesses can use blockchain settlement and stablecoins for payments, with the moving parts behind the transfer.",
+      "url": "https://bridge.xyz/learn/blockchain-payments",
+      "source": "Bridge",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Building Stablecoin Infrastructure",
+      "tldr": "Covers the components and compliance questions a business should consider when building stablecoin payment rails.",
+      "url": "https://bridge.xyz/learn/building-a-robust-stablecoin-infrastructure-key-considerations-for-modern-finance",
+      "source": "Bridge",
+      "tag": "Infrastructure"
+    }
+  ]
 }

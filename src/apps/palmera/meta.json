@@ -32,5 +32,21 @@
       "backpack",
       "fordefi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Using the Safe Transaction Builder",
+      "tldr": "A step-by-step guide to batching Safe wallet actions into one atomic transaction for teams and treasuries.",
+      "url": "https://www.palmeradao.xyz/blog/how-to-use-safe-transaction-builder/",
+      "source": "Palmera",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "MPC and Multisig for Institutions",
+      "tldr": "Explains why institutional custody may use both MPC key management and multisig smart accounts rather than choosing one.",
+      "url": "https://www.palmeradao.xyz/blog/mpc-vs-multisig-institutional-blockchain-infrastructure-needs-both/",
+      "source": "Palmera",
+      "tag": "Security"
+    }
+  ]
 }

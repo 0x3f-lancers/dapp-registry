@@ -32,5 +32,21 @@
       "blockliquidity",
       "bubblemaps"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading Hyperliquid Vault Rankings",
+      "tldr": "Shows how to look beyond headline APR when comparing vaults, including drawdowns and strategy risk.",
+      "url": "https://vaultvision.tech/blog/hyperliquid-vault-rankings-explained",
+      "source": "VaultVision",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Methodology for Comparing Hyperliquid Vaults",
+      "tldr": "Explains the drawdown, risk, TVL flow and deposit checks VaultVision uses before ranking a Hyperliquid vault.",
+      "url": "https://vaultvision.tech/blog/best-hyperliquid-vaults-methodology",
+      "source": "VaultVision",
+      "tag": "Research"
+    }
+  ]
 }

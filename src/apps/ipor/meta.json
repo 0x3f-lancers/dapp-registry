@@ -35,5 +35,21 @@
       "upshift",
       "veda"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How FUSION Automates Aave Yield Looping",
+      "tldr": "Explains how IPOR FUSION automates a cbETH lending and borrowing strategy on Aave.",
+      "url": "https://ipor.io/news/fusion-automates-aave-yield-cbeth-looping/",
+      "source": "IPOR",
+      "tag": "Explainer"
+    },
+    {
+      "title": "FUSION Vault Threat Monitoring",
+      "tldr": "Describes how IPOR uses onchain threat monitoring to protect its FUSION vault infrastructure.",
+      "url": "https://ipor.io/news/fusion-blockaid-onchain-threat-monitoring/",
+      "source": "IPOR",
+      "tag": "Security"
+    }
+  ]
 }

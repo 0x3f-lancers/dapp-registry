@@ -32,5 +32,21 @@
       "ankr",
       "axelar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Understanding Nubila Validator Nodes",
+      "tldr": "Explains the role of Nubila nodes and how their validation process supports the network.",
+      "url": "https://nubila.gitbook.io/nubila/nubila-validator-node-interpretation/nubila-nodes",
+      "source": "Nubila",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Nubila MARCO Model",
+      "tldr": "Introduces Nubila's MARCO framework and the system design behind its network data layer.",
+      "url": "https://nubila.gitbook.io/nubila/nubila-marco",
+      "source": "Nubila",
+      "tag": "Explainer"
+    }
+  ]
 }

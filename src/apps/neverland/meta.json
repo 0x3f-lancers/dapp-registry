@@ -33,5 +33,21 @@
       "gearbox",
       "morpho"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lending Model",
+      "tldr": "Explains Neverland’s lending model and its Aave V3-derived core.",
+      "url": "https://docs.neverland.money/lending-model.md",
+      "source": "Neverland",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Security",
+      "tldr": "Lists the security audits and reviews covering Neverland’s lending contracts.",
+      "url": "https://docs.neverland.money/security.md",
+      "source": "Neverland",
+      "tag": "Security"
+    }
+  ]
 }
