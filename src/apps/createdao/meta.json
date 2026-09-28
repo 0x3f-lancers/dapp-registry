@@ -33,5 +33,21 @@
       "tally",
       "aragon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is a DAO?",
+      "tldr": "Introduces how decentralized autonomous organizations use proposals, voting and shared treasuries to coordinate members.",
+      "url": "https://createdao.org/blog/what-is-a-dao/",
+      "source": "CreateDAO",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Create a DAO Without Coding",
+      "tldr": "CreateDAO's walkthrough covers connecting a wallet, setting governance parameters, and deploying voting and treasury contracts.",
+      "url": "https://createdao.org/how-to-create-a-dao",
+      "source": "CreateDAO",
+      "tag": "Tutorial"
+    }
+  ]
 }

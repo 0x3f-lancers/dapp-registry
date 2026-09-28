@@ -33,5 +33,21 @@
       "solsplits",
       "xade-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Integrate Crypto Payments With One API Call",
+      "tldr": "Explains the integration flow for routing crypto payments across chains and stablecoins through Orda.",
+      "url": "https://orda.network/blog/how-to-integrate-crypto-payments-in-one-api-call",
+      "source": "Orda",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Using the orda Dashboard",
+      "tldr": "Explains project setup, API credentials, transaction monitoring, and reconciliation in orda's integration dashboard.",
+      "url": "https://orda.network/blog/introducing-the-orda-dashboard",
+      "source": "Orda",
+      "tag": "Tutorial"
+    }
+  ]
 }

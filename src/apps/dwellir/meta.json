@@ -38,5 +38,14 @@
       "getblock",
       "quicknode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Robinhood Chain Data for DeFi",
+      "tldr": "Compares RPC and indexed data for Robinhood Chain swaps and pool prices, with practical limits and example viem queries.",
+      "url": "https://www.dwellir.com/blog/robinhood-chain-defi-data",
+      "source": "Dwellir",
+      "tag": "Tutorial"
+    }
+  ]
 }

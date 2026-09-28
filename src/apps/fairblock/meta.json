@@ -22,6 +22,22 @@
     "website": "https://www.fairblock.network",
     "twitter": "https://x.com/0xfairblock"
   },
+  "resources": [
+    {
+      "title": "Fairblock Confidential Finance Overview",
+      "tldr": "Current documentation explains Fairblock's privacy architecture for payments and tokenized assets.",
+      "url": "https://docs.fairblock.network/",
+      "source": "Fairblock",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Stabletrust Confidential Transfer SDK",
+      "tldr": "Developer reference for integrating Fairblock's confidential stablecoin transfers into an app.",
+      "url": "https://stabletrust-docs.fairblock.network/sdk",
+      "source": "Fairblock",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "lagrange",

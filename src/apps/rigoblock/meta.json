@@ -32,5 +32,21 @@
       "origin-ether",
       "harmonix-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Rigoblock FAQ",
+      "tldr": "Answers what Rigoblock vault agents are and how NAV Shield, scoped delegation and an x402 API keep AI operators in bounds.",
+      "url": "https://rigoblock.com/faq",
+      "source": "Rigoblock",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "AI Agents Integration Guide",
+      "tldr": "Guide for external AI agents using Rigoblock's x402-gated quote and chat endpoints, and what they can and cannot do.",
+      "url": "https://docs.rigoblock.com/ai-agents",
+      "source": "Rigoblock Docs",
+      "tag": "AI & Agents"
+    }
+  ]
 }

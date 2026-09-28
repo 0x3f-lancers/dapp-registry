@@ -34,5 +34,21 @@
       "sodax",
       "near-intents"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Firefly Labs Core Architecture",
+      "tldr": "How Firefly Bridge moves assets across EVM and non-EVM chains without wrapped tokens or custodians, aiming for chain abstraction.",
+      "url": "https://docs.fireflylabs.app/about-firefly-labs/core-architecture",
+      "source": "Firefly Labs Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Firefly Bridge Fee Structure",
+      "tldr": "Breaks down Firefly Bridge's two-part fee, a percentage bridge fee plus a destination-chain charge, and how each is set.",
+      "url": "https://docs.fireflylabs.app/about-firefly-labs/fee-structure",
+      "source": "Firefly Labs Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

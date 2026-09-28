@@ -33,5 +33,21 @@
       "nownodes",
       "din-infura"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Duration and Liquidity Shape Staking Yield",
+      "tldr": "Explains how lockup time and liquidity affect institutional staking returns beyond the headline yield rate.",
+      "url": "https://luganodes.com/blog/duration-liquidity-staking-yield",
+      "source": "Luganodes",
+      "tag": "Research"
+    },
+    {
+      "title": "The Infrastructure Behind Luganodes ETH Staking",
+      "tldr": "A detailed look at validator reliability, client diversity, distributed validation, and MEV routing in Luganodes' ETH stack.",
+      "url": "https://luganodes.com/blog/ethereum-staking-stack-luganodes",
+      "source": "Luganodes",
+      "tag": "Research"
+    }
+  ]
 }

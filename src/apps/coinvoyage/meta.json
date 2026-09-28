@@ -33,5 +33,21 @@
       "beam-cash",
       "default"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "CoinVoyage: Non-Custodial Cross-Chain Crypto Payments",
+      "tldr": "Docs intro to CoinVoyage: customers pay with any token they hold while the merchant settles in the asset and chain it picks.",
+      "url": "https://docs.coinvoyage.io/introduction",
+      "source": "CoinVoyage Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "How CoinVoyage Routes and Settles Cross-Chain Payments",
+      "tldr": "Walks through a payment end to end: scanning the wallet, fetching quotes, choosing a route and settling at the destination.",
+      "url": "https://docs.coinvoyage.io/concepts/how-it-works",
+      "source": "CoinVoyage Docs",
+      "tag": "Explainer"
+    }
+  ]
 }

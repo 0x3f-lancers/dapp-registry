@@ -32,5 +32,21 @@
       "indigo-protocol",
       "fbtc"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why CHATEAU Built on Plasma",
+      "tldr": "Explains the infrastructure choices behind CHATEAU's real-world asset product and its use of Plasma.",
+      "url": "https://www.chateau.capital/blog/why-we-built-on-plasma",
+      "source": "CHATEAU",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How chUSD and schUSD Work on Plasma",
+      "tldr": "CHATEAU explains how users mint chUSD on Plasma and use schUSD to access the project's private-credit yield model.",
+      "url": "https://www.chateau.capital/blog/markets-down-your-yield-doesnt-have-to",
+      "source": "CHATEAU",
+      "tag": "DeFi"
+    }
+  ]
 }

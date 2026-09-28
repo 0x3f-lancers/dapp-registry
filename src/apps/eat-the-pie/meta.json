@@ -32,5 +32,21 @@
       "sunflower-land",
       "predipie"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Eat the Pie: The World Lottery on World Chain",
+      "tldr": "Docs for the autonomous lottery: how draws run onchain, where the capped 1% fee goes and why anyone can verify results.",
+      "url": "https://docs.eatthepie.xyz/",
+      "source": "Eat The Pie Docs",
+      "tag": "Gaming"
+    },
+    {
+      "title": "Migrating the Lottery to V2",
+      "tldr": "Why V1 stalled in Game 6 when a VDF randomness proof failed, how tickets were refunded, and why V2 moved to Witnet.",
+      "url": "https://www.eatthepie.xyz/migrate",
+      "source": "Eat The Pie",
+      "tag": "Infrastructure"
+    }
+  ]
 }

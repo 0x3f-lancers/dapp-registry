@@ -34,5 +34,21 @@
       "alandale",
       "rubicon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Intent-Based DEX Aggregators Explained",
+      "tldr": "Explains how signing a desired trading outcome differs from submitting a fixed swap path and where solvers fit in.",
+      "url": "https://ophis.fi/learn/intent-based-dex-aggregator/",
+      "source": "Ophis",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Ophis Intent Swaps Work on Robinhood Chain",
+      "tldr": "A practical guide to checking quotes, fees, and signed order limits before swapping tokens through Ophis.",
+      "url": "https://ophis.fi/blog/dex-aggregator-robinhood/",
+      "source": "Ophis",
+      "tag": "Tutorial"
+    }
+  ]
 }

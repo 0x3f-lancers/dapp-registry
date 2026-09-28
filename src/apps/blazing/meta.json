@@ -35,5 +35,21 @@
       "hyperdash",
       "simpleswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blazing Beginner's Guide",
+      "tldr": "Walks through linking the Telegram bot to the Blazing web app, then the dashboard's token search, chain selector and trade panel.",
+      "url": "https://blazingbot.gitbook.io/en/beginners-guide",
+      "source": "Blazing Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Blazing Speed Tests",
+      "tldr": "Blazing's own block-by-block tests against Banana Gun, Sigma, Maestro and BullX on Base, BNB Chain, Avalanche and Sonic.",
+      "url": "https://blazingapp.gitbook.io/tutorials/features/speed",
+      "source": "Blazing Docs",
+      "tag": "Trading"
+    }
+  ]
 }

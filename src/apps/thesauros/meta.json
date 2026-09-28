@@ -31,5 +31,21 @@
       "superform",
       "steer-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Build with Thesauros",
+      "tldr": "Thesauros developer docs on adding a stablecoin Earn feature to an app, with a sandbox and a first API call.",
+      "url": "https://docs.thesauros.io/",
+      "source": "Thesauros Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Design Your Integration",
+      "tldr": "Guide to designing an Earn integration around the customer journey, from showing balances to consent and withdrawals.",
+      "url": "https://docs.thesauros.io/start/integration-paths/",
+      "source": "Thesauros Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

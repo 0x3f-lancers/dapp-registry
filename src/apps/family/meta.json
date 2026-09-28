@@ -33,5 +33,21 @@
       "begin-wallet",
       "nufi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Family Accounts Were Created",
+      "tldr": "Explains the recovery and sharing problems with traditional seed phrase wallets and the design of Family Accounts.",
+      "url": "https://family.co/blog/why-family-accounts",
+      "source": "Family",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Family Accounts Simplify Wallet Access",
+      "tldr": "Describes Family's email and passkey onboarding, browser dashboard, wallet recovery, and self-custody design.",
+      "url": "https://family.co/blog/family-accounts",
+      "source": "Family",
+      "tag": "Explainer"
+    }
+  ]
 }

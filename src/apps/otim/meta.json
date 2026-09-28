@@ -32,5 +32,21 @@
       "bridge-xyz",
       "trustware"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Otim Orchestrators: Webhooks for Money",
+      "tldr": "Introduces Otim's programmable stablecoin routing and how webhooks can trigger payment workflows.",
+      "url": "https://otim.com/blog/introducing-otim-orchestrators/",
+      "source": "Otim",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Why Stablecoin Payments Need Orchestration",
+      "tldr": "Explains the recurring routing and coordination work behind stablecoin payment flows and Otim's approach to it.",
+      "url": "https://otim.com/blog/orchestration-is-the-shovel-in-this-stablecoin-gold-rush",
+      "source": "Otim",
+      "tag": "Explainer"
+    }
+  ]
 }

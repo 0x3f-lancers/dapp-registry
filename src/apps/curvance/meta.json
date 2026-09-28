@@ -33,5 +33,14 @@
       "0x",
       "1inch"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Curvance Manages Oracle Risk",
+      "tldr": "Explains the price validation, heartbeat checks and market safeguards Curvance uses to limit stale or manipulated oracle data.",
+      "url": "https://blog.curvance.com/posts/oracles-curvance/",
+      "source": "Curvance",
+      "tag": "Security"
+    }
+  ]
 }

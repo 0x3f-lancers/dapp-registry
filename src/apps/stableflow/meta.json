@@ -33,5 +33,22 @@
       "router-nitro",
       "base-bridge"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "DapDap Launches StableFlow",
+      "tldr": "Launch post for StableFlow, a low-fee app built to move large stablecoin transfers between chains.",
+      "url": "https://paragraph.com/@dapdapmeup/dapdap-launches-stableflow-a-new-app-for-low-cost-stablecoin-bridging-at-scale",
+      "source": "DapDap",
+      "tag": "Infrastructure",
+      "publishedAt": "2025-10-09"
+    },
+    {
+      "title": "Welcome to StableFlow",
+      "tldr": "Docs on why most bridges get expensive at size and how StableFlow keeps large stablecoin transfers cheap.",
+      "url": "https://docs.stableflow.ai/",
+      "source": "StableFlow Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

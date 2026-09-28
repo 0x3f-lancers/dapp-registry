@@ -23,6 +23,22 @@
     "website": "https://routescan.io",
     "twitter": "https://x.com/routescan_io"
   },
+  "resources": [
+    {
+      "title": "Routescan API Documentation",
+      "tldr": "Introduces Routescan's multichain explorer data APIs and available blockchain data endpoints.",
+      "url": "https://routescan.io/docs",
+      "source": "Routescan",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Routescan API Conventions",
+      "tldr": "Explains network and chain IDs, authentication, pagination, and multichain queries.",
+      "url": "https://routescan.io/docs/api/conventions",
+      "source": "Routescan",
+      "tag": "Tutorial"
+    }
+  ],
   "relations": {
     "alternatives": [
       "hypurrscan",

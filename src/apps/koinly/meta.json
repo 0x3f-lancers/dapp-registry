@@ -22,6 +22,22 @@
     "website": "https://koinly.io",
     "twitter": "https://x.com/koinlyofficial"
   },
+  "resources": [
+    {
+      "title": "Getting Started With Koinly",
+      "tldr": "Walks through importing activity, checking transactions, and preparing a crypto tax report.",
+      "url": "https://support.koinly.io/en/articles/9489951-getting-started-with-koinly",
+      "source": "Koinly",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How to Add Transactions to Koinly",
+      "tldr": "Explains API, file, wallet address, and manual methods for importing transaction history.",
+      "url": "https://support.koinly.io/en/articles/9489972-how-do-i-add-transactions",
+      "source": "Koinly",
+      "tag": "Tutorial"
+    }
+  ],
   "relations": {
     "alternatives": [
       "pulley",

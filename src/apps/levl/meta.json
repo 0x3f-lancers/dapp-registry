@@ -32,5 +32,21 @@
       "splits",
       "suby"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "USD Named Accounts for Client Payments",
+      "tldr": "Explains how named USD accounts identify a client's payment and simplify reconciliation in stablecoin-backed flows.",
+      "url": "https://www.levl.ch/news/usd-named-accounts",
+      "source": "Levl",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Levl Named Account Payment Rails",
+      "tldr": "Levl documents named accounts for local and SWIFT payments, including supported currencies and stablecoin conversion routes.",
+      "url": "https://docs.levl.ch/docs/named-accounts",
+      "source": "Levl",
+      "tag": "Infrastructure"
+    }
+  ]
 }

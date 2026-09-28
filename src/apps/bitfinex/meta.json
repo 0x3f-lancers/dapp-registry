@@ -32,5 +32,21 @@
       "bitget",
       "egemoney"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Happened in the Cardano Exploit",
+      "tldr": "Analyzes the malformed transaction that caused a Cardano chain split and explains the network behavior that followed.",
+      "url": "https://blog.bitfinex.com/industry-news/what-actually-happened-with-the-cardano-exploit/",
+      "source": "Bitfinex",
+      "tag": "Security"
+    },
+    {
+      "title": "What Is Plasma and Its XPL Token?",
+      "tldr": "Bitfinex explains Plasma's stablecoin payment design, consensus, gas model, and the role of its XPL token.",
+      "url": "https://blog.bitfinex.com/education/what-is-plasma-xpl/",
+      "source": "Bitfinex",
+      "tag": "Explainer"
+    }
+  ]
 }

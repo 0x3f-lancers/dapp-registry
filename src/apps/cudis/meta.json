@@ -21,6 +21,22 @@
     "website": "https://www.cudis.xyz",
     "twitter": "https://x.com/CudisWellness"
   },
+  "resources": [
+    {
+      "title": "How CUDIS Works",
+      "tldr": "Explains how the ring tracks wellness metrics and how the app turns them into coaching and challenges.",
+      "url": "https://www.cudis.xyz/pages/how-cudis-works",
+      "source": "CUDIS",
+      "tag": "Explainer"
+    },
+    {
+      "title": "CUDIS Developer Platform Overview",
+      "tldr": "Introduces the APIs and SDKs for building applications with user-authorized CUDIS Ring data.",
+      "url": "https://developer.cudis.xyz/infrastructure/welcome",
+      "source": "CUDIS",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "eluvio-live",

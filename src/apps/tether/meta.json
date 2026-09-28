@@ -24,6 +24,22 @@
     "website": "https://tether.to",
     "twitter": "https://x.com/tether"
   },
+  "resources": [
+    {
+      "title": "How Tether Tokens Work",
+      "tldr": "Tether explains issuance, reserves, fiat pegs, and the blockchains that carry its tokens.",
+      "url": "https://tether.to/en/how-it-works/",
+      "source": "Tether",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Tether Token FAQs",
+      "tldr": "Answers questions about token creation, redemption, supported assets, and using Tether across chains.",
+      "url": "https://tether.to/en/faqs/",
+      "source": "Tether",
+      "tag": "Explainer"
+    }
+  ],
   "relations": {
     "alternatives": [
       "yuzu-money",

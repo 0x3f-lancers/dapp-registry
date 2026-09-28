@@ -32,5 +32,22 @@
       "nested",
       "dextrabot"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Learn Perpetual Futures Trading",
+      "tldr": "A starting point for 10X guides on leverage, funding rates, liquidation and trading perpetual futures.",
+      "url": "https://10xperps.xyz/learn/",
+      "source": "10X",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "10X vs dYdX vs GMX: Which Perps DEX Should You Use?",
+      "tldr": "10X's own comparison of perps venues, weighing its Hyperliquid-based app against dYdX and GMX on markets and leverage.",
+      "url": "https://10xperps.xyz/blog/10x-vs-dydx-vs-gmx/",
+      "source": "10X",
+      "tag": "Trading",
+      "publishedAt": "2026-03-19"
+    }
+  ]
 }

@@ -35,5 +35,22 @@
       "eisenlabs",
       "nabla-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What is Cybro?",
+      "tldr": "Docs for Cybro's LP management hub: tracking positions, moving ranges, compounding fees and automating exits across protocols.",
+      "url": "https://cybro.gitbook.io/cybro",
+      "source": "Cybro Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Smarter LP Management: Auto-Close and Auto-Rebalance on Arbitrum",
+      "tldr": "Announces auto-close at a target price and automatic range recentring for concentrated liquidity positions on Arbitrum.",
+      "url": "https://cybro.medium.com/smarter-lp-management-auto-close-and-auto-rebalance-are-live-on-arbitrum-1607a8343810",
+      "source": "Cybro",
+      "tag": "Product",
+      "publishedAt": "2026-06-02"
+    }
+  ]
 }

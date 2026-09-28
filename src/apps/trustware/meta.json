@@ -32,5 +32,14 @@
       "chainrails",
       "checker-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Account Abstraction and ERC-4337 Explained",
+      "tldr": "Introduces EntryPoint, paymasters and the account abstraction flow that changes how smart wallets submit transactions.",
+      "url": "https://trustware.io/blog/account-abstraction-101-erc-4337-entrypoint-paymasters",
+      "source": "Trustware",
+      "tag": "Explainer"
+    }
+  ]
 }

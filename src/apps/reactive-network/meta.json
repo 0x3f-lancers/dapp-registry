@@ -32,5 +32,14 @@
       "altitude-rpc",
       "blockpi-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Validator Counts Mislead Finality Analysis",
+      "tldr": "Examines why counting validators alone can misstate a network's ability to finalize blocks under stress.",
+      "url": "https://blog.reactive.network/finality-wars-counting-validators-counts-wrong/",
+      "source": "Reactive Network",
+      "tag": "Research"
+    }
+  ]
 }

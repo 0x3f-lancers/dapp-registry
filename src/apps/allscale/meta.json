@@ -32,5 +32,21 @@
       "omy-payments",
       "suby"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Send Stablecoins With a Claim Link",
+      "tldr": "Shows how AllScale lets someone create a claim link to send stablecoins without collecting a recipient wallet address first.",
+      "url": "https://www.allscale.io/posts/claim-link-send-stablecoins-via-a-link",
+      "source": "AllScale",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How AllScale Checkout Handles Stablecoin Payments",
+      "tldr": "Introduces AllScale Checkout and explains how an online business can accept stablecoins through its payment flow.",
+      "url": "https://www.allscale.io/posts/allscale-checkout-online-payments",
+      "source": "AllScale",
+      "tag": "Explainer"
+    }
+  ]
 }

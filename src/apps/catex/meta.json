@@ -32,5 +32,22 @@
       "ekubo",
       "alt-fun"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "About Catex",
+      "tldr": "Describes Catex as a coordination layer for Uniswap v4 on Unichain, combining managed liquidity, ve(3,3) voting and incentives.",
+      "url": "https://catex.gitbook.io/catex",
+      "source": "Catex Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Catex: The New Frontier of DeFi Yield and Uniswap Innovation",
+      "tldr": "An outside overview of Catex's pitch as a Unichain home for v4 hook builders and a native yield source for LPs.",
+      "url": "https://medium.com/@oryimand/catex-the-new-frontier-of-defi-yield-uniswap-innovation-a290fd05bac4",
+      "source": "Medium",
+      "tag": "DeFi",
+      "publishedAt": "2025-09-28"
+    }
+  ]
 }

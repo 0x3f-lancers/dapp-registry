@@ -22,6 +22,22 @@
     "website": "https://poap.xyz",
     "twitter": "https://x.com/poapxyz"
   },
+  "resources": [
+    {
+      "title": "Introducing POAP Drops",
+      "tldr": "Explains how issuers create POAP drops and distribute event collectibles to their communities.",
+      "url": "https://blog.poap.xyz/drops/",
+      "source": "POAP",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Getting Started With the POAP API",
+      "tldr": "Official developer overview for minting, distributing, displaying, and checking POAPs in an app.",
+      "url": "https://poap.readme.io/docs/getting-started",
+      "source": "POAP",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "base-paint",

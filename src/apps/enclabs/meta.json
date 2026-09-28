@@ -32,5 +32,21 @@
       "myso-finance",
       "impermax-v2"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "About Enclabs",
+      "tldr": "Docs for Enclabs' lending markets on Sonic and Plasma, built for looping with LSTs, interest-bearing tokens and Pendle PTs.",
+      "url": "https://enclabs.gitbook.io/enclabs-documentation",
+      "source": "Enclabs Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Isolated Pools",
+      "tldr": "Explains how isolated pools give each group of assets its own risk settings so trouble in one market stays contained.",
+      "url": "https://enclabs.gitbook.io/enclabs-documentation/lending-markets/isolated-pools",
+      "source": "Enclabs Docs",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -34,5 +34,21 @@
       "yield-yak",
       "spinup"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bitcoin Onchain Credit Strategy",
+      "tldr": "Introduces Lombard's institutional credit allocation as a source of Bitcoin yield and describes how it differs from DeFi lending.",
+      "url": "https://www.lombard.finance/blog/bitcoin-onchain-credit-strategy/",
+      "source": "Lombard",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Bitcoin Smart Accounts and Native BTC in DeFi",
+      "tldr": "Lombard's technical paper explains its Bitcoin Smart Account design for using native BTC as DeFi collateral.",
+      "url": "https://www.lombard.finance/BSA.pdf",
+      "source": "Lombard",
+      "tag": "Research"
+    }
+  ]
 }

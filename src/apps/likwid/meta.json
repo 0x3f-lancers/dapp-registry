@@ -32,5 +32,22 @@
       "perpmate",
       "demex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Likwid Docs: Introduction",
+      "tldr": "Explains how one Likwid pool curve handles spot trades, lending and leverage on any ERC-20 pair with no oracle.",
+      "url": "https://docs.likwid.fi/",
+      "source": "Likwid Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "LIKWID Completes Security Audit Ahead of Mainnet",
+      "tldr": "Announces LIKWID's Certora audit, funded by the Uniswap Foundation, ahead of mainnet for its oracle-free margin protocol.",
+      "url": "https://www.pr-inside.com/likwid-completes-security-audit-ahead-of-mainnet-reinventing-margin-r5107602.htm",
+      "source": "ACCESS Newswire",
+      "tag": "Security",
+      "publishedAt": "2025-05-29"
+    }
+  ]
 }

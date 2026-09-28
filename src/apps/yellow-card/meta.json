@@ -21,6 +21,22 @@
     "website": "https://yellowcard.io",
     "twitter": "https://x.com/yellowcard_app"
   },
+  "resources": [
+    {
+      "title": "Yellow Card Payments API Documentation",
+      "tldr": "Explains business payment API capabilities, including local currency collection and stablecoin settlement.",
+      "url": "https://help.yellowcard.io/articles/8999093541-api-documentation",
+      "source": "Yellow Card",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How Yellow Card Invoice Settlement Works",
+      "tldr": "Walks businesses through funding and settling cross-border invoices using local currency or stablecoins.",
+      "url": "https://yellowcard.io/blog/simplifying-invoice-payments-for-businesses",
+      "source": "Yellow Card",
+      "tag": "Tutorial"
+    }
+  ],
   "relations": {
     "alternatives": [
       "acctual",

@@ -32,5 +32,14 @@
       "folks-finance",
       "gearbox"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "MEV, Slippage and DEX Aggregator Swaps",
+      "tldr": "Explains how MEV bots and slippage can change swap outcomes and what traders can inspect before submitting an order.",
+      "url": "https://peridot.finance/blog/dark-side-dex-aggregators-mev-bots-slippage-protect-swaps",
+      "source": "Peridot",
+      "tag": "Security"
+    }
+  ]
 }

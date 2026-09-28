@@ -33,5 +33,23 @@
       "eigenlayer",
       "rigoblock"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Stable Refund and Hourglass: How the Allocation System Works",
+      "tldr": "Breaks down the Stable pre-deposit allocation: the $1,000 guaranteed floor, pro-rata beyond it, and the refund process.",
+      "url": "https://www.okx.com/en-us/learn/stable-refund-hourglass-allocation-system",
+      "source": "OKX Learn",
+      "tag": "Explainer",
+      "publishedAt": "2025-11-18"
+    },
+    {
+      "title": "Stable Raised $2.6B in Pre-Deposits Across Two Phases",
+      "tldr": "Case study of Stable's two pre-deposit phases run through Hourglass, including where the process went wrong for depositors.",
+      "url": "https://www.yieldnetwork.io/blog/stable-predeposit-case-study",
+      "source": "Yield Network",
+      "tag": "Research",
+      "publishedAt": "2025-11-10"
+    }
+  ]
 }

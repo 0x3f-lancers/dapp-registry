@@ -22,6 +22,22 @@
     "website": "https://reth.rs/",
     "github": "https://github.com/paradigmxyz/reth"
   },
+  "resources": [
+    {
+      "title": "Install Reth",
+      "tldr": "Official instructions for obtaining Reth through binaries, Docker images, or a source build.",
+      "url": "https://reth.rs/installation/installation.html",
+      "source": "Reth",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Run an Ethereum Node With Reth",
+      "tldr": "Explains archive and full node commands and how Reth connects to an Ethereum consensus client.",
+      "url": "https://reth.rs/run/ethereum/",
+      "source": "Reth",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "besu",

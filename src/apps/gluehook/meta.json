@@ -32,5 +32,21 @@
       "hiro",
       "webstudio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What is GlueHook",
+      "tldr": "GlueHook's docs intro to its open-source Uniswap v4 hook that gives each pool a buyback pot and self-compounding liquidity.",
+      "url": "https://www.gluehook.trade/docs",
+      "source": "GlueHook Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Buybacks Nobody Has to Run",
+      "tldr": "A chapter on how GlueHook runs buybacks with no signer, bot or oracle, using each trade as the trigger.",
+      "url": "https://www.gluehook.trade/docs/autonomous-buyback",
+      "source": "GlueHook Docs",
+      "tag": "Explainer"
+    }
+  ]
 }

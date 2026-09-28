@@ -32,5 +32,21 @@
       "algebra-protocol",
       "suiswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bunni Exploit Postmortem",
+      "tldr": "The team's account of the exploit affecting two pools, including the attack path and lessons for liquidity protocol security.",
+      "url": "http://blog.bunni.xyz/posts/exploit-post-mortem/",
+      "source": "Bunni",
+      "tag": "Security"
+    },
+    {
+      "title": "Technical Analysis of the Bunni V2 Exploit",
+      "tldr": "BlockSec traces the rounding-error withdrawals behind Bunni V2's exploit and explains the liquidity accounting failure.",
+      "url": "https://blocksec.com/blog/bunni-incident-repeated-small-withdrawals-compound-a-rounding-error-into-an-8.4m-drain",
+      "source": "BlockSec",
+      "tag": "Security"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "zignaly",
       "cian-yield-layer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What is Odyssey?",
+      "tldr": "Odyssey's case that DeFi is too fragmented, and how it bundles many protocols into one account and interface.",
+      "url": "https://docs.odyssey.finance/introduction/what-is-odyssey",
+      "source": "Odyssey Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Yieldr",
+      "tldr": "Docs for Yieldr, Odyssey's module that curates vaults from major protocols so users can compare and enter yield in one place.",
+      "url": "https://docs.odyssey.finance/architecture/interfaces/yieldr",
+      "source": "Odyssey Docs",
+      "tag": "DeFi"
+    }
+  ]
 }

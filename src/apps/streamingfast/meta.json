@@ -35,5 +35,14 @@
       "ankr",
       "quicknode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Serve Substreams Data Over GraphQL",
+      "tldr": "Shows how a hosted Substreams sink exposes indexed blockchain data through a read-only GraphQL endpoint without a separate API server.",
+      "url": "https://www.streamingfast.io/blog/serve-your-substreams-data-over-graphql",
+      "source": "StreamingFast",
+      "tag": "Tutorial"
+    }
+  ]
 }

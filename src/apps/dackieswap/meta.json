@@ -22,6 +22,22 @@
     "website": "https://dackieswap.xyz",
     "twitter": "https://x.com/DackieSwap"
   },
+  "resources": [
+    {
+      "title": "DackieSwap V3 Liquidity",
+      "tldr": "Explains concentrated liquidity, price ranges, fee tiers, and capital efficiency on DackieSwap.",
+      "url": "https://docs.dackieswap.xyz/dackieswap/product-features/liquidity-providers/v3",
+      "source": "DackieSwap",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How DackieSwap's AI Smart Router Works",
+      "tldr": "Shows how DackieSwap compares aggregator quotes and route performance when users swap tokens.",
+      "url": "https://docs.dackieswap.xyz/dackieswap/product-features/traders/ai-smart-router",
+      "source": "DackieSwap",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "01",

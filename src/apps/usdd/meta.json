@@ -23,6 +23,22 @@
     "website": "https://usdd.io",
     "twitter": "https://x.com/USDDecentralize"
   },
+  "resources": [
+    {
+      "title": "Getting Started With USDD",
+      "tldr": "Official guide to the USDD ecosystem, including vaults, the peg stability module, and savings.",
+      "url": "https://docs.usdd.io/user-guide/getting-started",
+      "source": "USDD",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How to Manage a USDD Vault",
+      "tldr": "Shows how collateralized vault holders can adjust collateral and mint or repay USDD.",
+      "url": "https://docs.usdd.io/user-guide/manage-a-vault",
+      "source": "USDD",
+      "tag": "Tutorial"
+    }
+  ],
   "relations": {
     "alternatives": [
       "mstable",

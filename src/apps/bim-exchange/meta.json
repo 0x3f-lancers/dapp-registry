@@ -33,5 +33,21 @@
       "onramp-money",
       "swipelux"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What is BIM?",
+      "tldr": "Covers the BIM governance token: a fixed 30 million supply, holder voting, and the share of exchange revenue paid out to holders.",
+      "url": "https://docs.bim.finance/whitepaper",
+      "source": "BIM Finance Docs",
+      "tag": "Governance"
+    },
+    {
+      "title": "BIM Quickstart",
+      "tldr": "Beginner setup guide: creating and securing a self-custody wallet, funding it, and connecting it to BIM for the first time.",
+      "url": "https://docs.bim.finance/whitepaper/quickstart",
+      "source": "BIM Finance Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

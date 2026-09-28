@@ -24,6 +24,22 @@
     "website": "https://www.subwallet.app",
     "twitter": "https://x.com/subwalletapp"
   },
+  "resources": [
+    {
+      "title": "Create a New SubWallet Account",
+      "tldr": "Official mobile guide to creating an account and backing up its recovery phrase.",
+      "url": "https://docs.subwallet.app/main/mobile-app-user-guide/account-management/create-a-new-account-with-new-seed-phrase",
+      "source": "SubWallet",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Start Staking With SubWallet",
+      "tldr": "Walks through choosing a nomination pool, entering an amount, and approving a staking request.",
+      "url": "https://docs.subwallet.app/main/mobile-app-user-guide/earning/nomination-pool/start-staking",
+      "source": "SubWallet",
+      "tag": "Tutorial"
+    }
+  ],
   "relations": {
     "alternatives": [
       "walllet.com",

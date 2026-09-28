@@ -21,6 +21,22 @@
     "website": "https://axal.com",
     "twitter": "https://x.com/getaxal"
   },
+  "resources": [
+    {
+      "title": "Axal Help Center",
+      "tldr": "Guides to funding an Axal account, earning yield, withdrawing, and understanding fees and risks.",
+      "url": "https://docs.axal.com/",
+      "source": "Axal",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Axal Wallet Security Works",
+      "tldr": "Explains Axal's self-custodial wallet design, account abstraction, and automated signing safeguards.",
+      "url": "https://docs.axal.com/docs/advanced/wallet-and-security",
+      "source": "Axal",
+      "tag": "Security"
+    }
+  ],
   "relations": {
     "alternatives": [
       "liminal-basis",

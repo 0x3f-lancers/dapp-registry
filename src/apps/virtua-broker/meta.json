@@ -32,5 +32,21 @@
       "loop-crypto",
       "drips-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cross-Border Settlement for Remittances",
+      "tldr": "Explains how settlement speed and payout timing affect remittance companies moving money between countries.",
+      "url": "https://virtuabroker.com/blog/what-is-cross-border-settlement-and-why-does-it-matter-for-remittance-companies/",
+      "source": "VirtuaBroker",
+      "tag": "Explainer"
+    },
+    {
+      "title": "VirtuaBroker Cross-Border Payments API",
+      "tldr": "The API guide explains quotes, orders, deposits, and local payout flows for partner payment integrations.",
+      "url": "https://api.virtuabroker.com/index.html",
+      "source": "VirtuaBroker",
+      "tag": "Tutorial"
+    }
+  ]
 }

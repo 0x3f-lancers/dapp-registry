@@ -33,5 +33,21 @@
       "strkfarm",
       "ezmanager"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Structured Yield for Neutrl NUSD",
+      "tldr": "Explains how Strata's risk tranches bring different return and risk profiles to Neutrl's NUSD yield.",
+      "url": "https://blog.strata.markets/introducing-structured-yields-to-neutrl-nusd",
+      "source": "Strata",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How Strata Splits Yield and Risk",
+      "tldr": "Explains Strata's senior and junior tranches and how its dynamic yield split distributes returns between them.",
+      "url": "https://docs.strata.markets/protocol-mechanism",
+      "source": "Strata",
+      "tag": "DeFi"
+    }
+  ]
 }

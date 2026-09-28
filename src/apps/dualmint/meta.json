@@ -32,5 +32,21 @@
       "clearpool",
       "opentrade"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Stablecoin Yield From Everyday Assets",
+      "tldr": "Explains how asset-backed yield differs from lending-driven stablecoin yield and why the source of returns matters.",
+      "url": "https://www.dualmint.com/blog/stablecoin-yield-everyday-assets",
+      "source": "Dualmint",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How DualMint's Machine Yield Index Works",
+      "tldr": "Explains the pooled physical-machine vault, asset screening, monthly distributions, and redemption process.",
+      "url": "https://www.dualmint.com/blog/what-is-the-boring-yield-index",
+      "source": "Dualmint",
+      "tag": "Explainer"
+    }
+  ]
 }

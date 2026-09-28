@@ -21,6 +21,29 @@
     "website": "https://icecreamswap.com",
     "twitter": "https://x.com/icecream_swap"
   },
+  "resources": [
+    {
+      "title": "How to Swap on IceCreamSwap",
+      "tldr": "The exchange guide shows how to connect a wallet, choose tokens, set slippage, and confirm a swap.",
+      "url": "https://wiki.icecreamswap.com/dex/swap",
+      "source": "IceCreamSwap",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Providing IceCreamSwap Liquidity",
+      "tldr": "The liquidity guide explains token pairs, pool deposits, trading fees, and how liquidity relates to farming.",
+      "url": "https://wiki.icecreamswap.com/dex/liquidity",
+      "source": "IceCreamSwap",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Using the IceCreamSwap Bridge",
+      "tldr": "The bridge guide explains transfers between supported networks and the destination tokens received.",
+      "url": "https://wiki.icecreamswap.com/dex/bridge",
+      "source": "IceCreamSwap",
+      "tag": "Tutorial"
+    }
+  ],
   "relations": {
     "alternatives": [
       "maxbidpro",

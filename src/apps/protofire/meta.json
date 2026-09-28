@@ -33,5 +33,21 @@
       "softstack",
       "hype"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tokenized Treasuries Versus Stablecoins",
+      "tldr": "Compares the backing, yield and redemption mechanics of tokenized Treasury products with payment stablecoins.",
+      "url": "https://protofire.io/guides/tokenized-treasuries-vs-stablecoins/",
+      "source": "Protofire",
+      "tag": "Explainer"
+    },
+    {
+      "title": "The Infrastructure Behind Stablecoin Adoption",
+      "tldr": "Protofire examines the lending, liquidity, treasury, and contract infrastructure needed to make stablecoins useful at scale.",
+      "url": "https://protofire.io/blog/why-infrastructure-drives-stablecoin-adoption-after-regulation/",
+      "source": "Protofire",
+      "tag": "Research"
+    }
+  ]
 }

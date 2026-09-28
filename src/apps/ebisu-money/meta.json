@@ -21,6 +21,22 @@
     "website": "https://ebisu.money/",
     "twitter": "https://x.com/Ebisu_Finance"
   },
+  "resources": [
+    {
+      "title": "Managing an ebUSD Loan",
+      "tldr": "Explains collateral, repayments, interest rates, and liquidation risks for Ebisu borrowing positions.",
+      "url": "https://ebisu.gitbook.io/ebisu-money/managing-your-ebusd-loan",
+      "source": "Ebisu",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Earning Yield With ebUSD",
+      "tldr": "Official guide to depositing ebUSD into Ebisu stability pools to earn protocol yield.",
+      "url": "https://ebisu.gitbook.io/ebisu-money/earning-ebusd-yield",
+      "source": "Ebisu",
+      "tag": "Tutorial"
+    }
+  ],
   "relations": {
     "alternatives": [
       "reflexer",

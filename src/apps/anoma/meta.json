@@ -33,5 +33,21 @@
       "quex-tech",
       "butter-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Confidential Swaps on AnomaPay",
+      "tldr": "Introduces AnomaPay's confidential swap flow and how users can trade while keeping transaction details private.",
+      "url": "https://blog.anoma.net/introducing-confidential-swaps-on-anomapay/",
+      "source": "Anoma",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Private Payments on Stable with AnomaPay",
+      "tldr": "Explains how AnomaPay shields balances and transfers on Stable while using USDT0 and familiar EVM wallets.",
+      "url": "https://anoma.net/blog/anomapay-is-now-live-on-stable",
+      "source": "Anoma",
+      "tag": "Explainer"
+    }
+  ]
 }

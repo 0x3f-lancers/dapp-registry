@@ -32,5 +32,21 @@
       "wert",
       "bulla-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Custodial Versus Non-Custodial Wallets",
+      "tldr": "Explains who holds the keys in each wallet model and what that means for merchants handling crypto payments.",
+      "url": "https://blog.tender.cash/2026/07/08/custodial-vs-non-custodial-wallets-what-merchants-need-to-know/",
+      "source": "Tender",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Tender Settles Crypto Sales in Naira",
+      "tldr": "Explains Tender's online, WhatsApp, and in-person checkout flows and how merchants receive local-currency payouts.",
+      "url": "https://blog.tender.cash/2026/09/16/accept-crypto-and-settle-in-naira/",
+      "source": "Tender",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -21,6 +21,22 @@
     "website": "https://dfx.swiss",
     "twitter": "https://x.com/DFX_Swiss"
   },
+  "resources": [
+    {
+      "title": "DFX Buy and Sell FAQ",
+      "tldr": "The FAQ covers bank-to-wallet purchases, SEPA transfers, supported wallets, fees, and selling crypto through DFX.",
+      "url": "https://docs.dfx.swiss/en/faq",
+      "source": "DFX",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "DFX Toolbox Integration",
+      "tldr": "DFX explains its API and iframe options for adding a fiat on-ramp or off-ramp to a wallet or website.",
+      "url": "https://dfx.swiss/dfx-toolbox",
+      "source": "DFX",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "blink-cash",

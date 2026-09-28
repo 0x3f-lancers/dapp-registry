@@ -32,5 +32,14 @@
       "defx",
       "airswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Openlaunch Documentation",
+      "tldr": "Openlaunch's docs on what its contracts enforce: no minting after launch, no pausing or blacklists, and locked or burned liquidity.",
+      "url": "https://www.openlaunchfi.xyz/docs",
+      "source": "Openlaunch",
+      "tag": "Security"
+    }
+  ]
 }

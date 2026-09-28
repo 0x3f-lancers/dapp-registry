@@ -37,5 +37,14 @@
       "ankr",
       "quicknode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Improving RPC Reliability for Web3 Apps",
+      "tldr": "Covers provider failover, retries, monitoring and latency thresholds for keeping blockchain RPC calls reliable in production.",
+      "url": "https://boltrpc.io/blog/how-to-improve-rpc-reliability-web3-dapps",
+      "source": "BoltRPC",
+      "tag": "Infrastructure"
+    }
+  ]
 }

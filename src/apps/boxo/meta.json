@@ -21,6 +21,29 @@
     "website": "https://www.boxo.io",
     "twitter": "https://x.com/boxohq"
   },
+  "resources": [
+    {
+      "title": "Boxo Host App Integration Guide",
+      "tldr": "Boxo walks host app developers through creating a client, installing an SDK, and launching an approved miniapp.",
+      "url": "https://docs.boxo.io/host-apps/GettingStarted",
+      "source": "Boxo",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Boxo eSIM Miniapp in World App",
+      "tldr": "The team explains how its eSIM miniapp was integrated into World App and what travelers can do with it.",
+      "url": "https://www.boxo.io/blog/boxo-esim-miniapp-now-available-in-tools-for-humanitys-world-app",
+      "source": "Boxo",
+      "tag": "Explainer"
+    },
+    {
+      "title": "What Is Boxo?",
+      "tldr": "Boxo describes its super app platform, SDK integration, and the services available through its miniapps.",
+      "url": "https://www.boxo.io/blog/boxo-super-app-platform",
+      "source": "Boxo",
+      "tag": "Explainer"
+    }
+  ],
   "relations": {
     "alternatives": [
       "bridge-xyz",

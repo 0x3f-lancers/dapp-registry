@@ -33,5 +33,22 @@
       "starkgate",
       "chainport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Mach Cross-Chain Swaps",
+      "tldr": "Explains how Mach swaps any asset between chains using one contract per chain, with both legs settling together.",
+      "url": "https://docs.mach.exchange/protocol-concepts/cross-chain-swaps",
+      "source": "Mach Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Case for Encrypted Finance",
+      "tldr": "Tristero explains why it built Mach for cross-chain spot first and is now moving to encrypted, private order execution.",
+      "url": "https://tristero.substack.com/p/the-case-for-encrypted-finance",
+      "source": "Tristero Research",
+      "tag": "Trading",
+      "publishedAt": "2025-11-13"
+    }
+  ]
 }

@@ -32,5 +32,23 @@
       "minswap",
       "kodiak-dex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Liquidity Problem Slowing Institutional Stablecoin Adoption",
+      "tldr": "LayerZero explains why fragmented stablecoin liquidity slows institutions, and how Superset's unified market addresses it.",
+      "url": "https://layerzero.network/blog/stablecoin-liquidity-problem-superset",
+      "source": "LayerZero Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-05-22"
+    },
+    {
+      "title": "Superset Targets Stablecoin Liquidity Gap with $4M Funding Round",
+      "tldr": "Covers Superset's seed round to build one execution layer for stablecoins, tokenized deposits and on-chain FX.",
+      "url": "https://crypto.news/superset-targets-stablecoin-liquidity-gap-with-4m-funding-round/",
+      "source": "crypto.news",
+      "tag": "Finance",
+      "publishedAt": "2026-02-11"
+    }
+  ]
 }

@@ -32,5 +32,22 @@
       "ambisafe",
       "pandatool"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Mint Club Bonding Curve",
+      "tldr": "Explains how Mint Club prices tokens and NFTs from supply along a predefined curve, and what that means for buyers and sellers.",
+      "url": "https://docs.mint.club/learn/bonding",
+      "source": "Mint Club Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Mint Club: No-Code Bonding Curve Token Platform Explained",
+      "tldr": "Overview of creating curve-backed assets on Mint Club, including royalties and the chains it supports.",
+      "url": "https://www.gate.com/learn/articles/mint-club-mintclub-unlocking-infinite-flexibility-in-bonding-curve-asset-creation/7251",
+      "source": "Gate Learn",
+      "tag": "Explainer",
+      "publishedAt": "2025-03-12"
+    }
+  ]
 }

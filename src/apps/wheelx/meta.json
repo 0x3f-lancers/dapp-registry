@@ -35,5 +35,21 @@
       "across",
       "chasm-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Arc, Circle, USDC and WheelX Fit Together",
+      "tldr": "Explains the roles of programmable money, stablecoin settlement and WheelX in a connected payment flow.",
+      "url": "https://wheelx.fi/blog/article/how-arc-circle-usdc-and-wheelx-fit-together",
+      "source": "WheelX",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Bridge Native USDC with WheelX and Circle CCTP",
+      "tldr": "A step-by-step example of selecting a source network, reviewing fees, and bridging native USDC with WheelX.",
+      "url": "https://wheelx.fi/blog/article/bridging-to-pharos-with-native-usdc-using-wheelx-and-circle-cctp/",
+      "source": "WheelX",
+      "tag": "Tutorial"
+    }
+  ]
 }

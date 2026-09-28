@@ -33,5 +33,21 @@
       "houdini-swap",
       "mini-bridge"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How USDT0 Manages State Across Chains",
+      "tldr": "Explains how USDT0 tracks token state across networks to support cross-chain transfers without losing accounting consistency.",
+      "url": "https://blog.usdt0.to/how-usdt0-manages-state-across-chains",
+      "source": "USDT0",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What Is USDT0?",
+      "tldr": "Introduces USDT0's omnichain deployment model and how it moves stablecoin liquidity between supported chains.",
+      "url": "https://blog.usdt0.to/%40tetherzero/what-is-usdt0-usdt-s-omnichain-deployment-explained",
+      "source": "USDT0",
+      "tag": "Explainer"
+    }
+  ]
 }

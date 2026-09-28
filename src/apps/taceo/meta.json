@@ -32,5 +32,23 @@
       "risc-zero",
       "labyrinth"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "MPC's Role in Advancing World ID Privacy",
+      "tldr": "TACEO shows how multiparty computation lets World check iris-code uniqueness without any node seeing the codes.",
+      "url": "https://core.taceo.io/articles/mpc-for-iris-code-uniqueness/",
+      "source": "TACEO",
+      "tag": "Identity",
+      "publishedAt": "2024-10-16"
+    },
+    {
+      "title": "TACEO Launches a Network That Computes Without Seeing the Data",
+      "tldr": "TNW on the TACEO Network, already running inside World ID's checks, which lets parties compute on data they cannot see.",
+      "url": "https://thenextweb.com/news/taceo-network-launch-private-computation-world-id",
+      "source": "The Next Web",
+      "tag": "Security",
+      "publishedAt": "2026-03-19"
+    }
+  ]
 }

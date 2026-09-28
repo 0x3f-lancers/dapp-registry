@@ -33,5 +33,21 @@
       "depay",
       "hq-xyz"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Crypto Payment Webhooks Guide",
+      "tldr": "Explains how deposit, payment status and payout events can be tracked automatically through BlockBee webhooks.",
+      "url": "https://blockbee.io/blog/post/crypto-payment-webhooks-track-deposits-payouts-automatically",
+      "source": "BlockBee",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Integrating BlockBee's Crypto Payment API",
+      "tldr": "Walks developers through payment requests, callbacks, order IDs, and testing a BlockBee integration.",
+      "url": "https://blockbee.io/blog/post/crypto-payment-api-integrate-crypto-payments",
+      "source": "BlockBee",
+      "tag": "Tutorial"
+    }
+  ]
 }

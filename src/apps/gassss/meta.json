@@ -32,5 +32,21 @@
       "crema-finance",
       "kriya"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Pay in STABLE",
+      "tldr": "Explains how GASSSS lets users pay gas in STABLE instead of Stable's gUSDT, through a sponsorship layer.",
+      "url": "https://docs.gassss.xyz/documentation/gas-sponsorship/gas-spon",
+      "source": "GASSSS Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "GASSSS Swap",
+      "tldr": "Docs for GASSSS Swap, a minimal Uniswap V2-style AMM on Stable that exposes gUSDT as a regular token.",
+      "url": "https://docs.gassss.xyz/documentation/swap/swap",
+      "source": "GASSSS Docs",
+      "tag": "DeFi"
+    }
+  ]
 }

@@ -22,6 +22,22 @@
     "website": "https://www.cypherock.com",
     "twitter": "https://x.com/CypherockWallet"
   },
+  "resources": [
+    {
+      "title": "Generate a New Wallet With Cypherock X1",
+      "tldr": "Official instructions for creating a wallet, setting a PIN, and syncing the four X1 cards.",
+      "url": "https://docs.cypherock.com/getting-started/generate-a-new-wallet-with-cypherock-x1",
+      "source": "Cypherock",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Cypherock Cover Works",
+      "tldr": "Explains the wallet's PIN recovery and estate recovery service and its security design.",
+      "url": "https://www.cypherock.com/blogs/cypherock-cover",
+      "source": "Cypherock",
+      "tag": "Explainer"
+    }
+  ],
   "relations": {
     "alternatives": [
       "degen-wallet",

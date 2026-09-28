@@ -33,5 +33,21 @@
       "toros-finance",
       "ichi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Adding Zyfai Earn to an AI Trading Wallet",
+      "tldr": "Shows how Wallet V integrated the Zyfai SDK to bring yield features into an AI-assisted trading wallet.",
+      "url": "https://blog.zyf.ai/how-wallet-v-uses-the-zyfai-sdk-to-bring-earn-into-an-ai-trading-wallet",
+      "source": "Zyfai",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Zyfai Agent Performance Across Base and Plasma",
+      "tldr": "Zyfai's March report explains its agent rebalancing strategy and reports yield and transaction activity on Base and Plasma.",
+      "url": "https://zyf.ai/blog/zyfai-march-yield-report-9861percent-yield-outperformance",
+      "source": "Zyfai",
+      "tag": "Research"
+    }
+  ]
 }

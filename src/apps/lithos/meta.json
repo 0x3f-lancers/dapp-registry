@@ -32,5 +32,22 @@
       "shade-protocol",
       "position-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lithos Overview",
+      "tldr": "Docs for Plasma's ve(3,3) DEX, covering LITH, veLITH voting and how emissions follow the pools voters back.",
+      "url": "https://docs.lithos.to/",
+      "source": "Lithos Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "What Is Lithos (LITH)?",
+      "tldr": "Explainer on how Lithos shares protocol revenue with lockers and why ve(3,3) suits a stablecoin-focused chain.",
+      "url": "https://web3.bitget.com/en/academy/what-is-lithos-lith-plasma-defi-protocol-with-community-revenue-sharing-and-long-term-price-forecast",
+      "source": "Bitget Academy",
+      "tag": "Explainer",
+      "publishedAt": "2025-09-30"
+    }
+  ]
 }

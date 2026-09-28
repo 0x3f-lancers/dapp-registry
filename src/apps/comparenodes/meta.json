@@ -34,5 +34,21 @@
       "helius",
       "blockdaemon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Comparing Global RPC Endpoint Performance",
+      "tldr": "Reports a paid, global test of Dwellir and Chainstack RPC endpoints to show how latency varies by location.",
+      "url": "https://blog.comparenodes.com/49-global-rpc-showdown-dwellir-vs-chainstack/",
+      "source": "CompareNodes",
+      "tag": "Research"
+    },
+    {
+      "title": "RPC Monitoring and Benchmarking Resources",
+      "tldr": "Compares RPC performance monitoring with load benchmarking and explains how CompareNodes tools help evaluate providers.",
+      "url": "https://www.comparenodes.com/blog/infrastructure-performance-resources-for-developers-on-ethereum-in-2025/",
+      "source": "CompareNodes",
+      "tag": "Explainer"
+    }
+  ]
 }

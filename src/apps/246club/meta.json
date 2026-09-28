@@ -31,5 +31,21 @@
       "scallop",
       "horizondex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "246 Club Overview",
+      "tldr": "Sets out 246 Club's thesis that fragmented lending markets can be stitched into one layer, and why lending restaking follows.",
+      "url": "https://246-club.gitbook.io/docs",
+      "source": "246 Club Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "246 Club in One Page",
+      "tldr": "Explains re-lending: an aToken keeps Aave's base rate while its unused borrowing power is delegated to 246 Club for extra yield.",
+      "url": "https://246-club.gitbook.io/docs/246-club-in-one-page",
+      "source": "246 Club Docs",
+      "tag": "Explainer"
+    }
+  ]
 }

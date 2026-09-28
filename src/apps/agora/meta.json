@@ -23,6 +23,22 @@
     "website": "https://www.agora.xyz",
     "twitter": "https://x.com/agoragovernance"
   },
+  "resources": [
+    {
+      "title": "Introducing Agora Governance",
+      "tldr": "The team explains why it built open source governor contracts, a voting app, and tools for token governance.",
+      "url": "https://www.agora.xyz/blogs/0-introducing-agora",
+      "source": "Agora",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Agora's Governor Works",
+      "tldr": "Technical overview of Agora's governor contracts and their voting and proposal features for Optimism.",
+      "url": "https://github.com/voteagora/optimism-governor",
+      "source": "Agora",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "commonwealth",

@@ -35,5 +35,21 @@
       "celer-cbridge",
       "garden-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing OpenUSDT: The Scalable Stablecoin for the Superchain",
+      "tldr": "Hyperlane explains how Celo-minted USDT becomes oUSDT and moves across OP chains through Warp Routes.",
+      "url": "https://www.hyperlane.xyz/blog-posts-new/introducing-openusdt-the-scalable-stablecoin-for-the-superchain",
+      "source": "Hyperlane Blog",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What's the Difference Between Tether, OpenUSDT, and USDT0?",
+      "tldr": "Compares native USDT with the two bridged versions and the cross-chain mechanism behind each.",
+      "url": "https://eco.com/support/en/articles/11779142-what-s-the-difference-between-tether-openusdt-and-usdt0",
+      "source": "Eco",
+      "tag": "Explainer"
+    }
+  ]
 }

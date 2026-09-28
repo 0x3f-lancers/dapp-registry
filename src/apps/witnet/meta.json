@@ -21,6 +21,22 @@
     "website": "https://witnet.io",
     "twitter": "https://x.com/witnet_io"
   },
+  "resources": [
+    {
+      "title": "Using Witnet Price Feeds",
+      "tldr": "Developer tutorial for reading Witnet price feeds and checking the quality of oracle updates.",
+      "url": "https://docs.witnet.io/intro/tutorials/data-feeds-tutorial",
+      "source": "Witnet",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Using Witnet Custom Feeds",
+      "tldr": "Shows how to construct oracle queries that retrieve and deliver custom external data on-chain.",
+      "url": "https://docs.witnet.io/intro/tutorials/apis-and-http-get-post",
+      "source": "Witnet",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "seda",

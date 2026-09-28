@@ -35,5 +35,21 @@
       "gauntlet",
       "tweetscout"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Impermanent Loss Explained",
+      "tldr": "Explains divergence loss for AMM liquidity providers and how price changes affect a pool position.",
+      "url": "https://revert.finance/learn/impermanent-loss",
+      "source": "Revert",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Managing Liquidity Positions with Revert",
+      "tldr": "Revert's documentation shows how LPs can add or withdraw liquidity, swap into position ratios, and claim fees.",
+      "url": "https://docs.revert.finance/revert/position-management",
+      "source": "Revert",
+      "tag": "Tutorial"
+    }
+  ]
 }

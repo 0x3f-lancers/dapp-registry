@@ -32,5 +32,21 @@
       "yuzu-money",
       "stablr"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Rupiah Stablecoin Works",
+      "tldr": "Breaks down IDRX's peg, reserves and minting process to explain how a rupiah-denominated stablecoin maintains its value.",
+      "url": "https://idrx.co/en/articles/how-a-rupiah-stablecoin-works-peg-backing-minting/",
+      "source": "IDRX",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Stablecoin Risks and How to Assess IDRX",
+      "tldr": "Explains the checks behind a fiat-backed rupiah stablecoin, including reserves, redemption, and peg risks.",
+      "url": "https://idrx.co/en/articles/stablecoin-risks-and-how-to-assess-them/",
+      "source": "IDRX",
+      "tag": "Explainer"
+    }
+  ]
 }

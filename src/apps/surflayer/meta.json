@@ -33,5 +33,21 @@
       "dmission",
       "dappback"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "SurfLayer Overview",
+      "tldr": "Docs on SurfLayer's mission and tools for turning daily onchain actions, like GMs, deploys and bridges, into rewards.",
+      "url": "https://docs.surflayer.xyz/",
+      "source": "SurfLayer Docs",
+      "tag": "Product"
+    },
+    {
+      "title": "Surf Score",
+      "tldr": "How SurfLayer turns onchain activity into a Surf Score badge that builds a verifiable reputation across networks.",
+      "url": "https://docs.surflayer.xyz/features/surf-score",
+      "source": "SurfLayer Docs",
+      "tag": "Identity"
+    }
+  ]
 }

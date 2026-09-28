@@ -34,5 +34,21 @@
       "acqr",
       "rattle-cc"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "OnChainGM: What Is It and Why Is It Important?",
+      "tldr": "Explains the OnChainGM contract, which lets a wallet send one onchain GM per day on EVM networks for a small fee.",
+      "url": "https://getblock.io/marketplace/projects/onchaingm/",
+      "source": "GetBlock",
+      "tag": "Explainer"
+    },
+    {
+      "title": "OnChainGM on GitHub",
+      "tldr": "Open-source repo explaining OnChainGM's app, its embeddable GM widget and referral system across 117+ networks.",
+      "url": "https://github.com/OnChainGM/OnChainGM",
+      "source": "GitHub",
+      "tag": "Infrastructure"
+    }
+  ]
 }

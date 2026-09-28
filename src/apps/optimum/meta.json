@@ -33,5 +33,21 @@
       "blockfrost",
       "traxed-supply-chain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Optimum Is Building a Web3 Memory Layer",
+      "tldr": "Explains the data access problem Optimum addresses and the role of its memory layer in blockchain applications.",
+      "url": "https://www.getoptimum.xyz/blog/introducing-optimum-building-the-missing-memory-layer-for-web3",
+      "source": "Optimum",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Optimum's mump2p Protocol",
+      "tldr": "Optimum's docs introduce the pub-sub protocol used to reduce latency when distributing blockchain transactions and data.",
+      "url": "https://docs.getoptimum.xyz/",
+      "source": "Optimum",
+      "tag": "Infrastructure"
+    }
+  ]
 }

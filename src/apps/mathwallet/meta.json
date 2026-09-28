@@ -22,6 +22,22 @@
     "website": "https://mathwallet.org",
     "twitter": "https://x.com/Mathwallet"
   },
+  "resources": [
+    {
+      "title": "MathWallet Extension V4 Upgrade",
+      "tldr": "Explains the extension's supported chains and how to export keys for networks removed in V4.",
+      "url": "https://blog.mathwallet.org/?p=4759",
+      "source": "MathWallet",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Hyperliquid Perps in MathWallet",
+      "tldr": "Shows how to set up a supported chain wallet and access the Hyperliquid perps section in the app.",
+      "url": "https://blog.mathwallet.org/?p=4902",
+      "source": "MathWallet",
+      "tag": "Tutorial"
+    }
+  ],
   "relations": {
     "alternatives": [
       "kuma-wallet",

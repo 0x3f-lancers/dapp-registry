@@ -33,5 +33,21 @@
       "chainport",
       "hashport"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What is Brid.gg?",
+      "tldr": "Brid.gg's own intro to its bridge interface for moving assets between Ethereum, OP Mainnet and other Superchain networks.",
+      "url": "https://docs.brid.gg/",
+      "source": "Brid.gg Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Across Powers Superchain Bridge Interface Transfers",
+      "tldr": "Explains how Optimism adopted the ERC-7683 intents standard so Brid.gg and Superbridge users get fast Across-powered transfers.",
+      "url": "https://across.to/blog/Optimism-adopts-ERC-7683-to-enable-high-speed-transfers-on-the-Superchain",
+      "source": "Across Blog",
+      "tag": "Infrastructure"
+    }
+  ]
 }

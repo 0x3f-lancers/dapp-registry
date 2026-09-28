@@ -32,5 +32,21 @@
       "junction-exchange",
       "valuerouter"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cross-Chain Execution Versus Bridges",
+      "tldr": "Explains how executing an action on another chain differs from simply transferring assets across a bridge.",
+      "url": "https://portal.t3rn.io/blog/cross-chain-execution-vs-bridges",
+      "source": "t3rn",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Atomic Cross-Chain Execution Explained",
+      "tldr": "t3rn explains how its protocol coordinates multi-chain actions and verifies that each step completes together.",
+      "url": "https://bridge.t3rn.io/blog/atomic-execution",
+      "source": "t3rn",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -35,5 +35,21 @@
       "altfins",
       "solana-tracker"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trade Arc Chain Through Telegram",
+      "tldr": "Walks through Banana Gun's Telegram trading flow for Arc Chain, from setup to placing a trade.",
+      "url": "https://blog.bananagun.io/blog/how-to-trade-arc-chain-from-telegram",
+      "source": "Banana Gun",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Place a First Trade with Banana Gun",
+      "tldr": "Shows how to set up the Telegram bot, fund its wallet, choose a token, set slippage, and place a trade.",
+      "url": "https://blog.bananagun.io/blog/telegram-trading-bot-first-trade",
+      "source": "Banana Gun",
+      "tag": "Tutorial"
+    }
+  ]
 }

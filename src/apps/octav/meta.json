@@ -33,5 +33,21 @@
       "altfins",
       "cryptorank"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Query a Portfolio at Any Block",
+      "tldr": "Shows how Octav decodes a wallet's portfolio at a historical block across supported chains.",
+      "url": "https://octav.fi/blog/portfolio-at-block-guide",
+      "source": "Octav",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Octav Portfolio Data Versus Wallet Analytics",
+      "tldr": "Explains Octav's decoded portfolio API and app, including the positions they expose and how that differs from analytics tools.",
+      "url": "https://octav.fi/blog/octav-vs-nansen",
+      "source": "Octav",
+      "tag": "Explainer"
+    }
+  ]
 }

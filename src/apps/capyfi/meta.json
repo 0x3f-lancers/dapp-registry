@@ -32,5 +32,23 @@
       "notional",
       "mutuum-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What is CapyFi",
+      "tldr": "CapyFi's introduction to its lending and borrowing protocol, built for Latin American users and first launched on LaChain.",
+      "url": "https://paragraph.com/@capyfi-protocol/what-is-capyfi",
+      "source": "CapyFi",
+      "tag": "DeFi",
+      "publishedAt": "2025-02-26"
+    },
+    {
+      "title": "CapyFi Audit",
+      "tldr": "OpenZeppelin's audit of CapyFi's contracts: 11 issues found, none critical or high, with nine resolved by the final review.",
+      "url": "https://www.openzeppelin.com/news/capyfi-audit",
+      "source": "OpenZeppelin",
+      "tag": "Security",
+      "publishedAt": "2025-07-24"
+    }
+  ]
 }

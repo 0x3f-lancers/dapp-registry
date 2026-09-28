@@ -32,5 +32,21 @@
       "trustware",
       "airswift"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Address Verification Without Documents",
+      "tldr": "Explains how HIFI checks eligible users' addresses against authoritative data to simplify onboarding.",
+      "url": "https://www.hifi.com/blog/how-non-documentary-address-verification-improves-end-user-onboarding",
+      "source": "HIFI",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How HIFI Orchestration Addresses Settle Stablecoins to Banks",
+      "tldr": "Explains how HIFI converts stablecoins sent to a reusable address into dollars in a linked bank account.",
+      "url": "https://www.hifi.com/blog/orchestration-addresses-how-stablecoins-become-dollars-in-your-bank-account",
+      "source": "HIFI",
+      "tag": "Explainer"
+    }
+  ]
 }

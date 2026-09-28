@@ -32,5 +32,21 @@
       "fina-cash",
       "infini"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "DOGPAY and the Agent Account Layer",
+      "tldr": "Introduces the account layer DOGPAY is building for agent-driven payments and the role of programmable wallet access.",
+      "url": "https://dogpay.com/us/blog/5fb01224-45f3-4f23-aa4b-cd88569c73f7",
+      "source": "DOGPAY",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Account Layer for AI Agent Payments",
+      "tldr": "DOGPAY outlines how agent accounts, limits, identity, and settlement fit together in automated payments.",
+      "url": "https://www.dogpay.com/blog/b3ef4d85-2ae1-45ba-98d1-57c6888ecc8b",
+      "source": "DOGPAY",
+      "tag": "Explainer"
+    }
+  ]
 }

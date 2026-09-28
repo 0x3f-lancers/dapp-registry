@@ -31,5 +31,14 @@
       "beefy-finance",
       "curve-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Funding Rates Work on Equity Perpetuals",
+      "tldr": "Explains the payment that keeps an Arcus equity perpetual near its stock price, including how market hours affect the rate.",
+      "url": "https://arcus.xyz/blog/how-funding-rates-work-on-arcus-equity-perpetuals",
+      "source": "Arcus",
+      "tag": "Explainer"
+    }
+  ]
 }

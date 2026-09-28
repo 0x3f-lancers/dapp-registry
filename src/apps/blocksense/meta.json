@@ -21,6 +21,22 @@
     "website": "https://blocksense.network",
     "twitter": "https://x.com/blocksense_"
   },
+  "resources": [
+    {
+      "title": "What Is Blocksense?",
+      "tldr": "Official documentation explains Blocksense's oracle scripts, price feeds, and data verification model.",
+      "url": "https://docs.blocksense.network/docs",
+      "source": "Blocksense",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Spout Used Blocksense Oracle Feeds",
+      "tldr": "A case study of replacing Chainlink Functions with Blocksense price and reserve feeds for a DeFi launch.",
+      "url": "https://blocksense.network/resources/blog/how-spout-kept-their-launch-on-track-with-blocksense",
+      "source": "Blocksense",
+      "tag": "Infrastructure"
+    }
+  ],
   "relations": {
     "alternatives": [
       "chronicle-protocol",

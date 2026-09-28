@@ -32,5 +32,21 @@
       "ur-app",
       "univoucher"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Leaving Worldpay: Contracts and Alternatives",
+      "tldr": "Explains notice periods, contract terms and early termination costs to check when moving away from Worldpay.",
+      "url": "https://payram.com/blog/how-to-leave-worldpay-2026-alternatives",
+      "source": "PayRam",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How to Set Up Self-Hosted Crypto Payments with PayRam",
+      "tldr": "Walks through PayRam's self-hosted gateway and direct wallet settlement for accepting crypto payments.",
+      "url": "https://payram.com/blog/how-to-accept-crypto-payments-without-third-party-services-using-payram",
+      "source": "PayRam",
+      "tag": "Tutorial"
+    }
+  ]
 }

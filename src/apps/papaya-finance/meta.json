@@ -32,5 +32,22 @@
       "bulla-network",
       "omy-payments"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Papaya Protocol Overview",
+      "tldr": "Docs overview of the Papaya protocol for real-time token streams, subscriptions and project payment management.",
+      "url": "https://docs.papaya.finance/",
+      "source": "Papaya Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "Unlocking New DeFi Paths",
+      "tldr": "Explains how Papaya's protocol puts subscriptions on-chain and cuts gas costs for businesses and creators.",
+      "url": "https://papaya-finance.medium.com/unlocking-new-defi-paths-a3160aa2c19c",
+      "source": "Papaya Finance",
+      "tag": "Payments",
+      "publishedAt": "2024-06-12"
+    }
+  ]
 }

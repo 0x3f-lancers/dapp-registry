@@ -33,5 +33,21 @@
       "jumper-exchange",
       "strato-nexus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Order Books Work",
+      "tldr": "Explains order book mechanics and the market microstructure behind high-frequency onchain trading.",
+      "url": "https://aori.io/research/posts/how-orderbooks-work",
+      "source": "Aori Research",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Aori's Settlement Design and Game Theory",
+      "tldr": "Aori explains its signed-order settlement contract, offchain order books, and the incentives behind its DeFi design.",
+      "url": "https://www.aori.io/research/posts/Aori-Game-Theory-Defi",
+      "source": "Aori Research",
+      "tag": "Research"
+    }
+  ]
 }

@@ -33,5 +33,21 @@
       "fireblocks",
       "komainu"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Coldcard Incident: An Institutional Custody Analysis",
+      "tldr": "Examines a Coldcard security incident and discusses how hardware security modules fit into institutional asset protection.",
+      "url": "https://blog.mycactus.com/viewpoints/coldcard/",
+      "source": "Cactus Custody",
+      "tag": "Security"
+    },
+    {
+      "title": "Cactus Custody's StableChain Integration",
+      "tldr": "Explains how institutions can manage StableChain assets through Cactus Custody's controls and API infrastructure.",
+      "url": "https://blog.mycactus.com/announcements/cactus-stable/",
+      "source": "Cactus Custody",
+      "tag": "Infrastructure"
+    }
+  ]
 }
