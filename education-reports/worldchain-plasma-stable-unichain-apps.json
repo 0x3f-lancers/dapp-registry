@@ -7,8 +7,8 @@
     "Unichain"
   ],
   "summary": {
-    "apps": 466,
-    "new": 192,
+    "apps": 464,
+    "new": 190,
     "existing": 274,
     "withEducation": 378,
     "newWithEducation": 172,
@@ -17,8 +17,8 @@
   },
   "perChain": {
     "World Chain": {
-      "apps": 138,
-      "new": 55,
+      "apps": 137,
+      "new": 54,
       "existing": 83,
       "withEducation": 106
     },
@@ -35,8 +35,8 @@
       "withEducation": 157
     },
     "Unichain": {
-      "apps": 166,
-      "new": 43,
+      "apps": 165,
+      "new": 42,
       "existing": 123,
       "withEducation": 131
     }
@@ -1632,21 +1632,6 @@
       "hasEducation": true
     },
     {
-      "slug": "meme-bridge",
-      "name": "MeMe Bridge",
-      "status": "new",
-      "branchChains": [
-        "World Chain"
-      ],
-      "allChains": [
-        "World Chain"
-      ],
-      "category": "DeFi Tools",
-      "website": "https://www.memebridge.xyz",
-      "educationResources": 0,
-      "hasEducation": false
-    },
-    {
       "slug": "meow",
       "name": "Meow",
       "status": "new",
@@ -2826,21 +2811,6 @@
       "website": "https://www.unigox.com",
       "educationResources": 2,
       "hasEducation": true
-    },
-    {
-      "slug": "unimon",
-      "name": "Unimon",
-      "status": "new",
-      "branchChains": [
-        "Unichain"
-      ],
-      "allChains": [
-        "Unichain"
-      ],
-      "category": "Decentralized Games",
-      "website": "https://unimon.app",
-      "educationResources": 0,
-      "hasEducation": false
     },
     {
       "slug": "uniswap-wallet",
