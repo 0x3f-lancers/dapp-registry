@@ -6,26 +6,26 @@
     "Robinhood Chain"
   ],
   "summary": {
-    "apps": 516,
-    "new": 264,
+    "apps": 514,
+    "new": 262,
     "existing": 252,
-    "withEducation": 472,
-    "newWithEducation": 258,
+    "withEducation": 470,
+    "newWithEducation": 256,
     "existingWithEducation": 214,
-    "totalResources": 1055
+    "totalResources": 1051
   },
   "perChain": {
     "Hyperliquid": {
-      "apps": 239,
-      "new": 119,
+      "apps": 238,
+      "new": 118,
       "existing": 120,
-      "withEducation": 216
+      "withEducation": 215
     },
     "Monad": {
-      "apps": 335,
-      "new": 145,
+      "apps": 333,
+      "new": 143,
       "existing": 190,
-      "withEducation": 304
+      "withEducation": 302
     },
     "Robinhood Chain": {
       "apps": 98,
@@ -755,21 +755,6 @@
       ],
       "category": "Web3 Developer Tools",
       "website": "https://docs.ccxt.com/",
-      "educationResources": 2,
-      "hasEducation": true
-    },
-    {
-      "slug": "chainpro",
-      "name": "ChainPro",
-      "status": "new",
-      "branchChains": [
-        "Monad"
-      ],
-      "allChains": [
-        "Monad"
-      ],
-      "category": "Trading Tools",
-      "website": "https://chainpro.xyz",
       "educationResources": 2,
       "hasEducation": true
     },
@@ -3437,23 +3422,6 @@
       ],
       "category": "DeFi Dapps",
       "website": "https://www.spinup.zone",
-      "educationResources": 2,
-      "hasEducation": true
-    },
-    {
-      "slug": "squirrel-wallet",
-      "name": "Squirrel Wallet",
-      "status": "new",
-      "branchChains": [
-        "Hyperliquid",
-        "Monad"
-      ],
-      "allChains": [
-        "Hyperliquid",
-        "Monad"
-      ],
-      "category": "Web3 Wallets",
-      "website": "https://www.squirrelwallet.com",
       "educationResources": 2,
       "hasEducation": true
     },

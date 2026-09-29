@@ -15,7 +15,7 @@
   "content": {
     "short": "LiquidSwap is a DEX aggregator serving HyperEVM and Robinhood Chain with intelligent routing.",
     "description": "LiquidSwap routes swaps across the liquidity available on HyperEVM and Robinhood Chain, splitting an order between venues where that improves the rate. It aggregates 33 venues and 21 oracle-validated pools, and reads Hyperliquid precompiles directly so spreads tighten against raw prices instead of pool drift. Alongside the aggregator it runs a pAMM liquidity layer and the LiquidLaunch token launchpad, with an API reference for integrators. It is distinct from the Aptos exchange of the same name.",
-    "meta": "LiquidSwap is a DEX aggregator for HyperEVM and Robinhood Chain with split-order routing.",
+    "meta": "LiquidSwap is a DEX aggregator on HyperEVM and Robinhood Chain that splits orders across 33 venues, and also runs a pAMM layer and a launchpad.",
     "pageTitle": "LiquidSwap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {

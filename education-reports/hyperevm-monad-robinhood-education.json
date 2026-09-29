@@ -6,23 +6,23 @@
     "Robinhood Chain"
   ],
   "summary": {
-    "appsWithEducation": 472,
-    "new": 258,
+    "appsWithEducation": 470,
+    "new": 256,
     "existing": 214,
-    "totalResources": 1055
+    "totalResources": 1051
   },
   "perChain": {
     "Hyperliquid": {
-      "apps": 216,
-      "new": 114,
+      "apps": 215,
+      "new": 113,
       "existing": 102,
-      "withEducation": 216
+      "withEducation": 215
     },
     "Monad": {
-      "apps": 304,
-      "new": 144,
+      "apps": 302,
+      "new": 142,
       "existing": 160,
-      "withEducation": 304
+      "withEducation": 302
     },
     "Robinhood Chain": {
       "apps": 89,
@@ -1323,35 +1323,6 @@
           "url": "https://ccxt.com/blog/ccxt-vs-alternatives",
           "source": "CCXT",
           "tag": "Research"
-        }
-      ]
-    },
-    {
-      "slug": "chainpro",
-      "name": "ChainPro",
-      "status": "new",
-      "branchChains": [
-        "Monad"
-      ],
-      "allChains": [
-        "Monad"
-      ],
-      "category": "Trading Tools",
-      "website": "https://chainpro.xyz",
-      "resources": [
-        {
-          "title": "ChainPro Security and TEEs",
-          "tldr": "Describes why ChainPro uses trusted execution environments to protect the strategies and assets run through its system.",
-          "url": "https://blog.chainpro.xyz/chainpro-security-and-tees/",
-          "source": "ChainPro",
-          "tag": "Security"
-        },
-        {
-          "title": "Trusted Execution Environments Explained",
-          "tldr": "Explains the hardware isolation and remote attestation behind the TEE security model used by onchain trading systems.",
-          "url": "https://chain.link/article/trusted-execution-environment-tee",
-          "source": "Chainlink",
-          "tag": "Security"
         }
       ]
     },
@@ -4966,7 +4937,7 @@
           "tag": "Tutorial"
         },
         {
-          "title": "6.2 - Add Liquidity — Classic",
+          "title": "6.2 - Add Liquidity: Classic",
           "tldr": "Shows how to add liquidity to a classic Nest pool and monitor the position.",
           "url": "https://docs.usenest.xyz/tutorials/6.2-add-liquidity-classic.md",
           "source": "Nest",
@@ -6354,37 +6325,6 @@
           "url": "https://docs.spinup.zone/features/the-spinup-meme-dex/your-meme-trading-hub.md",
           "source": "SpinUp",
           "tag": "Tutorial"
-        }
-      ]
-    },
-    {
-      "slug": "squirrel-wallet",
-      "name": "Squirrel Wallet",
-      "status": "new",
-      "branchChains": [
-        "Hyperliquid",
-        "Monad"
-      ],
-      "allChains": [
-        "Hyperliquid",
-        "Monad"
-      ],
-      "category": "Web3 Wallets",
-      "website": "https://www.squirrelwallet.com",
-      "resources": [
-        {
-          "title": "Squirrel Wallet Guidebook",
-          "tldr": "Introduces Squirrel's self-custody wallet, supported activities, and common questions.",
-          "url": "https://www.squirrelwallet.com/guidebook/squirrel",
-          "source": "Squirrel Wallet",
-          "tag": "Explainer"
-        },
-        {
-          "title": "Squirrel Wallet Product Guide",
-          "tldr": "Explains the wallet's current features and how users retain control of their crypto assets.",
-          "url": "https://www.squirrelwallet.com/guidebook/product/squirrel-wallet",
-          "source": "Squirrel Wallet",
-          "tag": "Explainer"
         }
       ]
     },

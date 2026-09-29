@@ -14,7 +14,7 @@
   "content": {
     "short": "SODAX is a cross-network execution and liquidity system for complex multi-chain flows.",
     "description": "SODAX is a cross-network execution and liquidity system for applications that need complex financial actions without building cross-chain infrastructure themselves. Its HTTP API and TypeScript SDK quote and execute cross-network swaps, and the same SDK covers supplying, borrowing, withdrawing and repaying in lending markets. Asset transfers move through hub-and-spoke vaults via a separate bridge SDK, and leveraged yield vaults can be entered and exited programmatically. Separate guides cover HTTP, Solana and AI agent integrations.",
-    "meta": "Cross-network execution for flows that span several chains and can fail partway.",
+    "meta": "SODAX is a cross-network execution and liquidity system whose API and SDK handle swaps, lending, bridging and yield vaults across chains.",
     "pageTitle": "SODAX - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {

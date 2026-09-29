@@ -14,7 +14,7 @@
   "content": {
     "short": "NEAR Intents lets users state a desired swap and have solvers compete to fill it across chains.",
     "description": "NEAR Intents applies the intent model to cross-chain swapping: a user declares the outcome they want, not the path to it, and a network of solvers competes to deliver the best price with on-chain execution. Its 1-Click Swap API requests quotes, executes the swap and tracks status through a single set of endpoints. An explorer API exposes completed swaps, and fee configuration is set per integration. Supported chains and assets include Monad.",
-    "meta": "NEAR Intents lets users declare a swap and have solvers compete to fill it across chains.",
+    "meta": "NEAR Intents lets users declare the swap outcome they want while solvers compete to fill it across chains, with a 1-Click Swap API for apps.",
     "pageTitle": "NEAR Intents - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
