@@ -8,9 +8,9 @@
   ],
   "summary": {
     "appsWithEducation": 378,
-    "new": 173,
-    "existing": 205,
-    "totalResources": 847
+    "new": 172,
+    "existing": 206,
+    "totalResources": 848
   },
   "perChain": {
     "World Chain": {
@@ -27,8 +27,8 @@
     },
     "Stable": {
       "apps": 157,
-      "new": 70,
-      "existing": 87,
+      "new": 69,
+      "existing": 88,
       "withEducation": 157
     },
     "Unichain": {
@@ -2644,35 +2644,6 @@
           "source": "iProUP",
           "tag": "Payments",
           "publishedAt": "2025-07-18"
-        }
-      ]
-    },
-    {
-      "slug": "mass-money",
-      "name": "Mass",
-      "status": "new",
-      "branchChains": [
-        "Stable"
-      ],
-      "allChains": [
-        "Stable"
-      ],
-      "category": "Trading Tools",
-      "website": "https://mass.money",
-      "resources": [
-        {
-          "title": "Trading Tokenized Real-World Assets",
-          "tldr": "Introduces the stock and fund tokens available through Mass and explains how users can trade them with crypto.",
-          "url": "https://blog.mass.money/trade-tokenized-a-physically-backed-rwas-2/",
-          "source": "Mass",
-          "tag": "Explainer"
-        },
-        {
-          "title": "How Tokenized Stocks Work in Mass",
-          "tldr": "Mass documents its broker execution and Dinari tokenization flow for buying and holding tokenized stocks and ETFs.",
-          "url": "https://docs.mass.money/general/stocks",
-          "source": "Mass",
-          "tag": "Explainer"
         }
       ]
     },
@@ -9830,6 +9801,52 @@
           "tag": "DeFi",
           "publishedAt": "2025-03-06",
           "image": "https://cdn.sanity.io/images/4qmm9wks/production/186f9e030af7d3d54b20ae8cec9b90a6a53d3904-2400x1260.png"
+        }
+      ]
+    },
+    {
+      "slug": "mass",
+      "name": "Mass",
+      "status": "existing",
+      "branchChains": [
+        "Stable"
+      ],
+      "allChains": [
+        "Arbitrum",
+        "Base",
+        "OP Mainnet",
+        "Polygon",
+        "Stable"
+      ],
+      "category": "DeFi Dapps",
+      "website": "https://mass.money",
+      "resources": [
+        {
+          "title": "Most Tokens Will Never Reach Their ATH Again. Why?",
+          "tldr": "Dilution is the answer, and it is a much less comfortable one than market sentiment. A short piece that reframes how to read a token's price history.",
+          "url": "https://blog.mass.money/my-token-will-never-reach-its-ath-again-why/",
+          "source": "Mass Blog",
+          "publishedAt": "2024-06-03",
+          "tag": "Tutorial",
+          "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/2024/06/gameover.png"
+        },
+        {
+          "title": "Making Gas Tokens a Thing of the Past",
+          "tldr": "Opens on the familiar dead end of holding tokens you cannot move because you have no ETH for gas, then covers how paying fees in any asset removes it.",
+          "url": "https://blog.mass.money/mass-made-gas-tokens-a-thing-from-the-past/",
+          "source": "Mass Blog",
+          "publishedAt": "2024-05-27",
+          "tag": "Infrastructure",
+          "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/size/w1200/2024/05/gas_tank-3.png"
+        },
+        {
+          "title": "Trading With Onchain Data Instead of Guesswork",
+          "tldr": "Nobody has a crystal ball, but most people trade with far less onchain information than is freely available. A survey of what data is worth watching.",
+          "url": "https://blog.mass.money/mass-data-your-crystal-ball-to-trade/",
+          "source": "Mass Blog",
+          "publishedAt": "2024-05-29",
+          "tag": "Research",
+          "image": "https://storage.ghost.io/c/8b/ea/8bea7aef-bf95-46cd-a446-bd54713daec7/content/images/2024/05/blind_traders.png"
         }
       ]
     },

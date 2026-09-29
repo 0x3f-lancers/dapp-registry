@@ -8,12 +8,12 @@
   ],
   "summary": {
     "apps": 466,
-    "new": 193,
-    "existing": 273,
+    "new": 192,
+    "existing": 274,
     "withEducation": 378,
-    "newWithEducation": 173,
-    "existingWithEducation": 205,
-    "totalResources": 847
+    "newWithEducation": 172,
+    "existingWithEducation": 206,
+    "totalResources": 848
   },
   "perChain": {
     "World Chain": {
@@ -30,8 +30,8 @@
     },
     "Stable": {
       "apps": 185,
-      "new": 73,
-      "existing": 112,
+      "new": 72,
+      "existing": 113,
       "withEducation": 157
     },
     "Unichain": {
@@ -663,7 +663,7 @@
         "World Chain"
       ],
       "category": "Decentralized Games",
-      "website": "https://crazyfootballleague.com",
+      "website": "http://crazyfootballleague.com",
       "educationResources": 0,
       "hasEducation": false
     },
@@ -1596,21 +1596,6 @@
       ],
       "category": "Web3 Wallet Tools",
       "website": "https://www.manteca.dev/",
-      "educationResources": 2,
-      "hasEducation": true
-    },
-    {
-      "slug": "mass-money",
-      "name": "Mass",
-      "status": "new",
-      "branchChains": [
-        "Stable"
-      ],
-      "allChains": [
-        "Stable"
-      ],
-      "category": "Trading Tools",
-      "website": "https://mass.money",
       "educationResources": 2,
       "hasEducation": true
     },
@@ -6219,6 +6204,25 @@
       "category": "DeFi Dapps",
       "website": "https://www.maple.finance",
       "educationResources": 2,
+      "hasEducation": true
+    },
+    {
+      "slug": "mass",
+      "name": "Mass",
+      "status": "existing",
+      "branchChains": [
+        "Stable"
+      ],
+      "allChains": [
+        "Arbitrum",
+        "Base",
+        "OP Mainnet",
+        "Polygon",
+        "Stable"
+      ],
+      "category": "DeFi Dapps",
+      "website": "https://mass.money",
+      "educationResources": 3,
       "hasEducation": true
     },
     {
