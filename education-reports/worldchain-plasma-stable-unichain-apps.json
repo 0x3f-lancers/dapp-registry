@@ -7,8 +7,8 @@
     "Unichain"
   ],
   "summary": {
-    "apps": 464,
-    "new": 190,
+    "apps": 465,
+    "new": 191,
     "existing": 274,
     "withEducation": 378,
     "newWithEducation": 172,
@@ -17,8 +17,8 @@
   },
   "perChain": {
     "World Chain": {
-      "apps": 137,
-      "new": 54,
+      "apps": 138,
+      "new": 55,
       "existing": 83,
       "withEducation": 106
     },
@@ -1630,6 +1630,21 @@
       "website": "https://megapot.io",
       "educationResources": 2,
       "hasEducation": true
+    },
+    {
+      "slug": "meme-bridge",
+      "name": "MeMe Bridge",
+      "status": "new",
+      "branchChains": [
+        "World Chain"
+      ],
+      "allChains": [
+        "World Chain"
+      ],
+      "category": "DeFi Tools",
+      "website": "https://www.memebridge.xyz",
+      "educationResources": 0,
+      "hasEducation": false
     },
     {
       "slug": "meow",
