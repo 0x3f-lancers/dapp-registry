@@ -34,5 +34,21 @@
       "balancer",
       "clober"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Architecture Overview",
+      "tldr": "Explains BrownFi V3 pool contracts, routing, and the architecture used for swaps.",
+      "url": "https://brownfi.gitbook.io/brownfi-docs/brownfi-v3/architecture-overview.md",
+      "source": "BrownFi",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Using UniV2 as the Benchmark",
+      "tldr": "Explains impermanent loss and why BrownFi compares its liquidity model with Uniswap V2.",
+      "url": "https://brownfi.gitbook.io/brownfi-docs/brownfi-v3/benchmark/using-univ2-as-the-benchmark.md",
+      "source": "BrownFi",
+      "tag": "Explainer"
+    }
+  ]
 }

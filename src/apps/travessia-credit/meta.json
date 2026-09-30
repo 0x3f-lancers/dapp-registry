@@ -14,7 +14,7 @@
   "content": {
     "short": "Travessia Credit brings private credit exposure onchain as a tokenized real-world asset.",
     "description": "Travessia Credit connects institutional lenders with businesses that need working capital against verified invoices, built specifically around global trade flows. Originators onboard through institutional partners and draw on invoice-backed facilities. Capital providers allocate into structured, invoice-backed opportunities with institutional controls and real-time visibility into the underlying receivables. Both sides operate on the same platform, with the credit itself tokenized on Monad.",
-    "meta": "Private credit returns generated outside crypto, tokenized on Monad.",
+    "meta": "Travessia Credit tokenizes invoice-backed private credit on Monad, connecting institutional lenders with businesses that need working capital.",
     "pageTitle": "Travessia Credit - Real World Asset Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "valos",
       "yuzu-money"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Travessia Credit Overview",
+      "tldr": "Introduces Travessia's stablecoin vaults and their role in financing short duration trade credit.",
+      "url": "https://docs.travessiacredit.com/",
+      "source": "Travessia Credit",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Travessia Credit Frequently Asked Questions",
+      "tldr": "Answers questions about the protocol's lending model, real world operations, and how yield is generated.",
+      "url": "https://docs.travessiacredit.com/pages/frequently-asked-questions.html",
+      "source": "Travessia Credit",
+      "tag": "Explainer"
+    }
+  ]
 }

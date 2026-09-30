@@ -32,5 +32,21 @@
       "brownfi",
       "capricorn-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How the Dirol Aggregator Works",
+      "tldr": "Explains how Dirol combines Monad DEX liquidity and routes a token trade for a better quote.",
+      "url": "https://dirolprotocols-organization.gitbook.io/dirol/how-the-aggregator-works.md",
+      "source": "Dirol",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Getting Started with Dirol",
+      "tldr": "Guides users through connecting a wallet and making their first trade with Dirol.",
+      "url": "https://dirolprotocols-organization.gitbook.io/dirol/getting-started.md",
+      "source": "Dirol",
+      "tag": "Tutorial"
+    }
+  ]
 }

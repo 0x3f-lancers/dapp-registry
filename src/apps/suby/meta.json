@@ -32,5 +32,21 @@
       "chainrails",
       "checker-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Stablecoin Payment Infrastructure Explained",
+      "tldr": "Breaks merchant stablecoin payments into payins, a shared balance and payouts, with implementation checks.",
+      "url": "https://www.suby.fi/post/stablecoin-payment-infrastructure",
+      "source": "Suby",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Accept Stablecoin Payments in Discord and Telegram",
+      "tldr": "Guides community operators through stablecoin subscriptions, chain choice and access management.",
+      "url": "https://www.suby.fi/post/accept-stablecoin-payments-discord-telegram",
+      "source": "Suby",
+      "tag": "Tutorial"
+    }
+  ]
 }

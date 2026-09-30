@@ -31,5 +31,21 @@
       "bybit",
       "changehero"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Fere AI?",
+      "tldr": "Introduces Fere's wallet-equipped AI agent and how natural language instructions can drive crypto trades.",
+      "url": "https://docs.fereai.xyz/",
+      "source": "Fere AI",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Automating Strategies with Fere",
+      "tldr": "Explains how to schedule a repeated trading or research instruction for the Fere agent.",
+      "url": "https://docs.fereai.xyz/strategies",
+      "source": "Fere AI",
+      "tag": "Tutorial"
+    }
+  ]
 }

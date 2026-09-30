@@ -33,5 +33,21 @@
       "ankr",
       "envio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "GhostGraph Overview",
+      "tldr": "Explains how developers can build smart contract data indexers using Solidity with GhostGraph.",
+      "url": "https://docs.tryghost.xyz/ghostgraph/overview/",
+      "source": "Ghost",
+      "tag": "Explainer"
+    },
+    {
+      "title": "GhostLogs Overview",
+      "tldr": "Introduces Ghost's tools for adding events and views to existing contracts for analytics.",
+      "url": "https://docs.tryghost.xyz/ghostlogs/",
+      "source": "Ghost",
+      "tag": "Explainer"
+    }
+  ]
 }

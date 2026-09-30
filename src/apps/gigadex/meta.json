@@ -14,7 +14,7 @@
   "content": {
     "short": "GIGA DEX offers concentrated and classic liquidity pools on Robinhood Chain.",
     "description": "GIGA DEX is a liquidity coordination layer native to Robinhood Chain, routing each swap across both concentrated and classic pools to find the best execution. Liquidity providers earn from emissions directed by veGIGA lockers, following the vote-escrow pattern. Its emission schedule feeds an incentive mechanism the team calls the GIGA Machine.",
-    "meta": "Both concentrated and constant-product pools on Robinhood Chain, chosen per pair.",
+    "meta": "GIGA DEX routes swaps across concentrated and classic pools on Robinhood Chain, while veGIGA lockers direct emissions to liquidity providers.",
     "pageTitle": "GIGA DEX - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -38,6 +38,13 @@
       "title": "ve(3,3) Liquidity Incentives Explained",
       "tldr": "Explains how vote escrow incentives address short-lived liquidity mining and how GIGA adapts the model.",
       "url": "https://www.gigadex.fi/blog/ve33-explained",
+      "source": "GIGA DEX",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Choosing a Robinhood Chain LP Market",
+      "tldr": "Explains what to compare before supplying liquidity to early Robinhood Chain pools, including fees and market demand.",
+      "url": "https://www.gigadex.fi/blog/best-lp-opportunities-robinhood-chain",
       "source": "GIGA DEX",
       "tag": "DeFi"
     }

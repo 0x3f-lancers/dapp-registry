@@ -32,5 +32,21 @@
       "defi-app",
       "hybra-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What is alt.fun?",
+      "tldr": "Introduces alt.fun, a HyperEVM token launchpad that pairs new tokens with tokenized perpetual positions.",
+      "url": "https://docs.alt.fun/what-is-alt.fun.md",
+      "source": "Alt Fun",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How it works",
+      "tldr": "Explains what happens when users buy or sell an alt.fun token through the bonding curve.",
+      "url": "https://docs.alt.fun/how-it-works.md",
+      "source": "Alt Fun",
+      "tag": "Explainer"
+    }
+  ]
 }

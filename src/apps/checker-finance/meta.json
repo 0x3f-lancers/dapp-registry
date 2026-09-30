@@ -33,5 +33,21 @@
       "chainrails",
       "coinflow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Introduces Checker’s platform and the first steps for using its developer tools.",
+      "url": "https://docs.checker.finance/docs/getting-started.md",
+      "source": "Checker",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Getting Started",
+      "tldr": "Guides users through the access tokens and setup needed to start using Checker.",
+      "url": "https://docs.checker.finance/docs/how-to-use-access-tokens.md",
+      "source": "Checker",
+      "tag": "Tutorial"
+    }
+  ]
 }

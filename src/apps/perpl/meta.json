@@ -14,7 +14,7 @@
   "content": {
     "short": "Perpl is a decentralized perpetual futures exchange with leverage on Monad.",
     "description": "Perpl is a perpetuals exchange on Monad offering leveraged positions on crypto markets. The documentation sets out its trading mechanics and the reasoning behind building another perp DEX on a new chain. It is aimed at traders wanting leverage denominated and settled natively on Monad.",
-    "meta": "Leveraged perpetuals on Monad, the product that most rewards fast block times.",
+    "meta": "Perpl is a perpetual futures exchange on Monad offering leveraged positions on crypto markets, denominated and settled natively on the chain.",
     "pageTitle": "Perpl - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -39,6 +39,13 @@
       "url": "https://blog.perpl.xyz/understanding-liquidations-in-perp-markets/",
       "source": "Perpl",
       "tag": "Explainer"
+    },
+    {
+      "title": "Leverage Descent and Open-Interest Caps",
+      "tldr": "Explains why oversized leveraged positions can threaten a perp market and how Perpl limits open interest.",
+      "url": "https://blog.perpl.xyz/leverage-descent-sybill-proof-oi-caps/",
+      "source": "Perpl",
+      "tag": "Security"
     }
   ]
 }

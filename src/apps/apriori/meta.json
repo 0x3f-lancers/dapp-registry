@@ -32,5 +32,21 @@
       "stakestone",
       "0x"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Capricorn, Formerly aPriori, Explained",
+      "tldr": "Explains the project's rebrand, APR token, aprMON liquid staking and Monad order flow product.",
+      "url": "https://www.bitbase.com/blog/what-is-apriori",
+      "source": "Bitbase",
+      "tag": "Explainer"
+    },
+    {
+      "title": "aPriori Technical Architecture on Monad",
+      "tldr": "Describes how aPriori combines validator delegation, liquid staking and MEV optimization on Monad.",
+      "url": "https://web02.gate.com.tr/learn/articles/aprioris-technical-architecture-how-a-monad-liquid-staking-protocol-works",
+      "source": "Gate Learn",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -33,5 +33,21 @@
       "blockliquidity",
       "bubblemaps"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cortex Protocol Overview",
+      "tldr": "Explains Cortex's DeFi agent, agent platform, and natural language operations across supported chains.",
+      "url": "https://docs.cortexprotocol.com/docs/ProtocolOverview",
+      "source": "Cortex Protocol",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Cortex Agent Platform",
+      "tldr": "Introduces the infrastructure for building agents and connecting them to DeFi actions, including Hyperliquid.",
+      "url": "https://docs.cortexprotocol.com/docs/AgentPlatform",
+      "source": "Cortex Protocol",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -12,9 +12,9 @@
   "tags": [],
   "pricing": "Free",
   "content": {
-    "short": "Project X is a zero-fee decentralized exchange on HyperEVM.",
+    "short": "Project X is a zero-fee DEX on HyperEVM with swaps, liquidity provision and Cashdrop rewards.",
     "description": "Project X is a DEX on Hyperliquid offering zero-fee trading across its listed assets. The interface covers swapping, liquidity provision, portfolio tracking and a rewards mechanic the team calls Cashdrop. Zero-fee trading shifts where a venue makes its money without removing the cost, so the question becomes what the exchange does with order flow instead. The team's stated thesis is that DeFi competition now turns on distribution, incentive design and UX rather than underlying technology.",
-    "meta": "Swaps with no fee on HyperEVM, earning through the rest of the design instead.",
+    "meta": "Project X is a zero-fee DEX on Hyperliquid covering swaps, liquidity provision, portfolio tracking and a rewards mechanic called Cashdrop.",
     "pageTitle": "Project X - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "hyperflow",
       "infinex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Project X Is Live with LI.FI",
+      "tldr": "Explains how Project X integrates bridging and swaps from other chains into its HyperEVM exchange.",
+      "url": "https://li.fi/knowledge-hub/project-x-is-now-live-on-li-fi",
+      "source": "LI.FI",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Bringing Liquidity to Hyperliquid",
+      "tldr": "Describes Project X's custom LI.FI integration for trading tokens from other chains in one interface.",
+      "url": "https://li.fi/knowledge-hub/bringing-all-of-defis-liquidity-to-hyperliquid-powered-by-li-fi",
+      "source": "LI.FI",
+      "tag": "Explainer"
+    }
+  ]
 }

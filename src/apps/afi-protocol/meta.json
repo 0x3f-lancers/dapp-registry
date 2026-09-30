@@ -14,7 +14,7 @@
   "content": {
     "short": "AFI Protocol runs proof-of-reserve vaults paying yield backed by gold and other real assets.",
     "description": "AFI Protocol verifies the assets and liabilities behind tokenized real-world assets on an hourly cycle and publishes proof of solvency on-chain without revealing individual positions. Coverage spans treasuries, gold, private credit, stablecoins, equities and real estate on over a hundred blockchains. Issuers submit to verification to reach allocators and lenders, and a public dashboard shows each one's current status. AFI also operates vaults that pay yield on tokenized assets and admit only issuers that have passed verification.",
-    "meta": "Gold-backed and real-asset vaults on Monad, published with proof-of-reserve attestations.",
+    "meta": "AFI Protocol publishes hourly onchain proof of solvency for tokenized real-world assets and runs yield vaults that admit only verified issuers.",
     "pageTitle": "AFI Protocol - Real World Asset Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "mu-digital",
       "theo-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Continuous Verification Versus Periodic Audits",
+      "tldr": "Explains why live verification can expose reserve changes between traditional periodic audits.",
+      "url": "https://afiprotocol.xyz/blog-posts/continuous-verification-vs-periodic-audits-why-real-time-matters",
+      "source": "AFI Protocol",
+      "tag": "Security"
+    },
+    {
+      "title": "Why Tokenization Needs Proof of Reserves",
+      "tldr": "Explores the trust problem in tokenized assets and how proof of reserves can make backing visible.",
+      "url": "https://afiprotocol.xyz/blog-posts/tokenisation-alone-doesnt-solve-trust-why-the-worlds-biggest-banks-need-proof-of-reserve-as-rwas-scale",
+      "source": "AFI Protocol",
+      "tag": "Explainer"
+    }
+  ]
 }

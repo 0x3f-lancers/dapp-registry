@@ -32,5 +32,21 @@
       "veda",
       "0x"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "ITRocket Validator and Monad Space Overview",
+      "tldr": "ITRocket describes its validator infrastructure, public services, and Monad Space explorer, staking interface, analytics, and API.",
+      "url": "https://forum.datafdn.org/t/itrocket-validator-introduction/37327",
+      "source": "ITRocket",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How Monad Staking Works",
+      "tldr": "Monad's staking guide explains validator delegation, epoch timing, reward claims, and withdrawals for users evaluating validators.",
+      "url": "https://monad.docsbot.app/reference/staking/overview",
+      "source": "Monad Documentation",
+      "tag": "Tutorial"
+    }
+  ]
 }

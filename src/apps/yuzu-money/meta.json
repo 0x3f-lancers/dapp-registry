@@ -16,7 +16,7 @@
   "content": {
     "short": "Yuzu Money provides institutional tokenized RWA and DeFi yield infrastructure on Monad.",
     "description": "Yuzu Money runs tokenized real-world asset and DeFi yield products as several distinct product lines, not a single pooled vault. Alpha and Prime are its two main strategies, with reserves and liabilities attested on-chain, alongside a curated Marketplace of third-party vaults whose sizes are read live from a public API. Individual products include yzUSD, yzSyrup, yzCash and yzmGLOBAL, each with its own mandate. The platform is aimed at institutional allocators and packages the whole thing as yield-as-a-service.",
-    "meta": "Tokenized RWA and DeFi yield kept in separate product lines for compliance reasons.",
+    "meta": "Yuzu Money offers institutional tokenized RWA and DeFi yield on Monad through separate product lines, including its Alpha and Prime strategies.",
     "pageTitle": "Yuzu Money - Real World Asset Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -30,5 +30,21 @@
     "related": [
       "theo-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Real World Asset Market Overview",
+      "tldr": "Surveys tokenized real world assets and the market context behind Yuzu's research coverage.",
+      "url": "https://yuzu.money/research/rwa-market-overview",
+      "source": "Yuzu",
+      "tag": "Research"
+    },
+    {
+      "title": "Syrup USDC Strategy Research",
+      "tldr": "Examines the Syrup USDC strategy and the underlying yield exposure for onchain allocators.",
+      "url": "https://yuzu.money/research/syrup-usdc-strategy",
+      "source": "Yuzu",
+      "tag": "Research"
+    }
+  ]
 }

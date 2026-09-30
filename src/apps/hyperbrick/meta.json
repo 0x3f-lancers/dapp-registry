@@ -14,7 +14,7 @@
   "content": {
     "short": "HyperBrick is a bin-based dynamic liquidity market maker DEX on HyperEVM.",
     "description": "HyperBrick organises liquidity into discrete bins in place of a continuous curve, which produces zero slippage within a bin and tighter pricing than a standard AMM. Providers choose a shape and strategy for how their capital is distributed across bins, giving exact control over the prices they quote at. Fees adjust with volatility, and providers earn both fees and protocol rewards on the positions they hold.",
-    "meta": "Liquidity organised into discrete bins, letting fees move with volatility on HyperEVM.",
+    "meta": "HyperBrick is a bin-based liquidity DEX on HyperEVM with zero slippage inside a bin, custom provider strategies and volatility-based fees.",
     "pageTitle": "HyperBrick - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "curve-finance",
       "defi-app"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading on HyperBrick",
+      "tldr": "Explains token trading on HyperBrick and its Liquidity Book market design.",
+      "url": "https://docs.hyperbrick.xyz/trade/trading-on-hyperbrick.md",
+      "source": "HyperBrick",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Liquidity Provisioning",
+      "tldr": "Introduces liquidity provision and the Liquidity Book AMM on HyperBrick.",
+      "url": "https://docs.hyperbrick.xyz/liquidity-pools/liquidity-provisioning.md",
+      "source": "HyperBrick",
+      "tag": "Explainer"
+    }
+  ]
 }

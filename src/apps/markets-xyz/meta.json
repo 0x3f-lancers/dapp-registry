@@ -31,5 +31,21 @@
       "altura-trade",
       "arrakis-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Decentralized Versus Centralized Exchanges",
+      "tldr": "Compares exchange custody, fees, access and transparency to explain the structural tradeoffs for traders.",
+      "url": "https://markets.xyz/blog/decentralized-vs-centralized-exchanges",
+      "source": "Markets.xyz",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Understanding Smart Contract Trading",
+      "tldr": "Explains how onchain trades execute through contracts and the benefits and risks of that execution model.",
+      "url": "https://markets.xyz/blog/understanding-smart-contract-trading",
+      "source": "Markets.xyz",
+      "tag": "Explainer"
+    }
+  ]
 }

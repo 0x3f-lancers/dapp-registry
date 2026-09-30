@@ -17,7 +17,7 @@
   "content": {
     "short": "Nordstern is a DEX aggregator API returning simulated, zero-fee swap routes across EVM chains.",
     "description": "Nordstern is a DEX aggregator API that finds and executes optimal swap routes on over a hundred EVM chains. It queries every available liquidity source, simulates the execution paths and returns the split route, gas estimate and encoded calldata in one REST response. There is no API key, registration, SDK, subscription or per-swap protocol fee, and no fixed rate limit. Separate endpoints cover token prices, liquidity depth and the supported chain list, with MCP integration for agents.",
-    "meta": "Swap routing as an API, returning routes already simulated against live pool state.",
+    "meta": "Nordstern is a free DEX aggregator API that simulates and returns optimal swap routes on 100+ EVM chains, with no API key or per-swap fee.",
     "pageTitle": "Nordstern - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -35,5 +35,21 @@
       "brownfi",
       "capricorn-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Nordstern Routes Swaps",
+      "tldr": "Explains how Nordstern queries liquidity sources, simulates paths, and returns a plan for onchain execution.",
+      "url": "https://docs.nordstern.finance/how-it-works",
+      "source": "Nordstern",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Nordstern Quick Start",
+      "tldr": "Shows developers how to request a swap route and execute a trade using the aggregator API.",
+      "url": "https://docs.nordstern.finance/quick-start",
+      "source": "Nordstern",
+      "tag": "Tutorial"
+    }
+  ]
 }

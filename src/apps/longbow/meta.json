@@ -32,5 +32,21 @@
       "termmax",
       "alandale"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Longbow Credit Infrastructure Deep Dive",
+      "tldr": "An independent review examines Longbow's lending markets, stock leverage, risk controls, token mechanics, and agent tools.",
+      "url": "https://bakas.media/defi/longbow-deep-dive/",
+      "source": "Bakas Media",
+      "tag": "Research"
+    },
+    {
+      "title": "Borrowing Against Stock Tokens with Longbow",
+      "tldr": "A Robinhood Chain ecosystem guide walks through Longbow's collateral markets and explains liquidation and issuer risks.",
+      "url": "https://bakas.media/defi/rwa-projects-robinhood-chain/",
+      "source": "Bakas Media",
+      "tag": "Explainer"
+    }
+  ]
 }

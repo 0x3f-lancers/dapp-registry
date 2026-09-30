@@ -32,5 +32,21 @@
       "equilibria",
       "harmonix-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What is Liquid Looping?",
+      "tldr": "Explains how liquid staking tokens and lending can be combined in a looping position.",
+      "url": "https://docs.loopingcollective.org/what-is-liquid-looping.md",
+      "source": "Looping Collective",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Product Mechanics",
+      "tldr": "Explains LHYPE deposits, minting, and the mechanics of the looped HYPE product.",
+      "url": "https://docs.loopingcollective.org/products/loopedhype/product-mechanics.md",
+      "source": "Looping Collective",
+      "tag": "Explainer"
+    }
+  ]
 }

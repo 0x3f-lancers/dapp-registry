@@ -32,5 +32,21 @@
       "bybit",
       "coinstats"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "API Dashboard - How to Use",
+      "tldr": "Shows how to monitor API key usage, performance, and billing in the dashboard.",
+      "url": "https://docs.coinmarketman.com/api-dashboard-how-to-use.md",
+      "source": "CoinMarketMan",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Key Concepts",
+      "tldr": "Explains the connections, channels, and messages used in live data streams.",
+      "url": "https://docs.coinmarketman.com/real-time-websocket-streams/key-concepts.md",
+      "source": "CoinMarketMan",
+      "tag": "Explainer"
+    }
+  ]
 }

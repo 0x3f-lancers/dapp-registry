@@ -14,7 +14,7 @@
   "content": {
     "short": "HyperWave runs automated yield vaults on HYPE and stablecoins on Hyperliquid.",
     "description": "HyperWave builds automated yield vaults on Hyperliquid for institutional allocators, funds and DAOs, with permissioned access available alongside the public vaults. Its flagship hwHYPE vault targets yield on HYPE, complemented by hwHLP and hwUSD for HLP and dollar exposure. The hwHLP token is integrated across other HyperEVM protocols that accept it, and the team has run two seasons of a points program for depositors.",
-    "meta": "Automated HYPE and stablecoin vaults on Hyperliquid, aimed at institutional allocators.",
+    "meta": "HyperWave runs automated yield vaults on Hyperliquid, led by hwHYPE alongside hwHLP and hwUSD, for institutions, funds, DAOs and public depositors.",
     "pageTitle": "HyperWave - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "equilibria",
       "harmonix-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Minting Guide",
+      "tldr": "Guides users through minting hwHLP by depositing supported stable assets.",
+      "url": "https://docs.hyperwavefi.xyz/public-vaults/hyperwave-hlp/minting-guide.md",
+      "source": "HyperWave",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Redemption Guide",
+      "tldr": "Explains the available methods for redeeming hwHLP for stable assets.",
+      "url": "https://docs.hyperwavefi.xyz/public-vaults/hyperwave-hlp/redemption-guide.md",
+      "source": "HyperWave",
+      "tag": "Tutorial"
+    }
+  ]
 }

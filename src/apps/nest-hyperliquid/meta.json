@@ -32,5 +32,21 @@
       "hyperbloom",
       "hyperflow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "6.1 - First Swap",
+      "tldr": "Guides users through their first token swap on Nest.",
+      "url": "https://docs.usenest.xyz/tutorials/6.1-first-swap.md",
+      "source": "Nest",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "6.2 - Add Liquidity: Classic",
+      "tldr": "Shows how to add liquidity to a classic Nest pool and monitor the position.",
+      "url": "https://docs.usenest.xyz/tutorials/6.2-add-liquidity-classic.md",
+      "source": "Nest",
+      "tag": "Explainer"
+    }
+  ]
 }

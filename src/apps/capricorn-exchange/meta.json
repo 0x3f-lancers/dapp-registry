@@ -32,5 +32,21 @@
       "brownfi",
       "clober"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Capricorn Proactive AMM Architecture",
+      "tldr": "Explains Capricorn's oracle-driven pricing engine and how its proactive pools differ from concentrated pools.",
+      "url": "https://capricorn-1.gitbook.io/capricorn-docs",
+      "source": "Capricorn",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Capricorn Exchange and Order Flow on Monad",
+      "tldr": "Explores how Capricorn Exchange concentrates liquidity and connects to the project's order flow system.",
+      "url": "https://www.bitbase.com/blog/what-is-apriori",
+      "source": "Bitbase",
+      "tag": "Explainer"
+    }
+  ]
 }

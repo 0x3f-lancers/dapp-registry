@@ -14,7 +14,7 @@
   "content": {
     "short": "Stratium offers structured products on Hyperliquid including volatility perps and asset baskets.",
     "description": "Stratium is a HIP-3 platform on Hyperliquid for trading structured markets. Every Hyperliquid perp is tradeable through its interface today, covering BTC, ETH, HYPE and more than a hundred markets, with native HIP-3 instruments carrying structured payoffs arriving alongside them. Binary, recurring and multi-outcome markets built on HIP-4 are live on mainnet. Stakers deposit HYPE for srHYPE and receive 20 percent of venue fees, and srHYPE stays liquid for use elsewhere in DeFi. A ticket-based reward system funded from real venue fees pays out on-chain.",
-    "meta": "Volatility perpetuals and asset baskets, putting options-desk exposure within reach.",
+    "meta": "Stratium is a HIP-3 platform on Hyperliquid for structured markets, with 100+ perps, HIP-4 outcome markets and srHYPE staking on venue fees.",
     "pageTitle": "Stratium - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "perpmate",
       "sir-trading"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Oracle Architecture",
+      "tldr": "Introduces Stratium’s oracle and data architecture for structured products.",
+      "url": "https://docs.stratium.xyz/about-stratium/oracle-architecture.md",
+      "source": "Stratium",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How to Stake HYPE",
+      "tldr": "Walks through the steps to stake HYPE through Stratium.",
+      "url": "https://docs.stratium.xyz/srhype/how-to-stake-hype.md",
+      "source": "Stratium",
+      "tag": "Tutorial"
+    }
+  ]
 }

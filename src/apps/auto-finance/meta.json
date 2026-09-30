@@ -33,5 +33,21 @@
       "lagoon",
       "neutral-trade"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Autopools Versus Manual Liquidity Provision",
+      "tldr": "Compares automated liquidity pools with managing LP positions manually, including operational tradeoffs.",
+      "url": "https://auto.finance/compare/autopools-vs-manual-lp",
+      "source": "Auto Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Autopools Versus Yield Aggregators",
+      "tldr": "Explains how autopools differ from yield aggregators in strategy execution and position management.",
+      "url": "https://auto.finance/compare/autopools-vs-yield-aggregators",
+      "source": "Auto Finance",
+      "tag": "Explainer"
+    }
+  ]
 }

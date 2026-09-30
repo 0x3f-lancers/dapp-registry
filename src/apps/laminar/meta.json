@@ -14,7 +14,7 @@
   "content": {
     "short": "Laminar is a Hyperliquid-native DEX pairing concentrated liquidity with intent-based routing.",
     "description": "Laminar runs both a concentrated liquidity AMM and classic pools on HyperEVM. The V3 design lets providers place capital in custom price ranges across fee tiers of 0.05, 0.3 and 1 percent, chosen to suit different pair volatilities, and fees can be collected without withdrawing the position. V2 classic pools remain available for providers wanting simple two-sided exposure.",
-    "meta": "Concentrated liquidity and solver-based routing side by side on Hyperliquid.",
+    "meta": "Laminar is a Hyperliquid-native DEX running a concentrated liquidity AMM with 0.05, 0.3 and 1 percent fee tiers alongside classic V2 pools.",
     "pageTitle": "Laminar - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "curve-finance",
       "defi-app"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "About Laminar",
+      "tldr": "Laminar is the decentralized liquidity engine powering the Hyperliquid EVM ecosystem, designed to provide efficient and flexible trading on HyperEVM.",
+      "url": "https://docs.laminar.xyz/about-laminar.md",
+      "source": "Laminar",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Subgraphs",
+      "tldr": "Laminar exposes several public subgraphs that index Laminar activity on HyperEVM.",
+      "url": "https://docs.laminar.xyz/for-developers/subgraphs.md",
+      "source": "Laminar",
+      "tag": "Explainer"
+    }
+  ]
 }

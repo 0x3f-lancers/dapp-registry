@@ -14,7 +14,7 @@
   "content": {
     "short": "Grimmy's is a play-to-own onchain casino on Monad themed around flipping burgers.",
     "description": "Grimmy's is an on-chain casino on Monad where every game resolves against verifiable randomness and the liquidity backing it is locked in contracts. Play begins with a 50/50 flip paying 1.932x on a win, which unlocks the deeper mechanic the project calls Burger Mining. Staked GRIMMY, known as STIMMY, pays dividends drawn directly from casino revenue, so holders earn from house take rather than only from their own bets. Winning increases mining rate and staking accelerates it further.",
-    "meta": "An onchain casino on Monad where the odds sit in a contract anyone can read.",
+    "meta": "Grimmy's is an onchain casino on Monad with verifiable randomness, a Burger Mining mechanic and STIMMY staking paid from casino revenue.",
     "pageTitle": "Grimmy's - Decentralized Games - Lancers Web3 Explorer"
   },
   "links": {
@@ -30,5 +30,21 @@
       "aavegotchi",
       "alien-worlds"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Introduces Grimmy’s game and its player experience.",
+      "url": "https://docs.grimmy.fun/introduction.md",
+      "source": "Grimmy's",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How to Play",
+      "tldr": "Explains the rules and steps for playing Grimmy’s flip game.",
+      "url": "https://docs.grimmy.fun/how-to-play.md",
+      "source": "Grimmy's",
+      "tag": "Tutorial"
+    }
+  ]
 }

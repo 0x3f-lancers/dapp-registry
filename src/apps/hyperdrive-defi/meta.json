@@ -14,7 +14,7 @@
   "content": {
     "short": "Hyperdrive is a lending protocol on HyperEVM offering pooled and isolated markets.",
     "description": "Hyperdrive is a stablecoin money market on HyperEVM where users supply stablecoins for lending yield or borrow against other assets. It liquid stakes HYPE so the staked position still works as collateral, and it accepts HLP as collateral or lets holders leverage HLP to increase its yield. One-click strategies bundle those pieces into portfolio-level positions. Arrington Capital is among its backers.",
-    "meta": "Hyperdrive is a HyperEVM lending protocol offering both pooled and isolated markets.",
+    "meta": "Hyperdrive is a stablecoin money market on HyperEVM where users lend or borrow, use liquid staked HYPE as collateral and leverage HLP positions.",
     "pageTitle": "Hyperdrive - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "impermax-v2",
       "morpho"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Deposit Assets",
+      "tldr": "Shows how to deposit supported assets in Hyperdrive lending markets to earn borrowing interest.",
+      "url": "https://hyperdrive-2.gitbook.io/hyperdrive/deposits/deposit-assets.md",
+      "source": "Hyperdrive",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Borrow",
+      "tldr": "Guides users through supplying collateral and borrowing from a Hyperdrive market.",
+      "url": "https://hyperdrive-2.gitbook.io/hyperdrive/borrowing/borrow.md",
+      "source": "Hyperdrive",
+      "tag": "Tutorial"
+    }
+  ]
 }

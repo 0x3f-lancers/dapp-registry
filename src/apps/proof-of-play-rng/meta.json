@@ -14,7 +14,7 @@
   "content": {
     "short": "Proof of Play RNG is a verifiable on-chain random number generation service for smart contracts.",
     "description": "Proof of Play RNG generates random numbers on-chain for games and applications that need verifiable draws. Contracts request a number and receive it through a callback, with support for multiple distinct numbers inside the same block window and manual retries authorised by EIP-712 signatures. The vRNG contracts are deployed on HyperEVM alongside ApeChain, Abstract, Avalanche, Base and BNB Chain, with addresses published per network. A marketplace API covers the commercial side for studios integrating it.",
-    "meta": "Verifiable randomness for contracts, where block data alone cannot be trusted.",
+    "meta": "Proof of Play RNG provides verifiable onchain random numbers for games and apps on HyperEVM and other chains, delivered through a callback.",
     "pageTitle": "Proof of Play RNG - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -30,5 +30,21 @@
       "ccxt",
       "etherscan"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Verified Random Number Generator (vRNG)",
+      "tldr": "Fast, secure, and scalable onchain random number generation.",
+      "url": "https://docs.proofofplay.com/services/vrng/about.md",
+      "source": "Proof of Play RNG",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Get vRNG signed message",
+      "tldr": "Generate a signature offchain to call deliverSignedRandomNumber .",
+      "url": "https://docs.proofofplay.com/services/vrng/api.md",
+      "source": "Proof of Play RNG",
+      "tag": "Explainer"
+    }
+  ]
 }

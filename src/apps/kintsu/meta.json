@@ -15,7 +15,7 @@
   "content": {
     "short": "Kintsu is a liquid staking protocol operating on Monad and Hyperliquid.",
     "description": "Kintsu brings staking, lending and curated vaults onto one capital layer spanning Canton, Monad and Hyperliquid. Holders of eligible tokenized assets can post them as collateral and borrow variable-rate liquidity privately while keeping their underlying exposure. Capital can instead be allocated into vaults, or a manager can turn market expertise into a product by launching a market of their own. Execution is privacy-preserving, built on what the team describes as a programmable risk operating system for institutional users.",
-    "meta": "Liquid staking deployed on both Monad and Hyperliquid, sharing one integration surface.",
+    "meta": "Kintsu combines staking, lending and curated vaults in one capital layer across Canton, Monad and Hyperliquid, with privacy-preserving execution.",
     "pageTitle": "Kintsu - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -39,6 +39,13 @@
       "title": "sMON Liquid Staking Explained",
       "tldr": "Explains how Kintsu's sMON represents staked MON while keeping the position usable across Monad DeFi.",
       "url": "https://kintsu.xyz/blog/smon-explained-setting-expectations-for-liquid-staking-on-monad",
+      "source": "Kintsu",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Introducing SuperMON on Monad",
+      "tldr": "Explains Kintsu's automated yield engine and how it builds on sMON liquid staking rewards.",
+      "url": "https://kintsu.xyz/blog/introducing-supermon-kintsu-s-automated-yield-engine-built-for-monad",
       "source": "Kintsu",
       "tag": "DeFi"
     }

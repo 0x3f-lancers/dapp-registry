@@ -32,5 +32,21 @@
       "chainstack-subgraphs",
       "envio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Quickstart",
+      "tldr": "Shows developers how to authenticate and make their first Hypedexer API request.",
+      "url": "https://docs.hypedexer.com/quickstart.md",
+      "source": "HypeDexer",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Social Trading",
+      "tldr": "Explains the trader statistics and account data available for social trading tools.",
+      "url": "https://docs.hypedexer.com/guides/social-trading.md",
+      "source": "HypeDexer",
+      "tag": "Tutorial"
+    }
+  ]
 }

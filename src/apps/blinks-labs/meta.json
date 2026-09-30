@@ -14,7 +14,7 @@
   "content": {
     "short": "Blinks Labs is an automation layer running event-triggered DeFi strategies.",
     "description": "Blinks Labs tracks a user's positions and then executes the rules they set, non-custodially, across DeFi venues. Execution routes through Jupiter and Hyperliquid for price discovery, route optimisation, custom slippage controls and perpetual hedging. A separate yield layer integrates Kamino and Marinade for lending, liquidation protection, SOL staking, validator selection and reward compounding. Rules can trigger on conditions such as a wallet inflow threshold, and the platform issues embedded wallets for accounts that want one.",
-    "meta": "DeFi strategies that fire automatically when a specified onchain event occurs.",
+    "meta": "Blinks Labs is a non-custodial automation layer that executes user-set DeFi rules through Jupiter, Hyperliquid, Kamino and Marinade.",
     "pageTitle": "Blinks Labs - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -31,5 +31,21 @@
       "allium",
       "artemis"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blinks Labs Automation Documentation",
+      "tldr": "Official documentation covers Blinks' policy triggers, AI analysis, wallet controls, and Hyperliquid execution and hedging.",
+      "url": "https://docs.blinks.zone/",
+      "source": "Blinks Labs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Why Blinks Labs Built Portfolio Automation",
+      "tldr": "The team explains its portfolio tracking, profit and loss insights, automation goals, and the tools it is building for users.",
+      "url": "https://www.linkedin.com/posts/blinks-labs_blinks-labs-a-smarter-way-to-track-manage-activity-7398712697900544000-lJNf",
+      "source": "Blinks Labs",
+      "tag": "Product"
+    }
+  ]
 }

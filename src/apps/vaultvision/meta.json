@@ -14,7 +14,7 @@
   "content": {
     "short": "VaultVision is a Hyperliquid vault scanner comparing TVL, risk, drawdown and returns.",
     "description": "VaultVision provides independent analytics on Hyperliquid vaults, reporting risk scores, drawdown, TVL, capital flow and manager behaviour in one research surface. It takes no custody and executes nothing, so its readings stay separate from any product it covers. Return views are built from coherent PnL evidence with TVL kept out of the return calculation. A decision map plots every active vault by 30-day return against modelled risk, with a dedicated scanner for filtering the universe.",
-    "meta": "Compares Hyperliquid vaults on drawdown and risk, not just headline return.",
+    "meta": "VaultVision is an independent Hyperliquid vault scanner comparing risk scores, drawdown, TVL, capital flow and 30-day returns.",
     "pageTitle": "VaultVision - DeFi Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -40,6 +40,13 @@
       "url": "https://vaultvision.tech/blog/hyperliquid-vault-rankings-explained",
       "source": "VaultVision",
       "tag": "DeFi"
+    },
+    {
+      "title": "Methodology for Comparing Hyperliquid Vaults",
+      "tldr": "Explains the drawdown, risk, TVL flow and deposit checks VaultVision uses before ranking a Hyperliquid vault.",
+      "url": "https://vaultvision.tech/blog/best-hyperliquid-vaults-methodology",
+      "source": "VaultVision",
+      "tag": "Research"
     }
   ]
 }

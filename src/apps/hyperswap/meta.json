@@ -13,8 +13,8 @@
   "pricing": "Free",
   "content": {
     "short": "HyperSwap is a concentrated liquidity AMM and one of the principal exchanges on HyperEVM.",
-    "description": "HyperSwap is an AMM on HyperEVM where users swap, provide liquidity and earn fees from the pools they supply. It positions itself as the chain's liquidity hub, with a stated community of more than 18,000 users.",
-    "meta": "One of HyperEVM's most used AMMs and a common routing hop for aggregators.",
+    "description": "HyperSwap is a concentrated liquidity AMM on HyperEVM where users swap tokens, provide liquidity and earn fees from the pools they supply. It positions itself as the chain's liquidity hub, with a stated community of more than 18,000 users. As one of the most used AMMs on HyperEVM, its pools are a common routing hop for the aggregators that search the chain for the best swap price.",
+    "meta": "HyperSwap is a concentrated liquidity AMM on HyperEVM where users swap, supply liquidity and earn pool fees, positioned as the chain's liquidity hub.",
     "pageTitle": "HyperSwap - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "hyperbloom",
       "hyperflow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "HyperSwap Liquidity Pools",
+      "tldr": "Explains how two-token pools make swaps possible and how liquidity providers earn fees on HyperSwap.",
+      "url": "https://docs.hyperswap.exchange/docs/amm/protocol-concepts/liquidity-pool/",
+      "source": "HyperSwap",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Concentrated Liquidity on HyperSwap",
+      "tldr": "Explains custom price ranges, capital efficiency, and the risk of a position moving outside its active range.",
+      "url": "https://docs.hyperswap.exchange/docs/amm/protocol-concepts/liquidity-pool/concentrated-liquidity-position/",
+      "source": "HyperSwap",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -35,5 +35,21 @@
       "atomic-wallet",
       "backpack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started With Exodus Wallet",
+      "tldr": "Guides new users through self custody, receiving and sending assets, and backing up the wallet's secret key.",
+      "url": "https://www.exodus.com/support/en/articles/8598609-getting-started-with-the-exodus-crypto-wallet",
+      "source": "Exodus",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Exodus Wallet Security Practices",
+      "tldr": "Explains secret key storage, passwords, passkeys and device security for Exodus wallet users.",
+      "url": "https://www.exodus.com/support/en/articles/8598732-list-of-security-practices",
+      "source": "Exodus",
+      "tag": "Security"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "altura-trade",
       "ample-money"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Monetrix Protocol Audit Scope",
+      "tldr": "Explains Monetrix's synthetic dollar design and the contracts submitted for security review.",
+      "url": "https://github.com/code-423n4/2026-04-monetrix/blob/main/README.md",
+      "source": "Code4rena",
+      "tag": "Security"
+    },
+    {
+      "title": "Monetrix Genesis Guide",
+      "tldr": "Explains Monetrix's USDC-backed dollar and walks through its early participation flow.",
+      "url": "https://airdrops.io/blog/monetrix-airdrop-genesis-guide/",
+      "source": "Airdrops.io",
+      "tag": "Tutorial"
+    }
+  ]
 }

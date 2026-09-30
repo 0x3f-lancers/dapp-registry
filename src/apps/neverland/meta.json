@@ -14,7 +14,7 @@
   "content": {
     "short": "Neverland is a Monad lending platform built around sustainable incentive design.",
     "description": "Neverland runs lending markets on Monad built on its neverland-lending-core engine, where borrowers draw against supplied collateral inside LTV limits. Borrowing costs are discounted by token reward incentives, and suppliers and borrowers both earn DUST rewards. The protocol layers veTokenomics, governance rewards and self-repaying loans on top of the basic market, aiming to hold deposits after the initial emissions period. Advanced yield strategies and integrations with other Monad protocols sit on top of the lending model.",
-    "meta": "Monad lending designed to hold up once the initial emissions period tapers off.",
+    "meta": "Neverland runs lending markets on Monad with DUST rewards for suppliers and borrowers, plus veTokenomics and self-repaying loans on top.",
     "pageTitle": "Neverland - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -33,5 +33,21 @@
       "gearbox",
       "morpho"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lending Model",
+      "tldr": "Explains Neverland’s lending model and its Aave V3-derived core.",
+      "url": "https://docs.neverland.money/lending-model.md",
+      "source": "Neverland",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Security",
+      "tldr": "Lists the security audits and reviews covering Neverland’s lending contracts.",
+      "url": "https://docs.neverland.money/security.md",
+      "source": "Neverland",
+      "tag": "Security"
+    }
+  ]
 }

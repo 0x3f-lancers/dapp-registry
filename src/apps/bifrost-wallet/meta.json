@@ -15,7 +15,7 @@
   "content": {
     "short": "Bifrost Wallet is a self-custody mobile wallet built around the Flare and XRP Ledger ecosystems.",
     "description": "Bifrost Wallet is a self-custody mobile wallet that began in the Flare and Songbird ecosystems and now covers Ethereum and other EVM networks including Hyperliquid. Keys and data stay on the device, with no account held by the provider. The app combines token management with an NFT gallery and a Web3 browser, so dapps such as Uniswap, Compound and Flarefarm open directly inside it. Staking and in-app swaps are available for supported assets.",
-    "meta": "Mobile self-custody for the Flare and XRP Ledger ecosystems, extended to EVM networks.",
+    "meta": "Bifrost Wallet is a self-custody mobile wallet from the Flare ecosystem, now covering Ethereum, Hyperliquid and other EVM networks.",
     "pageTitle": "Bifrost Wallet - Web3 Wallets - Lancers Web3 Explorer"
   },
   "links": {
@@ -33,5 +33,21 @@
       "trust-wallet",
       "zerion"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing Flare FAssets",
+      "tldr": "Introduces Flare's FAssets beta and how users can hold tokenized assets in Bifrost Wallet.",
+      "url": "https://bifrostwallet.com/blog/fasset-beta-launch",
+      "source": "Bifrost Wallet",
+      "tag": "Explainer"
+    },
+    {
+      "title": "FTSO V2 Updates Explained",
+      "tldr": "Describes the faster oracle updates in Flare Time Series Oracle V2 and how wallet users can follow them.",
+      "url": "https://bifrostwallet.com/blog/ftso-v2-faster-updates-enhanced-features",
+      "source": "Bifrost Wallet",
+      "tag": "Explainer"
+    }
+  ]
 }

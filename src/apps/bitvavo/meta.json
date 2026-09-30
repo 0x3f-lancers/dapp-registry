@@ -16,7 +16,7 @@
   "content": {
     "short": "Bitvavo is a regulated European exchange and one of the largest venues in the Netherlands.",
     "description": "Bitvavo is a European crypto exchange offering spot trading with a documented API surface for programmatic access. Developers can connect through an Exchange REST API, a WebSocket API or a FIX API depending on how their system is built. A separate Market Data Pro WebSocket feed carries higher-frequency market data, and an Account Management REST API covers institutional account operations.",
-    "meta": "A regulated Dutch exchange, among the largest retail crypto venues in the Netherlands.",
+    "meta": "Bitvavo is a regulated European crypto exchange from the Netherlands, offering spot trading plus REST, WebSocket and FIX APIs.",
     "pageTitle": "Bitvavo - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -34,5 +34,21 @@
       "bitget",
       "bithumb"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Crypto Staking?",
+      "tldr": "Explains proof of stake validation and how crypto holders can participate in staking.",
+      "url": "https://learn.bitvavo.com/article/what-is-crypto-staking/1182",
+      "source": "Bitvavo Learn",
+      "tag": "Explainer"
+    },
+    {
+      "title": "What Is a Blockchain?",
+      "tldr": "Introduces blocks, nodes, consensus and public transaction records for new crypto users.",
+      "url": "https://learn.bitvavo.com/article/what-is-blockchain/1143",
+      "source": "Bitvavo Learn",
+      "tag": "Explainer"
+    }
+  ]
 }

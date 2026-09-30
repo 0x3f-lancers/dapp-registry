@@ -37,5 +37,21 @@
       "bitget",
       "bithumb"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Futures Trading Guide for Beginners",
+      "tldr": "Walks new traders through Gate's futures interface and the basic order and margin concepts.",
+      "url": "https://www.gate.com/futures/trading-guide-for-beginners",
+      "source": "Gate",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Gate's Proof of Reserves Works",
+      "tldr": "Explains the exchange's reserve disclosures and how users can check claims about asset backing.",
+      "url": "https://www.gate.com/proof-of-reserves",
+      "source": "Gate",
+      "tag": "Security"
+    }
+  ]
 }

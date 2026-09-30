@@ -33,5 +33,21 @@
       "beefy-finance",
       "equilibria"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading Strategies",
+      "tldr": "Vault-based protocols pool your funds inside a standardized structure so the trading strategy can deploy them.",
+      "url": "https://docs.d2.finance/docs/trading-strategies.md",
+      "source": "D2 Finance",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Vault Design",
+      "tldr": "Vault Architecture Each vault (GLP++, GM, etc.) is a standalone unit made up of two key components: the Vault , and the Trader .",
+      "url": "https://docs.d2.finance/docs/vault-design.md",
+      "source": "D2 Finance",
+      "tag": "Explainer"
+    }
+  ]
 }

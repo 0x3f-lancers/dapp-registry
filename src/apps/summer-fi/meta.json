@@ -15,7 +15,7 @@
   "content": {
     "short": "Summer.fi auto-rebalances deposits across major lending protocols to chase the best rate.",
     "description": "Summer.fi runs the Lazy Summer Protocol, which moves deposits between established lending protocols as their rates change so a depositor holds one position instead of monitoring several. AI-powered keepers monitor and rebalance the supported vaults continuously, inside risk parameters set and managed by risk firm BlockAnalitica. Its Pro product covers borrowing and multiplying positions across protocols with automation attached. Deployments include Hyperliquid alongside Ethereum, Base, Arbitrum and Sonic.",
-    "meta": "Moves deposits between lending protocols as utilisation pushes their rates apart.",
+    "meta": "Summer.fi runs the Lazy Summer Protocol, moving deposits between major lending protocols with AI keepers on Hyperliquid, Ethereum and more.",
     "pageTitle": "Summer.fi - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -33,5 +33,21 @@
       "veda",
       "abyss-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Summer.fi Vault Automation",
+      "tldr": "Explains automatic collateral buying and selling to keep vault positions within selected ratios.",
+      "url": "https://blog.summer.fi/oasis-app-launches-new-automation-features-for-your-vaults-auto-buy-auto-sell/",
+      "source": "Summer.fi",
+      "tag": "Explainer"
+    },
+    {
+      "title": "DAO Risk Managed Vaults",
+      "tldr": "Introduces Summer.fi's risk managed vault category and compares the available vault approaches.",
+      "url": "https://blog.summer.fi/say-to-dao-risk-managed-vaults/",
+      "source": "Summer.fi",
+      "tag": "Explainer"
+    }
+  ]
 }

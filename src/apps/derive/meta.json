@@ -14,7 +14,7 @@
   "content": {
     "short": "Derive is an onchain options and futures protocol offering institutional-grade derivatives trading.",
     "description": "Derive runs options and futures markets on-chain with a portfolio margin system that prices risk across a whole position, not each leg separately. Its v3 API exposes options, perps, lending and vaults, with WebSocket and HTTP endpoints and a documented migration path from v2. Permissionless vaults let anyone create a strategy vault on the venue within minutes.",
-    "meta": "Onchain options and futures with portfolio margin, formerly known as Lyra.",
+    "meta": "Derive, formerly Lyra, runs onchain options and futures with portfolio margin, a v3 API for options, perps and lending, and permissionless vaults.",
     "pageTitle": "Derive - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -37,6 +37,13 @@
       "title": "How to Read the Derive Options Chain",
       "tldr": "Walks through the options chain so readers can compare strikes, expiries and quotes before opening an options position.",
       "url": "https://insights.derive.xyz/01-how-to-read-the-derive-options-chain/",
+      "source": "Derive Insights",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How to Roll an Options Position on Derive",
+      "tldr": "Shows how to move an expiring options position to a new strike or expiry while understanding the cost of the roll.",
+      "url": "https://insights.derive.xyz/how-to-roll-an-options-position-on-derive/",
       "source": "Derive Insights",
       "tag": "Tutorial"
     }

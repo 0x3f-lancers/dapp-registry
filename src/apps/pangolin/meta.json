@@ -33,5 +33,21 @@
       "sushi",
       "trader-joe"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Providing Liquidity on Pangolin V3",
+      "tldr": "Walks through choosing a pair, fee tier and price range before creating a concentrated liquidity position.",
+      "url": "https://docs.pangolin.exchange/guides/providing-liquidity",
+      "source": "Pangolin",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Managing Pangolin Liquidity Positions",
+      "tldr": "Explains monitoring a price range, adjusting a position and withdrawing liquidity when conditions change.",
+      "url": "https://docs.pangolin.exchange/guides/managing-liquidity-positions",
+      "source": "Pangolin",
+      "tag": "Tutorial"
+    }
+  ]
 }

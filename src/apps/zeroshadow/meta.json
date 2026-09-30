@@ -32,5 +32,21 @@
       "phalcon",
       "trm-labs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Access Control Exploits Work",
+      "tldr": "Explains access control failures in smart contracts and ways projects can respond to incidents.",
+      "url": "https://zeroshadow.io/blog/access%20control%20incident%20solutions/",
+      "source": "zeroShadow",
+      "tag": "Security"
+    },
+    {
+      "title": "Address Poisoning and How to Avoid It",
+      "tldr": "Shows how address poisoning scams mislead wallet users and what to check before sending assets.",
+      "url": "https://zeroshadow.io/blog/address-poisoning-what-it-is-and-how-to-protect-yourself/",
+      "source": "zeroShadow",
+      "tag": "Security"
+    }
+  ]
 }

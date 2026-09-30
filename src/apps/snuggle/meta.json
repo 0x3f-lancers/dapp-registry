@@ -32,5 +32,21 @@
       "d2-finance",
       "gami-labs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Snuggle Rebalancing Compared",
+      "tldr": "Compares Snuggle's no-swap rebalancing with traditional liquidity position management.",
+      "url": "https://www.snuggle.fi/learn/core-concepts/snuggle-rebalance-vs-traditional",
+      "source": "Snuggle",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Make Your First Snuggle Deposit",
+      "tldr": "Guides users through choosing a pool, setting a range, and depositing into a Snuggle position.",
+      "url": "https://www.snuggle.fi/learn/getting-started/make-your-first-deposit",
+      "source": "Snuggle",
+      "tag": "Tutorial"
+    }
+  ]
 }

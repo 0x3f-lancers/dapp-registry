@@ -32,5 +32,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "FinchPay Widget URL Structure",
+      "tldr": "Explains how partners can prefill checkout values using FinchPay widget URL parameters.",
+      "url": "https://docs.finchpay.io/docs/url-structure",
+      "source": "FinchPay",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Embedding the FinchPay Calculator",
+      "tldr": "Guides partners through adding FinchPay's exchange calculator to a web page.",
+      "url": "https://docs.finchpay.io/docs/fcalc",
+      "source": "FinchPay",
+      "tag": "Tutorial"
+    }
+  ]
 }

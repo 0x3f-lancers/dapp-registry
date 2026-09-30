@@ -33,5 +33,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Less Terrible Ethereum Indexing",
+      "tldr": "Explains the engineering choices behind indexing Ethereum data for applications without relying on fragile event pipelines.",
+      "url": "https://blog.daimo.com/less-terrible-ethereum-indexing",
+      "source": "Daimo",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The First Audited P256Verifier",
+      "tldr": "Introduces Daimo's P256 signature verifier and why secure onchain verification matters for passkey-based wallets.",
+      "url": "https://blog.daimo.com/p256verifier",
+      "source": "Daimo",
+      "tag": "Security"
+    }
+  ]
 }

@@ -18,7 +18,7 @@
   "content": {
     "short": "IPOR builds Fusion, vault infrastructure for accessing, deploying and managing onchain strategies.",
     "description": "Fusion, built by IPOR, is vault infrastructure that lets managers deploy and run on-chain vaults allocating across protocols from one interface. Every vault exposes its allocations, performance, costs and on-chain activity, with transaction-level auditability for depositors. The platform states more than 500 million dollars in assets under management and MiCA authorisation, and IPOR acts as a core risk management provider for Aave. Fortune 500 companies, ETP issuers and independent curators are among its users. It is deployed on Hyperliquid, Monad and Robinhood Chain.",
-    "meta": "IPOR builds Fusion, vault infrastructure for deploying and managing onchain strategies.",
+    "meta": "IPOR builds Fusion, vault infrastructure for deploying and managing onchain strategies, live on Hyperliquid, Monad and Robinhood Chain.",
     "pageTitle": "IPOR - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -37,5 +37,21 @@
       "upshift",
       "veda"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How FUSION Automates Aave Yield Looping",
+      "tldr": "Explains how IPOR FUSION automates a cbETH lending and borrowing strategy on Aave.",
+      "url": "https://ipor.io/news/fusion-automates-aave-yield-cbeth-looping/",
+      "source": "IPOR",
+      "tag": "Explainer"
+    },
+    {
+      "title": "FUSION Vault Threat Monitoring",
+      "tldr": "Describes how IPOR uses onchain threat monitoring to protect its FUSION vault infrastructure.",
+      "url": "https://ipor.io/news/fusion-blockaid-onchain-threat-monitoring/",
+      "source": "IPOR",
+      "tag": "Security"
+    }
+  ]
 }

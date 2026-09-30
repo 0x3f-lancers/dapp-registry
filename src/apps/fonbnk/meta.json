@@ -32,5 +32,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Onchain FX for Cross Border Payments",
+      "tldr": "Uses a Fonbnk case study to explain mobile money, prepaid airtime and stablecoins in cross border payments.",
+      "url": "https://fonbnk.com/blog/revolutionizing-cross-border-payments/",
+      "source": "Fonbnk",
+      "tag": "Research"
+    },
+    {
+      "title": "How the Fonbnk Pay Widget Works",
+      "tldr": "Walks through the onramp flow from mobile money or airtime payment to receiving USDC in a wallet.",
+      "url": "https://docs.fonbnk.com/widget-integration/how-it-works",
+      "source": "Fonbnk",
+      "tag": "Tutorial"
+    }
+  ]
 }

@@ -15,7 +15,7 @@
   "content": {
     "short": "Unlimit is a global payments provider supporting cards, bank transfers, UPI and local methods.",
     "description": "Unlimit provides payment infrastructure for businesses accepting credit cards, debit cards, net banking, QR, UPI and wallets, with a particular focus on India. It holds a full Online Payment Aggregator licence from the Reserve Bank of India, alongside direct licences across Latin America, APAC, Africa, the EU and the UK. Merchants integrate through methods tailored to their existing stack, and the company runs a partnership program for platforms reselling its rails.",
-    "meta": "An established global payment processor extending card and local rails into crypto.",
+    "meta": "Unlimit is a global payments provider supporting cards, net banking, QR, UPI and wallets, licensed by the Reserve Bank of India and worldwide.",
     "pageTitle": "Unlimit - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -33,5 +33,21 @@
       "chainrails",
       "checker-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Payment Methods in Mexico",
+      "tldr": "Explains cards, cash, SPEI and digital wallets in Mexican checkout flows for businesses choosing payment methods.",
+      "url": "https://www.unlimit.com/blog/payments/blog-payment-methods-in-mexico/",
+      "source": "Unlimit",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Payment Links Work",
+      "tldr": "Explains creating and using payment links and how they affect checkout for international customers.",
+      "url": "https://www.unlimit.com/blog/payments/ways-to-pay-payment-by-links/",
+      "source": "Unlimit",
+      "tag": "Tutorial"
+    }
+  ]
 }

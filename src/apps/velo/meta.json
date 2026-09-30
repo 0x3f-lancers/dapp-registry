@@ -32,5 +32,21 @@
       "blockliquidity",
       "bubblemaps"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Connect Hyperliquid to Velo",
+      "tldr": "Guides users through linking Hyperliquid to Velo for trading and market analysis.",
+      "url": "https://docs.velo.xyz/features/hyperliquid/manual-connection",
+      "source": "Velo",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Velo Market Heatmaps",
+      "tldr": "Explains how to read Velo's orderbook and Hyperliquid liquidation heatmaps.",
+      "url": "https://docs.velo.xyz/features/chart/heatmap",
+      "source": "Velo",
+      "tag": "Explainer"
+    }
+  ]
 }

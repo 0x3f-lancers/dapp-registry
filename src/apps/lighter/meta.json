@@ -33,5 +33,21 @@
       "contango",
       "demex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lighter Protocol Whitepaper",
+      "tldr": "Details Lighter's verifiable order matching and liquidation design using zero knowledge proofs.",
+      "url": "https://assets.lighter.xyz/whitepaper.pdf",
+      "source": "Lighter",
+      "tag": "Research"
+    },
+    {
+      "title": "Advanced Charting on Lighter",
+      "tldr": "Explains Lighter's TradingView chart integration and the tools traders can use to study markets.",
+      "url": "https://lighter.xyz/blog/advanced-charting-on-lighter-powered-by-tradingview",
+      "source": "Lighter",
+      "tag": "Tutorial"
+    }
+  ]
 }

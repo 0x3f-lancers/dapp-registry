@@ -14,7 +14,7 @@
   "content": {
     "short": "Bidali lets users buy gift cards from thousands of brands worldwide using crypto.",
     "description": "Bidali converts crypto into gift cards from more than 4,700 brands across over 100 countries, including Starbucks, Amazon, Walmart and Uber. Payment is accepted in Bitcoin, Solana, Ethereum, XRP, USDC, USDT and other supported assets, and codes arrive by email within minutes of the transaction confirming. The mobile app returns up to 10 percent cashback on gift card purchases. Bidali also exposes the catalogue through an integration API for wallets and apps that want to offer spending in-product.",
-    "meta": "Convert crypto into gift cards for thousands of retailers without touching an offramp.",
+    "meta": "Bidali lets users buy gift cards from 4,700+ brands in over 100 countries with crypto, with codes emailed within minutes and cashback in its app.",
     "pageTitle": "Bidali - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "chainrails",
       "checker-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Buying Gift Cards with HyperEVM Crypto",
+      "tldr": "Shows how to pay from a HyperEVM wallet and receive a gift card by email through Bidali.",
+      "url": "https://giftcards.bidali.com/spend-crypto/hyperevm",
+      "source": "Bidali",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Cashing Out Crypto to Gift Cards",
+      "tldr": "Explains Bidali's gift card offramp as a way to use crypto without a bank or exchange withdrawal.",
+      "url": "https://giftcards.bidali.com/guides/cash-out-crypto-to-gift-cards",
+      "source": "Bidali",
+      "tag": "Tutorial"
+    }
+  ]
 }

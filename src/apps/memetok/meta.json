@@ -14,7 +14,7 @@
   "content": {
     "short": "MemeTok is a scroll-to-trade mobile app where social content doubles as the trading signal.",
     "description": "MemeTok merges token discovery with execution in one feed, so a trader who spots momentum in a piece of content can buy without leaving it. The usual path of noticing a coin, finding the launchpad, searching the contract and hitting buy is where the move is often missed. The app collapses that into scrolling, spotting and trading in the same place.",
-    "meta": "A scrolling feed where the content is the pitch and trading happens inline.",
+    "meta": "MemeTok is a scroll-to-trade mobile app on Monad that merges token discovery and execution, so you can buy without leaving the feed.",
     "pageTitle": "MemeTok - Trading Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -31,5 +31,21 @@
       "bybit",
       "changehero"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading on MemeTok",
+      "tldr": "Explains how users discover Monad tokens through the content feed and trade without leaving the app.",
+      "url": "https://docs.memetok.app/how-it-works/traders",
+      "source": "MemeTok",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Creating Content on MemeTok",
+      "tldr": "Explains how creators can post content and participate in MemeTok's token discovery feed.",
+      "url": "https://docs.memetok.app/how-it-works/creators",
+      "source": "MemeTok",
+      "tag": "Tutorial"
+    }
+  ]
 }

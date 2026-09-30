@@ -14,7 +14,7 @@
   "content": {
     "short": "Yield.xyz is a unified API for accessing staking, stablecoin and DeFi yield across 75+ networks.",
     "description": "Yield.xyz exposes staking, stablecoin yields and DeFi positions across more than 75 networks through one API. Integrators discover available yields programmatically, then route deposits into them without handling each protocol separately. Its Allocator Vaults and optimised allocator vaults are pitched as replacements for legacy yield products, with performance, management and deposit fees documented. A PerpsKit widget extends the same account into perpetuals trading.",
-    "meta": "Yield.xyz is a unified API for staking, stablecoin and DeFi yield across 75+ networks.",
+    "meta": "Yield.xyz is a single API for discovering and routing into staking, stablecoin and DeFi yields across 75+ networks, plus allocator vaults.",
     "pageTitle": "Yield.xyz - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "ipor",
       "lagoon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Core Concepts",
+      "tldr": "Introduces Yield.xyz’s key concepts and supported yield workflows.",
+      "url": "https://docs.yield.xyz/docs/core-concepts.md",
+      "source": "Yield.xyz",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Allocator Vaults & OAVs Introduction",
+      "tldr": "Explains allocator vaults and OAVs and how they fit into Yield.xyz.",
+      "url": "https://docs.yield.xyz/docs/allocator-vaults-oavs-introduction.md",
+      "source": "Yield.xyz",
+      "tag": "Explainer"
+    }
+  ]
 }

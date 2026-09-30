@@ -32,5 +32,21 @@
       "curve-finance",
       "dzap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Moose Trading Guide",
+      "tldr": "Guides users through wallet connection, swaps, borrowing, bots, fees, and trading safeguards on Moose.",
+      "url": "https://moose.trade/docs/",
+      "source": "Moose",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Monad DEX Aggregators and Moose",
+      "tldr": "Explains swap aggregation on Monad and how Moose routes orders through available liquidity.",
+      "url": "https://monad.docsbot.app/tooling-and-infra/dex-aggregators",
+      "source": "Monad Documentation",
+      "tag": "Explainer"
+    }
+  ]
 }

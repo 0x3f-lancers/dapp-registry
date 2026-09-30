@@ -14,7 +14,7 @@
   "content": {
     "short": "Blink provides one-tap deposit infrastructure for onchain applications.",
     "description": "Blink is a one-tap deposit button that an app embeds instead of building its own on-chain deposit flow. Behind the button it handles authentication, wallet connection, on-chain transfers and cross-chain bridging, and it holds no funds itself. Web and mobile SDKs are both available: the web version renders the flow in a modal iframe, while mobile opens it in an in-app browser and returns the result through a deep link. A single prompt handed to a coding agent completes the integration end to end.",
-    "meta": "Onchain deposits reduced to a single tap, with routing and conversion handled behind it.",
+    "meta": "Blink is an embeddable one-tap deposit button that handles authentication, wallet connection, transfers and cross-chain bridging for onchain apps.",
     "pageTitle": "Blink - Web3 Wallet Tools - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "calm-treasury",
       "coindisco"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blink Wallet's Updated Send and Receive Flows",
+      "tldr": "Walks through sending sats by phone number and receiving through Lightning or onchain addresses in Blink.",
+      "url": "https://www.blink.sv/blog/blink-wallet-just-got-better",
+      "source": "Blink",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Non Custodial Accounts in Blink Wallet",
+      "tldr": "Explains Blink's self custody account option, key control and backup responsibilities for users.",
+      "url": "https://www.blink.sv/blog/non-custodial-accounts-in-blink-wallet",
+      "source": "Blink",
+      "tag": "Security"
+    }
+  ]
 }

@@ -32,5 +32,21 @@
       "btc-direct",
       "calm-treasury"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is OSL Pay?",
+      "tldr": "Introduces OSL Pay's fiat and digital asset conversion services and their use in checkout flows.",
+      "url": "https://docs.osl-pay.com/docs/getting-started",
+      "source": "OSL Pay",
+      "tag": "Explainer"
+    },
+    {
+      "title": "OSL Pay OpenAPI Integration",
+      "tldr": "Explains how merchants can integrate the OSL Pay REST API for payments and related services.",
+      "url": "https://docs.osl-pay.com/docs/openapi-integration",
+      "source": "OSL Pay",
+      "tag": "Tutorial"
+    }
+  ]
 }

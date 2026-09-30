@@ -14,7 +14,7 @@
   "content": {
     "short": "Sherpa is a delta-neutral USDC vault issuing shUSD shares routed through quantitative strategies.",
     "description": "Sherpa takes USDC deposits into delta-neutral strategies and issues shUSD representing a share of the vault, so holders are exposed to the strategy's return and not to market direction. The vault is quant-driven and managed by Hedgemony, running on defined cycles with utilisation and TVL published live. Deposits are hands-free once made, with performance viewable over windows from one week to a year.",
-    "meta": "USDC deposits into delta-neutral strategies, issued as shUSD shares.",
+    "meta": "Sherpa is a delta-neutral USDC vault on Monad issuing shUSD shares, run by Hedgemony with quant strategies and live utilisation and TVL.",
     "pageTitle": "Sherpa - DeFi Dapps - Lancers Web3 Explorer"
   },
   "links": {
@@ -32,5 +32,21 @@
       "blend-money",
       "eisenlabs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "SherpaEarn Quick Start Guide",
+      "tldr": "Guides users through choosing a chain, connecting a wallet, and depositing USDC into SherpaEarn.",
+      "url": "https://docs.sherpa.trade/sherpaearn-vault/quick-start-guide",
+      "source": "Sherpa",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "SherpaEarn Vault FAQ",
+      "tldr": "Answers common questions about deposit limits, withdrawals, and vault operations.",
+      "url": "https://docs.sherpa.trade/sherpaearn-vault/quick-start-guide/f.a.q./",
+      "source": "Sherpa",
+      "tag": "Explainer"
+    }
+  ]
 }
