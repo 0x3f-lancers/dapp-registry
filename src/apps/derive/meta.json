@@ -1,7 +1,7 @@
 {
   "slug": "derive",
   "name": "Derive",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1828234675325976576/UVYEVWhP_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760833/dapp-store-logos/derive.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Options"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Derive is an onchain options and futures protocol offering institutional-grade derivatives trading.",
     "description": "Derive runs options and futures markets on-chain with a portfolio margin system that prices risk across a whole position, not each leg separately. Its v3 API exposes options, perps, lending and vaults, with WebSocket and HTTP endpoints and a documented migration path from v2. Permissionless vaults let anyone create a strategy vault on the venue within minutes.",

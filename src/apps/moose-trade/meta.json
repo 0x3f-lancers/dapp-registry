@@ -1,7 +1,7 @@
 {
   "slug": "moose-trade",
   "name": "Moose",
-  "logoUrl": "https://moose.trade/brand/moose-mark-ledger.svg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760977/dapp-store-logos/moose-trade.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Moose is FastLane's DeFi aggregator and execution venue on Monad.",
     "description": "Moose is FastLane's DeFi aggregator and execution venue on Monad, searching the supported pools and markets to route and split a swap. Because FastLane also operates Monad's MEV infrastructure, order flow through Moose reaches the same coordination layer its validators use. The venue verifies a user's region before opening wallet or trading connections.",

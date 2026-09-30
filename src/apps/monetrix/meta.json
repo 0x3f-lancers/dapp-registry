@@ -1,7 +1,7 @@
 {
   "slug": "monetrix",
   "name": "Monetrix",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/monetrix-usdm",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760975/dapp-store-logos/monetrix.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized CDPs"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Monetrix issues USDM, a yield-bearing stable token native to Hyperliquid.",
     "description": "Monetrix issues USDM, a stable token that accrues yield to its holder and is native to Hyperliquid. Backing comes from basis trading positions, not fiat reserves held off-chain, so the yield originates from funding rather than Treasury interest. Holding the token is enough to receive the yield, with no separate staking step.",

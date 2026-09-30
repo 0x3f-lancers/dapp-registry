@@ -1,7 +1,7 @@
 {
   "slug": "walapay",
   "name": "Walapay",
-  "logoUrl": "https://cdn.prod.website-files.com/69858d4263f0f2154bef6547/69a6d4bba423578aeaedfb88_Webclip.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761129/dapp-store-logos/walapay.png",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Web3 Payment Tools"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Walapay provides stablecoin-powered API infrastructure for moving and managing money globally.",
     "description": "Walapay gives platforms an API for creating virtual bank accounts and digital asset wallets on behalf of their customers. Integration runs in stages: customer compliance covering terms acceptance and KYC or KYB checks, then account creation, then fiat-to-fiat payments. The documentation publishes supported activities alongside the full API specification. It operates on Monad among other networks.",

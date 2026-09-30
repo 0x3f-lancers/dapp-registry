@@ -1,7 +1,7 @@
 {
   "slug": "nordstern",
   "name": "Nordstern",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/nordstern.finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760994/dapp-store-logos/nordstern.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -14,6 +14,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Nordstern is a DEX aggregator API returning simulated, zero-fee swap routes across EVM chains.",
     "description": "Nordstern is a DEX aggregator API that finds and executes optimal swap routes on over a hundred EVM chains. It queries every available liquidity source, simulates the execution paths and returns the split route, gas estimate and encoded calldata in one REST response. There is no API key, registration, SDK, subscription or per-swap protocol fee, and no fixed rate limit. Separate endpoints cover token prices, liquidity depth and the supported chain list, with MCP integration for agents.",

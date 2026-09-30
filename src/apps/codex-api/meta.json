@@ -1,7 +1,7 @@
 {
   "slug": "codex-api",
   "name": "Codex",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1809332983348043776/ghERzxl9_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760805/dapp-store-logos/codex-api.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Web3 Data Tools"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Paid",
+  "archived": false,
   "content": {
     "short": "Codex is an enriched blockchain data API covering tokens and prices across 80+ networks.",
     "description": "Codex serves digital asset data through an API covering real-time prices, charts, holder counts and on-chain analytics across every major network. It absorbs the indexing work and the upstream breaking changes that would otherwise land on the integrating team. Prediction market coverage is included, carrying odds, volume, trader counts and event history from Polymarket, Kalshi and others.",

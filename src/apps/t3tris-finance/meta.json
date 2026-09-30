@@ -1,7 +1,7 @@
 {
   "slug": "t3tris-finance",
   "name": "T3tris Finance",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/t3tris-finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761086/dapp-store-logos/t3tris-finance.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "T3tris Finance lets managers deploy and operate async ERC-4626 vaults on any EVM chain.",
     "description": "T3tris Finance is infrastructure for deploying, curating and operating asynchronous ERC-4626 vaults on any EVM chain, where deposits and withdrawals settle on a delay and not instantly. That delay is deliberate: it lets a vault use execution models that cannot settle synchronously, including CEX, RWA, OTC, cross-chain, options, staking and epoch-based strategies. Curators pay no protocol fees, because T3tris instead earns on idle capital during the settlement window by routing it to a money market. Depositors receive shares that track the strategy's performance net of the curator's own fees.",

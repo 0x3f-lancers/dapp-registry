@@ -1,7 +1,7 @@
 {
   "slug": "streamingfast",
   "name": "StreamingFast",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1852002628634345472/YCnxyJJQ_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761077/dapp-store-logos/streamingfast.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Indexing Tools"
@@ -13,6 +13,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "StreamingFast builds Firehose and Substreams, high-throughput blockchain indexing technology for The Graph.",
     "description": "StreamingFast is a core developer on The Graph and the team behind Firehose and Substreams, an indexing approach that streams chain data through composable transformation modules instead of replaying blocks through a handwritten indexer. Firehose nodes are built streaming-first, racing to push block data out as it is produced, which the team says allows a whole network to be processed in around five minutes. Substreams packages can be deployed and composed by other developers. API keys are self-serve and the supported chain list includes Monad, Ethereum and Solana.",

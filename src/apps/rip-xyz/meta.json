@@ -1,7 +1,7 @@
 {
   "slug": "rip-xyz",
   "name": "Rip.xyz",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/rip.xyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761049/dapp-store-logos/rip-xyz.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Rip.xyz is a HyperEVM vault platform issuing tokenized positions such as rHYPURR from its Hypurr Vault.",
     "description": "Rip.xyz runs tokenized vault strategies on HyperEVM and issues the positions as transferable tokens. Its flagship Hypurr Vault is an auto-managed NFT index token giving diversified exposure to the Hypurr NFT ecosystem, taking WHYPE deposits and minting rHYPURR. Vault assets are held in MPC wallets with multi-signature requirements, managed jointly by contracts and the operating team.",

@@ -1,7 +1,7 @@
 {
   "slug": "subwallet",
   "name": "SubWallet",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1651520550295212037/YUKs0gC5_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761078/dapp-store-logos/subwallet.jpg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -14,6 +14,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Polkadot's leading wallet, now covering Bitcoin, Ethereum, TON, Cardano and 150+ networks.",
     "description": "SubWallet is a non-custodial wallet for extension, iOS, Android and a web dashboard. It manages several seed phrases under one password and supports more than 150 networks, 450 tokens and 80 dApps, with one-click cross-chain transfers and staking. The code is open source and has passed two independent audits, it works with Ledger, Keystone and Polkadot Vault, and it blocks known phishing sites.",
@@ -23,6 +24,18 @@
   "links": {
     "website": "https://www.subwallet.app",
     "twitter": "https://x.com/subwalletapp"
+  },
+  "relations": {
+    "alternatives": [
+      "walllet.com",
+      "pillar",
+      "gamechanger-wallet"
+    ],
+    "related": [
+      "cropty-wallet",
+      "nufi",
+      "bifrost-wallet"
+    ]
   },
   "resources": [
     {
@@ -39,17 +52,5 @@
       "source": "SubWallet",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "walllet.com",
-      "pillar",
-      "gamechanger-wallet"
-    ],
-    "related": [
-      "cropty-wallet",
-      "nufi",
-      "bifrost-wallet"
-    ]
-  }
+  ]
 }

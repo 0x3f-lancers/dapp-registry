@@ -1,7 +1,7 @@
 {
   "slug": "magma-staking",
   "name": "Magma Staking",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1798840544887787520/OWxSEpYX_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760958/dapp-store-logos/magma-staking.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Liquid Staking Platforms"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Magma Staking provides liquid staking on Monad, issuing a yield-bearing token against staked MON.",
     "description": "Magma is a liquid staking protocol on Monad where users stake MON into a pool and receive gMON to use in DeFi. Stakers earn base staking rewards plus additional APY from MEV: Monad validators bid in a Magma auction for blockspace, and the resulting revenue is shared back with stakers. Unstaking either waits around twelve hours or settles instantly by swapping through 0x, and its gVaults let a staker pick their own validator instead of accepting the pool default.",

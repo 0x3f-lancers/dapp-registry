@@ -1,7 +1,7 @@
 {
   "slug": "calm-treasury",
   "name": "Calm",
-  "logoUrl": "https://www.calmtreasury.xyz/favicon.svg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760789/dapp-store-logos/calm-treasury.png",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Fiat Onramps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Calm builds onramp infrastructure for perp DEXs and onchain apps, replacing retail widgets.",
     "description": "Perp DEXs and on-chain trading venues integrate Calm in place of a retail on-ramp widget. Calm argues that widgets price every user as a fraud risk, which pushes deposit fees to between four and ten percent, while trading flows are repeat and predictable and can be priced accordingly. It claims to cut those fees by up to 80 percent. Integrators drop in a white-labelled component or call the API, and Calm handles KYC inside the deposit flow along with banking, conversion and settlement. The service covers GBP, USD and EUR into stablecoins through regulated partners and never takes custody of user funds.",

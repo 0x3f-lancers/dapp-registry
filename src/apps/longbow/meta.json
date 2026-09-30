@@ -1,7 +1,7 @@
 {
   "slug": "longbow",
   "name": "Longbow",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/longbow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760954/dapp-store-logos/longbow.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Longbow is an RWA lending layer on Robinhood Chain for borrowing against tokenized stocks.",
     "description": "Longbow is an RWA lending layer for Robinhood Chain where lenders supply USDG and borrowers post collateral. Accepted collateral spans tokenized stocks, other real-world assets and memecoins, each with its own risk parameters. The design puts equity-backed borrowing on the same chain the tokenized equities themselves settle on.",

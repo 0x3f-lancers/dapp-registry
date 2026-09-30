@@ -1,7 +1,7 @@
 {
   "slug": "giza",
   "name": "Giza",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/giza",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860287/dapp-store-logos/giza.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -13,6 +13,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Giza is an autonomous DeFi agent platform that continuously rebalances deposited funds.",
     "description": "Giza runs agents that manage deposited capital across DeFi positions, monitoring liquidity depth, yield curves and risk metrics across hundreds of pools at once. A depositor connects a wallet, selects assets and either picks specific markets or lets the agent choose, after which capital is routed and rebalanced as conditions change. The arrangement stays self-custodial, and every action the agent takes is recorded so the user can inspect what changed, when and why. On Base it tracks every lending protocol and moves capital as rates shift.",

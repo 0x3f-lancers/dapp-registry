@@ -1,7 +1,7 @@
 {
   "slug": "yield-xyz",
   "name": "Yield.xyz",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1937500409624494080/ceLlBFzM_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761135/dapp-store-logos/yield-xyz.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Yield.xyz is a unified API for accessing staking, stablecoin and DeFi yield across 75+ networks.",
     "description": "Yield.xyz exposes staking, stablecoin yields and DeFi positions across more than 75 networks through one API. Integrators discover available yields programmatically, then route deposits into them without handling each protocol separately. Its Allocator Vaults and optimised allocator vaults are pitched as replacements for legacy yield products, with performance, management and deposit fees documented. A PerpsKit widget extends the same account into perpetuals trading.",

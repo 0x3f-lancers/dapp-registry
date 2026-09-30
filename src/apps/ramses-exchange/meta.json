@@ -1,7 +1,7 @@
 {
   "slug": "ramses-exchange",
   "name": "Ramses",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/ramses-cl-v2",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761038/dapp-store-logos/ramses-exchange.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Ramses is multichain DEX infrastructure running concentrated liquidity markets.",
     "description": "Ramses is a concentrated liquidity exchange deployed on Hyperliquid and Robinhood Chain, combining dynamic fees with same-chain MEV backruns to keep value inside the protocol. Its token design runs across RAM, xRAM and r33, aligning emissions with the fees each pool actually produces. Products include AutoVaults for managed positions, a DLMM pool type and a concentrated liquidity book. Launchpads can connect a token launch or graduation flow directly into its pools.",

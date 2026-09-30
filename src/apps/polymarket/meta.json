@@ -1,7 +1,7 @@
 {
   "slug": "polymarket",
   "name": "Polymarket",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761030/dapp-store-logos/polymarket.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Web3 Prediction Markets"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "The world's largest prediction market, trading on elections, sports, crypto and news.",
     "description": "Polymarket lets people buy and sell shares on the outcome of real events, from elections and Fed decisions to football matches, with prices reading as the crowd's odds. It settles in USDC on Polygon and has added perps and combo bets. Its World App mini app lets World users trade with WLD or USDC, while US users trade through the separate polymarket.us.",
@@ -21,6 +22,18 @@
   "links": {
     "website": "https://polymarket.com",
     "twitter": "https://x.com/Polymarket"
+  },
+  "relations": {
+    "alternatives": [
+      "duel-duck",
+      "bodega-market",
+      "web3predict"
+    ],
+    "related": [
+      "blinq",
+      "levr-bet",
+      "dexwin"
+    ]
   },
   "resources": [
     {
@@ -37,17 +50,5 @@
       "source": "Polymarket",
       "tag": "Explainer"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "duel-duck",
-      "bodega-market",
-      "web3predict"
-    ],
-    "related": [
-      "blinq",
-      "levr-bet",
-      "dexwin"
-    ]
-  }
+  ]
 }

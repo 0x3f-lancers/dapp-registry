@@ -1,7 +1,7 @@
 {
   "slug": "lbank",
   "name": "LBank",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2084554649382617088/7-_R-jFy_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760944/dapp-store-logos/lbank.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Crypto exchange with 25 million users, known for listing new and meme tokens early.",
     "description": "LBank has been running for about ten years and serves more than 25 million users with spot, futures, earn products and TradFi markets. It is best known for fast listings of new and meme tokens, with frequent trading competitions and reward campaigns. Users can also pay at Visa merchants from their spot balance through LBank Pay and card, and trade via a Telegram bot.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://www.lbank.com",
     "twitter": "https://x.com/LBank_Exchange"
+  },
+  "relations": {
+    "alternatives": [
+      "okx",
+      "weex",
+      "kraken"
+    ],
+    "related": [
+      "letsexchange",
+      "easybit",
+      "exolix"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "LBank",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "okx",
-      "weex",
-      "kraken"
-    ],
-    "related": [
-      "letsexchange",
-      "easybit",
-      "exolix"
-    ]
-  }
+  ]
 }

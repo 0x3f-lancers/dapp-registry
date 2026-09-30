@@ -1,7 +1,7 @@
 {
   "slug": "unlink",
   "name": "Unlink",
-  "logoUrl": "https://www.unlink.xyz/favicon.svg?v=unlink-monogram",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761118/dapp-store-logos/unlink.png",
   "category": "Web3 Security Tools",
   "subcategory": [
     "Blockchain Security Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Unlink enables private on-chain money movement for fintechs and treasury teams, built for compliance.",
     "description": "Unlink moves money on public blockchains without broadcasting the details, adding encrypted account state and proof-backed transfers underneath existing EVM liquidity, contracts and protocols. Sender, recipient and amount can each be redacted while the transaction remains verifiable, so an auditor can still reconstruct it. It is built for stablecoin issuers, fintechs, payment processors, treasury teams and foundations that need confidentiality without leaving the chains they already use. Ethereum and its L2s are supported, Monad among the targeted networks.",

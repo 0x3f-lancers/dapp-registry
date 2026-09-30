@@ -1,7 +1,7 @@
 {
   "slug": "markets-xyz",
   "name": "Markets.xyz",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2085781827122311168/rdfkypMM_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760960/dapp-store-logos/markets-xyz.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Markets.xyz offers onchain perpetual futures on stocks, indices, commodities and crypto.",
     "description": "Markets.xyz trades perpetual futures on equities, indices, commodities and currencies alongside crypto, open continuously with no exchange holidays and leverage up to 50x. It runs on Hyperliquid's L1 using the HIP-3 framework for builder-deployed perpetuals, and positions stay self-custodial. Prices come from Kaiko's institutional oracle, and an L4 order book view exposes every individual order and participant rather than aggregate depth. Funding rates for every market sit beside the order book view.",

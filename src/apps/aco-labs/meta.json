@@ -1,7 +1,7 @@
 {
   "slug": "aco-labs",
   "name": "ACO Labs",
-  "logoUrl": "https://video.acolyt.ai/aco-favicon.svg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760717/dapp-store-logos/aco-labs.png",
   "category": "Web3 Social Dapps",
   "subcategory": [
     "Web3 Creator Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "ACO Labs is a token-gated AI video generation studio for creators and brands.",
     "description": "ACO Labs runs an Agentic Content Operator that generates video through OpenAI's Sora 2 API from inside a wallet session. Access is token-gated, requiring 100,000 ACOLYT staked on Base plus a small MON balance on Monad to cover generation. Creators connect with MetaMask, WalletConnect or any compatible wallet, and their OpenAI API keys stay in local storage instead of on the operator's servers.",

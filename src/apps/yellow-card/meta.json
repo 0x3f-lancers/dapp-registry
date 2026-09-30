@@ -1,7 +1,7 @@
 {
   "slug": "yellow-card",
   "name": "Yellow Card",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1948767410976120832/jluA5chf_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761135/dapp-store-logos/yellow-card.png",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Web3 Payment Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Licensed stablecoin infrastructure for banks and businesses in emerging markets, strongest in Africa.",
     "description": "Yellow Card lets banks, financial institutions and companies hold, send and settle stablecoins and pay out in more than 50 local currencies across 60+ countries. Businesses can open USD and EUR accounts, launch local stablecoins, earn yield and issue cards, with sanctions screening, AML monitoring and travel-rule compliance built in. It has processed more than $10 billion with over 100 tier-one banking and liquidity partners.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://yellowcard.io",
     "twitter": "https://x.com/yellowcard_app"
+  },
+  "relations": {
+    "alternatives": [
+      "acctual",
+      "xade-finance",
+      "radom"
+    ],
+    "related": [
+      "splits",
+      "alfred-pay",
+      "wert"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "Yellow Card",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "acctual",
-      "xade-finance",
-      "radom"
-    ],
-    "related": [
-      "splits",
-      "alfred-pay",
-      "wert"
-    ]
-  }
+  ]
 }

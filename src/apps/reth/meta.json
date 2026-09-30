@@ -1,7 +1,7 @@
 {
   "slug": "reth",
   "name": "Reth",
-  "logoUrl": "https://reth.rs/logo.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761044/dapp-store-logos/reth.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Execution Clients"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Paradigm's Rust Ethereum execution client and modular SDK for building custom nodes.",
     "description": "Reth is an open-source Ethereum execution client written in Rust by Paradigm, used both to run production nodes and as a library for building new chains. Its components, from networking and the transaction pool to the EVM and RPC, can be reused on their own, and execution extensions let developers add indexing or rollup logic inside the node. It has over 580 contributors, and several OP Stack chains, World Chain among them, build on it.",
@@ -21,6 +22,18 @@
   "links": {
     "website": "https://reth.rs/",
     "github": "https://github.com/paradigmxyz/reth"
+  },
+  "relations": {
+    "alternatives": [
+      "besu",
+      "geth",
+      "nethermind"
+    ],
+    "related": [
+      "alchemy",
+      "chainnodes",
+      "chainstack"
+    ]
   },
   "resources": [
     {
@@ -37,17 +50,5 @@
       "source": "Reth",
       "tag": "Infrastructure"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "besu",
-      "geth",
-      "nethermind"
-    ],
-    "related": [
-      "alchemy",
-      "chainnodes",
-      "chainstack"
-    ]
-  }
+  ]
 }

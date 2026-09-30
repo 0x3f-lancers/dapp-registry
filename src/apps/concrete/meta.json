@@ -1,7 +1,7 @@
 {
   "slug": "concrete",
   "name": "Concrete",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1758230390932905984/axpGRz3c_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760812/dapp-store-logos/concrete.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Automated, risk-managed yield vaults for any asset on any chain, with $1.3B on the platform.",
     "description": "Concrete, built by Blueprint Finance, runs vaults where a quantitative system allocates, rebalances and compounds deposits across on-chain yield sources. Retail users deposit through the Earn app, institutions use its Enterprise product, and AssetCX lets assets stay with a centralized custodian while still earning on Concrete's rails. It reports $1.3 billion in assets and $23.5 billion processed, backed by Polychain, YZi Labs and VanEck.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://concrete.xyz/",
     "twitter": "https://x.com/ConcreteXYZ"
+  },
+  "relations": {
+    "alternatives": [
+      "maia-dao",
+      "pods-finance",
+      "thestandard"
+    ],
+    "related": [
+      "moar-market",
+      "looping-collective",
+      "overnight-finance"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "Concrete",
       "tag": "Explainer"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "maia-dao",
-      "pods-finance",
-      "thestandard"
-    ],
-    "related": [
-      "moar-market",
-      "looping-collective",
-      "overnight-finance"
-    ]
-  }
+  ]
 }

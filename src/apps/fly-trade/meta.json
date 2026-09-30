@@ -1,7 +1,7 @@
 {
   "slug": "fly-trade",
   "name": "Fly.trade",
-  "logoUrl": "https://pbs.twimg.com/profile_images/534633973411229696/MSRp55Pf_400x400.jpeg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760870/dapp-store-logos/fly-trade.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -14,6 +14,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Fly.trade swaps assets between chains without requiring a separate bridging step.",
     "description": "Fly.trade executes swaps on a single chain or across chains, pricing each one against multiple liquidity sources to find the best route. Users complete a swap in three steps without managing a separate bridge transaction. The protocol publishes its supported chains, liquidity sources and cumulative executed swap volume.",

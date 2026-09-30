@@ -1,7 +1,7 @@
 {
   "slug": "hyperbloom",
   "name": "Hyperbloom",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2101951368781037568/MH1DqGfa_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760901/dapp-store-logos/hyperbloom.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Hyperbloom is a DEX aggregator on HyperEVM that routes swaps across available liquidity sources.",
     "description": "Hyperbloom aggregates the liquidity venues on HyperEVM and routes a swap through whichever combination gives the best execution. Auto-compounding vaults sit alongside the aggregator, so deposited assets earn compound interest without manual claiming. Its fee structure and API endpoints are open to integrators routing order flow through it.",

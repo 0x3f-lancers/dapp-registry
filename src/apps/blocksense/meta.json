@@ -1,7 +1,7 @@
 {
   "slug": "blocksense",
   "name": "Blocksense",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1907393414901170176/CBZG2akF_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760771/dapp-store-logos/blocksense.png",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "ZK-powered oracle network that proves its data feeds were computed correctly.",
     "description": "Blocksense lets anyone write an oracle script, fetch data from outside sources, and have a secret committee vote on the result. Updates are then batched and compressed into a single zero-knowledge proof, which keeps publishing costs low. It runs more than 700 live feeds on over 75 networks, serving DeFi and long-tail markets, and was accelerated by a16z crypto's CSX programme.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://blocksense.network",
     "twitter": "https://x.com/blocksense_"
+  },
+  "relations": {
+    "alternatives": [
+      "chronicle-protocol",
+      "tellor",
+      "orcfax"
+    ],
+    "related": [
+      "hyper-oracle",
+      "pyth-network",
+      "charli3"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "Blocksense",
       "tag": "Infrastructure"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "chronicle-protocol",
-      "tellor",
-      "orcfax"
-    ],
-    "related": [
-      "hyper-oracle",
-      "pyth-network",
-      "charli3"
-    ]
-  }
+  ]
 }

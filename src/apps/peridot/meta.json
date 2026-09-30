@@ -1,7 +1,7 @@
 {
   "slug": "peridot",
   "name": "Peridot",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1967990362242203649/oELnCnhK_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761019/dapp-store-logos/peridot.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Peridot is a cross-chain lending protocol with hub-and-spoke money markets.",
     "description": "Peridot describes itself as a DeFi broker, letting a user earn interest on deposits and borrow against them from one account across multiple chains while keeping custody. Deposited crypto acts as collateral, each asset carries its own borrow limit, and the interface shows the health level a position needs to avoid liquidation. A hub-and-spoke design holds the accounting centrally while spokes handle local deposits, which keeps rates coherent across chains instead of fragmenting them per deployment. The platform also offers margin trading, a leaderboard and an AI agent for account queries.",

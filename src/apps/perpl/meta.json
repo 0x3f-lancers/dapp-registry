@@ -1,7 +1,7 @@
 {
   "slug": "perpl",
   "name": "Perpl",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2065346474150334465/pxa9JMcL_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761020/dapp-store-logos/perpl.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Perpl is a decentralized perpetual futures exchange with leverage on Monad.",
     "description": "Perpl is a perpetuals exchange on Monad offering leveraged positions on crypto markets. The documentation sets out its trading mechanics and the reasoning behind building another perp DEX on a new chain. It is aimed at traders wanting leverage denominated and settled natively on Monad.",

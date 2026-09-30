@@ -1,7 +1,7 @@
 {
   "slug": "bitrue",
   "name": "Bitrue",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1875022970281975808/Mz1sCmlR_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760761/dapp-store-logos/bitrue.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Crypto exchange with 41 million users, known for its XRP focus and staking offers.",
     "description": "Bitrue has operated since 2018 and reports 41 million registered users and more than 1,200 listed coins. Beyond spot trading it offers USDT, USDC and coin-margined futures, trading bots, flexible staking with a strong XRP following, and TradFi pairs that let users trade US stocks, forex and metals using USDT from the same account.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://www.bitrue.com",
     "twitter": "https://x.com/BitrueOfficial"
+  },
+  "relations": {
+    "alternatives": [
+      "trakx",
+      "bitget",
+      "okx"
+    ],
+    "related": [
+      "gate-exchange",
+      "heroswap",
+      "egemoney"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "Bitrue",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "trakx",
-      "bitget",
-      "okx"
-    ],
-    "related": [
-      "gate-exchange",
-      "heroswap",
-      "egemoney"
-    ]
-  }
+  ]
 }

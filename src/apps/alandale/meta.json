@@ -1,7 +1,7 @@
 {
   "slug": "alandale",
   "name": "Alandale",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2092011361584734208/hYBGQeFz_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760724/dapp-store-logos/alandale.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Alandale is a ve(3,3) liquidity market on Robinhood Chain that routes swap fees to lockers.",
     "description": "Alandale runs a ve(3,3) liquidity market on Robinhood Chain where swap fees are routed to lockers instead of staying with the pool. Fees collected across its pools go to holders who lock the LUTE token, and locking also grants votes. Those votes direct emissions toward chosen pools, so lockers decide which markets get deepened. The project frames the whole mechanism in outlaw terms, taking from the swaps and handing the proceeds to whoever locks.",

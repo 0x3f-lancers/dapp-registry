@@ -1,7 +1,7 @@
 {
   "slug": "felix-protocol",
   "name": "Felix",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2041653861585448961/RYefRnGP_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760862/dapp-store-logos/felix-protocol.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized CDPs"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Felix is a borrowing and savings protocol on Hyperliquid built around its own stablecoin.",
     "description": "Felix is a synthetic dollar protocol on Hyperliquid L1 that lets users borrow against collateral and hold the proceeds as a stablecoin. Its USDhl token is built for the Hyperliquid ecosystem as a base layer for HIP-3 markets, FX and payments. Felix Vaults lend deposited assets through Morpho vaults so idle balances still earn interest. A native stablecoin issued against local collateral reduces a chain's dependence on bridged dollars.",

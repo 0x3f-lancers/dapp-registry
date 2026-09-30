@@ -1,7 +1,7 @@
 {
   "slug": "gluehook",
   "name": "GlueHook",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1999411509189898240/srS8h5o2_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760884/dapp-store-logos/gluehook.png",
   "category": "DeFi Tools",
   "subcategory": [
     "Dapp Templates"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Free Uniswap v4 hook that runs token buybacks and auto-compounding liquidity inside trades.",
     "description": "GlueHook gives each hooked pool its own pot, filled by a share of trading fees, project deposits and donations from anyone. The hook spends that pot on-chain as trades happen: buying back and burning tokens when price rises, absorbing sells when it falls, and reinvesting fees into deeper liquidity. It needs no oracles, keeper bots or admin keys, and the code is open source.",

@@ -1,7 +1,7 @@
 {
   "slug": "mexc",
   "name": "MEXC",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2101507115021967360/Su56sXdg_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760972/dapp-store-logos/mexc.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Global exchange with zero-fee trading on crypto, stocks, commodities and prediction markets.",
     "description": "MEXC is known for listing new tokens quickly and for its low fees, with zero maker fees on futures. Alongside spot and derivatives on a very wide range of coins, it now offers trading on stocks, gold, silver and oil, plus prediction markets, all from one account. It has one of the largest followings of any exchange, with over 1.6 million followers on X.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://www.mexc.com",
     "twitter": "https://x.com/MEXC"
+  },
+  "relations": {
+    "alternatives": [
+      "robinhood",
+      "heroswap",
+      "bitget"
+    ],
+    "related": [
+      "gemini",
+      "coinjar",
+      "swissborg"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "MEXC",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "robinhood",
-      "heroswap",
-      "bitget"
-    ],
-    "related": [
-      "gemini",
-      "coinjar",
-      "swissborg"
-    ]
-  }
+  ]
 }

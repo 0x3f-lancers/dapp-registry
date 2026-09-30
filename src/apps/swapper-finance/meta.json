@@ -1,7 +1,7 @@
 {
   "slug": "swapper-finance",
   "name": "Swapper Finance",
-  "logoUrl": "https://swapper.finance/favicon-light.svg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761083/dapp-store-logos/swapper-finance.png",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Fiat Onramps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Swapper Finance converts any asset on any chain into a trade-ready stablecoin balance.",
     "description": "Swapper takes any asset on any chain and delivers a trade-ready stablecoin balance at a destination the integrator chooses. An integrator registers, sets the destination chain, token and receiving wallet address, then embeds the widget as an iframe, modal or inline component. Users connect a wallet or deposit directly, and Swapper handles the conversion and routing in between.",

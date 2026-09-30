@@ -1,7 +1,7 @@
 {
   "slug": "fereai",
   "name": "FereAI",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2013183679929925632/dKpQpk1n_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760863/dapp-store-logos/fereai.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Trading Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Freemium",
+  "archived": false,
   "content": {
     "short": "FereAI is a wallet-native AI agent for crypto trading across several chains.",
     "description": "FereAI takes a strategy described in one sentence and compiles it into numbered rules the user reads before anything runs. A dry run executes the strategy once and shows the exact trade or alert it would have made, and only then can it be funded. Each funded strategy trades from its own wallet and only with what was put into it, while monitor-only strategies never trade at all. The product covers spot, perpetuals and prediction markets. By its own figures the product has run over ten million live executions for around seven thousand daily traders.",

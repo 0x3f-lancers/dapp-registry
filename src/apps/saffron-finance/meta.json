@@ -1,7 +1,7 @@
 {
   "slug": "saffron-finance",
   "name": "Saffron Finance",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/saffron-vaults",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761056/dapp-store-logos/saffron-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Saffron is a peer-to-peer risk adjustment protocol that transforms underlying yield into tranches.",
     "description": "Saffron is a peer-to-peer interest risk adjustment protocol where a smart contract system transforms an underlying yield stream according to the risk each participant indicates. One side takes more risk for more return while the other takes less of both, matched against each other in the same vault. Its SFI token was distributed through a liquidity mining program running from October 2020 into 2021. Having been around since that period, it now operates on Monad and Robinhood Chain.",

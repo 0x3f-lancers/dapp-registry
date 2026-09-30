@@ -1,7 +1,7 @@
 {
   "slug": "nubila-network",
   "name": "Nubila Network",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2011793749052178439/35IQ_CJd_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760995/dapp-store-logos/nubila-network.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Decentralized Computing Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Nubila is a DePIN network of weather stations feeding real-world environmental data onchain.",
     "description": "Nubila runs a network of solar-powered weather stations that record temperature, humidity, UV, wind and pressure and publish the readings on-chain. Validator nodes verify that data before it reaches consumers, so contracts get environmental measurements that are measured, not reported. Operators earn tokenized rewards from the day their device comes online, with no technical setup required. The resulting oracle feeds industries including AI, agriculture and insurance.",

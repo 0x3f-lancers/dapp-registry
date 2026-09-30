@@ -1,7 +1,7 @@
 {
   "slug": "hyperbrick",
   "name": "HyperBrick",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/hyperbrick",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760902/dapp-store-logos/hyperbrick.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "HyperBrick is a bin-based dynamic liquidity market maker DEX on HyperEVM.",
     "description": "HyperBrick organises liquidity into discrete bins in place of a continuous curve, which produces zero slippage within a bin and tighter pricing than a standard AMM. Providers choose a shape and strategy for how their capital is distributed across bins, giving exact control over the prices they quote at. Fees adjust with volatility, and providers earn both fees and protocol rewards on the positions they hold.",

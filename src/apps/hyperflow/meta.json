@@ -1,7 +1,7 @@
 {
   "slug": "hyperflow",
   "name": "Hyperflow",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/hyperflow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760905/dapp-store-logos/hyperflow.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Hyperflow aggregates HyperEVM liquidity and bridging into a single swap interface.",
     "description": "Hyperflow gives ordinary accounts the execution quality and fee tiers normally reserved for the largest traders. Perps on BTC, ETH and HYPE trade against Hyperliquid liquidity at lower effective fees than trading there directly, and spot runs on the same order book with scale and TWAP orders available. A meta-aggregator spans more than thirty HyperEVM liquidity sources for swaps, while bridging selects among seven providers to move assets in and out of HyperEVM and HyperCore. Balances across chains appear in one view with one-click funding, and FlowXP rewards trading, bridging and referrals.",

@@ -1,7 +1,7 @@
 {
   "slug": "vii-finance",
   "name": "VII Finance",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1967976015164067840/QSpBlJP__400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761127/dapp-store-logos/vii-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Borrow against Uniswap v4 LP positions while they keep earning fees and UNI rewards.",
     "description": "VII Finance, built on Euler v2, treats Uniswap v4 liquidity positions as collateral. Active LPs can borrow against a position to add more liquidity or pair tokens while it keeps earning swap fees, lending yield and UNI incentives. Passive lenders earn interest linked to LP returns without impermanent loss, and UNI rewards on collateralized positions still arrive through Merkl.",

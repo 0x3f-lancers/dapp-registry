@@ -1,7 +1,7 @@
 {
   "slug": "hyperlend",
   "name": "HyperLend",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/hyperlend",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760907/dapp-store-logos/hyperlend.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "HyperLend is a lending and borrowing protocol native to HyperEVM.",
     "description": "HyperLend runs pooled lending markets on HyperEVM where users supply assets for yield or borrow against collateral, and it holds one of the larger deposit bases on the chain. Advanced features let a borrower post Hyperliquid L1 spot positions as collateral and swap collateral without closing a loan. Its wHLP product wraps the Hyperliquid liquidity provider position so it can be used inside the money market. A Stake and Save product combines staking with deposits.",

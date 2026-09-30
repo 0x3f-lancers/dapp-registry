@@ -1,7 +1,7 @@
 {
   "slug": "rialto",
   "name": "Rialto",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2062632847345627137/nOrkqBDR_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761046/dapp-store-logos/rialto.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Rialto is a spot exchange on Robinhood Chain for trading tokenized stocks, ETFs and crypto.",
     "description": "Rialto trades tokenized stocks, ETFs, commodities and crypto on Robinhood Chain, routing each order to the best execution among its supported sources. Its distinctive liquidity source is what it calls propAMMs, on-chain market makers that quote continuously against the order flow. Traders sign orders from their own wallet with the network fee handled for them, and Rialto never takes custody. Tokenized equities are the reason Robinhood Chain exists as a dedicated chain and not a deployment on an existing L2, and Rialto is one of the venues where those assets change hands.",

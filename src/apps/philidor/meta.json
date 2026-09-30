@@ -1,7 +1,7 @@
 {
   "slug": "philidor",
   "name": "Philidor",
-  "logoUrl": "https://philidor.io/favicon.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761022/dapp-store-logos/philidor.png",
   "category": "DeFi Tools",
   "subcategory": [
     "Analytics Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Philidor scores and monitors DeFi vaults and tokenized funds, issuing signed risk decisions.",
     "description": "Philidor scores and monitors vaults and tokenized funds, mapping what each product depends on and issuing signed risk decisions against a client's own policy. A composite score from zero to ten draws on asset, platform, control and history inputs, then places the product in a Prime, Core or Edge tier. Inputs include audits, code maturity, strategy shape and dependency risk. Coverage spans more than a thousand vaults and 450 assets across twelve chains and thirteen protocol modules, including Aave, Morpho, Compound, Spark, Yearn and Maple. The same scores are available through a dashboard, an API and alerts.",

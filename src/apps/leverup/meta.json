@@ -1,7 +1,7 @@
 {
   "slug": "leverup",
   "name": "LeverUp",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2006665470515335169/yUdYw60S_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760946/dapp-store-logos/leverup.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "LeverUp is an LP-free perpetuals exchange on Monad with uncapped open interest.",
     "description": "LeverUp is an LP-free perpetuals exchange on Monad offering uncapped open interest and leverage as high as 1001x. Because there is no liquidity provider pool to compensate, the protocol redistributes all of its fees back to traders. Its AnyCollateral system settles positions through the LVUSD synthetic layer, with an LVMON pool handling staking and redemption. One-click trading removes wallet pop-ups and gas from each order. The fee schedule varies by leverage tier with a per-second holding fee.",

@@ -1,7 +1,7 @@
 {
   "slug": "strata",
   "name": "Strata",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2019011893847883776/TnRif0zU_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761075/dapp-store-logos/strata.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Splits yield into a protected senior tranche and a leveraged junior tranche, starting with USDe.",
     "description": "Strata divides the return from a yield source into two tokens. The senior tranche, srUSDe, is an overcollateralized synthetic dollar with a minimum yield and protection against strategy losses. The junior tranche, jrUSDe, takes first loss in exchange for leveraged upside, acting as a market-priced insurance fund. The first products are built on Ethena's USDe, with more strategies planned.",

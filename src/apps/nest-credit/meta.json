@@ -1,7 +1,7 @@
 {
   "slug": "nest-credit",
   "name": "Nest",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2034654450854576128/ERDdgkH3_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760986/dapp-store-logos/nest-credit.jpg",
   "category": "Real World Asset Dapps",
   "subcategory": [
     "Private Credit RWAs"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Vaults that pay stablecoin yield from institutional real-world assets like credit and treasuries.",
     "description": "Nest takes stablecoin deposits and issues vault tokens whose price rises as the vault earns from real-world assets sourced from established financial institutions. Holders can redeem back to stablecoins instantly or on a schedule depending on the vault, and each vault's assets and liabilities are visible on-chain. The current app runs on Arc, and its Nest Savings mini app is available in World App.",

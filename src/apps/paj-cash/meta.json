@@ -1,7 +1,7 @@
 {
   "slug": "paj-cash",
   "name": "Paj",
-  "logoUrl": "https://paj.cash/favicon.ico?favicon.0aoj33gppg.gq.ico",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761013/dapp-store-logos/paj-cash.png",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Fiat Onramps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Paj is an offramp letting users convert crypto to fiat directly from their own wallet.",
     "description": "Paj converts crypto to fiat directly from a user's own wallet, bridging stablecoins to African bank accounts. Its public API is built around a single primitive: an integration registers each user's bank account with a bank code and account number, then initiates payouts against it with the fee already applied. Most integrations are small as a result, needing only account registration and payout calls. API keys are self-serve.",

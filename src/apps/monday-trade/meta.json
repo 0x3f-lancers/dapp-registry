@@ -1,7 +1,7 @@
 {
   "slug": "monday-trade",
   "name": "Monday Trade",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2092601905461514240/INKRyQcf_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760973/dapp-store-logos/monday-trade.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Monday Trade is a Monad-native DEX for spot, perpetuals and real-world assets.",
     "description": "Monday Trade is a DEX native to Monad covering spot, perpetuals and real-world asset markets in one interface. Because collateral posted once can support positions across both spot and perps, capital is not split between separate accounts. The perpetuals side documents its order types and matching, funding rate, liquidation engine and contract specifications in detail. Liquidity providers supply the pools behind it. A separate API covers its tokenized asset markets.",

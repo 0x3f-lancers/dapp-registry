@@ -1,7 +1,7 @@
 {
   "slug": "axal",
   "name": "Axal",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2089740404245565440/jkS8M9tq_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760751/dapp-store-logos/axal.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Savings app paying on-chain yield on dollars, Bitcoin and gold, with no lock-ups or minimums.",
     "description": "Axal takes deposits in dollars, BTC or gold and lends them into on-chain markets, passing most of the interest back instead of keeping it as a bank would. Current rates are around 7.6% on cash, with yield accruing every second and withdrawals open at any time. Users can fund an account with Apple Pay, Google Pay, a card or one of over 500 banks, and the company is backed by a16z crypto and CMT Digital.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://axal.com",
     "twitter": "https://x.com/getaxal"
+  },
+  "relations": {
+    "alternatives": [
+      "liminal-basis",
+      "giza",
+      "auto-finance"
+    ],
+    "related": [
+      "zircuit",
+      "horizondex",
+      "strata"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "Axal",
       "tag": "Security"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "liminal-basis",
-      "giza",
-      "auto-finance"
-    ],
-    "related": [
-      "zircuit",
-      "horizondex",
-      "strata"
-    ]
-  }
+  ]
 }

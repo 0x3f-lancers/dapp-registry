@@ -1,7 +1,7 @@
 {
   "slug": "uniswap-wallet",
   "name": "Uniswap Wallet",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1831348758753206272/y2Z0hMrl_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761116/dapp-store-logos/uniswap-wallet.jpg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Software Wallets"
@@ -21,6 +21,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Uniswap's self-custody wallet for swapping, bridging and earning across 20+ networks.",
     "description": "Uniswap Wallet, from Uniswap Labs, puts the largest on-chain marketplace in a mobile app and Chrome extension. Users swap thousands of tokens with MEV protection on by default, bridge between networks such as Unichain, World Chain, Base and Arbitrum, buy crypto with a card or bank, and earn yield on USDC, USDT and ETH. Setup needs no name, email or phone number, and it has over 62,000 reviews averaging 4.8.",
@@ -30,6 +31,18 @@
   "links": {
     "website": "https://wallet.uniswap.org",
     "twitter": "https://x.com/Uniswap"
+  },
+  "relations": {
+    "alternatives": [
+      "coin-wallet",
+      "bifrost-wallet",
+      "kresus"
+    ],
+    "related": [
+      "pillar",
+      "martian-wallet",
+      "exodus"
+    ]
   },
   "resources": [
     {
@@ -46,17 +59,5 @@
       "source": "Uniswap Labs",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "coin-wallet",
-      "bifrost-wallet",
-      "kresus"
-    ],
-    "related": [
-      "pillar",
-      "martian-wallet",
-      "exodus"
-    ]
-  }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "dackieswap",
   "name": "DackieSwap",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2076593604374728704/zd9KZEYr_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760826/dapp-store-logos/dackieswap.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Multichain DEX and meta-aggregator focused on better swap execution.",
     "description": "DackieSwap started as a DEX on newer Layer 2s and now routes trades through a meta-aggregator that compares other aggregators for the best price. The swap screen adds limit orders, a bridge, and GoPlus token risk checks that flag dangerous tokens before you trade. It is built by 404AI Labs and runs on Unichain, World Chain and other networks.",
@@ -21,6 +22,18 @@
   "links": {
     "website": "https://dackieswap.xyz",
     "twitter": "https://x.com/DackieSwap"
+  },
+  "relations": {
+    "alternatives": [
+      "01",
+      "slingshot-finance",
+      "ave-ai"
+    ],
+    "related": [
+      "swop",
+      "minu-swap",
+      "camelot"
+    ]
   },
   "resources": [
     {
@@ -37,17 +50,5 @@
       "source": "DackieSwap",
       "tag": "Infrastructure"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "01",
-      "slingshot-finance",
-      "ave-ai"
-    ],
-    "related": [
-      "swop",
-      "minu-swap",
-      "camelot"
-    ]
-  }
+  ]
 }

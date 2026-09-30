@@ -1,7 +1,7 @@
 {
   "slug": "ezmanager",
   "name": "EZManager",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/ezmanager",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760855/dapp-store-logos/ezmanager.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "EZManager opens, rebalances and tracks concentrated liquidity positions automatically.",
     "description": "EZManager handles the full lifecycle of a concentrated liquidity position: opening it, moving the range as price drifts, collecting fees and reporting true profit and loss. A pool explorer lets a provider filter, compare and shortlist pools before committing capital. Automation covers range, capital and fee actions once a position is live. It works across several DEXs and chains, with an SDK for programmatic use and documented workflows for AI agent strategies. A companion product, EZMoney, packages the same automation as a managed LP yield product.",

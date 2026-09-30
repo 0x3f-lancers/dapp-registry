@@ -1,7 +1,7 @@
 {
   "slug": "stakemon",
   "name": "StakeMON.ad",
-  "logoUrl": "https://stakemon.ad/icon.svg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761072/dapp-store-logos/stakemon.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Crypto Staking Companies"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "StakeMON.ad is a staking portal for delegating MON to Monad validators.",
     "description": "StakeMON.ad is a staking portal for delegating MON on Monad, with validator selection assisted instead of left to a raw list. The interface covers both mainnet and testnet, and reports rewards per delegation. It is built as a lightweight front end for users who want to stake without operating infrastructure.",

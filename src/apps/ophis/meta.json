@@ -1,7 +1,7 @@
 {
   "slug": "ophis",
   "name": "Ophis",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2100317473803251712/T0AczSk7_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761004/dapp-store-logos/ophis.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Intent-based DEX aggregator with MEV-protected swaps across 20+ chains.",
     "description": "On Ophis, users sign the trade they want and solvers compete in a batch auction to fill it, with liquidity drawn from Uniswap, Curve, SushiSwap and others, which protects the swap from sandwich attacks. It covers more than 20 networks including Ethereum, Solana, Bitcoin, Unichain, Plasma and Robinhood Chain. Developers and AI agents can integrate it through an SDK, API or MCP server and keep their own fee.",

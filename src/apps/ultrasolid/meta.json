@@ -1,7 +1,7 @@
 {
   "slug": "ultrasolid",
   "name": "Ultrasolid",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/ultrasolid-v3",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761113/dapp-store-logos/ultrasolid.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Ultrasolid is a vote-escrow DEX on Hyperliquid linking HyperEVM swaps to HyperCore liquidity.",
     "description": "Ultrasolid is a vote-escrow DEX on Hyperliquid connecting HyperEVM swaps to HyperCore liquidity. Lockers vote to direct emissions toward chosen pools, and the venue aggregates routing so a swap reaches the best available depth. Its contracts are derived from Kyo Finance's audited codebase, reviewed by Omniscia, Beosin and Sherlock. Vaults with dual utility sit alongside the exchange for depositors wanting managed exposure.",

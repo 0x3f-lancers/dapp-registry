@@ -1,7 +1,7 @@
 {
   "slug": "otim",
   "name": "Otim",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1780500165096570880/8GaPuRtH_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761011/dapp-store-logos/otim.jpg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Web3 Payment Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Paid",
+  "archived": false,
   "content": {
     "short": "API for finance platforms to hold funds, route yield and settle payments across rails.",
     "description": "Otim gives fintechs one API to manage balances, earn programmable yield and move money. Platforms set policies once, such as limits and how yield is split with customers, and Otim runs them continuously. Payment settlement handles routing, netting, cutoffs and reconciliation, and a fiat layer connects bank accounts and transfers. It uses EIP-7702 delegation for on-chain actions.",

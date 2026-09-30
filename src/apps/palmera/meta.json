@@ -1,7 +1,7 @@
 {
   "slug": "palmera",
   "name": "Palmera",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2045145387409743872/eSDmdiRo_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761014/dapp-store-logos/palmera.jpg",
   "category": "Web3 Wallets",
   "subcategory": [
     "Multisig Wallets"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Palmera provides multisig smart account infrastructure for organisations running many Safes.",
     "description": "Palmera builds and operates production multisig infrastructure on EVM chains, based on Safe smart accounts. It handles deterministic deployment of the Safe contracts on a new network, then activates the indexing and backend services those accounts need to function. Ecosystems can also take a white-label Safe-compatible interface with continuous maintenance included. Several networks use it to provide multisig support to their users, Hyperliquid among them.",

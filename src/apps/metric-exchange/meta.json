@@ -1,7 +1,7 @@
 {
   "slug": "metric-exchange",
   "name": "Metric",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/metric-v2",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760970/dapp-store-logos/metric-exchange.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Metric is an onchain exchange operating on Hyperliquid and Monad.",
     "description": "Metric is a decentralized exchange deployed across Hyperliquid, Monad, Binance Chain, Ethereum, Polygon, Base and Avalanche. Its V2 release runs the same pool contracts on each network, so a trader sees consistent behaviour wherever they connect. Liquidity providers supply those pools and collect the trading fees they generate.",

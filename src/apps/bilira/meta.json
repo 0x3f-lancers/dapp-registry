@@ -1,7 +1,7 @@
 {
   "slug": "bilira",
   "name": "BiLira",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1877689105603063808/KXzSQptW_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760759/dapp-store-logos/bilira.png",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Turkish crypto exchange and issuer of TRYB, a stablecoin pegged to the Turkish lira.",
     "description": "BiLira runs two businesses for Turkish users. BiLira Kripto is a trading platform with lira pairs, low fees and a rewards centre that adds perks the more you trade. TRYB is its lira-pegged stablecoin, which lets people and apps hold and move Turkish lira value on-chain. Plasma is among the networks where TRYB is available.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://www.bilira.co/en/home",
     "twitter": "https://x.com/BiLira_Kripto"
+  },
+  "relations": {
+    "alternatives": [
+      "huobi",
+      "exolix",
+      "day1x"
+    ],
+    "related": [
+      "weex",
+      "bitget",
+      "trakx"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "BiLira",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "huobi",
-      "exolix",
-      "day1x"
-    ],
-    "related": [
-      "weex",
-      "bitget",
-      "trakx"
-    ]
-  }
+  ]
 }

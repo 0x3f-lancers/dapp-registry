@@ -1,7 +1,7 @@
 {
   "slug": "cubist",
   "name": "Cubist",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1975301480983969792/jnrJ74So_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760820/dapp-store-logos/cubist.jpg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Key Management Providers"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Cubist builds CubeSigner, a hardware-backed key management platform for high-performance use cases.",
     "description": "Cubist provides hardware-backed key management through CubeSigner, offered in both self-custody and end-user custody configurations. Signing policies are written as code and applied universally, covering advanced transaction types and self-custody staking for validators. Its Bascule Drawbridge product enforces bridge security in real time, checking withdrawals against expected deposits. The stack is used for wallet-as-a-service and embedded wallets in consumer apps and games as well as cross-chain DeFi.",

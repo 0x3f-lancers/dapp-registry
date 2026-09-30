@@ -1,7 +1,7 @@
 {
   "slug": "fun-xyz",
   "name": "Fun.xyz",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2039908014808055808/6XF5rGPC_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760874/dapp-store-logos/fun-xyz.jpg",
   "category": "Web3 Wallet Tools",
   "subcategory": [
     "Fiat Onramps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Fun.xyz provides funding rails for applications to optimise onboarding and reduce costs.",
     "description": "Fun.xyz is a checkout layer that takes whatever asset a user holds, on whatever chain, and delivers the token an application needs. The integrator sets the destination and Fun handles conversion, bridging and settlement behind a single flow. It is aimed at apps that would otherwise turn away users arriving with the wrong asset.",

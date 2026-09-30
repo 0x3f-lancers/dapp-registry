@@ -1,7 +1,7 @@
 {
   "slug": "junction-exchange",
   "name": "Junction",
-  "logoUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760927/dapp-store-logos/junction-exchange.png",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Junction is a swap and bridge aggregator routing trades across EVM chains, Solana and Hyperliquid.",
     "description": "Junction is a cross-chain DeFi exchange reaching EVM networks, Solana and Hyperliquid through one API. A single call covers smart-routed swaps and bridging, and the same interface exposes Hyperliquid perpetuals, Morpho earn positions and a fiat on-ramp. The platform is built for automated consumers as much as people, publishing an OpenAPI 3.1 specification, an A2A agent card and RFC 9727 and 9728 discovery documents so agents can integrate without bespoke work.",

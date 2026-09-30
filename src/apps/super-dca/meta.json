@@ -1,7 +1,7 @@
 {
   "slug": "super-dca",
   "name": "Super DCA",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1990182659767623680/z_uuvYCN_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761080/dapp-store-logos/super-dca.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Trading Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Dollar-cost averaging that streams your USDC into tokens with no swap fees and pays you rewards.",
     "description": "Super DCA turns USDC into Super USDC and streams it into a chosen token at a monthly rate, so buying happens continuously instead of in lump sums. Instead of paying swap fees, users earn a 0.5% reward on every USDC spent, paid every two weeks, and Chainlink price feeds let anyone check the price impact of each trade. It runs as a Uniswap v4 hook and has received grants from Optimism and a Unichain retro grant from the Uniswap Foundation.",

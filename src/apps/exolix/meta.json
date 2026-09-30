@@ -1,7 +1,7 @@
 {
   "slug": "exolix",
   "name": "Exolix",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2036089117335851008/RBcOamfv_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760854/dapp-store-logos/exolix.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Exolix is an instant crypto exchange offering registration-free swaps between assets.",
     "description": "Exolix is a non-custodial swap aggregator that pulls liquidity from centralized venues to price thousands of pairs. Routing algorithms read liquidity in real time and pick the best available offer for each swap. Because the architecture is non-custodial, the service never holds the assets moving through it. Exolix also licenses the same routing and liquidity infrastructure to other crypto services.",

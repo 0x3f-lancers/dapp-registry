@@ -1,7 +1,7 @@
 {
   "slug": "phemex",
   "name": "Phemex",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2005611890022748160/RcRN_D55_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761022/dapp-store-logos/phemex.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Crypto exchange with 10 million users offering spot, futures, copy trading, bots and TradFi.",
     "description": "Phemex lists around 170 spot coins, USDT and coin-margined perpetuals, copy trading, trading bots and a mock trading mode for beginners. It has added tokenized stocks and metals, on-chain derivatives, and prediction markets powered by Polymarket. Users can deposit fiat by SWIFT, SEPA or FPS without fees, buy with cards, and spend through the Phemex Card with cashback.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://phemex.com",
     "twitter": "https://x.com/Phemex_official"
+  },
+  "relations": {
+    "alternatives": [
+      "weex",
+      "binance-us",
+      "bitvavo"
+    ],
+    "related": [
+      "gemini",
+      "changenow",
+      "odos"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "Phemex",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "weex",
-      "binance-us",
-      "bitvavo"
-    ],
-    "related": [
-      "gemini",
-      "changenow",
-      "odos"
-    ]
-  }
+  ]
 }

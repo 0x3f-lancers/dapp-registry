@@ -1,7 +1,7 @@
 {
   "slug": "comparenodes",
   "name": "CompareNodes",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2089176659551567872/pF2ivP7o_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760811/dapp-store-logos/comparenodes.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "RPC Node Providers"
@@ -13,6 +13,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Independent RPC benchmarks and a directory of 208 Web3 infrastructure providers.",
     "description": "CompareNodes measures blockchain RPC performance from 30 locations on six continents, testing JSON-RPC, WebSocket and gRPC latency in about 35 seconds. It points out that every provider looks fastest inside its own data center, so it runs tests on demand from the places you choose. Its directory lists more than 3,500 public endpoints across 587 protocols, including Unichain and World Chain.",

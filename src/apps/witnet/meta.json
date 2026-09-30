@@ -1,7 +1,7 @@
 {
   "slug": "witnet",
   "name": "Witnet",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2009265302417338368/XdEq6Hk__400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761132/dapp-store-logos/witnet.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Decentralized Oracles"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Proof-of-stake oracle network delivering 300+ data feeds to smart contracts on 28+ chains.",
     "description": "Witnet runs Wit/Oracle on its own proof-of-stake chain secured by the WIT coin, so data requests are resolved independently of the chains that use them. It serves more than 300 price feeds plus randomness to smart contracts on over 28 networks, securing hundreds of millions of dollars. Wit/2 launched in March 2025, letting anyone stake WIT or run a node to earn rewards.",
@@ -20,6 +21,18 @@
   "links": {
     "website": "https://witnet.io",
     "twitter": "https://x.com/witnet_io"
+  },
+  "relations": {
+    "alternatives": [
+      "seda",
+      "switchboard",
+      "ora"
+    ],
+    "related": [
+      "chainlink",
+      "api3",
+      "muon"
+    ]
   },
   "resources": [
     {
@@ -36,17 +49,5 @@
       "source": "Witnet",
       "tag": "Infrastructure"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "seda",
-      "switchboard",
-      "ora"
-    ],
-    "related": [
-      "chainlink",
-      "api3",
-      "muon"
-    ]
-  }
+  ]
 }

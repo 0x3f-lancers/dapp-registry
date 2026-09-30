@@ -1,7 +1,7 @@
 {
   "slug": "bankr",
   "name": "Bankr",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/bankr",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760755/dapp-store-logos/bankr.jpg",
   "category": "Trading Tools",
   "subcategory": [
     "Crypto Trading Tools"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Bankr is a conversational onchain agent for trading, launching tokens and treasury automation.",
     "description": "Bankr is an AI agent that buys, sells and swaps tokens and places limit orders from a chat instruction. Every agent built on it receives a cross-chain wallet that can trade, deploy contracts and manage DeFi positions, with gas covered by the platform. Developers install the CLI, run a login that generates a wallet and API key, and can launch a token for free. Trading fees the agent generates pay for its own compute, so there is no recurring hosting bill.",

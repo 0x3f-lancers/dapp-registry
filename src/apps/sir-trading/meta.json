@@ -1,7 +1,7 @@
 {
   "slug": "sir-trading",
   "name": "SIR",
-  "logoUrl": "https://unavatar.io/x/leveragesir",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761062/dapp-store-logos/sir-trading.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Derivatives"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "SIR offers leveraged tokens with no liquidations and no funding rates.",
     "description": "SIR issues leveraged tokens that cannot be liquidated and carry no funding payments, shifting the cost of leverage into the token's design. A holder pays a one-time fee at entry instead of an ongoing rate, and the token avoids the volatility decay that erodes comparable products over time. The documentation illustrates the problem with a period where ETH returned to its starting price while a rival leveraged product had already lost value. It is deployed on Hyperliquid and Ethereum.",

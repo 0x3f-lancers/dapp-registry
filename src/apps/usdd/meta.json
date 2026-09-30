@@ -1,7 +1,7 @@
 {
   "slug": "usdd",
   "name": "USDD",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2085624193300017152/Rw427UgR_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761121/dapp-store-logos/usdd.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized CDPs"
@@ -13,6 +13,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Decentralized, overcollateralized US dollar stablecoin with a savings rate and gasless transfers.",
     "description": "USDD holds its dollar peg through crypto collateral worth more than the supply, with governance handled by on-chain votes. There are about $1.5 billion USDD in circulation and more than $2 billion locked in the protocol. Holders can earn a savings rate, recently around 4%, on TRON, Ethereum and BNB Chain, and send USDD without holding TRX by paying the fee in USDD itself.",
@@ -22,6 +23,18 @@
   "links": {
     "website": "https://usdd.io",
     "twitter": "https://x.com/USDDecentralize"
+  },
+  "relations": {
+    "alternatives": [
+      "mstable",
+      "liquity",
+      "parallel-protocol"
+    ],
+    "related": [
+      "usual",
+      "avalon-usda",
+      "beanstalk"
+    ]
   },
   "resources": [
     {
@@ -38,17 +51,5 @@
       "source": "USDD",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "mstable",
-      "liquity",
-      "parallel-protocol"
-    ],
-    "related": [
-      "usual",
-      "avalon-usda",
-      "beanstalk"
-    ]
-  }
+  ]
 }

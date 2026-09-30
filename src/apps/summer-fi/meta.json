@@ -1,7 +1,7 @@
 {
   "slug": "summer-fi",
   "name": "Summer.fi",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/summer.fi-pro",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761079/dapp-store-logos/summer-fi.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Summer.fi auto-rebalances deposits across major lending protocols to chase the best rate.",
     "description": "Summer.fi runs the Lazy Summer Protocol, which moves deposits between established lending protocols as their rates change so a depositor holds one position instead of monitoring several. AI-powered keepers monitor and rebalance the supported vaults continuously, inside risk parameters set and managed by risk firm BlockAnalitica. Its Pro product covers borrowing and multiplying positions across protocols with automation attached. Deployments include Hyperliquid alongside Ethereum, Base, Arbitrum and Sonic.",

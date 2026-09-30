@@ -1,7 +1,7 @@
 {
   "slug": "246club",
   "name": "246 Club",
-  "logoUrl": "logo.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760712/dapp-store-logos/246club.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Re-lending protocol that puts Aave deposits back to work for extra yield through cross-protocol credit.",
     "description": "Depositors in 246 Club keep earning Aave's base rate on their aTokens while the protocol lends that position out again, extending the spare credit to arbitrage between lending markets. The result is a re-aToken carrying two layers of yield. It also offers flash leverage and flash repay, so a yield position on one protocol can serve as collateral to borrow on another, with exposure split into separate risk segments.",

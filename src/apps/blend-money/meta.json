@@ -1,7 +1,7 @@
 {
   "slug": "blend-money",
   "name": "Blend",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/blend-money",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760764/dapp-store-logos/blend-money.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Blend provides per-user on-chain accounts with screening and controls, plus risk-rated yield.",
     "description": "Neobanks and fintechs integrate Blend to give each of their users an on-chain account with screening, reporting and spending controls already built in. Risk-rated yield runs on top of those accounts, with allocations spread across instruments such as Treasury bills, Aave and Morpho. The whole thing arrives as one non-custodial SDK, and separate paths exist depending on whether the integrator performs KYC on its users. Blend is in production and states eleven audits with no critical or high findings.",

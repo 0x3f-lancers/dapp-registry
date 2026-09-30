@@ -1,7 +1,7 @@
 {
   "slug": "gassss",
   "name": "GASSSS",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2005706357216010243/mc0V4pQW_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760878/dapp-store-logos/gassss.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Gas-sponsored swap on Stable so users can trade without holding the gas token first.",
     "description": "GASSSS removes the need to hold gas before your first transaction. Using EIP-7702-style account features, it sponsors fees for swaps between Stable-native assets such as USDT0 and STABLE, so a new user with stablecoins can trade straight away. Sponsorship currently works with supported wallets, starting with Bitget Wallet.",

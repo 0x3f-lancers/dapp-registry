@@ -1,7 +1,7 @@
 {
   "slug": "altura-trade",
   "name": "Altura",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/altura",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760733/dapp-store-logos/altura-trade.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Altura offers stablecoin deposits earning yield sourced from onchain strategies.",
     "description": "Altura takes USDT0 deposits on HyperEVM and runs them through a single multi-strategy vault, so a depositor holds one share balance and no separate positions. Deposits can arrive from any EVM-compatible wallet, with the protocol handling the bridging. Shares represent an exact ownership percentage of the vault, and the return combines a base yield with ALTU token rewards. Strategy execution and rebalancing run in the background without depositor action.",

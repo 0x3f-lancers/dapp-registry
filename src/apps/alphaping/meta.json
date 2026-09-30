@@ -1,7 +1,7 @@
 {
   "slug": "alphaping",
   "name": "AlphaPing",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/alphaping",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760728/dapp-store-logos/alphaping.jpg",
   "category": "Web3 Service Providers",
   "subcategory": [
     "Web3 Consulting Companies"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "AlphaPing runs mandate-driven, non-custodial onchain credit vaults with defined risk boundaries.",
     "description": "AlphaPing operates non-custodial credit vaults on Hyperliquid, each governed by an explicit mandate whose risk constraints are enforced in the contract. The range includes Alpha USDC Core V2, a conservative over-collateralized mandate with deterministic liquidity rules, and Alpha USDC Enhanced V2 for higher-yield exposure. A LINK-denominated vault provides structured credit exposure inside the Chainlink ecosystem, and vault accounting stays visible, so an allocator can check positions against the stated mandate at any point.",

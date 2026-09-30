@@ -1,7 +1,7 @@
 {
   "slug": "arcadia-finance",
   "name": "Arcadia Finance",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/arcadia-v2",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760740/dapp-store-logos/arcadia-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Arcadia Finance sets up automated liquidity provision positions in a few steps.",
     "description": "Arcadia Finance reduces setting up an automated liquidity position to a short flow, handling range selection and rebalancing on the depositor's behalf. A user picks a pool and an amount, and the protocol manages where the range sits as price moves. Positions run on Robinhood Chain and rebalance without the depositor returning to the interface. The automation targets concentrated liquidity, where a position stops earning the moment price leaves its band.",

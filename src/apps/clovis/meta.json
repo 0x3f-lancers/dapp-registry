@@ -1,7 +1,7 @@
 {
   "slug": "clovis",
   "name": "Clovis",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2095533627274821632/jZlWYPya_400x400.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760804/dapp-store-logos/clovis.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Clovis is a cross-chain yield aggregator letting users deposit from one chain and earn on another.",
     "description": "A single deposit into Clovis is put to work across lending, trading and bridging at the same time, producing four yield streams from one position. Collateral keeps earning vault yield while it backs a borrow, so capital is not left idle as security. Cross-chain lending is live on testnet, where a deposit on one chain can be borrowed against on another in a single action across Ethereum, BNB Chain, Base and Sei. A lock option boosts the yield on a committed deposit. The team previously built one of the larger lending markets in DeFi.",

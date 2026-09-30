@@ -1,7 +1,7 @@
 {
   "slug": "routescan",
   "name": "Routescan",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1929071043076923392/5VDv4T5v_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761052/dapp-store-logos/routescan.jpg",
   "category": "Web3 Developer Tools",
   "subcategory": [
     "Block Explorers"
@@ -13,6 +13,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Block explorers, data APIs and MCP servers for 86+ networks, built on your own domain.",
     "description": "Routescan indexes more than 9 billion transactions across 86+ networks and turns them into products for others. Chains get a branded explorer with an API and MCP server run as a service, stablecoin and RWA issuers get public proof pages for supply and reserves, and DeFi teams get dashboards for swaps, gas and cross-chain flows. It runs explorers for networks including Plasma.",
@@ -22,6 +23,18 @@
   "links": {
     "website": "https://routescan.io",
     "twitter": "https://x.com/routescan_io"
+  },
+  "relations": {
+    "alternatives": [
+      "hypurrscan",
+      "beaconcha-in",
+      "zapper"
+    ],
+    "related": [
+      "orb",
+      "SolanaFM",
+      "cexplorer"
+    ]
   },
   "resources": [
     {
@@ -38,17 +51,5 @@
       "source": "Routescan",
       "tag": "Tutorial"
     }
-  ],
-  "relations": {
-    "alternatives": [
-      "hypurrscan",
-      "beaconcha-in",
-      "zapper"
-    ],
-    "related": [
-      "orb",
-      "SolanaFM",
-      "cexplorer"
-    ]
-  }
+  ]
 }

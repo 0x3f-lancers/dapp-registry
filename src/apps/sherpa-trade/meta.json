@@ -1,7 +1,7 @@
 {
   "slug": "sherpa-trade",
   "name": "Sherpa",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1917218700479901696/1-PQqv8G_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761058/dapp-store-logos/sherpa-trade.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Sherpa is a delta-neutral USDC vault issuing shUSD shares routed through quantitative strategies.",
     "description": "Sherpa takes USDC deposits into delta-neutral strategies and issues shUSD representing a share of the vault, so holders are exposed to the strategy's return and not to market direction. The vault is quant-driven and managed by Hedgemony, running on defined cycles with utilisation and TVL published live. Deposits are hands-free once made, with performance viewable over windows from one week to a year.",

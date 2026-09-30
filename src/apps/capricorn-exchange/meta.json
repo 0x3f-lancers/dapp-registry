@@ -1,7 +1,7 @@
 {
   "slug": "capricorn-exchange",
   "name": "Capricorn",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1931864507590045696/yn7mxTi9_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760793/dapp-store-logos/capricorn-exchange.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Capricorn is a concentrated liquidity DEX on Monad combining oracle pricing with fast execution.",
     "description": "Capricorn is a DEX on Monad built around ultra-concentrated liquidity, keeping provider capital tight to the live asset price so swaps execute with minimal slippage. Pricing is fed by low-latency oracles rather than derived solely from pool ratios. The venue is designed to be composable, so aggregators, protocols and other dapps can route through its liquidity directly. Providers supply liquidity to those same concentrated positions.",

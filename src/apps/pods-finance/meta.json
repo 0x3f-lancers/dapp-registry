@@ -1,7 +1,7 @@
 {
   "slug": "pods-finance",
   "name": "Pods Finance",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2056388622950055936/auBQqcNS_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761028/dapp-store-logos/pods-finance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Pods Finance offers an API for embedding DeFi yield, cross-chain swaps and crypto-backed loans.",
     "description": "Pods Finance exposes DeFi yield, cross-chain swaps and crypto-backed loans through one API, so a product can add them without running any infrastructure. An API key is self-serve and the documentation targets a five-minute integration for the yield endpoints. Routing is cross-chain by default across its supported networks, Monad included.",

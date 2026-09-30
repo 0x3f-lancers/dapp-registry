@@ -1,7 +1,7 @@
 {
   "slug": "thesauros",
   "name": "Thesauros",
-  "logoUrl": "logo.png",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761095/dapp-store-logos/thesauros.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "DeFi Yield Aggregators"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Lets fintechs and wallets add a stablecoin Earn account powered by Aave, Compound and Morpho.",
     "description": "Thesauros gives apps an Earn account they can put under their own brand. Customers' stablecoin balances are lent through Aave v3, Compound v3 and Morpho vaults curated by Steakhouse and Gauntlet, and the rate follows borrowing demand. New markets can only be added through a timelocked whitelist, and partner apps keep half of the performance fee.",

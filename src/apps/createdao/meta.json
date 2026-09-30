@@ -1,7 +1,7 @@
 {
   "slug": "createdao",
   "name": "CreateDAO",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1878818626826031104/k2iYvGqd_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760818/dapp-store-logos/createdao.jpg",
   "category": "DAO Tools",
   "subcategory": [
     "DAO Developer Tools"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Deploys a full DAO, with token, treasury and governor, in one transaction for gas only.",
     "description": "CreateDAO turns setting up a DAO into a single call. One transaction deploys an ERC20Votes token, a timelocked treasury and an OpenZeppelin governor, using minimal proxy clones that cut gas costs by around 90%. The creator gets 1% of the supply and the treasury 99%, unlocked only by votes, and holders are delegated automatically so they can vote at once. There are no platform fees.",

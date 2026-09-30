@@ -1,7 +1,7 @@
 {
   "slug": "project-x",
   "name": "Project X",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/project-x",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761034/dapp-store-logos/project-x.png",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Project X is a zero-fee DEX on HyperEVM with swaps, liquidity provision and Cashdrop rewards.",
     "description": "Project X is a DEX on Hyperliquid offering zero-fee trading across its listed assets. The interface covers swapping, liquidity provision, portfolio tracking and a rewards mechanic the team calls Cashdrop. Zero-fee trading shifts where a venue makes its money without removing the cost, so the question becomes what the exchange does with order flow instead. The team's stated thesis is that DeFi competition now turns on distribution, incentive design and UX rather than underlying technology.",

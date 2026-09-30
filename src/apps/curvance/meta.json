@@ -1,7 +1,7 @@
 {
   "slug": "curvance",
   "name": "Curvance",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2078138538705457152/14jrr6v6_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760822/dapp-store-logos/curvance.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Lending Dapps"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Curvance lets users deposit collateral, borrow against it and keep earning yield on the deposit.",
     "description": "Curvance is a lending market where deposited collateral keeps earning its underlying yield while being borrowed against. Each market is isolated from the others, so a problem in one cannot propagate, and independent auditors review the code enforcing that separation. The interface consolidates supplied balances, borrowings and earning positions into one view showing net APY and daily earnings against daily borrow cost. The protocol has recorded no exploits since launch.",

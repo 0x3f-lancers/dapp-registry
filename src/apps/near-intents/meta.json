@@ -1,7 +1,7 @@
 {
   "slug": "near-intents",
   "name": "NEAR Intents",
-  "logoUrl": "https://pbs.twimg.com/profile_images/1970880320103985152/SAMA6Vh0_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760986/dapp-store-logos/near-intents.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "NEAR Intents lets users state a desired swap and have solvers compete to fill it across chains.",
     "description": "NEAR Intents applies the intent model to cross-chain swapping: a user declares the outcome they want, not the path to it, and a network of solvers competes to deliver the best price with on-chain execution. Its 1-Click Swap API requests quotes, executes the swap and tracks status through a single set of endpoints. An explorer API exposes completed swaps, and fee configuration is set per integration. Supported chains and assets include Monad.",

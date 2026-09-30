@@ -1,7 +1,7 @@
 {
   "slug": "optimum",
   "name": "Optimum",
-  "logoUrl": "https://pbs.twimg.com/profile_images/2041555783922675712/Y-FMRQHf_400x400.jpg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761005/dapp-store-logos/optimum.jpg",
   "category": "Infrastructure Tools",
   "subcategory": [
     "Web3 Data Tools"
@@ -12,6 +12,7 @@
   ],
   "tags": [],
   "pricing": "",
+  "archived": false,
   "content": {
     "short": "Network that speeds up how blocks and data spread between blockchain nodes.",
     "description": "Optimum uses random linear network coding (RLNC) to replace the redundant gossip most blockchains use to pass blocks around. It reports 6 to 20 times faster block and blob delivery and 90 to 95% less bandwidth, without any change to a chain's consensus rules. It is working with Ethereum validators first, with 40 testnet partners and $24 billion of staked ETH connected.",

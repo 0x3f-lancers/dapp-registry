@@ -1,7 +1,7 @@
 {
   "slug": "defi-app",
   "name": "Defi App",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/defi-app-aggregator",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760830/dapp-store-logos/defi-app.jpg",
   "category": "DeFi Dapps",
   "subcategory": [
     "Decentralized Exchanges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Defi App is a mobile-first platform for swaps, perpetuals and yield across EVM chains.",
     "description": "Defi App is a modular DeFi interface that bundles swapping, perpetuals and yield into one product. Cross-chain swaps execute automatically, with no bridging step, gas token to hold or slippage to configure, and execution is intent-based. Its yield section aggregates strategies from across DeFi protocols into a single list. Perpetual trading is available alongside spot, including a high-leverage product, and the platform issues the HOME token as a reward.",

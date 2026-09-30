@@ -1,7 +1,7 @@
 {
   "slug": "ring-exchange",
   "name": "Ring",
-  "logoUrl": "https://icons.llamao.fi/icons/protocols/ring-protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761048/dapp-store-logos/ring-exchange.jpg",
   "category": "DeFi Tools",
   "subcategory": [
     "Web3 Bridges"
@@ -11,6 +11,7 @@
   ],
   "tags": [],
   "pricing": "Free",
+  "archived": false,
   "content": {
     "short": "Ring is a bridging and liquidity interface serving Hyperliquid.",
     "description": "Ring is an asset and trading layer where Few Protocol wraps original ERC-20 assets into canonical FewToken addresses, and Ring Swap provides the pools, swaps, liquidity and routing over them. A separate integration covers FewToken and Few hooks used with Uniswap v4 contracts, treating v4 as an external environment for specific cases. Contract deployments for the factory, router, wrapper and Permit2 are published per network. Developers pick the correct contract depending on whether they are wrapping, discovering pairs, swapping or integrating with v4.",
