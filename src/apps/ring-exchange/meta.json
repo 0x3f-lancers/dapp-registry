@@ -1,0 +1,53 @@
+{
+  "slug": "ring-exchange",
+  "name": "Ring",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761048/dapp-store-logos/ring-exchange.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Ring is a bridging and liquidity interface serving Hyperliquid.",
+    "description": "Ring is an asset and trading layer where Few Protocol wraps original ERC-20 assets into canonical FewToken addresses, and Ring Swap provides the pools, swaps, liquidity and routing over them. A separate integration covers FewToken and Few hooks used with Uniswap v4 contracts, treating v4 as an external environment for specific cases. Contract deployments for the factory, router, wrapper and Permit2 are published per network. Developers pick the correct contract depending on whether they are wrapping, discovering pairs, swapping or integrating with v4.",
+    "meta": "Bridging and liquidity routing into Hyperliquid, the constraint on how fast capital arrives.",
+    "pageTitle": "Ring - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ring.exchange/",
+    "twitter": "https://x.com/ringprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "debridge",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "hyperunit",
+      "layerzero",
+      "mayan"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Security and Risk",
+      "tldr": "Outlines the security considerations and protocol risks of using Ring.",
+      "url": "https://docs.ring.exchange/security-and-risk",
+      "source": "Ring",
+      "tag": "Security"
+    },
+    {
+      "title": "Product map",
+      "tldr": "Maps Ring’s products and the concepts behind its exchange.",
+      "url": "https://docs.ring.exchange/concepts/overview",
+      "source": "Ring",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "arcus",
+  "name": "Arcus",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760742/dapp-store-logos/arcus.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Arcus is a self-custodial DEX on Robinhood Chain for tokenized stocks and perpetuals.",
+    "description": "Arcus is a self-custodial exchange on Robinhood Chain for tokenized equities, with perpetual futures in development behind a waitlist. Spot trading in stock tokens carries no fee and runs around the clock, so positions are not bound to exchange opening hours. Assets stay in the user's own wallet throughout, and the venue sources institutional liquidity for its books. The exchange was built in partnership with established trading teams.",
+    "meta": "Arcus is a self-custodial Robinhood Chain DEX trading tokenized stocks and perpetuals around the clock.",
+    "pageTitle": "Arcus - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://arcus.xyz/",
+    "twitter": "https://x.com/arcus_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "lighter",
+      "panoptic"
+    ],
+    "related": [
+      "beefy",
+      "beefy-finance",
+      "curve-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Funding Rates Work on Equity Perpetuals",
+      "tldr": "Explains the payment that keeps an Arcus equity perpetual near its stock price, including how market hours affect the rate.",
+      "url": "https://arcus.xyz/blog/how-funding-rates-work-on-arcus-equity-perpetuals",
+      "source": "Arcus",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Isolated Margin Positions on Arcus",
+      "tldr": "Explains how each perpetual trade receives its own margin and liquidation price when using isolated positions.",
+      "url": "https://arcus.xyz/blog/isolated-positions-are-now-live-on-arcus",
+      "source": "Arcus",
+      "tag": "Explainer"
+    }
+  ]
+}

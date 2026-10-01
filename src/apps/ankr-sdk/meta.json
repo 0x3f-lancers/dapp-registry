@@ -30,5 +30,25 @@
       "star-atlas-dao",
       "yield-guild-games"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "RPC Sized For Language Models",
+      "tldr": "Why chain data is expensive to feed a model verbatim, and what a token-optimised endpoint changes about the bill.",
+      "url": "https://www.ankr.com/blog/torpc-the-open-token-optimized-solution-underneath-agent-rpc",
+      "source": "Ankr"
+    },
+    {
+      "title": "Giving Agents Control Of Infra",
+      "tldr": "How an agent-facing RPC layer is designed, what it lets software decide for itself, and where accuracy improves.",
+      "url": "https://www.ankr.com/blog/agent-rpc-cut-token-bills-in-half-give-agents-infra-control-and-increase-accuracy",
+      "source": "Ankr"
+    },
+    {
+      "title": "Serving A Ledger At Institution Scale",
+      "tldr": "What institutional RPC on XRP Ledger has to guarantee, and how node infrastructure is arranged to hold those promises.",
+      "url": "https://www.ankr.com/blog/ankr-and-the-ripple-ecosystem-institutional-grade-rpc-infrastructure-for-xrp-ledger",
+      "source": "Ankr"
+    }
+  ]
 }

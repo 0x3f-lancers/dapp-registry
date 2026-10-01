@@ -1,0 +1,51 @@
+{
+  "slug": "tulipa-capital",
+  "name": "Tulipa Capital",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761110/dapp-store-logos/tulipa-capital.jpg",
+  "category": "Web3 Service Providers",
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Tulipa Capital is a DeFi asset manager curating on-chain vaults, active since 2019.",
+    "description": "Tulipa Capital deploys capital at scale on-chain and positions itself as an advisory partner rather than an execution desk. The firm emphasises honest feedback and judgment in the mandates it takes, including asking clients the questions they have not considered. Its activity extends to Monad.",
+    "meta": "A curator active since 2019, whose value lies in what it declines to accept as collateral.",
+    "pageTitle": "Tulipa Capital - Web3 Service Providers - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tulipa.capital/",
+    "twitter": "https://x.com/tulipacapital"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperithm",
+      "k3-capital",
+      "steakhouse-financial"
+    ],
+    "related": [
+      "clearstar"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Tulipa Capital's Risk Assessment Approach",
+      "tldr": "Explains Tulipa's market monitoring, fee analysis, and risk assessment process for DeFi vaults.",
+      "url": "https://gov.curve.finance/t/tulipa-capital-curve-risk-assessment-and-market-monitoring-response/11127",
+      "source": "Tulipa Capital",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Tulipa Evaluates Vault Strategies",
+      "tldr": "Describes the diligence Tulipa performs before a strategy is added to a Syntetika vault.",
+      "url": "https://syntetika.io/blog/how-a-strategy-gets-onto-syntetika",
+      "source": "Syntetika",
+      "tag": "Explainer"
+    }
+  ]
+}

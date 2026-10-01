@@ -1,0 +1,53 @@
+{
+  "slug": "bitfinex",
+  "name": "Bitfinex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760760/dapp-store-logos/bitfinex.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Crypto exchange operating since 2012, offering zero trading fees and up to 100x leverage.",
+    "description": "Bitfinex calls itself the original Bitcoin exchange and has traded through every market cycle since 2012. It lists more than 260 markets with deep liquidity, margin and derivatives up to 100x, and has dropped trading fees to zero. Professional traders use its API and charting tools, and it is closely tied to Tether, the issuer of USDT, which is the asset Stable was built around.",
+    "meta": "Trade 260+ crypto markets with zero fees and up to 100x leverage on Bitfinex, the exchange running since 2012.",
+    "pageTitle": "Bitfinex - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.bitfinex.com",
+    "twitter": "https://x.com/bitfinex"
+  },
+  "relations": {
+    "alternatives": [
+      "swissborg",
+      "gate-exchange",
+      "floq"
+    ],
+    "related": [
+      "coinmate",
+      "bitget",
+      "egemoney"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Happened in the Cardano Exploit",
+      "tldr": "Analyzes the malformed transaction that caused a Cardano chain split and explains the network behavior that followed.",
+      "url": "https://blog.bitfinex.com/industry-news/what-actually-happened-with-the-cardano-exploit/",
+      "source": "Bitfinex",
+      "tag": "Security"
+    },
+    {
+      "title": "What Is Plasma and Its XPL Token?",
+      "tldr": "Bitfinex explains Plasma's stablecoin payment design, consensus, gas model, and the role of its XPL token.",
+      "url": "https://blog.bitfinex.com/education/what-is-plasma-xpl/",
+      "source": "Bitfinex",
+      "tag": "Explainer"
+    }
+  ]
+}

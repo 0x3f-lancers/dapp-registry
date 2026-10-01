@@ -1,0 +1,54 @@
+{
+  "slug": "hyperunit",
+  "name": "Unit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760915/dapp-store-logos/hyperunit.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Unit is the asset tokenization layer on Hyperliquid, handling deposits and withdrawals of external assets.",
+    "description": "Unit is the asset tokenization layer for Hyperliquid, handling deposits and withdrawals of major spot assets from their native chains. Users send an asset from a personal wallet or exchange account and can then trade it on Hyperliquid's spot order book alongside existing balances. This creates additional capital on-ramps, since spot sent from any supported source chain can be sold into USDC on the book. It also enables cross margining across major assets and gives DeFi protocols on the Hyperliquid EVM an efficient venue for settling liquidations.",
+    "meta": "Unit is Hyperliquid's asset tokenization layer, handling deposits and withdrawals of external assets.",
+    "pageTitle": "Unit - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperunit.xyz/",
+    "twitter": "https://x.com/unitxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "debridge",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "layerzero",
+      "mayan",
+      "symbiosis"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Unit Brings Assets to Hyperliquid",
+      "tldr": "Introduces Unit's tokenization layer and how native BTC, ETH and SOL can enter and leave Hyperliquid.",
+      "url": "https://docs.hyperunit.xyz/",
+      "source": "Unit",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Deposit Native Assets Through Unit",
+      "tldr": "Guides users through native asset deposits to Hyperliquid and explains confirmation and withdrawal considerations.",
+      "url": "https://hyperliquidguide.com/ecosystem/unit-protocol-guide",
+      "source": "Hyperliquid Guide",
+      "tag": "Tutorial"
+    }
+  ]
+}

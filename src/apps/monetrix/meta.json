@@ -1,0 +1,53 @@
+{
+  "slug": "monetrix",
+  "name": "Monetrix",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760975/dapp-store-logos/monetrix.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Monetrix issues USDM, a yield-bearing stable token native to Hyperliquid.",
+    "description": "Monetrix issues USDM, a stable token that accrues yield to its holder and is native to Hyperliquid. Backing comes from basis trading positions, not fiat reserves held off-chain, so the yield originates from funding rather than Treasury interest. Holding the token is enough to receive the yield, with no separate staking step.",
+    "meta": "USDM, a stable token that pays yield to the holder, backed by basis positions rather than reserves.",
+    "pageTitle": "Monetrix - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://monetrix.xyz/",
+    "twitter": "https://x.com/monetrix_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "felix-protocol",
+      "mai",
+      "timeswap"
+    ],
+    "related": [
+      "0x",
+      "altura-trade",
+      "ample-money"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Monetrix Protocol Audit Scope",
+      "tldr": "Explains Monetrix's synthetic dollar design and the contracts submitted for security review.",
+      "url": "https://github.com/code-423n4/2026-04-monetrix/blob/main/README.md",
+      "source": "Code4rena",
+      "tag": "Security"
+    },
+    {
+      "title": "Monetrix Genesis Guide",
+      "tldr": "Explains Monetrix's USDC-backed dollar and walks through its early participation flow.",
+      "url": "https://airdrops.io/blog/monetrix-airdrop-genesis-guide/",
+      "source": "Airdrops.io",
+      "tag": "Tutorial"
+    }
+  ]
+}

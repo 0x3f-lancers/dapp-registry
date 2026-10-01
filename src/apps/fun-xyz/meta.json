@@ -1,0 +1,53 @@
+{
+  "slug": "fun-xyz",
+  "name": "Fun.xyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760874/dapp-store-logos/fun-xyz.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Fun.xyz provides funding rails for applications to optimise onboarding and reduce costs.",
+    "description": "Fun.xyz is a checkout layer that takes whatever asset a user holds, on whatever chain, and delivers the token an application needs. The integrator sets the destination and Fun handles conversion, bridging and settlement behind a single flow. It is aimed at apps that would otherwise turn away users arriving with the wrong asset.",
+    "meta": "Fun.xyz provides funding rails for applications to improve onboarding conversion and reduce costs.",
+    "pageTitle": "Fun.xyz - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fun.xyz/",
+    "twitter": "https://x.com/fun"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Transfer Crypto with Fun",
+      "tldr": "Answers common questions about moving assets from a wallet or exchange into a dApp through Fun Checkout.",
+      "url": "https://intercom.help/funxyz/en/articles/10003876-transfer-crypto-guide-faqs",
+      "source": "Fun.xyz",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Using Lightning with Fun",
+      "tldr": "Explains Bitcoin Lightning payments in Fun and which wallets and apps can be used.",
+      "url": "https://intercom.help/funxyz/en/articles/15861461-lightning-faqs",
+      "source": "Fun.xyz",
+      "tag": "Explainer"
+    }
+  ]
+}

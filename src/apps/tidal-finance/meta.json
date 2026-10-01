@@ -30,5 +30,19 @@
       "horizon-protocol",
       "marginly"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Risks",
+      "tldr": "What a cover buyer and a cover seller are each exposed to, laid out by the protocol itself.",
+      "url": "https://docs.tidal.finance/getting-started/risks",
+      "source": "Tidal Finance"
+    },
+    {
+      "title": "The Problem With DeFi Cover",
+      "tldr": "Why insuring smart contracts is hard to price, and the approach taken here to make it work.",
+      "url": "https://docs.tidal.finance/background/problem-space",
+      "source": "Tidal Finance"
+    }
+  ]
 }

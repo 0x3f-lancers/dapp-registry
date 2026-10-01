@@ -1,0 +1,54 @@
+{
+  "slug": "saffron-finance",
+  "name": "Saffron Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761056/dapp-store-logos/saffron-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Monad",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Saffron is a peer-to-peer risk adjustment protocol that transforms underlying yield into tranches.",
+    "description": "Saffron is a peer-to-peer interest risk adjustment protocol where a smart contract system transforms an underlying yield stream according to the risk each participant indicates. One side takes more risk for more return while the other takes less of both, matched against each other in the same vault. Its SFI token was distributed through a liquidity mining program running from October 2020 into 2021. Having been around since that period, it now operates on Monad and Robinhood Chain.",
+    "meta": "Saffron is a peer-to-peer risk adjustment protocol on Monad and Robinhood Chain that splits one yield stream into higher and lower risk tranches.",
+    "pageTitle": "Saffron Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://saffron.finance/",
+    "twitter": "https://x.com/saffronfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "ample-money",
+      "beefy",
+      "ipor"
+    ],
+    "related": [
+      "lagoon",
+      "neutral-trade",
+      "arcadia-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Overview",
+      "tldr": "How Saffron Vaults Work Saffron Fixed Income Vaults enable zero-coupon swaps on Uniswap V3 liquidity positions.",
+      "url": "https://docs.saffron.finance/saffron-vaults/overview.md",
+      "source": "Saffron Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Vault Lifecycle",
+      "tldr": "How vaults are created, funded, and settled on-chain.",
+      "url": "https://docs.saffron.finance/saffron-vaults/vault-lifecycle.md",
+      "source": "Saffron Finance",
+      "tag": "Explainer"
+    }
+  ]
+}

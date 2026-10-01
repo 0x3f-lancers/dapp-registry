@@ -1,0 +1,53 @@
+{
+  "slug": "witnet",
+  "name": "Witnet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761132/dapp-store-logos/witnet.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Decentralized Oracles"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Proof-of-stake oracle network delivering 300+ data feeds to smart contracts on 28+ chains.",
+    "description": "Witnet runs Wit/Oracle on its own proof-of-stake chain secured by the WIT coin, so data requests are resolved independently of the chains that use them. It serves more than 300 price feeds plus randomness to smart contracts on over 28 networks, securing hundreds of millions of dollars. Wit/2 launched in March 2025, letting anyone stake WIT or run a node to earn rewards.",
+    "meta": "Witnet's proof-of-stake oracle delivers 300+ data feeds and randomness to smart contracts on 28+ chains.",
+    "pageTitle": "Witnet - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://witnet.io",
+    "twitter": "https://x.com/witnet_io"
+  },
+  "relations": {
+    "alternatives": [
+      "seda",
+      "switchboard",
+      "ora"
+    ],
+    "related": [
+      "chainlink",
+      "api3",
+      "muon"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Using Witnet Price Feeds",
+      "tldr": "Developer tutorial for reading Witnet price feeds and checking the quality of oracle updates.",
+      "url": "https://docs.witnet.io/intro/tutorials/data-feeds-tutorial",
+      "source": "Witnet",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Using Witnet Custom Feeds",
+      "tldr": "Shows how to construct oracle queries that retrieve and deliver custom external data on-chain.",
+      "url": "https://docs.witnet.io/intro/tutorials/apis-and-http-get-post",
+      "source": "Witnet",
+      "tag": "Infrastructure"
+    }
+  ]
+}

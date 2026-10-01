@@ -1,0 +1,55 @@
+{
+  "slug": "ophis",
+  "name": "Ophis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761004/dapp-store-logos/ophis.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Intent-based DEX aggregator with MEV-protected swaps across 20+ chains.",
+    "description": "On Ophis, users sign the trade they want and solvers compete in a batch auction to fill it, with liquidity drawn from Uniswap, Curve, SushiSwap and others, which protects the swap from sandwich attacks. It covers more than 20 networks including Ethereum, Solana, Bitcoin, Unichain, Plasma and Robinhood Chain. Developers and AI agents can integrate it through an SDK, API or MCP server and keep their own fee.",
+    "meta": "Swap with MEV protection on Ophis, where solvers compete to fill your signed intent across 20+ chains.",
+    "pageTitle": "Ophis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ophis.fi",
+    "github": "https://github.com/ophis-fi",
+    "twitter": "https://x.com/ophisfi"
+  },
+  "relations": {
+    "alternatives": [
+      "eisen-finance",
+      "laminar",
+      "dzap"
+    ],
+    "related": [
+      "vaultka",
+      "alandale",
+      "rubicon"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Intent-Based DEX Aggregators Explained",
+      "tldr": "Explains how signing a desired trading outcome differs from submitting a fixed swap path and where solvers fit in.",
+      "url": "https://ophis.fi/learn/intent-based-dex-aggregator/",
+      "source": "Ophis",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Ophis Intent Swaps Work on Robinhood Chain",
+      "tldr": "A practical guide to checking quotes, fees, and signed order limits before swapping tokens through Ophis.",
+      "url": "https://ophis.fi/blog/dex-aggregator-robinhood/",
+      "source": "Ophis",
+      "tag": "Tutorial"
+    }
+  ]
+}

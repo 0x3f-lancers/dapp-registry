@@ -1,0 +1,55 @@
+{
+  "slug": "usdd",
+  "name": "USDD",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761121/dapp-store-logos/usdd.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Tron",
+    "Ethereum",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Decentralized, overcollateralized US dollar stablecoin with a savings rate and gasless transfers.",
+    "description": "USDD holds its dollar peg through crypto collateral worth more than the supply, with governance handled by on-chain votes. There are about $1.5 billion USDD in circulation and more than $2 billion locked in the protocol. Holders can earn a savings rate, recently around 4%, on TRON, Ethereum and BNB Chain, and send USDD without holding TRX by paying the fee in USDD itself.",
+    "meta": "USDD is an overcollateralized decentralized dollar with a savings rate and gasless transfers, with $1.5B in supply.",
+    "pageTitle": "USDD - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://usdd.io",
+    "twitter": "https://x.com/USDDecentralize"
+  },
+  "relations": {
+    "alternatives": [
+      "mstable",
+      "liquity",
+      "parallel-protocol"
+    ],
+    "related": [
+      "usual",
+      "avalon-usda",
+      "beanstalk"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Getting Started With USDD",
+      "tldr": "Official guide to the USDD ecosystem, including vaults, the peg stability module, and savings.",
+      "url": "https://docs.usdd.io/user-guide/getting-started",
+      "source": "USDD",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How to Manage a USDD Vault",
+      "tldr": "Shows how collateralized vault holders can adjust collateral and mint or repay USDD.",
+      "url": "https://docs.usdd.io/user-guide/manage-a-vault",
+      "source": "USDD",
+      "tag": "Tutorial"
+    }
+  ]
+}

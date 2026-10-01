@@ -38,5 +38,19 @@
       "meeds",
       "dexe-dao-studio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The LP Token",
+      "tldr": "How a share of a DAO's treasury is represented as a token, and what a holder can redeem it for.",
+      "url": "https://docs.xdao.app/evm/architecture/lp-token-liquidity-provider-token",
+      "source": "XDAO"
+    },
+    {
+      "title": "Choosing A Quorum",
+      "tldr": "How the quorum threshold decides whether a DAO can act at all, and the failure at each extreme.",
+      "url": "https://docs.xdao.app/evm/guides-for-gt/create-a-dao/how-to-choose-the-right-quorum",
+      "source": "XDAO"
+    }
+  ]
 }

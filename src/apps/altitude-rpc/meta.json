@@ -1,0 +1,53 @@
+{
+  "slug": "altitude-rpc",
+  "name": "Altitude",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760731/dapp-store-logos/altitude-rpc.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Altitude runs archival RPC infrastructure for HyperEVM built for latency-sensitive workloads.",
+    "description": "Altitude provides private RPC nodes for workloads where latency decides the outcome, such as contract deployment, state queries and bot execution. Hyperliquid's builder documentation lists it under archival RPC, meaning its endpoints serve historical state and not only recent blocks. Nodes are dedicated to one customer rather than shared in a public pool, and the company builds tailored APIs for specific applications. Coverage extends to several networks alongside HyperEVM.",
+    "meta": "Altitude runs archival RPC infrastructure for HyperEVM aimed at latency-sensitive workloads.",
+    "pageTitle": "Altitude - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rpc.reachaltitude.xyz/",
+    "twitter": "https://x.com/reachaltitude"
+  },
+  "relations": {
+    "alternatives": [
+      "blockpi-network",
+      "chainstack",
+      "drpc"
+    ],
+    "related": [
+      "alchemy",
+      "dwellir",
+      "getblock"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Quickstart",
+      "tldr": "Walks through connecting to Altitude RPC and making a first request from a browser or client.",
+      "url": "https://docs.reachaltitude.xyz/getting-started/altitude/quickstart.md",
+      "source": "Altitude",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Hyperliquid Node Peering",
+      "tldr": "Explains direct peering with Hyperliquid nodes and its effect on data access.",
+      "url": "https://docs.reachaltitude.xyz/rpc/hyperliquid-node-peering.md",
+      "source": "Altitude",
+      "tag": "Explainer"
+    }
+  ]
+}

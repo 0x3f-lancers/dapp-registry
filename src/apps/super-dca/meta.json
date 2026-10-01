@@ -1,0 +1,55 @@
+{
+  "slug": "super-dca",
+  "name": "Super DCA",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761080/dapp-store-logos/super-dca.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Dollar-cost averaging that streams your USDC into tokens with no swap fees and pays you rewards.",
+    "description": "Super DCA turns USDC into Super USDC and streams it into a chosen token at a monthly rate, so buying happens continuously instead of in lump sums. Instead of paying swap fees, users earn a 0.5% reward on every USDC spent, paid every two weeks, and Chainlink price feeds let anyone check the price impact of each trade. It runs as a Uniswap v4 hook and has received grants from Optimism and a Unichain retro grant from the Uniswap Foundation.",
+    "meta": "Stream USDC into any token with Super DCA's Uniswap v4 hook, paying no swap fees and earning 0.5% back.",
+    "pageTitle": "Super DCA - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://superdca.org",
+    "twitter": "https://x.com/super_dca"
+  },
+  "relations": {
+    "alternatives": [
+      "matrixnet",
+      "berabot",
+      "volboost"
+    ],
+    "related": [
+      "blockply",
+      "coinmarketman",
+      "simpleswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Super DCA's Uniswap Integration Live on Optimism",
+      "tldr": "Super DCA's update on its Uniswap deployment on Optimism and the Dune dashboard it uses to track fees and execution.",
+      "url": "https://gov.optimism.io/t/super-dca-s-uniswap-integration-live-on-optimism/9480",
+      "source": "Optimism Collective",
+      "tag": "DeFi",
+      "publishedAt": "2025-01-05"
+    },
+    {
+      "title": "Unichain Infinite Hackathon and Retro Grant Winners",
+      "tldr": "The Uniswap Foundation names Super DCA a Unichain retro grant winner for its zero-fee DCA hook.",
+      "url": "https://www.uniswapfoundation.org/blog/unichain-grants-4",
+      "source": "Uniswap Foundation",
+      "tag": "DeFi",
+      "publishedAt": "2025-09-17"
+    }
+  ]
+}

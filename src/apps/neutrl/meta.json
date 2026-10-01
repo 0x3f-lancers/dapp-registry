@@ -1,0 +1,56 @@
+{
+  "slug": "neutrl",
+  "name": "Neutrl",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760989/dapp-store-logos/neutrl.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Synthetics"
+  ],
+  "chains": [
+    "Ethereum",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Market-neutral synthetic dollar, NUSD, earning yield from OTC arbitrage and basis trades.",
+    "description": "Neutrl turns strategies usually run by institutional trading desks into an on-chain dollar. NUSD is backed by market-neutral positions across discounted OTC token deals, funding rates and basis trades, and staking it as sNUSD collects the yield, around 6.9% annualised so far with $6 million distributed. It holds about $42 million in TVL, uses LayerZero to reach many chains, and raised $5 million led by STIX and Accomplice.",
+    "meta": "Stake NUSD as sNUSD to earn Neutrl's market-neutral yield from OTC arbitrage, funding and basis strategies.",
+    "pageTitle": "Neutrl - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.neutrl.finance",
+    "twitter": "https://x.com/Neutrl"
+  },
+  "relations": {
+    "alternatives": [
+      "metronome-synth",
+      "parcl",
+      "cvi-finance"
+    ],
+    "related": [
+      "thestandard",
+      "dinari",
+      "synthetify"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Neutrl: Using Altcoin OTC Flow as Yield",
+      "tldr": "Breaks down where NUSD yield comes from, including discounted OTC deals and basis trades, and the risks behind them.",
+      "url": "https://alearesearch.io/newsletters/neutrl-altcoin-otc",
+      "source": "Alea Research",
+      "tag": "Research",
+      "publishedAt": "2025-12-10"
+    },
+    {
+      "title": "Neutrl Raises $5M to Tokenize a Popular Hedge Fund Altcoin Trade",
+      "tldr": "CoinDesk on Neutrl's seed round and its plan to tokenize the hedge-fund trade of buying locked altcoins at a discount.",
+      "url": "https://www.coindesk.com/business/2025/04/16/neutrl-raises-usd5m-to-tokenize-a-popular-hedge-fund-altcoin-trade",
+      "source": "CoinDesk",
+      "tag": "Finance",
+      "publishedAt": "2025-04-16"
+    }
+  ]
+}

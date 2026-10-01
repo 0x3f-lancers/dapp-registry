@@ -30,5 +30,19 @@
       "wowearn",
       "taraxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Before You Build A Chain",
+      "tldr": "The questions worth answering before launching your own network, and the cases where deploying on an existing one wins.",
+      "url": "https://www.optimism.io/blog/before-you-build-a-chain",
+      "source": "Optimism"
+    },
+    {
+      "title": "Outgrowing Your Own Lending Engine",
+      "tldr": "Why one protocol dropped its in-house market for a shared one, and what that says about building versus borrowing infrastructure.",
+      "url": "https://www.optimism.io/blog/etherfi-upgrades-to-aave-v4-on-op-mainnet",
+      "source": "Optimism"
+    }
+  ]
 }

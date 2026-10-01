@@ -1,0 +1,47 @@
+{
+  "slug": "ultrayield",
+  "name": "UltraYield",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761113/dapp-store-logos/ultrayield.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Vault curator from Edge Capital running market-neutral strategies across CeFi and DeFi.",
+    "description": "UltraYield packages the strategies of hedge fund Edge Capital into on-chain vaults for USD, BTC and ETH. Most rely on funding-rate arbitrage between centralized and decentralized exchanges, with little or no DeFi exposure, and the team curates vaults for partners such as Midas. It runs eight active vaults with around $58 million under strategy, and reports a 15% rolling 12-month return on its USD vaults.",
+    "meta": "UltraYield runs Edge Capital's market-neutral USD, BTC and ETH vaults, with $58M under strategy.",
+    "pageTitle": "UltraYield - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ultrayield.app/",
+    "twitter": "https://x.com/ultrayieldapp"
+  },
+  "relations": {
+    "alternatives": [
+      "nabla-finance",
+      "gami-labs",
+      "harmonix-finance"
+    ],
+    "related": [
+      "toros-finance",
+      "compound-blue",
+      "stabil-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "UltraYield USDC Vault Updates",
+      "tldr": "UltraYield introduces its Morpho USDC vault, which lends against Edge Capital's mEDGE and aims for market-neutral yield.",
+      "url": "https://forum.morpho.org/t/ultrayield-usdc-vault-updates/1827",
+      "source": "Morpho Forum",
+      "tag": "DeFi",
+      "publishedAt": "2025-06-13"
+    }
+  ]
+}

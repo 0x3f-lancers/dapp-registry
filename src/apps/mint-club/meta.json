@@ -1,0 +1,54 @@
+{
+  "slug": "mint-club",
+  "name": "Mint Club",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760973/dapp-store-logos/mint-club.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "No-code builder for tokens and NFTs backed by other tokens through bonding curves.",
+    "description": "On Mint Club, every new token or NFT is backed by a parent token held in a bonding curve, so it can be bought and sold from the moment it exists without anyone seeding a pool. Creators pick the parent, set the curve and launch, and can run airdrops and earn royalties. More than 8,900 tokens and 24,000 NFTs have been created from about 600 parent tokens.",
+    "meta": "Launch bonding-curve tokens and NFTs backed by any ERC-20 on Mint Club, with airdrops and creator royalties.",
+    "pageTitle": "Mint Club - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mint.club",
+    "twitter": "https://x.com/MintClubPro"
+  },
+  "relations": {
+    "alternatives": [
+      "tokentoolbox",
+      "blockbucket",
+      "printr"
+    ],
+    "related": [
+      "uncx-network",
+      "ambisafe",
+      "pandatool"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Mint Club Bonding Curve",
+      "tldr": "Explains how Mint Club prices tokens and NFTs from supply along a predefined curve, and what that means for buyers and sellers.",
+      "url": "https://docs.mint.club/learn/bonding",
+      "source": "Mint Club Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Mint Club: No-Code Bonding Curve Token Platform Explained",
+      "tldr": "Overview of creating curve-backed assets on Mint Club, including royalties and the chains it supports.",
+      "url": "https://www.gate.com/learn/articles/mint-club-mintclub-unlocking-infinite-flexibility-in-bonding-curve-asset-creation/7251",
+      "source": "Gate Learn",
+      "tag": "Explainer",
+      "publishedAt": "2025-03-12"
+    }
+  ]
+}

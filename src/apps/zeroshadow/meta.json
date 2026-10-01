@@ -1,0 +1,53 @@
+{
+  "slug": "zeroshadow",
+  "name": "zeroShadow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761137/dapp-store-logos/zeroshadow.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "zeroShadow provides blockchain intelligence and incident response after hacks and thefts.",
+    "description": "zeroShadow provides Web3 incident response and threat intelligence, reachable through the SEAL911 emergency channel when a protocol is under active attack. Its team has worked on major incidents including the KelpDAO hack, and publishes post-incident analysis afterwards. Services span a virtual security operations centre, a customer care program and support for financial services firms. A real-time threat intelligence API exposes the same data platform its responders use.",
+    "meta": "zeroShadow provides blockchain intelligence and incident response for hacks and stolen funds.",
+    "pageTitle": "zeroShadow - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://zeroshadow.io/",
+    "twitter": "https://x.com/zeroShadow_io"
+  },
+  "relations": {
+    "alternatives": [
+      "blockaid",
+      "chainalysis",
+      "elliptic"
+    ],
+    "related": [
+      "cyberscope",
+      "phalcon",
+      "trm-labs"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Access Control Exploits Work",
+      "tldr": "Explains access control failures in smart contracts and ways projects can respond to incidents.",
+      "url": "https://zeroshadow.io/blog/access%20control%20incident%20solutions/",
+      "source": "zeroShadow",
+      "tag": "Security"
+    },
+    {
+      "title": "Address Poisoning and How to Avoid It",
+      "tldr": "Shows how address poisoning scams mislead wallet users and what to check before sending assets.",
+      "url": "https://zeroshadow.io/blog/address-poisoning-what-it-is-and-how-to-protect-yourself/",
+      "source": "zeroShadow",
+      "tag": "Security"
+    }
+  ]
+}

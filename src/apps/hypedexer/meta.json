@@ -1,0 +1,53 @@
+{
+  "slug": "hypedexer",
+  "name": "HypeDexer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760898/dapp-store-logos/hypedexer.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "HypeDexer indexes every resting Hyperliquid order and fill, served over REST, WebSocket and MCP.",
+    "description": "HypeDexer keeps the full history of the Hyperliquid order book, including every resting order with its id and the address behind it, where the exchange itself retains only recent orders. The archive covers billions of fills since November 2024, reachable over REST, WebSocket or an MCP server with one API key. Endpoints return fills by market or wallet and rebuild completed positions open to close with realised PnL and fees. The service is run by an on-chain validator, staking HYPE with it reduces the price, and accounts get 5,000 free credits a month. LiquidTerminal, hl.eco and Trust Wallet's native perps build on the data.",
+    "meta": "HypeDexer indexes Hyperliquid resting orders and historical fills over REST, WebSocket and MCP.",
+    "pageTitle": "HypeDexer - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.hypedexer.com/",
+    "twitter": "https://x.com/hypedexer"
+  },
+  "relations": {
+    "alternatives": [
+      "covalent",
+      "goldsky",
+      "indexing-co"
+    ],
+    "related": [
+      "alchemy",
+      "chainstack-subgraphs",
+      "envio"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Quickstart",
+      "tldr": "Shows developers how to authenticate and make their first Hypedexer API request.",
+      "url": "https://docs.hypedexer.com/quickstart.md",
+      "source": "HypeDexer",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Social Trading",
+      "tldr": "Explains the trader statistics and account data available for social trading tools.",
+      "url": "https://docs.hypedexer.com/guides/social-trading.md",
+      "source": "HypeDexer",
+      "tag": "Tutorial"
+    }
+  ]
+}

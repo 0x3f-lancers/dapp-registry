@@ -1,0 +1,53 @@
+{
+  "slug": "suby",
+  "name": "Suby",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761078/dapp-store-logos/suby.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Suby accepts card, Apple Pay, Google Pay, Klarna and stablecoin payments with bank or wallet withdrawal.",
+    "description": "Suby is a payment processor accepting cards, Apple Pay, Google Pay, Klarna and stablecoins across more than 200 payment methods in 135 countries. Merchants settle to a bank account in USD, EUR, GBP or 60-plus currencies, or take instant payout in USDC or EURC on Solana, Base, Ethereum, Polygon, Arbitrum or Tron to a wallet they control. Wires clear the same day while ACH and SEPA take one to three days. The account includes a full API, paylinks, invoicing and content gating. Suby counts more than 800 business customers.",
+    "meta": "Suby accepts card, Apple Pay, Klarna and stablecoin payments with bank or wallet withdrawal.",
+    "pageTitle": "Suby - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://suby.fi/",
+    "twitter": "https://x.com/subyhq"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Stablecoin Payment Infrastructure Explained",
+      "tldr": "Breaks merchant stablecoin payments into payins, a shared balance and payouts, with implementation checks.",
+      "url": "https://www.suby.fi/post/stablecoin-payment-infrastructure",
+      "source": "Suby",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Accept Stablecoin Payments in Discord and Telegram",
+      "tldr": "Guides community operators through stablecoin subscriptions, chain choice and access management.",
+      "url": "https://www.suby.fi/post/accept-stablecoin-payments-discord-telegram",
+      "source": "Suby",
+      "tag": "Tutorial"
+    }
+  ]
+}

@@ -29,5 +29,25 @@
     "related": [
       "avalanche"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Integrating An Exchange",
+      "tldr": "What a venue has to handle to list the chain: address formats, confirmations and the UTXO model underneath.",
+      "url": "https://docs.alephium.org/integration/exchange",
+      "source": "Alephium"
+    },
+    {
+      "title": "Getting Started With The SDK",
+      "tldr": "Building a first integration, covering the client setup and the calls most projects need immediately.",
+      "url": "https://docs.alephium.org/sdk/getting-started",
+      "source": "Alephium"
+    },
+    {
+      "title": "The Public Infrastructure",
+      "tldr": "Which endpoints and services are open to anyone, and what you should run yourself instead.",
+      "url": "https://docs.alephium.org/infrastructure/public-services",
+      "source": "Alephium"
+    }
+  ]
 }

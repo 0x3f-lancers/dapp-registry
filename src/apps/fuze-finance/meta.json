@@ -1,0 +1,53 @@
+{
+  "slug": "fuze-finance",
+  "name": "Fuze",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760875/dapp-store-logos/fuze-finance.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Regulated stablecoin and digital asset infrastructure for banks and fintechs, strongest in MENA.",
+    "description": "Fuze provides the plumbing for businesses that want to offer crypto without building it themselves. Its products cover stablecoin orchestration across fiat rails, cross-border payments in 65 countries with round-the-clock settlement, a gateway for accepting 100 digital assets, and wealth and trading features. More than 400 institutions use it, processing around $10 billion a year.",
+    "meta": "Fuze gives 400+ banks and fintechs regulated rails for stablecoin payments, crypto acceptance and trading in 65 countries.",
+    "pageTitle": "Fuze - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fuze.finance",
+    "twitter": "https://x.com/fuzefinance"
+  },
+  "relations": {
+    "alternatives": [
+      "splits",
+      "web3-enabler",
+      "ripe"
+    ],
+    "related": [
+      "orda",
+      "meld",
+      "oobit"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Choosing an Embedded Trading Provider",
+      "tldr": "Outlines the product and operational questions a business should ask when selecting embedded crypto trading infrastructure.",
+      "url": "https://fuze.finance/blog/embedded-trading-provider",
+      "source": "Fuze Finance",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Comparing Embedded Trading Platforms",
+      "tldr": "Fuze compares the custody, compliance, execution, and integration work behind embedded crypto trading platforms.",
+      "url": "https://fuze.finance/blog/best-embedded-trading-platforms",
+      "source": "Fuze Finance",
+      "tag": "Explainer"
+    }
+  ]
+}

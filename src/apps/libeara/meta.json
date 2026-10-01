@@ -1,0 +1,52 @@
+{
+  "slug": "libeara",
+  "name": "Libeara",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760949/dapp-store-logos/libeara.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "RWA Tokenization Platforms"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Tokenization platform incubated by Standard Chartered for issuing bond and fund tokens.",
+    "description": "Libeara helps issuers structure and launch digital-native fund and bond tokens on public blockchains while keeping legal enforceability and governance intact. Incubated by Standard Chartered's SC Ventures and based in Singapore, it has tokenized more than $1 billion in assets across networks including Ethereum and Arbitrum, and received in-principle approval for a capital markets licence from MAS.",
+    "meta": "Libeara, from Standard Chartered's SC Ventures, tokenizes bonds and funds on public chains, with $1B+ issued.",
+    "pageTitle": "Libeara - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://libeara.com",
+    "twitter": "https://x.com/libeara_"
+  },
+  "relations": {
+    "alternatives": [
+      "yuzu-money",
+      "valos",
+      "stablr"
+    ],
+    "related": [
+      "tether",
+      "anzens"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Digital Government Sukuk Whitepaper",
+      "tldr": "Libeara's whitepaper describes how tokenized sukuk could be issued, distributed, held, and governed on its platform.",
+      "url": "https://libeara.com/wp-content/uploads/Saudi-Tokenized-Sukuk-Whitepaper-vF.pdf",
+      "source": "Libeara",
+      "tag": "Research"
+    },
+    {
+      "title": "Libeara's Institutional Tokenization Infrastructure",
+      "tldr": "Libeara explains how its infrastructure supports regulated asset issuance and institutional distribution.",
+      "url": "https://libeara.com/gsr-leads-libearas-funding-round-to-scale-tokenisation-of-institutional-grade-assets/",
+      "source": "Libeara",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "re7-labs",
+  "name": "Re7 Labs",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761039/dapp-store-logos/re7-labs.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Plasma",
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "DeFi risk curator running vaults and rating protocols with its own risk models.",
+    "description": "Re7 Labs acts as a curator and adviser for DeFi protocols, choosing which markets, collateral and limits its vaults use based on in-house risk tooling. Its Re7 DeFi Ratings framework scores smart contract and other risks to guide allocation. It also helps new chains grow their DeFi ecosystems and runs curated vaults on Plasma, Unichain and World Chain.",
+    "meta": "Re7 Labs curates DeFi vaults on Plasma, Unichain and World Chain using its own risk models and DeFi ratings.",
+    "pageTitle": "Re7 Labs - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.re7labs.xyz",
+    "twitter": "https://x.com/Re7Labs"
+  },
+  "relations": {
+    "alternatives": [
+      "giza",
+      "clovis",
+      "ample-money"
+    ],
+    "related": [
+      "horizondex",
+      "zignaly",
+      "black-panther"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Re7: The Art of Vault Curation",
+      "tldr": "Re7's own guest post on what a vault curator does and how it picks markets, collateral and limits for its vaults.",
+      "url": "https://www.the-edge.xyz/p/re7-the-art-of-vault-curation-and-the-future-of-onchain-asset-management",
+      "source": "The Edge",
+      "tag": "Research",
+      "publishedAt": "2025-06-10"
+    },
+    {
+      "title": "Re7 Capital: How Institutional DeFi Vault Curation Works",
+      "tldr": "Explains how Re7 applies institutional risk management to DeFi vaults on Morpho, Mellow and Gearbox.",
+      "url": "https://blog.portals.fi/re7-capital-how-institutional-defi-vault-curation-works/",
+      "source": "Portals Blog",
+      "tag": "Research",
+      "publishedAt": "2026-02-23"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "manteca",
+  "name": "Manteca",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760959/dapp-store-logos/manteca.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "API platform that lets Latin American fintechs add crypto, brokerage, QR payments and ramps.",
+    "description": "Manteca sells its infrastructure as APIs. Fintechs can offer crypto buying, selling and custody, a brokerage with access to Argentina's MEP dollar, CEDEARs, bonds and funds, and fiat-to-crypto ramps. Its payments API connects to QR systems across the region, including PIX in Brazil, Yape in Peru and Bre-b in Colombia, and it adds bill payments in several countries.",
+    "meta": "Manteca's APIs give LATAM fintechs crypto, brokerage, QR payments like PIX and Yape, ramps and bill pay.",
+    "pageTitle": "Manteca - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.manteca.dev/",
+    "twitter": "https://x.com/mantecafintech"
+  },
+  "relations": {
+    "alternatives": [
+      "franklin",
+      "koywe",
+      "beam-cash"
+    ],
+    "related": [
+      "onramper-switch",
+      "cryptocadet",
+      "mesha"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Manteca: el ingrediente principal de la cocina fintech argentina",
+      "tldr": "Spanish piece on how Manteca's free-to-integrate APIs made it a go-to partner for Argentine fintechs after capital controls lifted.",
+      "url": "https://mepad.org/manteca-el-ingrediente-principal-de-la-cocina-fintech-argentina/",
+      "source": "MEPAD",
+      "tag": "Finance"
+    },
+    {
+      "title": "Bybit se asocia a Manteca para ofrecer pagos cripto",
+      "tldr": "Spanish report on Bybit Pay partnering with Manteca so users can pay merchants in Argentina and Brazil with crypto via QR.",
+      "url": "https://www.iproup.com/economia-digital/58191-bybit-se-asocia-a-manteca-y-ofrece-pagos-cripto-en-argentina-y-brasil",
+      "source": "iProUP",
+      "tag": "Payments",
+      "publishedAt": "2025-07-18"
+    }
+  ]
+}

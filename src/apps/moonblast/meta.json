@@ -1,0 +1,55 @@
+{
+  "slug": "moonblast",
+  "name": "MoonBlast",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760976/dapp-store-logos/moonblast.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad",
+    "Base",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "MoonBlast is a multi-chain EVM memecoin launchpad for one-click token creation.",
+    "description": "MoonBlast is a no-code memecoin launchpad spanning Monad, Base and BNB Chain. A creator configures taxes at launch, choosing among a developer share, holder rewards and a burn, and deploys in one click. Launchpads that compete across several chains at once are betting that creators follow attention wherever it moves.",
+    "meta": "MoonBlast is a no-code memecoin launchpad on Monad, Base and BNB Chain where creators set launch taxes and deploy a token in one click.",
+    "pageTitle": "MoonBlast - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://moonblast.fun",
+    "twitter": "https://x.com/moonblastfun"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "kyberswap",
+      "lifi"
+    ],
+    "related": [
+      "pancakeswap",
+      "sushi",
+      "woofi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How MoonBlast Works",
+      "tldr": "Explains token launches, configurable taxes, bonding curves, and liquidity migration on MoonBlast.",
+      "url": "https://moonblast.fun/how-it-works",
+      "source": "MoonBlast",
+      "tag": "Explainer"
+    },
+    {
+      "title": "MoonBlast Launch Walkthrough",
+      "tldr": "Demonstrates the steps to launch a token and trade through the MoonBlast interface.",
+      "url": "https://www.youtube.com/watch?v=H8xXTrHuKAk",
+      "source": "MoonBlast",
+      "tag": "Tutorial"
+    }
+  ]
+}

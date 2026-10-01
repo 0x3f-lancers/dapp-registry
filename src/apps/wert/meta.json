@@ -32,5 +32,19 @@
       "ambisafe",
       "gasfeesorg"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Integrating A Fiat On-Ramp",
+      "tldr": "The steps to accept card payments for onchain purchases, and what the integrator is responsible for.",
+      "url": "https://docs.wert.io/docs/integration-steps",
+      "source": "Wert"
+    },
+    {
+      "title": "Where It Is Available",
+      "tldr": "The countries and payment methods supported, which is what actually decides whether a user can pay.",
+      "url": "https://docs.wert.io/docs/service-availability",
+      "source": "Wert"
+    }
+  ]
 }

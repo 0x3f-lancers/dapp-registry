@@ -1,0 +1,55 @@
+{
+  "slug": "ample-money",
+  "name": "Ample",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760736/dapp-store-logos/ample-money.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Ample is a no-loss prize savings protocol paying weekly prizes from pooled deposit yield.",
+    "description": "Deposits in Ample are pooled to generate yield, which is paid out as weekly prizes instead of being spread evenly across depositors. Participants accumulate tickets over time that set their odds in each draw, and principal stays withdrawable throughout. Payouts are funded entirely from the yield the vaults earn, so nobody's deposit funds another participant's win. Ample is live on Hyperliquid, Monad and Robinhood Chain.",
+    "meta": "Ample is a no-loss prize savings protocol on Hyperliquid, Monad and Robinhood Chain that pays weekly prizes from pooled yield.",
+    "pageTitle": "Ample - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ample.money/",
+    "twitter": "https://x.com/AmpleHQ"
+  },
+  "relations": {
+    "alternatives": [
+      "beefy",
+      "ipor",
+      "d2-finance"
+    ],
+    "related": [
+      "lagoon",
+      "neutral-trade",
+      "saffron-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is Ample?",
+      "tldr": "Ample's documentation explains its prize linked savings model, weekly yield funded payouts, deposit custody, and ticket weights.",
+      "url": "https://ample.money/docs",
+      "source": "Ample",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Ample Savings and Payout FAQ",
+      "tldr": "Answers questions about deposits, tickets, payout odds, withdrawals, rewards, and the risks of Ample's vaults.",
+      "url": "https://ample.money/faq",
+      "source": "Ample",
+      "tag": "Tutorial"
+    }
+  ]
+}

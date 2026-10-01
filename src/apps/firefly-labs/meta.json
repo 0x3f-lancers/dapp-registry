@@ -1,0 +1,55 @@
+{
+  "slug": "firefly-labs",
+  "name": "Firefly Labs",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760865/dapp-store-logos/firefly-labs.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Unichain",
+    "World Chain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Cross-chain bridge promising low fees, low slippage and small minimums for moving assets.",
+    "description": "Firefly Labs describes itself as a universal asset interoperability protocol: a bridge for moving tokens such as USDC between chains in one step. It focuses on cheap transfers with low slippage and low minimum amounts, and offers an API and SDK so other apps can embed its routes. It supports Unichain, World Chain and Stable among its networks.",
+    "meta": "Bridge assets like USDC between chains with Firefly Labs, built for low fees, low slippage and small minimums.",
+    "pageTitle": "Firefly Labs - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fireflylabs.app",
+    "twitter": "https://x.com/FireflyLabs_App"
+  },
+  "relations": {
+    "alternatives": [
+      "squid",
+      "retrobridge",
+      "valuerouter"
+    ],
+    "related": [
+      "transporter",
+      "sodax",
+      "near-intents"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Firefly Labs Core Architecture",
+      "tldr": "How Firefly Bridge moves assets across EVM and non-EVM chains without wrapped tokens or custodians, aiming for chain abstraction.",
+      "url": "https://docs.fireflylabs.app/about-firefly-labs/core-architecture",
+      "source": "Firefly Labs Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Firefly Bridge Fee Structure",
+      "tldr": "Breaks down Firefly Bridge's two-part fee, a percentage bridge fee plus a destination-chain charge, and how each is set.",
+      "url": "https://docs.fireflylabs.app/about-firefly-labs/fee-structure",
+      "source": "Firefly Labs Docs",
+      "tag": "Tutorial"
+    }
+  ]
+}

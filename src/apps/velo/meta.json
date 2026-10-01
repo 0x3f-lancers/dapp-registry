@@ -1,0 +1,53 @@
+{
+  "slug": "velo",
+  "name": "Velo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761126/dapp-store-logos/velo.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Velo provides derivatives market data across exchanges, including Hyperliquid futures.",
+    "description": "Velo is a market data terminal built around derivatives, charting more than 3,400 symbols from Binance, ByBit, Coinbase, Hyperliquid and other venues so funding, basis and open interest can be compared side by side. Its heatmaps cover order book depth plus Hyperliquid take-profit, stop-loss and liquidation levels, and alerts can fire on price, open interest, volume or liquidations. Trading is available directly for ByBit and Hyperliquid. The same data is reachable through SDKs or HTTP endpoints for teams that prefer their own tooling.",
+    "meta": "Velo is a derivatives market data terminal covering futures across venues including Hyperliquid.",
+    "pageTitle": "Velo - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://velo.xyz/",
+    "twitter": "https://x.com/VeloData"
+  },
+  "relations": {
+    "alternatives": [
+      "airdrophunt-fun",
+      "allium",
+      "artemis"
+    ],
+    "related": [
+      "asxn",
+      "blockliquidity",
+      "bubblemaps"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Connect Hyperliquid to Velo",
+      "tldr": "Guides users through linking Hyperliquid to Velo for trading and market analysis.",
+      "url": "https://docs.velo.xyz/features/hyperliquid/manual-connection",
+      "source": "Velo",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Velo Market Heatmaps",
+      "tldr": "Explains how to read Velo's orderbook and Hyperliquid liquidation heatmaps.",
+      "url": "https://docs.velo.xyz/features/chart/heatmap",
+      "source": "Velo",
+      "tag": "Explainer"
+    }
+  ]
+}

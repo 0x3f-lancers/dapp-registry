@@ -1,0 +1,53 @@
+{
+  "slug": "hanji",
+  "name": "Hanji Protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760889/dapp-store-logos/hanji.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Hanji is an onchain central limit order book exchange on Monad with zero maker fees.",
+    "description": "Hanji Protocol is an on-chain order book exchange charging zero maker fees, built around a logarithmic matching engine that keeps gas costs low per order. Liquidity providers can deposit into single-token vaults for passive yield instead of supplying a pair. Other venues can source its liquidity by integrating against the deployed contracts.",
+    "meta": "A fully onchain order book on Monad, practical because cancelling an order costs almost nothing.",
+    "pageTitle": "Hanji Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hanji.io/",
+    "twitter": "https://x.com/HanjiProtocol"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "clober",
+      "curve-finance",
+      "dzap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Hanji Vault",
+      "tldr": "Explains how the Hanji vault gives liquidity providers exposure to a basket of assets.",
+      "url": "https://docs.hanji.io/lp-vault/hanji-vault.md",
+      "source": "Hanji Protocol",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Overview",
+      "tldr": "Introduces Hanji’s LP vaults and their role in passive liquidity provision.",
+      "url": "https://docs.hanji.io/lp-vault/overview.md",
+      "source": "Hanji Protocol",
+      "tag": "Explainer"
+    }
+  ]
+}

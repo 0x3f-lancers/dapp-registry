@@ -1,0 +1,58 @@
+{
+  "slug": "gate-exchange",
+  "name": "Gate",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760880/dapp-store-logos/gate-exchange.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad",
+    "Ethereum",
+    "World Chain",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Gate is a long-running global exchange holding reserves across Hyperliquid, Monad and other chains.",
+    "description": "Gate is a long-running global exchange offering spot and derivatives trading across a wide asset list, including tokens on Hyperliquid, Monad and Ethereum. Beyond trading it runs Gate Pay for merchant payments, with an OpenAPI-documented interface for integrators. Institutional and programmatic users connect over its REST and WebSocket APIs.",
+    "meta": "One of the longest-running global exchanges, with sizeable onchain reserves on Hyperliquid and Monad.",
+    "pageTitle": "Gate - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.gate.com/",
+    "twitter": "https://x.com/gate_io"
+  },
+  "relations": {
+    "alternatives": [
+      "bybit",
+      "bitvavo",
+      "binance"
+    ],
+    "related": [
+      "binance-us",
+      "bitget",
+      "bithumb"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Futures Trading Guide for Beginners",
+      "tldr": "Walks new traders through Gate's futures interface and the basic order and margin concepts.",
+      "url": "https://www.gate.com/futures/trading-guide-for-beginners",
+      "source": "Gate",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Gate's Proof of Reserves Works",
+      "tldr": "Explains the exchange's reserve disclosures and how users can check claims about asset backing.",
+      "url": "https://www.gate.com/proof-of-reserves",
+      "source": "Gate",
+      "tag": "Security"
+    }
+  ]
+}

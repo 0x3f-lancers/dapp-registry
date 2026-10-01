@@ -1,0 +1,54 @@
+{
+  "slug": "strata",
+  "name": "Strata",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761075/dapp-store-logos/strata.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Splits yield into a protected senior tranche and a leveraged junior tranche, starting with USDe.",
+    "description": "Strata divides the return from a yield source into two tokens. The senior tranche, srUSDe, is an overcollateralized synthetic dollar with a minimum yield and protection against strategy losses. The junior tranche, jrUSDe, takes first loss in exchange for leveraged upside, acting as a market-priced insurance fund. The first products are built on Ethena's USDe, with more strategies planned.",
+    "meta": "Strata tranches USDe yield into protected senior srUSDe and higher-return junior jrUSDe that absorbs first loss.",
+    "pageTitle": "Strata - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://strata.markets",
+    "twitter": "https://x.com/strata_markets"
+  },
+  "relations": {
+    "alternatives": [
+      "upshift",
+      "goat-protocol",
+      "hyward"
+    ],
+    "related": [
+      "hyperwave",
+      "strkfarm",
+      "ezmanager"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Structured Yield for Neutrl NUSD",
+      "tldr": "Explains how Strata's risk tranches bring different return and risk profiles to Neutrl's NUSD yield.",
+      "url": "https://blog.strata.markets/introducing-structured-yields-to-neutrl-nusd",
+      "source": "Strata",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How Strata Splits Yield and Risk",
+      "tldr": "Explains Strata's senior and junior tranches and how its dynamic yield split distributes returns between them.",
+      "url": "https://docs.strata.markets/protocol-mechanism",
+      "source": "Strata",
+      "tag": "DeFi"
+    }
+  ]
+}

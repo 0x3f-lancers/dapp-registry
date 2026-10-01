@@ -1,0 +1,54 @@
+{
+  "slug": "vii-finance",
+  "name": "VII Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761127/dapp-store-logos/vii-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Borrow against Uniswap v4 LP positions while they keep earning fees and UNI rewards.",
+    "description": "VII Finance, built on Euler v2, treats Uniswap v4 liquidity positions as collateral. Active LPs can borrow against a position to add more liquidity or pair tokens while it keeps earning swap fees, lending yield and UNI incentives. Passive lenders earn interest linked to LP returns without impermanent loss, and UNI rewards on collateralized positions still arrive through Merkl.",
+    "meta": "Use your Uniswap v4 LP position as collateral on VII Finance and keep earning swap fees and UNI rewards.",
+    "pageTitle": "VII Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.vii.finance/",
+    "twitter": "https://x.com/vii_finance"
+  },
+  "relations": {
+    "alternatives": [
+      "joule-finance",
+      "termfinance",
+      "maple-finance"
+    ],
+    "related": [
+      "hubble",
+      "horizondex",
+      "meso-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introducing VII Finance",
+      "tldr": "How VII lets LPs borrow against Uniswap v4 positions while still earning lending interest on top of swap fees.",
+      "url": "https://docs.vii.finance/blog/introducing-vii-finance",
+      "source": "VII Finance",
+      "tag": "DeFi",
+      "publishedAt": "2025-09-17"
+    },
+    {
+      "title": "VII Yield Harvesting Hook",
+      "tldr": "Source and README for the v4 hook that lets LPs earn lending interest on top of swap fees from the same deposit.",
+      "url": "https://github.com/VII-Finance/yield-harvesting-hook",
+      "source": "GitHub",
+      "tag": "Infrastructure"
+    }
+  ]
+}

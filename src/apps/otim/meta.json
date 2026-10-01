@@ -1,0 +1,53 @@
+{
+  "slug": "otim",
+  "name": "Otim",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761011/dapp-store-logos/otim.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "API for finance platforms to hold funds, route yield and settle payments across rails.",
+    "description": "Otim gives fintechs one API to manage balances, earn programmable yield and move money. Platforms set policies once, such as limits and how yield is split with customers, and Otim runs them continuously. Payment settlement handles routing, netting, cutoffs and reconciliation, and a fiat layer connects bank accounts and transfers. It uses EIP-7702 delegation for on-chain actions.",
+    "meta": "Otim's API lets fintechs hold balances, route yield and settle payments with policy controls and EIP-7702 automation.",
+    "pageTitle": "Otim - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://otim.com",
+    "twitter": "https://x.com/otimlabs"
+  },
+  "relations": {
+    "alternatives": [
+      "meld",
+      "superfluid",
+      "tres-finance"
+    ],
+    "related": [
+      "swapin",
+      "bridge-xyz",
+      "trustware"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Otim Orchestrators: Webhooks for Money",
+      "tldr": "Introduces Otim's programmable stablecoin routing and how webhooks can trigger payment workflows.",
+      "url": "https://otim.com/blog/introducing-otim-orchestrators/",
+      "source": "Otim",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Why Stablecoin Payments Need Orchestration",
+      "tldr": "Explains the recurring routing and coordination work behind stablecoin payment flows and Otim's approach to it.",
+      "url": "https://otim.com/blog/orchestration-is-the-shovel-in-this-stablecoin-gold-rush",
+      "source": "Otim",
+      "tag": "Explainer"
+    }
+  ]
+}

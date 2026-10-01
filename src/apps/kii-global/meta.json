@@ -1,0 +1,54 @@
+{
+  "slug": "kii-global",
+  "name": "Kii",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760930/dapp-store-logos/kii-global.jpg",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "KiiChain, an on-chain FX layer for stablecoins and RWAs aimed at emerging markets.",
+    "description": "Kii builds financial infrastructure for Latin America and other emerging markets. Its products are KII, a hybrid exchange for cross-border payments and currency trading, and KiiChain, a network designed for swapping between stablecoins in different currencies and real-world assets. The goal is to make it cheaper for businesses and people in these markets to move money internationally.",
+    "meta": "Kii builds KiiChain and a hybrid exchange for FX and cross-border payments in stablecoins across emerging markets.",
+    "pageTitle": "Kii - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.kiiglobal.io",
+    "twitter": "https://x.com/KiiChainio"
+  },
+  "relations": {
+    "alternatives": [
+      "near",
+      "decimal",
+      "rei-network"
+    ],
+    "related": [
+      "wowearn",
+      "spinor",
+      "klever"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What is KiiChain?",
+      "tldr": "Docs on KiiChain as an onchain FX layer linking USDT and USDC liquidity to local-currency stablecoins.",
+      "url": "https://docs.kiiglobal.io/docs",
+      "source": "Kii Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "KiiChain Adds Two Major Banks to Its 24/7 LatAm FX Network",
+      "tldr": "KiiChain adds two Colombian financial institutions, including state-owned Banco Agrario, to its 24/7 stablecoin FX network.",
+      "url": "https://crypto.news/kiichain-adds-2-banks-to-its-24-7-latam-fx-network/",
+      "source": "crypto.news",
+      "tag": "Payments",
+      "publishedAt": "2026-09-09"
+    }
+  ]
+}

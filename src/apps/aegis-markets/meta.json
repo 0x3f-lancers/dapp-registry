@@ -1,0 +1,53 @@
+{
+  "slug": "aegis-markets",
+  "name": "Aegis Markets",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760719/dapp-store-logos/aegis-markets.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Uniswap v4 hook whose pool fees rise automatically when volatility spikes, plus pools that double as lending markets.",
+    "description": "Aegis came out of the Uniswap Foundation's Hook Design Lab. Its Dynamic Fee Manager lets liquidity providers earn a swap fee that climbs when markets turn volatile, which is when LPs lose most to informed traders. A second product, the Liquidity Engine, turns a pool into a lending market, so LPs collect lending interest on top of swap fees and others can borrow against the pool. Its pools hold around $6 million in liquidity.",
+    "meta": "Aegis builds Uniswap v4 hooks with volatility-based dynamic fees and pools that also act as lending markets.",
+    "pageTitle": "Aegis Markets - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aegis.markets/",
+    "twitter": "https://x.com/AegisMarkets"
+  },
+  "relations": {
+    "alternatives": [
+      "capricorn-exchange",
+      "tokenlon",
+      "rbx"
+    ],
+    "related": [
+      "rhinofi",
+      "raydium",
+      "dirol"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Participating in the AEGIS CCA on Unichain",
+      "tldr": "Walks through the AEGIS community auction on Unichain, including the timing and steps participants need to review.",
+      "url": "https://aegis.markets/blog/how-to-participate-in-the-aegis-cca-on-unichain",
+      "source": "AEGIS Markets",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Getting Started with AEGIS Accounts",
+      "tldr": "Explains how an AEGIS Account works as an onchain sponsorship identity on Unichain and how account tiers affect participation.",
+      "url": "https://aegis.markets/blog/aegis-accounts-everything-you-need-to-know-to-get-started",
+      "source": "AEGIS Markets",
+      "tag": "Tutorial"
+    }
+  ]
+}

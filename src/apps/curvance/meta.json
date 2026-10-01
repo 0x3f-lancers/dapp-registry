@@ -1,0 +1,54 @@
+{
+  "slug": "curvance",
+  "name": "Curvance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760822/dapp-store-logos/curvance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Curvance lets users deposit collateral, borrow against it and keep earning yield on the deposit.",
+    "description": "Curvance is a lending market where deposited collateral keeps earning its underlying yield while being borrowed against. Each market is isolated from the others, so a problem in one cannot propagate, and independent auditors review the code enforcing that separation. The interface consolidates supplied balances, borrowings and earning positions into one view showing net APY and daily earnings against daily borrow cost. The protocol has recorded no exploits since launch.",
+    "meta": "Curvance is a Monad lending market where deposited collateral keeps earning yield while borrowed against.",
+    "pageTitle": "Curvance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://curvance.com/",
+    "github": "https://github.com/curvance",
+    "twitter": "https://x.com/curvance"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "euler",
+      "gearbox"
+    ],
+    "related": [
+      "morpho",
+      "0x",
+      "1inch"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Curvance Manages Oracle Risk",
+      "tldr": "Explains the price validation, heartbeat checks and market safeguards Curvance uses to limit stale or manipulated oracle data.",
+      "url": "https://blog.curvance.com/posts/oracles-curvance/",
+      "source": "Curvance",
+      "tag": "Security"
+    },
+    {
+      "title": "DeFi Lending Risk Framework",
+      "tldr": "Walks through smart contracts, oracles, liquidations and collateral as separate risks to assess in a lending protocol.",
+      "url": "https://blog.curvance.com/posts/defi-lending-risk-framework/",
+      "source": "Curvance",
+      "tag": "Security"
+    }
+  ]
+}

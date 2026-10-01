@@ -29,5 +29,19 @@
       "flooredape",
       "quicknode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Preserving Data Meant To Vanish",
+      "tldr": "Why blobs disappear after about eighteen days, and what an archive has to capture to keep them usable afterwards.",
+      "url": "https://www.blocknative.com/blog/announcing-the-blocknative-blob-archive-api-preserving-the-ephemeral-data-layer",
+      "source": "Blocknative"
+    },
+    {
+      "title": "The Blob Transaction Spec",
+      "tldr": "EIP-4844 itself: what a type-3 transaction carries, how it is verified, and why rollups got so much cheaper.",
+      "url": "https://eips.ethereum.org/EIPS/eip-4844",
+      "source": "Ethereum Improvement Proposals"
+    }
+  ]
 }

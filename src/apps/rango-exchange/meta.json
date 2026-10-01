@@ -1,0 +1,56 @@
+{
+  "slug": "rango-exchange",
+  "name": "Rango",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761038/dapp-store-logos/rango-exchange.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Monad",
+    "Ethereum",
+    "Solana",
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Rango is a cross-chain DEX and bridge aggregator routing swaps across many networks.",
+    "description": "Rango is a cross-chain DEX and bridge aggregator covering Bitcoin, Ethereum, Solana, Monad and more than fifty other networks. Integrators embed it as a customisable widget or call the API and SDK, and MetaMask is among the wallets routing through it. Gasless swaps are available on Solana and EVM chains, so a user can act without holding the native token. Its action layer executes swaps, payments, lending, staking, limit orders, DCA and NFT purchases from a single intent, which wallets, dapps and AI agents use for cross-chain deposits.",
+    "meta": "Rango is a cross-chain DEX and bridge aggregator routing swaps across many networks including Monad.",
+    "pageTitle": "Rango - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rango.exchange/",
+    "twitter": "https://x.com/RangoExchange"
+  },
+  "relations": {
+    "alternatives": [
+      "across",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "jumper-exchange",
+      "mayan",
+      "router-nitro"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Choosing a Crypto Wallet",
+      "tldr": "Explains wallet features and security considerations to weigh before choosing a crypto wallet.",
+      "url": "https://rango.exchange/learn/crypto-basics/choosing-crypto-wallet",
+      "source": "Rango",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Losing Access to a Crypto Wallet",
+      "tldr": "Explores wallet recovery options and the role of backups when a user loses access to crypto assets.",
+      "url": "https://rango.exchange/learn/decentralized-finance/lose-access-crypto-wallet",
+      "source": "Rango",
+      "tag": "Security"
+    }
+  ]
+}

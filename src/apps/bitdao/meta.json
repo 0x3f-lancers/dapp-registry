@@ -31,5 +31,25 @@
       "gaterepo",
       "founders-fund"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Governance Was Designed",
+      "tldr": "The proposal and voting process from the litepaper, including what the treasury can and cannot be directed to do.",
+      "url": "https://docs.bitdao.io/litepaper-1/governance-overview",
+      "source": "BitDAO"
+    },
+    {
+      "title": "The Token Economics",
+      "tldr": "Where supply came from and what claims it carries against one of the largest onchain treasuries.",
+      "url": "https://docs.bitdao.io/litepaper-1/tokenomics",
+      "source": "BitDAO"
+    },
+    {
+      "title": "Funding A Treasury By Pledge",
+      "tldr": "The arrangement that routed exchange revenue into the DAO, and what that meant for its independence.",
+      "url": "https://docs.bitdao.io/partners/bybit-pledge",
+      "source": "BitDAO"
+    }
+  ]
 }

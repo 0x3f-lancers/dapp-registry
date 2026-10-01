@@ -1,0 +1,54 @@
+{
+  "slug": "surflayer",
+  "name": "SurfLayer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761082/dapp-store-logos/surflayer.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Quest-to-Earn Tools"
+  ],
+  "chains": [
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Daily on-chain rituals like GM, deploy and vote across 70+ mainnets, with points and loot boxes.",
+    "description": "SurfLayer rewards consistent on-chain activity. Users send a daily GM, deploy contracts, vote and bridge on more than 70 mainnets and 19 testnets, from Base and Unichain to Plasma and Monad, earning SurfPoints that feed a SurfScore identity. Missions, a reward hub and loot boxes add prizes, and busier new chains pay more points per action.",
+    "meta": "Send daily GMs, deploy and bridge on 70+ chains with SurfLayer to build your SurfScore and win rewards.",
+    "pageTitle": "SurfLayer - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://surflayer.xyz",
+    "twitter": "https://x.com/SurfLayer"
+  },
+  "relations": {
+    "alternatives": [
+      "rattle-cc",
+      "zealy",
+      "fishcake"
+    ],
+    "related": [
+      "taskon",
+      "dmission",
+      "dappback"
+    ]
+  },
+  "resources": [
+    {
+      "title": "SurfLayer Overview",
+      "tldr": "Docs on SurfLayer's mission and tools for turning daily onchain actions, like GMs, deploys and bridges, into rewards.",
+      "url": "https://docs.surflayer.xyz/",
+      "source": "SurfLayer Docs",
+      "tag": "Product"
+    },
+    {
+      "title": "Surf Score",
+      "tldr": "How SurfLayer turns onchain activity into a Surf Score badge that builds a verifiable reputation across networks.",
+      "url": "https://docs.surflayer.xyz/features/surf-score",
+      "source": "SurfLayer Docs",
+      "tag": "Identity"
+    }
+  ]
+}

@@ -32,5 +32,25 @@
       "martian-labs",
       "superform"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquid Staking 101",
+      "tldr": "What a staking receipt token is, how its value tracks rewards, and why it can trade away from the asset behind it.",
+      "url": "https://volosui.gitbook.io/volo/liquid-staking/liquid-staking-101",
+      "source": "Volo"
+    },
+    {
+      "title": "The Questions People Ask",
+      "tldr": "Unstaking delays, fees and what happens to rewards if you sell the receipt token, answered directly.",
+      "url": "https://volosui.gitbook.io/volo/liquid-staking/frequently-asked-questions",
+      "source": "Volo"
+    },
+    {
+      "title": "Staking SUI In Practice",
+      "tldr": "A walkthrough of staking and what to do with the receipt token afterwards across the ecosystem's DeFi protocols.",
+      "url": "https://www.okx.com/en-eu/learn/volo-staked-sui-liquid-staking",
+      "source": "OKX Learn"
+    }
+  ]
 }

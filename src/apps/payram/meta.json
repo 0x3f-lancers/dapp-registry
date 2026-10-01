@@ -1,0 +1,53 @@
+{
+  "slug": "payram",
+  "name": "PayRam",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761017/dapp-store-logos/payram.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Self-hosted crypto payment gateway you run on your own server, with no signup or freezes.",
+    "description": "PayRam is a payment processor a merchant deploys on their own server with one command, in about ten minutes, so no third party can approve, freeze or censor their payments. It accepts stablecoins and crypto on many chains and adds a card-to-crypto on-ramp covering 300+ payment methods in 100+ countries. AI agents can use it too, and it has settled more than $100 million for over 100 merchants.",
+    "meta": "Run PayRam on your own server to accept stablecoin and card payments with no signup, approvals or account freezes.",
+    "pageTitle": "PayRam - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://payram.com",
+    "twitter": "https://x.com/PayRamApp"
+  },
+  "relations": {
+    "alternatives": [
+      "sphereone",
+      "ponto",
+      "sprintcheckout"
+    ],
+    "related": [
+      "manteca",
+      "ur-app",
+      "univoucher"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Leaving Worldpay: Contracts and Alternatives",
+      "tldr": "Explains notice periods, contract terms and early termination costs to check when moving away from Worldpay.",
+      "url": "https://payram.com/blog/how-to-leave-worldpay-2026-alternatives",
+      "source": "PayRam",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How to Set Up Self-Hosted Crypto Payments with PayRam",
+      "tldr": "Walks through PayRam's self-hosted gateway and direct wallet settlement for accepting crypto payments.",
+      "url": "https://payram.com/blog/how-to-accept-crypto-payments-without-third-party-services-using-payram",
+      "source": "PayRam",
+      "tag": "Tutorial"
+    }
+  ]
+}

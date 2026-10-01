@@ -1,0 +1,53 @@
+{
+  "slug": "hyperpc",
+  "name": "HypeRPC",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760908/dapp-store-logos/hyperpc.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "HypeRPC provides low-latency RPC and archival node infrastructure dedicated to Hyperliquid.",
+    "description": "HypeRPC provides dedicated RPC endpoints and real-time data APIs built only for Hyperliquid, with validator-peered infrastructure in Japan and Europe. Dedicated nodes give isolated resources, deterministic latency and higher rate limits than the public API, which matters for trading bots and liquidation systems. It claims 99.99 percent uptime, and the business has been acquired by HyperDash.",
+    "meta": "HypeRPC is a dedicated Hyperliquid RPC provider offering low-latency and archival endpoints.",
+    "pageTitle": "HypeRPC - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperpc.app/",
+    "twitter": "https://x.com/hyperpc_"
+  },
+  "relations": {
+    "alternatives": [
+      "altitude-rpc",
+      "blockpi-network",
+      "chainstack"
+    ],
+    "related": [
+      "alchemy",
+      "drpc",
+      "dwellir"
+    ]
+  },
+  "resources": [
+    {
+      "title": "S&P 500 Perpetuals on Hyperliquid",
+      "tldr": "Explains the licensing arrangement behind an S&P 500 perpetual market and what it means for stock exposure on Hyperliquid.",
+      "url": "https://hyperpc.app/blog/sp500-hyperliquid",
+      "source": "HypeRPC",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Hyperliquid Data API Versus Streams",
+      "tldr": "Compares request-based data access with streaming feeds for developers building on Hyperliquid.",
+      "url": "https://hyperpc.app/blog/hyperliquid-data-api-vs-streams-guide",
+      "source": "HypeRPC",
+      "tag": "Infrastructure"
+    }
+  ]
+}

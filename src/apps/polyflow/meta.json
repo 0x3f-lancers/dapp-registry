@@ -1,0 +1,53 @@
+{
+  "slug": "polyflow",
+  "name": "PolyFlow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761029/dapp-store-logos/polyflow.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "PayFi protocol linking real-world payments and assets to DeFi, with a card, eSIM and lending.",
+    "description": "PolyFlow builds payment finance, or PayFi, products that settle on-chain. Users can borrow against stablecoins, deposit into yield vaults and invest with no minimums, and its consumer products include a card that turns purchases into crypto rewards, a subscription eSIM and an AI video studio. It also offers Payment IDs to simplify global transfers, all tied to its PF token.",
+    "meta": "PolyFlow links payments and real-world assets to DeFi with stablecoin loans, yield vaults, a rewards card and eSIMs.",
+    "pageTitle": "PolyFlow - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://polyflow.tech",
+    "twitter": "https://x.com/Polyflow_PayFi"
+  },
+  "relations": {
+    "alternatives": [
+      "depay",
+      "chainrails",
+      "hashleap"
+    ],
+    "related": [
+      "mural-pay",
+      "swappin-gifts",
+      "bulla-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "PolyFlow Overview",
+      "tldr": "PolyFlow's docs on why payments need new infrastructure, and how its PayFi design links payments with DeFi yield.",
+      "url": "https://docs.polyflow.tech/",
+      "source": "PolyFlow Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "PolyFlow App Is Live: Your Global Money, in One Place",
+      "tldr": "Launch post for the PolyFlow App, one account for fiat, stablecoins, transfers and a card.",
+      "url": "https://polyflow.medium.com/polyflow-app-is-live-your-global-money-in-one-place-78f7c60d9e68",
+      "source": "PolyFlow",
+      "tag": "Product"
+    }
+  ]
+}

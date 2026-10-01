@@ -1,0 +1,54 @@
+{
+  "slug": "megapot",
+  "name": "Megapot",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760961/dapp-store-logos/megapot.jpg",
+  "category": "Decentralized Games",
+  "subcategory": [
+    "Web3 Games"
+  ],
+  "chains": [
+    "Base",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "On-chain lottery with $1 tickets, a $1 million prize pool and a prize on every fifth ticket.",
+    "description": "Megapot runs daily draws with $1 tickets and a jackpot pool of up to $1 million, and guarantees that at least one in every five tickets wins something. Draws use verifiable randomness on-chain, it has paid out more than 80,000 prizes, and 19 jackpots have been hit. Players who refer friends earn a cut if those friends win. It raised $5 million from Dragonfly, Coinbase Ventures and the founders of FanDuel and Flutter.",
+    "meta": "Play Megapot's on-chain lottery with $1 tickets and a $1M pool, where every fifth ticket wins and draws are verifiable.",
+    "pageTitle": "Megapot - Decentralized Games - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://megapot.io",
+    "twitter": "https://x.com/megapot"
+  },
+  "relations": {
+    "alternatives": [
+      "tsunamix",
+      "catizen",
+      "call-of-odins-chosen"
+    ],
+    "related": [
+      "mini-royale",
+      "blum",
+      "obsworldio"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Loofta Used Megapot to Reduce Churn",
+      "tldr": "A case study of adding Megapot prizes to a social payments app and the effect on user retention.",
+      "url": "https://megapot.io/blog/loofta",
+      "source": "Megapot",
+      "tag": "Research"
+    },
+    {
+      "title": "How Blink Integrated Megapot",
+      "tldr": "A case study of Blink adding Megapot prizes to its app and using the integration to bring in new users.",
+      "url": "https://megapot.io/case-studies/blink",
+      "source": "Megapot",
+      "tag": "Research"
+    }
+  ]
+}

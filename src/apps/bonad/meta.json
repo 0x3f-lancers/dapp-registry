@@ -1,0 +1,53 @@
+{
+  "slug": "bonad",
+  "name": "BONAD",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760775/dapp-store-logos/bonad.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "BONAD is a token launchpad on Monad where creators launch tokens and earn trading fees.",
+    "description": "BONAD is a launchpad on Monad where creators earn from the trading activity their token generates. Fees from each trade are shared back to the creator continuously, so the incentive follows sustained volume and not the launch alone. Tokens deploy and begin trading from the same interface.",
+    "meta": "BONAD is a token launchpad on Monad where creators deploy a token and keep earning a share of the trading fees it generates over time.",
+    "pageTitle": "BONAD - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bonad.fun",
+    "twitter": "https://x.com/bonadio"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "brownfi",
+      "capricorn-exchange",
+      "clober"
+    ]
+  },
+  "resources": [
+    {
+      "title": "BONADfun in BONK's 2026 Ecosystem Report",
+      "tldr": "Blockworks explains BONADfun's Monad launch, its collaboration with Doppler, and the dynamic pricing curves behind its launchpad.",
+      "url": "https://blockworks.com/api/investor-report/bonk-token-holder-report-q1-2026/pdf",
+      "source": "Blockworks Research",
+      "tag": "Research"
+    },
+    {
+      "title": "How Uniswap v4 Hooks Work",
+      "tldr": "Uniswap's developer guide explains the customizable pool hooks used in BONAD's Monad token launch infrastructure.",
+      "url": "https://developers.uniswap.org/docs/protocols/v4/concepts/hooks",
+      "source": "Uniswap Documentation",
+      "tag": "Explainer"
+    }
+  ]
+}

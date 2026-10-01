@@ -1,0 +1,57 @@
+{
+  "slug": "cybro",
+  "name": "CYBRO",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760822/dapp-store-logos/cybro.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Arbitrum",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "LP management hub for Uniswap v3 and PancakeSwap v3, with analytics, automation and vaults.",
+    "description": "CYBRO helps liquidity providers run concentrated liquidity positions. Its dashboard tracks the performance of each position, auto-actions can close or rebalance them (currently on Arbitrum), and ready-made vaults suit people who would rather deposit and leave it. It is non-custodial and audited, works across six chains including Unichain, and has its own CYBRO token for staking and governance.",
+    "meta": "Track, rebalance and automate Uniswap v3 and PancakeSwap LP positions, or deposit into ready-made vaults, with CYBRO.",
+    "pageTitle": "CYBRO - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cybro.io",
+    "twitter": "https://x.com/Cybro_io"
+  },
+  "relations": {
+    "alternatives": [
+      "sharpe",
+      "steer-protocol",
+      "ammplify"
+    ],
+    "related": [
+      "ember-protocol",
+      "eisenlabs",
+      "nabla-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What is Cybro?",
+      "tldr": "Docs for Cybro's LP management hub: tracking positions, moving ranges, compounding fees and automating exits across protocols.",
+      "url": "https://cybro.gitbook.io/cybro",
+      "source": "Cybro Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Smarter LP Management: Auto-Close and Auto-Rebalance on Arbitrum",
+      "tldr": "Announces auto-close at a target price and automatic range recentring for concentrated liquidity positions on Arbitrum.",
+      "url": "https://cybro.medium.com/smarter-lp-management-auto-close-and-auto-rebalance-are-live-on-arbitrum-1607a8343810",
+      "source": "Cybro",
+      "tag": "Product",
+      "publishedAt": "2026-06-02"
+    }
+  ]
+}

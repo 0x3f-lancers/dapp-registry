@@ -1,0 +1,53 @@
+{
+  "slug": "stablewatch",
+  "name": "Stablewatch",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761070/dapp-store-logos/stablewatch.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Yield analytics and risk advisory for stablecoins and yield-bearing stablecoins.",
+    "description": "Stablewatch tracks more than 100 yield-bearing tokens in real time, comparing their returns and breaking down the risks behind each one. It also advises allocators on risk and is a core contributor to the risk and data engine behind Sky's USDS and sUSDS, which Sky founder Rune Christensen has credited publicly. A daily newsletter covers the stablecoin market.",
+    "meta": "Compare 100+ yield-bearing stablecoins and their risks on Stablewatch, a risk contributor to Sky's USDS.",
+    "pageTitle": "Stablewatch - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stablewatch.io",
+    "twitter": "https://x.com/stablewatchHQ"
+  },
+  "relations": {
+    "alternatives": [
+      "xangle",
+      "laevitas",
+      "wallet-master-tools"
+    ],
+    "related": [
+      "cookie3",
+      "openbb",
+      "walletx"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Yield Paid Out Explained",
+      "tldr": "Defines Yield Paid Out as the return actually distributed to token holders and explains how it differs from advertised yield.",
+      "url": "https://www.stablewatch.io/research/what-is-ypo-yield-paid-out-explained",
+      "source": "Stablewatch",
+      "tag": "Research"
+    },
+    {
+      "title": "Payment Stablecoins Versus Yield Stablecoins",
+      "tldr": "Stablewatch compares stablecoins designed for payments with those that distribute yield and the different risks to assess.",
+      "url": "https://www.stablewatch.io/research/the-two-types-of-stablecoins-that-matter-payments-vs-yield",
+      "source": "Stablewatch",
+      "tag": "Research"
+    }
+  ]
+}

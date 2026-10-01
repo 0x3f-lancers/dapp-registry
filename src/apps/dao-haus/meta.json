@@ -32,5 +32,19 @@
     "related": [
       "questflow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Writing A Shaman",
+      "tldr": "How to extend a DAO with a contract that holds special powers, and the safety questions that raises.",
+      "url": "https://docs.daohaus.club/contracts/shamans/write-a-shaman",
+      "source": "DAOhaus"
+    },
+    {
+      "title": "Querying The DAO Database",
+      "tldr": "How DAO state is indexed and what you can ask of it, useful for anyone building dashboards or tooling.",
+      "url": "https://docs.daohaus.club/subgraphs/dao-database",
+      "source": "DAOhaus"
+    }
+  ]
 }

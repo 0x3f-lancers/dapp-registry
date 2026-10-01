@@ -1,0 +1,54 @@
+{
+  "slug": "ghost-xyz",
+  "name": "Ghost",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760881/dapp-store-logos/ghost-xyz.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Ghost builds GhostGraph, an indexing framework for writing custom on-chain data transforms.",
+    "description": "Ghost builds two developer products for on-chain data. GhostGraph lets a team define custom indexers for specific contracts in place of a generic schema, integrating directly with existing Solidity projects. GhostLogs exposes contract-level logging across multiple smart contract languages and feeds into common analytics tools. Both support a broad set of networks, Monad among them.",
+    "meta": "Ghost builds GhostGraph, an indexing framework for custom on-chain data transforms, including Monad.",
+    "pageTitle": "Ghost - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tryghost.xyz/",
+    "twitter": "https://x.com/0xGhostLogs"
+  },
+  "relations": {
+    "alternatives": [
+      "covalent",
+      "goldsky",
+      "streamingfast"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "envio"
+    ]
+  },
+  "resources": [
+    {
+      "title": "GhostGraph Overview",
+      "tldr": "Explains how developers can build smart contract data indexers using Solidity with GhostGraph.",
+      "url": "https://docs.tryghost.xyz/ghostgraph/overview/",
+      "source": "Ghost",
+      "tag": "Explainer"
+    },
+    {
+      "title": "GhostLogs Overview",
+      "tldr": "Introduces Ghost's tools for adding events and views to existing contracts for analytics.",
+      "url": "https://docs.tryghost.xyz/ghostlogs/",
+      "source": "Ghost",
+      "tag": "Explainer"
+    }
+  ]
+}

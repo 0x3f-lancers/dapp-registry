@@ -1,0 +1,55 @@
+{
+  "slug": "capyfi",
+  "name": "CapyFi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760793/dapp-store-logos/capyfi.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Latin American lending protocol for earning on local stablecoins and borrowing without intermediaries.",
+    "description": "CapyFi is a money market built for Latin America and incubated by Ripio Ventures. Based on Compound v2, it lets people supply assets, including local-currency stablecoins, to earn interest, or borrow against collateral at rates set by pool usage. It runs on Ethereum, World Chain and LaChain, and Ripio's app gives its users direct access.",
+    "meta": "CapyFi is a Compound-style lending market for Latin America, where users earn on local stablecoins and borrow on-chain.",
+    "pageTitle": "CapyFi - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://capyfi.com/",
+    "twitter": "https://x.com/CapyFi_Protocol"
+  },
+  "relations": {
+    "alternatives": [
+      "compound",
+      "arkis",
+      "covenant-finance"
+    ],
+    "related": [
+      "cream-finance",
+      "notional",
+      "mutuum-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What is CapyFi",
+      "tldr": "CapyFi's introduction to its lending and borrowing protocol, built for Latin American users and first launched on LaChain.",
+      "url": "https://paragraph.com/@capyfi-protocol/what-is-capyfi",
+      "source": "CapyFi",
+      "tag": "DeFi",
+      "publishedAt": "2025-02-26"
+    },
+    {
+      "title": "CapyFi Audit",
+      "tldr": "OpenZeppelin's audit of CapyFi's contracts: 11 issues found, none critical or high, with nine resolved by the final review.",
+      "url": "https://www.openzeppelin.com/news/capyfi-audit",
+      "source": "OpenZeppelin",
+      "tag": "Security",
+      "publishedAt": "2025-07-24"
+    }
+  ]
+}

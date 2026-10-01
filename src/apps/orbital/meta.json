@@ -1,0 +1,53 @@
+{
+  "slug": "orbital",
+  "name": "Orbital",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761006/dapp-store-logos/orbital.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Licensed payment platform for pay-ins, payouts and FX across stablecoins, fiat and 80+ currencies.",
+    "description": "Orbital lets businesses receive, exchange and settle major stablecoins, standard currencies and more than 80 exotic currencies through one platform, available on the web, by API or through an OTC desk. It offers named virtual IBANs and stablecoin wallets, operates under licences in the UK, Gibraltar, Estonia and Switzerland, and processes about $12 billion a year.",
+    "meta": "Collect, convert and pay out in stablecoins, fiat and 80+ exotic currencies with Orbital, licensed in 4 jurisdictions.",
+    "pageTitle": "Orbital - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.getorbital.com",
+    "twitter": "https://x.com/OrbitalFinance"
+  },
+  "relations": {
+    "alternatives": [
+      "boomfi",
+      "unlimit",
+      "bulla-network"
+    ],
+    "related": [
+      "honeycoin",
+      "bridge-xyz",
+      "splits"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The GENIUS Act and Stablecoin Payments",
+      "tldr": "Explains how US stablecoin regulation affects payment providers and businesses planning cross-border payment flows.",
+      "url": "https://www.getorbital.com/blog/the-genius-act-what-stablecoin-regulation-means-for-global-payment-strategy",
+      "source": "Orbital",
+      "tag": "Regulation"
+    },
+    {
+      "title": "Stablecoin Payments for Cross-Border Businesses",
+      "tldr": "Orbital explains how B2B teams use stablecoin rails for international collection and settlement alongside traditional payments.",
+      "url": "https://www.getorbital.com/blog/stablecoins-solving-real-world-challenges-in-b2b-payments",
+      "source": "Orbital",
+      "tag": "Explainer"
+    }
+  ]
+}

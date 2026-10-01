@@ -1,0 +1,55 @@
+{
+  "slug": "termmax",
+  "name": "TermMax",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761091/dapp-store-logos/termmax.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "TermMax offers fixed-rate lending and leveraged yield strategies with predictable terms.",
+    "description": "TermMax provides fixed-rate, fixed-term lending in place of the floating rates most DeFi markets use, along with leveraged strategies built on those terms. Loans settle by physical delivery at maturity, with liquidation rules documented for positions that fall short. The protocol graduated from the YZi Labs EASY residency, scores 93 percent on DeFiSafety's PQR assessment and runs Hypernative monitoring continuously. Its TMX token bridges between BNB Chain and Ethereum. It is deployed on Hyperliquid and Robinhood Chain.",
+    "meta": "Fixed-rate, fixed-term lending, the structure institutional borrowers can actually underwrite.",
+    "pageTitle": "TermMax - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ts.finance/",
+    "github": "https://github.com/term-structure",
+    "twitter": "https://x.com/TermMaxFi"
+  },
+  "relations": {
+    "alternatives": [
+      "morpho",
+      "teller",
+      "euler"
+    ],
+    "related": [
+      "hyperlend",
+      "impermax-v2",
+      "maple-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Understanding Gearing Tokens on TermMax",
+      "tldr": "Introduces Gearing Tokens and how they represent leveraged fixed-rate borrowing positions inside TermMax.",
+      "url": "https://blog.ts.finance/understanding-gearing-tokens-gt-on-termmax-a-beginners-guide/",
+      "source": "TermMax",
+      "tag": "Explainer"
+    },
+    {
+      "title": "TermMax V2's Fixed-Rate Layer",
+      "tldr": "Introduces TermMax V2 and the composable fixed-rate borrowing and lending tools it adds to DeFi.",
+      "url": "https://blog.ts.finance/termmax-v2/",
+      "source": "TermMax",
+      "tag": "DeFi"
+    }
+  ]
+}

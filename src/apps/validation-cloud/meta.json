@@ -1,0 +1,54 @@
+{
+  "slug": "validation-cloud",
+  "name": "Validation Cloud",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761124/dapp-store-logos/validation-cloud.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Monad",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Validation Cloud offers institutional node APIs, staking and data products for digital assets.",
+    "description": "Validation Cloud combines a high-performance node API with enterprise staking and a data-and-AI product line, aimed at institutions that want one provider across all three instead of stitching together separate vendors. Non-custodial staking covers major proof-of-stake protocols, and its Mavrik product applies AI to the same chain data. The company is SOC 2 Type II certified and supports stablecoins and tokenized assets alongside ordinary crypto workloads. It appears as a supported RPC provider in the documentation for both Monad and Robinhood Chain.",
+    "meta": "Validation Cloud provides institutional node APIs, staking and data products for digital assets.",
+    "pageTitle": "Validation Cloud - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://validationcloud.io/",
+    "twitter": "https://x.com/validationcloud"
+  },
+  "relations": {
+    "alternatives": [
+      "blockdaemon",
+      "blockpi-network",
+      "chainstack"
+    ],
+    "related": [
+      "alchemy",
+      "drpc",
+      "dwellir"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introducing Mavrik: Blockchain Data and AI",
+      "tldr": "Explains Validation Cloud's Mavrik platform and how it connects blockchain data with AI workflows.",
+      "url": "https://blog.validationcloud.io/introducing-mavrik",
+      "source": "Validation Cloud",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Distributed Validators and Ethereum Staking",
+      "tldr": "Discusses distributed validator technology, staking operations and institutional adoption with Obol.",
+      "url": "https://blog.validationcloud.io/high-stakes-obol",
+      "source": "Validation Cloud",
+      "tag": "Explainer"
+    }
+  ]
+}

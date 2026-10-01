@@ -1,0 +1,54 @@
+{
+  "slug": "oobit",
+  "name": "Oobit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761001/dapp-store-logos/oobit.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Tether-backed app for paying with crypto in stores and online at 175 million merchants.",
+    "description": "Oobit turns stablecoins and crypto into everyday money. Users pay at more than 175 million merchants through Apple Pay and Google Wallet, scan local QR codes, and pay straight from the self-custody wallet they already use. They can also receive dollars from a bank, PayPal or Wise and send money abroad. The app is backed by Tether and has over 45,000 store reviews.",
+    "meta": "Pay with crypto at 175M merchants via Apple Pay, Google Wallet or local QR codes using Oobit, backed by Tether.",
+    "pageTitle": "Oobit - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.oobit.com",
+    "twitter": "https://x.com/oobit"
+  },
+  "relations": {
+    "alternatives": [
+      "revuto",
+      "meld",
+      "pocketpay-finance"
+    ],
+    "related": [
+      "hashleap",
+      "cryptocadet",
+      "bridge-xyz"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Spend Crypto From Wallet to Checkout",
+      "tldr": "Walks through using Oobit to spend wallet assets in a tap-to-pay checkout flow.",
+      "url": "https://www.oobit.com/blog/from-wallet-to-checkout-how-to-spend-crypto-with-one-tap",
+      "source": "Oobit",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Crypto Payment Habits and the Spending Gap",
+      "tldr": "Oobit examines where users want to spend stablecoins and how wallet-based checkout fits their payment habits.",
+      "url": "https://www.oobit.com/blog/anatomy-of-crypto-payment-consumption",
+      "source": "Oobit",
+      "tag": "Research"
+    }
+  ]
+}

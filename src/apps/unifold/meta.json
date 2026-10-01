@@ -1,0 +1,54 @@
+{
+  "slug": "unifold",
+  "name": "Unifold",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761114/dapp-store-logos/unifold.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Unifold provides cross-chain deposit infrastructure for prediction markets, exchanges and fintechs.",
+    "description": "Unifold is deposit infrastructure for prediction markets, exchanges and fintech platforms, accepting any token on any chain and delivering the stablecoin the platform wants. A single API orchestrates deposits across Ethereum, Solana, Bitcoin and others, with stablecoin payouts routed through whichever provider or partner offers the best path. Use cases include cross-chain margin deposits for perpetual venues and deposit rails for lending, staking and yield products. The company advertises setup in around nine minutes.",
+    "meta": "Deposit infrastructure for prediction markets and exchanges, where funding friction costs revenue.",
+    "pageTitle": "Unifold - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://unifold.io/",
+    "twitter": "https://x.com/unifold_io"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Unifold Deposits Are Completed",
+      "tldr": "Shows the stages between detecting a deposit and crediting it, including differences between supported payment methods.",
+      "url": "https://unifold.io/help/articles/how-deposits-are-completed",
+      "source": "Unifold",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Send Crypto Into an App",
+      "tldr": "Shows how to transfer tokens from a wallet or exchange to a Unifold-powered product using its deposit address.",
+      "url": "https://unifold.io/help/articles/sending-crypto-into-an-app",
+      "source": "Unifold",
+      "tag": "Tutorial"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "diffuse-fi",
+  "name": "Diffuse",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760836/dapp-store-logos/diffuse-fi.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Decentralized Computing Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Diffuse combines zkTLS and trusted execution environments for trustless private computation.",
+    "description": "Diffuse is a zkServerless protocol that gives EVM chains access to provable on-chain and off-chain data. The same infrastructure powers a non-custodial lending protocol for structured leverage deals, secured with zero-knowledge proofs and trusted execution environments. The team includes a former p2p.org chief executive and describes more than sixty products launched across eight years in the industry.",
+    "meta": "zkTLS paired with trusted execution, proving a computation without revealing what went into it.",
+    "pageTitle": "Diffuse - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.diffuse.fi",
+    "twitter": "https://x.com/DiffuseFi"
+  },
+  "relations": {
+    "alternatives": [
+      "acurast",
+      "mc2-finance",
+      "nubila-network"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "axelar"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Collateral Abstraction for Trustless Leverage",
+      "tldr": "Explores how collateral abstraction can let DeFi users borrow while keeping more utility from the assets they pledge.",
+      "url": "https://www.diffuse.fi/post/collateral-abstraction-for-trustless-leverage-in-defi",
+      "source": "Diffuse",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Unlocking Cross-Chain Capital Efficiency",
+      "tldr": "Explores how lending collateral can remain useful across chains instead of being locked into one isolated market.",
+      "url": "https://www.diffuse.fi/post/unlock-cross-chain-capital-efficiency",
+      "source": "Diffuse",
+      "tag": "DeFi"
+    }
+  ]
+}

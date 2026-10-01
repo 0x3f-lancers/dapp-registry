@@ -1,0 +1,52 @@
+{
+  "slug": "omy-payments",
+  "name": "OMY Payments",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760998/dapp-store-logos/omy-payments.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Crypto payment gateway for businesses, with payouts, invoicing and savings vaults.",
+    "description": "OMY Payments lets businesses accept any major coin and convert it instantly to fiat or stablecoins, cutting payment fees by up to 80% compared with card processors. The same account handles mass payouts to staff, contractors and affiliates from an uploaded address list, invoicing, and savings vaults that put idle balances into DeFi yield protocols.",
+    "meta": "Accept crypto, pay out in bulk and earn yield on idle balances with OMY Payments, built on DeFi liquidity.",
+    "pageTitle": "OMY Payments - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://omypayments.com",
+    "twitter": "https://x.com/OMYPayments"
+  },
+  "relations": {
+    "alternatives": [
+      "cryptocadet",
+      "franklin"
+    ],
+    "related": [
+      "p-link",
+      "recap",
+      "splits"
+    ]
+  },
+  "resources": [
+    {
+      "title": "OMY Payments Docs",
+      "tldr": "Docs intro to OMY Payments, a crypto payment processor built on the Chainspot protocol's cross-chain routing tech.",
+      "url": "https://docs.omypayments.com/",
+      "source": "OmyPayments Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "About OmyPayments",
+      "tldr": "OmyPayments explains its aim of letting businesses accept digital payments as easily as classic payment methods.",
+      "url": "https://omypayments.com/about",
+      "source": "OmyPayments",
+      "tag": "Product"
+    }
+  ]
+}

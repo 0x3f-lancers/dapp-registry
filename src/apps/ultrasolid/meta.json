@@ -1,0 +1,53 @@
+{
+  "slug": "ultrasolid",
+  "name": "Ultrasolid",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761113/dapp-store-logos/ultrasolid.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Ultrasolid is a vote-escrow DEX on Hyperliquid linking HyperEVM swaps to HyperCore liquidity.",
+    "description": "Ultrasolid is a vote-escrow DEX on Hyperliquid connecting HyperEVM swaps to HyperCore liquidity. Lockers vote to direct emissions toward chosen pools, and the venue aggregates routing so a swap reaches the best available depth. Its contracts are derived from Kyo Finance's audited codebase, reviewed by Omniscia, Beosin and Sherlock. Vaults with dual utility sit alongside the exchange for depositors wanting managed exposure.",
+    "meta": "Ultrasolid is a vote-escrow DEX on Hyperliquid that routes HyperEVM swaps into HyperCore liquidity, built on Kyo Finance's audited contracts.",
+    "pageTitle": "Ultrasolid - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ultrasolid.xyz",
+    "twitter": "https://x.com/ultrasolid_hl"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "alt-fun",
+      "balancer"
+    ],
+    "related": [
+      "brownfi",
+      "curve-finance",
+      "defi-app"
+    ]
+  },
+  "resources": [
+    {
+      "title": "UltraSolid's Cross-Chain Bridging Integration",
+      "tldr": "Explains how UltraSolid uses LI.FI to let users bridge into HyperEVM before trading or supplying liquidity.",
+      "url": "https://li.fi/knowledge-hub/ultrasolid-integrates-li-fi-to-power-cross-chain-bridging",
+      "source": "LI.FI",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Using UltraSolid's veDEX",
+      "tldr": "Guides users through swaps, liquidity pools, and the vote-escrow model used by UltraSolid.",
+      "url": "https://www.drops.bot/airdrops/upcoming/ultrasolid",
+      "source": "Drops",
+      "tag": "Tutorial"
+    }
+  ]
+}

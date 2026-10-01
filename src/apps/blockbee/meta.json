@@ -1,0 +1,54 @@
+{
+  "slug": "blockbee",
+  "name": "BlockBee",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760769/dapp-store-logos/blockbee.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Non-custodial crypto payment gateway for businesses, with instant payouts and fees from 0.25%.",
+    "description": "BlockBee lets merchants accept more than 70 cryptocurrencies and receive funds straight to their own wallets, optionally converted into the coin they prefer. There are no setup or monthly fees, integration works through an API or ready-made plugins, and payouts to others are supported too. It has processed over $100 million for more than 10,000 merchants.",
+    "meta": "Accept 70+ cryptocurrencies with BlockBee, a non-custodial payment gateway with instant payouts, plugins and no monthly fees.",
+    "pageTitle": "BlockBee - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blockbee.io",
+    "twitter": "https://x.com/blockbee_io"
+  },
+  "relations": {
+    "alternatives": [
+      "meshpay",
+      "bulla-network",
+      "mansa"
+    ],
+    "related": [
+      "wert",
+      "depay",
+      "hq-xyz"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Crypto Payment Webhooks Guide",
+      "tldr": "Explains how deposit, payment status and payout events can be tracked automatically through BlockBee webhooks.",
+      "url": "https://blockbee.io/blog/post/crypto-payment-webhooks-track-deposits-payouts-automatically",
+      "source": "BlockBee",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Integrating BlockBee's Crypto Payment API",
+      "tldr": "Walks developers through payment requests, callbacks, order IDs, and testing a BlockBee integration.",
+      "url": "https://blockbee.io/blog/post/crypto-payment-api-integrate-crypto-payments",
+      "source": "BlockBee",
+      "tag": "Tutorial"
+    }
+  ]
+}

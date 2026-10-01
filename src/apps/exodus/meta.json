@@ -1,0 +1,56 @@
+{
+  "slug": "exodus",
+  "name": "Exodus",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774340509/dapp-store-logos/exodus.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Monad",
+    "Bitcoin",
+    "Ethereum",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Exodus is a multi-chain self-custody wallet for desktop and mobile with built-in exchange.",
+    "description": "Exodus is a self-custody wallet spanning desktop, mobile and browser, in operation since 2015 and supporting thousands of assets. In-wallet swaps start at rates around 0.5 percent, and buying and selling happen without leaving the app. Staking for multiple assets is available in one place, alongside a spend card with cashback and everyday payments integrated into the wallet itself. An XO Suite offers the same self-custody stack to businesses, and support engineers are available around the clock.",
+    "meta": "Exodus is a multi-chain self-custody wallet for desktop and mobile with built-in swapping and staking.",
+    "pageTitle": "Exodus - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.exodus.com/",
+    "twitter": "https://x.com/exodus_io"
+  },
+  "relations": {
+    "alternatives": [
+      "coin98-super-wallet",
+      "metamask",
+      "trust-wallet"
+    ],
+    "related": [
+      "utila",
+      "atomic-wallet",
+      "backpack"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Getting Started With Exodus Wallet",
+      "tldr": "Guides new users through self custody, receiving and sending assets, and backing up the wallet's secret key.",
+      "url": "https://www.exodus.com/support/en/articles/8598609-getting-started-with-the-exodus-crypto-wallet",
+      "source": "Exodus",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Exodus Wallet Security Practices",
+      "tldr": "Explains secret key storage, passwords, passkeys and device security for Exodus wallet users.",
+      "url": "https://www.exodus.com/support/en/articles/8598732-list-of-security-practices",
+      "source": "Exodus",
+      "tag": "Security"
+    }
+  ]
+}

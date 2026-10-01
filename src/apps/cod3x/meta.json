@@ -1,0 +1,53 @@
+{
+  "slug": "cod3x",
+  "name": "Cod3x",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760805/dapp-store-logos/cod3x.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Cod3x is an AI trading terminal for deploying autonomous agents that trade perpetuals.",
+    "description": "Cod3x takes a trading strategy written in plain English and has an AI agent execute it on perpetual futures around the clock. A prompt sets the scope, leverage cap, per-trade risk and schedule, such as BTC and ETH momentum on Hyperliquid at no more than three times leverage with two percent risk per trade. More than a hundred perp markets are available and the architecture is non-custodial, so funds stay in the user's wallet. The team set out its agent design in a paper on the ATLAS-3 model.",
+    "meta": "Cod3x is an AI trading terminal where a strategy written in plain English is run by an autonomous agent on 100+ perpetual markets.",
+    "pageTitle": "Cod3x - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.cod3x.org",
+    "twitter": "https://x.com/Cod3xOrg"
+  },
+  "relations": {
+    "alternatives": [
+      "asym",
+      "bankr",
+      "coinmarketman"
+    ],
+    "related": [
+      "dextrabot",
+      "hyperdash",
+      "hypersignals"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Cod3x improves Perps Trading",
+      "tldr": "Perpetual futures (or perps) are one of the most traded assets in crypto.",
+      "url": "https://docs.cod3x.org/introduction/how-cod3x-improves-perps-trading.md",
+      "source": "Cod3x",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Getting Started",
+      "tldr": "This guide walks you from first login through creating and funding your trading agent so you can start trading in under two minutes.",
+      "url": "https://docs.cod3x.org/introduction/getting-started.md",
+      "source": "Cod3x",
+      "tag": "Tutorial"
+    }
+  ]
+}

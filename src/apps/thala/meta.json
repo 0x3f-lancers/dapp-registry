@@ -32,5 +32,19 @@
       "sperax",
       "hashstack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Flash Loans",
+      "tldr": "Borrowing and repaying inside one transaction, what it is legitimately used for, and how it is abused.",
+      "url": "https://docs.thala.fi/overview/amm/flash-loans",
+      "source": "Thala"
+    },
+    {
+      "title": "How The Oracle Works",
+      "tldr": "Where the stablecoin's prices come from and what the protocol does when a feed goes stale.",
+      "url": "https://docs.thala.fi/overview/move-dollar-mod/oracles",
+      "source": "Thala"
+    }
+  ]
 }

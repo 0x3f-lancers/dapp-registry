@@ -1,0 +1,54 @@
+{
+  "slug": "family",
+  "name": "Family",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760860/dapp-store-logos/family.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Design-focused self-custody Ethereum wallet for iOS from the makers of ConnectKit.",
+    "description": "Family is an iOS wallet built to make Ethereum feel friendly. Users send tokens and NFTs to any address or ENS name, receive through a personal QR code, swap at aggregated prices without leaving the app, and buy crypto from their bank account. It has full NFT support, and the same team builds ConnectKit, the popular wallet connection library for web apps.",
+    "meta": "Family is a design-led self-custody Ethereum wallet for iOS with swaps, ENS sends and full NFT support.",
+    "pageTitle": "Family - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://family.co/",
+    "twitter": "https://x.com/family"
+  },
+  "relations": {
+    "alternatives": [
+      "taho-xyz",
+      "ecoinwallet",
+      "martian-wallet"
+    ],
+    "related": [
+      "haha-wallet",
+      "begin-wallet",
+      "nufi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why Family Accounts Were Created",
+      "tldr": "Explains the recovery and sharing problems with traditional seed phrase wallets and the design of Family Accounts.",
+      "url": "https://family.co/blog/why-family-accounts",
+      "source": "Family",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Family Accounts Simplify Wallet Access",
+      "tldr": "Describes Family's email and passkey onboarding, browser dashboard, wallet recovery, and self-custody design.",
+      "url": "https://family.co/blog/family-accounts",
+      "source": "Family",
+      "tag": "Explainer"
+    }
+  ]
+}

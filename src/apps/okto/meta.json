@@ -1,0 +1,53 @@
+{
+  "slug": "okto",
+  "name": "Okto",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760997/dapp-store-logos/okto.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Okto is a self-custody wallet and embedded wallet SDK from CoinDCX.",
+    "description": "Okto is a self-custody trading wallet built around Hyperliquid, offering DEX futures at up to 50x leverage on 100-plus pairs including pre-launch tokens. Cross-chain swaps complete in one click across EVM, Solana and Aptos, with an in-line bridge and no need to hold a native token for gas. Hyperliquid spot markets are live in the same app alongside native charts and signals. Running both the wallet and the trading product means the underlying SDK is tested against a real consumer app.",
+    "meta": "Okto is a self-custody wallet from CoinDCX built around Hyperliquid trading, with futures up to 50x, one-click cross-chain swaps and an SDK.",
+    "pageTitle": "Okto - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.okto.tech",
+    "twitter": "https://x.com/okto_web3"
+  },
+  "relations": {
+    "alternatives": [
+      "backpack",
+      "bifrost-wallet",
+      "kriptok"
+    ],
+    "related": [
+      "krystal-wallet",
+      "phantom",
+      "plug-wallet"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Okto Uses the 1inch Swap API",
+      "tldr": "Shows how Okto integrates 1inch routing to offer token swaps through its wallet experience.",
+      "url": "https://okto.tech/blog/how-okto-leverages-1inch-s-swap-api-to-deliver-seamless-trading-experience",
+      "source": "Okto",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Hyperliquid Builder Codes Explained",
+      "tldr": "Explains how builder codes reward developers who create trading experiences on top of Hyperliquid.",
+      "url": "https://okto.tech/blog/hyperliquid-builder-codes-rewarding-defi-innovation",
+      "source": "Okto",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "glacis",
+  "name": "Glacis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760883/dapp-store-logos/glacis.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Multichain",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Glacis Labs builds ZeroDelta, a permissioned clearinghouse for moving RWAs across chains at size.",
+    "description": "ZeroDelta, from Glacis Labs, matches institutional order flow so large amounts of stablecoins and tokenized assets can move between chains without slippage. Only KYB-verified institutions can quote or settle, and each issuer's rules, such as whitelists and transfer limits, are enforced on every transaction along with travel-rule data. It has settled more than $1 billion across 40+ chains.",
+    "meta": "ZeroDelta by Glacis Labs moves stablecoins and RWAs across 40+ chains at size, with KYB-only access and built-in compliance.",
+    "pageTitle": "Glacis - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.glacislabs.com",
+    "twitter": "https://x.com/glacislabs"
+  },
+  "relations": {
+    "alternatives": [
+      "smolrefuel",
+      "symbiosis",
+      "messinaone-bridge"
+    ],
+    "related": [
+      "hyperlane",
+      "connext",
+      "hash0x"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Glacis Labs Docs",
+      "tldr": "Glacis Labs' docs covering ZeroDelta clearing for institutions, AirLift token transfers and the Glacis Core message router.",
+      "url": "https://docs.glacislabs.com/",
+      "source": "Glacis Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Glacis Labs Raises $6.8M Seed to Scale ZeroDelta",
+      "tldr": "Covers Glacis Labs' seed round for ZeroDelta, a non-custodial clearinghouse that has settled $1B+ across 40+ chains.",
+      "url": "https://cryptobriefing.com/glacis-labs-seed-round-zerodelta-clearing/",
+      "source": "Crypto Briefing",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-07-15"
+    }
+  ]
+}

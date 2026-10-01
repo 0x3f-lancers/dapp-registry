@@ -1,0 +1,56 @@
+{
+  "slug": "blazing",
+  "name": "Blazing",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760763/dapp-store-logos/blazing.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "BNB Chain",
+    "Base",
+    "Avalanche",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Trading suite for EVM chains that hunts new tokens fast through a Telegram bot and web terminal.",
+    "description": "Blazing is built for traders chasing new tokens the moment they appear. It combines a Telegram bot with a synced web terminal, starts transactions in under a millisecond, adds MEV protection, and offers memescopes for each chain, including Four.meme launches on BNB Chain. The team publishes speed tests against rival bots on BNB Chain, Base, Avalanche and Sonic.",
+    "meta": "Blazing is a Telegram bot and web terminal for trading new tokens on EVM chains, with sub-millisecond starts and MEV protection.",
+    "pageTitle": "Blazing - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blazingapp.com",
+    "twitter": "https://x.com/blazingapp"
+  },
+  "relations": {
+    "alternatives": [
+      "thekingfisher",
+      "bankr",
+      "berabot"
+    ],
+    "related": [
+      "okutrade",
+      "hyperdash",
+      "simpleswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Blazing Beginner's Guide",
+      "tldr": "Walks through linking the Telegram bot to the Blazing web app, then the dashboard's token search, chain selector and trade panel.",
+      "url": "https://blazingbot.gitbook.io/en/beginners-guide",
+      "source": "Blazing Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Blazing Speed Tests",
+      "tldr": "Blazing's own block-by-block tests against Banana Gun, Sigma, Maestro and BullX on Base, BNB Chain, Avalanche and Sonic.",
+      "url": "https://blazingapp.gitbook.io/tutorials/features/speed",
+      "source": "Blazing Docs",
+      "tag": "Trading"
+    }
+  ]
+}

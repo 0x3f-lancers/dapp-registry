@@ -1,0 +1,55 @@
+{
+  "slug": "argiefy",
+  "name": "Argiefy",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760742/dapp-store-logos/argiefy.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Portfolio Dashboards"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Argentine money calculator tracking the official, blue and MEP dollar alongside USDT prices.",
+    "description": "Argiefy was built for Argentines deciding how to pay, save or convert. It shows the official, blue, MEP and card dollar rates next to the USDT price, along with inflation and country risk, and its calculator compares instalments and conversions across cards and wallets. Guides cover questions like cashing out WLD to a local bank account, and World App users can open the calculator without leaving their wallet.",
+    "meta": "Compare Argentina's official, blue and MEP dollar rates with USDT, and work out the cheapest way to pay or convert, in World App too.",
+    "pageTitle": "Argiefy - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.argiefy.com",
+    "twitter": "https://x.com/argiefy"
+  },
+  "relations": {
+    "alternatives": [
+      "my-merlin",
+      "nested",
+      "instadapp"
+    ],
+    "related": [
+      "treehouse-finance",
+      "ottobots",
+      "step-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Cómo convertir tus $WLD a CVU/CBU",
+      "tldr": "Spanish walkthrough for turning WLD or USDC held in World App into pesos sent to any Argentine CVU or CBU account via ZKP2P.",
+      "url": "https://www.argiefy.com/blog/como-convertir-tus-wld-a-cvu-cbu",
+      "source": "Argiefy Blog",
+      "tag": "Tutorial",
+      "publishedAt": "2025-07-30"
+    },
+    {
+      "title": "Qué es el Dólar MEP y cómo comprarlo",
+      "tldr": "Spanish primer on Argentina's MEP dollar: how the bond-based rate works, why it is legal, and how to buy it online.",
+      "url": "https://www.argiefy.com/blog/que-es-dolar-mep-y-comprarlo",
+      "source": "Argiefy Blog",
+      "tag": "Finance",
+      "publishedAt": "2025-01-07"
+    }
+  ]
+}

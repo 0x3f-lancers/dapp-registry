@@ -1,0 +1,52 @@
+{
+  "slug": "markets-xyz",
+  "name": "Markets.xyz",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760960/dapp-store-logos/markets-xyz.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Markets.xyz offers onchain perpetual futures on stocks, indices, commodities and crypto.",
+    "description": "Markets.xyz trades perpetual futures on equities, indices, commodities and currencies alongside crypto, open continuously with no exchange holidays and leverage up to 50x. It runs on Hyperliquid's L1 using the HIP-3 framework for builder-deployed perpetuals, and positions stay self-custodial. Prices come from Kaiko's institutional oracle, and an L4 order book view exposes every individual order and participant rather than aggregate depth. Funding rates for every market sit beside the order book view.",
+    "meta": "Perpetuals on equities, indices and commodities that keep trading when the underlying market is shut.",
+    "pageTitle": "Markets.xyz - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://markets.xyz/",
+    "twitter": "https://x.com/markets_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperliquid",
+      "perpetual-protocol"
+    ],
+    "related": [
+      "0x",
+      "altura-trade",
+      "arrakis-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Decentralized Versus Centralized Exchanges",
+      "tldr": "Compares exchange custody, fees, access and transparency to explain the structural tradeoffs for traders.",
+      "url": "https://markets.xyz/blog/decentralized-vs-centralized-exchanges",
+      "source": "Markets.xyz",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Understanding Smart Contract Trading",
+      "tldr": "Explains how onchain trades execute through contracts and the benefits and risks of that execution model.",
+      "url": "https://markets.xyz/blog/understanding-smart-contract-trading",
+      "source": "Markets.xyz",
+      "tag": "Explainer"
+    }
+  ]
+}

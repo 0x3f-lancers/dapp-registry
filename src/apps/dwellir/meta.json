@@ -1,0 +1,59 @@
+{
+  "slug": "dwellir",
+  "name": "Dwellir",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760841/dapp-store-logos/dwellir.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Monad",
+    "Hyperliquid",
+    "Robinhood Chain",
+    "Unichain",
+    "World Chain",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Dwellir operates RPC and API infrastructure across 150+ blockchain networks.",
+    "description": "Dwellir runs RPC infrastructure across more than 150 blockchains, offering both full and archive nodes through HTTPS and WebSocket endpoints. Its Hyperliquid endpoints cover the EVM layer, and it is one of the few providers listed in the documentation of Monad, Hyperliquid and Robinhood Chain alike. Customers connect with an API key from the platform dashboard. Archive coverage extends to Base, Ethereum, BNB Chain and Polygon among others.",
+    "meta": "Dwellir operates RPC and API infrastructure across 150+ networks including Monad and Hyperliquid.",
+    "pageTitle": "Dwellir - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dwellir.com/",
+    "twitter": "https://x.com/dwellir"
+  },
+  "relations": {
+    "alternatives": [
+      "blockpi-network",
+      "chainstack",
+      "drpc"
+    ],
+    "related": [
+      "alchemy",
+      "getblock",
+      "quicknode"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Getting Robinhood Chain Data for DeFi",
+      "tldr": "Compares RPC and indexed data for Robinhood Chain swaps and pool prices, with practical limits and example viem queries.",
+      "url": "https://www.dwellir.com/blog/robinhood-chain-defi-data",
+      "source": "Dwellir",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Build a Gas Oracle With eth_feeHistory",
+      "tldr": "Shows how to set fee caps and tips from EIP-1559 data while handling empty blocks and stale samples.",
+      "url": "https://www.dwellir.com/blog/eth-feehistory-production-gas-oracles",
+      "source": "Dwellir",
+      "tag": "Tutorial"
+    }
+  ]
+}

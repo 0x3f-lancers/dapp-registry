@@ -1,0 +1,55 @@
+{
+  "slug": "lombard",
+  "name": "Lombard",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760953/dapp-store-logos/lombard.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Bitcoin finance protocol behind LBTC, the most widely used yield-bearing Bitcoin.",
+    "description": "Lombard points out that less than 1% of Bitcoin is used on-chain, and builds products to change that. LBTC earns Bitcoin-on-Bitcoin yield, now through an institutional strategy managed by Bitwise targeting about 2.5%, and is accepted by more than 50 protocols on 10+ chains. BTC.b moves Bitcoin onto six chains, and Bitcoin Smart Accounts and an SDK help apps integrate it. Over 270,000 users hold $3 billion of BTC through Lombard.",
+    "meta": "Lombard's LBTC earns yield on Bitcoin and works across 50+ DeFi protocols, with $3B+ BTC onboarded by 270,000 users.",
+    "pageTitle": "Lombard - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.lombard.finance",
+    "twitter": "https://x.com/Lombard_Finance"
+  },
+  "relations": {
+    "alternatives": [
+      "hord",
+      "symbiotic",
+      "bemo"
+    ],
+    "related": [
+      "hydro-protocol",
+      "yield-yak",
+      "spinup"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Bitcoin Onchain Credit Strategy",
+      "tldr": "Introduces Lombard's institutional credit allocation as a source of Bitcoin yield and describes how it differs from DeFi lending.",
+      "url": "https://www.lombard.finance/blog/bitcoin-onchain-credit-strategy/",
+      "source": "Lombard",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Bitcoin Smart Accounts and Native BTC in DeFi",
+      "tldr": "Lombard's technical paper explains its Bitcoin Smart Account design for using native BTC as DeFi collateral.",
+      "url": "https://www.lombard.finance/BSA.pdf",
+      "source": "Lombard",
+      "tag": "Research"
+    }
+  ]
+}

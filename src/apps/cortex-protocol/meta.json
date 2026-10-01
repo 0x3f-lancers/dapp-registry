@@ -1,0 +1,54 @@
+{
+  "slug": "cortex-protocol",
+  "name": "Cortex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760814/dapp-store-logos/cortex-protocol.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Cortex is an AI agent for crypto that executes onchain actions from natural language requests.",
+    "description": "Cortex is an AI agent for crypto research that answers questions about on-chain activity in natural language. A user asks about a market, wallet or protocol and the agent assembles the relevant data instead of the user querying it directly. Its coverage includes Hyperliquid.",
+    "meta": "An AI agent that carries out onchain actions, including sourcing gas on a chain you have just reached.",
+    "pageTitle": "Cortex - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cortexprotocol.com/",
+    "twitter": "https://x.com/cortexprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "airdrophunt-fun",
+      "allium",
+      "artemis"
+    ],
+    "related": [
+      "asxn",
+      "blockliquidity",
+      "bubblemaps"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Cortex Protocol Overview",
+      "tldr": "Explains Cortex's DeFi agent, agent platform, and natural language operations across supported chains.",
+      "url": "https://docs.cortexprotocol.com/docs/ProtocolOverview",
+      "source": "Cortex Protocol",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Cortex Agent Platform",
+      "tldr": "Introduces the infrastructure for building agents and connecting them to DeFi actions, including Hyperliquid.",
+      "url": "https://docs.cortexprotocol.com/docs/AgentPlatform",
+      "source": "Cortex Protocol",
+      "tag": "Explainer"
+    }
+  ]
+}

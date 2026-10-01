@@ -1,0 +1,53 @@
+{
+  "slug": "valantis",
+  "name": "Valantis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761123/dapp-store-logos/valantis.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Valantis builds stHYPE, a liquid staking token on Hyperliquid, together with a dedicated AMM.",
+    "description": "Valantis issues stHYPE, a liquid staking token for Hyperliquid, and runs an AMM built specifically around it. Holders earn staking rewards while keeping capital flexible, and stHYPE also unlocks up to 40 percent off trading fees on its Prime Trading terminal, where any Hyperliquid asset can be traded. The stHYPE AMM puts that liquidity to work earning from trading activity. A Prime DCA product accumulates HYPE or BTC on a schedule while the position earns yield.",
+    "meta": "Valantis builds stHYPE, a Hyperliquid liquid staking token, together with a purpose-built AMM.",
+    "pageTitle": "Valantis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://valantis.xyz/",
+    "github": "https://github.com/ValantisLabs",
+    "twitter": "https://x.com/ValantisLabs"
+  },
+  "relations": {
+    "alternatives": [
+      "kinetiq",
+      "tenderize"
+    ],
+    "related": [
+      "0x",
+      "altura-trade",
+      "arrakis-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Prime Architecture",
+      "tldr": "Explains the accounts, connectors, actions, and access roles in Valantis Prime.",
+      "url": "https://docs.valantis.xyz/prime/developers/architecture.md",
+      "source": "Valantis",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Staking Discounts Risk Matrix",
+      "tldr": "Compares staking discount permissions across operating states and risk controls.",
+      "url": "https://docs.valantis.xyz/prime/developers/staking-discounts-risk-matrix.md",
+      "source": "Valantis",
+      "tag": "Security"
+    }
+  ]
+}

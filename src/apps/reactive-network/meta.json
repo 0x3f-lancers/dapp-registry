@@ -1,0 +1,53 @@
+{
+  "slug": "reactive-network",
+  "name": "Reactive Network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761040/dapp-store-logos/reactive-network.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Reactive Network is an event-driven execution layer whose contracts react to events on other chains.",
+    "description": "Reactive Network is an event-driven execution layer where reactive contracts execute in response to events emitted on other EVM chains, with no transaction needed to call them. A contract is standard Solidity: it subscribes to a target address and event signature, and needs no off-chain indexer, polling loop or bot. Contracts persist state across events, so they can react to a sequence instead of a single transaction, and several can be coordinated into multi-step cross-chain processes. The network runs CometBFT consensus with roughly one-second blocks and instant finality, and contracts can verify that a callback originated from it.",
+    "meta": "Reactive Network is an event-driven execution layer with contracts that react to cross-chain events.",
+    "pageTitle": "Reactive Network - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://reactive.network/",
+    "twitter": "https://x.com/0xReactive"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "uniblock"
+    ],
+    "related": [
+      "alchemy",
+      "altitude-rpc",
+      "blockpi-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why Validator Counts Mislead Finality Analysis",
+      "tldr": "Examines why counting validators alone can misstate a network's ability to finalize blocks under stress.",
+      "url": "https://blog.reactive.network/finality-wars-counting-validators-counts-wrong/",
+      "source": "Reactive Network",
+      "tag": "Research"
+    },
+    {
+      "title": "Intents, Solvers and Cross-Chain Certainty",
+      "tldr": "Explores the tradeoffs when wallets use solver networks instead of integrating a separate bridge for each chain.",
+      "url": "https://blog.reactive.network/intents-solvers-and-borrowed-certainty/",
+      "source": "Reactive Network",
+      "tag": "Infrastructure"
+    }
+  ]
+}

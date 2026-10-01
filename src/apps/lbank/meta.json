@@ -1,0 +1,53 @@
+{
+  "slug": "lbank",
+  "name": "LBank",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760944/dapp-store-logos/lbank.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Crypto exchange with 25 million users, known for listing new and meme tokens early.",
+    "description": "LBank has been running for about ten years and serves more than 25 million users with spot, futures, earn products and TradFi markets. It is best known for fast listings of new and meme tokens, with frequent trading competitions and reward campaigns. Users can also pay at Visa merchants from their spot balance through LBank Pay and card, and trade via a Telegram bot.",
+    "meta": "Trade spot, futures and new token listings on LBank, the exchange serving 25M users with a card and Telegram bot.",
+    "pageTitle": "LBank - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.lbank.com",
+    "twitter": "https://x.com/LBank_Exchange"
+  },
+  "relations": {
+    "alternatives": [
+      "okx",
+      "weex",
+      "kraken"
+    ],
+    "related": [
+      "letsexchange",
+      "easybit",
+      "exolix"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Spot Trade on LBank",
+      "tldr": "Official web guide to choosing a pair, setting an order type, and buying or selling on LBank.",
+      "url": "https://support.lbank.com/hc/en-gb/articles/21523577939225-How-to-Proceed-Spot-Trading-in-LBank-Web",
+      "source": "LBank",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "LBank Futures Trading App Guide",
+      "tldr": "Explains opening a futures account and placing leveraged trades in the LBank mobile app.",
+      "url": "https://www.lbank.com/hc/en-gb/articles/21427069582489-How-to-Trade-Futures-App",
+      "source": "LBank",
+      "tag": "Tutorial"
+    }
+  ]
+}

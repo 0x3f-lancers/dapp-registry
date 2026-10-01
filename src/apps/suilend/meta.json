@@ -32,5 +32,19 @@
       "parrot-protocol",
       "symbiotic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Risks, Stated",
+      "tldr": "The protocol's own account of what can go wrong, from oracle failure to bad debt.",
+      "url": "https://docs.suilend.fi/security/risks",
+      "source": "Suilend"
+    },
+    {
+      "title": "Redeeming A Points Token",
+      "tldr": "How a claim actually works end to end, and the deadlines that decide whether you get anything.",
+      "url": "https://docs.suilend.fi/send/how-to-redeem-msend-and-claim-send-season-1",
+      "source": "Suilend"
+    }
+  ]
 }

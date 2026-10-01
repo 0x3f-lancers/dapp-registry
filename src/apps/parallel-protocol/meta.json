@@ -1,0 +1,53 @@
+{
+  "slug": "parallel-protocol",
+  "name": "Parallel Protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761017/dapp-store-logos/parallel-protocol.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Parallel Protocol is an over-collateralized stablecoin protocol minting against deposited assets.",
+    "description": "Parallel Protocol issues USDp, an over-collateralised dollar stablecoin backed by yield-generating correlated assets such as RWAs and lending vault positions. The yield comes from those backing assets, and only deposits into the savings product receive it. Holders can swap between USDC and USDp instantly with no fee or slippage, and enter or leave the savings position permissionlessly at any time. Minting through its Parallelizer carries a zero percent fee.",
+    "meta": "Over-collateralized stablecoins including non-dollar denominations, minted against deposits.",
+    "pageTitle": "Parallel Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://parallel.best",
+    "twitter": "https://x.com/ParallelMoney"
+  },
+  "relations": {
+    "alternatives": [
+      "felix-protocol",
+      "hyperstable",
+      "keiko-finance"
+    ],
+    "related": [
+      "mai",
+      "monetrix",
+      "timeswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Real Time Security Monitoring for Parallel",
+      "tldr": "Explains Parallel's integration of continuous threat detection and automated protective responses.",
+      "url": "https://blog.parallel.best/parallel-adopts-hypernative-for-real-time-protocol-security-monitoring",
+      "source": "Parallel",
+      "tag": "Security"
+    },
+    {
+      "title": "Curated USDp Vaults on HyperEVM",
+      "tldr": "Explains Parallel and Clearstar's HyperEVM vault strategies and the liquidity, borrow and oracle risks they assess.",
+      "url": "https://blog.parallel.best/parallel-x-clearstar-curated-vaults-and-clusters-on-hyperevm",
+      "source": "Parallel",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -3,8 +3,13 @@
   "name": "Kamino Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747853/web3-explorer/dapp-logos/kamino-finance.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["DeFi Yield Aggregators", "Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "DeFi Yield Aggregators",
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "Freemium",
   "content": {
     "short": "Kamino Finance automates concentrated liquidity management for DEX market makers.",
@@ -17,7 +22,35 @@
     "twitter": "https://x.com/kamino_finance"
   },
   "relations": {
-    "alternatives": ["bolide-finance", "clip-finance", "horizondex"],
-    "related": ["yield-protocol", "tokensfarm", "pickle"]
-  }
+    "alternatives": [
+      "bolide-finance",
+      "clip-finance",
+      "horizondex"
+    ],
+    "related": [
+      "yield-protocol",
+      "tokensfarm",
+      "pickle"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How The Protocol Is Secured",
+      "tldr": "The security model in the protocol's own words: audits, oracle assumptions and what happens under stress.",
+      "url": "https://app.kamino.finance/docs/security",
+      "source": "Kamino"
+    },
+    {
+      "title": "Lending Vaults",
+      "tldr": "What a depositor is exposed to in a lending vault, how rates are set, and when funds can be withdrawn.",
+      "url": "https://app.kamino.finance/docs/products/lending-vaults",
+      "source": "Kamino"
+    },
+    {
+      "title": "Building On Top",
+      "tldr": "The developer entry point: what the contracts expose and what an integration has to handle itself.",
+      "url": "https://app.kamino.finance/docs/build",
+      "source": "Kamino"
+    }
+  ]
 }

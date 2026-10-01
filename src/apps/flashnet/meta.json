@@ -1,0 +1,54 @@
+{
+  "slug": "flashnet",
+  "name": "Flashnet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760866/dapp-store-logos/flashnet.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Flashnet is non-custodial Bitcoin orchestration for onramps, offramps, swaps and cross-chain transfers.",
+    "description": "Flashnet is Bitcoin orchestration infrastructure that routes on-ramps, off-ramps, swaps and cross-chain transfers through one API call. It is non-custodial, handling routing, bridging and settlement against native liquidity rather than holding user funds. Exchanges use it to confirm deposits in under ten seconds and wallets to add native buy and sell at zero slippage. Its fiat on-ramp prices between 0.60 and 0.80 percent against the 1.5 to 3.5 percent typical of card-based routes.",
+    "meta": "Bitcoin-centred routing for onramps, offramps, swaps and cross-chain transfers through one API.",
+    "pageTitle": "Flashnet - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://flashnet.xyz/",
+    "twitter": "https://x.com/flashnet"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "beam-cash",
+      "brale"
+    ],
+    "related": [
+      "meld",
+      "bridge-xyz",
+      "capa-fi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is Bitcoin Orchestration?",
+      "tldr": "Explains how Bitcoin transactions can be routed, bridged and settled across networks through a coordinated workflow.",
+      "url": "https://flashnet.xyz/blog/what-is-bitcoin-orchestration",
+      "source": "Flashnet",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Adding a Bitcoin Onramp API",
+      "tldr": "Explains the moving parts of fiat-to-Bitcoin purchases inside an app and the integration choices for developers.",
+      "url": "https://flashnet.xyz/blog/bitcoin-onramp-api",
+      "source": "Flashnet",
+      "tag": "Tutorial"
+    }
+  ]
+}

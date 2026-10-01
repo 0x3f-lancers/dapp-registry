@@ -1,0 +1,51 @@
+{
+  "slug": "etherfuse",
+  "name": "Etherfuse",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760850/dapp-store-logos/etherfuse.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Tokenized bonds RWAs"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Etherfuse is a tokenized sovereign bond and FX platform for treasuries and fintechs.",
+    "description": "Etherfuse issues tokenized sovereign debt as Stablebonds and Sovereign Coins, letting a treasury hold yield-bearing government-backed collateral on-chain. The same assets serve as a float and FX instrument, with USD to MXN conversion the company prices at a tenth of bank cost and settles instantly. Holders can use positions for yield, liquidity, collateral or payments. Onboarding runs through a KYC and compliance process aimed at businesses moving money across borders.",
+    "meta": "Tokenized sovereign bonds beyond US Treasuries, with FX rails for treasuries and fintechs.",
+    "pageTitle": "Etherfuse - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.etherfuse.com",
+    "twitter": "https://x.com/etherfuse"
+  },
+  "relations": {
+    "alternatives": [
+      "theo-network"
+    ],
+    "related": [
+      "afi-protocol",
+      "mu-digital",
+      "travessia-credit"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Tokenized Assets on Stellar With Anchorage",
+      "tldr": "Explains how Etherfuse tokenizes assets for transfer on Stellar and custody through Anchorage.",
+      "url": "https://etherfuse.com/articles/tokenized-by-etherfuse-moved-on-stellar-held-by-anchorage",
+      "source": "Etherfuse",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Kazakhstan Settlement Corridors and Collateral",
+      "tldr": "Explores the collateral needs of a tokenized settlement corridor in Kazakhstan's regulatory sandbox.",
+      "url": "https://etherfuse.com/articles/kazakhstan-national-bank-sandbox",
+      "source": "Etherfuse",
+      "tag": "Research"
+    }
+  ]
+}

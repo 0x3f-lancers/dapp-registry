@@ -1,0 +1,60 @@
+{
+  "slug": "boxo",
+  "name": "Boxo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760778/dapp-store-logos/boxo.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Mini app platform that adds eSIMs, bill payments, travel and remittance to any app.",
+    "description": "Boxo lets a company turn its app into a super app through one integration. Partners pick from ready-made mini apps covering eSIMs, remittance, bill payments, insurance, airport lounges and hotel booking, and can launch new services in weeks. In World App, Boxo powers the eSIM mini app, which sells mobile data for travel.",
+    "meta": "Boxo plugs eSIMs, remittance, bill pay and travel into any app via one integration, and runs the eSIM mini app in World App.",
+    "pageTitle": "Boxo - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.boxo.io",
+    "twitter": "https://x.com/boxohq"
+  },
+  "relations": {
+    "alternatives": [
+      "bridge-xyz",
+      "drips-network",
+      "alfred-pay"
+    ],
+    "related": [
+      "boomfi",
+      "entendre-finance",
+      "beam-cash"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Boxo Host App Integration Guide",
+      "tldr": "Boxo walks host app developers through creating a client, installing an SDK, and launching an approved miniapp.",
+      "url": "https://docs.boxo.io/host-apps/GettingStarted",
+      "source": "Boxo",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Boxo eSIM Miniapp in World App",
+      "tldr": "The team explains how its eSIM miniapp was integrated into World App and what travelers can do with it.",
+      "url": "https://www.boxo.io/blog/boxo-esim-miniapp-now-available-in-tools-for-humanitys-world-app",
+      "source": "Boxo",
+      "tag": "Explainer"
+    },
+    {
+      "title": "What Is Boxo?",
+      "tldr": "Boxo describes its super app platform, SDK integration, and the services available through its miniapps.",
+      "url": "https://www.boxo.io/blog/boxo-super-app-platform",
+      "source": "Boxo",
+      "tag": "Explainer"
+    }
+  ]
+}

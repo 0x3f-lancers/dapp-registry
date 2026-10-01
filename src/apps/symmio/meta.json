@@ -32,5 +32,19 @@
       "airpuff",
       "algebra-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Core Concepts",
+      "tldr": "How intent-based derivatives are quoted and settled between two parties rather than against a pool.",
+      "url": "https://docs.symm.io/getting-started/core-concepts",
+      "source": "SYMMIO"
+    },
+    {
+      "title": "How A Trade Actually Works",
+      "tldr": "A trade followed from quote request to settlement, including what each side has locked up.",
+      "url": "https://docs.symm.io/trader-documentation/how-trading-works-in-symmio",
+      "source": "SYMMIO"
+    }
+  ]
 }

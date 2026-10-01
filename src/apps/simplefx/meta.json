@@ -32,5 +32,25 @@
       "capitoday",
       "coinmetrics"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Learning To Trade",
+      "tldr": "The broker's education hub: order types, leverage and risk sizing, aimed at someone before their first position.",
+      "url": "https://simplefx.com/education/",
+      "source": "SimpleFX"
+    },
+    {
+      "title": "Protecting Your Trading Account",
+      "tldr": "The attacks that actually target traders, and the account settings that stop most of them before they start.",
+      "url": "https://simplefx.com/cybersecurity-awareness",
+      "source": "SimpleFX"
+    },
+    {
+      "title": "Bitcoin Over Lightning",
+      "tldr": "How the second layer settles a payment in seconds, what a channel is, and what that changes about deposits.",
+      "url": "https://simplefx.com/bitcoin-lightning-network",
+      "source": "SimpleFX"
+    }
+  ]
 }

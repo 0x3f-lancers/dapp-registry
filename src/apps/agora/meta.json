@@ -1,0 +1,55 @@
+{
+  "slug": "agora",
+  "name": "Agora",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339960/dapp-store-logos/agora.jpg",
+  "category": "DAO Tools",
+  "subcategory": [
+    "DAO Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "OP Mainnet",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "No-code on-chain governance platform used by Optimism, Uniswap, ENS, Scroll and ether.fi.",
+    "description": "Agora runs the voting portals behind some of the largest DAOs, including vote.optimism.io, agora.ensdao.org and Uniswap's delegate portal, plus governance for Scroll, Derive and ether.fi. Protocols deploy proposals, delegation and voting without writing contracts. Its work with Optimism introduced new voting mechanisms, and a Uniswap campaign moved more than 8 million UNI to active delegates. Agora also built World Vote, a pilot of verified one-person voting with World ID.",
+    "meta": "Agora powers DAO voting for Optimism, Uniswap, ENS and ether.fi, and built World Vote for verified voting in World App.",
+    "pageTitle": "Agora - DAO Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.agora.xyz",
+    "twitter": "https://x.com/agoragovernance"
+  },
+  "relations": {
+    "alternatives": [
+      "commonwealth",
+      "xdaoapp",
+      "dao-haus"
+    ],
+    "related": [
+      "upstream-collectives",
+      "coordinape",
+      "dexe-dao-studio"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introducing Agora Governance",
+      "tldr": "The team explains why it built open source governor contracts, a voting app, and tools for token governance.",
+      "url": "https://www.agora.xyz/blogs/0-introducing-agora",
+      "source": "Agora",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Agora's Governor Works",
+      "tldr": "Technical overview of Agora's governor contracts and their voting and proposal features for Optimism.",
+      "url": "https://github.com/voteagora/optimism-governor",
+      "source": "Agora",
+      "tag": "Infrastructure"
+    }
+  ]
+}

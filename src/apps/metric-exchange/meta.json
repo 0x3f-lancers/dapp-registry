@@ -1,0 +1,54 @@
+{
+  "slug": "metric-exchange",
+  "name": "Metric",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760970/dapp-store-logos/metric-exchange.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Metric is an onchain exchange operating on Hyperliquid and Monad.",
+    "description": "Metric is a decentralized exchange deployed across Hyperliquid, Monad, Binance Chain, Ethereum, Polygon, Base and Avalanche. Its V2 release runs the same pool contracts on each network, so a trader sees consistent behaviour wherever they connect. Liquidity providers supply those pools and collect the trading fees they generate.",
+    "meta": "Exchange markets on Hyperliquid and Monad, two chains built for throughput by different routes.",
+    "pageTitle": "Metric - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://metric.xyz/",
+    "twitter": "https://x.com/metric"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "balancer",
+      "curve-finance"
+    ],
+    "related": [
+      "infinex",
+      "lifi",
+      "ormi-labs"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Metric DEX: Architecture and Access Review",
+      "tldr": "An independent review examines Metric's oracle priced pools, liquidity efficiency, public contracts, and limited direct app access.",
+      "url": "https://crypturia.com/en/dex/metric/",
+      "source": "Crypturia",
+      "tag": "Research"
+    },
+    {
+      "title": "Metric in the BNB Chain Liquidity Landscape",
+      "tldr": "BNB Chain explains how Metric's pools follow live reference prices and concentrate liquidity where assets actually trade.",
+      "url": "https://www.bnbchain.org/en/blog/bnb-chain-market-making-landscape-liquidity-venues-how-to-integrate",
+      "source": "BNB Chain",
+      "tag": "Explainer"
+    }
+  ]
+}

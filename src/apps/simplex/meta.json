@@ -1,0 +1,53 @@
+{
+  "slug": "simplex",
+  "name": "Simplex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761061/dapp-store-logos/simplex.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Nuvei-owned fiat on-ramp embedded in hundreds of wallets and exchanges.",
+    "description": "Simplex, part of Nuvei, is the payment layer many crypto apps use to let users buy with a card or bank transfer. It supports Visa, Mastercard, Apple Pay, Google Pay, SEPA, Pix and more than 570 other payment methods, over 200 cryptocurrencies and 100 fiat currencies. Partners get fraud-free transactions guaranteed, with Simplex taking on chargeback risk, and it is integrated with more than 350 platforms.",
+    "meta": "Simplex by Nuvei lets 350+ wallets and exchanges sell crypto by card, Apple Pay, SEPA and 570+ payment methods.",
+    "pageTitle": "Simplex - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.simplex.com",
+    "twitter": "https://x.com/SimplexCC"
+  },
+  "relations": {
+    "alternatives": [
+      "slide",
+      "kado-onramp-offramp",
+      "guardarian-onramp"
+    ],
+    "related": [
+      "btc-direct",
+      "mercuryo",
+      "assetux"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Buy Crypto With a SEPA Bank Transfer",
+      "tldr": "Simplex's guide to selecting SEPA checkout, verifying identity, and completing a crypto purchase.",
+      "url": "https://www.simplex.com/kb/buying-cryptocurrency-with-a-sepa-bank-transfer",
+      "source": "Simplex",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Buy Crypto With Google Pay Through Simplex",
+      "tldr": "Explains when Google Pay is available through a partner and how to complete Simplex checkout.",
+      "url": "https://www.simplex.com/kb/how-can-i-buy-cryptocurrency-using-google-pay",
+      "source": "Simplex",
+      "tag": "Tutorial"
+    }
+  ]
+}

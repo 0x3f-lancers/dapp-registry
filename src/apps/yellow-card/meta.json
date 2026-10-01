@@ -1,0 +1,53 @@
+{
+  "slug": "yellow-card",
+  "name": "Yellow Card",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761135/dapp-store-logos/yellow-card.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Licensed stablecoin infrastructure for banks and businesses in emerging markets, strongest in Africa.",
+    "description": "Yellow Card lets banks, financial institutions and companies hold, send and settle stablecoins and pay out in more than 50 local currencies across 60+ countries. Businesses can open USD and EUR accounts, launch local stablecoins, earn yield and issue cards, with sanctions screening, AML monitoring and travel-rule compliance built in. It has processed more than $10 billion with over 100 tier-one banking and liquidity partners.",
+    "meta": "Yellow Card gives banks and businesses licensed stablecoin rails and payouts in 50+ currencies across 60+ countries.",
+    "pageTitle": "Yellow Card - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://yellowcard.io",
+    "twitter": "https://x.com/yellowcard_app"
+  },
+  "relations": {
+    "alternatives": [
+      "acctual",
+      "xade-finance",
+      "radom"
+    ],
+    "related": [
+      "splits",
+      "alfred-pay",
+      "wert"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Yellow Card Payments API Documentation",
+      "tldr": "Explains business payment API capabilities, including local currency collection and stablecoin settlement.",
+      "url": "https://help.yellowcard.io/articles/8999093541-api-documentation",
+      "source": "Yellow Card",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How Yellow Card Invoice Settlement Works",
+      "tldr": "Walks businesses through funding and settling cross-border invoices using local currency or stablecoins.",
+      "url": "https://yellowcard.io/blog/simplifying-invoice-payments-for-businesses",
+      "source": "Yellow Card",
+      "tag": "Tutorial"
+    }
+  ]
+}

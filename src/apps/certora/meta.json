@@ -32,5 +32,19 @@
       "cobo-arugs",
       "apeworx-evmtrace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Threat Modelling A Payment Flow",
+      "tldr": "Working through where value can leak on a stablecoin chain, and how to write the properties that would catch it.",
+      "url": "https://www.certora.com/blog/threat-model-stablecoin-chains",
+      "source": "Certora"
+    },
+    {
+      "title": "Machine Versus Human Specifications",
+      "tldr": "An automated prover set against a hand-written spec on the same protocol, and what each one found that the other missed.",
+      "url": "https://www.certora.com/blog/autoprover-aave-v4-hub-formal-verification",
+      "source": "Certora"
+    }
+  ]
 }

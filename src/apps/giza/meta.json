@@ -1,0 +1,55 @@
+{
+  "slug": "giza",
+  "name": "Giza",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774860287/dapp-store-logos/giza.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Giza is an autonomous DeFi agent platform that continuously rebalances deposited funds.",
+    "description": "Giza runs agents that manage deposited capital across DeFi positions, monitoring liquidity depth, yield curves and risk metrics across hundreds of pools at once. A depositor connects a wallet, selects assets and either picks specific markets or lets the agent choose, after which capital is routed and rebalanced as conditions change. The arrangement stays self-custodial, and every action the agent takes is recorded so the user can inspect what changed, when and why. On Base it tracks every lending protocol and moves capital as rates shift.",
+    "meta": "Agents that rebalance deposited capital across DeFi as conditions change, not on a fixed schedule.",
+    "pageTitle": "Giza - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.gizatech.xyz",
+    "twitter": "https://x.com/gizatechxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "blueberry",
+      "clovis",
+      "d2-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Giza World Migration Guide",
+      "tldr": "Walks through the changes users need to make when moving to Giza World and its agent-based market tools.",
+      "url": "https://www.gizatech.xyz/blog/giza-world-migration-guide",
+      "source": "Giza",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "The Giza Optimizer",
+      "tldr": "Introduces the optimizer behind Giza's agent-driven strategies and the decisions it automates for onchain liquidity.",
+      "url": "https://www.gizatech.xyz/blog/the-giza-optimizer",
+      "source": "Giza",
+      "tag": "AI & Agents"
+    }
+  ]
+}

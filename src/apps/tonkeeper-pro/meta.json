@@ -33,5 +33,25 @@
       "tonkeeper",
       "tokenpocket"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquidity Pools On TON",
+      "tldr": "The wallet's own explainer on how pools work on this chain, what you earn, and what impermanent loss does to it.",
+      "url": "https://tonkeeper.com/en/article/education-hub-liquidity-pools-on-ton",
+      "source": "Tonkeeper"
+    },
+    {
+      "title": "Two-Factor On A Wallet",
+      "tldr": "What a second factor can and cannot protect when you hold the keys, and how it is implemented here.",
+      "url": "https://tonkeeper.com/en/article/two-factor-authentication-in-tonkeeper-pro",
+      "source": "Tonkeeper"
+    },
+    {
+      "title": "Trading Peer To Peer",
+      "tldr": "How a P2P trade is escrowed inside a wallet, and where the counterparty risk sits during the swap.",
+      "url": "https://tonkeeper.com/en/article/peer-to-peer-trading-with-anzo-in-tonkeeper",
+      "source": "Tonkeeper"
+    }
+  ]
 }

@@ -1,0 +1,55 @@
+{
+  "slug": "layerhub",
+  "name": "LayerHub",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760943/dapp-store-logos/layerhub.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Portfolio Dashboards"
+  ],
+  "chains": [
+    "Multichain",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Explorer for wallet activity and chain statistics, popular with airdrop hunters.",
+    "description": "LayerHub lets anyone paste a wallet address and see how active it has been across chains, including transaction counts, volumes and protocol usage. It also tracks daily transactions and total users for networks from Base to newer chains and testnets, which makes it a common tool for checking eligibility before airdrops.",
+    "meta": "Look up any wallet's on-chain activity and compare chain usage stats across mainnets and testnets on LayerHub.",
+    "pageTitle": "LayerHub - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://layerhub.xyz",
+    "twitter": "https://x.com/layerhub"
+  },
+  "relations": {
+    "alternatives": [
+      "altfins",
+      "defi-saver",
+      "nansen-portfolio"
+    ],
+    "related": [
+      "nested",
+      "instadapp",
+      "treehouse-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "LayerHub: Empowering You with On-Chain Analytics",
+      "tldr": "Introduces LayerHub's wallet checker and what its rankings, activity and bridge metrics reveal about a wallet.",
+      "url": "https://medium.com/@layerhub/layerhub-empowering-you-with-on-chain-analytics-1b156637073d",
+      "source": "LayerHub",
+      "tag": "Product",
+      "publishedAt": "2024-04-22"
+    },
+    {
+      "title": "Significance of Checking",
+      "tldr": "Why reviewing your own wallet's activity matters, and how LayerHub's leaderboard shows where you stand.",
+      "url": "https://docs.layerhub.xyz/untitled/wallets-checking/significance-of-checking",
+      "source": "LayerHub Docs",
+      "tag": "Tutorial"
+    }
+  ]
+}

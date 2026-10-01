@@ -28,5 +28,19 @@
       "sqwid",
       "holders-at"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Product Announcements",
+      "tldr": "The running record of marketplace changes, which is where API-affecting changes are explained first.",
+      "url": "https://blog.opensea.io/blog/announcements",
+      "source": "OpenSea"
+    },
+    {
+      "title": "New Features, Explained",
+      "tldr": "What has shipped on the marketplace and why, useful context for anyone building against its data.",
+      "url": "https://blog.opensea.io/blog/features",
+      "source": "OpenSea"
+    }
+  ]
 }

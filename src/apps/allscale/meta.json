@@ -1,0 +1,53 @@
+{
+  "slug": "allscale",
+  "name": "AllScale",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760727/dapp-store-logos/allscale.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Self-custody stablecoin neobank giving businesses a global dollar account, checkout, payroll and invoicing.",
+    "description": "AllScale opens a dollar account for a business in seconds, without a bank application or a seed phrase, and keeps the funds in self-custody. On top of that account it offers crypto checkout, invoicing, real-time payroll and card spending, with KYC, KYB and on-chain transaction screening built in. It is aimed at small companies paying and getting paid across borders, and is backed by YZi Labs and Animoca Brands.",
+    "meta": "Open a self-custody dollar account for your business and run checkout, payroll and invoicing in stablecoins with compliance built in.",
+    "pageTitle": "AllScale - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.allscale.io",
+    "twitter": "https://x.com/allscaleio"
+  },
+  "relations": {
+    "alternatives": [
+      "franklin",
+      "bulla-network",
+      "koywe"
+    ],
+    "related": [
+      "web3-enabler",
+      "omy-payments",
+      "suby"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Send Stablecoins With a Claim Link",
+      "tldr": "Shows how AllScale lets someone create a claim link to send stablecoins without collecting a recipient wallet address first.",
+      "url": "https://www.allscale.io/posts/claim-link-send-stablecoins-via-a-link",
+      "source": "AllScale",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How AllScale Checkout Handles Stablecoin Payments",
+      "tldr": "Introduces AllScale Checkout and explains how an online business can accept stablecoins through its payment flow.",
+      "url": "https://www.allscale.io/posts/allscale-checkout-online-payments",
+      "source": "AllScale",
+      "tag": "Explainer"
+    }
+  ]
+}

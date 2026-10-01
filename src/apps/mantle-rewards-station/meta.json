@@ -32,5 +32,19 @@
       "agentlayer",
       "automata"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Network Overview",
+      "tldr": "What the chain is and how it differs from other rollups, including the data availability choice.",
+      "url": "https://docs.mantle.xyz/network/network",
+      "source": "Mantle"
+    },
+    {
+      "title": "What Changed In V2",
+      "tldr": "The upgrade explained: what it improved for users, and what it asked of anyone building on it.",
+      "url": "https://docs.mantle.xyz/network/introduction/whats-new-in-mantle-v2-arsia",
+      "source": "Mantle"
+    }
+  ]
 }

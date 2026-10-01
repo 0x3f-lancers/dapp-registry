@@ -1,0 +1,55 @@
+{
+  "slug": "sonarx",
+  "name": "SonarX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761065/dapp-store-logos/sonarx.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Hyperliquid",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "SonarX delivers institutional blockchain datasets via cloud data shares, streaming and file delivery.",
+    "description": "SonarX delivers indexed blockchain data across more than 130 chains, with smart contracts decoded and a documented data quality framework behind it. Teams take it as real-time streaming or scheduled loads into the warehouse they already query. The company holds SOC 2 compliance and prices to scale with volume rather than per seat. Its leadership includes former ConsenSys managing partner Vanessa Grellet.",
+    "meta": "Chain data delivered into Snowflake, BigQuery and Databricks rather than behind another API.",
+    "pageTitle": "SonarX - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sonarx.com",
+    "twitter": "https://x.com/SonarX_HQ"
+  },
+  "relations": {
+    "alternatives": [
+      "birdeye-data-services",
+      "birdeye-so",
+      "codex-api"
+    ],
+    "related": [
+      "envio",
+      "subquery",
+      "subsquid"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Hyperliquid Liquidations Data Explained",
+      "tldr": "Explains what Hyperliquid liquidation records show and how to interpret the data when analyzing market activity.",
+      "url": "https://www.sonarx.com/blog/hyperliquid-liquidations-data",
+      "source": "SonarX",
+      "tag": "Explainer"
+    },
+    {
+      "title": "RWA Summit Questions Answered With Data",
+      "tldr": "Shows how SonarX uses ten onchain queries to test claims about real-world asset markets.",
+      "url": "https://www.sonarx.com/blog/rwa-summit-ten-questions",
+      "source": "SonarX",
+      "tag": "Research"
+    }
+  ]
+}

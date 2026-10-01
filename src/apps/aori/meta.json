@@ -1,0 +1,54 @@
+{
+  "slug": "aori",
+  "name": "Aori",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760738/dapp-store-logos/aori.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Intent settlement protocol where solvers compete to fill trades, settled atomically across chains.",
+    "description": "Aori moves order matching off-chain for speed and keeps settlement on-chain. Traders sign orders instead of sending transactions, so placing and cancelling is gasless. Solvers and market makers then compete for each order, and the fill settles in one MEV-protected transaction with no slippage beyond the signed price. Developers get a single interface to liquidity on many chains rather than a separate integration for each.",
+    "meta": "Aori matches signed, gasless orders off-chain and settles them atomically on-chain, with solvers competing for the best price.",
+    "pageTitle": "Aori - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aori.io",
+    "twitter": "https://x.com/aori_io"
+  },
+  "relations": {
+    "alternatives": [
+      "chainport-io",
+      "hop-aggregator",
+      "hop-protocol"
+    ],
+    "related": [
+      "hyperlane",
+      "jumper-exchange",
+      "strato-nexus"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Order Books Work",
+      "tldr": "Explains order book mechanics and the market microstructure behind high-frequency onchain trading.",
+      "url": "https://aori.io/research/posts/how-orderbooks-work",
+      "source": "Aori Research",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Aori's Settlement Design and Game Theory",
+      "tldr": "Aori explains its signed-order settlement contract, offchain order books, and the incentives behind its DeFi design.",
+      "url": "https://www.aori.io/research/posts/Aori-Game-Theory-Defi",
+      "source": "Aori Research",
+      "tag": "Research"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "mystic-forge",
+  "name": "Mystic Forge",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760982/dapp-store-logos/mystic-forge.jpg",
+  "category": "Decentralized Games",
+  "subcategory": [
+    "Web3 Games"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Crafting game where players combine elements to discover new recipes and win jackpots.",
+    "description": "Mystic Forge is a discovery game: players combine elements, and whoever finds a recipe first claims a legendary artifact and a jackpot. Packs give new elements and bonuses, and its MST token trades on a built-in exchange, with mining NFTs for regular players. Crafting went live on 30 April 2026, and the game runs in World App and on Telegram.",
+    "meta": "Combine elements to discover recipes first and win jackpots in Mystic Forge, a crafting game in World App and Telegram.",
+    "pageTitle": "Mystic Forge - Decentralized Games - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mysticforgegame.com",
+    "twitter": "https://x.com/MysticForgeGame"
+  },
+  "relations": {
+    "alternatives": [
+      "crabada",
+      "wam",
+      "darkfrontiers"
+    ],
+    "related": [
+      "chibi-clash",
+      "shrapnel",
+      "galaxia-chronicles"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Crafting Mechanics",
+      "tldr": "Game docs on combining four elements in the Forge, how recipes resolve and how discovering one first earns an artifact.",
+      "url": "https://mysticforgegame.com/docs/crafting-mechanics",
+      "source": "Mystic Forge Docs",
+      "tag": "Gaming"
+    },
+    {
+      "title": "MST Tokenomics",
+      "tldr": "Explains MST's supply split between growth and liquidity reserves, and how artifact mining and pack sales emit and burn it.",
+      "url": "https://mysticforgegame.com/docs/mst-tokenomics",
+      "source": "Mystic Forge Docs",
+      "tag": "Gaming"
+    }
+  ]
+}

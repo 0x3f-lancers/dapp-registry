@@ -1,0 +1,53 @@
+{
+  "slug": "chainrails",
+  "name": "Chainrails",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760796/dapp-store-logos/chainrails.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Chainrails accepts crypto, card, Apple Pay and bank payments through one integration.",
+    "description": "Chainrails accepts crypto on any supported chain, card, Apple Pay, bank transfer or a local fiat rail, all through one integration. Underneath it handles provider selection, ramps, swaps, bridging, routing and settlement, so the integrator does not maintain separate relationships for each. Withdrawals run the same way, paying users out across chains, tokens and fiat without the merchant sourcing liquidity itself. A dashboard reports volume, revenue and performance, with control over API keys and webhooks. A liquidity orchestration feature in development will route through stablecoin rails such as USD to CNGN to NGN.",
+    "meta": "Chainrails accepts crypto, card, Apple Pay and bank payments through a single integration.",
+    "pageTitle": "Chainrails - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://chainrails.io/",
+    "twitter": "https://x.com/chainrails_io"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "checker-finance",
+      "coinflow"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why Failed Crypto Payments Break Two Paths",
+      "tldr": "Explores what happens when a crypto payment fails and why both the sender and recipient need a clear recovery path.",
+      "url": "https://blog.chainrails.io/the-janus-problem-how-failed-crypto-transactions-break-two-paths-at-once/",
+      "source": "Chainrails",
+      "tag": "Research"
+    },
+    {
+      "title": "Chain Abstraction as Payment Infrastructure",
+      "tldr": "Explains how hiding network boundaries can make Web3 payments work across chains without separate user workflows.",
+      "url": "https://blog.chainrails.io/chain-abstraction-the-infrastructure-layer-that-will-make-or-break-web3/",
+      "source": "Chainrails",
+      "tag": "Infrastructure"
+    }
+  ]
+}

@@ -35,5 +35,19 @@
       "betdex",
       "aave"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Protocol FAQ",
+      "tldr": "Fixed and variable rate borrowing answered end to end, including what happens at maturity.",
+      "url": "https://docs.exact.ly/getting-started/faq",
+      "source": "Exactly"
+    },
+    {
+      "title": "How The App Works",
+      "tldr": "The consumer side explained: spending against collateral, and what triggers a liquidation.",
+      "url": "https://docs.exact.ly/exa-app/how-the-exa-app-works",
+      "source": "Exactly"
+    }
+  ]
 }

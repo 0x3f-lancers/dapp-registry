@@ -1,0 +1,55 @@
+{
+  "slug": "keplr",
+  "name": "Keplr",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760929/dapp-store-logos/keplr.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Monad",
+    "Cosmos",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Keplr is a multi-chain wallet, originally built for Cosmos, now supporting EVM chains including Monad.",
+    "description": "Keplr is a multichain wallet originating in the Cosmos ecosystem and now covering Monad and other networks. Users stake and liquid stake, swap across chains and manage all on-chain activity without switching wallets or networks. It ships as a browser extension and mobile app. The same stack is available open-source as an embedded wallet for other applications.",
+    "meta": "Keplr is a multi-chain wallet built for Cosmos, now supporting EVM networks including Monad.",
+    "pageTitle": "Keplr - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.keplr.app/",
+    "twitter": "https://x.com/keplrwallet"
+  },
+  "relations": {
+    "alternatives": [
+      "coin98-super-wallet",
+      "imtoken",
+      "trust-wallet"
+    ],
+    "related": [
+      "okx-wallet",
+      "utila",
+      "atomic-wallet"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Slippage Works in Crypto Swaps",
+      "tldr": "Explains why a swap's execution price can differ from the quote and how to assess slippage.",
+      "url": "https://www.keplr.app/glossary/what-is-slippage-in-swaps",
+      "source": "Keplr",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Ways to Earn With Keplr",
+      "tldr": "Introduces earning options available through Keplr and the wallet actions involved in using them.",
+      "url": "https://www.keplr.app/glossary/earn-more-with-keplr",
+      "source": "Keplr",
+      "tag": "Tutorial"
+    }
+  ]
+}

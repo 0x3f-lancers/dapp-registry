@@ -30,5 +30,21 @@
       "unleash-nfts",
       "yey-technologies"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Agentic Financial Workflows",
+      "tldr": "Wiring a model into a research terminal so it can pull and act on data, and the governance that has to sit around that.",
+      "url": "https://openbb.co/blog/introducing-workspace-mcp",
+      "source": "OpenBB",
+      "publishedAt": "2026-05-26"
+    },
+    {
+      "title": "A Terminal For Small Teams",
+      "tldr": "What an investment workspace needs when there is no data team behind it, and which parts were cut to make that work.",
+      "url": "https://openbb.co/blog/introducing-openbb-workspace-lite-for-small-investment-teams",
+      "source": "OpenBB",
+      "publishedAt": "2026-07-21"
+    }
+  ]
 }

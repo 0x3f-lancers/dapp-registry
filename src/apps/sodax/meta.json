@@ -1,0 +1,53 @@
+{
+  "slug": "sodax",
+  "name": "SODAX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761064/dapp-store-logos/sodax.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "SODAX is a cross-network execution and liquidity system for complex multi-chain flows.",
+    "description": "SODAX is a cross-network execution and liquidity system for applications that need complex financial actions without building cross-chain infrastructure themselves. Its HTTP API and TypeScript SDK quote and execute cross-network swaps, and the same SDK covers supplying, borrowing, withdrawing and repaying in lending markets. Asset transfers move through hub-and-spoke vaults via a separate bridge SDK, and leveraged yield vaults can be entered and exited programmatically. Separate guides cover HTTP, Solana and AI agent integrations.",
+    "meta": "SODAX is a cross-network execution and liquidity system whose API and SDK handle swaps, lending, bridging and yield vaults across chains.",
+    "pageTitle": "SODAX - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sodax.com/",
+    "twitter": "https://x.com/gosodax"
+  },
+  "relations": {
+    "alternatives": [
+      "debridge",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "hyperunit",
+      "layerzero",
+      "mayan"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Four Cross Chain DEX Architectures Compared",
+      "tldr": "Compares aggregators, native asset pools, intent networks and unified execution for cross chain trading.",
+      "url": "https://sodax.com/articles/cross-chain-dex-architectures",
+      "source": "SODAX",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Robinhood Stock Tokens on Four Networks",
+      "tldr": "Explains which Robinhood tokenized assets SODAX supports and how its cross network execution reaches them.",
+      "url": "https://sodax.com/news/sodax-whitelists-robinhood-stocks-across-4-networks",
+      "source": "SODAX",
+      "tag": "Explainer"
+    }
+  ]
+}

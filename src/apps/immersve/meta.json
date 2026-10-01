@@ -1,0 +1,51 @@
+{
+  "slug": "immersve",
+  "name": "Immersve",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760920/dapp-store-logos/immersve.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Credit Cards"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Immersve provides infrastructure for crypto-funded payments over the Mastercard network.",
+    "description": "Immersve lets crypto balances be spent through the Mastercard network, handling the bridging between on-chain funds and card settlement. Businesses integrate it to issue cards backed by either self-custodial Web3 wallets or custodial wallets, with separate integration guides for each. Cards can be added to xPay mobile wallets, and Immersve provides KYC and cardholder support as part of the service. Supported regions and card payment mechanics sit alongside the API reference.",
+    "meta": "Immersve provides infrastructure for crypto-funded card payments over the Mastercard network.",
+    "pageTitle": "Immersve - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.immersve.com/",
+    "twitter": "https://x.com/immersve"
+  },
+  "relations": {
+    "alternatives": [
+      "rain"
+    ],
+    "related": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "alfred-pay"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Card Payments 101",
+      "tldr": "Explains payment authorization, clearing and settlement in Immersve's Mastercard card flows.",
+      "url": "https://docs.immersve.com/guides/card-payments-101/",
+      "source": "Immersve",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Immersve Funding Protocols",
+      "tldr": "Describes how approval-based and custodial funding models support stablecoin-backed card payments.",
+      "url": "https://docs.immersve.com/guides/funding-protocols/",
+      "source": "Immersve",
+      "tag": "Infrastructure"
+    }
+  ]
+}

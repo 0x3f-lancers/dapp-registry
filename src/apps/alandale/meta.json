@@ -1,0 +1,53 @@
+{
+  "slug": "alandale",
+  "name": "Alandale",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760724/dapp-store-logos/alandale.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Alandale is a ve(3,3) liquidity market on Robinhood Chain that routes swap fees to lockers.",
+    "description": "Alandale runs a ve(3,3) liquidity market on Robinhood Chain where swap fees are routed to lockers instead of staying with the pool. Fees collected across its pools go to holders who lock the LUTE token, and locking also grants votes. Those votes direct emissions toward chosen pools, so lockers decide which markets get deepened. The project frames the whole mechanism in outlaw terms, taking from the swaps and handing the proceeds to whoever locks.",
+    "meta": "Alandale is a ve(3,3) liquidity market on Robinhood Chain where swap fees go to LUTE lockers, whose votes direct emissions toward chosen pools.",
+    "pageTitle": "Alandale - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://alandale.xyz/",
+    "twitter": "https://x.com/alandalexyz"
+  },
+  "relations": {
+    "alternatives": [
+      "curve-finance",
+      "ekubo",
+      "fables-fi"
+    ],
+    "related": [
+      "gigadex",
+      "hybra-finance",
+      "infinex"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Bridge to Robinhood Chain",
+      "tldr": "A practical guide to moving assets onto Robinhood Chain, including what assets to hold and access restrictions to check.",
+      "url": "https://alandale.xyz/blog/how-to-bridge-to-robinhood-chain",
+      "source": "Alandale",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "USDG on Robinhood Chain Explained",
+      "tldr": "Explains why USDG is the quote asset for tokenized equity pairs on Robinhood Chain and what depends on its peg.",
+      "url": "https://alandale.xyz/blog/usdg-explained-robinhood-stablecoin",
+      "source": "Alandale",
+      "tag": "Explainer"
+    }
+  ]
+}

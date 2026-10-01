@@ -1,0 +1,54 @@
+{
+  "slug": "d2-finance",
+  "name": "D2 Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760825/dapp-store-logos/d2-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "D2 Finance runs actively traded quantitative vaults with defined risk mandates.",
+    "description": "D2 Finance is a multi-strategy fund running derivatives strategies as tokenized on-chain vaults, actively traded and not passively allocated. The team came from quantitative derivatives desks at APAC institutions, with five years there and a further two years trading in crypto. Vaults share liquidity across strategies and every position is auditable on-chain. Deployments now include Hyperliquid and Robinhood Chain.",
+    "meta": "Quant strategies run as actively traded onchain vaults, with every position visible in real time.",
+    "pageTitle": "D2 Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://d2.finance/",
+    "twitter": "https://x.com/D2_Finance"
+  },
+  "relations": {
+    "alternatives": [
+      "beefy",
+      "ipor",
+      "altura-trade"
+    ],
+    "related": [
+      "lagoon",
+      "beefy-finance",
+      "equilibria"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Trading Strategies",
+      "tldr": "Vault-based protocols pool your funds inside a standardized structure so the trading strategy can deploy them.",
+      "url": "https://docs.d2.finance/docs/trading-strategies.md",
+      "source": "D2 Finance",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Vault Design",
+      "tldr": "Vault Architecture Each vault (GLP++, GM, etc.) is a standalone unit made up of two key components: the Vault , and the Trader .",
+      "url": "https://docs.d2.finance/docs/vault-design.md",
+      "source": "D2 Finance",
+      "tag": "Explainer"
+    }
+  ]
+}

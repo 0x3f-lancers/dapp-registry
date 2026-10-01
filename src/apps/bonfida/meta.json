@@ -29,5 +29,19 @@
       "franklin",
       "radom"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Registering A Domain",
+      "tldr": "How a name is claimed and renewed on Solana, and what happens if you let it lapse.",
+      "url": "https://docs.bonfida.org/collection/sns-v2/register",
+      "source": "Bonfida"
+    },
+    {
+      "title": "The Token Behind The Names",
+      "tldr": "A long piece on how the naming service's token works and what it governs.",
+      "url": "https://docs.bonfida.org/collection/tokenomics/sns-token",
+      "source": "Bonfida"
+    }
+  ]
 }

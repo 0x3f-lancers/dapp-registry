@@ -1,0 +1,52 @@
+{
+  "slug": "chipper-cash",
+  "name": "Chipper Cash",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760801/dapp-store-logos/chipper-cash.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "African money app for free transfers home, virtual Visa cards and US stock investing.",
+    "description": "Chipper Cash serves more than 5 million users, sending money to bank and mobile money accounts in over 21 African countries without fees. Its virtual Visa card, with over a million issued, lets users pay for subscriptions and shopping abroad, and the app offers investing in more than 6,000 US public companies. It handles around 250,000 transactions a day and also offers crypto.",
+    "meta": "Send money free to 21+ African countries, spend with a virtual Visa and invest in US stocks with Chipper Cash.",
+    "pageTitle": "Chipper Cash - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.chippercash.com",
+    "twitter": "https://x.com/chippercashapp"
+  },
+  "relations": {
+    "alternatives": [
+      "cryptorefills",
+      "ivorypay"
+    ],
+    "related": [
+      "boomfi",
+      "swappin-gifts",
+      "koywe"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Chipper Payment Links Work",
+      "tldr": "Official help article for creating and sharing a Chipper payment link and receiving payments.",
+      "url": "https://support.chippercash.com/en/articles/9259720-chipper-payment-link",
+      "source": "Chipper Cash",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Stable and Chipper Cash Payment Partnership",
+      "tldr": "Explains how Chipper Cash plans to use Stable's USDT payment rails for cross-border transfers.",
+      "url": "https://www.chippercash.com/blog/stable-partnership",
+      "source": "Chipper Cash",
+      "tag": "Infrastructure"
+    }
+  ]
+}

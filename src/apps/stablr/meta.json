@@ -1,0 +1,63 @@
+{
+  "slug": "stablr",
+  "name": "StablR",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761071/dapp-store-logos/stablr.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "RWA Tokenization Platforms"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "European issuer of EURR and USDR, fully reserved euro and dollar stablecoins.",
+    "description": "StablR issues EURR, a euro stablecoin, and USDR, a dollar stablecoin, both 100% backed by reserves held in segregated accounts at major financial institutions, with proof of reserves published for EURR. About 11 million EURR are in circulation. The tokens run on Ethereum and Solana and are listed on exchanges, and EURR is also used on Plasma. StablR recently disclosed and contained a security exploit.",
+    "meta": "StablR issues EURR and USDR, reserve-backed euro and dollar stablecoins with published proof of reserves.",
+    "pageTitle": "StablR - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.stablr.com",
+    "twitter": "https://x.com/stablreuro"
+  },
+  "relations": {
+    "alternatives": [
+      "yuzu-money",
+      "valos",
+      "anzens"
+    ],
+    "related": [
+      "schuman",
+      "tether",
+      "centrifuge"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Are StablR's EURR and USDR Tokens",
+      "tldr": "Bitfinex explains StablR's MiCA e-money tokens, how reserves back them and which chains they run on.",
+      "url": "https://blog.bitfinex.com/education/what-are-stablrs-eurr-usdr-tokens/",
+      "source": "Bitfinex Blog",
+      "tag": "Regulation",
+      "publishedAt": "2025-01-16"
+    },
+    {
+      "title": "StablR Discloses Cybersecurity Incident Affecting USDR and EURR",
+      "tldr": "StablR's own MiCAR notice of the May 2026 breach, suspending minting and redemption of EURR and USDR.",
+      "url": "https://stablr.com/insights/stablr-discloses-cybersecurity-incident-affecting-usdr-and-eurr-token-operations",
+      "source": "StablR",
+      "tag": "Security",
+      "publishedAt": "2026-05-25"
+    },
+    {
+      "title": "StablR Freezes USDR and EURR After $13.5M Unbacked Mint",
+      "tldr": "CoinDesk on how a weak 1-of-3 multisig let an attacker mint $13.5M in unbacked EURR and USDR.",
+      "url": "https://www.coindesk.com/markets/2026/05/26/stablr-freezes-usdr-and-eurr-after-attacker-mints-usd13-5-million-in-unbacked-tokens",
+      "source": "CoinDesk",
+      "tag": "Security",
+      "publishedAt": "2026-05-26"
+    }
+  ]
+}

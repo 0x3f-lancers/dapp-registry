@@ -1,0 +1,53 @@
+{
+  "slug": "nad-fun",
+  "name": "Nad.fun",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760985/dapp-store-logos/nad-fun.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Nad.fun is a Monad memecoin launchpad with fair-launch bonding curves that graduate to a DEX.",
+    "description": "Nad.fun is a launchpad and trading terminal on Monad where tokens are created, traded and used in prediction markets. Its terminal ranks tokens by latest trade, market cap, 24-hour volume and creation date, so new launches surface as they move. A creator leaderboard tracks the accounts behind the most active tokens. A bridge is built into the same interface for moving assets onto the chain.",
+    "meta": "Nad.fun is a Monad memecoin launchpad and trading terminal where tokens launch on bonding curves, trade, and feed prediction markets.",
+    "pageTitle": "Nad.fun - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nad.fun",
+    "twitter": "https://x.com/naddotfun"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "bonad",
+      "brownfi",
+      "capricorn-exchange"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Nad.fun User Guide",
+      "tldr": "Explains token creation, bonding curve trading, graduation, and liquidity on the Monad launchpad.",
+      "url": "https://nad-fun.gitbook.io/nad.fun/getting-started/user-guide.md",
+      "source": "Nad.fun",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Nad.fun Customizable Fees",
+      "tldr": "Explains how token creators can route trading fees to supported fee vaults.",
+      "url": "https://nad-fun.gitbook.io/nad.fun/features/customizable-fees.md",
+      "source": "Nad.fun",
+      "tag": "Explainer"
+    }
+  ]
+}

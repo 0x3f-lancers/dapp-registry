@@ -1,0 +1,53 @@
+{
+  "slug": "gassss",
+  "name": "GASSSS",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760878/dapp-store-logos/gassss.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Gas-sponsored swap on Stable so users can trade without holding the gas token first.",
+    "description": "GASSSS removes the need to hold gas before your first transaction. Using EIP-7702-style account features, it sponsors fees for swaps between Stable-native assets such as USDT0 and STABLE, so a new user with stablecoins can trade straight away. Sponsorship currently works with supported wallets, starting with Bitget Wallet.",
+    "meta": "Swap USDT0 and other Stable assets without holding gas, as GASSSS sponsors the fee through EIP-7702 accounts.",
+    "pageTitle": "GASSSS - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gassss.xyz",
+    "twitter": "https://x.com/gassss7702"
+  },
+  "relations": {
+    "alternatives": [
+      "trebleswap",
+      "rubydex",
+      "xgram-io"
+    ],
+    "related": [
+      "eisenlabs",
+      "crema-finance",
+      "kriya"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Pay in STABLE",
+      "tldr": "Explains how GASSSS lets users pay gas in STABLE instead of Stable's gUSDT, through a sponsorship layer.",
+      "url": "https://docs.gassss.xyz/documentation/gas-sponsorship/gas-spon",
+      "source": "GASSSS Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "GASSSS Swap",
+      "tldr": "Docs for GASSSS Swap, a minimal Uniswap V2-style AMM on Stable that exposes gUSDT as a regular token.",
+      "url": "https://docs.gassss.xyz/documentation/swap/swap",
+      "source": "GASSSS Docs",
+      "tag": "DeFi"
+    }
+  ]
+}

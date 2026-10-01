@@ -1,0 +1,57 @@
+{
+  "slug": "zns-connect",
+  "name": "ZNS Connect",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761138/dapp-store-logos/zns-connect.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Name Service Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Multichain domain name service with 248,000 names across 50+ EVM chains, plus a token launchpad.",
+    "description": "ZNS Connect lets users register a domain name on more than 50 EVM networks, including Base, Ink, Soneium and Unichain, use it as an on-chain identity, and share in revenue. More than 248,000 domains are held by 182,000 owners. It also runs airdrop campaigns and a launchpad that deploys memecoins on Uniswap v4 with permanently locked liquidity, giving creators up to half of LP fees.",
+    "meta": "Register a Web3 domain on 50+ chains with ZNS Connect, now with 248K names, airdrops and a locked-LP launchpad.",
+    "pageTitle": "ZNS Connect - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://znsconnect.io",
+    "twitter": "https://x.com/ZNSConnect",
+    "discord": "https://discord.com/invite/2rrkuqT8pB"
+  },
+  "relations": {
+    "alternatives": [
+      "ens",
+      "punk-domains",
+      "solnames"
+    ],
+    "related": [
+      "bonfida",
+      "yat",
+      "Handshake"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Web3 Domains in 2025: Why ZNS Connect Is the Real Challenger",
+      "tldr": "ZNS Connect compares itself with ENS, Space ID and SNS on revenue, adoption and token models, from its own view.",
+      "url": "https://znsconnect.medium.com/web3-domains-in-2025-why-zns-connect-is-the-real-challenger-to-ens-space-id-sns-ba2ae923cd8b",
+      "source": "ZNS Connect",
+      "tag": "Identity",
+      "publishedAt": "2025-05-20"
+    },
+    {
+      "title": "ZNS Connect May 2025 Update: From Snaps to Mobile",
+      "tldr": "Monthly update covering ZNS Connect's MetaMask Snap for sending to names and its move to mobile.",
+      "url": "https://znsconnect.medium.com/zns-connect-may-2025-update-from-snaps-to-mobile-59c94354dc01",
+      "source": "ZNS Connect",
+      "tag": "Product",
+      "publishedAt": "2025-06-02"
+    }
+  ]
+}

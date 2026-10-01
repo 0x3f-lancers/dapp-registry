@@ -31,5 +31,20 @@
       "nftrade",
       "overhyped"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Running An Allowlist Campaign",
+      "tldr": "A case study of using tasks to build a mint list, what the incentives attracted, and how much of it converted.",
+      "url": "https://metablocks.world/blog/NFT-White-Listing-Made-Easy-with-Raid-to-WL",
+      "source": "Metablocks",
+      "publishedAt": "2023-04-21"
+    },
+    {
+      "title": "The Protocol Behind Upgradeable NFTs",
+      "tldr": "How a token's traits are changed after mint without reissuing it, and what the contract has to keep control of.",
+      "url": "https://metablocks.world/guides/protocol",
+      "source": "Metablocks"
+    }
+  ]
 }

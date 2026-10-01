@@ -1,0 +1,53 @@
+{
+  "slug": "heurist",
+  "name": "Heurist",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760891/dapp-store-logos/heurist.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "AI financial research for crypto and tokenized stocks, with agents that pay for data over x402.",
+    "description": "Heurist builds AI tools for investors. Heurist Finance acts as a research desk that reads the tokens in your wallet and writes a daily brief on earnings, events and price moves, charging per question for deep research. Heurist Mesh gives AI agents access to financial datasets, APIs and MCP tools that they pay for with x402 stablecoin payments. It is backed by Amber Group.",
+    "meta": "Heurist gives investors an AI research desk tuned to their wallet and lets AI agents buy financial data with x402 payments.",
+    "pageTitle": "Heurist - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://heurist.ai",
+    "twitter": "https://x.com/heurist_ai"
+  },
+  "relations": {
+    "alternatives": [
+      "zero-hash",
+      "hyper-oracle",
+      "defi-pulse"
+    ],
+    "related": [
+      "zkcodex",
+      "ball-e",
+      "vaultvision"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introducing Heurist Deep Research",
+      "tldr": "Explains how Heurist uses agents and Web3 data sources to produce research workflows for crypto questions.",
+      "url": "https://www.heurist.ai/blog/heurist-deep-research",
+      "source": "Heurist",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "Heurist Mesh and Composable AI Agents",
+      "tldr": "Explains how Heurist Mesh combines specialized agents, blockchain data, and developer tools for Web3 research workflows.",
+      "url": "https://www.heurist.ai/blog/heurist-mesh-compositional-intelligence",
+      "source": "Heurist",
+      "tag": "AI & Agents"
+    }
+  ]
+}

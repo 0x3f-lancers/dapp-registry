@@ -1,0 +1,56 @@
+{
+  "slug": "openusdt",
+  "name": "OpenUSDT",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761003/dapp-store-logos/openusdt.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "OP Mainnet",
+    "Base",
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "oUSDT and oXAUt bring Tether's dollar and gold tokens to many chains as one unified asset.",
+    "description": "OpenUSDT is backed 1:1 by native USDT locked on Ethereum and Celo, and moves between chains through Hyperlane with Chainlink CCIP as a security layer, so liquidity is not split across different bridged versions. oUSDT is live on chains such as Base, Optimism, Unichain, Mode and Soneium, and oXAUt carries Tether Gold to World Chain and Avalanche. It was built with Velodrome, Chainlink and Hyperlane.",
+    "meta": "OpenUSDT carries USDT and gold-backed XAUt across chains like Unichain and World Chain as one 1:1-backed token.",
+    "pageTitle": "OpenUSDT - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.openusdt.xyz",
+    "twitter": "https://x.com/OpenUSDT"
+  },
+  "relations": {
+    "alternatives": [
+      "eco-portal",
+      "ring-exchange",
+      "brid-gg"
+    ],
+    "related": [
+      "owlto-finance",
+      "celer-cbridge",
+      "garden-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introducing OpenUSDT: The Scalable Stablecoin for the Superchain",
+      "tldr": "Hyperlane explains how Celo-minted USDT becomes oUSDT and moves across OP chains through Warp Routes.",
+      "url": "https://www.hyperlane.xyz/blog-posts-new/introducing-openusdt-the-scalable-stablecoin-for-the-superchain",
+      "source": "Hyperlane Blog",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What's the Difference Between Tether, OpenUSDT, and USDT0?",
+      "tldr": "Compares native USDT with the two bridged versions and the cross-chain mechanism behind each.",
+      "url": "https://eco.com/support/en/articles/11779142-what-s-the-difference-between-tether-openusdt-and-usdt0",
+      "source": "Eco",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -36,5 +36,19 @@
       "evm2",
       "bonadocs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "AI Scan Versus Code Scan",
+      "tldr": "What a model catches that a rule-based analyser misses, where it invents problems, and why teams end up running both.",
+      "url": "https://auditbase.com/blog/ai-scan-vs-code-scan",
+      "source": "AuditBase"
+    },
+    {
+      "title": "What MiCA Asks Of You",
+      "tldr": "The compliance obligations landing on institutions under the EU rules, and which of them touch the code rather than the paperwork.",
+      "url": "https://auditbase.com/blog/mica-compliance-financial-institutions-web3",
+      "source": "AuditBase"
+    }
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "poap",
+  "name": "POAP",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761027/dapp-store-logos/poap.jpg",
+  "category": "NFT Dapps",
+  "subcategory": [
+    "NFT Marketplaces"
+  ],
+  "chains": [
+    "Ethereum",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Proof of Attendance Protocol: collectible badges that record the events and moments you shared.",
+    "description": "POAP lets organisers give out a digital memento to everyone who took part in something, from conferences and product launches to celebrations. More than 7.5 million POAPs have been minted by over 46,000 issuers. Collectors keep them in the POAP app and galleries, and builders use the attendance data to reward communities or gate access.",
+    "meta": "Collect POAPs, digital badges proving you attended an event, with 7.5M+ minted by 46,000 issuers.",
+    "pageTitle": "POAP - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://poap.xyz",
+    "twitter": "https://x.com/poapxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "base-paint",
+      "wen-moon-market",
+      "tiexo"
+    ],
+    "related": [
+      "sqwid",
+      "niftygateway",
+      "avatr"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introducing POAP Drops",
+      "tldr": "Explains how issuers create POAP drops and distribute event collectibles to their communities.",
+      "url": "https://blog.poap.xyz/drops/",
+      "source": "POAP",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Getting Started With the POAP API",
+      "tldr": "Official developer overview for minting, distributing, displaying, and checking POAPs in an app.",
+      "url": "https://poap.readme.io/docs/getting-started",
+      "source": "POAP",
+      "tag": "Infrastructure"
+    }
+  ]
+}

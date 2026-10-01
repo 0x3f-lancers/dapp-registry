@@ -1,0 +1,53 @@
+{
+  "slug": "gami-labs",
+  "name": "Gami Labs",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760877/dapp-store-logos/gami-labs.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Gami Labs runs a professional DeFi vault platform for institutional allocators.",
+    "description": "Gami Labs curates DeFi vaults for institutional allocators, separating flagship strategies from more advanced ones so risk appetite determines the product, not the position size. Custody runs through ForDefi under MPC with a two-of-three admin quorum, and Hypernative provides real-time monitoring across every chain, asset and protocol in use. The platform layers protocol-level threat detection and operational governance on top of that. Strategies include liquidity bootstrapping programs for emerging protocols offering programmable incentives.",
+    "meta": "Gami Labs runs a professional DeFi vault platform for institutional allocators on Robinhood Chain.",
+    "pageTitle": "Gami Labs - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gamilabs.io/",
+    "twitter": "https://x.com/GamiLabs"
+  },
+  "relations": {
+    "alternatives": [
+      "beefy",
+      "beefy-finance",
+      "d2-finance"
+    ],
+    "related": [
+      "ipor",
+      "lagoon",
+      "neutral-trade"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Stellar Network Research Paper",
+      "tldr": "Studies Stellar's network foundations, real-world asset infrastructure and the role of curated vaults in liquidity.",
+      "url": "https://gamilabsen.substack.com/p/stellar-research-paper",
+      "source": "Gami Labs",
+      "tag": "Research"
+    },
+    {
+      "title": "Crypto-Asset Market Update: August 2026",
+      "tldr": "Reviews institutional activity and market conditions across digital assets in Gami Labs' monthly research.",
+      "url": "https://gamilabsen.substack.com/p/crypto-asset-market-update-august",
+      "source": "Gami Labs",
+      "tag": "Research"
+    }
+  ]
+}

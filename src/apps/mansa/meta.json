@@ -1,0 +1,54 @@
+{
+  "slug": "mansa",
+  "name": "MANSA",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760958/dapp-store-logos/mansa.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "On-demand stablecoin liquidity so payment companies can pay out without prefunding accounts.",
+    "description": "Cross-border payment firms normally park cash in accounts in every country they serve. MANSA replaces that with stablecoin capital that arrives at the moment of settlement, and handles collections, payouts, FX and treasury through one API. It covers more than 40 corridors, including naira to renminbi routes, and has moved over $664 million in stablecoin volume. It is backed by Tether.",
+    "meta": "MANSA supplies stablecoin capital at settlement time so PSPs stop prefunding, with payouts and FX in 40+ corridors.",
+    "pageTitle": "MANSA - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mansa.xyz",
+    "twitter": "https://x.com/MANSA_FI"
+  },
+  "relations": {
+    "alternatives": [
+      "drips-network",
+      "pingme",
+      "brale"
+    ],
+    "related": [
+      "acctual",
+      "franklin",
+      "airswift"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Tether-Backed MANSA Raises $10M for Cross-Border Stablecoin Payments",
+      "tldr": "How MANSA lends stablecoin liquidity to payment firms so they no longer have to prefund accounts in every corridor.",
+      "url": "https://www.ledgerinsights.com/tether-backed-mansa-raises-10m-for-cross-border-payments-with-stablecoins/",
+      "source": "Ledger Insights",
+      "tag": "Payments",
+      "publishedAt": "2025-02-20"
+    },
+    {
+      "title": "What Is MANSA Finance?",
+      "tldr": "Short explainer on MANSA's DeFi liquidity pools and how depositors earn yield from payment flows in emerging markets.",
+      "url": "https://www.gate.com/learn/articles/what-is-mansa-finance/7927",
+      "source": "Gate Learn",
+      "tag": "Explainer"
+    }
+  ]
+}

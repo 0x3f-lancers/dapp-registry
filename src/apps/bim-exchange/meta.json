@@ -1,0 +1,54 @@
+{
+  "slug": "bim-exchange",
+  "name": "BIM Exchange",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760759/dapp-store-logos/bim-exchange.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Base",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "All-in-one DeFi app to buy crypto with euros, swap, bridge, stake and buy bonds.",
+    "description": "BIM Exchange combines a fiat on-ramp with a DeFi dashboard. Users pay in euros by card or bank transfer, then swap through a meta-aggregator that queries other DEX aggregators, bridge between EVM and non-EVM chains, stake, or buy bonds, all from one interface. Its yield product, BIM Yield, is deployed on Plasma.",
+    "meta": "Buy crypto with euros, then swap, bridge, stake and buy bonds in BIM Exchange, a DEX meta-aggregator with a fiat on-ramp.",
+    "pageTitle": "BIM Exchange - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://exchange.bim.finance",
+    "twitter": "https://x.com/Bim_Exchange"
+  },
+  "relations": {
+    "alternatives": [
+      "stripe-crypto-onramp",
+      "hq-xyz",
+      "onramper"
+    ],
+    "related": [
+      "calm-treasury",
+      "onramp-money",
+      "swipelux"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What is BIM?",
+      "tldr": "Covers the BIM governance token: a fixed 30 million supply, holder voting, and the share of exchange revenue paid out to holders.",
+      "url": "https://docs.bim.finance/whitepaper",
+      "source": "BIM Finance Docs",
+      "tag": "Governance"
+    },
+    {
+      "title": "BIM Quickstart",
+      "tldr": "Beginner setup guide: creating and securing a self-custody wallet, funding it, and connecting it to BIM for the first time.",
+      "url": "https://docs.bim.finance/whitepaper/quickstart",
+      "source": "BIM Finance Docs",
+      "tag": "Tutorial"
+    }
+  ]
+}

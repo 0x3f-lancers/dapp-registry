@@ -1,0 +1,53 @@
+{
+  "slug": "onesafe",
+  "name": "OneSafe",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761000/dapp-store-logos/onesafe.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Crypto-friendly neobank for global businesses, with multi-currency accounts and corporate cards.",
+    "description": "OneSafe gives companies, including crypto firms and DAOs, one place for global accounts in USD, EUR and CAD, wires, ACH, FX, corporate cards with spend limits, and Web3 invoicing, with banking provided by partner institutions. More than 1,000 businesses in over 30 countries have moved $800 million through it.",
+    "meta": "OneSafe gives crypto-friendly businesses multi-currency accounts, wires, FX, corporate cards and Web3 invoicing.",
+    "pageTitle": "OneSafe - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.onesafe.io",
+    "twitter": "https://x.com/Onesafeio"
+  },
+  "relations": {
+    "alternatives": [
+      "mansa",
+      "solsplits",
+      "recap"
+    ],
+    "related": [
+      "swapin",
+      "base-pay-desk",
+      "coinflow"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Onramp Fiat to Crypto With OneSafe",
+      "tldr": "Walks through business account setup, identity checks, fiat deposits, and crypto conversion.",
+      "url": "https://www.onesafe.io/blog/how-to-onramp-fiat-to-crypto-using-onesafe-io",
+      "source": "OneSafe",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Payment Automation for Web3 Businesses",
+      "tldr": "Explains how OneSafe combines fiat payments, crypto conversions, approval controls, and treasury workflows.",
+      "url": "https://www.onesafe.io/blog/payment-automation-platform",
+      "source": "OneSafe",
+      "tag": "Explainer"
+    }
+  ]
+}

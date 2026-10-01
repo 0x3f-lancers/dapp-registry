@@ -36,5 +36,19 @@
       "solvm",
       "ethfiddle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Command Reference",
+      "tldr": "Every command the tool offers, with what each one does against a live chain from the terminal.",
+      "url": "https://github.com/coccoinomane/web3cli/wiki/%F0%9F%AB%A1-List-of-commands",
+      "source": "web3cli"
+    },
+    {
+      "title": "Alerts From The Terminal",
+      "tldr": "Setting up Telegram notifications on chain events, which turns the CLI into a lightweight monitor.",
+      "url": "https://github.com/coccoinomane/web3cli/wiki/%F0%9F%93%AD-Telegram-alerts",
+      "source": "web3cli"
+    }
+  ]
 }

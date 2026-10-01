@@ -29,5 +29,19 @@
       "ethrank",
       "pnthn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Protocol Specification",
+      "tldr": "The full spec for zero-knowledge identity: claims, trees and how a proof is checked.",
+      "url": "https://docs.iden3.io/protocol/spec",
+      "source": "iden3"
+    },
+    {
+      "title": "Logging In With A Proof",
+      "tldr": "How authentication works without revealing an identifier, and what the verifier learns.",
+      "url": "https://docs.iden3.io/protocol/zklogin",
+      "source": "iden3"
+    }
+  ]
 }

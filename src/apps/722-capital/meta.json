@@ -1,0 +1,53 @@
+{
+  "slug": "722-capital",
+  "name": "722 Capital",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760714/dapp-store-logos/722-capital.jpg",
+  "category": "Web3 Service Providers",
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "722 Capital manages onchain yield strategies for institutions, DAOs and family offices.",
+    "description": "722 Capital runs actively managed vaults that deploy across the more liquid yield protocols in DeFi, with a set of them curated on Hyperliquid. Net asset value is published on-chain, fees are encoded in the vault contract and depositors hold shares they can redeem on demand. The firm builds on Lagoon and Safe, which gives DAO and protocol treasuries multi-sig custody alongside real-time NAV reporting and audit-ready statements. Strategies include rotation across yield farms, each measured against a stated benchmark.",
+    "meta": "Actively managed onchain yield strategies for institutional clients, DAO treasuries and family offices.",
+    "pageTitle": "722 Capital - Web3 Service Providers - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://722.capital/",
+    "twitter": "https://x.com/722capital"
+  },
+  "relations": {
+    "alternatives": [
+      "alphaping",
+      "clearstar",
+      "coinmerce-capital"
+    ],
+    "related": [
+      "growi-finance",
+      "hyperithm",
+      "k3-capital"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why 722 Capital Opened Its Vaults",
+      "tldr": "Explains the firm's public HYPE, USDC, and ETH vaults, onchain NAV, contract fees, and redemption model.",
+      "url": "https://www.linkedin.com/posts/722-capital_defi-assetmanagement-hyperliquid-activity-7475913682502270976-9qSq",
+      "source": "722 Capital",
+      "tag": "Explainer"
+    },
+    {
+      "title": "722 Capital's Hedged HYPE Vault",
+      "tldr": "Describes the firm's delta-neutral HYPE strategy and how the vault handled recent price moves.",
+      "url": "https://www.linkedin.com/posts/722-capital_defi-onchain-assetmanagement-activity-7475224053499195392-pAEX",
+      "source": "722 Capital",
+      "tag": "Explainer"
+    }
+  ]
+}

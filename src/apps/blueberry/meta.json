@@ -1,0 +1,53 @@
+{
+  "slug": "blueberry",
+  "name": "Blueberry",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760772/dapp-store-logos/blueberry.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Blueberry is a Hyperliquid DeFi terminal that tokenizes HLP vault yield into composable assets.",
+    "description": "Blueberry is a DeFi terminal for HyperEVM whose Hypervault takes deposits and earns yield sourced from Hyperliquid's HLP vault. Depositors receive bbHLP, a token representing the position, which other protocols can accept as collateral or trade. The minimum deposit is ten dollars, and deposits currently earn a boosted Berries multiplier. The interface also covers bridging and ecosystem integrations, with the BLB governance token deployed on Ethereum mainnet.",
+    "meta": "Turns Hyperliquid HLP vault yield into a token other protocols can price and accept as collateral.",
+    "pageTitle": "Blueberry - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.blueberry.garden",
+    "twitter": "https://x.com/blueberryfdn"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "clovis",
+      "d2-finance",
+      "equilibria"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Architecture",
+      "tldr": "Explains how bbHLP represents a Hyperliquid HLP position as a token usable on HyperEVM.",
+      "url": "https://docs.blueberry.garden/bbhlp/architecture.md",
+      "source": "Blueberry",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Depositing into bbHLP",
+      "tldr": "Guides users through depositing supported assets to receive bbHLP shares.",
+      "url": "https://docs.blueberry.garden/bbhlp/depositing-into-bbhlp.md",
+      "source": "Blueberry",
+      "tag": "Tutorial"
+    }
+  ]
+}

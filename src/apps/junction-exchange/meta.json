@@ -1,0 +1,53 @@
+{
+  "slug": "junction-exchange",
+  "name": "Junction",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760927/dapp-store-logos/junction-exchange.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Junction is a swap and bridge aggregator routing trades across EVM chains, Solana and Hyperliquid.",
+    "description": "Junction is a cross-chain DeFi exchange reaching EVM networks, Solana and Hyperliquid through one API. A single call covers smart-routed swaps and bridging, and the same interface exposes Hyperliquid perpetuals, Morpho earn positions and a fiat on-ramp. The platform is built for automated consumers as much as people, publishing an OpenAPI 3.1 specification, an A2A agent card and RFC 9727 and 9728 discovery documents so agents can integrate without bespoke work.",
+    "meta": "Junction is a cross-chain exchange routing swaps and bridges across EVM chains, Solana and Hyperliquid through one API for people and agents.",
+    "pageTitle": "Junction - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://junction.exchange",
+    "twitter": "https://x.com/junctionhq"
+  },
+  "relations": {
+    "alternatives": [
+      "debridge",
+      "garden-finance",
+      "hyperlane"
+    ],
+    "related": [
+      "hyperunit",
+      "layerzero",
+      "mayan"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Introduces Junction’s documentation and its user and developer tools.",
+      "url": "https://docs.junction.exchange/introduction.md",
+      "source": "Junction",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Introduction",
+      "tldr": "Explains how to create a referral or VIP affiliate program with Junction Earn.",
+      "url": "https://docs.junction.exchange/junction-earn/introduction.md",
+      "source": "Junction",
+      "tag": "Explainer"
+    }
+  ]
+}

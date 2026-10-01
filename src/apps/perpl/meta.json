@@ -1,0 +1,52 @@
+{
+  "slug": "perpl",
+  "name": "Perpl",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761020/dapp-store-logos/perpl.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Perpl is a decentralized perpetual futures exchange with leverage on Monad.",
+    "description": "Perpl is a perpetuals exchange on Monad offering leveraged positions on crypto markets. The documentation sets out its trading mechanics and the reasoning behind building another perp DEX on a new chain. It is aimed at traders wanting leverage denominated and settled natively on Monad.",
+    "meta": "Perpl is a perpetual futures exchange on Monad offering leveraged positions on crypto markets, denominated and settled natively on the chain.",
+    "pageTitle": "Perpl - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://perpl.xyz/",
+    "twitter": "https://x.com/perpltrade"
+  },
+  "relations": {
+    "alternatives": [
+      "leverup",
+      "monday-trade"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Understanding Perpetual Market Liquidations",
+      "tldr": "Explains how leverage and collateral changes trigger liquidation in perpetual futures markets.",
+      "url": "https://blog.perpl.xyz/understanding-liquidations-in-perp-markets/",
+      "source": "Perpl",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Leverage Descent and Open-Interest Caps",
+      "tldr": "Explains why oversized leveraged positions can threaten a perp market and how Perpl limits open interest.",
+      "url": "https://blog.perpl.xyz/leverage-descent-sybill-proof-oi-caps/",
+      "source": "Perpl",
+      "tag": "Security"
+    }
+  ]
+}

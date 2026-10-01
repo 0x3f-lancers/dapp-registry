@@ -1,0 +1,53 @@
+{
+  "slug": "covenant-finance",
+  "name": "Covenant",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760815/dapp-store-logos/covenant-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Covenant is a liquid credit market on Monad that turns on-chain assets into leverage and yield.",
+    "description": "Covenant turns any on-chain asset into fully backed leverage on one side and yield on the other, acting as a liquid credit layer on Monad. Each market lists its base asset alongside the leverage token and yield token minted against it, and positions stay liquid rather than locked for a fixed term. Deposits into the yield side fund the leverage side, and both are tradeable while open.",
+    "meta": "Covenant is a liquid credit market on Monad that turns onchain assets into leverage tokens and yield tokens, both tradeable while open.",
+    "pageTitle": "Covenant - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.covenant.finance",
+    "twitter": "https://x.com/covenantFi"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "curvance",
+      "euler"
+    ],
+    "related": [
+      "folks-finance",
+      "gearbox",
+      "morpho"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Latent Swap AMM",
+      "tldr": "Explains Covenant’s Latent Swap AMM and how it prices trades.",
+      "url": "https://docs.covenant.finance/protocol-mechanism/latent-swap-amm.md",
+      "source": "Covenant",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Swap",
+      "tldr": "Shows how to swap between base assets and Covenant’s leverage and yield coins.",
+      "url": "https://docs.covenant.finance/user-guide/market-page/swap.md",
+      "source": "Covenant",
+      "tag": "Tutorial"
+    }
+  ]
+}

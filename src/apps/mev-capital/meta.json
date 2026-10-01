@@ -1,0 +1,54 @@
+{
+  "slug": "mev-capital",
+  "name": "MEV Capital",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760971/dapp-store-logos/mev-capital.jpg",
+  "category": "Web3 Service Providers",
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "MEV Capital is an onchain liquidity and DeFi risk management firm curating lending vaults.",
+    "description": "MEV Capital curates vaults and manages risk parameters for permissionless lending markets, deploying bespoke yield strategies on behalf of depositors. Its work covers economic security as much as returns, setting the parameters that decide how a market behaves under stress. The vaults it curates are listed with the value locked in each, and its positions extend to Hyperliquid.",
+    "meta": "Onchain liquidity management and lending vault curation, with collateral policy as the real product.",
+    "pageTitle": "MEV Capital - Web3 Service Providers - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mevcapital.com/",
+    "twitter": "https://x.com/mevcapital"
+  },
+  "relations": {
+    "alternatives": [
+      "722-capital",
+      "alphaping",
+      "clearstar"
+    ],
+    "related": [
+      "coinmerce-capital",
+      "growi-finance",
+      "hyperithm"
+    ]
+  },
+  "resources": [
+    {
+      "title": "MEV Capital Vault Curation Methodology",
+      "tldr": "Explains how MEV Capital evaluates markets, collateral, protocols, and risks before allocating vault assets.",
+      "url": "https://mevcapital.gitbook.io/vaults-protocol/methodology-and-curation",
+      "source": "MEV Capital",
+      "tag": "Explainer"
+    },
+    {
+      "title": "MEV Capital Vaultbook",
+      "tldr": "Introduces MEV Capital's curated vault strategies and the research behind their construction.",
+      "url": "https://mevcapital.gitbook.io/vaults-protocol",
+      "source": "MEV Capital",
+      "tag": "Explainer"
+    }
+  ]
+}

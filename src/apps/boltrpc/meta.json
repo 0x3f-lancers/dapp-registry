@@ -1,0 +1,58 @@
+{
+  "slug": "boltrpc",
+  "name": "BoltRPC",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760773/dapp-store-logos/boltrpc.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Monad",
+    "Ethereum",
+    "Solana",
+    "Arbitrum",
+    "Plasma",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "BoltRPC is a dedicated RPC provider with fixed request weights and predictable flat pricing.",
+    "description": "One API key covers more than 35 chains on BoltRPC, including Ethereum, Solana, Arbitrum and Monad, with failover handled transparently. Billing uses fixed request-unit weights and a flat monthly fee starting at 49 dollars, so a bill does not move with how expensive each call happens to be. The dashboard reports request volume, error rates and latency per network. BoltRPC has been in production since 2021, holds ISO 27001 certification and offers a 14-day trial with five million request units.",
+    "meta": "BoltRPC is a dedicated RPC provider offering fixed request weights and predictable flat pricing.",
+    "pageTitle": "BoltRPC - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://boltrpc.io/",
+    "twitter": "https://x.com/boltrpc"
+  },
+  "relations": {
+    "alternatives": [
+      "chainstack",
+      "getblock",
+      "rockx"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "quicknode"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Improving RPC Reliability for Web3 Apps",
+      "tldr": "Covers provider failover, retries, monitoring and latency thresholds for keeping blockchain RPC calls reliable in production.",
+      "url": "https://boltrpc.io/blog/how-to-improve-rpc-reliability-web3-dapps",
+      "source": "BoltRPC",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "WebSocket Versus Polling for Block Data",
+      "tldr": "Compares a live newHeads stream with one-second polling over 24 hours, including request cost and detection speed.",
+      "url": "https://boltrpc.io/blog/websocket-vs-polling-measured",
+      "source": "BoltRPC",
+      "tag": "Research"
+    }
+  ]
+}

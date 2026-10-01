@@ -1,0 +1,53 @@
+{
+  "slug": "exolix",
+  "name": "Exolix",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760854/dapp-store-logos/exolix.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Exolix is an instant crypto exchange offering registration-free swaps between assets.",
+    "description": "Exolix is a non-custodial swap aggregator that pulls liquidity from centralized venues to price thousands of pairs. Routing algorithms read liquidity in real time and pick the best available offer for each swap. Because the architecture is non-custodial, the service never holds the assets moving through it. Exolix also licenses the same routing and liquidity infrastructure to other crypto services.",
+    "meta": "Exolix is an instant crypto exchange offering registration-free swaps between digital assets.",
+    "pageTitle": "Exolix - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://exolix.com/",
+    "twitter": "https://x.com/Exolix_com"
+  },
+  "relations": {
+    "alternatives": [
+      "bybit",
+      "changehero",
+      "letsexchange"
+    ],
+    "related": [
+      "simpleswap",
+      "debank",
+      "nansen-portfolio"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Real-World Assets in Crypto Explained",
+      "tldr": "Introduces real-world asset tokenization, common asset types and the main benefits and risks of RWA tokens.",
+      "url": "https://exolix.com/blog/what-are-real-world-assets-rwa-in-crypto-complete-guide",
+      "source": "Exolix",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Fixed Versus Floating Swap Rates",
+      "tldr": "Explains how fixed and floating exchange quotes respond to volatility and when a swapper may prefer each option.",
+      "url": "https://exolix.com/blog/fixed-vs-floating-crypto-exchange-rates-which-one-should-you-choose",
+      "source": "Exolix",
+      "tag": "Explainer"
+    }
+  ]
+}

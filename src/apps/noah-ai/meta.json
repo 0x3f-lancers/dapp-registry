@@ -1,0 +1,54 @@
+{
+  "slug": "noah-ai",
+  "name": "Noah AI",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760991/dapp-store-logos/noah-ai.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Development Frameworks"
+  ],
+  "chains": [
+    "Monad",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Noah AI is a no-code AI builder for full-stack onchain apps on Solana and Monad.",
+    "description": "Noah AI generates web and mobile applications with on-chain functionality built in, aimed at developers who want a working dapp without assembling the stack. It publishes the set of networks a generated app can deploy to, Monad and Solana among them. Integrations cover the services a typical application needs alongside contract interaction.",
+    "meta": "Noah AI is a no-code AI builder that generates full-stack web and mobile apps with onchain features, deployable to Monad and Solana.",
+    "pageTitle": "Noah AI - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://trynoah.ai",
+    "twitter": "https://x.com/trynoahxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "tatum",
+      "mosaia",
+      "particle-network"
+    ],
+    "related": [
+      "flipside-crypto",
+      "moralis",
+      "multisender"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Analytics comparison guide",
+      "tldr": "Compares analytics tools available to apps built with Noah.",
+      "url": "https://docs.trynoah.ai/integrations/analytics/comparison-guide.md",
+      "source": "Noah AI",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Security Overview",
+      "tldr": "Explains Noah’s built-in security controls for building and deploying apps.",
+      "url": "https://docs.trynoah.ai/security/overview.md",
+      "source": "Noah AI",
+      "tag": "Security"
+    }
+  ]
+}

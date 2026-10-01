@@ -35,5 +35,25 @@
       "reddio",
       "op-mainnet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Bridge Works",
+      "tldr": "The validator set, the locking step and the mint on the far side, laid out end to end for a non-specialist.",
+      "url": "https://www.hashport.network/how-it-works",
+      "source": "hashport"
+    },
+    {
+      "title": "Who Signs A Bridge Transfer",
+      "tldr": "The validator swarm explained: how many have to sign, what they are watching, and where the trust actually sits.",
+      "url": "https://www.hashport.network/validators/",
+      "source": "hashport"
+    },
+    {
+      "title": "Bridging A Token, Step By Step",
+      "tldr": "A user-side walkthrough of moving an ERC-20 across, with the fees and the waiting periods spelled out.",
+      "url": "https://www.surgewomen.io/learn-about-web3/how-hashport-is-bridging-erc-20-tokens-into-the-hedera-defi-ecosystem",
+      "source": "Surge Women"
+    }
+  ]
 }

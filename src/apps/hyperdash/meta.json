@@ -1,0 +1,53 @@
+{
+  "slug": "hyperdash",
+  "name": "HyperDash",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760903/dapp-store-logos/hyperdash.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "HyperDash is a trading terminal for Hyperliquid with real-time analytics and portfolio tracking.",
+    "description": "HyperDash is a trading platform for Hyperliquid covering crypto perpetuals, spot that settles to the user's own wallet, and RWA perpetuals on stocks, pre-IPO companies, indices, commodities and FX through HIP-3 markets that stay open with no market holidays. A Perp RFQ facility sources firm quotes from market makers for block-size orders. Its analytics side includes a trader explorer for any Hyperliquid wallet, cohort views of market positioning by PnL and wallet size, live TWAPs and a cross-market leaderboard. Each asset carries its own leverage limit.",
+    "meta": "HyperDash is a Hyperliquid trading terminal offering real-time perps analytics and portfolio tracking.",
+    "pageTitle": "HyperDash - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperdash.com/",
+    "twitter": "https://x.com/hyperdash"
+  },
+  "relations": {
+    "alternatives": [
+      "coinmarketman",
+      "matrixnet",
+      "thekingfisher"
+    ],
+    "related": [
+      "bitget",
+      "bybit",
+      "coinstats"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Onboarding, Deposits & Wallets",
+      "tldr": "Guides users through funding Hyperdash and managing wallets.",
+      "url": "https://docs.hyperdash.com/onboarding-deposits.md",
+      "source": "HyperDash",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Trading Indicators",
+      "tldr": "Explains Hyperdash’s liquidation and stop loss heatmaps and live trade feed.",
+      "url": "https://docs.hyperdash.com/trading-indicators.md",
+      "source": "HyperDash",
+      "tag": "Tutorial"
+    }
+  ]
+}

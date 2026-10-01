@@ -29,5 +29,25 @@
       "verda-ventures",
       "dcap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading A Stablecoin's Contracts",
+      "tldr": "A technical walk through one stablecoin's on-chain code, covering how issuance and redemption are enforced.",
+      "url": "https://blockchainalpha.tech/breaking-down-the-glo-dollar-smart-contracts-technical-insights/",
+      "source": "Blockchain Alpha"
+    },
+    {
+      "title": "Inside A Yield-Bearing Dollar",
+      "tldr": "What backs the token, where the yield originates, and the questions to ask before holding one.",
+      "url": "https://blockchainalpha.tech/exploring-hermiticas-usdh-everything-you-need-to-know/",
+      "source": "Blockchain Alpha"
+    },
+    {
+      "title": "Wiring A Frontend To A Database",
+      "tldr": "A practical guide to persisting form data from a web app, aimed at developers building their first full stack.",
+      "url": "https://blockchainalpha.tech/quick-guide-on-storing-frontend-form-to-neon-database/",
+      "source": "Blockchain Alpha"
+    }
+  ]
 }

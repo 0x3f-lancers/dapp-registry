@@ -1,0 +1,53 @@
+{
+  "slug": "paj-cash",
+  "name": "Paj",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761013/dapp-store-logos/paj-cash.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Paj is an offramp letting users convert crypto to fiat directly from their own wallet.",
+    "description": "Paj converts crypto to fiat directly from a user's own wallet, bridging stablecoins to African bank accounts. Its public API is built around a single primitive: an integration registers each user's bank account with a bank code and account number, then initiates payouts against it with the fee already applied. Most integrations are small as a result, needing only account registration and payout calls. API keys are self-serve.",
+    "meta": "Paj is an offramp that converts crypto to fiat straight from a user's own wallet, paying stablecoins out to African bank accounts.",
+    "pageTitle": "Paj - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://paj.cash/",
+    "twitter": "https://x.com/paj_cash"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Bank account addresses",
+      "tldr": "How a bank account becomes an on-chain address, and what happens when funds arrive.",
+      "url": "https://docs.paj.cash/concepts/bank-account-addresses.md",
+      "source": "Paj",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Onramp",
+      "tldr": "Taking fiat from a user and delivering tokens to their wallet.",
+      "url": "https://docs.paj.cash/concepts/onramp.md",
+      "source": "Paj",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -33,5 +33,26 @@
       "amply-finance",
       "yield-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Fundamentals, Explained",
+      "tldr": "The protocol's own primer on how staking positions are created, priced and unwound, written for someone new to it.",
+      "url": "https://earn.network/blog/fundamentals/",
+      "source": "Earn Network",
+      "publishedAt": "2026-08-19"
+    },
+    {
+      "title": "Integrating The Staking Markets",
+      "tldr": "Developer notes on plugging into the pools: what the contracts expose, and what a partner has to handle themselves.",
+      "url": "https://earn.network/blog/developes/",
+      "source": "Earn Network"
+    },
+    {
+      "title": "Research And Protocol Changes",
+      "tldr": "The team's writing on what they are changing and why, including the reasoning behind pool design decisions.",
+      "url": "https://earn.network/blog/research/",
+      "source": "Earn Network"
+    }
+  ]
 }

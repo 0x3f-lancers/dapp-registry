@@ -1,0 +1,54 @@
+{
+  "slug": "yumi-finance",
+  "name": "Yumi Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761136/dapp-store-logos/yumi-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Software lab building stablecoin credit products for borrowers banks cannot underwrite.",
+    "description": "Yumi Labs, founded in 2025 in Panama, builds credit on stablecoin rails for people and assets that traditional banks turn away, starting with an on-chain buy-now-pay-later product. Its backers include people from Avalanche, ether.fi, the Ethereum Foundation, Resolv, GMX and Four Pillars.",
+    "meta": "Yumi Finance builds on-chain credit and buy-now-pay-later products on stablecoin rails for the underbanked.",
+    "pageTitle": "Yumi Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.yumi.finance",
+    "twitter": "https://x.com/YumiFinance"
+  },
+  "relations": {
+    "alternatives": [
+      "suilend",
+      "aave",
+      "enclabs"
+    ],
+    "related": [
+      "exactly-protocol",
+      "compound-blue",
+      "methlab"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is Yumi Finance? Credit-as-a-Service on Stablecoin Rails",
+      "tldr": "Explains Yumi's approach of rebuilding credit on stablecoins, from BNPL to credit lines, and who it serves.",
+      "url": "https://www.bitrue.com/blog/what-is-yumi-finance-project",
+      "source": "Bitrue Blog",
+      "tag": "Finance",
+      "publishedAt": "2026-03-18"
+    },
+    {
+      "title": "What is Yumi",
+      "tldr": "Docs on Yumi's credit-as-a-service model, letting fintechs offer installments and credit without building underwriting.",
+      "url": "https://docs.yumi.finance/",
+      "source": "Yumi Docs",
+      "tag": "Finance"
+    }
+  ]
+}

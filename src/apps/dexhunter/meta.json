@@ -34,5 +34,25 @@
       "parrot-protocol",
       "wingriders"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Aggregator Routes",
+      "tldr": "A case study of splitting one trade across many Cardano DEXs, and what that does to slippage and price.",
+      "url": "https://www.nadcab.com/case-study/dexhunter-top-cardano-dex-aggregator",
+      "source": "Nadcab Labs"
+    },
+    {
+      "title": "The Project, In The Ecosystem",
+      "tldr": "The ecosystem entry explaining what the aggregator does and which exchanges it draws liquidity from.",
+      "url": "https://cardano.org/apps/dexhunter/",
+      "source": "Cardano Foundation"
+    },
+    {
+      "title": "Traders Discussing It",
+      "tldr": "The community thread introducing the aggregator, including the questions users actually asked about routing and fees.",
+      "url": "https://forum.cardano.org/t/dexhunter-biggest-cardano-dex-aggregator-for-optimal-defi-trading/127689",
+      "source": "Cardano Forum"
+    }
+  ]
 }

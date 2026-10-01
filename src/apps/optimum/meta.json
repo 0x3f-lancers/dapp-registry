@@ -1,0 +1,54 @@
+{
+  "slug": "optimum",
+  "name": "Optimum",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761005/dapp-store-logos/optimum.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Network that speeds up how blocks and data spread between blockchain nodes.",
+    "description": "Optimum uses random linear network coding (RLNC) to replace the redundant gossip most blockchains use to pass blocks around. It reports 6 to 20 times faster block and blob delivery and 90 to 95% less bandwidth, without any change to a chain's consensus rules. It is working with Ethereum validators first, with 40 testnet partners and $24 billion of staked ETH connected.",
+    "meta": "Optimum speeds up block propagation 6 to 20x and cuts validator bandwidth by up to 95% using network coding.",
+    "pageTitle": "Optimum - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.getoptimum.xyz",
+    "twitter": "https://x.com/get_optimum"
+  },
+  "relations": {
+    "alternatives": [
+      "sentio",
+      "noves",
+      "blockai-bai"
+    ],
+    "related": [
+      "codex-api",
+      "blockfrost",
+      "traxed-supply-chain"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why Optimum Is Building a Web3 Memory Layer",
+      "tldr": "Explains the data access problem Optimum addresses and the role of its memory layer in blockchain applications.",
+      "url": "https://www.getoptimum.xyz/blog/introducing-optimum-building-the-missing-memory-layer-for-web3",
+      "source": "Optimum",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Optimum's mump2p Protocol",
+      "tldr": "Optimum's docs introduce the pub-sub protocol used to reduce latency when distributing blockchain transactions and data.",
+      "url": "https://docs.getoptimum.xyz/",
+      "source": "Optimum",
+      "tag": "Infrastructure"
+    }
+  ]
+}

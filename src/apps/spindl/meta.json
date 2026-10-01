@@ -30,5 +30,25 @@
       "trinsic",
       "ont-id"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Onchain Attribution, Properly",
+      "tldr": "Why measuring where a wallet came from is hard without cookies, and which signals actually stand up.",
+      "url": "https://blog.spindl.xyz/p/how-to-really-do-onchain-attribution",
+      "source": "Spindl"
+    },
+    {
+      "title": "The Growth Flywheel, Part One",
+      "tldr": "A litepaper on how onchain incentives compound into distribution, with the mechanism spelled out.",
+      "url": "https://blog.spindl.xyz/p/flywheel-v10-litepaper-part-1",
+      "source": "Spindl"
+    },
+    {
+      "title": "The Growth Flywheel, Part Two",
+      "tldr": "The follow-up: what breaks the loop, and what has to be measured to notice before it does.",
+      "url": "https://blog.spindl.xyz/p/flywheel-v10-litepaper-part-2",
+      "source": "Spindl"
+    }
+  ]
 }

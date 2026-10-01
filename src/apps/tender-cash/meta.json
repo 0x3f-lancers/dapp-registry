@@ -1,0 +1,53 @@
+{
+  "slug": "tender-cash",
+  "name": "Tender",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761090/dapp-store-logos/tender-cash.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Crypto payments for businesses that settle in local currency across 17+ countries.",
+    "description": "Tender lets merchants, platforms and nonprofits accept more than 300 crypto assets on over 20 blockchains through their website, payment links, QR codes, social channels or an in-store POS. Businesses can settle in their local currency, keep crypto, or schedule automatic payouts, and developers can add payments to their own apps by API. It started in Nigeria and now covers more than 17 countries.",
+    "meta": "Accept 300+ crypto assets online, by QR or in store with Tender and settle in local currency in 17+ countries.",
+    "pageTitle": "Tender - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tender.cash",
+    "twitter": "https://x.com/Tender_Merchant"
+  },
+  "relations": {
+    "alternatives": [
+      "yellow-card",
+      "copperx",
+      "halliday"
+    ],
+    "related": [
+      "boomfi",
+      "wert",
+      "bulla-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Custodial Versus Non-Custodial Wallets",
+      "tldr": "Explains who holds the keys in each wallet model and what that means for merchants handling crypto payments.",
+      "url": "https://blog.tender.cash/2026/07/08/custodial-vs-non-custodial-wallets-what-merchants-need-to-know/",
+      "source": "Tender",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Tender Settles Crypto Sales in Naira",
+      "tldr": "Explains Tender's online, WhatsApp, and in-person checkout flows and how merchants receive local-currency payouts.",
+      "url": "https://blog.tender.cash/2026/09/16/accept-crypto-and-settle-in-naira/",
+      "source": "Tender",
+      "tag": "Explainer"
+    }
+  ]
+}

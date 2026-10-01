@@ -1,0 +1,54 @@
+{
+  "slug": "clanker",
+  "name": "Clanker",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760802/dapp-store-logos/clanker.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "Base",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "No-code token launcher that deploys an ERC-20 with instant liquidity, fee rewards and presales.",
+    "description": "Clanker became the default way to launch tokens on Base, and now also supports Arbitrum, BNB Chain and more. A creator names a token and Clanker deploys it with a liquidity pool in one step, then shares trading fees back with the creator. Tokens launched through it have traded more than $29 billion, including BNKR from Bankr, and it offers presales and an agent skill so AI agents can launch tokens too.",
+    "meta": "Launch an ERC-20 with liquidity and creator fee rewards in one step on Clanker, the launcher behind $29B+ in token volume.",
+    "pageTitle": "Clanker - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.clanker.world",
+    "twitter": "https://x.com/clanker_world"
+  },
+  "relations": {
+    "alternatives": [
+      "ambisafe",
+      "hedgey",
+      "betterclaimsol"
+    ],
+    "related": [
+      "pulley",
+      "blockbucket",
+      "coinshift"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Clanker Works",
+      "tldr": "Clanker's overview explains token deployment, liquidity, creator rewards, and launch options.",
+      "url": "https://clanker.world/about",
+      "source": "Clanker",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How to Launch a Token on Clanker",
+      "tldr": "A walkthrough of creating and launching a token through Clanker's website.",
+      "url": "https://alphamemeradar.com/how-to-launch-a-token-on-clanker-world",
+      "source": "Alpha Meme Radar",
+      "tag": "Tutorial"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "idrx",
+  "name": "IDRX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760919/dapp-store-logos/idrx.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "RWA Tokenization Platforms"
+  ],
+  "chains": [
+    "Base",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Stablecoin pegged 1:1 to the Indonesian rupiah, backed by cash and government bonds.",
+    "description": "IDRX brings the Indonesian rupiah on-chain. Each token is redeemable for one rupiah and backed by fiat reserves and Indonesian government bonds held at regulated institutions, with audits and reserve reports published. It is registered with Indonesia's crypto futures exchange CFX, audited by CertiK, and available on several chains including Base and World Chain.",
+    "meta": "IDRX is a regulated rupiah stablecoin backed 1:1 by cash and bonds, with published audits, on Base and World Chain.",
+    "pageTitle": "IDRX - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://idrx.co",
+    "twitter": "https://x.com/idrx_co"
+  },
+  "relations": {
+    "alternatives": [
+      "anzens",
+      "tether",
+      "valos"
+    ],
+    "related": [
+      "yuzu-money",
+      "stablr"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How a Rupiah Stablecoin Works",
+      "tldr": "Breaks down IDRX's peg, reserves and minting process to explain how a rupiah-denominated stablecoin maintains its value.",
+      "url": "https://idrx.co/en/articles/how-a-rupiah-stablecoin-works-peg-backing-minting/",
+      "source": "IDRX",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Stablecoin Risks and How to Assess IDRX",
+      "tldr": "Explains the checks behind a fiat-backed rupiah stablecoin, including reserves, redemption, and peg risks.",
+      "url": "https://idrx.co/en/articles/stablecoin-risks-and-how-to-assess-them/",
+      "source": "IDRX",
+      "tag": "Explainer"
+    }
+  ]
+}

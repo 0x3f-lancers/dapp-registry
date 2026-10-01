@@ -34,5 +34,25 @@
       "locksmith-wallet",
       "infinitism-bundler"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Modular Account Standard",
+      "tldr": "The specification itself: how validation, execution and hooks are split so an account can take third-party modules.",
+      "url": "https://eips.ethereum.org/EIPS/eip-6900",
+      "source": "Ethereum Improvement Proposals"
+    },
+    {
+      "title": "The Argument Behind The Standard",
+      "tldr": "The public design thread, where the trade-offs in the plugin interface were fought out before it was finalised.",
+      "url": "https://ethereum-magicians.org/t/erc-6900-modular-smart-contract-accounts-and-plugins/13885",
+      "source": "Ethereum Magicians"
+    },
+    {
+      "title": "Plugins, Explained Plainly",
+      "tldr": "A walkthrough of what a plugin may do to an account, why fragmentation was the problem, and what it fixes.",
+      "url": "https://hackernoon.com/explanation-of-erc-6900-modular-smart-contract-accounts-and-plugins",
+      "source": "HackerNoon"
+    }
+  ]
 }

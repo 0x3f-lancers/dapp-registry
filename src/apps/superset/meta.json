@@ -1,0 +1,55 @@
+{
+  "slug": "superset",
+  "name": "Superset",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761081/dapp-store-logos/superset.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Unified execution layer for on-chain FX across stablecoins, tokenized deposits and yield tokens.",
+    "description": "Superset argues that on-chain FX is held back because stablecoin liquidity is split across isolated pools and chains. It pulls that liquidity into one open market for fiat-backed stablecoins like USDC, EURC and XSGD, tokenized bank deposits such as JPM Coin, and yield-bearing tokens like BUIDL and USDY, so trades and cross-chain settlement get consistent pricing.",
+    "meta": "Superset merges stablecoin, tokenized deposit and yield-token liquidity into one market for on-chain FX.",
+    "pageTitle": "Superset - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.superset.finance",
+    "twitter": "https://x.com/SupersetFinance"
+  },
+  "relations": {
+    "alternatives": [
+      "sundaeswap",
+      "dexhunter",
+      "xtoken-terminal"
+    ],
+    "related": [
+      "aerodrome",
+      "minswap",
+      "kodiak-dex"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Liquidity Problem Slowing Institutional Stablecoin Adoption",
+      "tldr": "LayerZero explains why fragmented stablecoin liquidity slows institutions, and how Superset's unified market addresses it.",
+      "url": "https://layerzero.network/blog/stablecoin-liquidity-problem-superset",
+      "source": "LayerZero Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-05-22"
+    },
+    {
+      "title": "Superset Targets Stablecoin Liquidity Gap with $4M Funding Round",
+      "tldr": "Covers Superset's seed round to build one execution layer for stablecoins, tokenized deposits and on-chain FX.",
+      "url": "https://crypto.news/superset-targets-stablecoin-liquidity-gap-with-4m-funding-round/",
+      "source": "crypto.news",
+      "tag": "Finance",
+      "publishedAt": "2026-02-11"
+    }
+  ]
+}

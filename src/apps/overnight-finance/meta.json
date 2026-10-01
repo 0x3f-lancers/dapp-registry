@@ -32,5 +32,19 @@
       "jones-dao",
       "hashstack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Rebase Works",
+      "tldr": "Yield delivered by growing your balance rather than the price, and what that means for accounting and tax.",
+      "url": "https://docs.overnight.fi/core-concept/yield-mechanism-rebase",
+      "source": "Overnight Finance"
+    },
+    {
+      "title": "The Stablecoin Itself",
+      "tldr": "What backs the token, how redemption works, and what the strategies underneath are exposed to.",
+      "url": "https://docs.overnight.fi/core-concept/xusd-token",
+      "source": "Overnight Finance"
+    }
+  ]
 }

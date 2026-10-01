@@ -1,0 +1,51 @@
+{
+  "slug": "mu-digital",
+  "name": "Mu Digital",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760980/dapp-store-logos/mu-digital.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Private Credit RWAs"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Mu Digital tokenizes Asian fixed-income credit, letting stablecoin holders earn bond-backed yield.",
+    "description": "Mu Digital tokenizes Asian fixed income, structuring government bonds, corporate bonds and private credit into two on-chain tokens. AZND, the Asia Dollar, is the senior tranche backed by those credit assets, while muBOND is a junior tranche designed to absorb portfolio-level volatility. Splitting the exposure this way lets conservative allocators hold the senior claim while others take the first loss for a higher return, and the protocol operates on Monad.",
+    "meta": "Asian credit markets brought onchain, backed by investment-grade bonds and private credit.",
+    "pageTitle": "Mu Digital - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mudigital.net",
+    "twitter": "https://x.com/mudigitalhq"
+  },
+  "relations": {
+    "alternatives": [
+      "travessia-credit"
+    ],
+    "related": [
+      "afi-protocol",
+      "etherfuse",
+      "theo-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The RWA Trilemma",
+      "tldr": "Explores the tradeoffs between liquidity, returns and stability in real-world asset products.",
+      "url": "https://blog.mudigital.net/p/introducing-the-rwa-trilemma",
+      "source": "MU Digital",
+      "tag": "Research"
+    },
+    {
+      "title": "The Onchain Yield Problem",
+      "tldr": "Explores why some DeFi yields are volatile or opaque and how real-world credit may change the return source.",
+      "url": "https://blog.mudigital.net/p/the-onchain-yield-problem",
+      "source": "MU Digital",
+      "tag": "Research"
+    }
+  ]
+}

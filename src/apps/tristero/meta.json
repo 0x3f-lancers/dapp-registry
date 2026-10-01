@@ -1,0 +1,53 @@
+{
+  "slug": "tristero",
+  "name": "Tristero",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761107/dapp-store-logos/tristero.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Tristero is a non-custodial encrypted exchange for private order matching and cross-chain trades.",
+    "description": "Tristero builds trading infrastructure on Monad aimed at execution quality for active traders. Its founding team comes from Columbia mathematics, Tribe Capital, Across and OKX. The project's stated focus is letting a trader act without leaking intent to the rest of the market.",
+    "meta": "Encrypted order matching, so intent is not broadcast before execution on a transparent chain.",
+    "pageTitle": "Tristero - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.tristero.com",
+    "twitter": "https://x.com/0xtristero"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "bonad",
+      "brownfi",
+      "capricorn-exchange"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Bitcoin's DeFi Opportunity",
+      "tldr": "Explores the infrastructure and liquidity challenges behind bringing Bitcoin value into DeFi.",
+      "url": "https://tristero.substack.com/p/bitcoins-2t-defi-dream-is-waking",
+      "source": "Tristero",
+      "tag": "Research"
+    },
+    {
+      "title": "Agora and Tristero Yield Strategies",
+      "tldr": "Explains the yield approach behind Tristero's collaboration with Agora and its onchain strategy design.",
+      "url": "https://tristero.substack.com/p/agora-tristero-9-yields",
+      "source": "Tristero",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "stableflow",
+  "name": "StableFlow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761070/dapp-store-logos/stableflow.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Stable",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Cross-chain transfer app built for moving large amounts of stablecoins quickly.",
+    "description": "StableFlow is designed for one job: moving stablecoins between chains at size. Users pick a source chain, a destination and an amount, compare the price with alternatives, and send, with the service built to handle large transfers without heavy slippage. It is one of the transfer routes available for bringing stablecoins onto Stable.",
+    "meta": "Move large amounts of stablecoins between chains quickly and at a competitive price with StableFlow.",
+    "pageTitle": "StableFlow - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stableflow.ai",
+    "twitter": "https://x.com/0xStableFlow"
+  },
+  "relations": {
+    "alternatives": [
+      "alldomains-bridge",
+      "layerzero",
+      "hashport"
+    ],
+    "related": [
+      "jumper-exchange",
+      "router-nitro",
+      "base-bridge"
+    ]
+  },
+  "resources": [
+    {
+      "title": "DapDap Launches StableFlow",
+      "tldr": "Launch post for StableFlow, a low-fee app built to move large stablecoin transfers between chains.",
+      "url": "https://paragraph.com/@dapdapmeup/dapdap-launches-stableflow-a-new-app-for-low-cost-stablecoin-bridging-at-scale",
+      "source": "DapDap",
+      "tag": "Infrastructure",
+      "publishedAt": "2025-10-09"
+    },
+    {
+      "title": "Welcome to StableFlow",
+      "tldr": "Docs on why most bridges get expensive at size and how StableFlow keeps large stablecoin transfers cheap.",
+      "url": "https://docs.stableflow.ai/",
+      "source": "StableFlow Docs",
+      "tag": "Tutorial"
+    }
+  ]
+}

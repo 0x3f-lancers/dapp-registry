@@ -1,0 +1,53 @@
+{
+  "slug": "coinmarketman",
+  "name": "CoinMarketMan",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760807/dapp-store-logos/coinmarketman.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "CoinMarketMan is an automated trade journal and analytics tool, with a Hyperliquid tracker.",
+    "description": "CoinMarketMan automates the trading journal: it syncs fills from connected venues and turns them into performance statistics, so a trader reviews what actually happened and not what they remember doing. Metrics cover win rate, average return, drawdown and performance broken down by market and by setup. Connected venues include Hyperliquid.",
+    "meta": "CoinMarketMan is an automated crypto trade journal and analytics tool with Hyperliquid tracking.",
+    "pageTitle": "CoinMarketMan - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.coinmarketman.com/",
+    "twitter": "https://x.com/coinmarketman"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperdash",
+      "matrixnet",
+      "thekingfisher"
+    ],
+    "related": [
+      "bitget",
+      "bybit",
+      "coinstats"
+    ]
+  },
+  "resources": [
+    {
+      "title": "API Dashboard - How to Use",
+      "tldr": "Shows how to monitor API key usage, performance, and billing in the dashboard.",
+      "url": "https://docs.coinmarketman.com/api-dashboard-how-to-use.md",
+      "source": "CoinMarketMan",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Key Concepts",
+      "tldr": "Explains the connections, channels, and messages used in live data streams.",
+      "url": "https://docs.coinmarketman.com/real-time-websocket-streams/key-concepts.md",
+      "source": "CoinMarketMan",
+      "tag": "Explainer"
+    }
+  ]
+}

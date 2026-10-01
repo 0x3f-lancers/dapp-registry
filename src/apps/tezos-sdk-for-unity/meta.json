@@ -29,5 +29,19 @@
       "safestake",
       "ethers-js"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Baking Works",
+      "tldr": "The consensus role explained: what a baker does, what it stakes, and how rewards and penalties land.",
+      "url": "https://docs.tezos.com/architecture/bakers",
+      "source": "Tezos"
+    },
+    {
+      "title": "Reading Chain Data",
+      "tldr": "Why a game needs an indexer rather than a node, and what the common indexers actually expose.",
+      "url": "https://docs.tezos.com/developing/information/indexers",
+      "source": "Tezos"
+    }
+  ]
 }

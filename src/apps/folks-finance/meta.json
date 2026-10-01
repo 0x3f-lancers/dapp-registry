@@ -1,0 +1,54 @@
+{
+  "slug": "folks-finance",
+  "name": "Folks Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760871/dapp-store-logos/folks-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Folks Finance is a permissionless cross-chain lending platform for lending and borrowing.",
+    "description": "Folks Finance provides lending, borrowing, staking and trading through a unified cross-chain account, so a position can span networks without bridging assets first. Its xChain product carries that unified liquidity across supported chains, while an Algorand deployment runs alongside it. Borrowers and lenders access competitive rates continuously, and the protocol exposes the same markets to integrators. Holders of the FOLKS token vote on governance proposals.",
+    "meta": "Cross-chain lending where a position can span networks instead of requiring a bridge first.",
+    "pageTitle": "Folks Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://folks.finance/",
+    "github": "https://github.com/Folks-Finance",
+    "twitter": "https://x.com/folksfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "curvance",
+      "euler"
+    ],
+    "related": [
+      "gearbox",
+      "morpho",
+      "neverland"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What's New in Folks Finance V2",
+      "tldr": "Explains the V2 interface, lending changes, high efficiency loans and integrated DEX routing.",
+      "url": "https://docs.folks.finance/introduction/v2-whats-new",
+      "source": "Folks Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Folks Finance Lending and Borrowing Guide",
+      "tldr": "Introduces the protocol's deposits, collateral, borrowing, liquid governance and flash loans.",
+      "url": "https://docs.folks.finance/folks-finance-algorand-app-documentation",
+      "source": "Folks Finance",
+      "tag": "Tutorial"
+    }
+  ]
+}

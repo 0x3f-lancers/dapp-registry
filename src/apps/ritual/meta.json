@@ -32,5 +32,19 @@
       "rei-network",
       "arbitrum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Paying For Inference On Chain",
+      "tldr": "The mechanism design thesis: how compute is priced, who is paid for running a model, and what stops a node lying about the result.",
+      "url": "https://ritual.net/research/mechanism-design/thesis",
+      "source": "Ritual Research"
+    },
+    {
+      "title": "Proving A Model Ran Correctly",
+      "tldr": "The cryptography side of decentralised AI, covering what can be verified about an inference and at what cost.",
+      "url": "https://ritual.net/research/cryptography/thesis",
+      "source": "Ritual Research"
+    }
+  ]
 }

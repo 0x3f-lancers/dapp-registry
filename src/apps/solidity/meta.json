@@ -31,5 +31,25 @@
       "solana",
       "bnb-chain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introduction To Smart Contracts",
+      "tldr": "The language's own starting chapter: what a contract is, what storage costs, and how the EVM runs it.",
+      "url": "https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html",
+      "source": "Solidity"
+    },
+    {
+      "title": "Solidity By Example",
+      "tldr": "Working contracts read line by line, from voting to blind auctions, each one introducing a language feature.",
+      "url": "https://docs.soliditylang.org/en/latest/solidity-by-example.html",
+      "source": "Solidity"
+    },
+    {
+      "title": "Using The Compiler",
+      "tldr": "Compiler settings that change your deployed bytecode, including optimiser behaviour and why versions are pinned.",
+      "url": "https://docs.soliditylang.org/en/latest/using-the-compiler.html",
+      "source": "Solidity"
+    }
+  ]
 }

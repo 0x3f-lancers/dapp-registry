@@ -1,0 +1,54 @@
+{
+  "slug": "potlock",
+  "name": "POTLOCK",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761031/dapp-store-logos/potlock.jpg",
+  "category": "Web3 Social Dapps",
+  "subcategory": [
+    "Web3 Creator Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "POTLOCK is an open-source public-goods funding protocol running cross-chain donation rounds.",
+    "description": "POTLOCK is an open funding stack for public goods, letting anyone launch a campaign with a goal or run a matching round. It supports EVM chains including Ethereum, Arbitrum, Base and Polygon, Bitcoin and its forks, and layer ones such as NEAR and Solana. Active pots have funded AI research, governance and ethics work as well as open-source software, with individual pools holding tens of thousands of dollars. Its own figures show 250 projects and around two thousand unique supporters.",
+    "meta": "Infrastructure for public-goods funding rounds, with allocation measurable rather than opaque.",
+    "pageTitle": "POTLOCK - Web3 Social Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://potlock.org",
+    "twitter": "https://x.com/potlock_"
+  },
+  "relations": {
+    "alternatives": [
+      "gitcoin",
+      "juicebox",
+      "drips-network"
+    ],
+    "related": [
+      "crypto-for-charity",
+      "gitcoin-passport",
+      "deepdao"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is Quadratic Funding?",
+      "tldr": "Introduces quadratic funding and why many small contributions can influence public goods allocation.",
+      "url": "https://potlock.org/blog/what-is-quadratic-funding",
+      "source": "Potlock",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How to Donate Crypto With Potlock",
+      "tldr": "Walks donors through contributing crypto to projects and tracking contributions through Potlock.",
+      "url": "https://potlock.org/blog/how-to-donate-crypto-potlock",
+      "source": "Potlock",
+      "tag": "Tutorial"
+    }
+  ]
+}

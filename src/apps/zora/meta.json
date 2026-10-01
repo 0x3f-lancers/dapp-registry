@@ -31,5 +31,25 @@
       "whats-minting-live",
       "compass-art"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Indexing Prices By Liquidity",
+      "tldr": "The engineering behind pricing millions of thin tokens, and why depth rather than last trade is what the index trusts.",
+      "url": "https://zora.co/blog/indexing-millions-of-token-prices-based-on-liquidity",
+      "source": "Zora"
+    },
+    {
+      "title": "Profit And Loss, On Chain",
+      "tldr": "What it takes to compute a real P&L from wallet history, and the accounting choices that change the number you see.",
+      "url": "https://zora.co/blog/profit-and-loss-on-zora",
+      "source": "Zora"
+    },
+    {
+      "title": "Trading From A Terminal",
+      "tldr": "Driving the protocol from a command line agent, what the interface exposes, and what it deliberately does not.",
+      "url": "https://zora.co/blog/your-terminal-is-now-a-trading-agent",
+      "source": "Zora"
+    }
+  ]
 }

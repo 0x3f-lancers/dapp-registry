@@ -31,5 +31,19 @@
       "delysium",
       "slingshotdao"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building Telegram Mini Apps",
+      "tldr": "What a mini app can do inside a chat client, and the constraints that shape a game built there.",
+      "url": "https://docs.idosgames.com/start/telegram-mini-apps",
+      "source": "iDos Games"
+    },
+    {
+      "title": "Managing Live Players",
+      "tldr": "How player state and progression are handled at runtime, which is the part that breaks at scale.",
+      "url": "https://docs.idosgames.com/liveops/user",
+      "source": "iDos Games"
+    }
+  ]
 }

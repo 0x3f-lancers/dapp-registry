@@ -1,0 +1,53 @@
+{
+  "slug": "hydromancer",
+  "name": "Hydromancer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760896/dapp-store-logos/hydromancer.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Hydromancer offers low-latency Hyperliquid APIs, streaming, historical datasets and node peering.",
+    "description": "Hydromancer supplies the data infrastructure around Hyperliquid that trading teams would otherwise build themselves: rate-limit-free APIs, low-latency streams, historical order book datasets and node peering. Its Builder APIs handle batch operations across thousands of wallets through endpoints such as builderFills and builderLiquidations. Order book streaming covers L2 and L4 with address visibility, which the native API does not expose, and market snapshots are stored as Parquet at one-second resolution. More than fifty teams build on it, including Based, Dexari, Felix and OneKey.",
+    "meta": "Hydromancer provides low-latency Hyperliquid APIs, streaming, historical data and node peering.",
+    "pageTitle": "Hydromancer - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hydromancer.xyz/",
+    "twitter": "https://x.com/hydromancerxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "sonarx",
+      "chainstack-subgraphs",
+      "envio"
+    ],
+    "related": [
+      "subquery",
+      "subsquid",
+      "uniblock"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Build With Hyperliquid Liquidation Data",
+      "tldr": "Shows how to combine historical liquidations, live events and monitoring to build a Hyperliquid liquidation dashboard.",
+      "url": "https://hydromancer.xyz/blog/build-with-liquidation-data-on-hyperliquid",
+      "source": "Hydromancer",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "HIP-3 Market Deployers by the Numbers",
+      "tldr": "Compares Hyperliquid HIP-3 deployers by trading volume, market focus and current status using Hydromancer data.",
+      "url": "https://hydromancer.xyz/blog/top-hip-3-market-deployers-by-the-numbers",
+      "source": "Hydromancer",
+      "tag": "Research"
+    }
+  ]
+}

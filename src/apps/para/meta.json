@@ -1,0 +1,53 @@
+{
+  "slug": "para",
+  "name": "Para",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761016/dapp-store-logos/para.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Embedded Wallets"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Para is a non-custodial embedded wallet SDK using MPC, with email, phone and social login.",
+    "description": "Para is an embedded wallet SDK that uses MPC to give apps non-custodial wallets with email, phone or social login. It supports EVM, Solana and Cosmos networks, covering more than a hundred chains, and is free up to 1,200 monthly active users. Para counts over 200 companies building on it and 15 million end users, and holds SOC 2 Type II controls. Authentication and wallet provisioning arrive together, so a fintech does not assemble them separately.",
+    "meta": "Para is a non-custodial MPC embedded wallet SDK with email, phone and social login, covering EVM, Solana and Cosmos across 100+ chains.",
+    "pageTitle": "Para - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://getpara.com/",
+    "twitter": "https://x.com/getpara"
+  },
+  "relations": {
+    "alternatives": [
+      "crossmint",
+      "mera",
+      "privy"
+    ],
+    "related": [
+      "dynamic",
+      "openfort",
+      "ahoracrypto"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Para Thinks About Wallet Security",
+      "tldr": "Describes the security principles behind Para's wallet infrastructure and the controls used to protect user keys.",
+      "url": "https://blog.getpara.com/how-we-think-about-security-at-para/",
+      "source": "Para",
+      "tag": "Security"
+    },
+    {
+      "title": "Para Transaction Permissions",
+      "tldr": "Shows how businesses can set transaction limits and permissions before letting AI agents pay for services.",
+      "url": "https://blog.getpara.com/permissions-launch/",
+      "source": "Para",
+      "tag": "Security"
+    }
+  ]
+}

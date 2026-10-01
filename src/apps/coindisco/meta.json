@@ -1,0 +1,53 @@
+{
+  "slug": "coindisco",
+  "name": "Coindisco",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760806/dapp-store-logos/coindisco.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Coindisco compares onramp and offramp providers to find the cheapest route to buy or sell crypto.",
+    "description": "Coindisco compares quotes from on-ramp and off-ramp providers and ranks them by the value the buyer actually receives, with no hidden fees. Coverage reaches more than 190 countries and 200 blockchains, with dozens of local payment methods. KYC is simplified into a single flow, and the app runs anti-scam checks, contract validation and liquidity source verification before a purchase completes. Users receive the crypto directly in their own wallet once the provider confirms payment.",
+    "meta": "Coindisco compares crypto onramp and offramp providers to find the cheapest route to buy or sell.",
+    "pageTitle": "Coindisco - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://coindisco.com/",
+    "twitter": "https://x.com/coindisco"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Track a Token Before Buying",
+      "tldr": "Shows how Coindisco combines watchlists, chart ranges and price alerts to help readers follow a token before trading.",
+      "url": "https://coindisco.com/blog/how-to-track-crypto-before-buying",
+      "source": "Coindisco",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Coindisco Insights Narrows Offers",
+      "tldr": "Shows how country, payment method and verification level affect which crypto offers Coindisco presents to a user.",
+      "url": "https://coindisco.com/blog/how-to-use-coindisco-insights",
+      "source": "Coindisco",
+      "tag": "Tutorial"
+    }
+  ]
+}

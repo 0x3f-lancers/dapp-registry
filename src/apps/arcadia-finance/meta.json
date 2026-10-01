@@ -1,0 +1,54 @@
+{
+  "slug": "arcadia-finance",
+  "name": "Arcadia Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760740/dapp-store-logos/arcadia-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Robinhood Chain",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Arcadia Finance sets up automated liquidity provision positions in a few steps.",
+    "description": "Arcadia Finance reduces setting up an automated liquidity position to a short flow, handling range selection and rebalancing on the depositor's behalf. A user picks a pool and an amount, and the protocol manages where the range sits as price moves. Positions run on Robinhood Chain and rebalance without the depositor returning to the interface. The automation targets concentrated liquidity, where a position stops earning the moment price leaves its band.",
+    "meta": "Arcadia Finance sets up automated concentrated liquidity positions on Robinhood Chain, handling range selection and rebalancing as price moves.",
+    "pageTitle": "Arcadia Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://arcadia.finance/",
+    "twitter": "https://x.com/arcadia"
+  },
+  "relations": {
+    "alternatives": [
+      "ample-money",
+      "beefy",
+      "beefy-finance"
+    ],
+    "related": [
+      "d2-finance",
+      "gami-labs",
+      "ipor"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Arcadia Lending Pools Work",
+      "tldr": "Explains how lenders supply assets, earn interest, and support collateralized borrowing in Arcadia pools.",
+      "url": "https://docs.arcadia.finance/introduction/concepts/lending-pools",
+      "source": "Arcadia Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Arcadia DeFi Accounts",
+      "tldr": "Introduces user-owned spot and margin accounts, batching, and account automations in Arcadia.",
+      "url": "https://docs.arcadia.finance/introduction/concepts/arcadia-defi-accounts",
+      "source": "Arcadia Finance",
+      "tag": "Explainer"
+    }
+  ]
+}

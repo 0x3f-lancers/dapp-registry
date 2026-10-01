@@ -1,0 +1,55 @@
+{
+  "slug": "onchaingm",
+  "name": "OnChainGM",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760999/dapp-store-logos/onchaingm.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Quest-to-Earn Tools"
+  ],
+  "chains": [
+    "Base",
+    "Unichain",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Daily on-chain GM and contract deploys across 125+ chains, with streaks and USDC rewards.",
+    "description": "OnChainGM turns activity on new chains into a daily habit. Users send a GM transaction or deploy a simple contract on networks from Base and Robinhood Chain to Unichain and Plasma, building streaks, badges and a place on the leaderboard. Each month a $2,000 USDC pool is shared among active users, and the site also offers a bridge, token deploys and a testnet faucet for 13 networks.",
+    "meta": "Send a daily GM or deploy a contract on 125+ chains with OnChainGM, earning streaks, badges and monthly USDC rewards.",
+    "pageTitle": "OnChainGM - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://onchaingm.com",
+    "twitter": "https://x.com/onchainGM"
+  },
+  "relations": {
+    "alternatives": [
+      "jumptask",
+      "merkl",
+      "dmission"
+    ],
+    "related": [
+      "zealy",
+      "acqr",
+      "rattle-cc"
+    ]
+  },
+  "resources": [
+    {
+      "title": "OnChainGM: What Is It and Why Is It Important?",
+      "tldr": "Explains the OnChainGM contract, which lets a wallet send one onchain GM per day on EVM networks for a small fee.",
+      "url": "https://getblock.io/marketplace/projects/onchaingm/",
+      "source": "GetBlock",
+      "tag": "Explainer"
+    },
+    {
+      "title": "OnChainGM on GitHub",
+      "tldr": "Open-source repo explaining OnChainGM's app, its embeddable GM widget and referral system across 117+ networks.",
+      "url": "https://github.com/OnChainGM/OnChainGM",
+      "source": "GitHub",
+      "tag": "Infrastructure"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "walapay",
+  "name": "Walapay",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761129/dapp-store-logos/walapay.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Walapay provides stablecoin-powered API infrastructure for moving and managing money globally.",
+    "description": "Walapay gives platforms an API for creating virtual bank accounts and digital asset wallets on behalf of their customers. Integration runs in stages: customer compliance covering terms acceptance and KYC or KYB checks, then account creation, then fiat-to-fiat payments. The documentation publishes supported activities alongside the full API specification. It operates on Monad among other networks.",
+    "meta": "Walapay provides a stablecoin-powered API for creating virtual bank accounts and wallets for customers, with KYC checks and fiat payments.",
+    "pageTitle": "Walapay - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://walapay.io/",
+    "twitter": "https://x.com/walapay_io"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Introduces WalaPay’s payment platform and how to begin using its API.",
+      "url": "https://docs.walapay.io/docs/introduction.md",
+      "source": "Walapay",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Countries & Rails",
+      "tldr": "Lists supported countries and payment rails for WalaPay integrations.",
+      "url": "https://docs.walapay.io/docs/countries-and-rails.md",
+      "source": "Walapay",
+      "tag": "Explainer"
+    }
+  ]
+}

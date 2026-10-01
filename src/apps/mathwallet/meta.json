@@ -1,0 +1,54 @@
+{
+  "slug": "mathwallet",
+  "name": "MathWallet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1776953929/dapp-store-logos/mathwallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Multichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Long-running multichain wallet supporting 200+ blockchains on mobile, extension, web and hardware.",
+    "description": "MathWallet has been around since the early multichain days and now supports more than 220 networks, from Bitcoin, Solana, TON and Polkadot to newer EVM chains such as World Chain, Plasma and Stable. It comes as an iOS and Android app, a browser extension, a web wallet and a hardware device, with built-in cross-chain bridging and its own dApp store. It serves around 4 million users.",
+    "meta": "MathWallet supports 220+ blockchains across app, extension, web and hardware, with bridges and a dApp store.",
+    "pageTitle": "MathWallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mathwallet.org",
+    "twitter": "https://x.com/Mathwallet"
+  },
+  "relations": {
+    "alternatives": [
+      "kuma-wallet",
+      "trust-wallet",
+      "okto"
+    ],
+    "related": [
+      "backpack",
+      "tonkeeper-pro",
+      "coinbase-wallet"
+    ]
+  },
+  "resources": [
+    {
+      "title": "MathWallet Extension V4 Upgrade",
+      "tldr": "Explains the extension's supported chains and how to export keys for networks removed in V4.",
+      "url": "https://blog.mathwallet.org/?p=4759",
+      "source": "MathWallet",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Hyperliquid Perps in MathWallet",
+      "tldr": "Shows how to set up a supported chain wallet and access the Hyperliquid perps section in the app.",
+      "url": "https://blog.mathwallet.org/?p=4902",
+      "source": "MathWallet",
+      "tag": "Tutorial"
+    }
+  ]
+}

@@ -36,5 +36,25 @@
       "nfttrack",
       "phantom"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Scanning A Contract Before You Sign",
+      "tldr": "What the scanner checks for in a token or pool, and which categories of risk a static scan will always miss.",
+      "url": "https://docs.de.fi/security-toolkit/scanner",
+      "source": "De.Fi"
+    },
+    {
+      "title": "Revoking What You Approved",
+      "tldr": "How the approval shield works, why old allowances are the most common way funds leave a wallet, and what to revoke.",
+      "url": "https://docs.de.fi/security-toolkit/shield",
+      "source": "De.Fi"
+    },
+    {
+      "title": "The Rekt Database",
+      "tldr": "A catalogue of exploits with what went wrong in each, which is the most useful reading list in DeFi security.",
+      "url": "https://docs.de.fi/audits/rekt-database",
+      "source": "De.Fi"
+    }
+  ]
 }

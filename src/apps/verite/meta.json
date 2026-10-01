@@ -28,5 +28,19 @@
       "ethrank",
       "tide-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "When An AI Agent Holds A Wallet",
+      "tldr": "What has to be true before software can be trusted to spend: identity, limits, and a way to prove who authorised what.",
+      "url": "https://www.circle.com/blog/meet-steve-an-ai-agent-that-can-pay-its-own-way",
+      "source": "Circle"
+    },
+    {
+      "title": "Programmable Authorisation With ERC-1271",
+      "tldr": "How contract accounts prove a signature is valid, and what that unlocks for approving payments without a private key present.",
+      "url": "https://www.circle.com/blog/gateway-adds-erc-1271-support-for-programmable-authorization",
+      "source": "Circle"
+    }
+  ]
 }

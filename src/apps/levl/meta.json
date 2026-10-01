@@ -1,0 +1,53 @@
+{
+  "slug": "levl",
+  "name": "Levl",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760947/dapp-store-logos/levl.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Stablecoin payments infrastructure for PSPs, neobanks and remittance companies.",
+    "description": "Levl, based in Zug with a Canadian entity in Toronto, gives payment companies instant, round-the-clock settlement in fiat or stablecoins. Its suite includes stablecoin liquidity, USD named accounts that show the client's name on each transaction, on and off-ramps and remittances. It is a member of a FINMA-recognised self-regulatory body and works with partners such as LemFi and TerraPay.",
+    "meta": "Levl gives PSPs, neobanks and remitters instant stablecoin and fiat settlement, named USD accounts and ramps.",
+    "pageTitle": "Levl - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.levl.ch",
+    "twitter": "https://x.com/LevlFi"
+  },
+  "relations": {
+    "alternatives": [
+      "sphere",
+      "alfred-pay",
+      "cryptorefills"
+    ],
+    "related": [
+      "honeycoin",
+      "splits",
+      "suby"
+    ]
+  },
+  "resources": [
+    {
+      "title": "USD Named Accounts for Client Payments",
+      "tldr": "Explains how named USD accounts identify a client's payment and simplify reconciliation in stablecoin-backed flows.",
+      "url": "https://www.levl.ch/news/usd-named-accounts",
+      "source": "Levl",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Levl Named Account Payment Rails",
+      "tldr": "Levl documents named accounts for local and SWIFT payments, including supported currencies and stablecoin conversion routes.",
+      "url": "https://docs.levl.ch/docs/named-accounts",
+      "source": "Levl",
+      "tag": "Infrastructure"
+    }
+  ]
+}

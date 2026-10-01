@@ -33,5 +33,25 @@
       "spruce",
       "nomis"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Web3 Authentication Is",
+      "tldr": "Signing in with a wallet instead of a password: what the signature proves, and what it does not tell your site.",
+      "url": "https://www.miniorange.com/blog/web3-authentication/",
+      "source": "miniOrange"
+    },
+    {
+      "title": "Wiring Wallet Login Into WordPress",
+      "tldr": "A full configuration walkthrough covering supported wallets, the login flow and how NFT token gating is set up.",
+      "url": "https://plugins.miniorange.com/configure-crypto-wallet-for-wordpress-login",
+      "source": "miniOrange"
+    },
+    {
+      "title": "How The Plugin Works",
+      "tldr": "The mechanics behind the button: what happens between clicking connect and a WordPress session being created.",
+      "url": "https://faq.miniorange.com/knowledgebase/how-does-web3-login-plugin-work/",
+      "source": "miniOrange"
+    }
+  ]
 }

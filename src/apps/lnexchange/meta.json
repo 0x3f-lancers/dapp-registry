@@ -3,8 +3,12 @@
   "name": "LN Exchange",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748101/web3-explorer/dapp-logos/lnexchange.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Bitcoin"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Bitcoin"
+  ],
   "pricing": "",
   "content": {
     "short": "LN Exchange is the first spot and perpetual orderbook DEX on Bitcoin and the Lightning Network.",
@@ -17,7 +21,27 @@
     "twitter": "https://x.com/lnexchange"
   },
   "relations": {
-    "alternatives": ["atrix", "mass"],
-    "related": ["horizon-protocol", "foxify"]
-  }
+    "alternatives": [
+      "atrix",
+      "mass"
+    ],
+    "related": [
+      "horizon-protocol",
+      "foxify"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Trading Perpetuals",
+      "tldr": "A long walkthrough of margin, funding and liquidation on the venue, aimed at a first-time user.",
+      "url": "https://docs.ln.exchange/getting-started/perpetual",
+      "source": "LN Exchange"
+    },
+    {
+      "title": "Spot Trading",
+      "tldr": "Order types and settlement explained, along with what deposits and withdrawals cost.",
+      "url": "https://docs.ln.exchange/getting-started/spot-trading",
+      "source": "LN Exchange"
+    }
+  ]
 }

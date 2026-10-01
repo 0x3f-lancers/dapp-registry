@@ -14,7 +14,8 @@
     "Solana",
     "Starknet",
     "BNB Chain",
-    "Avalanche"
+    "Avalanche",
+    "Hyperliquid"
   ],
   "pricing": "Freemium",
   "content": {
@@ -37,5 +38,19 @@
       "coinapi",
       "oxygen"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading Liquidations",
+      "tldr": "What a liquidation print tells you about positioning, and how cascades show up in the data beforehand.",
+      "url": "https://coinalyze.net/tutorial/liquidations/",
+      "source": "Coinalyze"
+    },
+    {
+      "title": "Open Interest, Explained",
+      "tldr": "What open interest measures, how it differs from volume, and what a rising figure actually implies.",
+      "url": "https://coinalyze.net/tutorial/open-interest/",
+      "source": "Coinalyze"
+    }
+  ]
 }

@@ -1,0 +1,51 @@
+{
+  "slug": "rug-rumble",
+  "name": "Rug Rumble",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761054/dapp-store-logos/rug-rumble.jpg",
+  "category": "Decentralized Games",
+  "subcategory": [
+    "Web3 Games"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Rug Rumble is a Monad game where players run through doors to multiply MON before cashing out.",
+    "description": "Rug Rumble is a game on Monad where players run through doors to multiply their MON, framed as a race to a 100x return. The multiplier grows with each door cleared and a player can cash out to lock in the current value, but going one door too far ends the run. Matches resolve onchain and outcomes are settled in the tokens staked into them.",
+    "meta": "A cash-out game on Monad where the multiplier grows until the player goes one door too far.",
+    "pageTitle": "Rug Rumble - Decentralized Games - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rugrumble.xyz",
+    "twitter": "https://x.com/rugrumble"
+  },
+  "relations": {
+    "alternatives": [
+      "call-of-odins-chosen",
+      "grimmy"
+    ],
+    "related": [
+      "aavegotchi",
+      "arc8"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Welcome to Rug Rumble",
+      "tldr": "Rug Rumble's handbook introducing its memecoin battles, where rival communities stake tokens and liquidity shifts to the winners.",
+      "url": "https://rugrumble.gitbook.io/rug-rumble",
+      "source": "Rug Rumble Docs",
+      "tag": "Gaming"
+    },
+    {
+      "title": "Degen Vs Degen: Rugs or Riches",
+      "tldr": "How 1v1 matches work: both players wager equal value in rival memecoins, and the loser's tokens are sold to buy the winner's.",
+      "url": "https://rugrumble.gitbook.io/rug-rumble/rug-rumble-where-memes-meet-liquidity/degen-vs-degen-rugs-or-riches",
+      "source": "Rug Rumble Docs",
+      "tag": "Gaming"
+    }
+  ]
+}

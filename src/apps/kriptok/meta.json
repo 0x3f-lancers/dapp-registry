@@ -1,0 +1,55 @@
+{
+  "slug": "kriptok",
+  "name": "KriptoK",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760941/dapp-store-logos/kriptok.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Bitcoin",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "KriptoK is a non-custodial mobile wallet for Bitcoin, Solana and EVM chains.",
+    "description": "KriptoK holds keys on the phone across Bitcoin, Solana and EVM networks including Hyperliquid, built around competitive trading. Traders take real perpetual positions, climb a live leaderboard and get paid for placing well, without keys ever leaving the device. A discovery feed surfaces trending tokens, tokenized stocks and new launches as they start moving. Swaps route across chains automatically to find the best execution.",
+    "meta": "Mobile self-custody across Bitcoin, Solana and EVM chains, with a published Halborn audit.",
+    "pageTitle": "KriptoK - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://kriptok.io",
+    "twitter": "https://x.com/KriptoKGlobal"
+  },
+  "relations": {
+    "alternatives": [
+      "plug-wallet",
+      "trust-wallet",
+      "atomic-wallet"
+    ],
+    "related": [
+      "backpack",
+      "coin98-super-wallet",
+      "cropty-wallet"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Robinhood Chain on KriptoK",
+      "tldr": "Explains Robinhood Chain support and tokenized assets available through the KriptoK wallet.",
+      "url": "https://www.kriptok.io/resource-article/robinhood-chain-is-now-available-on-kriptok",
+      "source": "KriptoK",
+      "tag": "Explainer"
+    },
+    {
+      "title": "KriptoK Security and the Halborn Audit",
+      "tldr": "Explains the wallet's security approach and what the Halborn audit assessed.",
+      "url": "https://www.kriptok.io/resource-article/is-kriptok-safe-halborn-audit",
+      "source": "KriptoK",
+      "tag": "Security"
+    }
+  ]
+}

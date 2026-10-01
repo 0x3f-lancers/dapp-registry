@@ -32,5 +32,19 @@
       "icy-tools",
       "moonly"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Running A Validator",
+      "tldr": "A long operator guide for the network that materialises the tables, and what the node is responsible for.",
+      "url": "https://docs.tableland.xyz/validator/node",
+      "source": "Tableland"
+    },
+    {
+      "title": "Where It Runs",
+      "tldr": "The supported chains and what differs between them for anyone writing to a table.",
+      "url": "https://docs.tableland.xyz/fundamentals/supported-chains",
+      "source": "Tableland"
+    }
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "sir-trading",
+  "name": "SIR",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761062/dapp-store-logos/sir-trading.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "SIR offers leveraged tokens with no liquidations and no funding rates.",
+    "description": "SIR issues leveraged tokens that cannot be liquidated and carry no funding payments, shifting the cost of leverage into the token's design. A holder pays a one-time fee at entry instead of an ongoing rate, and the token avoids the volatility decay that erodes comparable products over time. The documentation illustrates the problem with a period where ETH returned to its starting price while a rival leveraged product had already lost value. It is deployed on Hyperliquid and Ethereum.",
+    "meta": "SIR issues leveraged tokens on Hyperliquid and Ethereum with no liquidations and no funding rates, charging a one-time entry fee instead.",
+    "pageTitle": "SIR - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.sir.trading",
+    "twitter": "https://x.com/leveragesir"
+  },
+  "relations": {
+    "alternatives": [
+      "aevo",
+      "apex-protocol",
+      "bounce-tech"
+    ],
+    "related": [
+      "contango",
+      "demex",
+      "erasure"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Liquidity and Leverage",
+      "tldr": "Explains how SIR vaults set collateral and maintain leveraged exposure.",
+      "url": "https://docs.sir.trading/protocol-overview/liquidity-and-leverage.md",
+      "source": "SIR",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Protocol Owned Liquidity",
+      "tldr": "Explains SIR’s protocol owned liquidity and the fees that support it.",
+      "url": "https://docs.sir.trading/protocol-overview/liquidity-and-leverage/protocol-owned-liquidity.md",
+      "source": "SIR",
+      "tag": "Explainer"
+    }
+  ]
+}

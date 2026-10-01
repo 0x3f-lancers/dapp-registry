@@ -1,0 +1,54 @@
+{
+  "slug": "brid-gg",
+  "name": "Brid.gg",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760780/dapp-store-logos/brid-gg.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Bridge portal for moving assets between Ethereum and the OP Stack chains of the Superchain.",
+    "description": "Brid.gg started as a front end for the official bridges of OP Stack chains, letting users send assets from Ethereum to networks such as Unichain and World Chain without hunting for each chain's own portal. Transfers are now routed through LI.FI, so users can pick any supported source and destination chain and token from one screen.",
+    "meta": "Move assets between Ethereum and Superchain networks like Unichain and World Chain from one bridge screen, routed by LI.FI.",
+    "pageTitle": "Brid.gg - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://brid.gg",
+    "twitter": "https://x.com/Brid_gg"
+  },
+  "relations": {
+    "alternatives": [
+      "base-bridge",
+      "orbiter-finance",
+      "mayan"
+    ],
+    "related": [
+      "safe-haven",
+      "chainport",
+      "hashport"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What is Brid.gg?",
+      "tldr": "Brid.gg's own intro to its bridge interface for moving assets between Ethereum, OP Mainnet and other Superchain networks.",
+      "url": "https://docs.brid.gg/",
+      "source": "Brid.gg Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Across Powers Superchain Bridge Interface Transfers",
+      "tldr": "Explains how Optimism adopted the ERC-7683 intents standard so Brid.gg and Superbridge users get fast Across-powered transfers.",
+      "url": "https://across.to/blog/Optimism-adopts-ERC-7683-to-enable-high-speed-transfers-on-the-Superchain",
+      "source": "Across Blog",
+      "tag": "Infrastructure"
+    }
+  ]
+}

@@ -34,5 +34,19 @@
       "polyzoa",
       "goplus-security"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Biggest Flash Loan Attacks",
+      "tldr": "Euler, Beanstalk and Harvest pulled apart: what each borrowed, what it manipulated, and the shared assumption that broke.",
+      "url": "https://www.0xteam.space/blog/biggest-flash-loan-attacks-defi-2026",
+      "source": "0xTeam"
+    },
+    {
+      "title": "When An Agent Holds The Keys",
+      "tldr": "The new attack surface once software signs its own transactions, and which of the old controls stop working.",
+      "url": "https://www.0xteam.space/blog/security-risks-autonomous-onchain-agents-2026",
+      "source": "0xTeam"
+    }
+  ]
 }

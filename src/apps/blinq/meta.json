@@ -1,0 +1,53 @@
+{
+  "slug": "blinq",
+  "name": "Blinq",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760768/dapp-store-logos/blinq.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Web3 Prediction Markets"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Blinq is a derivatives layer for prediction markets offering leverage on event outcomes.",
+    "description": "Blinq adds up to five times leverage to prediction market positions, settled in USDC. Barriers are listed on a central limit order book as knock-in and knock-out contracts written against probability feeds, and margin is crossed across a trader's positions with pooled LP credit behind it. Polymarket markets can be traded through this layer, alongside live markets in crypto, macro, sports and global events. Short-dated products include five-minute up or down markets on BTC, ETH and SOL.",
+    "meta": "Take leveraged positions on prediction market outcomes instead of posting the full notional.",
+    "pageTitle": "Blinq - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blinq.fi",
+    "twitter": "https://x.com/blinqFi"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperstitions",
+      "kizzy",
+      "levr-bet"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Blinq Leverage Risk Research",
+      "tldr": "Studies short-term price gaps in prediction markets and how they affect the risk of leveraged positions.",
+      "url": "https://research.blinq.fi/research-1",
+      "source": "Blinq Research",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Blinq Prediction Market Guide",
+      "tldr": "Explains Blinq's Monad prediction market, participation steps, and eligibility for its early campaign.",
+      "url": "https://airdrops.io/blinq/",
+      "source": "Airdrops.io",
+      "tag": "Tutorial"
+    }
+  ]
+}

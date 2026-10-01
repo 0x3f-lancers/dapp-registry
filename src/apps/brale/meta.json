@@ -1,0 +1,53 @@
+{
+  "slug": "brale",
+  "name": "Brale",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760779/dapp-store-logos/brale.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Brale is a regulated platform for stablecoin issuance, custody, payments and compliance.",
+    "description": "Brale is a regulated platform for issuing, custodying and moving stablecoins, with compliance controls built into the same system. It connects issuance, custody, movement, redemption, controls and reconciliation, exposed through one API that covers both USD and stablecoin balances. The company states more than 75 programs in production, licensing or exemptions across 45 US jurisdictions, and support for over 27 chains. Brale holds SOC 2 Type II certification, with its reserves and internal controls open to review.",
+    "meta": "Stablecoin issuance as a licensed service, covering custody, payments and US regulatory coverage.",
+    "pageTitle": "Brale - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://brale.xyz/",
+    "twitter": "https://x.com/brale_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "bridge-xyz",
+      "capa-fi"
+    ],
+    "related": [
+      "chainrails",
+      "checker-finance",
+      "coinflow"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Abstracting Blockchain Gas Fees",
+      "tldr": "Explains how stablecoin products can shield users from paying network gas fees directly.",
+      "url": "https://brale.xyz/blog/abstracting-blockchain-gas-fees",
+      "source": "Brale",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Adding Stablecoins to a Fintech",
+      "tldr": "Walks through the infrastructure decisions involved in adding stablecoin support to a fintech product.",
+      "url": "https://brale.xyz/blog/adding-stablecoins-to-your-fintech",
+      "source": "Brale",
+      "tag": "Tutorial"
+    }
+  ]
+}

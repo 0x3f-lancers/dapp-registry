@@ -1,0 +1,54 @@
+{
+  "slug": "usdt0",
+  "name": "USDT0",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761122/dapp-store-logos/usdt0.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Stable",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Omnichain version of Tether's USDT and XAUt, moving between networks without wrapped copies.",
+    "description": "USDT0 brings Tether's dollar and gold tokens to many chains while keeping one unified supply, so liquidity is not split across different bridged versions. More than $3.6 billion is in circulation and over $112 billion has moved through it, with an average transfer above $100,000. It launched Plasma with record day-one stablecoin liquidity, and it is also the native gas and base asset on Stable.",
+    "meta": "USDT0 moves Tether's USDT and XAUt across chains as one unified supply, with $112B+ transferred.",
+    "pageTitle": "USDT0 - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://usdt0.to",
+    "twitter": "https://x.com/USDT0_to"
+  },
+  "relations": {
+    "alternatives": [
+      "sodax",
+      "relay-link",
+      "wormhole"
+    ],
+    "related": [
+      "mantle-bridge",
+      "houdini-swap",
+      "mini-bridge"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How USDT0 Manages State Across Chains",
+      "tldr": "Explains how USDT0 tracks token state across networks to support cross-chain transfers without losing accounting consistency.",
+      "url": "https://blog.usdt0.to/how-usdt0-manages-state-across-chains",
+      "source": "USDT0",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What Is USDT0?",
+      "tldr": "Introduces USDT0's omnichain deployment model and how it moves stablecoin liquidity between supported chains.",
+      "url": "https://blog.usdt0.to/%40tetherzero/what-is-usdt0-usdt-s-omnichain-deployment-explained",
+      "source": "USDT0",
+      "tag": "Explainer"
+    }
+  ]
+}

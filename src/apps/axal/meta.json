@@ -1,0 +1,53 @@
+{
+  "slug": "axal",
+  "name": "Axal",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760751/dapp-store-logos/axal.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Savings app paying on-chain yield on dollars, Bitcoin and gold, with no lock-ups or minimums.",
+    "description": "Axal takes deposits in dollars, BTC or gold and lends them into on-chain markets, passing most of the interest back instead of keeping it as a bank would. Current rates are around 7.6% on cash, with yield accruing every second and withdrawals open at any time. Users can fund an account with Apple Pay, Google Pay, a card or one of over 500 banks, and the company is backed by a16z crypto and CMT Digital.",
+    "meta": "Earn on-chain yield on cash, BTC and gold from a savings app with per-second accrual, instant funding and no lock-ups.",
+    "pageTitle": "Axal - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://axal.com",
+    "twitter": "https://x.com/getaxal"
+  },
+  "relations": {
+    "alternatives": [
+      "liminal-basis",
+      "giza",
+      "auto-finance"
+    ],
+    "related": [
+      "zircuit",
+      "horizondex",
+      "strata"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Axal Help Center",
+      "tldr": "Guides to funding an Axal account, earning yield, withdrawing, and understanding fees and risks.",
+      "url": "https://docs.axal.com/",
+      "source": "Axal",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Axal Wallet Security Works",
+      "tldr": "Explains Axal's self-custodial wallet design, account abstraction, and automated signing safeguards.",
+      "url": "https://docs.axal.com/docs/advanced/wallet-and-security",
+      "source": "Axal",
+      "tag": "Security"
+    }
+  ]
+}

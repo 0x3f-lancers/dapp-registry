@@ -1,0 +1,54 @@
+{
+  "slug": "cypherock",
+  "name": "Cypherock",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760824/dapp-store-logos/cypherock.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Hardware Wallets"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Hardware wallet that splits your seed across cards so there is no single backup to lose.",
+    "description": "The Cypherock X1 removes the paper seed phrase. Private keys are split with Shamir secret sharing across the device and a set of NFC cards, so losing or leaking any one piece does not expose the wallet. It also offers non-custodial crypto inheritance. Manufactured in India, it has been audited by Keylabs, the firm that found flaws in Ledger and Trezor devices, and its firmware is open source.",
+    "meta": "Cypherock X1 splits your keys across cards instead of one seed phrase, with open-source firmware and crypto inheritance.",
+    "pageTitle": "Cypherock - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.cypherock.com",
+    "twitter": "https://x.com/CypherockWallet"
+  },
+  "relations": {
+    "alternatives": [
+      "degen-wallet",
+      "tangem",
+      "burner"
+    ],
+    "related": [
+      "zkbob",
+      "clave",
+      "trezor"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Generate a New Wallet With Cypherock X1",
+      "tldr": "Official instructions for creating a wallet, setting a PIN, and syncing the four X1 cards.",
+      "url": "https://docs.cypherock.com/getting-started/generate-a-new-wallet-with-cypherock-x1",
+      "source": "Cypherock",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How Cypherock Cover Works",
+      "tldr": "Explains the wallet's PIN recovery and estate recovery service and its security design.",
+      "url": "https://www.cypherock.com/blogs/cypherock-cover",
+      "source": "Cypherock",
+      "tag": "Explainer"
+    }
+  ]
+}

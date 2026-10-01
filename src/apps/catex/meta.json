@@ -1,0 +1,54 @@
+{
+  "slug": "catex",
+  "name": "Catex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760795/dapp-store-logos/catex.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "ve(3,3) MetaDEX on Unichain built on Uniswap v4 with automated liquidity management.",
+    "description": "Catex serves Unichain projects that need liquidity. It routes swaps through Uniswap v4 pools, manages liquidity positions automatically, and uses a ve(3,3) model where users lock CATX as veCATX to vote on which pools receive emissions and to earn a share of fees and incentives. Protocols can bribe voters to direct liquidity towards their own pairs.",
+    "meta": "Lock CATX on Catex, a ve(3,3) MetaDEX on Unichain, to steer Uniswap v4 liquidity and earn fees and incentives.",
+    "pageTitle": "Catex - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.catex.fi/",
+    "twitter": "https://x.com/Catex_Fi"
+  },
+  "relations": {
+    "alternatives": [
+      "balancer",
+      "sundaeswap",
+      "veax"
+    ],
+    "related": [
+      "skate-amm",
+      "ekubo",
+      "alt-fun"
+    ]
+  },
+  "resources": [
+    {
+      "title": "About Catex",
+      "tldr": "Describes Catex as a coordination layer for Uniswap v4 on Unichain, combining managed liquidity, ve(3,3) voting and incentives.",
+      "url": "https://catex.gitbook.io/catex",
+      "source": "Catex Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Catex: The New Frontier of DeFi Yield and Uniswap Innovation",
+      "tldr": "An outside overview of Catex's pitch as a Unichain home for v4 hook builders and a native yield source for LPs.",
+      "url": "https://medium.com/@oryimand/catex-the-new-frontier-of-defi-yield-uniswap-innovation-a290fd05bac4",
+      "source": "Medium",
+      "tag": "DeFi",
+      "publishedAt": "2025-09-28"
+    }
+  ]
+}

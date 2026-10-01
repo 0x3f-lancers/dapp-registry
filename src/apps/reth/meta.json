@@ -1,0 +1,54 @@
+{
+  "slug": "reth",
+  "name": "Reth",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761044/dapp-store-logos/reth.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Execution Clients"
+  ],
+  "chains": [
+    "Ethereum",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Paradigm's Rust Ethereum execution client and modular SDK for building custom nodes.",
+    "description": "Reth is an open-source Ethereum execution client written in Rust by Paradigm, used both to run production nodes and as a library for building new chains. Its components, from networking and the transaction pool to the EVM and RPC, can be reused on their own, and execution extensions let developers add indexing or rollup logic inside the node. It has over 580 contributors, and several OP Stack chains, World Chain among them, build on it.",
+    "meta": "Reth is Paradigm's Rust Ethereum execution client and SDK, used to run nodes and build chains like World Chain.",
+    "pageTitle": "Reth - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://reth.rs/",
+    "github": "https://github.com/paradigmxyz/reth"
+  },
+  "relations": {
+    "alternatives": [
+      "besu",
+      "geth",
+      "nethermind"
+    ],
+    "related": [
+      "alchemy",
+      "chainnodes",
+      "chainstack"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Install Reth",
+      "tldr": "Official instructions for obtaining Reth through binaries, Docker images, or a source build.",
+      "url": "https://reth.rs/installation/installation.html",
+      "source": "Reth",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Run an Ethereum Node With Reth",
+      "tldr": "Explains archive and full node commands and how Reth connects to an Ethereum consensus client.",
+      "url": "https://reth.rs/run/ethereum/",
+      "source": "Reth",
+      "tag": "Infrastructure"
+    }
+  ]
+}

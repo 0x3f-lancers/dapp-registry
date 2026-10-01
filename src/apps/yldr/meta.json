@@ -29,5 +29,25 @@
     "related": [
       "zora"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Leveraging A Uniswap Position",
+      "tldr": "How an LP position is wrapped and borrowed against to multiply fee income, step by step with the limits stated.",
+      "url": "https://yldr.gitbook.io/yldr/user-guide/how-to-leverage/how-to-leverage-you-uniswap-v3-position",
+      "source": "YLDR"
+    },
+    {
+      "title": "How Liquidation Works Here",
+      "tldr": "What triggers liquidation when the collateral is a concentrated liquidity position, and what happens to the position.",
+      "url": "https://yldr.gitbook.io/yldr/user-guide/liquidations",
+      "source": "YLDR"
+    },
+    {
+      "title": "Lending Against An LP NFT",
+      "tldr": "The protocol explained from first principles: why the position is wrapped, and how loan-to-value is set against it.",
+      "url": "https://yldr.gitbook.io/yldr",
+      "source": "YLDR"
+    }
+  ]
 }

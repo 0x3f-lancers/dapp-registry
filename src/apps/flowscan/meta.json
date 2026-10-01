@@ -1,0 +1,37 @@
+{
+  "slug": "flowscan",
+  "name": "Flowscan",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760870/dapp-store-logos/flowscan.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Flowscan is a real-time explorer and analytics view for Hyperliquid activity.",
+    "description": "Flowscan is a real-time block explorer for Hyperliquid that reads HyperCore trading activity and not only EVM transactions, so it covers the half of the chain a standard explorer cannot see. Dashboards track daily combined revenue over a fourteen-day window and break down on-chain stablecoin perp margin by issuer. A live transaction feed streams network activity as it confirms.",
+    "meta": "Flowscan is a real-time Hyperliquid explorer combining block data with order book analytics.",
+    "pageTitle": "Flowscan - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.flowscan.xyz/",
+    "twitter": "https://x.com/flowscanxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "blockscout",
+      "etherscan",
+      "hypurrscan"
+    ],
+    "related": [
+      "ccxt",
+      "moralis",
+      "multisender"
+    ]
+  }
+}

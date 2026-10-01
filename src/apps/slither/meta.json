@@ -31,5 +31,19 @@
       "delegatable",
       "beamer-bridge"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Writing A New Detector",
+      "tldr": "How the static analyser's checks are built, which is also the clearest explanation of what it can and cannot see.",
+      "url": "https://github.com/crytic/slither/wiki/Adding-a-new-detector",
+      "source": "Slither"
+    },
+    {
+      "title": "Running It On Every Commit",
+      "tldr": "Wiring the analyser into pre-commit so findings show up before review rather than after deployment.",
+      "url": "https://github.com/crytic/slither/blob/master/.pre-commit-config.yaml",
+      "source": "Slither"
+    }
+  ]
 }

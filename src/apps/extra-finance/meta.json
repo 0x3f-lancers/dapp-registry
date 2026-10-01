@@ -34,5 +34,25 @@
       "oriole-insights",
       "sonicxswap"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Risks, Listed",
+      "tldr": "The protocol's own account of what can go wrong, which is the page worth reading before depositing.",
+      "url": "https://docs.extrafi.io/extra_finance/risks",
+      "source": "Extra Finance"
+    },
+    {
+      "title": "Audits And Security",
+      "tldr": "What has been reviewed, by whom, and which parts of the system sit outside that scope.",
+      "url": "https://docs.extrafi.io/extra_finance/audits-and-security",
+      "source": "Extra Finance"
+    },
+    {
+      "title": "Leveraged Farming, Explained",
+      "tldr": "How borrowing against a farm position works here, answered through the questions users actually ask.",
+      "url": "https://docs.extrafi.io/extra_finance/faq",
+      "source": "Extra Finance"
+    }
+  ]
 }

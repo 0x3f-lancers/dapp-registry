@@ -39,15 +39,13 @@
       "tldr": "The post that explained why Rust's ownership rules eliminate data races at compile time rather than at runtime.",
       "url": "https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency/",
       "source": "Rust Blog",
-      "tag": "Infrastructure",
-      "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+      "tag": "Infrastructure"
     },
     {
       "title": "Stability as a Deliverable",
       "tldr": "Treats not breaking your users as a feature to be engineered rather than a promise to be made. The reasoning here shaped how Rust ships to this day.",
       "url": "https://blog.rust-lang.org/2014/10/30/Stability/",
       "source": "Rust Blog",
-      "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
       "tag": "Infrastructure"
     },
     {
@@ -55,8 +53,7 @@
       "tldr": "What the team decided had to be true before calling a language finished enough to commit to. Useful reading for anyone versioning a protocol or an API.",
       "url": "https://blog.rust-lang.org/2014/09/15/Rust-1.0/",
       "source": "Rust Blog",
-      "tag": "Infrastructure",
-      "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+      "tag": "Infrastructure"
     }
   ]
 }

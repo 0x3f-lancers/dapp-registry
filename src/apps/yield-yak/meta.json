@@ -9,7 +9,9 @@
     "Decentralized Exchanges",
     "Liquid Staking Platforms"
   ],
-  "chains": ["Avalanche"],
+  "chains": [
+    "Avalanche"
+  ],
   "pricing": "",
   "content": {
     "short": "Yield Yak provides auto-compounding yield farms, a DEX aggregator, and liquid staking tools.",
@@ -22,7 +24,29 @@
     "twitter": "https://x.com/yieldyak_"
   },
   "relations": {
-    "alternatives": ["kriya", "morfi", "earn-network"],
-    "related": ["spark", "morpho", "yield-protocol"]
-  }
+    "alternatives": [
+      "kriya",
+      "morfi",
+      "earn-network"
+    ],
+    "related": [
+      "spark",
+      "morpho",
+      "yield-protocol"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Compounding Actually Helps",
+      "tldr": "The maths behind auto-compounding, and the point at which paying for it stops being worth it.",
+      "url": "https://docs.yieldyak.com/for-farmers/compound-interest",
+      "source": "Yield Yak"
+    },
+    {
+      "title": "Returns And Fees",
+      "tldr": "What the vault charges and how that is taken out of the displayed return.",
+      "url": "https://docs.yieldyak.com/vaults/returns-and-fee-structure",
+      "source": "Yield Yak"
+    }
+  ]
 }
