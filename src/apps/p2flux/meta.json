@@ -1,0 +1,41 @@
+{
+  "slug": "p2flux",
+  "name": "P2Flux",
+  "logoUrl": "https://github.com/user-attachments/assets/d9ceeea1-8366-485a-90fa-90a4d49b2872",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Base"
+  ],
+  "tags": [
+    "payments",
+    "USDC",
+    "stablecoin",
+    "Base",
+    "non-custodial",
+    "recurring payments",
+    "subscriptions",
+    "payment API"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "P2Flux provides non-custodial USDC payment infrastructure on Base for one-time payments, automatic subscriptions, and direct merchant-wallet settlement.",
+    "description": "P2Flux is non-custodial USDC payment infrastructure on Base for online merchants and developers. One-time payments and automatic subscription renewals settle directly from customer wallets to merchant wallets, with no P2Flux balance or withdrawal process. Integration is available through a hosted checkout, webhooks, REST API, and JavaScript/TypeScript and PHP SDKs.",
+    "meta": "P2Flux provides non-custodial USDC payment infrastructure on Base for one-time payments, automatic subscriptions, and direct merchant-wallet settlement. Discover P2Flux and other Web3 Wallet Tools...",
+    "pageTitle": "P2Flux - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://p2flux.com/",
+    "github": "https://github.com/P2Flux",
+    "docs": "https://p2flux.com/docs/"
+  },
+  "relations": {
+    "alternatives": [
+      "depay",
+      "bulla-network"
+    ],
+    "related": []
+  }
+}
