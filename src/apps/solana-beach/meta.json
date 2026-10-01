@@ -29,5 +29,23 @@
       "cubanespace",
       "avalanche"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Which Solana Explorer to Reach For",
+      "tldr": "A comparison across the options, covering what each surfaces about validators, epochs and stake accounts that the others do not.",
+      "url": "https://www.helius.dev/blog/top-solana-block-explorers",
+      "source": "Helius",
+      "tag": "Infrastructure",
+      "image": "https://www.helius.dev/api/media/file/list-of-the-best-solana-block-explorers.jpg"
+    },
+    {
+      "title": "Reading Validator Data Before You Delegate",
+      "tldr": "Commission, uptime and epoch credits explained, so the numbers on a validator page turn into an actual decision.",
+      "url": "https://www.helius.dev/blog/solana-staking-simplified-guide-to-sol-staking",
+      "source": "Helius",
+      "tag": "DeFi",
+      "image": "https://www.helius.dev/api/media/file/solana-staking-simplified--a-complete-guide-to-sol-staking.jpg"
+    }
+  ]
 }

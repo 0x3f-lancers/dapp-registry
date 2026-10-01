@@ -1,0 +1,54 @@
+{
+  "slug": "zyfai",
+  "name": "Zyfai",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761139/dapp-store-logos/zyfai.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Base",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Rule-based DeFi agents that move your assets to the best risk-adjusted yield from your own smart account.",
+    "description": "Zyfai gives each user an agent that watches more than 60 vetted pools across chains and moves their stablecoins, ETH, BTC or tokenized stocks like NVDAc to the best risk-adjusted yield around the clock. Funds stay in the user's own smart account under rules they set, and the contracts have passed two audits with no critical findings. It has automated over $3.7 billion and is backed by Everstake and Stake Capital.",
+    "meta": "Let Zyfai's rule-based agent chase risk-adjusted DeFi yield on your stablecoins and tokenized stocks, non-custodially.",
+    "pageTitle": "Zyfai - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.zyf.ai",
+    "twitter": "https://x.com/ZyfAI_"
+  },
+  "relations": {
+    "alternatives": [
+      "spectra-finance",
+      "d2-finance",
+      "harmonix-finance"
+    ],
+    "related": [
+      "kamino-finance",
+      "toros-finance",
+      "ichi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Adding Zyfai Earn to an AI Trading Wallet",
+      "tldr": "Shows how Wallet V integrated the Zyfai SDK to bring yield features into an AI-assisted trading wallet.",
+      "url": "https://blog.zyf.ai/how-wallet-v-uses-the-zyfai-sdk-to-bring-earn-into-an-ai-trading-wallet",
+      "source": "Zyfai",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Zyfai Agent Performance Across Base and Plasma",
+      "tldr": "Zyfai's March report explains its agent rebalancing strategy and reports yield and transaction activity on Base and Plasma.",
+      "url": "https://zyf.ai/blog/zyfai-march-yield-report-9861percent-yield-outperformance",
+      "source": "Zyfai",
+      "tag": "Research"
+    }
+  ]
+}

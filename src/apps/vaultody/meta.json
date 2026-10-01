@@ -35,5 +35,25 @@
     "related": [
       "dcent"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Paying Out Without Holding Keys",
+      "tldr": "How USDT withdrawals are settled when no one person can sign, and where the approval policy actually lives.",
+      "url": "https://vaultody.com/blog/629-settling-client-withdrawals-in-usdt-without-holding-the-keys",
+      "source": "Vaultody"
+    },
+    {
+      "title": "Tron Fees Are Not The Cost",
+      "tldr": "Why the float you park to keep transfers moving dwarfs the fee itself, worked through at operational volume.",
+      "url": "https://vaultody.com/blog/628-tron-fees-at-scale-why-the-float-costs-more-than-the-fee",
+      "source": "Vaultody"
+    },
+    {
+      "title": "A Hardware Wallet Exploit",
+      "tldr": "What went wrong in the Coldcard losses, how the attack reached users, and which custody assumptions it broke.",
+      "url": "https://vaultody.com/blog/626-coldcard-hardware-wallet-exploit-reaches-70m-in-bitcoin-losses",
+      "source": "Vaultody"
+    }
+  ]
 }

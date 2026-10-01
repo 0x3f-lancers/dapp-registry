@@ -31,5 +31,25 @@
       "sanr-app",
       "matrixnet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Many Properties, One Token",
+      "tldr": "An NFT representing a single property is hard to sell. Bundling into a fungible basket is one answer to that liquidity problem.",
+      "url": "https://medium.com/tangible/tangible-baskets-many-properties-one-token-47d301112bb8",
+      "source": "Tangible Blog",
+      "publishedAt": "2024-03-11",
+      "tag": "Tokenization",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*TW_vtSGsk5J38PUZNHt7MA.png"
+    },
+    {
+      "title": "A Stablecoin That Pays T-Bill Yield",
+      "tldr": "Real-world assets onchain range from tokenised watches to credit markets. Treasury bills are the one with clear product-market fit.",
+      "url": "https://medium.com/tangible/ustb-rebasing-stablecoin-yield-backed-by-t-bills-00600e6f6e61",
+      "source": "Tangible Blog",
+      "publishedAt": "2024-03-14",
+      "tag": "Payments",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*9UGQW8Tjc7GHyCDh3_NNpg.png"
+    }
+  ]
 }

@@ -35,5 +35,26 @@
       "eigenda",
       "celestia"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Responding To A Security Incident",
+      "tldr": "A live incident update written as it unfolded, which is a rare look at how a chain team triages and communicates.",
+      "url": "https://aelf.com/posts/aelf-security-incident-response-progress-update-0826",
+      "source": "aelf",
+      "publishedAt": "2026-08-26"
+    },
+    {
+      "title": "Your First Contract",
+      "tldr": "A hello-world walkthrough that covers the toolchain and the deployment steps before any real logic gets written.",
+      "url": "https://docs.aelf.com/quick-start/developers/hello-world-contract",
+      "source": "aelf"
+    },
+    {
+      "title": "Building An NFT Dapp",
+      "tldr": "A long build-along from contract to frontend, which doubles as a tour of how the chain differs in practice.",
+      "url": "https://docs.aelf.com/quick-start/developers/nft-dapp",
+      "source": "aelf"
+    }
+  ]
 }

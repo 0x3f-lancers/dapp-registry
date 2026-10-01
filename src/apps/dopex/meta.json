@@ -31,5 +31,31 @@
       "defx",
       "ribbon-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "From Dopex to Stryke",
+      "tldr": "Why the protocol rebranded and what carried over, including the options products that survived the transition.",
+      "url": "https://iq.wiki/wiki/stryke",
+      "source": "IQ.wiki",
+      "tag": "Trading",
+      "image": "https://iq.wiki/cdn-cgi/image/width=1200,height=630,fit=cover,gravity=auto,quality=95/https://ipfs.everipedia.org/ipfs/QmT5PEpRVADmodgWP6j5G8srad3vGczcpydqsa6wwyCHTL"
+    },
+    {
+      "title": "The Protocol as It Stands Now",
+      "tldr": "The current product set after the rebrand, written by the team. The shortest route to what is actually live.",
+      "url": "https://docs.stryke.xyz/",
+      "source": "Stryke Docs",
+      "tag": "DeFi",
+      "image": "https://docs.stryke.xyz/~gitbook/image?url=https%3A%2F%2F1713171471-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtOz5vakeeIFF4xdhXZoK%252Fsocialpreview%252F3JgAvGGhvMddXc2khG8F%252FStryke%2520Docs.png%3Falt%3Dmedia%26token%3D4646227b-e69d-42cb-84e0-c14cb3309465&width=1200&height=630&sign=bd9ff222b1c5562925196274f9e056f9&sv=3"
+    },
+    {
+      "title": "LP Positions That Double as Options",
+      "tldr": "Concentrated liquidity sold as American-style options, so the same capital earns swap fees and premiums at once.",
+      "url": "https://docs.pancakeswap.finance/archive/legacy-products/archived-options/clamm-options",
+      "source": "PancakeSwap Docs",
+      "tag": "Trading",
+      "image": "https://docs.pancakeswap.finance/~gitbook/ogimage/QHc8PuC20jGAhaE15VJP"
+    }
+  ]
 }

@@ -31,5 +31,13 @@
       "fuzzlib",
       "kevm"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Formally Verifying Solidity",
+      "tldr": "How annotations turn into proof obligations, and what the verifier can guarantee that a test suite cannot.",
+      "url": "https://github.com/SRI-CSL/solidity/blob/0.7/SOLC-VERIFY-README.md",
+      "source": "solc-verify"
+    }
+  ]
 }

@@ -1,48 +1,68 @@
 {
-    "slug":  "claimr",
-    "name":  "claimr",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770745726/web3-explorer/dapp-logos/claimr.jpg",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Quest-to-Earn Tools"
-                    ],
-    "chains":  [
-                   "Ethereum",
-                   "BNB Chain",
-                   "Polygon",
-                   "OP Mainnet",
-                   "Arbitrum",
-                   "Base",
-                   "Linea",
-                   "Solana",
-                   "Moonbeam",
-                   "Fantom",
-                   "Celo",
-                   "Cronos",
-                   "ZKsync",
-                   "Multichain",
-                   "Mantle"
-               ],
-    "pricing":  "Paid",
-    "content":  {
-                    "short":  "claimr is a white label gamification platform for quests, rewards, tiers, referrals, and retention focused growth programs.",
-                    "description":  "claimr is a white label engagement platform that helps teams launch quests, rewards, leaderboards, tiers, and referral systems without building the mechanics from scratch. Its official site positions the product as a plug and play growth stack for community activation, retention, and loyalty, with modules that support both onchain and offchain actions. The platform is aimed at products that want campaign control and analytics from one dashboard rather than separate quest, reward, and CRM tools. On Mantle, it fits as growth infrastructure for teams running incentive and loyalty programs around users.",
-                    "meta":  "claimr is a white label gamification platform for quests, rewards, referrals, tiers, and retention focused growth programs on Mantle.",
-                    "pageTitle":  "claimr - DeFi Tools - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://claimr.io/",
-                  "twitter":  "https://x.com/claimrio"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "anycampus",
-                                           "saakuru",
-                                           "kazm"
-                                       ],
-                      "related":  [
-                                      "questflow",
-                                      "wonderverse"
-                                  ]
-                  }
+  "slug": "claimr",
+  "name": "claimr",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745726/web3-explorer/dapp-logos/claimr.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Quest-to-Earn Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Polygon",
+    "OP Mainnet",
+    "Arbitrum",
+    "Base",
+    "Linea",
+    "Solana",
+    "Moonbeam",
+    "Fantom",
+    "Celo",
+    "Cronos",
+    "ZKsync",
+    "Multichain",
+    "Mantle"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "claimr is a white label gamification platform for quests, rewards, tiers, referrals, and retention focused growth programs.",
+    "description": "claimr is a white label engagement platform that helps teams launch quests, rewards, leaderboards, tiers, and referral systems without building the mechanics from scratch. Its official site positions the product as a plug and play growth stack for community activation, retention, and loyalty, with modules that support both onchain and offchain actions. The platform is aimed at products that want campaign control and analytics from one dashboard rather than separate quest, reward, and CRM tools. On Mantle, it fits as growth infrastructure for teams running incentive and loyalty programs around users.",
+    "meta": "claimr is a white label gamification platform for quests, rewards, referrals, tiers, and retention focused growth programs on Mantle.",
+    "pageTitle": "claimr - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://claimr.io/",
+    "twitter": "https://x.com/claimrio"
+  },
+  "relations": {
+    "alternatives": [
+      "anycampus",
+      "saakuru",
+      "kazm"
+    ],
+    "related": [
+      "questflow",
+      "wonderverse"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Evolution of Web3 Gamification: From Farming to Growth",
+      "tldr": "Quest campaigns trained users to farm rewards and leave. Honest about why that failed and what rewarding contribution instead would require.",
+      "url": "https://claimr.io/blog/evolution-of-web3-gamification",
+      "source": "Claimr Blog",
+      "publishedAt": "2026-07-29",
+      "image": "https://images.ctfassets.net/kvcmz9neefrk/4WRxVbLHr4VejQtMXbQ057/ddd5c5a8ecffbcf6d741bb5c2ae5ac74/1532400000.png",
+      "tag": "Research"
+    },
+    {
+      "title": "Crypto Trends in 2026: Regulation, AI and Real-World Adoption",
+      "tldr": "A survey piece, but a well-organised one covering stablecoins, tokenised assets and institutional flows. Useful for orientation rather than depth.",
+      "url": "https://claimr.io/blog/crypto-trends-2026-real-world-adoption",
+      "source": "Claimr Blog",
+      "tag": "Regulation",
+      "publishedAt": "2026-07-29",
+      "image": "https://images.ctfassets.net/kvcmz9neefrk/lI1mW8NiZLXVrDP8N4lYT/85a30ab3b1c6ffd0e0ad699a35872c9d/image.webp"
+    }
+  ]
 }

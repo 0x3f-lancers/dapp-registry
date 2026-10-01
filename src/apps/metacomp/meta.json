@@ -1,0 +1,55 @@
+{
+  "slug": "metacomp",
+  "name": "MetaComp",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760969/dapp-store-logos/metacomp.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Singapore firm building AgentX, which gives AI agents financial skills and compliance checks.",
+    "description": "MetaComp works on the overlap between traditional finance and digital assets. Its main product, AgentX, equips AI agents with pre-built financial skills so they can read transactions, assess risk and act within real financial systems, with compliance checks built in. Developers connect it through MCP, a CLI, skills or a REST API, and it is designed for agent-to-agent discovery and settlement.",
+    "meta": "MetaComp's AgentX gives AI agents financial skills and compliance, available through MCP, CLI and API.",
+    "pageTitle": "MetaComp - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.metacomp.ai",
+    "twitter": "https://x.com/MetaCompHQ"
+  },
+  "relations": {
+    "alternatives": [
+      "ivorypay",
+      "airswift",
+      "bulla-network"
+    ],
+    "related": [
+      "pocketpay-finance",
+      "hq-xyz",
+      "solsplits"
+    ]
+  },
+  "resources": [
+    {
+      "title": "MetaComp Rolls Out AI Agent Governance Framework",
+      "tldr": "Covers MetaComp's Know Your Agent framework, setting rules for identifying, permissioning and monitoring AI agents in finance.",
+      "url": "https://www.blockhead.co/2026/04/21/singapores-metacomp-rolls-out-ai-agent-governance-framework-for-financial-institutions-regulators/",
+      "source": "Blockhead",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-04-21"
+    },
+    {
+      "title": "MetaComp Launches AI Agent Governance Framework for Regulated Finance",
+      "tldr": "MetaComp's release on its KYA framework and AgentX skills that let AI agents call regulated compliance and payment tools.",
+      "url": "https://www.prnewswire.com/apac/news-releases/metacomp-launches-the-worlds-first-ai-agent-governance-framework-for-regulated-financial-services-302748422.html",
+      "source": "PR Newswire",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-04-21"
+    }
+  ]
+}

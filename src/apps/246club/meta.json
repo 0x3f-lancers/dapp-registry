@@ -1,0 +1,52 @@
+{
+  "slug": "246club",
+  "name": "246 Club",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760712/dapp-store-logos/246club.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Re-lending protocol that puts Aave deposits back to work for extra yield through cross-protocol credit.",
+    "description": "Depositors in 246 Club keep earning Aave's base rate on their aTokens while the protocol lends that position out again, extending the spare credit to arbitrage between lending markets. The result is a re-aToken carrying two layers of yield. It also offers flash leverage and flash repay, so a yield position on one protocol can serve as collateral to borrow on another, with exposure split into separate risk segments.",
+    "meta": "246 Club re-lends Aave positions for a second layer of yield and lets users borrow across lending protocols with flash leverage.",
+    "pageTitle": "246 Club - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.246club.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "init-capital",
+      "hubble",
+      "yei-finance"
+    ],
+    "related": [
+      "maxbidpro",
+      "scallop",
+      "horizondex"
+    ]
+  },
+  "resources": [
+    {
+      "title": "246 Club Overview",
+      "tldr": "Sets out 246 Club's thesis that fragmented lending markets can be stitched into one layer, and why lending restaking follows.",
+      "url": "https://246-club.gitbook.io/docs",
+      "source": "246 Club Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "246 Club in One Page",
+      "tldr": "Explains re-lending: an aToken keeps Aave's base rate while its unused borrowing power is delegated to 246 Club for extra yield.",
+      "url": "https://246-club.gitbook.io/docs/246-club-in-one-page",
+      "source": "246 Club Docs",
+      "tag": "Explainer"
+    }
+  ]
+}

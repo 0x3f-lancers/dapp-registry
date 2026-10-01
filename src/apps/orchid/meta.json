@@ -31,5 +31,25 @@
       "zkme",
       "space-id"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Client Works",
+      "tldr": "What the VPN client does with your traffic, how bandwidth is paid for as you use it, and what the network can see.",
+      "url": "https://docs.orchid.com/en/latest/using-orchid",
+      "source": "Orchid"
+    },
+    {
+      "title": "Accounts And Prepaid Bandwidth",
+      "tldr": "The account model explained: what funds a connection, how it is metered, and what happens when it runs out.",
+      "url": "https://docs.orchid.com/en/latest/accounts",
+      "source": "Orchid"
+    },
+    {
+      "title": "Managing It From The DApp",
+      "tldr": "Using the web app to fund and control an account, and which actions touch the chain versus the client.",
+      "url": "https://docs.orchid.com/en/latest/orchid-dapp",
+      "source": "Orchid"
+    }
+  ]
 }

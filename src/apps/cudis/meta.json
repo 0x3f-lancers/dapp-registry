@@ -1,0 +1,53 @@
+{
+  "slug": "cudis",
+  "name": "CUDIS",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760821/dapp-store-logos/cudis.jpg",
+  "category": "Web3 Social Dapps",
+  "subcategory": [
+    "Web3 Creator Tools"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "AI smart ring that tracks sleep, HRV and recovery and rewards healthy habits.",
+    "description": "CUDIS sells a $399 smart ring that records activity, sleep, blood oxygen, HRV and stress around the clock, with AI guidance on what to improve and no subscription fee. Challenges and health points turn routines into rewards, and leaderboards add some friendly competition. It counts more than 250,000 members and World users can track their ring from inside World App.",
+    "meta": "CUDIS's $399 AI smart ring tracks sleep, HRV and recovery with no subscription and rewards healthy habits.",
+    "pageTitle": "CUDIS - Web3 Social Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.cudis.xyz",
+    "twitter": "https://x.com/CudisWellness"
+  },
+  "relations": {
+    "alternatives": [
+      "eluvio-live",
+      "okcontract",
+      "nucast"
+    ],
+    "related": [
+      "potlock",
+      "bulb",
+      "mojito"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How CUDIS Works",
+      "tldr": "Explains how the ring tracks wellness metrics and how the app turns them into coaching and challenges.",
+      "url": "https://www.cudis.xyz/pages/how-cudis-works",
+      "source": "CUDIS",
+      "tag": "Explainer"
+    },
+    {
+      "title": "CUDIS Developer Platform Overview",
+      "tldr": "Introduces the APIs and SDKs for building applications with user-authorized CUDIS Ring data.",
+      "url": "https://developer.cudis.xyz/infrastructure/welcome",
+      "source": "CUDIS",
+      "tag": "Infrastructure"
+    }
+  ]
+}

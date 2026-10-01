@@ -30,5 +30,19 @@
       "bulla-network",
       "avatr"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What The Protocol Offers",
+      "tldr": "How alternative top-level domains are issued on Solana and what holding one actually gives you.",
+      "url": "https://docs.alldomains.id/protocol/overview/alldomains-features",
+      "source": "AllDomains"
+    },
+    {
+      "title": "Extending The Namespace",
+      "tldr": "How new domain endings are added alongside the original one, and what that means for resolution.",
+      "url": "https://docs.alldomains.id/protocol/.sol-plus-domain-names",
+      "source": "AllDomains"
+    }
+  ]
 }

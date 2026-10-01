@@ -1,0 +1,53 @@
+{
+  "slug": "toku",
+  "name": "Toku",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761097/dapp-store-logos/toku.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Global payroll and employer of record that pays teams in minutes, including in stablecoins and tokens.",
+    "description": "Toku lets companies hire and pay people in more than 100 countries without setting up local entities, acting as the legal employer where needed. Employees, contractors and token grant recipients are managed in one dashboard, paid in minutes with no FX spreads or withdrawal fees, and can spend directly at Visa merchants. It is used by more than 200 crypto, fintech and AI companies.",
+    "meta": "Toku handles global payroll, EOR and token compensation in 100+ countries, paying in minutes with no FX fees.",
+    "pageTitle": "Toku - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.toku.com",
+    "twitter": "https://x.com/usetoku"
+  },
+  "relations": {
+    "alternatives": [
+      "levl",
+      "web3-enabler",
+      "p-link"
+    ],
+    "related": [
+      "ponto",
+      "xade-finance",
+      "hashleap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Toku Stablecoin Payroll Launch",
+      "tldr": "Explains how companies use Toku to pay employees and contractors in stablecoins across countries.",
+      "url": "https://www.toku.com/resources/toku-stablecoin-payroll-launch",
+      "source": "Toku",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How to Add Stablecoin Payroll to Existing Systems",
+      "tldr": "Covers Toku's stablecoin funding, fiat conversion, payroll integration, and custody approach.",
+      "url": "https://www.toku.com/resources/how-to-add-stablecoin-payroll-without-changing-your-payroll-provider",
+      "source": "Toku",
+      "tag": "Tutorial"
+    }
+  ]
+}

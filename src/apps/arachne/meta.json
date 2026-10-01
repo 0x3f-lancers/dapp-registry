@@ -17,8 +17,9 @@
     "pageTitle": "Arachne - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/perimetersec/arachne",
-    "twitter": "https://x.com/perimeter_sec"
+    "website": "https://www.perimetersec.io",
+    "twitter": "https://x.com/perimeter_sec",
+    "github": "https://github.com/perimetersec/arachne"
   },
   "relations": {
     "alternatives": [
@@ -31,5 +32,23 @@
       "ethereum-etl",
       "bonadocs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Scaffolding for a Large Fuzzing Suite",
+      "tldr": "Structure and helpers so a big suite stays maintainable, rather than a pile of one-off handlers.",
+      "url": "https://github.com/perimetersec/arachne",
+      "source": "Perimeter",
+      "image": "https://opengraph.githubassets.com/4d4378e344f0726106b17f79e69bb789c17d92196a355e4d75236060b76b01f4/perimetersec/arachne",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The EVM Fuzzing Reading List",
+      "tldr": "A curated set of tools, papers and guides for fuzzing contracts. The best single entry point into the subject.",
+      "url": "https://github.com/perimetersec/evm-fuzzing-resources",
+      "source": "Perimeter",
+      "image": "https://opengraph.githubassets.com/66db0418d456b13d322b50ad4f2a7b7013d50de6e2783f62f321bf11441d0d55/perimetersec/evm-fuzzing-resources",
+      "tag": "Infrastructure"
+    }
+  ]
 }

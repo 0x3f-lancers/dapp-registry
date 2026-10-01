@@ -36,5 +36,19 @@
       "cosmos",
       "startmining"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Bridge Was Built",
+      "tldr": "The launch write-up for the cross-chain bridge, covering what it costs to move assets and why the design is cheap.",
+      "url": "https://umbria.network/blog/post/28/title/umbria%E2%80%99s-cross-chain-narni-bridge-is-now-live---quick,-easy-and-cheap-transfer-of-assets-between-different-blockchains",
+      "source": "Umbria Network"
+    },
+    {
+      "title": "The Docs, End To End",
+      "tldr": "How the bridge holds liquidity on both sides, how the fee is split, and why supplying one asset avoids impermanent loss.",
+      "url": "https://legacy.umbria.network/docs/docs-page/",
+      "source": "Umbria Network"
+    }
+  ]
 }

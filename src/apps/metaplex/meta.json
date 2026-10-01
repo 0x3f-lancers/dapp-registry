@@ -29,5 +29,25 @@
     "related": [
       "skymass"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tools For Creators",
+      "tldr": "An introduction to the app built on the protocol, and what it removes from minting and managing a collection.",
+      "url": "https://www.metaplex.foundation/blog/articles/introducing-the-metaplex-app",
+      "source": "Metaplex"
+    },
+    {
+      "title": "The Core NFT Standard",
+      "tldr": "What the newer standard changes about how an NFT is stored on Solana, and what it costs compared to the old one.",
+      "url": "https://www.metaplex.com/docs/smart-contracts/core",
+      "source": "Metaplex"
+    },
+    {
+      "title": "Launching A Token Fairly",
+      "tldr": "The mechanics of a fair launch: how supply is released, and what the contract prevents an insider from doing.",
+      "url": "https://www.metaplex.com/docs/tokens/launch-token",
+      "source": "Metaplex"
+    }
+  ]
 }

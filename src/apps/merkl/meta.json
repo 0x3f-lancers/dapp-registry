@@ -1,0 +1,58 @@
+{
+  "slug": "merkl",
+  "name": "Merkl",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760967/dapp-store-logos/merkl.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Quest-to-Earn Tools"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad",
+    "Ethereum",
+    "World Chain",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Merkl runs onchain incentive programs, defining eligibility rules and routing rewards to participants.",
+    "description": "Merkl is distribution infrastructure for sending yield, dividends and rewards on-chain, used by more than a thousand companies including Circle, PayPal and Coinbase across 60-plus chains. Protocols specify who qualifies for an incentive and Merkl pays only those addresses, instead of paying every liquidity provider the same regardless of how useful their position was. Eligibility can be set on OFAC screening, blacklists, minimum balance, holding duration, new users only, or arrival through a particular interface. Distributions can be shaped as variable, fixed, capped or target APR, with over 1.8 billion dollars sent to date on Merkl's own figures.",
+    "meta": "Targeted incentive programs that reward useful positions rather than paying every LP the same.",
+    "pageTitle": "Merkl - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://merkl.xyz",
+    "twitter": "https://x.com/merkl_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "acqr",
+      "boost-xyz",
+      "claimr"
+    ],
+    "related": [
+      "dappback",
+      "grinderwiki",
+      "questn"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Batch Transfer Tokens to Thousands of Wallets",
+      "tldr": "Compares ways to send a token or stablecoin to many wallets and explains the steps in an onchain batch transfer.",
+      "url": "https://merkl.xyz/blog/how-to-batch-transfer-tokens-onchain",
+      "source": "Merkl",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Stablecoin Mass Payouts Compared",
+      "tldr": "Compares stablecoin payouts with bank and traditional provider routes across cost, speed, failures and compliance.",
+      "url": "https://merkl.xyz/blog/stablecoin-mass-payouts-vs-traditional-payout-providers",
+      "source": "Merkl",
+      "tag": "Explainer"
+    }
+  ]
+}

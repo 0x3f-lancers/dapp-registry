@@ -1,0 +1,54 @@
+{
+  "slug": "alfred-pay",
+  "name": "Alfred",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760726/dapp-store-logos/alfred-pay.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Alfred provides compliant cross-border payment infrastructure for Latin America.",
+    "description": "Alfred connects stablecoins to local banking systems across Latin America, letting a business pay out in local currency from one integration. It holds connections to licensed payment networks in Mexico, Brazil, Colombia and Argentina among other markets. The product is a REST API with separate sandbox and production environments, and the company targets a two-week integration. Businesses use it to offer cross-border payments without negotiating banking relationships country by country.",
+    "meta": "Alfred provides compliant cross-border payment infrastructure and virtual accounts for Latin America.",
+    "pageTitle": "Alfred - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://alfredpay.io/",
+    "twitter": "https://x.com/alfredpayio"
+  },
+  "relations": {
+    "alternatives": [
+      "brale",
+      "bridge-xyz",
+      "capa-fi"
+    ],
+    "related": [
+      "chainrails",
+      "checker-finance",
+      "coinflow"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Businesses Use USDC Payments",
+      "tldr": "Explains how stablecoin settlement works for business payments and where USDC fits in the payment flow.",
+      "url": "https://alfredpay.io/blog/usdc-payments-how-businesses-use-them",
+      "source": "Alfred Pay",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Build Stablecoin Rails With Alfred's Wallet API",
+      "tldr": "Shows how a wallet API fits into business stablecoin payments and the infrastructure a fintech needs around it.",
+      "url": "https://alfredpay.io/blog/wallet-api-build-stablecoin-payment-rails",
+      "source": "Alfred",
+      "tag": "Infrastructure"
+    }
+  ]
+}

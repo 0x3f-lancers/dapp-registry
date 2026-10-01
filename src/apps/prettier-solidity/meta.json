@@ -30,5 +30,13 @@
       "solidity-linting-tool",
       "huff-starter-kit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Formatting Solidity Consistently",
+      "tldr": "The formatting rules and the reasoning behind them, including where the plugin deliberately differs from JavaScript.",
+      "url": "https://github.com/prettier-solidity/prettier-plugin-solidity",
+      "source": "Prettier Solidity"
+    }
+  ]
 }

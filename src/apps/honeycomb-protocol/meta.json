@@ -30,5 +30,25 @@
       "tevaera",
       "defi-kingdoms"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Users, Profiles And Wallets",
+      "tldr": "How player identity is modelled across games, and what stays with the person rather than with any one title.",
+      "url": "https://docs.honeycombprotocol.com/users-and-profiles",
+      "source": "Honeycomb Protocol"
+    },
+    {
+      "title": "Characters As Assets",
+      "tldr": "How a game character is represented onchain so it can carry progression between titles rather than being reset.",
+      "url": "https://docs.honeycombprotocol.com/characters/overview",
+      "source": "Honeycomb Protocol"
+    },
+    {
+      "title": "Staking Inside A Game",
+      "tldr": "What staking means when the asset is a game item, and what the protocol enforces about locking and rewards.",
+      "url": "https://docs.honeycombprotocol.com/staking/overview",
+      "source": "Honeycomb Protocol"
+    }
+  ]
 }

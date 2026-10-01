@@ -31,5 +31,19 @@
       "drpc",
       "curio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Agents Work",
+      "tldr": "What an agent is allowed to do on chain, and where the limits on that authority are set.",
+      "url": "https://docs.blockai.dev/bai/agents",
+      "source": "BlockAI"
+    },
+    {
+      "title": "Driving It From Telegram",
+      "tldr": "Running onchain actions from a chat interface, and what that hides from the person typing.",
+      "url": "https://docs.blockai.dev/bai/telegram-bot",
+      "source": "BlockAI"
+    }
+  ]
 }

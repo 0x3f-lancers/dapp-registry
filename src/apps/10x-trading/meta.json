@@ -1,0 +1,54 @@
+{
+  "slug": "10x-trading",
+  "name": "10X",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760711/dapp-store-logos/10x-trading.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Mobile app for taking leveraged long or short positions on stocks, oil, metals, indexes and crypto.",
+    "description": "10X gives retail traders up to 50x buying power on more than 150 markets, from Nvidia and the S&P 500 to crude oil, natural gas and rare metals. Positions can go long or short around the clock, with no option chains, expiry dates or time decay to manage. Trading happens on iPhone, on the web, or inside World App, and the app has passed 30,000 downloads.",
+    "meta": "Trade stocks, commodities, indexes and crypto with up to 50x leverage from your phone, long or short, 24/7, including inside World App.",
+    "pageTitle": "10X - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.10xperps.xyz",
+    "twitter": "https://x.com/10xtradingapp"
+  },
+  "relations": {
+    "alternatives": [
+      "heroswap",
+      "super-dca",
+      "blockply"
+    ],
+    "related": [
+      "coinmarketman",
+      "nested",
+      "dextrabot"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Learn Perpetual Futures Trading",
+      "tldr": "A starting point for 10X guides on leverage, funding rates, liquidation and trading perpetual futures.",
+      "url": "https://10xperps.xyz/learn/",
+      "source": "10X",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "10X vs dYdX vs GMX: Which Perps DEX Should You Use?",
+      "tldr": "10X's own comparison of perps venues, weighing its Hyperliquid-based app against dYdX and GMX on markets and leverage.",
+      "url": "https://10xperps.xyz/blog/10x-vs-dydx-vs-gmx/",
+      "source": "10X",
+      "tag": "Trading",
+      "publishedAt": "2026-03-19"
+    }
+  ]
+}

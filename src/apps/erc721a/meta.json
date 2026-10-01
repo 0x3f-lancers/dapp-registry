@@ -29,5 +29,29 @@
     "related": [
       "opensea-stream-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Minting Many NFTs For One Fee",
+      "tldr": "The implementation behind cheap batch mints, what it changes about ownership storage, and the trade-off it makes on transfers.",
+      "url": "https://github.com/chiru-labs/ERC721A",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/d6e94fab51a40bbbeafa39f5b6f02807514094b76c9fe4516e15a36737e1bd33/chiru-labs/ERC721A"
+    },
+    {
+      "title": "The Three Optimisations Azuki Made",
+      "tldr": "Redesigned storage layout and ownership updated once per batch rather than per token. Plus the assumptions that buys.",
+      "url": "https://onekey.so/blog/ecosystem/erc-721a-how-azuki-optimized-batch-minting-and-gas-efficiency/",
+      "source": "OneKey Blog",
+      "tag": "Infrastructure",
+      "image": "https://asset-strapi.onekey.so/portal/strapi/generated_image_1760597035_1_4df8d3aee3.jpg"
+    },
+    {
+      "title": "Reading the Implementation",
+      "tldr": "A developer walking through the contract itself, which is the fastest way to see what the standard actually changed.",
+      "url": "https://kristaps.me/blog/solidity-erc-721-a-azuki/",
+      "source": "Kristaps Grinbergs",
+      "image": "https://kristaps.me/blog/solidity-erc-721-a-azuki/fb-og.png"
+    }
+  ]
 }

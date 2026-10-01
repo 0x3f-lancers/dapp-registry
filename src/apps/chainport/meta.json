@@ -38,5 +38,31 @@
       "decimal",
       "reddio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Chains Share Data at All",
+      "tldr": "Interoperability explained from first principles: what moves between networks, and what merely appears to.",
+      "url": "https://www.chainport.io/knowledge-base/how-blockchain-interoperability-cross-chain-data-sharing-works",
+      "source": "ChainPort Knowledge Base",
+      "tag": "Research",
+      "image": "https://cdn.prod.website-files.com/66fa555dc5eefb2bae0121a0/67ac6d81c5c7cc0fd09d7c07_646665f365f4f8095c308bd8_How%2520Blockchain%2520Interoperability%2520%2526%2520Cross-Chain%2520Data%2520Sharing%2520Works.jpeg"
+    },
+    {
+      "title": "Bridging Avalanche to BNB Chain",
+      "tldr": "A concrete walkthrough rather than a concept piece, useful for seeing what a bridge transaction involves step by step.",
+      "url": "https://www.chainport.io/knowledge-base/how-to-bridge-avax-to-bsc-tutorial",
+      "source": "ChainPort Knowledge Base",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/60758ea3c409467c76eb1dfe/64d23b7ead90d969e103f4e6_OG-ChainPort.jpg"
+    },
+    {
+      "title": "Why Layer 1s Fund Bridges",
+      "tldr": "Gas is paid in the native token, so ecosystem growth is the whole game. Bridges read as a growth strategy from that angle.",
+      "url": "https://blog.chainport.io/how-layer-1-foundations-use-bridges-to-grow-ecosystems",
+      "source": "ChainPort Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/66fa555dc5eefb2bae0121a0/692eeda0c0c74664e3add841_How%20Layer%201%20Foundations%20Actually%20Use%20Bridges%20to%20Grow%20Ecosystems%20in%202025.webp"
+    }
+  ]
 }

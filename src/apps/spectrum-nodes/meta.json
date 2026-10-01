@@ -1,0 +1,53 @@
+{
+  "slug": "spectrum-nodes",
+  "name": "Spectrum",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761066/dapp-store-logos/spectrum-nodes.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Spectrum provides decentralised RPC infrastructure with distributed endpoints for Web3 apps.",
+    "description": "Spectrum runs RPC infrastructure on a decentralised model, spreading endpoints across independent operators. It covers more than 200 networks on enterprise bare-metal hardware the team owns and operates from the firewall up, with 24/7 monitoring and a direct line to its DevOps staff. The service is SOC 2 Type 2 attested and publishes median latency figures. Features include real-time webhooks, agent-ready APIs, a scriptable CLI and team-wide sponsored access.",
+    "meta": "Spectrum provides decentralised RPC infrastructure with distributed endpoints for Web3 applications.",
+    "pageTitle": "Spectrum - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://spectrumnodes.com/",
+    "twitter": "https://x.com/SpectrumNodes"
+  },
+  "relations": {
+    "alternatives": [
+      "blockdaemon",
+      "blockpi-network",
+      "boltrpc"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "chainstack"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Hyperliquid Peering Explained",
+      "tldr": "Explains what a Hyperliquid gossip peer slot does for node connectivity and when dedicated peering helps.",
+      "url": "https://spectrumnodes.com/blog/understanding-hyperliquid-peering",
+      "source": "Spectrum Nodes",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "RPC Access at Ecosystem Scale",
+      "tldr": "Explains how Spectrum provisions RPC access with join codes, per-user limits, usage metrics and approvals.",
+      "url": "https://spectrumnodes.com/blog/introducing-foundation-features",
+      "source": "Spectrum Nodes",
+      "tag": "Infrastructure"
+    }
+  ]
+}

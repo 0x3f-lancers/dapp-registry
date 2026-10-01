@@ -1,0 +1,54 @@
+{
+  "slug": "lithos",
+  "name": "Lithos",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760953/dapp-store-logos/lithos.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Plasma's native ve(3,3) liquidity marketplace for stable and volatile pairs.",
+    "description": "Lithos is a DEX built for Plasma where holders lock its token for voting power and direct emissions to the pools they want deeper. Protocols bid for those votes to attract liquidity, and voters earn fees and incentives in return. Pools are tuned for both stablecoin pairs, which dominate Plasma, and volatile assets.",
+    "meta": "Lock and vote on Lithos, Plasma's ve(3,3) DEX, to steer liquidity to stable and volatile pools and earn fees.",
+    "pageTitle": "Lithos - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lithos.to/",
+    "twitter": "https://x.com/lithos_to"
+  },
+  "relations": {
+    "alternatives": [
+      "logx",
+      "matcha",
+      "wombat-exchange"
+    ],
+    "related": [
+      "airswap",
+      "shade-protocol",
+      "position-exchange"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Lithos Overview",
+      "tldr": "Docs for Plasma's ve(3,3) DEX, covering LITH, veLITH voting and how emissions follow the pools voters back.",
+      "url": "https://docs.lithos.to/",
+      "source": "Lithos Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "What Is Lithos (LITH)?",
+      "tldr": "Explainer on how Lithos shares protocol revenue with lockers and why ve(3,3) suits a stablecoin-focused chain.",
+      "url": "https://web3.bitget.com/en/academy/what-is-lithos-lith-plasma-defi-protocol-with-community-revenue-sharing-and-long-term-price-forecast",
+      "source": "Bitget Academy",
+      "tag": "Explainer",
+      "publishedAt": "2025-09-30"
+    }
+  ]
+}

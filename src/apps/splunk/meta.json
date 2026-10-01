@@ -29,5 +29,23 @@
       "failsafe",
       "kerberus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Beginner's Guide to Observability",
+      "tldr": "What observability means beyond monitoring, and why the distinction matters operationally.",
+      "url": "https://www.splunk.com/en_us/form/beginners-guide-to-observability.html",
+      "source": "Splunk",
+      "tag": "Infrastructure",
+      "image": "https://www.splunk.com/content/dam/splunk2/en_us/images/resources/beginners-guide-to-observability/a-beginners-guide-to-observability-collateral-cover-thumbnail.jpg"
+    },
+    {
+      "title": "The Telemetry Debate",
+      "tldr": "Whether AI-ready operations need a unified data layer, argued with the counter-position included.",
+      "url": "https://www.splunk.com/en_us/blog/platform/why-ai-ready-operations-require-a-true-data-fabric.html",
+      "source": "Splunk Blog",
+      "tag": "Infrastructure",
+      "image": "https://www.splunk.com/content/dam/splunk-blogs/images/media_155fdfb6dc29444adc65d75f16f064f50096ba9d0/the-great-telemetry-debate-why-ai-ready-operations.webp?width=1200&#x26;format=pjpg&#x26;optimize=medium"
+    }
+  ]
 }

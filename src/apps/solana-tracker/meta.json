@@ -32,5 +32,34 @@
       "defi",
       "changenow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building a Price Feed That Is Not Stale",
+      "tldr": "A widget shows one price while a launch moves sharply, the alert fires late, and nothing tells the user whether the number came from a DEX or a feed.",
+      "url": "https://www.solanatracker.io/blog/price-tracker-api",
+      "source": "Solana Tracker Blog",
+      "publishedAt": "2026-08-17",
+      "tag": "Tutorial",
+      "image": "https://www.solanatracker.io/api/og/blog/price-tracker-api"
+    },
+    {
+      "title": "Solana Prediction Markets: A Developer's Guide",
+      "tldr": "The oracle account goes stale just before expiry, settlement lands late, and two wallets claim against assumptions the interface never showed.",
+      "url": "https://www.solanatracker.io/blog/solana-prediction-markets",
+      "source": "Solana Tracker Blog",
+      "publishedAt": "2026-08-18",
+      "tag": "Trading",
+      "image": "https://www.solanatracker.io/api/og/blog/solana-prediction-markets"
+    },
+    {
+      "title": "Rugchecks: Spotting Risk on Solana Fast",
+      "tldr": "A clean chart, loud socials and volume arriving by the minute leave a short window to decide. What a rugcheck can tell you inside it.",
+      "url": "https://www.solanatracker.io/blog/rugchecks",
+      "source": "Solana Tracker Blog",
+      "publishedAt": "2026-08-15",
+      "image": "https://www.solanatracker.io/api/og/blog/rugchecks",
+      "tag": "Security"
+    }
+  ]
 }

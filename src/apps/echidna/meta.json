@@ -31,5 +31,21 @@
       "auditbase",
       "rattle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Rekt Test",
+      "tldr": "Twelve questions from Trail of Bits that a team should be able to answer about its own security. Uncomfortable and useful.",
+      "url": "https://secure-contracts.com/development-guidelines/rekt-test.html",
+      "source": "Building Secure Contracts",
+      "tag": "Security"
+    },
+    {
+      "title": "Integrating an Arbitrary Token Safely",
+      "tldr": "A checklist for handling tokens you did not write, where unchecked assumptions are how funds get lost.",
+      "url": "https://secure-contracts.com/development-guidelines/token_integration.html",
+      "source": "Building Secure Contracts",
+      "tag": "Tutorial"
+    }
+  ]
 }

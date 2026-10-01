@@ -31,5 +31,28 @@
       "chainide",
       "swing-sdk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Working With Deployed Contracts",
+      "tldr": "Brownie compiles your project and hands you an object per contract. How to drive one from Python.",
+      "url": "https://eth-brownie.readthedocs.io/en/stable/core-contracts.html",
+      "source": "Brownie Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Managing Accounts Against a Remote Node",
+      "tldr": "Connect to a hosted node and your accounts list is empty. What you have to add before you can send anything.",
+      "url": "https://eth-brownie.readthedocs.io/en/stable/account-management.html",
+      "source": "Brownie Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Inspecting and Debugging a Transaction",
+      "tldr": "The receipt object carries more than a status. The methods worth knowing when something reverted.",
+      "url": "https://eth-brownie.readthedocs.io/en/stable/core-transactions.html",
+      "source": "Brownie Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

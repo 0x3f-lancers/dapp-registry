@@ -31,5 +31,34 @@
       "bybarter",
       "shade-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Band RWA Feeds Launch on Stellar Mainnet",
+      "tldr": "Price feeds for treasury bills and collateralised loan obligations, feeding Centrifuge's deRWA product on Stellar. What it takes to bring RWA data onchain.",
+      "url": "https://blog.bandprotocol.com/band-rwa-feeds-go-live-on-stellar-mainnet-delivering-data-for-centrifuges-derwa/",
+      "source": "Band Protocol Blog",
+      "publishedAt": "2025-10-10",
+      "tag": "Tokenization",
+      "image": "https://storage.ghost.io/c/9d/4a/9d4ab04b-f294-4018-b7a7-4980bed0c4f0/content/images/size/w1200/2025/10/image--1-.png"
+    },
+    {
+      "title": "Migrating the Band Price Oracle to Sonic Testnet",
+      "tldr": "The oracle moved off Blaze testnet to Sonic, with a new contract address. A short, practical note on what integrators have to change and why.",
+      "url": "https://blog.bandprotocol.com/band-migrating-to-sonic-testnet/",
+      "source": "Band Protocol Blog",
+      "publishedAt": "2026-02-26",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/9d/4a/9d4ab04b-f294-4018-b7a7-4980bed0c4f0/content/images/size/w1200/2026/02/Sonic_Integration.png"
+    },
+    {
+      "title": "Band Oracles Go Live on Monad Mainnet",
+      "tldr": "Bringing production price feeds to Monad's high-throughput EVM from launch day, after a testnet integration the previous March.",
+      "url": "https://blog.bandprotocol.com/band-goes-live-on-monad/",
+      "source": "Band Protocol Blog",
+      "publishedAt": "2025-11-27",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/9d/4a/9d4ab04b-f294-4018-b7a7-4980bed0c4f0/content/images/size/w1200/2025/11/image--18-.png"
+    }
+  ]
 }

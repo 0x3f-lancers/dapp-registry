@@ -28,5 +28,31 @@
       "kraken-wallet",
       "sequence-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Migrating to RainbowKit and Wagmi v2",
+      "tldr": "A breaking peer-dependency upgrade laid out change by change. The kind of guide you resent needing and are grateful exists.",
+      "url": "https://rainbowkit.com/guides/rainbowkit-wagmi-v2",
+      "source": "RainbowKit Guides",
+      "tag": "Security",
+      "image": "https://rainbowkit.com/social/guide-rainbowkit-v2.png"
+    },
+    {
+      "title": "Upgrading Sign-In With Ethereum to NextAuth v5",
+      "tldr": "Wiring wallet authentication into a session framework that changed underneath it. Narrow, but it is exactly where SIWE integrations tend to break.",
+      "url": "https://rainbowkit.com/guides/next-auth-v5",
+      "source": "RainbowKit Guides",
+      "tag": "Security",
+      "image": "https://rainbowkit.com/social/default.png"
+    },
+    {
+      "title": "Preparing Your dApp for WalletConnect v2",
+      "tldr": "Short migration notes for the protocol most wallet connections still run through. Worth keeping bookmarked rather than rediscovering mid-outage.",
+      "url": "https://rainbowkit.com/guides/walletconnect-v2",
+      "source": "RainbowKit Guides",
+      "tag": "Security",
+      "image": "https://rainbowkit.com/social/guide-walletconnect-v2.png"
+    }
+  ]
 }

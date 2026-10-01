@@ -35,5 +35,25 @@
       "fortress-wallet",
       "chainnodes"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Checking For Airdrops Safely",
+      "tldr": "How eligibility is worked out from onchain history, and why a checker should never need you to connect a wallet.",
+      "url": "https://www.drops.bot/guides/how-to-check-for-airdrops",
+      "source": "Drops"
+    },
+    {
+      "title": "Learning About Airdrops",
+      "tldr": "What an airdrop is, how eligibility usually gets decided, and what to check before claiming one.",
+      "url": "https://earni.fi/learn",
+      "source": "Earnifi"
+    },
+    {
+      "title": "One Airdrop, Broken Down",
+      "tldr": "A worked example of a major distribution: who qualified, how much, and what the claim window looked like.",
+      "url": "https://earni.fi/airdrops/uniswap",
+      "source": "Earnifi"
+    }
+  ]
 }

@@ -31,5 +31,22 @@
       "solmate",
       "openzeppelin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Foundry Project Is Laid Out",
+      "tldr": "src, test, script, lib and what each one is for. The structure a template like this is handing you already assembled.",
+      "url": "https://www.getfoundry.sh/projects/layout",
+      "source": "Foundry Docs",
+      "image": "https://www.getfoundry.sh/og-image.png",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Starting From an Empty Directory",
+      "tldr": "The manual version of what a template does for you, which is worth doing once so the generated files make sense.",
+      "url": "https://book.getfoundry.sh/projects/creating-a-new-project",
+      "source": "Foundry Book",
+      "image": "https://book.getfoundry.sh/og-image.png"
+    }
+  ]
 }

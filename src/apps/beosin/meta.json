@@ -37,5 +37,28 @@
       "chainalysis",
       "chainaware-ai"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "IDL Instruction Attacks in Anchor",
+      "tldr": "Solana's most-used framework, and a class of attack that its declarative account validation does not catch for you.",
+      "url": "https://www.beosin.com/resources/analysis-of-idl-instruction-attacks-in-the-solana-anchor-framework",
+      "source": "Beosin Research",
+      "tag": "Security"
+    },
+    {
+      "title": "Compliance Built Into a Pool",
+      "tldr": "Uniswap v4 turns pools into an extensible execution framework. What permissioned pools do with that, and what it implies.",
+      "url": "https://www.beosin.com/resources/uniswap-v4-permissioned-pools-explained-embedding-compliance-controls-into-the-amm-trading-path",
+      "source": "Beosin Research",
+      "tag": "Regulation"
+    },
+    {
+      "title": "Paying Gas When You Hold No Gas Token",
+      "tldr": "A wallet full of tokens and nothing to pay fees with is a near-universal experience. One chain's attempt at solving it.",
+      "url": "https://www.beosin.com/resources/tuven-chain-analysis-of-a-new-solution-to-the-gas-fee-payment-challenge-and-related-security-risks",
+      "source": "Beosin Research",
+      "tag": "Infrastructure"
+    }
+  ]
 }

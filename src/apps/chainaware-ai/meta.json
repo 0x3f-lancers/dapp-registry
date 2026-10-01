@@ -33,5 +33,19 @@
       "walletconnect",
       "ownbit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Goes Into A Trust Score",
+      "tldr": "The signals behind the agent trust score, how they are weighted, and what the number can and cannot tell you about an address.",
+      "url": "https://chainaware.ai/learn/agent-trust-score/index.html",
+      "source": "ChainAware Docs"
+    },
+    {
+      "title": "Segmenting Wallets By Behaviour",
+      "tldr": "The prediction API explained: the behaviour classes it returns, the inputs behind them, and how to query it for your own users.",
+      "url": "https://chainaware.ai/learn/api/user-segmentation-api.html",
+      "source": "ChainAware Docs"
+    }
+  ]
 }

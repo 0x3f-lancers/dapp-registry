@@ -35,5 +35,26 @@
       "imtoken",
       "zypto-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Funding Account Abstraction Work",
+      "tldr": "The grant announcement, and with it a plain account of which parts of the account abstraction stack the SDK covers.",
+      "url": "https://etherspot.io/blog/etherspot-receives-a-grant-from-ethereum-foundation/",
+      "source": "Etherspot",
+      "publishedAt": "2023-09-06"
+    },
+    {
+      "title": "Native Account Abstraction, Delayed",
+      "tldr": "Where EIP-7702 and ERC-4337 actually stand, what slipped, and what that means for anyone shipping smart accounts now.",
+      "url": "https://etherspot.io/blog/native-aa-delayed-erc-4337-gets-a-reality-check-eoa-migration-debated-ethereum-drops-poseidon/",
+      "source": "Etherspot"
+    },
+    {
+      "title": "When A Wallet Becomes An Agent",
+      "tldr": "MetaMask's agent wallet and what delegated signing asks of an SDK, alongside the liquidity and testnet changes around it.",
+      "url": "https://etherspot.io/blog/metamask-launches-its-agent-wallet-glamsterdam-testnet-goes-public-a-lattice-crypto-attack-draws-doubt-near-intents-unifies-liquidity/",
+      "source": "Etherspot"
+    }
+  ]
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "relay-link",
+  "name": "Relay",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761042/dapp-store-logos/relay-link.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Monad",
+    "Ethereum",
+    "Unichain",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Relay is a cross-chain bridging and execution protocol built for low-cost instant transfers.",
+    "description": "Relay is cross-chain payments infrastructure connecting more than 85 blockchains, with swaps and bridges completing in seconds. Phantom, MetaMask, OpenSea and over a hundred other integrations route through it, with more than 20 billion dollars settled on its own count. One integration gives a wallet or app access to user funds across every connected chain. The product is built around payments as much as bridging, with separate paths for wallets, multichain apps, chains and commerce.",
+    "meta": "Relay is cross-chain payments infrastructure connecting 85+ blockchains, with swaps and bridges that complete in seconds for wallets and apps.",
+    "pageTitle": "Relay - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://relay.link/",
+    "twitter": "https://x.com/relayprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "across",
+      "debridge",
+      "garden-finance"
+    ],
+    "related": [
+      "hyperlane",
+      "jumper-exchange",
+      "layerzero"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Swap Tokens Across Chains With Relay",
+      "tldr": "Guides wallet users through choosing a cross-chain route, checking the quote and confirming a swap.",
+      "url": "https://relay.link/blog/how-to-use-relay-swap",
+      "source": "Relay",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Integrate the Relay API",
+      "tldr": "Compares Relay's widget, TypeScript SDK and REST API paths for adding cross-chain swaps to an app.",
+      "url": "https://www.relay.link/blog/how-to-integrate-relay-api",
+      "source": "Relay",
+      "tag": "Tutorial"
+    }
+  ]
+}

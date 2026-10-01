@@ -36,5 +36,30 @@
       "blocknative",
       "slerftools"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Attack Surface of an Agent That Can Spend",
+      "tldr": "Systems that read untrusted input and systems that move money used to be separate. Joining them creates a class of target that is genuinely new.",
+      "url": "https://cryptocadet.io/guides/ai-agent-payment-security-yajin-zhou",
+      "source": "CryptoCadet Guides",
+      "publishedAt": "2026-08-14",
+      "tag": "Security"
+    },
+    {
+      "title": "What HTTP 402 Was Reserved For",
+      "tldr": "A status code has sat unused in the spec since the early web. The missing piece was never the code itself.",
+      "url": "https://cryptocadet.io/guides/ai-cloudflare-wallets-x402-2026-ai-agent",
+      "source": "CryptoCadet Guides",
+      "publishedAt": "2026-08-14"
+    },
+    {
+      "title": "Why Consumer Payment Assumptions Break for Machines",
+      "tldr": "Card systems assume a person who can confirm, notice a wrong charge and dispute it. Take the person away and each of those has to be rebuilt.",
+      "url": "https://cryptocadet.io/guides/ai-pi",
+      "source": "CryptoCadet Guides",
+      "publishedAt": "2026-08-14",
+      "tag": "Payments"
+    }
+  ]
 }

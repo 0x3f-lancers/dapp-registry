@@ -1,0 +1,53 @@
+{
+  "slug": "fonbnk",
+  "name": "Fonbnk",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760872/dapp-store-logos/fonbnk.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Fonbnk is a stablecoin settlement layer bridging mobile-first, cash-based economies to onchain payments.",
+    "description": "Fonbnk is an on-ramp and off-ramp built for Africa, Latin America and South East Asia, covering nineteen markets and fourteen chains. Integrators choose a zero-code widget that handles KYC, payment collection, settlement and stablecoin delivery, or a signed REST API using HMAC-SHA256 for orders, limits and reconciliation. A merchant workspace configures integrations and monitors order flow in one place. Typical routes move local currency in markets such as Nigeria, Kenya and South Africa into USDC or USDT.",
+    "meta": "Fonbnk is a stablecoin settlement layer connecting mobile-first, cash-based economies to onchain payments.",
+    "pageTitle": "Fonbnk - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fonbnk.com/",
+    "twitter": "https://x.com/fonbnk1"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Onchain FX for Cross Border Payments",
+      "tldr": "Uses a Fonbnk case study to explain mobile money, prepaid airtime and stablecoins in cross border payments.",
+      "url": "https://fonbnk.com/blog/revolutionizing-cross-border-payments/",
+      "source": "Fonbnk",
+      "tag": "Research"
+    },
+    {
+      "title": "How the Fonbnk Pay Widget Works",
+      "tldr": "Walks through the onramp flow from mobile money or airtime payment to receiving USDC in a wallet.",
+      "url": "https://docs.fonbnk.com/widget-integration/how-it-works",
+      "source": "Fonbnk",
+      "tag": "Tutorial"
+    }
+  ]
+}

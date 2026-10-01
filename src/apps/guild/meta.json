@@ -30,5 +30,27 @@
       "floats",
       "wonderverse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Setting Token-Gated Requirements",
+      "tldr": "Defining who qualifies for access, which is the whole point of the product.",
+      "url": "https://docs.guild.xyz/guild/how-to-setup-requirements",
+      "source": "Guild Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Attaching Rewards to a Role",
+      "tldr": "What members get once they qualify, and how the reward is delivered.",
+      "url": "https://docs.guild.xyz/guild/how-to-setup-rewards",
+      "source": "Guild Docs"
+    },
+    {
+      "title": "Connecting Discord",
+      "tldr": "Wiring on-chain requirements to Discord roles, the most common setup by far.",
+      "url": "https://docs.guild.xyz/guild/how-to-add-discord",
+      "source": "Guild Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

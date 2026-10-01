@@ -32,5 +32,22 @@
       "openzeppelin",
       "gnosis-vs-smart-contracts"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Jumping From Etherscan To The Source",
+      "tldr": "The extension that adds a button on Etherscan, OpenSea and Blur pages to open that token's contract in a readable view.",
+      "url": "https://github.com/ContractReader-io/contract-reader-chrome-extension/",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/0bd308f4cdc4d362526ed281a5d6ab657fb787ecaf55e448b162a32599bb188c/ContractReader-io/contract-reader-chrome-extension"
+    },
+    {
+      "title": "What the Tool Is Good For",
+      "tldr": "Aimed at auditors, bounty hunters and anyone reading someone else's contract before interacting with it.",
+      "url": "https://manytools.ai/blog/introduction-to-contractreader-the-premiere-smart-contract-analysis-platform/",
+      "source": "ManyTools",
+      "image": "https://static.manytools.ai/origin_6dde0d9b-63d1-4520-b016-580aff5496c6_Default_ContractReader_is_a_cuttingedge_platform_revolutionisi_1.jpg",
+      "tag": "Security"
+    }
+  ]
 }

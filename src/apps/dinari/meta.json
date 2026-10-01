@@ -30,5 +30,31 @@
       "gmx",
       "erasure"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "dShares Move to Round-the-Clock Trading",
+      "tldr": "Tokenised US equities and ETFs trading 24/7 via a market-making arrangement with Flow Traders, rather than only during exchange hours.",
+      "url": "https://dinari.com/blog/24-7-trading-is-live-with-flow-traders-and-dinari",
+      "source": "Dinari Blog",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/657b204146555b5b5b8bf8e0/6a0e0bdd5b889678ac4df7b1_flowtraders-dinari.jpg"
+    },
+    {
+      "title": "Cross-Chain USD+ Transfers via Chainlink CCIP",
+      "tldr": "Dinari's yield-bearing stablecoin now moves between Arbitrum One and Ethereum using CCIP's token transfer path instead of a bespoke bridge.",
+      "url": "https://dinari.com/blog/chainlink-ccip-arbitrum-ethereum-usdplus",
+      "source": "Dinari Blog",
+      "tag": "Payments",
+      "image": "https://cdn.prod.website-files.com/657b204146555b5b5b8bf8e0/66188443decc16f4c9d92275_Screenshot%202024-04-12%20at%201.44.46%E2%80%AFAM.png"
+    },
+    {
+      "title": "Dinari's B2B API for Tokenised Equities",
+      "tldr": "How fintechs and developers embed tokenised US stocks and ETFs through a REST API or the contracts directly, plus managed account services.",
+      "url": "https://dinari.com/blog/b2b-api-and-managed-account",
+      "source": "Dinari Blog",
+      "tag": "Tokenization",
+      "image": "https://cdn.prod.website-files.com/657b204146555b5b5b8bf8e0/65e0ca60d811133d4947bec8_Tokenized%20Stock%20API.png"
+    }
+  ]
 }

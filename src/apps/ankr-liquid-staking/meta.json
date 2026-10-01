@@ -35,5 +35,22 @@
       "jet-protocol",
       "gearbox"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquid Staking, In Full",
+      "tldr": "Why locked stake is a problem, what a receipt token solves, and the risks that come with holding one instead of the asset.",
+      "url": "https://www.ankr.com/blog/liquid-staking-a-comprehensive-guide/",
+      "source": "Ankr",
+      "image": "https://assets.ankr.network///liquid_staking_cd9a2d0a03_dd9021f786.png",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How ankrETH Accrues Value",
+      "tldr": "The token count never changes; its value against ETH climbs as rewards land. That design choice has real tax and DeFi consequences.",
+      "url": "https://www.ankr.com/docs/staking-for-developers/dev-details/eth-liquid-staking-mechanics/",
+      "source": "Ankr Docs",
+      "tag": "Regulation"
+    }
+  ]
 }

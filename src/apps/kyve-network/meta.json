@@ -32,5 +32,31 @@
       "gosh",
       "avalanche"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Replacing Archival Nodes",
+      "tldr": "Historical chain data is expensive to keep and easy to lose. The argument for validating and storing it differently.",
+      "url": "https://www.kyve.network/blog/how-kyve-replaces-archival-nodes-for-efficient-blockchain-data-management",
+      "source": "KYVE Blog",
+      "tag": "Infrastructure",
+      "image": "https://kyve.network/blog/thumbnails/6718c63a2ca42089b731714c_archival_nodes_KYVE_data.png"
+    },
+    {
+      "title": "Why Data Validity Matters at All",
+      "tldr": "You would not build a house on shaky ground. The introductory case for treating data itself as needing consensus.",
+      "url": "https://www.kyve.network/blog/introducing-kyve-88aa50bb7933",
+      "source": "KYVE Blog",
+      "tag": "Research",
+      "image": "https://kyve.network/blog/medium_thumbnails/1*-yGipZhL--HUpZFrnE26dA.png"
+    },
+    {
+      "title": "A No-Code Path to On-Chain Data",
+      "tldr": "The Data Pipeline product, and what it removes for teams who need chain data but not a data engineering team.",
+      "url": "https://www.kyve.network/blog/introducing-kyves-data-pipeline-web3-s-no-code-data-gateway-715965845585",
+      "source": "KYVE Blog",
+      "tag": "Research",
+      "image": "https://kyve.network/blog/medium_thumbnails/1*_Brc1uLiuUHgmiU_kiqooQ.png"
+    }
+  ]
 }

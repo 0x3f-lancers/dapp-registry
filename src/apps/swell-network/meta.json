@@ -33,5 +33,31 @@
       "pendle",
       "black-panther"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Swell Explained End to End",
+      "tldr": "How swETH and rswETH differ, what each is a claim on, and where the second layer of yield comes from.",
+      "url": "https://nansen.ai/post/what-is-swell-network",
+      "source": "Nansen Research",
+      "tag": "Explainer",
+      "image": "https://framerusercontent.com/assets/QHchw4E80B8HlJrZEs9d1fAGUU.jpg"
+    },
+    {
+      "title": "Entering Liquid Restaking",
+      "tldr": "The protocol's own account of moving from staking to restaking, and what that adds to the risk a holder is carrying.",
+      "url": "https://www.swellnetwork.io/post/liquid-restaking",
+      "source": "Swell Network Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/63dc9bdf46999ffb2c2f407a/654c304ad1537ca29d9455cd_restaking123.webp"
+    },
+    {
+      "title": "A Closer Look at rswETH",
+      "tldr": "An independent walkthrough of the restaking token: how the exchange rate moves, and what happens when you want out.",
+      "url": "https://stakely.io/blog/exploring-rsweth-swell-native-liquid-restaking-token",
+      "source": "Stakely Blog",
+      "tag": "Tutorial",
+      "image": "https://img.stakely.io/blog/exploring-rsweth-swell-native-liquid-restaking-token/rswETH-liquid-restaking-swell.jpg"
+    }
+  ]
 }

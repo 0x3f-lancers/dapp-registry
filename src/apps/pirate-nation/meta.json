@@ -30,5 +30,23 @@
       "yield-guild-games",
       "ufo-gaming"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Scaling a Fully Onchain Game",
+      "tldr": "Every action is a transaction, which breaks on a shared chain. The engineering account of moving to a dedicated one.",
+      "url": "https://blog.arbitrum.io/building-the-future-of-gaming-how-proof-of-play-scaled-pirate-nation-with-arbitrum/",
+      "source": "Arbitrum",
+      "image": "https://storage.ghost.io/c/a8/72/a8723332-a4d0-4364-9e22-a5c1a1197a50/content/images/size/w1200/2025/02/0225_Arbitrum_CaseStudies_ProofofPlay_R1.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "One Chain per Game",
+      "tldr": "Sub-250ms blocks and gasless play, on the argument that a single chain cannot carry millions of onchain players.",
+      "url": "https://piratenation.medium.com/introducing-the-proof-of-play-multichain-b7a246388d00",
+      "source": "Pirate Nation",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*iFVAppSusULL4CFR",
+      "tag": "Infrastructure"
+    }
+  ]
 }

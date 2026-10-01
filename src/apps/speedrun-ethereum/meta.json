@@ -30,5 +30,34 @@
       "bitget-wallet",
       "cometh"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Create an ERC20 Token in Solidity",
+      "tldr": "A complete walkthrough of the most widely used fungible token standard on Ethereum, from contract structure to deployment.",
+      "url": "https://speedrunethereum.com/guides/how-to-create-erc20",
+      "source": "Speedrun Ethereum",
+      "publishedAt": "2025-06-06",
+      "tag": "Infrastructure",
+      "image": "https://speedrunethereum.com/assets/guides/create-erc20-token.jpg"
+    },
+    {
+      "title": "The ERC20 Approve Pattern and Its Risks",
+      "tldr": "Race conditions, infinite approvals, phishing and forgotten allowances — plus the approve-to-zero-then-set habit that avoids most of them.",
+      "url": "https://speedrunethereum.com/guides/erc20-approve-pattern",
+      "source": "Speedrun Ethereum",
+      "publishedAt": "2025-06-10",
+      "tag": "Infrastructure",
+      "image": "https://speedrunethereum.com/assets/guides/approve-pattern.jpg"
+    },
+    {
+      "title": "Contract-to-Contract Interactions in Solidity",
+      "tldr": "Direct calls are safest for known interfaces; call, delegatecall and staticcall buy flexibility at a real cost in safety. When to reach for each.",
+      "url": "https://speedrunethereum.com/guides/solidity-contract-to-contract-interactions",
+      "source": "Speedrun Ethereum",
+      "publishedAt": "2025-05-30",
+      "tag": "Infrastructure",
+      "image": "https://speedrunethereum.com/assets/guides/contract-interactions.jpg"
+    }
+  ]
 }

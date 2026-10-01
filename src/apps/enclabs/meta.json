@@ -1,0 +1,53 @@
+{
+  "slug": "enclabs",
+  "name": "Enclabs",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760846/dapp-store-logos/enclabs.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Isolated, risk-adjusted money markets for lending and borrowing on Sonic and Plasma.",
+    "description": "Enclabs splits its lending markets into isolated pools, so trouble with one asset cannot spread to the others. Alongside a core market it runs pools for liquid-staked tokens and Spectra principal tokens, letting users borrow against fixed-yield positions. Users earn supply interest and rewards, and the protocol is tied into the veTrevee ecosystem.",
+    "meta": "Lend and borrow in isolated, risk-adjusted Enclabs pools on Sonic and Plasma, including markets for Spectra PT tokens.",
+    "pageTitle": "Enclabs - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.enclabs.finance/",
+    "twitter": "https://x.com/EnclabsFi"
+  },
+  "relations": {
+    "alternatives": [
+      "goldfinch",
+      "ionic-protocol",
+      "liqwid"
+    ],
+    "related": [
+      "aave",
+      "myso-finance",
+      "impermax-v2"
+    ]
+  },
+  "resources": [
+    {
+      "title": "About Enclabs",
+      "tldr": "Docs for Enclabs' lending markets on Sonic and Plasma, built for looping with LSTs, interest-bearing tokens and Pendle PTs.",
+      "url": "https://enclabs.gitbook.io/enclabs-documentation",
+      "source": "Enclabs Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Isolated Pools",
+      "tldr": "Explains how isolated pools give each group of assets its own risk settings so trouble in one market stays contained.",
+      "url": "https://enclabs.gitbook.io/enclabs-documentation/lending-markets/isolated-pools",
+      "source": "Enclabs Docs",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -43,5 +43,23 @@
       "webacy",
       "certora"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "When Availability Is a Security Property",
+      "tldr": "A resource-exhaustion bug in a client can force validators offline and stall finality. Independent research into exactly that, on Besu.",
+      "url": "https://www.certik.com/blog/inside-certiks-independent-security-research-on-besu",
+      "source": "CertiK Blog",
+      "tag": "Security",
+      "image": "https://images.ctfassets.net/v0qht4wq59vi/1lfKR9IG1TOkyuhVx2ncnE/fc44a306f72f7648b35a2af8960a99cc/Inside_CertiK-s_Independent_Security_Research_on_Besu.jpg"
+    },
+    {
+      "title": "Brazil as a Regulatory Blueprint",
+      "tldr": "Rules arriving at the same time as market growth, rather than after a collapse. Why that sequencing is being watched closely elsewhere.",
+      "url": "https://www.certik.com/blog/why-brazil-is-becoming-a-blueprint-for-digital-asset-regulation",
+      "source": "CertiK Blog",
+      "tag": "Regulation",
+      "image": "https://images.ctfassets.net/v0qht4wq59vi/1fcz94rMmhPddL7qLwqWTt/2d82649c7f7d0bec720b4db2e3125133/Why_Brazil_Is_Becoming_a_Blueprint_for_Digital_Asset_Regulation.jpg"
+    }
+  ]
 }

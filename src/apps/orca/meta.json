@@ -3,8 +3,12 @@
   "name": "Orca",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748963/web3-explorer/dapp-logos/orca.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "Free",
   "content": {
     "short": "Orca is a Solana-based DEX with SPL token trading and incentivized pools.",
@@ -17,7 +21,44 @@
     "twitter": "https://x.com/orca_so"
   },
   "relations": {
-    "alternatives": ["earnpark", "enzyme", "router-nitro"],
-    "related": ["horizon-protocol", "deri-protocol", "thetanuts-finance"]
-  }
+    "alternatives": [
+      "earnpark",
+      "enzyme",
+      "router-nitro"
+    ],
+    "related": [
+      "horizon-protocol",
+      "deri-protocol",
+      "thetanuts-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "A Complete Guide to Orca's Liquidity Terminal",
+      "tldr": "A full walkthrough of tooling built to turn liquidity provision from guesswork into measured allocation. Useful even if you provide it elsewhere.",
+      "url": "https://blog.orca.so/the-only-lp-terminal-you-need-on-solana-a-complete-guide-to-orcas-liquidity-terminal/",
+      "source": "Orca Blog",
+      "publishedAt": "2026-03-18",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/c0/a1/c0a18033-d424-4a1c-a821-a9222884efef/content/images/size/w1200/2026/05/Product-Liquidity-Terminal.png"
+    },
+    {
+      "title": "The Full Picture for Liquidity Provision in One Place",
+      "tldr": "Covers pool filters, position monitoring and the numbers an LP actually needs to see. Good on why scattered information leads to bad range decisions.",
+      "url": "https://blog.orca.so/the-full-picture-for-liquidity-provision-in-one-place/",
+      "source": "Orca Blog",
+      "publishedAt": "2026-04-15",
+      "tag": "DeFi",
+      "image": "https://storage.ghost.io/c/c0/a1/c0a18033-d424-4a1c-a821-a9222884efef/content/images/size/w1200/2026/05/liquidityprovisiongraphicv2.png"
+    },
+    {
+      "title": "Orca Is Becoming a Platform for Every Capital Allocator on Solana",
+      "tldr": "A DEX arguing its own ceiling is higher than exchange. Worth reading as a statement of where AMM infrastructure thinks it is heading next.",
+      "url": "https://blog.orca.so/orca-is-becoming-a-platform-for-every-capital-allocator-on-solana/",
+      "source": "Orca Blog",
+      "publishedAt": "2026-03-26",
+      "tag": "Finance",
+      "image": "https://storage.ghost.io/c/c0/a1/c0a18033-d424-4a1c-a821-a9222884efef/content/images/size/w1200/2026/05/Key-Announcement-Vaults-1.png"
+    }
+  ]
 }

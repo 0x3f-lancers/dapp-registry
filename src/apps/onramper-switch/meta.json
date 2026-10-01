@@ -1,0 +1,53 @@
+{
+  "slug": "onramper-switch",
+  "name": "Switch",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761001/dapp-store-logos/onramper-switch.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Switch settles USDC and USDT across 30+ local currencies with same-day settlement.",
+    "description": "Switch moves USDC and USDT in and out of more than thirty local currencies, settling in minutes where a correspondent banking transfer takes days. Developers integrate HTTP APIs with SDKs and a sandbox for testing, then pay out from stablecoin wallets into recipient bank or mobile money accounts. A developer fee can be set per transaction.",
+    "meta": "Switch moves USDC and USDT in and out of 30+ local currencies in minutes, with APIs, SDKs and a sandbox for bank and mobile money payouts.",
+    "pageTitle": "Switch - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://onswitch.xyz/",
+    "twitter": "https://x.com/getonswitch"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Introduces OnSwitch’s stablecoin collection and settlement service.",
+      "url": "https://docs.onswitch.xyz/introduction.md",
+      "source": "Switch",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Swap stablecoins",
+      "tldr": "Explains the stablecoin swap flow and the endpoint for initiating a conversion.",
+      "url": "https://docs.onswitch.xyz/guides/swap-stablecoins.md",
+      "source": "Switch",
+      "tag": "Tutorial"
+    }
+  ]
+}

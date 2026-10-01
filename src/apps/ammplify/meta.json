@@ -1,0 +1,53 @@
+{
+  "slug": "ammplify",
+  "name": "Ammplify",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760735/dapp-store-logos/ammplify.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Ammplify is a Monad LP aggregator pairing market-making fees with options-style payoffs.",
+    "description": "Ammplify aggregates AMM liquidity provision opportunities on Monad and presents them with the analytics to compare one against another. It currently indexes pools on Capricorn and Uniswap v3, with further protocols being added. Users browse ranked yield opportunities across those venues and provide liquidity through the platform. Ammplify then layers amplification on the position, combining provision income with option-like payoff structures.",
+    "meta": "Monad liquidity aggregation that treats an LP position as the volatility trade it already is.",
+    "pageTitle": "Ammplify - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ammplify.xyz",
+    "twitter": "https://x.com/ammplify_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "ample-money",
+      "auto-finance",
+      "beefy"
+    ],
+    "related": [
+      "blend-money",
+      "eisenlabs",
+      "ipor"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Core Concepts",
+      "tldr": "Introduces the liquidity disassembler and other building blocks behind Ammplify.",
+      "url": "https://docs.ammplify.xyz/technical-specs/core-concepts.md",
+      "source": "Ammplify",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Risks",
+      "tldr": "Explains the main risks and tradeoffs involved in boosting yield through Ammplify.",
+      "url": "https://docs.ammplify.xyz/user-guide/risks.md",
+      "source": "Ammplify",
+      "tag": "Security"
+    }
+  ]
+}

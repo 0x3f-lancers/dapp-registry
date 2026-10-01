@@ -30,5 +30,14 @@
       "multisender",
       "walletos"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Measuring Gas as You Test",
+      "tldr": "A report per method and deployment on every test run, so a change that costs gas shows up before it ships.",
+      "url": "https://medium.com/@thelasthash/%EF%B8%8F-gas-optimization-with-hardhat-1e553eaea311",
+      "source": "Jake Warren",
+      "tag": "Infrastructure"
+    }
+  ]
 }

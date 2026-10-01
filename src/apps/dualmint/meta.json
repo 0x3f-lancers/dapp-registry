@@ -1,0 +1,53 @@
+{
+  "slug": "dualmint",
+  "name": "DualMint",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760840/dapp-store-logos/dualmint.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Private Credit RWAs"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Stablecoin investors fund real machines, like car washes and air pumps, and get paid when they run.",
+    "description": "DualMint finances revenue-producing equipment and passes the income to stablecoin holders. Each position is backed by a machine, such as Ecowash car wash units or AirUp tyre inflators, and investors receive monthly USDC distributions from what those machines earn. Since May 2025 every distribution has been paid on time, across more than 1,200 positions and roughly $300,000 deployed with no operator defaults.",
+    "meta": "Earn monthly USDC from real machines like car washes with DualMint, which has paid every distribution on time since May 2025.",
+    "pageTitle": "DualMint - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.dualmint.com",
+    "twitter": "https://x.com/DualMintRWA"
+  },
+  "relations": {
+    "alternatives": [
+      "huma-finance",
+      "jia",
+      "collector-crypt"
+    ],
+    "related": [
+      "joinn",
+      "clearpool",
+      "opentrade"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Stablecoin Yield From Everyday Assets",
+      "tldr": "Explains how asset-backed yield differs from lending-driven stablecoin yield and why the source of returns matters.",
+      "url": "https://www.dualmint.com/blog/stablecoin-yield-everyday-assets",
+      "source": "Dualmint",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How DualMint's Machine Yield Index Works",
+      "tldr": "Explains the pooled physical-machine vault, asset screening, monthly distributions, and redemption process.",
+      "url": "https://www.dualmint.com/blog/what-is-the-boring-yield-index",
+      "source": "Dualmint",
+      "tag": "Explainer"
+    }
+  ]
+}

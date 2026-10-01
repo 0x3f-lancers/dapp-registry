@@ -1,0 +1,55 @@
+{
+  "slug": "taceo",
+  "name": "TACEO",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761086/dapp-store-logos/taceo.jpg",
+  "category": "Zero Knowledge Tools",
+  "subcategory": [
+    "ZK Developer Tools"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Privacy layer that keeps balances, payments and identity checks private on public blockchains.",
+    "description": "TACEO adds sub-second cryptographic privacy to existing chains through one API, without moving users to a separate private network. Its Merces product, now live on mainnet, provides private balances, payments and yield with compliance and audit controls, and nobody, including TACEO, sees the plaintext. The same network powers private identity verification for more than 18 million users and confidential x402 payments for AI agents.",
+    "meta": "TACEO brings private balances, payments and identity checks to public chains via one API, used by 18M+ users.",
+    "pageTitle": "TACEO - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://taceo.io/",
+    "twitter": "https://x.com/TACEO_IO"
+  },
+  "relations": {
+    "alternatives": [
+      "ingonmaya",
+      "axiom",
+      "blockless"
+    ],
+    "related": [
+      "lagrange",
+      "risc-zero",
+      "labyrinth"
+    ]
+  },
+  "resources": [
+    {
+      "title": "MPC's Role in Advancing World ID Privacy",
+      "tldr": "TACEO shows how multiparty computation lets World check iris-code uniqueness without any node seeing the codes.",
+      "url": "https://core.taceo.io/articles/mpc-for-iris-code-uniqueness/",
+      "source": "TACEO",
+      "tag": "Identity",
+      "publishedAt": "2024-10-16"
+    },
+    {
+      "title": "TACEO Launches a Network That Computes Without Seeing the Data",
+      "tldr": "TNW on the TACEO Network, already running inside World ID's checks, which lets parties compute on data they cannot see.",
+      "url": "https://thenextweb.com/news/taceo-network-launch-private-computation-world-id",
+      "source": "The Next Web",
+      "tag": "Security",
+      "publishedAt": "2026-03-19"
+    }
+  ]
+}

@@ -17,8 +17,9 @@
     "pageTitle": "hevm - Web3 Security Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/dapphub/dapptools/blob/master/src/hevm/README.md",
-    "twitter": "https://x.com/dapptools"
+    "website": "https://dapp.tools",
+    "twitter": "https://x.com/dapptools",
+    "github": "https://github.com/dapphub/dapptools/blob/master/src/hevm/README.md"
   },
   "relations": {
     "alternatives": [
@@ -31,5 +32,22 @@
       "slither",
       "solhint-prettier-plugin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An EVM That Runs on Symbols",
+      "tldr": "Values stay abstract until a branch forces a decision, then an SMT solver decides which paths are reachable at all.",
+      "url": "https://hevm.dev/",
+      "source": "hevm",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How Symbolic Execution Was Added",
+      "tldr": "The Ethereum Foundation's write-up of the design, including equivalence checking between two versions of a contract.",
+      "url": "https://fv.ethereum.org/2020/07/28/symbolic-hevm-release/",
+      "source": "Ethereum Formal Verification",
+      "image": "https://fv.ethereum.org/img/avatar-icon.png",
+      "tag": "Trading"
+    }
+  ]
 }

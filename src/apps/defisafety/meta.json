@@ -33,5 +33,21 @@
       "cryptolock",
       "sygnum-web3-recovery"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Protocol Gets Scored",
+      "tldr": "Reviews are written first from public documents alone, then shown to the team. Why that order is the point of the exercise.",
+      "url": "https://defisafety.com/our_review",
+      "source": "DeFiSafety",
+      "tag": "Research"
+    },
+    {
+      "title": "The Full Question Set",
+      "tldr": "Every question a Process Quality Review asks, on testing, audits and admin access, with the points each one carries.",
+      "url": "https://defisafety.com/documentation-09",
+      "source": "DeFiSafety",
+      "tag": "Security"
+    }
+  ]
 }

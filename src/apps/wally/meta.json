@@ -32,5 +32,20 @@
       "pillar",
       "minipay"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wallets Without Seed Phrases",
+      "tldr": "How an embedded wallet signs users in with an email or a Google account, and where the key actually lives when nobody writes down twelve words.",
+      "url": "https://developers.moralis.com/web3-wiki/wally/",
+      "source": "Moralis Web3 Wiki"
+    },
+    {
+      "title": "Why Games Reach for Embedded Wallets",
+      "tldr": "Seed-phrase management is the single biggest drop-off in game onboarding. What removing it changes, and what it costs.",
+      "url": "https://sequence.xyz/blog/why-embedded-wallets-are-better-for-web3-games",
+      "source": "Sequence",
+      "image": "https://cdn.sanity.io/images/tophvfhl/production/25998126ce896fccfef6d241c933346a515a7647-1440x800.webp"
+    }
+  ]
 }

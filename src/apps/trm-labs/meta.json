@@ -1,0 +1,54 @@
+{
+  "slug": "trm-labs",
+  "name": "TRM Labs",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761107/dapp-store-logos/trm-labs.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "TRM Labs provides blockchain intelligence for compliance, sanctions screening and risk management.",
+    "description": "TRM Labs provides blockchain intelligence for compliance, investigations and supervision, packaged as its Compliance360, Investigation360 and Supervision360 products. Wallet screening and the BLOCKINT API let institutions check addresses against its threat intelligence before transacting. Law enforcement agencies have used its tooling in asset forfeiture cases, including a 15 million dollar action against a fentanyl vendor. Both Monad and Robinhood Chain are covered, and a chain carrying tokenized equities needs this layer present from day one.",
+    "meta": "Transaction monitoring and sanctions screening used by regulated institutions and agencies.",
+    "pageTitle": "TRM Labs - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.trmlabs.com/",
+    "twitter": "https://x.com/trmlabs"
+  },
+  "relations": {
+    "alternatives": [
+      "blockaid",
+      "chainalysis",
+      "elliptic"
+    ],
+    "related": [
+      "cyberscope",
+      "phalcon",
+      "unlink"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Criminals Use Deepfakes",
+      "tldr": "Describes how deepfakes are used in fraud and gives practical signs that can help readers spot an impersonation attempt.",
+      "url": "https://www.trmlabs.com/resources/blog/how-deepfakes-are-used-to-commit-crimes-and-how-to-spot-them",
+      "source": "TRM Labs",
+      "tag": "Security"
+    },
+    {
+      "title": "Korean Digital Asset Compliance Update",
+      "tldr": "Reviews the state of Korean digital asset rules and the compliance questions firms face while legislation develops.",
+      "url": "https://www.trmlabs.com/resources/blog/the-state-of-korean-digital-asset-compliance-while-the-basic-act-waits",
+      "source": "TRM Labs",
+      "tag": "Regulation"
+    }
+  ]
+}

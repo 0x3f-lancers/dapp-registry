@@ -31,5 +31,25 @@
       "alium-finance",
       "sharpe"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building the Hydra Transaction Stream Plugin",
+      "tldr": "Extending Cardano's layer 2 with a plugin for streaming transactions. A concrete look at what Hydra makes possible and what it demands in return.",
+      "url": "https://sundae.fi/blog/building-hydra-transaction-stream-plugin-cardano-layer-2",
+      "source": "Sundae Labs Blog",
+      "publishedAt": "2025-08-11",
+      "tag": "Tutorial",
+      "image": "https://images.prismic.io/sundae-labs-website/aJoyxKTt2nPbaLWz_rokindo_httpss.mj.runsBqPbIcR2tM_Resize_by_extending_the_back_95dfa570-464d-423c-a25d-5d2acfa2763c_3_og.png?auto=format,compress"
+    },
+    {
+      "title": "Building a Strategies Platform for Cardano DeFi",
+      "tldr": "What has to exist before automated strategies can run on a UTXO chain, where the execution model differs sharply from account-based DeFi.",
+      "url": "https://sundae.fi/blog/building-a-strategies-platform-for-cardano-defi",
+      "source": "Sundae Labs Blog",
+      "publishedAt": "2025-07-10",
+      "tag": "DeFi",
+      "image": "https://images.prismic.io/sundae-labs-website/aHAGFkMqNJQqHxSm_sundae_strategies_banner.png?auto=format,compress"
+    }
+  ]
 }

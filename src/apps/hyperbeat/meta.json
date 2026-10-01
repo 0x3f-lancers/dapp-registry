@@ -1,0 +1,53 @@
+{
+  "slug": "hyperbeat",
+  "name": "Hyperbeat",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760899/dapp-store-logos/hyperbeat.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Hyperbeat is a self-custodial onchain account on Hyperliquid to save, spend, trade and ramp.",
+    "description": "Hyperbeat packages saving, spending, trading and fiat ramps into one self-custodial smart wallet on HyperEVM. Users sign up with an email, set up passkeys and fund the account from a wallet or a bank transfer, with no exchange or bank in the middle. A credit card spends against the portfolio by borrowing rather than selling, and trading covers assets at up to forty times leverage. High-yield accounts and fiat conversion sit in the same interface.",
+    "meta": "Saving, spending, trading and fiat onramping through one self-custodial Hyperliquid account.",
+    "pageTitle": "Hyperbeat - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hyperbeat.org/",
+    "twitter": "https://x.com/hyperbeat"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "beefy",
+      "d2-finance"
+    ],
+    "related": [
+      "equilibria",
+      "harvest",
+      "ipor"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Prediction Markets on Hyperbeat Explained",
+      "tldr": "Explains Yes and No shares, pricing and order placement in Hyperbeat's prediction markets.",
+      "url": "https://hyperbeat.org/blog/predict-markets-explained",
+      "source": "Hyperbeat",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Perpetual Futures for Beginners",
+      "tldr": "Explains how perpetual contracts use leverage and funding without a fixed expiry date.",
+      "url": "https://hyperbeat.org/blog/what-are-perpetual-futures",
+      "source": "Hyperbeat",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -36,5 +36,23 @@
       "soldex",
       "deri-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Proving a Wrapped Asset Is Actually Backed",
+      "tldr": "Security cannot rest on trust alone. Proof of reserve and controlled minting close the gap between custody and the token representing it.",
+      "url": "https://paragraph.com/@bedrock-2/how-bedrock-strengthens-btcfi-security-with-chainlink-proof-of-reserve-and-secure-mint",
+      "source": "Bedrock Blog",
+      "tag": "Security",
+      "image": "https://paragraph.com/api/og?title=How+Bedrock+Strengthens+BTCFi+Security+With+Chainlink+Proof+of+Reserve+and+Secure+Mint&blogName=Bedrock&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F77651223bd46495c0d74ea04901c60cf29043019afb6df43153cacc995ddab77.png&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F27e88cd2aa7a6732703c841993dc62df6d1569f66463521fbe5014475a41915d.png&publishedDate=1762903046000"
+    },
+    {
+      "title": "Staking Bitcoin Without a Staking Chain",
+      "tldr": "Bitcoin has no native staking. What a proof-of-staked-liquidity design does instead, and what the token coordinates.",
+      "url": "https://paragraph.com/@bedrock-2/bedrock-s-br-token-is-live-how-it-fuels-bitcoin-staking-with-posl",
+      "source": "Bedrock Blog",
+      "tag": "DeFi",
+      "image": "https://paragraph.com/api/og?title=Bedrock%E2%80%99s+%24BR+Token+is+Live%3A+How+It+Fuels+Bitcoin+Staking+with+PoSL&blogName=Bedrock&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fbd63b5f580b1b84d573d0b4f67d68ec6f8b54aa50c318bea51b303a6ba2e0668.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F27e88cd2aa7a6732703c841993dc62df6d1569f66463521fbe5014475a41915d.png&publishedDate=1742472382000"
+    }
+  ]
 }

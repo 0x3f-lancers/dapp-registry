@@ -32,5 +32,28 @@
       "shardeum",
       "taraxa"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bridging to Arbitrum",
+      "tldr": "The transfer walked through with the confirmation times and fees stated up front.",
+      "url": "https://www.transporter.io/help/article/how-to-bridge-to-arbitrum",
+      "source": "Transporter Help",
+      "tag": "Payments"
+    },
+    {
+      "title": "Moving Tokens to Base",
+      "tldr": "The same journey to a different network, useful because the details genuinely differ.",
+      "url": "https://www.transporter.io/help/article/how-to-bridge-to-base",
+      "source": "Transporter Help",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Bridging to BNB Chain",
+      "tldr": "Cross-chain transfer to BNB, including what to check before you confirm.",
+      "url": "https://www.transporter.io/help/article/how-to-bridge-to-bnb-chain",
+      "source": "Transporter Help",
+      "tag": "Payments"
+    }
+  ]
 }

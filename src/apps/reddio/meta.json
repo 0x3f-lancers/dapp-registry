@@ -30,5 +30,25 @@
       "cronos",
       "flare-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "From Parallel EVM to AI Integration",
+      "tldr": "Serial EVM execution is a throughput bottleneck that rollups alone do not fix. How parallel zkEVM design attacks it instead.",
+      "url": "https://blog.reddio.com/reddio-technology-overview-from-parallel-evm-to-ai-integration/",
+      "source": "Reddio Blog",
+      "publishedAt": "2024-12-10",
+      "tag": "Infrastructure",
+      "image": "https://blog.reddio.com/content/images/2024/12/2.png"
+    },
+    {
+      "title": "Depositing STONE Tokens for Staking",
+      "tldr": "Connecting a wallet, switching to the right network and depositing, written for someone doing it for the first time.",
+      "url": "https://blog.reddio.com/guide-to-depositing-stone-tokens-on-reddio/",
+      "source": "Reddio Blog",
+      "publishedAt": "2024-11-08",
+      "tag": "DeFi",
+      "image": "https://blog.reddio.com/content/images/2024/11/image--1-.png"
+    }
+  ]
 }

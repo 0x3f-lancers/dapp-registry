@@ -37,5 +37,15 @@
       "zypto-wallet",
       "narval"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What the API Actually Exposes",
+      "tldr": "Auth, pagination, idempotency keys and webhooks, laid out before any endpoint. The part that decides how your integration behaves.",
+      "url": "https://www.triangleplatform.com/docs/api/introduction",
+      "source": "Triangle Docs",
+      "tag": "Infrastructure",
+      "image": "https://www.triangleplatform.com/og.png"
+    }
+  ]
 }

@@ -33,5 +33,25 @@
       "dexhunter",
       "wingriders"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started",
+      "tldr": "Connecting a wallet and reading the portfolio view, including what the app can see and what it cannot.",
+      "url": "https://docs.de.fi/welcome/getting-started",
+      "source": "De.Fi"
+    },
+    {
+      "title": "The Dashboard",
+      "tldr": "How positions across protocols are pulled into one view, and where those numbers can be misleading.",
+      "url": "https://docs.de.fi/dashboard/the-defi-dashboard",
+      "source": "De.Fi"
+    },
+    {
+      "title": "The Audit Database",
+      "tldr": "A searchable record of who audited what, and how to use it before trusting a protocol with funds.",
+      "url": "https://docs.de.fi/audits/audit-database",
+      "source": "De.Fi"
+    }
+  ]
 }

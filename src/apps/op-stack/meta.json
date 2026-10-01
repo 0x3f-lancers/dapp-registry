@@ -31,5 +31,34 @@
       "arbitrum-orbit",
       "snapchain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is the OP Stack?",
+      "tldr": "An MIT-licensed framework for Ethereum L2s: transactions execute off mainnet, data and state commitments post back, fault proofs enforce correctness.",
+      "url": "https://optimism.io/blog/what-is-the-op-stack",
+      "source": "Optimism Blog",
+      "publishedAt": "2026-06-09",
+      "tag": "Explainer",
+      "image": "https://cdn.sanity.io/images/y6ka751a/production/18991e60ebd8c46831211b2bd431580afaf25854-1200x630.jpg?w=1200&h=630&fit=max&auto=format"
+    },
+    {
+      "title": "Comparing the Four Main Rollup Frameworks",
+      "tldr": "OP Stack, Arbitrum Orbit, Polygon CDK and ZK Stack handle most new L2 launches. The framework decides your security model, not just your tooling.",
+      "url": "https://optimism.io/blog/best-rollup-frameworks-for-launching-an-ethereum-l2",
+      "source": "Optimism Blog",
+      "publishedAt": "2026-07-20",
+      "tag": "Infrastructure",
+      "image": "https://cdn.sanity.io/images/y6ka751a/production/b81e13a207011a281853d64651b15cf191bc7d90-1200x630.jpg?w=1200&h=630&fit=max&auto=format"
+    },
+    {
+      "title": "What Is OP Mainnet?",
+      "tldr": "The original production network the OP Stack was built and tested on, using Ethereum for data availability and settlement.",
+      "url": "https://optimism.io/blog/what-is-op-mainnet",
+      "source": "Optimism Blog",
+      "publishedAt": "2026-06-04",
+      "tag": "Explainer",
+      "image": "https://cdn.sanity.io/images/y6ka751a/production/3669c8e0f38d9af00cb69f4313c35390f9844437-1200x630.jpg?w=1200&h=630&fit=max&auto=format"
+    }
+  ]
 }

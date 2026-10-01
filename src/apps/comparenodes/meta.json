@@ -1,0 +1,55 @@
+{
+  "slug": "comparenodes",
+  "name": "CompareNodes",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760811/dapp-store-logos/comparenodes.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Multichain",
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Independent RPC benchmarks and a directory of 208 Web3 infrastructure providers.",
+    "description": "CompareNodes measures blockchain RPC performance from 30 locations on six continents, testing JSON-RPC, WebSocket and gRPC latency in about 35 seconds. It points out that every provider looks fastest inside its own data center, so it runs tests on demand from the places you choose. Its directory lists more than 3,500 public endpoints across 587 protocols, including Unichain and World Chain.",
+    "meta": "Benchmark RPC providers from 30 global locations and browse 3,500+ public endpoints across 587 protocols on CompareNodes.",
+    "pageTitle": "CompareNodes - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.comparenodes.com",
+    "twitter": "https://x.com/CompareNodes"
+  },
+  "relations": {
+    "alternatives": [
+      "rockx",
+      "onfinality",
+      "o7node"
+    ],
+    "related": [
+      "nownodes",
+      "helius",
+      "blockdaemon"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Comparing Global RPC Endpoint Performance",
+      "tldr": "Reports a paid, global test of Dwellir and Chainstack RPC endpoints to show how latency varies by location.",
+      "url": "https://blog.comparenodes.com/49-global-rpc-showdown-dwellir-vs-chainstack/",
+      "source": "CompareNodes",
+      "tag": "Research"
+    },
+    {
+      "title": "RPC Monitoring and Benchmarking Resources",
+      "tldr": "Compares RPC performance monitoring with load benchmarking and explains how CompareNodes tools help evaluate providers.",
+      "url": "https://www.comparenodes.com/blog/infrastructure-performance-resources-for-developers-on-ethereum-in-2025/",
+      "source": "CompareNodes",
+      "tag": "Explainer"
+    }
+  ]
+}

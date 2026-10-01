@@ -38,5 +38,22 @@
       "solve3",
       "quickintel"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Published Audit Reports",
+      "tldr": "The firm's findings released in full after each engagement — the most honest way to judge whether an auditor is any good.",
+      "url": "https://github.com/0xGuard-com/audit-reports",
+      "source": "0xGuard",
+      "image": "https://repository-images.githubusercontent.com/412630448/96bb3cb8-4d2e-49ab-b3e5-b7ff0603d669",
+      "tag": "Security"
+    },
+    {
+      "title": "How the Engagement Works",
+      "tldr": "Submit a contract, get an estimate, receive a private report, then it publishes. The process and what each stage covers.",
+      "url": "https://www.smartcontractaudits.com/audit-provider/0xguard",
+      "source": "SmartContractAudits",
+      "tag": "Security"
+    }
+  ]
 }

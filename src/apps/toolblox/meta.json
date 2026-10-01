@@ -35,5 +35,31 @@
       "cairo-smart-contract-wizard",
       "openzeppelin-test-helpers"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tokenisation's Identity Crisis",
+      "tldr": "Ask what RWA tokenisation is and you hear stocks, bonds and real estate. Ask what it could be and the answer gets considerably wider.",
+      "url": "https://www.toolblox.net/blog/tokenizations-identity-crisis-why-everyone-thinks-rwa-means-bonds-when-it-could-mean-everything-8c0ad023245b",
+      "source": "Toolblox Blog",
+      "publishedAt": "2026-02-10",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "What 'Self-Executing' Actually Means",
+      "tldr": "The phrase appears in every smart contract definition and is rarely examined. A careful look at what does and does not execute on its own.",
+      "url": "https://www.toolblox.net/blog/what-are-self-executing-smart-contracts-c5bfe10bc804",
+      "source": "Toolblox Blog",
+      "publishedAt": "2022-12-08",
+      "tag": "DeFi"
+    },
+    {
+      "title": "What Is Asset Tokenisation?",
+      "tldr": "Tracking ownership of an asset as a token, why business-to-business transfers are the likely first mover, and what the standards do.",
+      "url": "https://www.toolblox.net/blog/what-is-asset-tokenization-0c213cdd48e8",
+      "source": "Toolblox Blog",
+      "publishedAt": "2023-11-13",
+      "tag": "Tokenization"
+    }
+  ]
 }

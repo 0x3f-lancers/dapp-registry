@@ -32,5 +32,31 @@
       "enzyme-finance",
       "cope"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "More Than You Ever Wanted to Know About Power Perpetuals",
+      "tldr": "Six thousand words deriving the pricing from first principles. The title is not a joke, and it is the most complete treatment of these anywhere.",
+      "url": "https://research.opyn.co/more-about-power-perpetuals",
+      "source": "Opyn Research",
+      "tag": "Trading",
+      "image": "https://research.opyn.co/images/research/3/link-preview.png"
+    },
+    {
+      "title": "Everything Is a Perp",
+      "tldr": "Assets targeting a power of an index, so ETH squared quadruples when ETH doubles. A genuinely fun rabbit hole once you accept the premise.",
+      "url": "https://research.opyn.co/everything-is-a-perp",
+      "source": "Opyn Research",
+      "tag": "Trading",
+      "image": "https://research.opyn.co/images/research/1/link-preview.png"
+    },
+    {
+      "title": "Variance Perpetuals",
+      "tldr": "A forward contract on realised variance, made perpetual. Volatility as something you hold a position in rather than something that happens to you.",
+      "url": "https://research.opyn.co/variance-perpetuals",
+      "source": "Opyn Research",
+      "tag": "Trading",
+      "image": "https://research.opyn.co/images/research/5/link-preview.png"
+    }
+  ]
 }

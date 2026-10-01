@@ -31,5 +31,25 @@
       "vanar",
       "xdc-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why a Third of Onchain AI Agents Run on BNB Chain",
+      "tldr": "Fewer than 400 agents existed onchain in January 2026; the count passed 150,000 within months. What those agents are actually doing.",
+      "url": "https://www.bnbchain.org/en/blog/bnb-chain-is-the-1-network-for-ai-agents",
+      "source": "BNB Chain Blog",
+      "publishedAt": "2026-04-21",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/f4/1b/f41b2cc7-c557-4fb7-82f5-ff223a27dcc6/content/images/2026/04/No1-AI-Agents--1-.png"
+    },
+    {
+      "title": "The Osaka/Mendel Hard Fork",
+      "tldr": "Nine BEPs aimed not at cutting block times further but at how the network behaves under real load, after a year focused on speed.",
+      "url": "https://www.bnbchain.org/en/blog/osaka-mendel-hard-fork-strengthening-bnb-chain-after-sub-second-speed-gains",
+      "source": "BNB Chain Blog",
+      "publishedAt": "2026-04-16",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/f4/1b/f41b2cc7-c557-4fb7-82f5-ff223a27dcc6/content/images/2026/04/OsakaMendel-Hard-Fork.png"
+    }
+  ]
 }

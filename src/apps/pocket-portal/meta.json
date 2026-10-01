@@ -41,5 +41,28 @@
       "unmarshal",
       "ormi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Selling Access To Chain Data",
+      "tldr": "The case for treating RPC as a commodity market, and what a network of independent node operators has to solve to run one.",
+      "url": "https://pocket.network/pocket-network-the-amazon-of-data",
+      "source": "Pocket Network",
+      "publishedAt": "2026-08-19"
+    },
+    {
+      "title": "Deflation Enters The Protocol",
+      "tldr": "A release note worth reading as economics: what changed in issuance, and how consensus was made harder to attack.",
+      "url": "https://pocket.network/shannon-v1-31-deflation-goes-live-consensus-gets-harder-to-break",
+      "source": "Pocket Network",
+      "publishedAt": "2026-02-06"
+    },
+    {
+      "title": "Compliance On Open Infrastructure",
+      "tldr": "What it takes to add screening to a permissionless RPC network without putting a gatekeeper in the middle.",
+      "url": "https://pocket.network/pocket-network-x-anchain-ai-decentralized-infrastructure-meets-compliance-intelligence",
+      "source": "Pocket Network",
+      "publishedAt": "2026-02-11"
+    }
+  ]
 }

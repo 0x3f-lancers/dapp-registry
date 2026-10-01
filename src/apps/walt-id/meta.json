@@ -29,5 +29,25 @@
       "torus",
       "metagame"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Running Digital Identity on Azure Key Vault",
+      "tldr": "Letting governments and businesses already on Azure Key Vault use that same key infrastructure behind their identity and wallet deployments.",
+      "url": "https://walt.id/blog/azure-key-vault",
+      "source": "walt.id Blog",
+      "publishedAt": "2025-01-07",
+      "tag": "Identity",
+      "image": "https://walt.id/blog/images/Azure_Key_Vault_integration.png"
+    },
+    {
+      "title": "Reusable ID Credentials via IDnow",
+      "tldr": "Onboarding users into an ID wallet once, then letting those verified credentials be reused across other services instead of repeating checks.",
+      "url": "https://walt.id/blog/idnow",
+      "source": "walt.id Blog",
+      "publishedAt": "2024-06-25",
+      "tag": "Identity",
+      "image": "https://walt.id/blog/images/Screenshot_2024-06-23_at_13.38.56.png"
+    }
+  ]
 }

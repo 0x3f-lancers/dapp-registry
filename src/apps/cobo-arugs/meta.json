@@ -29,5 +29,21 @@
     "related": [
       "walletkit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Delegating DeFi Without Handing Over Keys",
+      "tldr": "Role-based permissions down to the function and parameter, so a bot can harvest rewards but cannot move the treasury.",
+      "url": "https://www.cobo.com/post/how-to-use-safe-based-cobo-argus-for-defi-auto-farming-and-risk-management",
+      "source": "Cobo",
+      "tag": "Governance"
+    },
+    {
+      "title": "Delegating DeFi Permissions Safely",
+      "tldr": "The role and permission model on top of Safe: a delegate signs once within limits an owner set, instead of collecting signatures each time.",
+      "url": "https://www.cobo.com/developers/v1/overview/smart-contract-wallet/coboargus",
+      "source": "Cobo Developer Hub",
+      "image": "https://cobo-docs.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCobo%2BArgus%26appearance%3Dlight%26title%3DIntroduction%26description%3DInstitution%2527s%2BGateway%2Bto%2BDeFi%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fcobo-docs%252FPV4XalUucTJe6-EG%252Flogo%252FCobo-Developers-final72px.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPV4XalUucTJe6-EG%2526q%253D85%2526s%253D30e8520daf193933639b50447e692d31%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fcobo-docs%252FPV4XalUucTJe6-EG%252Flogo%252Fdark.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPV4XalUucTJe6-EG%2526q%253D85%2526s%253Db50e8893f4500368464d76a8fafeb988%26primaryColor%3D%25231F32D6%26lightColor%3D%25231F32D6%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%2523090a0f&w=1200&q=100"
+    }
+  ]
 }

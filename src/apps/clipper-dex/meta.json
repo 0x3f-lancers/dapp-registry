@@ -34,5 +34,28 @@
       "rubydex",
       "bracketx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An AMM That Does Not Use a Constant Product",
+      "tldr": "Gas costs and block times rule out the sophisticated pricing this design wants on-chain. How Clipper works around that.",
+      "url": "https://docs.clipper.exchange/introduction/how-clipper-makes-money-for-lps",
+      "source": "Clipper Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "LP Returns From Arbitrage, Not Fees",
+      "tldr": "A statistical arbitrage strategy borrowed from traditional asset management, run permissionlessly by formula.",
+      "url": "https://docs.clipper.exchange/introduction/how-lps-earn-from-arbitrage",
+      "source": "Clipper Docs",
+      "tag": "Trading"
+    },
+    {
+      "title": "The No-Impermanent-Loss Claim, Defined",
+      "tldr": "Pools behave like a daily rebalancing portfolio of roughly equal thirds. Useful for judging whether the claim holds up.",
+      "url": "https://docs.clipper.exchange/introduction/clippers-benchmark-no-impermanent-loss",
+      "source": "Clipper Docs",
+      "tag": "DeFi"
+    }
+  ]
 }

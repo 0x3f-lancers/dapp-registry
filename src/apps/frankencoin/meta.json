@@ -35,5 +35,21 @@
       "dzap",
       "lifi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Opening a Position",
+      "tldr": "Minting a stablecoin against collateral, and the parameters you are choosing when you do.",
+      "url": "https://docs.frankencoin.com/positions/open",
+      "source": "Frankencoin Docs",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Challenges and Auctions",
+      "tldr": "How anyone can contest a position they think is under-collateralised. The system's core safety mechanism.",
+      "url": "https://docs.frankencoin.com/positions/auctions",
+      "source": "Frankencoin Docs",
+      "tag": "Security"
+    }
+  ]
 }

@@ -1,0 +1,52 @@
+{
+  "slug": "thesauros",
+  "name": "Thesauros",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761095/dapp-store-logos/thesauros.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Lets fintechs and wallets add a stablecoin Earn account powered by Aave, Compound and Morpho.",
+    "description": "Thesauros gives apps an Earn account they can put under their own brand. Customers' stablecoin balances are lent through Aave v3, Compound v3 and Morpho vaults curated by Steakhouse and Gauntlet, and the rate follows borrowing demand. New markets can only be added through a timelocked whitelist, and partner apps keep half of the performance fee.",
+    "meta": "Thesauros lets fintechs offer a branded stablecoin Earn account backed by Aave, Compound and Morpho vaults.",
+    "pageTitle": "Thesauros - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://thesauros.io"
+  },
+  "relations": {
+    "alternatives": [
+      "upshift",
+      "black-panther",
+      "hyperwave"
+    ],
+    "related": [
+      "clip-finance",
+      "superform",
+      "steer-protocol"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Build with Thesauros",
+      "tldr": "Thesauros developer docs on adding a stablecoin Earn feature to an app, with a sandbox and a first API call.",
+      "url": "https://docs.thesauros.io/",
+      "source": "Thesauros Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Design Your Integration",
+      "tldr": "Guide to designing an Earn integration around the customer journey, from showing balances to consent and withdrawals.",
+      "url": "https://docs.thesauros.io/start/integration-paths/",
+      "source": "Thesauros Docs",
+      "tag": "Tutorial"
+    }
+  ]
+}

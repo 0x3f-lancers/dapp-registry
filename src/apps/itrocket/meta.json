@@ -1,0 +1,53 @@
+{
+  "slug": "itrocket",
+  "name": "ITRocket",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760926/dapp-store-logos/itrocket.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Crypto Staking Companies"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "ITRocket runs validator infrastructure, public RPC endpoints and analytics across 30+ networks.",
+    "description": "ITRocket runs validator infrastructure and builds tooling for node operators, developers and analysts. It claims 99.99 percent uptime with millions of blocks signed and a governance participation rate above ninety percent. The team publishes snapshots, real-time chain data and endpoints for the networks it supports. It also maps the geographic and hosting spread of its validators and RPC nodes.",
+    "meta": "Validators, public RPC endpoints and snapshots across more than thirty networks including Monad.",
+    "pageTitle": "ITRocket - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://itrocket.net",
+    "twitter": "https://x.com/itrocket_team"
+  },
+  "relations": {
+    "alternatives": [
+      "forest-staking",
+      "kiln",
+      "silk-nodes"
+    ],
+    "related": [
+      "stakemon",
+      "veda",
+      "0x"
+    ]
+  },
+  "resources": [
+    {
+      "title": "ITRocket Validator and Monad Space Overview",
+      "tldr": "ITRocket describes its validator infrastructure, public services, and Monad Space explorer, staking interface, analytics, and API.",
+      "url": "https://forum.datafdn.org/t/itrocket-validator-introduction/37327",
+      "source": "ITRocket",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How Monad Staking Works",
+      "tldr": "Monad's staking guide explains validator delegation, epoch timing, reward claims, and withdrawals for users evaluating validators.",
+      "url": "https://monad.docsbot.app/reference/staking/overview",
+      "source": "Monad Documentation",
+      "tag": "Tutorial"
+    }
+  ]
+}

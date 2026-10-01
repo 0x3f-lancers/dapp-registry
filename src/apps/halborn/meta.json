@@ -33,5 +33,34 @@
       "scsvs",
       "almanax"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bank Frick Strengthens $1B Crypto Custody",
+      "tldr": "An audit of a bank's key ceremony, which is the moment custody is either done properly or quietly compromised for years. Rare visibility into that process.",
+      "url": "https://www.halborn.com/case-studies/post/case-study-bank-frick-strengthens-1-b-crypto-custody-with-halborn",
+      "source": "Halborn Case Studies",
+      "tag": "Security",
+      "publishedAt": "2026-06-05",
+      "image": "https://cdn.mainframe.halborn.com/Case_Study_Bank_Frick_Strengthens_1_B_Crypto_Custody_with_Halborn_11e0cc183b.png"
+    },
+    {
+      "title": "Hardening Critical CBDC Pilot Infrastructure",
+      "tldr": "Risks found across validator nodes and APIs during a central bank digital currency pilot. Useful for seeing how a state-run chain differs in threat model.",
+      "url": "https://www.halborn.com/case-studies/post/case-study-hardening-critical-cbdc-pilot-infrastructure-for-a-major-financial-institution",
+      "source": "Halborn Case Studies",
+      "tag": "Security",
+      "publishedAt": "2026-06-05",
+      "image": "https://cdn.mainframe.halborn.com/Case_Study_Hardening_Critical_CBDC_Pilot_Infrastructure_for_a_Major_Financial_Institution_2af14d482d.png"
+    },
+    {
+      "title": "Securing Privacy-Preserving Infrastructure for Institutional Adoption",
+      "tldr": "Reviewing a chain built so institutions can transact without publishing positions. The privacy requirement changes what an auditor looks for.",
+      "url": "https://www.halborn.com/case-studies/post/case-study-securing-rayls-infrastructure-for-institutional-blockchain-adoption",
+      "source": "Halborn Case Studies",
+      "tag": "Security",
+      "publishedAt": "2026-07-28",
+      "image": "https://cdn.mainframe.halborn.com/Case_Study_Securing_Rayls_Infrastructure_for_Institutional_Blockchain_Adoption_aaee7d6ce6.png"
+    }
+  ]
 }

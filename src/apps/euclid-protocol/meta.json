@@ -1,0 +1,54 @@
+{
+  "slug": "euclid-protocol",
+  "name": "Euclid Protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760851/dapp-store-logos/euclid-protocol.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Unified liquidity layer letting DeFi apps on different chains share one pool of liquidity.",
+    "description": "Euclid Protocol pools liquidity in one place and makes it reachable from many chains, so a DEX or app on a new network does not have to bootstrap its own. Its product suite includes Euclid Swap, a launchpad, a block explorer and Planet Euclid, a passport-based community programme. More than 1.2 million unique wallets used its testnet.",
+    "meta": "Euclid Protocol gives DeFi apps on any chain access to one shared liquidity layer, with swaps, a launchpad and explorer.",
+    "pageTitle": "Euclid Protocol - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.euclidprotocol.io",
+    "twitter": "https://x.com/EuclidProtocol"
+  },
+  "relations": {
+    "alternatives": [
+      "owlto-finance",
+      "base-bridge",
+      "hash0x"
+    ],
+    "related": [
+      "layerzero",
+      "chainport",
+      "orbiter-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Euclid Protocol Deep Dive",
+      "tldr": "Explains Euclid's approach to unifying fragmented liquidity across chains without conventional bridging.",
+      "url": "https://blog.euclidprotocol.io/blog/euclid-deep-dive",
+      "source": "Euclid Protocol",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How to Use Euclid Launch",
+      "tldr": "The team's guide to creating a token and making it tradable across supported Euclid networks.",
+      "url": "https://blog.euclidprotocol.io/blog/euclid-launch-tutorial",
+      "source": "Euclid Protocol",
+      "tag": "Tutorial"
+    }
+  ]
+}

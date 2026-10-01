@@ -8,7 +8,8 @@
   ],
   "chains": [
     "BNB Chain",
-    "Linea"
+    "Linea",
+    "Monad"
   ],
   "tags": [],
   "pricing": "Free",
@@ -36,5 +37,19 @@
       "shade-protocol",
       "maverick"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Shared Liquidity",
+      "tldr": "How one pool of liquidity serves several products at once, and what that changes for a provider.",
+      "url": "https://docs.izumi.finance/product/shared-liquidity-box",
+      "source": "iZUMi"
+    },
+    {
+      "title": "The Token Economics",
+      "tldr": "Supply, emissions and what the token actually captures from the protocol's activity.",
+      "url": "https://docs.izumi.finance/tokens/tokenomics",
+      "source": "iZUMi"
+    }
+  ]
 }

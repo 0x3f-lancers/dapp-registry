@@ -1,0 +1,37 @@
+{
+  "slug": "astro-pump",
+  "name": "Astro Pump",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760745/dapp-store-logos/astro-pump.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Launchpad that turns a social post into an ERC-20 token traded on a bonding curve.",
+    "description": "Astro Pump lets someone tokenize a social media post: the author proves ownership, mints an ERC-20 for it, and the token trades on a bonding curve until it has raised enough to migrate to a DEX. Launches pass through a pre-bond stage first, and buyers can claim a refund if a project never completes. It is available on several EVM networks, Unichain among them.",
+    "meta": "Astro Pump tokenizes social posts as ERC-20s that trade on a bonding curve and graduate to a DEX, with refunds if a launch fails.",
+    "pageTitle": "Astro Pump - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://astropump.fun",
+    "twitter": "https://x.com/astropump_fun"
+  },
+  "relations": {
+    "alternatives": [
+      "pandatool",
+      "gtokentool",
+      "liquifi"
+    ],
+    "related": [
+      "ambisafe",
+      "tokenscript",
+      "hq-xyz"
+    ]
+  }
+}

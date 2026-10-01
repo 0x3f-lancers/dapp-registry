@@ -7,7 +7,9 @@
     "MPC Wallets"
   ],
   "chains": [
-    "Multichain"
+    "Multichain",
+    "Monad",
+    "Stable"
   ],
   "pricing": "Paid",
   "content": {
@@ -29,5 +31,21 @@
       "sender",
       "martian-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "MPC Wallets",
+      "tldr": "A short primer on splitting a key so no single party ever holds it whole, and what that means for recovery when one share is lost.",
+      "url": "https://www.portalhq.io/guides/mpc-wallets",
+      "source": "Portal Guides",
+      "tag": "Security"
+    },
+    {
+      "title": "Understanding Stablecoins",
+      "tldr": "What keeps a peg in place and the different mechanisms issuers use to defend it. Brief, and a reasonable start before anything more technical.",
+      "url": "https://www.portalhq.io/guides/understanding-stablecoins",
+      "source": "Portal Guides",
+      "tag": "Payments"
+    }
+  ]
 }

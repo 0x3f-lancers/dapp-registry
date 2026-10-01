@@ -1,0 +1,52 @@
+{
+  "slug": "leverup",
+  "name": "LeverUp",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760946/dapp-store-logos/leverup.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "LeverUp is an LP-free perpetuals exchange on Monad with uncapped open interest.",
+    "description": "LeverUp is an LP-free perpetuals exchange on Monad offering uncapped open interest and leverage as high as 1001x. Because there is no liquidity provider pool to compensate, the protocol redistributes all of its fees back to traders. Its AnyCollateral system settles positions through the LVUSD synthetic layer, with an LVMON pool handling staking and redemption. One-click trading removes wallet pop-ups and gas from each order. The fee schedule varies by leverage tier with a per-second holding fee.",
+    "meta": "LeverUp is an LP-free perpetuals exchange on Monad with uncapped open interest, up to 1001x leverage and one-click trading.",
+    "pageTitle": "LeverUp - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://leverup.xyz/",
+    "twitter": "https://x.com/LeverUp_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "monday-trade",
+      "perpl"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Borrowing to Leverage Versus Trading Perps",
+      "tldr": "Compares recursive lending positions with perpetual futures, including how each creates exposure and liquidation risk.",
+      "url": "https://blog.leverup.xyz/borrowing-to-leverage-vs-trading-perps/",
+      "source": "LeverUp",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Build a Grok Bot Trading Agent on LeverUp",
+      "tldr": "Shows how to connect a Grok Bot agent to LeverUp's scoped trading flow without handing it a normal wallet key.",
+      "url": "https://blog.leverup.xyz/grok-bot-trading-agent-leverup/",
+      "source": "LeverUp",
+      "tag": "Tutorial"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "wheelx",
+  "name": "WheelX",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761131/dapp-store-logos/wheelx.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Base",
+    "BNB Chain",
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "AI-routed aggregator for cross-chain swaps, bridging and crypto payments across 50+ networks.",
+    "description": "WheelX combines more than 200 bridges, DEXes and AMM pools across 50+ blockchains and over 10 million trading pairs. Its routing picks the cheapest, fastest path, splits orders to cut slippage, and completes a cross-chain swap in one transaction without manual bridging. It also offers a non-custodial payment layer for merchants and P2P transfers, and runs on chains including Unichain, World Chain and Robinhood Chain.",
+    "meta": "Swap and bridge any token across 50+ chains in one transaction with WheelX, which also offers crypto payments.",
+    "pageTitle": "WheelX - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://wheelx.fi",
+    "twitter": "https://x.com/WheelX_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "zk-link",
+      "router-nitro",
+      "wormhole"
+    ],
+    "related": [
+      "retrobridge",
+      "across",
+      "chasm-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Arc, Circle, USDC and WheelX Fit Together",
+      "tldr": "Explains the roles of programmable money, stablecoin settlement and WheelX in a connected payment flow.",
+      "url": "https://wheelx.fi/blog/article/how-arc-circle-usdc-and-wheelx-fit-together",
+      "source": "WheelX",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Bridge Native USDC with WheelX and Circle CCTP",
+      "tldr": "A step-by-step example of selecting a source network, reviewing fees, and bridging native USDC with WheelX.",
+      "url": "https://wheelx.fi/blog/article/bridging-to-pharos-with-native-usdc-using-wheelx-and-circle-cctp/",
+      "source": "WheelX",
+      "tag": "Tutorial"
+    }
+  ]
+}

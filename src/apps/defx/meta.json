@@ -3,8 +3,15 @@
   "name": "Defx",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746414/web3-explorer/dapp-logos/defx.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Derivatives", "Decentralized Exchanges"],
-  "chains": ["Arbitrum", "Base", "Solana"],
+  "subcategory": [
+    "Decentralized Derivatives",
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Base",
+    "Solana"
+  ],
   "pricing": "",
   "content": {
     "short": "Defx is an orderbook-based spot DEX, a perpetuals DEX, and an L1 platform.",
@@ -17,7 +24,26 @@
     "twitter": "https://x.com/DefxOfficial"
   },
   "relations": {
-    "alternatives": ["cope", "perpetual-protocol", "horizon-protocol"],
-    "related": ["bracketx", "dhedge", "panoptic"]
-  }
+    "alternatives": [
+      "cope",
+      "perpetual-protocol",
+      "horizon-protocol"
+    ],
+    "related": [
+      "bracketx",
+      "dhedge",
+      "panoptic"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Defx Liquidity Engine",
+      "tldr": "What sits behind a perps DEX and how liquidity gets sourced and priced. Short, but one of the few places this layer is described rather than assumed.",
+      "url": "https://blog.defx.com/p/defx-liquidity-engine",
+      "source": "Defx Blog",
+      "publishedAt": "2025-07-01",
+      "tag": "DeFi",
+      "image": "https://substackcdn.com/image/fetch/$s_!NgJP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe98500c1-199e-4e4e-a2bd-779d724e46c9_1456x1048.jpeg"
+    }
+  ]
 }

@@ -1,5 +1,3 @@
-import path from "path";
-
 // Mock cloudinary FIRST - before any imports
 jest.mock("cloudinary", () => ({
   v2: {

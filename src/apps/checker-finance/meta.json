@@ -1,0 +1,54 @@
+{
+  "slug": "checker-finance",
+  "name": "Checker",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760800/dapp-store-logos/checker-finance.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Checker gives financial institutions access to many payment providers through one integration.",
+    "description": "Checker unifies trading, payments, treasury and credit providers into one programmable network reachable through a single plugin. It carries a consolidated price feed drawn from major exchanges, so an integrator reads one source instead of polling each venue. The company has raised 8.1 million dollars and points to B2B stablecoin volume built up inside its first twelve months. Partners join the network to distribute financial products globally without separate integrations per provider.",
+    "meta": "Checker gives financial institutions access to many payment providers via one integration.",
+    "pageTitle": "Checker - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://checker.finance/",
+    "twitter": "https://x.com/checkercorp"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "coinflow"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Introduction",
+      "tldr": "Introduces Checker’s platform and the first steps for using its developer tools.",
+      "url": "https://docs.checker.finance/docs/getting-started.md",
+      "source": "Checker",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Getting Started",
+      "tldr": "Guides users through the access tokens and setup needed to start using Checker.",
+      "url": "https://docs.checker.finance/docs/how-to-use-access-tokens.md",
+      "source": "Checker",
+      "tag": "Tutorial"
+    }
+  ]
+}

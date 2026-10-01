@@ -29,5 +29,22 @@
       "cryptoquant",
       "chainstack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Querying Layer 2 Blocks Directly",
+      "tldr": "The schema behind the index: L2 blocks, transactions, account balances, pools and pairs, with the volume aggregations already built.",
+      "url": "https://github.com/protofire/loopringv3.6-subgraph",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/56fba0ffb3d4aa1b8d8002456570b0301e9d1a5f42e7365b951511c2599d5ed2/protofire/loopringv3.6-subgraph"
+    },
+    {
+      "title": "Why the Subgraph Was Built",
+      "tldr": "The team on wanting an Etherscan-like view of L2 activity, and what developers were expected to build with it.",
+      "url": "https://medium.com/loopring-protocol/loopring-subgraph-hackathon-bounties-148705a35f58",
+      "source": "Loopring",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*sJieTczFKq7PqIyjZBjTTA.jpeg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -33,5 +33,22 @@
     "related": [
       "whats-minting-live"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Every NFT a Wallet Holds, in One Call",
+      "tldr": "getNFTsByOwner across eight EVM chains, returning contract, token id and image without an indexer of your own.",
+      "url": "https://www.ankr.com/docs/advanced-api/quickstart/fetch-nfts-ankrjs/",
+      "source": "Ankr Docs",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Wiring It Into a Frontend",
+      "tldr": "A walkthrough from a working developer: install the SDK, query one address, and render what comes back.",
+      "url": "https://dev.to/kayprasla/how-to-fetch-all-nfts-owned-by-a-particular-wallet-address-using-ankrjs-1e53",
+      "source": "DEV Community",
+      "image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdja5149wteosaaj26mv5.png",
+      "tag": "Tutorial"
+    }
+  ]
 }

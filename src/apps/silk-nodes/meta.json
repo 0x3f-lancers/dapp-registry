@@ -1,0 +1,53 @@
+{
+  "slug": "silk-nodes",
+  "name": "Silk Nodes",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761060/dapp-store-logos/silk-nodes.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Crypto Staking Companies"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Silk Nodes runs a Monad hub for staking, validator comparison and ecosystem analytics.",
+    "description": "Silk Nodes operates Monad validator infrastructure and publishes Monad HUB, an explorer and analytics dashboard alongside it. Delegators stake MON through the interface, track rewards and monitor network statistics, while operators use it to manage validators. The dashboard also surfaces airdrop insights and staking guidance for users new to the chain.",
+    "meta": "Silk Nodes runs Monad validator infrastructure and Monad HUB, a dashboard for staking MON, comparing validators and tracking rewards.",
+    "pageTitle": "Silk Nodes - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://monad.silknodes.io",
+    "twitter": "https://x.com/silknodes"
+  },
+  "relations": {
+    "alternatives": [
+      "forest-staking",
+      "itrocket",
+      "kiln"
+    ],
+    "related": [
+      "stakemon",
+      "veda",
+      "0x"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Validator Services",
+      "tldr": "Explains the validator service commands available through Silk Nodes.",
+      "url": "https://docs.silknodes.io/validator-tools-guide/commands/validator-services.md",
+      "source": "Silk Nodes",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Validator Alerts",
+      "tldr": "Shows how to receive validator status alerts through Discord.",
+      "url": "https://docs.silknodes.io/validator-tools-guide/commands/validator-alerts.md",
+      "source": "Silk Nodes",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -37,5 +37,25 @@
       "hedgey",
       "team-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Bank Issues A Stablecoin",
+      "tldr": "What a euro-backed coin from a licensed fintech changes about issuance, redemption and who is on the hook for the reserve.",
+      "url": "https://polygon.technology/blog/revolut-launches-eurr-a-euro-backed-stablecoin-on-polygon",
+      "source": "Polygon"
+    },
+    {
+      "title": "Holding Dollars Before Converting",
+      "tldr": "Keeping a fiat balance alongside stablecoins and converting on demand, and what that removes from a treasury workflow.",
+      "url": "https://polygon.technology/blog/hold-dollars-in-polygons-open-money-stack-convert-to-stablecoins-the-moment-youre-ready",
+      "source": "Polygon"
+    },
+    {
+      "title": "Embedded Wallets And Routing",
+      "tldr": "What an app gets from wallets it does not have to build, and how crosschain routing is handled underneath them.",
+      "url": "https://polygon.technology/blog/get-unlimited-embedded-wallets-free-with-crosschain-routing-included",
+      "source": "Polygon"
+    }
+  ]
 }

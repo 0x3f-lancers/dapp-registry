@@ -42,5 +42,31 @@
       "verilog-solutions",
       "code4rena"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Stealth Addresses Work",
+      "tldr": "A technical deep dive into receiving funds without publishing a reusable address. Long and genuinely detailed.",
+      "url": "https://rocknblock.io/blog/how-ethereum-stealth-addresses-work-technical-deep-dive",
+      "source": "Rock'n'Block Blog",
+      "tag": "Research",
+      "image": "https://cdn.prod.website-files.com/65ae959392a2143f6424f882/69a24f7f7d7eb0440bc124dc_dmqq1dn5iuoil77l64lt.webp"
+    },
+    {
+      "title": "How a Prediction Market Settles",
+      "tldr": "Polymarket resolution traced through UMA's optimistic oracle, step by step.",
+      "url": "https://rocknblock.io/blog/how-prediction-markets-resolution-works-uma-optimistic-oracle-polymarket",
+      "source": "Rock'n'Block Blog",
+      "tag": "Payments",
+      "image": "https://cdn.prod.website-files.com/65ae959392a2143f6424f882/69a23c382128b691d9e8fc7e_Frame.webp"
+    },
+    {
+      "title": "The Architecture of a Private Wallet",
+      "tldr": "Cake Wallet taken apart to show what privacy technology is doing underneath the interface.",
+      "url": "https://rocknblock.io/blog/how-anonymous-crypto-wallets-work-architecture-privacy-tech-and-features",
+      "source": "Rock'n'Block Blog",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/65ae959392a2143f6424f882/69a23069daece97382c575d3_Frame-1.webp"
+    }
+  ]
 }

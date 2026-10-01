@@ -1,0 +1,51 @@
+{
+  "slug": "redbrick",
+  "name": "Redbrick",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761042/dapp-store-logos/redbrick.jpg",
+  "category": "Web3 Gaming Tools",
+  "subcategory": [
+    "Web3 Game Studios"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Redbrick is an AI-powered gaming engine for creating, publishing and monetizing games.",
+    "description": "Redbrick provides a cloud-based game engine and publishing platform aimed at studios building Web3 titles without assembling their own toolchain. Developers build in the editor, publish through Redbrick and earn from the resulting titles. The platform issues the BRIC token, whose allocation the team has set out publicly.",
+    "meta": "An engine and publishing path for creator-built games, with onchain monetisation attached.",
+    "pageTitle": "Redbrick - Web3 Gaming Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://redbrick.land",
+    "twitter": "https://x.com/redbrickapp"
+  },
+  "relations": {
+    "alternatives": [
+      "gala-games",
+      "dapper-labs",
+      "nakamoto-games"
+    ],
+    "related": [
+      "holoframe"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What is Redbrick? 🧱",
+      "tldr": "Introduces Redbrick’s creator platform and token economy.",
+      "url": "https://docs.redbrick.land/introduction/what-is-redbrick.md",
+      "source": "Redbrick",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Redbrick: Creator & Token Economy",
+      "tldr": "Explains how creators and other participants take part in Redbrick’s token economy.",
+      "url": "https://docs.redbrick.land/introduction/what-is-redbrick/redbrick-creator-and-token-economy.md",
+      "source": "Redbrick",
+      "tag": "Explainer"
+    }
+  ]
+}

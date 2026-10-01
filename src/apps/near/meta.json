@@ -31,5 +31,23 @@
       "avalanche",
       "polygon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What NEAR Is Built For",
+      "tldr": "The network's own overview, framed around software becoming a market participant rather than only a tool people operate.",
+      "url": "https://www.near.org/blog/what-is-near-protocol",
+      "source": "NEAR Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F70130eda95b54795a38fe0f6e694359f%2F856858834cb1414f970791aca0819052"
+    },
+    {
+      "title": "Preparing a Chain for Post-Quantum Attack",
+      "tldr": "Adding quantum-safe signature schemes to a live network, and the ordering problem that migration creates for existing accounts.",
+      "url": "https://www.near.org/blog/near-quantum-safe-roadmap",
+      "source": "NEAR Blog",
+      "tag": "Security",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F70130eda95b54795a38fe0f6e694359f%2Ffcc81bb6314542c780b3f2e2a555dfee?format=webp"
+    }
+  ]
 }

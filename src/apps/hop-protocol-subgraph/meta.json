@@ -33,5 +33,23 @@
       "PRBmath",
       "stackup-bundler"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bonders, hTokens and Instant Transfers",
+      "tldr": "A bonder fronts liquidity on the destination chain and is repaid when the transfer settles through L1. The mechanism, in full.",
+      "url": "https://blog.li.fi/hop-protocol-a-deep-dive-5075eddc4dd",
+      "source": "LI.FI",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*5FHL-sqtJbtWd0iLumiyEA.png",
+      "tag": "Payments"
+    },
+    {
+      "title": "The Questions Integrators Ask",
+      "tldr": "How transfer roots work, what a bonder stakes, and where the trust assumptions actually sit. Answered by the protocol.",
+      "url": "https://docs.hop.exchange/developer-docs/other/faq",
+      "source": "Hop Docs",
+      "image": "https://docs.hop.exchange/developer-docs/~gitbook/ogimage/-MbkbKhilJQSKwI7sydw",
+      "tag": "Tutorial"
+    }
+  ]
 }

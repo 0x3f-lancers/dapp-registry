@@ -36,5 +36,19 @@
       "reddio",
       "startmining"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Architecture",
+      "tldr": "How cross-chain messages are relayed and verified, and where the trust assumptions sit in the design.",
+      "url": "https://docs.asterizm.io/what-is-asterizm/architecture",
+      "source": "Asterizm"
+    },
+    {
+      "title": "The Questions Builders Ask",
+      "tldr": "Costs, finality and failure handling answered directly for anyone integrating cross-chain messaging.",
+      "url": "https://docs.asterizm.io/what-is-asterizm/frequently-asked-questions",
+      "source": "Asterizm"
+    }
+  ]
 }

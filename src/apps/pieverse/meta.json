@@ -1,0 +1,55 @@
+{
+  "slug": "pieverse",
+  "name": "Pieverse",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761023/dapp-store-logos/pieverse.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Gives any AI agent its own wallet, lives in chat apps, and lets agents pay each other.",
+    "description": "Pieverse sets up a Web3-native AI agent inside chat apps like Line, KakaoTalk, WhatsApp and Telegram, taking care of wallet creation and key custody in a secure enclave. The agent keeps its identity and skills across runtimes such as Claude Code and Codex, and can be extended from a skill store. Its agent-to-agent layer lets agents hire and pay one another over gasless x402b rails, with on-chain invoices and receipts.",
+    "meta": "Pieverse gives AI agents a wallet in chat apps like Line and WhatsApp, plus skills and gasless agent-to-agent payments.",
+    "pageTitle": "Pieverse - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.pieverse.io",
+    "twitter": "https://x.com/pieverse_io"
+  },
+  "relations": {
+    "alternatives": [
+      "bridge-xyz",
+      "ur-app",
+      "super"
+    ],
+    "related": [
+      "sprintcheckout",
+      "trails",
+      "yellow-card"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is Pieverse? A Guide to the Agent-Native Payment Stack",
+      "tldr": "Beginner guide to Pieverse's x402b rails, which let agents pay gaslessly and keep audit-ready receipts on BNB Chain.",
+      "url": "https://phemex.com/academy/what-is-pieverse-agent-native-payment-stack",
+      "source": "Phemex Academy",
+      "tag": "AI & Agents",
+      "publishedAt": "2025-11-17"
+    },
+    {
+      "title": "The Agentic Neobank: A New Chapter of Pieverse",
+      "tldr": "Pieverse explains its move from timestamped receipts to an agentic neobank where AI agents hold balances and pay.",
+      "url": "https://medium.com/@pieverse/the-agentic-neobank-a-new-chapter-of-pieverse-b7372a80baf5",
+      "source": "Pieverse",
+      "tag": "AI & Agents",
+      "publishedAt": "2025-12-15"
+    }
+  ]
+}

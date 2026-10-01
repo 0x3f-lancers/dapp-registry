@@ -3,8 +3,12 @@
   "name": "DeGate",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770746417/web3-explorer/dapp-logos/degate.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "DeGate is an order-book DEX on Ethereum powered by Zero-Knowledge technology.",
@@ -17,7 +21,35 @@
     "twitter": "https://x.com/DeGateDex"
   },
   "relations": {
-    "alternatives": ["curve-finance", "bored-candy-city", "seif-finance"],
-    "related": ["opium", "crypto-dot-com", "swapspace"]
-  }
+    "alternatives": [
+      "curve-finance",
+      "bored-candy-city",
+      "seif-finance"
+    ],
+    "related": [
+      "opium",
+      "crypto-dot-com",
+      "swapspace"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Creating A Wallet",
+      "tldr": "Getting set up on a zk rollup, and how account creation differs from an ordinary Ethereum wallet.",
+      "url": "https://docs.degate.com/getting-started/create-a-wallet",
+      "source": "DeGate"
+    },
+    {
+      "title": "Your First Swap",
+      "tldr": "A first trade walked through end to end, with the fees and confirmation times made explicit.",
+      "url": "https://docs.degate.com/getting-started/your-first-swap",
+      "source": "DeGate"
+    },
+    {
+      "title": "Stocks, On Chain",
+      "tldr": "How equity exposure is represented and settled here, and what the holder actually owns.",
+      "url": "https://docs.degate.com/features/on-chain-stocks",
+      "source": "DeGate"
+    }
+  ]
 }

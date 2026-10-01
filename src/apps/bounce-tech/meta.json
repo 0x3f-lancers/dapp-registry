@@ -1,0 +1,53 @@
+{
+  "slug": "bounce-tech",
+  "name": "Bounce.Tech",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760777/dapp-store-logos/bounce-tech.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Bounce.Tech offers leveraged tokens on crypto, memecoins and stocks without liquidation risk.",
+    "description": "Bounce.Tech issues leveraged tokens backed by Hyperliquid perpetuals, covering ETH, BTC, memecoins and tokenized stocks. A holder gets leveraged exposure by holding a token, with no position to margin and no liquidation price to monitor. The perps backing each token supply the leverage, and other applications can list the tokens directly.",
+    "meta": "Leveraged exposure to crypto, memecoins and equities in token form, with no liquidation price.",
+    "pageTitle": "Bounce.Tech - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bounce.tech/",
+    "twitter": "https://x.com/BounceTech"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperliquid",
+      "markets-xyz",
+      "perpetual-protocol"
+    ],
+    "related": [
+      "0x",
+      "altura-trade",
+      "ample-money"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Bridge to HyperEVM",
+      "tldr": "Walks through moving HYPE and USDC from another network onto HyperEVM using Across.",
+      "url": "https://bounce.tech/blog/bridge-to-hyperevm",
+      "source": "Bounce Tech",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Inside Bounce's Rebalancing System",
+      "tldr": "Explains how Bounce isolates failures and keeps leveraged token funds in the token while its rebalancer operates.",
+      "url": "https://bounce.tech/blog/designing-for-resilience-inside-bounces-rebalancing-system",
+      "source": "Bounce Tech",
+      "tag": "Infrastructure"
+    }
+  ]
+}

@@ -31,5 +31,28 @@
       "bnb-chain",
       "quai"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Vyper Contract Is Laid Out",
+      "tldr": "One contract per file, and a deliberate set of restrictions. What the language leaves out is the design.",
+      "url": "https://docs.vyperlang.org/en/stable/structure-of-a-contract.html",
+      "source": "Vyper Docs",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Functions, Loops and Control Flow",
+      "tldr": "The executable part of a contract, including the bounds Vyper imposes that Solidity does not.",
+      "url": "https://docs.vyperlang.org/en/stable/control-structures.html",
+      "source": "Vyper Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Compiling and What Comes Out",
+      "tldr": "The command-line tools, the output formats, and which artefact you actually need for deployment.",
+      "url": "https://docs.vyperlang.org/en/stable/compiling-a-contract.html",
+      "source": "Vyper Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

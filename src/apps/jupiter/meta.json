@@ -31,5 +31,31 @@
       "perpetual-protocol",
       "yearn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Perpetuals Against a Shared Pool",
+      "tldr": "The official account of how leverage is borrowed from the liquidity pool, how funding is charged, and when a position is liquidated.",
+      "url": "https://docs.jup.ag/user-docs/trade/perps",
+      "source": "Jupiter Docs",
+      "tag": "Trading",
+      "image": "https://jupiter-support.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DPerps%26appearance%3Ddark%26title%3DJupiter%2BPerps%253A%2BPerpetual%2BFutures%2Bon%2BSolana%26description%3DHow%2BJupiter%2BPerps%2Bworks%253A%2Bleveraged%2Blong%2Band%2Bshort%2Bpositions%2Bon%2BSOL%252C%2BETH%252C%2Band%2BwBTC%2B%25E2%2580%2594%2Boracle%2Bpricing%252C%2Bfees%252C%2Bfunding%252C%2Band%2Bliquidations.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fjupiter-support%252FQAGPTWYRPGlbXjd8%252Fimages%252FLogo%252520-%252520Bright.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DQAGPTWYRPGlbXjd8%2526q%253D85%2526s%253D6e8b51030d1ce6ea06f40a4c59a4cb8a%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fjupiter-support%252FQAGPTWYRPGlbXjd8%252Fimages%252FLogo%252520-%252520Dark.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DQAGPTWYRPGlbXjd8%2526q%253D85%2526s%253D0b3df90ed0b1a55dd37f22a22a50d591%26primaryColor%3D%252300BEF0%26lightColor%3D%2523C7F284%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230d0e0d&w=1200&q=100"
+    },
+    {
+      "title": "A Deep Dive Into the Perpetual Exchange",
+      "tldr": "An independent analysis of the trader-versus-LP model: who is really taking the other side, and what the pool earns for it.",
+      "url": "https://decentralparkcapital.substack.com/p/a-deep-dive-into-the-jupiter-perpetual-0d2",
+      "source": "Decentral Park Capital",
+      "tag": "Trading",
+      "image": "https://substackcdn.com/image/fetch/$s_!3kkq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1dd6c85-5dba-4b4c-b3b1-e51b2585ab0d_1600x989.png"
+    },
+    {
+      "title": "Jupiter, Assessed as a Whole",
+      "tldr": "A research overview covering the aggregator, the routing across thirty-odd venues, and how the perps business sits alongside it.",
+      "url": "https://www.reflexivityresearch.com/all-reports/jupiter-overview",
+      "source": "Reflexivity Research",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/64f99c50f4c866dee943e165/677c22a9a44fc326b11bd09c_Blue%20Modern%20Geometric%20Business%20Webinar%20Facebook%20Ad%20-%202025-01-06T133601.230.png"
+    }
+  ]
 }

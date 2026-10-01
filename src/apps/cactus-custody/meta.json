@@ -1,0 +1,54 @@
+{
+  "slug": "cactus-custody",
+  "name": "Cactus Custody",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760787/dapp-store-logos/cactus-custody.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Custody Solutions"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Hong Kong licensed qualified custodian for institutional digital assets, run by BIT.",
+    "description": "Cactus Custody keeps each client's assets in segregated on-chain addresses that can be verified at any time, under a Hong Kong trust or company service provider licence. Institutions get custom approval flows, whitelists and withdrawal limits, batch transfers, and in-custody trading between crypto and fiat. A DeFi connector lets them use EVM apps through MetaMask without moving funds out, and Chainalysis screening is built in.",
+    "meta": "Cactus Custody offers segregated, verifiable institutional custody with approval workflows, in-custody trading and DeFi access.",
+    "pageTitle": "Cactus Custody - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.mycactus.com",
+    "twitter": "https://x.com/CactusCustody"
+  },
+  "relations": {
+    "alternatives": [
+      "falconx",
+      "copper",
+      "liminal"
+    ],
+    "related": [
+      "cobo-argus",
+      "fireblocks",
+      "komainu"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Coldcard Incident: An Institutional Custody Analysis",
+      "tldr": "Examines a Coldcard security incident and discusses how hardware security modules fit into institutional asset protection.",
+      "url": "https://blog.mycactus.com/viewpoints/coldcard/",
+      "source": "Cactus Custody",
+      "tag": "Security"
+    },
+    {
+      "title": "Cactus Custody's StableChain Integration",
+      "tldr": "Explains how institutions can manage StableChain assets through Cactus Custody's controls and API infrastructure.",
+      "url": "https://blog.mycactus.com/announcements/cactus-stable/",
+      "source": "Cactus Custody",
+      "tag": "Infrastructure"
+    }
+  ]
+}

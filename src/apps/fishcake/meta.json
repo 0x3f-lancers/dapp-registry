@@ -29,5 +29,25 @@
       "metopia",
       "daobox"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Mining Model",
+      "tldr": "How the proof-of-work style reward loop is structured, and what a participant has to do to earn from it.",
+      "url": "https://www.fishcake.org/mining-model",
+      "source": "Fishcake"
+    },
+    {
+      "title": "Token Distribution",
+      "tldr": "Where the supply goes and on what schedule, which is the part that decides whether the rewards last.",
+      "url": "https://www.fishcake.org/tokenomics",
+      "source": "Fishcake"
+    },
+    {
+      "title": "Starting Out",
+      "tldr": "The onboarding guide for a first-time user, covering the wallet setup and what to do in the app first.",
+      "url": "https://www.fishcake.org/guide",
+      "source": "Fishcake"
+    }
+  ]
 }

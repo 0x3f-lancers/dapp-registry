@@ -37,5 +37,25 @@
       "solidity-shield",
       "securedapp"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Top 3 Bugs from the ThunderNFT Invite-Only Program",
+      "tldr": "Real findings from a live bounty, written up with the reasoning intact. Reading how someone found the flaw beats any list of vulnerability categories.",
+      "url": "https://immunefi.com/blog/bug-fix-reviews/top-3-bugs-from-the-thundernft-invite-only-program/",
+      "source": "Immunefi Blog",
+      "publishedAt": "2024-12-18",
+      "tag": "Security",
+      "image": "https://storage.ghost.io/c/4f/e7/4fe763a6-4fa9-4452-959d-c74de9230c11/content/images/2026/06/1_lRYzUxm-RNgcxVhBK1W0-A.png"
+    },
+    {
+      "title": "Immunefi Arbitration: Onchain Dispute Resolution",
+      "tldr": "Bounty disputes usually come down to severity disagreements with no neutral referee. Describes an arbitration process, a quiet piece of security economics.",
+      "url": "https://immunefi.com/blog/company-announcement/immunefi-arbitration-a-new-era-for-onchain-dispute-resolution/",
+      "source": "Immunefi Blog",
+      "publishedAt": "2025-01-21",
+      "tag": "Security",
+      "image": "https://storage.ghost.io/c/4f/e7/4fe763a6-4fa9-4452-959d-c74de9230c11/content/images/2026/06/1_lmpOv01zS44Mn48bDSe27g.png"
+    }
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "theo-network",
+  "name": "Theo Network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761094/dapp-store-logos/theo-network.png",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Tokenized bonds RWAs"
+  ],
+  "chains": [
+    "Monad",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Theo Network builds institutional tokenized products including thBILL, thGOLD and thUSD.",
+    "description": "Theo builds tokenized institutional products including thBILL for Treasury bills, thGOLD for gold and thUSD as a dollar instrument. Its stated aim is deep trading liquidity so investors can enter and exit at size, efficient leverage for capital efficiency, and composability so derivatives can be built on top. The team comes from market making, hedge fund quant work and crypto engineering. The products are being rolled out progressively, with Monad among the supported chains.",
+    "meta": "Theo Network builds institutional tokenized products including thBILL for Treasury bills, thGOLD for gold and thUSD as a dollar instrument.",
+    "pageTitle": "Theo Network - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://theo.xyz/",
+    "twitter": "https://x.com/Theo_Network"
+  },
+  "relations": {
+    "alternatives": [
+      "ondo",
+      "hashnote",
+      "openeden"
+    ],
+    "related": [
+      "valos",
+      "yuzu-money"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How thUSD Turns Gold Carry Into Yield",
+      "tldr": "Explains the delta-neutral gold carry strategy behind Theo's dollar-denominated thUSD yield.",
+      "url": "https://theo.xyz/articles/how-thusd-works-gold-carry-trade-explained",
+      "source": "Theo",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How Gold Leasing Supports thUSD",
+      "tldr": "Explains the century-old gold leasing market and how its carry can generate the return behind Theo's thUSD.",
+      "url": "https://theo.xyz/articles/gold-leasing-credit-market-behind-thusd",
+      "source": "Theo",
+      "tag": "Explainer"
+    }
+  ]
+}

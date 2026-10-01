@@ -29,5 +29,19 @@
       "rollkit-dev",
       "polymer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Installing The CLI",
+      "tldr": "Getting the chainlet tooling running locally, which is the first step to deploying your own chain.",
+      "url": "https://docs.saga.xyz/sagacli/install-saga-cli",
+      "source": "Saga"
+    },
+    {
+      "title": "Managing Keys",
+      "tldr": "How keys are handled for chain operations, and what to get right before touching a live deployment.",
+      "url": "https://docs.saga.xyz/sagacli/key-management",
+      "source": "Saga"
+    }
+  ]
 }

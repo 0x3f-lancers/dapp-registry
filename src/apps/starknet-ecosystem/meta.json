@@ -32,5 +32,23 @@
       "ronin",
       "gem-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where to Start on Starknet",
+      "tldr": "The community academy: Cairo, the tooling around it, and the order to take the material in.",
+      "url": "https://www.starknet-ecosystem.com/en/academy",
+      "source": "Starknet Ecosystem",
+      "image": "https://www.starknet-ecosystem.com/og-image.png",
+      "tag": "Governance"
+    },
+    {
+      "title": "A Developer's Introduction to the Chain",
+      "tldr": "A validity rollup with its own language. What Cairo buys you, and what moving a Solidity app across actually involves.",
+      "url": "https://dappradar.com/blog/what-is-starknet-guide-developers",
+      "source": "DappRadar",
+      "image": "https://dappradar.com/wp-content/uploads/og-images/1285-03079700.png",
+      "tag": "Explainer"
+    }
+  ]
 }

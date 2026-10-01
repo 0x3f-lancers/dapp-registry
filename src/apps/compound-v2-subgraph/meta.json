@@ -29,5 +29,14 @@
       "solidity-visual-auditor",
       "detask"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Indexing a Money Market",
+      "tldr": "Markets, cTokens and account balances as GraphQL entities, updated on every block a transaction touches the market.",
+      "url": "https://medium.com/graphprotocol/https-medium-com-graphprotocol-compound-v2-subgraph-highlight-a5f38f094195",
+      "source": "The Graph",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*25hbHyJf8EvTpxtdWdu5bw.png"
+    }
+  ]
 }

@@ -30,5 +30,23 @@
       "lagoon",
       "pooltogether"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What DeFi Cover Actually Pays Out For",
+      "tldr": "Premiums fund a shared pool, and a claim only pays when a covered event is confirmed. The gap between that and insurance is the whole subject.",
+      "url": "https://opencover.com/defi-insurance/",
+      "source": "OpenCover",
+      "image": "https://cdn1.opencover.com/2022/11/the-definitive-guide_new.png",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Protocol Cover Explained",
+      "tldr": "Cover scoped to one protocol rather than a wallet, and the exploit types that fall inside and outside that boundary.",
+      "url": "https://opencover.com/cover/protocol-cover/",
+      "source": "OpenCover",
+      "image": "https://cdn1.opencover.com/2022/11/what-is-protocol-cover.png",
+      "tag": "DeFi"
+    }
+  ]
 }

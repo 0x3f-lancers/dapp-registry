@@ -40,5 +40,23 @@
       "hiro",
       "erc721a"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Launching a Collection Cheaply",
+      "tldr": "The contract type built for low deployment cost, and what you trade away to get it.",
+      "url": "https://docs.launchifi.xyz/contract-types/low-gas-nft-collection",
+      "source": "Launchifi Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.launchifi.xyz/~gitbook/ogimage/lkAqnYwo9A9GZSCa3Rzj"
+    },
+    {
+      "title": "Picking Which Chain to Launch On",
+      "tldr": "The considerations that actually matter for a collection, rather than a chain feature comparison.",
+      "url": "https://docs.launchifi.xyz/how-to/choosing-the-network-chain-you-want-to-use",
+      "source": "Launchifi Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.launchifi.xyz/~gitbook/ogimage/4HKQTR3BQhqlWlDSm023"
+    }
+  ]
 }

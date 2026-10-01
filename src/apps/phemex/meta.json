@@ -1,0 +1,53 @@
+{
+  "slug": "phemex",
+  "name": "Phemex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761022/dapp-store-logos/phemex.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Crypto exchange with 10 million users offering spot, futures, copy trading, bots and TradFi.",
+    "description": "Phemex lists around 170 spot coins, USDT and coin-margined perpetuals, copy trading, trading bots and a mock trading mode for beginners. It has added tokenized stocks and metals, on-chain derivatives, and prediction markets powered by Polymarket. Users can deposit fiat by SWIFT, SEPA or FPS without fees, buy with cards, and spend through the Phemex Card with cashback.",
+    "meta": "Phemex offers spot, perps, copy trading, bots, TradFi and Polymarket-powered predictions to 10M+ users.",
+    "pageTitle": "Phemex - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://phemex.com",
+    "twitter": "https://x.com/Phemex_official"
+  },
+  "relations": {
+    "alternatives": [
+      "weex",
+      "binance-us",
+      "bitvavo"
+    ],
+    "related": [
+      "gemini",
+      "changenow",
+      "odos"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Place Your First Trade on Phemex",
+      "tldr": "A current walkthrough of choosing spot, futures, or demo trading and placing an order.",
+      "url": "https://phemex.com/help-center/how-to-place-your-first-trade",
+      "source": "Phemex",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Phemex Spot Trading Guide",
+      "tldr": "Explains spot trading on Phemex, order execution, ownership of assets, and account features.",
+      "url": "https://phemex.com/help-center/what-is-phemex-spot-trading-and-how-it-works",
+      "source": "Phemex",
+      "tag": "Tutorial"
+    }
+  ]
+}

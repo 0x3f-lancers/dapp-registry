@@ -1,0 +1,54 @@
+{
+  "slug": "trevee",
+  "name": "Trevee",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761106/dapp-store-logos/trevee.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Stablecoin savings protocol, formerly Rings, earning yield on USD and ETH across several chains.",
+    "description": "Trevee is the new name of Rings. Its Earn product is a savings vault for dollars and ETH: users stake scUSD or scETH on Sonic, or plUSD on Plasma, to earn yield from the strategies behind them. Following a governance vote, the old PAL token is migrating one to one into TREVEE, which can be staked in per-chain safety modules that protect Earn deposits and collect protocol revenue.",
+    "meta": "Trevee, formerly Rings, runs stablecoin and ETH savings vaults on Sonic and Plasma, with TREVEE staking as backstop.",
+    "pageTitle": "Trevee - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://trevee.xyz",
+    "twitter": "https://x.com/Trevee_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "ammplify",
+      "idle-finance",
+      "mozaic"
+    ],
+    "related": [
+      "zignaly",
+      "overnight-finance",
+      "earnpark"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Trevee Ecosystem",
+      "tldr": "Docs explaining how Paladin's Quest and the Rings protocol were folded into Trevee under Mithras Labs.",
+      "url": "https://docs.trevee.xyz/",
+      "source": "Trevee Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "What is Trevee?",
+      "tldr": "Guide to Trevee, formerly Rings, and its yield-bearing meta-assets such as scUSD and scETH across chains.",
+      "url": "https://decentralized-finance.io/article/trevee/",
+      "source": "Decentralized Finance",
+      "tag": "Explainer",
+      "publishedAt": "2026-04-23"
+    }
+  ]
+}

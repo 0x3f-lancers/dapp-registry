@@ -31,5 +31,34 @@
       "orby-network",
       "thestandard"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bridge Security After Wormhole and Ronin",
+      "tldr": "The two largest bridge exploits — $320M and $625M — were not random failures but predictable results of specific architectural choices.",
+      "url": "https://jpool.one/blog/canonical-bridge-design-security-models-after-wormhole-and-ronin",
+      "source": "JPool Blog",
+      "publishedAt": "2026-07-08",
+      "tag": "Infrastructure",
+      "image": "https://api.blog.jpool.one/wp-content/uploads/2026/06/file-58.png"
+    },
+    {
+      "title": "What the RWA Boom Gets Wrong About Collateral",
+      "tldr": "Tokenised T-bills and money market funds are sold as DeFi's maturation. The regulatory cliff underneath that claim gets less attention.",
+      "url": "https://jpool.one/blog/rwa-collateral-and-the-regulatory-cliff-what-defis-tokenized-asset-boom-gets-wrong",
+      "source": "JPool Blog",
+      "publishedAt": "2026-06-22",
+      "tag": "Tokenization",
+      "image": "https://api.blog.jpool.one/wp-content/uploads/2026/06/file-47.png"
+    },
+    {
+      "title": "The JPool Validator Council",
+      "tldr": "Community-driven evaluation of the Community Good validator programme: how the council is composed, rotated and kept independent.",
+      "url": "https://jpool.one/blog/jpool-validator-council",
+      "source": "JPool Blog",
+      "publishedAt": "2026-07-20",
+      "image": "https://api.blog.jpool.one/wp-content/uploads/2026/07/validator-council.webp",
+      "tag": "Governance"
+    }
+  ]
 }

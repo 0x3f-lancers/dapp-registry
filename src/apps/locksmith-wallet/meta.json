@@ -27,5 +27,14 @@
     "related": [
       "rabby-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Account Your Wallet Cannot Drain",
+      "tldr": "Funds sit beside the wallet rather than inside it, so a compromised key does not reach them and a lost key can be replaced.",
+      "url": "https://moralis.com/web3-wiki/locksmith-wallet/",
+      "source": "Moralis",
+      "tag": "Security"
+    }
+  ]
 }

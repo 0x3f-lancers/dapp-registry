@@ -31,5 +31,25 @@
       "tableland",
       "hopr-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "AI Data At The Edge",
+      "tldr": "The design of a decentralised data cloud built for training, and what running inference near the source changes.",
+      "url": "http://www.oortech.com/post/deimos-ii-powering-a-decentralized-ai-data-cloud-through-edge-ai",
+      "source": "OORT"
+    },
+    {
+      "title": "Collecting A Dataset In The Open",
+      "tldr": "How a voice dataset was gathered from contributors rather than scraped, and what that fixes about provenance.",
+      "url": "http://www.oortech.com/post/oort-launches-first-decentralized-in-car-voice-command-dataset-on-kaggle---googles-data-science-competition-platform",
+      "source": "OORT"
+    },
+    {
+      "title": "Stablecoins On A Data Chain",
+      "tldr": "Why a network paying contributors for data wants a dollar unit, and what integrating one involved.",
+      "url": "http://www.oortech.com/post/oorts-l1-olympus-protocol-integrates-usdc-a-first-for-the-deai-sector",
+      "source": "OORT"
+    }
+  ]
 }

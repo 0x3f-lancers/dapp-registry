@@ -29,5 +29,22 @@
       "debank",
       "ninjalerts"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading a Solana Wallet Properly",
+      "tldr": "Balances are the easy part. Getting realised profit and loss out of swap history is where trackers earn their keep.",
+      "url": "https://zerion.io/blog/solana-portfolio-tracker-comprehensive-guide/",
+      "source": "Zerion",
+      "image": "https://storage.ghost.io/c/40/4e/404e902f-a497-4c57-98a8-ff885ab1951b/content/images/size/w1200/2025/10/Solana-portfolio-tracker.png",
+      "tag": "Trading"
+    },
+    {
+      "title": "Tracker Versus Explorer",
+      "tldr": "An explorer shows transactions, a tracker aggregates positions across protocols. Why that difference matters on Solana.",
+      "url": "https://web3.bitget.com/crypto-news/solana-tracker-wallet-guide-to-on-chain-analytics-tools",
+      "source": "Bitget Web3",
+      "tag": "Infrastructure"
+    }
+  ]
 }

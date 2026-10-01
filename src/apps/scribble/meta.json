@@ -30,5 +30,21 @@
       "chaos-labs",
       "solidity-linting-tool"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Properties Written Beside the Code",
+      "tldr": "Annotate a contract with what must always hold, and the tool compiles those into assertions that fire when it stops holding.",
+      "url": "https://docs.scribble.codes/",
+      "source": "Scribble Docs",
+      "image": "https://docs.scribble.codes/~gitbook/ogimage/-M8HC2Y475rbI6WOkLR8",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Four Features Worth Knowing",
+      "tldr": "The parts of the annotation language that do the most work in practice, shown against real contracts by the team behind it.",
+      "url": "https://consensys.io/diligence/blog/2022/07/four-scribble-features-to-make-testing-your-smart-contract-easier/",
+      "source": "Consensys Diligence"
+    }
+  ]
 }

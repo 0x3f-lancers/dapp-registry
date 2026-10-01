@@ -1,0 +1,54 @@
+{
+  "slug": "due-network",
+  "name": "Due",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760841/dapp-store-logos/due-network.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Global payments app with multi-currency accounts and instant transfers across 80+ countries.",
+    "description": "Due lets individuals and businesses hold, send, receive and exchange money in several currencies and stablecoins at the real exchange rate. Transfers reach bank accounts and mobile wallets in more than 80 countries in seconds, which suits paying suppliers, staff or family abroad. Fintechs, payroll providers and banks can use the same rails through Due's API.",
+    "meta": "Hold multiple currencies and stablecoins and send money to banks or mobile wallets in 80+ countries in seconds with Due.",
+    "pageTitle": "Due - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.opendue.com",
+    "twitter": "https://x.com/due_network"
+  },
+  "relations": {
+    "alternatives": [
+      "beam-cash",
+      "default",
+      "p-link"
+    ],
+    "related": [
+      "remittix",
+      "revuto",
+      "solsplits"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Due Launches Stablecoin API, Extends Seed Round to $7.3M",
+      "tldr": "Announces Due's stablecoin payments API and a seed extension to $7.3M, from a London team of Revolut alumni.",
+      "url": "https://www.opendue.com/blog/due-launches-stablecoin-api-extends-seed-round-to-7-3m-to-empower-businesses-with-borderless-payments-solution",
+      "source": "Due Blog",
+      "tag": "Payments",
+      "publishedAt": "2025-07-30"
+    },
+    {
+      "title": "Due Regulatory Information",
+      "tldr": "Lists Due's legal entities, including its UK company and the Spanish entity authorised by the CNMV as a crypto-asset service provider.",
+      "url": "https://www.opendue.com/legal/regulatory",
+      "source": "Due",
+      "tag": "Regulation"
+    }
+  ]
+}

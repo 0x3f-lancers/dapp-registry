@@ -30,5 +30,30 @@
       "plena-finance",
       "stackup"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Native SOL Staking, Step by Step",
+      "tldr": "Delegating to a validator directly rather than through a liquid staking token, and what the epoch delay means for your funds.",
+      "url": "https://help.solflare.com/en/articles/9264008-native-solana-sol-staking-on-solflare-a-step-by-step-guide",
+      "source": "Solflare Help Centre",
+      "tag": "DeFi",
+      "image": "https://downloads.intercomcdn.com/i/o/d5bf0fji/664066/fb4eb9f7b8cb438e9faa7b924763/b9a7b901efb64b59c768701bbc411b5a.png"
+    },
+    {
+      "title": "Solflare Reviewed at Length",
+      "tldr": "One of the earliest Solana-native wallets, examined feature by feature — including where it is weaker than the alternatives.",
+      "url": "https://www.bitdegree.org/crypto/solflare-review",
+      "source": "BitDegree",
+      "tag": "Research",
+      "image": "https://assets.bitdegree.org/assets/bitdegree-crypto-og-image.jpg"
+    },
+    {
+      "title": "Strong on Solana, Thin Elsewhere",
+      "tldr": "Scam detection, biometric locks and hardware support, set against minimal use beyond the Solana ecosystem.",
+      "url": "https://cryptonews.com/reviews/solflare-wallet-review/",
+      "source": "Cryptonews",
+      "tag": "Security"
+    }
+  ]
 }

@@ -32,5 +32,30 @@
       "petra-wallet",
       "Snowflake"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Private Keys, Mnemonics and Derivation Paths",
+      "tldr": "Where a wallet actually comes from. The three concepts that decide whether you can ever get your Bitcoin back.",
+      "url": "https://docs.unisat.io/products/unisat-wallet/private-keys-mnemonics-and-derivation-paths-how-is-your-wallet-created",
+      "source": "UniSat Docs",
+      "tag": "Security",
+      "image": "https://docs.unisat.io/~gitbook/ogimage/tiVJx9yQsEHTVTU9FN6W"
+    },
+    {
+      "title": "The Risks of a Browser Extension Wallet",
+      "tldr": "Living inside the browser is what makes an extension wallet convenient and what makes it exposed. The threats worth knowing.",
+      "url": "https://docs.unisat.io/products/unisat-wallet/unisat-wallet-safety-guide-protecting-your-assets",
+      "source": "UniSat Docs",
+      "image": "https://docs.unisat.io/~gitbook/ogimage/ugXvpC49dH8Y4WzHmdrq"
+    },
+    {
+      "title": "Inscribing Before You Transfer",
+      "tldr": "BRC-20 requires a TRANSFER inscription before tokens can move. Skipping that step is where most first attempts go wrong.",
+      "url": "https://docs.unisat.io/products/unisat-wallet/how-to-inscribe-transfer-using-unisat-wallet",
+      "source": "UniSat Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.unisat.io/~gitbook/ogimage/x4rySyvMobwYluTsvhCD"
+    }
+  ]
 }

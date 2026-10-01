@@ -3,8 +3,12 @@
   "name": "Verse",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745254/web3-explorer/dapp-logos/bitcoincom.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
   "pricing": "",
   "content": {
     "short": "Verse is a full-featured decentralized exchange built on bitcoin.com.",
@@ -17,7 +21,28 @@
     "twitter": "https://x.com/bitcoincom"
   },
   "relations": {
-    "alternatives": ["curve-finance", "shade-protocol", "morfi"],
-    "related": ["horizon-protocol", "easybit"]
-  }
+    "alternatives": [
+      "curve-finance",
+      "shade-protocol",
+      "morfi"
+    ],
+    "related": [
+      "horizon-protocol",
+      "easybit"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Patience As A Strategy",
+      "tldr": "A fireside conversation on holding a long-term view through a cycle, and what that discipline looks like in practice.",
+      "url": "https://verse.bitcoin.com/blog/fireside-chat-ben-friedman-patience-and-a-long-term-mindset-in-crypto",
+      "source": "Verse"
+    },
+    {
+      "title": "If You Do Not Control It",
+      "tldr": "A conversation on custody and what ownership means once someone else holds the keys.",
+      "url": "https://verse.bitcoin.com/blog/fireside-chat-pankaj-kaushik-money-isnt-yours-if-you-dont-control-it",
+      "source": "Verse"
+    }
+  ]
 }

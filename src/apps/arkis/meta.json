@@ -1,0 +1,53 @@
+{
+  "slug": "arkis",
+  "name": "Arkis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760743/dapp-store-logos/arkis.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Arkis provides institutional portfolio margin across CeFi, DeFi and TradFi venues.",
+    "description": "Arkis provides prime brokerage for institutions through a single portfolio margin account spanning CeFi, DeFi and TradFi venues. Collateral sits in a tri-party arrangement with a qualified custodian, and borrowers operate from whitelisted organisation wallets with margin call and liquidation alerts. Lenders supply liquidity to the same system, and the firm states no bad debt since 2022. Its contracts were audited in December 2023, and Hyperliquid is among the venues it offers direct market access to.",
+    "meta": "Arkis provides institutional portfolio margin and credit across CeFi, DeFi and TradFi venues.",
+    "pageTitle": "Arkis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://arkis.xyz/",
+    "twitter": "https://x.com/ArkisXYZ"
+  },
+  "relations": {
+    "alternatives": [
+      "euler",
+      "hyperdrive-defi",
+      "hyperlend"
+    ],
+    "related": [
+      "hypurrfi",
+      "impermax-v2",
+      "morpho"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Arkis Governs Risk Off-Chain",
+      "tldr": "Describes the offchain risk controls Arkis uses alongside its onchain prime brokerage system.",
+      "url": "https://arkis.xyz/blog/how-arkis-governs-risk-off-chain",
+      "source": "Arkis",
+      "tag": "Security"
+    },
+    {
+      "title": "Arkis's Dynamic Spread Borrowing Model",
+      "tldr": "Explains how Arkis adjusts borrowing spreads to make rates more predictable than a simple utilization curve.",
+      "url": "https://arkis.xyz/blog/toward-predictable-borrowing-in-defi-with-the-arkis-dynamic-spread-model",
+      "source": "Arkis",
+      "tag": "DeFi"
+    }
+  ]
+}

@@ -29,5 +29,25 @@
       "kodadot",
       "mbd-financials"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Unwinding A Leveraged Position",
+      "tldr": "The first asynchronous redemption against tokenised securities, walked through step by step including what settles when.",
+      "url": "https://www.zharta.io/blog/zharta-and-kamui-execute-first-asynchronous-redemption-unwind-for-leveraged-positions-on-tokenized-securities-debuting-on-acred-from-securitize",
+      "source": "Zharta"
+    },
+    {
+      "title": "Why Fixed-Rate Credit Matters",
+      "tldr": "The case against floating rates for onchain borrowing, and what a lender gives up to offer a rate that does not move.",
+      "url": "https://www.zharta.io/blog/why-fixed-rate-onchain-credit-matters",
+      "source": "Zharta"
+    },
+    {
+      "title": "A Security Review, Written Up",
+      "tldr": "What an external audit of the lending contracts looked at, and how the findings changed the code.",
+      "url": "https://www.zharta.io/blog/security-review-completed-with-hexens",
+      "source": "Zharta"
+    }
+  ]
 }

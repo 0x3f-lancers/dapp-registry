@@ -32,5 +32,31 @@
       "amply-finance",
       "termfinance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Staking and Delegation",
+      "tldr": "Delegating to a validator, what securing the chain earns you, and the lock-up you are accepting.",
+      "url": "https://docs.mantrachain.io/how-to-stake-mantra",
+      "source": "MANTRA Docs",
+      "tag": "DeFi",
+      "image": "https://docs.mantrachain.io/api/og?title=How+to+Stake+MANTRA&section=MANTRA+Token"
+    },
+    {
+      "title": "Moving Between Two VMs on One Chain",
+      "tldr": "Cosmos and EVM environments side by side, and the official route for moving assets across.",
+      "url": "https://docs.mantrachain.io/how-to-move-mantra-between-the-evm-and-cosmos-vm",
+      "source": "MANTRA Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.mantrachain.io/api/og?title=How+to+Move+MANTRA+Between+the+EVM+and+Cosmos+VM&section=MANTRA+Token"
+    },
+    {
+      "title": "The Modular Architecture",
+      "tldr": "Cosmos SDK underneath with an EVM layer alongside. What each component is responsible for.",
+      "url": "https://docs.mantrachain.io/developers/architecture/overview",
+      "source": "MANTRA Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.mantrachain.io/api/og?title=Architecture+Overview&section=Architecture"
+    }
+  ]
 }

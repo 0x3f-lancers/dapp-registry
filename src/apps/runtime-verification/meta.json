@@ -31,5 +31,34 @@
       "dedge-security",
       "chainaware-ai"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bringing Formal Verification to Algorand",
+      "tldr": "KAVM gives the Algorand Virtual Machine formal semantics in the K framework, so contract behaviour can be proved rather than tested.",
+      "url": "https://www.runtimeverification.com/blog/runtime-verification-brings-formal-verification-to-algorand",
+      "source": "Runtime Verification Blog",
+      "publishedAt": "2023-03-06",
+      "tag": "Infrastructure",
+      "image": "https://strapi.runtimeverification.com/uploads/runtime_verification_brings_formal_verification_to_algorand_09430244ed.png"
+    },
+    {
+      "title": "K vs Coq as Language Verification Frameworks",
+      "tldr": "The closing part of a three-post comparison, weighing two very different approaches to proving what a language actually does.",
+      "url": "https://www.runtimeverification.com/blog/k-vs-coq-as-language-verification-frameworks-part-3-of-3",
+      "source": "Runtime Verification Blog",
+      "publishedAt": "2019-12-12",
+      "tag": "Infrastructure",
+      "image": "https://strapi.runtimeverification.com/uploads/k_vs_coq_as_language_verification_frameworks_part_3_of_3_2ae8b8940e.png"
+    },
+    {
+      "title": "Auditing Algofi Lending v2",
+      "tldr": "The audit of a lending, borrowing and trading application on Algorand, and what the review covered in its contracts.",
+      "url": "https://www.runtimeverification.com/blog/runtime-verification-audits-algofi-lending-v2",
+      "source": "Runtime Verification Blog",
+      "publishedAt": "2022-08-30",
+      "tag": "DeFi",
+      "image": "https://strapi.runtimeverification.com/uploads/runtime_verification_audits_algofi_lending_v2_8c699a6e89.png"
+    }
+  ]
 }

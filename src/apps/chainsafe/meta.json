@@ -31,5 +31,30 @@
       "aesirx",
       "quicknode-nft-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Five Approaches to Blockchain Privacy",
+      "tldr": "Written for institutions choosing an architecture, with the authors' own conflicts disclosed at the top rather than buried.",
+      "url": "https://blog.chainsafe.io/2026-guide-to-blockchain-privacy",
+      "source": "ChainSafe Blog",
+      "tag": "Security",
+      "image": "https://blog.chainsafe.io/content/images/size/w1200/2026/04/Frame-42969--2-.svg"
+    },
+    {
+      "title": "Between Head and Finalized",
+      "tldr": "One view reorgs easily, the other lags 12.8 minutes. Fast Confirmation is the argument for something in between.",
+      "url": "https://blog.chainsafe.io/fast-confirmation-in-lodestar",
+      "source": "ChainSafe Blog",
+      "image": "https://blog.chainsafe.io/content/images/size/w1200/2026/07/fast-conf-img.png"
+    },
+    {
+      "title": "Native Node.js Addons in Zig",
+      "tldr": "A working alternative to C++ addons and the N-API boilerplate that comes with them. Genuinely technical, not a pitch.",
+      "url": "https://blog.chainsafe.io/zapi-zig-native-node-js-addons",
+      "source": "ChainSafe Blog",
+      "tag": "Infrastructure",
+      "image": "https://blog.chainsafe.io/content/images/size/w1200/2026/05/Frame-42970.png"
+    }
+  ]
 }

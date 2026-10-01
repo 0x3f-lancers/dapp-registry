@@ -29,5 +29,31 @@
       "ninjalerts",
       "venly-nft-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Detecting Transactions Before Confirmation",
+      "tldr": "Reading Solana shreds to see activity earlier than a normal subscription would. What that earliness is worth.",
+      "url": "https://shyft.to/blog/introducing-rabbitstream-detect-unconfirmed-pre-processed-solana-transactions-with-shyft-grpc",
+      "source": "Shyft Blog",
+      "tag": "Infrastructure",
+      "image": "https://wp-origin.shyft.to/wp-content/uploads/2026/02/Introducing-Rabbitstream.webp"
+    },
+    {
+      "title": "Shreds Versus Yellowstone gRPC",
+      "tldr": "Two ways to stream Solana data, compared on what each one can see and how soon it sees it.",
+      "url": "https://shyft.to/blog/understanding-rabbitstream-solana-shreds-and-difference-with-yellowstone-grpc",
+      "source": "Shyft Blog",
+      "tag": "Infrastructure",
+      "image": "https://wp-origin.shyft.to/wp-content/uploads/2026/02/New-Color-blog-covers-8.webp"
+    },
+    {
+      "title": "Measuring Your gRPC Latency",
+      "tldr": "How to find out what your stream is actually costing you in milliseconds, rather than trusting a vendor number.",
+      "url": "https://docs.shyft.to/solana-yellowstone-grpc/how-to-measure-solana-geyser-grpc-latency",
+      "source": "Shyft Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.shyft.to/~gitbook/image?url=https%3A%2F%2F2394289113-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4XnSsBH76iytbI7NwX5o%252Fsocialpreview%252FO27RrUVDoT8QdJCaf9XK%252Fcover-docs.jpg%3Falt%3Dmedia%26token%3D2dd5615a-7b73-4589-b954-fef1998452df&width=1200&height=630&sign=e8ed6fc2&sv=2"
+    }
+  ]
 }

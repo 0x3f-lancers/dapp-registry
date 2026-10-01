@@ -35,5 +35,28 @@
       "sourcify",
       "synthetic-smart-contracts"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Your First dApp With dappBooster",
+      "tldr": "A starter kit walkthrough that gets a working application running before explaining what each piece does.",
+      "url": "https://docs.dappbooster.dev/recipes/my-first-dapp",
+      "source": "dappBooster Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Generating a GraphQL Client From a Subgraph",
+      "tldr": "The subgraph plugin, and why typed clients beat hand-written queries once a project has more than a few.",
+      "url": "https://docs.dappbooster.dev/advanced/subgraph-plugin",
+      "source": "dappBooster Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Installing It by Hand",
+      "tldr": "For when the install script does not suit your setup. Each step spelled out rather than assumed.",
+      "url": "https://docs.dappbooster.dev/advanced/manual-installation",
+      "source": "dappBooster Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

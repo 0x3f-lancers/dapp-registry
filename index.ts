@@ -2,7 +2,7 @@ import Fastify from "fastify";
 import dotenv from "dotenv";
 import path from "path";
 import crypto from "crypto";
-import logger, { pinoConfig } from "./lib/logger";
+import { pinoConfig } from "./lib/logger";
 import rawBody from "fastify-raw-body";
 
 import filterRoutes from "./routes/filter";

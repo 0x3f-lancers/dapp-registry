@@ -3,8 +3,13 @@
   "name": "Nusa",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748801/web3-explorer/dapp-logos/nusa-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Lending Dapps", "Decentralized Exchanges"],
-  "chains": ["BNB Chain"],
+  "subcategory": [
+    "Decentralized Lending Dapps",
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "BNB Chain"
+  ],
   "pricing": "",
   "content": {
     "short": "Nusa is a one-stop web3 platform with DeFi applications and an NFT marketplace.",
@@ -17,7 +22,23 @@
     "twitter": "https://x.com/nusa_finance"
   },
   "relations": {
-    "alternatives": ["bulla-network", "lodestar-finance", "1delta"],
-    "related": ["stellaswap", "dolomite"]
-  }
+    "alternatives": [
+      "bulla-network",
+      "lodestar-finance",
+      "1delta"
+    ],
+    "related": [
+      "stellaswap",
+      "dolomite"
+    ]
+  },
+  "resources": [
+    {
+      "title": "A Close Look At The Lending Market",
+      "tldr": "An outside review of the protocol: how floating and fixed rates are set, what backs a loan, and where the risks sit.",
+      "url": "https://www.thestandard.io/blog/thorough-evaluation-of-nusa-innovative-lending-solutions",
+      "source": "TheStandard.io",
+      "image": "https://cdn.prod.website-files.com/65d02d1dec5e69a620186d41/67b108715ff989e6b176344e_NUSA%20New%20Thumbnail.jpg"
+    }
+  ]
 }

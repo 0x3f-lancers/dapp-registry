@@ -30,5 +30,21 @@
       "ethp2p",
       "abi-decoder"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Tracking Every Pool Automatically",
+      "tldr": "How the address provider is watched so newly deployed factory pools get indexed without anyone editing the subgraph.",
+      "url": "https://github.com/curvefi/volume-subgraphs",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/e4ad4fc54cff9f98a8b1d9cf22b7c074288b9962ac8dee02661be41d269e8477/curvefi/volume-subgraphs"
+    },
+    {
+      "title": "Why Index Instead of Calling a Node",
+      "tldr": "A subgraph precompiles and caches raw chain data, which is what makes an aggregate query return in one request.",
+      "url": "https://moralis.com/web3-wiki/curve-subgraph/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    }
+  ]
 }

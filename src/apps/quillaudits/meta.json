@@ -52,5 +52,34 @@
       "solidity-shield",
       "cube3-ai"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Verify a Safe Transaction Before You Sign It",
+      "tldr": "Your hardware wallet confirms a hash matches; it says nothing about where the funds end up. Sets out what you have to inspect yourself before approving.",
+      "url": "https://www.quillaudits.com/blog/web3-security/how-to-verify-safe-transaction-before-signing",
+      "source": "QuillAudits Blog",
+      "tag": "Tutorial",
+      "publishedAt": "2026-08-05",
+      "image": "https://ambitious-kindness-505c138052.media.strapiapp.com/How_to_Verify_a_Safe_Transaction_Before_You_Sign_It_94afef3749.png"
+    },
+    {
+      "title": "Safe Modules and Guards: The Hidden Multisig Risk",
+      "tldr": "A module can move funds without collecting the signatures the multisig was set up to require. Most treasury operators have never audited theirs for this.",
+      "url": "https://www.quillaudits.com/blog/web3-security/safe-modules-and-guards-multisig-security-risks",
+      "source": "QuillAudits Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-31",
+      "image": "https://ambitious-kindness-505c138052.media.strapiapp.com/Safe_Modules_and_Guards_Explained_The_Most_Overlooked_Attack_Surface_in_Your_Multisig_efe2a40d77.png"
+    },
+    {
+      "title": "Prediction Market Security and Oracle Resolution Attacks",
+      "tldr": "The attack surface is not the trading, it is who decides what happened. As these markets grow, resolution becomes the thing worth attacking.",
+      "url": "https://www.quillaudits.com/blog/prediction-market/prediction-market-security-oracle-resolution-attacks",
+      "source": "QuillAudits Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-31",
+      "image": "https://ambitious-kindness-505c138052.media.strapiapp.com/Prediction_Market_Security_Oracle_Resolution_Attacks_Market_Manipulation_and_What_Polymarket_Style_Protocols_Must_Audit_567789cb33.png"
+    }
+  ]
 }

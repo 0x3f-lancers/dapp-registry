@@ -35,5 +35,25 @@
       "jito-labs",
       "nft-price-floor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building a Block Explorer for On-Chain Markets",
+      "tldr": "Explorers surface transactions, contracts and chain data. What the team found missing while building their own indexing layer.",
+      "url": "https://blog.dex.guru/dexguru-blockexplorer",
+      "source": "DexGuru Blog",
+      "publishedAt": "2023-06-28",
+      "tag": "Infrastructure",
+      "image": "https://blog.dex.guru/assets/img/blog/explorer/ogp_explorer.png"
+    },
+    {
+      "title": "On-Chain Trading Analytics on the Bloomberg Terminal",
+      "tldr": "A DEX charting tool reaching the terminal traditional finance actually uses, through the Bloomberg App Portal.",
+      "url": "https://blog.dex.guru/bloomberg-app-portal",
+      "source": "DexGuru Blog",
+      "publishedAt": "2024-05-01",
+      "tag": "Trading",
+      "image": "https://blog.dex.guru/assets/img/blog/Bllomberg_ogp.png"
+    }
+  ]
 }

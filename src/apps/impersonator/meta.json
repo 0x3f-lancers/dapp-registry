@@ -34,5 +34,29 @@
       "kresus",
       "coinsdo"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Logging Into a Dapp as Someone Else",
+      "tldr": "Connect any address in watch-only mode over WalletConnect, with no private key involved. Ethereum own tool listing.",
+      "url": "https://ethereum.org/developers/tools/impersonatorxyz/",
+      "source": "ethereum.org",
+      "tag": "Security",
+      "image": "https://ethereum.org/images/heroes/developers-hub-hero.png"
+    },
+    {
+      "title": "Why QA Teams Reach for It",
+      "tldr": "Previewing balances, capturing calldata for simulation, and regression-testing wallet flows without holding real funds.",
+      "url": "https://hackers.tools/d/impersonator",
+      "source": "Hackers.tools",
+      "image": "https://hackers.tools/image?size=400&uploadName=parsed%2Fimpersonator.png"
+    },
+    {
+      "title": "The Tool in Summary",
+      "tldr": "ENS input, live address and network switching, and calldata shown in the interface. A short reference.",
+      "url": "https://moralis.com/web3-wiki/impersonator/",
+      "source": "Moralis",
+      "tag": "Identity"
+    }
+  ]
 }

@@ -34,5 +34,23 @@
       "reclaim-protocol",
       "metagame"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Proving There Is a Person Behind an Address",
+      "tldr": "What a proof-of-human credential establishes, and the sybil problem it is trying to answer.",
+      "url": "https://docs.rubyscore.io/products/proof-of-human-id-poh-id",
+      "source": "RubyScore Docs",
+      "tag": "Identity",
+      "image": "https://docs.rubyscore.io/~gitbook/ogimage/wiMzQoTfjzvQ4d460jsA"
+    },
+    {
+      "title": "What On-Chain Reputation Is For",
+      "tldr": "The concrete uses for an activity score, which makes the scoring choices easier to judge.",
+      "url": "https://docs.rubyscore.io/overview/key-use-cases-include",
+      "source": "RubyScore Docs",
+      "tag": "Identity",
+      "image": "https://docs.rubyscore.io/~gitbook/ogimage/uIsbvonFVCSQ20ZrK3dS"
+    }
+  ]
 }

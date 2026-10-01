@@ -33,5 +33,34 @@
     "related": [
       "certora"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Gröbner Bases in Cryptanalysis: The Underlying Algebra",
+      "tldr": "Nearly ten thousand words building the machinery from scratch: polynomial rings, ideals, monomial orderings, Buchberger's algorithm.",
+      "url": "https://hexens.io/blog/groebner-basis-part1",
+      "source": "Hexens Blog",
+      "tag": "Tutorial",
+      "publishedAt": "2026-03-25",
+      "image": "https://hexens.io/api/v1/files/20260324104252-f5f6e184-6af9-494a-a547-b6f92e6921dc.png"
+    },
+    {
+      "title": "The Exploit Is the Disclosure",
+      "tldr": "In Web3 an exploit is public the moment it lands, starting a race to copy rather than patch. Backed by twelve live exploits studied as exactly that race.",
+      "url": "https://hexens.io/blog/the-exploit-is-the-disclosure",
+      "source": "Hexens Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-17",
+      "image": "https://hexens.io/api/v1/files/20260717125727-a4351261-2ed7-4d0f-9716-0fdbd7d57550.jpg"
+    },
+    {
+      "title": "Encrypted Vector Databases Without Sacrificing Search",
+      "tldr": "Embedding attacks, and why an encryption scheme that preserves exact distances gives the game away. Deep, technical, and relevant well beyond crypto.",
+      "url": "https://hexens.io/blog/vector-databases",
+      "source": "Hexens Blog",
+      "tag": "Security",
+      "publishedAt": "2026-03-09",
+      "image": "https://hexens.io/api/v1/files/20260309073155-56b6fea9-243e-4e0f-bda5-e41be353c984.png"
+    }
+  ]
 }

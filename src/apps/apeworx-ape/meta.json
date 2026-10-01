@@ -33,5 +33,27 @@
       "remix",
       "dappkit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Accounts Work in Ape",
+      "tldr": "Accounts come from plugins, and there are broadly two kinds. Which you use changes how signing happens.",
+      "url": "https://docs.apeworx.io/ape/stable/userguides/accounts.html",
+      "source": "Ape Docs"
+    },
+    {
+      "title": "Compiling a Project",
+      "tldr": "The compile command and how to tell Ape where your contracts actually live.",
+      "url": "https://docs.apeworx.io/ape/stable/userguides/compile.html",
+      "source": "Ape Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Building Your Own CLI Commands",
+      "tldr": "Ape is built on click, so extending the command line is a first-class thing rather than a workaround.",
+      "url": "https://docs.apeworx.io/ape/stable/userguides/clis.html",
+      "source": "Ape Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "ccxt",
+  "name": "CCXT",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760796/dapp-store-logos/ccxt.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 Libraries"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "CCXT is an open-source trading library giving one unified API across 100+ exchanges, including Hyperliquid.",
+    "description": "CCXT is a trading library that puts more than a hundred exchanges and prediction markets behind one unified API, available in JavaScript, Python, PHP, C#, Go, Java and Rust. The unified surface covers markets, tickers, order books, orders and balances, so switching venue means changing one identifier. Hyperliquid is supported alongside Binance, Bybit, OKX and others, and the same interface reaches Polymarket, Kalshi, Limitless and Myriad. Per-exchange references document the endpoints that fall outside the unified set.",
+    "meta": "CCXT is an open-source trading library offering one unified API across 100+ exchanges and Hyperliquid.",
+    "pageTitle": "CCXT - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://docs.ccxt.com/",
+    "github": "https://github.com/ccxt",
+    "twitter": "https://x.com/ccxt_official"
+  },
+  "relations": {
+    "alternatives": [
+      "web3-js",
+      "ethers-js",
+      "web3-py"
+    ],
+    "related": [
+      "blockscout",
+      "etherscan",
+      "flowscan"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Build Your First Crypto Trading Bot",
+      "tldr": "A practical introduction to fetching exchange data, placing orders and handling the common setup steps through CCXT's unified API.",
+      "url": "https://ccxt.com/blog/build-your-first-crypto-trading-bot",
+      "source": "CCXT",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "CCXT Compared With Exchange SDKs",
+      "tldr": "Compares CCXT with multi-exchange tools and official exchange SDKs so developers can weigh coverage and tradeoffs.",
+      "url": "https://ccxt.com/blog/ccxt-vs-alternatives",
+      "source": "CCXT",
+      "tag": "Research"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "meow",
+  "name": "Meow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760965/dapp-store-logos/meow.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Business banking for startups and AI agents, with cards, global payments, crypto and yield.",
+    "description": "Meow gives companies checking accounts through partner banks, Visa cards that earn 2.5% back on AI spending, global payments and crypto, including sending and receiving stablecoins. Idle cash can go into a commercial paper account run by its SEC-registered adviser. It also lets founders open an account through an AI agent such as Claude or ChatGPT, which handles the onboarding by command line and chat.",
+    "meta": "Meow offers startup banking with stablecoin payments, AI-spend cashback cards and yield, and onboarding through AI agents.",
+    "pageTitle": "Meow - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.meow.com",
+    "twitter": "https://x.com/meow"
+  },
+  "relations": {
+    "alternatives": [
+      "default",
+      "oobit",
+      "suby"
+    ],
+    "related": [
+      "kulipa",
+      "walapay",
+      "sphere"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Meow Case Study",
+      "tldr": "Bridge's account of how Meow lets business customers send and receive USDC straight from their banking balance.",
+      "url": "https://www.bridge.xyz/blog/meow-case-study",
+      "source": "Bridge",
+      "tag": "Payments",
+      "publishedAt": "2025-07-08"
+    },
+    {
+      "title": "Meow Review",
+      "tldr": "Independent review of Meow's banking partners, T-bill access, card and stablecoin features, and who it suits best.",
+      "url": "https://banksforcrypto.com/reviews/meow/",
+      "source": "Banks for Crypto",
+      "tag": "Finance",
+      "publishedAt": "2026-05-28"
+    }
+  ]
+}

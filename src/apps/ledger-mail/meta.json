@@ -31,5 +31,22 @@
       "curia-governance-dashboard",
       "guild"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Email Where the Server Holds No Keys",
+      "tldr": "Each message is a validated transaction and decryption keys stay with the user, so the provider cannot read the mailbox.",
+      "url": "https://ledgerfi.io/secure-and-decentralized-email-ecosystem/",
+      "source": "LedgerFi",
+      "image": "https://ledgerfi.io/wp-content/uploads/2023/05/Get-the-Most-Out-of-Your-Emails-with-LedgerMail.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How the System Was Built",
+      "tldr": "Running on XDC with delegated proof of stake, plus sign-in through ENS and Unstoppable Domains rather than an address.",
+      "url": "https://ledgermail.io/blogs/ledgerMail-announced-a-unique-blockchain-powered-decentralized-email-service-platform.html",
+      "source": "LedgerMail",
+      "tag": "Identity"
+    }
+  ]
 }

@@ -31,5 +31,25 @@
       "arbitrum-orbit",
       "cero-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Interacting with Ronin Mainnet Over RPC",
+      "tldr": "RPC underpins everything from reading chain state to submitting transactions. A practical setup guide for builders on Ronin.",
+      "url": "https://www.conduit.xyz/blog/how-to-interact-with-ronin-mainnet-using-conduit-rpc/",
+      "source": "Conduit Blog",
+      "publishedAt": "2026-05-13",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/d0/84/d08459e5-043a-4b2e-a98d-eb10ab22de61/content/images/size/w1200/2026/05/ronin-guide-cover.png"
+    },
+    {
+      "title": "When Fragmented Infrastructure Stops Working",
+      "tldr": "Assembling a chain from loosely coordinated vendors was fine while chains were experimental. It breaks against compliance and uptime obligations.",
+      "url": "https://www.conduit.xyz/blog/introducing-conduit-enterprise-solutions/",
+      "source": "Conduit Blog",
+      "publishedAt": "2026-06-16",
+      "tag": "Regulation",
+      "image": "https://storage.ghost.io/c/d0/84/d08459e5-043a-4b2e-a98d-eb10ab22de61/content/images/size/w1200/2026/06/conduit-enterprise--blog--3--1.png"
+    }
+  ]
 }

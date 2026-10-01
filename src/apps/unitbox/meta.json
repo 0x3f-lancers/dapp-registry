@@ -29,5 +29,23 @@
     "related": [
       "nftrade"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Renting an NFT Without Collateral",
+      "tldr": "The asset is wrapped for the duration of the rental and unwrapped when either side ends it, so ownership never actually moves.",
+      "url": "https://medium.com/@Rent2Earn/how-unitbox-protocol-works-9ca32ed73495",
+      "source": "UNITBOX",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*h64i_8LpGyCUvOPob0JQPQ.png",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "The Protocol, Documented",
+      "tldr": "wNFTs, the revenue-share model and where the guild and game integrations plug in.",
+      "url": "https://unitboxio.gitbook.io/unitbox-protocol",
+      "source": "UNITBOX Docs",
+      "image": "https://unitboxio.gitbook.io/unitbox-protocol/~gitbook/ogimage/JHP1kyOn0oJoDTNAnfzP",
+      "tag": "AI & Agents"
+    }
+  ]
 }

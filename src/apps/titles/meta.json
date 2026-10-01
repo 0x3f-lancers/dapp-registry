@@ -1,0 +1,56 @@
+{
+  "slug": "titles",
+  "name": "TITLES",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761096/dapp-store-logos/titles.jpg",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT Minting Tools"
+  ],
+  "chains": [
+    "Base",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Creative studio for making images with AI models trained by artists, who get paid for their use.",
+    "description": "TITLES lets people generate and edit images with models built and owned by real artists rather than trained on scraped work. Each time someone creates with an artist's model or builds on another creation, the original artists are credited and paid, and more than $25,000 has gone to artists so far. It also works as an MCP server inside Claude, ChatGPT and Cursor, and a version of the studio is built into World App.",
+    "meta": "Create images with artist-trained AI models on TITLES, where artists get paid each time their work is used.",
+    "pageTitle": "TITLES - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://titles.xyz",
+    "twitter": "https://x.com/titlesxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "imintify",
+      "solpad",
+      "envelop"
+    ],
+    "related": [
+      "morkie",
+      "autominter",
+      "launchpad"
+    ]
+  },
+  "resources": [
+    {
+      "title": "A New Creative Suite for Artist-Owned AI Models",
+      "tldr": "Bankless on TITLES Studio, where artists train models on their own work and earn USDC on every downstream generation.",
+      "url": "https://www.bankless.com/read/a-new-creative-suite-for-artist-owned-ai-models",
+      "source": "Bankless",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-04-16"
+    },
+    {
+      "title": "Model as Medium: Five Artists, Five Models",
+      "tldr": "Five artists trained models on their own work with TITLES and Rhizome, testing what it means to use a model as a medium.",
+      "url": "https://titles.substack.com/p/model-as-medium-five-artists-five",
+      "source": "TITLES",
+      "tag": "Culture",
+      "publishedAt": "2026-04-23"
+    }
+  ]
+}

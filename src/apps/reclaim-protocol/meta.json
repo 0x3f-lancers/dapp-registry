@@ -40,5 +40,33 @@
     "related": [
       "sismo"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Is Reclaim Secure?",
+      "tldr": "A direct security FAQ: the stack audited by Zellic, the ZK circuits by ZKSecurity, plus what SOC2 and CERT-In certification would add.",
+      "url": "https://blog.reclaimprotocol.org/posts/security-faq",
+      "source": "Reclaim Protocol Blog",
+      "publishedAt": "2025-09-20",
+      "tag": "Infrastructure",
+      "image": "https://blog.reclaimprotocol.org/blog/posts/security-faq/defense.png"
+    },
+    {
+      "title": "Why We Built Popcorn, an Attestable Browser Cloud",
+      "tldr": "Proving facts from sites you already use needs somewhere trustworthy to run the session. A TEE-backed browser that users drive live.",
+      "url": "https://blog.reclaimprotocol.org/posts/why-we-built-popcorn",
+      "source": "Reclaim Protocol Blog",
+      "publishedAt": "2026-08-05",
+      "image": "https://blog.reclaimprotocol.org/blog/posts/popcorn/title-concepts/v2-retro-crt-final.png",
+      "tag": "Identity"
+    },
+    {
+      "title": "Getting Creator Data Without APIs or Scraping",
+      "tldr": "How a 50,000-creator marketplace verifies audience figures across X, Instagram, TikTok and YouTube without platform API access.",
+      "url": "https://blog.reclaimprotocol.org/posts/scribble-network",
+      "source": "Reclaim Protocol Blog",
+      "publishedAt": "2026-02-06",
+      "tag": "Research"
+    }
+  ]
 }

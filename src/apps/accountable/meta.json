@@ -1,0 +1,53 @@
+{
+  "slug": "accountable",
+  "name": "Accountable",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760716/dapp-store-logos/accountable.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Accountable issues cryptographic proofs of solvency, holdings and yield for tokenized assets.",
+    "description": "Accountable verifies assets and liabilities in real time so an issuer or borrower can prove solvency without disclosing individual positions. Its Data Verification Network is the trust layer underneath the rest of the product line. Accountable NAV publishes a continuously verified net asset value for on-chain protocols, vault managers and tokenized products, while Accountable Ledger records the underlying attestations. The company also packages the stack as Vault-as-a-Service for issuers that would rather not build verified reporting themselves.",
+    "meta": "Real-time solvency and holdings verification for tokenized assets, proved cryptographically rather than asserted.",
+    "pageTitle": "Accountable - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://accountable.capital/",
+    "twitter": "https://x.com/accountable"
+  },
+  "relations": {
+    "alternatives": [
+      "blockaid",
+      "chainalysis",
+      "elliptic"
+    ],
+    "related": [
+      "cyberscope",
+      "phalcon",
+      "trm-labs"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Accountable Contains Protocol Risk",
+      "tldr": "Explains the separate contract, verification and manager layers behind Accountable vaults and their risk controls.",
+      "url": "https://accountabledata.substack.com/p/how-accountable-approaches-protocol",
+      "source": "Accountable",
+      "tag": "Security"
+    },
+    {
+      "title": "How Real Time Verification Helped Hyperithm",
+      "tldr": "Shows how Accountable's live vault verification made Hyperithm's strategy more transparent to depositors.",
+      "url": "https://accountabledata.substack.com/p/how-real-time-verification-helped",
+      "source": "Accountable",
+      "tag": "Research"
+    }
+  ]
+}

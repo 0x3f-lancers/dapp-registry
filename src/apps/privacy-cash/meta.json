@@ -1,0 +1,51 @@
+{
+  "slug": "privacy-cash",
+  "name": "Privacy Cash",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761033/dapp-store-logos/privacy-cash.jpg",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Privacy Cash enables private transfers of SOL, ETH and USDC.",
+    "description": "Privacy Cash lets users transfer assets without linking sender and recipient on-chain, covering SOL, ETH and USDC. It is deployed on Solana, Base, Ethereum, Binance Chain and Robinhood Chain. Transaction privacy carries real regulatory weight after previous enforcement actions in this category. It remains an unsettled area and not a solved one.",
+    "meta": "Privacy Cash lets users send SOL, ETH and USDC without linking sender and recipient onchain, on Solana, Base, Ethereum and Robinhood Chain.",
+    "pageTitle": "Privacy Cash - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://privacycash.org/",
+    "twitter": "https://x.com/theprivacycash"
+  },
+  "relations": {
+    "alternatives": [
+      "trm-labs"
+    ],
+    "related": [
+      "blockaid",
+      "chainalysis",
+      "elliptic"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Privacy Cash Works",
+      "tldr": "Explains private transfers, swaps, and bridging with zero knowledge proofs and relayers across supported chains.",
+      "url": "https://privacycash.mintlify.app/",
+      "source": "Privacy Cash",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Privacy Tips for Privacy Pools",
+      "tldr": "Suggests ways to reduce linkability, including varying timing and amounts and choosing larger anonymity sets.",
+      "url": "https://privacycash.mintlify.app/documentation/user-docs/privacy-tips",
+      "source": "Privacy Cash",
+      "tag": "Security"
+    }
+  ]
+}

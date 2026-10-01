@@ -1,0 +1,56 @@
+{
+  "slug": "steer-protocol",
+  "name": "Steer Protocol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761073/dapp-store-logos/steer-protocol.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Robinhood Chain",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Steer Protocol runs automated liquidity vaults and policy tools across 40+ chains.",
+    "description": "Steer Protocol provides automated vaults and liquidity engines used by more than a thousand tokens across 40-plus chains. Projects use it so their own token's liquidity is managed systematically and not left to whoever happens to be providing it that week. Its modules cover agentic liquidity that rebalances positions, smart wallets that manage assets autonomously, and AI policy tools for setting the rules those systems follow. Deployments include Hyperliquid and Robinhood Chain.",
+    "meta": "Steer Protocol provides automated liquidity vaults and engines used by 1,000+ tokens across 40+ chains, including Hyperliquid and Robinhood Chain.",
+    "pageTitle": "Steer Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://steer.finance/",
+    "github": "https://github.com/SteerProtocol",
+    "twitter": "https://x.com/steerprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "ample-money",
+      "beefy",
+      "d2-finance"
+    ],
+    "related": [
+      "ipor",
+      "lagoon",
+      "altura-trade"
+    ]
+  },
+  "resources": [
+    {
+      "title": "A Connected DeFi Ecosystem",
+      "tldr": "Explains how Steer's vaults, liquidity tools and market infrastructure connect into a wider onchain trading system.",
+      "url": "https://www.steer.finance/blog/a-connected-defi-ecosystem",
+      "source": "Steer Protocol",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Introducing Steer Atlas",
+      "tldr": "Describes the infrastructure Steer uses to put markets onchain, beyond a single liquidity pool or token launch.",
+      "url": "https://www.steer.finance/blog/introducing-atlas",
+      "source": "Steer Protocol",
+      "tag": "Infrastructure"
+    }
+  ]
+}

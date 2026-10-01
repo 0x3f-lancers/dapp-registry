@@ -1,0 +1,54 @@
+{
+  "slug": "gas-zip",
+  "name": "Gas.zip",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760877/dapp-store-logos/gas-zip.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Gas Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Hyperliquid",
+    "Stable",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Gas.zip is a gas refuel bridge that delivers native gas tokens across 350+ chains.",
+    "description": "Gas.zip is a refuel bridge that delivers native gas to more than 350 chains in a single transaction, including Monad and Hyperliquid. A user sends once and receives gas on each selected destination, which removes the usual problem of arriving on a new chain with no way to pay fees. The service runs its own explorer and offers a LayerZero-based bridge route and testnet faucets alongside the main product.",
+    "meta": "Gas.zip is a gas refuel bridge delivering native gas tokens across 350+ chains in one transaction.",
+    "pageTitle": "Gas.zip - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.gas.zip/",
+    "twitter": "https://x.com/gasdotzip"
+  },
+  "relations": {
+    "alternatives": [
+      "gelato"
+    ],
+    "related": [
+      "allium",
+      "biconomy",
+      "bubblemaps"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Gas.zip Quote API",
+      "tldr": "Explains how to estimate output and gas costs when refueling one or more destination chains.",
+      "url": "https://dev.gas.zip/gas/api/quote",
+      "source": "Gas.zip",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Building Gas.zip Deposit Transactions",
+      "tldr": "Guides developers through generating ready-to-use calldata for a direct deposit transaction.",
+      "url": "https://dev.gas.zip/gas/api/call-data",
+      "source": "Gas.zip",
+      "tag": "Tutorial"
+    }
+  ]
+}

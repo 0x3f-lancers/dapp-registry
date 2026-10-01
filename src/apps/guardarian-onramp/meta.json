@@ -1,0 +1,53 @@
+{
+  "slug": "guardarian-onramp",
+  "name": "Rampnow",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760888/dapp-store-logos/guardarian-onramp.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Rampnow is a non-custodial technology layer connecting apps and wallets to onramps across 60+ chains.",
+    "description": "Rampnow connects apps, wallets and end users to fiat on-ramps and off-ramps across more than sixty blockchains through one API. Buyers pay by card, bank transfer or a local payment method, and sellers receive fiat directly to a bank account or card. The service is non-custodial, with payment processing, KYC and screening handled inside the flow. A partner dashboard handles settlement, cross-chain swaps and bridging for production integrations.",
+    "meta": "Rampnow is a non-custodial layer connecting apps and wallets to onramps across 60+ blockchains.",
+    "pageTitle": "Rampnow - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rampnow.io/",
+    "twitter": "https://x.com/OfficialRampnow"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Platform overview",
+      "tldr": "Introduces Rampnow’s building blocks for fiat and blockchain money movement.",
+      "url": "https://docs.rampnow.io/quickstart/learn/overview.md",
+      "source": "Rampnow",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Onramp Overview",
+      "tldr": "Explains the onramp flow for converting fiat into digital assets across supported chains.",
+      "url": "https://docs.rampnow.io/quickstart/onramp/onramp.md",
+      "source": "Rampnow",
+      "tag": "Explainer"
+    }
+  ]
+}

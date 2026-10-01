@@ -30,5 +30,19 @@
       "cronos",
       "rockx"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How A Protocol Audit Runs",
+      "tldr": "What reviewing consensus and layer-two code involves, from the team that builds an Ethereum client.",
+      "url": "https://blog.sigmaprime.io/services/blockchain-protocol-audit",
+      "source": "Sigma Prime"
+    },
+    {
+      "title": "Reviewing Infrastructure",
+      "tldr": "The operational side of security: nodes, keys and deployment, which contract audits never cover.",
+      "url": "https://blog.sigmaprime.io/services/infrastructure-review",
+      "source": "Sigma Prime"
+    }
+  ]
 }

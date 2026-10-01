@@ -28,5 +28,21 @@
     "related": [
       "publicnode"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why a Bundler in Python",
+      "tldr": "The reasoning behind the language choice, and what passing the ERC-4337 compatibility suites actually requires of an implementation.",
+      "url": "https://docs.candide.dev/blog/erc4337-bundler/",
+      "source": "Candide",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Running One Yourself",
+      "tldr": "Standing up an instance locally or on a private server, with the RPC and funding requirements stated before you start.",
+      "url": "https://docs.candide.dev/wallet/bundler/installation/",
+      "source": "Candide Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

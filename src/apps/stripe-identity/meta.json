@@ -29,5 +29,25 @@
       "metopia",
       "miniorange-web3-authentication-plugin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Verification And Payments Guides",
+      "tldr": "The reference library behind the product: identity checks, fraud signals and what a business is required to collect and keep.",
+      "url": "https://stripe.com/in/guides",
+      "source": "Stripe"
+    },
+    {
+      "title": "Machine Learning Against Fraud",
+      "tldr": "How risk models are trained and scored on real payment traffic, and why a rule you write by hand ages badly.",
+      "url": "https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection",
+      "source": "Stripe"
+    },
+    {
+      "title": "What PCI DSS Actually Requires",
+      "tldr": "The compliance levels, what each one obliges you to do, and which requirements disappear if you never touch card data.",
+      "url": "https://stripe.com/in/guides/pci-compliance",
+      "source": "Stripe"
+    }
+  ]
 }

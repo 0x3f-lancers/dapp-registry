@@ -30,5 +30,25 @@
     "related": [
       "syndr"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Index Is Calculated",
+      "tldr": "The option-derived volatility calculation in full, which is what separates this from a price feed.",
+      "url": "https://docs.cvi.finance/cvi-index/index-calculation",
+      "source": "CVI"
+    },
+    {
+      "title": "Reading A Volatility Index",
+      "tldr": "What a high or low reading actually means for positioning, and the mistakes people make trading it.",
+      "url": "https://docs.cvi.finance/cvi-index/understanding-the-index",
+      "source": "CVI"
+    },
+    {
+      "title": "What Changed In V4",
+      "tldr": "The current version's design and why the previous mechanism was replaced.",
+      "url": "https://docs.cvi.finance/cvi-ecosystem/cvi-v4",
+      "source": "CVI"
+    }
+  ]
 }

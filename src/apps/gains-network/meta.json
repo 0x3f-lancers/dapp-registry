@@ -32,5 +32,23 @@
       "swissborg",
       "nansen"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why the Trading Is Synthetic",
+      "tldr": "You never hold the underlying. A single vault is the counterparty to every position across all pairs, which is the whole design.",
+      "url": "https://docs.gains.trade/gtrade-leveraged-trading/trade-collaterals",
+      "source": "Gains Network Docs",
+      "tag": "Trading",
+      "image": "https://gains.mintlify.app/images/og-image.png"
+    },
+    {
+      "title": "Gains Network, Assessed",
+      "tldr": "An encyclopedia entry covering the synthetic derivatives model, the vault economics and where the risk actually sits.",
+      "url": "https://iq.wiki/wiki/gains-network",
+      "source": "IQ.wiki",
+      "tag": "Infrastructure",
+      "image": "https://iq.wiki/cdn-cgi/image/width=1200,height=630,fit=cover,gravity=auto,quality=95/https://ipfs.everipedia.org/ipfs/QmdBXPskoPXrdpG4VibRiWJU26Dd95SD1BYd1jEbuNLbMT"
+    }
+  ]
 }

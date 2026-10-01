@@ -3,8 +3,12 @@
   "name": "Saber",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749708/web3-explorer/dapp-logos/saber.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "",
   "content": {
     "short": "Saber is a high-liquidity AMM on Solana enabling trading between pegged assets.",
@@ -17,7 +21,32 @@
     "twitter": "https://x.com/The_Saber_DAO"
   },
   "relations": {
-    "alternatives": ["cowswap", "firebird-finance", "mass"],
-    "related": ["cope", "binance"]
-  }
+    "alternatives": [
+      "cowswap",
+      "firebird-finance",
+      "mass"
+    ],
+    "related": [
+      "cope",
+      "binance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Stableswap on Solana",
+      "tldr": "Concentrating liquidity around a 1:1 peg cuts slippage on assets meant to trade together. The design and the SBR incentives around it.",
+      "url": "https://www.gemini.com/cryptopedia/saber-crypto-exchange-sbr-token-solana-dex-cross-chain",
+      "source": "Gemini Cryptopedia",
+      "tag": "Trading",
+      "image": "https://images.ctfassets.net/0idwgenf7ije/33Vf023NAdIvnES4XvP1ZR/adf859b64d5adb54ed41b16d87aa5904/How_Solana-Based_Saber_Builds_From_the_Bottom_Up__DeFi_.png?fm=webp"
+    },
+    {
+      "title": "Multi-Token Pools and 2Pools",
+      "tldr": "An engineer on why sharing liquidity between pools without sharing risk is harder than it sounds, and how routing solves it.",
+      "url": "https://medium.com/@viza_saber/solana-amm-design-multi-token-pools-and-2pools-2a0b70efd3b3",
+      "source": "Viza",
+      "tag": "Trading",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*I2weGAeRudcOQpdBnVqukg.png"
+    }
+  ]
 }

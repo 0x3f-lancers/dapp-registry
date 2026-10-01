@@ -38,5 +38,22 @@
       "tokentag",
       "mojito"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Time as the Thing Being Mined",
+      "tldr": "Activate an address, and tokens accrue in proportion to elapsed time rather than to hashpower or stake. No fixed supply.",
+      "url": "https://docs.timetoken.finance/",
+      "source": "TIME Token Docs",
+      "image": "https://docs.timetoken.finance/~gitbook/ogimage/HRsteqEw9CwEKfQcrFMX",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How Production Actually Starts",
+      "tldr": "A one-off variable fee enables an address to produce, after which the count grows with the gap since activation.",
+      "url": "https://docs.timetoken.finance/time-token-+-tabs/production-time-tokenization",
+      "source": "TIME Token Docs",
+      "image": "https://docs.timetoken.finance/~gitbook/ogimage/SxJjzjIMUpclPVnrlM3C"
+    }
+  ]
 }

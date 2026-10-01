@@ -30,5 +30,24 @@
     "related": [
       "genius-yield"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Optimising a Plutus Script",
+      "tldr": "Cardano fees and throughput both depend on script size and execution units. A technical account of getting both down.",
+      "url": "https://medium.com/minswap/tech-drips-1-optimizing-plutus-script-to-reduce-fees-and-increase-throughput-db6cce65c959",
+      "source": "Minswap Blog",
+      "publishedAt": "2021-11-29",
+      "tag": "Trading",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*wizjguFAHCeyu2oR"
+    },
+    {
+      "title": "Several Approaches to a Pool",
+      "tldr": "Why the largest DEX on Cardano runs more than one pool design, and what each one does to slippage and impermanent loss.",
+      "url": "https://adapulse.io/minswap-the-dex-building-multiple-approaches-to-liquidity-pools-part-1/",
+      "source": "AdaPulse",
+      "tag": "Trading",
+      "image": "https://adapulse.io/wp-content/uploads/2021/10/minswap.png"
+    }
+  ]
 }

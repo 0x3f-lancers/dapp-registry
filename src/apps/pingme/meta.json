@@ -1,0 +1,54 @@
+{
+  "slug": "pingme",
+  "name": "PingMe",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761024/dapp-store-logos/pingme.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "PingMe is a stablecoin payments app on Monad sending crypto by email, QR or message.",
+    "description": "PingMe lets someone send stablecoins to a phone number or email address in place of a hex address, including to recipients who have never used crypto. The receiving side claims the funds into a wallet created for them, so the sender does not need the recipient onboarded first. The product runs on Monad.",
+    "meta": "PingMe is a stablecoin payments app on Monad that sends funds to a phone number or email, even to people who have never used crypto.",
+    "pageTitle": "PingMe - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.pingme.xyz",
+    "twitter": "https://x.com/PingMe_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "bidali",
+      "brale"
+    ],
+    "related": [
+      "bridge-xyz",
+      "capa-fi",
+      "chainrails"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Key Concepts",
+      "tldr": "Explains how PingMe uses hashed commitments to identify lockboxes without exposing their underlying secrets.",
+      "url": "https://pingmexyz.gitbook.io/docs/technical-resources/key-concepts.md",
+      "source": "PingMe",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Security Principles",
+      "tldr": "Explains why PingMe hashes secrets before passing data to public onchain functions.",
+      "url": "https://pingmexyz.gitbook.io/docs/technical-resources/security-principles.md",
+      "source": "PingMe",
+      "tag": "Security"
+    }
+  ]
+}

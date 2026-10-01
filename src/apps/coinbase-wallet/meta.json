@@ -37,5 +37,28 @@
       "rivo-xyz",
       "dcent"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Coinbase and Coinbase Wallet Are Not the Same",
+      "tldr": "One holds your funds, the other hands you the keys. The distinction decides who is responsible when something goes wrong.",
+      "url": "https://www.coinbase.com/learn/crypto-basics/what-is-the-difference-between-coinbase-and-coinbase-wallet",
+      "source": "Coinbase Learn"
+    },
+    {
+      "title": "Keeping a Self-Custody Wallet Secure",
+      "tldr": "Recovery phrase handling, locking the app and revoking dapp permissions you no longer use. The habits that actually matter.",
+      "url": "https://www.coinbase.com/learn/wallet/tips-to-keep-wallet-secure",
+      "source": "Coinbase Learn",
+      "tag": "Security"
+    },
+    {
+      "title": "An Outside View of Coinbase Wallet",
+      "tldr": "A marketplace's guide to the wallet, covering the dapp browser and connection permissions from the user's side.",
+      "url": "https://opensea.io/learn/web3/coinbase-wallet-what-to-know",
+      "source": "OpenSea Learn",
+      "tag": "Tutorial",
+      "image": "https://cdn.prod.website-files.com/65217fd9e31608b8b68141ba/653fe25376509c657258a56b_6536e7fa5a976b05edbae4f6_645d483ffc42eadb1e905433_coinbase%252520(1).jpeg"
+    }
+  ]
 }

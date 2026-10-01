@@ -31,5 +31,19 @@
       "skale",
       "polygon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Writing CosmWasm Contracts",
+      "tldr": "A long tutorial that builds and deploys a contract, covering the toolchain end to end.",
+      "url": "https://academy.xpla.io/startlearning/tutorial/deep-understand-xpla/write-contract",
+      "source": "XPLA Academy"
+    },
+    {
+      "title": "Designing A Swap System",
+      "tldr": "Building an exchange contract from first principles, which is the clearest way to learn the module model.",
+      "url": "https://academy.xpla.io/startlearning/tutorial/deep-understand-xpla/swap",
+      "source": "XPLA Academy"
+    }
+  ]
 }

@@ -30,5 +30,34 @@
       "cubanespace",
       "kadena"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Interoperability Decides the Future of Tokenised Deposits",
+      "tldr": "Such a deposit means nothing unless a second institution will accept and settle it. The technical obstacles to that, plus the legal ones underneath.",
+      "url": "https://cosmos.network/blog/interoperability-will-decide-the-future-of-tokenized-deposits",
+      "source": "Cosmos Blog",
+      "publishedAt": "2026-08-14",
+      "tag": "Tokenization",
+      "image": "https://cosmos.network/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F9xlod89z%2Fproduction%2F36584fe828e70669828348ff45aa472a182369ee-1200x675.png%3Frect%3D0%2C38%2C1200%2C600%26w%3D4096%26h%3D2048%26fit%3Dmin&w=3840&q=75"
+    },
+    {
+      "title": "The Missing Layer in Banks' Digital Asset Stack",
+      "tldr": "A three-layer architecture that breaks without interoperability, and the infrastructure decision banks are facing right now because of it.",
+      "url": "https://cosmos.network/blog/interoperability-the-missing-layer-in-banks-digital-assets",
+      "source": "Cosmos Blog",
+      "publishedAt": "2026-07-22",
+      "tag": "Infrastructure",
+      "image": "https://cosmos.network/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F9xlod89z%2Fproduction%2F1f4a652be003bd99430d90a2e10a5e5256140cd9-1200x675.png%3Frect%3D0%2C38%2C1200%2C600%26w%3D4096%26h%3D2048%26fit%3Dmin&w=3840&q=75"
+    },
+    {
+      "title": "Cosmos and Hyperledger Besu Compared",
+      "tldr": "Two very different answers on modularity and consensus, set side by side on performance and on how each handles cross-chain communication.",
+      "url": "https://cosmos.network/blog/cosmos-vs-hyperledger-besu",
+      "source": "Cosmos Blog",
+      "publishedAt": "2026-05-22",
+      "tag": "Infrastructure",
+      "image": "https://cosmos.network/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F9xlod89z%2Fproduction%2F0a35246029631074352534e7026e7645d6f490ef-1200x675.png%3Frect%3D0%2C38%2C1200%2C600%26w%3D4096%26h%3D2048%26fit%3Dmin&w=3840&q=75"
+    }
+  ]
 }

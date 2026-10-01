@@ -30,5 +30,28 @@
       "flipside",
       "hyperlane-xyz"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Indexing Chain Data From Scratch",
+      "tldr": "A full tutorial that gets a project indexing as quickly as possible, then explains what it built.",
+      "url": "https://www.apibara.com/docs/getting-started/installation",
+      "source": "Apibara Docs",
+      "tag": "Research"
+    },
+    {
+      "title": "How an Indexer Is Defined",
+      "tldr": "The defineIndexer function takes a stream definition and a handler. That pairing is the whole model.",
+      "url": "https://www.apibara.com/docs/getting-started/indexers",
+      "source": "Apibara Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Extending an Indexer With Hooks",
+      "tldr": "Hooks fire at specific points in the indexing lifecycle. What each one is for, and when to reach for a plugin.",
+      "url": "https://www.apibara.com/docs/getting-started/plugins",
+      "source": "Apibara Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

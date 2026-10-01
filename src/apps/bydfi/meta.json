@@ -34,5 +34,22 @@
       "clipper-dex",
       "bitcoincom"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Copy Trading Actually Works",
+      "tldr": "Allocate a fixed amount per trader, and their positions mirror into your account. The caps and the risks, set out at length.",
+      "url": "https://coincodecap.com/bydfi-copy-trading",
+      "source": "CoinCodeCap",
+      "image": "https://coincodecap.com/wp-content/uploads/2021/01/Bityard-Copy-Trading.png",
+      "tag": "Trading"
+    },
+    {
+      "title": "The Questions Followers Ask",
+      "tldr": "What happens when a lead trader closes early, how allocation is ring-fenced, and what it takes to become one yourself.",
+      "url": "https://support.bydfi.com/hc/en-us/articles/10640282903567-Copy-Trade-FAQ",
+      "source": "BYDFi Support",
+      "tag": "Trading"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "slug": "royco",
+  "name": "Royco",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761053/dapp-store-logos/royco.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Royco splits yield sources into senior and junior tranches with differing risk and return.",
+    "description": "Royco splits any yield source into senior, junior and senior LP tranches, so participants choose where they sit in the loss waterfall. Its interface compares trailing rates, remaining capacity and downside protection across curator-operated vaults. Tranching is standard practice in structured credit and translates cleanly on-chain, where the waterfall can be enforced by contract instead of by documentation. Its risk framework, governance and fee schedule sit alongside the vault products.",
+    "meta": "Senior, junior and LP tranches, so participants choose where they sit in the loss waterfall.",
+    "pageTitle": "Royco - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://royco.org/",
+    "twitter": "https://x.com/roycoprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "d2-finance",
+      "equilibria",
+      "harmonix-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Formal Verification Actually Means",
+      "tldr": "A discussion with Royco engineers and Certora about what formal verification can prove for smart contracts.",
+      "url": "https://blog.royco.org/royco-talks-1-what-formal-verification-actually-means",
+      "source": "Royco",
+      "tag": "Security"
+    },
+    {
+      "title": "Unlocking TVL With Senior Tranches",
+      "tldr": "Explains how senior claims can improve collateral quality and change the loan-to-value available to yield-bearing assets.",
+      "url": "https://blog.royco.org/unlocking-tvl-with-senior-tranches",
+      "source": "Royco",
+      "tag": "DeFi"
+    }
+  ]
+}

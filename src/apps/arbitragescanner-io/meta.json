@@ -1,41 +1,61 @@
 {
-    "slug":  "arbitragescanner-io",
-    "name":  "ArbitrageScanner.io",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770744943/web3-explorer/dapp-logos/arbitragescanner-io.jpg",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Analytics Tools"
-                    ],
-    "chains":  [
-                   "Arbitrum",
-                   "Ethereum",
-                   "OP Mainnet",
-                   "Solana",
-                   "BNB Chain",
-                   "Base",
-                   "TON"
-               ],
-    "pricing":  "Paid",
-    "content":  {
-                    "short":  "ArbitrageScanner.io gives traders scanning and research tools to track arbitrage setups across exchanges and pairs.",
-                    "description":  "ArbitrageScanner.io is a trading research platform built to help crypto traders find and study price differences across exchanges and market types. Its official materials highlight scanners for spot and futures markets, spread tracking, wallet monitoring, and educational resources aimed at active traders. In the TON ecosystem, the product is most useful as an external analytics layer for watching Toncoin activity across venues, comparing execution conditions, and surfacing possible arbitrage setups before a trader places orders elsewhere.",
-                    "meta":  "ArbitrageScanner.io offers market scanners and research tools for traders who want to monitor arbitrage setups, including TON related market activity.",
-                    "pageTitle":  "ArbitrageScanner.io - DeFi Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://arbitragescanner.io/",
-                  "twitter":  "https://x.com/ArbitrageScan"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "layerswap",
-                                           "rubic",
-                                           "symbiosis"
-                                       ],
-                      "related":  [
-                                      "layerswap",
-                                      "rubic",
-                                      "symbiosis"
-                                  ]
-                  }
+  "slug": "arbitragescanner-io",
+  "name": "ArbitrageScanner.io",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770744943/web3-explorer/dapp-logos/arbitragescanner-io.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Ethereum",
+    "OP Mainnet",
+    "Solana",
+    "BNB Chain",
+    "Base",
+    "TON"
+  ],
+  "pricing": "Paid",
+  "content": {
+    "short": "ArbitrageScanner.io gives traders scanning and research tools to track arbitrage setups across exchanges and pairs.",
+    "description": "ArbitrageScanner.io is a trading research platform built to help crypto traders find and study price differences across exchanges and market types. Its official materials highlight scanners for spot and futures markets, spread tracking, wallet monitoring, and educational resources aimed at active traders. In the TON ecosystem, the product is most useful as an external analytics layer for watching Toncoin activity across venues, comparing execution conditions, and surfacing possible arbitrage setups before a trader places orders elsewhere.",
+    "meta": "ArbitrageScanner.io offers market scanners and research tools for traders who want to monitor arbitrage setups, including TON related market activity.",
+    "pageTitle": "ArbitrageScanner.io - DeFi Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://arbitragescanner.io/",
+    "twitter": "https://x.com/ArbitrageScan"
+  },
+  "relations": {
+    "alternatives": [
+      "layerswap",
+      "rubic",
+      "symbiosis"
+    ],
+    "related": [
+      "layerswap",
+      "rubic",
+      "symbiosis"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Binance-Bybit BTC Arbitrage: Strategy, Fees and Execution",
+      "tldr": "Works a single pair between two venues in detail: identifying 0.3-0.5% spreads, then showing how taker fees decide whether the trade was ever profitable.",
+      "url": "https://arbitragescanner.io/blog/binance-bybit-btc-arbitrage-guide",
+      "source": "ArbitrageScanner Blog",
+      "publishedAt": "2026-04-25",
+      "tag": "Trading",
+      "image": "https://s3.arbitragescanner.io/blog/de1249ba-ee90-4363-ac68-741c982805d2.png"
+    },
+    {
+      "title": "Cryptocurrency Coins vs Tokens: What's the Difference?",
+      "tldr": "A coin has its own chain, a token borrows someone else's. The distinction sounds pedantic until it determines who can freeze your balance.",
+      "url": "https://arbitragescanner.io/blog/crypto-coins-vs-tokens-complete-comparison-guide",
+      "source": "ArbitrageScanner Blog",
+      "publishedAt": "2025-04-07",
+      "tag": "Explainer",
+      "image": "https://s3.arbitragescanner.io/blog/1951ed0a-5200-4890-a6b4-628f702162dd.png"
+    }
+  ]
 }

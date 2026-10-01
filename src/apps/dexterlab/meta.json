@@ -31,5 +31,14 @@
       "quai",
       "apibara"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Lighter Solana RPC Node",
+      "tldr": "Their open-source RPC implementation: what it drops from the full validator, how it serves ledger reads, and how to run it yourself.",
+      "url": "https://github.com/dexterlaboss/solana-lite-rpc",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/11912b4a20f4e0cf221c42e26c5bd32a10c00386c8325a3a0c9cf2b0bceedda7/dexterlaboss/archival-rpc"
+    }
+  ]
 }

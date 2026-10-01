@@ -1,0 +1,55 @@
+{
+  "slug": "eulerdebt",
+  "name": "EulerDebt",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760852/dapp-store-logos/eulerdebt.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Peer-to-peer market for selling Euler vault shares frozen by the Stream Finance collapse.",
+    "description": "In November 2025 several Euler vaults held assets tied to Stream Finance and Elixir, which depegged when Stream became insolvent, leaving the vaults with bad debt and withdrawals blocked. EulerDebt, built by SeaFi, lets affected depositors sell their vault shares at a price they set instead of waiting for an uncertain recovery, while buyers pick them up at a discount. Every trade settles on-chain.",
+    "meta": "Exit Euler vault positions frozen after Stream Finance's collapse by selling the shares peer to peer on EulerDebt.",
+    "pageTitle": "EulerDebt - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://eulerdebt.com/",
+    "twitter": "https://x.com/SeaFi_vaults"
+  },
+  "relations": {
+    "alternatives": [
+      "hypurrfi",
+      "arkis",
+      "myso-finance"
+    ],
+    "related": [
+      "minterest",
+      "wefi",
+      "mutuum-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Top Airdrop Hunts of the Month: December 2025",
+      "tldr": "Bankless covers EulerDebt, SeaFi's peer-to-peer market for selling Euler vault shares left stuck after the Stream Finance collapse.",
+      "url": "https://www.bankless.com/read/the-top-airdrop-hunts-of-the-month-december-2025",
+      "source": "Bankless",
+      "tag": "DeFi",
+      "publishedAt": "2025-12-04"
+    },
+    {
+      "title": "Stream Finance: Loss Broke Three Stablecoins",
+      "tldr": "Case study of how a $93M loss at Stream Finance broke three stablecoins and left Euler, Morpho and Silo vaults with bad debt.",
+      "url": "https://pharos.watch/learn/case-studies/stream-elixir-contagion-2025/",
+      "source": "Pharos",
+      "tag": "Research",
+      "publishedAt": "2026-06-15"
+    }
+  ]
+}

@@ -33,5 +33,34 @@
       "scalebit",
       "trail-of-bits"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The $24M AFX Bridge Drain That Was Not a Hack",
+      "tldr": "Nearly all available liquidity left the bridge on Arbitrum in three minutes, without an exploit in the usual sense.",
+      "url": "https://bitok.org/blog/afx-bridge-hack",
+      "source": "BitOK Blog",
+      "publishedAt": "2026-07-23",
+      "tag": "Security",
+      "image": "https://static.tildacdn.com/tild6136-3939-4362-b031-623137333937/_4.png"
+    },
+    {
+      "title": "A $3.9M 'Master Key' in B2 Network's Staking Contract",
+      "tldr": "Tokens withdrawn straight from the staking contract, traced back to a privilege the contract should never have retained.",
+      "url": "https://bitok.org/blog/b2-network-hack",
+      "source": "BitOK Blog",
+      "publishedAt": "2026-07-24",
+      "tag": "DeFi",
+      "image": "https://static.tildacdn.com/tild3532-6263-4736-b461-383433393636/_6.png"
+    },
+    {
+      "title": "No Exploit, Just Sign Here: How Triple-A Lost $9M",
+      "tldr": "Over $9M left wallets publicly tied to the project across two days, with signatures rather than a vulnerability doing the work.",
+      "url": "https://bitok.org/blog/triple-a-hack",
+      "source": "BitOK Blog",
+      "publishedAt": "2026-07-28",
+      "tag": "Security",
+      "image": "https://static.tildacdn.com/tild6261-6566-4431-b131-636364336566/_7.png"
+    }
+  ]
 }

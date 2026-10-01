@@ -35,5 +35,34 @@
       "smartmuv",
       "rattle"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Drift Lost $285M Without a Single Code Bug",
+      "tldr": "Attackers posed as a quant firm for six months, harvested pre-signed transactions, and walked through a governance door unlocked four days earlier.",
+      "url": "https://dedgesecurity.com/blog/beyond-the-audit-perimeter-how-drift-protocol-lost-285m-without-a-single-code-bug",
+      "source": "Dedge Security Blog",
+      "publishedAt": "2026-05-08",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/6wgiMdyQwNmvF9ZUyuE7MY2xo.jpg?width=2752&height=1536"
+    },
+    {
+      "title": "What the Resolv Exploit Says About Audit Limits",
+      "tldr": "A post-mortem built from onchain data and reports by Chainalysis, PeckShield and Cyvers, on why a clean audit does not mean a safe protocol.",
+      "url": "https://dedgesecurity.com/blog/what-the-resolv-exploit-tells-us-about-the-limits-of-smart-contract-auditing",
+      "source": "Dedge Security Blog",
+      "publishedAt": "2026-04-09",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/QFEhZvq5wt6tjwLNk8hfWN2A.jpg?width=2752&height=1536"
+    },
+    {
+      "title": "Why Production Web3 Needs a Different Security Model",
+      "tldr": "As decentralised systems enter regulated industries, the argument for continuous security posture management over one-off audits at launch.",
+      "url": "https://dedgesecurity.com/blog/web3-is-entering-a-new-phase",
+      "source": "Dedge Security Blog",
+      "publishedAt": "2026-02-11",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/1wNiEzbxu8oG4nCFchuVhXsSwU4.jpg?width=1920&height=1080"
+    }
+  ]
 }

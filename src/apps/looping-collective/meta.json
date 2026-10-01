@@ -1,0 +1,53 @@
+{
+  "slug": "looping-collective",
+  "name": "Looping Collective",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760955/dapp-store-logos/looping-collective.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Looping Collective offers tokenized looped DeFi strategies on HYPE, stablecoins and BTC.",
+    "description": "Looping Collective pools liquidity from several DeFi sources into single composable tokens, each backed by a risk-contained looping strategy. Its tokens cover HYPE, dollar and BTC exposure, with LHYPE and WHLP the main products. Ten percent of performance fees are used to buy LOOP back on the open market, and staking LOOP raises a holder's multiplier in the airdrop phases.",
+    "meta": "Leveraged looping packaged as a liquid token, without managing the loop or its liquidation risk.",
+    "pageTitle": "Looping Collective - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://loopingcollective.org/",
+    "twitter": "https://x.com/looping_col"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "d2-finance",
+      "equilibria",
+      "harmonix-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What is Liquid Looping?",
+      "tldr": "Explains how liquid staking tokens and lending can be combined in a looping position.",
+      "url": "https://docs.loopingcollective.org/what-is-liquid-looping.md",
+      "source": "Looping Collective",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Product Mechanics",
+      "tldr": "Explains LHYPE deposits, minting, and the mechanics of the looped HYPE product.",
+      "url": "https://docs.loopingcollective.org/products/loopedhype/product-mechanics.md",
+      "source": "Looping Collective",
+      "tag": "Explainer"
+    }
+  ]
+}

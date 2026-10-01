@@ -1,0 +1,53 @@
+{
+  "slug": "chateau",
+  "name": "CHATEAU",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760799/dapp-store-logos/chateau.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Synthetics"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "chUSD synthetic dollar whose staked version earns yield from US private credit.",
+    "description": "CHATEAU gives on-chain access to returns from off-chain funds. Users swap stablecoins for chUSD, an overcollateralized synthetic dollar, and stake it as schUSD, an ERC-4626 vault invested in a widely diversified portfolio of US small-business loans. The team reports a one-year IRR above 20%, and schUSD can be reused across DeFi. It is live on Hyperliquid and Plasma and backed by Hack VC.",
+    "meta": "Stake chUSD as schUSD to earn from a diversified US private credit portfolio, with DeFi composability on Plasma and Hyperliquid.",
+    "pageTitle": "CHATEAU - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.chateau.capital",
+    "twitter": "https://x.com/chateau_capital"
+  },
+  "relations": {
+    "alternatives": [
+      "mento",
+      "synthetify",
+      "parcl"
+    ],
+    "related": [
+      "usdm",
+      "indigo-protocol",
+      "fbtc"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why CHATEAU Built on Plasma",
+      "tldr": "Explains the infrastructure choices behind CHATEAU's real-world asset product and its use of Plasma.",
+      "url": "https://www.chateau.capital/blog/why-we-built-on-plasma",
+      "source": "CHATEAU",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How chUSD and schUSD Work on Plasma",
+      "tldr": "CHATEAU explains how users mint chUSD on Plasma and use schUSD to access the project's private-credit yield model.",
+      "url": "https://www.chateau.capital/blog/markets-down-your-yield-doesnt-have-to",
+      "source": "CHATEAU",
+      "tag": "DeFi"
+    }
+  ]
+}

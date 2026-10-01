@@ -1,0 +1,53 @@
+{
+  "slug": "rigoblock",
+  "name": "Rigoblock",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761047/dapp-store-logos/rigoblock.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Non-custodial smart vaults where human managers and AI agents run strategies within hard limits.",
+    "description": "Rigoblock provides on-chain vaults for running trading and liquidity strategies without taking custody of depositors' funds. Built-in protections, called Swap Shield, NAV Shield and Scoped Delegation, cap what an operator or AI agent is allowed to do, and a harness lets agents trade safely within those bounds. Instead of management fees, operators earn GRG tokens through Proof of Performance.",
+    "meta": "Run on-chain strategies in Rigoblock's non-custodial vaults, with protocol-enforced limits for managers and AI agents.",
+    "pageTitle": "Rigoblock - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rigoblock.com",
+    "twitter": "https://x.com/RigoBlock"
+  },
+  "relations": {
+    "alternatives": [
+      "toros-finance",
+      "snuggle",
+      "gami-labs"
+    ],
+    "related": [
+      "genius-yield",
+      "origin-ether",
+      "harmonix-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Rigoblock FAQ",
+      "tldr": "Answers what Rigoblock vault agents are and how NAV Shield, scoped delegation and an x402 API keep AI operators in bounds.",
+      "url": "https://rigoblock.com/faq",
+      "source": "Rigoblock",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "AI Agents Integration Guide",
+      "tldr": "Guide for external AI agents using Rigoblock's x402-gated quote and chat endpoints, and what they can and cannot do.",
+      "url": "https://docs.rigoblock.com/ai-agents",
+      "source": "Rigoblock Docs",
+      "tag": "AI & Agents"
+    }
+  ]
+}

@@ -38,5 +38,31 @@
       "cryptolock",
       "blowfish"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Smart Contract Audit Involves",
+      "tldr": "Scope, process and the limits of what a review can promise. Written for teams commissioning their first one.",
+      "url": "https://audita.io/blog-articles/what-is-a-smart-contract-audit-web3-security",
+      "source": "Audita Blog",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/cqkr5LrsaKerpa3dLeMDUNkJ8A.png?width=7171&height=3741"
+    },
+    {
+      "title": "Solana and Rust Security Basics",
+      "tldr": "Solana is not immune by virtue of being Rust. The assumptions that catch developers moving over from Solidity.",
+      "url": "https://audita.io/blog-articles/how-to-secure-solana-solana-and-rust-security-basics-part1",
+      "source": "Audita Blog",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/bpXlKtLdHNqZfd3h5hdRJ2hDP0.png?width=1456&height=816"
+    },
+    {
+      "title": "Learning From Other People's Hacks",
+      "tldr": "The case for auditing early, argued from past exploits rather than from principle.",
+      "url": "https://audita.io/blog-articles/why-smart-contract-audits-are-vital",
+      "source": "Audita Blog",
+      "tag": "Security",
+      "image": "https://framerusercontent.com/images/1Q7GcWQY197lLFzQnET75tB4.png?width=1024&height=1024"
+    }
+  ]
 }

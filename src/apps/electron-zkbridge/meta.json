@@ -31,5 +31,30 @@
       "shardeum",
       "gosh"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Bridge With No Multisig",
+      "tldr": "How the header relay and updater contract work together, so the receiving chain verifies a proof rather than trusting a signer set.",
+      "url": "https://medium.com/electron-labs/electron-zkbridge-1-0-mainnet-launch-3cd1e1f8f37d",
+      "source": "Electron Labs",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:800/1*mgOf7rAcxgYmvr4n8ZTqRA.gif"
+    },
+    {
+      "title": "Why Aggregate Proofs at All",
+      "tldr": "Verifying one recursive proof instead of many is the whole economic argument for an aggregation layer.",
+      "url": "https://www.ingonyama.com/post/bridging-the-multichain-universe-with-zero-knowledge-proofs",
+      "source": "Ingonyama",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/63970f25aa7b42e284492d52/6802438f3b08c57fdaecbc67_68.jpg"
+    },
+    {
+      "title": "The End of Trusted Bridges",
+      "tldr": "Every large bridge hack traces back to a multisig. What replacing that committee with a proof actually changes.",
+      "url": "https://blockeden.xyz/blog/2025/09/21/zk-cross-chain-interoperability-trust-minimized-bridges/",
+      "source": "BlockEden",
+      "tag": "Security",
+      "image": "https://opengraph-image.blockeden.xyz/api/og-blockeden-xyz?title=The%20End%20of%20Trusted%20Bridges%3A%20How%20Zero-Knowledge%20Proofs%20Are%20Rewriting%20Cross-Chain%20Security"
+    }
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "morkie",
+  "name": "Morkie",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760980/dapp-store-logos/morkie.jpg",
+  "category": "NFT Tools",
+  "subcategory": [
+    "NFT Minting Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Morkie is a multi-chain NFT minting platform spanning Polygon, Monad and other EVM networks.",
+    "description": "Morkie is a multi-chain NFT platform where creators deploy a collection and holders mint, stake and use the resulting tokens. Its own collections include Morkies and the Morkie Pass, alongside third-party drops priced anywhere from free to a few hundredths of ETH or POL. Minting spans Monad, Polygon and other EVM networks from the same interface, and staked NFTs earn rewards instead of sitting idle. The team runs periodic free mints and community drops on testnets as well as mainnets.",
+    "meta": "Morkie is a multi-chain NFT platform on Monad, Polygon and other EVM networks where creators deploy collections and holders mint and stake.",
+    "pageTitle": "Morkie - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nft.morkie.xyz",
+    "twitter": "https://x.com/morkiexyz"
+  },
+  "relations": {
+    "alternatives": [
+      "dropspace",
+      "minero",
+      "mirror-world"
+    ],
+    "related": [
+      "autominter",
+      "bueno",
+      "envelop"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How To Use",
+      "tldr": "Walks through using Morkie with an EVM compatible wallet.",
+      "url": "https://morkie.gitbook.io/docs/platform/information/how-to-use.md",
+      "source": "Morkie",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How To Earn XP",
+      "tldr": "Explains how users earn XP through activity on Morkie.",
+      "url": "https://morkie.gitbook.io/docs/platform/information/how-to-earn-xp.md",
+      "source": "Morkie",
+      "tag": "Tutorial"
+    }
+  ]
+}

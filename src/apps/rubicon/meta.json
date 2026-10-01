@@ -3,8 +3,12 @@
   "name": "Rubicon",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749682/web3-explorer/dapp-logos/rubicon.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["OP Mainnet"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "OP Mainnet"
+  ],
   "pricing": "",
   "content": {
     "short": "Rubicon is an order book protocol on Ethereum L2 networks.",
@@ -17,7 +21,29 @@
     "twitter": "https://x.com/rubicondefi"
   },
   "relations": {
-    "alternatives": ["vvs-finance", "saros", "mangrovedao"],
-    "related": ["gemini", "day1x", "heroswap"]
-  }
+    "alternatives": [
+      "vvs-finance",
+      "saros",
+      "mangrovedao"
+    ],
+    "related": [
+      "gemini",
+      "day1x",
+      "heroswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Filling Orders",
+      "tldr": "What a filler does on an order-book DEX, and what it has to run to compete for the flow.",
+      "url": "https://docs.rubicon.finance/guides/integration/filler",
+      "source": "Rubicon"
+    },
+    {
+      "title": "Where The Contracts Live",
+      "tldr": "The deployed addresses across networks, which is the reference an integrator actually needs.",
+      "url": "https://docs.rubicon.finance/developers/deployments",
+      "source": "Rubicon"
+    }
+  ]
 }

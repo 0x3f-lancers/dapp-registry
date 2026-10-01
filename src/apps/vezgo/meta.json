@@ -32,5 +32,34 @@
       "ormi",
       "infura"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Open Finance vs. Open Banking: What's the Real Difference?",
+      "tldr": "Open banking covers accounts and payments; open finance reaches investments, pensions and crypto. The regulatory backing behind each differs sharply.",
+      "url": "https://vezgo.com/blog/open-finance-vs-open-banking/",
+      "source": "Vezgo Blog",
+      "publishedAt": "2026-06-30",
+      "tag": "Regulation",
+      "image": "https://vezgo.com/blog/wp-content/uploads/2026/06/Open-finance-vs-Open-banking_-why-crypto-is-the-missing-layer-1024x640.jpg"
+    },
+    {
+      "title": "FiDA, MiCA, and the Future of EU Crypto Data Sharing",
+      "tldr": "Two EU regimes arriving at once, one about markets and one about data access. How they interlock, and what had to be ready before the MiCA deadline.",
+      "url": "https://vezgo.com/blog/fida-mica-eu-crypto-data-sharing/",
+      "source": "Vezgo Blog",
+      "publishedAt": "2026-07-06",
+      "tag": "Regulation",
+      "image": "https://vezgo.com/blog/wp-content/uploads/2026/07/FiDA-MiCA-and-the-future-if-crypto-data-sharing-in-the-EU-1024x640.jpg"
+    },
+    {
+      "title": "Open Finance Stack: Bank, Investment, and Crypto Data",
+      "tldr": "Connecting a bank, a broker and a wallet means three auth models and three data shapes. The APIs, consent flows and normalisation making them one view.",
+      "url": "https://vezgo.com/blog/open-finance-stack-bank-investment-crypto-data/",
+      "source": "Vezgo Blog",
+      "publishedAt": "2026-07-06",
+      "tag": "Research",
+      "image": "https://vezgo.com/blog/wp-content/uploads/2026/07/The-Open-Finance-Stack_-How-Bank-Investment-and-Crypto-Data-Connect-1024x640.jpg"
+    }
+  ]
 }

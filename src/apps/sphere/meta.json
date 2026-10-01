@@ -39,5 +39,30 @@
       "fees-wtf",
       "multisender"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What an FBO Account Is",
+      "tldr": "Customer funds held in someone else's name for their benefit. The structure behind most fintech balances.",
+      "url": "https://spherepay.co/learn/what-is-an-fbo-account-customer-funds-in-custody",
+      "source": "Sphere Learn",
+      "image": "https://cdn.prod.website-files.com/686e2529fe2104d5af1b1d9f/69a1e24005af80a04a55f63b_sphere-learn-what-is-fbo-account.webp"
+    },
+    {
+      "title": "Customer Due Diligence, Explained",
+      "tldr": "What KYC actually requires of a business, separated from the compliance jargon it usually arrives wrapped in.",
+      "url": "https://spherepay.co/learn/what-is-customer-due-diligence-cdd-kyc-explained",
+      "source": "Sphere Learn",
+      "tag": "Explainer",
+      "image": "https://cdn.prod.website-files.com/686e2529fe2104d5af1b1d9f/69a1cc01e883ca0969926ff2_sphere-learn-what-is-customer-due-diligence.webp"
+    },
+    {
+      "title": "FedNow and Real-Time Settlement",
+      "tldr": "The Federal Reserve's instant payment rail, and how it compares with moving a stablecoin instead.",
+      "url": "https://spherepay.co/learn/what-is-fednow-federal-reserve-real-time-payment-service",
+      "source": "Sphere Learn",
+      "tag": "Payments",
+      "image": "https://cdn.prod.website-files.com/686e2529fe2104d5af1b1d9f/69a1e29056d5e70458ce4cb4_sphere-learn-what-is-fednow.webp"
+    }
+  ]
 }

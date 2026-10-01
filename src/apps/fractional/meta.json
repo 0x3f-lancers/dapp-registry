@@ -27,5 +27,31 @@
     "related": [
       "simplehash"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Trading Fractions of a Single NFT",
+      "tldr": "A look at the platform itself, covering vaults, reserve prices and what collective ownership means when a buyout arrives.",
+      "url": "https://rayo.gg/blog/insights/fractional-art",
+      "source": "Rayo",
+      "tag": "Tokenization",
+      "image": "https://ghost.rayo.gg/content/images/2023/04/fractional-art.png"
+    },
+    {
+      "title": "The Mechanics of Fractionalisation",
+      "tldr": "An ERC-721 goes into a vault, ERC-20 shares come out. What those shares entitle you to, and what they do not.",
+      "url": "https://unchainedcrypto.com/how-fractionalized-nfts-work/",
+      "source": "Unchained",
+      "tag": "Infrastructure",
+      "image": "https://unchainedcrypto.com/wp-content/uploads/2023/04/texture-glass-surface-window.jpeg"
+    },
+    {
+      "title": "Why Split an NFT at All",
+      "tldr": "The liquidity argument for fractional ownership, and the governance problem it creates once many people hold a claim.",
+      "url": "https://www.nfttech.com/newsroom/an-introduction-to-nft-fractionalization",
+      "source": "NFT Tech",
+      "tag": "Tokenization",
+      "image": "https://cdn.prod.website-files.com/63a24dc3c31fc6170765f228/63a353fc782001824678c25d_Fractionalization.png"
+    }
+  ]
 }

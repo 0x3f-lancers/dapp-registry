@@ -1,0 +1,53 @@
+{
+  "slug": "monday-trade",
+  "name": "Monday Trade",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760973/dapp-store-logos/monday-trade.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Monday Trade is a Monad-native DEX for spot, perpetuals and real-world assets.",
+    "description": "Monday Trade is a DEX native to Monad covering spot, perpetuals and real-world asset markets in one interface. Because collateral posted once can support positions across both spot and perps, capital is not split between separate accounts. The perpetuals side documents its order types and matching, funding rate, liquidation engine and contract specifications in detail. Liquidity providers supply the pools behind it. A separate API covers its tokenized asset markets.",
+    "meta": "Spot, perpetuals and real-world assets in one Monad venue, sharing collateral across them.",
+    "pageTitle": "Monday Trade - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://monday.trade/",
+    "github": "https://github.com/MondayTrade",
+    "twitter": "https://x.com/MondayTrade_"
+  },
+  "relations": {
+    "alternatives": [
+      "leverup",
+      "perpl"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Trade Perpetuals on Monad",
+      "tldr": "Walks through connecting to Monday Trade on Monad and placing a perpetual futures trade during its beta.",
+      "url": "https://blog.monday.trade/how-to-trade-perps-on-monad/",
+      "source": "Monday Trade",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Why Perpetuals on Monad?",
+      "tldr": "Explains the market structure and execution goals behind Monday Trade's perpetual futures exchange on Monad.",
+      "url": "https://blog.monday.trade/why-the-world-needs-perps-on-monad/",
+      "source": "Monday Trade",
+      "tag": "Explainer"
+    }
+  ]
+}

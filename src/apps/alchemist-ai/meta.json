@@ -32,5 +32,19 @@
       "eth-calldata-decoder",
       "ethervm-decompiler"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started",
+      "tldr": "The first walkthrough: what the tool generates, and what you have to specify to get something usable.",
+      "url": "https://docs.alchemistai.app/docs/get-started",
+      "source": "Alchemist AI"
+    },
+    {
+      "title": "The AI Laboratory",
+      "tldr": "How the experimentation surface works, and where a generated app still needs a human before shipping.",
+      "url": "https://docs.alchemistai.app/docs/get-started/ai-laboratory",
+      "source": "Alchemist AI"
+    }
+  ]
 }

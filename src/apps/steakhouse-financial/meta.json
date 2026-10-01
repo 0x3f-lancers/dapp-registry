@@ -9,7 +9,10 @@
   "chains": [
     "Ethereum",
     "Base",
-    "Solana"
+    "Solana",
+    "Monad",
+    "Robinhood Chain",
+    "Unichain"
   ],
   "tags": [],
   "pricing": "Free",
@@ -34,5 +37,21 @@
       "openux",
       "sbip-sg"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Collateral Gets Rated Before It Is Accepted",
+      "tldr": "A multi-layer rating combining issuer risk, platform risk and market risk into one decision about whether an asset can back a vault.",
+      "url": "https://www.steakhouse.financial/docs/risk-management/collateral/collateral-standards",
+      "source": "Steakhouse Financial Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "A Risk Framework, Written Down",
+      "tldr": "Preserving principal and keeping liquidity available, stated as the primary duty and then broken into the checks that enforce it.",
+      "url": "https://www.steakhouse.financial/docs/risk-management",
+      "source": "Steakhouse Financial Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

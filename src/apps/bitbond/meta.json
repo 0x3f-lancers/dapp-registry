@@ -33,5 +33,29 @@
       "nsuite",
       "tradingview"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Token in Five Minutes, No Solidity",
+      "tldr": "Connect a wallet, pick a chain, choose a token type. The walkthrough that shows where the real decisions are hiding.",
+      "url": "https://www.bitbond.com/resources/create-token-in-5-minutes-using-token-tool",
+      "source": "Bitbond",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Whether ERC-20 Is Compliant Enough",
+      "tldr": "What financial institutions have to add on top of the bare standard before a token can be issued under MiCA and similar regimes.",
+      "url": "https://www.bitbond.com/resources/is-erc-20-token-standard-compliant",
+      "source": "Bitbond",
+      "tag": "Regulation"
+    },
+    {
+      "title": "Launching on Base Without Code",
+      "tldr": "The same job on Coinbase L2, where cheaper gas changes which distribution mechanics are worth building in.",
+      "url": "https://www.bitbond.com/resources/create-a-coinbase-base-token",
+      "source": "Bitbond",
+      "tag": "Infrastructure",
+      "image": "https://cdn.sanity.io/images/7hcvtdmx/production/ceb26284f76d6f469b89602ca2e70042fba23827-1200x600.png?rect=29,0,1143,600&w=1200&h=630&fm=webp"
+    }
+  ]
 }

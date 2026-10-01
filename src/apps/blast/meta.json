@@ -36,5 +36,15 @@
       "covalent",
       "apibara"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Public and Private RPC Endpoints",
+      "tldr": "A shared endpoint is rate-limited and everyone's; a private one is yours. When the difference starts to matter under load.",
+      "url": "https://chainstack.com/build-better-with-blast/",
+      "source": "Chainstack",
+      "image": "https://chainstack.com/wp-content/uploads/2024/07/Blast-Preview.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

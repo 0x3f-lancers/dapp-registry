@@ -31,5 +31,31 @@
       "erc721a",
       "webstudio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Liquidity Inside a Price Range",
+      "tldr": "Instead of spreading capital from zero to infinity, an LP picks a band. What that concentrates, and what it stops earning outside it.",
+      "url": "https://docs.uniswap.org/concepts/protocol/concentrated-liquidity",
+      "source": "Uniswap Docs",
+      "tag": "DeFi",
+      "image": "https://developers.uniswap.org/opengraph.png"
+    },
+    {
+      "title": "Ticks, in Detail",
+      "tldr": "Prices move in discrete steps so the pool only has to recompute liquidity at boundaries. The maths behind those steps, worked through.",
+      "url": "https://mixbytes.io/blog/uniswap-v3-ticks-dive-into-concentrated-liquidity",
+      "source": "MixBytes",
+      "tag": "DeFi",
+      "image": "https://static.tildacdn.com/tild6263-3031-4235-a531-333562363036/52.jpg"
+    },
+    {
+      "title": "Introducing Ticks",
+      "tldr": "Why tick spacing differs per fee tier and what crossing a tick does mid-swap, written for people reading the core contracts.",
+      "url": "https://rareskills.io/post/uniswap-v3-ticks",
+      "source": "RareSkills",
+      "tag": "Trading",
+      "image": "https://rareskills.io/og-images/post/uniswap-v3-ticks.png"
+    }
+  ]
 }

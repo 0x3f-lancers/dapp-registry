@@ -1,0 +1,53 @@
+{
+  "slug": "coala-pay",
+  "name": "Coala Pay",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760804/dapp-store-logos/coala-pay.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Payment platform built for aid organisations to move funds into hard-to-reach places in minutes.",
+    "description": "Coala Pay helps humanitarian groups and donors send institutional funds into corridors where banking is slow or broken, settling in minutes instead of weeks so less value is lost on the way. Its milestone-based model releases money as goals are met, and compliance tools track every disbursement. It reports a 100% delivery record in every corridor it has served since 2023.",
+    "meta": "Coala Pay settles humanitarian aid in minutes using stablecoins, with milestone-based releases and full compliance tracking.",
+    "pageTitle": "Coala Pay - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.coalapay.org",
+    "twitter": "https://x.com/coalapay"
+  },
+  "relations": {
+    "alternatives": [
+      "solsplits",
+      "onramper-switch",
+      "bridge-xyz"
+    ],
+    "related": [
+      "ivorypay",
+      "mesha",
+      "drips-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Stablecoins Can Speed Local Aid",
+      "tldr": "Explores how stablecoin payments can help aid organizations move funds to local partners and reduce settlement delays.",
+      "url": "https://www.coalapay.org/blog/how-stablecoins-can-accelerate-localisation",
+      "source": "Coala Pay",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Stablecoin Disbursements Supported Save the Children's SHIFT",
+      "tldr": "A field case study of stablecoin aid payouts, local off-ramping, and proof-of-payment reporting.",
+      "url": "https://www.coalapay.org/case-studies/save-the-children-shift-how-stablecoins-can-accelerate-localisation",
+      "source": "Coala Pay",
+      "tag": "Research"
+    }
+  ]
+}

@@ -33,5 +33,31 @@
       "eth-calldata-decoder",
       "mimic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Zero-Knowledge Proofs, Defined",
+      "tldr": "Convincing someone a statement is true while revealing nothing else. The encyclopedia entry, not a vendor's pitch.",
+      "url": "https://iq.wiki/wiki/zero-knowledge-proofs-zkps",
+      "source": "IQ.wiki",
+      "tag": "DeFi",
+      "image": "https://iq.wiki/cdn-cgi/image/width=1200,height=630,fit=cover,gravity=auto,quality=95/https://ipfs.everipedia.org/ipfs/QmXfQqTBKY3nKpXVn72qMMipX7cpZxggoDpKeHxGotcq74"
+    },
+    {
+      "title": "Ethereum's Post-Quantum Security Team",
+      "tldr": "The group formed to prepare for cryptography that today's assumptions will not survive. What they are working on.",
+      "url": "https://iq.wiki/wiki/post-quantum-security-team",
+      "source": "IQ.wiki",
+      "tag": "Security",
+      "image": "https://iq.wiki/cdn-cgi/image/width=1200,height=630,fit=cover,gravity=auto,quality=95/https://ipfs.everipedia.org/ipfs/QmbgTnS5adsS6AfAMimrAHM6NY8CDhUWWErC8KJp8pALNM"
+    },
+    {
+      "title": "Degenerate Ape Academy",
+      "tldr": "Ten thousand apes launched in August 2021. A neutral record of a collection usually written about in hype or scorn.",
+      "url": "https://iq.wiki/wiki/degenerate-ape-academy",
+      "source": "IQ.wiki",
+      "tag": "Tokenization",
+      "image": "https://iq.wiki/cdn-cgi/image/width=1200,height=630,fit=cover,gravity=auto,quality=95/https://ipfs.everipedia.org/ipfs/QmQgrumJbq9cMW6Pu88RtrwB7bwtcCtdrrZQVhKnhg2hPx"
+    }
+  ]
 }

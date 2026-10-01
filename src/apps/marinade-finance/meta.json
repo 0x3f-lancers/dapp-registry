@@ -31,5 +31,32 @@
       "maple-finance",
       "thestandard"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Case for Automated Stake Delegation",
+      "tldr": "Choosing validators by hand means picking on reputation and rarely revisiting it. What a delegation formula does differently.",
+      "url": "https://marinade.finance/blog/case-for-solana-automated-staking-marinade",
+      "source": "Marinade Blog",
+      "publishedAt": "2023-07-28",
+      "tag": "DeFi",
+      "image": "https://public.marinade.finance/learn/667179c049d8e1e1511d7cbc_67.png"
+    },
+    {
+      "title": "The Staking Models, Compared",
+      "tldr": "Native, liquid and pooled staking set against each other on lock-up, slashing exposure and what you give up for liquidity.",
+      "url": "https://marinade.finance/blog/compare-proof-of-staking-mechanisms",
+      "source": "Marinade",
+      "tag": "DeFi",
+      "image": "https://public.marinade.finance/learn/66717b992b7be284c8ca5d7f_83.png"
+    },
+    {
+      "title": "Making Sandwiching Validators Pay",
+      "tldr": "How a stake auction can price MEV abuse: validators that sandwich users lose delegation, which is a cost they feel.",
+      "url": "https://marinade.finance/blog/how-marinade-is-making-sandwiching-validators-pay",
+      "source": "Marinade",
+      "tag": "DeFi",
+      "image": "https://public.marinade.finance/learn/685a72ac56076a0188137c3d_how-marinade-is-making-malicious-validators-pay.jpg"
+    }
+  ]
 }

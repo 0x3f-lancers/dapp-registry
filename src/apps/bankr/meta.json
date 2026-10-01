@@ -1,0 +1,53 @@
+{
+  "slug": "bankr",
+  "name": "Bankr",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760755/dapp-store-logos/bankr.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Bankr is a conversational onchain agent for trading, launching tokens and treasury automation.",
+    "description": "Bankr is an AI agent that buys, sells and swaps tokens and places limit orders from a chat instruction. Every agent built on it receives a cross-chain wallet that can trade, deploy contracts and manage DeFi positions, with gas covered by the platform. Developers install the CLI, run a login that generates a wallet and API key, and can launch a token for free. Trading fees the agent generates pay for its own compute, so there is no recurring hosting bill.",
+    "meta": "Execute trades, token launches and treasury tasks onchain by describing them in plain language.",
+    "pageTitle": "Bankr - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bankr.bot",
+    "twitter": "https://x.com/bankrbot"
+  },
+  "relations": {
+    "alternatives": [
+      "asym",
+      "cod3x",
+      "coinmarketman"
+    ],
+    "related": [
+      "dextrabot",
+      "hyperdash",
+      "hypersignals"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Platform Overview",
+      "tldr": "Bankr is the financial rails for self-sustaining AI agents.",
+      "url": "https://docs.bankr.bot//docs/getting-started/overview.md",
+      "source": "Bankr",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Token Swaps",
+      "tldr": "Swap tokens across all supported chains using natural language.",
+      "url": "https://docs.bankr.bot//docs/features/trading/swaps.md",
+      "source": "Bankr",
+      "tag": "Tutorial"
+    }
+  ]
+}

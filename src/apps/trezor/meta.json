@@ -33,5 +33,23 @@
       "bitget-wallet",
       "wigwam"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Every Passphrase User Should Know",
+      "tldr": "A sharp tool: used carefully it adds real security, used carelessly it is among the fastest ways to lose access permanently.",
+      "url": "https://trezor.io/blog/security/passphrase-faq-what-every-passphrase-user-should-know",
+      "source": "Trezor Blog",
+      "tag": "Security",
+      "image": "https://static.trezor.io/286/464/Blog_Passphrases_2000x1000_fc606d73c0.jpg"
+    },
+    {
+      "title": "Reading a Vulnerability Report About Someone Else",
+      "tldr": "A Coldcard firmware flaw cost users funds. A clear account of why one vendor's devices were unaffected, and how to tell.",
+      "url": "https://trezor.io/blog/news/coldcard-vulnerability-trezor-devices-are-not-affected",
+      "source": "Trezor Blog",
+      "tag": "Security",
+      "image": "https://static.trezor.io/286/461/Blog_PSA_2_2000x1000_266ad6c71e.jpg"
+    }
+  ]
 }

@@ -32,5 +32,34 @@
       "detask",
       "dmail-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Agentic Memory Debt: Why Your Agents Keep Accumulating It",
+      "tldr": "An agent that forgets everything between sessions rebuilds the same context forever, and one that remembers everything drowns.",
+      "url": "https://blog.walrus.xyz/what-is-agentic-memory-debt-and-why-your-agents-keep-accumulating-it-verifiable-portable/",
+      "source": "Walrus Blog",
+      "publishedAt": "2026-07-02",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/b6/3e/b63e0589-a210-4ffb-b05b-81066ed565c4/content/images/size/w1200/2026/07/KHALA-Blog-Post.jpg"
+    },
+    {
+      "title": "Bringing Walrus to the IPFS Ecosystem Through Lighthouse",
+      "tldr": "Two decentralised storage models with different durability guarantees, bridged without forcing anyone to migrate.",
+      "url": "https://blog.walrus.xyz/bringing-walrus-to-the-ipfs-ecosystem-through-lighthouse/",
+      "source": "Walrus Blog",
+      "publishedAt": "2026-06-30",
+      "tag": "Infrastructure",
+      "image": "https://storage.ghost.io/c/b6/3e/b63e0589-a210-4ffb-b05b-81066ed565c4/content/images/size/w1200/2026/06/Lighthouse.jpg"
+    },
+    {
+      "title": "Verifiable Agent State: Why AI Systems Need Durable, Auditable Data",
+      "tldr": "If agents are going to trade, their records need to be verifiable by someone who was not there. What such a standard must capture to be worth anything.",
+      "url": "https://blog.walrus.xyz/astros-and-walrus-to-introduce-open-standard-for-agentic-trading/",
+      "source": "Walrus Blog",
+      "publishedAt": "2026-08-06",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/b6/3e/b63e0589-a210-4ffb-b05b-81066ed565c4/content/images/size/w1200/2026/08/Walrus-_-_-Astros-Alt.jpg"
+    }
+  ]
 }

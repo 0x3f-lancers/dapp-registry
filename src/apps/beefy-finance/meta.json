@@ -10,7 +10,9 @@
     "Ethereum",
     "Polygon",
     "OP Mainnet",
-    "Arbitrum"
+    "Arbitrum",
+    "Robinhood Chain",
+    "Plasma"
   ],
   "pricing": "",
   "content": {
@@ -33,5 +35,28 @@
       "silo-finance",
       "badger-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Autocompounding Actually Does",
+      "tldr": "Harvesting and reinvesting yield on a schedule so the position grows itself. Where the returns come from, and what they cost.",
+      "url": "https://docs.beefy.finance/ecosystem/introduction",
+      "source": "Beefy Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "SAFU First: The Security Standards",
+      "tldr": "A vault protocol writing down what it must never get wrong. Clever contracts are worthless if user funds are not safe.",
+      "url": "https://docs.beefy.finance/safety/beefy-safu-practices",
+      "source": "Beefy Docs",
+      "tag": "Security"
+    },
+    {
+      "title": "Escrowed Tokens Explained",
+      "tldr": "Rewards held in custody until a condition is met. How the mechanism shapes incentives, and what a holder is really waiting on.",
+      "url": "https://docs.beefy.finance/beefy-products/beefy-escrowed-tokens",
+      "source": "Beefy Docs",
+      "tag": "Explainer"
+    }
+  ]
 }

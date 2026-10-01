@@ -1,0 +1,60 @@
+{
+  "slug": "sigma",
+  "name": "Sigma",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761059/dapp-store-logos/sigma.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Avalanche",
+    "BNB Chain",
+    "Unichain",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Telegram trading bot and web terminal for fast, MEV-protected trades on six chains.",
+    "description": "Sigma lets DeFi traders buy and sell tokens from Telegram or a web terminal instead of swapping manually from a wallet. Its order routing protects against MEV and failed transactions, and it manages up to 10 wallets at once. It covers Ethereum, Base, Avalanche, BNB Chain, Unichain and Solana, bridging between them automatically, and pays referral commissions.",
+    "meta": "Trade on Ethereum, Base, BNB, Avalanche, Unichain and Solana from Telegram or web with Sigma's MEV-protected bot.",
+    "pageTitle": "Sigma - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sigma.win",
+    "twitter": "https://x.com/SigmaTrading"
+  },
+  "relations": {
+    "alternatives": [
+      "banana-gun",
+      "cod3x",
+      "thekingfisher"
+    ],
+    "related": [
+      "ask-libfi",
+      "firebird-finance",
+      "volboost"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Sigma Bot Review",
+      "tldr": "Review of Sigma's Telegram trading bot covering setup, supported chains and features (the page uses affiliate links).",
+      "url": "https://coincodecap.com/sigma-bot-review",
+      "source": "CoinCodeCap",
+      "tag": "Trading",
+      "publishedAt": "2025-12-31"
+    },
+    {
+      "title": "Sigma Review: One Bot, Seven Blockchains",
+      "tldr": "A trader's three-month review of using one Sigma bot across Ethereum, BSC, Base, Solana, Avalanche, Unichain and Berachain.",
+      "url": "https://defipill.xyz/telegram-trading-bots/sigma_review/",
+      "source": "DeFiPill",
+      "tag": "Trading",
+      "publishedAt": "2025-11-15"
+    }
+  ]
+}

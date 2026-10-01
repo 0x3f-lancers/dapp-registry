@@ -32,5 +32,31 @@
       "alchemix",
       "dual-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Pool Becomes the Counterparty",
+      "tldr": "No order book. Liquidity providers take the other side of every leveraged trade, which is where both their yield and their risk come from.",
+      "url": "https://www.coingecko.com/learn/what-is-gmx-guide-to-the-decentralized-perpetual-exchange",
+      "source": "CoinGecko Learn",
+      "tag": "DeFi",
+      "image": "https://assets.coingecko.com/posts/images/636/large/what_is_gmx.png?1662364894"
+    },
+    {
+      "title": "GMX Read as a Trading System",
+      "tldr": "Oracle pricing, funding, and what 30x leverage against a shared pool actually does to the people supplying it.",
+      "url": "https://zerion.io/blog/what-is-gmx/",
+      "source": "Zerion Blog",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/40/4e/404e902f-a497-4c57-98a8-ff885ab1951b/content/images/2022/12/GMX-1.png"
+    },
+    {
+      "title": "How GMX Works, for Developers",
+      "tldr": "A course module walking the contracts rather than the interface, for anyone integrating with or auditing the protocol.",
+      "url": "https://updraft.cyfrin.io/courses/gmx-perpetuals-trading/foundation/how-gmx-works",
+      "source": "Cyfrin Updraft",
+      "tag": "Security",
+      "image": "https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/image-(25).png"
+    }
+  ]
 }

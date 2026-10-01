@@ -31,5 +31,29 @@
       "supra",
       "shardeum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Parachain Is Now",
+      "tldr": "Slot auctions and crowdloans are deprecated since Agile Coretime. What replaced them, and what existing chains had to do.",
+      "url": "https://wiki.polkadot.com/learn/learn-parachains",
+      "source": "Polkadot Wiki",
+      "image": "https://wiki.polkadot.com/assets/images/social/learn/learn-parachains.png"
+    },
+    {
+      "title": "Where Treasury Funds Come From",
+      "tldr": "A pot filled by block rewards, fees, slashing and inflation, and the process by which anyone can ask it for money.",
+      "url": "https://wiki.polkadot.com/learn/learn-polkadot-opengov-treasury",
+      "source": "Polkadot Wiki",
+      "tag": "Governance",
+      "image": "https://wiki.polkadot.com/assets/images/social/learn/learn-polkadot-opengov-treasury.png"
+    },
+    {
+      "title": "How Accounts Work on Polkadot",
+      "tldr": "Address formats, key derivation and proxies, covering the parts that surprise people arriving from other chains.",
+      "url": "https://wiki.polkadot.com/learn/learn-accounts",
+      "source": "Polkadot Wiki",
+      "image": "https://wiki.polkadot.com/assets/images/social/learn/learn-accounts.png"
+    }
+  ]
 }

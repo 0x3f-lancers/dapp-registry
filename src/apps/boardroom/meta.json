@@ -32,5 +32,30 @@
       "xdaoapp",
       "fabric"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Governance Across 300 Protocols in One Place",
+      "tldr": "A review of how proposal tracking, delegation and vote history hold up when aggregated from many different DAO frameworks.",
+      "url": "https://daotimes.com/boardroom-dao-tool-report-for-2025/",
+      "source": "DAO Times",
+      "tag": "Governance",
+      "image": "https://daotimes.com/content/images/2025/12/Boardroom-API-integration-growth-across-wallets-and-platforms.png"
+    },
+    {
+      "title": "Your First Vote, Step by Step",
+      "tldr": "A developer walks through finding a proposal, delegating tokens and casting a vote, with the wallet steps that trip people up.",
+      "url": "https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom",
+      "source": "Idris Olubisi",
+      "tag": "Governance",
+      "image": "https://cdn.hashnode.com/res/hashnode/image/unsplash/CJBCaMkLP_U/upload/v1649255236377/xWAOfgrIE.jpeg"
+    },
+    {
+      "title": "The Dashboard, From a User Side",
+      "tldr": "An outside description of multi-chain governance aggregation and what a delegate actually sees day to day.",
+      "url": "https://dapps-store.atomicwallet.io/dapps-project/boardroom",
+      "source": "Atomic Wallet",
+      "tag": "Governance"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "slug": "upheaval",
+  "name": "Upheaval",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761119/dapp-store-logos/upheaval.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Upheaval is a concentrated liquidity DEX on Hyperliquid for deploying capital across tight price ranges.",
+    "description": "Upheaval runs concentrated liquidity markets on HyperEVM, letting providers place capital in narrow bands where most trading actually happens. A swap aggregator routes across venues on the chain, with multichain swaps available from the same interface. Its liquidity hub concentrates incentives, and the project launched a community token with no team allocation, no funds raised and no insider allocation. A second season of points is running for users trading and providing liquidity.",
+    "meta": "Concentrated liquidity on Hyperliquid, efficient while price stays inside the chosen band.",
+    "pageTitle": "Upheaval - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://upheaval.fi",
+    "twitter": "https://x.com/upheavalfi"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "alt-fun",
+      "balancer"
+    ],
+    "related": [
+      "brownfi",
+      "curve-finance",
+      "defi-app"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Upheaval DEX Overview",
+      "tldr": "Introduces Upheaval's HyperEVM exchange, token launches, liquidity services, and fiat onramp.",
+      "url": "https://docs.upheaval.fi/",
+      "source": "Upheaval",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Upheaving the Norm",
+      "tldr": "Explains Upheaval's token launch and liquidity proposals for HyperEVM and HyperCore.",
+      "url": "https://docs.upheaval.fi/articles/07-09-2025-upheaving-the-norm",
+      "source": "Upheaval",
+      "tag": "Explainer"
+    }
+  ]
+}

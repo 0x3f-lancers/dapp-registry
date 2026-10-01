@@ -1,0 +1,53 @@
+{
+  "slug": "t3tris-finance",
+  "name": "T3tris Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761086/dapp-store-logos/t3tris-finance.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "T3tris Finance lets managers deploy and operate async ERC-4626 vaults on any EVM chain.",
+    "description": "T3tris Finance is infrastructure for deploying, curating and operating asynchronous ERC-4626 vaults on any EVM chain, where deposits and withdrawals settle on a delay and not instantly. That delay is deliberate: it lets a vault use execution models that cannot settle synchronously, including CEX, RWA, OTC, cross-chain, options, staking and epoch-based strategies. Curators pay no protocol fees, because T3tris instead earns on idle capital during the settlement window by routing it to a money market. Depositors receive shares that track the strategy's performance net of the curator's own fees.",
+    "meta": "Asynchronous ERC-4626 vaults, letting strategies hold positions that cannot unwind on demand.",
+    "pageTitle": "T3tris Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://t3tris.finance/",
+    "twitter": "https://x.com/0xT3tris"
+  },
+  "relations": {
+    "alternatives": [
+      "ample-money",
+      "arcadia-finance",
+      "beefy"
+    ],
+    "related": [
+      "beefy-finance",
+      "d2-finance",
+      "gami-labs"
+    ]
+  },
+  "resources": [
+    {
+      "title": "T3tris Core Concepts",
+      "tldr": "Explains vault shares, request based settlement, capital custody, fees, and how vault APY is calculated.",
+      "url": "https://docs.t3tris.finance/concepts/overview/",
+      "source": "T3tris",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Redeeming from a T3tris Vault",
+      "tldr": "Walks through requesting a redemption, waiting for curator settlement, and claiming the underlying asset.",
+      "url": "https://docs.t3tris.finance/depositors/redeem/",
+      "source": "T3tris",
+      "tag": "Tutorial"
+    }
+  ]
+}

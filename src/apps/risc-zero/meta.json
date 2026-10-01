@@ -31,5 +31,31 @@
       "solidity-compiler-selector",
       "bulletproofs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Proving That Code Ran Correctly",
+      "tldr": "Guest and host, the journal, and the receipt with its seal. The zkVM model explained before any code is written.",
+      "url": "https://dev.risczero.com/api/zkvm/",
+      "source": "RISC Zero Docs",
+      "tag": "AI & Agents",
+      "image": "https://dev.risczero.com/preview-images/69464dc72ef4b56a35ddc58d468564f3131f040d.png"
+    },
+    {
+      "title": "Your First Proof",
+      "tldr": "A quick start that gets a Rust program compiled to RISC-V, executed and proven, so the abstractions land against something real.",
+      "url": "https://dev.risczero.com/api/zkvm/quickstart",
+      "source": "RISC Zero Docs",
+      "tag": "Infrastructure",
+      "image": "https://dev.risczero.com/preview-images/426eb9da8ffc1db484393a7b75a3c7c7bff165e2.png"
+    },
+    {
+      "title": "Verifiable Computation, Without the Cryptography",
+      "tldr": "A plain explanation of what a zero-knowledge proof buys you here, aimed at people who will never write a circuit.",
+      "url": "https://eco.com/support/en/articles/11803106-what-is-risc-zero-zkvm-verifiable-computation",
+      "source": "Eco",
+      "tag": "Identity",
+      "image": "https://downloads.intercomcdn.com/i/o/bswxc49x/872497/7fb618c394dc8b00eb54e89b3ebf/cf910b554cce9ebee74be1d4eb5a9eb5.jpg"
+    }
+  ]
 }

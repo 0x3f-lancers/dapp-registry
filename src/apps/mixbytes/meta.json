@@ -36,5 +36,34 @@
       "securedapp",
       "robot-framework"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Storage for Upgradable Ethereum Smart Contracts",
+      "tldr": "Upgrade the logic and the storage layout stays behind, which is where upgradeable contracts quietly break.",
+      "url": "https://mixbytes.io/blog/storage-upgradable-ethereum-smart-contracts",
+      "source": "MixBytes Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-06-03",
+      "image": "https://static.tildacdn.com/tild6531-3734-4561-a631-393938303834/02.jpg"
+    },
+    {
+      "title": "Collisions of Solidity Storage Layouts",
+      "tldr": "The follow-up, on what happens when two contracts disagree about which slot holds what. A subtle bug class with expensive consequences.",
+      "url": "https://mixbytes.io/blog/collisions-solidity-storage-layouts",
+      "source": "MixBytes Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-06-03",
+      "image": "https://static.tildacdn.com/tild6431-6262-4666-a461-363038383336/03.jpg"
+    },
+    {
+      "title": "Random Numbers and Decentralized Networks: Implementation",
+      "tldr": "Long treatment of publicly verifiable random beacons. Randomness nobody can predict and everybody can check is harder than it sounds.",
+      "url": "https://mixbytes.io/blog/random-numbers-decentralized-networks-implementation",
+      "source": "MixBytes Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-06-03",
+      "image": "https://static.tildacdn.com/tild3161-3638-4437-b764-363663663765/05.jpg"
+    }
+  ]
 }

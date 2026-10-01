@@ -31,5 +31,19 @@
       "soulbound",
       "caveworld"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started With Radicle",
+      "tldr": "Publishing a repository to the peer network, cloning someone else's, and what replaces a central host in that flow.",
+      "url": "https://radicle.xyz/guides/quick-start/",
+      "source": "Radicle"
+    },
+    {
+      "title": "How The Protocol Works",
+      "tldr": "The gossip layer underneath: how repositories propagate between peers and what a seed node is actually doing.",
+      "url": "https://radicle.xyz/guides/protocol/",
+      "source": "Radicle"
+    }
+  ]
 }

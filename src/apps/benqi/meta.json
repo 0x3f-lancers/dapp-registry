@@ -35,5 +35,19 @@
       "hubble",
       "enzyme"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Core Markets",
+      "tldr": "Which assets can be supplied and borrowed, and the parameters that govern each market.",
+      "url": "https://docs.benqi.fi/benqi-markets/core-markets",
+      "source": "BENQI"
+    },
+    {
+      "title": "Protocol Parameters",
+      "tldr": "Collateral factors, reserve factors and liquidation thresholds, and what each one protects against.",
+      "url": "https://docs.benqi.fi/benqi-markets/protocol-parameters",
+      "source": "BENQI"
+    }
+  ]
 }

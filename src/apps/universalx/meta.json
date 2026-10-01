@@ -3,7 +3,9 @@
   "name": "UniversalX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750949/web3-explorer/dapp-logos/universalx.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Avalanche",
     "Base",
@@ -25,7 +27,39 @@
     "twitter": "https://x.com/UseUniversalX"
   },
   "relations": {
-    "alternatives": ["carbon", "heroswap", "rubydex"],
-    "related": ["foxify", "rubydex"]
-  }
+    "alternatives": [
+      "carbon",
+      "heroswap",
+      "rubydex"
+    ],
+    "related": [
+      "foxify",
+      "rubydex"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Trading Across Chains From One Account",
+      "tldr": "Buying on a network you hold nothing on, and what happens underneath to make that work.",
+      "url": "https://docs.universalx.app/use/trade-buy-and-sell-tokens-on-any-chain",
+      "source": "UniversalX Docs",
+      "tag": "Trading",
+      "image": "https://docs.universalx.app/~gitbook/ogimage/iwGtyd3ynokCmqea9Tgt"
+    },
+    {
+      "title": "Creating a Universal Account",
+      "tldr": "Setup and first funding, written for someone who has used ordinary wallets before.",
+      "url": "https://docs.universalx.app/use/creating-and-funding-a-universal-account",
+      "source": "UniversalX Docs",
+      "image": "https://docs.universalx.app/~gitbook/ogimage/UkjSALTeH5NT33B8ooOr"
+    },
+    {
+      "title": "Depositing Into the Account",
+      "tldr": "The routes in, and which one to pick depending on where your funds are now.",
+      "url": "https://docs.universalx.app/use/depositing-to-universal-accounts-v2",
+      "source": "UniversalX Docs",
+      "tag": "Payments",
+      "image": "https://docs.universalx.app/~gitbook/ogimage/Wd3Kcj1ubg0ursQFGt6e"
+    }
+  ]
 }

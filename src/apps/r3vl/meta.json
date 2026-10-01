@@ -32,5 +32,28 @@
     "related": [
       "team-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Splitting Revenue On-Chain",
+      "tldr": "Setting up an automatic split so income divides itself without anyone holding the pot.",
+      "url": "https://docs.r3vl.xyz/reveel-protocol-v2-documentation/getting-started/creating-a-revenue-path",
+      "source": "Reveel Docs",
+      "tag": "Finance"
+    },
+    {
+      "title": "Tracking What Has Been Paid",
+      "tldr": "Reading the state of a split, which is what makes the arrangement auditable.",
+      "url": "https://docs.r3vl.xyz/reveel-protocol-v2-documentation/getting-started/viewing-your-revenue-path",
+      "source": "Reveel Docs",
+      "tag": "Security"
+    },
+    {
+      "title": "Changing the Split Later",
+      "tldr": "What can be altered after the fact and what is fixed. Worth knowing before you deploy.",
+      "url": "https://docs.r3vl.xyz/reveel-protocol-v2-documentation/getting-started/updating-your-revenue-path",
+      "source": "Reveel Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

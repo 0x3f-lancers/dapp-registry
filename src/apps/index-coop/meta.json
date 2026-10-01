@@ -37,5 +37,23 @@
       "baltex.io",
       "cream-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing Smart Loops for Leveraged Staked ETH",
+      "tldr": "Automating the borrow-and-restake loop people otherwise run by hand, badly. The automation is the product; the leverage is just what it enables.",
+      "url": "https://www.indexcoop.com/blog/introducing-smart-loops-wsteth15x",
+      "source": "Index Coop Blog",
+      "tag": "DeFi",
+      "publishedAt": "2025-06-03"
+    },
+    {
+      "title": "Rebuilding a Yield Product on Morpho",
+      "tldr": "Migrating a live strategy onto different lending infrastructure without disrupting holders. The migration mechanics are the useful part.",
+      "url": "https://www.indexcoop.com/blog/upgrading-hyeth-with-morpho",
+      "source": "Index Coop Blog",
+      "tag": "DeFi",
+      "publishedAt": "2025-06-03"
+    }
+  ]
 }

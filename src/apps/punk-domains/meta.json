@@ -31,5 +31,34 @@
       "solflare",
       "depay"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Traditional Domains vs Web3 Domains",
+      "tldr": "What actually differs between a DNS name and an onchain one: who issues it, who can take it away, and what it can point at.",
+      "url": "https://blog.punk.domains/posts/traditional-vs-web3-domains/",
+      "source": "Punk Domains Blog",
+      "publishedAt": "2023-01-12",
+      "image": "https://blog.punk.domains/img/traditional-vs-web3-domains/cover.png",
+      "tag": "Identity"
+    },
+    {
+      "title": "Sending Tokens to a Punk Domain",
+      "tldr": "Addresses starting 0x and running to 42 characters are impossible to remember. How a readable name resolves to one when you send.",
+      "url": "https://blog.punk.domains/posts/how-to-send-tokens-to-punk-domain/",
+      "source": "Punk Domains Blog",
+      "publishedAt": "2023-01-05",
+      "image": "https://blog.punk.domains/img/how-to-send-tokens/cover.png",
+      "tag": "Identity"
+    },
+    {
+      "title": "How Communities Issue Their Own Domain Extensions",
+      "tldr": "PoolTogether has .pool and KlimaDAO has .klima. What it takes for a DAO to run its own extension, and how to contribute to the protocol.",
+      "url": "https://blog.punk.domains/posts/contribute/",
+      "source": "Punk Domains Blog",
+      "publishedAt": "2022-12-10",
+      "tag": "Governance",
+      "image": "https://blog.punk.domains/img/contribute/cover.jpg"
+    }
+  ]
 }

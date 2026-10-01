@@ -1,0 +1,54 @@
+{
+  "slug": "likwid",
+  "name": "LIKWID",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760951/dapp-store-logos/likwid.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Oracle-free margin trading and lending for any token, built from one unified pool.",
+    "description": "LIKWID merges an AMM and a lending market into a single liquidity pool, so any token can be traded with up to 5x leverage long or short from the day it launches, without price oracles or listings. Liquidity providers earn swap fees, leverage fees and lending interest from the same deposit. The project took part in Uniswap programmes and MVB9, and its contracts are audited.",
+    "meta": "Trade any token with up to 5x leverage and no oracles on LIKWID, where LPs earn swap, leverage and lending income.",
+    "pageTitle": "LIKWID - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://likwid.fi",
+    "twitter": "https://x.com/likwid_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "pika-protocol",
+      "lighter",
+      "markets-xyz"
+    ],
+    "related": [
+      "symmio",
+      "perpmate",
+      "demex"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Likwid Docs: Introduction",
+      "tldr": "Explains how one Likwid pool curve handles spot trades, lending and leverage on any ERC-20 pair with no oracle.",
+      "url": "https://docs.likwid.fi/",
+      "source": "Likwid Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "LIKWID Completes Security Audit Ahead of Mainnet",
+      "tldr": "Announces LIKWID's Certora audit, funded by the Uniswap Foundation, ahead of mainnet for its oracle-free margin protocol.",
+      "url": "https://www.pr-inside.com/likwid-completes-security-audit-ahead-of-mainnet-reinventing-margin-r5107602.htm",
+      "source": "ACCESS Newswire",
+      "tag": "Security",
+      "publishedAt": "2025-05-29"
+    }
+  ]
+}

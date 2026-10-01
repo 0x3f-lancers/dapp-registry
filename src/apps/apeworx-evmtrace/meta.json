@@ -30,5 +30,21 @@
       "revoke-cash",
       "bonadocs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading a Transaction's Call Tree",
+      "tldr": "Every internal call laid out as a tree with gas attached, which is how you find where a transaction actually spent its money.",
+      "url": "https://docs.apeworx.io/ape/stable/userguides/trace.html",
+      "source": "Ape Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Geth Traces or Parity Traces",
+      "tldr": "Two RPC methods, two shapes of output, one call tree. Which one your node supports decides how you build it.",
+      "url": "https://moralis.com/web3-wiki/apeworx-evm-trace/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    }
+  ]
 }

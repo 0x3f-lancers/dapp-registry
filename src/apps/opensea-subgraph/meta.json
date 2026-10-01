@@ -28,5 +28,22 @@
     "related": [
       "blast"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Indexing Seaport Orders",
+      "tldr": "Orders, assets and trades from the marketplace protocol, exposed as one GraphQL endpoint rather than raw contract logs.",
+      "url": "https://moralis.com/web3-wiki/opensea-subgraph/",
+      "source": "Moralis",
+      "tag": "Trading"
+    },
+    {
+      "title": "Why the Schema Is Standardised",
+      "tldr": "One shared shape across every marketplace, so LooksRare and X2Y2 answer the same query as OpenSea does.",
+      "url": "https://github.com/messari/subgraphs",
+      "source": "Messari",
+      "image": "https://opengraph.githubassets.com/55b38d3f678cf04dc0e19756a0ea1bba9af9664359ca82d15f2edb970bca52bc/messari/subgraphs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

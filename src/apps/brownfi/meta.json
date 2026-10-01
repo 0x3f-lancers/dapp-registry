@@ -1,0 +1,55 @@
+{
+  "slug": "brownfi",
+  "name": "BrownFi",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760783/dapp-store-logos/brownfi.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad",
+    "Base"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "BrownFi is a capital-efficient AMM deployed across several EVM chains including HyperEVM and Monad.",
+    "description": "BrownFi is an AMM aimed at ordinary liquidity providers, using a pricing curve it claims reaches around a hundred times the capital efficiency of Uniswap v2. Providers get flexible market-making parameters without having to manage a concentrated range by hand. The AMM is live on Hyperliquid, Monad and Base.",
+    "meta": "One capital-efficient AMM curve deployed across HyperEVM, Monad, Berachain, Linea and Base.",
+    "pageTitle": "BrownFi - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://brownfi.io",
+    "twitter": "https://x.com/BrownFiAMM"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "infinex",
+      "lifi"
+    ],
+    "related": [
+      "woofi",
+      "balancer",
+      "clober"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Architecture Overview",
+      "tldr": "Explains BrownFi V3 pool contracts, routing, and the architecture used for swaps.",
+      "url": "https://brownfi.gitbook.io/brownfi-docs/brownfi-v3/architecture-overview.md",
+      "source": "BrownFi",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Using UniV2 as the Benchmark",
+      "tldr": "Explains impermanent loss and why BrownFi compares its liquidity model with Uniswap V2.",
+      "url": "https://brownfi.gitbook.io/brownfi-docs/brownfi-v3/benchmark/using-univ2-as-the-benchmark.md",
+      "source": "BrownFi",
+      "tag": "Explainer"
+    }
+  ]
+}

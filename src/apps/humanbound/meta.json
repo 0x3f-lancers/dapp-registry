@@ -30,5 +30,19 @@
       "orange-protocol",
       "joba-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Extendable Token Contracts",
+      "tldr": "How an ERC-721 is built to be extended after deployment, and what that means for a non-transferable token.",
+      "url": "https://docs.humanbound.xyz/smart-contracts/erc721-extendable",
+      "source": "Humanbound"
+    },
+    {
+      "title": "Airdrops That Resist Farming",
+      "tldr": "Using proof of identity to keep a distribution away from sybils, and what it costs legitimate users.",
+      "url": "https://docs.humanbound.xyz/use-cases/fair-airdrops",
+      "source": "Humanbound"
+    }
+  ]
 }

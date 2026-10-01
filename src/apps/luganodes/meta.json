@@ -1,0 +1,54 @@
+{
+  "slug": "luganodes",
+  "name": "Luganodes",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790163855/dapp-store-logos/luganodes.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Non-custodial institutional staking provider running validators on 40+ networks.",
+    "description": "Luganodes runs validators for institutions and individuals on Ethereum, Solana, Tron, Sui, Hyperliquid, Monad and dozens more, with more than $2 billion staked and 99.9% uptime. It is certified to ISO 27001 and SOC 2 Type II, had its slashing risk reviewed by Quantstamp, and offers insurance through Chainproof at no extra cost. Stakers keep custody of their assets throughout.",
+    "meta": "Stake on 40+ networks with Luganodes, a SOC 2 certified non-custodial validator with $2B+ staked and optional insurance.",
+    "pageTitle": "Luganodes - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://luganodes.com",
+    "twitter": "https://x.com/luganodes"
+  },
+  "relations": {
+    "alternatives": [
+      "publicnode",
+      "blockpi-network",
+      "quicknode"
+    ],
+    "related": [
+      "chainlove",
+      "nownodes",
+      "din-infura"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Duration and Liquidity Shape Staking Yield",
+      "tldr": "Explains how lockup time and liquidity affect institutional staking returns beyond the headline yield rate.",
+      "url": "https://luganodes.com/blog/duration-liquidity-staking-yield",
+      "source": "Luganodes",
+      "tag": "Research"
+    },
+    {
+      "title": "The Infrastructure Behind Luganodes ETH Staking",
+      "tldr": "A detailed look at validator reliability, client diversity, distributed validation, and MEV routing in Luganodes' ETH stack.",
+      "url": "https://luganodes.com/blog/ethereum-staking-stack-luganodes",
+      "source": "Luganodes",
+      "tag": "Research"
+    }
+  ]
+}

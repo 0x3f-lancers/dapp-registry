@@ -17,8 +17,9 @@
     "pageTitle": "IntelliJ Solidity Plugin - Web3 Developer Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/intellij-solidity/intellij-solidity",
-    "twitter": "https://x.com/JBPlatform"
+    "website": "https://intellij-solidity.dev",
+    "twitter": "https://x.com/JBPlatform",
+    "github": "https://github.com/intellij-solidity/intellij-solidity"
   },
   "relations": {
     "alternatives": [
@@ -31,5 +32,14 @@
       "tezos-sdk-for-unity",
       "quicknode-sdk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Solidity Support Inside JetBrains",
+      "tldr": "The plugin source and readme: highlighting, completion, go-to-declaration and formatting, plus how to build and contribute to it.",
+      "url": "https://github.com/intellij-solidity/intellij-solidity",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/b2744192bfd00e4a0ac1d5d0f4788caef974894cd3c26c6ab80d6623389bff1a/intellij-solidity/intellij-solidity"
+    }
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "qr-coin",
+  "name": "QR coin",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761037/dapp-store-logos/qr-coin.jpg",
+  "category": "Web3 Social Dapps",
+  "subcategory": [
+    "Social Tokens"
+  ],
+  "chains": [
+    "Base",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Daily on-chain auction where the winner decides where one QR code points.",
+    "description": "QR coin sells attention through an auction. Each day people bid to choose the website a single QR code links to, and the winning link is seen by everyone who scans it until the next auction. Proceeds support the QR token. It started on Base, where it grew popular with Farcaster users, and World App users can join the auction too.",
+    "meta": "Bid in QR coin's daily on-chain auction to decide which website one QR code sends everyone to, on Base and World App.",
+    "pageTitle": "QR coin - Web3 Social Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://qrcoin.fun",
+    "twitter": "https://x.com/QRcoindotfun"
+  },
+  "relations": {
+    "alternatives": [
+      "timetoken-finance",
+      "imelab",
+      "torum"
+    ],
+    "related": [
+      "1frgvn"
+    ]
+  },
+  "resources": [
+    {
+      "title": "A New Onchain Attention Machine",
+      "tldr": "Bankless on qrcoin's daily auction for a single QR code, and why the bids kept rising as attention grew.",
+      "url": "https://www.bankless.com/read/a-new-onchain-attention-machine",
+      "source": "Bankless",
+      "tag": "Culture",
+      "publishedAt": "2025-05-28"
+    },
+    {
+      "title": "QRCoin Hits $3,500 Daily Auction Bids",
+      "tldr": "Traces QR coin's path from a Clanker launch on Farcaster to four-figure daily bids and a multimillion market cap.",
+      "url": "https://www.techbuzz.ai/articles/the-on-chain-attention-machine",
+      "source": "The Tech Buzz",
+      "tag": "Culture",
+      "publishedAt": "2026-01-15"
+    }
+  ]
+}

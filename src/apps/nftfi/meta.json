@@ -31,5 +31,23 @@
       "nftrade",
       "magic-eden"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Changed in V3",
+      "tldr": "The upgrade explained in terms of what borrowers and lenders experience differently.",
+      "url": "https://docs.nftfi.com/overview/v3-protocol-upgrade",
+      "source": "NFTfi Docs",
+      "tag": "DeFi",
+      "image": "https://docs.nftfi.com/~gitbook/ogimage/W8Kljf3pS4rvrSlWLnQV"
+    },
+    {
+      "title": "Accepting a Loan Against an NFT",
+      "tldr": "What you are committing to when you take the offer, including what happens if you cannot repay.",
+      "url": "https://docs.nftfi.com/borrow/accepting-loan-offers",
+      "source": "NFTfi Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.nftfi.com/~gitbook/ogimage/bQOEZnugOKxQ9OHz2oAf"
+    }
+  ]
 }

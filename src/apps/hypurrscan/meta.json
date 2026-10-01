@@ -1,0 +1,53 @@
+{
+  "slug": "hypurrscan",
+  "name": "HypurrScan",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760917/dapp-store-logos/hypurrscan.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "HypurrScan is a community block explorer for Hyperliquid, covering HyperCore activity alongside HyperEVM.",
+    "description": "HypurrScan is an explorer built specifically for Hyperliquid and not adapted from a general EVM scanner. It surfaces the parts of the network a standard explorer misses, including HyperCore order book activity, staking and vault movements, and the flows between Core and the EVM layer. Its operators also run a Hyperliquid validator that accepts HYPE delegations.",
+    "meta": "HypurrScan is a Hyperliquid block explorer covering HyperCore and HyperEVM activity in one interface.",
+    "pageTitle": "HypurrScan - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hypurrscan.io/",
+    "twitter": "https://x.com/hypurrscan"
+  },
+  "relations": {
+    "alternatives": [
+      "blockscout",
+      "etherscan",
+      "flowscan"
+    ],
+    "related": [
+      "ccxt",
+      "moralis",
+      "multisender"
+    ]
+  },
+  "resources": [
+    {
+      "title": "About HypurrScan",
+      "tldr": "Explains the explorer's tools for investigating Hyperliquid transactions, token activity, and onchain data.",
+      "url": "https://hypurrscan.io/about",
+      "source": "HypurrScan",
+      "tag": "Explainer"
+    },
+    {
+      "title": "HypurrScan API Reference",
+      "tldr": "Documents the public endpoints and rate limits for accessing HypurrScan token and transaction data.",
+      "url": "https://api.hypurrscan.io/ui/",
+      "source": "HypurrScan",
+      "tag": "Tutorial"
+    }
+  ]
+}

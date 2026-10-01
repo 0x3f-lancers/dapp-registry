@@ -1,0 +1,53 @@
+{
+  "slug": "liminal-basis",
+  "name": "Liminal Basis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760951/dapp-store-logos/liminal-basis.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Liminal Basis runs automated basis-trading vaults capturing Hyperliquid yield sources.",
+    "description": "Liminal packages Hyperliquid's native yield into delta-neutral strategies that a depositor can hold without taking directional risk. Positions can be minted as tokenized strategies usable elsewhere in DeFi while still earning, or built and run directly with self-custody on Hyperliquid. The platform publishes live and historical funding rates per asset alongside performance data, and counts more than 19,000 users. Independent security audit reports are available.",
+    "meta": "Liminal Basis packages Hyperliquid yield into delta-neutral strategies, held as tokenized positions or run with self-custody.",
+    "pageTitle": "Liminal Basis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://liminal.money",
+    "twitter": "https://x.com/liminalmoney"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "blueberry",
+      "clovis",
+      "d2-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Tokenizing Hyperliquid Money Market Yield",
+      "tldr": "Explains how xLEND follows lending conditions and reallocates funds across Hyperliquid money markets.",
+      "url": "https://liminal.money/blog/xlend-tokenizing-hyperliquid-money-market-yield",
+      "source": "Liminal",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Customized Versus Tokenized Yield",
+      "tldr": "Compares Liminal's controlled strategy setup with tokenized access to Hyperliquid native yield.",
+      "url": "https://liminal.money/blog/customized-vs-tokenized",
+      "source": "Liminal Basis",
+      "tag": "DeFi"
+    }
+  ]
+}

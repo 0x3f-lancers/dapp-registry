@@ -34,5 +34,23 @@
       "privy",
       "torus"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Identity You Actually Control",
+      "tldr": "A W3C decentralised identifier bound to a key you hold, with verifiable claims on top. What self-sovereign means concretely.",
+      "url": "https://docs.ont.io/decentralized-identity-and-data/ontid",
+      "source": "Ontology Docs",
+      "tag": "Identity",
+      "image": "https://docs.ont.io/~gitbook/ogimage/-LwHH-VWs1EEoLXAyGVg"
+    },
+    {
+      "title": "How the DID Method Works",
+      "tldr": "The spec itself: base58 identifiers, the description object behind each one, and the contract that handles updates.",
+      "url": "https://docs.ont.io/decentralized-identity-and-data/ontid/decentralized-identifiers/specification",
+      "source": "Ontology Docs",
+      "tag": "Identity",
+      "image": "https://docs.ont.io/~gitbook/ogimage/-M8n4Hmqhs_Za7IFr5hP"
+    }
+  ]
 }

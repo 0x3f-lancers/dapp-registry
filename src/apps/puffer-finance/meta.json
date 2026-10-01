@@ -32,5 +32,28 @@
       "echo",
       "bancor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Slashing Is Rarer Than You Think, and Worse",
+      "tldr": "About 472 validators out of 1.2 million have ever been slashed. Why that rounding error still dominates an institutional risk model.",
+      "url": "https://blog.puffer.fi/posts/the-hidden-risk-in-your-institutional-eth-stack-why-slashing-matters-more-than-you-think-f65869475a15",
+      "source": "Puffer Blog",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "A Risk Framework for Staking and Restaking",
+      "tldr": "Restaking adds yield and adds exposure. Written for allocators who need to price the second before accepting the first.",
+      "url": "https://blog.puffer.fi/posts/ethereum-staking-restaking-94ba72e95624",
+      "source": "Puffer Blog",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Where Security Sits in a Staking Protocol",
+      "tldr": "The design decisions taken from the first mainnet deployment onward, and what each one was protecting against.",
+      "url": "https://blog.puffer.fi/posts/puffer-sets-a-higher-standard-of-security-for-every-eth-staked",
+      "source": "Puffer Blog",
+      "tag": "Security"
+    }
+  ]
 }

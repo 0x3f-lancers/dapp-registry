@@ -32,5 +32,25 @@
       "tectonic-finance",
       "wingriders"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cancelling A Subscription You Forgot",
+      "tldr": "Worked example of the core problem the app exists for, using a virtual card to stop a renewal rather than chasing the merchant.",
+      "url": "https://revuto.com/blog/how-to-easily-cancel-grammarly/",
+      "source": "Revuto"
+    },
+    {
+      "title": "Running A Staking Pool",
+      "tldr": "What a project takes on when it operates its own Cardano pool, and what delegators get out of the arrangement.",
+      "url": "https://revuto.com/blog/meld-staking-pool-ready-for-rstronauts/",
+      "source": "Revuto"
+    },
+    {
+      "title": "Building Subscriptions On Cardano",
+      "tldr": "A developer session on the recurring-payment problem: why cards solved it easily and a blockchain does not.",
+      "url": "https://revuto.com/blog/revuto-tech-talks-17-mission-planets/",
+      "source": "Revuto"
+    }
+  ]
 }

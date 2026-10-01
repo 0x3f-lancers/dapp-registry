@@ -31,5 +31,20 @@
       "bonadocs",
       "codeslaw"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Encoding Python Values for a Contract",
+      "tldr": "Turning ordinary Python types into the binary an ABI expects, including the tuple and dynamic cases that catch people out.",
+      "url": "https://eth-abi.readthedocs.io/en/latest/encoding.html",
+      "source": "eth-abi Docs"
+    },
+    {
+      "title": "Decoding, and the Strict Flag",
+      "tldr": "Whether to enforce 32-byte padding and zeroed padding bytes. The default differs from Solidity's own decoder, which matters.",
+      "url": "https://eth-abi.readthedocs.io/en/stable/decoding.html",
+      "source": "eth-abi Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

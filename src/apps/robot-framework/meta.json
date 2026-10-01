@@ -33,5 +33,19 @@
       "evm2",
       "apeworx-evmtrace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Testing Solidity With Robot Framework",
+      "tldr": "The toolkit's own documentation: how acceptance-test syntax is pointed at contracts, and what it can assert.",
+      "url": "https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit",
+      "source": "Robot Framework Toolkit"
+    },
+    {
+      "title": "Running Against Hardhat",
+      "tldr": "Wiring the test suite to a local Hardhat chain, which is where most contract testing actually happens.",
+      "url": "https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit/tree/main/solidity-hardhat-multichain-tools",
+      "source": "Robot Framework Toolkit"
+    }
+  ]
 }

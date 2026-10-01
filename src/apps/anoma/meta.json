@@ -1,0 +1,54 @@
+{
+  "slug": "anoma",
+  "name": "Anoma",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760737/dapp-store-logos/anoma.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Blockchain Interoperability Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Intent-centric distributed operating system for building private apps that work on any chain.",
+    "description": "Anoma lets users express what they want, such as a swap or a payment, and leaves the network to work out how to settle it across chains. Developers write against the Anoma App SDK instead of chain-specific contracts, and applications can keep data private by default. Its own products include AnomaPay and the Anoma Portal, and the project is developed by the Anoma Foundation in Switzerland.",
+    "meta": "Anoma is a distributed OS for intent-based, privacy-preserving apps that settle on any chain without chain-specific code.",
+    "pageTitle": "Anoma - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://anoma.net",
+    "twitter": "https://x.com/anoma"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "elk-finance",
+      "superchain-dev-console"
+    ],
+    "related": [
+      "succinct",
+      "quex-tech",
+      "butter-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Confidential Swaps on AnomaPay",
+      "tldr": "Introduces AnomaPay's confidential swap flow and how users can trade while keeping transaction details private.",
+      "url": "https://blog.anoma.net/introducing-confidential-swaps-on-anomapay/",
+      "source": "Anoma",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Private Payments on Stable with AnomaPay",
+      "tldr": "Explains how AnomaPay shields balances and transfers on Stable while using USDT0 and familiar EVM wallets.",
+      "url": "https://anoma.net/blog/anomapay-is-now-live-on-stable",
+      "source": "Anoma",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -29,5 +29,21 @@
       "torus",
       "metacrafters"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Goes Into A Wallet Score",
+      "tldr": "The thirty-odd on-chain signals behind the number, and how projects reweight them when using it to filter out sybils.",
+      "url": "https://medium.com/@femicharles62/understanding-0xscore-unveiling-the-power-of-web3-wallet-reputation-de7863d6cd5c",
+      "source": "Medium",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*4gsysSfzrLnHcExtgbAeXQ@2x.jpeg"
+    },
+    {
+      "title": "Why Onchain Credit Is Hard",
+      "tldr": "A wallet costs nothing to abandon, so any score has to survive someone simply starting again. The general problem, examined.",
+      "url": "https://yellow.com/learn/on-chain-credit-scores-what-they-are-and-how-they-work",
+      "source": "Yellow",
+      "image": "https://media.yellow.com/uploads/shutterstock_2492758751_6276d02128.jpg"
+    }
+  ]
 }

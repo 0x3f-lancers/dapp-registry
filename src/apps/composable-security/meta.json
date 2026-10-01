@@ -31,5 +31,25 @@
       "borg-security",
       "quickintel"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Back-Running Bug in Reward Notification",
+      "tldr": "Adding a reward to the next epoch let anyone create locks just beforehand and capture it. The vulnerability written up in full.",
+      "url": "https://composable-security.com/blog/neverland-back-running-reward-notification",
+      "source": "Composable Security Blog",
+      "publishedAt": "2026-06-09",
+      "tag": "Security",
+      "image": "https://composable-security.com/wp-content/uploads/2026/06/Neverland-M01.png"
+    },
+    {
+      "title": "How to Minimise Prompt Injection Risk",
+      "tldr": "Threat modelling, least privilege, output validation, monitoring and adversarial testing applied to LLM apps and agents.",
+      "url": "https://composable-security.com/blog/how-to-minimize-the-risk-of-prompt-injection",
+      "source": "Composable Security Blog",
+      "publishedAt": "2026-05-19",
+      "tag": "AI & Agents",
+      "image": "https://composable-security.com/wp-content/uploads/2026/05/prompt-injection.png"
+    }
+  ]
 }

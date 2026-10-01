@@ -31,5 +31,25 @@
       "dhedge",
       "cvi-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Risks a Liquidity Provider Actually Takes",
+      "tldr": "Detailed pool mechanics and the specific protections built for the people supplying the funds, rather than a summary of the upside.",
+      "url": "https://medium.com/futureswap/liquidity-provider-risks-on-futureswap-6d5a9d519d24",
+      "source": "Futureswap Blog",
+      "publishedAt": "2022-03-04",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*vbx23XHTYpu7-Ozv5sAzwQ.jpeg"
+    },
+    {
+      "title": "Building Leveraged Markets on Top of an AMM",
+      "tldr": "Using Trader Joe's pools as the price and liquidity source for leveraged pairs on Avalanche, rather than running a separate order book.",
+      "url": "https://medium.com/futureswap/launching-futureswap-v4-1-on-avalanche-fa5a24de093a",
+      "source": "Futureswap Blog",
+      "publishedAt": "2022-04-22",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*RxRF0e1I_FoWu6MiuzIvnw.jpeg"
+    }
+  ]
 }

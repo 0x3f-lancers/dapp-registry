@@ -1,0 +1,53 @@
+{
+  "slug": "the-unfrgtn",
+  "name": "The Unfrgtn",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761093/dapp-store-logos/the-unfrgtn.jpg",
+  "category": "NFT Tools",
+  "subcategory": [
+    "Token Gating Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "The Unfrgtn is a multichain holder verification tool that token-gates Discord servers.",
+    "description": "The Unfrgtn checks token and NFT holdings across chains to control access to Discord communities. Its verification service covers more than ten chains, and the same account system drives a Web3 dashboard alongside task-to-earn and play-to-earn activities. The project's own collections, Unfrgtn Orbit and Unfrgtn Aliens, grant access to the tooling.",
+    "meta": "The Unfrgtn is a holder verification tool that checks tokens and NFTs across 10+ chains to token-gate Discord servers, plus a Web3 dashboard.",
+    "pageTitle": "The Unfrgtn - NFT Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://unfrgtn.space",
+    "twitter": "https://x.com/UnfrgtnOrbit"
+  },
+  "relations": {
+    "alternatives": [
+      "collab-land",
+      "guild-xyz",
+      "matrica"
+    ],
+    "related": [
+      "moralis-nft-api",
+      "nfts2me",
+      "reservoir-protocol"
+    ]
+  },
+  "resources": [
+    {
+      "title": "THE UNFRGTN INTRODUCTION",
+      "tldr": "Introduces The Unfrgtn’s multichain dashboard and the data it brings together.",
+      "url": "https://docs.unfrgtn.space/information/the-unfrgtn-introduction.md",
+      "source": "The Unfrgtn",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Bot Installation",
+      "tldr": "Guides community managers through installing The Unfrgtn bot in Discord.",
+      "url": "https://docs.unfrgtn.space/guides/bot-installation.md",
+      "source": "The Unfrgtn",
+      "tag": "Tutorial"
+    }
+  ]
+}

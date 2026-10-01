@@ -1,0 +1,53 @@
+{
+  "slug": "schuman",
+  "name": "Schuman Financial",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761057/dapp-store-logos/schuman.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "RWA Tokenization Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Issuer of EURØP, a regulated and fully backed euro stablecoin for on-chain payments.",
+    "description": "Schuman Financial wants the euro to catch up on-chain, where euro stablecoins make up less than 1% of the market. It issues EURØP, a MiCA-compliant euro stablecoin backed one to one by reserves, and qualified businesses can mint and redeem it against euros through its platform. The token is designed for near-instant, low-cost transfers in euros, and it is available on networks including Ethereum and Plasma.",
+    "meta": "Schuman Financial issues EURØP, a MiCA-compliant euro stablecoin that businesses can mint and redeem one to one.",
+    "pageTitle": "Schuman Financial - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://schuman.io",
+    "twitter": "https://x.com/schuman_io"
+  },
+  "relations": {
+    "alternatives": [
+      "yuzu-money",
+      "anzens",
+      "stablr"
+    ],
+    "related": [
+      "valos",
+      "tether"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is the EURØP Stablecoin?",
+      "tldr": "Explains Schuman's euro stablecoin, including its European payment use cases and the role of euro backing.",
+      "url": "https://schuman.io/blog/what-is-europ-europ-the-euro-stablecoin-designed-for-europe/",
+      "source": "Schuman Financial",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Why EURØP Enables Direct Euro Settlement",
+      "tldr": "Schuman explains how euro stablecoin rails can avoid unnecessary dollar conversions in institutional payments.",
+      "url": "https://schuman.io/blog/europe-ends-the-onchain-dollar-detour/",
+      "source": "Schuman Financial",
+      "tag": "Explainer"
+    }
+  ]
+}

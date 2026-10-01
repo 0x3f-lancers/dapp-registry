@@ -1,0 +1,53 @@
+{
+  "slug": "btc-direct",
+  "name": "BTC Direct",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760784/dapp-store-logos/btc-direct.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "BTC Direct is a European crypto broker and onramp provider serving retail and business customers.",
+    "description": "BTC Direct is a European broker that has sold crypto to retail buyers since 2013 and claims more than 1.5 million customers. It lists over 50 cryptocurrencies including Bitcoin, Ethereum, XRP, Solana and Cardano, purchased in euros through iDEAL, bank transfer, credit card, PayPal, Apple Pay, Sofort or Bancontact. The company is MiCAR certified, with a minimum purchase of 50 euros. Alongside individual accounts it offers business accounts and a private trading desk for orders above 50,000 euros.",
+    "meta": "BTC Direct is a European crypto broker and onramp provider for retail and business customers.",
+    "pageTitle": "BTC Direct - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://btcdirect.eu/",
+    "twitter": "https://x.com/BTCDirect"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "calm-treasury",
+      "coindisco"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Pay by Bank Works",
+      "tldr": "Explains the steps and payment flow when buying crypto through BTC Direct's Pay by Bank method.",
+      "url": "https://btcdirect.eu/en-eu/how-pay-by-bank-works",
+      "source": "BTC Direct",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Coldcard Security Flaw Explained",
+      "tldr": "Reviews a Coldcard wallet security issue and the practical implications for hardware wallet users.",
+      "url": "https://btcdirect.eu/en-eu/coldcard-security-flaw",
+      "source": "BTC Direct",
+      "tag": "Security"
+    }
+  ]
+}

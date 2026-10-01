@@ -1,0 +1,54 @@
+{
+  "slug": "peer-xyz",
+  "name": "Peer",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761019/dapp-store-logos/peer-xyz.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Peer enables peer-to-peer crypto trades settled onchain using Venmo, PayPal, Revolut and Cash App.",
+    "description": "Peer is a peer-to-peer marketplace where users buy and sell crypto through payment apps they already have, including Venmo, PayPal, Revolut, Cash App, Zelle and Wise. Payments are verified privately and trades settle through on-chain escrow, so neither side holds the other's funds. Coverage spans dozens of currencies per app, with assets including USDC on Base and HYPE on Hyperliquid. The taker service fee runs up to 0.95 percent. The app is live on iOS and Android.",
+    "meta": "Peer enables peer-to-peer crypto trades settled onchain via Venmo, PayPal, Revolut and Cash App.",
+    "pageTitle": "Peer - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://peer.xyz/",
+    "twitter": "https://x.com/peerxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Provide liquidity and sell USDC",
+      "tldr": "Guides liquidity providers through selling USDC using Peer.",
+      "url": "https://docs.peer.xyz/guides/for-sellers/provide-liquidity-sell-usdc",
+      "source": "Peer",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Run a vault",
+      "tldr": "Explains the steps and responsibilities involved in running a Peer vault.",
+      "url": "https://docs.peer.xyz/guides/for-vault-managers/run-a-vault",
+      "source": "Peer",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -30,5 +30,31 @@
       "gatekeepxyz",
       "solhint-prettier-plugin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Fake Treasury Playbook",
+      "tldr": "Half team tokens, a chunk farmed from a protocol's own pool, the rest locked in vesting nobody can touch. How war chests get inflated.",
+      "url": "https://rekt.news/research/fake-treasury-playbook",
+      "source": "Rekt News",
+      "tag": "Governance",
+      "image": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/research/The%20Fake%20Treasury%20Playbook.png"
+    },
+    {
+      "title": "Why Privacy Matters More Than Ever in 2026",
+      "tldr": "Chains competed on speed, then fees, then composability. The current race is quieter and has larger consequences.",
+      "url": "https://rekt.news/research/why-privacy-matters-2026",
+      "source": "Rekt News",
+      "image": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2023/01/why-privacy-matter-2026-header.png",
+      "tag": "Security"
+    },
+    {
+      "title": "Transparent When You Want It, Private When You Need It",
+      "tldr": "Stellar has processed 21.5 billion operations across 10 million+ accounts, with quarterly RWA volume at $5.4B and settlement in 5.3 seconds.",
+      "url": "https://rekt.news/research/transparent-when-you-want-it",
+      "source": "Rekt News",
+      "tag": "Tokenization",
+      "image": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2023/01/stellar-long-research-header.png"
+    }
+  ]
 }

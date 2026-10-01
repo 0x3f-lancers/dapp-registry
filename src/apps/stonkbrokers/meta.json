@@ -1,0 +1,51 @@
+{
+  "slug": "stonkbrokers",
+  "name": "StonkBrokers",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761074/dapp-store-logos/stonkbrokers.png",
+  "category": "NFT Dapps",
+  "subcategory": [
+    "NFT Collections"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "StonkBrokers is a 4,444-piece NFT collection on Robinhood Chain with ERC-6551 token-bound wallets.",
+    "description": "StonkBrokers is a collection of 4,444 pixel stock brokers on Robinhood Chain, each holding an ERC-6551 token-bound wallet so the NFT itself can own assets. Brokers trade on the project's Anvil AMM, a ve(3,3) DEX where users swap, provide liquidity and stake for UP emissions. Holders collect stock token distributions, and the STONKBROKER token trades against USDG on the project's own exchange. The team has launched further tokens from the same system, including YARD, WALL, MANCER and the STRIKE vault token.",
+    "meta": "StonkBrokers is a collection of 4,444 pixel brokers on Robinhood Chain, each with an ERC-6551 wallet, tied to the project's Anvil ve(3,3) DEX.",
+    "pageTitle": "StonkBrokers - NFT Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stonkbrokers.cash/",
+    "twitter": "https://x.com/ClutchMarkets"
+  },
+  "relations": {
+    "alternatives": [
+      "3six9",
+      "alpha-quark",
+      "alphaart"
+    ],
+    "related": [
+      "mintpad"
+    ]
+  },
+  "resources": [
+    {
+      "title": "StonkBrokers Documentation",
+      "tldr": "Explains the Anvil AMM, broker NFTs, token launches, loans, and other StonkBrokers products.",
+      "url": "https://www.stonkbrokers.cash/docs",
+      "source": "StonkBrokers",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Stonk Interns Whitepaper",
+      "tldr": "Explains how Stonk Interns relate to broker NFTs, minting, and the broader tokenized asset system.",
+      "url": "https://stonkbrokers.io/docs/interns",
+      "source": "StonkBrokers",
+      "tag": "Explainer"
+    }
+  ]
+}

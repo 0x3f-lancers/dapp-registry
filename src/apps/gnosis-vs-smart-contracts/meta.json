@@ -31,5 +31,15 @@
       "webstudio",
       "metaplex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Batch Auctions and Coincidence of Wants",
+      "tldr": "Orders collected off-chain and settled together at one clearing price, so matching trades never touch external liquidity at all.",
+      "url": "https://medium.com/gnosis-pm/introducing-gnosis-protocol-v2-and-balancer-gnosis-protocol-f693b2938ae4",
+      "source": "Gnosis",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*MvlQxOkW9e9ZdCh2iUyJ7Q.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -29,5 +29,34 @@
       "blowfish",
       "militereum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Gas Sponsorship in Web3: Concepts, Tools, and Implementation",
+      "tldr": "Covers relayers, meta-transactions, smart accounts and ERC-4337 as one connected story rather than four buzzwords, which is how they actually fit.",
+      "url": "https://blog.web3auth.io/implementing-gas-sponsorship-in-web3-key-concepts-and-tools/",
+      "source": "Web3Auth Blog",
+      "publishedAt": "2025-01-27",
+      "tag": "Infrastructure",
+      "image": "https://blog.web3auth.io/content/images/2025/01/medium-_-Implementing-Gas-Sponsorship-in-Web3_-Key-Concepts-and-Tools.png"
+    },
+    {
+      "title": "How Cross-Chain MEV and Private Order Flow Disrupt Chain Abstraction",
+      "tldr": "Explains why abstracting chains away from the user makes the value being extracted underneath harder to see.",
+      "url": "https://blog.web3auth.io/how-cross-chain-mev-and-private-order-flow-disrupt-chain-abstraction/",
+      "source": "Web3Auth Blog",
+      "publishedAt": "2025-01-16",
+      "image": "https://blog.web3auth.io/content/images/2025/01/medium-_-How-Cross-Chain-MEV-and-Private-Order-Flow-Affect-Blockchain-Ecosystems.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Hidden Complexity of Solver Rebalancing in Intent-Based Systems",
+      "tldr": "Solvers hold inventory across chains to fill intents, and that inventory drifts. Why rebalancing quietly decides whether an intent system stays fair.",
+      "url": "https://blog.web3auth.io/why-intent-based-systems-in-web3-are-more-complex-than-they-seem/",
+      "source": "Web3Auth Blog",
+      "publishedAt": "2024-12-26",
+      "image": "https://blog.web3auth.io/content/images/2024/12/medium-_-Why-Intent-Systems-Aren-t-Plug-and-Play--2-.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

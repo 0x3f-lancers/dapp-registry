@@ -30,5 +30,14 @@
       "marlin",
       "lagrange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Paper Behind the Library",
+      "tldr": "A universal, updatable reference string, so one setup ceremony serves every circuit up to a size bound instead of one per circuit.",
+      "url": "https://eprint.iacr.org/2019/1047.pdf",
+      "source": "IACR ePrint",
+      "tag": "Infrastructure"
+    }
+  ]
 }

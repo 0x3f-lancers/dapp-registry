@@ -36,5 +36,34 @@
       "solhint-intellij-plugin",
       "ethlint"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Understanding the Quantum Threat",
+      "tldr": "Not everything on a chain is equally exposed, and this locates the parts that genuinely are. Equally frank about what moving off them would cost.",
+      "url": "https://starkware.co/blog/understanding-the-quantum-threat/",
+      "source": "StarkWare Blog",
+      "publishedAt": "2026-08-05",
+      "image": "https://starkware.co/wp-content/uploads/2026/08/blog-header-understanding-the-quantum-threat-2x-1-scaled.png",
+      "tag": "Security"
+    },
+    {
+      "title": "Formal Verification of the STRK20 Privacy Pool",
+      "tldr": "A privacy protocol verified in Lean with over 230 machine-checked proofs. Formal verification at this scale on a shipped protocol is still rare.",
+      "url": "https://starkware.co/blog/strk20-formal-verification/",
+      "source": "StarkWare Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-07-23",
+      "image": "https://starkware.co/wp-content/uploads/2026/07/Blog-Header-selection.png"
+    },
+    {
+      "title": "STARKs and Native Account Abstraction as Quantum Defence",
+      "tldr": "What actually makes a cryptocurrency quantum-resistant, argued across two layers: the proof system and how accounts authorise anything at all.",
+      "url": "https://starkware.co/blog/starknets-quantum-edge-starks-and-native-account-abstraction/",
+      "source": "StarkWare Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2026-07-20",
+      "image": "https://starkware.co/wp-content/uploads/2026/07/quantum_edge_cover_legible-scaled.png"
+    }
+  ]
 }

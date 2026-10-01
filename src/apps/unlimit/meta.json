@@ -1,0 +1,54 @@
+{
+  "slug": "unlimit",
+  "name": "Unlimit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761116/dapp-store-logos/unlimit.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Unlimit is a global payments provider supporting cards, bank transfers, UPI and local methods.",
+    "description": "Unlimit provides payment infrastructure for businesses accepting credit cards, debit cards, net banking, QR, UPI and wallets, with a particular focus on India. It holds a full Online Payment Aggregator licence from the Reserve Bank of India, alongside direct licences across Latin America, APAC, Africa, the EU and the UK. Merchants integrate through methods tailored to their existing stack, and the company runs a partnership program for platforms reselling its rails.",
+    "meta": "Unlimit is a global payments provider supporting cards, net banking, QR, UPI and wallets, licensed by the Reserve Bank of India and worldwide.",
+    "pageTitle": "Unlimit - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.unlimit.com/",
+    "twitter": "https://x.com/Unlimit_com"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Payment Methods in Mexico",
+      "tldr": "Explains cards, cash, SPEI and digital wallets in Mexican checkout flows for businesses choosing payment methods.",
+      "url": "https://www.unlimit.com/blog/payments/blog-payment-methods-in-mexico/",
+      "source": "Unlimit",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How Payment Links Work",
+      "tldr": "Explains creating and using payment links and how they affect checkout for international customers.",
+      "url": "https://www.unlimit.com/blog/payments/ways-to-pay-payment-by-links/",
+      "source": "Unlimit",
+      "tag": "Tutorial"
+    }
+  ]
+}

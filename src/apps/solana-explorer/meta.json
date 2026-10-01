@@ -31,5 +31,31 @@
       "ethereum",
       "xdc-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Debugging With the Inspector",
+      "tldr": "Instruction breakdowns and program logs are where a failed transaction explains itself. How to actually read them.",
+      "url": "https://www.metaplex.com/docs/solana/using-solana-explorers",
+      "source": "Metaplex Docs",
+      "tag": "Tutorial",
+      "image": "https://www.metaplex.com/docs/api/og?title=Using+Solana+Explorers&description=Learn+how+to+use+Solana+Explorer%2C+SolanaFM%2C+and+CLI+tools+to+inspect+transactions%2C+accounts%2C+and+debug+issues+during+development.&product=solana"
+    },
+    {
+      "title": "Accounts, Tokens and Transactions",
+      "tldr": "A security team long guide to Solana account model, and how to spot an approval that should not be there.",
+      "url": "https://slowmist.medium.com/exploring-solana-a-comprehensive-guide-to-accounts-tokens-transactions-and-ensuring-asset-cf910837ccb3",
+      "source": "SlowMist",
+      "tag": "Tutorial",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*xH4_TlxMfTnB25SxCo_R9g.jpeg"
+    },
+    {
+      "title": "Tracing Your Own Transactions",
+      "tldr": "Following a transfer from signature to settlement, written for people checking where their funds went.",
+      "url": "https://learn.backpack.exchange/articles/how-to-use-a-solana-block-explorer-to-track-your-transactions",
+      "source": "Backpack Learn",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/66830ad123bea7f626bcf58f/66c3bd54c83a218832dd672d_BackpackLearn.png"
+    }
+  ]
 }

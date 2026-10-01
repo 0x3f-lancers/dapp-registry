@@ -1,0 +1,55 @@
+{
+  "slug": "p2p-me",
+  "name": "P2P.me",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761012/dapp-store-logos/p2p-me.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Base",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Peer-to-peer USDC and fiat swaps fast enough to pay at any local QR code.",
+    "description": "P2P.me matches users with more than 1,000 verified liquidity partners who swap USDC for local currency through their own bank accounts, with orders settled on-chain. It started in India, where bank freezes after crypto transfers are a common fear, and it is designed so users can buy, sell or pay at a store QR without that risk. Liquidity partners earn up to 2% per swap, and the project is backed by Coinbase Ventures and Multicoin.",
+    "meta": "Swap USDC and local fiat peer to peer with verified partners on P2P.me, fast enough to pay at any store QR.",
+    "pageTitle": "P2P.me - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.p2p.me",
+    "twitter": "https://x.com/P2Pdotme"
+  },
+  "relations": {
+    "alternatives": [
+      "osl-pay",
+      "moonpay",
+      "mural-pay"
+    ],
+    "related": [
+      "topper",
+      "guardarian-onramp",
+      "daimo"
+    ]
+  },
+  "resources": [
+    {
+      "title": "P2P.me on IQ.wiki",
+      "tldr": "Wiki entry on P2P.me's non-custodial USDC-to-local-currency swaps and how the protocol works as an onchain ramp.",
+      "url": "https://iq.wiki/wiki/p2pme",
+      "source": "IQ.wiki",
+      "tag": "Payments"
+    },
+    {
+      "title": "$P2P: MetaDAO ICO Analysis",
+      "tldr": "Pine Analytics' look at P2P.me's usage, volume, revenue and backers ahead of its token sale through MetaDAO.",
+      "url": "https://pineanalytics.substack.com/p/p2p-metadao-ico-analysis",
+      "source": "Pine Analytics",
+      "tag": "Research",
+      "publishedAt": "2026-03-15"
+    }
+  ]
+}

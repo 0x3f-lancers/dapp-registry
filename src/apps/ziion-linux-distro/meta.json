@@ -32,5 +32,31 @@
       "coinsdo",
       "sygnum-web3-recovery"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting the VM Running",
+      "tldr": "Setup for a Linux distribution preloaded with blockchain security tooling.",
+      "url": "https://docs.ziion.org/install-ziion/get-the-ziion-vm-up-and-running",
+      "source": "ZIION Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.ziion.org/~gitbook/ogimage/6jUWNvEbICFYaIIxAve5"
+    },
+    {
+      "title": "The Automated EVM Tools Included",
+      "tldr": "What ships in the box for analysing EVM bytecode, and what each tool is for.",
+      "url": "https://docs.ziion.org/discover-the-tools/automated-evm-tools",
+      "source": "ZIION Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.ziion.org/~gitbook/ogimage/EAKNtK9u9dVZ1FgoeZdW"
+    },
+    {
+      "title": "Reverse Engineering a Contract",
+      "tldr": "The tooling for working backwards from deployed bytecode when there is no verified source.",
+      "url": "https://docs.ziion.org/discover-the-tools/reverse-engineering-tools",
+      "source": "ZIION Docs",
+      "tag": "Infrastructure",
+      "image": "https://docs.ziion.org/~gitbook/ogimage/2siPgDVOixdGLvsFaVgQ"
+    }
+  ]
 }

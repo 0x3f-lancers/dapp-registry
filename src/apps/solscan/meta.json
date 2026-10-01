@@ -31,5 +31,20 @@
       "vanar",
       "circular-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading a Solana Transaction",
+      "tldr": "Slot, block time, instructions and inner instructions. What each field on the page means when you are trying to work out what happened.",
+      "url": "https://docs.solscan.io/transaction-details/transaction-details",
+      "source": "Solscan Docs"
+    },
+    {
+      "title": "Following Blocks and Transactions Live",
+      "tldr": "How to watch confirmed activity as it happens, and what the explorer is actually querying to show it.",
+      "url": "https://docs.solscan.io/browsing-the-site/blockchain-tab",
+      "source": "Solscan Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

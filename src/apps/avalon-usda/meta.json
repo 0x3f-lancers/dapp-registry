@@ -33,5 +33,28 @@
       "compound-finance",
       "cian-yield-layer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Liquidation Is Triggered",
+      "tldr": "Once the health factor drops below 1 the collateral no longer covers the debt. Up to half the position is repaid, plus a fee.",
+      "url": "https://docs.avalonfinance.xyz/avalon-btcfi-products/defi-lending/liquidation",
+      "source": "Avalon Labs Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Why Isolated Pools Instead of One Market",
+      "tldr": "Three pool types, each matched to its asset mix, so a problem in one BTC derivative cannot spread across the whole book.",
+      "url": "https://docs.avalonfinance.xyz/avalon-btcfi-products/defi-lending/isolated-lending-pool-mechanism",
+      "source": "Avalon Labs Docs",
+      "tag": "Trading"
+    },
+    {
+      "title": "A Borrow Rate That Ignores Utilisation",
+      "tldr": "Most lending markets reprice as the pool fills. This one deliberately does not, and the trade-off that comes with it.",
+      "url": "https://docs.avalonfinance.xyz/avalon-btcfi-products/cedefi-cdp-usda/interest-rate-model",
+      "source": "Avalon Labs Docs",
+      "tag": "DeFi"
+    }
+  ]
 }

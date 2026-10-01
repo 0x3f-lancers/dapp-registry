@@ -7,7 +7,8 @@
     "GitHub Open Source Projects"
   ],
   "chains": [
-    "Ethereum"
+    "Ethereum",
+    "Unichain"
   ],
   "pricing": "",
   "content": {
@@ -17,7 +18,8 @@
     "pageTitle": "OpenZeppelin - Solidity Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "website": "https://www.openzeppelin.com/",
+    "github": "https://github.com/OpenZeppelin/openzeppelin-contracts",
     "twitter": "https://x.com/OpenZeppelin"
   },
   "relations": {
@@ -31,5 +33,19 @@
       "huff-foundry",
       "metaplex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Practical Guide To Quantum Risk",
+      "tldr": "Which parts of a chain a quantum computer would actually threaten, on what timeline, and what a protocol can do about it now.",
+      "url": "https://www.openzeppelin.com/news/a-practical-guide-to-quantum-risk-in-blockchain",
+      "source": "OpenZeppelin"
+    },
+    {
+      "title": "Privacy Without Losing The Audit Trail",
+      "tldr": "The tension in onchain finance between keeping positions confidential and keeping the ledger checkable, and where the middle ground sits.",
+      "url": "https://www.openzeppelin.com/news/privacy-in-onchain-finance",
+      "source": "OpenZeppelin"
+    }
+  ]
 }

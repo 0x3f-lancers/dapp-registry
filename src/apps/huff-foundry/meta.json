@@ -30,5 +30,22 @@
       "ethereum-transaction-viewer",
       "eth-sdk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Testing and Deploying Huff From Foundry",
+      "tldr": "Wiring the compiler into a Foundry project so Huff contracts can be tested with the same tooling as Solidity ones.",
+      "url": "https://flawsomedev.com/blog/test-deploy-huff",
+      "source": "PraneshASP",
+      "image": "https://flawsomedev.com/og/test-deploy-huff.jpg",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Entering the Huff Ecosystem",
+      "tldr": "Why a language that hides nothing about the stack exists at all, and what writing in it costs you in exchange for the gas.",
+      "url": "https://garden.merkleplant.xyz/post/entering-the-huff-ecosystem/",
+      "source": "merkleplant",
+      "tag": "Infrastructure"
+    }
+  ]
 }

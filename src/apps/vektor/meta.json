@@ -40,5 +40,25 @@
       "lighthouse",
       "betarpc"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Getting Started with Vektor",
+      "tldr": "Querying, executing and automating across DeFi from one place, walked through step by step for someone opening it for the first time.",
+      "url": "https://blog.vektor.finance/vektor-quickstart-guide/",
+      "source": "Vektor Blog",
+      "publishedAt": "2022-01-01",
+      "tag": "Tutorial",
+      "image": "https://storage.ghost.io/c/6f/d1/6fd10a52-4ab8-4e8a-bf31-0ff7fc52a863/content/images/2023/06/QuickStartGuideBanner.png"
+    },
+    {
+      "title": "Scheduled Reports on Anything Onchain",
+      "tldr": "Building a report that runs on an interval and sends itself, so monitoring a position does not depend on remembering to look.",
+      "url": "https://blog.vektor.finance/vektor-adds-reports-function/",
+      "source": "Vektor Blog",
+      "publishedAt": "2024-02-13",
+      "tag": "Research",
+      "image": "https://storage.ghost.io/c/6f/d1/6fd10a52-4ab8-4e8a-bf31-0ff7fc52a863/content/images/size/w1200/2024/02/Reports-banner-1.png"
+    }
+  ]
 }

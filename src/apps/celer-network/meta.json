@@ -29,5 +29,34 @@
       "bnb-chain",
       "astar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Celer Intent and Omnichain Liquidity",
+      "tldr": "An intent-based redesign aimed at high-volume users and professional liquidity providers, replacing the friction of route-by-route bridging.",
+      "url": "https://blog.celer.network/2025/06/26/celer-intent-a-new-paradigm-for-instant-and-secure-omnichain-liquidity/",
+      "source": "Celer Blog",
+      "publishedAt": "2025-06-26",
+      "tag": "DeFi",
+      "image": "https://i0.wp.com/blog.celer.network/wp-content/uploads/2025/06/Celer-Intent.png?fit=1200%2C675&#038;ssl=1"
+    },
+    {
+      "title": "Bridging for CoinMarketCap's CMC20 Index",
+      "tldr": "Moving the constituent tokens of an index product across chains, and what an index fund needs from a bridge that a single transfer does not.",
+      "url": "https://blog.celer.network/2025/11/18/celer-network-partners-with-coinmarketcap-to-bridge-multiple-tokens-for-cmc20-index-dtf-launch/",
+      "source": "Celer Blog",
+      "publishedAt": "2025-11-18",
+      "tag": "Infrastructure",
+      "image": "https://i0.wp.com/blog.celer.network/wp-content/uploads/2025/11/token3-1.png?fit=1200%2C675&#038;ssl=1"
+    },
+    {
+      "title": "Bridging VLR from Ethereum to BSC",
+      "tldr": "Adding cBridge support for Velora, formerly ParaSwap, so its token can move between Ethereum and BNB Smart Chain.",
+      "url": "https://blog.celer.network/2025/10/02/celer-announces-cbridge-support-for-velora-formerly-paraswap/",
+      "source": "Celer Blog",
+      "publishedAt": "2025-10-02",
+      "image": "https://i0.wp.com/blog.celer.network/wp-content/uploads/2025/10/IMG_6640.png?fit=1200%2C675&#038;ssl=1",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "createdao",
+  "name": "CreateDAO",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760818/dapp-store-logos/createdao.jpg",
+  "category": "DAO Tools",
+  "subcategory": [
+    "DAO Developer Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Deploys a full DAO, with token, treasury and governor, in one transaction for gas only.",
+    "description": "CreateDAO turns setting up a DAO into a single call. One transaction deploys an ERC20Votes token, a timelocked treasury and an OpenZeppelin governor, using minimal proxy clones that cut gas costs by around 90%. The creator gets 1% of the supply and the treasury 99%, unlocked only by votes, and holders are delegated automatically so they can vote at once. There are no platform fees.",
+    "meta": "Launch a DAO with token, treasury and governor in one transaction on CreateDAO, with auto-delegation and no platform fee.",
+    "pageTitle": "CreateDAO - DAO Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://createdao.org",
+    "twitter": "https://x.com/createdao"
+  },
+  "relations": {
+    "alternatives": [
+      "loreum",
+      "juicebox",
+      "curia-governance-dashboard"
+    ],
+    "related": [
+      "coordinape",
+      "tally",
+      "aragon"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is a DAO?",
+      "tldr": "Introduces how decentralized autonomous organizations use proposals, voting and shared treasuries to coordinate members.",
+      "url": "https://createdao.org/blog/what-is-a-dao/",
+      "source": "CreateDAO",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Create a DAO Without Coding",
+      "tldr": "CreateDAO's walkthrough covers connecting a wallet, setting governance parameters, and deploying voting and treasury contracts.",
+      "url": "https://createdao.org/how-to-create-a-dao",
+      "source": "CreateDAO",
+      "tag": "Tutorial"
+    }
+  ]
+}

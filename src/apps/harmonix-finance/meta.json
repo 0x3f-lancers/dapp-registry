@@ -1,0 +1,53 @@
+{
+  "slug": "harmonix-finance",
+  "name": "Harmonix Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760890/dapp-store-logos/harmonix-finance.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Harmonix Finance runs automated vault strategies aimed at maximising risk-adjusted returns.",
+    "description": "Harmonix Finance runs automated vaults that apply hedge fund strategies on-chain, aimed at producing yield through both rising and falling markets. Its strategies include options-based and delta-neutral approaches designed to hold up when directional yield dries up. Depositors hold vault shares and see profit and loss reported in USDC. Positions on Hyperliquid also accrue the venue's points.",
+    "meta": "Harmonix Finance runs automated vaults applying options-based and delta-neutral hedge fund strategies on Hyperliquid, reporting results in USDC.",
+    "pageTitle": "Harmonix Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://harmonix.fi/",
+    "twitter": "https://x.com/harmonixfi"
+  },
+  "relations": {
+    "alternatives": [
+      "altura-trade",
+      "ample-money",
+      "beefy"
+    ],
+    "related": [
+      "d2-finance",
+      "equilibria",
+      "harvest"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Harmonix Finance Documentation",
+      "tldr": "Explains Harmonix's yield vaults, basis strategies, deposit and withdrawal mechanics, and contract architecture.",
+      "url": "https://harmonixfi.github.io/harmonix-docs-v2/harmonix-docs-v2.html",
+      "source": "Harmonix Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Harmonix HYPE Vault Strategy",
+      "tldr": "Describes the vault's diversified delta-neutral HYPE positions and how it allocates capital across HyperEVM.",
+      "url": "https://app.harmonix.fi/vaults/hyperevm-delta-neutral-hype-v3",
+      "source": "Harmonix Finance",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "rysk",
+  "name": "Rysk",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761055/dapp-store-logos/rysk.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Options"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Rysk is an options protocol letting holders earn upfront yield on crypto assets.",
+    "description": "Rysk is a volatility yield protocol that pays asset holders upfront for writing covered calls and cash-secured puts. A user picks a strike and expiry to set their own yield and risk, confirms, and the premium is transferred to their wallet immediately as the trade executes on-chain. Positions are fully collateralised with no liquidation risk and no counterparty exposure. It supports ETH, BTC, HYPE, liquid staking and restaking tokens and other listed assets.",
+    "meta": "Rysk is a Hyperliquid options protocol letting holders earn upfront yield on crypto assets.",
+    "pageTitle": "Rysk - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.rysk.finance/",
+    "twitter": "https://x.com/rysk_io"
+  },
+  "relations": {
+    "alternatives": [
+      "derive"
+    ],
+    "related": [
+      "0x",
+      "altura-trade",
+      "arrakis-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to use Rysk",
+      "tldr": "Guides users through accessing Rysk and starting to use its options products.",
+      "url": "https://docs.rysk.finance/getting-started/protocol-and-product/how-to-use-rysk.md",
+      "source": "Rysk",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Security",
+      "tldr": "Lists security reviews and audits for Rysk’s options contracts.",
+      "url": "https://docs.rysk.finance/resources/security.md",
+      "source": "Rysk",
+      "tag": "Security"
+    }
+  ]
+}

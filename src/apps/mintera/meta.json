@@ -30,5 +30,27 @@
       "airswap",
       "bybarter"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bridging Ethereum to Arbitrum",
+      "tldr": "The route between the two networks explained with the waiting periods and costs at each stage.",
+      "url": "https://docs.mintera.co/mintera-token-mnte/ethereum-less-than-greater-than-arbitrum-bridge",
+      "source": "Mintera Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Setting Up MetaMask",
+      "tldr": "Wallet setup from zero, including adding the network you will actually need rather than just the default.",
+      "url": "https://docs.mintera.co/mintera-token-mnte/how-to-setup-metamask",
+      "source": "Mintera Docs",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Buying MNTE",
+      "tldr": "The purchase path once the wallet exists, written for someone doing it for the first time.",
+      "url": "https://docs.mintera.co/mintera-token-mnte/how-to-buy-mnte",
+      "source": "Mintera Docs"
+    }
+  ]
 }

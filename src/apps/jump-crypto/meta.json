@@ -36,5 +36,30 @@
       "cobo",
       "fjord-foundry"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Which Custody Model Fits You",
+      "tldr": "Self, qualified and multi-party custody weighed against each other on the risks each one actually removes.",
+      "url": "https://www-webflow.jumpcrypto.com/resources/custody-solutions-which-option-is-right-for-me",
+      "source": "Jump Crypto Research",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/68e02e9547163761f5447023/690d40c359c6e4faadc75a9c_690bc14f7f9188c94f43c9e7_New-Blog-Post--15-.png"
+    },
+    {
+      "title": "Multi-Scalar Multiplication in Hardware",
+      "tldr": "The operation that dominates ZK proving time, and what happens when you build silicon for it. Deeply technical.",
+      "url": "https://www-webflow.jumpcrypto.com/resources/accelerating-multi-scalar-multiplication-in-hardware-and-software",
+      "source": "Jump Crypto Research",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/68e02e9547163761f5447023/690d40c1098b27e903700ee9_690c109f43e8d31b4d1067be_Accelerating-Multi-Scalar-Multiplication-in-Hardware---blog.png"
+    },
+    {
+      "title": "Defending Against Malicious Reorgs",
+      "tldr": "A proof-of-stake attack examined on Tezos, with the mitigations that generalise beyond it.",
+      "url": "https://www-webflow.jumpcrypto.com/resources/defending-against-malicious-reorgs-in-tezos-proof-of-stake",
+      "source": "Jump Crypto Research",
+      "tag": "Security"
+    }
+  ]
 }

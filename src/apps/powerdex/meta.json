@@ -3,8 +3,13 @@
   "name": "PowerDEX",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749294/web3-explorer/dapp-logos/powerdex.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Base"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base"
+  ],
   "pricing": "",
   "content": {
     "short": "PowerDEX offers advanced crypto options trading with 100,000+ contracts across 80 altcoins, BTC, and ETH.",
@@ -17,7 +22,33 @@
     "twitter": "https://x.com/PowerTradeHQ"
   },
   "relations": {
-    "alternatives": ["dzap", "ix-swap", "ave-ai"],
-    "related": ["stealthex", "heroswap", "jasper-vault"]
-  }
+    "alternatives": [
+      "dzap",
+      "ix-swap",
+      "ave-ai"
+    ],
+    "related": [
+      "stealthex",
+      "heroswap",
+      "jasper-vault"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What a Crypto Option Actually Is",
+      "tldr": "The right but not the obligation, priced once as a premium with no funding fee. Why that can beat a perp over weeks.",
+      "url": "https://support.power.trade/trading/options/options-introduction",
+      "source": "PowerTrade Support",
+      "image": "https://support.power.trade/~gitbook/ogimage/puy3EEdX5AN8UQom72kO",
+      "tag": "Trading"
+    },
+    {
+      "title": "Structuring an Options Trade",
+      "tldr": "A long treatment of real strategies — spreads, straddles and the rest — with the payoff and the risk of each spelled out.",
+      "url": "https://medium.com/thecapital/crypto-options-trading-strategies-a-structured-analysis-with-powertrade-examples-58b7d1a4fcf1",
+      "source": "The Capital",
+      "image": "https://miro.medium.com/v2/resize:fit:1191/1*A1Dt9JIOv0cjGJ3h6wCiHA.png",
+      "tag": "Trading"
+    }
+  ]
 }

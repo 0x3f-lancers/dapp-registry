@@ -1,0 +1,53 @@
+{
+  "slug": "hypersig",
+  "name": "HyperSig",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760909/dapp-store-logos/hypersig.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Multisig Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "HyperSig brings multisig approvals to Hyperliquid operations such as staking, vaults and transfers.",
+    "description": "HyperSig is a multisig platform for Hyperliquid that keeps protocol-native security while a team approves actions collectively. Members can stake HYPE directly from the multisig, manage vaults, and place limit orders on the Hyperliquid order book under multisig authorization. Agent wallets can be authorised as trade-only, able to execute orders but blocked from withdrawing funds, and the platform states transaction volume in the hundreds of millions of dollars.",
+    "meta": "HyperSig is a Hyperliquid-native multisig for staking, vaults, agent wallets and transfers.",
+    "pageTitle": "HyperSig - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.hypersig.xyz/",
+    "twitter": "https://x.com/hypersig_"
+  },
+  "relations": {
+    "alternatives": [
+      "den",
+      "palmera",
+      "gnosis-safe"
+    ],
+    "related": [
+      "safe",
+      "backpack",
+      "fordefi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why multisigs are important?",
+      "tldr": "In crypto, security is everything, but single-signature wallets leave you one mistake or hack away from losing it all.",
+      "url": "https://docs.hypersig.xyz/getting-started/why-multisigs-are-important.md",
+      "source": "HyperSig",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Deposits",
+      "tldr": "Deposit from Hyperliquid Easiest and recommended way to top up your multisig.",
+      "url": "https://docs.hypersig.xyz/guides/deposits.md",
+      "source": "HyperSig",
+      "tag": "Tutorial"
+    }
+  ]
+}

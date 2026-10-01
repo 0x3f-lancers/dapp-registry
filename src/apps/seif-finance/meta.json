@@ -3,8 +3,12 @@
   "name": "SEIF FINANCE",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749801/web3-explorer/dapp-logos/seif-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Arbitrum"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Arbitrum"
+  ],
   "pricing": "",
   "content": {
     "short": "SEIF FINANCE is a comprehensive DeFi platform offering secure, user-friendly services including a DEX, crypto exchange, and NFT marketplace.",
@@ -17,7 +21,25 @@
     "twitter": "https://x.com/seifdotfinance"
   },
   "relations": {
-    "alternatives": ["panoptic", "ave-ai", "zkswap-finance"],
-    "related": ["pika-protocol", "egemoney", "defx"]
-  }
+    "alternatives": [
+      "panoptic",
+      "ave-ai",
+      "zkswap-finance"
+    ],
+    "related": [
+      "pika-protocol",
+      "egemoney",
+      "defx"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Chain Underneath",
+      "tldr": "Sei builds order matching into the layer 1 itself rather than leaving it to contracts. What that changes for a trading app.",
+      "url": "https://www.ledger.com/academy/topics/defi/sei-network-what-it-is-and-how-to-use-it",
+      "source": "Ledger Academy",
+      "image": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/04/05_DeFi_Thumb_No-title.jpg",
+      "tag": "Trading"
+    }
+  ]
 }

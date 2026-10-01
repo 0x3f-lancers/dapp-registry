@@ -1,0 +1,55 @@
+{
+  "slug": "nest-credit",
+  "name": "Nest",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760986/dapp-store-logos/nest-credit.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Private Credit RWAs"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Vaults that pay stablecoin yield from institutional real-world assets like credit and treasuries.",
+    "description": "Nest takes stablecoin deposits and issues vault tokens whose price rises as the vault earns from real-world assets sourced from established financial institutions. Holders can redeem back to stablecoins instantly or on a schedule depending on the vault, and each vault's assets and liabilities are visible on-chain. The current app runs on Arc, and its Nest Savings mini app is available in World App.",
+    "meta": "Deposit stablecoins into Nest's RWA vaults to earn institutional yield, with on-chain transparency and a World App mini app.",
+    "pageTitle": "Nest - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nest.credit",
+    "twitter": "https://x.com/nestcredit"
+  },
+  "relations": {
+    "alternatives": [
+      "collector-crypt",
+      "joinn",
+      "centrifuge"
+    ],
+    "related": [
+      "pact",
+      "frigg",
+      "polytrade-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Meet the New Nest: Real Yield, Real Ownership",
+      "tldr": "Plume's relaunch post for Nest as an RWA rewards engine with new vaults and points for staking, looping and lending.",
+      "url": "https://www.plume.org/blog/meet-the-new-nest-real-yield-real-ownership",
+      "source": "Plume Blog",
+      "tag": "Tokenization",
+      "publishedAt": "2025-11-04"
+    },
+    {
+      "title": "Superstate and nBASIS: A Look Inside Nest's Most Popular Yield Vault",
+      "tldr": "Walks through how the nBASIS vault is built from Superstate funds and how Nest shows its assets, custody and performance.",
+      "url": "https://www.plume.org/blog/superstate-nbasis-a-look-inside-nests-most-popular-yield-vault",
+      "source": "Plume Blog",
+      "tag": "Tokenization",
+      "publishedAt": "2025-12-18"
+    }
+  ]
+}

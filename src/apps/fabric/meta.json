@@ -29,5 +29,21 @@
       "boardroom",
       "sourcecred"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Quote API",
+      "tldr": "Requesting a price programmatically, with the parameters that shape what comes back.",
+      "url": "https://docs.withfabric.xyz/apis/quotes/reference",
+      "source": "Fabric Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How Fees Are Applied",
+      "tldr": "Where the cost sits in a quote, which is the thing worth checking before integrating.",
+      "url": "https://docs.withfabric.xyz/apis/quotes/fees",
+      "source": "Fabric Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

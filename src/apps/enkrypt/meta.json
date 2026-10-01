@@ -1,0 +1,56 @@
+{
+  "slug": "enkrypt",
+  "name": "Enkrypt",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760848/dapp-store-logos/enkrypt.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polkadot",
+    "Bitcoin",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "MyEtherWallet's multichain browser wallet for EVM chains, Polkadot, Bitcoin and Solana.",
+    "description": "Built by the team behind MyEtherWallet, Enkrypt is a free, self-custodial browser extension that holds, buys, swaps and bridges tokens and manages NFTs. It supports every EVM chain plus Polkadot and Substrate networks, Bitcoin including Ordinals, Solana, Dogecoin and Litecoin, and users switch accounts and chains with a click. Unichain is among the dozens of networks it lists.",
+    "meta": "Enkrypt, from MyEtherWallet, is a self-custodial browser wallet for EVM chains, Polkadot, Bitcoin, Solana and more.",
+    "pageTitle": "Enkrypt - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.enkrypt.com",
+    "twitter": "https://x.com/enkrypt"
+  },
+  "relations": {
+    "alternatives": [
+      "utila",
+      "daedalus-wallet",
+      "wigwam"
+    ],
+    "related": [
+      "fluvi-wallet",
+      "ownbit",
+      "frame"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Use StakeStone With Enkrypt",
+      "tldr": "Shows how Enkrypt users can access StakeStone strategies for ETH, stablecoins and BTC through a self-custody wallet.",
+      "url": "https://blog.enkrypt.com/how-to-use-stakestone-with-enkrypt/",
+      "source": "Enkrypt",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Bridge Assets to Unichain with Enkrypt",
+      "tldr": "A step-by-step Enkrypt guide to connecting a wallet, selecting Unichain, and bridging assets through Uniswap.",
+      "url": "https://blog.enkrypt.com/how-to-bridge-to-unichain-with-enkrypt/",
+      "source": "Enkrypt",
+      "tag": "Tutorial"
+    }
+  ]
+}

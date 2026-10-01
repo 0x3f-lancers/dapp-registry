@@ -39,5 +39,22 @@
       "3six9",
       "niftygateway"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Turning an Address Into a Name",
+      "tldr": "Reverse resolution looks fine until you skip the forward check. Why a name must always be verified back against the address.",
+      "url": "https://docs.ens.domains/web/resolution/",
+      "source": "ENS Docs",
+      "image": "https://docs.ens.domains/api/og?title=Address%20Lookup"
+    },
+    {
+      "title": "How Resolution Actually Works",
+      "tldr": "Registry, resolver and the records behind a name — addresses, text entries and content hashes. The layer any lookup API wraps.",
+      "url": "https://docs.ens.domains/resolution/",
+      "source": "ENS Docs",
+      "image": "https://docs.ens.domains/api/og?title=Resolution",
+      "tag": "Explainer"
+    }
+  ]
 }

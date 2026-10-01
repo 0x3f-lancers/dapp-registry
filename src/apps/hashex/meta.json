@@ -41,5 +41,25 @@
       "sharkteam",
       "credshields"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Auditing An Oracle",
+      "tldr": "A published vulnerability report on a TWAP price oracle, showing what auditors look for in the pricing path.",
+      "url": "https://hashex.org/audits/vulnerability-report-venus-twap-oracle",
+      "source": "HashEx"
+    },
+    {
+      "title": "Auditing An Exchange Contract",
+      "tldr": "A published report on a derivatives venue: what the auditors looked at, what they found, and how it was resolved.",
+      "url": "https://hashex.org/audits/evedex-arbitrum",
+      "source": "HashEx"
+    },
+    {
+      "title": "Reading A Full Audit Report",
+      "tldr": "A complete report worth reading as a template for what an audit does and does not promise about a codebase.",
+      "url": "https://hashex.org/audits/clore",
+      "source": "HashEx"
+    }
+  ]
 }

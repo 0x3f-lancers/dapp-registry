@@ -1,0 +1,55 @@
+{
+  "slug": "etherhub",
+  "name": "EtherHub",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760851/dapp-store-logos/etherhub.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Base",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Email-login crypto app that explains staking, lending and liquidity in simple words.",
+    "description": "EtherHub is aimed at people who have never used DeFi. Sign-up needs only an email, with no seed phrase, and users then deposit ETH and choose actions like swapping, staking with Lido, lending on Aave or providing liquidity, each explained in plain language. Trades route through 1inch, Uniswap and Aerodrome, and the app lives inside both World App and the Base App.",
+    "meta": "Sign up with just an email and stake, lend or swap in plain language with EtherHub, a World App and Base App mini app.",
+    "pageTitle": "EtherHub - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://etherhub.co",
+    "twitter": "https://x.com/useetherhub"
+  },
+  "relations": {
+    "alternatives": [
+      "compass-wallet",
+      "okto",
+      "idriss"
+    ],
+    "related": [
+      "timelessx",
+      "zypto-wallet",
+      "virgo-wallet"
+    ]
+  },
+  "resources": [
+    {
+      "title": "EtherHub Support and FAQ",
+      "tldr": "EtherHub's help center, answering how it differs from other DeFi apps and how to reach the team.",
+      "url": "https://etherhub.co/resources/support",
+      "source": "EtherHub",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "I Bought Crypto, Now What?",
+      "tldr": "Argues that most people buy crypto and leave it idle, and walks through what staking, lending and liquidity can add.",
+      "url": "https://etherhub.co/blog/i-bought-crypto-now-what",
+      "source": "EtherHub Blog",
+      "tag": "Education",
+      "publishedAt": "2026-05-21"
+    }
+  ]
+}

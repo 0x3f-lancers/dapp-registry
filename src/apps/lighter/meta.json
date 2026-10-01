@@ -1,0 +1,54 @@
+{
+  "slug": "lighter",
+  "name": "Lighter",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760950/dapp-store-logos/lighter.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Ethereum",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Lighter is a perpetuals DEX using custom ZK circuits for verifiable matching and liquidations.",
+    "description": "Lighter runs zero-fee perpetual futures on an Ethereum L2 built with custom zero-knowledge circuits, so order matching and liquidations can be proven correct and not merely trusted. It inherits Ethereum security and composability while keeping latency and cost low enough for active trading. The exchange is fully verifiable, with its matching engine output checkable against the published proofs.",
+    "meta": "Lighter is a perpetuals DEX using ZK circuits for verifiable order matching and liquidations.",
+    "pageTitle": "Lighter - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lighter.xyz/",
+    "twitter": "https://x.com/Lighter_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "aevo",
+      "apex-protocol",
+      "arcus"
+    ],
+    "related": [
+      "panoptic",
+      "contango",
+      "demex"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Lighter Protocol Whitepaper",
+      "tldr": "Details Lighter's verifiable order matching and liquidation design using zero knowledge proofs.",
+      "url": "https://assets.lighter.xyz/whitepaper.pdf",
+      "source": "Lighter",
+      "tag": "Research"
+    },
+    {
+      "title": "Advanced Charting on Lighter",
+      "tldr": "Explains Lighter's TradingView chart integration and the tools traders can use to study markets.",
+      "url": "https://lighter.xyz/blog/advanced-charting-on-lighter-powered-by-tradingview",
+      "source": "Lighter",
+      "tag": "Tutorial"
+    }
+  ]
+}

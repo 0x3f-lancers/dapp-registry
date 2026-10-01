@@ -28,5 +28,25 @@
     "related": [
       "hodlmymoon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Renting Without Collateral",
+      "tldr": "How an NFT is rented out with nothing posted against it, and what stops a renter from simply keeping it.",
+      "url": "https://docs.renfter.com/renfter-features/uncollateralized-nft-renting",
+      "source": "Renfter"
+    },
+    {
+      "title": "Sharing Rewards And Airdrops",
+      "tldr": "Who gets the yield when a rented asset earns something, and how the split is agreed before the rental starts.",
+      "url": "https://docs.renfter.com/renfter-features/rewards-and-airdrop-sharing",
+      "source": "Renfter"
+    },
+    {
+      "title": "How The Protocol Is Built",
+      "tldr": "A technical overview for integrators: the contracts involved, and what a project has to expose to support renting.",
+      "url": "https://docs.renfter.com/developers/technical-overview",
+      "source": "Renfter"
+    }
+  ]
 }

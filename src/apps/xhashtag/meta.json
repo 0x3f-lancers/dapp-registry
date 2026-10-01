@@ -33,5 +33,23 @@
       "tide-protocol",
       "metacrafters"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Launching a Staking Vault Without Code",
+      "tldr": "Creating a token and a liquid staking vault in a couple of minutes. Worth reading for what the tooling hides.",
+      "url": "https://docs.xhashtag.io/guides/creating-a-no-code-staking-vault-in-under-2-min",
+      "source": "xHashtag Docs",
+      "tag": "DeFi",
+      "image": "https://docs.xhashtag.io/~gitbook/ogimage/j1RwMUGX0AGl9SKKxkC6"
+    },
+    {
+      "title": "Liquid Staking on Avalanche C-Chain",
+      "tldr": "What the mainnet launch actually enabled, and how liquid staking works on this chain specifically.",
+      "url": "https://docs.xhashtag.io/guides/liquid-staking-xtag-on-avalanche",
+      "source": "xHashtag Docs",
+      "tag": "DeFi",
+      "image": "https://docs.xhashtag.io/~gitbook/ogimage/HImCVqsSKodtzxowrZUJ"
+    }
+  ]
 }

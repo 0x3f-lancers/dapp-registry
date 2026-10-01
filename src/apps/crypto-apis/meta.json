@@ -30,5 +30,34 @@
       "walletconnect",
       "chainaware-ai"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Uniswap v4 Permissioned Pools: On-Chain AML for Regulated DeFi",
+      "tldr": "Compliance moving into the protocol layer changes who screens and when. Covers what that means for address checks and transaction monitoring.",
+      "url": "https://cryptoapis.io/blog/624-uniswap-v4-permissioned-pools-on-chain-aml-for-regulated-defi",
+      "source": "Crypto APIs Blog",
+      "publishedAt": "2026-07-27",
+      "tag": "Regulation",
+      "image": "https://cryptoapis.io/images/d14fa4b1-231d-4120-a57d-319aebebf32b-798x423.jpg"
+    },
+    {
+      "title": "x402 Payments: The Stablecoin Rail for AI Agents and APIs",
+      "tldr": "Explains how a stablecoin paywall on an API endpoint finally gives it a purpose, and what an agent needs to satisfy it.",
+      "url": "https://cryptoapis.io/blog/625-x402-payments-are-live-the-stablecoin-rail-for-ai-agents-and-apis",
+      "source": "Crypto APIs Blog",
+      "publishedAt": "2026-07-28",
+      "tag": "Payments",
+      "image": "https://cryptoapis.io/images/sHelNzAEmav0biKFC1wVR4hHQhKIKOc3tHzVKWjl-798x423.png"
+    },
+    {
+      "title": "Argentina's LIBRA Wallet Freeze: AML Screening at Scale",
+      "tldr": "A judicial order naming 25 wallets, and what exchanges had to do about it across their books. Concrete illustration of why screening must be automatic.",
+      "url": "https://cryptoapis.io/blog/622-argentina-libra-wallet-freeze-cross-exchange-aml-screening-at-scale",
+      "source": "Crypto APIs Blog",
+      "publishedAt": "2026-07-15",
+      "tag": "Infrastructure",
+      "image": "https://cryptoapis.io/images/fbdf2f04-8ef4-4148-907f-c2eccd2d9b7d-798x423.jpg"
+    }
+  ]
 }

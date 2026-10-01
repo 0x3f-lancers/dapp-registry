@@ -1,0 +1,53 @@
+{
+  "slug": "levr-bet",
+  "name": "Levr Bet",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760948/dapp-store-logos/levr-bet.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Web3 Prediction Markets"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Levr Bet offers prediction markets on sports with 2x to 5x leverage on single-game lines.",
+    "description": "Levr Bet applies two to five times leverage to sports prediction markets on Monad, letting participants take amplified positions on single-game lines. A settled line pays out in full or not at all, so there is no gradual slide toward a liquidation price as there would be on a price-based perpetual. Positions are collateralised and settle when the game resolves.",
+    "meta": "Levr Bet adds 2x to 5x leverage to single-game sports prediction markets on Monad, with collateralised positions that settle when the game ends.",
+    "pageTitle": "Levr Bet - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://levr.bet/",
+    "twitter": "https://x.com/Levr_Bet"
+  },
+  "relations": {
+    "alternatives": [
+      "web3predict",
+      "bodega-market",
+      "dexwin"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  },
+  "resources": [
+    {
+      "title": "MVP Vault: Be the House",
+      "tldr": "Explains how Levr Bet's liquidity vault backs sports markets, issues vault tokens, and handles withdrawals.",
+      "url": "https://blog.levr.bet/post/mvp-vault-be-the-house",
+      "source": "Levr Bet",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Levr Bet Security Audits",
+      "tldr": "Summarizes the protocol's security audits and how findings were addressed before launch.",
+      "url": "https://blog.levr.bet/post/security-audits-how-levr-bet-has-hardened-the-protocol-ahead-of-launch",
+      "source": "Levr Bet",
+      "tag": "Security"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "trails",
+  "name": "Trails",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761103/dapp-store-logos/trails.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Trails is an SDK for one-click crypto payments across any chain, token or wallet.",
+    "description": "Trails is a universal intents SDK that lets a user transact with any wallet, any token and on any chain in a single click. It aggregates the user's liquidity across chains and orchestrates the swaps and transfers needed to complete the action they asked for. Integrators take one SDK and an API key, with a swap explorer and demo available to test against. Polygon Labs is acquiring Sequence, the team behind it, to bring Trails into its own stack.",
+    "meta": "Trails is an intents SDK for one-click payments with any wallet, token or chain, aggregating a user's liquidity and orchestrating the swaps.",
+    "pageTitle": "Trails - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://trails.build/",
+    "twitter": "https://x.com/0xsequence"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Trails One Click Intents Work",
+      "tldr": "Explains Trails' intent addresses, cross-chain transaction routing and user controlled execution.",
+      "url": "https://trails.build/blog/introducing-trails-the-universal-intents-platform-for-1-click-crypto-transactions",
+      "source": "Trails",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Cross Chain USDC With Trails and Circle CCTP",
+      "tldr": "Shows how Trails combines one click intent execution with Circle CCTP for cross-chain USDC transfers.",
+      "url": "https://trails.build/blog/trails-integrates-circle-cctp-for-1-click-cross-chain-usdc-transactions",
+      "source": "Trails",
+      "tag": "Explainer"
+    }
+  ]
+}

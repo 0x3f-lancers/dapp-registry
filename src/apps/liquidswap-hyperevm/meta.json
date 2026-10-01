@@ -1,0 +1,54 @@
+{
+  "slug": "liquidswap-hyperevm",
+  "name": "LiquidSwap",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760952/dapp-store-logos/liquidswap-hyperevm.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "LiquidSwap is a DEX aggregator serving HyperEVM and Robinhood Chain with intelligent routing.",
+    "description": "LiquidSwap routes swaps across the liquidity available on HyperEVM and Robinhood Chain, splitting an order between venues where that improves the rate. It aggregates 33 venues and 21 oracle-validated pools, and reads Hyperliquid precompiles directly so spreads tighten against raw prices instead of pool drift. Alongside the aggregator it runs a pAMM liquidity layer and the LiquidLaunch token launchpad, with an API reference for integrators. It is distinct from the Aptos exchange of the same name.",
+    "meta": "LiquidSwap is a DEX aggregator on HyperEVM and Robinhood Chain that splits orders across 33 venues, and also runs a pAMM layer and a launchpad.",
+    "pageTitle": "LiquidSwap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://liqd.ag/",
+    "twitter": "https://x.com/LiquidLaunchHL"
+  },
+  "relations": {
+    "alternatives": [
+      "curve-finance",
+      "infinex",
+      "lifi"
+    ],
+    "related": [
+      "skate-amm",
+      "0x",
+      "balancer"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Overview",
+      "tldr": "Introduces LiquidCore, its oracle validated AMM, and its supported chains.",
+      "url": "https://docs.liqd.ag/liquidcore-integration/overview.md",
+      "source": "LiquidSwap",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Integration Guide",
+      "tldr": "Guides developers through integrating LiquidCore swaps into an app.",
+      "url": "https://docs.liqd.ag/liquidcore-integration/integration-guide.md",
+      "source": "LiquidSwap",
+      "tag": "Tutorial"
+    }
+  ]
+}

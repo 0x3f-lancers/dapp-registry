@@ -15,7 +15,8 @@
     "Fantom",
     "Multichain",
     "OP Mainnet",
-    "Polygon"
+    "Polygon",
+    "Monad"
   ],
   "pricing": "",
   "content": {
@@ -35,5 +36,21 @@
     "related": [
       "mev-boost-analytics"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Account Abstraction Glossary",
+      "tldr": "User operations, bundlers, paymasters and entry points, each defined in a line.",
+      "url": "https://docs.jiffyscan.xyz/glossary",
+      "source": "JiffyScan Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Common Questions About UserOps",
+      "tldr": "The questions people hit when first reading a bundled transaction in an explorer.",
+      "url": "https://docs.jiffyscan.xyz/FAQs",
+      "source": "JiffyScan Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

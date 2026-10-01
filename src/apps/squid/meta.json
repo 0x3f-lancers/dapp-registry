@@ -15,7 +15,8 @@
     "Fantom",
     "Polkadot",
     "Polygon",
-    "OP Mainnet"
+    "OP Mainnet",
+    "Monad"
   ],
   "pricing": "Free",
   "content": {
@@ -38,5 +39,28 @@
       "cubanespace",
       "decimal"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blockchains as Settlement, Not Execution",
+      "tldr": "One design principle drives the whole system: move off-chain everything that does not have to settle.",
+      "url": "https://docs.squidrouter.com/additional-resources/architecture",
+      "source": "Squid Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "The Concepts Behind a Cross-Chain Swap",
+      "tldr": "The ideas shared across the widget, API and SDK. Read these before any integration guide.",
+      "url": "https://docs.squidrouter.com/api-and-sdk-integration/key-concepts",
+      "source": "Squid Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What Has Been Audited",
+      "tldr": "The security posture stated plainly, which is the first thing to check before routing value through a bridge.",
+      "url": "https://docs.squidrouter.com/additional-resources/audits-and-security",
+      "source": "Squid Docs",
+      "tag": "Security"
+    }
+  ]
 }

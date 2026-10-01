@@ -8,7 +8,10 @@
   ],
   "chains": [
     "Solana",
-    "Ethereum"
+    "Ethereum",
+    "Hyperliquid",
+    "Monad",
+    "Stable"
   ],
   "pricing": "",
   "content": {
@@ -32,5 +35,28 @@
       "holdstation",
       "solflare"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Blockchain Is",
+      "tldr": "The full beginner explanation: what the chain stores, who keeps a copy, and what makes rewriting it hard rather than impossible.",
+      "url": "https://learn.backpack.exchange/articles/what-is-a-blockchain",
+      "source": "Backpack Learn",
+      "tag": "Explainer"
+    },
+    {
+      "title": "What a Smart Contract Is",
+      "tldr": "Code that runs when conditions are met, with no one able to stop it. What that buys, and what it means when the code is wrong.",
+      "url": "https://learn.backpack.exchange/articles/what-is-a-smart-contract",
+      "source": "Backpack Learn",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Where TradFi and DeFi Actually Differ",
+      "tldr": "Not a scoreboard. A comparison of who holds the asset, who can freeze it, and who is accountable when something goes wrong.",
+      "url": "https://learn.backpack.exchange/articles/tradfi-vs-defi-what-is-the-difference",
+      "source": "Backpack Learn",
+      "tag": "DeFi"
+    }
+  ]
 }

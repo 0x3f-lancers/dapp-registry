@@ -32,5 +32,25 @@
       "nusa-finance",
       "parcl"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Borrowing Works",
+      "tldr": "What you can borrow against your collateral, how the rate is set, and what moves your health factor.",
+      "url": "https://docs.scallop.io/scallop-lend/borrowing",
+      "source": "Scallop"
+    },
+    {
+      "title": "Liquidations, Explained",
+      "tldr": "The exact conditions that trigger a liquidation, who performs it, and what it costs the borrower.",
+      "url": "https://docs.scallop.io/scallop-lend/liquidations",
+      "source": "Scallop"
+    },
+    {
+      "title": "Supplying Assets",
+      "tldr": "What happens to a deposit, where the yield comes from, and when it can be withdrawn.",
+      "url": "https://docs.scallop.io/scallop-lend/lending",
+      "source": "Scallop"
+    }
+  ]
 }

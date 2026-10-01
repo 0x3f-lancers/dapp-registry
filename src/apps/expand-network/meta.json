@@ -42,5 +42,21 @@
       "meson",
       "starkgate"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Forensics On A Liquidity Pool",
+      "tldr": "Reading a pool's history through one API: who added, who pulled, and how to spot the moment depth disappeared.",
+      "url": "https://expand.network/blog/liquidity-pool-forensics-with-expand-network",
+      "source": "expand.network",
+      "publishedAt": "2024-02-09"
+    },
+    {
+      "title": "One API Across Many DEXs",
+      "tldr": "What a unified interface has to normalise between venues, written up around a single integration.",
+      "url": "https://expand.network/blog/expand-network-integrates-with-kyberswap",
+      "source": "expand.network",
+      "publishedAt": "2024-02-14"
+    }
+  ]
 }

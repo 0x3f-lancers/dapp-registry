@@ -3,8 +3,12 @@
   "name": "Atrix",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745083/web3-explorer/dapp-logos/atrix.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "Freemium",
   "content": {
     "short": "Atrix is a Solana-based automated market maker enabling swapping, staking, and liquidity provision with Serum integration, and developer support for Serum swaps, liquidity, and farming.",
@@ -17,7 +21,30 @@
     "twitter": "https://x.com/AtrixProtocol"
   },
   "relations": {
-    "alternatives": ["1inch"],
-    "related": ["drift", "ezo"]
-  }
+    "alternatives": [
+      "1inch"
+    ],
+    "related": [
+      "drift",
+      "ezo"
+    ]
+  },
+  "resources": [
+    {
+      "title": "An AMM That Trades on an Order Book",
+      "tldr": "Pool deposits are routed into Serum as open orders, so AMM liquidity provides depth to a central limit book.",
+      "url": "https://coin98.net/what-is-atrix",
+      "source": "Coin98",
+      "image": "https://file.coin98.com/thumbnail/what-is-atrix.png",
+      "tag": "Trading"
+    },
+    {
+      "title": "Permissionless Liquidity on Serum",
+      "tldr": "Creating pools and farms for any pair through the interface, which previously needed a market maker to arrange.",
+      "url": "https://medium.com/serum-stories/serum-stories-7-atrix-beginning-the-journey-towards-permissionless-liquidity-7f1d001896fd",
+      "source": "Project Serum",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1168/0*6DVgJ-j2tb4pUdod",
+      "tag": "DeFi"
+    }
+  ]
 }

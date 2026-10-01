@@ -34,5 +34,22 @@
       "rivo-xyz",
       "coinbase-smart-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Locking NFTs Inside A Live Wallet",
+      "tldr": "The plugin source: a separate storage key freezes chosen ERC-721s, so the tokens survive even if the account owner key is compromised.",
+      "url": "https://github.com/alchemyplatform/aa-virtual-cold-storage",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/3a9ef9f05f055f98b93c9408fc1dc50bf0e9fe87a80f8cfef247e8cb9cd8a5da/alchemyplatform/aa-virtual-cold-storage"
+    },
+    {
+      "title": "The Modular Account Standard",
+      "tldr": "How ERC-6900 splits validation, execution and hooks so a plugin like this can be installed without redeploying the account.",
+      "url": "https://medium.com/decipher-media/demystifying-erc-6900-5a52db06dcff",
+      "source": "Decipher Media",
+      "image": "https://miro.medium.com/v2/resize:fit:875/0*SxZwtvkVz0Jk73-O.png",
+      "tag": "Trading"
+    }
+  ]
 }

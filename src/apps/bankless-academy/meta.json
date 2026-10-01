@@ -32,5 +32,22 @@
       "nftgators",
       "coinpedia"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Creating Your First Wallet",
+      "tldr": "An interactive lesson rather than an article — you finish it having actually made one.",
+      "url": "https://app.banklessacademy.com/lessons/creating-a-crypto-wallet",
+      "source": "Bankless Academy",
+      "image": "https://app.banklessacademy.com/images/creating-a-crypto-wallet/social-45c701eb.png"
+    },
+    {
+      "title": "Getting Funds Onto Layer 2",
+      "tldr": "Bridging, gas on the destination chain, and the steps where newcomers most often get stuck.",
+      "url": "https://app.banklessacademy.com/lessons/funding-a-wallet-on-layer-2",
+      "source": "Bankless Academy",
+      "tag": "Infrastructure",
+      "image": "https://app.banklessacademy.com/images/funding-a-wallet-on-layer-2/social-4bb4ca84.png"
+    }
+  ]
 }

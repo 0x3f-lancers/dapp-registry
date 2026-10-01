@@ -31,5 +31,22 @@
       "delegatable",
       "noves"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Which Data Source to Actually Use",
+      "tldr": "The subgraph gives raw history; yDaemon adds APY on top. Knowing which one you need saves a lot of wasted queries.",
+      "url": "https://docs.yearn.fi/developers/data-services/yearn-data",
+      "source": "Yearn Docs",
+      "tag": "Research"
+    },
+    {
+      "title": "Subgraphs, Explained Through Yearn",
+      "tldr": "The Vault entity, daily snapshots and why VaultDayData exists rather than replaying every update.",
+      "url": "https://medium.com/@marcoworms/subgraphs-explained-yearning-for-data-4e90d18e33e",
+      "source": "Marco Worms",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*iblAXpcJOa6XC4pQ",
+      "tag": "Infrastructure"
+    }
+  ]
 }

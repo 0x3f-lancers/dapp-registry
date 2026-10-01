@@ -29,5 +29,21 @@
       "compass-art",
       "jumper-exchange"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reading Burn Activity Per Token",
+      "tldr": "Daily and weekly burn totals across Solana tokens, with the leaderboard that shows which projects are actually deflationary.",
+      "url": "https://dappradar.com/dapp/burnchecker",
+      "source": "DappRadar",
+      "image": "https://dappradar.com/wp-content/uploads/og-images/31169-12b0a87a.png"
+    },
+    {
+      "title": "What Burning Actually Does",
+      "tldr": "The mechanics on Solana: supply is reduced by the instruction, and the tokens are genuinely unrecoverable afterwards.",
+      "url": "https://solana.com/docs/tokens/basics/burn-tokens",
+      "source": "Solana Docs",
+      "image": "https://solana.com/opengraph/developers/docs/tokens/basics/burn-tokens"
+    }
+  ]
 }

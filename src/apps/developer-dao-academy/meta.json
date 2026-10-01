@@ -31,5 +31,34 @@
       "zypto-wallet",
       "particle-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Introduction to Force Inclusion",
+      "tldr": "Layer twos are fast and cheap until the sequencer decides not to include you. Force inclusion is the escape hatch, and this explains how it works.",
+      "url": "https://blog.developerdao.com/an-introduction-to-force-inclusion",
+      "source": "Developer DAO Blog",
+      "tag": "Explainer",
+      "publishedAt": "2025-10-21",
+      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761043304352/54481827-50e1-45ab-bc67-99e34f17bd7b.jpeg"
+    },
+    {
+      "title": "Working With Solana Tokens Using Native Rust",
+      "tldr": "Two thousand words of token handling without Anchor. Doing it the hard way once teaches you what the framework was hiding.",
+      "url": "https://blog.developerdao.com/working-with-solana-tokens-using-native-rust",
+      "source": "Developer DAO Blog",
+      "tag": "Infrastructure",
+      "publishedAt": "2025-10-21",
+      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761040465692/eda2aff9-51b1-408c-824c-4f88af6e9b23.jpeg"
+    },
+    {
+      "title": "Using Arweave for AI Provenance",
+      "tldr": "Permanent storage as a way of proving what a model was given and when. Timely, given how much of the internet is now output nobody can trace.",
+      "url": "https://blog.developerdao.com/using-arweave-for-ai-provenance",
+      "source": "Developer DAO Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2025-10-30",
+      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761557773193/8aed01a1-328f-4269-9986-9271cfcfcfc8.jpeg"
+    }
+  ]
 }

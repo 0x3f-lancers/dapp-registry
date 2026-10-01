@@ -3,8 +3,14 @@
   "name": "PropellerSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770749331/web3-explorer/dapp-logos/propellerswap.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Ethereum", "Starknet", "ZKsync"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Starknet",
+    "ZKsync"
+  ],
   "pricing": "Free",
   "content": {
     "short": "PropellerSwap builds solvers to help users and dApps execute trades at the best price.",
@@ -17,7 +23,40 @@
     "twitter": "https://x.com/PropellerSwap"
   },
   "relations": {
-    "alternatives": ["router-nitro", "wigoswap", "orca"],
-    "related": ["hegic", "siren"]
-  }
+    "alternatives": [
+      "router-nitro",
+      "wigoswap",
+      "orca"
+    ],
+    "related": [
+      "hegic",
+      "siren"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Launching Fynd: An Open-Source Trustless DEX Router",
+      "tldr": "Run your own trustless DEX router locally: 10ms quotes, scaling to 1,000 requests per second, first self-routed swap in about five minutes.",
+      "url": "https://www.propellerheads.xyz/blog/launching-fynd-the-open-source-trustless-dex-router",
+      "source": "PropellerHeads Blog",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/626bbc024742723856b11a3c/6a16dbe3c744660fcb76ce9f_69c56dab903f4bbc86568ca6_Header.jpg"
+    },
+    {
+      "title": "Track Onchain Liquidity Locally",
+      "tldr": "Risk managers, traders and investors all watch liquidity depth for different reasons. Sets out those reasons, then why tracking it locally beats polling.",
+      "url": "https://www.propellerheads.xyz/blog/track-onchain-liquidity-locally",
+      "source": "PropellerHeads Blog",
+      "tag": "DeFi",
+      "image": "https://cdn.prod.website-files.com/626bbc024742723856b11a3c/67daa049647538cf25f4623d_POOL%20EXPLORER%20(2).jpg"
+    },
+    {
+      "title": "Reducing Gas on the Tycho Router by 20%",
+      "tldr": "Tokens used to return to the router between every hop; now they flow straight through, cutting swap cost by up to 20%.",
+      "url": "https://www.propellerheads.xyz/blog/tycho-router-gas-upgrade",
+      "source": "PropellerHeads Blog",
+      "tag": "Infrastructure",
+      "image": "https://cdn.prod.website-files.com/626bbc024742723856b11a3c/68388fc4b02e4848e8354ebf_ROUTER%20UPGRADE%20-%20BLOG.png"
+    }
+  ]
 }

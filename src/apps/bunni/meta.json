@@ -1,0 +1,53 @@
+{
+  "slug": "bunni",
+  "name": "Bunni",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760786/dapp-store-logos/bunni.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Uniswap v4 DEX whose liquidity changes shape and moves on its own as markets shift.",
+    "description": "Bunni lets liquidity providers program how their liquidity is spread across prices and when it should move, so a stablecoin position can, for example, shift away from the peg to buy a depeg. Idle liquidity is lent out on platforms such as Aave and Gearbox for extra yield, while an auction-managed AMM and surge fees reduce losses to MEV and arbitrage. The app was hit by a security exploit on 2 September 2025, and the team has published its analysis.",
+    "meta": "Bunni's shapeshifting liquidity on Uniswap v4 moves with the market, lends idle funds and uses surge fees to cut LP losses.",
+    "pageTitle": "Bunni - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bunni.xyz/",
+    "twitter": "https://x.com/bunni_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "uniswap",
+      "raydium",
+      "blasterswap"
+    ],
+    "related": [
+      "dexhunter",
+      "algebra-protocol",
+      "suiswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Bunni Exploit Postmortem",
+      "tldr": "The team's account of the exploit affecting two pools, including the attack path and lessons for liquidity protocol security.",
+      "url": "http://blog.bunni.xyz/posts/exploit-post-mortem/",
+      "source": "Bunni",
+      "tag": "Security"
+    },
+    {
+      "title": "Technical Analysis of the Bunni V2 Exploit",
+      "tldr": "BlockSec traces the rounding-error withdrawals behind Bunni V2's exploit and explains the liquidity accounting failure.",
+      "url": "https://blocksec.com/blog/bunni-incident-repeated-small-withdrawals-compound-a-rounding-error-into-an-8.4m-drain",
+      "source": "BlockSec",
+      "tag": "Security"
+    }
+  ]
+}

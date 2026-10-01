@@ -37,5 +37,22 @@
       "ninjalerts",
       "solana-floor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Airdrops Go Unclaimed",
+      "tldr": "How eligibility snapshots and claim windows work, which is the reason a wallet can be owed tokens it never collected.",
+      "url": "https://crypto.com/en/crypto/learn/what-is-a-crypto-airdrop-and-how-does-it-work",
+      "source": "Crypto.com",
+      "image": "https://mkt-static.crypto.com/what-is-a-crypto-airdrop.webp"
+    },
+    {
+      "title": "How Much Goes Unclaimed",
+      "tldr": "A look at the scale of the problem, and the ordinary reasons eligible people miss a distribution entirely.",
+      "url": "https://dappradar.com/blog/discover-how-many-airdrops-you-forgot-to-claim",
+      "source": "DappRadar",
+      "image": "https://dappradar.com/wp-content/uploads/og-images/1076-df960eb5.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

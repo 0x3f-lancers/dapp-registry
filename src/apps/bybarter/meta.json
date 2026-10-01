@@ -3,7 +3,9 @@
   "name": "ByBarter",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770745515/web3-explorer/dapp-logos/bybarter.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Avalanche",
     "BNB Chain",
@@ -26,7 +28,28 @@
     "twitter": "https://x.com/Bybarterio"
   },
   "relations": {
-    "alternatives": ["universalx"],
-    "related": ["bumper-finance"]
-  }
+    "alternatives": [
+      "universalx"
+    ],
+    "related": [
+      "bumper-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Fiat Into Self-Custody, With Escrow",
+      "tldr": "How the peer-to-peer onramp settles: escrow holds the crypto until fiat clears, and the coins land in your own wallet rather than an exchange account.",
+      "url": "https://www.getivy.io/fiat-onramps/by-barter",
+      "source": "Ivy",
+      "image": "https://framerusercontent.com/images/ppc09LQwzCJYejD0X8sFzmGa30k.png?width=640&height=641"
+    },
+    {
+      "title": "Paying With Almost Anything",
+      "tldr": "Mobile money, gift cards, top-ups and services, aimed squarely at people no exchange will onboard.",
+      "url": "https://alexablockchain.com/what-is-bybarter/",
+      "source": "AlexaBlockchain",
+      "image": "https://alexablockchain.com/wp-content/uploads/2022/05/What-is-Bybarter-A-Decentralized-Non-Custodial-P2P-Platform-for-DEX-DeFi-Users.jpg",
+      "tag": "Payments"
+    }
+  ]
 }

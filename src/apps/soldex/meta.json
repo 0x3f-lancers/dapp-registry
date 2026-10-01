@@ -3,8 +3,12 @@
   "name": "Soldex",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750030/web3-explorer/dapp-logos/soldex.jpg",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Solana"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Solana"
+  ],
   "pricing": "Freemium",
   "content": {
     "short": "Soldex is a Solana-native decentralized exchange.",
@@ -17,7 +21,36 @@
     "twitter": "https://x.com/soldexai"
   },
   "relations": {
-    "alternatives": ["rubicon", "ambisafe", "invariant"],
-    "related": ["flitpay", "hegic", "coinmate"]
-  }
+    "alternatives": [
+      "rubicon",
+      "ambisafe",
+      "invariant"
+    ],
+    "related": [
+      "flitpay",
+      "hegic",
+      "coinmate"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Solana Actually Is",
+      "tldr": "A ground-up explainer on the chain the exchange runs on: consensus, fees, and why throughput was the design goal.",
+      "url": "https://soldex.ai/what-is-solana-sol",
+      "source": "Soldex",
+      "publishedAt": "2022-04-15"
+    },
+    {
+      "title": "What AI Trading Does To A Market",
+      "tldr": "How automated strategies change execution and spreads on an exchange, and who ends up on the other side.",
+      "url": "https://soldex.ai/how-ai-trading-impacts-the-crypto-currency-exchanges/",
+      "source": "Soldex"
+    },
+    {
+      "title": "Why DeFi Outperforms",
+      "tldr": "The case for building on a high-throughput chain, argued against what traditional finance can and cannot do.",
+      "url": "https://soldex.ai/7-reasons-why-solana-platform-is-the-future-for-defi-projects/",
+      "source": "Soldex"
+    }
+  ]
 }

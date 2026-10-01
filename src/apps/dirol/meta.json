@@ -1,0 +1,53 @@
+{
+  "slug": "dirol",
+  "name": "Dirol",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760837/dapp-store-logos/dirol.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Dirol is a Monad trading aggregator combining DEX liquidity, launchpads and token discovery.",
+    "description": "Dirol is a decentralized exchange on Monad offering token swaps with low fees and real-time price feeds. The interface combines aggregated DEX liquidity with launchpad listings and token discovery, so a trader can find a new token and trade it without leaving the app. Routing draws on the venues available on Monad to price each swap.",
+    "meta": "Swapping, launchpad access and token discovery in one Monad interface for early-market traders.",
+    "pageTitle": "Dirol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dex.dirol.io",
+    "twitter": "https://x.com/DirolLabsX"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "bonad",
+      "brownfi",
+      "capricorn-exchange"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How the Dirol Aggregator Works",
+      "tldr": "Explains how Dirol combines Monad DEX liquidity and routes a token trade for a better quote.",
+      "url": "https://dirolprotocols-organization.gitbook.io/dirol/how-the-aggregator-works.md",
+      "source": "Dirol",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Getting Started with Dirol",
+      "tldr": "Guides users through connecting a wallet and making their first trade with Dirol.",
+      "url": "https://dirolprotocols-organization.gitbook.io/dirol/getting-started.md",
+      "source": "Dirol",
+      "tag": "Tutorial"
+    }
+  ]
+}

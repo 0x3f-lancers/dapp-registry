@@ -37,5 +37,34 @@
       "cryptoslam",
       "cryptorank"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Consolidating Telegram Support into MetaCRM",
+      "tldr": "Adding Telegram alongside Discord and website widgets, so community queries land in one ticket queue instead of three separate channels.",
+      "url": "https://www.metacrm.inc/blog/metacrm-launches-telegram-bot-to-elevate-community-support",
+      "source": "MetaCRM Blog",
+      "publishedAt": "2024-11-04",
+      "tag": "Tokenization",
+      "image": "https://i0.wp.com/metacrmblog.wpcomstaging.com/wp-content/uploads/2024/10/Marketing-12.png?resize=1024%2C576&ssl=1"
+    },
+    {
+      "title": "How MetaCRM Protects Web3 Customer Data",
+      "tldr": "Two concrete controls explained: Subresource Integrity to stop tampered scripts loading, and self-hosting for teams that cannot send data off-site.",
+      "url": "https://www.metacrm.inc/blog/how-metacrm-protects-your-web3-data",
+      "source": "MetaCRM Blog",
+      "publishedAt": "2024-11-04",
+      "tag": "Research",
+      "image": "https://i0.wp.com/metacrmblog.wpcomstaging.com/wp-content/uploads/2024/10/Enhancing-Security-with-SRI-and-Self-Hosting-How-MetaCRM-Protects-Your-Web3-Data-4.png?resize=1024%2C576&ssl=1"
+    },
+    {
+      "title": "MetaCRM and Kyo Finance on Soneium",
+      "tldr": "Putting CRM infrastructure behind a DEX so user support and onboarding data sit alongside the trading product rather than in a separate silo.",
+      "url": "https://www.metacrm.inc/blog/metacrm-x-kyo-finance-powering-defi-innovation-on-soneium",
+      "source": "MetaCRM Blog",
+      "publishedAt": "2024-11-04",
+      "tag": "Trading",
+      "image": "https://i0.wp.com/metacrmblog.wpcomstaging.com/wp-content/uploads/2024/10/Marketing-3.png?resize=1024%2C576&ssl=1"
+    }
+  ]
 }

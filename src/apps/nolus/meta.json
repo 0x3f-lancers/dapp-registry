@@ -30,5 +30,25 @@
       "balancer",
       "eisenlabs"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "When the Weakest Link Isn't the Code",
+      "tldr": "Drift lost $285M in twelve minutes in April 2026 without a contract being exploited. On the shift from breaking contracts to breaking the people.",
+      "url": "https://nolus.io/blog/when-the-weakest-link-isnt-the-code",
+      "source": "Nolus Blog",
+      "publishedAt": "2026-04-24",
+      "tag": "Security",
+      "image": "https://nolus.io/blog/assets/when-the-weakest-link-isnt-the-code/cover.webp"
+    },
+    {
+      "title": "Nolus Web App: An Architectural Evolution",
+      "tldr": "A rewrite writeup that is candid about what the previous architecture made hard. Useful as a look at what a DeFi front end actually has to coordinate.",
+      "url": "https://nolus.io/blog/nolus-web-app-architectural-evolution",
+      "source": "Nolus Blog",
+      "publishedAt": "2026-03-10",
+      "tag": "Infrastructure",
+      "image": "https://nolus.io/blog/assets/nolus-web-app-architectural-evolution/cover.webp"
+    }
+  ]
 }

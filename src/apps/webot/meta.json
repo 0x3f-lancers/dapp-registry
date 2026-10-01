@@ -1,0 +1,54 @@
+{
+  "slug": "webot",
+  "name": "Webot",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761129/dapp-store-logos/webot.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Webot is a cloud-hosted crypto trading bot running automated strategies around the clock.",
+    "description": "Webot is an exchange with automated trading built in, offering eleven bots that run continuously in the cloud without the user monitoring positions. The bots are preset, so no prior trading experience is needed to deploy one. The company is MTL compliant and licensed in 48 US states under NMLS 2284360, and operates from Princeton, New Jersey. Its automation reaches Hyperliquid alongside centralised venues.",
+    "meta": "Webot is an exchange with eleven preset trading bots running in the cloud around the clock, licensed in 48 US states and reaching Hyperliquid.",
+    "pageTitle": "Webot - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://webot.com/",
+    "github": "https://github.com/Webot-Official",
+    "twitter": "https://x.com/joinwebot"
+  },
+  "relations": {
+    "alternatives": [
+      "coinmarketman",
+      "hyperdash",
+      "matrixnet"
+    ],
+    "related": [
+      "thekingfisher",
+      "bitget",
+      "bybit"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Webot Grid Trading Bots Work",
+      "tldr": "Explains how to create a grid trading bot, choose a pair, and allocate assets in Webot.",
+      "url": "https://blog.webot.com/2023/10/19/grid-trading-bot/",
+      "source": "Webot",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Adding Funds to a Running Grid Bot",
+      "tldr": "Shows how to add investment to a Webot grid bot that is already running.",
+      "url": "https://blog.webot.com/2025/12/18/how-do-i-add-funds-to-the-running-grid-bot-us/",
+      "source": "Webot",
+      "tag": "Tutorial"
+    }
+  ]
+}

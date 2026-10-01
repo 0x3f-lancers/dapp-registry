@@ -1,0 +1,53 @@
+{
+  "slug": "honeycoin",
+  "name": "HoneyCoin",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760893/dapp-store-logos/honeycoin.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "HoneyCoin offers cross-border payments, multi-currency wallets, virtual cards and treasury tools.",
+    "description": "HoneyCoin gives finance teams multi-currency wallets, cross-border payments, virtual cards, stablecoin minting and treasury management in one platform. Balances can be held in both fiat and crypto, with collection and settlement running on local rails in more than 22 markets. Teams use it to run payroll, lend to borrowers and pay out to local accounts or wallets on demand. The company has raised 4.9 million dollars and offers developer SDKs alongside the dashboard.",
+    "meta": "Cross-border payments, multi-currency wallets and treasury tools for emerging-market businesses.",
+    "pageTitle": "HoneyCoin - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://honeycoin.app/",
+    "twitter": "https://x.com/honeycoinapp"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "bridge-xyz"
+    ],
+    "related": [
+      "capa-fi",
+      "chainrails",
+      "checker-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Stablecoin Payments in Africa",
+      "tldr": "Explains the rails and business considerations for accepting and sending stablecoin payments in African markets.",
+      "url": "https://honeycoin.app/stablecoin-payments-africa",
+      "source": "Honeycoin",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Fiat to Stablecoin Infrastructure in Africa",
+      "tldr": "Describes how conversion between local money and stablecoins supports cross border payment products.",
+      "url": "https://honeycoin.app/fiat-to-stablecoin-infrastructure-africa",
+      "source": "Honeycoin",
+      "tag": "Infrastructure"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "finchpay",
+  "name": "FinchPay",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1775219671/dapp-store-logos/finchpay.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "FinchPay provides onramp and offramp services for buying and selling crypto with fiat.",
+    "description": "FinchPay handles fiat purchases and sales of more than twenty cryptocurrencies across over a hundred countries. A buyer enters a destination wallet address, picks a payment method and receives the coins directly, with most transactions completing within five to thirty minutes of payment and identity verification clearing. Support runs around the clock. The exchange rate and service fee are shown before a purchase is confirmed.",
+    "meta": "Fiat-to-crypto purchase and the harder return journey, offered directly and as embedded infrastructure.",
+    "pageTitle": "FinchPay - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://finchpay.io/",
+    "twitter": "https://x.com/FinchPay_io"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "FinchPay Widget URL Structure",
+      "tldr": "Explains how partners can prefill checkout values using FinchPay widget URL parameters.",
+      "url": "https://docs.finchpay.io/docs/url-structure",
+      "source": "FinchPay",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Embedding the FinchPay Calculator",
+      "tldr": "Guides partners through adding FinchPay's exchange calculator to a web page.",
+      "url": "https://docs.finchpay.io/docs/fcalc",
+      "source": "FinchPay",
+      "tag": "Tutorial"
+    }
+  ]
+}

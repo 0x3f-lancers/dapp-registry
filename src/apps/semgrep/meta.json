@@ -29,5 +29,20 @@
       "rattle",
       "coinsdo"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Pattern Rules For Solidity Bugs",
+      "tldr": "The rule set itself: what each pattern looks for in contract source, and how to run it over your own repository.",
+      "url": "https://github.com/Raz0r/semgrep-smart-contracts",
+      "source": "GitHub"
+    },
+    {
+      "title": "Rules Derived From Real Exploits",
+      "tldr": "Each rule paired with the vulnerable code an attacker actually hit, so the pattern is validated rather than theoretical.",
+      "url": "https://github.com/Decurity/semgrep-smart-contracts",
+      "source": "Decurity",
+      "tag": "Security"
+    }
+  ]
 }

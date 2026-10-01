@@ -29,5 +29,23 @@
     "related": [
       "typechain"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How Ethereum Nodes Find Each Other",
+      "tldr": "Discovery, the RLPx transport and the sub-protocols above it. The whole networking stack, laid out in order.",
+      "url": "https://ethereum.org/developers/docs/networking-layer/",
+      "source": "ethereum.org",
+      "image": "https://ethereum.org/images/heroes/developers-hub-hero.png",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The RLPx Transport Spec",
+      "tldr": "The encrypted handshake and framing every Ethereum peer connection begins with. The specification itself.",
+      "url": "https://github.com/ethereum/devp2p/blob/master/rlpx.md",
+      "source": "Ethereum devp2p",
+      "image": "https://repository-images.githubusercontent.com/29512034/94a7b380-64fe-11e9-9e34-4932e8d7f781",
+      "tag": "Security"
+    }
+  ]
 }

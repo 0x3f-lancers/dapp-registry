@@ -31,5 +31,31 @@
       "dinari",
       "clip-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What CVX Is For",
+      "tldr": "Staking it earns a share of the Curve and Frax rewards the platform collects. What that claim actually entitles you to.",
+      "url": "https://docs.convexfinance.com/convexfinance/general-information/understanding-cvx",
+      "source": "Convex Docs",
+      "tag": "DeFi",
+      "image": "https://docs.convexfinance.com/convexfinance/~gitbook/ogimage/-MXUZsnSjuo6wT6FgFKn"
+    },
+    {
+      "title": "Locking Tokens to Get a Vote",
+      "tldr": "A minimum sixteen-week lock buys voting power. Why the lock exists, and what you give up for the duration.",
+      "url": "https://docs.convexfinance.com/convexfinance/general-information/understanding-cvx/vote-locking",
+      "source": "Convex Docs",
+      "tag": "Governance",
+      "image": "https://docs.convexfinance.com/convexfinance/~gitbook/ogimage/-Mixww9aDRd4eD17yzgY"
+    },
+    {
+      "title": "How Convex Governance Works",
+      "tldr": "Voting moved on-chain for locked holders. What proposals cover and how a decision actually reaches the contracts.",
+      "url": "https://docs.convexfinance.com/convexfinance/general-information/governance-and-voting",
+      "source": "Convex Docs",
+      "tag": "Governance",
+      "image": "https://docs.convexfinance.com/convexfinance/~gitbook/ogimage/fLmsofkOEHUZI7xAHNck"
+    }
+  ]
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "tau-labs",
+  "name": "TAU Labs",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761088/dapp-store-logos/tau-labs.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "DeFi lab that curates multi-asset vaults and designs tokenomics and incentive mechanisms.",
+    "description": "TAU Labs, run by 628 Labs, works on two fronts. As a vault curator it runs strategies for stablecoins, BTC, ETH and other assets across chains, calibrated to different risk levels, and it launched what it calls DeFi's first bond ETF built from Pendle PT assets. As a design lab it models interest rates, liquidations, auctions and token economics, stress-testing them with agent-based simulations.",
+    "meta": "TAU Labs curates multi-asset DeFi vaults, including a Pendle PT bond fund, and designs protocol incentives.",
+    "pageTitle": "TAU Labs - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.628labs.xyz",
+    "twitter": "https://x.com/628Labs"
+  },
+  "relations": {
+    "alternatives": [
+      "neutral-trade",
+      "looping-collective",
+      "cian-yield-layer"
+    ],
+    "related": [
+      "veno-finance",
+      "ezmanager",
+      "re7-labs"
+    ]
+  }
+}

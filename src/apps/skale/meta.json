@@ -30,5 +30,19 @@
       "cosmos",
       "eclipse"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Deploying With Foundry",
+      "tldr": "A working deployment recipe, including the network settings that differ from mainnet Ethereum.",
+      "url": "https://docs.skale.space/cookbook/deployment/setup-foundry",
+      "source": "SKALE"
+    },
+    {
+      "title": "Running A Supernode",
+      "tldr": "A long operator guide covering hardware, setup and what the node is responsible for once live.",
+      "url": "https://docs.skale.space/validators/run-supernode",
+      "source": "SKALE"
+    }
+  ]
 }

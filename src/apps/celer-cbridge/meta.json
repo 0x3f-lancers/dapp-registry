@@ -35,5 +35,29 @@
       "allium",
       "electron-zkbridge"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "cBridge, Taken Apart",
+      "tldr": "A deep dive from a competing aggregator: how the liquidity network moves value between chains, and what security model it relies on.",
+      "url": "https://blog.li.fi/celers-cbridge-a-deep-dive-864bea650cd0",
+      "source": "LI.FI Blog",
+      "tag": "Security",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*t5LoGVQ8ViI0Ol5z6-M8VA.png"
+    },
+    {
+      "title": "Three Ways to Move a Token",
+      "tldr": "Pool-based, canonical mint-and-burn, or wrapped. Each bridging model with its own failure mode, set out side by side.",
+      "url": "https://cbridge-docs.celer.network/introduction/fungible-token-bridging-models",
+      "source": "cBridge Docs",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "Supplying the Bridge",
+      "tldr": "What a liquidity provider earns, where the imbalance risk sits, and how fees are split between LPs and validators.",
+      "url": "https://cbridge-docs.celer.network/tutorial/lp-guide",
+      "source": "cBridge Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

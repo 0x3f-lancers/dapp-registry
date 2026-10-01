@@ -1,0 +1,57 @@
+{
+  "slug": "ripe",
+  "name": "Ripe",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761050/dapp-store-logos/ripe.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Solana",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Stablecoin off-ramp for Asia that lets you pay at any QR code and have merchants get local money.",
+    "description": "Ripe connects stablecoins to everyday payments in Asia. Users scan a local QR code and pay from wallets like Phantom, Backpack, OKX, Trust or MetaMask, and the merchant receives fiat instantly. Ripe can also convert stablecoins straight into local e-wallets, turn incoming crypto into fiat automatically, and pay global teams in local currency. Wallets and exchanges can embed it directly.",
+    "meta": "Pay any QR code in Asia with stablecoins from your own wallet using Ripe, while merchants receive local currency.",
+    "pageTitle": "Ripe - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.ripe.money",
+    "twitter": "https://x.com/PayWithRipe"
+  },
+  "relations": {
+    "alternatives": [
+      "kulipa",
+      "sphere",
+      "web3-enabler"
+    ],
+    "related": [
+      "halliday",
+      "checker-finance",
+      "cryptocadet"
+    ]
+  },
+  "resources": [
+    {
+      "title": "No Fiat? No Problem! Breakpoint Attendees Pay in Crypto Using Ripe",
+      "tldr": "How Solana Breakpoint attendees used Ripe to pay fiat-only shops in Singapore by scanning QR codes with crypto.",
+      "url": "https://bitpinas.com/business/breakpoint-pay-crypto-ripe/",
+      "source": "BitPinas",
+      "tag": "Payments",
+      "publishedAt": "2024-10-15"
+    },
+    {
+      "title": "An Interview With Sam Silver, Co-Founder of Ripe",
+      "tldr": "Co-founder Sam Silver on why Ripe targets cash-heavy markets like the Philippines with stablecoin QR payments.",
+      "url": "https://usethebitcoin.com/interviews/sam-silver-co-founder-of-ripe/",
+      "source": "UseTheBitcoin",
+      "tag": "Payments",
+      "publishedAt": "2025-01-22"
+    }
+  ]
+}

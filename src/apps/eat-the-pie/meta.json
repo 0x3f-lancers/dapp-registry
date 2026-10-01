@@ -1,0 +1,53 @@
+{
+  "slug": "eat-the-pie",
+  "name": "Eat The Pie",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760843/dapp-store-logos/eat-the-pie.jpg",
+  "category": "Decentralized Games",
+  "subcategory": [
+    "Web3 Games"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Self-running lottery on World Chain with 1 WLD tickets and a draw every four days.",
+    "description": "Eat The Pie is a lottery that runs itself on World Chain. Tickets cost 1 WLD, draws happen every four days, and each round's numbers, prize pool and winners are published in an on-chain explorer. When nobody matches the numbers, the pot rolls over, which is why some pools have grown past 3,000 WLD. More than 45,000 tickets have been sold, mostly through its World App mini app.",
+    "meta": "Buy 1 WLD tickets for Eat The Pie, a transparent lottery on World Chain that draws every four days and rolls over unwon pots.",
+    "pageTitle": "Eat The Pie - Decentralized Games - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.eatthepie.xyz",
+    "twitter": "https://x.com/eatthepiexyz"
+  },
+  "relations": {
+    "alternatives": [
+      "parallel",
+      "forever-fc",
+      "crabada"
+    ],
+    "related": [
+      "soulbound",
+      "sunflower-land",
+      "predipie"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Eat the Pie: The World Lottery on World Chain",
+      "tldr": "Docs for the autonomous lottery: how draws run onchain, where the capped 1% fee goes and why anyone can verify results.",
+      "url": "https://docs.eatthepie.xyz/",
+      "source": "Eat The Pie Docs",
+      "tag": "Gaming"
+    },
+    {
+      "title": "Migrating the Lottery to V2",
+      "tldr": "Why V1 stalled in Game 6 when a VDF randomness proof failed, how tickets were refunded, and why V2 moved to Witnet.",
+      "url": "https://www.eatthepie.xyz/migrate",
+      "source": "Eat The Pie",
+      "tag": "Infrastructure"
+    }
+  ]
+}

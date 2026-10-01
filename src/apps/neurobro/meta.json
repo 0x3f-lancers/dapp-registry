@@ -1,0 +1,54 @@
+{
+  "slug": "neurobro",
+  "name": "Neurobro",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760988/dapp-store-logos/neurobro.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "AI research agent for crypto and stocks with a built-in self-custody wallet for trading.",
+    "description": "Neurobro collects data from dozens of financial sources and uses specialised AI agents to answer questions about markets, track whales and surface opportunities. Its NeuroWallet lets users act on an answer in the same app, trading on Base and Solana from a hardware-secured key that Neurobro cannot move, with gas covered on supported routes. It reports 300,000 users and its Neurodex version is built into World App.",
+    "meta": "Ask Neurobro's AI agents about any market, then trade from its self-custody wallet on Base and Solana.",
+    "pageTitle": "Neurobro - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://neurobro.ai",
+    "twitter": "https://x.com/0xNeurobro"
+  },
+  "relations": {
+    "alternatives": [
+      "webot",
+      "trakx",
+      "blazing"
+    ],
+    "related": [
+      "cod3x",
+      "hypersignals",
+      "asym"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Is Neurobro",
+      "tldr": "Explains the specialised agents Neurobro coordinates to cover sentiment, technicals, onchain data and macro research.",
+      "url": "https://neurobro.ai/research/what-is-neurobro/",
+      "source": "Neurobro",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "Introducing Neurobro Mobile",
+      "tldr": "Neurobro's announcement of its mobile app as the next phase of its AI research and trading ecosystem.",
+      "url": "https://neurobro.ai/research/introducing-neurobro-mobile-app",
+      "source": "Neurobro",
+      "tag": "Product",
+      "publishedAt": "2026-01-23"
+    }
+  ]
+}

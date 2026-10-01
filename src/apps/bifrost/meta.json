@@ -31,5 +31,34 @@
       "timeswap",
       "notional"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Minting Against Swapping, and the Yield You Miss",
+      "tldr": "Two routes into a liquid staking token pay differently. The gap comes from a routing choice most stakers never consciously make.",
+      "url": "https://bifrost.io/blog/how-to-earn-more-yield-on-dot-vdot-swap-vs-mint-explained",
+      "source": "Bifrost Blog",
+      "publishedAt": "2026-06-08",
+      "tag": "DeFi",
+      "image": "https://cdn.bifrost.io/cms/How_to_Earn_More_Yield_on_DOT_6104730622.png"
+    },
+    {
+      "title": "A Staking Token Built for More Than One Chain",
+      "tldr": "Ethereum's staking market passed $100 billion while the tokens representing it stayed chain-bound. What a multichain design has to solve.",
+      "url": "https://bifrost.io/blog/veth-the-first-lst-built-for-native-multichain-eth-staking",
+      "source": "Bifrost Blog",
+      "publishedAt": "2025-12-18",
+      "tag": "DeFi",
+      "image": "https://cdn.bifrost.io/cms/v_ETH_30_Blog_4b7861103f.png"
+    },
+    {
+      "title": "Anatomy of the Farming Exploit",
+      "tldr": "A technical post-mortem going past the incident response to how the exploit was possible at all, and what the protocol changed afterwards.",
+      "url": "https://bifrost.io/blog/bifrost-farming-incident-technical-report",
+      "source": "Bifrost Blog",
+      "publishedAt": "2026-08-17",
+      "tag": "Security",
+      "image": "https://cdn.bifrost.io/cms/technical_report_91f76d029b.png"
+    }
+  ]
 }

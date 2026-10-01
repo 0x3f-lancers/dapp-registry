@@ -1,0 +1,56 @@
+{
+  "slug": "tether",
+  "name": "Tether",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761092/dapp-store-logos/tether.png",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "RWA Tokenization Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Tron",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Issuer of USDT, the most widely used stablecoin, and XAUt, a gold-backed token.",
+    "description": "Tether created USDT in 2014, and it has become the most traded stablecoin, used across exchanges, OTC desks, wallets and payments on many blockchains. Each token is pegged one to one to the dollar and backed by Tether's reserves, which it reports on a transparency page. Tether also issues Tether Gold (XAUt), backed by physical gold, and backs projects across payments, energy, AI and education.",
+    "meta": "Tether issues USDT, the most widely used dollar stablecoin, and XAUt, a token backed by physical gold.",
+    "pageTitle": "Tether - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tether.to",
+    "twitter": "https://x.com/tether"
+  },
+  "relations": {
+    "alternatives": [
+      "yuzu-money",
+      "valos",
+      "anzens"
+    ],
+    "related": [
+      "schuman",
+      "libeara",
+      "stablr"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Tether Tokens Work",
+      "tldr": "Tether explains issuance, reserves, fiat pegs, and the blockchains that carry its tokens.",
+      "url": "https://tether.to/en/how-it-works/",
+      "source": "Tether",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Tether Token FAQs",
+      "tldr": "Answers questions about token creation, redemption, supported assets, and using Tether across chains.",
+      "url": "https://tether.to/en/faqs/",
+      "source": "Tether",
+      "tag": "Explainer"
+    }
+  ]
+}

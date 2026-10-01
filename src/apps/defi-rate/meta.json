@@ -33,5 +33,22 @@
       "defi-saver",
       "scour"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Anatomy of a $128M Exploit",
+      "tldr": "The Balancer V2 hack traced through what actually broke, rather than the headline number. Useful for anyone supplying a pool.",
+      "url": "https://defirate.com/news/balancer-hack-crypto-exploit-explained-nov-2024/",
+      "source": "DeFi Rate",
+      "tag": "Security",
+      "image": "https://defirate.com/wp-content/uploads/2025/11/Balancer_Hack-1024x683.png"
+    },
+    {
+      "title": "When the Founder Walks Off With the Keys",
+      "tldr": "The SushiSwap exit as it happened, and what it taught about admin control over a supposedly decentralised protocol.",
+      "url": "https://defirate.com/news/sushiswap-rug-pull/",
+      "source": "DeFi Rate",
+      "image": "https://defirate.com/wp-content/uploads/2024/07/ledger.png"
+    }
+  ]
 }

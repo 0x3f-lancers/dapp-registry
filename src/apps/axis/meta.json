@@ -1,0 +1,53 @@
+{
+  "slug": "axis",
+  "name": "Axis",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760752/dapp-store-logos/axis.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Market-making firm whose arbitrage profits back USDx, a yield-bearing synthetic dollar.",
+    "description": "Axis runs high-frequency trading systems that watch 14 venues for price gaps and trade them when they meet its risk criteria. Net profits flow to holders of USDx, its synthetic dollar, and staked sUSDx grows in value as those profits arrive, with performance reported on-chain. The team says it has eight years of experience running HFT systems and has traded more than $110 billion, backed by Galaxy, FalconX and OKX.",
+    "meta": "Axis turns cross-venue arbitrage into yield for USDx, a synthetic dollar with $56M+ backing and on-chain reporting.",
+    "pageTitle": "Axis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.axis.to",
+    "twitter": "https://x.com/AxisFDN"
+  },
+  "relations": {
+    "alternatives": [
+      "ezmanager",
+      "altura-trade",
+      "neutral-trade"
+    ],
+    "related": [
+      "telos-consilium",
+      "heyelsaai",
+      "thestandard"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Origin Vault and USDx",
+      "tldr": "Reports the Origin Vault's deposits and explains the next stage for Axis's USDx and Coordinates system.",
+      "url": "https://axis.to/insights/Whats-Next-for-USDx-and-Coordinates",
+      "source": "Axis",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How Axis Backs USDx with Arbitrage Strategies",
+      "tldr": "Explains Axis's diversified arbitrage engine and how its collateral and returns support USDx and sUSDx.",
+      "url": "https://www.axis.to/insights/beyond-basis-the-case-for-a-diversified-verifiable-arbitrage-engine",
+      "source": "Axis",
+      "tag": "Research"
+    }
+  ]
+}

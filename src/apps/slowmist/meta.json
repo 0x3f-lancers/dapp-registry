@@ -30,5 +30,25 @@
       "nightfall",
       "blockaid"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Reentrancy, From The Attacker Side",
+      "tldr": "The classic Solidity bug rebuilt step by step, showing the exact call ordering that lets a contract be drained mid-execution.",
+      "url": "https://www.slowmist.com/articles/solidity-security/Common-Vulnerabilities-in-Solidity-Reentrancy-Vulnerability.html",
+      "source": "SlowMist"
+    },
+    {
+      "title": "The Danger In Delegatecall",
+      "tldr": "Why borrowing another contract's code while keeping your own storage is powerful, and how that same property gets exploited.",
+      "url": "https://www.slowmist.com/articles/solidity-security/Common-Vulnerabilities-in-Solidity-Delegatecall.html",
+      "source": "SlowMist"
+    },
+    {
+      "title": "Randomness You Cannot Trust",
+      "tldr": "Every on-chain source of randomness a contract might reach for, and how a miner or a bot predicts each one.",
+      "url": "https://www.slowmist.com/articles/solidity-security/Common-Vulnerabilities-in-Solidity-Randomness.html",
+      "source": "SlowMist"
+    }
+  ]
 }

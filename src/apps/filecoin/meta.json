@@ -31,5 +31,34 @@
       "blockai-bai",
       "noves"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Filecoin's NV28 'Fire Horse' Network Upgrade",
+      "tldr": "Smart contracts can now verify the health, status and expiry of any storage sector onchain, part of a push toward paid storage deals and better economics.",
+      "url": "https://filecoin.io/blog/filecoins-nv28-fire-horse-network-upgrade-is-here",
+      "source": "Filecoin Blog",
+      "publishedAt": "2026-05-27",
+      "tag": "Infrastructure",
+      "image": "https://filecoin.io/uploads/NV28_Blog_2000x1125.webp"
+    },
+    {
+      "title": "Filecoin's 2026 Shift Toward Paid Storage",
+      "tldr": "The strategy moves from how much data the network can hold to how much it is paid to store and serve, and what that asks of builders.",
+      "url": "https://filecoin.io/blog/ProPGF-Batch-3-Call-for-Builders",
+      "source": "Filecoin Blog",
+      "publishedAt": "2026-06-07",
+      "tag": "Infrastructure",
+      "image": "https://filecoin.io/_next/static/media/image-fallback.120ac424.webp"
+    },
+    {
+      "title": "Solstice: Reshaping How Storage Providers Earn",
+      "tldr": "A proposal to drop the special approval process for higher rewards, the largest change to Filecoin's reward system since launch.",
+      "url": "https://filecoin.io/blog/Solstice-Towards-a-Filecoin-Service-Economy",
+      "source": "Filecoin Blog",
+      "publishedAt": "2026-07-17",
+      "tag": "Infrastructure",
+      "image": "https://filecoin.io/uploads/blog-solstice.webp"
+    }
+  ]
 }

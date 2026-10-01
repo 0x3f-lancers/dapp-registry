@@ -30,5 +30,30 @@
       "nansen-portfolio",
       "sol-incinerator"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Uniswap, Explained Properly",
+      "tldr": "A long-form walkthrough of the AMM that set the template, covering the mechanism rather than the interface.",
+      "url": "https://defiprime.com/uniswap-explained",
+      "source": "DeFi Prime",
+      "tag": "Explainer",
+      "image": "https://defiprime.com/images/blog/uniswapexplained-og.png"
+    },
+    {
+      "title": "What a Bonding Curve Is",
+      "tldr": "A formula tying a token's price to its supply. The maths stated plainly, then what it does to buyer incentives.",
+      "url": "https://defiprime.com/bonding-curve-explained",
+      "source": "DeFi Prime",
+      "image": "https://defiprime.com/images/blog/bonding-curve-og.png"
+    },
+    {
+      "title": "Unisocks, and Tokenised Scarcity",
+      "tldr": "A limited run of actual socks priced by a bonding curve. The clearest small example of the idea in practice.",
+      "url": "https://defiprime.com/unisocks-explained",
+      "source": "DeFi Prime",
+      "tag": "Tokenization",
+      "image": "https://defiprime.com/images/blog/unisocks-og.png"
+    }
+  ]
 }

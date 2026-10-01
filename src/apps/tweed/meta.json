@@ -28,5 +28,28 @@
     "related": [
       "wally"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Embedding a Wallet in Your App",
+      "tldr": "Wallet-as-a-service explained, including what custody model your users end up with.",
+      "url": "https://docs.paytweed.com/getting-started/embedded-wallets-or-waas",
+      "source": "Tweed Docs",
+      "tag": "Security"
+    },
+    {
+      "title": "Taking a Token Payment",
+      "tldr": "The checkout flow for accepting crypto without handling the complexity yourself.",
+      "url": "https://docs.paytweed.com/getting-started/token-checkout-or-payments",
+      "source": "Tweed Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "What the Platform Covers",
+      "tldr": "A short scope statement, useful before reading any of the integration pages.",
+      "url": "https://docs.paytweed.com/welcome-to-tweed/what-can-tweed-do",
+      "source": "Tweed Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

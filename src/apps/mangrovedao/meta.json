@@ -3,8 +3,12 @@
   "name": "Mangrove",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770748189/web3-explorer/dapp-logos/mangrovedao.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Polygon"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Polygon"
+  ],
   "pricing": "",
   "content": {
     "short": "Mangrove is an on-chain order-book DEX enabling liquidity providers to post arbitrary smart contracts as offers.",
@@ -17,7 +21,30 @@
     "twitter": "https://x.com/mangrovedao"
   },
   "relations": {
-    "alternatives": ["1delta", "bamboo-relay"],
-    "related": ["odos", "vaultka"]
-  }
+    "alternatives": [
+      "1delta",
+      "bamboo-relay"
+    ],
+    "related": [
+      "odos",
+      "vaultka"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What Makes Mangrove Different",
+      "tldr": "An order book where offers can run code when taken. The consequence of that design.",
+      "url": "https://docs.mangrove.exchange/start-here/why-mangrove",
+      "source": "Mangrove Docs",
+      "tag": "Trading",
+      "image": "https://docs.mangrove.exchange/~gitbook/ogimage/AqNYDeDaOJe07Skp2Nwn"
+    },
+    {
+      "title": "Who Should Use It",
+      "tldr": "An honest scoping of the intended user, including who it is not for.",
+      "url": "https://docs.mangrove.exchange/start-here/who-is-the-mangrove-dapp-for",
+      "source": "Mangrove Docs",
+      "image": "https://docs.mangrove.exchange/~gitbook/ogimage/ahUKS949DmylxThAnagI"
+    }
+  ]
 }

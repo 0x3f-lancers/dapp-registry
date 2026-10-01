@@ -45,5 +45,28 @@
       "maian",
       "sygnum-web3-recovery"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Catching A Wallet Behaving Oddly",
+      "tldr": "Real-time techniques for spotting anomalous onchain activity, and how a monitor decides what counts as abnormal.",
+      "url": "https://blog.securedapp.io/real-time-on-chain-threat-monitoring-anomalous-wallet-detection",
+      "source": "SecureDapp",
+      "publishedAt": "2026-08-24"
+    },
+    {
+      "title": "Rotating Keys Without Downtime",
+      "tldr": "Why keys have to change on a schedule, and the automation that lets an enterprise do it without breaking signing.",
+      "url": "https://blog.securedapp.io/key-rotation-strategies",
+      "source": "SecureDapp",
+      "publishedAt": "2026-08-26"
+    },
+    {
+      "title": "India's Data Law Deadlines",
+      "tldr": "What the DPDP Act requires and by when, mapped to the technical work a product team actually has to do.",
+      "url": "https://blog.securedapp.io/dpdp-act-compliance-timeline-2026-2027",
+      "source": "SecureDapp",
+      "publishedAt": "2026-08-28"
+    }
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "origami-finance",
+  "name": "Origami Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761008/dapp-store-logos/origami-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Farming Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Automated leverage vaults, including hOHM and multi-market OPAL vaults, with one-click looping.",
+    "description": "Origami packages leveraged yield strategies into single tokens that manage themselves. Its best-known product is hOHM, a max-leveraged OHM position, alongside loops on assets like Ethena's sUSDe and Pendle PTs. OPAL vaults hold several assets and debts across Aave, Morpho and Euler at once and rebalance debt automatically, including around PT expiries, using Origami's automation engine.",
+    "meta": "Origami turns leveraged yield loops into single self-managing tokens, from hOHM to multi-market OPAL vaults.",
+    "pageTitle": "Origami Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://origami.finance",
+    "twitter": "https://x.com/origami_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "rbx",
+      "trebleswap",
+      "elixir"
+    ],
+    "related": [
+      "snowball",
+      "martian-labs",
+      "goat-protocol"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Origami Protocol Overview",
+      "tldr": "Overview of Origami as an automated leverage protocol on Ethereum and Plasma that folds positions inside balance-sheet vaults.",
+      "url": "https://docs.origami.finance/",
+      "source": "Origami Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "How Does a Leveraged Origami Vault Work?",
+      "tldr": "Explains why manual looping is costly and risky, and how Origami's vaults automate the fold while managing liquidation risk.",
+      "url": "https://docs.origami.finance/the-second-fold-v2/how-does-a-leveraged-origami-vault-work",
+      "source": "Origami Docs",
+      "tag": "Explainer"
+    }
+  ]
+}

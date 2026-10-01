@@ -34,5 +34,23 @@
     "related": [
       "bright-id"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Who Is Allowed to Sign",
+      "tldr": "Account owners, credentials and key scopes. The authorisation model is the security model here.",
+      "url": "https://developer.litprotocol.com/architecture/authModel",
+      "source": "Lit Protocol Docs",
+      "tag": "AI & Agents",
+      "image": "https://litprotocol.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DArchitecture%26title%3DAuthentication%2BModel%26description%3DHow%2Baccounts%252C%2BAPI%2Bkeys%252C%2BPKPs%252C%2Bgroups%252C%2Band%2Bthe%2BTEE%2Broot%2Bkey%2Bcompose%2Binto%2Ba%2Bprogrammable%2BKMS%2B%25E2%2580%2594%2Band%2Bhow%2BAPI%2Bmode%2Bvs%2BChainSecured%2Bmode%2Bemerges%2Bfrom%2Bconfiguration.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Flitprotocol%252FQETV3ZoD4rHDsUls%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DQETV3ZoD4rHDsUls%2526q%253D85%2526s%253D5bf9ff54e3d9d64f6068e4d5aac6035d%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Flitprotocol%252FQETV3ZoD4rHDsUls%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DQETV3ZoD4rHDsUls%2526q%253D85%2526s%253D7ed0fceb7a8b48e80cd7e3c2bb75b9ed%26primaryColor%3D%25230D9373%26lightColor%3D%2523F97316%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0b0b&w=1200&q=100"
+    },
+    {
+      "title": "Keeping Key Authority On-Chain",
+      "tldr": "An address that owns everything, so permission is enforced by the chain rather than by a server.",
+      "url": "https://developer.litprotocol.com/architecture/chain-secured",
+      "source": "Lit Protocol Docs",
+      "tag": "Infrastructure",
+      "image": "https://litprotocol.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DArchitecture%26title%3DChain%2BSecured%26description%3DA%2Bkey%2527s%2Bauthority%2Blives%2Bin%2Bsmart%2Bcontracts%2Bon%2BBase%252C%2Band%2Ban%2Battested%2BTEE%2Benforces%2Bthose%2Brules%2Bby%2Breading%2Bthe%2Bchain%2B%25E2%2580%2594%2Bon-chain%2Bauthority%252C%2Bsigning%2Bat%2BAPI%2Bspeed.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Flitprotocol%252FQETV3ZoD4rHDsUls%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DQETV3ZoD4rHDsUls%2526q%253D85%2526s%253D5bf9ff54e3d9d64f6068e4d5aac6035d%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Flitprotocol%252FQETV3ZoD4rHDsUls%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DQETV3ZoD4rHDsUls%2526q%253D85%2526s%253D7ed0fceb7a8b48e80cd7e3c2bb75b9ed%26primaryColor%3D%25230D9373%26lightColor%3D%2523F97316%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0b0b&w=1200&q=100"
+    }
+  ]
 }

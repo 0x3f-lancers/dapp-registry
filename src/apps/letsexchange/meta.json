@@ -1,0 +1,53 @@
+{
+  "slug": "letsexchange",
+  "name": "LetsExchange",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760946/dapp-store-logos/letsexchange.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "LetsExchange is an instant swap service covering several thousand cryptocurrencies.",
+    "description": "LetsExchange is an instant swap service quoting across more than six thousand cryptocurrencies. It compares offers from multiple swap providers, matches them to the user's country and shows rates and fees before the swap is confirmed. Coverage includes DEX routing and one-step cross-chain swaps. The company is currently rebuilding its exchange infrastructure to widen coin access and improve rates.",
+    "meta": "LetsExchange is an instant swap service covering 6,000+ cryptocurrencies, comparing provider offers and showing rates and fees before you confirm.",
+    "pageTitle": "LetsExchange - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://letsexchange.io/",
+    "twitter": "https://x.com/letsexchange_io"
+  },
+  "relations": {
+    "alternatives": [
+      "bybit",
+      "changehero",
+      "exolix"
+    ],
+    "related": [
+      "simpleswap",
+      "debank",
+      "nansen-portfolio"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why Tokenized Assets Still Need Liquidity",
+      "tldr": "Explains why putting a real-world asset onchain does not by itself create a liquid market for buying or selling it.",
+      "url": "https://letsexchange.io/blog/rwa-liquidity-explained-why-does-tokenizing-an-asset-not-automatically-make-it-liquid",
+      "source": "LetsExchange",
+      "tag": "Explainer"
+    },
+    {
+      "title": "MCP in Crypto: Opportunities and Risks",
+      "tldr": "Explores how crypto services can connect to AI agents through MCP and the security and adoption questions that follow.",
+      "url": "https://letsexchange.io/blog/mcp-in-crypto-opportunities-risks-and-the-road-to-adoption",
+      "source": "LetsExchange",
+      "tag": "AI & Agents"
+    }
+  ]
+}

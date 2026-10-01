@@ -1,0 +1,53 @@
+{
+  "slug": "peridot",
+  "name": "Peridot",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761019/dapp-store-logos/peridot.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Peridot is a cross-chain lending protocol with hub-and-spoke money markets.",
+    "description": "Peridot describes itself as a DeFi broker, letting a user earn interest on deposits and borrow against them from one account across multiple chains while keeping custody. Deposited crypto acts as collateral, each asset carries its own borrow limit, and the interface shows the health level a position needs to avoid liquidation. A hub-and-spoke design holds the accounting centrally while spokes handle local deposits, which keeps rates coherent across chains instead of fragmenting them per deployment. The platform also offers margin trading, a leaderboard and an AI agent for account queries.",
+    "meta": "Collateral supplied on one chain supporting borrowing on another, through a hub-and-spoke design.",
+    "pageTitle": "Peridot - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://peridot.finance",
+    "twitter": "https://x.com/peridotprotocol"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "covenant-finance",
+      "curvance"
+    ],
+    "related": [
+      "euler",
+      "folks-finance",
+      "gearbox"
+    ]
+  },
+  "resources": [
+    {
+      "title": "MEV, Slippage and DEX Aggregator Swaps",
+      "tldr": "Explains how MEV bots and slippage can change swap outcomes and what traders can inspect before submitting an order.",
+      "url": "https://peridot.finance/blog/dark-side-dex-aggregators-mev-bots-slippage-protect-swaps",
+      "source": "Peridot",
+      "tag": "Security"
+    },
+    {
+      "title": "Borrowing Against Liquid Staking Tokens",
+      "tldr": "Explains the capital efficiency of LST collateral and the liquidation risks that increase when positions are leveraged.",
+      "url": "https://peridot.finance/blog/borrowing-against-liquid-staking-tokens-capital-efficiency-liquidation-risks",
+      "source": "Peridot",
+      "tag": "DeFi"
+    }
+  ]
+}

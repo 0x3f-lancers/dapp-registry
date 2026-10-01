@@ -1,0 +1,53 @@
+{
+  "slug": "keiko-finance",
+  "name": "Keiko Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760929/dapp-store-logos/keiko-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Keiko Finance is a Hyperliquid CDP protocol minting the KEI stablecoin against HYPE and related assets.",
+    "description": "Keiko Finance lets users deposit supported Hyperliquid assets and borrow KEI, its stablecoin, against them. Borrowed KEI can be traded, reinvested or spent like any other stablecoin, and the loan stays open as long as the collateral holds its value. Vaults sit alongside the borrowing markets with their own interest model and management interface. It is explicit about which contract powers remain with administrators and which are immutable.",
+    "meta": "KEI, minted against HYPE and other Hyperliquid-native collateral with per-asset risk settings.",
+    "pageTitle": "Keiko Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://keikofinance.com",
+    "twitter": "https://x.com/keikofinance"
+  },
+  "relations": {
+    "alternatives": [
+      "felix-protocol",
+      "hyperstable",
+      "mai"
+    ],
+    "related": [
+      "monetrix",
+      "parallel-protocol",
+      "timeswap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Vaults Overview",
+      "tldr": "A vault functions as a specific container within which you can place collateral to borrow KEI and manage your loan.",
+      "url": "https://docs.keikofinance.com/protocol-overview/vaults-overview.md",
+      "source": "Keiko Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Vault Management",
+      "tldr": "This section provides a comprehensive, step-by-step guide on how to effectively manage a Keiko vault.",
+      "url": "https://docs.keikofinance.com/tutorials/vault-management.md",
+      "source": "Keiko Finance",
+      "tag": "Explainer"
+    }
+  ]
+}

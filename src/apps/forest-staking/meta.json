@@ -1,0 +1,55 @@
+{
+  "slug": "forest-staking",
+  "name": "Forest Staking",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760874/dapp-store-logos/forest-staking.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Crypto Staking Companies"
+  ],
+  "chains": [
+    "Monad",
+    "Aptos",
+    "Sui"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Forest Staking runs enterprise validator infrastructure across Monad, Aptos, Sui and other networks.",
+    "description": "Forest Staking operates validator infrastructure for Monad, Aptos, Sui and other proof-of-stake networks. It claims 99.9 percent uptime with failover configured across its nodes. Its positioning is toward institutional delegators who need documented reliability rather than the lowest commission.",
+    "meta": "Forest Staking runs enterprise validator infrastructure for Monad, Aptos, Sui and other proof-of-stake networks, claiming 99.9 percent uptime.",
+    "pageTitle": "Forest Staking - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://foreststaking.com",
+    "twitter": "https://x.com/foreststaking"
+  },
+  "relations": {
+    "alternatives": [
+      "itrocket",
+      "kiln",
+      "silk-nodes"
+    ],
+    "related": [
+      "stakemon",
+      "veda",
+      "cetus"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Forest Staking on Monad Mainnet",
+      "tldr": "Forest Staking explains its genesis validator role on Monad and its liquid staking partnership with Magma.",
+      "url": "https://medium.com/@foreststaking/forest-staking-powers-the-launch-of-monad-the-future-of-high-performance-evm-6c7547880566",
+      "source": "Forest Staking",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Monad Staking Overview",
+      "tldr": "The official Monad guide explains delegation, validator selection, epoch timing, rewards, and withdrawals for MON stakers.",
+      "url": "https://monad.docsbot.app/reference/staking/overview",
+      "source": "Monad Documentation",
+      "tag": "Tutorial"
+    }
+  ]
+}

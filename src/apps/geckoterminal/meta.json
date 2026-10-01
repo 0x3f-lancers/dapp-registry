@@ -1,36 +1,60 @@
 {
-    "slug":  "geckoterminal",
-    "name":  "GeckoTerminal",
-    "logoUrl":  "https://res.cloudinary.com/lancers-technology/image/upload/v1770747198/web3-explorer/dapp-logos/geckoterminal.png",
-    "category":  "DeFi Tools",
-    "subcategory":  [
-                        "Analytics Tools"
-                    ],
-    "chains":  [
-                   "Multichain",
-                   "TON"
-               ],
-    "pricing":  "Free",
-    "content":  {
-                    "short":  "GeckoTerminal is a CoinGecko platform for tracking DEX prices, pools, liquidity, and charts across many networks.",
-                    "description":  "GeckoTerminal, built by the team behind CoinGecko, tracks market activity on decentralized exchanges across many blockchains. The platform focuses on token and pool data, interactive charts, trending markets, and onchain analytics that help traders monitor liquidity, volume, transactions, and price movement in real time. It also offers a public API for accessing the same market data programmatically. In the TON ecosystem, GeckoTerminal is mainly used as a research and monitoring tool for pools and tokens rather than a trading venue itself.",
-                    "meta":  "GeckoTerminal tracks DEX prices, pool data, liquidity, charts, and token activity across chains for research on Lancers Web3 Explorer.",
-                    "pageTitle":  "GeckoTerminal - DeFi Tools on TON - Lancers Web3 Explorer"
-                },
-    "links":  {
-                  "website":  "https://www.geckoterminal.com",
-                  "twitter":  "https://x.com/GeckoTerminal"
-              },
-    "relations":  {
-                      "alternatives":  [
-                                           "layerswap",
-                                           "rubic",
-                                           "symbiosis"
-                                       ],
-                      "related":  [
-                                      "layerswap",
-                                      "rubic",
-                                      "symbiosis"
-                                  ]
-                  }
+  "slug": "geckoterminal",
+  "name": "GeckoTerminal",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747198/web3-explorer/dapp-logos/geckoterminal.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "TON"
+  ],
+  "pricing": "Free",
+  "content": {
+    "short": "GeckoTerminal is a CoinGecko platform for tracking DEX prices, pools, liquidity, and charts across many networks.",
+    "description": "GeckoTerminal, built by the team behind CoinGecko, tracks market activity on decentralized exchanges across many blockchains. The platform focuses on token and pool data, interactive charts, trending markets, and onchain analytics that help traders monitor liquidity, volume, transactions, and price movement in real time. It also offers a public API for accessing the same market data programmatically. In the TON ecosystem, GeckoTerminal is mainly used as a research and monitoring tool for pools and tokens rather than a trading venue itself.",
+    "meta": "GeckoTerminal tracks DEX prices, pool data, liquidity, charts, and token activity across chains for research on Lancers Web3 Explorer.",
+    "pageTitle": "GeckoTerminal - DeFi Tools on TON - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.geckoterminal.com",
+    "twitter": "https://x.com/GeckoTerminal"
+  },
+  "relations": {
+    "alternatives": [
+      "layerswap",
+      "rubic",
+      "symbiosis"
+    ],
+    "related": [
+      "layerswap",
+      "rubic",
+      "symbiosis"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What a Token Health Score Measures",
+      "tldr": "A single 0–100 number combining whether the token actually trades with whether its contract behaves. What goes into each half.",
+      "url": "https://support.coingecko.com/hc/en-us/articles/38381394237593-What-is-the-GT-Score-How-is-the-GT-Score-calculated",
+      "source": "GeckoTerminal Support",
+      "tag": "Trading"
+    },
+    {
+      "title": "The Security Signals Worth Checking First",
+      "tldr": "Honeypots, mint authority, ownership and liquidity locks — the technical checks that catch most of the obvious traps before you buy.",
+      "url": "https://support.coingecko.com/hc/en-us/articles/55538452200473-What-are-the-security-indicators-that-GT-tracks",
+      "source": "GeckoTerminal Support",
+      "tag": "Security"
+    },
+    {
+      "title": "What Verification Actually Confirms",
+      "tldr": "A badge means someone checked the social links and contract details. Useful to know precisely which claims it does and does not cover.",
+      "url": "https://support.coingecko.com/hc/en-us/articles/54413671274649-What-is-GT-Verified-Badge",
+      "source": "GeckoTerminal Support",
+      "tag": "DeFi",
+      "image": "https://support.coingecko.com/hc/theming_assets/01JR7VXWPH2N6SB2DK3WVX4HNP"
+    }
+  ]
 }

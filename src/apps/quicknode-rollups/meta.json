@@ -31,5 +31,34 @@
       "hyperlane-xyz",
       "stackr"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Automated USDC Yield Through the Earn API",
+      "tldr": "Moves idle USDC into the top-paying Morpho vaults across seven chains and rebalances automatically, non-custodially and behind one API.",
+      "url": "https://www.quicknode.com/blog/introducing-quicknode-earn-morpho-yield-on-autopilot",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-07-16",
+      "tag": "DeFi",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/uq4luGeNwrc9tWCfMeY13/b42854aba7f29c6509408a875fb88aaf/1200x630__3_.png"
+    },
+    {
+      "title": "Building on Robinhood Chain",
+      "tldr": "An Arbitrum Orbit L2 built for tokenised stocks, ETPs and real-world assets, and how to spin up RPC endpoints against it.",
+      "url": "https://www.quicknode.com/blog/quicknode-now-supports-robinhood-chain-mainnet",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-07-01",
+      "tag": "Tutorial",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/2VsZ36KyOC43p9MVc3bmrR/5a712ba605014f30d3eb1da322a81787/quicknode-supports-robinhood-chain.jpg"
+    },
+    {
+      "title": "Gravity Mainnet and Sub-Second Finality",
+      "tldr": "A fully EVM-equivalent L1 claiming 12,000+ TPS with a native oracle and an agent-focused design, and how it grew out of Gravity Alpha.",
+      "url": "https://www.quicknode.com/blog/gravity-mainnet-quicknode",
+      "source": "QuickNode Blog",
+      "publishedAt": "2026-07-22",
+      "tag": "Infrastructure",
+      "image": "https://images.ctfassets.net/23fkqdsgbpuj/2pdgDrBbC86gqw5RD9kRzO/04a020790d36c041292d9899e66d4987/quicknode-now-supports-gravity.jpg"
+    }
+  ]
 }

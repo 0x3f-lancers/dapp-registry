@@ -31,5 +31,15 @@
       "money-legos",
       "pyevmasm"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Static Analysis by Abstract Execution",
+      "tldr": "Simulating a contract with abstract values instead of real ones, which is what makes the analysis guaranteed to terminate.",
+      "url": "https://github.com/Arachnid/evmdis/blob/master/README.md",
+      "source": "Arachnid",
+      "image": "https://opengraph.githubassets.com/6e2f9e5b85aaf98f93e5eff47c311c80349474044e8cbb17a3424892d37f95ae/Arachnid/evmdis",
+      "tag": "Research"
+    }
+  ]
 }

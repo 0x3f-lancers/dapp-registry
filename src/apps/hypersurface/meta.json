@@ -1,0 +1,52 @@
+{
+  "slug": "hypersurface",
+  "name": "Hypersurface",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760913/dapp-store-logos/hypersurface.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Options"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Hypersurface brings volatility yield onchain, letting holders earn while holding assets.",
+    "description": "Hypersurface brings structured products on-chain, specialising in covered calls and cash-secured puts written against assets a holder already owns. Depositors keep exposure to HYPE, WBTC, SOL and similar assets while collecting option premium as yield. It is aimed at individual holders, funds, treasuries and market makers alike, and runs on HyperEVM and Base. The team frames the effort as doing for on-chain options what Hyperliquid did for perpetuals.",
+    "meta": "Hypersurface brings volatility yield onchain, letting holders earn while holding their assets.",
+    "pageTitle": "Hypersurface - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://hypersurface.io/",
+    "twitter": "https://x.com/hyper_surface"
+  },
+  "relations": {
+    "alternatives": [
+      "derive",
+      "rysk"
+    ],
+    "related": [
+      "0x",
+      "altura-trade",
+      "ample-money"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How do Covered Calls work?",
+      "tldr": "Explains covered calls and how an asset holder can sell an option against their position.",
+      "url": "https://docs.hypersurface.io/overview/how-do-covered-calls-work.md",
+      "source": "Hypersurface",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Integration Guide",
+      "tldr": "Introduces integration with Hypersurface’s onchain options protocol.",
+      "url": "https://docs.hypersurface.io/integration-guide.md",
+      "source": "Hypersurface",
+      "tag": "Tutorial"
+    }
+  ]
+}

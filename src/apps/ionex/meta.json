@@ -1,0 +1,47 @@
+{
+  "slug": "ionex",
+  "name": "Ionex",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760923/dapp-store-logos/ionex.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges",
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Plasma's spot and perpetuals hub for trading USDT pairs with zero gas and up to 60x leverage.",
+    "description": "Ionex puts spot swaps and perpetual futures in one non-custodial venue on Plasma, where traders pay no gas on USDT. A solver network brings in liquidity sourced from major exchanges, and orders execute in under a second with hotkeys and advanced order types for active traders. Perps go up to 60x, and its INX token trades against XPL.",
+    "meta": "Trade spot and perps up to 60x on Ionex, Plasma's non-custodial hub with zero gas on USDT and solver-sourced liquidity.",
+    "pageTitle": "Ionex - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ionex.trade",
+    "twitter": "https://x.com/IonexTrade"
+  },
+  "relations": {
+    "alternatives": [
+      "paraswap",
+      "upheaval",
+      "tradoor"
+    ],
+    "related": [
+      "cetus",
+      "hyperion",
+      "horizon-protocol"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Orbs Perpetual Hub Ultra Integrates with Ionex",
+      "tldr": "Explains how Ionex, a Plasma DEX from DefiZoo, plugged in Orbs' Perpetual Hub Ultra to add perps alongside spot swaps.",
+      "url": "https://www.orbs.com/Orbs-Perpetual-Hub-Ultra-Integrates-with-Ionex/",
+      "source": "Orbs",
+      "tag": "Trading"
+    }
+  ]
+}

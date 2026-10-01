@@ -30,5 +30,15 @@
       "zora",
       "sqwid"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Token-Gating a Private Repository",
+      "tldr": "Hold the tokens, sign a message, get the invite. Also honest about the limits: 50 invites a day and broad OAuth scopes.",
+      "url": "https://github.com/Anish-Agnihotri/GateRepo",
+      "source": "Anish Agnihotri",
+      "image": "https://opengraph.githubassets.com/222a698782908752a08625a7d6c9510cf9446590cbef1f3d484d21fe79eee799/Anish-Agnihotri/GateRepo",
+      "tag": "Security"
+    }
+  ]
 }

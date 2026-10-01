@@ -45,5 +45,30 @@
       "wallet-guard",
       "slither"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Audited Libraries or Your Own Code",
+      "tldr": "When rolling your own is defensible and when it is just risk. Argued with specifics.",
+      "url": "https://blog.securedapp.io/openzeppelin-vs-custom-code-smart-contract-security",
+      "source": "SecureDApp Blog",
+      "tag": "Security",
+      "image": "https://blog.securedapp.io/wp-content/uploads/2026/04/openzeppelin-vs-custom-smart-contract-decision-e1776684097740.png"
+    },
+    {
+      "title": "Spotting an Anomalous Wallet",
+      "tldr": "Detecting compromise from on-chain behaviour before the funds are gone.",
+      "url": "https://blog.securedapp.io/real-time-on-chain-threat-monitoring-anomalous-wallet-detection",
+      "source": "SecureDApp Blog",
+      "image": "https://blog.securedapp.io/wp-content/uploads/2026/08/real-time-threat-monitoring-anomalous-wallet-detection.jpg"
+    },
+    {
+      "title": "Preparing for Quantum-Safe Crypto",
+      "tldr": "What changes when today's signature schemes stop being safe, and what to do about it now.",
+      "url": "https://securedapp.io/post-quantum-cryptography-platform",
+      "source": "SecureDApp Blog",
+      "tag": "Security",
+      "image": "https://securedapp.io/assets/images/ProductPages/ss/hero.webp"
+    }
+  ]
 }

@@ -33,5 +33,23 @@
       "sphereone",
       "rhinofi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Fiat to Stablecoin in One Step",
+      "tldr": "Collapsing bank, exchange, swap and withdrawal into a single flow, and what has to happen behind it to make that work.",
+      "url": "https://kado-money.medium.com/introducing-kado-ramp-7e8c4f951c47",
+      "source": "Kado",
+      "tag": "Payments",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*JaUXJ5rA6nv_Rafmtuj-Eg.jpeg"
+    },
+    {
+      "title": "Embedding the Widget",
+      "tldr": "What integrating a ramp into a dapp involves, and the compliance and settlement pieces a protocol inherits by doing it.",
+      "url": "https://kado-money.medium.com/how-to-integrate-kado-ramp-widget-and-what-it-means-for-your-protocol-47c7831bc2af",
+      "source": "Kado",
+      "tag": "Regulation",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*ym8LhqDAAdVBsSXMXN4FPA.jpeg"
+    }
+  ]
 }

@@ -29,5 +29,15 @@
       "cryptoslam",
       "autoair-ai"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How a Perp DEX Is Built",
+      "tldr": "Order matching, the oracle feed, the liquidation engine and the vault that backs it. Where each piece tends to break.",
+      "url": "https://www.quillaudits.com/blog/dex/perp-dex-architecture-and-security",
+      "source": "QuillAudits",
+      "image": "https://ambitious-kindness-505c138052.media.strapiapp.com/A_Guide_to_Perpetual_DEX_Architecture_and_Security_4ebc9b829d.png",
+      "tag": "Trading"
+    }
+  ]
 }

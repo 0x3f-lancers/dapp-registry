@@ -1,0 +1,55 @@
+{
+  "slug": "mach",
+  "name": "Mach",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760956/dapp-store-logos/mach.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Avalanche",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Tristero's cross-chain exchange for swaps and one-click leveraged longs on ETH and BTC.",
+    "description": "Mach started as a cross-chain swap venue from Tristero, settling trades directly between tokens on different chains. It now also offers leveraged long positions of up to 10x on assets like ETH and BTC, using USDC as collateral, with presets that set up a trade in one click. Tristero is moving users to its next-generation platform at tristero.com, which adds faster swaps and encrypted execution.",
+    "meta": "Swap across chains or open up to 10x leveraged longs with USDC on Mach, the exchange built by Tristero.",
+    "pageTitle": "Mach - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.mach.exchange",
+    "twitter": "https://x.com/0xtristero"
+  },
+  "relations": {
+    "alternatives": [
+      "usdt0",
+      "squid-router",
+      "bungee"
+    ],
+    "related": [
+      "relay-link",
+      "starkgate",
+      "chainport"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Mach Cross-Chain Swaps",
+      "tldr": "Explains how Mach swaps any asset between chains using one contract per chain, with both legs settling together.",
+      "url": "https://docs.mach.exchange/protocol-concepts/cross-chain-swaps",
+      "source": "Mach Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Case for Encrypted Finance",
+      "tldr": "Tristero explains why it built Mach for cross-chain spot first and is now moving to encrypted, private order execution.",
+      "url": "https://tristero.substack.com/p/the-case-for-encrypted-finance",
+      "source": "Tristero Research",
+      "tag": "Trading",
+      "publishedAt": "2025-11-13"
+    }
+  ]
+}

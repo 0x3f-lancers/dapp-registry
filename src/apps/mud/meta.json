@@ -30,5 +30,25 @@
       "coin-parliament",
       "metasoccer"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Namespaces And Access Control",
+      "tldr": "How permissions are scoped inside a World, and what stops one system from writing tables that belong to another.",
+      "url": "https://mud.dev/world/namespaces-access-control",
+      "source": "MUD"
+    },
+    {
+      "title": "Adding A Chain To The Client",
+      "tldr": "A short worked guide to pointing the client at another network, and the config that has to line up for it to work.",
+      "url": "https://mud.dev/guides/hello-world/add-chain-client",
+      "source": "MUD"
+    },
+    {
+      "title": "Indexing Events Into Postgres",
+      "tldr": "Running the indexer in event-only mode: what gets stored, what it costs, and when this is the right shape for a game.",
+      "url": "https://mud.dev/indexer/postgres-event-only",
+      "source": "MUD"
+    }
+  ]
 }

@@ -29,5 +29,21 @@
       "tradingview",
       "blockradar"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Waiting For Cheap Gas Automatically",
+      "tldr": "You sign now and set a deadline; the queue picks the moment to broadcast, which is why the service can never alter the transaction.",
+      "url": "https://www.blog.blockscout.com/gashawk-on-blockscout-save-gas-fees/",
+      "source": "Blockscout",
+      "image": "https://storage.ghost.io/c/ba/bf/babf742f-7c99-455a-9a8d-a5eed88c9d69/content/images/size/w1200/2024/09/Gashawk_Blockscout.jpg"
+    },
+    {
+      "title": "Which Transactions Can Actually Wait",
+      "tldr": "Transfers, staking and deployments tolerate a delay; a swap usually does not. Knowing the difference is the whole saving.",
+      "url": "https://moralis.com/web3-wiki/gashawk/",
+      "source": "Moralis",
+      "tag": "Payments"
+    }
+  ]
 }

@@ -33,5 +33,34 @@
     "related": [
       "stark"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Enumerating All 69,788,231 Ethereum Contracts",
+      "tldr": "Hunting uninitialised contracts meant first solving a harder problem: retrieving every contract ever deployed. How they did it, and what turned up.",
+      "url": "https://www.zellic.io/blog/all-ethereum-contracts",
+      "source": "Zellic Research",
+      "publishedAt": "2025-05-15",
+      "tag": "Identity",
+      "image": "https://blog-cdn.zellic.io/blog/assets/images/051525-all-evm-contracts-1-f71015032556131892834b011c3be7b9.png"
+    },
+    {
+      "title": "What Are BLS Signatures?",
+      "tldr": "How Boneh-Lynn-Shacham multi-signatures let many participants produce one compact signature, and why consensus mechanisms lean on that property.",
+      "url": "https://www.zellic.io/blog/bls-signature-versatility",
+      "source": "Zellic Research",
+      "publishedAt": "2025-06-18",
+      "tag": "Infrastructure",
+      "image": "https://blog-cdn.zellic.io/blog/assets/images/06182025-bls-signatures-c7b6bef4a8620cc885ee374ab5272fcd.png"
+    },
+    {
+      "title": "Building with Bitcoin's Scripting System",
+      "tldr": "A survey of how projects work within Bitcoin's deliberately constrained scripting model when they need contract-like behaviour.",
+      "url": "https://www.zellic.io/blog/building-with-bitcoin",
+      "source": "Zellic Research",
+      "publishedAt": "2025-03-28",
+      "tag": "Tutorial",
+      "image": "https://blog-cdn.zellic.io/blog/assets/images/bitcoin-script-security-2-7bbef9d9415ea998b719d26083f63d86.png"
+    }
+  ]
 }

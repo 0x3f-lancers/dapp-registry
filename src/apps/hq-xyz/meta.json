@@ -39,5 +39,23 @@
       "tenderly-gas-profiler",
       "ambisafe"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Finance Stack for an Onchain Team",
+      "tldr": "Treasury stays in a self-custodial wallet until the moment of payment, with Xero and QuickBooks reading the ledger behind it.",
+      "url": "https://www.theaccountantquits.com/tools/hq",
+      "source": "The Accountant Quits",
+      "image": "https://cdn.prod.website-files.com/69c534103b6070db3a5bd703/6a21cf95ebe822c3281429b8_OG%20Image.jpg",
+      "tag": "Payments"
+    },
+    {
+      "title": "What Crypto Accounting Involves",
+      "tldr": "Cost basis, gas, realised gains and the reconciliation nobody warns you about. The background any tool like this assumes.",
+      "url": "https://escalon.services/blog/financial-operations/web3-accounting",
+      "source": "Escalon",
+      "image": "https://escalon.services/wp-content/uploads/2026/06/Web3-Accounting-How-Token-Crypto-Treasuries-Change-the-Books-scaled.jpg",
+      "tag": "Finance"
+    }
+  ]
 }

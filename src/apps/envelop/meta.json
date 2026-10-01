@@ -33,5 +33,28 @@
     "related": [
       "opensea-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Wrapping an NFT",
+      "tldr": "Putting assets inside an NFT so the token carries value rather than just pointing at art. The step-by-step version.",
+      "url": "https://docs.envelop.is/niftsy/tutorials/how-to-wrap-your-nft",
+      "source": "Envelop Docs",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Making a SAFT as a Wrapped NFT",
+      "tldr": "Turning a token purchase agreement into a transferable on-chain instrument, across four supported chains.",
+      "url": "https://docs.envelop.is/niftsy/tutorials/how-to-make-saft-wnft",
+      "source": "Envelop Docs",
+      "tag": "Tokenization"
+    },
+    {
+      "title": "Minting Soulbound Tokens",
+      "tldr": "Non-transferable tokens for credentials and membership. How to issue one, and what you give up by doing so.",
+      "url": "https://docs.envelop.is/niftsy/tutorials/how-to-mint-soulbound-tokens-with-envelop",
+      "source": "Envelop Docs",
+      "tag": "Tokenization"
+    }
+  ]
 }

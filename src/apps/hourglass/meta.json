@@ -1,0 +1,56 @@
+{
+  "slug": "hourglass",
+  "name": "Hourglass",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760895/dapp-store-logos/hourglass.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Institutional yield platform for stablecoins that ran Stable's $1.8B pre-deposit vault.",
+    "description": "Hourglass connects stablecoin holders to institutional yield strategies through on-chain vaults with KYC. It ran the pre-deposit campaign for Stable's mainnet, taking USDC on Ethereum ahead of launch as pre-iUSDT. The second phase of that campaign closed with $1.8 billion from more than 25,000 wallets, with one wallet allowed per verified user.",
+    "meta": "Hourglass runs KYC'd institutional stablecoin yield vaults and hosted Stable's pre-deposit campaign, which raised $1.8B.",
+    "pageTitle": "Hourglass - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.hourglass.com",
+    "twitter": "https://x.com/hourglasshq"
+  },
+  "relations": {
+    "alternatives": [
+      "beefy",
+      "tau-labs",
+      "bolide-finance"
+    ],
+    "related": [
+      "t3tris-finance",
+      "eigenlayer",
+      "rigoblock"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Stable Refund and Hourglass: How the Allocation System Works",
+      "tldr": "Breaks down the Stable pre-deposit allocation: the $1,000 guaranteed floor, pro-rata beyond it, and the refund process.",
+      "url": "https://www.okx.com/en-us/learn/stable-refund-hourglass-allocation-system",
+      "source": "OKX Learn",
+      "tag": "Explainer",
+      "publishedAt": "2025-11-18"
+    },
+    {
+      "title": "Stable Raised $2.6B in Pre-Deposits Across Two Phases",
+      "tldr": "Case study of Stable's two pre-deposit phases run through Hourglass, including where the process went wrong for depositors.",
+      "url": "https://www.yieldnetwork.io/blog/stable-predeposit-case-study",
+      "source": "Yield Network",
+      "tag": "Research",
+      "publishedAt": "2025-11-10"
+    }
+  ]
+}

@@ -33,5 +33,25 @@
     "related": [
       "plena-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Modular Account Standard",
+      "tldr": "The specification a multisig plugin is written against, covering how added validation logic is installed and scoped.",
+      "url": "https://eips.ethereum.org/EIPS/eip-6900",
+      "source": "Ethereum Improvement Proposals"
+    },
+    {
+      "title": "The Argument Behind The Standard",
+      "tldr": "The public design thread where the plugin interface and its security assumptions were worked out in the open.",
+      "url": "https://ethereum-magicians.org/t/erc-6900-modular-smart-contract-accounts-and-plugins/13885",
+      "source": "Ethereum Magicians"
+    },
+    {
+      "title": "Plugins, Explained Plainly",
+      "tldr": "What installing a plugin actually grants an account, and why every wallet inventing its own module system was a problem.",
+      "url": "https://hackernoon.com/explanation-of-erc-6900-modular-smart-contract-accounts-and-plugins",
+      "source": "HackerNoon"
+    }
+  ]
 }

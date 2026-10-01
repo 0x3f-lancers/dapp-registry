@@ -30,5 +30,26 @@
     "related": [
       "karma"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Learning To Build On Flow",
+      "tldr": "The academy's own overview of its course path, aimed at developers writing their first Cadence contracts.",
+      "url": "https://docs.ecdao.org/education/emerald-academy",
+      "source": "Emerald City DAO",
+      "publishedAt": "2024-02-20"
+    },
+    {
+      "title": "Funding Rounds As A Contract",
+      "tldr": "How Toucans handles a project's token launch and treasury on Flow, and what the contract enforces about the raise.",
+      "url": "https://docs.ecdao.org/products/toucans",
+      "source": "Emerald City DAO"
+    },
+    {
+      "title": "Proof You Were There",
+      "tldr": "The attendance token primer: what a FLOAT records, who can issue one, and the ways they are used for access later.",
+      "url": "https://docs.ecdao.org/products/float",
+      "source": "Emerald City DAO"
+    }
+  ]
 }

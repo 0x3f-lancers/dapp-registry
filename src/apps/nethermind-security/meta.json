@@ -31,5 +31,34 @@
       "smartstate",
       "octane"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "AI-Assisted Security Analysis on a Live Bridge",
+      "tldr": "What LUKSO found running AuditAgent over its Hyperlane bridge contracts before launch, and where the automated pass helped most.",
+      "url": "https://www.nethermind.io/blog/auditagent-x-lukso-case-study",
+      "source": "Nethermind Blog",
+      "publishedAt": "2025-11-30",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/692509ef0c9582fa6b806ede_AuditAgent%20and%20Lukso_Case%20Study.png"
+    },
+    {
+      "title": "Auditing Hyperbeat's Liquid Banking Architecture",
+      "tldr": "Paying a credit card bill from crypto means wiring smart contract wallets to lending protocols while custody stays with the user.",
+      "url": "https://www.nethermind.io/blog/auditing-hyperbeats-liquid-banking-architecture",
+      "source": "Nethermind Blog",
+      "publishedAt": "2026-04-09",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/69d8b767562bc84566663fd1_Nethermind_Auditing%20Hyperbeat%E2%80%99s%20Liquid%20Banking%20Architecture.png"
+    },
+    {
+      "title": "What Fusaka Changed for Institutions",
+      "tldr": "The December 2025 upgrade read from the perspective of banks and asset managers rather than developers: what it means for settlement.",
+      "url": "https://www.nethermind.io/blog/architecting-ethereums-future",
+      "source": "Nethermind Blog",
+      "publishedAt": "2025-12-30",
+      "tag": "Payments",
+      "image": "https://cdn.prod.website-files.com/640eda1ad034306552b7d32a/695c67aaa589102c9cdbe492_Nethermind_Architecting%20Ethereum%20Future_Fusaka%2C%20Institutions%2C%20and%20Nethermind%20Role.png"
+    }
+  ]
 }

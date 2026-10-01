@@ -32,5 +32,34 @@
       "ethrank",
       "meeds"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why AI Agents Need Reputation Intelligence",
+      "tldr": "Agents already gate access, delegate tasks and route payments, yet most know nothing about the wallets they deal with. An MCP toolkit for that gap.",
+      "url": "https://credprotocol.com/blog/mcp-services-ai-agents-reputation-intelligence",
+      "source": "Cred Protocol Blog",
+      "publishedAt": "2026-03-30",
+      "tag": "AI & Agents",
+      "image": "https://credprotocol.com/blog/mcp-services-ai-agents.png"
+    },
+    {
+      "title": "What Stripe's x402 Support Means for Onchain Credit",
+      "tldr": "Machine-to-machine payments over HTTP stopped being experimental once Stripe adopted them. What that shift asks of credit infrastructure.",
+      "url": "https://credprotocol.com/blog/stripe-x402-machine-payments",
+      "source": "Cred Protocol Blog",
+      "publishedAt": "2026-03-15",
+      "tag": "Payments",
+      "image": "https://credprotocol.com/blog/stripe-x402-machine-payments.png"
+    },
+    {
+      "title": "Agentic Credit Meets the Machine Payments Protocol",
+      "tldr": "MPP, co-authored by Stripe and Tempo, changes how agents discover and settle payments. Every payment-gated Cred endpoint now accepts it.",
+      "url": "https://credprotocol.com/blog/mpp-tempo-mainnet-agentic-credit",
+      "source": "Cred Protocol Blog",
+      "publishedAt": "2026-03-18",
+      "tag": "Payments",
+      "image": "https://credprotocol.com/blog/mpp-tempo-mainnet-agentic-credit.png"
+    }
+  ]
 }

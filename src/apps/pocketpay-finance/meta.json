@@ -31,5 +31,22 @@
       "blockbucket",
       "gashawk"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Checkout Link, Paid On Chain",
+      "tldr": "The build submission: merchant dashboard, POS flow and payment links, settling directly between two wallets with no processor in between.",
+      "url": "https://dorahacks.io/buidl/2266",
+      "source": "DoraHacks",
+      "image": "https://cdn.dorahacks.io/static/open-graph/56ccc65256204e04b7decdd1a0e7548b.png"
+    },
+    {
+      "title": "The Payment Model, Documented",
+      "tldr": "How settlement works between buyer and merchant, and which chains the gateway routes across.",
+      "url": "https://pocketpay.gitbook.io/pocketpay/white-paper/introduction",
+      "source": "PocketPay Docs",
+      "image": "https://pocketpay.gitbook.io/pocketpay/~gitbook/ogimage/2eHPkYCQwQxfIbrXxcPC",
+      "tag": "Payments"
+    }
+  ]
 }

@@ -29,5 +29,27 @@
       "kuma-wallet",
       "wallet3"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Smart Account Changes",
+      "tldr": "Account abstraction explained from first principles, including why it needed no consensus-layer fork to happen.",
+      "url": "https://docs.candide.dev/account-abstraction/intro/",
+      "source": "Candide Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Job a Bundler Does",
+      "tldr": "UserOperations, the EntryPoint contract and the mempool that sits beside Ethereum own. The plumbing behind ERC-4337.",
+      "url": "https://docs.candide.dev/wallet/bundler/erc-4337-intro/",
+      "source": "Candide Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Making a Safe Account 4337-Compatible",
+      "tldr": "How Safe contracts are extended with validateUserOp and execute, and which version differences actually matter.",
+      "url": "https://docs.candide.dev/wallet/abstractionkit/safe-account/",
+      "source": "Candide Docs"
+    }
+  ]
 }

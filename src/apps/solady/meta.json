@@ -31,5 +31,23 @@
       "hiro",
       "nft-analyst-starter-pack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Where the Gas Actually Goes",
+      "tldr": "Assembly snippets that shave real gas off common operations, with branchless tricks explained rather than just pasted.",
+      "url": "https://ethereum.org/developers/tools/solady/",
+      "source": "ethereum.org",
+      "tag": "Infrastructure",
+      "image": "https://ethereum.org/images/heroes/developers-hub-hero.png"
+    },
+    {
+      "title": "Eighty-Odd Gas Optimisation Tips",
+      "tldr": "The long reference behind libraries like this one: storage slots, calldata, loops and the myths that no longer hold.",
+      "url": "https://rareskills.io/post/gas-optimization",
+      "source": "RareSkills",
+      "tag": "Infrastructure",
+      "image": "https://rareskills.io/og-images/post/gas-optimization.png"
+    }
+  ]
 }

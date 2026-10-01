@@ -31,5 +31,31 @@
       "zeta-markets",
       "polynomial-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What a Debt Pool Actually Is",
+      "tldr": "The mechanism behind synthetic assets, explained from scratch: what you owe, how that changes as others trade, and why it works that way.",
+      "url": "https://synthetify.io/blog/debtpool-explanation",
+      "source": "Synthetify Blog",
+      "publishedAt": "2022-06-10",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Shorting a Whole Market Instead of One Token",
+      "tldr": "A worked example of taking a bearish position without picking which asset falls, using the debt pool rather than a single short.",
+      "url": "https://synthetify.io/blog/how-to-earn-6",
+      "source": "Synthetify Blog",
+      "publishedAt": "2022-06-08",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "The Difference Between SOL and mSOL",
+      "tldr": "Liquid staking tokens look like the asset they represent but behave differently. What changes once your stake is wrapped.",
+      "url": "https://synthetify.io/blog/how-to-earn-2",
+      "source": "Synthetify Blog",
+      "publishedAt": "2022-01-25",
+      "tag": "Explainer"
+    }
+  ]
 }

@@ -28,5 +28,28 @@
     "related": [
       "defi-tools"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Developing Smart Contracts",
+      "tldr": "Writing your first contracts against audited libraries, from the team that maintains them.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/developing-smart-contracts",
+      "source": "OpenZeppelin Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Deploying and Interacting",
+      "tldr": "Getting a contract onto a network and calling it, with the steps people usually get wrong.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/deploying-and-interacting",
+      "source": "OpenZeppelin Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Working on a Public Testnet",
+      "tldr": "Moving off a local chain, including funding accounts and dealing with real network behaviour.",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/learn/connecting-to-public-test-networks",
+      "source": "OpenZeppelin Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

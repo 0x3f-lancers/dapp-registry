@@ -30,5 +30,34 @@
       "smartstate",
       "blockaid"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "EVM Sleuth: Onchain Investigation and Threat Detection",
+      "tldr": "A forensics and EVM debugging platform built by a security research team, aimed at the work that happens after something looks wrong.",
+      "url": "https://blog.safeedges.in/introducing-evm-sleuth-a-new-on-chain-investigation-and-proactive-threat-detection-system-for-web3-security/",
+      "source": "Safe Edges Insights",
+      "publishedAt": "2025-12-04",
+      "tag": "Infrastructure",
+      "image": "https://blog.safeedges.in/wp-content/uploads/2025/11/1_GcEEtv1edEjdZQmZYEc5uQ.webp"
+    },
+    {
+      "title": "How a Borrowing Engine Works, in Plain Language",
+      "tldr": "Moor on Fuel used as the worked example of the piece every DeFi ecosystem needs before lending markets can exist.",
+      "url": "https://blog.safeedges.in/meet-moor-fuels-new-borrowing-engine-explained-in-simple-language-secured-by-safe-edges/",
+      "source": "Safe Edges Insights",
+      "publishedAt": "2025-12-10",
+      "tag": "DeFi",
+      "image": "https://blog.safeedges.in/wp-content/uploads/2025/12/5bc6c4d8-fbc6-4424-bc51-82b948d75559.png"
+    },
+    {
+      "title": "Gas Dynamics on Fuel Ignition",
+      "tldr": "The fee types a permissionless network charges, separated out and explained rather than presented as one number at signing time.",
+      "url": "https://blog.safeedges.in/fees-on-fuel-ignition-mastering-fuel-network-gas-dynamics/",
+      "source": "Safe Edges Insights",
+      "publishedAt": "2025-12-10",
+      "tag": "Infrastructure",
+      "image": "https://blog.safeedges.in/wp-content/uploads/2025/12/1_X1zm7-fHtRVgwJUZgNJuXQ.webp"
+    }
+  ]
 }

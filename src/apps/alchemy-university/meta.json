@@ -35,5 +35,25 @@
       "solflare",
       "tokensoft"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Road To Web3",
+      "tldr": "A ten-week track that takes a JavaScript developer to shipping dapps, one project at a time.",
+      "url": "https://www.web3.university/tracks/road-to-web3",
+      "source": "Web3 University"
+    },
+    {
+      "title": "Deploying Your First Contract",
+      "tldr": "A full walkthrough of getting Solidity onto a testnet, including the setup steps that trip up beginners.",
+      "url": "https://www.web3.university/article/how-to-deploy-a-smart-contract-to-the-sepolia-testnet",
+      "source": "Web3 University"
+    },
+    {
+      "title": "Building A Full-Stack Dapp",
+      "tldr": "The NFT minter tutorial end to end: contract, frontend and the wallet interaction in between.",
+      "url": "https://www.web3.university/article/nft-minter-tutorial-how-to-create-a-full-stack-dapp",
+      "source": "Web3 University"
+    }
+  ]
 }

@@ -1,0 +1,55 @@
+{
+  "slug": "clearstar",
+  "name": "Clearstar",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760803/dapp-store-logos/clearstar.jpg",
+  "category": "Web3 Service Providers",
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Monad",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Clearstar is a risk curator operating DeFi lending vaults on Hyperliquid and Monad.",
+    "description": "Clearstar assesses and then operates on-chain credit strategies, publishing scored and tiered protocol and asset assessments before any capital is committed. Once a position is live, it supervises collateral health, oracle integrity and liquidity continuously, with alerts that escalate into protective action. The firm also runs ongoing analysis across lending markets, vaults and incentive programs as risk shifts, and takes commissioned work on specific protocols or strategies for partners weighing an allocation. Selected strategies are deployed on-chain and run as monitored systems. Clearstar operates as NovaFusion S.A.",
+    "meta": "Clearstar is a risk curator that scores protocols and assets, then operates and monitors onchain lending vaults on Hyperliquid and Monad.",
+    "pageTitle": "Clearstar - Web3 Service Providers - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://clearstar.xyz/",
+    "twitter": "https://x.com/clearstar"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperithm",
+      "k3-capital",
+      "722-capital"
+    ],
+    "related": [
+      "alphaping",
+      "coinmerce-capital",
+      "growi-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Risk Management in a Clearstar cbXRP Vault",
+      "tldr": "Explains how Clearstar manages collateral, liquidation and custody risks in Upshift's cbXRP vault.",
+      "url": "https://www.upshift.finance/blog/upshift-is-live-on-base-clearstar-cbxrp-yield-vault",
+      "source": "Upshift",
+      "tag": "Security"
+    },
+    {
+      "title": "Clearstar's Role in HyperEVM Lending Markets",
+      "tldr": "Describes Clearstar's market curation role as Euler brings HyperEVM lending coverage in house.",
+      "url": "https://euler.finance/blog/euler-brings-hyperevm-market-coverage-in-house",
+      "source": "Euler",
+      "tag": "Explainer"
+    }
+  ]
+}

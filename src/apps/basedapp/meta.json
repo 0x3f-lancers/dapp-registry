@@ -1,0 +1,52 @@
+{
+  "slug": "basedapp",
+  "name": "Based",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760756/dapp-store-logos/basedapp.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Credit Cards"
+  ],
+  "chains": [
+    "Hyperliquid",
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Based is a self-custody app for trading stock and crypto perpetuals on Hyperliquid, with a Visa card.",
+    "description": "Based is a self-custody wallet for trading on Hyperliquid, covering 54 markets across equities, crypto, commodities such as gold and oil, and indices including the S&P 500 and Nikkei 225. Everything trades as a perpetual future, open at weekends and outside exchange hours, and needs only a wallet funded with USDC instead of a brokerage or bank account. Stock perp fees start at 0.011 percent taker and crypto perps at 0.070 percent, and coin swaps also run on Robinhood Chain, Solana and BSC. Its Based Cash Visa card spends the same balance. Based claims over 44 billion dollars in lifetime volume and 100,000 users.",
+    "meta": "Self-custody trading on Hyperliquid across 54 stock, crypto, commodity and index perpetual markets.",
+    "pageTitle": "Based - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://based.one",
+    "twitter": "https://x.com/basedapphq"
+  },
+  "relations": {
+    "alternatives": [
+      "xade-finance"
+    ],
+    "related": [
+      "anchorage",
+      "biconomy-io",
+      "bitgo"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Start Trading on Hyperliquid With Based",
+      "tldr": "Walks through wallet setup, USDC deposit and placing a first perpetual trade through Based.",
+      "url": "https://based.one/blog/2025-12-05-how-to-start-trading-on-hyperliquid",
+      "source": "Based",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Perpetual Futures for Beginners",
+      "tldr": "Explains how perpetual futures, funding rates and leverage work before trading through Based.",
+      "url": "https://based.one/blog/2025-09-15-what-are-perpetual-futures",
+      "source": "Based",
+      "tag": "Explainer"
+    }
+  ]
+}

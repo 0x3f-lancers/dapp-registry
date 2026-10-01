@@ -1,0 +1,54 @@
+{
+  "slug": "fairblock",
+  "name": "Fairblock",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760857/dapp-store-logos/fairblock.jpg",
+  "category": "Zero Knowledge Tools",
+  "subcategory": [
+    "ZK Developer Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Confidentiality layer that hides balances, payments and trades while keeping compliance checks.",
+    "description": "Fairblock adds privacy to existing chains without asking users to change wallets or bridge. Balances, payment amounts, trades and treasury activity can be kept confidential, while address screening, freezing, monitoring and selective disclosure remain available for compliance. It targets stablecoin payments, tokenized assets and AI agents that handle sensitive data, with sub-second processing.",
+    "meta": "Fairblock keeps stablecoin balances, payments and trades private on existing chains, with compliance controls built in.",
+    "pageTitle": "Fairblock - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.fairblock.network",
+    "twitter": "https://x.com/0xfairblock"
+  },
+  "relations": {
+    "alternatives": [
+      "lagrange",
+      "ingonmaya",
+      "risc-zero"
+    ],
+    "related": [
+      "axiom",
+      "taceo",
+      "blockless"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Fairblock Confidential Finance Overview",
+      "tldr": "Current documentation explains Fairblock's privacy architecture for payments and tokenized assets.",
+      "url": "https://docs.fairblock.network/",
+      "source": "Fairblock",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Stabletrust Confidential Transfer SDK",
+      "tldr": "Developer reference for integrating Fairblock's confidential stablecoin transfers into an app.",
+      "url": "https://stabletrust-docs.fairblock.network/sdk",
+      "source": "Fairblock",
+      "tag": "Infrastructure"
+    }
+  ]
+}

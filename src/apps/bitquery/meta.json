@@ -29,5 +29,25 @@
     "related": [
       "backpac-inc"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Complete Guide to the Arbitrum DEX API",
+      "tldr": "Querying DEX trades on Arbitrum: what the endpoints return, how to filter them, and worked examples against live data.",
+      "url": "https://bitquery.io/blog/arbitrum-dex-api",
+      "source": "Bitquery Blog",
+      "publishedAt": "2024-02-18",
+      "tag": "Trading",
+      "image": "https://bitquery.io/blog/arbitrum-dex-api/cover.png"
+    },
+    {
+      "title": "How to Audit a Blockchain Wallet",
+      "tldr": "Why wallet auditing departs from conventional financial audit practice, and a step-by-step reconciliation method for onchain balances.",
+      "url": "https://bitquery.io/blog/audit-blockchain-wallets-step-by-step-guide",
+      "source": "Bitquery Blog",
+      "publishedAt": "2024-06-03",
+      "tag": "Security",
+      "image": "https://bitquery.io/blog/audit-blockchain-wallets-step-by-step-guide/cover.png"
+    }
+  ]
 }

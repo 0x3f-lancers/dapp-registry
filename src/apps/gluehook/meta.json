@@ -1,0 +1,53 @@
+{
+  "slug": "gluehook",
+  "name": "GlueHook",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760884/dapp-store-logos/gluehook.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Dapp Templates"
+  ],
+  "chains": [
+    "Unichain",
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Free Uniswap v4 hook that runs token buybacks and auto-compounding liquidity inside trades.",
+    "description": "GlueHook gives each hooked pool its own pot, filled by a share of trading fees, project deposits and donations from anyone. The hook spends that pot on-chain as trades happen: buying back and burning tokens when price rises, absorbing sells when it falls, and reinvesting fees into deeper liquidity. It needs no oracles, keeper bots or admin keys, and the code is open source.",
+    "meta": "GlueHook is an open-source Uniswap v4 hook that runs buybacks, burns and LP auto-compounding without oracles or bots.",
+    "pageTitle": "GlueHook - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gluehook.trade",
+    "twitter": "https://x.com/glue_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "dappify",
+      "dappbooster",
+      "gizmolab-ui"
+    ],
+    "related": [
+      "hiro",
+      "webstudio"
+    ]
+  },
+  "resources": [
+    {
+      "title": "What is GlueHook",
+      "tldr": "GlueHook's docs intro to its open-source Uniswap v4 hook that gives each pool a buyback pot and self-compounding liquidity.",
+      "url": "https://www.gluehook.trade/docs",
+      "source": "GlueHook Docs",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Buybacks Nobody Has to Run",
+      "tldr": "A chapter on how GlueHook runs buybacks with no signer, bot or oracle, using each trade as the trigger.",
+      "url": "https://www.gluehook.trade/docs/autonomous-buyback",
+      "source": "GlueHook Docs",
+      "tag": "Explainer"
+    }
+  ]
+}

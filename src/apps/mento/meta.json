@@ -1,0 +1,54 @@
+{
+  "slug": "mento",
+  "name": "Mento",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760964/dapp-store-logos/mento.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Synthetics"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Mento issues local-currency stablecoins backed by a diversified onchain reserve.",
+    "description": "Mento brings foreign exchange on-chain, letting users swap between its stablecoins at real-world FX rates. Swaps run continuously with low slippage through the Mento Asset Exchange, covering the full set of Mento currencies. Liquidity providers earn yield on the reserves backing those swaps.",
+    "meta": "Stablecoins denominated in local currencies, not only dollars, backed by a diversified reserve.",
+    "pageTitle": "Mento - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.mento.org/",
+    "github": "https://github.com/mento-protocol",
+    "twitter": "https://x.com/MentoLabs"
+  },
+  "relations": {
+    "alternatives": [
+      "frax-finance",
+      "ethena",
+      "alchemix"
+    ],
+    "related": [
+      "0x",
+      "1inch",
+      "aave"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Evolution of Mento Stablecoins",
+      "tldr": "Describes Mento's move toward multichain foreign exchange and how local currency stablecoins fit into that approach.",
+      "url": "https://www.mento.org/blog/a-new-chapter-in-multichain-fx-the-evolution-of-mento-stablecoins",
+      "source": "Mento",
+      "tag": "Explainer"
+    },
+    {
+      "title": "A Developer's Guide to Safer Smart Contracts",
+      "tldr": "Reviews practical development habits that reduce smart contract risk, from design choices to testing and deployment.",
+      "url": "https://www.mento.org/blog/a-developers-guide-to-safer-smart-contracts",
+      "source": "Mento",
+      "tag": "Security"
+    }
+  ]
+}

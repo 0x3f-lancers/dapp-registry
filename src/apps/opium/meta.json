@@ -31,5 +31,25 @@
     "related": [
       "alchemix"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Opium Is",
+      "tldr": "How arbitrary derivatives are built from a general settlement engine, rather than one contract per product.",
+      "url": "https://docs.opium.network/introduction-to-opium/what-is-opium",
+      "source": "Opium"
+    },
+    {
+      "title": "The Questions Traders Ask",
+      "tldr": "Margin, settlement and what happens at expiry, answered directly for someone taking a first position.",
+      "url": "https://docs.opium.network/introduction-to-opium/faqs",
+      "source": "Opium"
+    },
+    {
+      "title": "What The Audits Covered",
+      "tldr": "Which contracts were reviewed and by whom, and what sits outside that scope.",
+      "url": "https://docs.opium.network/security-and-audits/audit",
+      "source": "Opium"
+    }
+  ]
 }

@@ -37,5 +37,34 @@
       "solidityscan",
       "goplus-security"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How We Broke Exchanges Through OAuth Misconfigurations",
+      "tldr": "Account takeover via OAuth flaws found repeatedly in audits, plus the client-side bugs that sit alongside them.",
+      "url": "https://osec.io/blog/how-we-broke-exchanges-oauth-misconfigurations/",
+      "source": "OtterSec Blog",
+      "publishedAt": "2025-10-16",
+      "tag": "Security",
+      "image": "https://osec.io/_astro/banner.DpZMFYT6.webp"
+    },
+    {
+      "title": "A 12-Year-Old g++ Bug That Took Down Solidity",
+      "tldr": "Compilers are not supposed to crash on valid code. This one did, because of a defect that had been sitting in g++ for over a decade.",
+      "url": "https://osec.io/blog/compiler-bug-causes-compiler-bug/",
+      "source": "OtterSec Blog",
+      "publishedAt": "2025-08-11",
+      "tag": "Infrastructure",
+      "image": "https://osec.io/_astro/banner.CgBAJ8_w.webp"
+    },
+    {
+      "title": "How to Survive Supply-Chain Attacks",
+      "tldr": "The NPM compromise that shipped malicious versions of widely used packages, and what a team can actually do about its dependencies.",
+      "url": "https://osec.io/blog/how-to-survive-supply-chain-attacks/",
+      "source": "OtterSec Blog",
+      "publishedAt": "2025-09-13",
+      "tag": "Security",
+      "image": "https://osec.io/_astro/banner.DYHlMvPP.webp"
+    }
+  ]
 }

@@ -1,0 +1,60 @@
+{
+  "slug": "icecreamswap",
+  "name": "IceCreamSwap",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760918/dapp-store-logos/icecreamswap.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "DEX aggregator and bridge that searches thousands of DEXes on 100+ chains for the best swap.",
+    "description": "IceCreamSwap began as a DEX on Bitgert in 2022 and grew into a multichain aggregator. Its routing, powered by Nordstern Finance's index of thousands of DEXes, looks for the cheapest path for each trade. Its bridge includes a faucet that drops a little native gas on the destination chain, and liquidity providers can farm ICE tokens on top of fees.",
+    "meta": "Swap at the best rate across 100+ chains with IceCreamSwap, whose bridge also drops gas on the chain you arrive on.",
+    "pageTitle": "IceCreamSwap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://icecreamswap.com",
+    "twitter": "https://x.com/icecream_swap"
+  },
+  "relations": {
+    "alternatives": [
+      "maxbidpro",
+      "rubydex",
+      "ave-ai"
+    ],
+    "related": [
+      "shapeshift",
+      "ston-fi",
+      "metric-exchange"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How to Swap on IceCreamSwap",
+      "tldr": "The exchange guide shows how to connect a wallet, choose tokens, set slippage, and confirm a swap.",
+      "url": "https://wiki.icecreamswap.com/dex/swap",
+      "source": "IceCreamSwap",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Providing IceCreamSwap Liquidity",
+      "tldr": "The liquidity guide explains token pairs, pool deposits, trading fees, and how liquidity relates to farming.",
+      "url": "https://wiki.icecreamswap.com/dex/liquidity",
+      "source": "IceCreamSwap",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Using the IceCreamSwap Bridge",
+      "tldr": "The bridge guide explains transfers between supported networks and the destination tokens received.",
+      "url": "https://wiki.icecreamswap.com/dex/bridge",
+      "source": "IceCreamSwap",
+      "tag": "Tutorial"
+    }
+  ]
+}

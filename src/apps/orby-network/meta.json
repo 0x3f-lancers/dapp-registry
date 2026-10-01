@@ -28,5 +28,23 @@
       "lifinity",
       "yieldfi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "One Balance Across Every Chain",
+      "tldr": "500 USDC on Arbitrum plus 500 on Base should read as 1,000 and spend anywhere. What has to happen underneath for that to work.",
+      "url": "https://medium.com/@0xOrbLabs/launching-orby-enable-chain-abstraction-on-any-wallet-any-application-any-chain-9d21c55fec07",
+      "source": "Orb Labs",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*0caD8ydi5k-IEGo7ycgT2g.png",
+      "tag": "Payments"
+    },
+    {
+      "title": "What Chain Abstraction Means",
+      "tldr": "The general idea before any one implementation: users state intent, and something else works out which chain settles it.",
+      "url": "https://eco.com/support/en/articles/11822744-what-is-chain-abstraction-2026-guide",
+      "source": "Eco",
+      "image": "https://downloads.intercomcdn.com/i/o/bswxc49x/872497/7fb618c394dc8b00eb54e89b3ebf/cf910b554cce9ebee74be1d4eb5a9eb5.jpg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

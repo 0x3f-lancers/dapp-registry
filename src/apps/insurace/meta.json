@@ -33,5 +33,23 @@
       "yield-protocol",
       "termfinance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Cover for Exploits and Depegs",
+      "tldr": "How the two pools work, who carries the risk, and what a claim looks like when a protocol you had cover on gets drained.",
+      "url": "https://www.boxmining.com/insurace-protocol-insur/",
+      "source": "Boxmining",
+      "tag": "Security",
+      "image": "https://boxmining.com/_astro/featured.ZvNQCeva_sgbbL.jpg"
+    },
+    {
+      "title": "Building an Insurance Protocol Like This One",
+      "tldr": "A long technical breakdown of the underwriting and payout design, written from the perspective of rebuilding it.",
+      "url": "https://ideausher.com/blog/defi-insurance-protocol-development/",
+      "source": "Idea Usher",
+      "tag": "DeFi",
+      "image": "https://ideausher.com/wp-content/uploads/2025/10/Building-a-DeFi-Insurance-Protocol-Like-InsurAce-1.webp"
+    }
+  ]
 }

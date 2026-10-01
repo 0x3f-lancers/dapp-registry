@@ -30,5 +30,25 @@
     "related": [
       "coin98"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Threat and Vulnerability Management",
+      "tldr": "Nobody patches 40,000 CVEs a year, so the real skill is deciding which ones matter to you. Reframes the problem as prioritisation rather than coverage.",
+      "url": "https://metana.io/blog/what-is-threat-and-vulnerability-management/",
+      "source": "Metana Blog",
+      "tag": "Security",
+      "publishedAt": "2026-07-13",
+      "image": "https://metana.io/wp-content/uploads/2026/07/What-Is-Threat-and-Vulnerability-Management.webp"
+    },
+    {
+      "title": "Preventing SQL Injection: A Developer's Checklist",
+      "tldr": "Parameterised queries, input validation, least privilege. A decades-old bug class that still ships, laid out as something you can actually work through.",
+      "url": "https://metana.io/blog/how-to-prevent-sql-injection-a-developers-checklist/",
+      "source": "Metana Blog",
+      "publishedAt": "2026-07-08",
+      "image": "https://metana.io/wp-content/uploads/2026/07/How-to-Prevent-SQL-Injection-A-Developers-Checklist.webp",
+      "tag": "Security"
+    }
+  ]
 }

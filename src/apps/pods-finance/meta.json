@@ -1,0 +1,53 @@
+{
+  "slug": "pods-finance",
+  "name": "Pods Finance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761028/dapp-store-logos/pods-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Pods Finance offers an API for embedding DeFi yield, cross-chain swaps and crypto-backed loans.",
+    "description": "Pods Finance exposes DeFi yield, cross-chain swaps and crypto-backed loans through one API, so a product can add them without running any infrastructure. An API key is self-serve and the documentation targets a five-minute integration for the yield endpoints. Routing is cross-chain by default across its supported networks, Monad included.",
+    "meta": "Pods Finance offers one API for embedding DeFi yield, cross-chain swaps and crypto-backed loans into a product without running infrastructure.",
+    "pageTitle": "Pods Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://pods.finance/",
+    "twitter": "https://x.com/podsfinance"
+  },
+  "relations": {
+    "alternatives": [
+      "auto-finance",
+      "beefy",
+      "blend-money"
+    ],
+    "related": [
+      "eisenlabs",
+      "ipor",
+      "lagoon"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Architecture Overview",
+      "tldr": "Introduces the main components of Pods’ yield API and architecture.",
+      "url": "https://docs.pods.finance/getting-started/architecture",
+      "source": "Pods Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Deposit to Yield",
+      "tldr": "Shows how to deposit assets into a Pods yield position.",
+      "url": "https://docs.pods.finance/guides/yield/deposit",
+      "source": "Pods Finance",
+      "tag": "Tutorial"
+    }
+  ]
+}

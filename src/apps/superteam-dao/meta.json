@@ -31,5 +31,34 @@
       "q-blockchain",
       "juicebox"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The State of Developer Tooling on Solana",
+      "tldr": "Anchor and Rust foundations, Python and Solidity support, frontend SDKs and wallet integration, mapped with where the gaps still sit.",
+      "url": "https://blog.superteam.fun/p/deep-dive-of-the-state-of-developer",
+      "source": "Superteam Blog",
+      "publishedAt": "2025-08-20",
+      "tag": "Infrastructure",
+      "image": "https://substackcdn.com/image/fetch/$s_!OrU4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F818417d2-bae0-4c95-a139-6d5c1a351936_3200x1800.png"
+    },
+    {
+      "title": "The State of Mobile Apps on Solana",
+      "tldr": "You unlock your phone around 150 times a day. What it would take for those moments to carry real payments rather than ad pennies.",
+      "url": "https://blog.superteam.fun/p/deep-dive-of-the-state-of-mobile",
+      "source": "Superteam Blog",
+      "publishedAt": "2025-08-20",
+      "tag": "Payments",
+      "image": "https://substackcdn.com/image/fetch/$s_!DX4k!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d634601-1fc9-4762-b364-0fc62a7cb607_3200x1800.png"
+    },
+    {
+      "title": "India's Opportunity in Global DeFi Capital",
+      "tldr": "Blockchain finance grew from cypherpunk experiment to a multi-billion-dollar market. The argument for using it to attract foreign inflows.",
+      "url": "https://blog.superteam.fun/p/global-defi-capital-indias-opportunity",
+      "source": "Superteam Blog",
+      "publishedAt": "2025-11-11",
+      "tag": "DeFi",
+      "image": "https://substackcdn.com/image/fetch/$s_!Gyff!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac942605-8451-4fe3-a283-21a7f388ec3c_2400x1350.png"
+    }
+  ]
 }

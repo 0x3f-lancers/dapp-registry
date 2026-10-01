@@ -1,0 +1,54 @@
+{
+  "slug": "daimo",
+  "name": "Daimo",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760827/dapp-store-logos/daimo.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Daimo routes deposits from any currency, chain or app into the stablecoin an application wants.",
+    "description": "Daimo routes funds from any currency, chain or app into the stablecoin a receiving application wants, aimed at raising deposit conversion. Integrators choose between a pre-built React deposit UI through the SDK, which handles chain selection, wallet connection and signing in around thirty lines of code, and a plain REST API for custom flows. The SDK supports both embedded and overlay presentation. One supported route deposits straight into Hyperliquid.",
+    "meta": "Daimo routes deposits from any currency, chain or app into an application's chosen stablecoin.",
+    "pageTitle": "Daimo - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://daimo.com/",
+    "twitter": "https://x.com/daimohq"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Less Terrible Ethereum Indexing",
+      "tldr": "Explains the engineering choices behind indexing Ethereum data for applications without relying on fragile event pipelines.",
+      "url": "https://blog.daimo.com/less-terrible-ethereum-indexing",
+      "source": "Daimo",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The First Audited P256Verifier",
+      "tldr": "Introduces Daimo's P256 signature verifier and why secure onchain verification matters for passkey-based wallets.",
+      "url": "https://blog.daimo.com/p256verifier",
+      "source": "Daimo",
+      "tag": "Security"
+    }
+  ]
+}

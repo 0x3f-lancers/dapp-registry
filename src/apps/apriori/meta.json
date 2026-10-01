@@ -1,0 +1,53 @@
+{
+  "slug": "apriori",
+  "name": "Capricorn Tech",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1774339869/dapp-store-logos/apriori.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Capricorn Tech, formerly aPriori, pairs order flow coordination with liquid staking on Monad.",
+    "description": "Capricorn Tech, which launched as aPriori, runs an order flow coordination layer for high-throughput chains together with a Monad liquid staking product built on top of it, routing value captured from transaction ordering back to stakers. Delegators stake MON and receive a liquid token usable elsewhere while the underlying stake keeps earning. The staking product holds over twenty-five million MON, and the same interface covers bridging, swapping and locking. Its documentation still carries the aPriori name.",
+    "meta": "Monad liquid staking from Capricorn Tech, formerly aPriori, with ordering revenue returned to stakers.",
+    "pageTitle": "Capricorn Tech - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://capricorn.tech/",
+    "twitter": "https://x.com/capricorn_tech"
+  },
+  "relations": {
+    "alternatives": [
+      "fastlane",
+      "kintsu",
+      "magma-staking"
+    ],
+    "related": [
+      "renzo",
+      "stakestone",
+      "0x"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Capricorn, Formerly aPriori, Explained",
+      "tldr": "Explains the project's rebrand, APR token, aprMON liquid staking and Monad order flow product.",
+      "url": "https://www.bitbase.com/blog/what-is-apriori",
+      "source": "Bitbase",
+      "tag": "Explainer"
+    },
+    {
+      "title": "aPriori Technical Architecture on Monad",
+      "tldr": "Describes how aPriori combines validator delegation, liquid staking and MEV optimization on Monad.",
+      "url": "https://web02.gate.com.tr/learn/articles/aprioris-technical-architecture-how-a-monad-liquid-staking-protocol-works",
+      "source": "Gate Learn",
+      "tag": "Infrastructure"
+    }
+  ]
+}

@@ -3,8 +3,12 @@
   "name": "VVS Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770751089/web3-explorer/dapp-logos/vvs-finance.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Cronos"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Cronos"
+  ],
   "pricing": "",
   "content": {
     "short": "VVS Finance is the first Automated Market Maker (AMM) decentralized exchange native to the Cronos blockchain.",
@@ -17,7 +21,40 @@
     "twitter": "https://x.com/VVS_finance"
   },
   "relations": {
-    "alternatives": ["saber", "transit-swap", "bybarter"],
-    "related": ["bydfi", "simpleswap", "polynomial-protocol"]
-  }
+    "alternatives": [
+      "saber",
+      "transit-swap",
+      "bybarter"
+    ],
+    "related": [
+      "bydfi",
+      "simpleswap",
+      "polynomial-protocol"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Getting a Token Listed",
+      "tldr": "The requirements a project must meet before its token can be farmed or mined here.",
+      "url": "https://docs.vvs.finance/docs/token-whitelisting-farm-and-mine-requirements",
+      "source": "VVS Finance Docs",
+      "image": "https://docs.vvs.finance/~gitbook/ogimage/rNXzsIyX0fUJWeko4aVf"
+    },
+    {
+      "title": "How an IGO Works",
+      "tldr": "The launch mechanism explained from both sides — the project raising and the person participating.",
+      "url": "https://docs.vvs.finance/partner-with-vvs/initial-gem-offering-igo",
+      "source": "VVS Finance Docs",
+      "tag": "Explainer",
+      "image": "https://docs.vvs.finance/~gitbook/ogimage/0LeYMbUrKqx53NU3oXAb"
+    },
+    {
+      "title": "What Staking Actually Gets You",
+      "tldr": "The utility attached to staked tokens, stated plainly enough to judge whether it is worth it.",
+      "url": "https://docs.vvs.finance/more-on-vvs/vvs-staking-utility",
+      "source": "VVS Finance Docs",
+      "tag": "DeFi",
+      "image": "https://docs.vvs.finance/~gitbook/ogimage/5xg7a9QdJAgIy6AUBSyD"
+    }
+  ]
 }

@@ -36,5 +36,23 @@
       "metronome-synth",
       "hakka-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Options Vocabulary",
+      "tldr": "A glossary worth reading first — options terminology defeats more newcomers than the maths does.",
+      "url": "https://docs.thetanuts.finance/other-information/glossary-of-terms",
+      "source": "Thetanuts Docs",
+      "tag": "Trading",
+      "image": "https://docs.thetanuts.finance/~gitbook/ogimage/5s2iddYKFqUZnUV1hDoE"
+    },
+    {
+      "title": "The AMM Behind the Vaults",
+      "tldr": "How pricing works when the thing being priced is an option rather than a spot asset.",
+      "url": "https://docs.thetanuts.finance/legacy-v3/automated-market-maker",
+      "source": "Thetanuts Docs",
+      "tag": "DeFi",
+      "image": "https://docs.thetanuts.finance/~gitbook/ogimage/6ACtXHLBa0aGCAwnfQI9"
+    }
+  ]
 }

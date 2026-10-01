@@ -17,8 +17,9 @@
     "pageTitle": "Snekmate - Solidity Tools - Lancers Web3 Explorer"
   },
   "links": {
-    "website": "https://github.com/pcaversaccio/snekmate#readme",
-    "twitter": "https://x.com/pcaversaccio"
+    "website": "https://snekmate.com",
+    "twitter": "https://x.com/pcaversaccio",
+    "github": "https://github.com/pcaversaccio/snekmate#readme"
   },
   "relations": {
     "alternatives": [
@@ -29,5 +30,21 @@
     "related": [
       "webstudio"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Vyper Building Blocks, Audited In Places",
+      "tldr": "The modules themselves: ownership, access control and token implementations, with a clear note on which have been reviewed and which have not.",
+      "url": "https://github.com/pcaversaccio/snekmate",
+      "source": "GitHub",
+      "image": "https://repository-images.githubusercontent.com/519523885/7256856d-8529-4e22-aafd-8233588090d3"
+    },
+    {
+      "title": "What Has and Has Not Been Audited",
+      "tldr": "No full audit yet, though modules pulled into Curve were reviewed there. Worth knowing before you import one.",
+      "url": "https://moralis.com/web3-wiki/snekmate/",
+      "source": "Moralis",
+      "tag": "Security"
+    }
+  ]
 }

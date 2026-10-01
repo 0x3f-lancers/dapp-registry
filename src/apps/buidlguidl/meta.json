@@ -31,5 +31,34 @@
       "stationx-network",
       "seedclub"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "RAG From the Ground Up",
+      "tldr": "Builds retrieval-augmented generation from nothing: ingestion, retrieval, generation, and crucially how they evaluated whether it worked.",
+      "url": "https://buidlguidl.com/blog/rag-from-the-ground-up",
+      "source": "BuidlGuidl Blog",
+      "publishedAt": "2026-03-06",
+      "tag": "AI & Agents",
+      "image": "https://buidlguidl.com/api/og?title=RAG%20From%20the%20Ground%20Up"
+    },
+    {
+      "title": "Building an AI Agent From Scratch",
+      "tldr": "A minimal assistant written in TypeScript, used to strip agents down to their actual moving parts. Far more instructive than reading about frameworks.",
+      "url": "https://buidlguidl.com/blog/building-ai-agent-from-scratch",
+      "source": "BuidlGuidl Blog",
+      "publishedAt": "2026-04-01",
+      "tag": "AI & Agents",
+      "image": "https://buidlguidl.com/api/og?title=Building%20an%20AI%20Agent%20From%20Scratch"
+    },
+    {
+      "title": "Evaluating Agent Skills: Testing Whether They Are Actually Useful",
+      "tldr": "92 A/B evaluations run to measure whether agent skills genuinely improved capability. Rare in publishing a measurement rather than an impression.",
+      "url": "https://buidlguidl.com/blog/evaluating-agent-skills",
+      "source": "BuidlGuidl Blog",
+      "publishedAt": "2026-06-17",
+      "tag": "AI & Agents",
+      "image": "https://buidlguidl.com/api/og?title=Evaluating%20agent%20skills%3A%20testing%20whether%20they%20are%20actually%20useful"
+    }
+  ]
 }

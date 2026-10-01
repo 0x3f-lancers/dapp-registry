@@ -1,6 +1,5 @@
 import { filterApps, SelectedFilters } from "../lib/filterUtils";
 import { readFileSync } from "fs";
-import { resolve } from "path";
 import { z } from "zod"; // Import z
 import { appsMinSchema } from "../schema/appsMinSchema"; // Import appsMinSchema
 import { FacetsIndex } from "../schema/faucetIndexJson";

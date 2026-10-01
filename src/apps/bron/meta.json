@@ -1,0 +1,52 @@
+{
+  "slug": "bron",
+  "name": "Bron",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760782/dapp-store-logos/bron.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "MPC Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Bron is an MPC wallet for individuals and treasuries with biometric signing and guardian recovery.",
+    "description": "Bron is a self-custodial wallet built on MPC and threshold cryptography, so there is no seed phrase and no single point of failure. A user can lose devices, passwords and backups and still recover the wallet. The product supports digital inheritance and multi-role access for teams and businesses. Cross-chain swaps run from inside the wallet, with the tightest spreads on stablecoin pairs. Compliant fiat flows allow payouts in more than 120 currencies without identity verification for the wallet itself.",
+    "meta": "MPC key management with biometric signing and guardian recovery, for individuals and treasuries alike.",
+    "pageTitle": "Bron - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bron.org",
+    "twitter": "https://x.com/BronWallet"
+  },
+  "relations": {
+    "alternatives": [
+      "fordefi",
+      "tholos"
+    ],
+    "related": [
+      "backpack",
+      "bifrost-wallet",
+      "den"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Planning Digital Inheritance for Crypto",
+      "tldr": "Explains how heirs can recover crypto assets and how MPC wallets can support an inheritance plan.",
+      "url": "https://bron.org/insights/20260706-digital-inheritance",
+      "source": "Bron",
+      "tag": "Security"
+    },
+    {
+      "title": "Why Cross-Chain Bridges Get Hacked",
+      "tldr": "Examines the pooled-liquidity design behind bridge attacks and how intent-based transfers change the risk model.",
+      "url": "https://bron.org/insights/20260610-burning-bridges",
+      "source": "Bron",
+      "tag": "Security"
+    }
+  ]
+}

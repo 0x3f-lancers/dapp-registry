@@ -32,5 +32,22 @@
       "pubdao",
       "liker-land"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Product Hunt for Solana",
+      "tldr": "Builders post, users test and upvote, and a bot curates ecosystem news. Social identity handled by the AT Protocol underneath.",
+      "url": "https://phantom.com/learn/crypto-101/solarplex",
+      "source": "Phantom",
+      "image": "https://phantom.com/_web_platform_assets/images/og-image.jpg",
+      "tag": "Security"
+    },
+    {
+      "title": "A Feed Built On AT Protocol",
+      "tldr": "Why the app runs on a portable social protocol rather than its own database, and what that means for taking your followers elsewhere.",
+      "url": "https://medium.com/coinmonks/shining-bright-on-solana-solarplex-empowers-communities-to-connect-engage-and-thrive-2fc7eb5775a4",
+      "source": "Coinmonks",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*f_0B250EASW9MMU6"
+    }
+  ]
 }

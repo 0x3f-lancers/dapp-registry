@@ -37,5 +37,34 @@
       "tally",
       "daostack"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Identity Infrastructure: The Binding Constraint on Democratic Funding",
+      "tldr": "Every one-person-one-vote funding scheme decays without Sybil resistance, and allocation math has raced ahead of any ability to verify who is voting.",
+      "url": "https://gitcoin.co/research/identity-infrastructure-binding-constraint",
+      "source": "Gitcoin Research",
+      "publishedAt": "2026-03-06",
+      "tag": "Identity",
+      "image": "https://gitcoin.co/research/identity-infrastructure-binding-constraint/opengraph-image?2c23987abb057075"
+    },
+    {
+      "title": "The Grantee-to-Funder Flywheel: How Early Public Goods Funding Seeds Future Funders",
+      "tldr": "Follows specific chains of causation: Plasma Group's modest QF grant to Optimism's 60M+ OP distribution, 1inch's $50K to $3M given back.",
+      "url": "https://gitcoin.co/research/grantee-to-funder-flywheel",
+      "source": "Gitcoin Research",
+      "publishedAt": "2026-03-06",
+      "tag": "Governance",
+      "image": "https://gitcoin.co/research/grantee-to-funder-flywheel/opengraph-image?2c23987abb057075"
+    },
+    {
+      "title": "Mechanism Pluralism: Why No Single Funding Model Works",
+      "tldr": "Cross-ecosystem analysis arguing one dominant funding mechanism is as brittle as one crop. The case for a portfolio of mechanisms, not the single best.",
+      "url": "https://gitcoin.co/research/mechanism-pluralism-survival-requirement",
+      "source": "Gitcoin Research",
+      "publishedAt": "2026-03-06",
+      "tag": "AI & Agents",
+      "image": "https://gitcoin.co/research/mechanism-pluralism-survival-requirement/opengraph-image?2c23987abb057075"
+    }
+  ]
 }

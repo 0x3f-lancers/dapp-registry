@@ -1,0 +1,53 @@
+{
+  "slug": "capricorn-exchange",
+  "name": "Capricorn",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760793/dapp-store-logos/capricorn-exchange.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Capricorn is a concentrated liquidity DEX on Monad combining oracle pricing with fast execution.",
+    "description": "Capricorn is a DEX on Monad built around ultra-concentrated liquidity, keeping provider capital tight to the live asset price so swaps execute with minimal slippage. Pricing is fed by low-latency oracles rather than derived solely from pool ratios. The venue is designed to be composable, so aggregators, protocols and other dapps can route through its liquidity directly. Providers supply liquidity to those same concentrated positions.",
+    "meta": "Oracle-priced concentrated liquidity on Monad, aimed at execution closer to a professional venue.",
+    "pageTitle": "Capricorn - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.capricorn.exchange",
+    "twitter": "https://x.com/CapricornDEX"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "bonad",
+      "brownfi",
+      "clober"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Capricorn Proactive AMM Architecture",
+      "tldr": "Explains Capricorn's oracle-driven pricing engine and how its proactive pools differ from concentrated pools.",
+      "url": "https://capricorn-1.gitbook.io/capricorn-docs",
+      "source": "Capricorn",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Capricorn Exchange and Order Flow on Monad",
+      "tldr": "Explores how Capricorn Exchange concentrates liquidity and connects to the project's order flow system.",
+      "url": "https://www.bitbase.com/blog/what-is-apriori",
+      "source": "Bitbase",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "blockliquidity",
+  "name": "Blockliquidity",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760770/dapp-store-logos/blockliquidity.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Blockliquidity is an analytics platform covering Hyperliquid traders, whales, markets and vaults.",
+    "description": "Blockliquidity is an intelligence layer for Hyperliquid, indexing activity at the level of individual traders, whales, markets and vaults. Queries return real-time answers about specific addresses instead of only chain-wide aggregates. Price and candle data come from Hyperliquid's own OHLC feed and render through TradingView charts. The product combines raw data access with prepared analytics for teams following positioning on the venue.",
+    "meta": "Blockliquidity is a Hyperliquid analytics platform tracking traders, whales, markets and vaults.",
+    "pageTitle": "Blockliquidity - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blockliquidity.xyz/",
+    "twitter": "https://x.com/blockliquidity"
+  },
+  "relations": {
+    "alternatives": [
+      "airdrophunt-fun",
+      "allium",
+      "artemis"
+    ],
+    "related": [
+      "asxn",
+      "bubblemaps",
+      "coinalyze"
+    ]
+  }
+}

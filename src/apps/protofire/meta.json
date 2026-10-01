@@ -1,0 +1,54 @@
+{
+  "slug": "protofire",
+  "name": "Protofire",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761035/dapp-store-logos/protofire.png",
+  "category": "Web3 Service Providers",
+  "subcategory": [
+    "Web3 Consulting Companies"
+  ],
+  "chains": [
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Blockchain engineering firm building DeFi, tokenization and stablecoin systems since 2016.",
+    "description": "Protofire designs, builds and runs on-chain systems for banks, exchanges, asset managers, fintechs and protocols, covering lending, vaults, tokenized funds, stablecoin settlement and prediction markets. It has delivered more than 250 projects since 2016, secured over $2 billion across 120+ networks, and maintains open-source developer tools used by a million developers. It also deploys core infrastructure, such as Safe multisigs, for new chains like Plasma.",
+    "meta": "Protofire engineers DeFi, tokenization and stablecoin systems for institutions, with 250+ projects since 2016.",
+    "pageTitle": "Protofire - Web3 Service Providers - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://protofire.io",
+    "twitter": "https://x.com/protofire"
+  },
+  "relations": {
+    "alternatives": [
+      "block-consult",
+      "alta",
+      "advix"
+    ],
+    "related": [
+      "nadcab-labs",
+      "softstack",
+      "hype"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Tokenized Treasuries Versus Stablecoins",
+      "tldr": "Compares the backing, yield and redemption mechanics of tokenized Treasury products with payment stablecoins.",
+      "url": "https://protofire.io/guides/tokenized-treasuries-vs-stablecoins/",
+      "source": "Protofire",
+      "tag": "Explainer"
+    },
+    {
+      "title": "The Infrastructure Behind Stablecoin Adoption",
+      "tldr": "Protofire examines the lending, liquidity, treasury, and contract infrastructure needed to make stablecoins useful at scale.",
+      "url": "https://protofire.io/blog/why-infrastructure-drives-stablecoin-adoption-after-regulation/",
+      "source": "Protofire",
+      "tag": "Research"
+    }
+  ]
+}

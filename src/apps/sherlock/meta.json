@@ -34,5 +34,34 @@
       "octane",
       "blockaid"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Complete Guide to Solidity Security Audits for Web3 Protocols",
+      "tldr": "What an audit involves from the protocol's side: how scope gets set, what reviewers will not look at, and how to read the report you get back.",
+      "url": "https://sherlock.xyz/post/a-complete-guide-to-solidity-security-audits-for-web3-protocols",
+      "source": "Sherlock Blog",
+      "publishedAt": "2026-04-08",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/688c43c7cd606083ecbbec8b/690900e4d6d203a6d9240bb9_solidity%20guide%20blog.avif"
+    },
+    {
+      "title": "Agentic AI Security Risks in Web3: What Protocols Need to Know",
+      "tldr": "Agents acting onchain widen the attack surface in ways a point-in-time audit was never designed to catch.",
+      "url": "https://sherlock.xyz/post/agentic-ai-security-risks-in-web3-what-protocols-need-to-know-in-2026",
+      "source": "Sherlock Blog",
+      "publishedAt": "2026-03-13",
+      "tag": "AI & Agents",
+      "image": "https://cdn.prod.website-files.com/688c43c7cd606083ecbbec8b/69a09c8e8b7dc156f26259ab_392967601.png"
+    },
+    {
+      "title": "Best Web3 Bug Bounties in 2026: The Highest-Paying Programs",
+      "tldr": "Surveys what the top programmes pay across every major platform. More interesting as a read on how protocols privately price their own risk.",
+      "url": "https://sherlock.xyz/post/best-web3-bug-bounties-in-2026-the-highest-paying-programs-on-every-platform",
+      "source": "Sherlock Blog",
+      "publishedAt": "2026-03-24",
+      "tag": "Research",
+      "image": "https://cdn.prod.website-files.com/688c43c7cd606083ecbbec8b/69c1516b83bbc5ec420fe790_2.png"
+    }
+  ]
 }

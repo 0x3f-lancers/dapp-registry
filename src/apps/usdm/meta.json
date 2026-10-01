@@ -31,5 +31,25 @@
       "indigo-protocol",
       "revuto"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Makes a Stablecoin Fully Reserved",
+      "tldr": "Reserves held one-to-one in dollars and short-duration paper, issued under a registered entity. What each of those commitments actually binds.",
+      "url": "https://moneta.global/learn/usdm-core-fundamentals/",
+      "source": "Moneta Learn",
+      "publishedAt": "2026-05-06",
+      "tag": "Payments",
+      "image": "https://moneta.global/images/blog/usdm-core-fundamentals.png"
+    },
+    {
+      "title": "Lending Against NFTs on Cardano",
+      "tldr": "How isolated-pool lending grew into loans collateralised by NFTs, using FluidTokens as the worked example of a composable stack.",
+      "url": "https://moneta.global/learn/fluidtokens-usdm-defi-coalition/",
+      "source": "Moneta Learn",
+      "publishedAt": "2026-05-06",
+      "tag": "DeFi",
+      "image": "https://moneta.global/images/blog/fluidtokens-usdm-defi-coalition.png"
+    }
+  ]
 }

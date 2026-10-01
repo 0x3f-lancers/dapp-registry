@@ -1,0 +1,52 @@
+{
+  "slug": "cubist",
+  "name": "Cubist",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760820/dapp-store-logos/cubist.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Key Management Providers"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Cubist builds CubeSigner, a hardware-backed key management platform for high-performance use cases.",
+    "description": "Cubist provides hardware-backed key management through CubeSigner, offered in both self-custody and end-user custody configurations. Signing policies are written as code and applied universally, covering advanced transaction types and self-custody staking for validators. Its Bascule Drawbridge product enforces bridge security in real time, checking withdrawals against expected deposits. The stack is used for wallet-as-a-service and embedded wallets in consumer apps and games as well as cross-chain DeFi.",
+    "meta": "Cubist builds CubeSigner, a hardware-backed key management and signing platform for demanding workloads.",
+    "pageTitle": "Cubist - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cubist.dev/",
+    "twitter": "https://x.com/cubistdev"
+  },
+  "relations": {
+    "alternatives": [
+      "fireblocks",
+      "turnkey"
+    ],
+    "related": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "alfred-pay"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Programmable Key Management Policies",
+      "tldr": "Introduces Cubist's policy engine and how teams can set rules before sensitive wallet or signing operations execute.",
+      "url": "https://cubist.dev/blog/introducing-programmable-key-management-policies",
+      "source": "Cubist",
+      "tag": "Security"
+    },
+    {
+      "title": "Build Private Smart Accounts",
+      "tldr": "A hands-on guide to using Cubist confidential functions when building smart accounts that need private execution.",
+      "url": "https://cubist.dev/blog/tutorial-building-private-smart-accounts",
+      "source": "Cubist",
+      "tag": "Tutorial"
+    }
+  ]
+}

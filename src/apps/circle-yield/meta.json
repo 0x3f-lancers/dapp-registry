@@ -32,5 +32,25 @@
       "unilend-finance",
       "thestandard"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An L1 Built For Stablecoins",
+      "tldr": "The design argument for a chain assuming dollars are the unit of account, and what that changes about fees and finality.",
+      "url": "https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance",
+      "source": "Circle"
+    },
+    {
+      "title": "Settlement Without The Plumbing",
+      "tldr": "What a managed stablecoin settlement layer takes off a business, and which reconciliation problems remain theirs.",
+      "url": "https://www.circle.com/blog/simplify-stablecoin-adoption-with-cpn-managed-payments",
+      "source": "Circle"
+    },
+    {
+      "title": "Money For Software Agents",
+      "tldr": "The infrastructure an autonomous agent needs to hold and spend value, and the limits placed on it by design.",
+      "url": "https://www.circle.com/blog/introducing-circle-agent-stack-financial-infrastructure-for-the-agentic-economy",
+      "source": "Circle"
+    }
+  ]
 }

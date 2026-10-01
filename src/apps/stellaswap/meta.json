@@ -3,8 +3,12 @@
   "name": "StellaSwap",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770750391/web3-explorer/dapp-logos/stellaswap.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
-  "chains": ["Moonbeam"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Moonbeam"
+  ],
   "pricing": "Free",
   "content": {
     "short": "StellaSwap is a hybrid DEX on Moonbeam with a standard, stable and concentrated liquidity AMM.",
@@ -17,7 +21,40 @@
     "twitter": "https://x.com/StellaSwap"
   },
   "relations": {
-    "alternatives": ["minu-swap", "bitcoincom", "matcha"],
-    "related": ["erasure", "binance"]
-  }
+    "alternatives": [
+      "minu-swap",
+      "bitcoincom",
+      "matcha"
+    ],
+    "related": [
+      "erasure",
+      "binance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Depositing One Asset Into a Pair",
+      "tldr": "Providing liquidity without holding both sides first, and what the protocol does to balance it.",
+      "url": "https://docs.stellaswap.com/dex-core/single-asset-deposits",
+      "source": "StellaSwap Docs",
+      "tag": "Payments",
+      "image": "https://docs.stellaswap.com/~gitbook/ogimage/MbBJPI0NevcbcI9C4Y7J"
+    },
+    {
+      "title": "Vote-Escrowed Tokens",
+      "tldr": "Locking for governance weight, and the trade-off between influence and liquidity.",
+      "url": "https://docs.stellaswap.com/dex-core/vote-escrow-stella-3-3",
+      "source": "StellaSwap Docs",
+      "tag": "Governance",
+      "image": "https://docs.stellaswap.com/~gitbook/ogimage/OoMOrDqCQmauDlLrZP5B"
+    },
+    {
+      "title": "Moving Assets With XCM",
+      "tldr": "Polkadot's cross-consensus messaging in practice, walked through as a transfer.",
+      "url": "https://docs.stellaswap.com/how-to-guides/native-transfer-xcm",
+      "source": "StellaSwap Docs",
+      "tag": "Payments",
+      "image": "https://docs.stellaswap.com/~gitbook/ogimage/kkpxMWUr0hiieeigHx0v"
+    }
+  ]
 }

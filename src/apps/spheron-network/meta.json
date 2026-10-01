@@ -31,5 +31,31 @@
       "galxe",
       "weavedb"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Sizing GPUs for Agent Infrastructure",
+      "tldr": "Not one sizing problem but five, from the orchestrator to the LLM backend. Each treated separately.",
+      "url": "https://www.spheron.network/blog/ai-agent-infrastructure-self-hosted-gpu-sizing-2026",
+      "source": "Spheron Blog",
+      "tag": "AI & Agents",
+      "image": "https://www.spheron.network/blog/ai-agent-infrastructure-self-hosted-gpu-sizing-2026.webp"
+    },
+    {
+      "title": "Sandboxes for Agent-Generated Code",
+      "tldr": "An agent that writes Python is only useful if it can run it safely. E2B, Daytona and Firecracker compared.",
+      "url": "https://www.spheron.network/blog/ai-agent-code-execution-sandbox-e2b-daytona-firecracker",
+      "source": "Spheron Blog",
+      "tag": "AI & Agents",
+      "image": "https://www.spheron.network/blog/ai-agent-code-execution-sandbox-e2b-daytona-firecracker.webp"
+    },
+    {
+      "title": "Surviving a Network Blip Mid-Job",
+      "tldr": "A thirty-minute fine-tune dying at minute 29 with no replay. Temporal, Inngest and Restate as the answer.",
+      "url": "https://www.spheron.network/blog/ai-agent-workflow-orchestration-temporal-inngest-restate-gpu-cloud",
+      "source": "Spheron Blog",
+      "tag": "Infrastructure",
+      "image": "https://www.spheron.network/blog/ai-agent-workflow-orchestration-temporal-inngest-restate-gpu-cloud.webp"
+    }
+  ]
 }

@@ -29,5 +29,13 @@
       "token-terminal",
       "token-flow"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Network's Own Subgraph",
+      "tldr": "The schema and mappings that index the protocol itself, a working reference for writing your own.",
+      "url": "https://github.com/graphprotocol/graph-network-subgraph",
+      "source": "The Graph"
+    }
+  ]
 }

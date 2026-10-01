@@ -1,0 +1,54 @@
+{
+  "slug": "koinly",
+  "name": "Koinly",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760937/dapp-store-logos/koinly.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Crypto Tax Tools"
+  ],
+  "chains": [
+    "Multichain",
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Crypto tax software that turns exchange, wallet and DeFi history into a ready-to-file report.",
+    "description": "Koinly imports trades from exchanges by API or CSV and reads wallet history from blockchains, including staking, lending and liquidity positions. It matches transfers between your own accounts, prices every transaction, and produces reports such as Form 8949, 1099-DA and TurboTax files for more than 20 countries. Over 2 million people use it, and accountants can manage client portfolios in one place.",
+    "meta": "Koinly syncs exchanges, wallets and DeFi activity to produce ready-to-file crypto tax reports in 20+ countries.",
+    "pageTitle": "Koinly - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://koinly.io",
+    "twitter": "https://x.com/koinlyofficial"
+  },
+  "relations": {
+    "alternatives": [
+      "pulley",
+      "entendre-finance",
+      "recap"
+    ],
+    "related": [
+      "hq-xyz",
+      "consola-finance",
+      "coinledger"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Getting Started With Koinly",
+      "tldr": "Walks through importing activity, checking transactions, and preparing a crypto tax report.",
+      "url": "https://support.koinly.io/en/articles/9489951-getting-started-with-koinly",
+      "source": "Koinly",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How to Add Transactions to Koinly",
+      "tldr": "Explains API, file, wallet address, and manual methods for importing transaction history.",
+      "url": "https://support.koinly.io/en/articles/9489972-how-do-i-add-transactions",
+      "source": "Koinly",
+      "tag": "Tutorial"
+    }
+  ]
+}

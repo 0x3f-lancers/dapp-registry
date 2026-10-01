@@ -34,5 +34,20 @@
       "slashtoken",
       "cobo"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What TokenScript Actually Lets a Token Do",
+      "tldr": "A token that ships its own interface and behaviour rather than relying on whatever wallet happens to display it.",
+      "url": "https://www.tokenscript.org/docs/WhatTokenscriptCanDo.html",
+      "source": "TokenScript Docs"
+    },
+    {
+      "title": "Building and Deploying Your First TokenScript",
+      "tldr": "A full tutorial from an empty file to something deployed, which is the fastest way to see what the format does.",
+      "url": "https://www.tokenscript.org/docs/QuickStart.html",
+      "source": "TokenScript Docs",
+      "tag": "Infrastructure"
+    }
+  ]
 }

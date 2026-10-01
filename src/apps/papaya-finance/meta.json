@@ -1,0 +1,54 @@
+{
+  "slug": "papaya-finance",
+  "name": "Papaya",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761016/dapp-store-logos/papaya-finance.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Stablecoin payment products, from US to Vietnam business transfers to recurring payments and DCA.",
+    "description": "Papaya builds focused tools for moving money on stablecoin rails. Its cross-border product pays Vietnamese suppliers from US dollars into local bank accounts, its DCA feature lets wallets buy an asset like WETH on a schedule, and the Papaya Protocol adds subscription and recurring stablecoin payments to other apps. The code is on GitHub.",
+    "meta": "Papaya offers US to Vietnam stablecoin payouts, wallet DCA and a protocol for recurring stablecoin payments.",
+    "pageTitle": "Papaya - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://papaya.finance",
+    "twitter": "https://x.com/papaya_fi"
+  },
+  "relations": {
+    "alternatives": [
+      "suby",
+      "sphereone",
+      "tres-finance"
+    ],
+    "related": [
+      "default",
+      "bulla-network",
+      "omy-payments"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Papaya Protocol Overview",
+      "tldr": "Docs overview of the Papaya protocol for real-time token streams, subscriptions and project payment management.",
+      "url": "https://docs.papaya.finance/",
+      "source": "Papaya Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "Unlocking New DeFi Paths",
+      "tldr": "Explains how Papaya's protocol puts subscriptions on-chain and cuts gas costs for businesses and creators.",
+      "url": "https://papaya-finance.medium.com/unlocking-new-defi-paths-a3160aa2c19c",
+      "source": "Papaya Finance",
+      "tag": "Payments",
+      "publishedAt": "2024-06-12"
+    }
+  ]
+}

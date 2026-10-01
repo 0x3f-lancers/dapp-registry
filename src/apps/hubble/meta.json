@@ -30,5 +30,21 @@
       "bolide-finance",
       "metavisor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Backs USDH",
+      "tldr": "Overcollateralised against a mixed basket — SOL, mSOL, BTC and others — so every unit is backed by more than a dollar of crypto.",
+      "url": "https://docs.hubbleprotocol.io/faq/usdh-stablecoin",
+      "source": "Hubble Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "Borrowing Against Assets You Keep",
+      "tldr": "Loans of up to 80% of collateral value, a one-off 0.5% fee and no maturity date. The terms stated plainly.",
+      "url": "https://docs.hubbleprotocol.io/faq/general",
+      "source": "Hubble Docs",
+      "tag": "DeFi"
+    }
+  ]
 }

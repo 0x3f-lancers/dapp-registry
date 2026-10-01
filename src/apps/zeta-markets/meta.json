@@ -29,5 +29,34 @@
       "dinari",
       "metronome-synth"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "An Introduction to Perpetual Contracts",
+      "tldr": "Funding rates, margin, open interest and liquidations, laid out with worked examples rather than left as jargon.",
+      "url": "https://zetamarkets.substack.com/p/an-introduction-to-perpetual-contracts",
+      "source": "Zeta Markets Blog",
+      "publishedAt": "2022-12-22",
+      "tag": "Trading",
+      "image": "https://substackcdn.com/image/fetch/$s_!L9a8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e0538b6-188a-4d09-a745-488e97932729_1716x802.png"
+    },
+    {
+      "title": "Automated Market Makers vs Central Limit Order Books",
+      "tldr": "The advantages and disadvantages of each, then the harder question of which suits spot markets and which suits derivatives.",
+      "url": "https://zetamarkets.substack.com/p/automated-market-makers-vs-central",
+      "source": "Zeta Markets Blog",
+      "publishedAt": "2023-04-15",
+      "tag": "Trading",
+      "image": "https://substackcdn.com/image/fetch/$s_!T3BZ!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fzetamarkets.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D651918553%26version%3D9"
+    },
+    {
+      "title": "Basis Trading with Perpetuals",
+      "tldr": "Exploiting the gap between spot and perpetual prices, including how funding payments decide whether the trade is worth holding.",
+      "url": "https://zetamarkets.substack.com/p/basis-trading",
+      "source": "Zeta Markets Blog",
+      "publishedAt": "2022-12-06",
+      "tag": "Trading",
+      "image": "https://substackcdn.com/image/fetch/$s_!EfcJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd728a306-05b9-4ef1-8302-b8e4dc1156d1_391x391.jpeg"
+    }
+  ]
 }

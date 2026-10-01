@@ -33,5 +33,28 @@
       "ownbit",
       "degen-wallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why an Exchange Hack Cannot Reach a Cold Wallet",
+      "tldr": "Keys held offline are outside the blast radius. A clear statement of what custody actually protects against, and what it does not.",
+      "url": "https://www.getarculus.com/learn/cold-wallets-protect-from-exchange-hacks",
+      "source": "Arculus Learn",
+      "tag": "Security"
+    },
+    {
+      "title": "Setting Up a Cold Wallet the First Time",
+      "tldr": "Written for someone who has never done it, with the steps people skip flagged rather than assumed.",
+      "url": "https://www.getarculus.com/learn/beginners-guide-set-up-cold-wallet",
+      "source": "Arculus Learn",
+      "tag": "Security"
+    },
+    {
+      "title": "Where Crypto Is Safest to Sit",
+      "tldr": "Exchange accounts, hot wallets and cold storage compared on the attacks each one is actually exposed to.",
+      "url": "https://www.getarculus.com/learn/the-safest-way-to-store-cryptocurrency",
+      "source": "Arculus Learn",
+      "tag": "Security"
+    }
+  ]
 }

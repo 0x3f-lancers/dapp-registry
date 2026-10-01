@@ -36,5 +36,31 @@
       "xdc-network",
       "wowearn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The DEX Trade That Never Touched a DEX",
+      "tldr": "Zero slippage, filled in a second. Tracing where the order really went, and why the quote looked impossible.",
+      "url": "https://www.tryethernal.com/blog/the-dex-trade-that-was-never-on-a-dex",
+      "source": "Ethernal Blog",
+      "tag": "Trading",
+      "image": "https://tryethernal.com/blog/images/the-dex-trade-that-was-never-on-a-dex-og.png"
+    },
+    {
+      "title": "Replacing Ethereum's Single Nonce Counter",
+      "tldr": "EIP-8130 proposes independent parallel channels and a nonce-free expiry mode. What that unblocks for wallets.",
+      "url": "https://www.tryethernal.com/blog/eip-8130-2d-nonce-channels-nonce-free-execution",
+      "source": "Ethernal Blog",
+      "tag": "Infrastructure",
+      "image": "https://tryethernal.com/blog/images/eip-8130-2d-nonce-channels-nonce-free-execution-og.png"
+    },
+    {
+      "title": "Getting msg.sender Back",
+      "tldr": "ERC-4337's EntryPoint broke the caller address contracts rely on. How EIP-8130 restores it, and what authors must re-check.",
+      "url": "https://www.tryethernal.com/blog/eip-8130-execution-model-self-call-tx-context",
+      "source": "Ethernal Blog",
+      "tag": "Infrastructure",
+      "image": "https://tryethernal.com/blog/images/eip-8130-execution-model-self-call-tx-context-og.png"
+    }
+  ]
 }

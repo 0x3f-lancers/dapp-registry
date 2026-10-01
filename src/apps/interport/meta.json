@@ -3,7 +3,9 @@
   "name": "Interport Finance",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747745/web3-explorer/dapp-logos/interport.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges"],
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
   "chains": [
     "Ethereum",
     "BNB Chain",
@@ -28,7 +30,30 @@
     "twitter": "https://x.com/InterportFi"
   },
   "relations": {
-    "alternatives": ["kyberswap", "enzyme", "fcondex"],
-    "related": ["odos", "thetanuts-finance"]
-  }
+    "alternatives": [
+      "kyberswap",
+      "enzyme",
+      "fcondex"
+    ],
+    "related": [
+      "odos",
+      "thetanuts-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Bridging Assets",
+      "tldr": "The transfer flow step by step, with the checks worth doing before confirming.",
+      "url": "https://docs.interport.fi/guides/how-to-bridge",
+      "source": "Interport Docs",
+      "tag": "Payments"
+    },
+    {
+      "title": "Trading Across Chains",
+      "tldr": "Swapping into an asset on another network in one action rather than two.",
+      "url": "https://docs.interport.fi/guides/cross-chain-trading",
+      "source": "Interport Docs",
+      "tag": "Trading"
+    }
+  ]
 }

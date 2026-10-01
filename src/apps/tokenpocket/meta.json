@@ -37,5 +37,22 @@
       "alfa1",
       "alphawallet"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Setting Up a Multisig Wallet",
+      "tldr": "Requiring several signatures before funds move, walked through step by step for people who have only used single-key wallets.",
+      "url": "https://help.tokenpocket.pro/en/wallet-faq-en/multisig-wallet/create",
+      "source": "TokenPocket Help",
+      "tag": "Tutorial",
+      "image": "https://help.tokenpocket.pro/en/~gitbook/ogimage/XcfuKpZXsXJZZANTciRU"
+    },
+    {
+      "title": "Hidden Wallets and the Passphrase",
+      "tldr": "An extra word on top of the seed creates a separate wallet. Powerful, and an easy way to lose access if you misunderstand it.",
+      "url": "https://help.tokenpocket.pro/en/security-knowledge/security-measure/passphrase",
+      "source": "TokenPocket Help",
+      "image": "https://help.tokenpocket.pro/en/~gitbook/ogimage/FlhtQCcx0xDvSUmZcNyt"
+    }
+  ]
 }

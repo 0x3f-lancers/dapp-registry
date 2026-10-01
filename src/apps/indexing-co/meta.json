@@ -1,0 +1,53 @@
+{
+  "slug": "indexing-co",
+  "name": "Indexing Co",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760920/dapp-store-logos/indexing-co.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Indexing Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Paid",
+  "archived": false,
+  "content": {
+    "short": "Indexing Co provides managed blockchain indexing and data pipelines, including Hyperliquid.",
+    "description": "Indexing Co lets a team define the on-chain data it wants and receive it as a pipeline, instead of polling APIs or fitting a rigid subgraph schema. Filters are set on contract or wallet addresses, and a backfill can reconstruct a wallet's full history. Its platform, The Neighborhood, spans many chains and virtual machine types, including data availability layers such as Celestia. Endpoints authenticate with an API key header, and the company positions the product as the data layer for programmable payments.",
+    "meta": "Indexing Co delivers custom onchain data pipelines across many chains, including Hyperliquid, with address filters and wallet history backfills.",
+    "pageTitle": "Indexing Co - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.indexing.co/",
+    "twitter": "https://x.com/indexingco"
+  },
+  "relations": {
+    "alternatives": [
+      "covalent",
+      "goldsky",
+      "hypedexer"
+    ],
+    "related": [
+      "alchemy",
+      "chainstack-subgraphs",
+      "envio"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Indexing Avalanche L1s With The Neighborhood",
+      "tldr": "Walks through building data pipelines that cover multiple Avalanche L1s and expose real-time indexed data.",
+      "url": "https://www.indexing.co/articles/avalanche-indexing-with-the-neighborhood",
+      "source": "The Indexing Company",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Indexing EVM Chains With The Neighborhood",
+      "tldr": "Shows how to create a unified data pipeline across EVM chains using The Indexing Company's network.",
+      "url": "https://www.indexing.co/articles/indexing-evm-chains-with-the-neighborhood",
+      "source": "The Indexing Company",
+      "tag": "Tutorial"
+    }
+  ]
+}

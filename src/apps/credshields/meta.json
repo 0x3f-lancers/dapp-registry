@@ -31,5 +31,22 @@
       "militereum",
       "amarna"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Choosing an Audit Firm",
+      "tldr": "What to ask before signing, from a team that sells audits — which makes the criteria more useful, not less.",
+      "url": "https://blog.solidityscan.com/how-to-choose-the-right-smart-contract-audit-firm-for-your-web3-project-2/",
+      "source": "SolidityScan",
+      "tag": "Security"
+    },
+    {
+      "title": "Scanning a Contract Before Deploy",
+      "tldr": "Running an automated scan as part of verification, walked through end to end on a live network.",
+      "url": "https://rootstock.io/blog/rootstock-guide-to-verifying-smart-contracts-with-solidityscan/",
+      "source": "Rootstock",
+      "image": "https://rootstock.io/static/114d9210bc960d68e42c5fdd1a73357f/Frame-33-1.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

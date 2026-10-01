@@ -38,5 +38,23 @@
       "loopring",
       "maxbidpro"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Routing a Swap Through Nonlinear Paths",
+      "tldr": "Sourcing from 900-plus liquidity venues and splitting a trade across them, including multi-token swaps in one transaction.",
+      "url": "https://atomicwallet.io/academy/articles/what-is-odos",
+      "source": "Atomic Wallet Academy",
+      "tag": "Trading",
+      "image": "https://cdn.prod.website-files.com/63d3a51793749b0d8dd77ce4/69a55e47c32ddbbbd0e4dded_138558355.webp"
+    },
+    {
+      "title": "What Smart Order Routing Buys You",
+      "tldr": "A shorter read on why path-finding across many pools beats quoting a single one, and where the gas savings come from.",
+      "url": "https://medium.com/coinmonks/exploring-odos-the-dex-aggregator-designed-to-optimize-trading-48c57fdfe8a9",
+      "source": "Coinmonks",
+      "tag": "Trading",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*lYLgPUKq4VPdHBesJTSVgQ.png"
+    }
+  ]
 }

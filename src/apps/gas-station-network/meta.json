@@ -31,5 +31,21 @@
       "enso",
       "mimic"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Writing a Gasless-Capable Contract",
+      "tldr": "What changes in your contract when someone else pays the gas, and the assumptions that break.",
+      "url": "https://docs.opengsn.org/contracts",
+      "source": "OpenGSN Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Wiring Up the Client",
+      "tldr": "Connecting a front end to a relay so users can transact without holding the native token.",
+      "url": "https://docs.opengsn.org/javascript-client/getting-started",
+      "source": "OpenGSN Docs",
+      "tag": "Tutorial"
+    }
+  ]
 }

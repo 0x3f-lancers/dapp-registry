@@ -29,5 +29,23 @@
       "solang",
       "ethereum-abi-python"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Control Flow Graph From Raw Bytecode",
+      "tldr": "Feed it runtime bytecode and get functions back, with instructions lifted to an intermediate form Binary Ninja can analyse.",
+      "url": "https://github.com/crytic/ethersplay",
+      "source": "Crytic",
+      "image": "https://opengraph.githubassets.com/063bccc3e5217e1f54053a2f8d793d63ea216427466866c641326bae843f0c6e/crytic/ethersplay",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Decompiling Ethereum in Practice",
+      "tldr": "A long research write-up on rebuilding structure from EVM bytecode, and why the stack machine makes it awkward.",
+      "url": "https://blog.ret2.io/2018/05/16/practical-eth-decompilation/",
+      "source": "RET2 Systems",
+      "image": "https://blog.ret2.io/assets/img/ethrays_sag_gas_check.png",
+      "tag": "Security"
+    }
+  ]
 }

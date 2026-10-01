@@ -35,5 +35,23 @@
       "op-mainnet",
       "klever"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Pointing a Wallet at Your Own RPC",
+      "tldr": "Adding a custom endpoint on BNB Chain, and why you might want to stop using the default.",
+      "url": "https://docs.nodereal.io/docs/connect-to-trust-wallet-bnb-smart-chain",
+      "source": "NodeReal Docs",
+      "tag": "Infrastructure",
+      "image": "https://cdn.readme.io/og-image/create?type=docs&title=BNB%20Smart%20Chain&projectTitle=NodeReal%20Docs&description=This%20document%20provides%20you%20with%20step-by-step%20instructions%20to%20add%20your%20MegaNode%20API%20to%20wallets&logoUrl=https%3A%2F%2Ffiles.readme.io%2F2360931-small-logo-nodereal.png&color=%23070707&variant=light"
+    },
+    {
+      "title": "Custom RPC on Ethereum",
+      "tldr": "The same change on mainnet, walked through in the wallet interface.",
+      "url": "https://docs.nodereal.io/docs/connect-to-trust-wallet-ethereum",
+      "source": "NodeReal Docs",
+      "tag": "Infrastructure",
+      "image": "https://cdn.readme.io/og-image/create?type=docs&title=Ethereum&projectTitle=NodeReal%20Docs&description=This%20document%20provides%20you%20with%20step-by-step%20instructions%20to%20add%20your%20MegaNode%20API%20to%20wallets&logoUrl=https%3A%2F%2Ffiles.readme.io%2F2360931-small-logo-nodereal.png&color=%23070707&variant=light"
+    }
+  ]
 }

@@ -30,5 +30,34 @@
       "questflow",
       "aragon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Forecasting Geopolitical Risk With Foresight Learning",
+      "tldr": "A small open model trained only on public news beats GPT-5 at predicting military strikes. The result matters less than the method, which is reproducible.",
+      "url": "https://blog.lightningrod.ai/p/forecasting-geopolitical-risk-with-foresight-learning",
+      "source": "LightningRod Blog",
+      "tag": "Tutorial",
+      "publishedAt": "2026-05-29",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/c6fdb6e1-17e4-4459-9bef-12068a622312/Screenshot_2026-05-29_at_11.13.18_AM.png?t=1780067638"
+    },
+    {
+      "title": "AI Reaches Human Superforecaster Range",
+      "tldr": "On ForecastBench the best systems now sit statistically level with the median human superforecaster. Benchmark caveats stated rather than buried.",
+      "url": "https://blog.lightningrod.ai/p/ai-reaches-human-superforecaster-range",
+      "source": "LightningRod Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-07-08",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/3a1203f5-951b-4f00-b040-e84f291beb64/leaderboard_1200x630.png?t=1783546312"
+    },
+    {
+      "title": "Predicting Patient Outcomes From Clinical Notes",
+      "tldr": "A small model trained on existing hospital notes, with no manual labelling, predicting ventilation and dialysis.",
+      "url": "https://blog.lightningrod.ai/p/predicting-patient-outcomes",
+      "source": "LightningRod Blog",
+      "tag": "AI & Agents",
+      "publishedAt": "2026-06-10",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/publication/logo/cb6b3a31-8fa5-40db-ba5d-6d9967233bc8/icon.png"
+    }
+  ]
 }

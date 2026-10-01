@@ -1,0 +1,54 @@
+{
+  "slug": "auto-finance",
+  "name": "AUTOfinance",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760750/dapp-store-logos/auto-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Monad",
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "AUTOfinance automates liquidity management, rebalancing LP positions across DeFi protocols.",
+    "description": "AUTOfinance, formerly Tokemak, runs Autopools that monitor liquidity pools and lending markets and rebalance when yields or conditions shift. Allocation decisions weigh a full set of metrics instead of moving to whichever pool advertises the highest number. Returns are converted back into the Autopool's base asset and redeployed, leaving a depositor with one position in a single denomination. The protocol offers curated strategies across several chains and assets, each with its own risk profile, and has worked with external auditors since launch.",
+    "meta": "AUTOfinance automates liquidity management, rebalancing LP positions across DeFi protocols on Monad.",
+    "pageTitle": "AUTOfinance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://auto.finance/",
+    "twitter": "https://x.com/autopools"
+  },
+  "relations": {
+    "alternatives": [
+      "beefy",
+      "blend-money",
+      "ipor"
+    ],
+    "related": [
+      "eisenlabs",
+      "lagoon",
+      "neutral-trade"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Autopools Versus Manual Liquidity Provision",
+      "tldr": "Compares automated liquidity pools with managing LP positions manually, including operational tradeoffs.",
+      "url": "https://auto.finance/compare/autopools-vs-manual-lp",
+      "source": "Auto Finance",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Autopools Versus Yield Aggregators",
+      "tldr": "Explains how autopools differ from yield aggregators in strategy execution and position management.",
+      "url": "https://auto.finance/compare/autopools-vs-yield-aggregators",
+      "source": "Auto Finance",
+      "tag": "Explainer"
+    }
+  ]
+}

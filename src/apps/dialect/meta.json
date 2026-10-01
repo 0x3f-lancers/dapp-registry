@@ -1,0 +1,53 @@
+{
+  "slug": "dialect",
+  "name": "Dialect",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760835/dapp-store-logos/dialect.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Messaging Tools"
+  ],
+  "chains": [
+    "Monad",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Dialect provides Web3 UX infrastructure letting developers embed onchain actions and alerts.",
+    "description": "Dialect turns links into executable blockchain actions and delivers real-time notifications alongside them. Its Alerts product monitors chain events and pushes notifications, with integrators reporting a setup time under fifteen minutes. Blinks convert a URL into a signable transaction that renders anywhere the link appears, and a Markets API returns live lending rates, market data and position tracking for major lending protocols. All three are reachable by API key from any tech stack.",
+    "meta": "Notifications and inline onchain actions, so users can act without leaving the surface they are on.",
+    "pageTitle": "Dialect - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.dialect.to",
+    "twitter": "https://x.com/dialect"
+  },
+  "relations": {
+    "alternatives": [
+      "axelar",
+      "skiff"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "birdeye-so"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Blinks Are Now on Monad",
+      "tldr": "Introduces Monad support for Dialect Blinks and the onchain actions they make accessible from links.",
+      "url": "https://www.dialect.to/blog/blinks-are-now-on-monad",
+      "source": "Dialect",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Get Started With the Alerts Stack",
+      "tldr": "A short setup guide for Dialect's alerts stack and its developer notification workflow.",
+      "url": "https://www.dialect.to/blog/alerts-stack-upgrade-get-started-in-under-10-minutes",
+      "source": "Dialect",
+      "tag": "Tutorial"
+    }
+  ]
+}

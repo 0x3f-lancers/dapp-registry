@@ -1,0 +1,53 @@
+{
+  "slug": "kinetk",
+  "name": "KINETK",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760932/dapp-store-logos/kinetk.jpg",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Web3 Credential Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "KINETK watermarks creator content and tracks where it is used across the web.",
+    "description": "KINETK tracks where a creator's content travels after publication, watermarking each asset and then monitoring the web for reuse. Creators sign in to an account that holds their catalogue and the detection history against it. The service is aimed at people publishing at internet speed who cannot manually check where their work ends up, and it operates on Monad.",
+    "meta": "Watermarks creator work and follows where it is reused, building provenance for media on Monad.",
+    "pageTitle": "KINETK - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.kinetk.ai",
+    "twitter": "https://x.com/Kinetk_ai"
+  },
+  "relations": {
+    "alternatives": [
+      "civic",
+      "fractal-id",
+      "degenscore"
+    ],
+    "related": [
+      "ethrank",
+      "incred",
+      "joba-network"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Designing a Resumable Serverless Sync Pipeline",
+      "tldr": "Covers design choices for restarting long running data synchronization jobs in serverless systems.",
+      "url": "https://kinetk.substack.com/p/designing-a-resumable-serverless",
+      "source": "KINETK",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "From Raw Scans to Knowledge Graph Metadata",
+      "tldr": "Explains turning scanned source material into structured metadata suitable for a knowledge graph.",
+      "url": "https://kinetk.substack.com/p/from-raw-scans-to-kg-ready-metadata",
+      "source": "KINETK",
+      "tag": "Infrastructure"
+    }
+  ]
+}

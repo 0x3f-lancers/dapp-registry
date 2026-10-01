@@ -29,5 +29,23 @@
     "related": [
       "femplate"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Separating Wallet Logic From App Logic",
+      "tldr": "Why the library exists at all, told by the team, including what its author got right and what he would change.",
+      "url": "https://blog.uniswap.org/noah-web3react",
+      "source": "Uniswap",
+      "image": "https://images.ctfassets.net/oc3ca6rftwdu/7FCdp45zSKT2d0Ewsl9zMi/6b5ce74876311841ac26cf132b90f643/banner.jpeg?w=1200&h=900&q=100&fit=crop",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Wiring Up a Connector",
+      "tldr": "The provider component and the connector packages, which is where most first integrations go wrong.",
+      "url": "https://docs.uniswap.org/sdk/web3-react/guides/connect-wallet",
+      "source": "Uniswap Docs",
+      "image": "https://developers.uniswap.org/opengraph.png",
+      "tag": "Infrastructure"
+    }
+  ]
 }

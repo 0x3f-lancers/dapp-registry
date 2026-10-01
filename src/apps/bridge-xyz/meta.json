@@ -1,0 +1,53 @@
+{
+  "slug": "bridge-xyz",
+  "name": "Bridge",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760781/dapp-store-logos/bridge-xyz.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Bridge is a stablecoin platform for developers, handling issuance, conversion and global payouts.",
+    "description": "Bridge is a stablecoin payments platform that moves fiat and stablecoins across currencies through a single API. Businesses use it to create digital asset wallets at scale, with on-chain security and gas management handled by Bridge. Cross-border settlement completes in minutes, including into markets that correspondent banking reaches slowly. The platform can also issue USD and Euro accounts to consumers and businesses. Its stablecoin-backed card product is integrated with Stripe Issuing.",
+    "meta": "Bridge is a developer stablecoin platform covering issuance, fiat conversion and global payouts.",
+    "pageTitle": "Bridge - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.bridge.xyz/",
+    "twitter": "https://x.com/bridge_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "alfred-pay",
+      "brale",
+      "capa-fi"
+    ],
+    "related": [
+      "chainrails",
+      "checker-finance",
+      "coinflow"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Stablecoin Payment Rails Work",
+      "tldr": "Explains how businesses can use blockchain settlement and stablecoins for payments, with the moving parts behind the transfer.",
+      "url": "https://bridge.xyz/learn/blockchain-payments",
+      "source": "Bridge",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Building Stablecoin Infrastructure",
+      "tldr": "Covers the components and compliance questions a business should consider when building stablecoin payment rails.",
+      "url": "https://bridge.xyz/learn/building-a-robust-stablecoin-infrastructure-key-considerations-for-modern-finance",
+      "source": "Bridge",
+      "tag": "Infrastructure"
+    }
+  ]
+}

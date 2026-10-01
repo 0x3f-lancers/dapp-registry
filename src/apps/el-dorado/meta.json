@@ -1,0 +1,55 @@
+{
+  "slug": "el-dorado",
+  "name": "El Dorado",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760845/dapp-store-logos/el-dorado.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad",
+    "World Chain",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "El Dorado is a Latin American app offering dollar accounts, currency exchange and card payments.",
+    "description": "El Dorado is a peer-to-peer exchange for Latin American users buying and selling digital dollars, supporting more than eighty local payment methods. Trades typically settle in about a minute, with over fifty thousand positive reviews by the company's own count. Businesses can integrate the same liquidity through an API or embed it as a widget.",
+    "meta": "Dollar accounts, FX and card spending across a dozen Latin American countries, built on stablecoins.",
+    "pageTitle": "El Dorado - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://eldorado.io/",
+    "twitter": "https://x.com/eldoradoio"
+  },
+  "relations": {
+    "alternatives": [
+      "ahoracrypto",
+      "alchemy-pay",
+      "banxa"
+    ],
+    "related": [
+      "blink-cash",
+      "btc-direct",
+      "calm-treasury"
+    ]
+  },
+  "resources": [
+    {
+      "title": "El Dorado P2P Fees Explained",
+      "tldr": "Explains when El Dorado charges a commission and what users should check before completing a P2P exchange.",
+      "url": "https://eldorado.io/en/blog/fees-el-dorado-p2p",
+      "source": "El Dorado",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Send Digital Dollars From Argentina to Venezuela",
+      "tldr": "A practical guide to moving dollar-denominated value between Argentina and Venezuela using El Dorado's service.",
+      "url": "https://eldorado.io/en/blog/como-enviar-dolares-digitales-a-venezuela-desde-argentina",
+      "source": "El Dorado",
+      "tag": "Tutorial"
+    }
+  ]
+}

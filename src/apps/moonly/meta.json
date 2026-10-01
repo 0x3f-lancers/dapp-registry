@@ -29,5 +29,31 @@
     "related": [
       "blockasset"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Rebuilding Holder Verification",
+      "tldr": "What a second attempt at a Discord holder-verification bot had to fix, which says a lot about where the first one broke.",
+      "url": "https://moon.ly/blog/moonly-weekly-progress-update-63-holder-verification-bot-v2/",
+      "source": "Moonly",
+      "tag": "Security",
+      "image": "https://moon.ly/blog/content/images/2023/09/Thumbs-for-the-blog--63.png"
+    },
+    {
+      "title": "Staking, Version Two",
+      "tldr": "The changes made to NFT staking and the reasoning behind them, from a team writing up its work week by week.",
+      "url": "https://moon.ly/blog/moonly-weekly-progress-update-67-staking-v2/",
+      "source": "Moonly",
+      "tag": "DeFi",
+      "image": "https://moon.ly/blog/content/images/2023/11/Thumbs-for-the-blog--67.png"
+    },
+    {
+      "title": "Getting a Whitelist Flow Into Production",
+      "tldr": "A worked account of shipping an allowlist flow for a real collection, including what had to change before launch.",
+      "url": "https://moon.ly/blog/moonly-weekly-progress-update-69-karamendos-wl-flow-is-in-production/",
+      "source": "Moonly",
+      "tag": "Tokenization",
+      "image": "https://moon.ly/blog/content/images/2023/12/Thumbs-for-the-blog--69.png"
+    }
+  ]
 }

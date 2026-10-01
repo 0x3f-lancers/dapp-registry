@@ -1,0 +1,53 @@
+{
+  "slug": "dextrabot",
+  "name": "Dextrabot",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760834/dapp-store-logos/dextrabot.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Trading Tools"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "Freemium",
+  "archived": false,
+  "content": {
+    "short": "Dextrabot offers Hyperliquid trading bots including copy trading, grid bots and market makers.",
+    "description": "Dextrabot finds high-performing wallets on Hyperliquid and Lighter, reports their track record and then copies their perpetual trades at the user's own size, stop-loss and take-profit. Filters surface overlooked performers rather than only the largest accounts, and a wallet analyser breaks down any address on demand. Copy trades carry a 0.055 percent fee, alerts arrive over Telegram, and a multi-level referral program pays up to 65 percent.",
+    "meta": "Dextrabot finds top wallets on Hyperliquid and Lighter and copies their perpetual trades at your own size, with alerts delivered over Telegram.",
+    "pageTitle": "Dextrabot - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dextrabot.com",
+    "twitter": "https://x.com/dextrabot"
+  },
+  "relations": {
+    "alternatives": [
+      "asym",
+      "bankr",
+      "cod3x"
+    ],
+    "related": [
+      "coinmarketman",
+      "hyperdash",
+      "hypersignals"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Trading Bots Quickstart",
+      "tldr": "Introduces DextraBot’s trading bots and the steps to start automated trading.",
+      "url": "https://docs.dextrabot.com/dextrabot/quickstart.md",
+      "source": "Dextrabot",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Polymarket Liquidity Pool Farming Bot",
+      "tldr": "Explains how the Polymarket liquidity pool farming bot operates.",
+      "url": "https://docs.dextrabot.com/dextrabot/polymarket-bots/polymarket-liquidity-pool-farming-bot.md",
+      "source": "Dextrabot",
+      "tag": "Explainer"
+    }
+  ]
+}

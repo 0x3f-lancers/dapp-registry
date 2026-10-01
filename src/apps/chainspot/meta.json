@@ -40,5 +40,23 @@
       "matchain",
       "wowearn"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Evaluate Bridge Security",
+      "tldr": "Lessons from recent bridge exploits turned into criteria: what to check, which warning signs matter, and how to weigh them before moving funds.",
+      "url": "https://news.chainspot.io/2026/07/28/bridge-security-evaluation-guide/",
+      "source": "Chainspot News",
+      "publishedAt": "2026-07-28",
+      "tag": "Security"
+    },
+    {
+      "title": "Integrating JPY Stablecoins on Solana",
+      "tldr": "The SBI-Solana initiative explained, and what onchain yen assets need in practice from an integration standpoint.",
+      "url": "https://news.chainspot.io/2026/07/22/jpy-stablecoins-integration-guide/",
+      "source": "Chainspot News",
+      "publishedAt": "2026-07-22",
+      "tag": "Payments"
+    }
+  ]
 }

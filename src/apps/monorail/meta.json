@@ -1,0 +1,53 @@
+{
+  "slug": "monorail",
+  "name": "Monorail",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760975/dapp-store-logos/monorail.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Monorail is a Monad swap aggregator combining AMMs, on-chain order books and RFQ liquidity.",
+    "description": "Monorail combines AMM pools, on-chain order books and RFQ liquidity into one model so any token on Monad can be traded through a single route. Its synthetic order books present aggregated liquidity as a unified book rather than separate venues. Integrators can connect to the aggregate or to the order book layer directly.",
+    "meta": "Monorail is a Monad swap aggregator combining AMM pools, onchain order books and RFQ liquidity so any token can trade through a single route.",
+    "pageTitle": "Monorail - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://monorail.xyz/",
+    "twitter": "https://x.com/monorail_xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "clober",
+      "curve-finance",
+      "dzap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Monorail Synthetic Orderbooks",
+      "tldr": "Explains how Monorail represents AMM and orderbook liquidity in a common model to route trades.",
+      "url": "https://docs.monorail.xyz/solution/",
+      "source": "Monorail",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Integrating with Monorail",
+      "tldr": "Explains how exchanges can join Monorail routing and how developers can request quotes through its API.",
+      "url": "https://docs.monorail.xyz/integration/",
+      "source": "Monorail",
+      "tag": "Tutorial"
+    }
+  ]
+}

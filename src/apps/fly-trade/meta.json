@@ -1,0 +1,56 @@
+{
+  "slug": "fly-trade",
+  "name": "Fly.trade",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760870/dapp-store-logos/fly-trade.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Monad",
+    "Unichain",
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Fly.trade swaps assets between chains without requiring a separate bridging step.",
+    "description": "Fly.trade executes swaps on a single chain or across chains, pricing each one against multiple liquidity sources to find the best route. Users complete a swap in three steps without managing a separate bridge transaction. The protocol publishes its supported chains, liquidity sources and cumulative executed swap volume.",
+    "meta": "Fly.trade performs cross-chain swaps in one step, without a separate bridging transaction.",
+    "pageTitle": "Fly.trade - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fly.trade/",
+    "twitter": "https://x.com/fly_trade"
+  },
+  "relations": {
+    "alternatives": [
+      "0x",
+      "1inch",
+      "balancer"
+    ],
+    "related": [
+      "clober",
+      "curve-finance",
+      "dzap"
+    ]
+  },
+  "resources": [
+    {
+      "title": "On-Chain Swap",
+      "tldr": "Here we will provide you with a step-by-step set of instructions to swap tokens on the same chain using the fly.trade app.",
+      "url": "https://docs.fly.trade/guides/on-chain-swap.md",
+      "source": "Fly.trade",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Cross-Chain Swap",
+      "tldr": "Here we will provide you with a step-by-step set of instructions to swap tokens across chains using the fly.trade app.",
+      "url": "https://docs.fly.trade/guides/cross-chain-swap.md",
+      "source": "Fly.trade",
+      "tag": "Tutorial"
+    }
+  ]
+}

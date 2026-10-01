@@ -34,5 +34,21 @@
       "soulbound",
       "estfor-kingdom"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Web3 Inside a Unity Game",
+      "tldr": "Wallet connection and contract calls from C#, walked through from an empty project rather than from the API reference.",
+      "url": "https://moralis.com/unity-web3-beginners-guide-to-unity-web3-programming/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "What the SDK Covers",
+      "tldr": "Cross-chain and L2 support with the wallet flow handled, so the game code deals with balances rather than RPC.",
+      "url": "https://moralis.com/web3-wiki/moralis-unity-sdk/",
+      "source": "Moralis",
+      "tag": "Infrastructure"
+    }
+  ]
 }

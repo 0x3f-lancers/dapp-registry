@@ -31,5 +31,19 @@
       "blast",
       "turnkey"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How The Messaging Works",
+      "tldr": "The protocol page: how a public key directory and shared secrets let two wallet addresses message privately.",
+      "url": "https://www.epigeon.org/epigeon/index.html",
+      "source": "Epigeon"
+    },
+    {
+      "title": "Lockable Contracts",
+      "tldr": "The companion contract explained, covering what locking does and why messaging needs it.",
+      "url": "https://www.epigeon.org/lockable/index.html",
+      "source": "Epigeon"
+    }
+  ]
 }

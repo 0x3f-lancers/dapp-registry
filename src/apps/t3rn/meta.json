@@ -1,0 +1,53 @@
+{
+  "slug": "t3rn",
+  "name": "t3rn",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761084/dapp-store-logos/t3rn.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Unichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Cross-chain bridge with reversible settlement: every intent either fills on proof or refunds.",
+    "description": "t3rn lets users submit a cross-chain intent once. Independent solvers compete to fill it, and funds are released only when a proof of the fill arrives, otherwise they are refunded, with a receipt either way. t3rn runs no fills itself and holds solvers to the outcome. Its bridge settles in about three seconds at the median, and users can stake TRN, ETH, USDC or BTC, including Symbiotic restaking.",
+    "meta": "Bridge with t3rn, where solvers compete to fill your intent and funds refund automatically if a fill fails.",
+    "pageTitle": "t3rn - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.t3rn.io",
+    "twitter": "https://x.com/t3rn_io"
+  },
+  "relations": {
+    "alternatives": [
+      "base-bridge",
+      "eco-portal",
+      "wanchain-bridge"
+    ],
+    "related": [
+      "symbiosis",
+      "junction-exchange",
+      "valuerouter"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Cross-Chain Execution Versus Bridges",
+      "tldr": "Explains how executing an action on another chain differs from simply transferring assets across a bridge.",
+      "url": "https://portal.t3rn.io/blog/cross-chain-execution-vs-bridges",
+      "source": "t3rn",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Atomic Cross-Chain Execution Explained",
+      "tldr": "t3rn explains how its protocol coordinates multi-chain actions and verifies that each step completes together.",
+      "url": "https://bridge.t3rn.io/blog/atomic-execution",
+      "source": "t3rn",
+      "tag": "Explainer"
+    }
+  ]
+}

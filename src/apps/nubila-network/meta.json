@@ -1,0 +1,53 @@
+{
+  "slug": "nubila-network",
+  "name": "Nubila Network",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760995/dapp-store-logos/nubila-network.jpg",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Decentralized Computing Tools"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Nubila is a DePIN network of weather stations feeding real-world environmental data onchain.",
+    "description": "Nubila runs a network of solar-powered weather stations that record temperature, humidity, UV, wind and pressure and publish the readings on-chain. Validator nodes verify that data before it reaches consumers, so contracts get environmental measurements that are measured, not reported. Operators earn tokenized rewards from the day their device comes online, with no technical setup required. The resulting oracle feeds industries including AI, agriculture and insurance.",
+    "meta": "A physical network of weather stations publishing measured environmental readings onchain.",
+    "pageTitle": "Nubila Network - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nubila.network",
+    "twitter": "https://x.com/nubilanetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "acurast",
+      "diffuse-fi",
+      "mc2-finance"
+    ],
+    "related": [
+      "alchemy",
+      "ankr",
+      "axelar"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Understanding Nubila Validator Nodes",
+      "tldr": "Explains the role of Nubila nodes and how their validation process supports the network.",
+      "url": "https://nubila.gitbook.io/nubila/nubila-validator-node-interpretation/nubila-nodes",
+      "source": "Nubila",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "The Nubila MARCO Model",
+      "tldr": "Introduces Nubila's MARCO framework and the system design behind its network data layer.",
+      "url": "https://nubila.gitbook.io/nubila/nubila-marco",
+      "source": "Nubila",
+      "tag": "Explainer"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "orda",
+  "name": "orda",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761007/dapp-store-logos/orda.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Plasma",
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Zero-markup intent network for swapping and paying across chains, stablecoins and bank rails.",
+    "description": "orda lets solvers compete to fill money movement orders, from stablecoin swaps to fiat payouts, so spreads are set by competition rather than a markup. Businesses can use its API and SDKs, drop in a widget, or send and receive through a no-code dashboard. It describes itself as the first intent network that can settle in fiat as well as crypto.",
+    "meta": "orda's zero-markup intent network routes stablecoin swaps, ramps and global payouts through competing solvers.",
+    "pageTitle": "orda - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://orda.network",
+    "twitter": "https://x.com/ordanetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "beam-cash",
+      "base-pay-desk",
+      "mesha"
+    ],
+    "related": [
+      "trustware",
+      "solsplits",
+      "xade-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Integrate Crypto Payments With One API Call",
+      "tldr": "Explains the integration flow for routing crypto payments across chains and stablecoins through Orda.",
+      "url": "https://orda.network/blog/how-to-integrate-crypto-payments-in-one-api-call",
+      "source": "Orda",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Using the orda Dashboard",
+      "tldr": "Explains project setup, API credentials, transaction monitoring, and reconciliation in orda's integration dashboard.",
+      "url": "https://orda.network/blog/introducing-the-orda-dashboard",
+      "source": "Orda",
+      "tag": "Tutorial"
+    }
+  ]
+}

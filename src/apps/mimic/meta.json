@@ -29,5 +29,34 @@
       "blockbucket",
       "uncx-network"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Mimic?",
+      "tldr": "The short version straight from the source: you define the logic, Mimic runs it, and you never deploy or babysit a contract yourself.",
+      "url": "https://www.mimic.fi/blog/what-is-mimic",
+      "source": "Mimic Blog",
+      "publishedAt": "2026-07-28",
+      "tag": "Explainer",
+      "image": "https://mimic.fi/blog/what-is-mimic/what-is-mimic-thumbnail.png"
+    },
+    {
+      "title": "The Execution Gap in Onchain Asset Management",
+      "tldr": "Getting it executed reliably, repeatedly, without someone watching a dashboard is where onchain asset management actually breaks down.",
+      "url": "https://www.mimic.fi/blog/the-execution-gap-in-onchain-asset-management",
+      "source": "Mimic Blog",
+      "publishedAt": "2026-04-01",
+      "tag": "Trading",
+      "image": "https://mimic.fi/blog/the-execution-gap-in-onchain-asset-management/TN---The-Execution-Gap--in-Onchain-Asset-Management-1.png"
+    },
+    {
+      "title": "The Infrastructure Behind One-Click DeFi",
+      "tldr": "One button on the surface, several of the hardest coordination problems underneath. Unpacks what has to line up between the click and settlement.",
+      "url": "https://www.mimic.fi/blog/the-infrastructure-behind-one-click-defi",
+      "source": "Mimic Blog",
+      "publishedAt": "2026-03-09",
+      "tag": "DeFi",
+      "image": "https://mimic.fi/blog/the-infrastructure-behind-one-click-defi/Infra.png"
+    }
+  ]
 }

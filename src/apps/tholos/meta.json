@@ -1,0 +1,51 @@
+{
+  "slug": "tholos",
+  "name": "Tholos",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761095/dapp-store-logos/tholos.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "MPC Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Tholos offers self-custodial MPC wallets for teams, with fiat rails, OTC and DeFi access.",
+    "description": "Tholos gives crypto teams self-custodial MPC wallets with multi-signature approval, covering more than thirty chains including Bitcoin, Ethereum, Solana, Cosmos and Hyperliquid from one dashboard. Treasury operations, banking and payments run in the same workspace, with fiat rails and OTC execution available alongside DeFi access. An SDK and API let a team automate transfers and approvals programmatically. Tholos claims more than 500 million dollars secured and a setup time of around fifteen minutes.",
+    "meta": "Tholos provides self-custodial MPC wallets for teams with fiat rails, OTC and DeFi access.",
+    "pageTitle": "Tholos - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.tholos.app/",
+    "twitter": "https://x.com/tholosapp"
+  },
+  "relations": {
+    "alternatives": [
+      "fordefi"
+    ],
+    "related": [
+      "backpack",
+      "den",
+      "gnosis-safe"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Institutional Custody on Hyperliquid",
+      "tldr": "Explains custody controls for Hyperliquid positions, including MPC signing and policies for institutional teams.",
+      "url": "https://www.tholos.app/blog/institutional-custody-guide-for-hyperliquid/",
+      "source": "Tholos",
+      "tag": "Security"
+    },
+    {
+      "title": "Fireblocks and Tholos Compared",
+      "tldr": "Compares custody models, policy controls and treasury workflows so teams can assess self-custody tradeoffs.",
+      "url": "https://www.tholos.app/blog/fireblocks-vs-tholos/",
+      "source": "Tholos",
+      "tag": "Research"
+    }
+  ]
+}

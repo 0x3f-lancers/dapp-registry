@@ -29,5 +29,28 @@
       "polymer",
       "quicknode-rollups"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Anatomy of a Rollup Module",
+      "tldr": "The building block of a sovereign rollup, taken apart piece by piece.",
+      "url": "https://docs.sovereign.xyz/4-1-anatomy-of-a-module.html",
+      "source": "Sovereign SDK Book",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Testing What You Built",
+      "tldr": "How to exercise a module properly before it holds anything valuable.",
+      "url": "https://docs.sovereign.xyz/4-2-testing-your-module.html",
+      "source": "Sovereign SDK Book",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "The Revenue Share Terms",
+      "tldr": "The licensing obligation that comes with the SDK, stated plainly rather than buried.",
+      "url": "https://docs.sovereign.xyz/8-0-complying-with-revenue-share.html",
+      "source": "Sovereign SDK Book",
+      "tag": "Finance"
+    }
+  ]
 }

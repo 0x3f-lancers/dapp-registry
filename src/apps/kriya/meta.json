@@ -3,8 +3,13 @@
   "name": "Kriya",
   "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1770747915/web3-explorer/dapp-logos/kriya.png",
   "category": "DeFi Dapps",
-  "subcategory": ["Decentralized Exchanges", "DeFi Yield Farming Platforms"],
-  "chains": ["Sui"],
+  "subcategory": [
+    "Decentralized Exchanges",
+    "DeFi Yield Farming Platforms"
+  ],
+  "chains": [
+    "Sui"
+  ],
   "pricing": "",
   "content": {
     "short": "Kriya is a Sui-based orderbook decentralized exchange offering swaps, limit orders, and vault-based investment strategies.",
@@ -17,7 +22,40 @@
     "twitter": "https://x.com/KriyaDEX"
   },
   "relations": {
-    "alternatives": ["defx", "antfarm-finance", "airswap"],
-    "related": ["huobi", "flitpay"]
-  }
+    "alternatives": [
+      "defx",
+      "antfarm-finance",
+      "airswap"
+    ],
+    "related": [
+      "huobi",
+      "flitpay"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Why Add a Spot AMM to an Order Book",
+      "tldr": "The team own reasoning on where each design wins: order books for leverage, AMMs for correlated pairs and open market making.",
+      "url": "https://kriyadex.substack.com/p/why-launching-a-spot-amm",
+      "source": "Kriya",
+      "tag": "Trading",
+      "image": "https://substackcdn.com/image/fetch/$s_!TS2N!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F816a6d2a-42b6-4caa-9633-2a04ddccac90_1346x1352.png"
+    },
+    {
+      "title": "Choosing Sui, and What It Cost",
+      "tldr": "An engineering post on the object model, 400ms finality and the margin architecture that had to be built around them.",
+      "url": "https://kriyadex.substack.com/p/kriya-tech-why-we-chose-sui",
+      "source": "Kriya",
+      "tag": "AI & Agents",
+      "image": "https://substackcdn.com/image/fetch/$s_!VYIv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda3dfaf7-d75d-48b5-a950-5ac692b0bb84_600x341.gif"
+    },
+    {
+      "title": "Perps on Sui, Reviewed",
+      "tldr": "An outside walkthrough of leverage, vault strategies and how deposits are tracked while coins sit in a shared pool.",
+      "url": "https://medium.com/@suidetective/kriya-dex-the-fastest-derivatives-exchange-on-chain-978405c10f78",
+      "source": "Sui Detective",
+      "tag": "Trading",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*3F04XT10LINLjHN_FT7sFg.jpeg"
+    }
+  ]
 }

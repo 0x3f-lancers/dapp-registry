@@ -30,5 +30,28 @@
       "fibrous-finance",
       "loopring"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Our OHLCV Differs From the Exchange",
+      "tldr": "Aggregated candles rarely match a single venue's. An honest account of where the discrepancy comes from.",
+      "url": "https://www.coinapi.io/learn/academy/tutorials/why-coinapi-ohlcv-data-looks-different-from-exchanges",
+      "source": "CoinAPI Academy",
+      "tag": "Trading"
+    },
+    {
+      "title": "Getting Bulk Data Out",
+      "tldr": "The Flat Files API, and when downloading files beats hammering a REST endpoint for historical data.",
+      "url": "https://www.coinapi.io/learn/academy/tutorials/introduction-to-flat-files-api",
+      "source": "CoinAPI Academy",
+      "tag": "Research"
+    },
+    {
+      "title": "Exchange Rates in Google Sheets",
+      "tldr": "A small, complete tutorial that gets live rates into a spreadsheet without writing an application.",
+      "url": "https://www.coinapi.io/tutorials/how-to-create-a-usd-exchange-rates-table-in-google-sheets",
+      "source": "CoinAPI Tutorials",
+      "tag": "Trading"
+    }
+  ]
 }

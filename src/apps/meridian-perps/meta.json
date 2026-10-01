@@ -1,0 +1,53 @@
+{
+  "slug": "meridian-perps",
+  "name": "Meridian",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760966/dapp-store-logos/meridian-perps.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "Free",
+  "archived": false,
+  "content": {
+    "short": "Meridian offers mutualized perpetuals on Robinhood Chain for capital-efficient global markets.",
+    "description": "Meridian trades perpetual futures on Robinhood Chain, including crypto perps and what it calls mutualized perps, or mPerps, designed for capital-efficient price discovery in global markets around the clock. Meridian Predict is its prediction markets venue on the same chain, settled in USDe, supporting single predictions and combinations across an expanding market set. Traders can connect linked signers for programmatic access through the perpetuals API.",
+    "meta": "Mutualized perpetuals that share liquidity across markets, so thin listings still function.",
+    "pageTitle": "Meridian - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://meridian.xyz/",
+    "twitter": "https://x.com/meridian"
+  },
+  "relations": {
+    "alternatives": [
+      "arcus",
+      "lighter",
+      "panoptic"
+    ],
+    "related": [
+      "alandale",
+      "ample-money",
+      "arcadia-finance"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Meridian Perpetual Futures",
+      "tldr": "Introduces Meridian's perpetual futures markets, trading concepts, and position mechanics.",
+      "url": "https://docs.meridian.xyz/trading/perpetual-futures",
+      "source": "Meridian",
+      "tag": "Explainer"
+    },
+    {
+      "title": "How the Meridian Exchange Works",
+      "tldr": "Explains the exchange architecture behind Meridian's perpetual futures trading.",
+      "url": "https://docs.meridian.xyz/trading/perpetual-futures/exchange-architecture",
+      "source": "Meridian",
+      "tag": "Explainer"
+    }
+  ]
+}

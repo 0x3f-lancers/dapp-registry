@@ -30,5 +30,25 @@
       "loopring",
       "shell-protocol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Managing an Aave v3 Position",
+      "tldr": "What the position actually consists of, which levers change your health factor, and how to adjust without unwinding everything.",
+      "url": "https://medium.com/instadapp/the-best-and-easiest-way-to-manage-your-aave-v3-position-a073a117d3a3",
+      "source": "Instadapp Blog",
+      "publishedAt": "2022-04-12",
+      "tag": "Tutorial",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*1weejaLgjWbsZjSJku3eLw.png"
+    },
+    {
+      "title": "Providing Liquidity on Uniswap v3",
+      "tldr": "The v2-to-v3 shift explained before the walkthrough: concentrated ranges change what being a liquidity provider means.",
+      "url": "https://medium.com/instadapp/a-guide-to-effectively-using-uniswap-v3-via-instadapps-dashboard-64784d4df09d",
+      "source": "Instadapp Blog",
+      "publishedAt": "2022-05-25",
+      "tag": "DeFi",
+      "image": "https://miro.medium.com/v2/resize:fit:705/1*fVHC9b6tzeTJrPsbQR1diA.jpeg"
+    }
+  ]
 }

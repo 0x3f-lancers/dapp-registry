@@ -1,0 +1,53 @@
+{
+  "slug": "credit-cash",
+  "name": "Credit",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760818/dapp-store-logos/credit-cash.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "World Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Unsecured lending protocol by Divine Research where lenders fund loans with no collateral.",
+    "description": "Credit lends to people without asking for collateral. Lenders supply USDC to a vault, and the pool funds small unsecured loans, relying on World ID's proof of unique personhood to stop one person borrowing many times. The contracts are audited by Zellic, but returns are variable and lenders can lose deposits if borrowers default. It is developed by Divine Research on World Chain.",
+    "meta": "Supply USDC to Credit's vault to fund unsecured loans on World Chain, where World ID stops one person borrowing twice.",
+    "pageTitle": "Credit - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://credit.cash/",
+    "twitter": "https://x.com/DivineResearch"
+  },
+  "relations": {
+    "alternatives": [
+      "wildcat",
+      "scallop",
+      "benqi"
+    ],
+    "related": [
+      "init-capital",
+      "folks-finance",
+      "shade-protocol"
+    ]
+  },
+  "resources": [
+    {
+      "title": "How Divine's Credit Product Works",
+      "tldr": "The builder explains Credit's World MiniApp loans, progressive limits, and liquidity supplied through credit.cash.",
+      "url": "https://divine.inc/",
+      "source": "Divine Research",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Troubleshooting On-chain Credit",
+      "tldr": "An independent analysis examines Credit's verified borrower model and the risks of unsecured onchain loans.",
+      "url": "https://www.thetokendispatch.com/p/troubleshooting-on-chain-credit",
+      "source": "Token Dispatch",
+      "tag": "Research"
+    }
+  ]
+}

@@ -29,5 +29,23 @@
       "web3-js",
       "parasol"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What You Can Build With It",
+      "tldr": "Concrete use cases — NFT collections, marketplaces, token launches — rather than a feature list.",
+      "url": "https://docs.dappkit.dev/use-cases",
+      "source": "dappKit Docs",
+      "tag": "Tokenization",
+      "image": "https://docs.dappkit.dev/~gitbook/ogimage/-Mb5lcNqsp1RL-fXW4E8"
+    },
+    {
+      "title": "From Install to First Build",
+      "tldr": "The short path from a clean install to something running, with the commands you actually need.",
+      "url": "https://docs.dappkit.dev/start-building",
+      "source": "dappKit Docs",
+      "tag": "Tutorial",
+      "image": "https://docs.dappkit.dev/~gitbook/ogimage/-MbBMHaTClMs17Jhw4UL"
+    }
+  ]
 }

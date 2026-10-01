@@ -29,5 +29,19 @@
       "alphaart",
       "fractal"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lending Game Assets Cross-Chain",
+      "tldr": "How an NFT is lent across chains without the lender losing custody, and what the borrower can do with it.",
+      "url": "https://docs.kyoko.finance/how-it-works/cross-chain-gamefi-assets-lending-ccal",
+      "source": "Kyoko"
+    },
+    {
+      "title": "Peer-To-Peer NFT Lending",
+      "tldr": "The direct lending flow walked through on testnet, including how terms are agreed and enforced.",
+      "url": "https://docs.kyoko.finance/test/p2p-nft-lending-testnet",
+      "source": "Kyoko"
+    }
+  ]
 }

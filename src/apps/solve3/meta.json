@@ -37,5 +37,31 @@
       "cryptolock",
       "apeworx-evmtrace"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Captcha a Contract Can Verify",
+      "tldr": "Solve the challenge, get a signed proof, and the contract checks it on chain before the function runs. The whole flow.",
+      "url": "https://www.linkedin.com/pulse/solve3-smart-contract-bot-protection-web3-kurt-merbeth-ahrle",
+      "source": "LinkedIn",
+      "tag": "Security",
+      "image": "https://media.licdn.com/dms/image/v2/D4E12AQHHb2wZuzZ3dA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1699303398453?e=2147483647&v=beta&t=NxnIZsCq1htFkT9cPXBTzb1sEUyB12UTCDzaO_fIBrY"
+    },
+    {
+      "title": "The Three Pieces That Make It Work",
+      "tldr": "Frontend module, backend validator and the Solve3Verify contract. Where each sits and what it is trusted with.",
+      "url": "https://devpost.com/software/solve3",
+      "source": "Devpost",
+      "tag": "DeFi",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/075/116/datas/medium.png"
+    },
+    {
+      "title": "Proving Humanity On Chain",
+      "tldr": "The wider problem of bots in mints and sales, and the approaches that have been tried against it.",
+      "url": "https://www.humanprotocol.org/blog/proof-of-humanity-on-chain-protect-your-smart-contracts-from-bots",
+      "source": "HUMAN Protocol",
+      "tag": "Security",
+      "image": "https://cdn.prod.website-files.com/69ce6bd049c4ae8a4efb697a/69d8c4c65fad799d2fab15c2_62862271b1f63d7d00e8ba07_poh-contracts-wide.jpeg"
+    }
+  ]
 }

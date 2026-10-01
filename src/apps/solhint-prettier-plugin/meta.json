@@ -31,5 +31,22 @@
       "huff-vm",
       "prettier-solidity"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Formatting As A Lint Rule",
+      "tldr": "Reports prettier differences as solhint problems, so style issues show up in the same output as everything else.",
+      "url": "https://github.com/fvictorio/solhint-plugin-prettier",
+      "source": "GitHub",
+      "image": "https://opengraph.githubassets.com/ab310ab93a30a3c48663e08844ee501e2854f85c9a4b7fd49f97e7a1ea1300be/fvictorio/solhint-plugin-prettier"
+    },
+    {
+      "title": "Linting and Formatting Are Not the Same Job",
+      "tldr": "One catches bugs, the other catches disagreements. Why a Solidity project usually wants both, set up together.",
+      "url": "https://medium.com/coinmonks/introduction-to-solidity-linting-and-formatting-e838c074791a",
+      "source": "Coinmonks",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*UwaAIpO6UmRAY_ICQ9xikw.jpeg",
+      "tag": "Infrastructure"
+    }
+  ]
 }

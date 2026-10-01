@@ -1,0 +1,53 @@
+{
+  "slug": "flipster",
+  "name": "Flipster",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760867/dapp-store-logos/flipster.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Stable"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Perpetuals exchange for crypto and tokenized stocks and ETFs, with copy trading.",
+    "description": "Flipster lists more than 240 perpetual markets, mixing crypto pairs with TradFi contracts on stocks and ETFs such as Coinbase and leveraged semiconductor funds, with up to 75x leverage on some assets. Traders can copy master traders' strategies, and margin balances earn up to 6% APR while they sit in open positions. Weekly trading competitions add rewards.",
+    "meta": "Trade 240+ crypto and stock perpetuals on Flipster, copy top traders, and earn APR on margin while you trade.",
+    "pageTitle": "Flipster - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://flipster.io",
+    "twitter": "https://x.com/flipster_io"
+  },
+  "relations": {
+    "alternatives": [
+      "stealthex",
+      "simpleswap",
+      "gemini"
+    ],
+    "related": [
+      "binance",
+      "kraken",
+      "day1x"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Guide to TradFi Perpetuals on Flipster",
+      "tldr": "Explains how perpetual contracts can provide exposure to traditional markets and what traders should review before trading.",
+      "url": "https://flipster.io/blog/a-complete-guide-to-tradfi-perpetuals-on-flipster",
+      "source": "Flipster",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How TradFi Perpetuals Work on Flipster",
+      "tldr": "Explains the available traditional asset perpetual markets and how collateral works alongside Flipster's crypto perps.",
+      "url": "https://flipster.io/blog/introducing-tradfi-perpetual-futures-on-flipster",
+      "source": "Flipster",
+      "tag": "Explainer"
+    }
+  ]
+}

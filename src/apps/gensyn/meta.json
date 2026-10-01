@@ -34,5 +34,34 @@
       "arweave",
       "filecoin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Prediction Markets We Were Promised",
+      "tldr": "Prediction markets have been a promised blockchain application since the Ethereum whitepaper. Why two architectural lineages both stalled.",
+      "url": "https://blog.gensyn.ai/a-guide-to-slaying-dragons-with-oracles-commitments-and-blockchains/",
+      "source": "Gensyn Blog",
+      "publishedAt": "2026-01-28",
+      "tag": "Trading",
+      "image": "https://storage.ghost.io/c/df/04/df042a7f-9d9e-47ae-be46-06edef4d6a67/content/images/size/w1200/2026/02/dithr-2026-2-3_15-25-14.png"
+    },
+    {
+      "title": "Building Delphi: Pricing, Settlement and Agentic Trading",
+      "tldr": "Treating a market as a priced model of the world, plus the three failure modes that keep open implementations from holding together.",
+      "url": "https://blog.gensyn.ai/building-delphi-pricing-settlement-and-agentic-trading/",
+      "source": "Gensyn Blog",
+      "publishedAt": "2026-05-07",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/df/04/df042a7f-9d9e-47ae-be46-06edef4d6a67/content/images/2026/05/delphi-duotone--33-.png"
+    },
+    {
+      "title": "Credibly Neutral AI Oracles",
+      "tldr": "Blockchain borrowed 'oracle' for a smaller job than Delphi's: getting real-world facts onchain. What neutrality requires when AI does the judging.",
+      "url": "https://blog.gensyn.ai/credibly-neutral-ai-oracles/",
+      "source": "Gensyn Blog",
+      "publishedAt": "2026-07-08",
+      "tag": "AI & Agents",
+      "image": "https://storage.ghost.io/c/df/04/df042a7f-9d9e-47ae-be46-06edef4d6a67/content/images/size/w1200/2026/07/pattern13-2.png"
+    }
+  ]
 }

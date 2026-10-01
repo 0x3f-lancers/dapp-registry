@@ -1,0 +1,53 @@
+{
+  "slug": "palmera",
+  "name": "Palmera",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761014/dapp-store-logos/palmera.jpg",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Multisig Wallets"
+  ],
+  "chains": [
+    "Hyperliquid"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Palmera provides multisig smart account infrastructure for organisations running many Safes.",
+    "description": "Palmera builds and operates production multisig infrastructure on EVM chains, based on Safe smart accounts. It handles deterministic deployment of the Safe contracts on a new network, then activates the indexing and backend services those accounts need to function. Ecosystems can also take a white-label Safe-compatible interface with continuous maintenance included. Several networks use it to provide multisig support to their users, Hyperliquid among them.",
+    "meta": "Palmera provides multisig smart account infrastructure for organisations operating many Safes.",
+    "pageTitle": "Palmera - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://palmeradao.xyz/",
+    "twitter": "https://x.com/palmera_dao"
+  },
+  "relations": {
+    "alternatives": [
+      "den",
+      "hypersig",
+      "gnosis-safe"
+    ],
+    "related": [
+      "safe",
+      "backpack",
+      "fordefi"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Using the Safe Transaction Builder",
+      "tldr": "A step-by-step guide to batching Safe wallet actions into one atomic transaction for teams and treasuries.",
+      "url": "https://www.palmeradao.xyz/blog/how-to-use-safe-transaction-builder/",
+      "source": "Palmera",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "MPC and Multisig for Institutions",
+      "tldr": "Explains why institutional custody may use both MPC key management and multisig smart accounts rather than choosing one.",
+      "url": "https://www.palmeradao.xyz/blog/mpc-vs-multisig-institutional-blockchain-infrastructure-needs-both/",
+      "source": "Palmera",
+      "tag": "Security"
+    }
+  ]
+}

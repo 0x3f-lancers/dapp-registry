@@ -1,0 +1,53 @@
+{
+  "slug": "strato-nexus",
+  "name": "STRATO",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761076/dapp-store-logos/strato-nexus.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Robinhood Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "STRATO is a precious-metals-backed DeFi platform with bridging and stablecoin borrowing.",
+    "description": "STRATO is a chain where tokenized gold and silver, backed one-to-one by physical reserves held in New York vaults and audited monthly, sit alongside major crypto assets. Holders borrow USDST against gold, silver, BTC, ETH and other collateral at up to 80 percent LTV without selling the position. Metal holdings are redeemable for the physical asset. Gas costs around one cent per transaction, bridging from Ethereum comes with 25 free transaction vouchers, and the contracts were audited by Consensys Diligence.",
+    "meta": "STRATO lets holders borrow USDST against tokenized gold and silver backed by vaulted physical reserves, plus BTC and ETH, at up to 80 percent LTV.",
+    "pageTitle": "STRATO - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://strato.nexus/",
+    "twitter": "https://x.com/strato_net"
+  },
+  "relations": {
+    "alternatives": [
+      "layerzero",
+      "omnihub",
+      "symbiosis"
+    ],
+    "related": [
+      "allium",
+      "bubblemaps",
+      "chainlink"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Tokenized Gold Explained",
+      "tldr": "Introduces how gold ownership can be represented onchain and what holders should check about backing and redemption.",
+      "url": "https://strato.nexus/blog/what-is-tokenized-gold-a-plain-english-guide",
+      "source": "STRATO",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Bridging Tokenized Silver to Ethereum",
+      "tldr": "Explains how SILVST represents physical silver and how holders can bridge the token to trade on Ethereum.",
+      "url": "https://strato.nexus/blog/silvst-on-ethereum",
+      "source": "STRATO",
+      "tag": "Explainer"
+    }
+  ]
+}

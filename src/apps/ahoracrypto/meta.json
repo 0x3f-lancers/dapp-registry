@@ -1,0 +1,53 @@
+{
+  "slug": "ahoracrypto",
+  "name": "AhoraCrypto",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790760722/dapp-store-logos/ahoracrypto.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Fiat Onramps"
+  ],
+  "chains": [
+    "Monad"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "AhoraCrypto is a MiCA-licensed non-custodial onramp for buying 70+ cryptocurrencies.",
+    "description": "AhoraCrypto sells more than seventy cryptocurrencies directly into a buyer's own wallet and holds no customer balances. The service is MiCA licensed and authorized by Spain's CNMV, which lets it operate across the European Union. A purchase settles on-chain in under two minutes, and AhoraCrypto puts its user count above seven thousand.",
+    "meta": "Buy 70+ cryptocurrencies straight to your own wallet through a MiCA-licensed European onramp.",
+    "pageTitle": "AhoraCrypto - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ahoracrypto.com/",
+    "twitter": "https://x.com/AhoraCryptoCom"
+  },
+  "relations": {
+    "alternatives": [
+      "alchemy-pay",
+      "banxa",
+      "blink-cash"
+    ],
+    "related": [
+      "btc-direct",
+      "calm-treasury",
+      "coindisco"
+    ]
+  },
+  "resources": [
+    {
+      "title": "Pay With ETH or Stablecoins?",
+      "tldr": "Compares the practical tradeoffs of paying in volatile ETH versus dollar-linked stablecoins.",
+      "url": "https://ahoracrypto.com/en/resources/would-you-rather-pay-with-eth-or-stablecoins",
+      "source": "AhoraCrypto",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Bitget Exchange Hack Explained",
+      "tldr": "Reviews the reported Bitget exchange hack and what the incident illustrates about custody and exchange risk.",
+      "url": "https://ahoracrypto.com/en/resources/bitget-crypto-exchange-hit-by-390mn-hack",
+      "source": "AhoraCrypto",
+      "tag": "Security"
+    }
+  ]
+}

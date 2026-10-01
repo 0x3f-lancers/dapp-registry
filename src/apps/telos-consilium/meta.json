@@ -1,0 +1,53 @@
+{
+  "slug": "telos-consilium",
+  "name": "Telos Consilium",
+  "logoUrl": "https://res.cloudinary.com/lancers-technology/image/upload/v1790761088/dapp-store-logos/telos-consilium.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Plasma"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Swiss digital asset advisory running curated lending vaults, managed strategies and risk markets.",
+    "description": "Telos Consilium, founded in 2023 and based in Switzerland, sits between institutions and DeFi. It curates lending vaults for real-world and DeFi assets, setting collateral parameters and sourcing liquidity, builds risk infrastructure that lets asset managers price and transfer risk, and advises protocols on strategy, incentives and smart contracts. It has launched more than 20 products.",
+    "meta": "Telos Consilium curates lending vaults, builds risk markets and advises protocols from Switzerland.",
+    "pageTitle": "Telos Consilium - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://telosc.com/",
+    "twitter": "https://x.com/TelosConsilium"
+  },
+  "relations": {
+    "alternatives": [
+      "infinit",
+      "veno-finance",
+      "hyperwave"
+    ],
+    "related": [
+      "pooltogether",
+      "origin-dollar",
+      "blend-money"
+    ]
+  },
+  "resources": [
+    {
+      "title": "The Kinky Interest Rate Model",
+      "tldr": "Introduces Telos Consilium's interest rate curve and how its shape changes incentives as lending pool utilization rises.",
+      "url": "https://telosc.com/research/kinky-irm",
+      "source": "Telos Consilium",
+      "tag": "Research"
+    },
+    {
+      "title": "How Telos Evaluates Stablecoin Collateral",
+      "tldr": "A research guide to pricing stablecoin collateral through reserve quality, redemption access, liquidity, and risk haircuts.",
+      "url": "https://telosc.com/research/stables-pricing-guidelines",
+      "source": "Telos Consilium",
+      "tag": "Research"
+    }
+  ]
+}
