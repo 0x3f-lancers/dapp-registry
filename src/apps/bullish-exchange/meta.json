@@ -1,0 +1,38 @@
+{
+  "slug": "bullish-exchange",
+  "name": "Bullish",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/bullish-exchange.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Bullish runs a regulated, NYSE-listed exchange for institutions, mixing an order book with its own market-making engine.",
+    "description": "Bullish is built for professional and institutional traders. Its hybrid design pairs a central limit order book with an automated market maker the exchange runs itself, keeping spreads tight and depth steady even in volatile markets. Clients trade spot, margin and perpetual futures through the web, REST or FIX APIs. Bullish holds licences in Gibraltar, Germany and Hong Kong, among others, and also owns the news site CoinDesk. Bullish says no other crypto exchange is listed on the NYSE, and regulators including New York's NYDFS, Hong Kong's SFC, Germany's BaFin and Gibraltar's GFSC oversee it. Every market shares a single global order book, and margin is calculated across a client's whole portfolio of spot, options and futures positions. Bullish has also tokenized its own shares as BLSH.",
+    "meta": "Regulated institutional exchange with order book plus AMM liquidity, owner of CoinDesk. Explore Bullish on Lancers Web3 Explorer.",
+    "pageTitle": "Bullish - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.bullish.com/",
+    "twitter": "https://x.com/Bullish",
+    "docs": "https://docs.exchange.bullish.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "binance",
+      "bitget",
+      "kraken"
+    ],
+    "related": [
+      "fomo-family",
+      "gmgn",
+      "defined-fi"
+    ]
+  }
+}

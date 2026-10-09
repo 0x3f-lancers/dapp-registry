@@ -1,0 +1,39 @@
+{
+  "slug": "bob",
+  "name": "BOB",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/bob.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "BOB pairs Bitcoin security with the EVM in a hybrid layer 2, so people can swap, borrow and earn with their BTC.",
+    "description": "BOB calls itself the Bank of Bitcoin. It is built on the OP Stack as part of the Superchain and is moving toward Bitcoin-secured settlement, with native BTC bridging through BitVM. For users, the result is simple flows to swap, save, borrow and earn yield on bitcoin. For developers, it means deploying Solidity apps that can tap into Bitcoin liquidity. More than a hundred projects build on the network. BOB Gateway, its swap engine for native BTC, uses intents and RFQ quotes so users can move between bitcoin, stablecoins and wrapped BTC without a custodian. Partners include Anchorage, Babylon, Chainlink, Fireblocks and Uniswap.",
+    "meta": "Hybrid Bitcoin and EVM layer 2 for swapping, borrowing and earning yield on BTC. Explore BOB on Lancers Web3 Explorer.",
+    "pageTitle": "BOB - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gobob.xyz",
+    "twitter": "https://x.com/build_on_bob",
+    "docs": "https://docs.gobob.xyz/gateway"
+  },
+  "relations": {
+    "alternatives": [
+      "immutablex",
+      "rootstock",
+      "op-mainnet"
+    ],
+    "related": [
+      "ethereum",
+      "solana",
+      "polygon"
+    ]
+  }
+}

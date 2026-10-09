@@ -1,0 +1,42 @@
+{
+  "slug": "vesper",
+  "name": "Vesper",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/vesper.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "Polygon",
+    "OP Mainnet",
+    "Base"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Deposit ETH, BTC or stablecoins into Vesper pools and let audited DeFi strategies compound the yield for you.",
+    "description": "Vesper hides the work of yield farming behind simple pools. Pick an asset such as ETH, wrapped BTC or a stablecoin, deposit it, and Vesper spreads the funds across lending and liquidity strategies that compound returns. It has passed more than 50 audits and runs dozens of pools on Ethereum, Avalanche, Polygon, Optimism and Base. Partners can integrate with Vesper to boost yields or create yield sources for their own assets, and its pools can be used as collateral on Metronome.",
+    "meta": "Deposit ETH, BTC or stablecoins into audited Vesper pools that compound DeFi yield. Explore Vesper on Lancers Web3 Explorer.",
+    "pageTitle": "Vesper - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://vesper.finance/",
+    "twitter": "https://x.com/VesperFi",
+    "docs": "https://docs.vesper.finance/"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-earn",
+      "sentora",
+      "beefy-finance"
+    ],
+    "related": [
+      "avant-protocol",
+      "yield-protocol",
+      "neutral-trade"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "rwa-xyz",
+  "name": "RWA.xyz",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/rwa-xyz-v2.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "Base",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "RWA.xyz tracks the tokenized real-world asset market, from Treasuries and private credit to stablecoins and funds, across chains.",
+    "description": "RWA.xyz has become a standard reference for the size of the tokenized asset market. It gathers and standardises data on tokenized Treasuries, private credit, bonds, commodities, institutional funds and stablecoins from issuers on many chains, and checks much of it directly with those issuers. Investors, protocols, regulators and journalists use its dashboards to follow market size, issuers and performance. It calls itself the registry for tokenized real-world assets, with an asset screener and monitor, an enterprise API and an MCP server, and it lets issuers register their own assets.",
+    "meta": "Analytics on tokenized Treasuries, private credit, funds and stablecoins across chains. Explore RWA.xyz on Lancers Web3 Explorer.",
+    "pageTitle": "RWA.xyz - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.rwa.xyz/",
+    "twitter": "https://x.com/RWA_xyz",
+    "docs": "https://docs.rwa.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "deepsnitch-ai",
+      "dex-screener",
+      "coinglass"
+    ],
+    "related": [
+      "base-bridge",
+      "coinmarketcap-api",
+      "coingecko-api"
+    ]
+  }
+}

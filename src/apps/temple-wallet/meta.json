@@ -1,0 +1,37 @@
+{
+  "slug": "temple-wallet",
+  "name": "Temple Wallet",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/temple-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Temple is an open-source wallet for Tezos, Etherlink and EVM chains, with swaps, staking, NFTs and rewards.",
+    "description": "Temple Wallet is one of the main wallets for the Tezos ecosystem and also supports Etherlink and other EVM networks. Users manage several accounts, swap and stake tokens, store NFTs and connect to dapps. Rewards programmes pay TKEY and USDt cashback. You can use it in the browser or on iPhone and Android, its code is public and audited, and Ledger devices are supported. One install can hold several wallets across Tezos and EVM networks, and users can filter which networks and tokens appear and disconnect dapps they no longer trust.",
+    "meta": "Open-source Tezos and EVM wallet with swaps, staking, NFTs, Ledger support and rewards. Explore Temple Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "Temple Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.templewallet.com/",
+    "twitter": "https://x.com/TempleWallet"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "trezor",
+      "ledger"
+    ]
+  }
+}

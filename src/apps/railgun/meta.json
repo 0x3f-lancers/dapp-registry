@@ -1,0 +1,40 @@
+{
+  "slug": "railgun",
+  "name": "Railgun",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/railgun.jpg",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Transaction Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Polygon",
+    "Arbitrum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Railgun uses zero-knowledge proofs to let you hold, send and use DeFi privately on Ethereum, Arbitrum, Polygon and BNB Chain.",
+    "description": "Railgun works directly on the chains people already use, with no separate network or bridge. Tokens are shielded into a private 0zk balance. From there, transfers and even DeFi swaps happen through zero-knowledge proofs, so balances and counterparties stay hidden. Private Proofs of Innocence help keep funds from known exploits out of the privacy pool. Wallets like Railway integrate Railgun through its SDK. Users can share a read-only viewing key to prove where funds came from, and RAIL holders stake to secure the protocol and earn rewards. There are no admin keys and no separate chain.",
+    "meta": "Shield tokens and use DeFi privately with zero-knowledge proofs on Ethereum and major EVM chains. Explore Railgun on Lancers Web3 Explorer.",
+    "pageTitle": "Railgun - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://railgun.org/",
+    "twitter": "https://x.com/RAILGUN_Project"
+  },
+  "relations": {
+    "alternatives": [
+      "decent",
+      "enso",
+      "multisender"
+    ],
+    "related": [
+      "fiat24",
+      "coinflow",
+      "bulla-network"
+    ]
+  }
+}

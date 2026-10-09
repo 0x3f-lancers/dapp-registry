@@ -1,0 +1,38 @@
+{
+  "slug": "iota",
+  "name": "IOTA",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/iota.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "IOTA runs Move smart contracts on its layer 1, adds an EVM layer 2 and ships built-in tools for identity and tokenized trade.",
+    "description": "IOTA rebuilt its network around Move smart contracts and delegated proof of stake, and it also runs IOTA EVM for Solidity developers. Identity, tokenized assets and notarizing documents are handled by modules built into the chain itself. Its main focus today is global trade and supply chains: through the TWIN initiative, IOTA provides neutral infrastructure for sharing trade documents and verifying goods across borders. Its manifesto frames the network as public infrastructure for putting world trade onchain, and the IOTA Integration Stack bundles identity, notarization and tokenization tools for that purpose.",
+    "meta": "Move-based layer 1 with an EVM layer 2, focused on identity, tokenization and trade. Explore IOTA on Lancers Web3 Explorer.",
+    "pageTitle": "IOTA - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.iota.org/",
+    "twitter": "https://x.com/iota",
+    "docs": "https://docs.iota.org/about-iota/iota-wallet/how-to/stake"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

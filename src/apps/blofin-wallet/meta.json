@@ -1,0 +1,45 @@
+{
+  "slug": "blofin-wallet",
+  "name": "BloFin Wallet",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/blofin-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "BloFin's self-custody wallet signs in with a passkey, pays gas in stablecoins and spends through a built-in card.",
+    "description": "BloFin Wallet is the onchain companion to the BloFin exchange, but the keys stay with the user. Instead of writing down a seed phrase, you sign in with a passkey. Swaps and bridges can pay gas in USDC or USDT, so you do not need the native token of every chain. Idle stablecoins can earn yield, and a linked Visa or Mastercard spends straight from the wallet. It covers Ethereum, the major L2s, BNB Chain, Avalanche, Polygon, Solana and Tron.",
+    "meta": "Passkey self-custody wallet that pays gas in stablecoins and spends through a linked card. Explore BloFin Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "BloFin Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://wallet.blofin.com/",
+    "twitter": "https://x.com/BloFinWallet"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "blofin",
+      "binance",
+      "holdstation"
+    ]
+  }
+}

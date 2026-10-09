@@ -1,0 +1,38 @@
+{
+  "slug": "justlend",
+  "name": "JustLend",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/justlend.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Tron",
+    "Aptos"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "JustLend DAO is the largest lending market on TRON, where users supply and borrow TRX, USDT, USDD and other assets.",
+    "description": "JustLend was the first official lending platform on TRON and follows a design similar to Compound. Each asset has its own money market, where supply and borrow rates move with utilization. Users deposit TRX, USDT, USDD or other TRON tokens to earn interest, or borrow against them. JST holders govern the protocol and share in its revenue. JustLend sits next to other JUST DAO products such as the USDD stablecoin. It now runs two lending markets: SBM V1 with cross-collateral and SBM V2 with isolated collateral. Users can also stake TRX for voting rewards and rent energy at low prices to cut TRON transfer fees.",
+    "meta": "TRON's main lending market for supplying and borrowing TRX, USDT and USDD at algorithmic rates. Explore JustLend on Lancers Web3 Explorer.",
+    "pageTitle": "JustLend - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://justlend.org/",
+    "twitter": "https://x.com/DeFi_JUST"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "morpho",
+      "compound"
+    ],
+    "related": [
+      "rhea-finance",
+      "across",
+      "compound-blue"
+    ]
+  }
+}

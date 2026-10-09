@@ -1,0 +1,43 @@
+{
+  "slug": "brave-wallet",
+  "name": "Brave Wallet",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/brave-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Base",
+    "BNB Chain",
+    "Celo",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Built straight into the Brave browser, Brave Wallet holds crypto across many chains without needing an extension.",
+    "description": "Because Brave Wallet ships inside the browser instead of as an add-on, it avoids the fake-extension scams that target other wallets. It holds tokens and NFTs on Bitcoin, Ethereum and EVM networks, Solana, Cardano and Filecoin. Desktop users can send shielded Zcash. Cross-chain swaps route through NEAR Intents, and Ledger or Trezor devices can be connected for cold storage. Users switch it on in the browser settings or toolbar, and it shares the same privacy focus as the rest of Brave, which blocks ads and trackers by default.",
+    "meta": "Multichain wallet built into the Brave browser, with hardware wallet support and cross-chain swaps. Explore Brave Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "Brave Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://brave.com/wallet/",
+    "twitter": "https://x.com/brave"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "coinbase-wallet",
+      "metamask"
+    ],
+    "related": [
+      "binance",
+      "holdstation",
+      "native"
+    ]
+  }
+}

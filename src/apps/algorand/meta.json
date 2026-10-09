@@ -1,0 +1,37 @@
+{
+  "slug": "algorand",
+  "name": "Algorand",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/algorand.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Blocks on Algorand finalize in seconds and never fork, thanks to a Pure Proof-of-Stake design open to every ALGO holder.",
+    "description": "Algorand lets any ALGO holder take part in consensus through its Pure Proof-of-Stake design, and a block is final the moment it is written. Smart contracts run on the Algorand Virtual Machine and can be written in TEAL or Python. Tokens are issued as native Algorand Standard Assets rather than contracts, and several transfers can be grouped so they all succeed or all fail. State proofs let other chains verify Algorand activity. Today the foundation points to real-world uses such as aid payments, data traceability, digital money and tokenization, and its AlgoKit toolset is aimed at developers new to the chain. Holders can earn rewards for staking ALGO or running a node.",
+    "meta": "Layer 1 with instant finality, native tokens and atomic transfers, secured by Pure Proof-of-Stake. Explore Algorand on Lancers Web3 Explorer.",
+    "pageTitle": "Algorand - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://algorand.co/",
+    "twitter": "https://x.com/AlgoFoundation"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "oortech",
+      "saakuru",
+      "aioz-w3s"
+    ]
+  }
+}

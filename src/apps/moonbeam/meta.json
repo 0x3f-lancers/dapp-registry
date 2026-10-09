@@ -1,0 +1,37 @@
+{
+  "slug": "moonbeam",
+  "name": "Moonbeam",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/moonbeam.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Moonbeam"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Moonbeam began as Polkadot's EVM-compatible parachain and is now repositioning as a settlement network for AI agents on Base.",
+    "description": "Moonbeam made its name as the Polkadot parachain where Solidity contracts and Ethereum tools worked unchanged, with cross-chain messaging over XCM and apps such as StellaSwap and Beamswap paying gas in GLMR. The project has since shifted toward AI. Its newer pitch is a network on Base where agents discover each other, agree on terms and settle jobs onchain. Payments are held in escrow, checked against proof and closed with a public receipt. In the new design, jobs are graded by bonded evaluators against the evidence before payment is released, and builders connect through an SDK and adapters. The team describes the change as growing from a single Polkadot slot into a whole network.",
+    "meta": "Former Polkadot EVM parachain turning into an onchain settlement network for AI agents. Explore Moonbeam on Lancers Web3 Explorer.",
+    "pageTitle": "Moonbeam - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://moonbeam.network/",
+    "twitter": "https://x.com/MoonbeamNetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "bnb-chain"
+    ],
+    "related": [
+      "lido",
+      "axelar",
+      "across"
+    ]
+  }
+}

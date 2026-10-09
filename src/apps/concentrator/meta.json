@@ -1,0 +1,38 @@
+{
+  "slug": "concentrator",
+  "name": "Concentrator",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/concentrator.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Concentrator from AladdinDAO claims and reinvests rewards for Curve, Convex, Frax and Stake DAO positions automatically.",
+    "description": "Farming on Curve and Convex means claiming rewards, swapping them and redepositing, again and again. Concentrator does that work for you. You deposit Curve LP tokens or assets like cvxFXN and sdPENDLE, and its Compounder and Harvester vaults claim, sell and reinvest on a schedule. The result is a position that grows without manual upkeep. Compounders such as aFXN and asdPENDLE auto-compound their underlying tokens, while Harvesters route farming rewards straight into those Compounders. AladdinDAO also builds CLever and the f(x) Protocol.",
+    "meta": "Auto-compounding vaults that harvest and reinvest Curve, Convex and Stake DAO rewards. Explore Concentrator on Lancers Web3 Explorer.",
+    "pageTitle": "Concentrator - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://concentrator.aladdin.club/",
+    "twitter": "https://x.com/0xconcentrator",
+    "docs": "https://docs.aladdin.club/"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-earn",
+      "sentora",
+      "yearn"
+    ],
+    "related": [
+      "avant-protocol",
+      "yield-protocol",
+      "neutral-trade"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "nowpayments",
+  "name": "NOWPayments",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/nowpayments-v2.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Aptos",
+    "Ethereum",
+    "Bitcoin",
+    "Tron",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Accept 300+ cryptocurrencies through NOWPayments, a non-custodial gateway that pays straight into the merchant's wallet.",
+    "description": "NOWPayments supports one of the longest lists of coins among payment processors. Merchants add it through e-commerce plugins, hosted checkout pages, invoices, donation widgets or the API, and payments settle directly to the merchant's own wallet. Optional auto-conversion lets businesses receive stablecoins or another asset, whichever coin the customer used. It also offers subscriptions, a point-of-sale tool, white-label checkout and zero-fee mass payouts powered by ChangeNOW, with ready-made setups for e-commerce, gaming, SaaS and payroll.",
+    "meta": "Non-custodial gateway for accepting 300+ cryptocurrencies through plugins, invoices or an API. Explore NOWPayments on Lancers Web3 Explorer.",
+    "pageTitle": "NOWPayments - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nowpayments.io/",
+    "twitter": "https://x.com/NOWPayments_io"
+  },
+  "relations": {
+    "alternatives": [
+      "base-pay-desk",
+      "bitrefill",
+      "coingate"
+    ],
+    "related": [
+      "cold-storage-plugin",
+      "multi-owner-plugin",
+      "multisig-plugin"
+    ]
+  }
+}

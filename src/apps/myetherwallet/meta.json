@@ -1,0 +1,39 @@
+{
+  "slug": "myetherwallet",
+  "name": "MyEtherWallet",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675705/dapp-store/dapp-logos/myEtherWallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Since 2015, just after Ethereum launched, MyEtherWallet has offered an open-source, self-custody way to use Ethereum.",
+    "description": "MyEtherWallet, usually called MEW, appeared a few weeks after Ethereum went live and was for years the main way people created Ethereum wallets. It is open source and non-custodial, so keys stay with the user. Through the web interface and the MEW mobile app, people buy and swap crypto, stake ETH, manage NFTs and connect to dapps. Newer features include tokenized stocks and other real-world assets. MEW screens wallet addresses and blocks access from sanctioned jurisdictions to meet its regulatory obligations.",
+    "meta": "Open-source Ethereum wallet since 2015 for swaps, staking, NFTs and tokenized assets. Explore MyEtherWallet on Lancers Web3 Explorer.",
+    "pageTitle": "MyEtherWallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://myetherwallet.com/",
+    "twitter": "https://x.com/myetherwallet"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "trezor",
+      "ledger"
+    ]
+  }
+}

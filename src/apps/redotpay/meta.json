@@ -1,0 +1,43 @@
+{
+  "slug": "redotpay",
+  "name": "RedotPay",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/redotpay-v2.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Credit Cards"
+  ],
+  "chains": [
+    "Solana",
+    "Ethereum",
+    "BNB Chain",
+    "Polygon",
+    "Arbitrum",
+    "Tron",
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Spend BTC, ETH, SOL and stablecoins anywhere Visa is accepted with RedotPay's crypto cards and payments app.",
+    "description": "RedotPay turns crypto balances into everyday spending. Users top up with stablecoins or major coins, then pay with virtual or physical Visa cards at a vast number of merchants worldwide, including through a dedicated Solana card. The app also handles cross-border transfers, P2P trading and multi-currency balances. Deposits are accepted on Solana, Ethereum, BNB Chain, Tron, Polygon, Arbitrum and Bitcoin. Beyond the card, the app now supports scan-to-pay, mobile top-ups, credit, swaps and an earn product, with a separate RedotPay Pro tier and a business offering.",
+    "meta": "Spend crypto and stablecoins with Visa cards, plus transfers and P2P trading in one app. Explore RedotPay on Lancers Web3 Explorer.",
+    "pageTitle": "RedotPay - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.redotpay.com/",
+    "twitter": "https://x.com/RedotPay"
+  },
+  "relations": {
+    "alternatives": [
+      "wirex",
+      "plasma-one",
+      "reap"
+    ],
+    "related": [
+      "cold-storage-plugin",
+      "multi-owner-plugin",
+      "multisig-plugin"
+    ]
+  }
+}

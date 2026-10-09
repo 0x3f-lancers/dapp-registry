@@ -1,0 +1,38 @@
+{
+  "slug": "tether-gold",
+  "name": "Tether Gold",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/tether-gold.png",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Tokenized commodities RWAs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Tether Gold (XAUt) is a token from Tether where each unit represents one troy ounce of physical gold stored in Swiss vaults.",
+    "description": "XAUt gives onchain ownership of real gold bars. Each token is backed by allocated gold held in vaults in Switzerland, and holders can look up the specific bar behind their tokens. It moves like any other token, so it can be sent instantly, held in a wallet or used in DeFi, without the cost of shipping and storing physical bullion. XAUt is issued on Ethereum and TRON. Holders can enter their address on the site to see the exact gold allocated to them, and Tether publishes reserve reports for the token.",
+    "meta": "Tether's gold token, each unit backed by one troy ounce of allocated gold in Swiss vaults. Explore Tether Gold on Lancers Web3 Explorer.",
+    "pageTitle": "Tether Gold - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://gold.tether.to/",
+    "twitter": "https://x.com/tethergold"
+  },
+  "relations": {
+    "alternatives": [
+      "paxos",
+      "afi-protocol",
+      "joinn"
+    ],
+    "related": [
+      "tether",
+      "ondo",
+      "ondo-finance"
+    ]
+  }
+}

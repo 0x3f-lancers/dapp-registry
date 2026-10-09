@@ -1,0 +1,38 @@
+{
+  "slug": "obol",
+  "name": "Obol",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/obol.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Obol builds Distributed Validators, which let several operators jointly run one Ethereum validator so a single failure does not take it down.",
+    "description": "A normal Ethereum validator runs on one machine, so one outage or bug can cause downtime or slashing. With Obol, a group of operators shares a single validator using different clients and hardware, and it keeps working even if some of them drop out. Staking protocols, institutions and home stakers use the technology to lower risk and improve uptime. EigenLayer and Symbiotic are among its partners. Pantera Capital has published an investment thesis on Obol, which presents itself as foundational infrastructure for an ever-growing Ethereum economy.",
+    "meta": "Distributed Validator Technology that spreads one Ethereum validator across several operators. Explore Obol on Lancers Web3 Explorer.",
+    "pageTitle": "Obol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://obol.org/",
+    "twitter": "https://x.com/Obol_Collective",
+    "docs": "https://docs.obol.org/adv/security/overview"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "etherfi",
+      "lido"
+    ],
+    "related": [
+      "lista-dao",
+      "bitfi",
+      "across"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "lightspark",
+  "name": "Lightspark",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/lightspark.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Lightspark provides Bitcoin and Lightning payment infrastructure, used by Coinbase and fintechs to move money in real time.",
+    "description": "Lightspark was founded by David Marcus, who previously led PayPal. Its Grid API lets a company launch accounts, payments, cards and stablecoins under its own brand, with local payment rails in dozens of countries and instant settlement. It also builds Spark, a Bitcoin layer 2 for self-custodial wallets, and connects apps to the Lightning Network. Coinbase routes its Lightning payments through Lightspark. Its Grid platform claims about two to five days to go live and 99.99 percent historical uptime, and covers payouts, ramps, P2P transfers and cards in one API.",
+    "meta": "Bitcoin and Lightning payment rails for global accounts and instant settlement, used by Coinbase. Explore Lightspark on Lancers Web3 Explorer.",
+    "pageTitle": "Lightspark - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.lightspark.com/",
+    "twitter": "https://x.com/lightspark",
+    "docs": "https://docs.lightspark.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "base-pay-desk",
+      "bitrefill",
+      "nowpayments"
+    ],
+    "related": [
+      "cold-storage-plugin",
+      "multi-owner-plugin",
+      "multisig-plugin"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "ink",
+  "name": "Ink",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/ink.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Ink is Kraken's Ethereum layer 2, built on the OP Stack as part of the Optimism Superchain and aimed at DeFi.",
+    "description": "Ink is Kraken's move onchain. It is an OP Stack rollup that settles to Ethereum, with sub-second blocks and fees well under a cent. As a Superchain member, it shares bridging and standards with Base, OP Mainnet and other OP Stack chains. Standard EVM tooling works for deployment, and Kraken's exchange gives users an easy way to bring cash in and take it back out. Kraken launched Ink on October 24, 2024. Apps built for it include Nado, a CLOB DEX with unified margin from the Kraken team, and Tydro, a lending protocol powered by Aave.",
+    "meta": "Kraken's OP Stack layer 2 for DeFi, with fast blocks, low fees and Superchain interoperability. Explore Ink on Lancers Web3 Explorer.",
+    "pageTitle": "Ink - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://inkonchain.com/",
+    "twitter": "https://x.com/inkonchain"
+  },
+  "relations": {
+    "alternatives": [
+      "immutablex",
+      "op-mainnet",
+      "mantle"
+    ],
+    "related": [
+      "saakuru",
+      "yey-technologies",
+      "cero-network"
+    ]
+  }
+}

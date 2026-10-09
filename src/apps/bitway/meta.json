@@ -1,0 +1,37 @@
+{
+  "slug": "bitway",
+  "name": "Bitway",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/bitway.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Bitway's BNB Chain vaults put USDT and USDC to work in market-neutral basis trades on regulated exchanges.",
+    "description": "Bitway takes stablecoin deposits on BNB Chain and issues vault tokens such as bwUSDT in return. Most of the capital is sent through custodial accounts to regulated exchanges, where it runs delta-neutral basis trades. Depositors earn the strategy's yield plus BW Points, and flash unstaking lets them exit without waiting out a withdrawal queue. The current Core Alpha strategy targets a yield of around ten percent a year, and unstaking through the flash option carries no fee.",
+    "meta": "Stablecoin vaults on BNB Chain earning from basis trades on regulated exchanges, with instant exits. Explore Bitway on Lancers Web3 Explorer.",
+    "pageTitle": "Bitway - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bitway.com/",
+    "twitter": "https://x.com/BitwayOfficial"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-earn",
+      "bitfi",
+      "kpk"
+    ],
+    "related": [
+      "earnpark",
+      "clip-finance",
+      "morfi"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "sun-io",
+  "name": "SUN",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/sun.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "SUN is TRON's main DeFi hub, running the SunSwap DEX, the SunPump meme launchpad and the module that keeps USDD on its peg.",
+    "description": "SUN brings together several of TRON's core DeFi products. SunSwap is the network's largest AMM, where users swap tokens and provide liquidity for rewards. SunPump lets anyone launch a meme token on a bonding curve, similar to pump.fun on Solana. The PSM module swaps USDD one to one with other dollar stablecoins to hold its peg. The SUN token is used for staking and governance. Its products now also include SunSwap V4, SunCurve for stablecoin trading, SunX, SunBoost meme farming and a SUN DAO for governance.",
+    "meta": "TRON DeFi hub running SunSwap, the SunPump launchpad and USDD's peg stability module. Explore SUN on Lancers Web3 Explorer.",
+    "pageTitle": "SUN - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sun.io/",
+    "twitter": "https://x.com/OfficialSUNio"
+  },
+  "relations": {
+    "alternatives": [
+      "morfi",
+      "pump-fun",
+      "jupiter"
+    ],
+    "related": [
+      "lighter",
+      "edgex",
+      "aster-dex"
+    ]
+  }
+}

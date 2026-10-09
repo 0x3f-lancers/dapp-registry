@@ -1,0 +1,39 @@
+{
+  "slug": "superstate",
+  "name": "Superstate",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/superstate.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Tokenized bonds RWAs"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Superstate, founded by Compound creator Robert Leshner, issues tokenized funds such as USTB and USCC and lets companies issue tokenized stock.",
+    "description": "Superstate builds regulated investment products that live onchain. USTB holds short-term US Treasuries, while USCC runs a crypto carry strategy that earns from the basis between spot and futures. Through Opening Bell, public companies can issue their shares as tokens and raise capital onchain. The funds use BNY Mellon as custodian, are audited by EY, and run on Ethereum, Solana and Plume. Its FundOS platform lets managers tokenize private funds, mutual funds and ETFs, while wallets and exchanges can offer Superstate assets to their own users through an onboarding API.",
+    "meta": "Tokenized Treasury and carry funds plus onchain public stock issuance from Robert Leshner's firm. Explore Superstate on Lancers Web3 Explorer.",
+    "pageTitle": "Superstate - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://superstate.com/",
+    "twitter": "https://x.com/SuperstateInc",
+    "docs": "https://docs.superstate.com"
+  },
+  "relations": {
+    "alternatives": [
+      "ondo-finance",
+      "ondo",
+      "mantle-index-four-fund"
+    ],
+    "related": [
+      "gomining",
+      "alpaca-markets",
+      "tether"
+    ]
+  }
+}

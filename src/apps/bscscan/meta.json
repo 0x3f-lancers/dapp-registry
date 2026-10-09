@@ -1,0 +1,37 @@
+{
+  "slug": "bscscan",
+  "name": "BscScan",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/bscscan-v2.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Look up any BNB Smart Chain transaction, wallet or contract on BscScan, the chain explorer built by the Etherscan team.",
+    "description": "BscScan is where most people look up a BNB Chain transaction, wallet or token. It shows verified contract source code and lets you call read and write functions from the browser. It also tracks token transfers, holder lists and validator activity. Its public API is used by wallets, portfolio trackers and dashboards. Anyone who has used Etherscan will recognise the layout, because the same team built both. Validators and their activity can be searched alongside transactions, addresses and tokens.",
+    "meta": "Search BNB Smart Chain transactions, contracts and tokens on the Etherscan team's explorer. Explore BscScan on Lancers Web3 Explorer.",
+    "pageTitle": "BscScan - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://bscscan.com/",
+    "twitter": "https://x.com/bscscan"
+  },
+  "relations": {
+    "alternatives": [
+      "etherscan",
+      "optimism-block-explorer",
+      "sepolia-testnet-block-explorer"
+    ],
+    "related": [
+      "jiffyscan",
+      "playgrounds",
+      "op-stack"
+    ]
+  }
+}

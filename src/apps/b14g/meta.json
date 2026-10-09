@@ -1,0 +1,37 @@
+{
+  "slug": "b14g",
+  "name": "b14g",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/b14g.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "b14g lets Bitcoin holders restake native BTC to secure proof-of-stake networks without wrapping it or handing over custody.",
+    "description": "b14g is a dual-staking layer for BTCFi. Bitcoin stays native and in the holder's control, while it is committed as security for proof-of-stake chains and apps that need it. Each network pairs the restaked BTC with its own token, so the two share both the risk and the rewards. Holders earn yield from real network activity, and the protocol describes the design as no-loss restaking. The team stresses that the model adds security without wrapping BTC, without custody risk and without minting new inflationary tokens.",
+    "meta": "Restake native Bitcoin to secure PoS chains and earn yield, with no wrapping and no custody transfer. Explore b14g on Lancers Web3 Explorer.",
+    "pageTitle": "b14g - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.b14g.xyz/",
+    "twitter": "https://x.com/b14g_network"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "etherfi",
+      "lido"
+    ],
+    "related": [
+      "lista-dao",
+      "suilend",
+      "solend"
+    ]
+  }
+}

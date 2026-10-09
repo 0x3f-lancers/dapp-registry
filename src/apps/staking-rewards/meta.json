@@ -1,0 +1,44 @@
+{
+  "slug": "staking-rewards",
+  "name": "Staking Rewards",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/staking-rewards.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Cosmos",
+    "Polkadot",
+    "Polygon",
+    "BNB Chain",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Staking Rewards rates and compares staking and onchain yield across 120+ assets and 90+ providers, and is now part of The Tie.",
+    "description": "Staking Rewards is a common first stop for anyone deciding where to stake. It tracks reward rates for a wide range of proof-of-stake assets, compares validators and providers on verified data, and gives risk-adjusted ratings. Institutions use its API and research reports, and the team runs the Staking Summit conferences. The platform is now part of the data company The Tie. Providers are graded from AAA to D on downside risk rather than headline yield, and the company is based in St. Gallen, Switzerland. It has tracked staking since 2018 and reports millions of users.",
+    "meta": "Independent ratings and reward data for staking across 120+ assets and 90+ providers. Explore Staking Rewards on Lancers Web3 Explorer.",
+    "pageTitle": "Staking Rewards - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.stakingrewards.com/",
+    "twitter": "https://x.com/StakingRewards",
+    "docs": "https://docs.stakingrewards.com/verified-provider-program"
+  },
+  "relations": {
+    "alternatives": [
+      "deepsnitch-ai",
+      "dex-screener",
+      "coinglass"
+    ],
+    "related": [
+      "base-bridge",
+      "coinmarketcap-api",
+      "coingecko-api"
+    ]
+  }
+}

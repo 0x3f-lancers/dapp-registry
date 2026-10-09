@@ -1,0 +1,39 @@
+{
+  "slug": "dropstab",
+  "name": "DropsTab",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675564/dapp-store/dapp-logos/DropsTab.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "DropsTab tracks crypto prices alongside the details most trackers skip: token unlocks, vesting schedules and fundraising rounds.",
+    "description": "DropsTab works as a regular market tracker with prices, charts, market caps and portfolios, but its strength is the extra context. For each project it shows upcoming token unlocks, vesting schedules, investors and fundraising history, which helps traders see supply pressure before it arrives. Portfolios can be shared publicly. The team also runs EtherDrops, a bot for onchain alerts. Newer sections track token buybacks, potential airdrops and VWAP signals, and the data is also available through the DropsTab API and the Drops Bot.",
+    "meta": "Crypto tracker with token unlock calendars, vesting data, fundraising rounds and portfolios. Explore DropsTab on Lancers Web3 Explorer.",
+    "pageTitle": "DropsTab - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://dropstab.com/",
+    "twitter": "https://x.com/Dropstab_com"
+  },
+  "relations": {
+    "alternatives": [
+      "deepsnitch-ai",
+      "dex-screener",
+      "coinglass"
+    ],
+    "related": [
+      "base-bridge",
+      "coinmarketcap-api",
+      "coingecko-api"
+    ]
+  }
+}

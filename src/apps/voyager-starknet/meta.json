@@ -1,0 +1,37 @@
+{
+  "slug": "voyager-starknet",
+  "name": "Voyager",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/voyager-starknet.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Starknet"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Nethermind runs Voyager, Starknet's main explorer, with contract inspection, RPC access and STRK staking.",
+    "description": "Voyager is where most people look up a Starknet transaction, contract or account. It decodes Cairo contracts, tracks network activity and shows token transfers, and users can stake STRK directly from it. Nethermind, a major Ethereum and Starknet infrastructure team, runs the explorer. Developers can query the same Starknet data for their own apps and analytics through Voyager's RPC and APIs. It also offers a Starknet API, an MCP server for AI tools and a staking dashboard alongside live network stats.",
+    "meta": "Nethermind's Starknet explorer for transactions and Cairo contracts, with STRK staking. Explore Voyager on Lancers Web3 Explorer.",
+    "pageTitle": "Voyager - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://voyager.online/",
+    "twitter": "https://x.com/0xvoyageronline"
+  },
+  "relations": {
+    "alternatives": [
+      "etherscan",
+      "optimism-block-explorer",
+      "sepolia-testnet-block-explorer"
+    ],
+    "related": [
+      "umn-blockchain",
+      "ut-blockchain",
+      "evm-toolkit"
+    ]
+  }
+}

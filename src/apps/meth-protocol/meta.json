@@ -1,0 +1,37 @@
+{
+  "slug": "meth-protocol",
+  "name": "mETH Protocol",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/meth-protocol.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "mETH Protocol is Mantle's Ethereum liquid staking and restaking protocol, issuing mETH and cmETH.",
+    "description": "Mantle built mETH Protocol to handle staking for the whole stack itself, from validators to restaking. Stakers deposit ETH and receive mETH, a token that rises in value as rewards build up. Upgrading to cmETH adds restaking yield from EigenLayer and Symbiotic. A buffer pool linked to Aave targets redemptions in about a day, much faster than the normal Ethereum exit queue, and the protocol reports no slashing to date. Small redemptions go through an instant buffer pool within minutes, while larger ones route through Aave's ETH market, and the protocol publishes proof of reserves.",
+    "meta": "Mantle-governed ETH liquid staking with mETH, restaking through cmETH and fast redemptions. Explore mETH Protocol on Lancers Web3 Explorer.",
+    "pageTitle": "mETH Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.methprotocol.xyz/",
+    "twitter": "https://x.com/mETHProtocol"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "etherfi",
+      "lido"
+    ],
+    "related": [
+      "lista-dao",
+      "bitfi",
+      "across"
+    ]
+  }
+}

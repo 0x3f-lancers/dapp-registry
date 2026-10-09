@@ -1,0 +1,38 @@
+{
+  "slug": "flow-wallet",
+  "name": "Flow Wallet",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/flow-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "The Flow Foundation's official wallet stores keys in your phone's Secure Enclave and covers network fees for you.",
+    "description": "Flow Wallet is built by the Flow Foundation for iOS, Android and Chrome. Keys are stored in the phone's Secure Enclave, and the wallet covers network fees, so sending and using apps costs the user nothing. It manages tokens and NFTs across both of Flow's environments, Cadence and Flow EVM, in one place. Users can stake FLOW for rewards and open ecosystem apps directly from the wallet. The Flow Foundation released it as an open-source reference wallet for the ecosystem, and accounts can be protected either with a recovery phrase or with hardware-grade security plus cloud and device backups.",
+    "meta": "Official Flow wallet with free transactions, Secure Enclave keys and FLOW staking. Explore Flow Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "Flow Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://wallet.flow.com/",
+    "twitter": "https://x.com/flow_blockchain",
+    "docs": "https://docs.wallet.flow.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "trezor",
+      "ledger"
+    ]
+  }
+}

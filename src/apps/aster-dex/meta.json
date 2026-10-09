@@ -1,0 +1,43 @@
+{
+  "slug": "aster-dex",
+  "name": "Aster DEX",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/aster-dex.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "BNB Chain",
+    "Ethereum",
+    "Solana",
+    "Arbitrum",
+    "Base",
+    "ZKsync"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Aster is a non-custodial perpetuals exchange where traders pick BNB Chain, Ethereum, Solana or Arbitrum and share one pool of liquidity.",
+    "description": "Astherus and APX Finance combined in 2024 to create Aster, and YZi Labs is its backer. Traders connect on whichever chain they already use and trade against pooled cross-chain liquidity, with no bridging step first. It has a Simple mode for quick one-click trades and a Pro mode with hidden limit orders and very high leverage. Markets include crypto and perpetuals on US stocks that settle in crypto. It has since grown beyond perps into stocks, forex, commodities and prediction markets, with a privacy mode that hides order sizes from other traders. Idle margin can earn through the USDF stablecoin, and the team is building Aster Chain, its own layer 1.",
+    "meta": "Cross-chain perp DEX with hidden orders, stock perps and both simple and pro trading modes. Explore Aster DEX on Lancers Web3 Explorer.",
+    "pageTitle": "Aster DEX - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.asterdex.com",
+    "twitter": "https://x.com/Aster_DEX",
+    "docs": "https://docs.asterdex.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperliquid",
+      "jupiter",
+      "apex-protocol"
+    ],
+    "related": [
+      "panoptic",
+      "woofi",
+      "bluefin"
+    ]
+  }
+}

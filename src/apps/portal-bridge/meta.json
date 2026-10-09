@@ -1,0 +1,45 @@
+{
+  "slug": "portal-bridge",
+  "name": "Portal Bridge",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/portal-bridge.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Multichain",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "BNB Chain",
+    "Celo",
+    "Ethereum",
+    "OP Mainnet",
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Portal is Wormhole's official bridge app for moving tokens and NFTs between Ethereum, Solana, Sui and 30+ other chains.",
+    "description": "Portal is the consumer front end for Wormhole token transfers. You pick a source and destination chain, and Portal handles the lock-and-mint or burn-and-mint flow behind the scenes, with each transfer verified by Wormhole's Guardian network. It supports USDC, ETH, SOL and over a hundred other tokens across EVM chains, Solana, Sui and Aptos. That saves stitching several bridges together. Transfers have no per-transfer caps, and NFTs can be bridged as well as tokens.",
+    "meta": "Wormhole's bridge app for moving tokens and NFTs across Ethereum, Solana, Sui and 30+ chains. Explore Portal Bridge on Lancers Web3 Explorer.",
+    "pageTitle": "Portal Bridge - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://portalbridge.com/",
+    "twitter": "https://x.com/portalbridge_"
+  },
+  "relations": {
+    "alternatives": [
+      "base-bridge",
+      "relay-link",
+      "across"
+    ],
+    "related": [
+      "bridge-xyz",
+      "axelar",
+      "veda"
+    ]
+  }
+}

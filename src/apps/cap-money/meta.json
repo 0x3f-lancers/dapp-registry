@@ -1,0 +1,37 @@
+{
+  "slug": "cap-money",
+  "name": "Cap",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/cap.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Cap issues cUSD, a dollar stablecoin, and stcUSD, a staked version that earns yield backed by underwriters and onchain guarantees.",
+    "description": "Cap is a credit platform on Ethereum. Users mint cUSD, then stake it as stcUSD to earn yield. The yield comes from operators who borrow the capital for their strategies, and restakers stand behind those operators as financial guarantors, so depositors are protected if a borrower fails. Its investors include the asset manager Franklin Templeton, trading firms GSR and Flow Traders, and Kraken Ventures. Cap describes itself as a three-sided market for USD yield, private credit and financial guarantees. Underwriters such as Renzo, Concrete and StakeStone put up capital and earn a premium for backing the loans.",
+    "meta": "Mint cUSD and stake it as stcUSD for yield backed by restaker guarantees on Ethereum. Explore Cap on Lancers Web3 Explorer.",
+    "pageTitle": "Cap - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cap.app/",
+    "twitter": "https://x.com/CapApp"
+  },
+  "relations": {
+    "alternatives": [
+      "makerdao-sky",
+      "resupply",
+      "saturn-credit"
+    ],
+    "related": [
+      "hypurrfi",
+      "hyperliquid",
+      "hype"
+    ]
+  }
+}

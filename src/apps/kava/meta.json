@@ -1,0 +1,37 @@
+{
+  "slug": "kava",
+  "name": "Kava",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/kava.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Kava runs an EVM chain and a Cosmos chain side by side on one Cosmos SDK network, linking the two worlds.",
+    "description": "Kava's co-chain design gives developers a choice. Solidity contracts deploy on the EVM side with Ethereum tools, while Cosmos modules run on the other side with IBC access. A translator module moves tokens between the two. KAVA secures the network through staking, and onchain incentive programmes reward developers based on usage. The project has lately put more weight on decentralized AI. The network has about 100 active validators, average transaction fees around a hundredth of a cent, and has processed billions of dollars in bridged asset transactions.",
+    "meta": "Cosmos SDK chain running EVM and Cosmos co-chains side by side, linked by a translator. Explore Kava on Lancers Web3 Explorer.",
+    "pageTitle": "Kava - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.kava.io/",
+    "twitter": "https://x.com/KAVA_CHAIN"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

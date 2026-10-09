@@ -1,0 +1,41 @@
+{
+  "slug": "airgap-wallet",
+  "name": "AirGap Wallet",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/airgap-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Cosmos",
+    "Ethereum",
+    "OP Mainnet",
+    "Polkadot"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "AirGap turns a spare phone into an offline cold wallet, with AirGap Wallet on your daily phone and AirGap Vault holding the keys offline.",
+    "description": "AirGap is a two-device setup from the Swiss company Papers AG. AirGap Vault runs on an old phone that never connects to any network and keeps the private keys there. AirGap Wallet on your everyday phone builds transactions, and the two apps pass them back and forth as QR codes, so the keys never touch the internet. The wallet supports Bitcoin, Ethereum, Tezos, Cosmos, Polkadot and more, with staking built in. The apps are fully open source and add extras such as BIP39 passphrases, social recovery and coin flip or dice roll entropy for generating a secret by hand. AirGap Vault can also sign for MetaMask.",
+    "meta": "Use a spare offline phone as a cold wallet, signing over QR codes with AirGap Vault. Explore AirGap Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "AirGap Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://airgap.it/",
+    "twitter": "https://x.com/AirGap_it"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "ledger",
+      "trezor"
+    ]
+  }
+}

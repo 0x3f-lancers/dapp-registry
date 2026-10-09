@@ -1,0 +1,38 @@
+{
+  "slug": "internet-computer",
+  "name": "Internet Computer",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/internet-computer.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "The Internet Computer is DFINITY's layer 1, where full web apps, including their front ends and data, run onchain as canister smart contracts.",
+    "description": "On the Internet Computer, a smart contract is called a canister, and it can serve web pages over HTTP, store large amounts of data and run long computations. That lets complete applications run with no cloud servers behind them, and apps like OpenChat are built that way. Through threshold cryptography, canisters can also sign transactions on Bitcoin and Ethereum directly. Canisters pay for computation in cycles, which are created from ICP and priced against the IMF's XDR, so card payments can be converted to cycles behind the scenes. DFINITY now pitches it as sovereign serverless cloud for AI-driven apps.",
+    "meta": "DFINITY's layer 1 that hosts full web apps onchain and signs transactions on other chains. Explore Internet Computer on Lancers Web3 Explorer.",
+    "pageTitle": "Internet Computer - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://internetcomputer.org/",
+    "twitter": "https://x.com/dfinity",
+    "docs": "https://docs.internetcomputer.org/languages/motoko/fundamentals/actors/data-persistence/"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "saakuru",
+      "aioz-w3s",
+      "immutablex"
+    ]
+  }
+}

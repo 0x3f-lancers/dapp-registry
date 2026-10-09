@@ -1,0 +1,38 @@
+{
+  "slug": "initia",
+  "name": "Initia",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/initia.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Initia ties app-specific rollups, called Minitias, into one network that shares liquidity, messaging and users.",
+    "description": "Initia's idea is that apps should run their own chains without being cut off from everyone else. Each app launches a Minitia rollup with the virtual machine it prefers, and Initia's layer 1 ties them together with shared liquidity, cross-rollup messaging and a common user experience. The design draws on Cosmos interoperability, with economic incentives that align the rollups and the base chain. Its Interwoven Stack makes the infrastructure choices for data availability, oracles and interoperability, and InitiaDEX uses enshrined liquidity so LP positions also help secure the network.",
+    "meta": "Layer 1 linking app-specific Minitia rollups with shared liquidity and messaging. Explore Initia on Lancers Web3 Explorer.",
+    "pageTitle": "Initia - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://initia.xyz/",
+    "twitter": "https://x.com/initia",
+    "docs": "https://docs.initia.xyz/"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "thorchain",
+  "name": "THORChain",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/thorchain.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "BNB Chain",
+    "Avalanche",
+    "Cosmos",
+    "Base",
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "THORChain swaps native BTC, ETH and other assets across chains directly, with no wrapped tokens or bridges.",
+    "description": "Most cross-chain swaps use wrapped tokens. THORChain avoids them by holding native assets in vaults on each supported chain, controlled by its validator network. A user sends real BTC and receives real ETH, ATOM or BNB in return. Liquidity providers deposit one side of a pool and earn swap fees and RUNE rewards. Many self-custody wallets and aggregators route their cross-chain swaps through THORChain behind the scenes. It now supports Monero swaps and has a second token, TCY, alongside RUNE. Developers integrate through an agent toolkit and XChainJS, and partners such as Rujira build on top of it.",
+    "meta": "Swap native Bitcoin, Ethereum and other assets across chains with no wrapping or bridges. Explore THORChain on Lancers Web3 Explorer.",
+    "pageTitle": "THORChain - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://thorchain.org/",
+    "twitter": "https://x.com/THORChain",
+    "docs": "https://docs.thorchain.org/"
+  },
+  "relations": {
+    "alternatives": [
+      "morfi",
+      "pancakeswap",
+      "bitcoincom"
+    ],
+    "related": [
+      "ring-exchange",
+      "move",
+      "across"
+    ]
+  }
+}

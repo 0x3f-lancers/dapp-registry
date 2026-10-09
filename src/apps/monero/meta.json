@@ -1,0 +1,37 @@
+{
+  "slug": "monero",
+  "name": "Monero",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/monero.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Every Monero transaction hides who sent it, who received it and how much moved, by default.",
+    "description": "Monero has focused on private payments since 2014. Ring signatures hide which output is being spent, stealth addresses keep the receiver's public address off the chain, and RingCT conceals amounts. These protections apply to every transaction, not only opt-in ones. Mining uses RandomX, which is tuned for ordinary CPUs to resist ASIC dominance. A small permanent tail emission keeps miners paid once the main emission is over. It is developed openly by a community of contributors, with a research lab, workgroups and community crowdfunding for new work.",
+    "meta": "Private-by-default proof-of-work currency with hidden senders, receivers and amounts. Explore Monero on Lancers Web3 Explorer.",
+    "pageTitle": "Monero - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.getmonero.org/",
+    "twitter": "https://x.com/monero"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "oortech",
+      "saakuru",
+      "aioz-w3s"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "current-finance",
+  "name": "Current",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/current.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Sui"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Current gives Sui users isolated lending pools for yield-bearing tokens, one-click looping and margin trading.",
+    "description": "Current is built for people holding yield-bearing tokens on Sui. Its lending market keeps each asset in an isolated risk pool with its parameters visible onchain. The Multiply tool uses flash loans to loop a deposit into a leveraged yield position in a single click. Margin trading against integrated DEX liquidity is available too. The project is backed by the Sui Foundation, with risk managed by Allez Labs. Its focus is tokenized real-world yield, and the protocol has been formally verified and audited by Asymptotic and MoveBit, with insurance cover from Nexus Mutual.",
+    "meta": "Isolated lending pools, one-click yield looping and margin trading for tokenized yield on Sui. Explore Current on Lancers Web3 Explorer.",
+    "pageTitle": "Current - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.current.finance/",
+    "twitter": "https://x.com/CurrentSUI"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "morpho",
+      "compound"
+    ],
+    "related": [
+      "rhea-finance",
+      "across",
+      "compound-blue"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "doublezero",
+  "name": "DoubleZero",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/doublezero.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "DoubleZero runs a private fibre network for Solana validators and a liquid staking token, dzSOL, that delegates to validators using it.",
+    "description": "DoubleZero was founded by Austin Federa, formerly head of strategy at Solana Labs. It provides dedicated fibre links so validators can exchange data with lower latency than the public internet allows. Its liquid staking pool issues dzSOL to anyone who stakes SOL and delegates that stake to validators on the network. Holders earn staking rewards and can still use dzSOL across Solana DeFi. The same fibre network now powers DoubleZero Edge, which sells low-latency market data, including uncapped Hyperliquid data, to trading firms.",
+    "meta": "Low-latency fibre network for Solana validators, plus dzSOL liquid staking that supports it. Explore DoubleZero on Lancers Web3 Explorer.",
+    "pageTitle": "DoubleZero - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://doublezero.xyz/",
+    "twitter": "https://x.com/doublezero"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "lido",
+      "etherfi"
+    ],
+    "related": [
+      "rockx",
+      "yield-xyz",
+      "across"
+    ]
+  }
+}

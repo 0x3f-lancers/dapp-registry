@@ -1,0 +1,40 @@
+{
+  "slug": "grove-finance",
+  "name": "Grove Finance",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/grove-finance.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Ethereum",
+    "Avalanche",
+    "Base"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Grove is the credit arm of the Sky ecosystem, putting stablecoin liquidity into institutional credit with partners like BlackRock and Apollo.",
+    "description": "Grove allocates Sky ecosystem capital into onchain credit. The Grove Allocator spreads non-custodial vault funds across strategies with rate limits and exposure caps. Grove Financing provides lending through Morpho, Aave and other venues. Through Grove Savings, anyone can put in USDS or USDC, get sUSDS back and collect the Sky Savings Rate, withdrawing whenever they like. Counterparties include BlackRock, Apollo, Centrifuge, Janus Henderson and Maple. Grove was incubated by Grove Labs under Sky ecosystem governance, has a GROVE token that can be staked, and runs a Seeds Program for early users.",
+    "meta": "Sky ecosystem credit layer routing stablecoins into institutional credit, plus no-lock sUSDS savings. Explore Grove Finance on Lancers Web3 Explorer.",
+    "pageTitle": "Grove Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://grove.finance/",
+    "twitter": "https://x.com/grovedotfinance",
+    "docs": "https://docs.grove.finance"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "morpho",
+      "compound"
+    ],
+    "related": [
+      "credit-cash",
+      "morfi",
+      "polymarket"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "osmosis-dex",
+  "name": "Osmosis",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/osmosis-dex.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Cosmos"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Swap IBC assets across more than a hundred connected chains on Osmosis, the main DEX of the Cosmos ecosystem.",
+    "description": "Osmosis was built as an appchain for trading in Cosmos and is still the main place to swap IBC tokens. Users trade assets from many connected chains, provide liquidity in concentrated pools and use partner apps for perps, margin and liquid staking from the same interface. OSMO holders govern the protocol, and the community has used that governance to experiment with fees, incentives and pool designs. It is connected to more than 140 networks through IBC and other integrations, and has handled tens of billions of dollars in trading volume.",
+    "meta": "Leading Cosmos DEX for swapping IBC assets, with concentrated liquidity and partner perps. Explore Osmosis on Lancers Web3 Explorer.",
+    "pageTitle": "Osmosis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://osmosis.zone/",
+    "twitter": "https://x.com/osmosis",
+    "docs": "https://docs.osmosis.zone/"
+  },
+  "relations": {
+    "alternatives": [
+      "morfi",
+      "pump-fun",
+      "jupiter"
+    ],
+    "related": [
+      "polymarket",
+      "hyperliquid",
+      "kalshi"
+    ]
+  }
+}

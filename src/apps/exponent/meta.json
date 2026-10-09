@@ -1,0 +1,38 @@
+{
+  "slug": "exponent",
+  "name": "Exponent",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/exponent.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "On Exponent, Solana users lock in fixed yields, hedge falling rates or trade leveraged views on where rates are heading.",
+    "description": "Exponent splits yield-bearing assets on Solana into principal and yield so each part can be traded on its own. Someone holding JitoSOL can sell the future yield and lock in a fixed return today. A trader who expects rates to rise can buy that yield with leverage. Markets run on both order books and concentrated liquidity pools, and automated vaults package common strategies for people who prefer not to trade. PT tokens such as PT-JitoSOL let holders lock a fixed rate for a set term, and developers can integrate its yield markets through Exponent's SDKs.",
+    "meta": "Trade and fix interest rates on Solana yield assets, or use vaults that automate yield strategies. Explore Exponent on Lancers Web3 Explorer.",
+    "pageTitle": "Exponent - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.exponent.finance/",
+    "twitter": "https://x.com/ExponentFinance",
+    "docs": "https://docs.exponent.finance"
+  },
+  "relations": {
+    "alternatives": [
+      "kamino-finance",
+      "starknet-earn",
+      "sentora"
+    ],
+    "related": [
+      "woofi",
+      "index-coop",
+      "origami-finance"
+    ]
+  }
+}

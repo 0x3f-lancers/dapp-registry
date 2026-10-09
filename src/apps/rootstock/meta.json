@@ -1,0 +1,37 @@
+{
+  "slug": "rootstock",
+  "name": "Rootstock",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/rootstock-v2.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Merge-mined with Bitcoin since 2018, Rootstock is the longest-running sidechain for EVM smart contracts on Bitcoin.",
+    "description": "Rootstock has run since 2018 and brings Ethereum-style smart contracts to Bitcoin. Miners secure it through merge mining, so a large share of Bitcoin's hash power also protects Rootstock. Users peg BTC into RBTC through the PowPeg federation and spend it in lending, DEX and other DeFi apps. Developers deploy Solidity contracts with the same tools they use on Ethereum. Apps such as Sushi, Beefy and Oku run on it, and assets can be bridged in from more than 20 chains through the PowPeg and Union bridges.",
+    "meta": "EVM-compatible Bitcoin sidechain secured by merge mining, live since 2018. Explore Rootstock on Lancers Web3 Explorer.",
+    "pageTitle": "Rootstock - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rootstock.io/",
+    "twitter": "https://x.com/rootstock_io"
+  },
+  "relations": {
+    "alternatives": [
+      "immutablex",
+      "op-mainnet",
+      "mantle"
+    ],
+    "related": [
+      "midas",
+      "mellow-protocol",
+      "ethereum"
+    ]
+  }
+}

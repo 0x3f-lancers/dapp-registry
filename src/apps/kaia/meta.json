@@ -1,0 +1,38 @@
+{
+  "slug": "kaia",
+  "name": "Kaia",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/kaia.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Kakao's Klaytn and LINE's Finschia merged into Kaia, an EVM layer 1 that reaches users directly through LINE messenger.",
+    "description": "Kaia was created in 2024 when the blockchains behind two Asian tech giants, Kakao and LINE, combined. It has one-second blocks, account abstraction and fee delegation, so apps can pay gas for their users. Its biggest advantage is distribution, since mini dapps reach users directly through LINE in Japan, Taiwan and Thailand. Kaia is now pushing into stablecoin settlement across Asia. The docs cover building LINE mini dapps with Unity and Cocos, a KRW stablecoin overview and an MEV auction SDK, and teams can apply for gas fee support for their users.",
+    "meta": "Klaytn and Finschia merged into one EVM chain with direct reach through LINE messenger. Explore Kaia on Lancers Web3 Explorer.",
+    "pageTitle": "Kaia - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.kaia.io/",
+    "twitter": "https://x.com/KaiaChain",
+    "docs": "https://docs.kaia.io/"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

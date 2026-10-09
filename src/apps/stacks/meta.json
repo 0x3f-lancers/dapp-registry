@@ -1,0 +1,38 @@
+{
+  "slug": "stacks",
+  "name": "Stacks",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/stacks.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Stacks brings smart contracts and BTC yield to Bitcoin, anchored with Proof of Transfer and home to sBTC.",
+    "description": "Stacks records its state on Bitcoin through a consensus method called Proof of Transfer, and STX holders who stack their tokens earn BTC. Smart contracts are written in Clarity, a language designed to be readable and predictable, and they are able to see what is happening on Bitcoin itself. The Nakamoto upgrade brought faster blocks and sBTC, a BTC-backed asset that lets bitcoin move into Stacks DeFi. Self-custodial bitcoin staking is now live, and developers build with Clarinet, a local toolkit for writing and testing Clarity contracts.",
+    "meta": "Bitcoin smart contract layer with Clarity, Proof of Transfer and BTC-backed sBTC. Explore Stacks on Lancers Web3 Explorer.",
+    "pageTitle": "Stacks - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.stacks.co/",
+    "twitter": "https://x.com/Stacks",
+    "docs": "https://docs.stacks.co"
+  },
+  "relations": {
+    "alternatives": [
+      "immutablex",
+      "rootstock",
+      "op-mainnet"
+    ],
+    "related": [
+      "saakuru",
+      "signal21",
+      "yey-technologies"
+    ]
+  }
+}

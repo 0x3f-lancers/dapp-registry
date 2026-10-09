@@ -1,0 +1,37 @@
+{
+  "slug": "canton-network",
+  "name": "Canton Network",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/canton-network.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Canton is a public blockchain with privacy built in, used by banks and asset managers to settle tokenized assets.",
+    "description": "Canton Network is designed for regulated finance, where firms cannot show every trade to every participant. Contracts are written in Daml, and each contract defines exactly which parties can see and act on its data. Banks can therefore move tokenized money, securities and collateral over common infrastructure without exposing the terms to outsiders. Validators are run by large financial institutions and market infrastructure providers. Digital Asset, the company behind Daml, has raised $135M to grow the network, and DTCC's tokenization service is being built to run on Canton.",
+    "meta": "Privacy-enabled public chain where Daml contracts control who sees what, built for institutional settlement. Explore Canton Network on Lancers Web3 Explorer.",
+    "pageTitle": "Canton Network - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.canton.network/",
+    "twitter": "https://x.com/CantonNetwork"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "oortech",
+      "saakuru",
+      "aioz-w3s"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "ssv-network",
+  "name": "SSV Network",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/ssv-network.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Crypto Staking Companies"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "SSV splits each Ethereum validator's duties across independent operators, and is the largest distributed validator network.",
+    "description": "SSV lets a validator key be split so that several operators run it together, reaching agreement through a QBFT consensus process. If one operator goes offline, the validator keeps attesting. More than a thousand operators run validators on the network, and large staking providers such as Lido, ether.fi, Kiln and P2P use it. The SSV token pays operators and governs the network. SSV holders can now stake the token to mint cSSV and earn rewards from the Ethereum infrastructure the network secures. Developers onboard validators through its TypeScript SDK, subgraph and contracts.",
+    "meta": "Distributed validator network that keeps Ethereum validators running when an operator fails. Explore SSV Network on Lancers Web3 Explorer.",
+    "pageTitle": "SSV Network - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ssv.network/",
+    "twitter": "https://x.com/ssv_network",
+    "docs": "https://docs.ssv.network/"
+  },
+  "relations": {
+    "alternatives": [
+      "kiln",
+      "itrocket",
+      "stakewise"
+    ],
+    "related": [
+      "crypto-dot-com",
+      "stake-dao",
+      "morfi"
+    ]
+  }
+}

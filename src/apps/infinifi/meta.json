@@ -1,0 +1,37 @@
+{
+  "slug": "infinifi",
+  "name": "infiniFi",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/infinifi.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "infiniFi splits stablecoin deposits into liquid and locked parts, earning more on the locked share without using leverage.",
+    "description": "infiniFi approaches yield the way a bank manages deposits and terms. When you deposit stablecoins, part stays instantly withdrawable and part is locked for a set period. The protocol puts that capital to work across Aave, Pendle and Ethena, with longer locks earning higher returns. No leverage is used, which keeps the source of the yield easy to follow. Depositors mint iUSD and can stake it to earn while keeping instant withdrawals, or lock it for one to several weeks to earn more. The team describes it as what a bank would look like if it were built onchain from first principles.",
+    "meta": "Stablecoin yield without leverage, splitting deposits between liquid and higher-earning locked tranches. Explore infiniFi on Lancers Web3 Explorer.",
+    "pageTitle": "infiniFi - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://infinifi.xyz/",
+    "twitter": "https://x.com/infiniFi"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-earn",
+      "sentora",
+      "yearn"
+    ],
+    "related": [
+      "avant-protocol",
+      "yield-protocol",
+      "neutral-trade"
+    ]
+  }
+}

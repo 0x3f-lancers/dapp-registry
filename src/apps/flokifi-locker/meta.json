@@ -1,0 +1,44 @@
+{
+  "slug": "flokifi-locker",
+  "name": "FlokiFi Locker",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/flokifi-locker.jpg",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Token Management Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "BNB Chain",
+    "Arbitrum",
+    "Polygon",
+    "Base",
+    "Avalanche",
+    "Cronos",
+    "OP Mainnet"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "FlokiFi Locker time-locks LP tokens, team allocations, NFTs and multi-tokens across nine EVM chains.",
+    "description": "Token projects use lockers to prove that liquidity and team tokens cannot be pulled early. FlokiFi Locker, part of the Floki ecosystem, handles ERC-20s, LP tokens, NFTs and ERC-1155 tokens. Locks can follow custom vesting schedules, and several assets can be locked in one transaction. CertiK has audited the contracts, which run on nine EVM networks including Ethereum, BNB Chain, Base and Arbitrum. It is built by the Floki team, which points to its large holder base as the reason it focuses on trust, and lock periods can be set in hours or years from the same screen.",
+    "meta": "Lock liquidity, team tokens and NFTs with custom vesting on nine EVM chains from the Floki team. Explore FlokiFi Locker on Lancers Web3 Explorer.",
+    "pageTitle": "FlokiFi Locker - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.flokifi.com/",
+    "twitter": "https://x.com/FlokiFi"
+  },
+  "relations": {
+    "alternatives": [
+      "pulley",
+      "bitbond",
+      "uncx-network"
+    ],
+    "related": [
+      "slashtoken",
+      "createmytoken",
+      "cold-storage-plugin"
+    ]
+  }
+}

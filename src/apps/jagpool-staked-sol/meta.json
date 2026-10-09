@@ -1,0 +1,38 @@
+{
+  "slug": "jagpool-staked-sol",
+  "name": "JagPool",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/jagpool-staked-sol.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "JagPool is a Solana stake pool that sends stake to validators in under-represented regions such as LATAM, APAC and South Africa.",
+    "description": "JagPool tries to fix a common problem on Solana, where stake piles up in a few data centres and countries. When you stake SOL you get jagSOL, and the pool delegates across validators chosen for their performance, community work and location. Much of that stake goes to operators in Latin America, Asia-Pacific and South Africa. You keep earning staking rewards and can use jagSOL as a liquid token. Stake is split by a published formula, with most weight on performance and the rest on community goods, partner validators and snapshot providers. Validators in Latin America and APAC can apply to join.",
+    "meta": "Stake SOL for jagSOL and support validators in under-represented regions to spread out the network. Explore JagPool on Lancers Web3 Explorer.",
+    "pageTitle": "JagPool - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.jagpool.xyz/",
+    "twitter": "https://x.com/JagPool_xyz",
+    "docs": "https://docs.jagpool.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "lido",
+      "etherfi"
+    ],
+    "related": [
+      "lista-dao",
+      "suilend",
+      "solend"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "light-protocol",
+  "name": "Light Protocol",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/light-protocol.png",
+  "category": "Zero Knowledge Tools",
+  "subcategory": [
+    "ZK Developer Tools"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Light Protocol brings ZK compression to Solana, so apps can create accounts and tokens without paying rent.",
+    "description": "On Solana, every account has to hold a rent-exempt deposit, which gets expensive for apps with millions of users. Light Protocol stores state in compressed accounts and keeps it secure with zero-knowledge proofs, so that cost largely disappears while Solana's security and composability are kept. Its SDKs and APIs take care of proofs and state lookups, so teams can add compression to payments, tokens and DeFi positions. The company says ZK Compression cuts the cost of creating tokens and PDAs by up to 99 percent and has been used for tens of millions of accounts. It was launched in 2024 with Helius and the Solana Foundation, and Light is now joining Helius.",
+    "meta": "ZK compression for Solana that removes account rent for tokens, payments and app state. Explore Light Protocol on Lancers Web3 Explorer.",
+    "pageTitle": "Light Protocol - Zero Knowledge Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://lightprotocol.com/",
+    "twitter": "https://x.com/LightProtocol"
+  },
+  "relations": {
+    "alternatives": [
+      "blockless",
+      "axiom",
+      "fairblock"
+    ],
+    "related": [
+      "bulletproofs",
+      "plonky2",
+      "snark"
+    ]
+  }
+}

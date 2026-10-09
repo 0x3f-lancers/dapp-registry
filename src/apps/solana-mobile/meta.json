@@ -1,0 +1,37 @@
+{
+  "slug": "solana-mobile",
+  "name": "Solana Mobile",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/solanamobile.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Hardware Wallets"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Solana Mobile makes crypto-native Android phones, such as Seeker, with a hardware Seed Vault for keys and its own dApp Store.",
+    "description": "Solana Mobile, part of Solana Labs, released the Saga phone and followed it with Seeker. Each phone protects private keys in the Seed Vault, a secure area of the hardware, so signing feels like using a hardware wallet built into the device. The Solana dApp Store lists crypto apps without the fees and restrictions of mainstream app stores. The SKR token powers the Solana Mobile ecosystem. The company runs hackathons and builder grants for apps and infrastructure, and SKR holders can stake the token from its site.",
+    "meta": "Crypto-native Android phones with hardware key storage and a fee-free dApp Store. Explore Solana Mobile on Lancers Web3 Explorer.",
+    "pageTitle": "Solana Mobile - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://solanamobile.com/",
+    "twitter": "https://x.com/solanamobile"
+  },
+  "relations": {
+    "alternatives": [
+      "ledger",
+      "trezor",
+      "tangem-wallet"
+    ],
+    "related": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ]
+  }
+}

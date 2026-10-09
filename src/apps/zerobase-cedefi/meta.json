@@ -1,0 +1,43 @@
+{
+  "slug": "zerobase-cedefi",
+  "name": "ZEROBASE CeDeFi",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/zerobase-cedefi.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "BNB Chain",
+    "Ethereum",
+    "Avalanche",
+    "OP Mainnet",
+    "Arbitrum",
+    "Base",
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "ZEROBASE is a CeDeFi staking platform where stablecoin deposits back its ZK prover network and earn delta-neutral yield.",
+    "description": "ZEROBASE runs a network of nodes that generate zero-knowledge proofs, and provers must stake stablecoins to take part. Users can deposit USDT, USDC and other stablecoins into the Super Strategy pool, where funds earn from arbitrage and delta-neutral trades routed through Binance. The execution is verified with zero-knowledge proofs, and the contracts have been audited by OpenZeppelin, Salus and PeckShield. Deposits currently earn a base rate plus an extra reward for the prover network, and the app includes a bridge and a dashboard for tracking stakes.",
+    "meta": "Stake stablecoins behind a ZK prover network and earn delta-neutral CeDeFi yield. Explore ZEROBASE CeDeFi on Lancers Web3 Explorer.",
+    "pageTitle": "ZEROBASE CeDeFi - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.zerobase.pro/",
+    "twitter": "https://x.com/zerobasezk"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-earn",
+      "sentora",
+      "beefy-finance"
+    ],
+    "related": [
+      "earnpark",
+      "avant-protocol",
+      "yield-protocol"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "fx-protocol",
+  "name": "fx Protocol",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/fx-protocol.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "f(x) Protocol from AladdinDAO offers up to 7x long or short on ETH and WBTC with low funding costs, plus the fxUSD stablecoin.",
+    "description": "f(x) Protocol splits collateral into two products. Traders who want leverage can bet on ETH or WBTC rising or falling with as much as seven times exposure. Funding costs are low, and a rebalancing buffer softens liquidations compared with typical perps. On the stable side, fxUSD is a dollar token backed by stETH and WBTC. Its stability pool earns from the fees that leverage traders pay. Its newer vaults include fxSAVE, which auto-compounds stability pool returns, and an f(x) 2.0 stability pool, with fxUSD backed by wstETH and WBTC.",
+    "meta": "Leverage up to 7x on ETH and WBTC with low funding, plus fxUSD and its fee-earning stability pool. Explore fx Protocol on Lancers Web3 Explorer.",
+    "pageTitle": "fx Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://fx.aladdin.club/",
+    "twitter": "https://x.com/protocol_fx"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperliquid",
+      "aster-dex",
+      "jupiter"
+    ],
+    "related": [
+      "resolv",
+      "neutral-trade",
+      "across"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "wirex",
+  "name": "Wirex",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/wirexapp.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Credit Cards"
+  ],
+  "chains": [
+    "Ethereum",
+    "Bitcoin",
+    "Polygon",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Hold, swap and spend crypto alongside regular currencies with Wirex's money app and card.",
+    "description": "Wirex was among the first companies to put crypto on a debit card. Its app holds crypto and fiat side by side, and the Wirex Card spends either one while paying cashback in crypto. Users can also borrow against crypto, earn with dual-asset products and send money abroad. For businesses, Wirex Pay and its banking-as-a-service products provide stablecoin payment infrastructure. Companies can open stablecoin accounts, give staff corporate cards and earn yield onchain, and developers get a single API to add the same accounts, payments and cards to their products.",
+    "meta": "Hold, swap and spend crypto and fiat with a cashback card, plus stablecoin services for business. Explore Wirex on Lancers Web3 Explorer.",
+    "pageTitle": "Wirex - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.wirexapp.com/",
+    "twitter": "https://x.com/wirexapp"
+  },
+  "relations": {
+    "alternatives": [
+      "redotpay",
+      "plasma-one",
+      "reap"
+    ],
+    "related": [
+      "cold-storage-plugin",
+      "multi-owner-plugin",
+      "multisig-plugin"
+    ]
+  }
+}

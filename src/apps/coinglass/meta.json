@@ -1,0 +1,41 @@
+{
+  "slug": "coinglass",
+  "name": "CoinGlass",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/coinglass-v2.png",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Base",
+    "Arbitrum",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Traders check CoinGlass for funding rates, open interest, liquidation heatmaps and long-short ratios across the big exchanges.",
+    "description": "CoinGlass gathers derivatives data that is otherwise spread across many exchanges. Traders use it to compare funding rates, follow open interest and long-short ratios, and see where liquidations are clustered on its heatmaps. It also covers spot, options, ETF flows and onchain data. Quant teams pull the same historical and live figures through a tiered API. It has grown beyond crypto into stocks, commodities and macro data, and adds tools such as Supercharts, an altcoin season index and a fear and greed gauge.",
+    "meta": "Funding rates, open interest and liquidation heatmaps aggregated across crypto exchanges. Explore CoinGlass on Lancers Web3 Explorer.",
+    "pageTitle": "CoinGlass - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.coinglass.com/",
+    "twitter": "https://x.com/coinglass_com"
+  },
+  "relations": {
+    "alternatives": [
+      "deepsnitch-ai",
+      "dex-screener",
+      "dextools"
+    ],
+    "related": [
+      "nansen",
+      "nansen-portfolio",
+      "across"
+    ]
+  }
+}

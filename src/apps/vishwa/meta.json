@@ -1,0 +1,38 @@
+{
+  "slug": "vishwa",
+  "name": "Vishwa",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/vishwa.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Vishwa builds ZK light clients that let Bitcoin and EVM chains verify each other, and now uses them as infrastructure for AI agents.",
+    "description": "Vishwa's Voyager system uses zero-knowledge proofs and BitVM-style checks so Bitcoin and EVM chains can read each other's state directly. That means BTC can move across chains while staying in self-custodial UTXOs, without trusting a bridge operator. The team has since put that work at the base of a wider product: infrastructure that lets AI agents move capital and use compute under set policies, with private state and verifiable execution. Its products include banking infrastructure, OpenNEXT and an AI vault CLI. The company lists Ondo as a customer and is part of Circle's Alliance Program and Anthropic's Cyber Verification Program.",
+    "meta": "Zero-knowledge Bitcoin interoperability, now the base for policy-controlled AI agent finance. Explore Vishwa on Lancers Web3 Explorer.",
+    "pageTitle": "Vishwa - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.vishwalab.com/",
+    "twitter": "https://x.com/Vishwa_lab"
+  },
+  "relations": {
+    "alternatives": [
+      "base-bridge",
+      "relay-link",
+      "across"
+    ],
+    "related": [
+      "polyhedra-network",
+      "rubic",
+      "aarc"
+    ]
+  }
+}

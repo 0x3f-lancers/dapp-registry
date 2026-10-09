@@ -1,0 +1,46 @@
+{
+  "slug": "zan-node",
+  "name": "ZAN",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/zan.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Arbitrum",
+    "OP Mainnet",
+    "Base",
+    "Solana",
+    "Sui",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "ZAN is Ant Digital Technologies' web3 infrastructure brand, offering RPC nodes, contract audits, ZK acceleration and KYC tools.",
+    "description": "ZAN comes from Ant Digital Technologies, part of Ant Group. Developers get RPC endpoints for Ethereum, Solana, Sui, the major L2s and other chains, plus testnet faucets. Security services include AI-assisted contract scanning and expert audits, and ZK proof acceleration helps teams that need to generate proofs quickly. For banks and enterprises, ZAN offers eKYC, KYT screening, RWA tokenization and appchain services. It now packages its tools as skills that AI agents such as Claude, GPT and Cursor can install with one command, and its node service covers more than 30 chains, including Bitcoin and TON.",
+    "meta": "Ant Group's web3 stack: RPC nodes, audits, ZK acceleration and compliance tools. Explore ZAN on Lancers Web3 Explorer.",
+    "pageTitle": "ZAN - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://zan.top/",
+    "twitter": "https://x.com/zan_team",
+    "docs": "https://docs.zan.top/docs/welcome-to-zan"
+  },
+  "relations": {
+    "alternatives": [
+      "publicnode",
+      "drpc",
+      "infura"
+    ],
+    "related": [
+      "helius",
+      "subquery",
+      "nefture"
+    ]
+  }
+}

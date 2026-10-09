@@ -1,0 +1,38 @@
+{
+  "slug": "celo",
+  "name": "Celo",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/celo.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Celo"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Pay gas in USDC or USDT on Celo, an Ethereum layer 2 built for stablecoin payments with fees under a cent.",
+    "description": "Celo launched as a mobile-first layer 1 and moved onto Ethereum as an OP Stack layer 2 in 2025, keeping what made it popular. Users can pay gas in stablecoins instead of a native token, blocks come every second, and fees are tiny. That makes it a strong fit for payments in emerging markets. The MiniPay wallet inside Opera and the Self identity app are among the products built on Celo. Its developer docs now focus on AI agents that hold and pay with stablecoins, with tools for agent identity through Self and payments through the x402 standard.",
+    "meta": "Ethereum layer 2 for stablecoin payments, with gas paid in USDC or USDT and sub-cent fees. Explore Celo on Lancers Web3 Explorer.",
+    "pageTitle": "Celo - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://celo.org/",
+    "twitter": "https://x.com/Celo",
+    "docs": "https://docs.celo.org/build-on-celo/build-with-ai/overview"
+  },
+  "relations": {
+    "alternatives": [
+      "immutablex",
+      "op-mainnet",
+      "aurora"
+    ],
+    "related": [
+      "ethereum",
+      "solana",
+      "polygon"
+    ]
+  }
+}

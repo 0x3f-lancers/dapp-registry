@@ -1,0 +1,38 @@
+{
+  "slug": "sui",
+  "name": "Sui",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/sui-io.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Sui"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Mysten Labs designed Sui around objects instead of accounts, so unrelated transactions run in parallel on its Move layer 1.",
+    "description": "Sui was built by former Meta engineers at Mysten Labs. Instead of storing everything in shared accounts, it models coins, NFTs and other assets as individual objects with clear owners. Transactions that touch different objects can skip global ordering and run side by side, which keeps finality under a second and fees low. Smart contracts use a version of Move. Cetus, Suilend and Navi are among the main apps on the network. Its stack has grown to include DeepBook for liquidity, Walrus for data storage, Seal for encryption, Nautilus for verifiable offchain compute, SuiNS for names and Hashi for native bitcoin collateral.",
+    "meta": "Object-based Move layer 1 from Mysten Labs with parallel execution and sub-second finality. Explore Sui on Lancers Web3 Explorer.",
+    "pageTitle": "Sui - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.sui.io/",
+    "twitter": "https://x.com/SuiNetwork",
+    "docs": "https://docs.sui.io/getting-started/sui-mcp-server"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "bnb-chain"
+    ],
+    "related": [
+      "saakuru",
+      "aioz-w3s",
+      "immutablex"
+    ]
+  }
+}

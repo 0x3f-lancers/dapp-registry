@@ -1,0 +1,38 @@
+{
+  "slug": "unitas",
+  "name": "Unitas",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/unitas.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Synthetics"
+  ],
+  "chains": [
+    "Solana",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Unitas issues USDu, a delta-neutral synthetic dollar, and sUSDu, a savings version that earns its yield, on Solana and BNB Chain.",
+    "description": "Unitas keeps USDu stable by holding spot collateral and opening matching short derivative positions, so price moves on the two sides cancel each other out. The funding paid on those positions creates yield. Holders who stake USDu receive sUSDu, which collects that yield, and the backing can be checked onchain. The protocol pitches itself as a yield layer that can make any liquid asset productive. The same engine now produces yield-bearing tokens for gold and equities as well as dollars, including XGLD, a token with a matching amount of physical gold behind every unit.",
+    "meta": "Delta-neutral USDu synthetic dollar with sUSDu savings yield on Solana and BNB Chain. Explore Unitas on Lancers Web3 Explorer.",
+    "pageTitle": "Unitas - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://unitas.so/",
+    "twitter": "https://x.com/UnitasLabs"
+  },
+  "relations": {
+    "alternatives": [
+      "ethena",
+      "frax-finance",
+      "synthetix"
+    ],
+    "related": [
+      "overnight-finance",
+      "neutral-trade",
+      "multichain"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "oklink",
+  "name": "OKLink",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/oklink-v3.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Block Explorers"
+  ],
+  "chains": [
+    "Ethereum",
+    "Bitcoin",
+    "Solana",
+    "Tron",
+    "Base",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "BNB Chain",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Search more than 40 chains in one place with OKLink, the explorer and onchain data platform from OKX's parent group.",
+    "description": "OKLink is built by OKG and offers explorers for Bitcoin, Ethereum, Solana, Tron, Base, Arbitrum and many other chains in one place. Beyond lookups, it shows gas trackers, dashboards of exchange reserves and a bytecode decompiler. Its Onchain AML product helps compliance and law enforcement teams trace funds. Developers can reach the same indexed data through OpenAPI. It also includes a bytecode decompiler for checking unverified contracts and a gas tracker for timing transactions.",
+    "meta": "Explorer and data platform for 40+ chains with gas tools, exchange reserves and AML tracing. Explore OKLink on Lancers Web3 Explorer.",
+    "pageTitle": "OKLink - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.oklink.com/",
+    "twitter": "https://x.com/OKLink"
+  },
+  "relations": {
+    "alternatives": [
+      "etherscan",
+      "optimism-block-explorer",
+      "sepolia-testnet-block-explorer"
+    ],
+    "related": [
+      "mobula",
+      "basedapp",
+      "tableland"
+    ]
+  }
+}

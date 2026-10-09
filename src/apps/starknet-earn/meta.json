@@ -1,0 +1,38 @@
+{
+  "slug": "starknet-earn",
+  "name": "Starknet Earn",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1771584804/dapp-store/dapp-logos/Starknet%20Earn.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Starknet",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Earn yield on wrapped bitcoin through Starknet Earn, the official hub with curated strategies and one dashboard.",
+    "description": "Starknet Earn is meant to make BTC yield simple for people who have never used Starknet. You connect an EVM wallet you already have, deposit WBTC from a supported chain, and pick a strategy from a curated list with clear rates and terms. Your positions are tracked in one dashboard. Starknet's zk-rollup handles the work underneath, settling to Ethereum. Strategies come from protocols such as Endur, ForgeYields, Noon, Troves and Re7, and accept WBTC, tBTC, LBTC and SolvBTC.",
+    "meta": "Earn yield on wrapped bitcoin through curated Starknet strategies using your existing EVM wallet. Explore Starknet Earn on Lancers Web3 Explorer.",
+    "pageTitle": "Starknet Earn - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://earn.starknet.io/",
+    "twitter": "https://x.com/Starknet"
+  },
+  "relations": {
+    "alternatives": [
+      "sentora",
+      "yearn",
+      "beefy-finance"
+    ],
+    "related": [
+      "avant-protocol",
+      "yield-protocol",
+      "neutral-trade"
+    ]
+  }
+}

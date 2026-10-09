@@ -1,0 +1,45 @@
+{
+  "slug": "viem",
+  "name": "Viem",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/viem-v3.png",
+  "category": "Web3 Developer Tools",
+  "subcategory": [
+    "Web3 Libraries"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Base",
+    "OP Mainnet",
+    "Polygon",
+    "ZKsync",
+    "Linea",
+    "BNB Chain",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "TypeScript developers build on Ethereum with Viem, a lightweight, type-safe library from the wevm team behind wagmi.",
+    "description": "Viem has become a standard tool for building on Ethereum and EVM chains, and many teams moved to it from ethers.js and web3.js. It provides typed clients for reading the chain, sending wallet transactions and calling contracts, with support for account abstraction, multicall and testing utilities. Its modules are small and tree-shakeable, which keeps app bundles light. The same team maintains wagmi, ABIType and Ox. It ships with full test coverage and an MIT licence, and the docs now cover tokens, Tempo and extensions alongside the core library.",
+    "meta": "Type-safe, lightweight TypeScript library for Ethereum and EVM chains from the wagmi team. Explore Viem on Lancers Web3 Explorer.",
+    "pageTitle": "Viem - Web3 Developer Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://viem.sh/",
+    "twitter": "https://x.com/wevm_dev"
+  },
+  "relations": {
+    "alternatives": [
+      "web3-py",
+      "libp2p",
+      "etherspot-transactionkit"
+    ],
+    "related": [
+      "umn-blockchain",
+      "ut-blockchain",
+      "evm-toolkit"
+    ]
+  }
+}

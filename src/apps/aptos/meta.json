@@ -1,0 +1,37 @@
+{
+  "slug": "aptos",
+  "name": "Aptos",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/aptos-v2.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Aptos"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Built on the Move language, Aptos executes transactions in parallel to keep blocks under a second and fees far below a cent.",
+    "description": "Aptos came out of the Diem research effort and keeps its Move programming language, which treats tokens as resources that cannot be copied or dropped by accident. Its Block-STM engine executes transactions in parallel and resolves conflicts afterwards, keeping block times under a second and fees well below a cent. Apps on the network include Liquidswap and Panora for swaps, Aries for lending and Petra as the main wallet. APT is staked to secure the network, and Petra lets users stream payments as well as hold assets. The full stack is pitched at both financial markets and machine-to-machine use.",
+    "meta": "Move-based layer 1 with parallel execution, sub-second blocks and fees far below a cent. Explore Aptos on Lancers Web3 Explorer.",
+    "pageTitle": "Aptos - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aptosnetwork.com/",
+    "twitter": "https://x.com/Aptos"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "bnb-chain"
+    ],
+    "related": [
+      "pancakeswap",
+      "multichain",
+      "across"
+    ]
+  }
+}

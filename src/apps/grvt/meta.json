@@ -1,0 +1,38 @@
+{
+  "slug": "grvt",
+  "name": "Grvt",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/grvt.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "ZKsync",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Grvt matches perps orders like a CEX but keeps funds in self-custody on its own ZKsync-based chain.",
+    "description": "Grvt, pronounced gravity, aims to give traders the speed of a centralized exchange without handing over their funds. Orders are matched off-chain in an order book, while balances and settlement sit on Grvt's own ZKsync-based chain with zero-knowledge security. Users trade perpetual futures on major crypto pairs from MPC wallets, and idle USDT can earn in the Grvt Trading Vault. It has expanded into equities and commodities with up to 50x leverage, plus spot markets and invest bundles, so one balance can earn, trade and invest at once. Demo trading lets new users practise with virtual funds.",
+    "meta": "Hybrid perps exchange with CEX-style matching and self-custody on a ZKsync chain. Explore Grvt on Lancers Web3 Explorer.",
+    "pageTitle": "Grvt - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://grvt.io/",
+    "twitter": "https://x.com/grvt_io"
+  },
+  "relations": {
+    "alternatives": [
+      "aster-dex",
+      "hyperliquid",
+      "jupiter"
+    ],
+    "related": [
+      "morfi",
+      "polymarket",
+      "kalshi"
+    ]
+  }
+}

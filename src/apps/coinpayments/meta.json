@@ -1,0 +1,38 @@
+{
+  "slug": "coinpayments",
+  "name": "CoinPayments",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/coinpayments.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Merchants have accepted crypto through CoinPayments for over a decade, with fixed-rate invoices across dozens of coins.",
+    "description": "CoinPayments has served merchants for over a decade, with a large customer base spread across more than 180 countries. Businesses issue invoices at a fixed rate, accept dozens of cryptocurrencies, and plug into common e-commerce platforms. The newer version of the platform adds MPC wallet infrastructure, in-house transaction screening and faster settlement. It is used everywhere from online retail to luxury goods and gaming. The company has processed digital asset payments since 2013, offers plugins for WooCommerce and WHMCS, and supports multi-approval workflows for teams. DepiPay, a non-custodial option, sits alongside its main gateway.",
+    "meta": "Crypto payment gateway for merchants, with fixed-rate invoices, MPC wallets and e-commerce plugins. Explore CoinPayments on Lancers Web3 Explorer.",
+    "pageTitle": "CoinPayments - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://coinpayments.net/",
+    "twitter": "https://x.com/COINPAYMENTSNET",
+    "docs": "https://docs.coinpayments.net/knowledge/integration-guide/"
+  },
+  "relations": {
+    "alternatives": [
+      "base-pay-desk",
+      "bitrefill",
+      "nowpayments"
+    ],
+    "related": [
+      "cold-storage-plugin",
+      "multi-owner-plugin",
+      "multisig-plugin"
+    ]
+  }
+}

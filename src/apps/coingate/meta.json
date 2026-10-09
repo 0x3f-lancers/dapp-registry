@@ -1,0 +1,41 @@
+{
+  "slug": "coingate",
+  "name": "CoinGate",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/coingate.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Web3 Payment Tools"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Polygon",
+    "BNB Chain",
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Lithuania's CoinGate helps businesses accept crypto and settle in euros or stablecoins, under a MiCA licence and since 2014.",
+    "description": "CoinGate lets online shops and service businesses take payments in Bitcoin, USDC and other cryptocurrencies, then settle in euros or stablecoins. Merchants can use hosted checkout pages, e-commerce plugins, payment links or the API. Individuals can buy crypto with a card or redeem gift cards. CoinGate holds a MiCA licence and a payment institution licence in Lithuania. The Lithuanian company has run since 2014, and beyond checkout it offers dedicated payment addresses for repeat customers, crypto payouts and a multi-currency business account.",
+    "meta": "MiCA-licensed gateway for accepting crypto payments and settling in euros or stablecoins. Explore CoinGate on Lancers Web3 Explorer.",
+    "pageTitle": "CoinGate - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://coingate.com/",
+    "twitter": "https://x.com/CoinGatecom"
+  },
+  "relations": {
+    "alternatives": [
+      "base-pay-desk",
+      "bitrefill",
+      "nowpayments"
+    ],
+    "related": [
+      "cold-storage-plugin",
+      "multi-owner-plugin",
+      "multisig-plugin"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "xrp-ledger",
+  "name": "XRP Ledger",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/xrp-ledger.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "The XRP Ledger is a public layer 1 for fast, low-cost payments, with a built-in DEX, AMM and token issuance.",
+    "description": "The XRP Ledger has run since 2012 and reaches agreement through a federated consensus protocol rather than mining or staking. Transactions settle in a few seconds for a fraction of a cent. Features that need smart contracts on other chains are built into the protocol, including an order-book DEX, an AMM, token issuance and escrow. XRP pays fees and serves as a bridge currency between issued tokens. Community-run XRPL.org hosts documentation and client libraries for JavaScript, Python, PHP and Go, and new features such as permissioned trading and onchain lending go through amendment voting.",
+    "meta": "Payments-focused layer 1 since 2012 with a native DEX, AMM and token issuance. Explore XRP Ledger on Lancers Web3 Explorer.",
+    "pageTitle": "XRP Ledger - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://xrpl.org/",
+    "twitter": "https://x.com/XRPLF"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

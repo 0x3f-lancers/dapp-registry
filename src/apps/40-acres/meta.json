@@ -1,0 +1,40 @@
+{
+  "slug": "40-acres",
+  "name": "40 Acres",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/40-acres.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Base",
+    "OP Mainnet",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "40 Acres lends USDC against vote-escrowed tokens like veAERO and veVELO, with loans paid down by the collateral's own weekly rewards.",
+    "description": "Running on Base, Optimism and Avalanche, 40 Acres lends against vote-escrowed NFTs, with veAERO, veVELO, vePharaoh and veBlackhole among the accepted positions. A holder deposits the position and borrows USDC against the rewards it is expected to earn. There is no recurring interest and no liquidation. Instead, a share of each week's rewards flows back into the loan until it is settled. The team plans to extend the same model to tokenized funds, real-world assets and LP positions. Lenders can deposit USDC to earn from real protocol revenue, and an automated relayer takes care of claiming, compounding and repayment so borrowers do not have to. The contracts have been through six audits with Sherlock.",
+    "meta": "Borrow USDC against veNFTs on Base, Optimism and Avalanche with self-repaying, non-liquidatable loans. Explore 40 Acres on Lancers Web3 Explorer.",
+    "pageTitle": "40 Acres - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.40acres.finance/",
+    "twitter": "https://x.com/40acres_Finance",
+    "docs": "https://docs.40acres.finance"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "compound",
+      "morpho"
+    ],
+    "related": [
+      "rhea-finance",
+      "across",
+      "yieldfi"
+    ]
+  }
+}

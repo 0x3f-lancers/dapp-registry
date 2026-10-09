@@ -1,0 +1,46 @@
+{
+  "slug": "everstake",
+  "name": "Everstake",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/everstake.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Crypto Staking Companies"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Avalanche",
+    "Cosmos",
+    "Polkadot",
+    "Aptos",
+    "Sui",
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Over a million delegators stake through Everstake, which runs non-custodial validators on more than 130 networks.",
+    "description": "Everstake operates validators on its own bare-metal servers for Ethereum, Solana, Cosmos, Polkadot and more than a hundred other proof-of-stake networks. Individuals delegate from their own wallets and keep custody. For institutions it runs audited validators on their behalf, sets up validators under a client's own brand and offers vaults that earn on stablecoins. On Solana, Everstake also offers low-latency tools such as Stake-Weighted QoS and ShredStream for trading teams. The company was founded in 2018, reports infrastructure uptime of about 99.98 percent and has secured billions of dollars in staked value. It also offers a staking wallet SDK.",
+    "meta": "Non-custodial staking on 130+ networks for individuals, plus validator services for institutions. Explore Everstake on Lancers Web3 Explorer.",
+    "pageTitle": "Everstake - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://everstake.com/",
+    "twitter": "https://x.com/everstake_pool",
+    "docs": "https://docs.everstake.com/staking-docs/staking-guide"
+  },
+  "relations": {
+    "alternatives": [
+      "kiln",
+      "itrocket",
+      "stakewise"
+    ],
+    "related": [
+      "morfi",
+      "polymarket",
+      "circle-yield"
+    ]
+  }
+}

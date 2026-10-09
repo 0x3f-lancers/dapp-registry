@@ -1,0 +1,40 @@
+{
+  "slug": "tronlink",
+  "name": "TronLink",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/tronlink.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Tron",
+    "Ethereum",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Hold TRX and TRC-20 tokens, stake and vote with TronLink, the main TRON wallet, which also connects to EVM chains.",
+    "description": "TronLink is the wallet recommended by TRON for both browser and mobile. From one app, people keep TRX and tokens like USDT, stake to cover their transaction resources, vote for the network's elected validators and browse TRON dapps. The browser extension also works on Ethereum and BNB Chain. Keys are encrypted and stored on the device, and millions of people use it. The team reports more than ten million users and now offers an MCP server and CLI so AI agents can use TronLink for transfers, multisig and GasFree transactions.",
+    "meta": "TRON's main self-custody wallet for TRX, USDT, staking, voting and dapps. Explore TronLink on Lancers Web3 Explorer.",
+    "pageTitle": "TronLink - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tronlink.org/",
+    "twitter": "https://x.com/TronLinkWallet",
+    "docs": "https://docs.tronlink.org/ai-support/mcp-server-tronlink/"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "ledger",
+      "trezor"
+    ]
+  }
+}

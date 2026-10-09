@@ -1,0 +1,39 @@
+{
+  "slug": "extended",
+  "name": "Extended",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/extended.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Starknet",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Former Revolut builders made Extended, a Starknet perps DEX where one margin account covers crypto and TradFi markets.",
+    "description": "On Extended, all positions share a single cross-asset margin account, so collateral is not split between separate markets. Positions can be long or short on crypto and on tokenized versions of traditional assets, with leverage as high as 100x. Yield-bearing tokens can serve as collateral, so margin keeps earning while it sits there. Trades settle with zero-knowledge proofs on Starknet, anchored to Ethereum. The exchange is migrating from Starknet to Arc, and it has added a vault, a money market, builder codes for third-party front ends and a points programme.",
+    "meta": "Unified-margin perp DEX on Starknet for crypto and TradFi markets, with yield-bearing collateral. Explore Extended on Lancers Web3 Explorer.",
+    "pageTitle": "Extended - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://extended.exchange/",
+    "twitter": "https://x.com/extendedapp",
+    "docs": "https://docs.extended.exchange/"
+  },
+  "relations": {
+    "alternatives": [
+      "hyperliquid",
+      "aster-dex",
+      "jupiter"
+    ],
+    "related": [
+      "panoptic",
+      "woofi",
+      "synfutures"
+    ]
+  }
+}

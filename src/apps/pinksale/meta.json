@@ -1,0 +1,41 @@
+{
+  "slug": "pinksale",
+  "name": "PinkSale",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/pinksale.png",
+  "category": "Venture Capital Firms",
+  "subcategory": [
+    "Web3 Fundraising Tools"
+  ],
+  "chains": [
+    "BNB Chain",
+    "Ethereum",
+    "Polygon",
+    "Cronos",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Create a token, run a presale and lock its liquidity in a few clicks with PinkSale, a launchpad on many EVM chains.",
+    "description": "PinkSale is one of the best-known self-serve launchpads, especially on BNB Chain. A project can mint a token, set up a presale page and collect contributions without writing code. PinkLock then locks LP tokens and team allocations, so buyers can check that liquidity cannot be pulled straight away. It also runs PinkSwap. It works on BNB Chain and Ethereum along with Polygon, Avalanche, Cronos and further EVM networks. Its toolkit now includes PinkMeme for meme launches, an anti-bot tool, a multi-sender, an airdrop tool and KYC and audit badges for projects, and new tokens are verified on block explorers automatically.",
+    "meta": "Self-serve launchpad for token creation, presales and liquidity locking on many EVM chains. Explore PinkSale on Lancers Web3 Explorer.",
+    "pageTitle": "PinkSale - Venture Capital Firms - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.pinksale.finance/",
+    "twitter": "https://x.com/pinkecosystem"
+  },
+  "relations": {
+    "alternatives": [
+      "metalaunch",
+      "presail",
+      "aktionariat"
+    ],
+    "related": [
+      "fjord-foundry",
+      "foundry",
+      "bitbond"
+    ]
+  }
+}

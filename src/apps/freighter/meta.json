@@ -1,0 +1,38 @@
+{
+  "slug": "freighter",
+  "name": "Freighter",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/freighter.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "The Stellar Development Foundation builds Freighter, its own wallet for Stellar on desktop browsers and mobile.",
+    "description": "Freighter is the reference wallet for the Stellar network, built and maintained by the Stellar Development Foundation. It holds XLM and Stellar assets such as USDC, swaps through Stellar's built-in DEX and manages trustlines. It also signs Soroban smart contract transactions for dapps. Blockaid scam detection warns about risky transactions, and the mobile apps support biometric login. Developers connect it to their dapps through the freighter-api package in the browser and WalletConnect on mobile, and the docs include a playground for testing both.",
+    "meta": "Stellar Development Foundation's wallet for XLM, Stellar assets and Soroban dapps. Explore Freighter on Lancers Web3 Explorer.",
+    "pageTitle": "Freighter - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://freighter.app/",
+    "twitter": "https://x.com/StellarOrg",
+    "docs": "https://docs.freighter.app"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "trezor",
+      "ledger"
+    ]
+  }
+}

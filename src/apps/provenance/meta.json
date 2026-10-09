@@ -1,0 +1,38 @@
+{
+  "slug": "provenance",
+  "name": "Provenance Blockchain",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/provenance-v2.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Provenance is a Cosmos SDK layer 1 for financial services, used to issue and trade tokenized loans, funds and other real-world assets.",
+    "description": "Provenance started as a permissioned network at Figure in 2018 and opened up fully in 2021. It runs on the Cosmos SDK with CometBFT consensus, and its built-in modules handle the issuance, custody, trading and lending of tokenized assets such as mortgages, bond funds and equities. It holds one of the largest bases of real-world assets of any public chain. HASH is used for staking and fees. The foundation's team includes people from SoFi, Meta, TikTok and Magic Eden, and the chain also hosts YLDS, an SEC-registered yield-bearing stablecoin.",
+    "meta": "Cosmos SDK layer 1 for issuing, trading and lending tokenized loans, funds and equities. Explore Provenance Blockchain on Lancers Web3 Explorer.",
+    "pageTitle": "Provenance Blockchain - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://provenance.io/",
+    "twitter": "https://x.com/provenancefdn",
+    "docs": "https://docs.provenance.io"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "oortech",
+      "saakuru",
+      "aioz-w3s"
+    ]
+  }
+}

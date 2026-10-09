@@ -1,0 +1,38 @@
+{
+  "slug": "venice",
+  "name": "Venice",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/venice-v2.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Decentralized Computing Tools"
+  ],
+  "chains": [
+    "Base"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Chat, create images and write code with Venice, a private AI app that keeps your prompts off its servers.",
+    "description": "Venice was started by Erik Voorhees as an alternative to mainstream AI assistants. Conversations stay in your browser rather than on Venice's servers, requests run on distributed GPU providers, and the models answer with fewer restrictions. Developers can use the same models through an open API. Staking the VVV token on Base gives ongoing API capacity, so heavy users do not pay for each request. It gives access to models from Claude, Google, DeepSeek, OpenAI, Mistral, Meta and others, either fully private or anonymized, with OpenAI-compatible APIs for text, image, video and audio. Alongside VVV, the DIEM token is used for API access.",
+    "meta": "Private AI chat and image generation with no stored prompts, plus API access for VVV stakers. Explore Venice on Lancers Web3 Explorer.",
+    "pageTitle": "Venice - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://venice.ai/",
+    "twitter": "https://x.com/AskVenice",
+    "docs": "https://docs.venice.ai/welcome/about-venice"
+  },
+  "relations": {
+    "alternatives": [
+      "grass",
+      "optimai",
+      "aethir"
+    ],
+    "related": [
+      "limewire",
+      "denet",
+      "oortech"
+    ]
+  }
+}

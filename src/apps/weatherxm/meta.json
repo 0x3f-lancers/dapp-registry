@@ -1,0 +1,39 @@
+{
+  "slug": "weatherxm",
+  "name": "WeatherXM",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/weatherxm-v3.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "Web3 Data Tools"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Base"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Host a WeatherXM station and earn rewards for sending accurate local weather data to a community-run network.",
+    "description": "WeatherXM designs its own weather stations and pays the people who host them to share their readings. A quality-check system scores every station, so rewards follow good data. The resulting ground-level observations feed forecasts that are sold through an API to farmers, insurers, energy firms and AI agents, including for parametric insurance that pays out on measured weather. The company traces its roots to environmental IoT work in 2015 and launched WeatherXM in 2022. More than 9,500 stations are deployed in over 85 countries, with stations starting at $189.",
+    "meta": "Host a WeatherXM station, share local weather data and earn rewards for accurate readings. Explore WeatherXM on Lancers Web3 Explorer.",
+    "pageTitle": "WeatherXM - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://weatherxm.com/",
+    "twitter": "https://x.com/WeatherXM",
+    "docs": "https://docs.weatherxm.com/rewards/data-quality"
+  },
+  "relations": {
+    "alternatives": [
+      "chainstack-subgraphs",
+      "mobula",
+      "hellomoon"
+    ],
+    "related": [
+      "publicnode",
+      "nownodes",
+      "drpc"
+    ]
+  }
+}

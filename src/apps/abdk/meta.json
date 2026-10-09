@@ -1,0 +1,37 @@
+{
+  "slug": "abdk",
+  "name": "ABDK",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/abdk-v2.png",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Auditing Companies"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "ABDK has audited smart contracts, zero-knowledge circuits and cryptography since 2016, and wrote the ABDK math libraries many Solidity teams rely on.",
+    "description": "ABDK has reviewed Ethereum code since the early days of DeFi and is known for taking on the hardest audits, especially those involving cryptography, zero-knowledge proofs and complex maths. Besides audit reports, the team advises on protocol design and research. Many Solidity developers know ABDK for its open-source fixed-point and floating-point math libraries, which are used in a large number of production contracts. Its published audit list includes work on 1inch's limit order protocol, StarkWare's Cairo libraries and Uniswap v4, and the firm also offers research and consulting alongside its reviews.",
+    "meta": "Smart contract, ZK and cryptography audits since 2016, plus widely used Solidity math libraries. Explore ABDK on Lancers Web3 Explorer.",
+    "pageTitle": "ABDK - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://abdk.consulting/",
+    "twitter": "https://x.com/ABDKconsulting"
+  },
+  "relations": {
+    "alternatives": [
+      "Consensys-Diligence",
+      "certik",
+      "trail-of-bits"
+    ],
+    "related": [
+      "scsvs",
+      "splunk",
+      "chainalysis"
+    ]
+  }
+}

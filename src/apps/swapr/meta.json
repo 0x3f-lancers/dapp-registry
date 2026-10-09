@@ -1,0 +1,38 @@
+{
+  "slug": "swapr",
+  "name": "Swapr",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/swapr.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Swapr is DXdao's DEX on Ethereum, Arbitrum and Gnosis Chain, with governance-set pool fees and a router that also checks other DEXs for better prices.",
+    "description": "Swapr was built by DXdao as a community-owned exchange. Each pool's swap fee can be adjusted through SWPR governance, rather than fixed at one rate. When you trade, its eco-router compares Swapr's own pools with Uniswap, SushiSwap and 1inch and uses the cheapest path. Liquidity providers can also launch their own farming campaigns to attract liquidity to new pairs. A concentrated liquidity AMM runs on Gnosis Chain. The app now includes concentrated liquidity pools, recurring DCA buys and a bridge, and it supports networks such as Polygon, Optimism, BNB Chain, zkSync Era and Scroll. Users are reminded to open it from swapr.eth.limo or swapr.eth.link.",
+    "meta": "DXdao's DEX with adjustable pool fees, cross-DEX routing and self-serve farming campaigns. Explore Swapr on Lancers Web3 Explorer.",
+    "pageTitle": "Swapr - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://swapr.eth.limo/",
+    "twitter": "https://x.com/Swapr_dapp"
+  },
+  "relations": {
+    "alternatives": [
+      "morfi",
+      "uniswap",
+      "pancakeswap"
+    ],
+    "related": [
+      "lighter",
+      "edgex",
+      "aster-dex"
+    ]
+  }
+}

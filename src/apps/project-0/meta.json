@@ -1,0 +1,38 @@
+{
+  "slug": "project-0",
+  "name": "Project 0",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/project-0.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Lending Dapps"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Borrow against your whole Solana DeFi portfolio across Jupiter, Drift and Kamino with Project 0, a self-custodial prime broker.",
+    "description": "Positions on Solana are usually split across apps, each with its own collateral. Project 0 adds an account layer above them. You deposit into a self-custodial account, use apps like Jupiter, Drift and Kamino through it, and borrow against the combined value with shared collateral and liquidations. Trading, staking and portfolio tracking run from the same account. Backers include Multicoin, Pantera and Solana Ventures. It is built on mrgnLendv2, the lending program behind marginfi, and its app now covers strategies, vaults, staking and payments, with e-mode pairs that allow higher loan values for closely related assets.",
+    "meta": "Self-custodial prime brokerage on Solana with cross-app margin over your whole DeFi portfolio. Explore Project 0 on Lancers Web3 Explorer.",
+    "pageTitle": "Project 0 - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.0.xyz/",
+    "twitter": "https://x.com/project0",
+    "docs": "https://docs.0.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "aave",
+      "world-liberty-financial",
+      "morpho"
+    ],
+    "related": [
+      "shade-protocol",
+      "super",
+      "dapp-tool"
+    ]
+  }
+}

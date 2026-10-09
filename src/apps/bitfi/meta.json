@@ -1,0 +1,40 @@
+{
+  "slug": "bitfi",
+  "name": "BitFi",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/bitfi.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "BNB Chain",
+    "Ethereum",
+    "Base"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "BitFi mixes CeFi basis trading with onchain vaults, minting bfBTC and bfUSD that earn yield on BNB Chain, Ethereum and Base.",
+    "description": "BitFi is an asset management platform that takes deposits in BTC or stablecoins and mints bfBTC or bfUSD in return. Those tokens can be staked into its Horizon and Pulsar vaults. Behind the vaults, part of the yield comes from basis trades run with centralized desks. BitFi went through Binance's MVB9 accelerator and pitches itself to both institutions and individual holders. Its CeFi side runs through Ceffu's MirrorX custody, and bfBTC can be staked from the Bitcoin network directly or from EVM chains. The Horizon strategy aims for steadier yield, while Pulsar takes on more risk for higher returns.",
+    "meta": "Deposit BTC or stablecoins, mint bfBTC or bfUSD, and stake them in vaults backed by basis trades. Explore BitFi on Lancers Web3 Explorer.",
+    "pageTitle": "BitFi - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.bitfi.one/",
+    "twitter": "https://x.com/Bitfi_Org",
+    "docs": "https://docs.bitfi.one/developer/audit-report"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-earn",
+      "sentora",
+      "aera"
+    ],
+    "related": [
+      "clip-finance",
+      "yield-yak",
+      "treehouse-finance"
+    ]
+  }
+}

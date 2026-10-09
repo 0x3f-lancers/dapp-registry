@@ -1,0 +1,39 @@
+{
+  "slug": "r25-protocol",
+  "name": "R25",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/r25.png",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Tokenized bonds RWAs"
+  ],
+  "chains": [
+    "Sui",
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "R25 issues rcUSD, a stablecoin backed by tokenized money market funds, and rcUSDp, its staked yield version, on Sui and Polygon.",
+    "description": "R25 links real-world credit with DeFi yield. Behind rcUSD sits a mix of tokenized money market fund shares and stablecoins. Staking rcUSD gives rcUSDp, a receipt that earns the underlying fund returns plus incentives on the chain where it is held. The contracts are audited by SlowMist and run on Sui and Polygon. Newer vaults let users follow strategies set by curators. R25 Studio lets eligible curators launch their own vaults at scale, and the platform combines real-world credit, treasuries, staking and arbitrage strategies behind one entry point.",
+    "meta": "rcUSD stablecoin backed by tokenized money market funds, with staked rcUSDp yield on Sui and Polygon. Explore R25 on Lancers Web3 Explorer.",
+    "pageTitle": "R25 - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.r25.xyz/",
+    "twitter": "https://x.com/R25Official",
+    "docs": "https://docs.r25.xyz/docs"
+  },
+  "relations": {
+    "alternatives": [
+      "ondo-finance",
+      "ondo",
+      "mantle-index-four-fund"
+    ],
+    "related": [
+      "usual",
+      "credit-cash",
+      "gomining"
+    ]
+  }
+}

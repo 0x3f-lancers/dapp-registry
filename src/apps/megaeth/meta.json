@@ -1,0 +1,38 @@
+{
+  "slug": "megaeth",
+  "name": "MegaETH",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/megaeth.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "MegaETH streams blocks in milliseconds, aiming to be a real-time Ethereum layer 2 with very high throughput.",
+    "description": "MegaETH splits the work of a blockchain node into specialised roles. A single high-performance sequencer executes transactions in memory, while provers and full nodes verify the results. That lets blocks stream out in milliseconds rather than seconds, fast enough for apps that feel like ordinary web services. It stays fully EVM-compatible, uses EigenDA for data availability and settles to Ethereum. Mainnet is live with its own ecosystem tools, including the MOSS wallet, the Rabbithole app hub and a bridge, and MEGA holders can commit tokens to Flux for KPI-based rewards.",
+    "meta": "Real-time Ethereum layer 2 with millisecond latency and full EVM compatibility. Explore MegaETH on Lancers Web3 Explorer.",
+    "pageTitle": "MegaETH - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.megaeth.com/",
+    "twitter": "https://x.com/megaeth",
+    "docs": "https://docs.megaeth.com"
+  },
+  "relations": {
+    "alternatives": [
+      "immutablex",
+      "op-mainnet",
+      "mantle"
+    ],
+    "related": [
+      "ethereum",
+      "solana",
+      "polygon"
+    ]
+  }
+}

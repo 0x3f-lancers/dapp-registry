@@ -1,0 +1,37 @@
+{
+  "slug": "stake-link",
+  "name": "Stake.Link",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/stake-link.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Chainlink node operators run stake.link, where staking LINK gives you stLINK to use across DeFi.",
+    "description": "Chainlink staking has limited slots, and staked LINK cannot move. stake.link solves both problems for holders. Deposits go into Chainlink's official staking pools through a group of node operators, and depositors receive stLINK, which earns rewards and can be used on Curve, Uniswap, Morpho and Beefy. Seven independent firms have audited the contracts, and the protocol now covers POL as well. It works with Chainlink Labs as a delegated staking provider, runs on Ethereum, Arbitrum and Base, and also supports SDL, ESP and POL. Its contracts are monitored by Hypernative and covered by an Immunefi bug bounty.",
+    "meta": "Liquid staking for LINK through Chainlink node operators, with stLINK usable across DeFi. Explore Stake.Link on Lancers Web3 Explorer.",
+    "pageTitle": "Stake.Link - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stake.link/",
+    "twitter": "https://x.com/stakedotlink"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "etherfi",
+      "lido"
+    ],
+    "related": [
+      "lista-dao",
+      "bitfi",
+      "across"
+    ]
+  }
+}

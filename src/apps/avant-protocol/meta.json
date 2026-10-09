@@ -1,0 +1,41 @@
+{
+  "slug": "avant-protocol",
+  "name": "Avant Protocol",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/avant-protocol.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Synthetics"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Linea",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Avant issues avUSD, a synthetic dollar that earns from delta-neutral basis trades, on Ethereum, Arbitrum, Avalanche and Linea.",
+    "description": "Avant Protocol mints avUSD against collateral and hedges it by holding spot assets while shorting matching perpetual futures. The funding and basis spread between the two legs is where the yield comes from, the same approach Ethena popularised. Holders can stake avUSD for yield and also collect Avant Rewards points. The app is live on several EVM networks, so positions do not have to sit on Ethereum mainnet. Its tokens come in tiers: avAssets such as avUSD are backed one to one by an underlying asset like USDC, and staking them returns savAssets that collect the strategy yield.",
+    "meta": "Mint avUSD and earn basis-trade yield from a delta-neutral synthetic dollar across EVM chains. Explore Avant Protocol on Lancers Web3 Explorer.",
+    "pageTitle": "Avant Protocol - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://app.avantprotocol.com/",
+    "twitter": "https://x.com/avantprotocol",
+    "docs": "https://docs.avantprotocol.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "ethena",
+      "synthetix",
+      "frax-finance"
+    ],
+    "related": [
+      "overnight-finance",
+      "neutral-trade",
+      "strata"
+    ]
+  }
+}

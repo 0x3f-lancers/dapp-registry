@@ -1,0 +1,38 @@
+{
+  "slug": "sonic-labs",
+  "name": "Sonic Labs",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/sonic-labs.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Sonic is a high-speed EVM layer 1 from the team behind Fantom, where apps can keep most of the gas fees they generate.",
+    "description": "Sonic is the successor to Fantom, rebuilt with a new virtual machine and database layer for fast throughput and finality in under a second. Its Fee Monetization programme sends a large share of the gas a contract generates back to its developers. The S token pays fees and is used for staking. Sonic Gateway connects the chain to Ethereum, and USSD serves as its native stablecoin. The chain is built for very high throughput with sub-second finality, and US Treasuries fully back the USSD stablecoin. An Innovator Fund and an airdrop programme support builders and users.",
+    "meta": "Fantom team's EVM layer 1 with sub-second finality and gas revenue sharing for developers. Explore Sonic Labs on Lancers Web3 Explorer.",
+    "pageTitle": "Sonic Labs - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.soniclabs.com/",
+    "twitter": "https://x.com/SonicLabs",
+    "docs": "https://docs.soniclabs.com"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "saakuru",
+      "aioz-w3s",
+      "immutablex"
+    ]
+  }
+}

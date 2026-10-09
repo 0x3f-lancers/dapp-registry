@@ -1,0 +1,43 @@
+{
+  "slug": "talisman-wallet",
+  "name": "Talisman Wallet",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/talisman-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Base",
+    "Ethereum",
+    "OP Mainnet",
+    "Polkadot",
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Talisman is an open-source browser wallet that brings Ethereum, Solana, Polkadot and Bittensor into one portfolio.",
+    "description": "Talisman started in the Polkadot world and has grown into a multichain DeFi wallet. One extension holds assets across hundreds of supported networks in the Ethereum, Solana, Polkadot and Bittensor ecosystems. Users can stake TAO and DOT, including Bittensor subnet staking, run cross-chain swaps in one step and sign with a Ledger. The code is open source and has been audited. Its next step is agent intelligence, where AI agents manage staking and DeFi positions inside the wallet, and the team describes Talisman as a wallet for intelligent DeFi.",
+    "meta": "Open-source wallet for Ethereum, Solana, Polkadot and Bittensor with staking and cross-chain swaps. Explore Talisman Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "Talisman Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://talisman.xyz/",
+    "twitter": "https://x.com/wearetalisman",
+    "docs": "https://docs.talisman.xyz/talisman/about/security"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "trezor",
+      "ledger"
+    ]
+  }
+}

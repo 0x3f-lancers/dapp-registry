@@ -1,0 +1,42 @@
+{
+  "slug": "edge",
+  "name": "Edge",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/edge.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Polygon",
+    "Avalanche",
+    "BNB Chain",
+    "Cosmos"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Since 2014, Edge has kept keys encrypted on your phone while letting you buy, swap and stake from a privacy-first wallet.",
+    "description": "Edge has been a self-custody wallet since 2014, before most of today's wallets existed. Keys are encrypted on the device, accounts use a username and password rather than relying only on a seed phrase, and the company does not track users. It holds Bitcoin, Ethereum, BNB Chain, Avalanche, Polygon, Cosmos assets and more. Users can buy and sell with cards or bank transfers, swap through several providers and stake supported tokens. Its stated mission is to make self-custody intuitive, and the team runs Edge-ucation guides and events for newcomers.",
+    "meta": "Privacy-focused self-custody wallet since 2014, with buying, swapping and staking built in. Explore Edge on Lancers Web3 Explorer.",
+    "pageTitle": "Edge - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://edge.app/",
+    "twitter": "https://x.com/EdgeWallet"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "trezor",
+      "ledger"
+    ]
+  }
+}

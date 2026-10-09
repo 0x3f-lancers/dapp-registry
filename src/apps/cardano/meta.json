@@ -1,0 +1,37 @@
+{
+  "slug": "cardano",
+  "name": "Cardano",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/cardano.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Cardano"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Developed through peer-reviewed research, Cardano runs proof-of-stake consensus and Plutus smart contracts on an extended UTXO model.",
+    "description": "Cardano reaches consensus with Ouroboros, a proof-of-stake protocol published and reviewed in academic venues before it went live. Rather than Ethereum's account model, it uses an extended UTXO design, which makes transaction outcomes predictable before submission. Smart contracts run on Plutus. ADA pays fees, is staked by delegating to stake pools, and now carries onchain governance votes. Development is shared between IOG, Emurgo and the Cardano Foundation. The network has been running for nine years, and the foundation's site points users to wallets, staking, lending apps and onchain voting.",
+    "meta": "Research-driven proof-of-stake chain using Ouroboros, extended UTXO and Plutus smart contracts. Explore Cardano on Lancers Web3 Explorer.",
+    "pageTitle": "Cardano - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cardano.org/",
+    "twitter": "https://x.com/Cardano"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "bnb-chain"
+    ],
+    "related": [
+      "oortech",
+      "saakuru",
+      "aioz-w3s"
+    ]
+  }
+}

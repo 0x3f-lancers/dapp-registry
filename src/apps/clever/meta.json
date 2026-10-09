@@ -1,0 +1,38 @@
+{
+  "slug": "clever",
+  "name": "CLever",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/clever.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "CLever from AladdinDAO lets CVX, CRV and FRAX holders borrow their future yield today, with the loan repaid by that same yield.",
+    "description": "CLever turns future farming income into capital now. You lock CVX, CRV or FRAX-based collateral and mint a synthetic claim on its yield, such as clevCVX. That claim can be sold, deposited again for leverage, or farmed elsewhere. Meanwhile the locked collateral keeps earning, and those rewards pay off the debt over time. The protocol was launched by AladdinDAO with no VC round and no team allocation. Loans can reach about 35 percent of the collateral value, and its Furnace module turns the borrowed claims back into the underlying tokens over time.",
+    "meta": "Borrow against the future yield of CVX, CRV or FRAX and let accrued rewards repay the loan. Explore CLever on Lancers Web3 Explorer.",
+    "pageTitle": "CLever - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://clever.aladdin.club/clever/",
+    "twitter": "https://x.com/0xC_Lever",
+    "docs": "https://docs.aladdin.club/"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-earn",
+      "sentora",
+      "yearn"
+    ],
+    "related": [
+      "toros-finance",
+      "uniswap",
+      "across"
+    ]
+  }
+}

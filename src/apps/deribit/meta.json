@@ -1,0 +1,41 @@
+{
+  "slug": "deribit",
+  "name": "Deribit",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/deribit.jpg",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Most of the world's BTC and ETH options trade on Deribit, the largest crypto options exchange.",
+    "description": "Deribit has led crypto options since 2016 and handles the bulk of BTC and ETH options volume. Its users are mostly professionals: market makers, hedge funds and quant desks. They get portfolio margining, block trades, multi-leg combos, multicast market data and colocation in London's LD4 data centre. Futures, perpetuals and spot on BTC, ETH, SOL and other assets round out the venue. Deribit is not available in the US. Traders can use tools such as the Option Wizard and Position Builder, practise on a testnet and take a free options course, while developers connect through JSON-RPC, WebSocket or FIX APIs.",
+    "meta": "The leading crypto options venue, with portfolio margin, block trades and futures for pros. Explore Deribit on Lancers Web3 Explorer.",
+    "pageTitle": "Deribit - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.deribit.com/",
+    "twitter": "https://x.com/DeribitOfficial",
+    "docs": "https://docs.deribit.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "binance",
+      "kraken",
+      "okx"
+    ],
+    "related": [
+      "near-intents",
+      "ledger",
+      "lifi"
+    ]
+  }
+}

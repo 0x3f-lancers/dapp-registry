@@ -1,0 +1,38 @@
+{
+  "slug": "alpaca-markets",
+  "name": "Alpaca",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/alpaca-markets.jpg",
+  "category": "Real World Asset Dapps",
+  "subcategory": [
+    "Tokenized equities RWAs"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Fintechs and wallets plug into Alpaca's FINRA-regulated brokerage API to offer stocks, options and crypto, and to mint tokenized US equities.",
+    "description": "Alpaca gives developers a brokerage behind an API, so a fintech or wallet can add stock, options and crypto trading without becoming a broker itself. Its Instant Tokenization Network extends this onchain. Partners such as Ondo Finance mint and redeem tokenized US equities in kind against shares Alpaca holds in custody. The securities side is run by Alpaca Securities LLC, a FINRA member. Developers can choose between the Broker API, for building full brokerage apps with account opening and funding, and the Trading API, for running their own algorithms. Alpaca has also released an MCP server so AI tools can place trades in plain language.",
+    "meta": "Brokerage APIs for stocks, options and crypto, plus in-kind minting for tokenized US equities. Explore Alpaca on Lancers Web3 Explorer.",
+    "pageTitle": "Alpaca - Real World Asset Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://alpaca.markets/",
+    "twitter": "https://x.com/AlpacaHQ",
+    "docs": "https://docs.alpaca.markets/docs/about-broker-api"
+  },
+  "relations": {
+    "alternatives": [
+      "republic-note",
+      "securitize",
+      "backed-finance"
+    ],
+    "related": [
+      "rialto",
+      "clearpool",
+      "credit-cash"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "rhea-finance",
+  "name": "RHEA Finance",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/rhea-finance.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Base",
+    "Arbitrum",
+    "BNB Chain",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "RHEA Finance merges Ref Finance and Burrow into one chain-abstracted DEX and money market across NEAR, Bitcoin, Ethereum and Solana.",
+    "description": "RHEA was formed when NEAR's first DEX, Ref Finance, merged with the Burrow lending protocol. Users swap through aggregated cross-chain liquidity without managing bridges, and lend or borrow from the same interface. Staking NEAR gives rNEAR, and staking RHEA gives xRHEA, which boosts lending and farming rewards. Dragonfly and Jump Crypto are among its investors, alongside OKX Ventures and Kronos Research. Using NEAR Intents and its own liquidity, it routes swaps across 24 chains and more than 4,000 tokens, and lets users borrow against collateral from any of those chains.",
+    "meta": "Ref Finance and Burrow combined into one cross-chain DEX and lending market built around NEAR. Explore RHEA Finance on Lancers Web3 Explorer.",
+    "pageTitle": "RHEA Finance - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rhea.finance/",
+    "twitter": "https://x.com/rhea_finance"
+  },
+  "relations": {
+    "alternatives": [
+      "morfi",
+      "uniswap",
+      "pump-fun"
+    ],
+    "related": [
+      "tulip",
+      "defi-app",
+      "native"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "tron",
+  "name": "TRON",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/tron.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "A huge share of the world's USDT moves on TRON, where staking TRX keeps transaction fees close to zero.",
+    "description": "TRON has become one of the main networks for stablecoin payments, especially USDT. It uses delegated proof of stake with elected Super Representatives and runs an EVM-compatible virtual machine. Instead of paying fees every time, users can stake TRX to get the bandwidth and energy that transactions use, which makes regular transfers almost free. JustLend, SunSwap and TronScan are core parts of its ecosystem. More than 245 million accounts hold TRX, and the token is listed on over 130 exchanges.",
+    "meta": "Layer 1 carrying a large share of global USDT transfers, with near-free fees for TRX stakers. Explore TRON on Lancers Web3 Explorer.",
+    "pageTitle": "TRON - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://tron.network/",
+    "twitter": "https://x.com/trondao"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "bnb-chain"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "op-mainnet"
+    ]
+  }
+}

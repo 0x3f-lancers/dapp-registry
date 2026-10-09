@@ -1,0 +1,38 @@
+{
+  "slug": "sx-bet",
+  "name": "SX Bet",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/sx-bet.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Web3 Prediction Markets"
+  ],
+  "chains": [
+    "Arbitrum",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "On SX Bet, users set their own odds and bet against each other onchain instead of against a bookmaker.",
+    "description": "On SX Bet there is no house. Bettors either take odds that other users offer or post their own and act as the bookmaker. Markets cover major sports, esports, politics and novelty events. Bets settle on SX Rollup, the platform's own chain built with Arbitrum Orbit. Single bets carry no fee, while winning parlays pay a small one. Developers can build on it through its public API, and the exchange is not available in the United States and some other jurisdictions.",
+    "meta": "Peer-to-peer sports betting exchange where users set odds and bet against each other onchain. Explore SX Bet on Lancers Web3 Explorer.",
+    "pageTitle": "SX Bet - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://sx.bet/",
+    "twitter": "https://x.com/SX_Bet"
+  },
+  "relations": {
+    "alternatives": [
+      "kalshi",
+      "polymarket",
+      "predict-fun"
+    ],
+    "related": [
+      "morfi",
+      "uniswap",
+      "aster-dex"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "iotex",
+  "name": "IoTeX",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/iotex.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "IoTeX gives physical devices an onchain identity and verified data, making it a layer 1 for DePIN and real-world AI.",
+    "description": "IoTeX connects machines to blockchains. Its ioID module gives devices an onchain identity, W3bstream verifies data and computation that happen off-chain, and QuickSilver feeds live real-world context to AI systems. DePIN projects use these pieces to prove that sensor data is genuine and to pay devices for their work. IOTX is used for fees, staking and governance. The ecosystem includes the ioPay wallet, the IoTeXScan explorer, the ioTube bridge and DePINscan, a tracker for DePIN projects across chains.",
+    "meta": "EVM layer 1 giving physical devices onchain identity and verified data for DePIN and AI. Explore IoTeX on Lancers Web3 Explorer.",
+    "pageTitle": "IoTeX - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://iotex.io/",
+    "twitter": "https://x.com/iotex_io",
+    "docs": "https://docs.iotex.io/blockchain/learn-iotex/wallets/supported-wallet-apps"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "blockstream",
+  "name": "Blockstream",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/blockstream.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Sidechains"
+  ],
+  "chains": [
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Blockstream builds core Bitcoin infrastructure, including the Liquid sidechain, the Jade hardware wallet and the Green wallet app.",
+    "description": "Blockstream was founded by early Bitcoin developers and works across the Bitcoin stack. Liquid is its sidechain for fast settlement and issuing assets such as stablecoins and securities. Jade is an open-source hardware wallet, and Blockstream Green is the everyday software wallet. Greenlight offers managed Lightning nodes for apps. Blockstream also broadcasts the Bitcoin chain from satellites, so nodes can stay in sync in places with poor internet. The company was founded in 2014 and also maintains Core Lightning, the Elements sidechain platform, the AMP asset API for Liquid and Simplicity, a language for high-assurance smart contracts.",
+    "meta": "Bitcoin infrastructure company behind the Liquid sidechain, Jade hardware wallet and Green wallet. Explore Blockstream on Lancers Web3 Explorer.",
+    "pageTitle": "Blockstream - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://blockstream.com/",
+    "twitter": "https://x.com/Blockstream"
+  },
+  "relations": {
+    "alternatives": [
+      "polygon",
+      "gnosis-chain",
+      "skale"
+    ],
+    "related": [
+      "immutablex",
+      "ethereum",
+      "solana"
+    ]
+  }
+}

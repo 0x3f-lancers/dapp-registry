@@ -1,0 +1,37 @@
+{
+  "slug": "aurora",
+  "name": "Aurora",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/aurora-v2.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 2 Blockchains"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Running as a smart contract on NEAR, Aurora gives developers a full EVM that inherits NEAR's validators and one-second finality.",
+    "description": "Aurora does not run its own validators. It is deployed as a contract on NEAR Protocol, so it gets NEAR's consensus and roughly one-second finality while offering a standard Ethereum environment for Solidity apps and wallets. Gas is paid in ETH. Assets move between Ethereum, NEAR and Aurora over the Rainbow Bridge, while Aurora Cloud gives projects their own dedicated EVM chain, called a Virtual Chain. New users get 50 free transactions a month through Aurora Pass, its mobile wallet, and projects such as The Graph, Curve, Safe and Pyth have deployed on the network.",
+    "meta": "EVM network running on NEAR, with Rainbow Bridge and dedicated Virtual Chains for teams. Explore Aurora on Lancers Web3 Explorer.",
+    "pageTitle": "Aurora - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://aurora.dev/",
+    "twitter": "https://x.com/auroraisnear"
+  },
+  "relations": {
+    "alternatives": [
+      "immutablex",
+      "op-mainnet",
+      "rootstock"
+    ],
+    "related": [
+      "ethereum",
+      "solana",
+      "polygon"
+    ]
+  }
+}

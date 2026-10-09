@@ -1,0 +1,38 @@
+{
+  "slug": "braavos",
+  "name": "Braavos",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/braavos.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Smart Contract Wallets"
+  ],
+  "chains": [
+    "Starknet",
+    "Bitcoin"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Braavos protects Starknet and Bitcoin funds with phone-based 2FA signing and lets you earn yield on BTC and ETH inside the wallet.",
+    "description": "Braavos uses Starknet's native account abstraction to add security an ordinary wallet cannot offer. Transactions can require a second signature from your phone's secure enclave, using face or fingerprint, so a leaked seed phrase alone is not enough to drain funds. Swaps, bridging and yield all happen in the app, covering assets such as BTC, ETH, STRK, wstETH and the main dollar stablecoins. The same account works on mobile and in all major browsers. Bridging bitcoin into Braavos costs no gas, and more than a million people use the wallet.",
+    "meta": "Starknet and Bitcoin wallet with biometric 2FA signing, swaps, bridging and built-in yield. Explore Braavos on Lancers Web3 Explorer.",
+    "pageTitle": "Braavos - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://braavos.app/",
+    "twitter": "https://x.com/myBraavos"
+  },
+  "relations": {
+    "alternatives": [
+      "coinbase-smart-wallet",
+      "bitget-wallet",
+      "gnosis-safe"
+    ],
+    "related": [
+      "minipay",
+      "brave-wallet",
+      "metamask"
+    ]
+  }
+}

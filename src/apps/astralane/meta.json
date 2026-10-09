@@ -1,0 +1,37 @@
+{
+  "slug": "astralane",
+  "name": "Astralane",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/astralane-io.png",
+  "category": "Infrastructure Tools",
+  "subcategory": [
+    "RPC Node Providers"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Astralane runs low-latency Solana transaction submission and RPC for market makers, trading desks and bots.",
+    "description": "Astralane focuses on getting Solana transactions landed quickly. Its network links validators and full nodes with a large amount of stake behind them, and it routes tips with MEV in mind. Teams can stream parsed transactions over gRPC. Research teams can also use its data pipelines and a hosted indexer that stores years of Solana history, useful both for testing strategies and for live signals. Its product line includes Iris for transaction submission, ShredStream for early block data and a validator business, with a live feed on the homepage showing how many transactions it lands in each slot.",
+    "meta": "Fast Solana transaction landing, gRPC streams and historical data for high-frequency traders. Explore Astralane on Lancers Web3 Explorer.",
+    "pageTitle": "Astralane - Infrastructure Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://astralane.io/",
+    "twitter": "https://x.com/Astralaneio"
+  },
+  "relations": {
+    "alternatives": [
+      "publicnode",
+      "nownodes",
+      "drpc"
+    ],
+    "related": [
+      "helius",
+      "subquery",
+      "solana-tracker"
+    ]
+  }
+}

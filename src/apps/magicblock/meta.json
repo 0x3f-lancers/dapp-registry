@@ -1,0 +1,37 @@
+{
+  "slug": "magicblock",
+  "name": "MagicBlock",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/magicblock.png",
+  "category": "RaaS Tools",
+  "subcategory": [
+    "Rollups-as-a-Service (RaaS)"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "MagicBlock's Ephemeral Rollups give Solana games and apps real-time speed while staying composable with the rest of Solana.",
+    "description": "Some apps, such as fully onchain games, need faster updates than any base layer can provide. MagicBlock lets a Solana program move its state into an Ephemeral Rollup for a session, process updates there at very low latency, and then commit the result back to Solana, where it stays composable with other programs. Developers build with the BOLT framework and a Unity SDK. Beyond gaming, it now targets trading, privacy, DePIN and consumer apps, and runs the Magic Incubator for teams building on its engine.",
+    "meta": "Ephemeral Rollups for Solana that give games and apps real-time speed while staying composable. Explore MagicBlock on Lancers Web3 Explorer.",
+    "pageTitle": "MagicBlock - RaaS Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.magicblock.xyz/",
+    "twitter": "https://x.com/magicblock"
+  },
+  "relations": {
+    "alternatives": [
+      "quicknode-rollups",
+      "conduit",
+      "caldera"
+    ],
+    "related": [
+      "op-stack",
+      "zksync",
+      "hyperlane-xyz"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "rugcheck",
+  "name": "RugCheck",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/rugcheck.png",
+  "category": "Web3 Security Tools",
+  "subcategory": [
+    "Blockchain Security Tools"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "RugCheck scans Solana tokens for rug-pull and scam signals before you buy, giving each one a risk score.",
+    "description": "Paste a token address into RugCheck and it checks the things that usually give away a scam. It looks at whether mint and freeze authority were renounced, how concentrated the holders are, whether liquidity is locked and if insiders are active. The result is a simple risk score with the details behind it. Trading bots and apps can call the same checks through the RugCheck API, and support has extended to Fogo tokens. Projects can apply to have their token verified, and the site includes a token manager, launch tools and integrations with other trading platforms.",
+    "meta": "Risk scores for Solana tokens covering authorities, holder concentration and liquidity locks. Explore RugCheck on Lancers Web3 Explorer.",
+    "pageTitle": "RugCheck - Web3 Security Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rugcheck.xyz/",
+    "twitter": "https://x.com/Rugcheckxyz"
+  },
+  "relations": {
+    "alternatives": [
+      "scsvs",
+      "splunk",
+      "chainalysis"
+    ],
+    "related": [
+      "certik",
+      "Consensys-Diligence",
+      "ethernaut"
+    ]
+  }
+}

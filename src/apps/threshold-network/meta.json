@@ -1,0 +1,39 @@
+{
+  "slug": "threshold-network",
+  "name": "Threshold Network",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/threshold-network-v2.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Threshold's tBTC brings bitcoin into Ethereum DeFi through a decentralised bridge with no single custodian.",
+    "description": "Threshold was formed from the merger of Keep Network and NuCypher. Its main product, tBTC, mints a token redeemable for an equal amount of BTC, but the bitcoin is not held by one company. A rotating group of node operators controls it with threshold cryptography, so no single party can move the funds. tBTC is used for lending, trading and yield across many chains. Threshold also offers institutional rails with onchain proof of reserves. Its newer product, Verifiable Bitcoin Accounts, lets institutions keep custody of their own BTC while proving it onchain, and tBTC can be integrated through an SDK.",
+    "meta": "Mint tBTC, a decentralised Bitcoin bridge secured by threshold cryptography, for use in DeFi. Explore Threshold Network on Lancers Web3 Explorer.",
+    "pageTitle": "Threshold Network - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.threshold.network/",
+    "twitter": "https://x.com/TheTNetwork",
+    "docs": "https://docs.threshold.network/resources/security-audits"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "etherfi",
+      "lido"
+    ],
+    "related": [
+      "lista-dao",
+      "bitfi",
+      "across"
+    ]
+  }
+}

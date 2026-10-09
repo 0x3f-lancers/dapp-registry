@@ -1,0 +1,39 @@
+{
+  "slug": "nym",
+  "name": "Nym",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/nym.png",
+  "category": "Identity Tools",
+  "subcategory": [
+    "Decentralized VPNs"
+  ],
+  "chains": [
+    "Cosmos",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Nym runs NymVPN on a decentralized mixnet that hides not only your IP address but also your traffic patterns.",
+    "description": "Most VPNs hide your IP address but can still see your activity. NymVPN is run by independent operators in dozens of countries. Its fast mode sends traffic through two hops with WireGuard, and its anonymous mode routes it through a five-hop mixnet that adds cover traffic and timing delays, so surveillance tools struggle to link who is talking to whom. Zero-knowledge credentials keep payments separate from usage. The company is led by Harry Halpin, a former MIT research scientist, and its advisors include Chelsea Manning and Ben Laurie. NymVPN offers a seven-day free trial and a discount for paying in NYM.",
+    "meta": "Decentralized VPN with a five-hop mixnet that hides traffic patterns, plus anonymous payments. Explore Nym on Lancers Web3 Explorer.",
+    "pageTitle": "Nym - Identity Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://nym.com/",
+    "twitter": "https://x.com/nym",
+    "docs": "https://nym.com/docs"
+  },
+  "relations": {
+    "alternatives": [
+      "mysterium-network",
+      "orchid",
+      "deeper-network"
+    ],
+    "related": [
+      "stripe-identity",
+      "verite",
+      "miniorange-web3-authentication-plugin"
+    ]
+  }
+}

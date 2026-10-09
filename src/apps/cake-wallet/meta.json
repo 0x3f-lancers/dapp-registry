@@ -1,0 +1,45 @@
+{
+  "slug": "cake-wallet",
+  "name": "Cake Wallet",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/cake-wallet.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "Polygon",
+    "Arbitrum",
+    "Base",
+    "BNB Chain",
+    "Tron"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Monero, Bitcoin and Lightning sit at the core of Cake Wallet, an open-source, non-custodial app that also covers EVM chains and Solana.",
+    "description": "Cake Wallet started in 2018 as a Monero wallet and is still a favourite among privacy-minded users. It now holds Bitcoin with Lightning support, Litecoin, Ethereum, Solana, Tron and several EVM networks as well. Built-in exchanges let you swap between assets without leaving the app, and hardware wallets can be connected for cold storage. The code is open source, and the wallet runs on mobile and desktop. Vikrant Sharma founded it as the first Monero wallet for iOS, and it was later the first mobile app to support Litecoin's MWEB privacy layer and an early adopter of Bitcoin Silent Payments. Cake Pay lets users spend their balance in everyday shops.",
+    "meta": "Open-source privacy wallet for Monero, Bitcoin and Lightning, plus EVM chains and Solana. Explore Cake Wallet on Lancers Web3 Explorer.",
+    "pageTitle": "Cake Wallet - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://cakewallet.com/",
+    "twitter": "https://x.com/cakewallet",
+    "docs": "https://docs.cakewallet.com/"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "coinbase-smart-wallet",
+      "trezor",
+      "ledger"
+    ]
+  }
+}

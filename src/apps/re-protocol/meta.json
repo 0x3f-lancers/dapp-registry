@@ -1,0 +1,41 @@
+{
+  "slug": "re-protocol",
+  "name": "Re",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/re.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Insurance Dapps"
+  ],
+  "chains": [
+    "Ethereum",
+    "Base",
+    "Avalanche",
+    "Arbitrum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Re puts stablecoin capital into fully collateralized reinsurance treaties, so depositors earn from insurance premiums instead of crypto markets.",
+    "description": "Reinsurance is a large market that has mostly been closed to outside capital. Re opens it up through tokens. Depositors mint reUSD or reUSDe, and the protocol uses the pooled stablecoins to collateralize treaties written with licensed reinsurers. Profits come from the premiums insurers pay plus yield earned onchain, so they have little link to crypto market swings. The protocol is stewarded by the Resilience Foundation and runs on Ethereum, Base, Avalanche and Arbitrum. Its documentation sets out the capital stack and loss waterfall, stress tests and a risk register, and the protocol has an RE token, a points programme and an MCP server for AI tools.",
+    "meta": "Earn reinsurance premiums onchain through reUSD, backed by treaties with licensed reinsurers. Explore Re on Lancers Web3 Explorer.",
+    "pageTitle": "Re - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://re.xyz/",
+    "twitter": "https://x.com/re",
+    "docs": "https://docs.re.xyz"
+  },
+  "relations": {
+    "alternatives": [
+      "nexus-mutual",
+      "defiprotection",
+      "dsla"
+    ],
+    "related": [
+      "onre",
+      "credit-cash",
+      "aevo"
+    ]
+  }
+}

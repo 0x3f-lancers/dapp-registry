@@ -1,0 +1,40 @@
+{
+  "slug": "coinex",
+  "name": "CoinEx",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/coinex.png",
+  "category": "Trading Tools",
+  "subcategory": [
+    "Crypto Exchanges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "CoinEx is a global exchange with spot, margin, perpetual futures and leveraged ETFs on hundreds of assets.",
+    "description": "CoinEx offers a wide set of markets in one account. Spot trading covers majors like BTC, ETH and SOL and a long list of smaller altcoins. Perpetual futures, margin trading and leveraged ETF tokens are available for traders who want more exposure. The web and mobile apps are translated into many languages, and CoinEx also runs its own self-custody wallet as a separate product.",
+    "meta": "Global exchange for spot, margin, perpetuals and leveraged ETFs across hundreds of tokens. Explore CoinEx on Lancers Web3 Explorer.",
+    "pageTitle": "CoinEx - Trading Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.coinex.com/",
+    "twitter": "https://x.com/coinexcom"
+  },
+  "relations": {
+    "alternatives": [
+      "binance",
+      "kraken",
+      "okx"
+    ],
+    "related": [
+      "near-intents",
+      "ledger",
+      "lifi"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "resupply",
+  "name": "Resupply",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/resupply.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized CDPs"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Resupply lets you borrow the reUSD stablecoin against crvUSD or frxUSD that is already earning in Curve Lend or Fraxlend.",
+    "description": "Resupply is a subDAO of Convex and Yearn. Its idea is that a stablecoin sitting in a lending market can back another loan while it keeps earning. You deposit crvUSD into Curve Lend or frxUSD into Fraxlend through Resupply, keep that lending yield, and mint reUSD against the position to use elsewhere. If a position goes bad, an insurance pool steps in to liquidate it and cover any loss. Stakers of the RSUP token receive protocol revenue, a savings version of reUSD earns yield, and the protocol now also supports Curve Lend v2 markets.",
+    "meta": "Mint reUSD against crvUSD or frxUSD positions that keep earning in Curve Lend or Fraxlend. Explore Resupply on Lancers Web3 Explorer.",
+    "pageTitle": "Resupply - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://resupply.finance/",
+    "twitter": "https://x.com/ResupplyFi",
+    "docs": "https://docs.resupply.finance"
+  },
+  "relations": {
+    "alternatives": [
+      "makerdao-sky",
+      "cap-money",
+      "saturn-credit"
+    ],
+    "related": [
+      "super",
+      "across",
+      "silo-finance"
+    ]
+  }
+}

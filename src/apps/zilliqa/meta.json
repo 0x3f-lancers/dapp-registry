@@ -1,0 +1,37 @@
+{
+  "slug": "zilliqa",
+  "name": "Zilliqa",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/zilliqa.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Zilliqa runs both EVM and Scilla contracts on its layer 1 and is building a pre-settlement compliance check for any chain.",
+    "description": "Sharding was Zilliqa's calling card at launch, years before most chains tried it. With Zilliqa 2.0 it moved to proof of stake, supports both EVM and its own Scilla language, and lets teams launch application-specific chains with custom settings. ZIL is staked through Zillion. The project's newer focus is mediation before settlement, a check that confirms two parties are allowed to transact before a payment goes through on any chain. The mediation layer charges a fee per request, so its revenue grows with institutional volume, and the project has published a roadmap through 2027.",
+    "meta": "Layer 1 with EVM and Scilla contracts, building a pre-settlement compliance check for any chain. Explore Zilliqa on Lancers Web3 Explorer.",
+    "pageTitle": "Zilliqa - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.zilliqa.com/",
+    "twitter": "https://x.com/zilliqa"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

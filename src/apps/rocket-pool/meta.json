@@ -1,0 +1,39 @@
+{
+  "slug": "rocket-pool",
+  "name": "Rocket Pool",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675430/dapp-store/dapp-logos/Rocket%20Pool.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "Polygon"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Stake any amount of ETH for rETH with Rocket Pool, or run a decentralised node with less than 32 ETH.",
+    "description": "Rocket Pool has been building since 2016, with staking spread across a large set of independent node operators. Stakers deposit any amount and receive rETH, which grows in value as rewards build up and can be traded or used in DeFi at any time. Node operators run validators with less ETH than solo staking needs, matched with pooled deposits, and earn ETH commission plus RPL rewards. The protocol is governed by its DAO. David Rugendyke founded the protocol, rETH can be minted from just 0.01 ETH, and a RockSolid rETH vault offers one-click access to curated DeFi strategies.",
+    "meta": "Stake any amount of ETH for rETH, or run a decentralised node with less than 32 ETH. Explore Rocket Pool on Lancers Web3 Explorer.",
+    "pageTitle": "Rocket Pool - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://rocketpool.net/",
+    "twitter": "https://x.com/Rocket_Pool"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "lido",
+      "etherfi"
+    ],
+    "related": [
+      "lista-dao",
+      "bitfi",
+      "across"
+    ]
+  }
+}

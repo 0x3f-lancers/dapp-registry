@@ -1,0 +1,38 @@
+{
+  "slug": "stellar",
+  "name": "Stellar",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/stellar.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Built for stablecoins, cross-border transfers and regulated assets, Stellar has processed payments since 2014.",
+    "description": "Stellar settles transactions in a few seconds for a fraction of a cent, which suits remittances and payouts. Regulated anchors issue assets such as USDC and connect the network to local bank systems. Soroban adds smart contracts, and Soroswap is among the DEXs built on it. NGOs and fintechs use the Stellar Disbursement Platform to send bulk payments to people in more than a hundred countries. The network has run since 2014 with very high uptime and works with partners such as Franklin Templeton on tokenized funds. Its developer docs now include agentic payments through x402.",
+    "meta": "Payments-focused layer 1 for stablecoins, remittances and bulk payouts, running since 2014. Explore Stellar on Lancers Web3 Explorer.",
+    "pageTitle": "Stellar - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://stellar.org/",
+    "twitter": "https://x.com/StellarOrg",
+    "docs": "https://developers.stellar.org/docs"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "bnb-chain"
+    ],
+    "related": [
+      "swissborg",
+      "ondo",
+      "ondo-finance"
+    ]
+  }
+}

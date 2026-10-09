@@ -1,0 +1,43 @@
+{
+  "slug": "core-wallet",
+  "name": "Core",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/core.png",
+  "category": "Web3 Wallets",
+  "subcategory": [
+    "Software Wallets"
+  ],
+  "chains": [
+    "Avalanche",
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Base",
+    "Polygon",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Core is Ava Labs' official Avalanche wallet, available on mobile and as a browser extension, that also covers Ethereum, major L2s and Solana.",
+    "description": "Core is the wallet Ava Labs builds for Avalanche, and it has grown into a multichain app. The same screens handle holding, sending, swapping and bridging on Avalanche and Solana as well as Ethereum and its main layer 2s. It shows NFTs, includes fiat on-ramps, and links into the wider Avalanche DeFi ecosystem. Core is non-custodial and free, with no hidden fees. AVAX can be staked natively from the app, and USDC can be deposited into lending markets such as Aave and Benqi without leaving the wallet.",
+    "meta": "Ava Labs' official non-custodial wallet for Avalanche, Ethereum, L2s and Solana. Explore Core on Lancers Web3 Explorer.",
+    "pageTitle": "Core - Web3 Wallets - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://core.app/",
+    "twitter": "https://x.com/coreapp"
+  },
+  "relations": {
+    "alternatives": [
+      "minipay",
+      "brave-wallet",
+      "coinbase-wallet"
+    ],
+    "related": [
+      "binance",
+      "holdstation",
+      "native"
+    ]
+  }
+}

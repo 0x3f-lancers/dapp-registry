@@ -1,0 +1,38 @@
+{
+  "slug": "ton",
+  "name": "TON",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/ton-v2.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "TON"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Built into Telegram, TON brings wallets, Mini Apps and USDT payments to the messenger's huge audience on a sharded layer 1.",
+    "description": "The Open Network grew from a design Telegram first published. It uses dynamic sharding to handle heavy load, and contracts run on the TON Virtual Machine, written in FunC or Tact. TON's biggest advantage is distribution. Telegram's built-in wallet, Mini Apps and TON Connect put crypto inside chats used by hundreds of millions of people, and USDT on TON is widely used for payments. TON's coin is now called Gram, blocks take about 0.4 seconds, and Telegram gives the network a reach of more than a billion users. Developers build with the Acton toolkit and issue tokens as Jettons.",
+    "meta": "Sharded layer 1 integrated with Telegram, powering in-chat wallets, Mini Apps and USDT payments. Explore TON on Lancers Web3 Explorer.",
+    "pageTitle": "TON - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://ton.org/",
+    "twitter": "https://x.com/ton_blockchain",
+    "docs": "https://docs.ton.org"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "bnb-chain"
+    ],
+    "related": [
+      "oortech",
+      "saakuru",
+      "aioz-w3s"
+    ]
+  }
+}

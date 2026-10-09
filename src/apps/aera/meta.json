@@ -1,0 +1,39 @@
+{
+  "slug": "aera",
+  "name": "Aera",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/aera.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "DeFi Yield Aggregators"
+  ],
+  "chains": [
+    "Base",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Aera is Gauntlet's onchain treasury protocol, letting DAOs hand day-to-day allocation to a guardian while keeping custody of their vault.",
+    "description": "Aera was built by the risk team at Gauntlet for DAOs and protocols that hold large treasuries. The owner deposits assets into a vault, approves a guardian to rebalance between allowlisted DeFi venues, and never gives up custody. Available strategies range from earning on stablecoins and ETH to dampening treasury volatility, managing a protocol's own liquidity and paying out grants. Vaults run on Ethereum and Base, and every move the guardian makes is visible onchain. Vaults run on a guardian model: each guardian acts only within the assets and protocols the owner has allowlisted, and any transaction outside those limits is rejected. The code has been audited by Spearbit and OpenZeppelin.",
+    "meta": "Treasury vaults from the Gauntlet team that rebalance DAO funds across DeFi without giving up custody. Explore Aera on Lancers Web3 Explorer.",
+    "pageTitle": "Aera - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.aera.finance/",
+    "twitter": "https://x.com/aerafinance",
+    "docs": "http://docs.aera.finance"
+  },
+  "relations": {
+    "alternatives": [
+      "starknet-earn",
+      "sentora",
+      "bitfi"
+    ],
+    "related": [
+      "avant-protocol",
+      "yield-protocol",
+      "neutral-trade"
+    ]
+  }
+}

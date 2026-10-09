@@ -1,0 +1,44 @@
+{
+  "slug": "messari",
+  "name": "Messari",
+  "logoUrl": "https://res.cloudinary.com/alchemy-website/image/upload/v1694675428/dapp-store/dapp-logos/Messari.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Analytics Tools"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "OP Mainnet",
+    "Polygon",
+    "Solana",
+    "Starknet",
+    "BNB Chain",
+    "Avalanche"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Professional investors rely on Messari for crypto research, standardised asset data, news and analysis.",
+    "description": "Messari brings research, data and news into one product for the crypto industry. It offers asset profiles with standardised metrics, governance and fundraising trackers, and a team of analysts publishing reports, including its widely read annual theses. Messari Pro adds AI tools for searching and summarising that research, and an API delivers the same data to funds and enterprises. The platform now combines watchlists, a screener, project profiles, monitoring tools and analytics, with research and news in the same place.",
+    "meta": "Crypto research, metrics and news for professional investors, plus an AI assistant and data API. Explore Messari on Lancers Web3 Explorer.",
+    "pageTitle": "Messari - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://messari.io/",
+    "twitter": "https://x.com/MessariCrypto"
+  },
+  "relations": {
+    "alternatives": [
+      "deepsnitch-ai",
+      "dex-screener",
+      "coinglass"
+    ],
+    "related": [
+      "base-bridge",
+      "coinmarketcap-api",
+      "coingecko-api"
+    ]
+  }
+}

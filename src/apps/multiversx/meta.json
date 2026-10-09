@@ -1,0 +1,37 @@
+{
+  "slug": "multiversx",
+  "name": "MultiversX",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/multiversx.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "MultiversX, formerly Elrond, is a sharded proof-of-stake layer 1 with WebAssembly smart contracts and the xPortal super app.",
+    "description": "MultiversX splits its network into shards that process transactions in parallel and adjust as demand changes. Smart contracts compile to WebAssembly and are usually written in Rust. Thousands of nodes secure the network through EGLD staking. Most users interact through xPortal, a wallet and payments app with a card. The Supernova upgrade aims for much faster block times. EGLD has a limited supply and can be staked to secure the network, and accounts can add onchain two-factor authentication. Teams can also launch their own Sovereign Chains on the MultiversX stack.",
+    "meta": "Sharded layer 1, formerly Elrond, with Rust and WebAssembly contracts and the xPortal app. Explore MultiversX on Lancers Web3 Explorer.",
+    "pageTitle": "MultiversX - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://multiversx.com/",
+    "twitter": "https://x.com/MultiversX"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

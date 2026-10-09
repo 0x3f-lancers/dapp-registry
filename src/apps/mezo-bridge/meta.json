@@ -1,0 +1,39 @@
+{
+  "slug": "mezo-bridge",
+  "name": "Mezo Bridge",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/mezo-bridge.jpg",
+  "category": "DeFi Tools",
+  "subcategory": [
+    "Web3 Bridges"
+  ],
+  "chains": [
+    "Bitcoin",
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Mezo Bridge moves BTC into Mezo, a Bitcoin finance network where you can borrow the MUSD stablecoin without selling your bitcoin.",
+    "description": "Thesis, which also created tBTC, Fold and Taho, builds Mezo. The bridge is the canonical way to bring BTC and other assets onto the network. Once there, users borrow MUSD, a dollar stablecoin fully backed by Bitcoin reserves, against their BTC. They can also put assets into Upshift vaults for yield, or spend and save without converting out of Bitcoin. Mezo pitches itself as a Bitcoin finance app for living off bitcoin without selling it, with lines of credit, expert-managed vaults and spending in one place, and a separate offering for institutions.",
+    "meta": "Bridge BTC to Mezo to borrow the Bitcoin-backed MUSD stablecoin and earn yield. Explore Mezo Bridge on Lancers Web3 Explorer.",
+    "pageTitle": "Mezo Bridge - DeFi Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://mezo.org/",
+    "twitter": "https://x.com/MezoNetwork",
+    "docs": "https://mezo.org/docs"
+  },
+  "relations": {
+    "alternatives": [
+      "base-bridge",
+      "relay-link",
+      "across"
+    ],
+    "related": [
+      "bridge-xyz",
+      "axelar",
+      "veda"
+    ]
+  }
+}

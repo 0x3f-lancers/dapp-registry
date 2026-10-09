@@ -1,0 +1,37 @@
+{
+  "slug": "dash",
+  "name": "Dash",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/dash.png",
+  "category": "Blockchains",
+  "subcategory": [
+    "Layer 1 Blockchains (L1s)"
+  ],
+  "chains": [
+    "Multichain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Dash has focused on payments since 2014, with masternodes for instant confirmations and a treasury that funds its own development.",
+    "description": "Dash started as a fork of Bitcoin's code and added a second layer of bonded masternodes. They enable InstantSend payments that confirm in seconds, optional CoinJoin privacy and onchain governance. Around a tenth of each block reward goes to a treasury, and masternode owners vote on which proposals it funds. Dash Platform adds usernames and decentralized data storage for consumer apps. DashPay is its consumer wallet, and the project offers a merchant kit for shops that want to accept Dash for payments that cost less than a cent.",
+    "meta": "Digital cash with instant payments, masternode governance and a self-funding treasury. Explore Dash on Lancers Web3 Explorer.",
+    "pageTitle": "Dash - Blockchains - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.dash.org/",
+    "twitter": "https://x.com/Dashpay"
+  },
+  "relations": {
+    "alternatives": [
+      "ethereum",
+      "solana",
+      "stellar"
+    ],
+    "related": [
+      "immutablex",
+      "polygon",
+      "aurora"
+    ]
+  }
+}

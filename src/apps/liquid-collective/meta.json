@@ -1,0 +1,39 @@
+{
+  "slug": "liquid-collective",
+  "name": "Liquid Collective",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/liquid-collective.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Liquid Staking Platforms"
+  ],
+  "chains": [
+    "Ethereum",
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Coinbase, Kraken, BitGo, Figment and others built Liquid Collective so institutions can liquid stake ETH and SOL as LsETH and LsSOL.",
+    "description": "Liquid Collective was set up by a group of large crypto firms that wanted staking their compliance teams could sign off on. Minting LsETH or LsSOL requires KYC and AML checks, rewards compound automatically, and slashing coverage comes from Nexus Mutual. Stake is spread across a vetted set of node operators. The tokens are accepted on more than 25 platforms, so institutions can stake and keep their positions liquid. Its backers include Coinbase, Figment, Kraken, BitGo, Anchorage and Galaxy, with the Liquid Foundation among the teams governing it. Enterprise integrations use SOC 2 Type 1 compliant APIs, and LsSOL joined LsETH as its second staking token.",
+    "meta": "KYC-gated liquid staking for ETH and SOL, backed by Coinbase, Kraken, BitGo and other major firms. Explore Liquid Collective on Lancers Web3 Explorer.",
+    "pageTitle": "Liquid Collective - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://liquidcollective.io/",
+    "twitter": "https://x.com/liquid_col",
+    "docs": "https://docs.liquidcollective.io/v1/"
+  },
+  "relations": {
+    "alternatives": [
+      "ankr-liquid-staking",
+      "lido",
+      "etherfi"
+    ],
+    "related": [
+      "lista-dao",
+      "bitfi",
+      "across"
+    ]
+  }
+}

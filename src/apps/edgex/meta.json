@@ -1,0 +1,39 @@
+{
+  "slug": "edgex",
+  "name": "edgeX",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/edgex.jpg",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Derivatives"
+  ],
+  "chains": [
+    "Ethereum",
+    "Arbitrum",
+    "BNB Chain"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "edgeX brings CEX-grade matching to a self-custody perpetuals DEX for crypto, stocks, commodities and indices.",
+    "description": "edgeX was built by a team with backgrounds at Goldman Sachs and high-frequency trading firms, and it shows in the matching engine, which handles very high order throughput at low latency. It runs today as a StarkEx validium that settles to Ethereum and is moving to its own EDGE Chain. Traders deposit from Ethereum, Arbitrum or BNB Chain and trade perpetuals on crypto, tokenized stocks, commodities and indices around the clock. It runs as a mobile app on iOS and Android as well as on the web, and adds vaults and an event centre alongside its order books.",
+    "meta": "Order-book perp DEX with fast matching for crypto, stock and commodity perpetuals, settled to Ethereum. Explore edgeX on Lancers Web3 Explorer.",
+    "pageTitle": "edgeX - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://edgex.exchange/",
+    "twitter": "https://x.com/edgeX_exchange"
+  },
+  "relations": {
+    "alternatives": [
+      "aster-dex",
+      "hyperliquid",
+      "apex-protocol"
+    ],
+    "related": [
+      "panoptic",
+      "woofi",
+      "bluefin"
+    ]
+  }
+}

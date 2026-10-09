@@ -1,0 +1,37 @@
+{
+  "slug": "yield-basis",
+  "name": "Yield Basis",
+  "logoUrl": "https://media.alchemy.com/dapp-store/dapp-logos/yield-basis.png",
+  "category": "DeFi Dapps",
+  "subcategory": [
+    "Decentralized Exchanges"
+  ],
+  "chains": [
+    "Ethereum"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "Yield Basis lets you provide BTC liquidity and earn trading fees without the impermanent loss of a normal AMM, using leveraged crvUSD pools.",
+    "description": "Yield Basis comes from Michael Egorov, the founder of Curve. In a normal AMM, a liquidity provider who deposits BTC can end up with less value than simply holding it when the price moves. Yield Basis runs pools leveraged with crvUSD so that an LP position tracks the price of BTC one to one while still collecting trading fees. YB is its governance and revenue-sharing token. Markets currently cover tBTC, cbBTC, WBTC and WETH, and depositors choose between trading-fee yield or YB token rewards. YB can also be locked to vote.",
+    "meta": "Earn trading fees on BTC liquidity without impermanent loss, from Curve's founder. Explore Yield Basis on Lancers Web3 Explorer.",
+    "pageTitle": "Yield Basis - DeFi Dapps - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://yieldbasis.com/",
+    "twitter": "https://x.com/yieldbasis"
+  },
+  "relations": {
+    "alternatives": [
+      "morfi",
+      "bitcoincom",
+      "uniswap"
+    ],
+    "related": [
+      "earnpark",
+      "yield-yak",
+      "polymarket"
+    ]
+  }
+}

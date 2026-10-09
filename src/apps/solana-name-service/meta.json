@@ -1,0 +1,37 @@
+{
+  "slug": "solana-name-service",
+  "name": "Solana Name Service",
+  "logoUrl": "https://media.alchemy.com/dapp-store/app-logos/solana-name-service-v2.png",
+  "category": "Web3 Wallet Tools",
+  "subcategory": [
+    "Name Service Tools"
+  ],
+  "chains": [
+    "Solana"
+  ],
+  "tags": [],
+  "pricing": "",
+  "archived": false,
+  "content": {
+    "short": "SNS is the naming service for Solana, letting you register a .sol domain and use it instead of a long wallet address.",
+    "description": "With SNS, a wallet address can become a name like alice.sol that works across hundreds of integrated apps and wallets. Domains are NFTs, so they can be traded on secondary markets. Owners can attach a profile and avatar, create unlimited subdomains, and host a simple website on IPFS through sol.site. Developers can add .sol lookups through the SNS SDK. It now offers .sns domains that AI agents can manage, turns a domain into a live web2 site through sol.site, and gives Seeker phone owners a free domain.",
+    "meta": "Register .sol domains on Solana to replace wallet addresses, host sites and build an identity. Explore Solana Name Service on Lancers Web3 Explorer.",
+    "pageTitle": "Solana Name Service - Web3 Wallet Tools - Lancers Web3 Explorer"
+  },
+  "links": {
+    "website": "https://www.sns.id/",
+    "twitter": "https://x.com/sns"
+  },
+  "relations": {
+    "alternatives": [
+      "unstoppable-domains",
+      "freename",
+      "ens"
+    ],
+    "related": [
+      "cold-storage-plugin",
+      "multi-owner-plugin",
+      "multisig-plugin"
+    ]
+  }
+}
