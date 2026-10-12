@@ -34,5 +34,23 @@
       "multi-owner-plugin",
       "multisig-plugin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Designing Simpler Lightning Payments",
+      "tldr": "Lightspark on the design choices that make Lightning payments feel as easy as ordinary app payments for everyday users.",
+      "url": "https://www.lightspark.com/news/insights/designing-simpler-lightning-payments",
+      "source": "Lightspark",
+      "publishedAt": "2024-08-24",
+      "tag": "Payments"
+    },
+    {
+      "title": "Coinbase Integrates Bitcoin Lightning Network with Lightspark",
+      "tldr": "Coinbase uses Lightspark to give its users fast, cheap bitcoin transfers over the Lightning Network.",
+      "url": "https://www.lightspark.com/news/lightspark/coinbase-live",
+      "source": "Lightspark",
+      "publishedAt": "2024-04-30",
+      "tag": "Infrastructure"
+    }
+  ]
 }

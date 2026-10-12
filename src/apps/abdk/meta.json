@@ -33,5 +33,21 @@
       "splunk",
       "chainalysis"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "ABDK Audits Panoptic DeFi Protocol",
+      "tldr": "Panoptic explains why it chose ABDK to audit its options protocol and what the review covered.",
+      "url": "https://panoptic.xyz/blog/abdk-audits-panoptic-defi-protocol",
+      "source": "Panoptic Blog",
+      "tag": "Security"
+    },
+    {
+      "title": "ABDK Conducts Successful Second Security Audit for zkLink",
+      "tldr": "zkLink shares results of ABDK's second audit of its contracts and ZK-rollup circuits.",
+      "url": "https://blog.zk.link/abdk-conducts-successful-second-security-audit-for-zklink-8174ebf94239",
+      "source": "zkLink Blog",
+      "tag": "Security"
+    }
+  ]
 }

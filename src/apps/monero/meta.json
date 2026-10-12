@@ -33,5 +33,30 @@
       "saakuru",
       "aioz-w3s"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "What Is Monero (XMR)?",
+      "tldr": "Kraken's explainer on Monero's ring signatures, stealth addresses and hidden amounts.",
+      "url": "https://www.kraken.com/learn/what-is-monero-xmr",
+      "source": "Kraken Learn",
+      "tag": "Explainer"
+    },
+    {
+      "title": "Monero: The Privacy Coin Explained",
+      "tldr": "CoinDesk on how Monero keeps senders, receivers and amounts private by default.",
+      "url": "https://www.coindesk.com/layer2/2022/01/25/monero-the-privacy-coin-explained",
+      "source": "CoinDesk",
+      "publishedAt": "2022-01-25",
+      "tag": "Security"
+    },
+    {
+      "title": "Monero Releases Privacy Boost Against Sneaky Network Nodes",
+      "tldr": "The Fluorine Fermi release changes peer selection to make it harder for spy nodes to watch users.",
+      "url": "https://www.coindesk.com/tech/2025/10/10/monero-releases-privacy-boost-against-sneaky-network-nodes",
+      "source": "CoinDesk",
+      "publishedAt": "2025-10-10",
+      "tag": "Infrastructure"
+    }
+  ]
 }

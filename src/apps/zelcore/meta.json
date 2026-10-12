@@ -43,5 +43,23 @@
       "clave",
       "holdstation"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Consensus Conversations: Future-Focused Crypto Custody, With Tim Tully, CEO of Zelcore",
+      "tldr": "Podcast with Zelcore's CEO on self-custody and where multi-chain wallets are heading.",
+      "url": "https://www.coindesk.com/podcasts/coindesk-reports/consensus-conversations-future-focused-crypto-custody-with-tim-tully-ceo-of-zelcore",
+      "source": "CoinDesk",
+      "publishedAt": "2023-05-02",
+      "tag": "Security"
+    },
+    {
+      "title": "ZelCore Wallet Adopts VeriBlock's Proof-of-Proof Mining",
+      "tldr": "ZelCore becomes the first commercial wallet to integrate VeriBlock's Proof-of-Proof, paying users for sending BTC.",
+      "url": "https://finance.yahoo.com/news/send-bitcoin-paid-zelcore-wallet-140700158.html",
+      "source": "Yahoo Finance",
+      "publishedAt": "2020-12-08",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -35,5 +35,22 @@
       "yield-protocol",
       "neutral-trade"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Jump Crypto and Bain Capital Crypto Bet $8 Million on Gauntlet Founder's New Startup, Aera",
+      "tldr": "Background on Aera's founding by Gauntlet's Tarun Chitra and the $8M round that funded its onchain treasury vaults.",
+      "url": "https://finance.yahoo.com/news/jump-crypto-bain-capital-crypto-110000451.html",
+      "source": "Yahoo Finance",
+      "publishedAt": "2023-10-26",
+      "tag": "Finance"
+    },
+    {
+      "title": "What Features Do Earn Vaults Need? A Technical Deep Dive for Aera",
+      "tldr": "Gauntlet walks through the vault design choices behind Aera, from guardians to hooks and permissions.",
+      "url": "https://www.gauntlet.xyz/resources/what-features-do-earn-vaults-need-a-technical-deep-dive-for-aera",
+      "source": "Gauntlet",
+      "tag": "DeFi"
+    }
+  ]
 }

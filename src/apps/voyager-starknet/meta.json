@@ -33,5 +33,21 @@
       "ut-blockchain",
       "evm-toolkit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Voyager Starknet Block Explorer: Alpha Mainnet Release",
+      "tldr": "Nethermind's announcement of Voyager on Starknet mainnet, with what the explorer could track at launch.",
+      "url": "https://community.starknet.io/t/voyager-starknet-block-explorer-alpha-mainnet-release/70",
+      "source": "Starknet Community Forum",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Starknet Explorer: Which Is Better, Starkscan or Voyager?",
+      "tldr": "Compares Starknet's two main block explorers on features, dashboards and developer APIs.",
+      "url": "https://braavos.app/starknet-explorer-which-is-better-starkscan-or-voyager/",
+      "source": "Braavos Blog",
+      "tag": "Infrastructure"
+    }
+  ]
 }

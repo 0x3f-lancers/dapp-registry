@@ -33,5 +33,28 @@
       "ondo-finance",
       "usual"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A New Noble World",
+      "tldr": "Noble announces it will move from its Cosmos SDK chain to a standalone EVM layer 1, and explains why.",
+      "url": "https://noble.xyz/blog/a-new-noble-world",
+      "source": "Noble Blog",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Confidential Payments and Apps Coming to Noble with Fairblock",
+      "tldr": "Fairblock brings privacy tools to Noble so stablecoin apps can hide payment details while staying onchain.",
+      "url": "https://noble.xyz/blog/confidential-payments-and-applications-coming-to-noble-with-fairblock",
+      "source": "Noble Blog",
+      "tag": "Payments"
+    },
+    {
+      "title": "Noble 2025 Wrapped",
+      "tldr": "Noble's look back at what it shipped through 2025 across stablecoin issuance and its developer platform.",
+      "url": "https://noble.xyz/blog/noble-2025-wrapped",
+      "source": "Noble Blog",
+      "tag": "Payments"
+    }
+  ]
 }

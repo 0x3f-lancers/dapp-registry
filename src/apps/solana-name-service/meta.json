@@ -33,5 +33,21 @@
       "multi-owner-plugin",
       "multisig-plugin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Create a .sol Domain Using Solana Naming Service",
+      "tldr": "QuickNode tutorial on registering a .sol name and resolving it to a wallet address in code.",
+      "url": "https://www.quicknode.com/guides/solana-development/getting-started/how-to-create-a-sol-domain-using-solana-naming-service",
+      "source": "QuickNode",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "What Is Bonfida (FIDA)? Bridging DeFi and Name Service on Solana",
+      "tldr": "Background on Bonfida, the team behind SNS, and how .sol names and records work.",
+      "url": "https://onekey.so/blog/ecosystem/what-is-bonfida-fida-bridging-defi-and-name-service-on-solana",
+      "source": "OneKey Blog",
+      "tag": "DeFi"
+    }
+  ]
 }

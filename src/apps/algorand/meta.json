@@ -33,5 +33,31 @@
       "saakuru",
       "aioz-w3s"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Pera Wallet Passes 1 Million Post-Quantum Resilient Transactions",
+      "tldr": "Milestone post on quantum-resistant accounts in Pera Wallet and why Algorand is preparing for that threat early.",
+      "url": "https://algorand.co/blog/pera-wallet-surpasses-1-million-post-quantum-resilient-transactions-on-algorand",
+      "source": "Algorand Blog",
+      "publishedAt": "2026-09-17",
+      "tag": "Security"
+    },
+    {
+      "title": "AI Agents That Pay: Real x402 Applications on Algorand",
+      "tldr": "Real examples of AI agents on Algorand paying for services on their own through the x402 payment standard.",
+      "url": "https://algorand.co/blog/ai-agents-that-pay-real-x402-applications-built-on-algorand",
+      "source": "Algorand Blog",
+      "publishedAt": "2026-09-14",
+      "tag": "Payments"
+    },
+    {
+      "title": "Running ACTUS Debt Contracts on the Algorand Virtual Machine",
+      "tldr": "A technical look at turning standard debt contract terms into code that executes and settles directly on Algorand.",
+      "url": "https://algorand.co/blog/from-standard-to-settlement-running-actus-debt-contracts-on-the-algorand-virtual-machine",
+      "source": "Algorand Blog",
+      "publishedAt": "2026-09-10",
+      "tag": "Infrastructure"
+    }
+  ]
 }

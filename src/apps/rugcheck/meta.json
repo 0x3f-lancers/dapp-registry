@@ -33,5 +33,22 @@
       "Consensys-Diligence",
       "ethernaut"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How RugCheck's RPC Woes Defined FluxRPC",
+      "tldr": "Lessons from running RugCheck at scale on Solana and how they shaped what the team wanted from an RPC provider.",
+      "url": "https://rugcheck.xyz/blog/rugcheck-rpc-woes-fluxrpc",
+      "source": "RugCheck Blog",
+      "publishedAt": "2026-08-27",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How to Use RugCheck: Verify Any Solana Token in 30 Seconds",
+      "tldr": "A walkthrough of RugCheck's risk score and red flags, and what they do and do not tell you about a token.",
+      "url": "https://madeonsol.com/blog/how-to-use-rugcheck",
+      "source": "MadeOnSol",
+      "tag": "Security"
+    }
+  ]
 }

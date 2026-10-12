@@ -33,5 +33,23 @@
       "subquery",
       "solana-tracker"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Faster Than Finality: How Solana Pre-confirmations Actually Work",
+      "tldr": "Astralane's explainer on Solana pre-confirmations and how traders can act on a transaction before it is final.",
+      "url": "https://medium.com/@astralaneio/faster-than-finality-how-solana-pre-confirmations-actually-work-29b75647c66e",
+      "source": "Astralane on Medium",
+      "publishedAt": "2026-07-29",
+      "tag": "Explainer"
+    },
+    {
+      "title": "The Validator Ate Your Lunch: Solana's MEV Threat Moved, Did Your Stack?",
+      "tldr": "Looks at how MEV on Solana shifted toward validators and what trading setups need to change to stay protected.",
+      "url": "https://medium.com/@astralaneio/the-validator-ate-your-lunch-solanas-mev-threat-moved-did-your-stack-f92b31236018",
+      "source": "Astralane on Medium",
+      "publishedAt": "2026-05-15",
+      "tag": "Trading"
+    }
+  ]
 }

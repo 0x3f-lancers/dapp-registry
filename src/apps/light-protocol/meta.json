@@ -33,5 +33,22 @@
       "plonky2",
       "snark"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Light Protocol and Helius Labs Introduce 'ZK Compression' to Further Scale Solana Apps",
+      "tldr": "ZK Compression stores state cheaply on Solana's ledger and proves it with small proofs, cutting account costs sharply.",
+      "url": "https://www.theblock.co/post/301368/light-protocol-and-helius-labs-introduce-zk-compression-to-further-scale-solana-apps",
+      "source": "The Block",
+      "publishedAt": "2024-06-24",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Light Protocol Project Profile",
+      "tldr": "Solana Compass overview of Light Protocol, its ZK Compression programs and how developers use them.",
+      "url": "https://solanacompass.com/projects/light-protocol",
+      "source": "Solana Compass",
+      "tag": "Infrastructure"
+    }
+  ]
 }

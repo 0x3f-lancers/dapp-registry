@@ -33,5 +33,22 @@
       "saakuru",
       "aioz-w3s"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Learn Cardano: A Guided Path from Beginner to Advanced",
+      "tldr": "A five-step learning path from Cardano basics and staying safe to how the chain works and how to take part.",
+      "url": "https://cardano.org/learn/",
+      "source": "Cardano.org",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Cardano's New Standard Lets Issuers Freeze and Seize Tokens",
+      "tldr": "Explains CIP-0113, which lets token issuers add freezes, seizures and transfer rules, and whether it affects ADA.",
+      "url": "https://beincrypto.com/cardano-cip-0113-token-compliance-standard/",
+      "source": "BeInCrypto",
+      "publishedAt": "2026-10-07",
+      "tag": "Payments"
+    }
+  ]
 }

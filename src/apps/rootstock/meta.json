@@ -33,5 +33,31 @@
       "mellow-protocol",
       "ethereum"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Introducing Union Bridge on Testnet",
+      "tldr": "Rootstock's new BitVMX-based bridge goes live on testnet, moving BTC in and out through verification instead of trust.",
+      "url": "https://rootstock.io/blog/introducing-union-bridge-on-testnet-verifiable-bitcoin-bridging-begins/",
+      "source": "Rootstock Blog",
+      "publishedAt": "2026-05-27",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Bitcoin DeFi Security Improves as Rootstock Boosts Hashrate Share",
+      "tldr": "A report finds more bitcoin miners now merge-mine Rootstock, strengthening security for its DeFi apps.",
+      "url": "https://www.coindesk.com/tech/2025/05/10/bitcoin-defi-security-improves-as-rootstock-boosts-hashrate-share",
+      "source": "CoinDesk",
+      "publishedAt": "2025-05-11",
+      "tag": "Security"
+    },
+    {
+      "title": "LayerZero to Connect With Bitcoin Sidechain Rootstock",
+      "tldr": "LayerZero's first link to the Bitcoin ecosystem lets tokens move between Rootstock and other chains.",
+      "url": "https://www.coindesk.com/tech/2025/02/20/blockchain-bridging-protocol-layerzero-to-connect-with-bitcoin-sidechain-rootstock",
+      "source": "CoinDesk",
+      "publishedAt": "2025-02-20",
+      "tag": "Tutorial"
+    }
+  ]
 }

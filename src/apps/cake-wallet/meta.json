@@ -41,5 +41,30 @@
       "trezor",
       "ledger"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lightning Is (Finally) Here",
+      "tldr": "Launch post for Lightning in Cake Wallet and the features that set its version apart from other mobile wallets.",
+      "url": "https://blog.cakewallet.com/lightning-is-finally-here/",
+      "source": "Cake Wallet Blog",
+      "publishedAt": "2026-03-02"
+    },
+    {
+      "title": "Our Lightning Journey",
+      "tldr": "The team explains what went wrong with earlier Lightning attempts and why building on Spark finally worked.",
+      "url": "https://blog.cakewallet.com/our-lightning-journey/",
+      "source": "Cake Wallet Blog",
+      "publishedAt": "2026-03-04",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Zcash: Have Your Cake and Eat It Too",
+      "tldr": "Why Cake added Zcash, and how it tries to make shielded payments simple after years of awkward Zcash wallets.",
+      "url": "https://blog.cakewallet.com/zcash-have-your-cake-and-eat-it-too/",
+      "source": "Cake Wallet Blog",
+      "publishedAt": "2026-01-19",
+      "tag": "Payments"
+    }
+  ]
 }

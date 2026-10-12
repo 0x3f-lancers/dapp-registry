@@ -34,5 +34,21 @@
       "trezor",
       "ledger"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Freighter Wallet Evolves",
+      "tldr": "The Stellar Development Foundation on how Freighter grew from a simple extension into a full Stellar and Soroban wallet.",
+      "url": "https://stellar.org/blog/developers/freighter-wallet-evolves",
+      "source": "Stellar Blog"
+    },
+    {
+      "title": "Stellar Freighter Wallet Gets 63% Faster Load Times",
+      "tldr": "Freighter's extension now opens in about 1.3 seconds by loading balances first and the rest in the background.",
+      "url": "https://blockchain.news/news/stellar-freighter-wallet-63-percent-faster-load-times",
+      "source": "Blockchain.News",
+      "publishedAt": "2026-02-24",
+      "tag": "Infrastructure"
+    }
+  ]
 }

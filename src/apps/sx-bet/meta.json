@@ -34,5 +34,23 @@
       "uniswap",
       "aster-dex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Building on SX Bet: API, WebSocket and MCP Developer Guide",
+      "tldr": "Developer starting point for SX Bet's open betting API, live odds over WebSocket, its MCP server and sample bots.",
+      "url": "https://blog.sx.bet/developers/tutorials/cluster/building-on-sx-bet/",
+      "source": "SX Bet Blog",
+      "publishedAt": "2026-10-09",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Sports Prediction Markets: SX Bet vs Polymarket",
+      "tldr": "Compares SX Bet and Polymarket for sports bets on fees, USDC settlement, liquidity and the markets each offers.",
+      "url": "https://blog.sx.bet/sports-betting/guides/cluster/sx-bet-vs-polymarket-sports-prediction-markets/",
+      "source": "SX Bet Blog",
+      "publishedAt": "2026-10-09",
+      "tag": "Trading"
+    }
+  ]
 }

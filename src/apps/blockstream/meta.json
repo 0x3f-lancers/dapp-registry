@@ -33,5 +33,30 @@
       "ethereum",
       "solana"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Blockstream's Liquid Network Drained of 4,000 Bitcoin by Alleged White Hat Hackers",
+      "tldr": "How about 4,000 BTC left the federation wallet behind L-BTC, halting Liquid, and what attackers and Blockstream said.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/blockstream-liquid-network-drained-4000-051650653.html",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-09-06",
+      "tag": "Security"
+    },
+    {
+      "title": "Tapscript: New Opcodes, Reduced Limits and Covenants",
+      "tldr": "Blockstream engineers explain what Taproot's scripting changes allow, from new opcodes to future covenant designs.",
+      "url": "https://medium.com/blockstream/tapscript-new-opcodes-reduced-limits-and-covenants-c3cc5a6ac919",
+      "source": "Blockstream on Medium",
+      "publishedAt": "2022-09-07"
+    },
+    {
+      "title": "ROAST: Robust Asynchronous Schnorr Threshold Signatures",
+      "tldr": "Introduces ROAST, a protocol that keeps threshold Schnorr signing working even when some signers stall or misbehave.",
+      "url": "https://medium.com/blockstream/roast-robust-asynchronous-schnorr-threshold-signatures-ddda55a07d1b",
+      "source": "Blockstream on Medium",
+      "publishedAt": "2022-05-24",
+      "tag": "Infrastructure"
+    }
+  ]
 }

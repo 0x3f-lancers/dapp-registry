@@ -41,5 +41,21 @@
       "ut-blockchain",
       "evm-toolkit"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Sending User Operations",
+      "tldr": "Official viem guide to sending account abstraction user operations from a smart account through a bundler.",
+      "url": "https://viem.sh/account-abstraction/guides/sending-user-operations",
+      "source": "viem Docs",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Gasless USDC Transfers with Circle Paymaster",
+      "tldr": "Shows how to let users pay transaction fees in USDC instead of ETH using viem and Circle's paymaster.",
+      "url": "https://viem.sh/circle-usdc/guides/paymaster",
+      "source": "viem Docs",
+      "tag": "Payments"
+    }
+  ]
 }

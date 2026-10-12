@@ -34,5 +34,22 @@
       "across",
       "silo-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Hacker Drains $9.6 Million From DeFi Stablecoin Protocol Resupply",
+      "tldr": "An attacker inflated a vault token's price to borrow 10M reUSD against almost no collateral.",
+      "url": "https://decrypt.co/327148/hacker-drained-9-6-million-from-defi-stablecoin-protocol-resupply",
+      "source": "Decrypt",
+      "publishedAt": "2025-06-26",
+      "tag": "Security"
+    },
+    {
+      "title": "ResupplyFi: Rekt",
+      "tldr": "Rekt's breakdown of the Resupply exploit, from the exchange rate bug to how the stolen funds were moved.",
+      "url": "https://rekt.news/resupplyfi-rekt",
+      "source": "Rekt News",
+      "tag": "Security"
+    }
+  ]
 }

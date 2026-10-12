@@ -33,5 +33,21 @@
       "neutral-trade",
       "across"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "fxUSD: The Nuts and the Bolts",
+      "tldr": "f(x)'s own technical walkthrough of how fxUSD is minted, backed and kept on its peg.",
+      "url": "https://medium.com/@protocol_fx_667/fxusd-the-nuts-and-the-bolts-335408276073",
+      "source": "f(x) Protocol on Medium",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Introducing fxSAVE",
+      "tldr": "Explains fxSAVE, a vault token that auto-compounds stability pool yield into one growing balance.",
+      "url": "https://medium.com/@protocol_fx_667/introducing-fxsave-1980231cea6d",
+      "source": "f(x) Protocol on Medium",
+      "tag": "DeFi"
+    }
+  ]
 }

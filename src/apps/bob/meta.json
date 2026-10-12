@@ -35,5 +35,23 @@
       "solana",
       "polygon"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Set Up Your First Pakt",
+      "tldr": "Step-by-step guide to Pakt, BOB's guardrail between an AI trading agent and your funds, through to a first guarded trade.",
+      "url": "https://www.gobob.xyz/en/blog/how-to-set-up-your-first-pakt",
+      "source": "BOB Blog",
+      "publishedAt": "2026-10-09",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "BOB Public Testnet: Uniting Bitcoin and Ethereum",
+      "tldr": "Launch of BOB's public testnet and its hybrid design that combines Bitcoin security with EVM smart contracts.",
+      "url": "https://medium.com/@build_on_bob/bob-public-testnet-uniting-bitcoin-and-ethereum-for-all-4a501016e583",
+      "source": "BOB on Medium",
+      "publishedAt": "2023-12-20",
+      "tag": "Infrastructure"
+    }
+  ]
 }

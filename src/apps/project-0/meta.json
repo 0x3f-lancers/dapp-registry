@@ -34,5 +34,23 @@
       "super",
       "dapp-tool"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Inside Project 0's Security Stack",
+      "tldr": "Breaks down the multisig, oracle, circuit breaker, audit and bug bounty layers Project 0 uses so one failure cannot sink it.",
+      "url": "https://blog.0.xyz/articles/inside-project-0s-security-stack/",
+      "source": "Project 0 Blog",
+      "publishedAt": "2026-10-01",
+      "tag": "Security"
+    },
+    {
+      "title": "Introducing Project 0 Vaults",
+      "tldr": "Launch post for vaults built with Gamma, where machine learning agents chase risk-adjusted yield across Solana venues.",
+      "url": "https://blog.0.xyz/articles/introducing-project-0-vaults/",
+      "source": "Project 0 Blog",
+      "publishedAt": "2026-08-07",
+      "tag": "DeFi"
+    }
+  ]
 }

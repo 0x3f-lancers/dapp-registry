@@ -33,5 +33,31 @@
       "saakuru",
       "aioz-w3s"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Onchain Collateral: No Longer a Question of When",
+      "tldr": "How DTCC, tokenized Treasuries and round-the-clock repo on Canton are moving onchain collateral into production.",
+      "url": "https://www.canton.network/blog/onchain-collateral-repo-tokenization",
+      "source": "Canton Network Blog",
+      "publishedAt": "2026-09-08",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Canton Network Primer: 8 Terms to Get You Started",
+      "tldr": "A short glossary of the eight Canton concepts newcomers meet first, from synchronizers to parties.",
+      "url": "https://www.canton.network/blog/canton-network-primer-8-terms",
+      "source": "Canton Network Blog",
+      "publishedAt": "2026-07-01",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Canton Network Goes Live with Logical Synchronizer Upgrades",
+      "tldr": "Explains the upgrade path that lets Canton change its protocol without stopping the network.",
+      "url": "https://www.canton.network/blog/logical-synchronizer-upgrades",
+      "source": "Canton Network Blog",
+      "publishedAt": "2026-06-29",
+      "tag": "Infrastructure"
+    }
+  ]
 }

@@ -35,5 +35,23 @@
       "bitfi",
       "across"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Meta Pool, a Liquid Staking Protocol, Suffers $27M Exploit",
+      "tldr": "A bug let an attacker mint unlimited mpETH, but thin liquidity meant only a small amount could be cashed out.",
+      "url": "https://www.coindesk.com/business/2025/06/17/liquid-staking-protocol-meta-pool-suffers-usd27m-exploit",
+      "source": "CoinDesk",
+      "publishedAt": "2025-06-17",
+      "tag": "Security"
+    },
+    {
+      "title": "Deutsche Telekom Joins Forces with Meta Pool to Pioneer Decentralized AI on NEAR",
+      "tldr": "Deutsche Telekom MMS runs a node through Meta Pool's operator programme on the NEAR network.",
+      "url": "https://www.insidermonkey.com/blog/press-releases/deutsche-telekom-joins-forces-with-meta-pool-to-pioneer-decentralized-ai-on-near-protocol-1389117/",
+      "source": "Insider Monkey",
+      "publishedAt": "2024-11-12",
+      "tag": "AI & Agents"
+    }
+  ]
 }

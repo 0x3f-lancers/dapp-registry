@@ -33,5 +33,22 @@
       "splunk",
       "chainalysis"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "No DPRK Allowed: How We Vet Our Auditors",
+      "tldr": "Every Pashov researcher passes ID and liveness checks plus sanctions screening, aimed at keeping out North Korean operatives.",
+      "url": "https://www.pashov.com/blog/no-dprk-allowed-how-we-vet-our-auditors",
+      "source": "Pashov Audit Group Blog",
+      "publishedAt": "2026-09-22",
+      "tag": "Security"
+    },
+    {
+      "title": "Interview with Pashov",
+      "tldr": "Krum Pashov on moving from audit contests to running his own security firm, and how he approaches reviews.",
+      "url": "https://dittoeth.com/interviews/6_pashov",
+      "source": "DittoETH",
+      "tag": "Security"
+    }
+  ]
 }

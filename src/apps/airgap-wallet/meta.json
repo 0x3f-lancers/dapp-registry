@@ -37,5 +37,21 @@
       "ledger",
       "trezor"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "AirGap Step-by-Step Guide",
+      "tldr": "Official guide to pairing AirGap Wallet with an offline AirGap Vault and signing transactions by QR code.",
+      "url": "https://support.airgap.it/guides/step-by-step-guide",
+      "source": "AirGap Support",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "How to Stake Tezos (XTZ) via the AirGap Desktop Wallet",
+      "tldr": "Everstake's walkthrough of delegating XTZ to a baker using AirGap with offline signing.",
+      "url": "https://everstake.one/blog/how-to-stake-tezos-xtz-via-the-airgap-desktop-wallet-a-comprehensive-guide",
+      "source": "Everstake Blog",
+      "tag": "Tutorial"
+    }
+  ]
 }

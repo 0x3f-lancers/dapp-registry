@@ -34,5 +34,31 @@
       "aioz-w3s",
       "immutablex"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Why Sign Twice?",
+      "tldr": "How bundled transactions in Sonic V2.2 let users approve a multi-step action with a single signature that runs all at once.",
+      "url": "https://www.soniclabs.com/blog/why-sign-twice/",
+      "source": "Sonic Labs Blog",
+      "publishedAt": "2026-08-27",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Sponsored by Design",
+      "tldr": "Covers the transaction sponsorship options in Sonic V2.2, including gas paid by the network and charges only for successful calls.",
+      "url": "https://www.soniclabs.com/blog/sponsored-by-design/",
+      "source": "Sonic Labs Blog",
+      "publishedAt": "2026-09-03",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "Doubling the Limit",
+      "tldr": "Sonic V2.2 raises the contract size and init code limits, so developers can deploy larger and more complex apps.",
+      "url": "https://www.soniclabs.com/blog/doubling-the-limit/",
+      "source": "Sonic Labs Blog",
+      "publishedAt": "2026-09-04",
+      "tag": "Infrastructure"
+    }
+  ]
 }

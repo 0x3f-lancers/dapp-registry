@@ -34,5 +34,22 @@
       "yield-protocol",
       "neutral-trade"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Bitcoin Staking User Guide for Starknet",
+      "tldr": "Official guide to staking wrapped BTC on Starknet, choosing a validator and earning STRK rewards.",
+      "url": "https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/",
+      "source": "Starknet",
+      "publishedAt": "2025-09-29",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Starknet Introduces Bitcoin Staking and Yield Product in BTCFi Expansion",
+      "tldr": "Starknet adds BTC to staking consensus and backs the launch with 100M STRK in incentives.",
+      "url": "https://www.theblock.co/post/372720/starknet-bitcoin-staking-100m-strk-incentives-re7-btc-yield",
+      "source": "The Block",
+      "tag": "DeFi"
+    }
+  ]
 }

@@ -35,5 +35,31 @@
       "bitfi",
       "across"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Simplified Payment Verification (SPV) for tBTC",
+      "tldr": "Technical explainer on how tBTC checks Bitcoin deposits with SPV proofs instead of trusting an outside party.",
+      "url": "https://www.threshold.network/blog/simplified-payment-verification-spv",
+      "source": "Threshold Blog",
+      "publishedAt": "2026-10-01",
+      "tag": "Payments"
+    },
+    {
+      "title": "Institutional Bitcoin: Verifiable Bitcoin Accounts",
+      "tldr": "Introduces Verifiable Bitcoin Accounts, which let institutions keep custody of BTC while proving it onchain.",
+      "url": "https://www.threshold.network/blog/verifiable-bitcoin-accounts",
+      "source": "Threshold Blog",
+      "publishedAt": "2026-10-01",
+      "tag": "Identity"
+    },
+    {
+      "title": "Who Controls the Bitcoin? A Due Diligence Framework for Institutions",
+      "tldr": "A checklist for institutions weighing wrapped bitcoin products, centred on who can actually move the BTC behind them.",
+      "url": "https://www.threshold.network/blog/who-controls-the-bitcoin-a-due-diligence-framework-for-institutions",
+      "source": "Threshold Blog",
+      "publishedAt": "2026-10-09",
+      "tag": "Infrastructure"
+    }
+  ]
 }

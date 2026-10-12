@@ -34,5 +34,22 @@
       "increment-finance",
       "frax-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Lista DEX Is Upgrading to StableSwapV3",
+      "tldr": "Lista DEX moves its stable-asset pools to concentrated liquidity, and what changes for LPs on BNB Chain and Ethereum.",
+      "url": "https://blog.lista.org/lista-dex-is-upgrading-to-stableswapv3",
+      "source": "Lista DAO Blog",
+      "publishedAt": "2026-09-18",
+      "tag": "Trading"
+    },
+    {
+      "title": "Lista DAO Introduces LP Collateral in Lending",
+      "tldr": "PancakeSwap LP tokens can now back lisUSD loans on Lista, so liquidity providers borrow while still earning fees.",
+      "url": "https://theblock.co/press-releases/371617/lista-dao-introduces-lp-collateral-in-lending",
+      "source": "The Block",
+      "tag": "DeFi"
+    }
+  ]
 }

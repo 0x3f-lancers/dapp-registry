@@ -34,5 +34,23 @@
       "multi-owner-plugin",
       "multisig-plugin"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "CoinPayments Integration Guide: Account Setup",
+      "tldr": "First part of the merchant integration series, covering how to open and configure an account before taking payments.",
+      "url": "https://blog.coinpayments.net/tutorials/integration-guide-account-setup",
+      "source": "CoinPayments Blog",
+      "publishedAt": "2025-04-09",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "CoinPayments and Jetcraft Bring Crypto Payments to Private Aviation",
+      "tldr": "How a private jet broker began accepting crypto through CoinPayments for very large aircraft sales.",
+      "url": "https://blog.coinpayments.net/announcements/coinpayments-and-jetcraft-team-up",
+      "source": "CoinPayments Blog",
+      "publishedAt": "2025-05-16",
+      "tag": "Security"
+    }
+  ]
 }

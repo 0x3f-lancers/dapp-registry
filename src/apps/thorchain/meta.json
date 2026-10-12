@@ -40,5 +40,23 @@
       "move",
       "across"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "THORChain ADR-026: How the Dynamic Fee Model Works",
+      "tldr": "Explains the change from a fixed fee floor to minimum fees set per partner and per pair, updated every day.",
+      "url": "https://blog.thorchain.org/adr026-dynamic-fee-model",
+      "source": "THORChain Blog",
+      "publishedAt": "2026-07-09",
+      "tag": "AI & Agents"
+    },
+    {
+      "title": "THORChain ADR-029: How Affiliate Revenue Share Works",
+      "tldr": "How THORChain can now pay integrating partners out of its own swap revenue instead of adding fees for users.",
+      "url": "https://blog.thorchain.org/adr-029-affiliate-revenue-share",
+      "source": "THORChain Blog",
+      "publishedAt": "2026-07-24",
+      "tag": "Finance"
+    }
+  ]
 }

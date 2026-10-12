@@ -34,5 +34,28 @@
       "index-coop",
       "origami-finance"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "The Exponent Rate CLMM: How Onchain Rates Become Liquid",
+      "tldr": "Deep dive into the concentrated liquidity pools Exponent built so interest rate positions can trade with less slippage.",
+      "url": "https://www.exponent.finance/blog/rate-market-clmm-concentrated-liquidity-growth-rwa",
+      "source": "Exponent Blog",
+      "tag": "Trading"
+    },
+    {
+      "title": "Introducing Exponent Risk-Tranching",
+      "tldr": "Explains how risk tranches let some depositors protect their principal while others take more risk for more yield.",
+      "url": "https://www.exponent.finance/blog/risk-tranching-for-solana",
+      "source": "Exponent Blog",
+      "tag": "Security"
+    },
+    {
+      "title": "Exponent Strategy Vaults: A New Standard for Onchain Asset Management",
+      "tldr": "Introduces Exponent's managed vaults and the rules they follow for running yield strategies on users' behalf.",
+      "url": "https://www.exponent.finance/blog/onchain-vault-standard-asset-management",
+      "source": "Exponent Blog",
+      "tag": "DeFi"
+    }
+  ]
 }

@@ -39,5 +39,23 @@
       "ledger",
       "lifi"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "VALR x Hydromancer: The Infrastructure Behind 200+ Onchain Perps Markets",
+      "tldr": "How VALR opened more than 200 Hyperliquid perps markets, from stocks and gold to FX and crypto, inside its regulated app.",
+      "url": "https://blog.valr.com/blog/valr-x-hydromancer-the-infrastructure-behind-200-onchain-perps-markets",
+      "source": "VALR Blog",
+      "publishedAt": "2026-09-23",
+      "tag": "Trading"
+    },
+    {
+      "title": "What Is Auto-Deleveraging in Crypto Futures Trading?",
+      "tldr": "Explains auto-deleveraging, the mechanism that kicks in when liquidations cascade, using a recent market wipeout as the example.",
+      "url": "https://blog.valr.com/blog/auto-deleveraging-in-crypto-futures-trading",
+      "source": "VALR Blog",
+      "publishedAt": "2026-10-02",
+      "tag": "Trading"
+    }
+  ]
 }

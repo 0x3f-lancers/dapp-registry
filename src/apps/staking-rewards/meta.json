@@ -40,5 +40,21 @@
       "coinmarketcap-api",
       "coingecko-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Proof of Stake Research and Guides",
+      "tldr": "Staking Rewards' journal of research reports and guides on staking networks, providers and risk.",
+      "url": "https://www.stakingrewards.com/journal",
+      "source": "Staking Rewards Journal",
+      "tag": "DeFi"
+    },
+    {
+      "title": "Staking Rewards Reports",
+      "tldr": "In-depth protocol reports and risk ratings that Staking Rewards publishes for allocators and stakers.",
+      "url": "https://reports.stakingrewards.com/",
+      "source": "Staking Rewards",
+      "tag": "DeFi"
+    }
+  ]
 }

@@ -33,5 +33,28 @@
       "zksync",
       "hyperlane-xyz"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "A Guide to Ephemeral Rollups",
+      "tldr": "Explains the short-lived execution environments that give Solana apps real-time speed without a separate chain.",
+      "url": "https://www.magicblock.xyz/blog/a-guide-to-ephemeral-rollups",
+      "source": "MagicBlock Blog",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "6 Innovations That Make MagicBlock the Real-Time Engine for Solana",
+      "tldr": "Breaks down the technical pieces behind MagicBlock's very low latency for games and other live Solana apps.",
+      "url": "https://www.magicblock.xyz/blog/6-core-innovations",
+      "source": "MagicBlock Blog",
+      "tag": "Infrastructure"
+    },
+    {
+      "title": "How to Send Private Agent Payments on Solana",
+      "tldr": "Tutorial for building an AI agent that pays privately with MagicBlock's Private Payments API, with a human approving.",
+      "url": "https://www.magicblock.xyz/blog/agentic-private-payments",
+      "source": "MagicBlock Blog",
+      "tag": "AI & Agents"
+    }
+  ]
 }

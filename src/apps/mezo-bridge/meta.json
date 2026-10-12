@@ -35,5 +35,31 @@
       "axelar",
       "veda"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Build a Bitcoin-Backed Credit Market",
+      "tldr": "How Mezo and Morpho Midnight bring fixed terms, tradable loans and shared liquidity to lending against bitcoin.",
+      "url": "https://mezo.org/blog/how-to-build-a-bitcoin-backed-credit-market/",
+      "source": "Mezo Blog",
+      "publishedAt": "2026-08-10",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "Mezo's H1 2026 in Review",
+      "tldr": "First-half recap covering BTC deployed through Mezo Prime, MUSD growth, the MEZO token launch and plans ahead.",
+      "url": "https://mezo.org/blog/mezo-h1-2026/",
+      "source": "Mezo Blog",
+      "publishedAt": "2026-08-04",
+      "tag": "Research"
+    },
+    {
+      "title": "Incident Report: October 5, 2026",
+      "tldr": "Mezo's account of a flaw in the veBTC contract that let an attacker move positions out of holders' wallets, and the response.",
+      "url": "https://mezo.org/blog/incident-report-october-5-2026/",
+      "source": "Mezo Blog",
+      "publishedAt": "2026-10-07",
+      "tag": "Security"
+    }
+  ]
 }

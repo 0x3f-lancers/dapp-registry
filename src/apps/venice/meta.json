@@ -34,5 +34,23 @@
       "denet",
       "oortech"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "Can AI Be Truly End-to-End Encrypted?",
+      "tldr": "How Venice Pro encrypts prompts on your device and only decrypts them inside a verified secure enclave.",
+      "url": "https://venice.ai/blog/ai-end-to-end-encrypted",
+      "source": "Venice Blog",
+      "publishedAt": "2026-10-10",
+      "tag": "Security"
+    },
+    {
+      "title": "Diem Technical Breakdown",
+      "tldr": "Technical look at DIEM, tokens that each grant a fixed daily amount of Venice API credit for as long as they are held.",
+      "url": "https://venice.ai/blog/7-days-to-diem",
+      "source": "Venice Blog",
+      "publishedAt": "2025-08-14",
+      "tag": "Research"
+    }
+  ]
 }

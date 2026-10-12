@@ -35,5 +35,21 @@
       "coinmarketcap-api",
       "coingecko-api"
     ]
-  }
+  },
+  "resources": [
+    {
+      "title": "How to Build a Telegram Bot That Tracks Token Unlocks Using the DropsTab API",
+      "tldr": "Developer tutorial that pulls unlock schedules from the DropsTab API and posts alerts to Telegram.",
+      "url": "https://dev.to/krisvarley/how-to-build-a-telegram-bot-that-tracks-token-unlocks-using-dropstab-api-21al",
+      "source": "DEV Community",
+      "tag": "Tutorial"
+    },
+    {
+      "title": "DropsTab Project Profile",
+      "tldr": "Solana Compass overview of DropsTab's market data, portfolio tracker and vesting schedule tools.",
+      "url": "https://solanacompass.com/projects/dropstab",
+      "source": "Solana Compass",
+      "tag": "Trading"
+    }
+  ]
 }
